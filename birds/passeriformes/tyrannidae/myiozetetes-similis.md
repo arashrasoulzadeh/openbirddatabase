@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiozetetes-similis/1.jpg
+  page: https://www.inaturalist.org/photos/605656858
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605656858/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiozetetes-similis/1.jpg
+  page: https://www.inaturalist.org/photos/605656858
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605656858/original.jpg
+- file: images/passeriformes/tyrannidae/myiozetetes-similis/2.jpg
+  page: https://www.inaturalist.org/photos/604540966
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604540966/original.jpg
+- file: images/passeriformes/tyrannidae/myiozetetes-similis/3.jpg
+  page: https://www.inaturalist.org/photos/607706153
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607706153/original.jpg
+- file: images/passeriformes/tyrannidae/myiozetetes-similis/4.jpg
+  page: https://www.inaturalist.org/photos/610063257
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610063257/original.jpg
+- file: images/passeriformes/tyrannidae/myiozetetes-similis/5.jpg
+  page: https://www.inaturalist.org/photos/608048877
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608048877/original.jpg
 ---
 
 

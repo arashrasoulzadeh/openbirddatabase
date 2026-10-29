@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/608226633
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608226633/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/608226633
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608226633/original.jpg
+- file: images/passeriformes/corvidae/corvus-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/624182235
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624182235/original.jpg
+- file: images/passeriformes/corvidae/corvus-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/618075333
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618075333/original.jpg
+- file: images/passeriformes/corvidae/corvus-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/616604576
+  author: Glynn Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616604576/original.jpg
+- file: images/passeriformes/corvidae/corvus-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/623228603
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623228603/original.jpg
 ---
 
 

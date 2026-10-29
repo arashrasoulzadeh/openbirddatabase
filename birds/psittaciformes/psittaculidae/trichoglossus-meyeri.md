@@ -131,7 +131,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 18.8
@@ -139,6 +140,44 @@ morphology:
   wing_length_mm: 101.8
   tail_length_mm: 66.2
   body_mass_g: 90.5
+image:
+  file: images/psittaciformes/psittaculidae/trichoglossus-meyeri/1.jpg
+  page: https://www.inaturalist.org/photos/309885873
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309885873/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/trichoglossus-meyeri/1.jpg
+  page: https://www.inaturalist.org/photos/309885873
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309885873/original.jpg
+- file: images/psittaciformes/psittaculidae/trichoglossus-meyeri/2.jpg
+  page: https://www.inaturalist.org/photos/232629355
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232629355/original.jpeg
+- file: images/psittaciformes/psittaculidae/trichoglossus-meyeri/3.jpg
+  page: https://www.inaturalist.org/photos/107838417
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107838417/original.jpg
+- file: images/psittaciformes/psittaculidae/trichoglossus-meyeri/4.jpg
+  page: https://www.inaturalist.org/photos/64408173
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408173/original.jpg
+- file: images/psittaciformes/psittaculidae/trichoglossus-meyeri/5.jpg
+  page: https://www.inaturalist.org/photos/107838470
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107838470/original.jpg
 ---
 
 

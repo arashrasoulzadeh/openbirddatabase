@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/riccordia-maugaeus/1.jpg
+  page: https://www.inaturalist.org/photos/640844932
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640844932/original.jpg
+images:
+- file: images/apodiformes/trochilidae/riccordia-maugaeus/1.jpg
+  page: https://www.inaturalist.org/photos/640844932
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640844932/original.jpg
+- file: images/apodiformes/trochilidae/riccordia-maugaeus/2.jpg
+  page: https://www.inaturalist.org/photos/654161665
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654161665/original.jpg
+- file: images/apodiformes/trochilidae/riccordia-maugaeus/3.jpg
+  page: https://www.inaturalist.org/photos/680255905
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680255905/original.jpg
+- file: images/apodiformes/trochilidae/riccordia-maugaeus/4.jpg
+  page: https://www.inaturalist.org/photos/694735535
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694735535/original.jpg
+- file: images/apodiformes/trochilidae/riccordia-maugaeus/5.jpg
+  page: https://www.inaturalist.org/photos/479725493
+  author: Emmett Serrano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479725493/original.jpeg
 ---
 
 

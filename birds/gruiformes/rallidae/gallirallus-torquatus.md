@@ -128,7 +128,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 43.6
@@ -138,6 +139,44 @@ morphology:
   body_mass_g: 280.0
 reproduction:
   clutch_size_mean: 3.5
+image:
+  file: images/gruiformes/rallidae/gallirallus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/734793603
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734793603/original.jpg
+images:
+- file: images/gruiformes/rallidae/gallirallus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/734793603
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734793603/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/617606112
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617606112/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/641619062
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641619062/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/525998482
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525998482/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/734793643
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734793643/original.jpg
 ---
 
 

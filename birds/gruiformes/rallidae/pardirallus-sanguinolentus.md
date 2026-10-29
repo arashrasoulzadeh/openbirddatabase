@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/pardirallus-sanguinolentus/1.jpg
+  page: https://www.inaturalist.org/photos/608923209
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608923209/original.jpg
+images:
+- file: images/gruiformes/rallidae/pardirallus-sanguinolentus/1.jpg
+  page: https://www.inaturalist.org/photos/608923209
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608923209/original.jpg
+- file: images/gruiformes/rallidae/pardirallus-sanguinolentus/2.jpg
+  page: https://www.inaturalist.org/photos/607961037
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607961037/original.jpg
+- file: images/gruiformes/rallidae/pardirallus-sanguinolentus/3.jpg
+  page: https://www.inaturalist.org/photos/614453758
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614453758/original.jpg
+- file: images/gruiformes/rallidae/pardirallus-sanguinolentus/4.jpg
+  page: https://www.inaturalist.org/photos/613080700
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613080700/original.jpg
+- file: images/gruiformes/rallidae/pardirallus-sanguinolentus/5.jpg
+  page: https://www.inaturalist.org/photos/612858046
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612858046/original.jpg
 ---
 
 

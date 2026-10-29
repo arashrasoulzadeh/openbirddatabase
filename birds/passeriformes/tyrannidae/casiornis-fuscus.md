@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/casiornis-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/614205349
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205349/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/casiornis-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/614205349
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205349/original.jpg
+- file: images/passeriformes/tyrannidae/casiornis-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/699667001
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699667001/original.jpg
+- file: images/passeriformes/tyrannidae/casiornis-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/416898414
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416898414/original.jpeg
+- file: images/passeriformes/tyrannidae/casiornis-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/441691440
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441691440/original.jpeg
+- file: images/passeriformes/tyrannidae/casiornis-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/113391197
+  author: Macelo Costa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113391197/original.jpeg
 ---
 
 

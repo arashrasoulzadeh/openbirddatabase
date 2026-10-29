@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lophornis-delattrei/1.jpg
+  page: https://www.inaturalist.org/photos/608795054
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608795054/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lophornis-delattrei/1.jpg
+  page: https://www.inaturalist.org/photos/608795054
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608795054/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-delattrei/2.jpg
+  page: https://www.inaturalist.org/photos/613666884
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613666884/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-delattrei/3.jpg
+  page: https://www.inaturalist.org/photos/632588686
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632588686/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-delattrei/4.jpg
+  page: https://www.inaturalist.org/photos/662583207
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662583207/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-delattrei/5.jpg
+  page: https://www.inaturalist.org/photos/723654277
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723654277/original.jpg
 ---
 
 

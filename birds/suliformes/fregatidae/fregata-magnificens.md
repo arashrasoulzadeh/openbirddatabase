@@ -198,10 +198,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/suliformes/fregatidae/fregata-magnificens/1.jpg
+  page: https://www.inaturalist.org/photos/605360637
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360637/original.jpg
+images:
+- file: images/suliformes/fregatidae/fregata-magnificens/1.jpg
+  page: https://www.inaturalist.org/photos/605360637
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360637/original.jpg
+- file: images/suliformes/fregatidae/fregata-magnificens/2.jpg
+  page: https://www.inaturalist.org/photos/605430074
+  author: Andrii Khokhlov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605430074/original.jpg
+- file: images/suliformes/fregatidae/fregata-magnificens/3.jpg
+  page: https://www.inaturalist.org/photos/605660069
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605660069/original.jpg
+- file: images/suliformes/fregatidae/fregata-magnificens/4.jpg
+  page: https://www.inaturalist.org/photos/604954037
+  author: Steven Smethurst
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604954037/original.jpg
+- file: images/suliformes/fregatidae/fregata-magnificens/5.jpg
+  page: https://www.inaturalist.org/photos/605255901
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605255901/original.jpg
 ---
 
 

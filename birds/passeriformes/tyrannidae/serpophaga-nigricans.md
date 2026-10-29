@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/serpophaga-nigricans/1.jpg
+  page: https://www.inaturalist.org/photos/618962843
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618962843/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/serpophaga-nigricans/1.jpg
+  page: https://www.inaturalist.org/photos/618962843
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618962843/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-nigricans/2.jpg
+  page: https://www.inaturalist.org/photos/661366539
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661366539/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-nigricans/3.jpg
+  page: https://www.inaturalist.org/photos/709307586
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709307586/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-nigricans/4.jpg
+  page: https://www.inaturalist.org/photos/699671067
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699671067/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-nigricans/5.jpg
+  page: https://www.inaturalist.org/photos/697579257
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697579257/original.jpg
 ---
 
 

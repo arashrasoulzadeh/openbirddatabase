@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/697394332
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697394332/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/697394332
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697394332/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-rubiginosus/2.jpg
+  page: https://www.inaturalist.org/photos/721441351
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721441351/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-rubiginosus/3.jpg
+  page: https://www.inaturalist.org/photos/589122506
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589122506/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-rubiginosus/4.jpg
+  page: https://www.inaturalist.org/photos/448995318
+  author: Tia Offner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448995318/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-rubiginosus/5.jpg
+  page: https://www.inaturalist.org/photos/443161137
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443161137/original.jpeg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/garrulus-lidthi/1.jpg
+  page: https://www.inaturalist.org/photos/513985308
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513985308/original.jpg
+images:
+- file: images/passeriformes/corvidae/garrulus-lidthi/1.jpg
+  page: https://www.inaturalist.org/photos/513985308
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513985308/original.jpg
+- file: images/passeriformes/corvidae/garrulus-lidthi/2.jpg
+  page: https://www.inaturalist.org/photos/552161386
+  author: Jonghyun Park
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552161386/original.jpg
+- file: images/passeriformes/corvidae/garrulus-lidthi/3.jpg
+  page: https://www.inaturalist.org/photos/513986018
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513986018/original.jpg
+- file: images/passeriformes/corvidae/garrulus-lidthi/4.jpg
+  page: https://www.inaturalist.org/photos/513984258
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513984258/original.jpg
+- file: images/passeriformes/corvidae/garrulus-lidthi/5.jpg
+  page: https://www.inaturalist.org/photos/513985103
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513985103/original.jpg
 ---
 
 

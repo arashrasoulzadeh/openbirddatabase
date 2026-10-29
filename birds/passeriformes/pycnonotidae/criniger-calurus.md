@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/criniger-calurus/1.jpg
+  page: https://www.inaturalist.org/photos/594613786
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613786/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/criniger-calurus/1.jpg
+  page: https://www.inaturalist.org/photos/594613786
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613786/original.jpg
+- file: images/passeriformes/pycnonotidae/criniger-calurus/2.jpg
+  page: https://www.inaturalist.org/photos/345046727
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345046727/original.jpeg
+- file: images/passeriformes/pycnonotidae/criniger-calurus/3.jpg
+  page: https://www.inaturalist.org/photos/180600321
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180600321/original.jpg
+- file: images/passeriformes/pycnonotidae/criniger-calurus/4.jpg
+  page: https://www.inaturalist.org/photos/470067787
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470067787/original.jpg
+- file: images/passeriformes/pycnonotidae/criniger-calurus/5.jpg
+  page: https://www.inaturalist.org/photos/594613774
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613774/original.jpg
 ---
 
 

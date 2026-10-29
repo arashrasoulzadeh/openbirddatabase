@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/saltator-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/612469419
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612469419/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/612469419
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612469419/original.jpg
+- file: images/passeriformes/thraupidae/saltator-cinctus/2.jpg
+  page: https://www.inaturalist.org/photos/652808870
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808870/original.jpg
+- file: images/passeriformes/thraupidae/saltator-cinctus/3.jpg
+  page: https://www.inaturalist.org/photos/498365258
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498365258/original.jpg
+- file: images/passeriformes/thraupidae/saltator-cinctus/4.jpg
+  page: https://www.inaturalist.org/photos/489347023
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489347023/original.jpg
+- file: images/passeriformes/thraupidae/saltator-cinctus/5.jpg
+  page: https://www.inaturalist.org/photos/475879616
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475879616/original.jpg
 ---
 
 

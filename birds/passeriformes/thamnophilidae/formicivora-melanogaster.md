@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/formicivora-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/730590243
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730590243/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/formicivora-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/730590243
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730590243/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-melanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/392093374
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392093374/original.jpeg
+- file: images/passeriformes/thamnophilidae/formicivora-melanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/416898086
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416898086/original.jpeg
+- file: images/passeriformes/thamnophilidae/formicivora-melanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/215601829
+  author: Samuel Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/215601829/original.jpeg
+- file: images/passeriformes/thamnophilidae/formicivora-melanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/418259943
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418259943/original.jpg
 ---
 
 

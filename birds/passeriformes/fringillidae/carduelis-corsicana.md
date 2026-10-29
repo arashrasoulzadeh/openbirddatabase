@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/fringillidae/carduelis-corsicana/1.jpg
+  page: https://www.inaturalist.org/photos/666302284
+  author: Aurélien Coste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666302284/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carduelis-corsicana/1.jpg
+  page: https://www.inaturalist.org/photos/666302284
+  author: Aurélien Coste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666302284/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-corsicana/2.jpg
+  page: https://www.inaturalist.org/photos/734341517
+  author: Giorgio Zavattoni
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734341517/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-corsicana/3.jpg
+  page: https://www.inaturalist.org/photos/738366587
+  author: Yves Bas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738366587/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-corsicana/4.jpg
+  page: https://www.inaturalist.org/photos/489199741
+  author: ju_stine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489199741/original.jpeg
+- file: images/passeriformes/fringillidae/carduelis-corsicana/5.jpg
+  page: https://www.inaturalist.org/photos/490695758
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490695758/original.jpeg
 ---
 
 

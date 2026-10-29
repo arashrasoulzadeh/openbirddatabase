@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/arachnothera-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/576836238
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576836238/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/arachnothera-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/576836238
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576836238/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/386320858
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386320858/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/288317567
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288317567/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/322983305
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322983305/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/221114189
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/221114189/original.jpg
 ---
 
 

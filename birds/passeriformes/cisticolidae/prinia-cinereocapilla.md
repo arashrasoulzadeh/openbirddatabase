@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-cinereocapilla/1.jpg
+  page: https://www.inaturalist.org/photos/461850275
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461850275/original.jpeg
+images:
+- file: images/passeriformes/cisticolidae/prinia-cinereocapilla/1.jpg
+  page: https://www.inaturalist.org/photos/461850275
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461850275/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-cinereocapilla/2.jpg
+  page: https://www.inaturalist.org/photos/264776672
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264776672/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-cinereocapilla/3.jpg
+  page: https://www.inaturalist.org/photos/461863456
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461863456/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-cinereocapilla/4.jpg
+  page: https://www.inaturalist.org/photos/461863511
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461863511/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-cinereocapilla/5.jpg
+  page: https://www.inaturalist.org/photos/461863620
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461863620/original.jpeg
 ---
 
 

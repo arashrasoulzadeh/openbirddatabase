@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/cettia-castaneocoronata/1.jpg
+  page: https://www.inaturalist.org/photos/469021453
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469021453/original.jpeg
+images:
+- file: images/passeriformes/cettiidae/cettia-castaneocoronata/1.jpg
+  page: https://www.inaturalist.org/photos/469021453
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469021453/original.jpeg
+- file: images/passeriformes/cettiidae/cettia-castaneocoronata/2.jpg
+  page: https://www.inaturalist.org/photos/256744565
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256744565/original.jpeg
+- file: images/passeriformes/cettiidae/cettia-castaneocoronata/3.jpg
+  page: https://www.inaturalist.org/photos/272879375
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/272879375/original.jpg
+- file: images/passeriformes/cettiidae/cettia-castaneocoronata/4.jpg
+  page: https://www.inaturalist.org/photos/513381938
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513381938/original.jpg
+- file: images/passeriformes/cettiidae/cettia-castaneocoronata/5.jpg
+  page: https://www.inaturalist.org/photos/187862909
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187862909/original.jpg
 ---
 
 

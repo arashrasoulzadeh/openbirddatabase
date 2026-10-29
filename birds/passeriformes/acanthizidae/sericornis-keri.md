@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/sericornis-keri/1.jpg
+  page: https://www.inaturalist.org/photos/678754014
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678754014/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/sericornis-keri/1.jpg
+  page: https://www.inaturalist.org/photos/678754014
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678754014/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-keri/2.jpg
+  page: https://www.inaturalist.org/photos/338661684
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338661684/original.jpeg
+- file: images/passeriformes/acanthizidae/sericornis-keri/3.jpg
+  page: https://www.inaturalist.org/photos/28843590
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/28843590/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-keri/4.jpg
+  page: https://www.inaturalist.org/photos/247029861
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247029861/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-keri/5.jpg
+  page: https://www.inaturalist.org/photos/678754056
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678754056/original.jpg
 ---
 
 

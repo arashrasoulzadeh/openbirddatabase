@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/grammatoptila-striata/1.jpg
+  page: https://www.inaturalist.org/photos/615635613
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635613/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/grammatoptila-striata/1.jpg
+  page: https://www.inaturalist.org/photos/615635613
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635613/original.jpg
+- file: images/passeriformes/leiothrichidae/grammatoptila-striata/2.jpg
+  page: https://www.inaturalist.org/photos/616555129
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616555129/original.jpg
+- file: images/passeriformes/leiothrichidae/grammatoptila-striata/3.jpg
+  page: https://www.inaturalist.org/photos/654606200
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654606200/original.jpg
+- file: images/passeriformes/leiothrichidae/grammatoptila-striata/4.jpg
+  page: https://www.inaturalist.org/photos/710784736
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710784736/original.jpg
+- file: images/passeriformes/leiothrichidae/grammatoptila-striata/5.jpg
+  page: https://www.inaturalist.org/photos/615635626
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635626/original.jpg
 ---
 
 

@@ -141,10 +141,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-lepida/1.jpg
+  page: https://www.inaturalist.org/photos/440567364
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440567364/original.jpeg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-lepida/1.jpg
+  page: https://www.inaturalist.org/photos/440567364
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440567364/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-lepida/2.jpg
+  page: https://www.inaturalist.org/photos/417811675
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417811675/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-lepida/3.jpg
+  page: https://www.inaturalist.org/photos/94369541
+  author: Helio Lourencini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94369541/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-lepida/4.jpg
+  page: https://www.inaturalist.org/photos/440567365
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440567365/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-lepida/5.jpg
+  page: https://www.inaturalist.org/photos/440567362
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440567362/original.jpeg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campethera-punctuligera/1.jpg
+  page: https://www.inaturalist.org/photos/471407931
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471407931/original.jpg
+images:
+- file: images/piciformes/picidae/campethera-punctuligera/1.jpg
+  page: https://www.inaturalist.org/photos/471407931
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471407931/original.jpg
+- file: images/piciformes/picidae/campethera-punctuligera/2.jpg
+  page: https://www.inaturalist.org/photos/508794316
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508794316/original.jpg
+- file: images/piciformes/picidae/campethera-punctuligera/3.jpg
+  page: https://www.inaturalist.org/photos/353558441
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353558441/original.png
+- file: images/piciformes/picidae/campethera-punctuligera/4.jpg
+  page: https://www.inaturalist.org/photos/365431795
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365431795/original.jpg
+- file: images/piciformes/picidae/campethera-punctuligera/5.jpg
+  page: https://www.inaturalist.org/photos/459091481
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459091481/original.jpeg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-aurantiifrons/1.jpg
+  page: https://www.inaturalist.org/photos/697588291
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697588291/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-aurantiifrons/1.jpg
+  page: https://www.inaturalist.org/photos/697588291
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697588291/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-aurantiifrons/2.jpg
+  page: https://www.inaturalist.org/photos/462094697
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462094697/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-aurantiifrons/3.jpg
+  page: https://www.inaturalist.org/photos/618876886
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618876886/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-aurantiifrons/4.jpg
+  page: https://www.inaturalist.org/photos/199331604
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199331604/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-aurantiifrons/5.jpg
+  page: https://www.inaturalist.org/photos/335020476
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335020476/original.jpg
 ---
 
 

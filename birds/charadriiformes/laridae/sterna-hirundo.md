@@ -196,10 +196,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 33
+image:
+  file: images/charadriiformes/laridae/sterna-hirundo/1.jpg
+  page: https://www.inaturalist.org/photos/605523237
+  author: Tom
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605523237/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-hirundo/1.jpg
+  page: https://www.inaturalist.org/photos/605523237
+  author: Tom
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605523237/original.jpg
+- file: images/charadriiformes/laridae/sterna-hirundo/2.jpg
+  page: https://www.inaturalist.org/photos/606083990
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606083990/original.jpg
+- file: images/charadriiformes/laridae/sterna-hirundo/3.jpg
+  page: https://www.inaturalist.org/photos/611345836
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611345836/original.jpg
+- file: images/charadriiformes/laridae/sterna-hirundo/4.jpg
+  page: https://www.inaturalist.org/photos/605875657
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605875657/original.jpg
+- file: images/charadriiformes/laridae/sterna-hirundo/5.jpg
+  page: https://www.inaturalist.org/photos/617149210
+  author: Arne Holgersson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617149210/original.jpg
 ---
 
 

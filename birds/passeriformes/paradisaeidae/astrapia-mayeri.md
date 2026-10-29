@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradisaeidae/astrapia-mayeri/1.jpg
+  page: https://www.inaturalist.org/photos/705741873
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705741873/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/astrapia-mayeri/1.jpg
+  page: https://www.inaturalist.org/photos/705741873
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705741873/original.jpg
+- file: images/passeriformes/paradisaeidae/astrapia-mayeri/2.jpg
+  page: https://www.inaturalist.org/photos/559394542
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559394542/original.jpg
+- file: images/passeriformes/paradisaeidae/astrapia-mayeri/3.jpg
+  page: https://www.inaturalist.org/photos/565778308
+  author: Alexander A. Fomichev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565778308/original.jpg
+- file: images/passeriformes/paradisaeidae/astrapia-mayeri/4.jpg
+  page: https://www.inaturalist.org/photos/572477835
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572477835/original.jpg
+- file: images/passeriformes/paradisaeidae/astrapia-mayeri/5.jpg
+  page: https://www.inaturalist.org/photos/578592239
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578592239/original.jpg
 ---
 
 

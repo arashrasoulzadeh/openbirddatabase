@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/riccordia-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/614284715
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614284715/original.jpg
+images:
+- file: images/apodiformes/trochilidae/riccordia-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/614284715
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614284715/original.jpg
+- file: images/apodiformes/trochilidae/riccordia-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/616799120
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616799120/original.jpg
+- file: images/apodiformes/trochilidae/riccordia-bicolor/3.jpg
+  page: https://www.inaturalist.org/photos/621583087
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621583087/original.jpg
+- file: images/apodiformes/trochilidae/riccordia-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/597543214
+  author: My-Lan Le
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597543214/original.jpg
+- file: images/apodiformes/trochilidae/riccordia-bicolor/5.jpg
+  page: https://www.inaturalist.org/photos/605742323
+  author: François Dunoyer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605742323/original.jpg
 ---
 
 

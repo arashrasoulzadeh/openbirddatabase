@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/otidiformes/otididae/chlamydotis-macqueenii/1.jpg
+  page: https://www.inaturalist.org/photos/571984319
+  author: Полина Полежанкина
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571984319/original.jpg
+images:
+- file: images/otidiformes/otididae/chlamydotis-macqueenii/1.jpg
+  page: https://www.inaturalist.org/photos/571984319
+  author: Полина Полежанкина
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571984319/original.jpg
+- file: images/otidiformes/otididae/chlamydotis-macqueenii/2.jpg
+  page: https://www.inaturalist.org/photos/364391264
+  author: Brook
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364391264/original.jpg
+- file: images/otidiformes/otididae/chlamydotis-macqueenii/3.jpg
+  page: https://www.inaturalist.org/photos/316088941
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316088941/original.jpg
+- file: images/otidiformes/otididae/chlamydotis-macqueenii/4.jpg
+  page: https://www.inaturalist.org/photos/314157919
+  author: Nachman bones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314157919/original.jpeg
+- file: images/otidiformes/otididae/chlamydotis-macqueenii/5.jpg
+  page: https://www.inaturalist.org/photos/120662441
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120662441/original.jpg
 ---
 
 

@@ -136,8 +136,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/myiagra-castaneigularis/1.jpg
+  page: https://www.inaturalist.org/photos/592194405
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592194405/original.jpg
+images:
+- file: images/passeriformes/monarchidae/myiagra-castaneigularis/1.jpg
+  page: https://www.inaturalist.org/photos/592194405
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592194405/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-castaneigularis/2.jpg
+  page: https://www.inaturalist.org/photos/341736092
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341736092/original.jpeg
+- file: images/passeriformes/monarchidae/myiagra-castaneigularis/3.jpg
+  page: https://www.inaturalist.org/photos/341736096
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341736096/original.jpeg
+- file: images/passeriformes/monarchidae/myiagra-castaneigularis/4.jpg
+  page: https://www.inaturalist.org/photos/341735740
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341735740/original.jpeg
+- file: images/passeriformes/monarchidae/myiagra-castaneigularis/5.jpg
+  page: https://www.inaturalist.org/photos/341735743
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341735743/original.jpeg
 ---
 
 

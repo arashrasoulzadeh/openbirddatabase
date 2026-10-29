@@ -195,10 +195,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/charadriiformes/scolopacidae/tringa-totanus/1.jpg
+  page: https://www.inaturalist.org/photos/605170066
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605170066/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/tringa-totanus/1.jpg
+  page: https://www.inaturalist.org/photos/605170066
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605170066/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-totanus/2.jpg
+  page: https://www.inaturalist.org/photos/605751178
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605751178/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-totanus/3.jpg
+  page: https://www.inaturalist.org/photos/605370037
+  author: Hugo Caillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605370037/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-totanus/4.jpg
+  page: https://www.inaturalist.org/photos/605162603
+  author: Anna L
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162603/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-totanus/5.jpg
+  page: https://www.inaturalist.org/photos/605412748
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605412748/original.jpg
 ---
 
 

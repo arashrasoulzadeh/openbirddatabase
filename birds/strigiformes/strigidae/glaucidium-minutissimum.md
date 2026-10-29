@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-minutissimum/1.jpg
+  page: https://www.inaturalist.org/photos/622231226
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622231226/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-minutissimum/1.jpg
+  page: https://www.inaturalist.org/photos/622231226
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622231226/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-minutissimum/2.jpg
+  page: https://www.inaturalist.org/photos/740550738
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740550738/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-minutissimum/3.jpg
+  page: https://www.inaturalist.org/photos/665984888
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665984888/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-minutissimum/4.jpg
+  page: https://www.inaturalist.org/photos/682763665
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682763665/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-minutissimum/5.jpg
+  page: https://www.inaturalist.org/photos/476816565
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476816565/original.jpeg
 ---
 
 

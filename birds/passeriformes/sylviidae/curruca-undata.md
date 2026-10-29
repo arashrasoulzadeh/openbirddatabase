@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-undata/1.jpg
+  page: https://www.inaturalist.org/photos/604505144
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604505144/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-undata/1.jpg
+  page: https://www.inaturalist.org/photos/604505144
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604505144/original.jpg
+- file: images/passeriformes/sylviidae/curruca-undata/2.jpg
+  page: https://www.inaturalist.org/photos/608007058
+  author: Will Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608007058/original.jpg
+- file: images/passeriformes/sylviidae/curruca-undata/3.jpg
+  page: https://www.inaturalist.org/photos/608647768
+  author: David Alarcon Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608647768/original.jpg
+- file: images/passeriformes/sylviidae/curruca-undata/4.jpg
+  page: https://www.inaturalist.org/photos/609947764
+  author: saydelah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609947764/original.jpg
+- file: images/passeriformes/sylviidae/curruca-undata/5.jpg
+  page: https://www.inaturalist.org/photos/611436629
+  author: lalaia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611436629/original.jpg
 ---
 
 

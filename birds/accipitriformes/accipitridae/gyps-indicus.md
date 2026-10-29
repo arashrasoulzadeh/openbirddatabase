@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/gyps-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/629355874
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629355874/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/gyps-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/629355874
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629355874/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-indicus/2.jpg
+  page: https://www.inaturalist.org/photos/626991427
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626991427/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-indicus/3.jpg
+  page: https://www.inaturalist.org/photos/722585080
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722585080/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-indicus/4.jpg
+  page: https://www.inaturalist.org/photos/626991471
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626991471/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-indicus/5.jpg
+  page: https://www.inaturalist.org/photos/626991516
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626991516/original.jpg
 ---
 
 

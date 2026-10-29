@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/batis-dimorpha/1.jpg
+  page: https://www.inaturalist.org/photos/611410407
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611410407/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/batis-dimorpha/1.jpg
+  page: https://www.inaturalist.org/photos/611410407
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611410407/original.jpg
+- file: images/passeriformes/platysteiridae/batis-dimorpha/2.jpg
+  page: https://www.inaturalist.org/photos/612421400
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612421400/original.jpg
+- file: images/passeriformes/platysteiridae/batis-dimorpha/3.jpg
+  page: https://www.inaturalist.org/photos/613962478
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613962478/original.jpg
+- file: images/passeriformes/platysteiridae/batis-dimorpha/4.jpg
+  page: https://www.inaturalist.org/photos/624180160
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624180160/original.jpg
+- file: images/passeriformes/platysteiridae/batis-dimorpha/5.jpg
+  page: https://www.inaturalist.org/photos/616139054
+  author: Kobus Meyer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616139054/original.jpg
 ---
 
 

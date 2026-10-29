@@ -157,8 +157,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/diomedeidae/phoebetria-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/625163127
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625163127/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/phoebetria-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/625163127
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625163127/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebetria-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/471342334
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471342334/original.jpeg
+- file: images/procellariiformes/diomedeidae/phoebetria-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/454631501
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454631501/original.jpeg
+- file: images/procellariiformes/diomedeidae/phoebetria-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/260319630
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260319630/original.jpeg
+- file: images/procellariiformes/diomedeidae/phoebetria-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/624951533
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624951533/original.jpg
 ---
 
 

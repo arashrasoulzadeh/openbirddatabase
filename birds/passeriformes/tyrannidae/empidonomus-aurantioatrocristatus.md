@@ -132,7 +132,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.6
@@ -140,6 +141,44 @@ morphology:
   wing_length_mm: 91.0
   tail_length_mm: 75.8
   body_mass_g: 33.0
+image:
+  file: images/passeriformes/tyrannidae/empidonomus-aurantioatrocristatus/1.jpg
+  page: https://www.inaturalist.org/photos/605494280
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494280/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonomus-aurantioatrocristatus/1.jpg
+  page: https://www.inaturalist.org/photos/605494280
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494280/original.jpg
+- file: images/passeriformes/tyrannidae/empidonomus-aurantioatrocristatus/2.jpg
+  page: https://www.inaturalist.org/photos/607783991
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607783991/original.jpg
+- file: images/passeriformes/tyrannidae/empidonomus-aurantioatrocristatus/3.jpg
+  page: https://www.inaturalist.org/photos/634520570
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634520570/original.jpg
+- file: images/passeriformes/tyrannidae/empidonomus-aurantioatrocristatus/4.jpg
+  page: https://www.inaturalist.org/photos/613078533
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613078533/original.jpg
+- file: images/passeriformes/tyrannidae/empidonomus-aurantioatrocristatus/5.jpg
+  page: https://www.inaturalist.org/photos/605494193
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494193/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/spizocorys-fringillaris/1.jpg
+  page: https://www.inaturalist.org/photos/172571880
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172571880/original.jpeg
+images:
+- file: images/passeriformes/alaudidae/spizocorys-fringillaris/1.jpg
+  page: https://www.inaturalist.org/photos/172571880
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172571880/original.jpeg
+- file: images/passeriformes/alaudidae/spizocorys-fringillaris/2.jpg
+  page: https://www.inaturalist.org/photos/477389285
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477389285/original.jpg
+- file: images/passeriformes/alaudidae/spizocorys-fringillaris/3.jpg
+  page: https://www.inaturalist.org/photos/64720944
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64720944/original.jpg
+- file: images/passeriformes/alaudidae/spizocorys-fringillaris/4.jpg
+  page: https://www.inaturalist.org/photos/172571861
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172571861/original.jpeg
+- file: images/passeriformes/alaudidae/spizocorys-fringillaris/5.jpg
+  page: https://www.inaturalist.org/photos/477389298
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477389298/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coccyzus-euleri/1.jpg
+  page: https://www.inaturalist.org/photos/631561815
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631561815/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coccyzus-euleri/1.jpg
+  page: https://www.inaturalist.org/photos/631561815
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631561815/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-euleri/2.jpg
+  page: https://www.inaturalist.org/photos/590122237
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590122237/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-euleri/3.jpg
+  page: https://www.inaturalist.org/photos/593480188
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593480188/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-euleri/4.jpg
+  page: https://www.inaturalist.org/photos/339447030
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339447030/original.jpeg
+- file: images/cuculiformes/cuculidae/coccyzus-euleri/5.jpg
+  page: https://www.inaturalist.org/photos/303548885
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303548885/original.jpg
 ---
 
 

@@ -179,8 +179,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/coraciidae/eurystomus-glaucurus/1.jpg
+  page: https://www.inaturalist.org/photos/636132499
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636132499/original.jpg
+images:
+- file: images/coraciiformes/coraciidae/eurystomus-glaucurus/1.jpg
+  page: https://www.inaturalist.org/photos/636132499
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636132499/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-glaucurus/2.jpg
+  page: https://www.inaturalist.org/photos/631146993
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631146993/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-glaucurus/3.jpg
+  page: https://www.inaturalist.org/photos/636873825
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873825/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-glaucurus/4.jpg
+  page: https://www.inaturalist.org/photos/639763903
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639763903/original.jpg
 ---
 
 

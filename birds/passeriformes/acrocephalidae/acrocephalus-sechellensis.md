@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-sechellensis/1.jpg
+  page: https://www.inaturalist.org/photos/707967789
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967789/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-sechellensis/1.jpg
+  page: https://www.inaturalist.org/photos/707967789
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967789/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-sechellensis/2.jpg
+  page: https://www.inaturalist.org/photos/488827037
+  author: vyh3
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488827037/original.jpeg
+- file: images/passeriformes/acrocephalidae/acrocephalus-sechellensis/3.jpg
+  page: https://www.inaturalist.org/photos/15696073
+  author: James Hardcastle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/15696073/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-sechellensis/4.jpg
+  page: https://www.inaturalist.org/photos/707967825
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967825/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-sechellensis/5.jpg
+  page: https://www.inaturalist.org/photos/707967876
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967876/original.jpg
 ---
 
 

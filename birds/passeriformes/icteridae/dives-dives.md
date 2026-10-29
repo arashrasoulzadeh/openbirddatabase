@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/dives-dives/1.jpg
+  page: https://www.inaturalist.org/photos/610148841
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610148841/original.jpg
+images:
+- file: images/passeriformes/icteridae/dives-dives/1.jpg
+  page: https://www.inaturalist.org/photos/610148841
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610148841/original.jpg
+- file: images/passeriformes/icteridae/dives-dives/2.jpg
+  page: https://www.inaturalist.org/photos/611116707
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611116707/original.jpg
+- file: images/passeriformes/icteridae/dives-dives/3.jpg
+  page: https://www.inaturalist.org/photos/615460951
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615460951/original.jpg
+- file: images/passeriformes/icteridae/dives-dives/4.jpg
+  page: https://www.inaturalist.org/photos/623067777
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623067777/original.jpg
+- file: images/passeriformes/icteridae/dives-dives/5.jpg
+  page: https://www.inaturalist.org/photos/614256819
+  author: Phoenix M.S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614256819/original.jpg
 ---
 
 

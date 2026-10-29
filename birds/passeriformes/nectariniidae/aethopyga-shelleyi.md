@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-shelleyi/1.jpg
+  page: https://www.inaturalist.org/photos/469442687
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442687/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-shelleyi/1.jpg
+  page: https://www.inaturalist.org/photos/469442687
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442687/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-shelleyi/2.jpg
+  page: https://www.inaturalist.org/photos/388664783
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388664783/original.jpeg
+- file: images/passeriformes/nectariniidae/aethopyga-shelleyi/3.jpg
+  page: https://www.inaturalist.org/photos/276470079
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470079/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-shelleyi/4.jpg
+  page: https://www.inaturalist.org/photos/339788813
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339788813/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-shelleyi/5.jpg
+  page: https://www.inaturalist.org/photos/388664788
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388664788/original.jpeg
 ---
 
 

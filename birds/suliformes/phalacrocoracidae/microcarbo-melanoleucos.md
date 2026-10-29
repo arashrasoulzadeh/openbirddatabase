@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/suliformes/phalacrocoracidae/microcarbo-melanoleucos/1.jpg
+  page: https://www.inaturalist.org/photos/604655463
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604655463/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/microcarbo-melanoleucos/1.jpg
+  page: https://www.inaturalist.org/photos/604655463
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604655463/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-melanoleucos/2.jpg
+  page: https://www.inaturalist.org/photos/604985668
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604985668/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-melanoleucos/3.jpg
+  page: https://www.inaturalist.org/photos/604420888
+  author: Wesley Webb
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604420888/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-melanoleucos/4.jpg
+  page: https://www.inaturalist.org/photos/605536160
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605536160/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-melanoleucos/5.jpg
+  page: https://www.inaturalist.org/photos/605280738
+  author: Graham Surrey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605280738/original.jpg
 ---
 
 

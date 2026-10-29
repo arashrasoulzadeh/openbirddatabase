@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/tricholaema-diademata/1.jpg
+  page: https://www.inaturalist.org/photos/661241850
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661241850/original.jpg
+images:
+- file: images/piciformes/lybiidae/tricholaema-diademata/1.jpg
+  page: https://www.inaturalist.org/photos/661241850
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661241850/original.jpg
+- file: images/piciformes/lybiidae/tricholaema-diademata/2.jpg
+  page: https://www.inaturalist.org/photos/722475019
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722475019/original.jpg
+- file: images/piciformes/lybiidae/tricholaema-diademata/3.jpg
+  page: https://www.inaturalist.org/photos/608315561
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608315561/original.jpg
+- file: images/piciformes/lybiidae/tricholaema-diademata/4.jpg
+  page: https://www.inaturalist.org/photos/396417223
+  author: Summer J. Smentek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396417223/original.jpg
+- file: images/piciformes/lybiidae/tricholaema-diademata/5.jpg
+  page: https://www.inaturalist.org/photos/474280880
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474280880/original.jpeg
 ---
 
 

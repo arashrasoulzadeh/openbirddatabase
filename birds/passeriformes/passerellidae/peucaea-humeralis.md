@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/peucaea-humeralis/1.jpg
+  page: https://www.inaturalist.org/photos/643085873
+  author: Giovana A. Valencia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643085873/original.jpg
+images:
+- file: images/passeriformes/passerellidae/peucaea-humeralis/1.jpg
+  page: https://www.inaturalist.org/photos/643085873
+  author: Giovana A. Valencia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643085873/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-humeralis/2.jpg
+  page: https://www.inaturalist.org/photos/541433254
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541433254/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-humeralis/3.jpg
+  page: https://www.inaturalist.org/photos/638891424
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638891424/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-humeralis/4.jpg
+  page: https://www.inaturalist.org/photos/370302195
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370302195/original.jpeg
+- file: images/passeriformes/passerellidae/peucaea-humeralis/5.jpg
+  page: https://www.inaturalist.org/photos/417909110
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417909110/original.jpeg
 ---
 
 

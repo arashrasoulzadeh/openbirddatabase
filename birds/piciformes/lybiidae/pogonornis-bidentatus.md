@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/pogonornis-bidentatus/1.jpg
+  page: https://www.inaturalist.org/photos/621197760
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621197760/original.jpg
+images:
+- file: images/piciformes/lybiidae/pogonornis-bidentatus/1.jpg
+  page: https://www.inaturalist.org/photos/621197760
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621197760/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-bidentatus/2.jpg
+  page: https://www.inaturalist.org/photos/639638163
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639638163/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-bidentatus/3.jpg
+  page: https://www.inaturalist.org/photos/475632836
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475632836/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-bidentatus/4.jpg
+  page: https://www.inaturalist.org/photos/550573059
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550573059/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-bidentatus/5.jpg
+  page: https://www.inaturalist.org/photos/550328761
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550328761/original.jpg
 ---
 
 

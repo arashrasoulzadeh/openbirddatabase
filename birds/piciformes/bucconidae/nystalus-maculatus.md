@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/nystalus-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/607783774
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607783774/original.jpg
+images:
+- file: images/piciformes/bucconidae/nystalus-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/607783774
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607783774/original.jpg
+- file: images/piciformes/bucconidae/nystalus-maculatus/2.jpg
+  page: https://www.inaturalist.org/photos/610208201
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610208201/original.jpg
+- file: images/piciformes/bucconidae/nystalus-maculatus/3.jpg
+  page: https://www.inaturalist.org/photos/611955301
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611955301/original.jpg
+- file: images/piciformes/bucconidae/nystalus-maculatus/4.jpg
+  page: https://www.inaturalist.org/photos/612169942
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612169942/original.jpg
+- file: images/piciformes/bucconidae/nystalus-maculatus/5.jpg
+  page: https://www.inaturalist.org/photos/621814062
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621814062/original.jpg
 ---
 
 

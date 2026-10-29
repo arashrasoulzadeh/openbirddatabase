@@ -121,8 +121,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-sulaensis/1.jpg
+  page: https://www.inaturalist.org/photos/583509247
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509247/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-sulaensis/1.jpg
+  page: https://www.inaturalist.org/photos/583509247
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509247/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-sulaensis/2.jpg
+  page: https://www.inaturalist.org/photos/583509220
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509220/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-sulaensis/3.jpg
+  page: https://www.inaturalist.org/photos/435253843
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253843/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-sulaensis/4.jpg
+  page: https://www.inaturalist.org/photos/435253817
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253817/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-sulaensis/5.jpg
+  page: https://www.inaturalist.org/photos/435253828
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253828/original.jpeg
 ---
 
 

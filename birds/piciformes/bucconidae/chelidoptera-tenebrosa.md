@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/chelidoptera-tenebrosa/1.jpg
+  page: https://www.inaturalist.org/photos/610012960
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012960/original.jpg
+images:
+- file: images/piciformes/bucconidae/chelidoptera-tenebrosa/1.jpg
+  page: https://www.inaturalist.org/photos/610012960
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012960/original.jpg
+- file: images/piciformes/bucconidae/chelidoptera-tenebrosa/2.jpg
+  page: https://www.inaturalist.org/photos/622390142
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622390142/original.jpg
+- file: images/piciformes/bucconidae/chelidoptera-tenebrosa/3.jpg
+  page: https://www.inaturalist.org/photos/626377678
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626377678/original.jpg
+- file: images/piciformes/bucconidae/chelidoptera-tenebrosa/4.jpg
+  page: https://www.inaturalist.org/photos/718968606
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718968606/original.jpg
+- file: images/piciformes/bucconidae/chelidoptera-tenebrosa/5.jpg
+  page: https://www.inaturalist.org/photos/733961920
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733961920/original.jpg
 ---
 
 

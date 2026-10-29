@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/parayuhina-diademata/1.jpg
+  page: https://www.inaturalist.org/photos/671362332
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671362332/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/parayuhina-diademata/1.jpg
+  page: https://www.inaturalist.org/photos/671362332
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671362332/original.jpg
+- file: images/passeriformes/zosteropidae/parayuhina-diademata/2.jpg
+  page: https://www.inaturalist.org/photos/520845866
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520845866/original.jpg
+- file: images/passeriformes/zosteropidae/parayuhina-diademata/3.jpg
+  page: https://www.inaturalist.org/photos/523440118
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523440118/original.jpg
+- file: images/passeriformes/zosteropidae/parayuhina-diademata/4.jpg
+  page: https://www.inaturalist.org/photos/671363213
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671363213/original.jpg
+- file: images/passeriformes/zosteropidae/parayuhina-diademata/5.jpg
+  page: https://www.inaturalist.org/photos/671363285
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671363285/original.jpg
 ---
 
 

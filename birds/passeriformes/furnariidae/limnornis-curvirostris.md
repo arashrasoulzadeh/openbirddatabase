@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/limnornis-curvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605491937
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491937/original.jpg
+images:
+- file: images/passeriformes/furnariidae/limnornis-curvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605491937
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491937/original.jpg
+- file: images/passeriformes/furnariidae/limnornis-curvirostris/2.jpg
+  page: https://www.inaturalist.org/photos/652822302
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652822302/original.jpg
+- file: images/passeriformes/furnariidae/limnornis-curvirostris/3.jpg
+  page: https://www.inaturalist.org/photos/485921831
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485921831/original.jpeg
+- file: images/passeriformes/furnariidae/limnornis-curvirostris/4.jpg
+  page: https://www.inaturalist.org/photos/285689691
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285689691/original.jpeg
+- file: images/passeriformes/furnariidae/limnornis-curvirostris/5.jpg
+  page: https://www.inaturalist.org/photos/328325186
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328325186/original.jpeg
 ---
 
 

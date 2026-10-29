@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/doryfera-johannae/1.jpg
+  page: https://www.inaturalist.org/photos/347185400
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347185400/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/doryfera-johannae/1.jpg
+  page: https://www.inaturalist.org/photos/347185400
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347185400/original.jpeg
+- file: images/apodiformes/trochilidae/doryfera-johannae/2.jpg
+  page: https://www.inaturalist.org/photos/361089719
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361089719/original.jpg
+- file: images/apodiformes/trochilidae/doryfera-johannae/3.jpg
+  page: https://www.inaturalist.org/photos/394817120
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394817120/original.jpg
+- file: images/apodiformes/trochilidae/doryfera-johannae/4.jpg
+  page: https://www.inaturalist.org/photos/332706525
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332706525/original.jpeg
+- file: images/apodiformes/trochilidae/doryfera-johannae/5.jpg
+  page: https://www.inaturalist.org/photos/172275666
+  author: Hemminki Johan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172275666/original.jpeg
 ---
 
 

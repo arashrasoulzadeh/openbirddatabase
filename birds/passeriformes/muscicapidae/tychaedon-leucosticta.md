@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/tychaedon-leucosticta/1.jpg
+  page: https://www.inaturalist.org/photos/600421134
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600421134/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/tychaedon-leucosticta/1.jpg
+  page: https://www.inaturalist.org/photos/600421134
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600421134/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-leucosticta/2.jpg
+  page: https://www.inaturalist.org/photos/600421140
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600421140/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-leucosticta/3.jpg
+  page: https://www.inaturalist.org/photos/600421149
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600421149/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-leucosticta/4.jpg
+  page: https://www.inaturalist.org/photos/600421156
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600421156/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-leucosticta/5.jpg
+  page: https://www.inaturalist.org/photos/600356942
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600356942/original.jpg
 ---
 
 

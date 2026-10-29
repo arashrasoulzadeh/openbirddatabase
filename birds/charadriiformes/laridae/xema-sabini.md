@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/charadriiformes/laridae/xema-sabini/1.jpg
+  page: https://www.inaturalist.org/photos/651055831
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651055831/original.jpg
+images:
+- file: images/charadriiformes/laridae/xema-sabini/1.jpg
+  page: https://www.inaturalist.org/photos/651055831
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651055831/original.jpg
+- file: images/charadriiformes/laridae/xema-sabini/2.jpg
+  page: https://www.inaturalist.org/photos/634994722
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634994722/original.jpg
+- file: images/charadriiformes/laridae/xema-sabini/3.jpg
+  page: https://www.inaturalist.org/photos/652401634
+  author: Rudyard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652401634/original.jpg
+- file: images/charadriiformes/laridae/xema-sabini/4.jpg
+  page: https://www.inaturalist.org/photos/682570286
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682570286/original.jpg
+- file: images/charadriiformes/laridae/xema-sabini/5.jpg
+  page: https://www.inaturalist.org/photos/694732587
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694732587/original.jpg
 ---
 
 

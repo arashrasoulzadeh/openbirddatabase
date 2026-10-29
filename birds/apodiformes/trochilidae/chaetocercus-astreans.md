@@ -133,8 +133,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chaetocercus-astreans/1.jpg
+  page: https://www.inaturalist.org/photos/697517973
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697517973/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chaetocercus-astreans/1.jpg
+  page: https://www.inaturalist.org/photos/697517973
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697517973/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-astreans/2.jpg
+  page: https://www.inaturalist.org/photos/738257646
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738257646/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-astreans/3.jpg
+  page: https://www.inaturalist.org/photos/468144809
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468144809/original.jpeg
+- file: images/apodiformes/trochilidae/chaetocercus-astreans/4.jpg
+  page: https://www.inaturalist.org/photos/465409001
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465409001/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-astreans/5.jpg
+  page: https://www.inaturalist.org/photos/457445679
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457445679/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/larus-brachyrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/604892482
+  author: Dominique Menard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604892482/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-brachyrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/604892482
+  author: Dominique Menard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604892482/original.jpg
+- file: images/charadriiformes/laridae/larus-brachyrhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/605405832
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605405832/original.jpg
+- file: images/charadriiformes/laridae/larus-brachyrhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/605238065
+  author: Owen McElroy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605238065/original.jpg
+- file: images/charadriiformes/laridae/larus-brachyrhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/608483900
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608483900/original.jpg
+- file: images/charadriiformes/laridae/larus-brachyrhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/610303482
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610303482/original.jpg
 ---
 
 

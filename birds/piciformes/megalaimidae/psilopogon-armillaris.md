@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-armillaris/1.jpg
+  page: https://www.inaturalist.org/photos/612915799
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612915799/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-armillaris/1.jpg
+  page: https://www.inaturalist.org/photos/612915799
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612915799/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-armillaris/2.jpg
+  page: https://www.inaturalist.org/photos/660054098
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660054098/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-armillaris/3.jpg
+  page: https://www.inaturalist.org/photos/465844877
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844877/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-armillaris/4.jpg
+  page: https://www.inaturalist.org/photos/569152829
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569152829/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-armillaris/5.jpg
+  page: https://www.inaturalist.org/photos/251288791
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251288791/original.jpeg
 ---
 
 

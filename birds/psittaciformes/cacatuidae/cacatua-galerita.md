@@ -223,10 +223,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 57
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-galerita/1.jpg
+  page: https://www.inaturalist.org/photos/605723139
+  author: David Orlovich
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605723139/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-galerita/1.jpg
+  page: https://www.inaturalist.org/photos/605723139
+  author: David Orlovich
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605723139/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-galerita/2.jpg
+  page: https://www.inaturalist.org/photos/604986273
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604986273/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-galerita/3.jpg
+  page: https://www.inaturalist.org/photos/604707326
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604707326/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-galerita/4.jpg
+  page: https://www.inaturalist.org/photos/605013132
+  author: Jack
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605013132/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-galerita/5.jpg
+  page: https://www.inaturalist.org/photos/608223338
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608223338/original.jpg
 ---
 
 

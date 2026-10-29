@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-rivoli/1.jpg
+  page: https://www.inaturalist.org/photos/477472998
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477472998/original.jpeg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-rivoli/1.jpg
+  page: https://www.inaturalist.org/photos/477472998
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477472998/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-rivoli/2.jpg
+  page: https://www.inaturalist.org/photos/623847659
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623847659/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-rivoli/3.jpg
+  page: https://www.inaturalist.org/photos/462098234
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462098234/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-rivoli/4.jpg
+  page: https://www.inaturalist.org/photos/340503893
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340503893/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-rivoli/5.jpg
+  page: https://www.inaturalist.org/photos/247420088
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247420088/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hypocnemoides-melanopogon/1.jpg
+  page: https://www.inaturalist.org/photos/470120974
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470120974/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hypocnemoides-melanopogon/1.jpg
+  page: https://www.inaturalist.org/photos/470120974
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470120974/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemoides-melanopogon/2.jpg
+  page: https://www.inaturalist.org/photos/435601540
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435601540/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemoides-melanopogon/3.jpg
+  page: https://www.inaturalist.org/photos/180535814
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180535814/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemoides-melanopogon/4.jpg
+  page: https://www.inaturalist.org/photos/249262437
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249262437/original.jpeg
+- file: images/passeriformes/thamnophilidae/hypocnemoides-melanopogon/5.jpg
+  page: https://www.inaturalist.org/photos/470120964
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470120964/original.jpg
 ---
 
 

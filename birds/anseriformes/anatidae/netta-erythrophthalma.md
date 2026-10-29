@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/anseriformes/anatidae/netta-erythrophthalma/1.jpg
+  page: https://www.inaturalist.org/photos/616592863
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616592863/original.jpg
+images:
+- file: images/anseriformes/anatidae/netta-erythrophthalma/1.jpg
+  page: https://www.inaturalist.org/photos/616592863
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616592863/original.jpg
+- file: images/anseriformes/anatidae/netta-erythrophthalma/2.jpg
+  page: https://www.inaturalist.org/photos/631139570
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631139570/original.jpg
+- file: images/anseriformes/anatidae/netta-erythrophthalma/3.jpg
+  page: https://www.inaturalist.org/photos/624221477
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624221477/original.jpg
+- file: images/anseriformes/anatidae/netta-erythrophthalma/4.jpg
+  page: https://www.inaturalist.org/photos/729134968
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729134968/original.jpg
+- file: images/anseriformes/anatidae/netta-erythrophthalma/5.jpg
+  page: https://www.inaturalist.org/photos/736169705
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736169705/original.jpg
 ---
 
 

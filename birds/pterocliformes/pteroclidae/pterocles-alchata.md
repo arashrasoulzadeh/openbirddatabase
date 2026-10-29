@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-alchata/1.jpg
+  page: https://www.inaturalist.org/photos/612523143
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612523143/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-alchata/1.jpg
+  page: https://www.inaturalist.org/photos/612523143
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612523143/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-alchata/2.jpg
+  page: https://www.inaturalist.org/photos/620912259
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620912259/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-alchata/3.jpg
+  page: https://www.inaturalist.org/photos/625106257
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625106257/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-alchata/4.jpg
+  page: https://www.inaturalist.org/photos/657325681
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657325681/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-alchata/5.jpg
+  page: https://www.inaturalist.org/photos/689965139
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689965139/original.jpg
 ---
 
 

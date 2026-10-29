@@ -142,8 +142,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/spizixos-semitorques/1.jpg
+  page: https://www.inaturalist.org/photos/609951812
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951812/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/spizixos-semitorques/1.jpg
+  page: https://www.inaturalist.org/photos/609951812
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951812/original.jpg
+- file: images/passeriformes/pycnonotidae/spizixos-semitorques/2.jpg
+  page: https://www.inaturalist.org/photos/608343868
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608343868/original.jpg
+- file: images/passeriformes/pycnonotidae/spizixos-semitorques/3.jpg
+  page: https://www.inaturalist.org/photos/617101100
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617101100/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/crax-alector/1.jpg
+  page: https://www.inaturalist.org/photos/617292787
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617292787/original.jpg
+images:
+- file: images/galliformes/cracidae/crax-alector/1.jpg
+  page: https://www.inaturalist.org/photos/617292787
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617292787/original.jpg
+- file: images/galliformes/cracidae/crax-alector/2.jpg
+  page: https://www.inaturalist.org/photos/681451798
+  author: Soetjipto Verkuijl
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681451798/original.jpg
+- file: images/galliformes/cracidae/crax-alector/3.jpg
+  page: https://www.inaturalist.org/photos/467261444
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467261444/original.jpg
+- file: images/galliformes/cracidae/crax-alector/4.jpg
+  page: https://www.inaturalist.org/photos/471356228
+  author: Márcia Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471356228/original.jpeg
+- file: images/galliformes/cracidae/crax-alector/5.jpg
+  page: https://www.inaturalist.org/photos/594677176
+  author: Samantha Bazan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594677176/original.jpg
 ---
 
 

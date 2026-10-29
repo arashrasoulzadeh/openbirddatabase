@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/philetairus-socius/1.jpg
+  page: https://www.inaturalist.org/photos/609976738
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609976738/original.jpg
+images:
+- file: images/passeriformes/ploceidae/philetairus-socius/1.jpg
+  page: https://www.inaturalist.org/photos/609976738
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609976738/original.jpg
+- file: images/passeriformes/ploceidae/philetairus-socius/2.jpg
+  page: https://www.inaturalist.org/photos/640206987
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640206987/original.jpg
+- file: images/passeriformes/ploceidae/philetairus-socius/3.jpg
+  page: https://www.inaturalist.org/photos/647705756
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647705756/original.jpg
+- file: images/passeriformes/ploceidae/philetairus-socius/4.jpg
+  page: https://www.inaturalist.org/photos/654823301
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654823301/original.jpg
+- file: images/passeriformes/ploceidae/philetairus-socius/5.jpg
+  page: https://www.inaturalist.org/photos/657445060
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657445060/original.jpg
 ---
 
 

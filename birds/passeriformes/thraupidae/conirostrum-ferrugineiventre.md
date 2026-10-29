@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/conirostrum-ferrugineiventre/1.jpg
+  page: https://www.inaturalist.org/photos/387200665
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387200665/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/conirostrum-ferrugineiventre/1.jpg
+  page: https://www.inaturalist.org/photos/387200665
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387200665/original.jpeg
+- file: images/passeriformes/thraupidae/conirostrum-ferrugineiventre/2.jpg
+  page: https://www.inaturalist.org/photos/339546498
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339546498/original.jpeg
+- file: images/passeriformes/thraupidae/conirostrum-ferrugineiventre/3.jpg
+  page: https://www.inaturalist.org/photos/227041599
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227041599/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-ferrugineiventre/4.jpg
+  page: https://www.inaturalist.org/photos/224912604
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224912604/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-ferrugineiventre/5.jpg
+  page: https://www.inaturalist.org/photos/107364385
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107364385/original.jpeg
 ---
 
 

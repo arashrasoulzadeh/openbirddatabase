@@ -186,8 +186,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/microcarbo-pygmaeus/1.jpg
+  page: https://www.inaturalist.org/photos/605642459
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605642459/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/microcarbo-pygmaeus/1.jpg
+  page: https://www.inaturalist.org/photos/605642459
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605642459/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-pygmaeus/2.jpg
+  page: https://www.inaturalist.org/photos/605180862
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180862/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-pygmaeus/3.jpg
+  page: https://www.inaturalist.org/photos/605434119
+  author: Margherita Ferraiuolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434119/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-pygmaeus/4.jpg
+  page: https://www.inaturalist.org/photos/610966077
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610966077/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-pygmaeus/5.jpg
+  page: https://www.inaturalist.org/photos/605065784
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605065784/original.jpg
 ---
 
 

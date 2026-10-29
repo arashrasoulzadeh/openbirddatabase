@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/crypturellus-parvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/618710732
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618710732/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/crypturellus-parvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/618710732
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618710732/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-parvirostris/2.jpg
+  page: https://www.inaturalist.org/photos/640887363
+  author: Marcello Mastroianni Albuquerque Araújo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640887363/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-parvirostris/3.jpg
+  page: https://www.inaturalist.org/photos/603663427
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603663427/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-parvirostris/4.jpg
+  page: https://www.inaturalist.org/photos/606004023
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606004023/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-parvirostris/5.jpg
+  page: https://www.inaturalist.org/photos/442521462
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442521462/original.jpeg
 ---
 
 

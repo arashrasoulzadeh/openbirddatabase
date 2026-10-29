@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/oreortyx-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/625074876
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625074876/original.jpg
+images:
+- file: images/galliformes/odontophoridae/oreortyx-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/625074876
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625074876/original.jpg
+- file: images/galliformes/odontophoridae/oreortyx-pictus/2.jpg
+  page: https://www.inaturalist.org/photos/626115668
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626115668/original.jpg
+- file: images/galliformes/odontophoridae/oreortyx-pictus/3.jpg
+  page: https://www.inaturalist.org/photos/695557965
+  author: garyashby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695557965/original.jpg
+- file: images/galliformes/odontophoridae/oreortyx-pictus/4.jpg
+  page: https://www.inaturalist.org/photos/662132798
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662132798/original.jpg
+- file: images/galliformes/odontophoridae/oreortyx-pictus/5.jpg
+  page: https://www.inaturalist.org/photos/653358072
+  author: Eric Bartkowski
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653358072/original.jpg
 ---
 
 

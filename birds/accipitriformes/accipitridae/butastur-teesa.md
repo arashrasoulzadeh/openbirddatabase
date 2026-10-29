@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/butastur-teesa/1.jpg
+  page: https://www.inaturalist.org/photos/624564433
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624564433/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/butastur-teesa/1.jpg
+  page: https://www.inaturalist.org/photos/624564433
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624564433/original.jpg
+- file: images/accipitriformes/accipitridae/butastur-teesa/2.jpg
+  page: https://www.inaturalist.org/photos/725607295
+  author: Rahul kumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725607295/original.jpg
+- file: images/accipitriformes/accipitridae/butastur-teesa/3.jpg
+  page: https://www.inaturalist.org/photos/630392310
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630392310/original.jpg
+- file: images/accipitriformes/accipitridae/butastur-teesa/4.jpg
+  page: https://www.inaturalist.org/photos/630392329
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630392329/original.jpg
+- file: images/accipitriformes/accipitridae/butastur-teesa/5.jpg
+  page: https://www.inaturalist.org/photos/725607317
+  author: Rahul kumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725607317/original.jpg
 ---
 
 

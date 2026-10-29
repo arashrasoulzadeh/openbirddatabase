@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-amurensis/1.jpg
+  page: https://www.inaturalist.org/photos/625608080
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625608080/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-amurensis/1.jpg
+  page: https://www.inaturalist.org/photos/625608080
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625608080/original.jpg
+- file: images/falconiformes/falconidae/falco-amurensis/2.jpg
+  page: https://www.inaturalist.org/photos/613377087
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613377087/original.jpg
+- file: images/falconiformes/falconidae/falco-amurensis/3.jpg
+  page: https://www.inaturalist.org/photos/625280792
+  author: Ricus Nel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625280792/original.jpg
+- file: images/falconiformes/falconidae/falco-amurensis/4.jpg
+  page: https://www.inaturalist.org/photos/679287685
+  author: Поляков Александр
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679287685/original.jpg
+- file: images/falconiformes/falconidae/falco-amurensis/5.jpg
+  page: https://www.inaturalist.org/photos/625608098
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625608098/original.jpg
 ---
 
 

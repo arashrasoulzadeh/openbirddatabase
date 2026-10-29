@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eupherusa-nigriventris/1.jpg
+  page: https://www.inaturalist.org/photos/350276299
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350276299/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eupherusa-nigriventris/1.jpg
+  page: https://www.inaturalist.org/photos/350276299
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350276299/original.jpg
+- file: images/apodiformes/trochilidae/eupherusa-nigriventris/2.jpg
+  page: https://www.inaturalist.org/photos/366687376
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366687376/original.jpeg
+- file: images/apodiformes/trochilidae/eupherusa-nigriventris/3.jpg
+  page: https://www.inaturalist.org/photos/350276306
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350276306/original.jpg
+- file: images/apodiformes/trochilidae/eupherusa-nigriventris/4.jpg
+  page: https://www.inaturalist.org/photos/350276283
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350276283/original.jpg
+- file: images/apodiformes/trochilidae/eupherusa-nigriventris/5.jpg
+  page: https://www.inaturalist.org/photos/366687413
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366687413/original.jpeg
 ---
 
 

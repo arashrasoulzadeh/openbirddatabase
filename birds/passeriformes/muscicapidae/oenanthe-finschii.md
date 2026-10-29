@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-finschii/1.jpg
+  page: https://www.inaturalist.org/photos/609162850
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609162850/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-finschii/1.jpg
+  page: https://www.inaturalist.org/photos/609162850
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609162850/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-finschii/2.jpg
+  page: https://www.inaturalist.org/photos/690633798
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690633798/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-finschii/3.jpg
+  page: https://www.inaturalist.org/photos/693281359
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693281359/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-finschii/4.jpg
+  page: https://www.inaturalist.org/photos/679771422
+  author: Horatiu Stefanie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679771422/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-finschii/5.jpg
+  page: https://www.inaturalist.org/photos/585985281
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585985281/original.jpg
 ---
 
 

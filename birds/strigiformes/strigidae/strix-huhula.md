@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 36.1
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 249.5
   tail_length_mm: 148.5
   body_mass_g: 370.0
+image:
+  file: images/strigiformes/strigidae/strix-huhula/1.jpg
+  page: https://www.inaturalist.org/photos/733830707
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733830707/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-huhula/1.jpg
+  page: https://www.inaturalist.org/photos/733830707
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733830707/original.jpg
+- file: images/strigiformes/strigidae/strix-huhula/2.jpg
+  page: https://www.inaturalist.org/photos/558211985
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558211985/original.jpg
+- file: images/strigiformes/strigidae/strix-huhula/3.jpg
+  page: https://www.inaturalist.org/photos/601666614
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601666614/original.jpg
+- file: images/strigiformes/strigidae/strix-huhula/4.jpg
+  page: https://www.inaturalist.org/photos/345594868
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345594868/original.jpg
+- file: images/strigiformes/strigidae/strix-huhula/5.jpg
+  page: https://www.inaturalist.org/photos/352327808
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352327808/original.jpeg
 ---
 
 

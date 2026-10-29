@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/piciformes/picidae/dendrocopos-leucotos/1.jpg
+  page: https://www.inaturalist.org/photos/604751141
+  author: Рустам Сафаргалиев
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604751141/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-leucotos/1.jpg
+  page: https://www.inaturalist.org/photos/604751141
+  author: Рустам Сафаргалиев
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604751141/original.jpg
+- file: images/piciformes/picidae/dendrocopos-leucotos/2.jpg
+  page: https://www.inaturalist.org/photos/605016225
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605016225/original.jpg
+- file: images/piciformes/picidae/dendrocopos-leucotos/3.jpg
+  page: https://www.inaturalist.org/photos/604415774
+  author: Павел
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604415774/original.jpg
+- file: images/piciformes/picidae/dendrocopos-leucotos/4.jpg
+  page: https://www.inaturalist.org/photos/604746052
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604746052/original.jpg
+- file: images/piciformes/picidae/dendrocopos-leucotos/5.jpg
+  page: https://www.inaturalist.org/photos/604487832
+  author: Марина Садыкова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604487832/original.jpg
 ---
 
 

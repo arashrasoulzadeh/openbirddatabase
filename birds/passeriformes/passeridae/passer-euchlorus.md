@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-euchlorus/1.jpg
+  page: https://www.inaturalist.org/photos/614520876
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520876/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-euchlorus/1.jpg
+  page: https://www.inaturalist.org/photos/614520876
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520876/original.jpg
+- file: images/passeriformes/passeridae/passer-euchlorus/2.jpg
+  page: https://www.inaturalist.org/photos/284523003
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/284523003/original.jpeg
+- file: images/passeriformes/passeridae/passer-euchlorus/3.jpg
+  page: https://www.inaturalist.org/photos/614520884
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520884/original.jpg
+- file: images/passeriformes/passeridae/passer-euchlorus/4.jpg
+  page: https://www.inaturalist.org/photos/614520886
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520886/original.jpg
+- file: images/passeriformes/passeridae/passer-euchlorus/5.jpg
+  page: https://www.inaturalist.org/photos/614520887
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520887/original.jpg
 ---
 
 

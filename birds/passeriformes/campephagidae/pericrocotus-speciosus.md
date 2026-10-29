@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-speciosus/1.jpg
+  page: https://www.inaturalist.org/photos/608898311
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608898311/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-speciosus/1.jpg
+  page: https://www.inaturalist.org/photos/608898311
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608898311/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-speciosus/2.jpg
+  page: https://www.inaturalist.org/photos/609526546
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609526546/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-speciosus/3.jpg
+  page: https://www.inaturalist.org/photos/608296130
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608296130/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-speciosus/4.jpg
+  page: https://www.inaturalist.org/photos/614287868
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614287868/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-speciosus/5.jpg
+  page: https://www.inaturalist.org/photos/617088106
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617088106/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/gymnasio-nudipes/1.jpg
+  page: https://www.inaturalist.org/photos/624649249
+  author: Roger Rittmaster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624649249/original.jpg
+images:
+- file: images/strigiformes/strigidae/gymnasio-nudipes/1.jpg
+  page: https://www.inaturalist.org/photos/624649249
+  author: Roger Rittmaster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624649249/original.jpg
+- file: images/strigiformes/strigidae/gymnasio-nudipes/2.jpg
+  page: https://www.inaturalist.org/photos/492565748
+  author: Marina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492565748/original.jpg
+- file: images/strigiformes/strigidae/gymnasio-nudipes/3.jpg
+  page: https://www.inaturalist.org/photos/354007592
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354007592/original.jpeg
+- file: images/strigiformes/strigidae/gymnasio-nudipes/4.jpg
+  page: https://www.inaturalist.org/photos/448286432
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448286432/original.jpg
+- file: images/strigiformes/strigidae/gymnasio-nudipes/5.jpg
+  page: https://www.inaturalist.org/photos/177248904
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177248904/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-mauritianus/1.jpg
+  page: https://www.inaturalist.org/photos/465380868
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465380868/original.jpeg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-mauritianus/1.jpg
+  page: https://www.inaturalist.org/photos/465380868
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465380868/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-mauritianus/2.jpg
+  page: https://www.inaturalist.org/photos/466583980
+  author: Charly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466583980/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-mauritianus/3.jpg
+  page: https://www.inaturalist.org/photos/521157334
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521157334/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-mauritianus/4.jpg
+  page: https://www.inaturalist.org/photos/529924041
+  author: tetyanakuchma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529924041/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-mauritianus/5.jpg
+  page: https://www.inaturalist.org/photos/398138756
+  author: yajapin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398138756/original.jpeg
 ---
 
 

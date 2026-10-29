@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/icteridae/agelaius-xanthomus/1.jpg
+  page: https://www.inaturalist.org/photos/669355858
+  author: Alex Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669355858/original.jpg
+images:
+- file: images/passeriformes/icteridae/agelaius-xanthomus/1.jpg
+  page: https://www.inaturalist.org/photos/669355858
+  author: Alex Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669355858/original.jpg
+- file: images/passeriformes/icteridae/agelaius-xanthomus/2.jpg
+  page: https://www.inaturalist.org/photos/355260725
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355260725/original.jpeg
+- file: images/passeriformes/icteridae/agelaius-xanthomus/3.jpg
+  page: https://www.inaturalist.org/photos/365603246
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365603246/original.jpg
+- file: images/passeriformes/icteridae/agelaius-xanthomus/4.jpg
+  page: https://www.inaturalist.org/photos/356563725
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356563725/original.jpg
+- file: images/passeriformes/icteridae/agelaius-xanthomus/5.jpg
+  page: https://www.inaturalist.org/photos/177477360
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177477360/original.jpg
 ---
 
 

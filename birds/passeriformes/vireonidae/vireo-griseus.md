@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/vireonidae/vireo-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/605704975
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605704975/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/605704975
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605704975/original.jpg
+- file: images/passeriformes/vireonidae/vireo-griseus/2.jpg
+  page: https://www.inaturalist.org/photos/605436395
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605436395/original.jpg
+- file: images/passeriformes/vireonidae/vireo-griseus/3.jpg
+  page: https://www.inaturalist.org/photos/610510666
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510666/original.jpg
+- file: images/passeriformes/vireonidae/vireo-griseus/4.jpg
+  page: https://www.inaturalist.org/photos/610801995
+  author: allan5519
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610801995/original.jpg
+- file: images/passeriformes/vireonidae/vireo-griseus/5.jpg
+  page: https://www.inaturalist.org/photos/607974287
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607974287/original.jpg
 ---
 
 

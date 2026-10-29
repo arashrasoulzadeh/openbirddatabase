@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-forficatus/1.jpg
+  page: https://www.inaturalist.org/photos/604937596
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604937596/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-forficatus/1.jpg
+  page: https://www.inaturalist.org/photos/604937596
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604937596/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-forficatus/2.jpg
+  page: https://www.inaturalist.org/photos/610570145
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610570145/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-forficatus/3.jpg
+  page: https://www.inaturalist.org/photos/607971372
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607971372/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-forficatus/4.jpg
+  page: https://www.inaturalist.org/photos/609571479
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609571479/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-forficatus/5.jpg
+  page: https://www.inaturalist.org/photos/611222958
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611222958/original.jpg
 ---
 
 

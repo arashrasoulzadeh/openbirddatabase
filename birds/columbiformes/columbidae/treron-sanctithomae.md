@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-sanctithomae/1.jpg
+  page: https://www.inaturalist.org/photos/469095907
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469095907/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-sanctithomae/1.jpg
+  page: https://www.inaturalist.org/photos/469095907
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469095907/original.jpg
+- file: images/columbiformes/columbidae/treron-sanctithomae/2.jpg
+  page: https://www.inaturalist.org/photos/260561441
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260561441/original.jpeg
+- file: images/columbiformes/columbidae/treron-sanctithomae/3.jpg
+  page: https://www.inaturalist.org/photos/106434423
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106434423/original.jpg
+- file: images/columbiformes/columbidae/treron-sanctithomae/4.jpg
+  page: https://www.inaturalist.org/photos/469095911
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469095911/original.jpg
+- file: images/columbiformes/columbidae/treron-sanctithomae/5.jpg
+  page: https://www.inaturalist.org/photos/469095914
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469095914/original.jpg
 ---
 
 

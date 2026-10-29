@@ -176,8 +176,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/strix-woodfordii/1.jpg
+  page: https://www.inaturalist.org/photos/709545999
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709545999/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-woodfordii/1.jpg
+  page: https://www.inaturalist.org/photos/709545999
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709545999/original.jpg
+- file: images/strigiformes/strigidae/strix-woodfordii/2.jpg
+  page: https://www.inaturalist.org/photos/714861143
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714861143/original.jpg
+- file: images/strigiformes/strigidae/strix-woodfordii/3.jpg
+  page: https://www.inaturalist.org/photos/740832225
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740832225/original.jpg
+- file: images/strigiformes/strigidae/strix-woodfordii/4.jpg
+  page: https://www.inaturalist.org/photos/709549523
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709549523/original.jpg
 ---
 
 

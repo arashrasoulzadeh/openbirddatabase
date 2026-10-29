@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/cyanoderma-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/620110590
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620110590/original.jpg
+images:
+- file: images/passeriformes/timaliidae/cyanoderma-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/620110590
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620110590/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/633895576
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633895576/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/722342925
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722342925/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/633895572
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633895572/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/633895547
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633895547/original.jpg
 ---
 
 

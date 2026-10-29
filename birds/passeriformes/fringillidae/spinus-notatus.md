@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-notatus/1.jpg
+  page: https://www.inaturalist.org/photos/615516747
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615516747/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-notatus/1.jpg
+  page: https://www.inaturalist.org/photos/615516747
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615516747/original.jpg
+- file: images/passeriformes/fringillidae/spinus-notatus/2.jpg
+  page: https://www.inaturalist.org/photos/737492283
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737492283/original.jpg
+- file: images/passeriformes/fringillidae/spinus-notatus/3.jpg
+  page: https://www.inaturalist.org/photos/615516755
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615516755/original.jpg
+- file: images/passeriformes/fringillidae/spinus-notatus/4.jpg
+  page: https://www.inaturalist.org/photos/615516775
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615516775/original.jpg
+- file: images/passeriformes/fringillidae/spinus-notatus/5.jpg
+  page: https://www.inaturalist.org/photos/615516769
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615516769/original.jpg
 ---
 
 

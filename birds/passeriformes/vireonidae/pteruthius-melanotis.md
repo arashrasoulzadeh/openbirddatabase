@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/pteruthius-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/626968299
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626968299/original.jpg
+images:
+- file: images/passeriformes/vireonidae/pteruthius-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/626968299
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626968299/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-melanotis/2.jpg
+  page: https://www.inaturalist.org/photos/518921656
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518921656/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-melanotis/3.jpg
+  page: https://www.inaturalist.org/photos/548756132
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548756132/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-melanotis/4.jpg
+  page: https://www.inaturalist.org/photos/588082606
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588082606/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-melanotis/5.jpg
+  page: https://www.inaturalist.org/photos/603795936
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603795936/original.jpg
 ---
 
 

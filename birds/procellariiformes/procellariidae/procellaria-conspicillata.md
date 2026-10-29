@@ -156,10 +156,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/procellariiformes/procellariidae/procellaria-conspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/617686692
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617686692/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/procellaria-conspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/617686692
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617686692/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-conspicillata/2.jpg
+  page: https://www.inaturalist.org/photos/584774776
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584774776/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-conspicillata/3.jpg
+  page: https://www.inaturalist.org/photos/584095025
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584095025/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-conspicillata/4.jpg
+  page: https://www.inaturalist.org/photos/584094982
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584094982/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-conspicillata/5.jpg
+  page: https://www.inaturalist.org/photos/584095087
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584095087/original.jpg
 ---
 
 

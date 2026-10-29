@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-orix/1.jpg
+  page: https://www.inaturalist.org/photos/606838746
+  author: Mike Musgrave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606838746/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-orix/1.jpg
+  page: https://www.inaturalist.org/photos/606838746
+  author: Mike Musgrave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606838746/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-orix/2.jpg
+  page: https://www.inaturalist.org/photos/608920672
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608920672/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-orix/3.jpg
+  page: https://www.inaturalist.org/photos/606380496
+  author: Haneef Tayob
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606380496/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-orix/4.jpg
+  page: https://www.inaturalist.org/photos/611248377
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611248377/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-orix/5.jpg
+  page: https://www.inaturalist.org/photos/612124226
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612124226/original.jpg
 ---
 
 

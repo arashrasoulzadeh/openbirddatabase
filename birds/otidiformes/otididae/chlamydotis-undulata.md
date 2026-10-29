@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/otidiformes/otididae/chlamydotis-undulata/1.jpg
+  page: https://www.inaturalist.org/photos/611413168
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611413168/original.jpg
+images:
+- file: images/otidiformes/otididae/chlamydotis-undulata/1.jpg
+  page: https://www.inaturalist.org/photos/611413168
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611413168/original.jpg
+- file: images/otidiformes/otididae/chlamydotis-undulata/2.jpg
+  page: https://www.inaturalist.org/photos/623859892
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623859892/original.jpg
+- file: images/otidiformes/otididae/chlamydotis-undulata/3.jpg
+  page: https://www.inaturalist.org/photos/611413182
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611413182/original.jpg
+- file: images/otidiformes/otididae/chlamydotis-undulata/4.jpg
+  page: https://www.inaturalist.org/photos/611384597
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611384597/original.jpg
+- file: images/otidiformes/otididae/chlamydotis-undulata/5.jpg
+  page: https://www.inaturalist.org/photos/611384669
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611384669/original.jpg
 ---
 
 

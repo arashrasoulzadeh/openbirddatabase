@@ -149,10 +149,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/psittaciformes/psittacidae/ara-ambiguus/1.jpg
+  page: https://www.inaturalist.org/photos/604699228
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699228/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/ara-ambiguus/1.jpg
+  page: https://www.inaturalist.org/photos/604699228
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699228/original.jpg
+- file: images/psittaciformes/psittacidae/ara-ambiguus/2.jpg
+  page: https://www.inaturalist.org/photos/605202468
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605202468/original.jpg
+- file: images/psittaciformes/psittacidae/ara-ambiguus/3.jpg
+  page: https://www.inaturalist.org/photos/617348870
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617348870/original.jpg
+- file: images/psittaciformes/psittacidae/ara-ambiguus/4.jpg
+  page: https://www.inaturalist.org/photos/618588916
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618588916/original.jpg
+- file: images/psittaciformes/psittacidae/ara-ambiguus/5.jpg
+  page: https://www.inaturalist.org/photos/630906208
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630906208/original.jpg
 ---
 
 

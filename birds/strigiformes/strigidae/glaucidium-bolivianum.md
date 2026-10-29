@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-bolivianum/1.jpg
+  page: https://www.inaturalist.org/photos/559137679
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559137679/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-bolivianum/1.jpg
+  page: https://www.inaturalist.org/photos/559137679
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559137679/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-bolivianum/2.jpg
+  page: https://www.inaturalist.org/photos/227032094
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227032094/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-bolivianum/3.jpg
+  page: https://www.inaturalist.org/photos/304150800
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304150800/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-bolivianum/4.jpg
+  page: https://www.inaturalist.org/photos/216575350
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/216575350/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-bolivianum/5.jpg
+  page: https://www.inaturalist.org/photos/216575375
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/216575375/original.jpg
 ---
 
 

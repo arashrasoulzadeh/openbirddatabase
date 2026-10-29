@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/paroaria-capitata/1.jpg
+  page: https://www.inaturalist.org/photos/606020865
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606020865/original.jpg
+images:
+- file: images/passeriformes/thraupidae/paroaria-capitata/1.jpg
+  page: https://www.inaturalist.org/photos/606020865
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606020865/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-capitata/2.jpg
+  page: https://www.inaturalist.org/photos/610715892
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610715892/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-capitata/3.jpg
+  page: https://www.inaturalist.org/photos/610219843
+  author: Matias Cabezas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610219843/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-capitata/4.jpg
+  page: https://www.inaturalist.org/photos/611675239
+  author: Thomaz Ricardo Favreto Sinani
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611675239/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-capitata/5.jpg
+  page: https://www.inaturalist.org/photos/612334525
+  author: Craig K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612334525/original.jpg
 ---
 
 

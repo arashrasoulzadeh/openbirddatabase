@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/fringillidae/chlorodrepanis-stejnegeri/1.jpg
+  page: https://www.inaturalist.org/photos/253286993
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253286993/original.jpeg
+images:
+- file: images/passeriformes/fringillidae/chlorodrepanis-stejnegeri/1.jpg
+  page: https://www.inaturalist.org/photos/253286993
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253286993/original.jpeg
+- file: images/passeriformes/fringillidae/chlorodrepanis-stejnegeri/2.jpg
+  page: https://www.inaturalist.org/photos/142822879
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822879/original.jpeg
+- file: images/passeriformes/fringillidae/chlorodrepanis-stejnegeri/3.jpg
+  page: https://www.inaturalist.org/photos/60148740
+  author: Tuoichen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60148740/original.jpg
+- file: images/passeriformes/fringillidae/chlorodrepanis-stejnegeri/4.jpg
+  page: https://www.inaturalist.org/photos/255291835
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255291835/original.jpeg
+- file: images/passeriformes/fringillidae/chlorodrepanis-stejnegeri/5.jpg
+  page: https://www.inaturalist.org/photos/255291855
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255291855/original.jpeg
 ---
 
 

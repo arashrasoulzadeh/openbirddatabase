@@ -133,8 +133,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/xolmis-velatus/1.jpg
+  page: https://www.inaturalist.org/photos/607330604
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607330604/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/xolmis-velatus/1.jpg
+  page: https://www.inaturalist.org/photos/607330604
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607330604/original.jpg
+- file: images/passeriformes/tyrannidae/xolmis-velatus/2.jpg
+  page: https://www.inaturalist.org/photos/606015102
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606015102/original.jpg
+- file: images/passeriformes/tyrannidae/xolmis-velatus/3.jpg
+  page: https://www.inaturalist.org/photos/617250831
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617250831/original.jpg
+- file: images/passeriformes/tyrannidae/xolmis-velatus/4.jpg
+  page: https://www.inaturalist.org/photos/720354543
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720354543/original.jpg
+- file: images/passeriformes/tyrannidae/xolmis-velatus/5.jpg
+  page: https://www.inaturalist.org/photos/647272672
+  author: Silvia Ten
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647272672/original.jpg
 ---
 
 

@@ -189,10 +189,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/accipitriformes/accipitridae/circaetus-gallicus/1.jpg
+  page: https://www.inaturalist.org/photos/605926749
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605926749/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circaetus-gallicus/1.jpg
+  page: https://www.inaturalist.org/photos/605926749
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605926749/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-gallicus/2.jpg
+  page: https://www.inaturalist.org/photos/615674156
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674156/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-gallicus/3.jpg
+  page: https://www.inaturalist.org/photos/625811199
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625811199/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-gallicus/4.jpg
+  page: https://www.inaturalist.org/photos/625153817
+  author: Karsten Ste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625153817/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-gallicus/5.jpg
+  page: https://www.inaturalist.org/photos/627262887
+  author: Denis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627262887/original.jpg
 ---
 
 

@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-yucatanensis/1.jpg
+  page: https://www.inaturalist.org/photos/745742975
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745742975/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-yucatanensis/1.jpg
+  page: https://www.inaturalist.org/photos/745742975
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745742975/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-yucatanensis/2.jpg
+  page: https://www.inaturalist.org/photos/348306075
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348306075/original.jpeg
+- file: images/passeriformes/tyrannidae/myiarchus-yucatanensis/3.jpg
+  page: https://www.inaturalist.org/photos/461580643
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461580643/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-yucatanensis/4.jpg
+  page: https://www.inaturalist.org/photos/256444289
+  author: Corey Farwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256444289/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-yucatanensis/5.jpg
+  page: https://www.inaturalist.org/photos/587126474
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587126474/original.jpg
 ---
 
 

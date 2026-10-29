@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/scotocerca-inquieta/1.jpg
+  page: https://www.inaturalist.org/photos/609198980
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609198980/original.jpg
+images:
+- file: images/passeriformes/cettiidae/scotocerca-inquieta/1.jpg
+  page: https://www.inaturalist.org/photos/609198980
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609198980/original.jpg
+- file: images/passeriformes/cettiidae/scotocerca-inquieta/2.jpg
+  page: https://www.inaturalist.org/photos/624017264
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624017264/original.jpg
+- file: images/passeriformes/cettiidae/scotocerca-inquieta/3.jpg
+  page: https://www.inaturalist.org/photos/620770857
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620770857/original.jpg
+- file: images/passeriformes/cettiidae/scotocerca-inquieta/4.jpg
+  page: https://www.inaturalist.org/photos/465399960
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465399960/original.jpeg
+- file: images/passeriformes/cettiidae/scotocerca-inquieta/5.jpg
+  page: https://www.inaturalist.org/photos/483193225
+  author: Demian Hiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483193225/original.jpg
 ---
 
 

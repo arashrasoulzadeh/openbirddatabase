@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/xolmis-irupero/1.jpg
+  page: https://www.inaturalist.org/photos/606027060
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027060/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/xolmis-irupero/1.jpg
+  page: https://www.inaturalist.org/photos/606027060
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027060/original.jpg
+- file: images/passeriformes/tyrannidae/xolmis-irupero/2.jpg
+  page: https://www.inaturalist.org/photos/609364150
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609364150/original.jpg
+- file: images/passeriformes/tyrannidae/xolmis-irupero/3.jpg
+  page: https://www.inaturalist.org/photos/609123297
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609123297/original.jpg
+- file: images/passeriformes/tyrannidae/xolmis-irupero/4.jpg
+  page: https://www.inaturalist.org/photos/609566432
+  author: André Nogueira Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609566432/original.jpg
+- file: images/passeriformes/tyrannidae/xolmis-irupero/5.jpg
+  page: https://www.inaturalist.org/photos/609970674
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609970674/original.jpg
 ---
 
 

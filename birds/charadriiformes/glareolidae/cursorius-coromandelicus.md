@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/cursorius-coromandelicus/1.jpg
+  page: https://www.inaturalist.org/photos/686386714
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686386714/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/cursorius-coromandelicus/1.jpg
+  page: https://www.inaturalist.org/photos/686386714
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686386714/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-coromandelicus/2.jpg
+  page: https://www.inaturalist.org/photos/472239553
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472239553/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-coromandelicus/3.jpg
+  page: https://www.inaturalist.org/photos/501942851
+  author: Samartha S G
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501942851/original.jpeg
+- file: images/charadriiformes/glareolidae/cursorius-coromandelicus/4.jpg
+  page: https://www.inaturalist.org/photos/534732017
+  author: Aryan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534732017/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-coromandelicus/5.jpg
+  page: https://www.inaturalist.org/photos/686386729
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686386729/original.jpg
 ---
 
 

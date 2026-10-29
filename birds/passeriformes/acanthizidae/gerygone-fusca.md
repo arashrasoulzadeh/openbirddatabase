@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/acanthizidae/gerygone-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/615404411
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615404411/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/gerygone-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/615404411
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615404411/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/623510415
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623510415/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/733464788
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733464788/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/619809443
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619809443/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/639969318
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639969318/original.jpg
 ---
 
 

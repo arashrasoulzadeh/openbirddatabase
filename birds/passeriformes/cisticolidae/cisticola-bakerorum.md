@@ -123,8 +123,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-bakerorum/1.jpg
+  page: https://www.inaturalist.org/photos/585096609
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585096609/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-bakerorum/1.jpg
+  page: https://www.inaturalist.org/photos/585096609
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585096609/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-bakerorum/2.jpg
+  page: https://www.inaturalist.org/photos/434329767
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434329767/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-bakerorum/3.jpg
+  page: https://www.inaturalist.org/photos/476849147
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476849147/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-bakerorum/4.jpg
+  page: https://www.inaturalist.org/photos/585096621
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585096621/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-bakerorum/5.jpg
+  page: https://www.inaturalist.org/photos/585096633
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585096633/original.jpg
 ---
 
 

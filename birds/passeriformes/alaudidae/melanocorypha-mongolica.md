@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/melanocorypha-mongolica/1.jpg
+  page: https://www.inaturalist.org/photos/708170998
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708170998/original.jpg
+images:
+- file: images/passeriformes/alaudidae/melanocorypha-mongolica/1.jpg
+  page: https://www.inaturalist.org/photos/708170998
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708170998/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-mongolica/2.jpg
+  page: https://www.inaturalist.org/photos/686430649
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686430649/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-mongolica/3.jpg
+  page: https://www.inaturalist.org/photos/721832205
+  author: Graham Whittaker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721832205/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-mongolica/4.jpg
+  page: https://www.inaturalist.org/photos/565326887
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565326887/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-mongolica/5.jpg
+  page: https://www.inaturalist.org/photos/664587532
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664587532/original.jpg
 ---
 
 

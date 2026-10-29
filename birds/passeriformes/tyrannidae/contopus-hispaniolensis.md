@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/contopus-hispaniolensis/1.jpg
+  page: https://www.inaturalist.org/photos/610842058
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842058/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/contopus-hispaniolensis/1.jpg
+  page: https://www.inaturalist.org/photos/610842058
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842058/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-hispaniolensis/2.jpg
+  page: https://www.inaturalist.org/photos/607518068
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518068/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-hispaniolensis/3.jpg
+  page: https://www.inaturalist.org/photos/475115377
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475115377/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-hispaniolensis/4.jpg
+  page: https://www.inaturalist.org/photos/589868800
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589868800/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-hispaniolensis/5.jpg
+  page: https://www.inaturalist.org/photos/257060168
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257060168/original.jpeg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/heterospingus-rubrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/496165831
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496165831/original.jpg
+images:
+- file: images/passeriformes/thraupidae/heterospingus-rubrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/496165831
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496165831/original.jpg
+- file: images/passeriformes/thraupidae/heterospingus-rubrifrons/2.jpg
+  page: https://www.inaturalist.org/photos/264352573
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264352573/original.jpeg
+- file: images/passeriformes/thraupidae/heterospingus-rubrifrons/3.jpg
+  page: https://www.inaturalist.org/photos/205434711
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205434711/original.jpeg
+- file: images/passeriformes/thraupidae/heterospingus-rubrifrons/4.jpg
+  page: https://www.inaturalist.org/photos/62973741
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62973741/original.jpg
+- file: images/passeriformes/thraupidae/heterospingus-rubrifrons/5.jpg
+  page: https://www.inaturalist.org/photos/339598103
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339598103/original.jpg
 ---
 
 

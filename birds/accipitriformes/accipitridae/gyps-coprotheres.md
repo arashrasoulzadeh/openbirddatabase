@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 31
+image:
+  file: images/accipitriformes/accipitridae/gyps-coprotheres/1.jpg
+  page: https://www.inaturalist.org/photos/610989241
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610989241/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/gyps-coprotheres/1.jpg
+  page: https://www.inaturalist.org/photos/610989241
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610989241/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-coprotheres/2.jpg
+  page: https://www.inaturalist.org/photos/697407229
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697407229/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-coprotheres/3.jpg
+  page: https://www.inaturalist.org/photos/687934330
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687934330/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-coprotheres/4.jpg
+  page: https://www.inaturalist.org/photos/701360534
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701360534/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-coprotheres/5.jpg
+  page: https://www.inaturalist.org/photos/696991473
+  author: André Deschodt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696991473/original.jpg
 ---
 
 

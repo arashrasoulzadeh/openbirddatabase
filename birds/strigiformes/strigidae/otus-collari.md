@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-collari/1.jpg
+  page: https://www.inaturalist.org/photos/719579078
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719579078/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-collari/1.jpg
+  page: https://www.inaturalist.org/photos/719579078
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719579078/original.jpg
+- file: images/strigiformes/strigidae/otus-collari/2.jpg
+  page: https://www.inaturalist.org/photos/435260069
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260069/original.jpeg
+- file: images/strigiformes/strigidae/otus-collari/3.jpg
+  page: https://www.inaturalist.org/photos/435260076
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260076/original.jpeg
+- file: images/strigiformes/strigidae/otus-collari/4.jpg
+  page: https://www.inaturalist.org/photos/435260010
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260010/original.jpeg
+- file: images/strigiformes/strigidae/otus-collari/5.jpg
+  page: https://www.inaturalist.org/photos/435260025
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260025/original.jpeg
 ---
 
 

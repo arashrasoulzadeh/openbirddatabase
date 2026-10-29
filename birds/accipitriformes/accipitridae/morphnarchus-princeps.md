@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/morphnarchus-princeps/1.jpg
+  page: https://www.inaturalist.org/photos/614508302
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614508302/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/morphnarchus-princeps/1.jpg
+  page: https://www.inaturalist.org/photos/614508302
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614508302/original.jpg
+- file: images/accipitriformes/accipitridae/morphnarchus-princeps/2.jpg
+  page: https://www.inaturalist.org/photos/476611248
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476611248/original.jpeg
+- file: images/accipitriformes/accipitridae/morphnarchus-princeps/3.jpg
+  page: https://www.inaturalist.org/photos/482782063
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482782063/original.png
+- file: images/accipitriformes/accipitridae/morphnarchus-princeps/4.jpg
+  page: https://www.inaturalist.org/photos/527825404
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527825404/original.jpg
+- file: images/accipitriformes/accipitridae/morphnarchus-princeps/5.jpg
+  page: https://www.inaturalist.org/photos/548460293
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548460293/original.jpg
 ---
 
 

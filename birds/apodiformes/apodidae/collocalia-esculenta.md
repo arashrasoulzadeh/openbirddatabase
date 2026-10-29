@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/collocalia-esculenta/1.jpg
+  page: https://www.inaturalist.org/photos/681425811
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681425811/original.jpg
+images:
+- file: images/apodiformes/apodidae/collocalia-esculenta/1.jpg
+  page: https://www.inaturalist.org/photos/681425811
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681425811/original.jpg
+- file: images/apodiformes/apodidae/collocalia-esculenta/2.jpg
+  page: https://www.inaturalist.org/photos/526015115
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526015115/original.jpg
+- file: images/apodiformes/apodidae/collocalia-esculenta/3.jpg
+  page: https://www.inaturalist.org/photos/457195271
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457195271/original.jpg
+- file: images/apodiformes/apodidae/collocalia-esculenta/4.jpg
+  page: https://www.inaturalist.org/photos/334465739
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334465739/original.jpeg
+- file: images/apodiformes/apodidae/collocalia-esculenta/5.jpg
+  page: https://www.inaturalist.org/photos/228872261
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228872261/original.jpeg
 ---
 
 

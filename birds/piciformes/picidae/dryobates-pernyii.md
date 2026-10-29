@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dryobates-pernyii/1.jpg
+  page: https://www.inaturalist.org/photos/654414596
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654414596/original.jpg
+images:
+- file: images/piciformes/picidae/dryobates-pernyii/1.jpg
+  page: https://www.inaturalist.org/photos/654414596
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654414596/original.jpg
+- file: images/piciformes/picidae/dryobates-pernyii/2.jpg
+  page: https://www.inaturalist.org/photos/644707195
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644707195/original.jpg
+- file: images/piciformes/picidae/dryobates-pernyii/3.jpg
+  page: https://www.inaturalist.org/photos/481501218
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481501218/original.jpeg
+- file: images/piciformes/picidae/dryobates-pernyii/4.jpg
+  page: https://www.inaturalist.org/photos/498101132
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498101132/original.jpeg
+- file: images/piciformes/picidae/dryobates-pernyii/5.jpg
+  page: https://www.inaturalist.org/photos/520856938
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520856938/original.jpg
 ---
 
 

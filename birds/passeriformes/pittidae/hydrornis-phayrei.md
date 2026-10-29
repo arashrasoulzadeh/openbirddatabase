@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/hydrornis-phayrei/1.jpg
+  page: https://www.inaturalist.org/photos/625988834
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625988834/original.jpg
+images:
+- file: images/passeriformes/pittidae/hydrornis-phayrei/1.jpg
+  page: https://www.inaturalist.org/photos/625988834
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625988834/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-phayrei/2.jpg
+  page: https://www.inaturalist.org/photos/629195505
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629195505/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-phayrei/3.jpg
+  page: https://www.inaturalist.org/photos/658437071
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658437071/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-phayrei/4.jpg
+  page: https://www.inaturalist.org/photos/676930689
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676930689/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-phayrei/5.jpg
+  page: https://www.inaturalist.org/photos/509071168
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509071168/original.jpg
 ---
 
 

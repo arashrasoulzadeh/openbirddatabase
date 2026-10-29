@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coua-coquereli/1.jpg
+  page: https://www.inaturalist.org/photos/452233250
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452233250/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coua-coquereli/1.jpg
+  page: https://www.inaturalist.org/photos/452233250
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452233250/original.jpg
+- file: images/cuculiformes/cuculidae/coua-coquereli/2.jpg
+  page: https://www.inaturalist.org/photos/455475111
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455475111/original.jpeg
+- file: images/cuculiformes/cuculidae/coua-coquereli/3.jpg
+  page: https://www.inaturalist.org/photos/463678755
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463678755/original.jpg
+- file: images/cuculiformes/cuculidae/coua-coquereli/4.jpg
+  page: https://www.inaturalist.org/photos/246643680
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246643680/original.jpg
+- file: images/cuculiformes/cuculidae/coua-coquereli/5.jpg
+  page: https://www.inaturalist.org/photos/57280915
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57280915/original.jpg
 ---
 
 

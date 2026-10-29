@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ceyx-lepidus/1.jpg
+  page: https://www.inaturalist.org/photos/708799361
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708799361/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceyx-lepidus/1.jpg
+  page: https://www.inaturalist.org/photos/708799361
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708799361/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-lepidus/2.jpg
+  page: https://www.inaturalist.org/photos/549552515
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549552515/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-lepidus/3.jpg
+  page: https://www.inaturalist.org/photos/555073557
+  author: Frances Oliver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555073557/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-lepidus/4.jpg
+  page: https://www.inaturalist.org/photos/416866065
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866065/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-lepidus/5.jpg
+  page: https://www.inaturalist.org/photos/547782312
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547782312/original.jpg
 ---
 
 

@@ -156,8 +156,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-castaneicollis/1.jpg
+  page: https://www.inaturalist.org/photos/610018888
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610018888/original.jpg
+images:
+- file: images/galliformes/phasianidae/pternistis-castaneicollis/1.jpg
+  page: https://www.inaturalist.org/photos/610018888
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610018888/original.jpg
+- file: images/galliformes/phasianidae/pternistis-castaneicollis/2.jpg
+  page: https://www.inaturalist.org/photos/207727902
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207727902/original.jpg
+- file: images/galliformes/phasianidae/pternistis-castaneicollis/3.jpg
+  page: https://www.inaturalist.org/photos/53916129
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53916129/original.jpg
+- file: images/galliformes/phasianidae/pternistis-castaneicollis/4.jpg
+  page: https://www.inaturalist.org/photos/610018771
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610018771/original.jpg
 ---
 
 

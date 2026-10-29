@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-multostriata/1.jpg
+  page: https://www.inaturalist.org/photos/551832058
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551832058/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-multostriata/1.jpg
+  page: https://www.inaturalist.org/photos/551832058
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551832058/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-multostriata/2.jpg
+  page: https://www.inaturalist.org/photos/456919240
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456919240/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmotherula-multostriata/3.jpg
+  page: https://www.inaturalist.org/photos/279906925
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279906925/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmotherula-multostriata/4.jpg
+  page: https://www.inaturalist.org/photos/418068117
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418068117/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-multostriata/5.jpg
+  page: https://www.inaturalist.org/photos/160440909
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/160440909/original.jpeg
 ---
 
 

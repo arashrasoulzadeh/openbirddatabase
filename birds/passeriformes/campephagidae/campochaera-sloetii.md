@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/campochaera-sloetii/1.jpg
+  page: https://www.inaturalist.org/photos/566500320
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566500320/original.jpg
+images:
+- file: images/passeriformes/campephagidae/campochaera-sloetii/1.jpg
+  page: https://www.inaturalist.org/photos/566500320
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566500320/original.jpg
+- file: images/passeriformes/campephagidae/campochaera-sloetii/2.jpg
+  page: https://www.inaturalist.org/photos/316991160
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316991160/original.jpg
+- file: images/passeriformes/campephagidae/campochaera-sloetii/3.jpg
+  page: https://www.inaturalist.org/photos/566500321
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566500321/original.jpg
+- file: images/passeriformes/campephagidae/campochaera-sloetii/4.jpg
+  page: https://www.inaturalist.org/photos/316991156
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316991156/original.jpg
+- file: images/passeriformes/campephagidae/campochaera-sloetii/5.jpg
+  page: https://www.inaturalist.org/photos/316314506
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316314506/original.jpg
 ---
 
 

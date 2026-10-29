@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/apodiformes/trochilidae/selasphorus-calliope/1.jpg
+  page: https://www.inaturalist.org/photos/606615648
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606615648/original.jpg
+images:
+- file: images/apodiformes/trochilidae/selasphorus-calliope/1.jpg
+  page: https://www.inaturalist.org/photos/606615648
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606615648/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-calliope/2.jpg
+  page: https://www.inaturalist.org/photos/605772452
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605772452/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-calliope/3.jpg
+  page: https://www.inaturalist.org/photos/615137359
+  author: Adriana Nelly Correa Sandoval
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615137359/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-calliope/4.jpg
+  page: https://www.inaturalist.org/photos/624279753
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624279753/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-calliope/5.jpg
+  page: https://www.inaturalist.org/photos/640508349
+  author: Jonathan Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640508349/original.jpg
 ---
 
 

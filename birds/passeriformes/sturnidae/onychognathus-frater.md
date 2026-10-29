@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/onychognathus-frater/1.jpg
+  page: https://www.inaturalist.org/photos/336780393
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336780393/original.jpeg
+images:
+- file: images/passeriformes/sturnidae/onychognathus-frater/1.jpg
+  page: https://www.inaturalist.org/photos/336780393
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336780393/original.jpeg
+- file: images/passeriformes/sturnidae/onychognathus-frater/2.jpg
+  page: https://www.inaturalist.org/photos/177675660
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177675660/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-frater/3.jpg
+  page: https://www.inaturalist.org/photos/336829842
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336829842/original.jpeg
+- file: images/passeriformes/sturnidae/onychognathus-frater/4.jpg
+  page: https://www.inaturalist.org/photos/336830189
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336830189/original.jpeg
+- file: images/passeriformes/sturnidae/onychognathus-frater/5.jpg
+  page: https://www.inaturalist.org/photos/177675267
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177675267/original.jpg
 ---
 
 

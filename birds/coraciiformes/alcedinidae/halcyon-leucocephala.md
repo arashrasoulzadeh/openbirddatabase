@@ -188,8 +188,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/halcyon-leucocephala/1.jpg
+  page: https://www.inaturalist.org/photos/607908714
+  author: Charly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607908714/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/halcyon-leucocephala/1.jpg
+  page: https://www.inaturalist.org/photos/607908714
+  author: Charly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607908714/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-leucocephala/2.jpg
+  page: https://www.inaturalist.org/photos/610959069
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610959069/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-leucocephala/3.jpg
+  page: https://www.inaturalist.org/photos/723568786
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723568786/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-leucocephala/4.jpg
+  page: https://www.inaturalist.org/photos/613436246
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613436246/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-leucocephala/5.jpg
+  page: https://www.inaturalist.org/photos/669728788
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669728788/original.jpg
 ---
 
 

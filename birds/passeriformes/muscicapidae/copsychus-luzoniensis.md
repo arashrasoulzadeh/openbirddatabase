@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/copsychus-luzoniensis/1.jpg
+  page: https://www.inaturalist.org/photos/637888374
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888374/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/copsychus-luzoniensis/1.jpg
+  page: https://www.inaturalist.org/photos/637888374
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888374/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-luzoniensis/2.jpg
+  page: https://www.inaturalist.org/photos/455890321
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455890321/original.jpeg
+- file: images/passeriformes/muscicapidae/copsychus-luzoniensis/3.jpg
+  page: https://www.inaturalist.org/photos/51116634
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/51116634/original.jpeg
+- file: images/passeriformes/muscicapidae/copsychus-luzoniensis/4.jpg
+  page: https://www.inaturalist.org/photos/637888373
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888373/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-luzoniensis/5.jpg
+  page: https://www.inaturalist.org/photos/637888408
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888408/original.jpg
 ---
 
 

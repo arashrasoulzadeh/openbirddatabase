@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/jacanidae/jacana-spinosa/1.jpg
+  page: https://www.inaturalist.org/photos/605590055
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605590055/original.jpg
+images:
+- file: images/charadriiformes/jacanidae/jacana-spinosa/1.jpg
+  page: https://www.inaturalist.org/photos/605590055
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605590055/original.jpg
+- file: images/charadriiformes/jacanidae/jacana-spinosa/2.jpg
+  page: https://www.inaturalist.org/photos/604908465
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604908465/original.jpg
+- file: images/charadriiformes/jacanidae/jacana-spinosa/3.jpg
+  page: https://www.inaturalist.org/photos/605423928
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605423928/original.jpg
+- file: images/charadriiformes/jacanidae/jacana-spinosa/4.jpg
+  page: https://www.inaturalist.org/photos/605160703
+  author: Arturo Benavides Mendoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605160703/original.jpg
+- file: images/charadriiformes/jacanidae/jacana-spinosa/5.jpg
+  page: https://www.inaturalist.org/photos/607716632
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607716632/original.jpg
 ---
 
 

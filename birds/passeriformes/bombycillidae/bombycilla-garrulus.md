@@ -176,10 +176,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/bombycillidae/bombycilla-garrulus/1.jpg
+  page: https://www.inaturalist.org/photos/605316502
+  author: Marina Potapova
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605316502/original.jpg
+images:
+- file: images/passeriformes/bombycillidae/bombycilla-garrulus/1.jpg
+  page: https://www.inaturalist.org/photos/605316502
+  author: Marina Potapova
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605316502/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-garrulus/2.jpg
+  page: https://www.inaturalist.org/photos/604445918
+  author: Ксения Волянская
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604445918/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-garrulus/3.jpg
+  page: https://www.inaturalist.org/photos/605101911
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605101911/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-garrulus/4.jpg
+  page: https://www.inaturalist.org/photos/604694234
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604694234/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-garrulus/5.jpg
+  page: https://www.inaturalist.org/photos/605369573
+  author: Вячеслав Юсупов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605369573/original.jpg
 ---
 
 

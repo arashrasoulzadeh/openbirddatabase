@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/macrosphenidae/sylvietta-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/647818372
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647818372/original.jpg
+images:
+- file: images/passeriformes/macrosphenidae/sylvietta-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/647818372
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647818372/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-rufescens/2.jpg
+  page: https://www.inaturalist.org/photos/675772668
+  author: Liezl van der Merwe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675772668/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-rufescens/3.jpg
+  page: https://www.inaturalist.org/photos/698444923
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698444923/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-rufescens/4.jpg
+  page: https://www.inaturalist.org/photos/719581107
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719581107/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-rufescens/5.jpg
+  page: https://www.inaturalist.org/photos/731666759
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731666759/original.jpg
 ---
 
 

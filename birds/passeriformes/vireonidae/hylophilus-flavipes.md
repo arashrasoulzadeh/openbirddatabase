@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/hylophilus-flavipes/1.jpg
+  page: https://www.inaturalist.org/photos/605931400
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605931400/original.jpg
+images:
+- file: images/passeriformes/vireonidae/hylophilus-flavipes/1.jpg
+  page: https://www.inaturalist.org/photos/605931400
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605931400/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-flavipes/2.jpg
+  page: https://www.inaturalist.org/photos/618387382
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618387382/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-flavipes/3.jpg
+  page: https://www.inaturalist.org/photos/636549934
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636549934/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-flavipes/4.jpg
+  page: https://www.inaturalist.org/photos/633973645
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633973645/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-flavipes/5.jpg
+  page: https://www.inaturalist.org/photos/728223337
+  author: Vargas Alisson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728223337/original.jpg
 ---
 
 

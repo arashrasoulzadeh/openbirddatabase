@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/psittaciformes/psittacidae/eupsittula-canicularis/1.jpg
+  page: https://www.inaturalist.org/photos/610464053
+  author: Francisco Farriols Sarabia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610464053/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/eupsittula-canicularis/1.jpg
+  page: https://www.inaturalist.org/photos/610464053
+  author: Francisco Farriols Sarabia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610464053/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-canicularis/2.jpg
+  page: https://www.inaturalist.org/photos/605259301
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259301/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-canicularis/3.jpg
+  page: https://www.inaturalist.org/photos/617549415
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617549415/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-canicularis/4.jpg
+  page: https://www.inaturalist.org/photos/617976260
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617976260/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-canicularis/5.jpg
+  page: https://www.inaturalist.org/photos/619566326
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619566326/original.jpg
 ---
 
 

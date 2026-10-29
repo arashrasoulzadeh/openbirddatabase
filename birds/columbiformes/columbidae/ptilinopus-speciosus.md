@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-speciosus/1.jpg
+  page: https://www.inaturalist.org/photos/670781101
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670781101/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-speciosus/1.jpg
+  page: https://www.inaturalist.org/photos/670781101
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670781101/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-speciosus/2.jpg
+  page: https://www.inaturalist.org/photos/670781102
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670781102/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-speciosus/3.jpg
+  page: https://www.inaturalist.org/photos/670780279
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670780279/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-speciosus/4.jpg
+  page: https://www.inaturalist.org/photos/670780278
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670780278/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-speciosus/5.jpg
+  page: https://www.inaturalist.org/photos/670780280
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670780280/original.jpg
 ---
 
 

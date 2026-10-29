@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-gyrola/1.jpg
+  page: https://www.inaturalist.org/photos/608622384
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608622384/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-gyrola/1.jpg
+  page: https://www.inaturalist.org/photos/608622384
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608622384/original.jpg
+- file: images/passeriformes/thraupidae/tangara-gyrola/2.jpg
+  page: https://www.inaturalist.org/photos/610853261
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610853261/original.jpg
+- file: images/passeriformes/thraupidae/tangara-gyrola/3.jpg
+  page: https://www.inaturalist.org/photos/610483071
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610483071/original.jpg
+- file: images/passeriformes/thraupidae/tangara-gyrola/4.jpg
+  page: https://www.inaturalist.org/photos/609802697
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609802697/original.jpg
+- file: images/passeriformes/thraupidae/tangara-gyrola/5.jpg
+  page: https://www.inaturalist.org/photos/609756437
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609756437/original.jpg
 ---
 
 

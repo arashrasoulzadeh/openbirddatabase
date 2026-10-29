@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/attila-phoenicurus/1.jpg
+  page: https://www.inaturalist.org/photos/622507695
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622507695/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/attila-phoenicurus/1.jpg
+  page: https://www.inaturalist.org/photos/622507695
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622507695/original.jpg
+- file: images/passeriformes/tyrannidae/attila-phoenicurus/2.jpg
+  page: https://www.inaturalist.org/photos/468878927
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468878927/original.jpeg
+- file: images/passeriformes/tyrannidae/attila-phoenicurus/3.jpg
+  page: https://www.inaturalist.org/photos/469369635
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469369635/original.jpeg
+- file: images/passeriformes/tyrannidae/attila-phoenicurus/4.jpg
+  page: https://www.inaturalist.org/photos/351805554
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351805554/original.jpeg
+- file: images/passeriformes/tyrannidae/attila-phoenicurus/5.jpg
+  page: https://www.inaturalist.org/photos/277812003
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/277812003/original.jpeg
 ---
 
 

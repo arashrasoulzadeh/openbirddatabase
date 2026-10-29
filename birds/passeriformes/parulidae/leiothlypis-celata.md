@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/parulidae/leiothlypis-celata/1.jpg
+  page: https://www.inaturalist.org/photos/605405519
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605405519/original.jpg
+images:
+- file: images/passeriformes/parulidae/leiothlypis-celata/1.jpg
+  page: https://www.inaturalist.org/photos/605405519
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605405519/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-celata/2.jpg
+  page: https://www.inaturalist.org/photos/604616354
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604616354/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-celata/3.jpg
+  page: https://www.inaturalist.org/photos/605381361
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605381361/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-celata/4.jpg
+  page: https://www.inaturalist.org/photos/604679966
+  author: k7hpn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604679966/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-celata/5.jpg
+  page: https://www.inaturalist.org/photos/605352566
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605352566/original.jpg
 ---
 
 

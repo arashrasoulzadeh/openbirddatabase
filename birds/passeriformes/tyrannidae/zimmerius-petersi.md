@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/zimmerius-petersi/1.jpg
+  page: https://www.inaturalist.org/photos/604899564
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899564/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/zimmerius-petersi/1.jpg
+  page: https://www.inaturalist.org/photos/604899564
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899564/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-petersi/2.jpg
+  page: https://www.inaturalist.org/photos/613666406
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613666406/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-petersi/3.jpg
+  page: https://www.inaturalist.org/photos/618209548
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618209548/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-petersi/4.jpg
+  page: https://www.inaturalist.org/photos/618959358
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618959358/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-petersi/5.jpg
+  page: https://www.inaturalist.org/photos/619144791
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619144791/original.jpg
 ---
 
 

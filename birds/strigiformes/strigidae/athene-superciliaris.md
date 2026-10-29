@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/athene-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/689775239
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689775239/original.jpg
+images:
+- file: images/strigiformes/strigidae/athene-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/689775239
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689775239/original.jpg
+- file: images/strigiformes/strigidae/athene-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/600258096
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600258096/original.jpg
+- file: images/strigiformes/strigidae/athene-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/443863525
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443863525/original.jpeg
+- file: images/strigiformes/strigidae/athene-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/453762593
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453762593/original.jpg
+- file: images/strigiformes/strigidae/athene-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/455474525
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455474525/original.jpeg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/gymnoris-xanthocollis/1.jpg
+  page: https://www.inaturalist.org/photos/615986553
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986553/original.jpg
+images:
+- file: images/passeriformes/passeridae/gymnoris-xanthocollis/1.jpg
+  page: https://www.inaturalist.org/photos/615986553
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986553/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-xanthocollis/2.jpg
+  page: https://www.inaturalist.org/photos/623797785
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623797785/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-xanthocollis/3.jpg
+  page: https://www.inaturalist.org/photos/627099486
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627099486/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-xanthocollis/4.jpg
+  page: https://www.inaturalist.org/photos/615986752
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986752/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-xanthocollis/5.jpg
+  page: https://www.inaturalist.org/photos/615986530
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986530/original.jpg
 ---
 
 

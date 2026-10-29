@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/arizelocichla-tephrolaema/1.jpg
+  page: https://www.inaturalist.org/photos/63849216
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63849216/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/arizelocichla-tephrolaema/1.jpg
+  page: https://www.inaturalist.org/photos/63849216
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63849216/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-tephrolaema/2.jpg
+  page: https://www.inaturalist.org/photos/29258979
+  author: Lennart Hudel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29258979/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-tephrolaema/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5721787798527179410
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91647/original.JPG
+- file: images/passeriformes/pycnonotidae/arizelocichla-tephrolaema/4.jpg
+  page: https://www.inaturalist.org/photos/113775576
+  author: Lennart Hudel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113775576/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-tephrolaema/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistBiokoIslandEquatorialGuinea#5717579359203641586
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/87718/original.JPG
 ---
 
 

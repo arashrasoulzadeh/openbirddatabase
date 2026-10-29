@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/henicorhina-negreti/1.jpg
+  page: https://www.inaturalist.org/photos/652839224
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652839224/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/henicorhina-negreti/1.jpg
+  page: https://www.inaturalist.org/photos/652839224
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652839224/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-negreti/2.jpg
+  page: https://www.inaturalist.org/photos/352799465
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352799465/original.jpeg
+- file: images/passeriformes/troglodytidae/henicorhina-negreti/3.jpg
+  page: https://www.inaturalist.org/photos/255637691
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255637691/original.jpeg
+- file: images/passeriformes/troglodytidae/henicorhina-negreti/4.jpg
+  page: https://www.inaturalist.org/photos/234388140
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/234388140/original.jpeg
+- file: images/passeriformes/troglodytidae/henicorhina-negreti/5.jpg
+  page: https://www.inaturalist.org/photos/249898430
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249898430/original.jpeg
 ---
 
 

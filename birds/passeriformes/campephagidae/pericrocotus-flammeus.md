@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-flammeus/1.jpg
+  page: https://www.inaturalist.org/photos/612456388
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456388/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-flammeus/1.jpg
+  page: https://www.inaturalist.org/photos/612456388
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456388/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-flammeus/2.jpg
+  page: https://www.inaturalist.org/photos/651239453
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651239453/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-flammeus/3.jpg
+  page: https://www.inaturalist.org/photos/650798847
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650798847/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-flammeus/4.jpg
+  page: https://www.inaturalist.org/photos/617206981
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206981/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-flammeus/5.jpg
+  page: https://www.inaturalist.org/photos/619436716
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619436716/original.jpg
 ---
 
 

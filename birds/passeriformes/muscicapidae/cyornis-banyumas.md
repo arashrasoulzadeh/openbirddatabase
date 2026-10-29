@@ -150,8 +150,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-banyumas/1.jpg
+  page: https://www.inaturalist.org/photos/577597724
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577597724/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-banyumas/1.jpg
+  page: https://www.inaturalist.org/photos/577597724
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577597724/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-banyumas/2.jpg
+  page: https://www.inaturalist.org/photos/288317734
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288317734/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-banyumas/3.jpg
+  page: https://www.inaturalist.org/photos/332883433
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332883433/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-banyumas/4.jpg
+  page: https://www.inaturalist.org/photos/262301144
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262301144/original.jpeg
 ---
 
 

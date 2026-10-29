@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/sarothruridae/sarothrura-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/651206243
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651206243/original.jpg
+images:
+- file: images/gruiformes/sarothruridae/sarothrura-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/651206243
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651206243/original.jpg
+- file: images/gruiformes/sarothruridae/sarothrura-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/459028369
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459028369/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/324529511
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/324529511/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/514384453
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514384453/original.jpg
+- file: images/gruiformes/sarothruridae/sarothrura-rufa/5.jpg
+  page: https://www.inaturalist.org/photos/239838963
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239838963/original.jpeg
 ---
 
 

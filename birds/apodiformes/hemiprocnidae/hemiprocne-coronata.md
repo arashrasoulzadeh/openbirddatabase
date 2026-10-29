@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/hemiprocnidae/hemiprocne-coronata/1.jpg
+  page: https://www.inaturalist.org/photos/608371358
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608371358/original.jpg
+images:
+- file: images/apodiformes/hemiprocnidae/hemiprocne-coronata/1.jpg
+  page: https://www.inaturalist.org/photos/608371358
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608371358/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-coronata/2.jpg
+  page: https://www.inaturalist.org/photos/611766754
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611766754/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-coronata/3.jpg
+  page: https://www.inaturalist.org/photos/622829522
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622829522/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-coronata/4.jpg
+  page: https://www.inaturalist.org/photos/619436762
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619436762/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-coronata/5.jpg
+  page: https://www.inaturalist.org/photos/626859496
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626859496/original.jpg
 ---
 
 

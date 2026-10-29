@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/strigiformes/strigidae/psiloscops-flammeolus/1.jpg
+  page: https://www.inaturalist.org/photos/662475380
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662475380/original.jpg
+images:
+- file: images/strigiformes/strigidae/psiloscops-flammeolus/1.jpg
+  page: https://www.inaturalist.org/photos/662475380
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662475380/original.jpg
+- file: images/strigiformes/strigidae/psiloscops-flammeolus/2.jpg
+  page: https://www.inaturalist.org/photos/664092122
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664092122/original.jpg
+- file: images/strigiformes/strigidae/psiloscops-flammeolus/3.jpg
+  page: https://www.inaturalist.org/photos/707603250
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707603250/original.jpg
+- file: images/strigiformes/strigidae/psiloscops-flammeolus/4.jpg
+  page: https://www.inaturalist.org/photos/480497144
+  author: Gustavo ZaRo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480497144/original.jpeg
+- file: images/strigiformes/strigidae/psiloscops-flammeolus/5.jpg
+  page: https://www.inaturalist.org/photos/582738628
+  author: Tia Offner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582738628/original.jpg
 ---
 
 

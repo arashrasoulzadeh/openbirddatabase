@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/thraupidae/eucometis-penicillata/1.jpg
+  page: https://www.inaturalist.org/photos/605138440
+  author: Andrew J. Crawford
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605138440/original.jpg
+images:
+- file: images/passeriformes/thraupidae/eucometis-penicillata/1.jpg
+  page: https://www.inaturalist.org/photos/605138440
+  author: Andrew J. Crawford
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605138440/original.jpg
+- file: images/passeriformes/thraupidae/eucometis-penicillata/2.jpg
+  page: https://www.inaturalist.org/photos/608692676
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608692676/original.jpg
+- file: images/passeriformes/thraupidae/eucometis-penicillata/3.jpg
+  page: https://www.inaturalist.org/photos/612751074
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612751074/original.jpg
+- file: images/passeriformes/thraupidae/eucometis-penicillata/4.jpg
+  page: https://www.inaturalist.org/photos/613763093
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613763093/original.jpg
+- file: images/passeriformes/thraupidae/eucometis-penicillata/5.jpg
+  page: https://www.inaturalist.org/photos/630202116
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630202116/original.jpg
 ---
 
 

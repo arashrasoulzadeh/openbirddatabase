@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/pellorneum-albiventre/1.jpg
+  page: https://www.inaturalist.org/photos/722343070
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343070/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/pellorneum-albiventre/1.jpg
+  page: https://www.inaturalist.org/photos/722343070
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343070/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-albiventre/2.jpg
+  page: https://www.inaturalist.org/photos/722343091
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343091/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-albiventre/3.jpg
+  page: https://www.inaturalist.org/photos/722343103
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343103/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-albiventre/4.jpg
+  page: https://www.inaturalist.org/photos/722343068
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343068/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-albiventre/5.jpg
+  page: https://www.inaturalist.org/photos/428915018
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428915018/original.jpg
 ---
 
 

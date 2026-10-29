@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/remizidae/remiz-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/624859344
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624859344/original.jpg
+images:
+- file: images/passeriformes/remizidae/remiz-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/624859344
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624859344/original.jpg
+- file: images/passeriformes/remizidae/remiz-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/703683012
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703683012/original.jpg
+- file: images/passeriformes/remizidae/remiz-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/509118464
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509118464/original.jpg
+- file: images/passeriformes/remizidae/remiz-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/523363325
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523363325/original.jpg
+- file: images/passeriformes/remizidae/remiz-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/530689523
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530689523/original.jpg
 ---
 
 

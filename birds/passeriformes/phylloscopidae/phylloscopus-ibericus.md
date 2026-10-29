@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-ibericus/1.jpg
+  page: https://www.inaturalist.org/photos/628794642
+  author: euqirneto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628794642/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-ibericus/1.jpg
+  page: https://www.inaturalist.org/photos/628794642
+  author: euqirneto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628794642/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-ibericus/2.jpg
+  page: https://www.inaturalist.org/photos/721144702
+  author: Geoff Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721144702/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-ibericus/3.jpg
+  page: https://www.inaturalist.org/photos/640643603
+  author: Morgan Caygill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640643603/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-ibericus/4.jpg
+  page: https://www.inaturalist.org/photos/639118963
+  author: Dylan Findlay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639118963/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-ibericus/5.jpg
+  page: https://www.inaturalist.org/photos/661446117
+  author: Mikael Nyman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661446117/original.jpg
 ---
 
 

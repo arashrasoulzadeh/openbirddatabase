@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/pomatostomidae/pomatostomus-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/617710075
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617710075/original.jpg
+images:
+- file: images/passeriformes/pomatostomidae/pomatostomus-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/617710075
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617710075/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-superciliosus/2.jpg
+  page: https://www.inaturalist.org/photos/620473394
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473394/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-superciliosus/3.jpg
+  page: https://www.inaturalist.org/photos/620473414
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473414/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-superciliosus/4.jpg
+  page: https://www.inaturalist.org/photos/620472048
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620472048/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-superciliosus/5.jpg
+  page: https://www.inaturalist.org/photos/620472082
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620472082/original.jpg
 ---
 
 

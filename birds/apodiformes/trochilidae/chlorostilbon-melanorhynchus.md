@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chlorostilbon-melanorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/608235966
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608235966/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chlorostilbon-melanorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/608235966
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608235966/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-melanorhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/652831089
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652831089/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-melanorhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/714671138
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714671138/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-melanorhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/468819755
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468819755/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-melanorhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/489394381
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489394381/original.jpg
 ---
 
 

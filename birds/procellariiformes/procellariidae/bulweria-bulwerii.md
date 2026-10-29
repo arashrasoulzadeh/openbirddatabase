@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/procellariiformes/procellariidae/bulweria-bulwerii/1.jpg
+  page: https://www.inaturalist.org/photos/654367440
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367440/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/bulweria-bulwerii/1.jpg
+  page: https://www.inaturalist.org/photos/654367440
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367440/original.jpg
+- file: images/procellariiformes/procellariidae/bulweria-bulwerii/2.jpg
+  page: https://www.inaturalist.org/photos/663154468
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663154468/original.jpg
+- file: images/procellariiformes/procellariidae/bulweria-bulwerii/3.jpg
+  page: https://www.inaturalist.org/photos/663154497
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663154497/original.jpg
+- file: images/procellariiformes/procellariidae/bulweria-bulwerii/4.jpg
+  page: https://www.inaturalist.org/photos/663154527
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663154527/original.jpg
+- file: images/procellariiformes/procellariidae/bulweria-bulwerii/5.jpg
+  page: https://www.inaturalist.org/photos/670838986
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670838986/original.jpg
 ---
 
 

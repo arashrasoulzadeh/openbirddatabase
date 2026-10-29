@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/pardirallus-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/462709720
+  author: Reserva Natural Urbana El Corredor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462709720/original.jpeg
+images:
+- file: images/gruiformes/rallidae/pardirallus-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/462709720
+  author: Reserva Natural Urbana El Corredor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462709720/original.jpeg
+- file: images/gruiformes/rallidae/pardirallus-maculatus/2.jpg
+  page: https://www.inaturalist.org/photos/478810285
+  author: Jose Luis Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478810285/original.jpeg
+- file: images/gruiformes/rallidae/pardirallus-maculatus/3.jpg
+  page: https://www.inaturalist.org/photos/482012582
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482012582/original.jpeg
+- file: images/gruiformes/rallidae/pardirallus-maculatus/4.jpg
+  page: https://www.inaturalist.org/photos/508034136
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508034136/original.jpg
+- file: images/gruiformes/rallidae/pardirallus-maculatus/5.jpg
+  page: https://www.inaturalist.org/photos/561208450
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561208450/original.jpg
 ---
 
 

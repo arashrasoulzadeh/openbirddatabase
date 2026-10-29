@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/meliphagidae/anthochaera-carunculata/1.jpg
+  page: https://www.inaturalist.org/photos/605598675
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605598675/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/anthochaera-carunculata/1.jpg
+  page: https://www.inaturalist.org/photos/605598675
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605598675/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-carunculata/2.jpg
+  page: https://www.inaturalist.org/photos/604421949
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604421949/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-carunculata/3.jpg
+  page: https://www.inaturalist.org/photos/605594036
+  author: Ian Rainbow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605594036/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-carunculata/4.jpg
+  page: https://www.inaturalist.org/photos/610141351
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610141351/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-carunculata/5.jpg
+  page: https://www.inaturalist.org/photos/608771393
+  author: Natalie Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608771393/original.jpg
 ---
 
 

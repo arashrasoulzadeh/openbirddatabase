@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/turtur-afer/1.jpg
+  page: https://www.inaturalist.org/photos/612446527
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612446527/original.jpg
+images:
+- file: images/columbiformes/columbidae/turtur-afer/1.jpg
+  page: https://www.inaturalist.org/photos/612446527
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612446527/original.jpg
+- file: images/columbiformes/columbidae/turtur-afer/2.jpg
+  page: https://www.inaturalist.org/photos/636874009
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636874009/original.jpg
+- file: images/columbiformes/columbidae/turtur-afer/3.jpg
+  page: https://www.inaturalist.org/photos/677838408
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677838408/original.jpg
+- file: images/columbiformes/columbidae/turtur-afer/4.jpg
+  page: https://www.inaturalist.org/photos/472287542
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472287542/original.jpg
+- file: images/columbiformes/columbidae/turtur-afer/5.jpg
+  page: https://www.inaturalist.org/photos/479349155
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479349155/original.jpg
 ---
 
 

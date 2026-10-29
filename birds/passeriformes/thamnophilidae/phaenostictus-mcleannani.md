@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/phaenostictus-mcleannani/1.jpg
+  page: https://www.inaturalist.org/photos/607416278
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607416278/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/phaenostictus-mcleannani/1.jpg
+  page: https://www.inaturalist.org/photos/607416278
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607416278/original.jpg
+- file: images/passeriformes/thamnophilidae/phaenostictus-mcleannani/2.jpg
+  page: https://www.inaturalist.org/photos/614515169
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515169/original.jpg
+- file: images/passeriformes/thamnophilidae/phaenostictus-mcleannani/3.jpg
+  page: https://www.inaturalist.org/photos/630926970
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630926970/original.jpg
+- file: images/passeriformes/thamnophilidae/phaenostictus-mcleannani/4.jpg
+  page: https://www.inaturalist.org/photos/728711892
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728711892/original.jpg
+- file: images/passeriformes/thamnophilidae/phaenostictus-mcleannani/5.jpg
+  page: https://www.inaturalist.org/photos/696813692
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696813692/original.jpg
 ---
 
 

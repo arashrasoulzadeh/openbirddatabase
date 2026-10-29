@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-portoricensis/1.jpg
+  page: https://www.inaturalist.org/photos/631234261
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631234261/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-portoricensis/1.jpg
+  page: https://www.inaturalist.org/photos/631234261
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631234261/original.jpg
+- file: images/piciformes/picidae/melanerpes-portoricensis/2.jpg
+  page: https://www.inaturalist.org/photos/653312480
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653312480/original.jpg
+- file: images/piciformes/picidae/melanerpes-portoricensis/3.jpg
+  page: https://www.inaturalist.org/photos/643343210
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643343210/original.jpg
+- file: images/piciformes/picidae/melanerpes-portoricensis/4.jpg
+  page: https://www.inaturalist.org/photos/640538745
+  author: Jonathan Kade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640538745/original.jpg
+- file: images/piciformes/picidae/melanerpes-portoricensis/5.jpg
+  page: https://www.inaturalist.org/photos/643304158
+  author: Ricardo siverio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643304158/original.jpg
 ---
 
 

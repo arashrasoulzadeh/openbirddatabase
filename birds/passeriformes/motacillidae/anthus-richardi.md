@@ -190,10 +190,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/motacillidae/anthus-richardi/1.jpg
+  page: https://www.inaturalist.org/photos/611445463
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611445463/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-richardi/1.jpg
+  page: https://www.inaturalist.org/photos/611445463
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611445463/original.jpg
+- file: images/passeriformes/motacillidae/anthus-richardi/2.jpg
+  page: https://www.inaturalist.org/photos/616039056
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616039056/original.jpg
+- file: images/passeriformes/motacillidae/anthus-richardi/3.jpg
+  page: https://www.inaturalist.org/photos/623089717
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089717/original.jpg
+- file: images/passeriformes/motacillidae/anthus-richardi/4.jpg
+  page: https://www.inaturalist.org/photos/661174650
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661174650/original.jpg
+- file: images/passeriformes/motacillidae/anthus-richardi/5.jpg
+  page: https://www.inaturalist.org/photos/616039075
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616039075/original.jpg
 ---
 
 

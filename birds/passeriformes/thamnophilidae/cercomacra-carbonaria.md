@@ -142,8 +142,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cercomacra-carbonaria/1.jpg
+  page: https://www.inaturalist.org/photos/471102614
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471102614/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/cercomacra-carbonaria/1.jpg
+  page: https://www.inaturalist.org/photos/471102614
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471102614/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-carbonaria/2.jpg
+  page: https://www.inaturalist.org/photos/466755283
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466755283/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacra-carbonaria/3.jpg
+  page: https://www.inaturalist.org/photos/418532656
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418532656/original.jpg
 ---
 
 

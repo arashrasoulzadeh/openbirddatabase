@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/petroicidae/poecilodryas-superciliosa/1.jpg
+  page: https://www.inaturalist.org/photos/633420776
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633420776/original.jpg
+images:
+- file: images/passeriformes/petroicidae/poecilodryas-superciliosa/1.jpg
+  page: https://www.inaturalist.org/photos/633420776
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633420776/original.jpg
+- file: images/passeriformes/petroicidae/poecilodryas-superciliosa/2.jpg
+  page: https://www.inaturalist.org/photos/332989772
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332989772/original.jpeg
+- file: images/passeriformes/petroicidae/poecilodryas-superciliosa/3.jpg
+  page: https://www.inaturalist.org/photos/214574110
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/214574110/original.jpeg
+- file: images/passeriformes/petroicidae/poecilodryas-superciliosa/4.jpg
+  page: https://www.inaturalist.org/photos/633420775
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633420775/original.jpg
+- file: images/passeriformes/petroicidae/poecilodryas-superciliosa/5.jpg
+  page: https://www.inaturalist.org/photos/651964682
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651964682/original.jpg
 ---
 
 

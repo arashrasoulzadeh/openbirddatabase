@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/galbalcyrhynchus-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/610012944
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012944/original.jpg
+images:
+- file: images/piciformes/galbulidae/galbalcyrhynchus-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/610012944
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012944/original.jpg
+- file: images/piciformes/galbulidae/galbalcyrhynchus-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/624262085
+  author: brettaugust
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624262085/original.jpg
+- file: images/piciformes/galbulidae/galbalcyrhynchus-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/671288418
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671288418/original.jpg
+- file: images/piciformes/galbulidae/galbalcyrhynchus-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/671325528
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671325528/original.jpg
+- file: images/piciformes/galbulidae/galbalcyrhynchus-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/681608542
+  author: Siddarth Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681608542/original.jpg
 ---
 
 

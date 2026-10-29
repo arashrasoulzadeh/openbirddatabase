@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/microhierax-latifrons/1.jpg
+  page: https://www.inaturalist.org/photos/617987086
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617987086/original.jpg
+images:
+- file: images/falconiformes/falconidae/microhierax-latifrons/1.jpg
+  page: https://www.inaturalist.org/photos/617987086
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617987086/original.jpg
+- file: images/falconiformes/falconidae/microhierax-latifrons/2.jpg
+  page: https://www.inaturalist.org/photos/608359948
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608359948/original.jpg
+- file: images/falconiformes/falconidae/microhierax-latifrons/3.jpg
+  page: https://www.inaturalist.org/photos/598026679
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598026679/original.jpg
+- file: images/falconiformes/falconidae/microhierax-latifrons/4.jpg
+  page: https://www.inaturalist.org/photos/308678488
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/308678488/original.jpg
+- file: images/falconiformes/falconidae/microhierax-latifrons/5.jpg
+  page: https://www.inaturalist.org/photos/226481519
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226481519/original.jpg
 ---
 
 

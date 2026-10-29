@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/chionidae/chionis-minor/1.jpg
+  page: https://www.inaturalist.org/photos/628169566
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628169566/original.jpg
+images:
+- file: images/charadriiformes/chionidae/chionis-minor/1.jpg
+  page: https://www.inaturalist.org/photos/628169566
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628169566/original.jpg
+- file: images/charadriiformes/chionidae/chionis-minor/2.jpg
+  page: https://www.inaturalist.org/photos/735862802
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735862802/original.jpg
+- file: images/charadriiformes/chionidae/chionis-minor/3.jpg
+  page: https://www.inaturalist.org/photos/504948207
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504948207/original.jpg
+- file: images/charadriiformes/chionidae/chionis-minor/4.jpg
+  page: https://www.inaturalist.org/photos/386356673
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386356673/original.jpg
+- file: images/charadriiformes/chionidae/chionis-minor/5.jpg
+  page: https://www.inaturalist.org/photos/428505416
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428505416/original.jpeg
 ---
 
 

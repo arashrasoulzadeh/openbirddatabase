@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/procnias-averano/1.jpg
+  page: https://www.inaturalist.org/photos/617507721
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507721/original.jpg
+images:
+- file: images/passeriformes/cotingidae/procnias-averano/1.jpg
+  page: https://www.inaturalist.org/photos/617507721
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507721/original.jpg
+- file: images/passeriformes/cotingidae/procnias-averano/2.jpg
+  page: https://www.flickr.com/photos/cricketsblog/53536046869/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352079527/original.jpg
+- file: images/passeriformes/cotingidae/procnias-averano/3.jpg
+  page: https://www.inaturalist.org/photos/367668283
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367668283/original.jpeg
+- file: images/passeriformes/cotingidae/procnias-averano/4.jpg
+  page: https://www.inaturalist.org/photos/464958413
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464958413/original.jpeg
+- file: images/passeriformes/cotingidae/procnias-averano/5.jpg
+  page: https://www.inaturalist.org/photos/460000247
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460000247/original.jpeg
 ---
 
 

@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/batis-molitor/1.jpg
+  page: https://www.inaturalist.org/photos/681334562
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681334562/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/batis-molitor/1.jpg
+  page: https://www.inaturalist.org/photos/681334562
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681334562/original.jpg
+- file: images/passeriformes/platysteiridae/batis-molitor/2.jpg
+  page: https://www.inaturalist.org/photos/713651396
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713651396/original.jpg
+- file: images/passeriformes/platysteiridae/batis-molitor/3.jpg
+  page: https://www.inaturalist.org/photos/628084723
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628084723/original.jpg
+- file: images/passeriformes/platysteiridae/batis-molitor/4.jpg
+  page: https://www.inaturalist.org/photos/646311693
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646311693/original.jpg
+- file: images/passeriformes/platysteiridae/batis-molitor/5.jpg
+  page: https://www.inaturalist.org/photos/716611657
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716611657/original.jpg
 ---
 
 

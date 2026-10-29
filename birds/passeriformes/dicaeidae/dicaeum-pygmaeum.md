@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-pygmaeum/1.jpg
+  page: https://www.inaturalist.org/photos/458592283
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458592283/original.jpeg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-pygmaeum/1.jpg
+  page: https://www.inaturalist.org/photos/458592283
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458592283/original.jpeg
+- file: images/passeriformes/dicaeidae/dicaeum-pygmaeum/2.jpg
+  page: https://www.inaturalist.org/photos/270925529
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925529/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-pygmaeum/3.jpg
+  page: https://www.inaturalist.org/photos/652163253
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652163253/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-pygmaeum/4.jpg
+  page: https://www.inaturalist.org/photos/458592301
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458592301/original.jpeg
+- file: images/passeriformes/dicaeidae/dicaeum-pygmaeum/5.jpg
+  page: https://www.inaturalist.org/photos/458592317
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458592317/original.jpeg
 ---
 
 

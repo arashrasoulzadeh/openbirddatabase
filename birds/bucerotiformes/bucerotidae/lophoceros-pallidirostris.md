@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/lophoceros-pallidirostris/1.jpg
+  page: https://www.inaturalist.org/photos/585341718
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585341718/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/lophoceros-pallidirostris/1.jpg
+  page: https://www.inaturalist.org/photos/585341718
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585341718/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-pallidirostris/2.jpg
+  page: https://www.inaturalist.org/photos/444651026
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444651026/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-pallidirostris/3.jpg
+  page: https://www.inaturalist.org/photos/473526164
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473526164/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-pallidirostris/4.jpg
+  page: https://www.inaturalist.org/photos/585341719
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585341719/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-pallidirostris/5.jpg
+  page: https://www.inaturalist.org/photos/586270556
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586270556/original.jpg
 ---
 
 

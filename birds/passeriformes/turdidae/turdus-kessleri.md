@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 25.1
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 149.7
   tail_length_mm: 124.2
   body_mass_g: 76.3
+image:
+  file: images/passeriformes/turdidae/turdus-kessleri/1.jpg
+  page: https://www.inaturalist.org/photos/710231582
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710231582/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-kessleri/1.jpg
+  page: https://www.inaturalist.org/photos/710231582
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710231582/original.jpg
+- file: images/passeriformes/turdidae/turdus-kessleri/2.jpg
+  page: https://www.inaturalist.org/photos/519759622
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759622/original.jpg
+- file: images/passeriformes/turdidae/turdus-kessleri/3.jpg
+  page: https://www.inaturalist.org/photos/483046376
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483046376/original.jpg
+- file: images/passeriformes/turdidae/turdus-kessleri/4.jpg
+  page: https://www.inaturalist.org/photos/409438321
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409438321/original.jpeg
+- file: images/passeriformes/turdidae/turdus-kessleri/5.jpg
+  page: https://www.inaturalist.org/photos/520230542
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520230542/original.jpg
 ---
 
 

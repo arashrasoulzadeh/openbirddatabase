@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-cioides/1.jpg
+  page: https://www.inaturalist.org/photos/605327075
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605327075/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-cioides/1.jpg
+  page: https://www.inaturalist.org/photos/605327075
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605327075/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cioides/2.jpg
+  page: https://www.inaturalist.org/photos/604944358
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604944358/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cioides/3.jpg
+  page: https://www.inaturalist.org/photos/609309437
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609309437/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cioides/4.jpg
+  page: https://www.inaturalist.org/photos/607646569
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607646569/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cioides/5.jpg
+  page: https://www.inaturalist.org/photos/611373539
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611373539/original.jpg
 ---
 
 

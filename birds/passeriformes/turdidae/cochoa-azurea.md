@@ -131,7 +131,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 18.8
@@ -139,6 +140,44 @@ morphology:
   wing_length_mm: 116.0
   tail_length_mm: 93.0
   body_mass_g: 111.5
+image:
+  file: images/passeriformes/turdidae/cochoa-azurea/1.jpg
+  page: https://www.inaturalist.org/photos/464516426
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464516426/original.jpg
+images:
+- file: images/passeriformes/turdidae/cochoa-azurea/1.jpg
+  page: https://www.inaturalist.org/photos/464516426
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464516426/original.jpg
+- file: images/passeriformes/turdidae/cochoa-azurea/2.jpg
+  page: https://www.inaturalist.org/photos/313034618
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313034618/original.jpeg
+- file: images/passeriformes/turdidae/cochoa-azurea/3.jpg
+  page: https://www.inaturalist.org/photos/298704466
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298704466/original.jpeg
+- file: images/passeriformes/turdidae/cochoa-azurea/4.jpg
+  page: https://www.inaturalist.org/photos/464516445
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464516445/original.jpg
+- file: images/passeriformes/turdidae/cochoa-azurea/5.jpg
+  page: https://www.inaturalist.org/photos/464516444
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464516444/original.jpg
 ---
 
 

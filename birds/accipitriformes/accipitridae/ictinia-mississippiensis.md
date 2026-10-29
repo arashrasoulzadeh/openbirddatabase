@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/accipitriformes/accipitridae/ictinia-mississippiensis/1.jpg
+  page: https://www.inaturalist.org/photos/612709298
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612709298/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/ictinia-mississippiensis/1.jpg
+  page: https://www.inaturalist.org/photos/612709298
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612709298/original.jpg
+- file: images/accipitriformes/accipitridae/ictinia-mississippiensis/2.jpg
+  page: https://www.inaturalist.org/photos/618823349
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618823349/original.jpg
+- file: images/accipitriformes/accipitridae/ictinia-mississippiensis/3.jpg
+  page: https://www.inaturalist.org/photos/628838056
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628838056/original.jpg
+- file: images/accipitriformes/accipitridae/ictinia-mississippiensis/4.jpg
+  page: https://www.inaturalist.org/photos/637649766
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637649766/original.jpg
+- file: images/accipitriformes/accipitridae/ictinia-mississippiensis/5.jpg
+  page: https://www.inaturalist.org/photos/643091803
+  author: Hannah von Suskil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643091803/original.jpg
 ---
 
 

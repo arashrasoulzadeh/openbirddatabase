@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/talaphorus-chlorocercus/1.jpg
+  page: https://www.inaturalist.org/photos/141282077
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/141282077/original.jpg
+images:
+- file: images/apodiformes/trochilidae/talaphorus-chlorocercus/1.jpg
+  page: https://www.inaturalist.org/photos/141282077
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/141282077/original.jpg
+- file: images/apodiformes/trochilidae/talaphorus-chlorocercus/2.jpg
+  page: https://www.inaturalist.org/photos/52845221
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52845221/original.jpg
+- file: images/apodiformes/trochilidae/talaphorus-chlorocercus/3.jpg
+  page: https://www.inaturalist.org/photos/141282103
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/141282103/original.jpg
+- file: images/apodiformes/trochilidae/talaphorus-chlorocercus/4.jpg
+  page: https://www.inaturalist.org/photos/141282137
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/141282137/original.jpg
+- file: images/apodiformes/trochilidae/talaphorus-chlorocercus/5.jpg
+  page: https://www.inaturalist.org/photos/52845213
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52845213/original.jpg
 ---
 
 

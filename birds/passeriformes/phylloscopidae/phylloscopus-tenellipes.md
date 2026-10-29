@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-tenellipes/1.jpg
+  page: https://www.inaturalist.org/photos/470076296
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470076296/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-tenellipes/1.jpg
+  page: https://www.inaturalist.org/photos/470076296
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470076296/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-tenellipes/2.jpg
+  page: https://www.inaturalist.org/photos/524479943
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524479943/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-tenellipes/3.jpg
+  page: https://www.inaturalist.org/photos/514581084
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514581084/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-tenellipes/4.jpg
+  page: https://www.inaturalist.org/photos/599690175
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599690175/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-tenellipes/5.jpg
+  page: https://www.inaturalist.org/photos/389793000
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/389793000/original.jpg
 ---
 
 

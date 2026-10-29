@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendrocopos-himalayensis/1.jpg
+  page: https://www.inaturalist.org/photos/616835552
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616835552/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-himalayensis/1.jpg
+  page: https://www.inaturalist.org/photos/616835552
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616835552/original.jpg
+- file: images/piciformes/picidae/dendrocopos-himalayensis/2.jpg
+  page: https://www.inaturalist.org/photos/577588852
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577588852/original.jpg
+- file: images/piciformes/picidae/dendrocopos-himalayensis/3.jpg
+  page: https://www.inaturalist.org/photos/601353500
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601353500/original.jpg
+- file: images/piciformes/picidae/dendrocopos-himalayensis/4.jpg
+  page: https://www.inaturalist.org/photos/345164548
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345164548/original.jpg
+- file: images/piciformes/picidae/dendrocopos-himalayensis/5.jpg
+  page: https://www.inaturalist.org/photos/440066062
+  author: Nicolás Tamargo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440066062/original.jpg
 ---
 
 

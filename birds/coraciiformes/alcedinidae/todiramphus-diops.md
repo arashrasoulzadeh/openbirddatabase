@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-diops/1.jpg
+  page: https://www.inaturalist.org/photos/711246508
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711246508/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-diops/1.jpg
+  page: https://www.inaturalist.org/photos/711246508
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711246508/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-diops/2.jpg
+  page: https://www.inaturalist.org/photos/526333039
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333039/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-diops/3.jpg
+  page: https://www.inaturalist.org/photos/312048294
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/312048294/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-diops/4.jpg
+  page: https://www.inaturalist.org/photos/246906496
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246906496/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-diops/5.jpg
+  page: https://www.inaturalist.org/photos/107893558
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107893558/original.jpg
 ---
 
 

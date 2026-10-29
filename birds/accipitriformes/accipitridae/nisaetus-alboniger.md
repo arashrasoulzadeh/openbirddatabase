@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/nisaetus-alboniger/1.jpg
+  page: https://www.inaturalist.org/photos/629579967
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579967/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/nisaetus-alboniger/1.jpg
+  page: https://www.inaturalist.org/photos/629579967
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579967/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-alboniger/2.jpg
+  page: https://www.inaturalist.org/photos/694085144
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694085144/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-alboniger/3.jpg
+  page: https://www.inaturalist.org/photos/599647037
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599647037/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-alboniger/4.jpg
+  page: https://www.inaturalist.org/photos/414818635
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414818635/original.jpeg
+- file: images/accipitriformes/accipitridae/nisaetus-alboniger/5.jpg
+  page: https://www.inaturalist.org/photos/741654941
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741654941/original.jpg
 ---
 
 

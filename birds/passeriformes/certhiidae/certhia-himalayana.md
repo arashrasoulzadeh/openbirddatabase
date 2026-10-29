@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/certhiidae/certhia-himalayana/1.jpg
+  page: https://www.inaturalist.org/photos/609684528
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684528/original.jpg
+images:
+- file: images/passeriformes/certhiidae/certhia-himalayana/1.jpg
+  page: https://www.inaturalist.org/photos/609684528
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684528/original.jpg
+- file: images/passeriformes/certhiidae/certhia-himalayana/2.jpg
+  page: https://www.inaturalist.org/photos/616370694
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616370694/original.jpg
+- file: images/passeriformes/certhiidae/certhia-himalayana/3.jpg
+  page: https://www.inaturalist.org/photos/470069253
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470069253/original.jpeg
+- file: images/passeriformes/certhiidae/certhia-himalayana/4.jpg
+  page: https://www.inaturalist.org/photos/478521956
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478521956/original.jpeg
+- file: images/passeriformes/certhiidae/certhia-himalayana/5.jpg
+  page: https://www.inaturalist.org/photos/544310349
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544310349/original.jpg
 ---
 
 

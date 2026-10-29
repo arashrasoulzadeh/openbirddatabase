@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/parulidae/setophaga-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/605162157
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162157/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/605162157
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162157/original.jpg
+- file: images/passeriformes/parulidae/setophaga-occidentalis/2.jpg
+  page: https://www.inaturalist.org/photos/605790769
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605790769/original.jpg
+- file: images/passeriformes/parulidae/setophaga-occidentalis/3.jpg
+  page: https://www.inaturalist.org/photos/606539660
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606539660/original.jpg
+- file: images/passeriformes/parulidae/setophaga-occidentalis/4.jpg
+  page: https://www.inaturalist.org/photos/616534235
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616534235/original.jpg
+- file: images/passeriformes/parulidae/setophaga-occidentalis/5.jpg
+  page: https://www.inaturalist.org/photos/619996011
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619996011/original.jpg
 ---
 
 

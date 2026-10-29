@@ -200,10 +200,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/motacillidae/motacilla-alba/1.jpg
+  page: https://www.inaturalist.org/photos/604988422
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604988422/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-alba/1.jpg
+  page: https://www.inaturalist.org/photos/604988422
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604988422/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-alba/2.jpg
+  page: https://www.inaturalist.org/photos/604779937
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604779937/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-alba/3.jpg
+  page: https://www.inaturalist.org/photos/605247236
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605247236/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-alba/4.jpg
+  page: https://www.inaturalist.org/photos/605417607
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417607/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-alba/5.jpg
+  page: https://www.inaturalist.org/photos/604909052
+  author: IMORI MIHO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604909052/original.jpg
 ---
 
 

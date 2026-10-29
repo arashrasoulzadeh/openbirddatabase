@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/tachyeres-brachypterus/1.jpg
+  page: https://www.inaturalist.org/photos/591771769
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591771769/original.jpg
+images:
+- file: images/anseriformes/anatidae/tachyeres-brachypterus/1.jpg
+  page: https://www.inaturalist.org/photos/591771769
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591771769/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-brachypterus/2.jpg
+  page: https://www.inaturalist.org/photos/593115745
+  author: patrickc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593115745/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-brachypterus/3.jpg
+  page: https://www.inaturalist.org/photos/594752497
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594752497/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-brachypterus/4.jpg
+  page: https://www.inaturalist.org/photos/601113716
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601113716/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-brachypterus/5.jpg
+  page: https://www.inaturalist.org/photos/591148062
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591148062/original.jpg
 ---
 
 

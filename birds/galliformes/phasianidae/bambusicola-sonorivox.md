@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/bambusicola-sonorivox/1.jpg
+  page: https://www.inaturalist.org/photos/617100869
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617100869/original.jpg
+images:
+- file: images/galliformes/phasianidae/bambusicola-sonorivox/1.jpg
+  page: https://www.inaturalist.org/photos/617100869
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617100869/original.jpg
+- file: images/galliformes/phasianidae/bambusicola-sonorivox/2.jpg
+  page: https://www.inaturalist.org/photos/625919363
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625919363/original.jpg
+- file: images/galliformes/phasianidae/bambusicola-sonorivox/3.jpg
+  page: https://www.inaturalist.org/photos/633895621
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633895621/original.jpg
+- file: images/galliformes/phasianidae/bambusicola-sonorivox/4.jpg
+  page: https://www.inaturalist.org/photos/634140733
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634140733/original.jpg
+- file: images/galliformes/phasianidae/bambusicola-sonorivox/5.jpg
+  page: https://www.inaturalist.org/photos/659532959
+  author: 如此甚好
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659532959/original.jpg
 ---
 
 

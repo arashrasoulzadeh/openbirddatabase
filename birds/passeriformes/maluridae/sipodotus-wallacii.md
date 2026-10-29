@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/sipodotus-wallacii/1.jpg
+  page: https://www.inaturalist.org/photos/707020055
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707020055/original.jpg
+images:
+- file: images/passeriformes/maluridae/sipodotus-wallacii/1.jpg
+  page: https://www.inaturalist.org/photos/707020055
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707020055/original.jpg
+- file: images/passeriformes/maluridae/sipodotus-wallacii/2.jpg
+  page: https://www.inaturalist.org/photos/625530714
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625530714/original.jpg
+- file: images/passeriformes/maluridae/sipodotus-wallacii/3.jpg
+  page: https://www.inaturalist.org/photos/622186007
+  author: Andrew Mack
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622186007/original.jpg
+- file: images/passeriformes/maluridae/sipodotus-wallacii/4.jpg
+  page: https://www.inaturalist.org/photos/707020061
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707020061/original.jpg
+- file: images/passeriformes/maluridae/sipodotus-wallacii/5.jpg
+  page: https://www.inaturalist.org/photos/707020067
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707020067/original.jpg
 ---
 
 

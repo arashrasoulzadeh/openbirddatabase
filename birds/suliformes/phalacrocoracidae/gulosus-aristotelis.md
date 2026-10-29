@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/gulosus-aristotelis/1.jpg
+  page: https://www.inaturalist.org/photos/605694483
+  author: Tracy Gould
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605694483/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/gulosus-aristotelis/1.jpg
+  page: https://www.inaturalist.org/photos/605694483
+  author: Tracy Gould
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605694483/original.jpg
+- file: images/suliformes/phalacrocoracidae/gulosus-aristotelis/2.jpg
+  page: https://www.inaturalist.org/photos/608928862
+  author: Glossysun (Sunny Pearce)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608928862/original.jpg
+- file: images/suliformes/phalacrocoracidae/gulosus-aristotelis/3.jpg
+  page: https://www.inaturalist.org/photos/607716960
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607716960/original.jpg
+- file: images/suliformes/phalacrocoracidae/gulosus-aristotelis/4.jpg
+  page: https://www.inaturalist.org/photos/606667336
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606667336/original.jpg
+- file: images/suliformes/phalacrocoracidae/gulosus-aristotelis/5.jpg
+  page: https://www.inaturalist.org/photos/607168867
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607168867/original.jpg
 ---
 
 

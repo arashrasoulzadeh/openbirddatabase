@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/herpsilochmus-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/327399682
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327399682/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/herpsilochmus-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/327399682
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327399682/original.jpeg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-axillaris/2.jpg
+  page: https://www.inaturalist.org/photos/17093847
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17093847/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-axillaris/3.jpg
+  page: https://www.inaturalist.org/photos/327399708
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327399708/original.jpeg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-axillaris/4.jpg
+  page: https://www.inaturalist.org/photos/247973826
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247973826/original.jpeg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-axillaris/5.jpg
+  page: https://www.inaturalist.org/photos/247973834
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247973834/original.jpeg
 ---
 
 

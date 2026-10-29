@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/tytonidae/tyto-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/498570505
+  author: Phindile Mboyi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498570505/original.jpeg
+images:
+- file: images/strigiformes/tytonidae/tyto-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/498570505
+  author: Phindile Mboyi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498570505/original.jpeg
+- file: images/strigiformes/tytonidae/tyto-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/583420650
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583420650/original.jpg
+- file: images/strigiformes/tytonidae/tyto-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/140356985
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/140356985/original.jpeg
+- file: images/strigiformes/tytonidae/tyto-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/583420656
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583420656/original.jpg
+- file: images/strigiformes/tytonidae/tyto-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/583420663
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583420663/original.jpg
 ---
 
 

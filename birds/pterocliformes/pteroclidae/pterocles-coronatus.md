@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/661030255
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030255/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/661030255
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030255/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/621079882
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621079882/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/624330227
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624330227/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/464902429
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464902429/original.jpeg
+- file: images/pterocliformes/pteroclidae/pterocles-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/489787701
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489787701/original.jpeg
 ---
 
 

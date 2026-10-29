@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/pipraeidea-melanonota/1.jpg
+  page: https://www.inaturalist.org/photos/609337591
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609337591/original.jpg
+images:
+- file: images/passeriformes/thraupidae/pipraeidea-melanonota/1.jpg
+  page: https://www.inaturalist.org/photos/609337591
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609337591/original.jpg
+- file: images/passeriformes/thraupidae/pipraeidea-melanonota/2.jpg
+  page: https://www.inaturalist.org/photos/608207880
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608207880/original.jpg
+- file: images/passeriformes/thraupidae/pipraeidea-melanonota/3.jpg
+  page: https://www.inaturalist.org/photos/608935302
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608935302/original.jpg
+- file: images/passeriformes/thraupidae/pipraeidea-melanonota/4.jpg
+  page: https://www.inaturalist.org/photos/612633596
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612633596/original.jpg
+- file: images/passeriformes/thraupidae/pipraeidea-melanonota/5.jpg
+  page: https://www.inaturalist.org/photos/608670734
+  author: Luis Martin Stivanello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608670734/original.jpg
 ---
 
 

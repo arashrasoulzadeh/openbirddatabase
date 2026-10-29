@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/synallaxis-albescens/1.jpg
+  page: https://www.inaturalist.org/photos/605494030
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494030/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-albescens/1.jpg
+  page: https://www.inaturalist.org/photos/605494030
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494030/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-albescens/2.jpg
+  page: https://www.inaturalist.org/photos/610681925
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610681925/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-albescens/3.jpg
+  page: https://www.inaturalist.org/photos/612371654
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612371654/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-albescens/4.jpg
+  page: https://www.inaturalist.org/photos/617941442
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617941442/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-albescens/5.jpg
+  page: https://www.inaturalist.org/photos/703068767
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703068767/original.jpg
 ---
 
 

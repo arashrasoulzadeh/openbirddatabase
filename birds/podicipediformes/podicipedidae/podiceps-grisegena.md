@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/podicipediformes/podicipedidae/podiceps-grisegena/1.jpg
+  page: https://www.inaturalist.org/photos/605406124
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605406124/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/podiceps-grisegena/1.jpg
+  page: https://www.inaturalist.org/photos/605406124
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605406124/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-grisegena/2.jpg
+  page: https://www.inaturalist.org/photos/604792837
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604792837/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-grisegena/3.jpg
+  page: https://www.inaturalist.org/photos/605385160
+  author: Giuliana Pirotta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605385160/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-grisegena/4.jpg
+  page: https://www.inaturalist.org/photos/609240129
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609240129/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-grisegena/5.jpg
+  page: https://www.inaturalist.org/photos/606016992
+  author: Mara Christensen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606016992/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/amytornis-textilis/1.jpg
+  page: https://www.inaturalist.org/photos/560838039
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560838039/original.jpg
+images:
+- file: images/passeriformes/maluridae/amytornis-textilis/1.jpg
+  page: https://www.inaturalist.org/photos/560838039
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560838039/original.jpg
+- file: images/passeriformes/maluridae/amytornis-textilis/2.jpg
+  page: https://www.inaturalist.org/photos/123928519
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/123928519/original.jpg
+- file: images/passeriformes/maluridae/amytornis-textilis/3.jpg
+  page: https://www.inaturalist.org/photos/359637190
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359637190/original.jpg
+- file: images/passeriformes/maluridae/amytornis-textilis/4.jpg
+  page: https://www.inaturalist.org/photos/560838447
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560838447/original.jpg
+- file: images/passeriformes/maluridae/amytornis-textilis/5.jpg
+  page: https://www.inaturalist.org/photos/560838448
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560838448/original.jpg
 ---
 
 

@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/lybius-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/637754150
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637754150/original.jpg
+images:
+- file: images/piciformes/lybiidae/lybius-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/637754150
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637754150/original.jpg
+- file: images/piciformes/lybiidae/lybius-leucocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/728405145
+  author: Marius Faiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728405145/original.jpg
+- file: images/piciformes/lybiidae/lybius-leucocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/352848243
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352848243/original.jpg
+- file: images/piciformes/lybiidae/lybius-leucocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/394181852
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394181852/original.jpg
+- file: images/piciformes/lybiidae/lybius-leucocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/393618292
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393618292/original.jpeg
 ---
 
 

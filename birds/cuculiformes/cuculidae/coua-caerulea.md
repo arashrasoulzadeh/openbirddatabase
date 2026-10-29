@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coua-caerulea/1.jpg
+  page: https://www.inaturalist.org/photos/690102342
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690102342/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coua-caerulea/1.jpg
+  page: https://www.inaturalist.org/photos/690102342
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690102342/original.jpg
+- file: images/cuculiformes/cuculidae/coua-caerulea/2.jpg
+  page: https://www.inaturalist.org/photos/474706679
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474706679/original.jpeg
+- file: images/cuculiformes/cuculidae/coua-caerulea/3.jpg
+  page: https://www.inaturalist.org/photos/536417676
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536417676/original.jpg
+- file: images/cuculiformes/cuculidae/coua-caerulea/4.jpg
+  page: https://www.inaturalist.org/photos/603640545
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603640545/original.jpg
+- file: images/cuculiformes/cuculidae/coua-caerulea/5.jpg
+  page: https://www.inaturalist.org/photos/394492348
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394492348/original.jpeg
 ---
 
 

@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/meliphagidae/myzomela-obscura/1.jpg
+  page: https://www.inaturalist.org/photos/639433863
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639433863/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-obscura/1.jpg
+  page: https://www.inaturalist.org/photos/639433863
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639433863/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-obscura/2.jpg
+  page: https://www.inaturalist.org/photos/664856152
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664856152/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-obscura/3.jpg
+  page: https://www.inaturalist.org/photos/680121912
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680121912/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-obscura/4.jpg
+  page: https://www.inaturalist.org/photos/705979504
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705979504/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-obscura/5.jpg
+  page: https://www.inaturalist.org/photos/699402855
+  author: Jemma Montgomery
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699402855/original.jpg
 ---
 
 

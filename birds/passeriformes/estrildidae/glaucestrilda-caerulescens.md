@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 10.2
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 50.6
   tail_length_mm: 42.5
   body_mass_g: 9.4
+image:
+  file: images/passeriformes/estrildidae/glaucestrilda-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/612458208
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612458208/original.jpg
+images:
+- file: images/passeriformes/estrildidae/glaucestrilda-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/612458208
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612458208/original.jpg
+- file: images/passeriformes/estrildidae/glaucestrilda-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/470139056
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470139056/original.jpg
+- file: images/passeriformes/estrildidae/glaucestrilda-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/472287613
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472287613/original.jpg
+- file: images/passeriformes/estrildidae/glaucestrilda-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/601673789
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601673789/original.jpg
+- file: images/passeriformes/estrildidae/glaucestrilda-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/528179462
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528179462/original.jpg
 ---
 
 

@@ -123,8 +123,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/cardinalidae/periporphyrus-celaeno/1.jpg
+  page: https://www.inaturalist.org/photos/609618981
+  author: Tia Offner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609618981/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/periporphyrus-celaeno/1.jpg
+  page: https://www.inaturalist.org/photos/609618981
+  author: Tia Offner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609618981/original.jpg
+- file: images/passeriformes/cardinalidae/periporphyrus-celaeno/2.jpg
+  page: https://www.inaturalist.org/photos/607709741
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607709741/original.jpg
+- file: images/passeriformes/cardinalidae/periporphyrus-celaeno/3.jpg
+  page: https://www.inaturalist.org/photos/616805506
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616805506/original.jpg
+- file: images/passeriformes/cardinalidae/periporphyrus-celaeno/4.jpg
+  page: https://www.inaturalist.org/photos/625763971
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625763971/original.jpg
+- file: images/passeriformes/cardinalidae/periporphyrus-celaeno/5.jpg
+  page: https://www.inaturalist.org/photos/626420689
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626420689/original.jpg
 ---
 
 

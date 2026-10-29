@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/ammomanes-phoenicura/1.jpg
+  page: https://www.inaturalist.org/photos/615674305
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674305/original.jpg
+images:
+- file: images/passeriformes/alaudidae/ammomanes-phoenicura/1.jpg
+  page: https://www.inaturalist.org/photos/615674305
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674305/original.jpg
+- file: images/passeriformes/alaudidae/ammomanes-phoenicura/2.jpg
+  page: https://www.inaturalist.org/photos/648279572
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648279572/original.jpg
+- file: images/passeriformes/alaudidae/ammomanes-phoenicura/3.jpg
+  page: https://www.inaturalist.org/photos/703876780
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703876780/original.jpg
+- file: images/passeriformes/alaudidae/ammomanes-phoenicura/4.jpg
+  page: https://www.inaturalist.org/photos/517135333
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517135333/original.jpg
+- file: images/passeriformes/alaudidae/ammomanes-phoenicura/5.jpg
+  page: https://www.inaturalist.org/photos/470058253
+  author: Aryan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470058253/original.jpeg
 ---
 
 

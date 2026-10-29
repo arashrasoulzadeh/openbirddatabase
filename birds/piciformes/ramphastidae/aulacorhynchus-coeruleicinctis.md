@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/aulacorhynchus-coeruleicinctis/1.jpg
+  page: https://www.inaturalist.org/photos/727040214
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727040214/original.jpg
+images:
+- file: images/piciformes/ramphastidae/aulacorhynchus-coeruleicinctis/1.jpg
+  page: https://www.inaturalist.org/photos/727040214
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727040214/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-coeruleicinctis/2.jpg
+  page: https://www.inaturalist.org/photos/341974744
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341974744/original.jpeg
+- file: images/piciformes/ramphastidae/aulacorhynchus-coeruleicinctis/3.jpg
+  page: https://www.inaturalist.org/photos/326578849
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326578849/original.jpeg
+- file: images/piciformes/ramphastidae/aulacorhynchus-coeruleicinctis/4.jpg
+  page: https://www.inaturalist.org/photos/336984205
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336984205/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-coeruleicinctis/5.jpg
+  page: https://www.inaturalist.org/photos/461342543
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461342543/original.jpg
 ---
 
 

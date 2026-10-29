@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/clibanornis-rectirostris/1.jpg
+  page: https://www.inaturalist.org/photos/603638314
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603638314/original.jpg
+images:
+- file: images/passeriformes/furnariidae/clibanornis-rectirostris/1.jpg
+  page: https://www.inaturalist.org/photos/603638314
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603638314/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-rectirostris/2.jpg
+  page: https://www.inaturalist.org/photos/439140474
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439140474/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-rectirostris/3.jpg
+  page: https://www.inaturalist.org/photos/344540087
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344540087/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-rectirostris/4.jpg
+  page: https://www.inaturalist.org/photos/179997857
+  author: Vinicius Augusto De Souza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179997857/original.jpeg
+- file: images/passeriformes/furnariidae/clibanornis-rectirostris/5.jpg
+  page: https://www.inaturalist.org/photos/204359168
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/204359168/original.jpg
 ---
 
 

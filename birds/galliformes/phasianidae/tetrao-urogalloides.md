@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/tetrao-urogalloides/1.jpg
+  page: https://www.inaturalist.org/photos/691486229
+  author: Фёдор
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691486229/original.jpg
+images:
+- file: images/galliformes/phasianidae/tetrao-urogalloides/1.jpg
+  page: https://www.inaturalist.org/photos/691486229
+  author: Фёдор
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691486229/original.jpg
+- file: images/galliformes/phasianidae/tetrao-urogalloides/2.jpg
+  page: https://www.inaturalist.org/photos/523325961
+  author: Валерия Ковалева
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523325961/original.jpg
+- file: images/galliformes/phasianidae/tetrao-urogalloides/3.jpg
+  page: https://www.inaturalist.org/photos/547843250
+  author: K.P.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547843250/original.jpg
+- file: images/galliformes/phasianidae/tetrao-urogalloides/4.jpg
+  page: https://www.inaturalist.org/photos/387083060
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387083060/original.jpeg
+- file: images/galliformes/phasianidae/tetrao-urogalloides/5.jpg
+  page: https://www.inaturalist.org/photos/402806378
+  author: prodewald
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402806378/original.jpg
 ---
 
 

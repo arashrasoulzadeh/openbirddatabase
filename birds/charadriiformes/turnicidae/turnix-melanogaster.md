@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/632050249
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632050249/original.jpg
+images:
+- file: images/charadriiformes/turnicidae/turnix-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/632050249
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632050249/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-melanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/588845075
+  author: Ged Tranter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588845075/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-melanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/565731285
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565731285/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-melanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/632050274
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632050274/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-melanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/632050305
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632050305/original.jpg
 ---
 
 

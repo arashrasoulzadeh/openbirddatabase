@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-oxyurus/1.jpg
+  page: https://www.inaturalist.org/photos/616151951
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616151951/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-oxyurus/1.jpg
+  page: https://www.inaturalist.org/photos/616151951
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616151951/original.jpg
+- file: images/columbiformes/columbidae/treron-oxyurus/2.jpg
+  page: https://www.inaturalist.org/photos/618849595
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849595/original.jpg
+- file: images/columbiformes/columbidae/treron-oxyurus/3.jpg
+  page: https://www.inaturalist.org/photos/436438239
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436438239/original.jpg
+- file: images/columbiformes/columbidae/treron-oxyurus/4.jpg
+  page: https://www.inaturalist.org/photos/27703558
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27703558/original.jpeg
+- file: images/columbiformes/columbidae/treron-oxyurus/5.jpg
+  page: https://www.inaturalist.org/photos/27703560
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27703560/original.jpeg
 ---
 
 

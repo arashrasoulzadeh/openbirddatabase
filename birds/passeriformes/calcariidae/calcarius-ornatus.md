@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/calcariidae/calcarius-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/620301446
+  author: BlueKirby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620301446/original.jpg
+images:
+- file: images/passeriformes/calcariidae/calcarius-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/620301446
+  author: BlueKirby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620301446/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/668703005
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668703005/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-ornatus/3.jpg
+  page: https://www.inaturalist.org/photos/685596946
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685596946/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-ornatus/4.jpg
+  page: https://www.inaturalist.org/photos/687510161
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687510161/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-ornatus/5.jpg
+  page: https://www.inaturalist.org/photos/620301538
+  author: BlueKirby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620301538/original.jpg
 ---
 
 

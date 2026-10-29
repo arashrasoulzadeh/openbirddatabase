@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/athene-blewitti/1.jpg
+  page: https://www.inaturalist.org/photos/57636162
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57636162/original.jpeg
+images:
+- file: images/strigiformes/strigidae/athene-blewitti/1.jpg
+  page: https://www.inaturalist.org/photos/57636162
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57636162/original.jpeg
+- file: images/strigiformes/strigidae/athene-blewitti/2.jpg
+  page: https://www.inaturalist.org/photos/60594230
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60594230/original.jpg
+- file: images/strigiformes/strigidae/athene-blewitti/3.jpg
+  page: https://www.inaturalist.org/photos/66294988
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/66294988/original.jpeg
+- file: images/strigiformes/strigidae/athene-blewitti/4.jpg
+  page: https://www.inaturalist.org/photos/60594361
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60594361/original.jpeg
+- file: images/strigiformes/strigidae/athene-blewitti/5.jpg
+  page: https://www.inaturalist.org/photos/60594140
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60594140/original.jpeg
 ---
 
 

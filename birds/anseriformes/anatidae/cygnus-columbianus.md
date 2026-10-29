@@ -171,10 +171,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/anseriformes/anatidae/cygnus-columbianus/1.jpg
+  page: https://www.inaturalist.org/photos/605203937
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605203937/original.jpg
+images:
+- file: images/anseriformes/anatidae/cygnus-columbianus/1.jpg
+  page: https://www.inaturalist.org/photos/605203937
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605203937/original.jpg
+- file: images/anseriformes/anatidae/cygnus-columbianus/2.jpg
+  page: https://www.inaturalist.org/photos/604893795
+  author: graham_coop
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604893795/original.jpg
+- file: images/anseriformes/anatidae/cygnus-columbianus/3.jpg
+  page: https://www.inaturalist.org/photos/604622080
+  author: Anne Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604622080/original.jpg
+- file: images/anseriformes/anatidae/cygnus-columbianus/4.jpg
+  page: https://www.inaturalist.org/photos/605675281
+  author: Gold eagle Kroll
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605675281/original.jpg
+- file: images/anseriformes/anatidae/cygnus-columbianus/5.jpg
+  page: https://www.inaturalist.org/photos/605544240
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605544240/original.jpg
 ---
 
 

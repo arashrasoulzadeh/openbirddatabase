@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/apus-horus/1.jpg
+  page: https://www.inaturalist.org/photos/584655573
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584655573/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-horus/1.jpg
+  page: https://www.inaturalist.org/photos/584655573
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584655573/original.jpg
+- file: images/apodiformes/apodidae/apus-horus/2.jpg
+  page: https://www.inaturalist.org/photos/606083301
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606083301/original.jpg
+- file: images/apodiformes/apodidae/apus-horus/3.jpg
+  page: https://www.inaturalist.org/photos/249059364
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249059364/original.jpeg
+- file: images/apodiformes/apodidae/apus-horus/4.jpg
+  page: https://www.inaturalist.org/photos/114041781
+  author: Benjamin Fredlund
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114041781/original.jpeg
+- file: images/apodiformes/apodidae/apus-horus/5.jpg
+  page: https://www.inaturalist.org/photos/166940800
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166940800/original.jpeg
 ---
 
 

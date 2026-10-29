@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/odontophorus-guttatus/1.jpg
+  page: https://www.inaturalist.org/photos/632357480
+  author: Karen Szafrajda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632357480/original.jpg
+images:
+- file: images/galliformes/odontophoridae/odontophorus-guttatus/1.jpg
+  page: https://www.inaturalist.org/photos/632357480
+  author: Karen Szafrajda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632357480/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-guttatus/2.jpg
+  page: https://www.inaturalist.org/photos/651157820
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651157820/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-guttatus/3.jpg
+  page: https://www.inaturalist.org/photos/732234677
+  author: Evan Feusi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732234677/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-guttatus/4.jpg
+  page: https://www.inaturalist.org/photos/463609601
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463609601/original.jpeg
+- file: images/galliformes/odontophoridae/odontophorus-guttatus/5.jpg
+  page: https://www.inaturalist.org/photos/471901334
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471901334/original.jpg
 ---
 
 

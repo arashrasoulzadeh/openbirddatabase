@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-valentini/1.jpg
+  page: https://www.inaturalist.org/photos/614281405
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614281405/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-valentini/1.jpg
+  page: https://www.inaturalist.org/photos/614281405
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614281405/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-valentini/2.jpg
+  page: https://www.inaturalist.org/photos/283692631
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283692631/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-valentini/3.jpg
+  page: https://www.inaturalist.org/photos/249083321
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249083321/original.jpeg
+- file: images/passeriformes/phylloscopidae/phylloscopus-valentini/4.jpg
+  page: https://www.inaturalist.org/photos/347754244
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347754244/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-valentini/5.jpg
+  page: https://www.inaturalist.org/photos/614281415
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614281415/original.jpg
 ---
 
 

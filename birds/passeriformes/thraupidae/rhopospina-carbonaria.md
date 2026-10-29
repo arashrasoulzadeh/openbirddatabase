@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 11.8
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 72.0
   tail_length_mm: 58.5
   body_mass_g: 17.9
+image:
+  file: images/passeriformes/thraupidae/rhopospina-carbonaria/1.jpg
+  page: https://www.inaturalist.org/photos/628608575
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628608575/original.jpg
+images:
+- file: images/passeriformes/thraupidae/rhopospina-carbonaria/1.jpg
+  page: https://www.inaturalist.org/photos/628608575
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628608575/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-carbonaria/2.jpg
+  page: https://www.inaturalist.org/photos/474221862
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474221862/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-carbonaria/3.jpg
+  page: https://www.inaturalist.org/photos/498909475
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498909475/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-carbonaria/4.jpg
+  page: https://www.inaturalist.org/photos/525922036
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525922036/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-carbonaria/5.jpg
+  page: https://www.inaturalist.org/photos/537285882
+  author: Analía Belaus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537285882/original.jpg
 ---
 
 

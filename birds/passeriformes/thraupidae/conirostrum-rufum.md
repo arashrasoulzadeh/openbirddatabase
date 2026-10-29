@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/conirostrum-rufum/1.jpg
+  page: https://www.inaturalist.org/photos/616767828
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616767828/original.jpg
+images:
+- file: images/passeriformes/thraupidae/conirostrum-rufum/1.jpg
+  page: https://www.inaturalist.org/photos/616767828
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616767828/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-rufum/2.jpg
+  page: https://www.inaturalist.org/photos/469384647
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469384647/original.jpeg
+- file: images/passeriformes/thraupidae/conirostrum-rufum/3.jpg
+  page: https://www.inaturalist.org/photos/495655321
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495655321/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-rufum/4.jpg
+  page: https://www.inaturalist.org/photos/570334410
+  author: Camilo Segura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570334410/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-rufum/5.jpg
+  page: https://www.inaturalist.org/photos/582496045
+  author: mike_cove
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582496045/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-brachyura/1.jpg
+  page: https://www.inaturalist.org/photos/467083156
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467083156/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-brachyura/1.jpg
+  page: https://www.inaturalist.org/photos/467083156
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467083156/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-brachyura/2.jpg
+  page: https://www.inaturalist.org/photos/140315713
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/140315713/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-brachyura/3.jpg
+  page: https://www.inaturalist.org/photos/108119069
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108119069/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmotherula-brachyura/4.jpg
+  page: https://www.inaturalist.org/photos/418064619
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418064619/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-brachyura/5.jpg
+  page: https://www.inaturalist.org/photos/8537187
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8537187/original.jpeg
 ---
 
 

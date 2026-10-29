@@ -142,8 +142,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chaetocercus-jourdanii/1.jpg
+  page: https://www.inaturalist.org/photos/318461648
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318461648/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chaetocercus-jourdanii/1.jpg
+  page: https://www.inaturalist.org/photos/318461648
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318461648/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-jourdanii/2.jpg
+  page: https://www.inaturalist.org/photos/318461662
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318461662/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-jourdanii/3.jpg
+  page: https://www.inaturalist.org/photos/318461685
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318461685/original.jpg
 ---
 
 

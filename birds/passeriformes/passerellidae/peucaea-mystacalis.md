@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/peucaea-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/608464984
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608464984/original.jpg
+images:
+- file: images/passeriformes/passerellidae/peucaea-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/608464984
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608464984/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-mystacalis/2.jpg
+  page: https://www.inaturalist.org/photos/620694709
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620694709/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-mystacalis/3.jpg
+  page: https://www.inaturalist.org/photos/665343993
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343993/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-mystacalis/4.jpg
+  page: https://www.inaturalist.org/photos/657004493
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657004493/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-mystacalis/5.jpg
+  page: https://www.inaturalist.org/photos/464857781
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464857781/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/629877781
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629877781/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/629877781
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629877781/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/671739513
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671739513/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/687725285
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687725285/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/660333909
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660333909/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/714425655
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714425655/original.jpg
 ---
 
 

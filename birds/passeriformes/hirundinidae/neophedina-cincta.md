@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/neophedina-cincta/1.jpg
+  page: https://www.inaturalist.org/photos/722065140
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722065140/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/neophedina-cincta/1.jpg
+  page: https://www.inaturalist.org/photos/722065140
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722065140/original.jpg
+- file: images/passeriformes/hirundinidae/neophedina-cincta/2.jpg
+  page: https://www.inaturalist.org/photos/482700559
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482700559/original.jpg
+- file: images/passeriformes/hirundinidae/neophedina-cincta/3.jpg
+  page: https://www.inaturalist.org/photos/502263443
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502263443/original.jpeg
+- file: images/passeriformes/hirundinidae/neophedina-cincta/4.jpg
+  page: https://www.inaturalist.org/photos/563999688
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563999688/original.jpg
+- file: images/passeriformes/hirundinidae/neophedina-cincta/5.jpg
+  page: https://www.inaturalist.org/photos/722065128
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722065128/original.jpg
 ---
 
 

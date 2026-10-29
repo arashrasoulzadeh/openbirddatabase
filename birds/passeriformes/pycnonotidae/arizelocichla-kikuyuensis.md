@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/arizelocichla-kikuyuensis/1.jpg
+  page: https://www.inaturalist.org/photos/622530562
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622530562/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/arizelocichla-kikuyuensis/1.jpg
+  page: https://www.inaturalist.org/photos/622530562
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622530562/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-kikuyuensis/2.jpg
+  page: https://www.inaturalist.org/photos/602342143
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602342143/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-kikuyuensis/3.jpg
+  page: https://www.inaturalist.org/photos/588164856
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588164856/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-kikuyuensis/4.jpg
+  page: https://www.inaturalist.org/photos/380686430
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380686430/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-kikuyuensis/5.jpg
+  page: https://www.inaturalist.org/photos/349817594
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349817594/original.jpeg
 ---
 
 

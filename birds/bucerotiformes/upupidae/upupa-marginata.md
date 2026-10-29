@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/bucerotiformes/upupidae/upupa-marginata/1.jpg
+  page: https://www.inaturalist.org/photos/636138517
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636138517/original.jpg
+images:
+- file: images/bucerotiformes/upupidae/upupa-marginata/1.jpg
+  page: https://www.inaturalist.org/photos/636138517
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636138517/original.jpg
+- file: images/bucerotiformes/upupidae/upupa-marginata/2.jpg
+  page: https://www.inaturalist.org/photos/694151152
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694151152/original.jpg
+- file: images/bucerotiformes/upupidae/upupa-marginata/3.jpg
+  page: https://www.inaturalist.org/photos/474812431
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474812431/original.jpeg
+- file: images/bucerotiformes/upupidae/upupa-marginata/4.jpg
+  page: https://www.inaturalist.org/photos/443262529
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443262529/original.jpeg
+- file: images/bucerotiformes/upupidae/upupa-marginata/5.jpg
+  page: https://www.inaturalist.org/photos/451090759
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451090759/original.jpg
 ---
 
 

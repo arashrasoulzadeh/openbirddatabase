@@ -141,10 +141,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/asthenes-pudibunda/1.jpg
+  page: https://www.inaturalist.org/photos/456639087
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456639087/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-pudibunda/1.jpg
+  page: https://www.inaturalist.org/photos/456639087
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456639087/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-pudibunda/2.jpg
+  page: https://www.inaturalist.org/photos/188534788
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188534788/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-pudibunda/3.jpg
+  page: https://www.inaturalist.org/photos/237529107
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237529107/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-pudibunda/4.jpg
+  page: https://www.inaturalist.org/photos/456639088
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456639088/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-pudibunda/5.jpg
+  page: https://www.inaturalist.org/photos/188535232
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188535232/original.jpg
 ---
 
 

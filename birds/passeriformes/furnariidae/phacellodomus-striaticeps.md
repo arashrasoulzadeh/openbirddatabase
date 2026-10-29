@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/phacellodomus-striaticeps/1.jpg
+  page: https://www.inaturalist.org/photos/622448936
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622448936/original.jpg
+images:
+- file: images/passeriformes/furnariidae/phacellodomus-striaticeps/1.jpg
+  page: https://www.inaturalist.org/photos/622448936
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622448936/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-striaticeps/2.jpg
+  page: https://www.inaturalist.org/photos/490737968
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490737968/original.jpeg
+- file: images/passeriformes/furnariidae/phacellodomus-striaticeps/3.jpg
+  page: https://www.inaturalist.org/photos/572362695
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572362695/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-striaticeps/4.jpg
+  page: https://www.inaturalist.org/photos/401931603
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401931603/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-striaticeps/5.jpg
+  page: https://www.inaturalist.org/photos/292837220
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/292837220/original.jpg
 ---
 
 

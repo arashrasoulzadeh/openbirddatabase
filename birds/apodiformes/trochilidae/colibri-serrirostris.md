@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/colibri-serrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610216385
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610216385/original.jpg
+images:
+- file: images/apodiformes/trochilidae/colibri-serrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610216385
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610216385/original.jpg
+- file: images/apodiformes/trochilidae/colibri-serrirostris/2.jpg
+  page: https://www.inaturalist.org/photos/704669487
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704669487/original.jpg
+- file: images/apodiformes/trochilidae/colibri-serrirostris/3.jpg
+  page: https://www.inaturalist.org/photos/659913679
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659913679/original.jpg
+- file: images/apodiformes/trochilidae/colibri-serrirostris/4.jpg
+  page: https://www.inaturalist.org/photos/727208999
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727208999/original.jpg
+- file: images/apodiformes/trochilidae/colibri-serrirostris/5.jpg
+  page: https://www.inaturalist.org/photos/501645346
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501645346/original.jpeg
 ---
 
 

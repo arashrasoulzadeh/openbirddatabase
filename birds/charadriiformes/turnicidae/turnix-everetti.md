@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/96755350
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96755350/original.jpeg
+images:
+- file: images/charadriiformes/turnicidae/turnix-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/96755350
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96755350/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-everetti/2.jpg
+  page: https://www.inaturalist.org/photos/96755425
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96755425/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-everetti/3.jpg
+  page: https://www.inaturalist.org/photos/96755485
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96755485/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-everetti/4.jpg
+  page: https://www.inaturalist.org/photos/96755548
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96755548/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-everetti/5.jpg
+  page: https://www.inaturalist.org/photos/96755588
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96755588/original.jpeg
 ---
 
 

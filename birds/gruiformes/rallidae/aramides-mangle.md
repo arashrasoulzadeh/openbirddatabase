@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/aramides-mangle/1.jpg
+  page: https://www.inaturalist.org/photos/446283067
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446283067/original.jpeg
+images:
+- file: images/gruiformes/rallidae/aramides-mangle/1.jpg
+  page: https://www.inaturalist.org/photos/446283067
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446283067/original.jpeg
+- file: images/gruiformes/rallidae/aramides-mangle/2.jpg
+  page: https://www.inaturalist.org/photos/430762475
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/430762475/original.jpeg
+- file: images/gruiformes/rallidae/aramides-mangle/3.jpg
+  page: https://www.inaturalist.org/photos/547272618
+  author: Túllio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547272618/original.jpg
+- file: images/gruiformes/rallidae/aramides-mangle/4.jpg
+  page: https://www.inaturalist.org/photos/343597129
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343597129/original.jpeg
+- file: images/gruiformes/rallidae/aramides-mangle/5.jpg
+  page: https://www.inaturalist.org/photos/240607848
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240607848/original.jpg
 ---
 
 

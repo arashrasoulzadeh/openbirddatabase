@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-cobbi/1.jpg
+  page: https://www.inaturalist.org/photos/356403526
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356403526/original.jpeg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-cobbi/1.jpg
+  page: https://www.inaturalist.org/photos/356403526
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356403526/original.jpeg
+- file: images/passeriformes/troglodytidae/troglodytes-cobbi/2.jpg
+  page: https://www.inaturalist.org/photos/248654699
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248654699/original.jpeg
+- file: images/passeriformes/troglodytidae/troglodytes-cobbi/3.jpg
+  page: https://www.inaturalist.org/photos/220391120
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220391120/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-cobbi/4.jpg
+  page: https://www.inaturalist.org/photos/447746106
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447746106/original.jpeg
+- file: images/passeriformes/troglodytidae/troglodytes-cobbi/5.jpg
+  page: https://www.inaturalist.org/photos/447746499
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447746499/original.jpeg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/614449001
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614449001/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/614449001
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614449001/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-chinensis/2.jpg
+  page: https://www.inaturalist.org/photos/612650120
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612650120/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-chinensis/3.jpg
+  page: https://www.inaturalist.org/photos/623540128
+  author: David Addis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623540128/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-chinensis/4.jpg
+  page: https://www.inaturalist.org/photos/634389506
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634389506/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-chinensis/5.jpg
+  page: https://www.inaturalist.org/photos/614448955
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614448955/original.jpg
 ---
 
 

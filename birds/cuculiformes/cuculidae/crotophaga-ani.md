@@ -184,8 +184,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/crotophaga-ani/1.jpg
+  page: https://www.inaturalist.org/photos/605356718
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356718/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/crotophaga-ani/1.jpg
+  page: https://www.inaturalist.org/photos/605356718
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356718/original.jpg
+- file: images/cuculiformes/cuculidae/crotophaga-ani/2.jpg
+  page: https://www.inaturalist.org/photos/605358869
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605358869/original.jpg
+- file: images/cuculiformes/cuculidae/crotophaga-ani/3.jpg
+  page: https://www.inaturalist.org/photos/605690705
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605690705/original.jpg
+- file: images/cuculiformes/cuculidae/crotophaga-ani/4.jpg
+  page: https://www.inaturalist.org/photos/607139343
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607139343/original.jpg
+- file: images/cuculiformes/cuculidae/crotophaga-ani/5.jpg
+  page: https://www.inaturalist.org/photos/609780191
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609780191/original.jpg
 ---
 
 

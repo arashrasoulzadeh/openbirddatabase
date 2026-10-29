@@ -142,8 +142,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-chocoensis/1.jpg
+  page: https://www.inaturalist.org/photos/178559633
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178559633/original.jpeg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-chocoensis/1.jpg
+  page: https://www.inaturalist.org/photos/178559633
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178559633/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-chocoensis/2.jpg
+  page: https://www.inaturalist.org/photos/178559634
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178559634/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-chocoensis/3.jpg
+  page: https://www.inaturalist.org/photos/178559626
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178559626/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-chocoensis/4.jpg
+  page: https://www.inaturalist.org/photos/178559628
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178559628/original.jpeg
 ---
 
 

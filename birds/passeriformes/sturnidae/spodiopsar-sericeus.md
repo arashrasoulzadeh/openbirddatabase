@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/spodiopsar-sericeus/1.jpg
+  page: https://www.inaturalist.org/photos/605656897
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605656897/original.jpg
+images:
+- file: images/passeriformes/sturnidae/spodiopsar-sericeus/1.jpg
+  page: https://www.inaturalist.org/photos/605656897
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605656897/original.jpg
+- file: images/passeriformes/sturnidae/spodiopsar-sericeus/2.jpg
+  page: https://www.inaturalist.org/photos/605840921
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605840921/original.jpg
+- file: images/passeriformes/sturnidae/spodiopsar-sericeus/3.jpg
+  page: https://www.inaturalist.org/photos/609931523
+  author: 王天明
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609931523/original.jpg
+- file: images/passeriformes/sturnidae/spodiopsar-sericeus/4.jpg
+  page: https://www.inaturalist.org/photos/614682090
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614682090/original.jpg
+- file: images/passeriformes/sturnidae/spodiopsar-sericeus/5.jpg
+  page: https://www.inaturalist.org/photos/617370639
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617370639/original.jpg
 ---
 
 

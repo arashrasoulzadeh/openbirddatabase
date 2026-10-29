@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/rhaphidura-leucopygialis/1.jpg
+  page: https://www.inaturalist.org/photos/741655157
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741655157/original.jpg
+images:
+- file: images/apodiformes/apodidae/rhaphidura-leucopygialis/1.jpg
+  page: https://www.inaturalist.org/photos/741655157
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741655157/original.jpg
+- file: images/apodiformes/apodidae/rhaphidura-leucopygialis/2.jpg
+  page: https://www.inaturalist.org/photos/599183833
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599183833/original.jpg
+- file: images/apodiformes/apodidae/rhaphidura-leucopygialis/3.jpg
+  page: https://www.inaturalist.org/photos/358270832
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358270832/original.jpeg
+- file: images/apodiformes/apodidae/rhaphidura-leucopygialis/4.jpg
+  page: https://www.inaturalist.org/photos/547324227
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547324227/original.jpg
+- file: images/apodiformes/apodidae/rhaphidura-leucopygialis/5.jpg
+  page: https://www.inaturalist.org/photos/741655183
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741655183/original.jpg
 ---
 
 

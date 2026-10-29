@@ -204,10 +204,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/falconiformes/falconidae/falco-subbuteo/1.jpg
+  page: https://www.inaturalist.org/photos/687652635
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687652635/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-subbuteo/1.jpg
+  page: https://www.inaturalist.org/photos/687652635
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687652635/original.jpg
+- file: images/falconiformes/falconidae/falco-subbuteo/2.jpg
+  page: https://www.inaturalist.org/photos/743229756
+  author: John Barrow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743229756/original.jpg
+- file: images/falconiformes/falconidae/falco-subbuteo/3.jpg
+  page: https://www.inaturalist.org/photos/641573326
+  author: harry beaman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641573326/original.jpg
+- file: images/falconiformes/falconidae/falco-subbuteo/4.jpg
+  page: https://www.inaturalist.org/photos/648501345
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648501345/original.jpg
+- file: images/falconiformes/falconidae/falco-subbuteo/5.jpg
+  page: https://www.inaturalist.org/photos/643972791
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643972791/original.jpg
 ---
 
 

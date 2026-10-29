@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/piranga-bidentata/1.jpg
+  page: https://www.inaturalist.org/photos/607242069
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242069/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/piranga-bidentata/1.jpg
+  page: https://www.inaturalist.org/photos/607242069
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242069/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-bidentata/2.jpg
+  page: https://www.inaturalist.org/photos/610070865
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610070865/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-bidentata/3.jpg
+  page: https://www.inaturalist.org/photos/613427285
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613427285/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-bidentata/4.jpg
+  page: https://www.inaturalist.org/photos/604664785
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604664785/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-bidentata/5.jpg
+  page: https://www.inaturalist.org/photos/614797520
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614797520/original.jpg
 ---
 
 

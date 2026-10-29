@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/641065573
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641065573/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/641065573
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641065573/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-melanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/584775930
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584775930/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-melanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/393649698
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393649698/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-melanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/447737584
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447737584/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-melanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/190305238
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190305238/original.jpeg
 ---
 
 

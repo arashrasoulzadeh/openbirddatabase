@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/tricholaema-leucomelas/1.jpg
+  page: https://www.inaturalist.org/photos/610251861
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610251861/original.jpg
+images:
+- file: images/piciformes/lybiidae/tricholaema-leucomelas/1.jpg
+  page: https://www.inaturalist.org/photos/610251861
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610251861/original.jpg
+- file: images/piciformes/lybiidae/tricholaema-leucomelas/2.jpg
+  page: https://www.inaturalist.org/photos/609666969
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609666969/original.jpg
+- file: images/piciformes/lybiidae/tricholaema-leucomelas/3.jpg
+  page: https://www.inaturalist.org/photos/611846670
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611846670/original.jpg
+- file: images/piciformes/lybiidae/tricholaema-leucomelas/4.jpg
+  page: https://www.inaturalist.org/photos/624561043
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624561043/original.jpg
+- file: images/piciformes/lybiidae/tricholaema-leucomelas/5.jpg
+  page: https://www.inaturalist.org/photos/623981348
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623981348/original.jpg
 ---
 
 

@@ -143,10 +143,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/sittidae/sitta-arctica/1.jpg
+  page: https://www.inaturalist.org/photos/347940044
+  author: naturalisttt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347940044/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-arctica/1.jpg
+  page: https://www.inaturalist.org/photos/347940044
+  author: naturalisttt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347940044/original.jpg
+- file: images/passeriformes/sittidae/sitta-arctica/2.jpg
+  page: https://www.inaturalist.org/photos/347940042
+  author: naturalisttt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347940042/original.jpg
+- file: images/passeriformes/sittidae/sitta-arctica/3.jpg
+  page: https://www.inaturalist.org/photos/347940045
+  author: naturalisttt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347940045/original.jpg
+- file: images/passeriformes/sittidae/sitta-arctica/4.jpg
+  page: https://www.inaturalist.org/photos/347940052
+  author: naturalisttt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347940052/original.jpg
+- file: images/passeriformes/sittidae/sitta-arctica/5.jpg
+  page: https://www.inaturalist.org/photos/347940057
+  author: naturalisttt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347940057/original.jpg
 ---
 
 

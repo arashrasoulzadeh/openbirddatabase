@@ -205,10 +205,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/accipitriformes/accipitridae/circus-macrourus/1.jpg
+  page: https://www.inaturalist.org/photos/611416418
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611416418/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-macrourus/1.jpg
+  page: https://www.inaturalist.org/photos/611416418
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611416418/original.jpg
+- file: images/accipitriformes/accipitridae/circus-macrourus/2.jpg
+  page: https://www.inaturalist.org/photos/615674511
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674511/original.jpg
+- file: images/accipitriformes/accipitridae/circus-macrourus/3.jpg
+  page: https://www.inaturalist.org/photos/630510719
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630510719/original.jpg
+- file: images/accipitriformes/accipitridae/circus-macrourus/4.jpg
+  page: https://www.inaturalist.org/photos/677692325
+  author: Katerina Kalogerini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677692325/original.jpg
+- file: images/accipitriformes/accipitridae/circus-macrourus/5.jpg
+  page: https://www.inaturalist.org/photos/634053956
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634053956/original.jpg
 ---
 
 

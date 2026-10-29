@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 39
+image:
+  file: images/accipitriformes/accipitridae/hieraaetus-morphnoides/1.jpg
+  page: https://www.inaturalist.org/photos/606506469
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606506469/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/hieraaetus-morphnoides/1.jpg
+  page: https://www.inaturalist.org/photos/606506469
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606506469/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-morphnoides/2.jpg
+  page: https://www.inaturalist.org/photos/617394207
+  author: Dylan Wishart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617394207/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-morphnoides/3.jpg
+  page: https://www.inaturalist.org/photos/670223241
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670223241/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-morphnoides/4.jpg
+  page: https://www.inaturalist.org/photos/620783327
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620783327/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-morphnoides/5.jpg
+  page: https://www.inaturalist.org/photos/641791194
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641791194/original.jpg
 ---
 
 

@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/strigiformes/strigidae/otus-scops/1.jpg
+  page: https://www.inaturalist.org/photos/614513066
+  author: S.R.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614513066/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-scops/1.jpg
+  page: https://www.inaturalist.org/photos/614513066
+  author: S.R.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614513066/original.jpg
+- file: images/strigiformes/strigidae/otus-scops/2.jpg
+  page: https://www.inaturalist.org/photos/635077471
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635077471/original.jpg
+- file: images/strigiformes/strigidae/otus-scops/3.jpg
+  page: https://www.inaturalist.org/photos/638550296
+  author: Шальнов Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638550296/original.jpg
+- file: images/strigiformes/strigidae/otus-scops/4.jpg
+  page: https://www.inaturalist.org/photos/672569888
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672569888/original.jpg
+- file: images/strigiformes/strigidae/otus-scops/5.jpg
+  page: https://www.inaturalist.org/photos/656234042
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656234042/original.jpg
 ---
 
 

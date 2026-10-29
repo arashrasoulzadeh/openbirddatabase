@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/leucocarbo-onslowi/1.jpg
+  page: https://www.inaturalist.org/photos/627336880
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627336880/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/leucocarbo-onslowi/1.jpg
+  page: https://www.inaturalist.org/photos/627336880
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627336880/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-onslowi/2.jpg
+  page: https://www.inaturalist.org/photos/553061467
+  author: Tim Park
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553061467/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-onslowi/3.jpg
+  page: https://www.inaturalist.org/photos/581168308
+  author: Joss Simpson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581168308/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-onslowi/4.jpg
+  page: https://www.inaturalist.org/photos/364647015
+  author: Clay Heath
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364647015/original.jpeg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-onslowi/5.jpg
+  page: https://www.inaturalist.org/photos/426443588
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426443588/original.jpeg
 ---
 
 

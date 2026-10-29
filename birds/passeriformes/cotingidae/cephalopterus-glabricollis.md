@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/cephalopterus-glabricollis/1.jpg
+  page: https://www.inaturalist.org/photos/704942675
+  author: Blake Bringhurst
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704942675/original.jpg
+images:
+- file: images/passeriformes/cotingidae/cephalopterus-glabricollis/1.jpg
+  page: https://www.inaturalist.org/photos/704942675
+  author: Blake Bringhurst
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704942675/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-glabricollis/2.jpg
+  page: https://www.inaturalist.org/photos/468360633
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468360633/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-glabricollis/3.jpg
+  page: https://www.inaturalist.org/photos/610512801
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610512801/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-glabricollis/4.jpg
+  page: https://www.inaturalist.org/photos/172630052
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172630052/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-glabricollis/5.jpg
+  page: https://www.inaturalist.org/photos/176571886
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176571886/original.jpg
 ---
 
 

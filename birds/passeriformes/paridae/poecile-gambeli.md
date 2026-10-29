@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/paridae/poecile-gambeli/1.jpg
+  page: https://www.inaturalist.org/photos/604523240
+  author: Craig Martin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604523240/original.jpg
+images:
+- file: images/passeriformes/paridae/poecile-gambeli/1.jpg
+  page: https://www.inaturalist.org/photos/604523240
+  author: Craig Martin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604523240/original.jpg
+- file: images/passeriformes/paridae/poecile-gambeli/2.jpg
+  page: https://www.inaturalist.org/photos/605112764
+  author: kevin_orca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605112764/original.jpg
+- file: images/passeriformes/paridae/poecile-gambeli/3.jpg
+  page: https://www.inaturalist.org/photos/608379994
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608379994/original.jpg
+- file: images/passeriformes/paridae/poecile-gambeli/4.jpg
+  page: https://www.inaturalist.org/photos/605112787
+  author: kevin_orca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605112787/original.jpg
+- file: images/passeriformes/paridae/poecile-gambeli/5.jpg
+  page: https://www.inaturalist.org/photos/605112812
+  author: kevin_orca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605112812/original.jpg
 ---
 
 

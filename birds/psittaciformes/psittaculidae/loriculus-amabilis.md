@@ -137,7 +137,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.4
@@ -145,6 +146,38 @@ morphology:
   wing_length_mm: 76.5
   tail_length_mm: 38.3
   body_mass_g: 20.0
+image:
+  file: images/psittaciformes/psittaculidae/loriculus-amabilis/1.jpg
+  page: https://www.inaturalist.org/photos/526334010
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334010/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/loriculus-amabilis/1.jpg
+  page: https://www.inaturalist.org/photos/526334010
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334010/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-amabilis/2.jpg
+  page: https://www.inaturalist.org/photos/313879064
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313879064/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-amabilis/3.jpg
+  page: https://www.inaturalist.org/photos/107841069
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107841069/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-amabilis/4.jpg
+  page: https://www.inaturalist.org/photos/313879063
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313879063/original.jpg
 ---
 
 

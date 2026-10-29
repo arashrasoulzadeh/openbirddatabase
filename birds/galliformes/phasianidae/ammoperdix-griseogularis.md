@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/ammoperdix-griseogularis/1.jpg
+  page: https://www.inaturalist.org/photos/694323045
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694323045/original.jpg
+images:
+- file: images/galliformes/phasianidae/ammoperdix-griseogularis/1.jpg
+  page: https://www.inaturalist.org/photos/694323045
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694323045/original.jpg
+- file: images/galliformes/phasianidae/ammoperdix-griseogularis/2.jpg
+  page: https://www.inaturalist.org/photos/519825159
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519825159/original.jpg
+- file: images/galliformes/phasianidae/ammoperdix-griseogularis/3.jpg
+  page: https://www.inaturalist.org/photos/402845625
+  author: Alexander A. Fomichev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402845625/original.jpeg
+- file: images/galliformes/phasianidae/ammoperdix-griseogularis/4.jpg
+  page: https://www.inaturalist.org/photos/332385608
+  author: موسی مزینانیان Mousa Mazinanian
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332385608/original.jpeg
+- file: images/galliformes/phasianidae/ammoperdix-griseogularis/5.jpg
+  page: https://www.inaturalist.org/photos/202672267
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202672267/original.jpeg
 ---
 
 

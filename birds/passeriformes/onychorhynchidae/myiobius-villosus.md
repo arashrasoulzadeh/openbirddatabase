@@ -141,8 +141,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/onychorhynchidae/myiobius-villosus/1.jpg
+  page: https://www.inaturalist.org/photos/591907373
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591907373/original.jpg
+images:
+- file: images/passeriformes/onychorhynchidae/myiobius-villosus/1.jpg
+  page: https://www.inaturalist.org/photos/591907373
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591907373/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-villosus/2.jpg
+  page: https://www.inaturalist.org/photos/188008743
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188008743/original.png
+- file: images/passeriformes/onychorhynchidae/myiobius-villosus/3.jpg
+  page: https://www.inaturalist.org/photos/176636187
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176636187/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-villosus/4.jpg
+  page: https://www.inaturalist.org/photos/176636193
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176636193/original.jpg
 ---
 
 

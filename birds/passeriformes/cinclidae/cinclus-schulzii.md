@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cinclidae/cinclus-schulzii/1.jpg
+  page: https://www.inaturalist.org/photos/572359908
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572359908/original.jpg
+images:
+- file: images/passeriformes/cinclidae/cinclus-schulzii/1.jpg
+  page: https://www.inaturalist.org/photos/572359908
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572359908/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-schulzii/2.jpg
+  page: https://www.inaturalist.org/photos/572272242
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572272242/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-schulzii/3.jpg
+  page: https://www.inaturalist.org/photos/602750513
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602750513/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-schulzii/4.jpg
+  page: https://www.inaturalist.org/photos/401882260
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401882260/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-schulzii/5.jpg
+  page: https://www.inaturalist.org/photos/424301146
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424301146/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/synallaxis-erythrothorax/1.jpg
+  page: https://www.flickr.com/photos/cricketsblog/54398817937/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478196348/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-erythrothorax/1.jpg
+  page: https://www.flickr.com/photos/cricketsblog/54398817937/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478196348/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-erythrothorax/2.jpg
+  page: https://www.inaturalist.org/photos/481380392
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481380392/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-erythrothorax/3.jpg
+  page: https://www.inaturalist.org/photos/598378591
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598378591/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-erythrothorax/4.jpg
+  page: https://www.inaturalist.org/photos/605838429
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605838429/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-erythrothorax/5.jpg
+  page: https://www.inaturalist.org/photos/347658925
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347658925/original.jpeg
 ---
 
 

@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/strigiformes/strigidae/strix-uralensis/1.jpg
+  page: https://www.inaturalist.org/photos/604748322
+  author: Сергей Неклюдов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604748322/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-uralensis/1.jpg
+  page: https://www.inaturalist.org/photos/604748322
+  author: Сергей Неклюдов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604748322/original.jpg
+- file: images/strigiformes/strigidae/strix-uralensis/2.jpg
+  page: https://www.inaturalist.org/photos/604690651
+  author: Юлия
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604690651/original.jpg
+- file: images/strigiformes/strigidae/strix-uralensis/3.jpg
+  page: https://www.inaturalist.org/photos/605073583
+  author: Александр Краснов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605073583/original.jpg
+- file: images/strigiformes/strigidae/strix-uralensis/4.jpg
+  page: https://www.inaturalist.org/photos/605080807
+  author: Нурхайдарова Татьяна
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605080807/original.jpg
+- file: images/strigiformes/strigidae/strix-uralensis/5.jpg
+  page: https://www.inaturalist.org/photos/605665606
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665606/original.jpg
 ---
 
 

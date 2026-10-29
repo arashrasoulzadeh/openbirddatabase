@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pionus-sordidus/1.jpg
+  page: https://www.inaturalist.org/photos/473511717
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473511717/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pionus-sordidus/1.jpg
+  page: https://www.inaturalist.org/photos/473511717
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473511717/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-sordidus/2.jpg
+  page: https://www.inaturalist.org/photos/482771980
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482771980/original.png
+- file: images/psittaciformes/psittacidae/pionus-sordidus/3.jpg
+  page: https://www.inaturalist.org/photos/519509265
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519509265/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-sordidus/4.jpg
+  page: https://www.inaturalist.org/photos/587194526
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194526/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-sordidus/5.jpg
+  page: https://www.inaturalist.org/photos/482778978
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482778978/original.png
 ---
 
 

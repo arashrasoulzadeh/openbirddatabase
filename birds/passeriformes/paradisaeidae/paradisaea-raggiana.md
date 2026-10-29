@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/paradisaeidae/paradisaea-raggiana/1.jpg
+  page: https://www.inaturalist.org/photos/698664321
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698664321/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/paradisaea-raggiana/1.jpg
+  page: https://www.inaturalist.org/photos/698664321
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698664321/original.jpg
+- file: images/passeriformes/paradisaeidae/paradisaea-raggiana/2.jpg
+  page: https://www.inaturalist.org/photos/713194609
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713194609/original.jpg
+- file: images/passeriformes/paradisaeidae/paradisaea-raggiana/3.jpg
+  page: https://www.inaturalist.org/photos/547216440
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547216440/original.jpg
+- file: images/passeriformes/paradisaeidae/paradisaea-raggiana/4.jpg
+  page: https://www.inaturalist.org/photos/565733717
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565733717/original.jpg
+- file: images/passeriformes/paradisaeidae/paradisaea-raggiana/5.jpg
+  page: https://www.inaturalist.org/photos/577444792
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577444792/original.jpg
 ---
 
 

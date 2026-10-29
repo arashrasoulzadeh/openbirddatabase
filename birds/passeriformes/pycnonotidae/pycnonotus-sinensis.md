@@ -152,8 +152,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-sinensis/1.jpg
+  page: https://www.inaturalist.org/photos/605311012
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605311012/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-sinensis/1.jpg
+  page: https://www.inaturalist.org/photos/605311012
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605311012/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-sinensis/2.jpg
+  page: https://www.inaturalist.org/photos/608085122
+  author: nayeonyooo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608085122/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-sinensis/3.jpg
+  page: https://www.inaturalist.org/photos/605311011
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605311011/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-sinensis/4.jpg
+  page: https://www.inaturalist.org/photos/605311035
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605311035/original.jpg
 ---
 
 

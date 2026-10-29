@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/certhidea-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/610619178
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610619178/original.jpg
+images:
+- file: images/passeriformes/thraupidae/certhidea-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/610619178
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610619178/original.jpg
+- file: images/passeriformes/thraupidae/certhidea-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/528415007
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528415007/original.jpg
+- file: images/passeriformes/thraupidae/certhidea-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/559084375
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559084375/original.jpg
+- file: images/passeriformes/thraupidae/certhidea-fusca/4.jpg
+  page: https://www.flickr.com/photos/pauljill/53643966750/
+  author: Paul Asman and Jill Lenoble
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364924808/original.jpg
+- file: images/passeriformes/thraupidae/certhidea-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/610619190
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610619190/original.jpg
 ---
 
 

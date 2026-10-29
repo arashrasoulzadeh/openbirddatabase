@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-lafresnayi/1.jpg
+  page: https://www.inaturalist.org/photos/474212311
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474212311/original.jpeg
+images:
+- file: images/piciformes/picidae/picumnus-lafresnayi/1.jpg
+  page: https://www.inaturalist.org/photos/474212311
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474212311/original.jpeg
+- file: images/piciformes/picidae/picumnus-lafresnayi/2.jpg
+  page: https://www.inaturalist.org/photos/486538405
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486538405/original.jpeg
+- file: images/piciformes/picidae/picumnus-lafresnayi/3.jpg
+  page: https://www.inaturalist.org/photos/539373651
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539373651/original.jpg
+- file: images/piciformes/picidae/picumnus-lafresnayi/4.jpg
+  page: https://www.inaturalist.org/photos/601844878
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601844878/original.jpg
+- file: images/piciformes/picidae/picumnus-lafresnayi/5.jpg
+  page: https://www.inaturalist.org/photos/385944062
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385944062/original.jpg
 ---
 
 

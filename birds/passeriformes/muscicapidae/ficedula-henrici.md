@@ -126,8 +126,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-henrici/1.jpg
+  page: https://www.inaturalist.org/photos/337787245
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787245/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-henrici/1.jpg
+  page: https://www.inaturalist.org/photos/337787245
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787245/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-henrici/2.jpg
+  page: https://www.inaturalist.org/photos/337787689
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787689/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-henrici/3.jpg
+  page: https://www.inaturalist.org/photos/337787253
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787253/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-henrici/4.jpg
+  page: https://www.inaturalist.org/photos/433880568
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433880568/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-henrici/5.jpg
+  page: https://www.inaturalist.org/photos/433880590
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433880590/original.jpeg
 ---
 
 

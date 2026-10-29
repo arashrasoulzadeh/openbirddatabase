@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.7
@@ -136,6 +137,20 @@ morphology:
   wing_length_mm: 81.2
   tail_length_mm: 71.0
   body_mass_g: 27.5
+image:
+  file: images/passeriformes/hylocitreidae/hylocitrea-bonensis/1.jpg
+  page: https://www.inaturalist.org/photos/307270020
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307270020/original.jpg
+images:
+- file: images/passeriformes/hylocitreidae/hylocitrea-bonensis/1.jpg
+  page: https://www.inaturalist.org/photos/307270020
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307270020/original.jpg
 ---
 
 

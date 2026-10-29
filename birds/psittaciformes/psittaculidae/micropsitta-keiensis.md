@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/micropsitta-keiensis/1.jpg
+  page: https://www.inaturalist.org/photos/706893988
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706893988/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/micropsitta-keiensis/1.jpg
+  page: https://www.inaturalist.org/photos/706893988
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706893988/original.jpg
+- file: images/psittaciformes/psittaculidae/micropsitta-keiensis/2.jpg
+  page: https://www.inaturalist.org/photos/618870900
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618870900/original.jpg
+- file: images/psittaciformes/psittaculidae/micropsitta-keiensis/3.jpg
+  page: https://www.inaturalist.org/photos/315676556
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/315676556/original.jpg
+- file: images/psittaciformes/psittaculidae/micropsitta-keiensis/4.jpg
+  page: https://www.inaturalist.org/photos/706893985
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706893985/original.jpg
+- file: images/psittaciformes/psittaculidae/micropsitta-keiensis/5.jpg
+  page: https://www.inaturalist.org/photos/618870914
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618870914/original.jpg
 ---
 
 

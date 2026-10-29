@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/phleocryptes-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/608791909
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608791909/original.jpg
+images:
+- file: images/passeriformes/furnariidae/phleocryptes-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/608791909
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608791909/original.jpg
+- file: images/passeriformes/furnariidae/phleocryptes-melanops/2.jpg
+  page: https://www.inaturalist.org/photos/606281431
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606281431/original.jpg
+- file: images/passeriformes/furnariidae/phleocryptes-melanops/3.jpg
+  page: https://www.inaturalist.org/photos/611499621
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611499621/original.jpg
+- file: images/passeriformes/furnariidae/phleocryptes-melanops/4.jpg
+  page: https://www.inaturalist.org/photos/614453685
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614453685/original.jpg
+- file: images/passeriformes/furnariidae/phleocryptes-melanops/5.jpg
+  page: https://www.inaturalist.org/photos/619418084
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619418084/original.jpg
 ---
 
 

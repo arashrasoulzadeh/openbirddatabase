@@ -155,8 +155,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/phoenicurus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/608575659
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608575659/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/phoenicurus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/608575659
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608575659/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-fuliginosus/2.jpg
+  page: https://www.inaturalist.org/photos/607015214
+  author: 葉淑蓮
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607015214/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-fuliginosus/3.jpg
+  page: https://www.inaturalist.org/photos/608575676
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608575676/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-fuliginosus/4.jpg
+  page: https://www.inaturalist.org/photos/608575696
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608575696/original.jpg
 ---
 
 

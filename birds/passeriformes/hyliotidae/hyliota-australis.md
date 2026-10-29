@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hyliotidae/hyliota-australis/1.jpg
+  page: https://www.inaturalist.org/photos/445036215
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036215/original.jpg
+images:
+- file: images/passeriformes/hyliotidae/hyliota-australis/1.jpg
+  page: https://www.inaturalist.org/photos/445036215
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036215/original.jpg
+- file: images/passeriformes/hyliotidae/hyliota-australis/2.jpg
+  page: https://www.inaturalist.org/photos/337824766
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337824766/original.jpg
+- file: images/passeriformes/hyliotidae/hyliota-australis/3.jpg
+  page: https://www.inaturalist.org/photos/127396757
+  author: Jonathan Whitaker
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/127396757/original.jpg
+- file: images/passeriformes/hyliotidae/hyliota-australis/4.jpg
+  page: https://www.inaturalist.org/photos/264052865
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264052865/original.jpeg
+- file: images/passeriformes/hyliotidae/hyliota-australis/5.jpg
+  page: https://www.inaturalist.org/photos/445036213
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036213/original.jpg
 ---
 
 

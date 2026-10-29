@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/coturnix-delegorguei/1.jpg
+  page: https://www.inaturalist.org/photos/650460041
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650460041/original.jpg
+images:
+- file: images/galliformes/phasianidae/coturnix-delegorguei/1.jpg
+  page: https://www.inaturalist.org/photos/650460041
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650460041/original.jpg
+- file: images/galliformes/phasianidae/coturnix-delegorguei/2.jpg
+  page: https://www.inaturalist.org/photos/605344288
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605344288/original.jpg
+- file: images/galliformes/phasianidae/coturnix-delegorguei/3.jpg
+  page: https://www.inaturalist.org/photos/635096243
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635096243/original.jpg
+- file: images/galliformes/phasianidae/coturnix-delegorguei/4.jpg
+  page: https://www.inaturalist.org/photos/465785656
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465785656/original.jpeg
+- file: images/galliformes/phasianidae/coturnix-delegorguei/5.jpg
+  page: https://www.inaturalist.org/photos/471004966
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471004966/original.jpg
 ---
 
 

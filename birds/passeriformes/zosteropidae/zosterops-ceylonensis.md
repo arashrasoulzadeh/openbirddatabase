@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-ceylonensis/1.jpg
+  page: https://www.inaturalist.org/photos/618699878
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618699878/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-ceylonensis/1.jpg
+  page: https://www.inaturalist.org/photos/618699878
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618699878/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-ceylonensis/2.jpg
+  page: https://www.inaturalist.org/photos/465708146
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465708146/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-ceylonensis/3.jpg
+  page: https://www.inaturalist.org/photos/468459789
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468459789/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-ceylonensis/4.jpg
+  page: https://www.inaturalist.org/photos/470238668
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470238668/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-ceylonensis/5.jpg
+  page: https://www.inaturalist.org/photos/474208658
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474208658/original.jpeg
 ---
 
 

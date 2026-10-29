@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-recurvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/700407449
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700407449/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-recurvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/700407449
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700407449/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-recurvirostris/2.jpg
+  page: https://www.inaturalist.org/photos/728659643
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728659643/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-recurvirostris/3.jpg
+  page: https://www.inaturalist.org/photos/467292986
+  author: Shelomi Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467292986/original.jpeg
+- file: images/coraciiformes/alcedinidae/todiramphus-recurvirostris/4.jpg
+  page: https://www.inaturalist.org/photos/367019704
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367019704/original.jpeg
+- file: images/coraciiformes/alcedinidae/todiramphus-recurvirostris/5.jpg
+  page: https://www.inaturalist.org/photos/434287437
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434287437/original.jpeg
 ---
 
 

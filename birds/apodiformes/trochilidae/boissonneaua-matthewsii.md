@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/boissonneaua-matthewsii/1.jpg
+  page: https://www.inaturalist.org/photos/619429941
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619429941/original.jpg
+images:
+- file: images/apodiformes/trochilidae/boissonneaua-matthewsii/1.jpg
+  page: https://www.inaturalist.org/photos/619429941
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619429941/original.jpg
+- file: images/apodiformes/trochilidae/boissonneaua-matthewsii/2.jpg
+  page: https://www.inaturalist.org/photos/624356503
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624356503/original.jpg
+- file: images/apodiformes/trochilidae/boissonneaua-matthewsii/3.jpg
+  page: https://www.inaturalist.org/photos/645706307
+  author: Daniel Nicholson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645706307/original.jpg
+- file: images/apodiformes/trochilidae/boissonneaua-matthewsii/4.jpg
+  page: https://www.inaturalist.org/photos/682749543
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682749543/original.jpg
+- file: images/apodiformes/trochilidae/boissonneaua-matthewsii/5.jpg
+  page: https://www.inaturalist.org/photos/681287348
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681287348/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/goura-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/587490061
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587490061/original.jpg
+images:
+- file: images/columbiformes/columbidae/goura-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/587490061
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587490061/original.jpg
+- file: images/columbiformes/columbidae/goura-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/337550107
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337550107/original.jpg
+- file: images/columbiformes/columbidae/goura-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/337550095
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337550095/original.jpg
+- file: images/columbiformes/columbidae/goura-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/337550128
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337550128/original.jpg
+- file: images/columbiformes/columbidae/goura-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/339237049
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339237049/original.jpg
 ---
 
 

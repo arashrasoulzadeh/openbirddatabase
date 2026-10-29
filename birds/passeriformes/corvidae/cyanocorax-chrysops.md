@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-chrysops/1.jpg
+  page: https://www.inaturalist.org/photos/606014651
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014651/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-chrysops/1.jpg
+  page: https://www.inaturalist.org/photos/606014651
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014651/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-chrysops/2.jpg
+  page: https://www.inaturalist.org/photos/609438150
+  author: Gabriel Albelda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609438150/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-chrysops/3.jpg
+  page: https://www.inaturalist.org/photos/607976513
+  author: Darci
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607976513/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-chrysops/4.jpg
+  page: https://www.inaturalist.org/photos/610209920
+  author: Paula Romano
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610209920/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-chrysops/5.jpg
+  page: https://www.inaturalist.org/photos/608717962
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608717962/original.jpg
 ---
 
 

@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/cecropis-semirufa/1.jpg
+  page: https://www.inaturalist.org/photos/619737891
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619737891/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/cecropis-semirufa/1.jpg
+  page: https://www.inaturalist.org/photos/619737891
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619737891/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-semirufa/2.jpg
+  page: https://www.inaturalist.org/photos/719519893
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719519893/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-semirufa/3.jpg
+  page: https://www.inaturalist.org/photos/733664036
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733664036/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-semirufa/4.jpg
+  page: https://www.inaturalist.org/photos/473623063
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473623063/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-semirufa/5.jpg
+  page: https://www.inaturalist.org/photos/554122237
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554122237/original.jpg
 ---
 
 

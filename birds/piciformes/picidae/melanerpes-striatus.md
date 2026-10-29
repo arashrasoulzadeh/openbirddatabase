@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/607518006
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518006/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/607518006
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518006/original.jpg
+- file: images/piciformes/picidae/melanerpes-striatus/2.jpg
+  page: https://www.inaturalist.org/photos/611059080
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611059080/original.jpg
+- file: images/piciformes/picidae/melanerpes-striatus/3.jpg
+  page: https://www.inaturalist.org/photos/614975263
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975263/original.jpg
+- file: images/piciformes/picidae/melanerpes-striatus/4.jpg
+  page: https://www.inaturalist.org/photos/614447295
+  author: mikenash-ottawa
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614447295/original.jpg
+- file: images/piciformes/picidae/melanerpes-striatus/5.jpg
+  page: https://www.inaturalist.org/photos/614717709
+  author: fmunoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717709/original.jpg
 ---
 
 

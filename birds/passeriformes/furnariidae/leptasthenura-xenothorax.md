@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/leptasthenura-xenothorax/1.jpg
+  page: https://www.inaturalist.org/photos/483881279
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483881279/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/leptasthenura-xenothorax/1.jpg
+  page: https://www.inaturalist.org/photos/483881279
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483881279/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-xenothorax/2.jpg
+  page: https://www.inaturalist.org/photos/339733672
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339733672/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-xenothorax/3.jpg
+  page: https://www.inaturalist.org/photos/483881276
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483881276/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-xenothorax/4.jpg
+  page: https://www.inaturalist.org/photos/339733674
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339733674/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-xenothorax/5.jpg
+  page: https://www.inaturalist.org/photos/221135108
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/221135108/original.jpg
 ---
 
 

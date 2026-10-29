@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myioborus-flavivertex/1.jpg
+  page: https://www.inaturalist.org/photos/696597270
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696597270/original.jpg
+images:
+- file: images/passeriformes/parulidae/myioborus-flavivertex/1.jpg
+  page: https://www.inaturalist.org/photos/696597270
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696597270/original.jpg
+- file: images/passeriformes/parulidae/myioborus-flavivertex/2.jpg
+  page: https://www.inaturalist.org/photos/738245086
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738245086/original.jpg
+- file: images/passeriformes/parulidae/myioborus-flavivertex/3.jpg
+  page: https://www.inaturalist.org/photos/734403523
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734403523/original.jpg
+- file: images/passeriformes/parulidae/myioborus-flavivertex/4.jpg
+  page: https://www.inaturalist.org/photos/469550573
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469550573/original.jpeg
+- file: images/passeriformes/parulidae/myioborus-flavivertex/5.jpg
+  page: https://www.inaturalist.org/photos/601095307
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601095307/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/sylvia-galinieri/1.jpg
+  page: https://www.inaturalist.org/photos/604695659
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604695659/original.jpg
+images:
+- file: images/passeriformes/sylviidae/sylvia-galinieri/1.jpg
+  page: https://www.inaturalist.org/photos/604695659
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604695659/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-galinieri/2.jpg
+  page: https://www.inaturalist.org/photos/13386067
+  author: Scott Bowers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13386067/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-galinieri/3.jpg
+  page: https://www.inaturalist.org/photos/604695667
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604695667/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-galinieri/4.jpg
+  page: https://www.inaturalist.org/photos/605289880
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605289880/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-galinieri/5.jpg
+  page: https://www.inaturalist.org/photos/605289881
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605289881/original.jpg
 ---
 
 

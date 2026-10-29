@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/meliphagidae/conopophila-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/680214611
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680214611/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/conopophila-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/680214611
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680214611/original.jpg
+- file: images/passeriformes/meliphagidae/conopophila-rufogularis/2.jpg
+  page: https://www.inaturalist.org/photos/702602755
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702602755/original.jpg
+- file: images/passeriformes/meliphagidae/conopophila-rufogularis/3.jpg
+  page: https://www.inaturalist.org/photos/743079289
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743079289/original.jpg
+- file: images/passeriformes/meliphagidae/conopophila-rufogularis/4.jpg
+  page: https://www.inaturalist.org/photos/680214616
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680214616/original.jpg
+- file: images/passeriformes/meliphagidae/conopophila-rufogularis/5.jpg
+  page: https://www.inaturalist.org/photos/680214631
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680214631/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/acanthiza-iredalei/1.jpg
+  page: https://www.inaturalist.org/photos/569398289
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569398289/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthiza-iredalei/1.jpg
+  page: https://www.inaturalist.org/photos/569398289
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569398289/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-iredalei/2.jpg
+  page: https://www.inaturalist.org/photos/566190062
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566190062/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-iredalei/3.jpg
+  page: https://www.inaturalist.org/photos/569398318
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569398318/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-iredalei/4.jpg
+  page: https://www.inaturalist.org/photos/569398370
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569398370/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-iredalei/5.jpg
+  page: https://www.inaturalist.org/photos/569398416
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569398416/original.jpg
 ---
 
 

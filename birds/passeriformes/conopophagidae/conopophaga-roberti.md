@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/conopophagidae/conopophaga-roberti/1.jpg
+  page: https://www.inaturalist.org/photos/603306974
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603306974/original.jpg
+images:
+- file: images/passeriformes/conopophagidae/conopophaga-roberti/1.jpg
+  page: https://www.inaturalist.org/photos/603306974
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603306974/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-roberti/2.jpg
+  page: https://www.inaturalist.org/photos/434384247
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434384247/original.jpeg
+- file: images/passeriformes/conopophagidae/conopophaga-roberti/3.jpg
+  page: https://www.inaturalist.org/photos/246155026
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246155026/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-roberti/4.jpg
+  page: https://www.inaturalist.org/photos/434384200
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434384200/original.jpeg
+- file: images/passeriformes/conopophagidae/conopophaga-roberti/5.jpg
+  page: https://www.inaturalist.org/photos/434384233
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434384233/original.jpeg
 ---
 
 

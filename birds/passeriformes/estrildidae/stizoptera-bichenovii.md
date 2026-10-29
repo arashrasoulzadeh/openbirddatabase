@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 9.7
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 50.9
   tail_length_mm: 44.2
   body_mass_g: 9.6
+image:
+  file: images/passeriformes/estrildidae/stizoptera-bichenovii/1.jpg
+  page: https://www.inaturalist.org/photos/605185326
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605185326/original.jpg
+images:
+- file: images/passeriformes/estrildidae/stizoptera-bichenovii/1.jpg
+  page: https://www.inaturalist.org/photos/605185326
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605185326/original.jpg
+- file: images/passeriformes/estrildidae/stizoptera-bichenovii/2.jpg
+  page: https://www.inaturalist.org/photos/605297508
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605297508/original.jpg
+- file: images/passeriformes/estrildidae/stizoptera-bichenovii/3.jpg
+  page: https://www.inaturalist.org/photos/615973985
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615973985/original.jpg
+- file: images/passeriformes/estrildidae/stizoptera-bichenovii/4.jpg
+  page: https://www.inaturalist.org/photos/615974060
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615974060/original.jpg
+- file: images/passeriformes/estrildidae/stizoptera-bichenovii/5.jpg
+  page: https://www.inaturalist.org/photos/615974078
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615974078/original.jpg
 ---
 
 

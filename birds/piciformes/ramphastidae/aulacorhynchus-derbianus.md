@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/aulacorhynchus-derbianus/1.jpg
+  page: https://www.inaturalist.org/photos/539375262
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539375262/original.jpg
+images:
+- file: images/piciformes/ramphastidae/aulacorhynchus-derbianus/1.jpg
+  page: https://www.inaturalist.org/photos/539375262
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539375262/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-derbianus/2.jpg
+  page: https://www.inaturalist.org/photos/577954049
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577954049/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-derbianus/3.jpg
+  page: https://www.inaturalist.org/photos/581455321
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581455321/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-derbianus/4.jpg
+  page: https://www.inaturalist.org/photos/352670585
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352670585/original.jpeg
+- file: images/piciformes/ramphastidae/aulacorhynchus-derbianus/5.jpg
+  page: https://www.inaturalist.org/photos/342411676
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342411676/original.jpeg
 ---
 
 

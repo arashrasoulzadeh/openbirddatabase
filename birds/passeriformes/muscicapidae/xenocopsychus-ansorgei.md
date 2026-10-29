@@ -138,8 +138,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/xenocopsychus-ansorgei/1.jpg
+  page: https://www.inaturalist.org/photos/583345497
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583345497/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/xenocopsychus-ansorgei/1.jpg
+  page: https://www.inaturalist.org/photos/583345497
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583345497/original.jpg
+- file: images/passeriformes/muscicapidae/xenocopsychus-ansorgei/2.jpg
+  page: https://www.inaturalist.org/photos/50639895
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50639895/original.jpg
+- file: images/passeriformes/muscicapidae/xenocopsychus-ansorgei/3.jpg
+  page: https://www.inaturalist.org/photos/583345511
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583345511/original.jpg
+- file: images/passeriformes/muscicapidae/xenocopsychus-ansorgei/4.jpg
+  page: https://www.inaturalist.org/photos/583345523
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583345523/original.jpg
+- file: images/passeriformes/muscicapidae/xenocopsychus-ansorgei/5.jpg
+  page: https://www.inaturalist.org/photos/583345546
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583345546/original.jpg
 ---
 
 

@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/apodiformes/trochilidae/mellisuga-helenae/1.jpg
+  page: https://www.inaturalist.org/photos/617117043
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617117043/original.jpg
+images:
+- file: images/apodiformes/trochilidae/mellisuga-helenae/1.jpg
+  page: https://www.inaturalist.org/photos/617117043
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617117043/original.jpg
+- file: images/apodiformes/trochilidae/mellisuga-helenae/2.jpg
+  page: https://www.inaturalist.org/photos/631702355
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631702355/original.jpg
+- file: images/apodiformes/trochilidae/mellisuga-helenae/3.jpg
+  page: https://www.inaturalist.org/photos/609781474
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609781474/original.jpg
+- file: images/apodiformes/trochilidae/mellisuga-helenae/4.jpg
+  page: https://www.inaturalist.org/photos/354287458
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354287458/original.jpg
+- file: images/apodiformes/trochilidae/mellisuga-helenae/5.jpg
+  page: https://www.inaturalist.org/photos/419523211
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419523211/original.jpeg
 ---
 
 

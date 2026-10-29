@@ -146,8 +146,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-tangorum/1.jpg
+  page: https://www.inaturalist.org/photos/635350432
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635350432/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-tangorum/1.jpg
+  page: https://www.inaturalist.org/photos/635350432
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635350432/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-tangorum/2.jpg
+  page: https://www.inaturalist.org/photos/332297884
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332297884/original.jpeg
+- file: images/passeriformes/acrocephalidae/acrocephalus-tangorum/3.jpg
+  page: https://www.inaturalist.org/photos/546729353
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546729353/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-tangorum/4.jpg
+  page: https://www.inaturalist.org/photos/635350448
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635350448/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-tangorum/5.jpg
+  page: https://www.inaturalist.org/photos/635350425
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635350425/original.jpg
 ---
 
 

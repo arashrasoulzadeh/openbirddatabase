@@ -133,7 +133,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.4
@@ -141,6 +142,38 @@ morphology:
   wing_length_mm: 54.5
   tail_length_mm: 38.5
   body_mass_g: 12.0
+image:
+  file: images/passeriformes/zosteropidae/zosterops-kuehni/1.jpg
+  page: https://www.inaturalist.org/photos/247437638
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247437638/original.jpeg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-kuehni/1.jpg
+  page: https://www.inaturalist.org/photos/247437638
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247437638/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-kuehni/2.jpg
+  page: https://www.inaturalist.org/photos/416866181
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866181/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-kuehni/3.jpg
+  page: https://www.inaturalist.org/photos/440527593
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527593/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-kuehni/4.jpg
+  page: https://www.inaturalist.org/photos/440527608
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527608/original.jpeg
 ---
 
 

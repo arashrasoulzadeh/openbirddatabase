@@ -144,8 +144,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/348566479
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348566479/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/348566479
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348566479/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-minutus/2.jpg
+  page: https://www.inaturalist.org/photos/348564397
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348564397/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-minutus/3.jpg
+  page: https://www.inaturalist.org/photos/348566216
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348566216/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-minutus/4.jpg
+  page: https://www.inaturalist.org/photos/348566337
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348566337/original.jpg
 ---
 
 

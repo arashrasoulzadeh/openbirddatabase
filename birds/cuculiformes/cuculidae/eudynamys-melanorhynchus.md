@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/eudynamys-melanorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/605606400
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605606400/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/eudynamys-melanorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/605606400
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605606400/original.jpg
+- file: images/cuculiformes/cuculidae/eudynamys-melanorhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/607847831
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607847831/original.jpg
+- file: images/cuculiformes/cuculidae/eudynamys-melanorhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/607061542
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607061542/original.jpg
+- file: images/cuculiformes/cuculidae/eudynamys-melanorhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/610839646
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610839646/original.jpg
+- file: images/cuculiformes/cuculidae/eudynamys-melanorhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/610111943
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610111943/original.jpg
 ---
 
 

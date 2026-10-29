@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-saturata/1.jpg
+  page: https://www.inaturalist.org/photos/612898759
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612898759/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-saturata/1.jpg
+  page: https://www.inaturalist.org/photos/612898759
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612898759/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-saturata/2.jpg
+  page: https://www.inaturalist.org/photos/724737639
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724737639/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-saturata/3.jpg
+  page: https://www.inaturalist.org/photos/498361266
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498361266/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-saturata/4.jpg
+  page: https://www.inaturalist.org/photos/489336969
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489336969/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-saturata/5.jpg
+  page: https://www.inaturalist.org/photos/514819904
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514819904/original.jpg
 ---
 
 

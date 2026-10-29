@@ -139,8 +139,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-aromaticus/1.jpg
+  page: https://www.inaturalist.org/photos/247591011
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247591011/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-aromaticus/1.jpg
+  page: https://www.inaturalist.org/photos/247591011
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247591011/original.jpg
+- file: images/columbiformes/columbidae/treron-aromaticus/2.jpg
+  page: https://www.inaturalist.org/photos/416866110
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866110/original.jpg
+- file: images/columbiformes/columbidae/treron-aromaticus/3.jpg
+  page: https://www.inaturalist.org/photos/440527845
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527845/original.jpeg
+- file: images/columbiformes/columbidae/treron-aromaticus/4.jpg
+  page: https://www.inaturalist.org/photos/440527832
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527832/original.jpeg
+- file: images/columbiformes/columbidae/treron-aromaticus/5.jpg
+  page: https://www.inaturalist.org/photos/440527865
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527865/original.jpeg
 ---
 
 

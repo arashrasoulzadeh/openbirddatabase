@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/meliphagidae/xanthotis-macleayanus/1.jpg
+  page: https://www.inaturalist.org/photos/636918357
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636918357/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/xanthotis-macleayanus/1.jpg
+  page: https://www.inaturalist.org/photos/636918357
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636918357/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-macleayanus/2.jpg
+  page: https://www.inaturalist.org/photos/705892334
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705892334/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-macleayanus/3.jpg
+  page: https://www.inaturalist.org/photos/692555684
+  author: Jane C Frost
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692555684/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-macleayanus/4.jpg
+  page: https://www.inaturalist.org/photos/730841956
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730841956/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-macleayanus/5.jpg
+  page: https://www.inaturalist.org/photos/737393514
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737393514/original.jpg
 ---
 
 

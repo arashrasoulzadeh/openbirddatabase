@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/aphelocoma-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/611585924
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585924/original.jpg
+images:
+- file: images/passeriformes/corvidae/aphelocoma-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/611585924
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585924/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/612534448
+  author: Chris Wyse
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612534448/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/481728399
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481728399/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/485658127
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485658127/original.jpeg
+- file: images/passeriformes/corvidae/aphelocoma-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/597132492
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597132492/original.jpg
 ---
 
 

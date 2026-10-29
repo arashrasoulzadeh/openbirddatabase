@@ -151,10 +151,31 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/galliformes/cracidae/crax-globulosa/1.jpg
+  page: https://www.inaturalist.org/photos/592398305
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592398305/original.jpg
+images:
+- file: images/galliformes/cracidae/crax-globulosa/1.jpg
+  page: https://www.inaturalist.org/photos/592398305
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592398305/original.jpg
+- file: images/galliformes/cracidae/crax-globulosa/2.jpg
+  page: https://www.inaturalist.org/photos/592398387
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592398387/original.jpg
 ---
 
 

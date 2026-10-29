@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/ramphocelus-passerinii/1.jpg
+  page: https://www.inaturalist.org/photos/605439629
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605439629/original.jpg
+images:
+- file: images/passeriformes/thraupidae/ramphocelus-passerinii/1.jpg
+  page: https://www.inaturalist.org/photos/605439629
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605439629/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-passerinii/2.jpg
+  page: https://www.inaturalist.org/photos/607463977
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607463977/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-passerinii/3.jpg
+  page: https://www.inaturalist.org/photos/608206488
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608206488/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-passerinii/4.jpg
+  page: https://www.inaturalist.org/photos/609566923
+  author: Tom Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609566923/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-passerinii/5.jpg
+  page: https://www.inaturalist.org/photos/610856183
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610856183/original.jpg
 ---
 
 

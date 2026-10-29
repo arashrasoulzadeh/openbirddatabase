@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-hypoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/697408954
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697408954/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-hypoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/697408954
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697408954/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-hypoxantha/2.jpg
+  page: https://www.inaturalist.org/photos/674613438
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674613438/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-hypoxantha/3.jpg
+  page: https://www.inaturalist.org/photos/473457476
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473457476/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-hypoxantha/4.jpg
+  page: https://www.inaturalist.org/photos/484415670
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484415670/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-hypoxantha/5.jpg
+  page: https://www.inaturalist.org/photos/541162675
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541162675/original.jpg
 ---
 
 

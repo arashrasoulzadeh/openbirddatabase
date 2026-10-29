@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/ianthocincla-maxima/1.jpg
+  page: https://www.inaturalist.org/photos/632590384
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632590384/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/ianthocincla-maxima/1.jpg
+  page: https://www.inaturalist.org/photos/632590384
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632590384/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-maxima/2.jpg
+  page: https://www.inaturalist.org/photos/520229893
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520229893/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-maxima/3.jpg
+  page: https://www.inaturalist.org/photos/319805129
+  author: TonyT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/319805129/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-maxima/4.jpg
+  page: https://www.inaturalist.org/photos/632591096
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632591096/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-maxima/5.jpg
+  page: https://www.inaturalist.org/photos/632591132
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632591132/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/carpornis-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/616171785
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616171785/original.jpg
+images:
+- file: images/passeriformes/cotingidae/carpornis-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/616171785
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616171785/original.jpg
+- file: images/passeriformes/cotingidae/carpornis-melanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/725221558
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725221558/original.jpg
+- file: images/passeriformes/cotingidae/carpornis-melanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/736143089
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736143089/original.jpg
+- file: images/passeriformes/cotingidae/carpornis-melanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/505663245
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505663245/original.jpg
+- file: images/passeriformes/cotingidae/carpornis-melanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/532542146
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532542146/original.jpg
 ---
 
 

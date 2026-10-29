@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/fulica-rufifrons/1.jpg
+  page: https://www.inaturalist.org/photos/606291766
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606291766/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-rufifrons/1.jpg
+  page: https://www.inaturalist.org/photos/606291766
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606291766/original.jpg
+- file: images/gruiformes/rallidae/fulica-rufifrons/2.jpg
+  page: https://www.inaturalist.org/photos/609433459
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609433459/original.jpg
+- file: images/gruiformes/rallidae/fulica-rufifrons/3.jpg
+  page: https://www.inaturalist.org/photos/611576987
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611576987/original.jpg
+- file: images/gruiformes/rallidae/fulica-rufifrons/4.jpg
+  page: https://www.inaturalist.org/photos/613081485
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613081485/original.jpg
+- file: images/gruiformes/rallidae/fulica-rufifrons/5.jpg
+  page: https://www.inaturalist.org/photos/615355917
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615355917/original.jpg
 ---
 
 

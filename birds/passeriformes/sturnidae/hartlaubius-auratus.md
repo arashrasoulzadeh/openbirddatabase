@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/hartlaubius-auratus/1.jpg
+  page: https://www.inaturalist.org/photos/455088270
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455088270/original.jpg
+images:
+- file: images/passeriformes/sturnidae/hartlaubius-auratus/1.jpg
+  page: https://www.inaturalist.org/photos/455088270
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455088270/original.jpg
+- file: images/passeriformes/sturnidae/hartlaubius-auratus/2.jpg
+  page: https://www.inaturalist.org/photos/241709742
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241709742/original.jpg
+- file: images/passeriformes/sturnidae/hartlaubius-auratus/3.jpg
+  page: https://www.inaturalist.org/photos/2089051
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2089051/original.JPG
+- file: images/passeriformes/sturnidae/hartlaubius-auratus/4.jpg
+  page: https://www.inaturalist.org/photos/608908504
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608908504/original.jpg
+- file: images/passeriformes/sturnidae/hartlaubius-auratus/5.jpg
+  page: https://www.inaturalist.org/photos/245640275
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245640275/original.jpg
 ---
 
 

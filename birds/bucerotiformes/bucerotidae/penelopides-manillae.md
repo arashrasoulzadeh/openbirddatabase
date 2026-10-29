@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/penelopides-manillae/1.jpg
+  page: https://www.inaturalist.org/photos/638252058
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638252058/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/penelopides-manillae/1.jpg
+  page: https://www.inaturalist.org/photos/638252058
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638252058/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-manillae/2.jpg
+  page: https://www.inaturalist.org/photos/647881338
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647881338/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-manillae/3.jpg
+  page: https://www.inaturalist.org/photos/688330514
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688330514/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-manillae/4.jpg
+  page: https://www.inaturalist.org/photos/489759505
+  author: Jannis Ackermann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489759505/original.jpeg
+- file: images/bucerotiformes/bucerotidae/penelopides-manillae/5.jpg
+  page: https://www.inaturalist.org/photos/638252054
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638252054/original.jpg
 ---
 
 

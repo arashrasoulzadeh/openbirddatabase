@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/pomatostomidae/pomatostomus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/588674201
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588674201/original.jpg
+images:
+- file: images/passeriformes/pomatostomidae/pomatostomus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/588674201
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588674201/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-ruficeps/2.jpg
+  page: https://www.flickr.com/photos/dhobern/54951053446/
+  author: Donald Hobern
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595467031/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/359976453
+  author: Will Cornwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359976453/original.jpeg
+- file: images/passeriformes/pomatostomidae/pomatostomus-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/360986937
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360986937/original.jpeg
+- file: images/passeriformes/pomatostomidae/pomatostomus-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/377038473
+  author: Kerri-Lee Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/377038473/original.jpg
 ---
 
 

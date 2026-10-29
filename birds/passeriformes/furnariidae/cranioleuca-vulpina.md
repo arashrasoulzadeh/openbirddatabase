@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cranioleuca-vulpina/1.jpg
+  page: https://www.inaturalist.org/photos/720735589
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720735589/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cranioleuca-vulpina/1.jpg
+  page: https://www.inaturalist.org/photos/720735589
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720735589/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-vulpina/2.jpg
+  page: https://www.inaturalist.org/photos/640324738
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640324738/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-vulpina/3.jpg
+  page: https://www.inaturalist.org/photos/667139444
+  author: the_adventure_hunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667139444/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-vulpina/4.jpg
+  page: https://www.inaturalist.org/photos/684210353
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684210353/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-vulpina/5.jpg
+  page: https://www.inaturalist.org/photos/701868600
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701868600/original.jpg
 ---
 
 

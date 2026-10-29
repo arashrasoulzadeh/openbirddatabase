@@ -123,7 +123,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.1
@@ -131,6 +132,26 @@ morphology:
   wing_length_mm: 74.5
   tail_length_mm: 71.0
   body_mass_g: 33.5
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-tympanistrigus/1.jpg
+  page: https://www.inaturalist.org/photos/616152203
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152203/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-tympanistrigus/1.jpg
+  page: https://www.inaturalist.org/photos/616152203
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152203/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-tympanistrigus/2.jpg
+  page: https://www.inaturalist.org/photos/616152207
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152207/original.jpg
 ---
 
 

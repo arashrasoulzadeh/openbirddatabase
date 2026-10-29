@@ -151,10 +151,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 36
+image:
+  file: images/pelecaniformes/balaenicipitidae/balaeniceps-rex/1.jpg
+  page: https://www.inaturalist.org/photos/675836328
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675836328/original.jpg
+images:
+- file: images/pelecaniformes/balaenicipitidae/balaeniceps-rex/1.jpg
+  page: https://www.inaturalist.org/photos/675836328
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675836328/original.jpg
+- file: images/pelecaniformes/balaenicipitidae/balaeniceps-rex/2.jpg
+  page: https://www.inaturalist.org/photos/713768218
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713768218/original.jpg
+- file: images/pelecaniformes/balaenicipitidae/balaeniceps-rex/3.jpg
+  page: https://www.inaturalist.org/photos/548064196
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548064196/original.jpg
+- file: images/pelecaniformes/balaenicipitidae/balaeniceps-rex/4.jpg
+  page: https://www.inaturalist.org/photos/567320773
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567320773/original.jpg
+- file: images/pelecaniformes/balaenicipitidae/balaeniceps-rex/5.jpg
+  page: https://www.inaturalist.org/photos/564448130
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564448130/original.jpg
 ---
 
 

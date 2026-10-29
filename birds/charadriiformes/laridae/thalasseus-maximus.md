@@ -183,10 +183,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/charadriiformes/laridae/thalasseus-maximus/1.jpg
+  page: https://www.inaturalist.org/photos/605587878
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605587878/original.jpg
+images:
+- file: images/charadriiformes/laridae/thalasseus-maximus/1.jpg
+  page: https://www.inaturalist.org/photos/605587878
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605587878/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-maximus/2.jpg
+  page: https://www.inaturalist.org/photos/605180656
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180656/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-maximus/3.jpg
+  page: https://www.inaturalist.org/photos/605093198
+  author: Ben Gruhot
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605093198/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-maximus/4.jpg
+  page: https://www.inaturalist.org/photos/604893957
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604893957/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-maximus/5.jpg
+  page: https://www.inaturalist.org/photos/605120130
+  author: ecovore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605120130/original.jpg
 ---
 
 

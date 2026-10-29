@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/campylorhamphus-procurvoides/1.jpg
+  page: https://www.inaturalist.org/photos/426792844
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426792844/original.jpg
+images:
+- file: images/passeriformes/furnariidae/campylorhamphus-procurvoides/1.jpg
+  page: https://www.inaturalist.org/photos/426792844
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426792844/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-procurvoides/2.jpg
+  page: https://www.inaturalist.org/photos/445087958
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445087958/original.jpeg
+- file: images/passeriformes/furnariidae/campylorhamphus-procurvoides/3.jpg
+  page: https://www.inaturalist.org/photos/445087975
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445087975/original.jpeg
+- file: images/passeriformes/furnariidae/campylorhamphus-procurvoides/4.jpg
+  page: https://www.inaturalist.org/photos/445087974
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445087974/original.jpeg
+- file: images/passeriformes/furnariidae/campylorhamphus-procurvoides/5.jpg
+  page: https://www.inaturalist.org/photos/445087979
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445087979/original.jpeg
 ---
 
 

@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/bradypterus-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/716639351
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716639351/original.jpg
+images:
+- file: images/passeriformes/locustellidae/bradypterus-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/716639351
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716639351/original.jpg
+- file: images/passeriformes/locustellidae/bradypterus-cinnamomeus/2.jpg
+  page: https://www.inaturalist.org/photos/602488433
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602488433/original.jpg
+- file: images/passeriformes/locustellidae/bradypterus-cinnamomeus/3.jpg
+  page: https://www.inaturalist.org/photos/242619941
+  author: Jemma Montgomery
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242619941/original.jpg
+- file: images/passeriformes/locustellidae/bradypterus-cinnamomeus/4.jpg
+  page: https://www.inaturalist.org/photos/108820330
+  author: Brian Henderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108820330/original.jpg
+- file: images/passeriformes/locustellidae/bradypterus-cinnamomeus/5.jpg
+  page: https://www.inaturalist.org/photos/716639370
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716639370/original.jpg
 ---
 
 

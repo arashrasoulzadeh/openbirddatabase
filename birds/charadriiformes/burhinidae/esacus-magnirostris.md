@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/burhinidae/esacus-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606115800
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606115800/original.jpg
+images:
+- file: images/charadriiformes/burhinidae/esacus-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606115800
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606115800/original.jpg
+- file: images/charadriiformes/burhinidae/esacus-magnirostris/2.jpg
+  page: https://www.inaturalist.org/photos/666337544
+  author: Ged Tranter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666337544/original.jpg
+- file: images/charadriiformes/burhinidae/esacus-magnirostris/3.jpg
+  page: https://www.inaturalist.org/photos/649256770
+  author: joseal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649256770/original.jpg
+- file: images/charadriiformes/burhinidae/esacus-magnirostris/4.jpg
+  page: https://www.inaturalist.org/photos/679293888
+  author: maxark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679293888/original.jpg
+- file: images/charadriiformes/burhinidae/esacus-magnirostris/5.jpg
+  page: https://www.inaturalist.org/photos/649256778
+  author: joseal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649256778/original.jpg
 ---
 
 

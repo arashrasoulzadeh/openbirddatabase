@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/sephanoides-fernandensis/1.jpg
+  page: https://www.inaturalist.org/photos/573605333
+  author: vocepics
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573605333/original.jpg
+images:
+- file: images/apodiformes/trochilidae/sephanoides-fernandensis/1.jpg
+  page: https://www.inaturalist.org/photos/573605333
+  author: vocepics
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573605333/original.jpg
+- file: images/apodiformes/trochilidae/sephanoides-fernandensis/2.jpg
+  page: https://www.inaturalist.org/photos/368445634
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368445634/original.jpg
+- file: images/apodiformes/trochilidae/sephanoides-fernandensis/3.jpg
+  page: https://www.inaturalist.org/photos/64734837
+  author: Matias Adolfo González Tobar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64734837/original.jpg
+- file: images/apodiformes/trochilidae/sephanoides-fernandensis/4.jpg
+  page: https://www.inaturalist.org/photos/573605337
+  author: vocepics
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573605337/original.jpg
+- file: images/apodiformes/trochilidae/sephanoides-fernandensis/5.jpg
+  page: https://www.inaturalist.org/photos/368446279
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368446279/original.jpg
 ---
 
 

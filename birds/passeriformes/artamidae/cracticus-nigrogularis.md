@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/passeriformes/artamidae/cracticus-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/604881419
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604881419/original.jpg
+images:
+- file: images/passeriformes/artamidae/cracticus-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/604881419
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604881419/original.jpg
+- file: images/passeriformes/artamidae/cracticus-nigrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/604706809
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604706809/original.jpg
+- file: images/passeriformes/artamidae/cracticus-nigrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/606387989
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606387989/original.jpg
+- file: images/passeriformes/artamidae/cracticus-nigrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/609635332
+  author: Emily Ireland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609635332/original.jpg
+- file: images/passeriformes/artamidae/cracticus-nigrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/613009382
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613009382/original.jpg
 ---
 
 

@@ -176,10 +176,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/piciformes/picidae/picus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/604760538
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604760538/original.jpg
+images:
+- file: images/piciformes/picidae/picus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/604760538
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604760538/original.jpg
+- file: images/piciformes/picidae/picus-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/604494271
+  author: lvicatko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604494271/original.jpg
+- file: images/piciformes/picidae/picus-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/605712933
+  author: dennisvo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605712933/original.jpg
+- file: images/piciformes/picidae/picus-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/605314480
+  author: Paul Braun
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605314480/original.jpg
+- file: images/piciformes/picidae/picus-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/609728860
+  author: Stephan Mende
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609728860/original.jpg
 ---
 
 

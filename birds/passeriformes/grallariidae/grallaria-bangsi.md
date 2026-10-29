@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-bangsi/1.jpg
+  page: https://www.inaturalist.org/photos/696600623
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696600623/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-bangsi/1.jpg
+  page: https://www.inaturalist.org/photos/696600623
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696600623/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-bangsi/2.jpg
+  page: https://www.inaturalist.org/photos/738244872
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738244872/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-bangsi/3.jpg
+  page: https://www.inaturalist.org/photos/473511835
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473511835/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-bangsi/4.jpg
+  page: https://www.inaturalist.org/photos/526651792
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526651792/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-bangsi/5.jpg
+  page: https://www.inaturalist.org/photos/355400173
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355400173/original.jpeg
 ---
 
 

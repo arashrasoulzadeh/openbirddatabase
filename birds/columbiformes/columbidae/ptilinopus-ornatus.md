@@ -141,8 +141,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/710123942
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710123942/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/710123942
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710123942/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/575614192
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575614192/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-ornatus/3.jpg
+  page: https://www.inaturalist.org/photos/575614199
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575614199/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-ornatus/4.jpg
+  page: https://www.inaturalist.org/photos/575614204
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575614204/original.jpg
 ---
 
 

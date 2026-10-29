@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/artamus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/615189924
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615189924/original.jpg
+images:
+- file: images/passeriformes/artamidae/artamus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/615189924
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615189924/original.jpg
+- file: images/passeriformes/artamidae/artamus-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/621716911
+  author: walruswatermelon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621716911/original.jpg
+- file: images/passeriformes/artamidae/artamus-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/622747975
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622747975/original.jpg
+- file: images/passeriformes/artamidae/artamus-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/628000519
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628000519/original.jpg
+- file: images/passeriformes/artamidae/artamus-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/651793639
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651793639/original.jpg
 ---
 
 

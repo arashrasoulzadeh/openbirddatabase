@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-roseatus/1.jpg
+  page: https://www.inaturalist.org/photos/629806813
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629806813/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-roseatus/1.jpg
+  page: https://www.inaturalist.org/photos/629806813
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629806813/original.jpg
+- file: images/passeriformes/motacillidae/anthus-roseatus/2.jpg
+  page: https://www.inaturalist.org/photos/663274799
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663274799/original.jpg
+- file: images/passeriformes/motacillidae/anthus-roseatus/3.jpg
+  page: https://www.inaturalist.org/photos/660816271
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660816271/original.jpg
+- file: images/passeriformes/motacillidae/anthus-roseatus/4.jpg
+  page: https://www.inaturalist.org/photos/705900199
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705900199/original.jpg
+- file: images/passeriformes/motacillidae/anthus-roseatus/5.jpg
+  page: https://www.inaturalist.org/photos/479514168
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479514168/original.jpeg
 ---
 
 

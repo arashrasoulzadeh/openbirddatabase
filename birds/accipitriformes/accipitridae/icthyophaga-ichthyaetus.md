@@ -157,8 +157,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/icthyophaga-ichthyaetus/1.jpg
+  page: https://www.inaturalist.org/photos/616739132
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616739132/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/icthyophaga-ichthyaetus/1.jpg
+  page: https://www.inaturalist.org/photos/616739132
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616739132/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-ichthyaetus/2.jpg
+  page: https://www.inaturalist.org/photos/618847118
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618847118/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-ichthyaetus/3.jpg
+  page: https://www.inaturalist.org/photos/623512802
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623512802/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-ichthyaetus/4.jpg
+  page: https://www.inaturalist.org/photos/687770860
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687770860/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-ichthyaetus/5.jpg
+  page: https://www.inaturalist.org/photos/615894096
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615894096/original.jpg
 ---
 
 

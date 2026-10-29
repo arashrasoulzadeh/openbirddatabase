@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/erythrocercidae/erythrocercus-livingstonei/1.jpg
+  page: https://www.inaturalist.org/photos/585145334
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585145334/original.jpg
+images:
+- file: images/passeriformes/erythrocercidae/erythrocercus-livingstonei/1.jpg
+  page: https://www.inaturalist.org/photos/585145334
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585145334/original.jpg
+- file: images/passeriformes/erythrocercidae/erythrocercus-livingstonei/2.jpg
+  page: https://www.inaturalist.org/photos/445484694
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445484694/original.jpg
+- file: images/passeriformes/erythrocercidae/erythrocercus-livingstonei/3.jpg
+  page: https://www.inaturalist.org/photos/476977506
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476977506/original.jpg
+- file: images/passeriformes/erythrocercidae/erythrocercus-livingstonei/4.jpg
+  page: https://www.inaturalist.org/photos/57813332
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57813332/original.jpg
+- file: images/passeriformes/erythrocercidae/erythrocercus-livingstonei/5.jpg
+  page: https://www.inaturalist.org/photos/585145347
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585145347/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/nesoenas-picturatus/1.jpg
+  page: https://www.inaturalist.org/photos/625964784
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625964784/original.jpg
+images:
+- file: images/columbiformes/columbidae/nesoenas-picturatus/1.jpg
+  page: https://www.inaturalist.org/photos/625964784
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625964784/original.jpg
+- file: images/columbiformes/columbidae/nesoenas-picturatus/2.jpg
+  page: https://www.inaturalist.org/photos/613661021
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613661021/original.jpg
+- file: images/columbiformes/columbidae/nesoenas-picturatus/3.jpg
+  page: https://www.inaturalist.org/photos/621764422
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621764422/original.jpg
+- file: images/columbiformes/columbidae/nesoenas-picturatus/4.jpg
+  page: https://www.inaturalist.org/photos/663837895
+  author: Cobi Calyx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663837895/original.jpg
+- file: images/columbiformes/columbidae/nesoenas-picturatus/5.jpg
+  page: https://www.inaturalist.org/photos/678884458
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678884458/original.jpg
 ---
 
 

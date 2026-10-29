@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/hylopezus-ochroleucus/1.jpg
+  page: https://www.inaturalist.org/photos/416897709
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416897709/original.jpeg
+images:
+- file: images/passeriformes/grallariidae/hylopezus-ochroleucus/1.jpg
+  page: https://www.inaturalist.org/photos/416897709
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416897709/original.jpeg
+- file: images/passeriformes/grallariidae/hylopezus-ochroleucus/2.jpg
+  page: https://www.inaturalist.org/photos/343397164
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343397164/original.jpeg
+- file: images/passeriformes/grallariidae/hylopezus-ochroleucus/3.jpg
+  page: https://www.inaturalist.org/photos/418650665
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418650665/original.jpg
+- file: images/passeriformes/grallariidae/hylopezus-ochroleucus/4.jpg
+  page: https://www.inaturalist.org/photos/606491553
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606491553/original.jpg
+- file: images/passeriformes/grallariidae/hylopezus-ochroleucus/5.jpg
+  page: https://www.inaturalist.org/photos/416897749
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416897749/original.jpeg
 ---
 
 

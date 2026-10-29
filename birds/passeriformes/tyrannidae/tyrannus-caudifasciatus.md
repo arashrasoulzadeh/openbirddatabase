@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-caudifasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/607447015
+  author: Karen Saunders
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607447015/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-caudifasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/607447015
+  author: Karen Saunders
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607447015/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-caudifasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/611498627
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611498627/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-caudifasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/627530199
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627530199/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-caudifasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/617208822
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617208822/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-caudifasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/620285731
+  author: Cristian I. Ortega Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620285731/original.jpg
 ---
 
 

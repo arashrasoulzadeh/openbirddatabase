@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/synallaxis-subpudica/1.jpg
+  page: https://www.inaturalist.org/photos/361103058
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361103058/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-subpudica/1.jpg
+  page: https://www.inaturalist.org/photos/361103058
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361103058/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-subpudica/2.jpg
+  page: https://www.inaturalist.org/photos/312486891
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/312486891/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-subpudica/3.jpg
+  page: https://www.inaturalist.org/photos/236933896
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236933896/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-subpudica/4.jpg
+  page: https://www.inaturalist.org/photos/35369965
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/35369965/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-subpudica/5.jpg
+  page: https://www.inaturalist.org/photos/180809085
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180809085/original.jpeg
 ---
 
 

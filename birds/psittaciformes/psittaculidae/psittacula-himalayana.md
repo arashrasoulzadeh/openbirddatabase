@@ -129,7 +129,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 24.2
@@ -139,6 +140,44 @@ morphology:
   body_mass_g: 108.5
 reproduction:
   clutch_size_mean: 4.0
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-himalayana/1.jpg
+  page: https://www.inaturalist.org/photos/615203555
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615203555/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-himalayana/1.jpg
+  page: https://www.inaturalist.org/photos/615203555
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615203555/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-himalayana/2.jpg
+  page: https://www.inaturalist.org/photos/616548389
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616548389/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-himalayana/3.jpg
+  page: https://www.inaturalist.org/photos/600749725
+  author: Abhinav Thakur
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600749725/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-himalayana/4.jpg
+  page: https://www.inaturalist.org/photos/619285436
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619285436/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-himalayana/5.jpg
+  page: https://www.inaturalist.org/photos/615207791
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615207791/original.jpg
 ---
 
 

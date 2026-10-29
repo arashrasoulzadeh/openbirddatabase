@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/zoonavena-thomensis/1.jpg
+  page: https://www.inaturalist.org/photos/469100546
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469100546/original.jpg
+images:
+- file: images/apodiformes/apodidae/zoonavena-thomensis/1.jpg
+  page: https://www.inaturalist.org/photos/469100546
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469100546/original.jpg
+- file: images/apodiformes/apodidae/zoonavena-thomensis/2.jpg
+  page: https://www.inaturalist.org/photos/450999593
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450999593/original.jpeg
+- file: images/apodiformes/apodidae/zoonavena-thomensis/3.jpg
+  page: https://www.inaturalist.org/photos/225608946
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225608946/original.jpg
+- file: images/apodiformes/apodidae/zoonavena-thomensis/4.jpg
+  page: https://www.inaturalist.org/photos/469100359
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469100359/original.jpg
+- file: images/apodiformes/apodidae/zoonavena-thomensis/5.jpg
+  page: https://www.inaturalist.org/photos/469100360
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469100360/original.jpg
 ---
 
 

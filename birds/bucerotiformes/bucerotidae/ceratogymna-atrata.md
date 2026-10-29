@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/bucerotiformes/bucerotidae/ceratogymna-atrata/1.jpg
+  page: https://www.inaturalist.org/photos/661193715
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661193715/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/ceratogymna-atrata/1.jpg
+  page: https://www.inaturalist.org/photos/661193715
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661193715/original.jpg
+- file: images/bucerotiformes/bucerotidae/ceratogymna-atrata/2.jpg
+  page: https://www.inaturalist.org/photos/350926236
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350926236/original.png
+- file: images/bucerotiformes/bucerotidae/ceratogymna-atrata/3.jpg
+  page: https://www.inaturalist.org/photos/394124190
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394124190/original.jpg
+- file: images/bucerotiformes/bucerotidae/ceratogymna-atrata/4.jpg
+  page: https://www.inaturalist.org/photos/344682868
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344682868/original.jpeg
+- file: images/bucerotiformes/bucerotidae/ceratogymna-atrata/5.jpg
+  page: https://www.inaturalist.org/photos/660519141
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660519141/original.jpg
 ---
 
 

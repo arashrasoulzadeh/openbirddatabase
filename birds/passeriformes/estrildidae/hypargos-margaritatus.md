@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/hypargos-margaritatus/1.jpg
+  page: https://www.inaturalist.org/photos/357181875
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357181875/original.jpeg
+images:
+- file: images/passeriformes/estrildidae/hypargos-margaritatus/1.jpg
+  page: https://www.inaturalist.org/photos/357181875
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357181875/original.jpeg
+- file: images/passeriformes/estrildidae/hypargos-margaritatus/2.jpg
+  page: https://www.inaturalist.org/photos/153944880
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153944880/original.jpg
+- file: images/passeriformes/estrildidae/hypargos-margaritatus/3.jpg
+  page: https://www.inaturalist.org/photos/48049196
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/48049196/original.jpg
+- file: images/passeriformes/estrildidae/hypargos-margaritatus/4.jpg
+  page: https://www.inaturalist.org/photos/60902922
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60902922/original.jpg
+- file: images/passeriformes/estrildidae/hypargos-margaritatus/5.jpg
+  page: https://www.inaturalist.org/photos/476587956
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476587956/original.jpg
 ---
 
 

@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/sphenisciformes/spheniscidae/aptenodytes-forsteri/1.jpg
+  page: https://www.inaturalist.org/photos/606731481
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606731481/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/aptenodytes-forsteri/1.jpg
+  page: https://www.inaturalist.org/photos/606731481
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606731481/original.jpg
+- file: images/sphenisciformes/spheniscidae/aptenodytes-forsteri/2.jpg
+  page: https://www.inaturalist.org/photos/614231204
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231204/original.jpg
+- file: images/sphenisciformes/spheniscidae/aptenodytes-forsteri/3.jpg
+  page: https://www.inaturalist.org/photos/606731488
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606731488/original.jpg
+- file: images/sphenisciformes/spheniscidae/aptenodytes-forsteri/4.jpg
+  page: https://www.inaturalist.org/photos/606731462
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606731462/original.jpg
+- file: images/sphenisciformes/spheniscidae/aptenodytes-forsteri/5.jpg
+  page: https://www.inaturalist.org/photos/606731265
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606731265/original.jpg
 ---
 
 

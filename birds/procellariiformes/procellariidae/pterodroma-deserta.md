@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-deserta/1.jpg
+  page: https://www.inaturalist.org/photos/678813083
+  author: Rob Felix
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678813083/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-deserta/1.jpg
+  page: https://www.inaturalist.org/photos/678813083
+  author: Rob Felix
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678813083/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-deserta/2.jpg
+  page: https://www.inaturalist.org/photos/715554359
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715554359/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-deserta/3.jpg
+  page: https://www.inaturalist.org/photos/519391983
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519391983/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-deserta/4.jpg
+  page: https://www.inaturalist.org/photos/390818738
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390818738/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-deserta/5.jpg
+  page: https://www.inaturalist.org/photos/182121046
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182121046/original.jpg
 ---
 
 

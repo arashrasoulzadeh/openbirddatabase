@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-dorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/625422529
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625422529/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-dorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/625422529
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625422529/original.jpg
+- file: images/passeriformes/mimidae/mimus-dorsalis/2.jpg
+  page: https://www.inaturalist.org/photos/608669674
+  author: Luis Martin Stivanello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608669674/original.jpg
+- file: images/passeriformes/mimidae/mimus-dorsalis/3.jpg
+  page: https://www.inaturalist.org/photos/655605733
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655605733/original.jpg
+- file: images/passeriformes/mimidae/mimus-dorsalis/4.jpg
+  page: https://www.inaturalist.org/photos/727046751
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727046751/original.jpg
+- file: images/passeriformes/mimidae/mimus-dorsalis/5.jpg
+  page: https://www.inaturalist.org/photos/716909412
+  author: Mateo Tapia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716909412/original.jpg
 ---
 
 

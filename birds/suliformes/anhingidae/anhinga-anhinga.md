@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/suliformes/anhingidae/anhinga-anhinga/1.jpg
+  page: https://www.inaturalist.org/photos/604895125
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895125/original.jpg
+images:
+- file: images/suliformes/anhingidae/anhinga-anhinga/1.jpg
+  page: https://www.inaturalist.org/photos/604895125
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895125/original.jpg
+- file: images/suliformes/anhingidae/anhinga-anhinga/2.jpg
+  page: https://www.inaturalist.org/photos/605404275
+  author: weirdguyfromflorida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605404275/original.jpg
+- file: images/suliformes/anhingidae/anhinga-anhinga/3.jpg
+  page: https://www.inaturalist.org/photos/604875070
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604875070/original.jpg
+- file: images/suliformes/anhingidae/anhinga-anhinga/4.jpg
+  page: https://www.inaturalist.org/photos/605356543
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356543/original.jpg
+- file: images/suliformes/anhingidae/anhinga-anhinga/5.jpg
+  page: https://www.inaturalist.org/photos/604603321
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604603321/original.jpg
 ---
 
 

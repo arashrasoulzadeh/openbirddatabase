@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/aramides-cajaneus/1.jpg
+  page: https://www.inaturalist.org/photos/605154851
+  author: Maru Masseroni
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605154851/original.jpg
+images:
+- file: images/gruiformes/rallidae/aramides-cajaneus/1.jpg
+  page: https://www.inaturalist.org/photos/605154851
+  author: Maru Masseroni
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605154851/original.jpg
+- file: images/gruiformes/rallidae/aramides-cajaneus/2.jpg
+  page: https://www.inaturalist.org/photos/607787935
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607787935/original.jpg
+- file: images/gruiformes/rallidae/aramides-cajaneus/3.jpg
+  page: https://www.inaturalist.org/photos/606732313
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606732313/original.jpg
+- file: images/gruiformes/rallidae/aramides-cajaneus/4.jpg
+  page: https://www.inaturalist.org/photos/609221070
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609221070/original.jpg
+- file: images/gruiformes/rallidae/aramides-cajaneus/5.jpg
+  page: https://www.inaturalist.org/photos/610670152
+  author: Pablo Debece
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610670152/original.jpg
 ---
 
 

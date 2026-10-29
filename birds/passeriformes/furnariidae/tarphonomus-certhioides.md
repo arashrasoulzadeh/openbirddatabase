@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/tarphonomus-certhioides/1.jpg
+  page: https://www.inaturalist.org/photos/611733881
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611733881/original.jpg
+images:
+- file: images/passeriformes/furnariidae/tarphonomus-certhioides/1.jpg
+  page: https://www.inaturalist.org/photos/611733881
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611733881/original.jpg
+- file: images/passeriformes/furnariidae/tarphonomus-certhioides/2.jpg
+  page: https://www.inaturalist.org/photos/637834398
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637834398/original.jpg
+- file: images/passeriformes/furnariidae/tarphonomus-certhioides/3.jpg
+  page: https://www.inaturalist.org/photos/740672184
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740672184/original.jpg
+- file: images/passeriformes/furnariidae/tarphonomus-certhioides/4.jpg
+  page: https://www.inaturalist.org/photos/741962961
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741962961/original.jpg
+- file: images/passeriformes/furnariidae/tarphonomus-certhioides/5.jpg
+  page: https://www.inaturalist.org/photos/744482646
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744482646/original.jpg
 ---
 
 

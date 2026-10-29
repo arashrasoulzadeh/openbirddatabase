@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/alectroenas-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/690102247
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690102247/original.jpg
+images:
+- file: images/columbiformes/columbidae/alectroenas-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/690102247
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690102247/original.jpg
+- file: images/columbiformes/columbidae/alectroenas-madagascariensis/2.jpg
+  page: https://www.inaturalist.org/photos/555199306
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555199306/original.jpg
+- file: images/columbiformes/columbidae/alectroenas-madagascariensis/3.jpg
+  page: https://www.inaturalist.org/photos/454913274
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454913274/original.jpg
+- file: images/columbiformes/columbidae/alectroenas-madagascariensis/4.jpg
+  page: https://www.inaturalist.org/photos/447046435
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447046435/original.jpeg
+- file: images/columbiformes/columbidae/alectroenas-madagascariensis/5.jpg
+  page: https://www.inaturalist.org/photos/241166606
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241166606/original.jpg
 ---
 
 

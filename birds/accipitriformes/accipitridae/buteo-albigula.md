@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-albigula/1.jpg
+  page: https://www.inaturalist.org/photos/617310878
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617310878/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-albigula/1.jpg
+  page: https://www.inaturalist.org/photos/617310878
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617310878/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-albigula/2.jpg
+  page: https://www.inaturalist.org/photos/466314510
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466314510/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-albigula/3.jpg
+  page: https://www.inaturalist.org/photos/542264409
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542264409/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-albigula/4.jpg
+  page: https://www.inaturalist.org/photos/562759059
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562759059/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-albigula/5.jpg
+  page: https://www.inaturalist.org/photos/593359256
+  author: Sebastián Fornés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593359256/original.jpg
 ---
 
 

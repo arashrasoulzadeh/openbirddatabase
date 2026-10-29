@@ -125,7 +125,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 18.5
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 82.0
   tail_length_mm: 104.0
   body_mass_g: 45.0
+image:
+  file: images/passeriformes/leiothrichidae/laniellus-langbianis/1.jpg
+  page: https://www.inaturalist.org/photos/631324415
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631324415/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/laniellus-langbianis/1.jpg
+  page: https://www.inaturalist.org/photos/631324415
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631324415/original.jpg
+- file: images/passeriformes/leiothrichidae/laniellus-langbianis/2.jpg
+  page: https://www.inaturalist.org/photos/387192743
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387192743/original.jpg
+- file: images/passeriformes/leiothrichidae/laniellus-langbianis/3.jpg
+  page: https://www.inaturalist.org/photos/385766530
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766530/original.jpeg
+- file: images/passeriformes/leiothrichidae/laniellus-langbianis/4.jpg
+  page: https://www.inaturalist.org/photos/105776805
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105776805/original.jpeg
+- file: images/passeriformes/leiothrichidae/laniellus-langbianis/5.jpg
+  page: https://www.inaturalist.org/photos/387192747
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387192747/original.jpg
 ---
 
 

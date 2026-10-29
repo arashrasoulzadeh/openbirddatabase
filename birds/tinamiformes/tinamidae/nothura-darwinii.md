@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/tinamiformes/tinamidae/nothura-darwinii/1.jpg
+  page: https://www.inaturalist.org/photos/460348940
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460348940/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/nothura-darwinii/1.jpg
+  page: https://www.inaturalist.org/photos/460348940
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460348940/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-darwinii/2.jpg
+  page: https://www.inaturalist.org/photos/260560932
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260560932/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-darwinii/3.jpg
+  page: https://www.inaturalist.org/photos/306257599
+  author: RAP
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/306257599/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-darwinii/4.jpg
+  page: https://www.inaturalist.org/photos/244707620
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244707620/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-darwinii/5.jpg
+  page: https://www.inaturalist.org/photos/116017397
+  author: diego Hernan Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116017397/original.jpg
 ---
 
 

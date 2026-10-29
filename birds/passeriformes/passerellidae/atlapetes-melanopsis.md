@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-melanopsis/1.jpg
+  page: https://www.inaturalist.org/photos/730345279
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730345279/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-melanopsis/1.jpg
+  page: https://www.inaturalist.org/photos/730345279
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730345279/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-melanopsis/2.jpg
+  page: https://www.inaturalist.org/photos/461348198
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461348198/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-melanopsis/3.jpg
+  page: https://www.inaturalist.org/photos/558262713
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558262713/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-melanopsis/4.jpg
+  page: https://www.inaturalist.org/photos/304150282
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304150282/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-melanopsis/5.jpg
+  page: https://www.inaturalist.org/photos/461348195
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461348195/original.jpg
 ---
 
 

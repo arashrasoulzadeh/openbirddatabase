@@ -140,8 +140,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/nucifraga-hemispila/1.jpg
+  page: https://www.inaturalist.org/photos/609951853
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951853/original.jpg
+images:
+- file: images/passeriformes/corvidae/nucifraga-hemispila/1.jpg
+  page: https://www.inaturalist.org/photos/609951853
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951853/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-hemispila/2.jpg
+  page: https://www.inaturalist.org/photos/665388232
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665388232/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-hemispila/3.jpg
+  page: https://www.inaturalist.org/photos/642420095
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642420095/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-hemispila/4.jpg
+  page: https://www.inaturalist.org/photos/710220202
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710220202/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-hemispila/5.jpg
+  page: https://www.inaturalist.org/photos/609951854
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951854/original.jpg
 ---
 
 

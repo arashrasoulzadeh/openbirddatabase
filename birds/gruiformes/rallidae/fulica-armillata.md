@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/fulica-armillata/1.jpg
+  page: https://www.inaturalist.org/photos/609469534
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609469534/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-armillata/1.jpg
+  page: https://www.inaturalist.org/photos/609469534
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609469534/original.jpg
+- file: images/gruiformes/rallidae/fulica-armillata/2.jpg
+  page: https://www.inaturalist.org/photos/606336587
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606336587/original.jpg
+- file: images/gruiformes/rallidae/fulica-armillata/3.jpg
+  page: https://www.inaturalist.org/photos/609375039
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609375039/original.jpg
+- file: images/gruiformes/rallidae/fulica-armillata/4.jpg
+  page: https://www.inaturalist.org/photos/608952179
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608952179/original.jpg
+- file: images/gruiformes/rallidae/fulica-armillata/5.jpg
+  page: https://www.inaturalist.org/photos/612765564
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612765564/original.jpg
 ---
 
 

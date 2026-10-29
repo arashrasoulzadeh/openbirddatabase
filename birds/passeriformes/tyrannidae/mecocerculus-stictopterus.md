@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mecocerculus-stictopterus/1.jpg
+  page: https://www.inaturalist.org/photos/652823031
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652823031/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/mecocerculus-stictopterus/1.jpg
+  page: https://www.inaturalist.org/photos/652823031
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652823031/original.jpg
+- file: images/passeriformes/tyrannidae/mecocerculus-stictopterus/2.jpg
+  page: https://www.inaturalist.org/photos/502995027
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502995027/original.jpg
+- file: images/passeriformes/tyrannidae/mecocerculus-stictopterus/3.jpg
+  page: https://www.inaturalist.org/photos/514821369
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514821369/original.jpg
+- file: images/passeriformes/tyrannidae/mecocerculus-stictopterus/4.jpg
+  page: https://www.inaturalist.org/photos/484318418
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484318418/original.jpeg
+- file: images/passeriformes/tyrannidae/mecocerculus-stictopterus/5.jpg
+  page: https://www.inaturalist.org/photos/592639341
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592639341/original.jpg
 ---
 
 

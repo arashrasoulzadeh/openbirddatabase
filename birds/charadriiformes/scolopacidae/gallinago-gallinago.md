@@ -192,10 +192,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-gallinago/1.jpg
+  page: https://www.inaturalist.org/photos/605659901
+  author: Paolo Zucca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659901/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-gallinago/1.jpg
+  page: https://www.inaturalist.org/photos/605659901
+  author: Paolo Zucca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659901/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-gallinago/2.jpg
+  page: https://www.inaturalist.org/photos/605083025
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083025/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-gallinago/3.jpg
+  page: https://www.inaturalist.org/photos/605311622
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605311622/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-gallinago/4.jpg
+  page: https://www.inaturalist.org/photos/605183453
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605183453/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-gallinago/5.jpg
+  page: https://www.inaturalist.org/photos/605397472
+  author: Richard Shirky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605397472/original.jpg
 ---
 
 

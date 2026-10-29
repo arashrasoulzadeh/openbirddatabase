@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 15.6
@@ -136,6 +137,38 @@ morphology:
   wing_length_mm: 62.0
   tail_length_mm: 44.0
   body_mass_g: 16.0
+image:
+  file: images/passeriformes/zosteropidae/zosterops-grayi/1.jpg
+  page: https://www.inaturalist.org/photos/247310755
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247310755/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-grayi/1.jpg
+  page: https://www.inaturalist.org/photos/247310755
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247310755/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-grayi/2.jpg
+  page: https://www.inaturalist.org/photos/440527520
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527520/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-grayi/3.jpg
+  page: https://www.inaturalist.org/photos/247310927
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247310927/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-grayi/4.jpg
+  page: https://www.inaturalist.org/photos/440527521
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527521/original.jpeg
 ---
 
 

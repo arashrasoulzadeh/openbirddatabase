@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-goffiniana/1.jpg
+  page: https://www.inaturalist.org/photos/627489825
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627489825/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-goffiniana/1.jpg
+  page: https://www.inaturalist.org/photos/627489825
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627489825/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-goffiniana/2.jpg
+  page: https://www.inaturalist.org/photos/629183816
+  author: maijin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629183816/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-goffiniana/3.jpg
+  page: https://www.inaturalist.org/photos/667024549
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667024549/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-goffiniana/4.jpg
+  page: https://www.inaturalist.org/photos/736704864
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736704864/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-goffiniana/5.jpg
+  page: https://www.inaturalist.org/photos/627489840
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627489840/original.jpg
 ---
 
 

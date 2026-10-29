@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/platycercus-caledonicus/1.jpg
+  page: https://www.inaturalist.org/photos/608515514
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608515514/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/platycercus-caledonicus/1.jpg
+  page: https://www.inaturalist.org/photos/608515514
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608515514/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-caledonicus/2.jpg
+  page: https://www.inaturalist.org/photos/616732425
+  author: Carmen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616732425/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-caledonicus/3.jpg
+  page: https://www.inaturalist.org/photos/623771119
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623771119/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-caledonicus/4.jpg
+  page: https://www.inaturalist.org/photos/623857670
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623857670/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-caledonicus/5.jpg
+  page: https://www.inaturalist.org/photos/624854934
+  author: Geoff Shuetrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624854934/original.jpg
 ---
 
 

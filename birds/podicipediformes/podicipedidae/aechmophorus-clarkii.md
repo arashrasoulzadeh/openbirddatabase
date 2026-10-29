@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/podicipediformes/podicipedidae/aechmophorus-clarkii/1.jpg
+  page: https://www.inaturalist.org/photos/607324684
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607324684/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/aechmophorus-clarkii/1.jpg
+  page: https://www.inaturalist.org/photos/607324684
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607324684/original.jpg
+- file: images/podicipediformes/podicipedidae/aechmophorus-clarkii/2.jpg
+  page: https://www.inaturalist.org/photos/610591543
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610591543/original.jpg
+- file: images/podicipediformes/podicipedidae/aechmophorus-clarkii/3.jpg
+  page: https://www.inaturalist.org/photos/606997313
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606997313/original.jpg
+- file: images/podicipediformes/podicipedidae/aechmophorus-clarkii/4.jpg
+  page: https://www.inaturalist.org/photos/609144789
+  author: William Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609144789/original.jpg
+- file: images/podicipediformes/podicipedidae/aechmophorus-clarkii/5.jpg
+  page: https://www.inaturalist.org/photos/607324679
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607324679/original.jpg
 ---
 
 

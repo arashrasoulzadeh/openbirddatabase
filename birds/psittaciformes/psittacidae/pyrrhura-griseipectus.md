@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-griseipectus/1.jpg
+  page: https://www.inaturalist.org/photos/688425448
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688425448/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-griseipectus/1.jpg
+  page: https://www.inaturalist.org/photos/688425448
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688425448/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-griseipectus/2.jpg
+  page: https://www.inaturalist.org/photos/349174273
+  author: Salomão Janderson Ferreira Bispo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349174273/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-griseipectus/3.jpg
+  page: https://www.inaturalist.org/photos/365552607
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365552607/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-griseipectus/4.jpg
+  page: https://www.inaturalist.org/photos/343580510
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343580510/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-griseipectus/5.jpg
+  page: https://www.inaturalist.org/photos/240589409
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240589409/original.jpg
 ---
 
 

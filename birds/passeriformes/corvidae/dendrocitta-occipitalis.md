@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/dendrocitta-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/616152041
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152041/original.jpg
+images:
+- file: images/passeriformes/corvidae/dendrocitta-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/616152041
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152041/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-occipitalis/2.jpg
+  page: https://www.inaturalist.org/photos/618849570
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849570/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-occipitalis/3.jpg
+  page: https://www.inaturalist.org/photos/252099226
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252099226/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-occipitalis/4.jpg
+  page: https://www.inaturalist.org/photos/339650629
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339650629/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-occipitalis/5.jpg
+  page: https://www.inaturalist.org/photos/618849566
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849566/original.jpg
 ---
 
 

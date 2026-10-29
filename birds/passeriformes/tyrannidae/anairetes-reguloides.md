@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/anairetes-reguloides/1.jpg
+  page: https://www.inaturalist.org/photos/468952193
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468952193/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/anairetes-reguloides/1.jpg
+  page: https://www.inaturalist.org/photos/468952193
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468952193/original.jpeg
+- file: images/passeriformes/tyrannidae/anairetes-reguloides/2.jpg
+  page: https://www.inaturalist.org/photos/563762722
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563762722/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-reguloides/3.jpg
+  page: https://www.inaturalist.org/photos/453100660
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453100660/original.jpeg
+- file: images/passeriformes/tyrannidae/anairetes-reguloides/4.jpg
+  page: https://www.inaturalist.org/photos/456249375
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456249375/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-reguloides/5.jpg
+  page: https://www.inaturalist.org/photos/251622341
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251622341/original.jpeg
 ---
 
 

@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/muscicapidae/saxicola-stejnegeri/1.jpg
+  page: https://www.inaturalist.org/photos/610132040
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610132040/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/saxicola-stejnegeri/1.jpg
+  page: https://www.inaturalist.org/photos/610132040
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610132040/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-stejnegeri/2.jpg
+  page: https://www.inaturalist.org/photos/610139830
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610139830/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-stejnegeri/3.jpg
+  page: https://www.inaturalist.org/photos/608576554
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608576554/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-stejnegeri/4.jpg
+  page: https://www.inaturalist.org/photos/607383135
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607383135/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-stejnegeri/5.jpg
+  page: https://www.inaturalist.org/photos/609904285
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609904285/original.jpg
 ---
 
 

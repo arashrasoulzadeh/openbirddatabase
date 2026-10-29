@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-leucopodus/1.jpg
+  page: https://www.inaturalist.org/photos/612496336
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612496336/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-leucopodus/1.jpg
+  page: https://www.inaturalist.org/photos/612496336
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612496336/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-leucopodus/2.jpg
+  page: https://www.inaturalist.org/photos/615792209
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792209/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-leucopodus/3.jpg
+  page: https://www.inaturalist.org/photos/617221604
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617221604/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-leucopodus/4.jpg
+  page: https://www.inaturalist.org/photos/623374630
+  author: Santiago Martín-Bravo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623374630/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-leucopodus/5.jpg
+  page: https://www.inaturalist.org/photos/626229327
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626229327/original.jpg
 ---
 
 

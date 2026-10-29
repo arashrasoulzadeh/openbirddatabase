@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/ceblepyris-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/721119086
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721119086/original.jpg
+images:
+- file: images/passeriformes/campephagidae/ceblepyris-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/721119086
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721119086/original.jpg
+- file: images/passeriformes/campephagidae/ceblepyris-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/606232885
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606232885/original.jpg
+- file: images/passeriformes/campephagidae/ceblepyris-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/392522090
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392522090/original.jpg
+- file: images/passeriformes/campephagidae/ceblepyris-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/444289744
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444289744/original.jpeg
+- file: images/passeriformes/campephagidae/ceblepyris-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/444650770
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444650770/original.jpg
 ---
 
 

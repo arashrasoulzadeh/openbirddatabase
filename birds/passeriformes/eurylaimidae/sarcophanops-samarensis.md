@@ -141,8 +141,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/eurylaimidae/sarcophanops-samarensis/1.jpg
+  page: https://www.inaturalist.org/photos/683419890
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683419890/original.jpg
+images:
+- file: images/passeriformes/eurylaimidae/sarcophanops-samarensis/1.jpg
+  page: https://www.inaturalist.org/photos/683419890
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683419890/original.jpg
+- file: images/passeriformes/eurylaimidae/sarcophanops-samarensis/2.jpg
+  page: https://www.inaturalist.org/photos/375579233
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375579233/original.jpg
+- file: images/passeriformes/eurylaimidae/sarcophanops-samarensis/3.jpg
+  page: https://www.inaturalist.org/photos/683419654
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683419654/original.jpg
+- file: images/passeriformes/eurylaimidae/sarcophanops-samarensis/4.jpg
+  page: https://www.inaturalist.org/photos/683419485
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683419485/original.jpg
+- file: images/passeriformes/eurylaimidae/sarcophanops-samarensis/5.jpg
+  page: https://www.inaturalist.org/photos/683419363
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683419363/original.jpg
 ---
 
 

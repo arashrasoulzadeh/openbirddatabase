@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/parabuteo-leucorrhous/1.jpg
+  page: https://www.inaturalist.org/photos/625026027
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625026027/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/parabuteo-leucorrhous/1.jpg
+  page: https://www.inaturalist.org/photos/625026027
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625026027/original.jpg
+- file: images/accipitriformes/accipitridae/parabuteo-leucorrhous/2.jpg
+  page: https://www.inaturalist.org/photos/620591331
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620591331/original.jpg
+- file: images/accipitriformes/accipitridae/parabuteo-leucorrhous/3.jpg
+  page: https://www.inaturalist.org/photos/652849729
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652849729/original.jpg
+- file: images/accipitriformes/accipitridae/parabuteo-leucorrhous/4.jpg
+  page: https://www.inaturalist.org/photos/482880882
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482880882/original.jpg
+- file: images/accipitriformes/accipitridae/parabuteo-leucorrhous/5.jpg
+  page: https://www.inaturalist.org/photos/537229502
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537229502/original.jpg
 ---
 
 

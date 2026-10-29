@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/thraupidae/cyanerpes-cyaneus/1.jpg
+  page: https://www.inaturalist.org/photos/604663990
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604663990/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cyanerpes-cyaneus/1.jpg
+  page: https://www.inaturalist.org/photos/604663990
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604663990/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-cyaneus/2.jpg
+  page: https://www.inaturalist.org/photos/605647697
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605647697/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-cyaneus/3.jpg
+  page: https://www.inaturalist.org/photos/609087878
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609087878/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-cyaneus/4.jpg
+  page: https://www.inaturalist.org/photos/610503269
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503269/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-cyaneus/5.jpg
+  page: https://www.inaturalist.org/photos/610856987
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610856987/original.jpg
 ---
 
 

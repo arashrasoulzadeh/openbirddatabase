@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/piciformes/picidae/melanerpes-aurifrons/1.jpg
+  page: https://www.inaturalist.org/photos/605677525
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605677525/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-aurifrons/1.jpg
+  page: https://www.inaturalist.org/photos/605677525
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605677525/original.jpg
+- file: images/piciformes/picidae/melanerpes-aurifrons/2.jpg
+  page: https://www.inaturalist.org/photos/605222850
+  author: Suanne Pyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605222850/original.jpg
+- file: images/piciformes/picidae/melanerpes-aurifrons/3.jpg
+  page: https://www.inaturalist.org/photos/604957217
+  author: Luc Wyn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604957217/original.jpg
+- file: images/piciformes/picidae/melanerpes-aurifrons/4.jpg
+  page: https://www.inaturalist.org/photos/610504996
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610504996/original.jpg
+- file: images/piciformes/picidae/melanerpes-aurifrons/5.jpg
+  page: https://www.inaturalist.org/photos/604957241
+  author: Luc Wyn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604957241/original.jpg
 ---
 
 

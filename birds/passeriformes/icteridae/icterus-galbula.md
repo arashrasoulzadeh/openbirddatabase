@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/icteridae/icterus-galbula/1.jpg
+  page: https://www.inaturalist.org/photos/605478109
+  author: Anne P
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478109/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-galbula/1.jpg
+  page: https://www.inaturalist.org/photos/605478109
+  author: Anne P
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478109/original.jpg
+- file: images/passeriformes/icteridae/icterus-galbula/2.jpg
+  page: https://www.inaturalist.org/photos/605701367
+  author: Arturo Benavides Mendoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605701367/original.jpg
+- file: images/passeriformes/icteridae/icterus-galbula/3.jpg
+  page: https://www.inaturalist.org/photos/604853287
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604853287/original.jpg
+- file: images/passeriformes/icteridae/icterus-galbula/4.jpg
+  page: https://www.inaturalist.org/photos/605248732
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605248732/original.jpg
+- file: images/passeriformes/icteridae/icterus-galbula/5.jpg
+  page: https://www.inaturalist.org/photos/610510948
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510948/original.jpg
 ---
 
 

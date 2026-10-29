@@ -162,8 +162,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-solitaria/1.jpg
+  page: https://www.inaturalist.org/photos/564320951
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564320951/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-solitaria/1.jpg
+  page: https://www.inaturalist.org/photos/564320951
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564320951/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-solitaria/2.jpg
+  page: https://www.inaturalist.org/photos/327745554
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327745554/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-solitaria/3.jpg
+  page: https://www.inaturalist.org/photos/564320983
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564320983/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-solitaria/4.jpg
+  page: https://www.inaturalist.org/photos/327745553
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327745553/original.jpg
 ---
 
 

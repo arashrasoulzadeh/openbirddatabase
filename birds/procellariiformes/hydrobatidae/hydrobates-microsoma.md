@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-microsoma/1.jpg
+  page: https://www.inaturalist.org/photos/594976294
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594976294/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-microsoma/1.jpg
+  page: https://www.inaturalist.org/photos/594976294
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594976294/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-microsoma/2.jpg
+  page: https://www.inaturalist.org/photos/431911731
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431911731/original.jpeg
+- file: images/procellariiformes/hydrobatidae/hydrobates-microsoma/3.jpg
+  page: https://www.inaturalist.org/photos/263609833
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263609833/original.jpeg
+- file: images/procellariiformes/hydrobatidae/hydrobates-microsoma/4.jpg
+  page: https://www.inaturalist.org/photos/276318394
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276318394/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-microsoma/5.jpg
+  page: https://www.inaturalist.org/photos/268672694
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268672694/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-phaeocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/255794265
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255794265/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-phaeocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/255794265
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255794265/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-phaeocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/323098998
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323098998/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-phaeocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/12869430
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12869430/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-phaeocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/323098887
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323098887/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-phaeocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/12869428
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12869428/original.jpg
 ---
 
 

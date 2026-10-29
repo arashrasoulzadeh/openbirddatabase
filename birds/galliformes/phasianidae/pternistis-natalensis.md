@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-natalensis/1.jpg
+  page: https://www.inaturalist.org/photos/609676379
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609676379/original.jpg
+images:
+- file: images/galliformes/phasianidae/pternistis-natalensis/1.jpg
+  page: https://www.inaturalist.org/photos/609676379
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609676379/original.jpg
+- file: images/galliformes/phasianidae/pternistis-natalensis/2.jpg
+  page: https://www.inaturalist.org/photos/607396577
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607396577/original.jpg
+- file: images/galliformes/phasianidae/pternistis-natalensis/3.jpg
+  page: https://www.inaturalist.org/photos/642297472
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297472/original.jpg
+- file: images/galliformes/phasianidae/pternistis-natalensis/4.jpg
+  page: https://www.inaturalist.org/photos/628089027
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628089027/original.jpg
+- file: images/galliformes/phasianidae/pternistis-natalensis/5.jpg
+  page: https://www.inaturalist.org/photos/677743613
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677743613/original.jpg
 ---
 
 

@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/melanospiza-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/607424776
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607424776/original.jpg
+images:
+- file: images/passeriformes/thraupidae/melanospiza-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/607424776
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607424776/original.jpg
+- file: images/passeriformes/thraupidae/melanospiza-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/609490272
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609490272/original.jpg
+- file: images/passeriformes/thraupidae/melanospiza-bicolor/3.jpg
+  page: https://www.inaturalist.org/photos/605772576
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605772576/original.jpg
+- file: images/passeriformes/thraupidae/melanospiza-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/608011274
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608011274/original.jpg
+- file: images/passeriformes/thraupidae/melanospiza-bicolor/5.jpg
+  page: https://www.inaturalist.org/photos/607424990
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607424990/original.jpg
 ---
 
 

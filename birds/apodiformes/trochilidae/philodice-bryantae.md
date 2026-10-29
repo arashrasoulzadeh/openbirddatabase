@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Lek
+image:
+  file: images/apodiformes/trochilidae/philodice-bryantae/1.jpg
+  page: https://www.inaturalist.org/photos/606264001
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606264001/original.jpg
+images:
+- file: images/apodiformes/trochilidae/philodice-bryantae/1.jpg
+  page: https://www.inaturalist.org/photos/606264001
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606264001/original.jpg
+- file: images/apodiformes/trochilidae/philodice-bryantae/2.jpg
+  page: https://www.inaturalist.org/photos/608753578
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608753578/original.jpg
+- file: images/apodiformes/trochilidae/philodice-bryantae/3.jpg
+  page: https://www.inaturalist.org/photos/615483859
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615483859/original.jpg
+- file: images/apodiformes/trochilidae/philodice-bryantae/4.jpg
+  page: https://www.inaturalist.org/photos/619097286
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619097286/original.jpg
+- file: images/apodiformes/trochilidae/philodice-bryantae/5.jpg
+  page: https://www.inaturalist.org/photos/624305880
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624305880/original.jpg
 ---
 
 

@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/motacillidae/anthus-petrosus/1.jpg
+  page: https://www.inaturalist.org/photos/605504583
+  author: Sean Hartnett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605504583/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-petrosus/1.jpg
+  page: https://www.inaturalist.org/photos/605504583
+  author: Sean Hartnett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605504583/original.jpg
+- file: images/passeriformes/motacillidae/anthus-petrosus/2.jpg
+  page: https://www.inaturalist.org/photos/609538540
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609538540/original.jpg
+- file: images/passeriformes/motacillidae/anthus-petrosus/3.jpg
+  page: https://www.inaturalist.org/photos/607761393
+  author: Pete Bradshaw
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607761393/original.jpg
+- file: images/passeriformes/motacillidae/anthus-petrosus/4.jpg
+  page: https://www.inaturalist.org/photos/610569916
+  author: Glossysun (Sunny Pearce)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610569916/original.jpg
+- file: images/passeriformes/motacillidae/anthus-petrosus/5.jpg
+  page: https://www.inaturalist.org/photos/608119692
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608119692/original.jpg
 ---
 
 

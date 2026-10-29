@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-menachensis/1.jpg
+  page: https://www.inaturalist.org/photos/614553748
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553748/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-menachensis/1.jpg
+  page: https://www.inaturalist.org/photos/614553748
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553748/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-menachensis/2.jpg
+  page: https://www.inaturalist.org/photos/635719789
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635719789/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-menachensis/3.jpg
+  page: https://www.inaturalist.org/photos/91948520
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91948520/original.jpeg
+- file: images/passeriformes/fringillidae/crithagra-menachensis/4.jpg
+  page: https://www.inaturalist.org/photos/614553744
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553744/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-menachensis/5.jpg
+  page: https://www.inaturalist.org/photos/614553753
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553753/original.jpg
 ---
 
 

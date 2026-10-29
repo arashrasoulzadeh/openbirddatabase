@@ -209,10 +209,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/piciformes/picidae/jynx-torquilla/1.jpg
+  page: https://www.inaturalist.org/photos/609149184
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609149184/original.jpg
+images:
+- file: images/piciformes/picidae/jynx-torquilla/1.jpg
+  page: https://www.inaturalist.org/photos/609149184
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609149184/original.jpg
+- file: images/piciformes/picidae/jynx-torquilla/2.jpg
+  page: https://www.inaturalist.org/photos/610319207
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610319207/original.jpg
+- file: images/piciformes/picidae/jynx-torquilla/3.jpg
+  page: https://www.inaturalist.org/photos/612667196
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612667196/original.jpg
+- file: images/piciformes/picidae/jynx-torquilla/4.jpg
+  page: https://www.inaturalist.org/photos/613817543
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613817543/original.jpg
+- file: images/piciformes/picidae/jynx-torquilla/5.jpg
+  page: https://www.inaturalist.org/photos/619614937
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619614937/original.jpg
 ---
 
 

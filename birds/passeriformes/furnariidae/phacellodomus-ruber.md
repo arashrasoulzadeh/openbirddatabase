@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/phacellodomus-ruber/1.jpg
+  page: https://www.inaturalist.org/photos/605690732
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605690732/original.jpg
+images:
+- file: images/passeriformes/furnariidae/phacellodomus-ruber/1.jpg
+  page: https://www.inaturalist.org/photos/605690732
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605690732/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-ruber/2.jpg
+  page: https://www.inaturalist.org/photos/606014843
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014843/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-ruber/3.jpg
+  page: https://www.inaturalist.org/photos/612623985
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612623985/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-ruber/4.jpg
+  page: https://www.inaturalist.org/photos/652717635
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652717635/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-ruber/5.jpg
+  page: https://www.inaturalist.org/photos/684214899
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684214899/original.jpg
 ---
 
 

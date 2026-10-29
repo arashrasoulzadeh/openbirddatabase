@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/phylloscartes-ventralis/1.jpg
+  page: https://www.inaturalist.org/photos/654230921
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654230921/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/phylloscartes-ventralis/1.jpg
+  page: https://www.inaturalist.org/photos/654230921
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654230921/original.jpg
+- file: images/passeriformes/tyrannidae/phylloscartes-ventralis/2.jpg
+  page: https://www.inaturalist.org/photos/617456231
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617456231/original.jpg
+- file: images/passeriformes/tyrannidae/phylloscartes-ventralis/3.jpg
+  page: https://www.inaturalist.org/photos/620380684
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620380684/original.jpg
+- file: images/passeriformes/tyrannidae/phylloscartes-ventralis/4.jpg
+  page: https://www.inaturalist.org/photos/645710550
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645710550/original.jpg
+- file: images/passeriformes/tyrannidae/phylloscartes-ventralis/5.jpg
+  page: https://www.inaturalist.org/photos/648953353
+  author: Naelin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648953353/original.jpg
 ---
 
 

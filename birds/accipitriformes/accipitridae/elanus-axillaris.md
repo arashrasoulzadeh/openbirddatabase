@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/accipitriformes/accipitridae/elanus-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/604667213
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604667213/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/elanus-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/604667213
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604667213/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-axillaris/2.jpg
+  page: https://www.inaturalist.org/photos/610856010
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610856010/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-axillaris/3.jpg
+  page: https://www.inaturalist.org/photos/607639003
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607639003/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-axillaris/4.jpg
+  page: https://www.inaturalist.org/photos/634169192
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634169192/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-axillaris/5.jpg
+  page: https://www.inaturalist.org/photos/616525687
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616525687/original.jpg
 ---
 
 

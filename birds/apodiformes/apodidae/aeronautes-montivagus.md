@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aeronautes-montivagus/1.jpg
+  page: https://www.inaturalist.org/photos/466898577
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466898577/original.jpg
+images:
+- file: images/apodiformes/apodidae/aeronautes-montivagus/1.jpg
+  page: https://www.inaturalist.org/photos/466898577
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466898577/original.jpg
+- file: images/apodiformes/apodidae/aeronautes-montivagus/2.jpg
+  page: https://www.inaturalist.org/photos/558891130
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558891130/original.jpg
+- file: images/apodiformes/apodidae/aeronautes-montivagus/3.jpg
+  page: https://www.inaturalist.org/photos/401794372
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401794372/original.jpg
+- file: images/apodiformes/apodidae/aeronautes-montivagus/4.jpg
+  page: https://www.inaturalist.org/photos/484582469
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484582469/original.jpg
+- file: images/apodiformes/apodidae/aeronautes-montivagus/5.jpg
+  page: https://www.inaturalist.org/photos/291959111
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/291959111/original.jpeg
 ---
 
 

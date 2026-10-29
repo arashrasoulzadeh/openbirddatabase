@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/ammospiza-caudacuta/1.jpg
+  page: https://www.inaturalist.org/photos/606482386
+  author: Clay Gibbons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606482386/original.jpg
+images:
+- file: images/passeriformes/passerellidae/ammospiza-caudacuta/1.jpg
+  page: https://www.inaturalist.org/photos/606482386
+  author: Clay Gibbons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606482386/original.jpg
+- file: images/passeriformes/passerellidae/ammospiza-caudacuta/2.jpg
+  page: https://www.inaturalist.org/photos/621151960
+  author: kirk gardner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621151960/original.jpg
+- file: images/passeriformes/passerellidae/ammospiza-caudacuta/3.jpg
+  page: https://www.inaturalist.org/photos/678442153
+  author: Evan Feusi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678442153/original.jpg
+- file: images/passeriformes/passerellidae/ammospiza-caudacuta/4.jpg
+  page: https://www.inaturalist.org/photos/680919991
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680919991/original.jpg
+- file: images/passeriformes/passerellidae/ammospiza-caudacuta/5.jpg
+  page: https://www.inaturalist.org/photos/688162430
+  author: BlueKirby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688162430/original.jpg
 ---
 
 

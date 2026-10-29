@@ -171,8 +171,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-chalybaeus/1.jpg
+  page: https://www.inaturalist.org/photos/677484832
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677484832/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-chalybaeus/1.jpg
+  page: https://www.inaturalist.org/photos/677484832
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677484832/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-chalybaeus/2.jpg
+  page: https://www.inaturalist.org/photos/685176839
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685176839/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-chalybaeus/3.jpg
+  page: https://www.inaturalist.org/photos/685177198
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685177198/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-chalybaeus/4.jpg
+  page: https://www.inaturalist.org/photos/700144201
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700144201/original.jpg
 ---
 
 

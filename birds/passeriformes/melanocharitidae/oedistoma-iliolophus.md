@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/melanocharitidae/oedistoma-iliolophus/1.jpg
+  page: https://www.inaturalist.org/photos/614910649
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910649/original.jpg
+images:
+- file: images/passeriformes/melanocharitidae/oedistoma-iliolophus/1.jpg
+  page: https://www.inaturalist.org/photos/614910649
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910649/original.jpg
+- file: images/passeriformes/melanocharitidae/oedistoma-iliolophus/2.jpg
+  page: https://www.inaturalist.org/photos/698252126
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698252126/original.jpg
+- file: images/passeriformes/melanocharitidae/oedistoma-iliolophus/3.jpg
+  page: https://www.inaturalist.org/photos/625521553
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625521553/original.jpg
+- file: images/passeriformes/melanocharitidae/oedistoma-iliolophus/4.jpg
+  page: https://www.inaturalist.org/photos/615131210
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615131210/original.jpg
+- file: images/passeriformes/melanocharitidae/oedistoma-iliolophus/5.jpg
+  page: https://www.inaturalist.org/photos/615131214
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615131214/original.jpg
 ---
 
 

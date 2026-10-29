@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-plumbeitarsus/1.jpg
+  page: https://www.inaturalist.org/photos/688673028
+  author: Jannis Ackermann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688673028/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-plumbeitarsus/1.jpg
+  page: https://www.inaturalist.org/photos/688673028
+  author: Jannis Ackermann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688673028/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-plumbeitarsus/2.jpg
+  page: https://www.inaturalist.org/photos/566661829
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566661829/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-plumbeitarsus/3.jpg
+  page: https://www.inaturalist.org/photos/583183238
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583183238/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-plumbeitarsus/4.jpg
+  page: https://www.inaturalist.org/photos/595718031
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595718031/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-plumbeitarsus/5.jpg
+  page: https://www.inaturalist.org/photos/377141888
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/377141888/original.jpg
 ---
 
 

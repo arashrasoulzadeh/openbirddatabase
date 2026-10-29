@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/amandava-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/615986720
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986720/original.jpg
+images:
+- file: images/passeriformes/estrildidae/amandava-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/615986720
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986720/original.jpg
+- file: images/passeriformes/estrildidae/amandava-formosa/2.jpg
+  page: https://www.inaturalist.org/photos/49749448
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49749448/original.jpg
+- file: images/passeriformes/estrildidae/amandava-formosa/3.jpg
+  page: https://www.inaturalist.org/photos/615986709
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986709/original.jpg
+- file: images/passeriformes/estrildidae/amandava-formosa/4.jpg
+  page: https://www.inaturalist.org/photos/615986704
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986704/original.jpg
+- file: images/passeriformes/estrildidae/amandava-formosa/5.jpg
+  page: https://www.inaturalist.org/photos/615986692
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986692/original.jpg
 ---
 
 

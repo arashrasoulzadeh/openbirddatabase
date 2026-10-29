@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 70
+image:
+  file: images/procellariiformes/diomedeidae/phoebastria-immutabilis/1.jpg
+  page: https://www.inaturalist.org/photos/608838374
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608838374/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/phoebastria-immutabilis/1.jpg
+  page: https://www.inaturalist.org/photos/608838374
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608838374/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-immutabilis/2.jpg
+  page: https://www.inaturalist.org/photos/611080103
+  author: Thomas Irvine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611080103/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-immutabilis/3.jpg
+  page: https://www.inaturalist.org/photos/612657594
+  author: Kevin Faccenda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612657594/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-immutabilis/4.jpg
+  page: https://www.inaturalist.org/photos/608838019
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608838019/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-immutabilis/5.jpg
+  page: https://www.inaturalist.org/photos/608837731
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608837731/original.jpg
 ---
 
 

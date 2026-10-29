@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/phalacrocorax-punctatus/1.jpg
+  page: https://www.inaturalist.org/photos/605242642
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605242642/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-punctatus/1.jpg
+  page: https://www.inaturalist.org/photos/605242642
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605242642/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-punctatus/2.jpg
+  page: https://www.inaturalist.org/photos/605171535
+  author: jack12347
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605171535/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-punctatus/3.jpg
+  page: https://www.inaturalist.org/photos/605479080
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605479080/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-punctatus/4.jpg
+  page: https://www.inaturalist.org/photos/609173219
+  author: Jenny Saito
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609173219/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-punctatus/5.jpg
+  page: https://www.inaturalist.org/photos/612598696
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612598696/original.jpg
 ---
 
 

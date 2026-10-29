@@ -193,10 +193,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/acrocephalidae/iduna-pallida/1.jpg
+  page: https://www.inaturalist.org/photos/670160123
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670160123/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/iduna-pallida/1.jpg
+  page: https://www.inaturalist.org/photos/670160123
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670160123/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-pallida/2.jpg
+  page: https://www.inaturalist.org/photos/678841237
+  author: Hans Punte
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678841237/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-pallida/3.jpg
+  page: https://www.inaturalist.org/photos/688344031
+  author: Radu Teodoreanu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688344031/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-pallida/4.jpg
+  page: https://www.inaturalist.org/photos/710999731
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710999731/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-pallida/5.jpg
+  page: https://www.inaturalist.org/photos/668822541
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668822541/original.jpg
 ---
 
 

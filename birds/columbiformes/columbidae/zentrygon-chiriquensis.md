@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/zentrygon-chiriquensis/1.jpg
+  page: https://www.inaturalist.org/photos/571458966
+  author: Phillip Salzinger
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571458966/original.jpg
+images:
+- file: images/columbiformes/columbidae/zentrygon-chiriquensis/1.jpg
+  page: https://www.inaturalist.org/photos/571458966
+  author: Phillip Salzinger
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571458966/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-chiriquensis/2.jpg
+  page: https://www.inaturalist.org/photos/373700993
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373700993/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-chiriquensis/3.jpg
+  page: https://www.inaturalist.org/photos/401682216
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401682216/original.jpeg
+- file: images/columbiformes/columbidae/zentrygon-chiriquensis/4.jpg
+  page: https://www.inaturalist.org/photos/267247727
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267247727/original.jpeg
+- file: images/columbiformes/columbidae/zentrygon-chiriquensis/5.jpg
+  page: https://www.inaturalist.org/photos/305879691
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305879691/original.jpg
 ---
 
 

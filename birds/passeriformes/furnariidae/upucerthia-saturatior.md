@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 32.2
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 96.8
   tail_length_mm: 80.4
   body_mass_g: 48.7
+image:
+  file: images/passeriformes/furnariidae/upucerthia-saturatior/1.jpg
+  page: https://www.inaturalist.org/photos/492747638
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492747638/original.jpg
+images:
+- file: images/passeriformes/furnariidae/upucerthia-saturatior/1.jpg
+  page: https://www.inaturalist.org/photos/492747638
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492747638/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-saturatior/2.jpg
+  page: https://www.inaturalist.org/photos/533914808
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533914808/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-saturatior/3.jpg
+  page: https://www.inaturalist.org/photos/352672452
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352672452/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-saturatior/4.jpg
+  page: https://www.inaturalist.org/photos/428827720
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428827720/original.jpeg
+- file: images/passeriformes/furnariidae/upucerthia-saturatior/5.jpg
+  page: https://www.inaturalist.org/photos/256827625
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256827625/original.jpg
 ---
 
 

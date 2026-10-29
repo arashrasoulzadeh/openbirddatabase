@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-suahelicus/1.jpg
+  page: https://www.inaturalist.org/photos/661207327
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661207327/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-suahelicus/1.jpg
+  page: https://www.inaturalist.org/photos/661207327
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661207327/original.jpg
+- file: images/passeriformes/passeridae/passer-suahelicus/2.jpg
+  page: https://www.inaturalist.org/photos/664942196
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664942196/original.jpg
+- file: images/passeriformes/passeridae/passer-suahelicus/3.jpg
+  page: https://www.inaturalist.org/photos/722223354
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722223354/original.jpg
+- file: images/passeriformes/passeridae/passer-suahelicus/4.jpg
+  page: https://www.inaturalist.org/photos/573701455
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573701455/original.jpg
+- file: images/passeriformes/passeridae/passer-suahelicus/5.jpg
+  page: https://www.inaturalist.org/photos/261173077
+  author: Summer J. Smentek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261173077/original.jpg
 ---
 
 

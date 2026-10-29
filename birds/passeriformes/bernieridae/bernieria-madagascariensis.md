@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/bernieridae/bernieria-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/452197503
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452197503/original.jpg
+images:
+- file: images/passeriformes/bernieridae/bernieria-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/452197503
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452197503/original.jpg
+- file: images/passeriformes/bernieridae/bernieria-madagascariensis/2.jpg
+  page: https://www.inaturalist.org/photos/455475088
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455475088/original.jpeg
+- file: images/passeriformes/bernieridae/bernieria-madagascariensis/3.jpg
+  page: https://www.inaturalist.org/photos/257569217
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257569217/original.jpeg
+- file: images/passeriformes/bernieridae/bernieria-madagascariensis/4.jpg
+  page: https://www.inaturalist.org/photos/609442314
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609442314/original.jpg
+- file: images/passeriformes/bernieridae/bernieria-madagascariensis/5.jpg
+  page: https://www.inaturalist.org/photos/241905497
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241905497/original.jpg
 ---
 
 

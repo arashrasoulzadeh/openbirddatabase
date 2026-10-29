@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-pelzelni/1.jpg
+  page: https://www.inaturalist.org/photos/619342887
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619342887/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-pelzelni/1.jpg
+  page: https://www.inaturalist.org/photos/619342887
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619342887/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-pelzelni/2.jpg
+  page: https://www.inaturalist.org/photos/713647076
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713647076/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-pelzelni/3.jpg
+  page: https://www.inaturalist.org/photos/718485917
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718485917/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-pelzelni/4.jpg
+  page: https://www.inaturalist.org/photos/564040124
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564040124/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-pelzelni/5.jpg
+  page: https://www.inaturalist.org/photos/353593033
+  author: Margaret Stevens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353593033/original.jpeg
 ---
 
 

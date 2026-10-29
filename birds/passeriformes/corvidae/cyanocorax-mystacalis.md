@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/621291854
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621291854/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/621291854
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621291854/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-mystacalis/2.jpg
+  page: https://www.inaturalist.org/photos/556276707
+  author: Connor Connolly-Moyls
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556276707/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-mystacalis/3.jpg
+  page: https://www.inaturalist.org/photos/532624798
+  author: Sebastián Sánchez Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532624798/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-mystacalis/4.jpg
+  page: https://www.inaturalist.org/photos/558080283
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558080283/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-mystacalis/5.jpg
+  page: https://www.inaturalist.org/photos/255794317
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255794317/original.jpg
 ---
 
 

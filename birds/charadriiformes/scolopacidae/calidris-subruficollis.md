@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/calidris-subruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/611452629
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611452629/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-subruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/611452629
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611452629/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-subruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/635843854
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635843854/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-subruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/645909014
+  author: Brent Cox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645909014/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-subruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/648960651
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648960651/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-subruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/678537094
+  author: Kim Selbee
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678537094/original.jpg
 ---
 
 

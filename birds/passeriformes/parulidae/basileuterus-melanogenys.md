@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/basileuterus-melanogenys/1.jpg
+  page: https://www.inaturalist.org/photos/622712337
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622712337/original.jpg
+images:
+- file: images/passeriformes/parulidae/basileuterus-melanogenys/1.jpg
+  page: https://www.inaturalist.org/photos/622712337
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622712337/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-melanogenys/2.jpg
+  page: https://www.inaturalist.org/photos/680395175
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680395175/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-melanogenys/3.jpg
+  page: https://www.inaturalist.org/photos/691130128
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691130128/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-melanogenys/4.jpg
+  page: https://www.inaturalist.org/photos/530509744
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530509744/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-melanogenys/5.jpg
+  page: https://www.inaturalist.org/photos/599951426
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599951426/original.jpg
 ---
 
 

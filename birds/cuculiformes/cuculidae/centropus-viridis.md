@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/493751250
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493751250/original.jpeg
+images:
+- file: images/cuculiformes/cuculidae/centropus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/493751250
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493751250/original.jpeg
+- file: images/cuculiformes/cuculidae/centropus-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/299098657
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/299098657/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/278891392
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/278891392/original.jpeg
+- file: images/cuculiformes/cuculidae/centropus-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/493753652
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493753652/original.jpeg
+- file: images/cuculiformes/cuculidae/centropus-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/416396473
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416396473/original.jpeg
 ---
 
 

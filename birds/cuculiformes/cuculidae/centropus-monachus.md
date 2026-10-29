@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-monachus/1.jpg
+  page: https://www.inaturalist.org/photos/619343040
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619343040/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-monachus/1.jpg
+  page: https://www.inaturalist.org/photos/619343040
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619343040/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-monachus/2.jpg
+  page: https://www.inaturalist.org/photos/636873730
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873730/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-monachus/3.jpg
+  page: https://www.inaturalist.org/photos/558291627
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558291627/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-monachus/4.jpg
+  page: https://www.inaturalist.org/photos/548590958
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548590958/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-monachus/5.jpg
+  page: https://www.inaturalist.org/photos/587089421
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587089421/original.jpg
 ---
 
 

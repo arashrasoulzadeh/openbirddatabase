@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/mimidae/toxostoma-bendirei/1.jpg
+  page: https://www.inaturalist.org/photos/616732262
+  author: Jason Leduc
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616732262/original.jpg
+images:
+- file: images/passeriformes/mimidae/toxostoma-bendirei/1.jpg
+  page: https://www.inaturalist.org/photos/616732262
+  author: Jason Leduc
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616732262/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-bendirei/2.jpg
+  page: https://www.inaturalist.org/photos/627203639
+  author: Isaac Ethington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627203639/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-bendirei/3.jpg
+  page: https://www.inaturalist.org/photos/498426651
+  author: MarvalPhotography19
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498426651/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-bendirei/4.jpg
+  page: https://www.inaturalist.org/photos/527341417
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527341417/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-bendirei/5.jpg
+  page: https://www.inaturalist.org/photos/616732231
+  author: Jason Leduc
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616732231/original.jpg
 ---
 
 

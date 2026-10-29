@@ -125,7 +125,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 25.0
@@ -133,6 +134,26 @@ morphology:
   wing_length_mm: 94.0
   tail_length_mm: 110.0
   body_mass_g: 76.7
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-ngoclinhense/1.jpg
+  page: https://www.inaturalist.org/photos/105779912
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105779912/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-ngoclinhense/1.jpg
+  page: https://www.inaturalist.org/photos/105779912
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105779912/original.jpeg
+- file: images/passeriformes/leiothrichidae/trochalopteron-ngoclinhense/2.jpg
+  page: https://www.inaturalist.org/photos/105779918
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105779918/original.jpeg
 ---
 
 

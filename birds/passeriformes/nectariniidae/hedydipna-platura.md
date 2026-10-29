@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/hedydipna-platura/1.jpg
+  page: https://www.inaturalist.org/photos/612524690
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612524690/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/hedydipna-platura/1.jpg
+  page: https://www.inaturalist.org/photos/612524690
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612524690/original.jpg
+- file: images/passeriformes/nectariniidae/hedydipna-platura/2.jpg
+  page: https://www.inaturalist.org/photos/474525076
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474525076/original.jpg
+- file: images/passeriformes/nectariniidae/hedydipna-platura/3.jpg
+  page: https://www.inaturalist.org/photos/607978102
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607978102/original.jpg
+- file: images/passeriformes/nectariniidae/hedydipna-platura/4.jpg
+  page: https://www.inaturalist.org/photos/480683920
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480683920/original.jpeg
+- file: images/passeriformes/nectariniidae/hedydipna-platura/5.jpg
+  page: https://www.inaturalist.org/photos/586048793
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586048793/original.jpg
 ---
 
 

@@ -136,8 +136,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/orthotomus-chaktomuk/1.jpg
+  page: https://www.inaturalist.org/photos/635605755
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635605755/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/orthotomus-chaktomuk/1.jpg
+  page: https://www.inaturalist.org/photos/635605755
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635605755/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-chaktomuk/2.jpg
+  page: https://www.inaturalist.org/photos/182041839
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182041839/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-chaktomuk/3.jpg
+  page: https://www.inaturalist.org/photos/635605768
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635605768/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-chaktomuk/4.jpg
+  page: https://www.inaturalist.org/photos/635605789
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635605789/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-chaktomuk/5.jpg
+  page: https://www.inaturalist.org/photos/182041270
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182041270/original.jpg
 ---
 
 

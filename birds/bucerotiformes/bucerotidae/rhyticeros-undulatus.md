@@ -154,8 +154,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/rhyticeros-undulatus/1.jpg
+  page: https://www.inaturalist.org/photos/616152310
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152310/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/rhyticeros-undulatus/1.jpg
+  page: https://www.inaturalist.org/photos/616152310
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152310/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhyticeros-undulatus/2.jpg
+  page: https://www.inaturalist.org/photos/618849415
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849415/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhyticeros-undulatus/3.jpg
+  page: https://www.inaturalist.org/photos/612373761
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612373761/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhyticeros-undulatus/4.jpg
+  page: https://www.inaturalist.org/photos/618312351
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618312351/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhyticeros-undulatus/5.jpg
+  page: https://www.inaturalist.org/photos/618313576
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618313576/original.jpg
 ---
 
 

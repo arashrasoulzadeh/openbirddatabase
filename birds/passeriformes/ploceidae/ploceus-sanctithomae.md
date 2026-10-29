@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-sanctithomae/1.jpg
+  page: https://www.inaturalist.org/photos/469095826
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469095826/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-sanctithomae/1.jpg
+  page: https://www.inaturalist.org/photos/469095826
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469095826/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-sanctithomae/2.jpg
+  page: https://www.inaturalist.org/photos/560076373
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560076373/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-sanctithomae/3.jpg
+  page: https://www.inaturalist.org/photos/9766999
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9766999/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-sanctithomae/4.jpg
+  page: https://www.inaturalist.org/photos/226299307
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226299307/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-sanctithomae/5.jpg
+  page: https://www.inaturalist.org/photos/106434527
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106434527/original.jpg
 ---
 
 

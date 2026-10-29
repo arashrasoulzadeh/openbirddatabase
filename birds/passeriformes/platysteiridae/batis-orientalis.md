@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/batis-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/617672841
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617672841/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/batis-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/617672841
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617672841/original.jpg
+- file: images/passeriformes/platysteiridae/batis-orientalis/2.jpg
+  page: https://www.inaturalist.org/photos/442972963
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442972963/original.jpeg
+- file: images/passeriformes/platysteiridae/batis-orientalis/3.jpg
+  page: https://www.inaturalist.org/photos/617403705
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617403705/original.jpg
+- file: images/passeriformes/platysteiridae/batis-orientalis/4.jpg
+  page: https://www.inaturalist.org/photos/441689072
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441689072/original.jpeg
+- file: images/passeriformes/platysteiridae/batis-orientalis/5.jpg
+  page: https://www.inaturalist.org/photos/441689079
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441689079/original.jpeg
 ---
 
 

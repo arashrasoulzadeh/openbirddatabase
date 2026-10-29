@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/automolus-paraensis/1.jpg
+  page: https://www.inaturalist.org/photos/743283369
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743283369/original.jpg
+images:
+- file: images/passeriformes/furnariidae/automolus-paraensis/1.jpg
+  page: https://www.inaturalist.org/photos/743283369
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743283369/original.jpg
+- file: images/passeriformes/furnariidae/automolus-paraensis/2.jpg
+  page: https://www.inaturalist.org/photos/443236072
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443236072/original.jpeg
+- file: images/passeriformes/furnariidae/automolus-paraensis/3.jpg
+  page: https://www.inaturalist.org/photos/743283407
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743283407/original.jpg
+- file: images/passeriformes/furnariidae/automolus-paraensis/4.jpg
+  page: https://www.inaturalist.org/photos/743283412
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743283412/original.jpg
+- file: images/passeriformes/furnariidae/automolus-paraensis/5.jpg
+  page: https://www.inaturalist.org/photos/743283445
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743283445/original.jpg
 ---
 
 

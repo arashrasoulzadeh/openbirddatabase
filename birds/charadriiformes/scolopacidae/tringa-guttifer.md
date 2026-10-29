@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/tringa-guttifer/1.jpg
+  page: https://www.inaturalist.org/photos/616761799
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761799/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/tringa-guttifer/1.jpg
+  page: https://www.inaturalist.org/photos/616761799
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761799/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-guttifer/2.jpg
+  page: https://www.inaturalist.org/photos/620817102
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620817102/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-guttifer/3.jpg
+  page: https://www.inaturalist.org/photos/623389924
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623389924/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-guttifer/4.jpg
+  page: https://www.inaturalist.org/photos/632184531
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632184531/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-guttifer/5.jpg
+  page: https://www.inaturalist.org/photos/626861884
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626861884/original.jpg
 ---
 
 

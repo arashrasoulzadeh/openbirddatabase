@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/brachypteryx-goodfellowi/1.jpg
+  page: https://www.inaturalist.org/photos/40511273
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/40511273/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/brachypteryx-goodfellowi/1.jpg
+  page: https://www.inaturalist.org/photos/40511273
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/40511273/original.jpeg
+- file: images/passeriformes/muscicapidae/brachypteryx-goodfellowi/2.jpg
+  page: https://www.inaturalist.org/photos/40511279
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/40511279/original.jpeg
+- file: images/passeriformes/muscicapidae/brachypteryx-goodfellowi/3.jpg
+  page: https://www.inaturalist.org/photos/40511347
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/40511347/original.jpeg
+- file: images/passeriformes/muscicapidae/brachypteryx-goodfellowi/4.jpg
+  page: https://www.inaturalist.org/photos/40511170
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/40511170/original.jpeg
+- file: images/passeriformes/muscicapidae/brachypteryx-goodfellowi/5.jpg
+  page: https://www.inaturalist.org/photos/40511187
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/40511187/original.jpeg
 ---
 
 

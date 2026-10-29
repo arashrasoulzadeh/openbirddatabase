@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/micrastur-gilvicollis/1.jpg
+  page: https://www.inaturalist.org/photos/467089202
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467089202/original.jpg
+images:
+- file: images/falconiformes/falconidae/micrastur-gilvicollis/1.jpg
+  page: https://www.inaturalist.org/photos/467089202
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467089202/original.jpg
+- file: images/falconiformes/falconidae/micrastur-gilvicollis/2.jpg
+  page: https://www.inaturalist.org/photos/532617802
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532617802/original.jpg
+- file: images/falconiformes/falconidae/micrastur-gilvicollis/3.jpg
+  page: https://www.inaturalist.org/photos/424602638
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424602638/original.jpeg
+- file: images/falconiformes/falconidae/micrastur-gilvicollis/4.jpg
+  page: https://www.inaturalist.org/photos/463387404
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463387404/original.jpeg
+- file: images/falconiformes/falconidae/micrastur-gilvicollis/5.jpg
+  page: https://www.inaturalist.org/photos/334609671
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334609671/original.jpeg
 ---
 
 

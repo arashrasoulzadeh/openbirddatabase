@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/celeus-undatus/1.jpg
+  page: https://www.inaturalist.org/photos/467749381
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467749381/original.jpg
+images:
+- file: images/piciformes/picidae/celeus-undatus/1.jpg
+  page: https://www.inaturalist.org/photos/467749381
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467749381/original.jpg
+- file: images/piciformes/picidae/celeus-undatus/2.jpg
+  page: https://www.inaturalist.org/photos/600483260
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600483260/original.jpg
+- file: images/piciformes/picidae/celeus-undatus/3.jpg
+  page: https://www.inaturalist.org/photos/413633725
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413633725/original.jpeg
+- file: images/piciformes/picidae/celeus-undatus/4.jpg
+  page: https://www.inaturalist.org/photos/424599240
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424599240/original.jpeg
+- file: images/piciformes/picidae/celeus-undatus/5.jpg
+  page: https://www.inaturalist.org/photos/435551525
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435551525/original.jpg
 ---
 
 

@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/piciformes/picidae/picus-vittatus/1.jpg
+  page: https://www.inaturalist.org/photos/609410370
+  author: Carman Chew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609410370/original.jpg
+images:
+- file: images/piciformes/picidae/picus-vittatus/1.jpg
+  page: https://www.inaturalist.org/photos/609410370
+  author: Carman Chew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609410370/original.jpg
+- file: images/piciformes/picidae/picus-vittatus/2.jpg
+  page: https://www.inaturalist.org/photos/612474664
+  author: grass_0
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612474664/original.jpg
+- file: images/piciformes/picidae/picus-vittatus/3.jpg
+  page: https://www.inaturalist.org/photos/616657912
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616657912/original.jpg
+- file: images/piciformes/picidae/picus-vittatus/4.jpg
+  page: https://www.inaturalist.org/photos/629955390
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629955390/original.jpg
+- file: images/piciformes/picidae/picus-vittatus/5.jpg
+  page: https://www.inaturalist.org/photos/631340551
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631340551/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-castaneus/1.jpg
+  page: https://www.inaturalist.org/photos/605697061
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697061/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-castaneus/1.jpg
+  page: https://www.inaturalist.org/photos/605697061
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697061/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-castaneus/2.jpg
+  page: https://www.inaturalist.org/photos/610876413
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610876413/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-castaneus/3.jpg
+  page: https://www.inaturalist.org/photos/612763614
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612763614/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-castaneus/4.jpg
+  page: https://www.inaturalist.org/photos/616360536
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616360536/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-castaneus/5.jpg
+  page: https://www.inaturalist.org/photos/729947661
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729947661/original.jpg
 ---
 
 

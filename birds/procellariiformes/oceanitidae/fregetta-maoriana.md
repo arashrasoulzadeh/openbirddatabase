@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/oceanitidae/fregetta-maoriana/1.jpg
+  page: https://www.inaturalist.org/photos/614964571
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614964571/original.jpg
+images:
+- file: images/procellariiformes/oceanitidae/fregetta-maoriana/1.jpg
+  page: https://www.inaturalist.org/photos/614964571
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614964571/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-maoriana/2.jpg
+  page: https://www.inaturalist.org/photos/701993034
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701993034/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-maoriana/3.jpg
+  page: https://www.inaturalist.org/photos/471456038
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471456038/original.jpeg
+- file: images/procellariiformes/oceanitidae/fregetta-maoriana/4.jpg
+  page: https://www.inaturalist.org/photos/546170598
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546170598/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-maoriana/5.jpg
+  page: https://www.inaturalist.org/photos/398650271
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398650271/original.jpg
 ---
 
 

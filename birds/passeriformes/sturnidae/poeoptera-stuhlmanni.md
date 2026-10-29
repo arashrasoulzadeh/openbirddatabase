@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/poeoptera-stuhlmanni/1.jpg
+  page: https://www.inaturalist.org/photos/601672743
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601672743/original.jpg
+images:
+- file: images/passeriformes/sturnidae/poeoptera-stuhlmanni/1.jpg
+  page: https://www.inaturalist.org/photos/601672743
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601672743/original.jpg
+- file: images/passeriformes/sturnidae/poeoptera-stuhlmanni/2.jpg
+  page: https://www.inaturalist.org/photos/24178790
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/24178790/original.jpeg
+- file: images/passeriformes/sturnidae/poeoptera-stuhlmanni/3.jpg
+  page: https://www.inaturalist.org/photos/601672755
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601672755/original.jpg
+- file: images/passeriformes/sturnidae/poeoptera-stuhlmanni/4.jpg
+  page: https://www.inaturalist.org/photos/601672757
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601672757/original.jpg
+- file: images/passeriformes/sturnidae/poeoptera-stuhlmanni/5.jpg
+  page: https://www.inaturalist.org/photos/24178949
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/24178949/original.jpeg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pachyptila-vittata/1.jpg
+  page: https://www.inaturalist.org/photos/462092882
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462092882/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pachyptila-vittata/1.jpg
+  page: https://www.inaturalist.org/photos/462092882
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462092882/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-vittata/2.jpg
+  page: https://www.inaturalist.org/photos/463799673
+  author: Julia Palmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463799673/original.jpeg
+- file: images/procellariiformes/procellariidae/pachyptila-vittata/3.jpg
+  page: https://www.inaturalist.org/photos/487693498
+  author: Nathan Odgers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487693498/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-vittata/4.jpg
+  page: https://www.inaturalist.org/photos/358367737
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358367737/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-vittata/5.jpg
+  page: https://www.inaturalist.org/photos/476696635
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476696635/original.jpeg
 ---
 
 

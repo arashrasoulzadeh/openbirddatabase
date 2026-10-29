@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-thilohoffmanni/1.jpg
+  page: https://www.inaturalist.org/photos/612364770
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612364770/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-thilohoffmanni/1.jpg
+  page: https://www.inaturalist.org/photos/612364770
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612364770/original.jpg
+- file: images/strigiformes/strigidae/otus-thilohoffmanni/2.jpg
+  page: https://www.inaturalist.org/photos/465712020
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465712020/original.jpeg
+- file: images/strigiformes/strigidae/otus-thilohoffmanni/3.jpg
+  page: https://www.inaturalist.org/photos/468849590
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468849590/original.jpg
+- file: images/strigiformes/strigidae/otus-thilohoffmanni/4.jpg
+  page: https://www.inaturalist.org/photos/396779630
+  author: Arabella Willing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396779630/original.jpg
+- file: images/strigiformes/strigidae/otus-thilohoffmanni/5.jpg
+  page: https://www.inaturalist.org/photos/451794223
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451794223/original.jpeg
 ---
 
 

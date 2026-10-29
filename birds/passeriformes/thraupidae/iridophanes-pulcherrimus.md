@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/iridophanes-pulcherrimus/1.jpg
+  page: https://www.inaturalist.org/photos/609325234
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609325234/original.jpg
+images:
+- file: images/passeriformes/thraupidae/iridophanes-pulcherrimus/1.jpg
+  page: https://www.inaturalist.org/photos/609325234
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609325234/original.jpg
+- file: images/passeriformes/thraupidae/iridophanes-pulcherrimus/2.jpg
+  page: https://www.inaturalist.org/photos/489408666
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489408666/original.jpg
+- file: images/passeriformes/thraupidae/iridophanes-pulcherrimus/3.jpg
+  page: https://www.inaturalist.org/photos/469753972
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469753972/original.jpeg
+- file: images/passeriformes/thraupidae/iridophanes-pulcherrimus/4.jpg
+  page: https://www.inaturalist.org/photos/552118639
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552118639/original.jpg
+- file: images/passeriformes/thraupidae/iridophanes-pulcherrimus/5.jpg
+  page: https://www.inaturalist.org/photos/606869247
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606869247/original.jpg
 ---
 
 

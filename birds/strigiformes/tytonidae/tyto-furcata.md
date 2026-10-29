@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/tytonidae/tyto-furcata/1.jpg
+  page: https://www.inaturalist.org/photos/605708801
+  author: Sam Kieschnick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605708801/original.jpg
+images:
+- file: images/strigiformes/tytonidae/tyto-furcata/1.jpg
+  page: https://www.inaturalist.org/photos/605708801
+  author: Sam Kieschnick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605708801/original.jpg
+- file: images/strigiformes/tytonidae/tyto-furcata/2.jpg
+  page: https://www.inaturalist.org/photos/605161795
+  author: Tristan A. McKnight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605161795/original.jpg
+- file: images/strigiformes/tytonidae/tyto-furcata/3.jpg
+  page: https://www.inaturalist.org/photos/607368486
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607368486/original.jpg
+- file: images/strigiformes/tytonidae/tyto-furcata/4.jpg
+  page: https://www.inaturalist.org/photos/605814829
+  author: Abril Bastons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605814829/original.gif
+- file: images/strigiformes/tytonidae/tyto-furcata/5.jpg
+  page: https://www.inaturalist.org/photos/610066937
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610066937/original.jpg
 ---
 
 

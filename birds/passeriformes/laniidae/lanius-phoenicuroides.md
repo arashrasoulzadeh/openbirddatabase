@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/laniidae/lanius-phoenicuroides/1.jpg
+  page: https://www.inaturalist.org/photos/678045921
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678045921/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-phoenicuroides/1.jpg
+  page: https://www.inaturalist.org/photos/678045921
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678045921/original.jpg
+- file: images/passeriformes/laniidae/lanius-phoenicuroides/2.jpg
+  page: https://www.inaturalist.org/photos/635719452
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635719452/original.jpg
+- file: images/passeriformes/laniidae/lanius-phoenicuroides/3.jpg
+  page: https://www.inaturalist.org/photos/654080740
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654080740/original.jpg
+- file: images/passeriformes/laniidae/lanius-phoenicuroides/4.jpg
+  page: https://www.inaturalist.org/photos/671604366
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671604366/original.jpg
+- file: images/passeriformes/laniidae/lanius-phoenicuroides/5.jpg
+  page: https://www.inaturalist.org/photos/654072480
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654072480/original.jpg
 ---
 
 

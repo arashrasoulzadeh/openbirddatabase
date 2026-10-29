@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/elliotomyia-chionogaster/1.jpg
+  page: https://www.inaturalist.org/photos/623439690
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623439690/original.jpg
+images:
+- file: images/apodiformes/trochilidae/elliotomyia-chionogaster/1.jpg
+  page: https://www.inaturalist.org/photos/623439690
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623439690/original.jpg
+- file: images/apodiformes/trochilidae/elliotomyia-chionogaster/2.jpg
+  page: https://www.inaturalist.org/photos/661800367
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661800367/original.jpg
+- file: images/apodiformes/trochilidae/elliotomyia-chionogaster/3.jpg
+  page: https://www.inaturalist.org/photos/655057018
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655057018/original.jpg
+- file: images/apodiformes/trochilidae/elliotomyia-chionogaster/4.jpg
+  page: https://www.inaturalist.org/photos/659598216
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659598216/original.jpg
+- file: images/apodiformes/trochilidae/elliotomyia-chionogaster/5.jpg
+  page: https://www.inaturalist.org/photos/708040974
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708040974/original.jpg
 ---
 
 

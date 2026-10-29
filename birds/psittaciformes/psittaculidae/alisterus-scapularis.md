@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/psittaciformes/psittaculidae/alisterus-scapularis/1.jpg
+  page: https://www.inaturalist.org/photos/605303700
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303700/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/alisterus-scapularis/1.jpg
+  page: https://www.inaturalist.org/photos/605303700
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303700/original.jpg
+- file: images/psittaciformes/psittaculidae/alisterus-scapularis/2.jpg
+  page: https://www.inaturalist.org/photos/605493231
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605493231/original.jpg
+- file: images/psittaciformes/psittaculidae/alisterus-scapularis/3.jpg
+  page: https://www.inaturalist.org/photos/609363255
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363255/original.jpg
+- file: images/psittaciformes/psittaculidae/alisterus-scapularis/4.jpg
+  page: https://www.inaturalist.org/photos/609363260
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363260/original.jpg
+- file: images/psittaciformes/psittaculidae/alisterus-scapularis/5.jpg
+  page: https://www.inaturalist.org/photos/608085247
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608085247/original.jpg
 ---
 
 

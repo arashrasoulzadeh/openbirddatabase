@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/hydrornis-schwaneri/1.jpg
+  page: https://www.inaturalist.org/photos/578055567
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578055567/original.jpg
+images:
+- file: images/passeriformes/pittidae/hydrornis-schwaneri/1.jpg
+  page: https://www.inaturalist.org/photos/578055567
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578055567/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-schwaneri/2.jpg
+  page: https://www.inaturalist.org/photos/574561274
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574561274/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-schwaneri/3.jpg
+  page: https://www.inaturalist.org/photos/289851128
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289851128/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-schwaneri/4.jpg
+  page: https://www.inaturalist.org/photos/350298566
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350298566/original.jpeg
+- file: images/passeriformes/pittidae/hydrornis-schwaneri/5.jpg
+  page: https://www.inaturalist.org/photos/576686734
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576686734/original.jpg
 ---
 
 

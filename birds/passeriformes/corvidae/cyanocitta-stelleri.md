@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/corvidae/cyanocitta-stelleri/1.jpg
+  page: https://www.inaturalist.org/photos/605101320
+  author: Craig Martin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605101320/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocitta-stelleri/1.jpg
+  page: https://www.inaturalist.org/photos/605101320
+  author: Craig Martin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605101320/original.jpg
+- file: images/passeriformes/corvidae/cyanocitta-stelleri/2.jpg
+  page: https://www.inaturalist.org/photos/604613888
+  author: criminy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604613888/original.jpg
+- file: images/passeriformes/corvidae/cyanocitta-stelleri/3.jpg
+  page: https://www.inaturalist.org/photos/605289107
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605289107/original.jpg
+- file: images/passeriformes/corvidae/cyanocitta-stelleri/4.jpg
+  page: https://www.inaturalist.org/photos/605179431
+  author: Hunter Hickok
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605179431/original.jpg
+- file: images/passeriformes/corvidae/cyanocitta-stelleri/5.jpg
+  page: https://www.inaturalist.org/photos/606046978
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606046978/original.jpg
 ---
 
 

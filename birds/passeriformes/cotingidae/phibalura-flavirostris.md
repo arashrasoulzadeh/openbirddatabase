@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/phibalura-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/725221092
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725221092/original.jpg
+images:
+- file: images/passeriformes/cotingidae/phibalura-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/725221092
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725221092/original.jpg
+- file: images/passeriformes/cotingidae/phibalura-flavirostris/2.jpg
+  page: https://www.inaturalist.org/photos/729374460
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729374460/original.jpg
+- file: images/passeriformes/cotingidae/phibalura-flavirostris/3.jpg
+  page: https://www.inaturalist.org/photos/590066976
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590066976/original.jpg
+- file: images/passeriformes/cotingidae/phibalura-flavirostris/4.jpg
+  page: https://www.inaturalist.org/photos/348821821
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348821821/original.jpeg
+- file: images/passeriformes/cotingidae/phibalura-flavirostris/5.jpg
+  page: https://www.inaturalist.org/photos/442336563
+  author: Victor Farjalla Pontes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442336563/original.jpg
 ---
 
 

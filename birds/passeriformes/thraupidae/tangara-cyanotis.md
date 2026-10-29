@@ -140,8 +140,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-cyanotis/1.jpg
+  page: https://www.inaturalist.org/photos/224908388
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224908388/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-cyanotis/1.jpg
+  page: https://www.inaturalist.org/photos/224908388
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224908388/original.jpg
+- file: images/passeriformes/thraupidae/tangara-cyanotis/2.jpg
+  page: https://www.inaturalist.org/photos/227127640
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227127640/original.jpeg
 ---
 
 

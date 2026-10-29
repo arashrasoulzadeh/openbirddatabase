@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/poospiza-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/530905746
+  author: Gabriel Brachetti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530905746/original.jpg
+images:
+- file: images/passeriformes/thraupidae/poospiza-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/530905746
+  author: Gabriel Brachetti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530905746/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-ornata/2.jpg
+  page: https://www.inaturalist.org/photos/594406920
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594406920/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-ornata/3.jpg
+  page: https://www.inaturalist.org/photos/378363082
+  author: Jose Luis Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378363082/original.jpeg
+- file: images/passeriformes/thraupidae/poospiza-ornata/4.jpg
+  page: https://www.inaturalist.org/photos/413726347
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413726347/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-ornata/5.jpg
+  page: https://www.inaturalist.org/photos/407783657
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407783657/original.jpeg
 ---
 
 

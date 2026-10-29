@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/piranga-erythrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/616532609
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616532609/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/piranga-erythrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/616532609
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616532609/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-erythrocephala/2.jpg
+  page: https://www.inaturalist.org/photos/464041923
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464041923/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-erythrocephala/3.jpg
+  page: https://www.inaturalist.org/photos/467638661
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467638661/original.jpeg
+- file: images/passeriformes/cardinalidae/piranga-erythrocephala/4.jpg
+  page: https://www.inaturalist.org/photos/477024960
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477024960/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-erythrocephala/5.jpg
+  page: https://www.inaturalist.org/photos/556311715
+  author: emma reader-lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556311715/original.jpg
 ---
 
 

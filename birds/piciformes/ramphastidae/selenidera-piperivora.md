@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/selenidera-piperivora/1.jpg
+  page: https://www.inaturalist.org/photos/717102120
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717102120/original.jpg
+images:
+- file: images/piciformes/ramphastidae/selenidera-piperivora/1.jpg
+  page: https://www.inaturalist.org/photos/717102120
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717102120/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-piperivora/2.jpg
+  page: https://www.inaturalist.org/photos/467934723
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467934723/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-piperivora/3.jpg
+  page: https://www.inaturalist.org/photos/609951451
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951451/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-piperivora/4.jpg
+  page: https://www.inaturalist.org/photos/422134049
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422134049/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-piperivora/5.jpg
+  page: https://www.inaturalist.org/photos/468261388
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468261388/original.jpeg
 ---
 
 

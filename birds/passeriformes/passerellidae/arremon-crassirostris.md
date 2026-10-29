@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/615479133
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615479133/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/615479133
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615479133/original.jpg
+- file: images/passeriformes/passerellidae/arremon-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/707786035
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707786035/original.jpg
+- file: images/passeriformes/passerellidae/arremon-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/555844308
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555844308/original.jpg
+- file: images/passeriformes/passerellidae/arremon-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/357565648
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357565648/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/458898099
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458898099/original.jpg
 ---
 
 

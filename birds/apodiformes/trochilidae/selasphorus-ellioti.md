@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/selasphorus-ellioti/1.jpg
+  page: https://www.inaturalist.org/photos/488107816
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488107816/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/selasphorus-ellioti/1.jpg
+  page: https://www.inaturalist.org/photos/488107816
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488107816/original.jpeg
+- file: images/apodiformes/trochilidae/selasphorus-ellioti/2.jpg
+  page: https://www.inaturalist.org/photos/605838109
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605838109/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-ellioti/3.jpg
+  page: https://www.inaturalist.org/photos/605142782
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605142782/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-ellioti/4.jpg
+  page: https://www.inaturalist.org/photos/353914788
+  author: Sobeida Morales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353914788/original.jpeg
+- file: images/apodiformes/trochilidae/selasphorus-ellioti/5.jpg
+  page: https://www.inaturalist.org/photos/439931794
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439931794/original.jpg
 ---
 
 

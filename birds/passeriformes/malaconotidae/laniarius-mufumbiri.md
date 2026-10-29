@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/laniarius-mufumbiri/1.jpg
+  page: https://www.inaturalist.org/photos/592494662
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592494662/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/laniarius-mufumbiri/1.jpg
+  page: https://www.inaturalist.org/photos/592494662
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592494662/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-mufumbiri/2.jpg
+  page: https://www.inaturalist.org/photos/394750006
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394750006/original.jpeg
+- file: images/passeriformes/malaconotidae/laniarius-mufumbiri/3.jpg
+  page: https://www.inaturalist.org/photos/253880046
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253880046/original.jpeg
+- file: images/passeriformes/malaconotidae/laniarius-mufumbiri/4.jpg
+  page: https://www.inaturalist.org/photos/259486119
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259486119/original.jpeg
+- file: images/passeriformes/malaconotidae/laniarius-mufumbiri/5.jpg
+  page: https://www.inaturalist.org/photos/41873946
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/41873946/original.jpeg
 ---
 
 

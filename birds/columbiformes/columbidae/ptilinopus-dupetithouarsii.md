@@ -140,8 +140,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-dupetithouarsii/1.jpg
+  page: https://www.inaturalist.org/photos/335748511
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335748511/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-dupetithouarsii/1.jpg
+  page: https://www.inaturalist.org/photos/335748511
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335748511/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-dupetithouarsii/2.jpg
+  page: https://www.inaturalist.org/photos/335748520
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335748520/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-dupetithouarsii/3.jpg
+  page: https://www.inaturalist.org/photos/335748550
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335748550/original.jpg
 ---
 
 

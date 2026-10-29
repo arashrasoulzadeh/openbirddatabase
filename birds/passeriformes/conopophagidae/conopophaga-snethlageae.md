@@ -126,8 +126,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/conopophagidae/conopophaga-snethlageae/1.jpg
+  page: https://www.inaturalist.org/photos/444836660
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444836660/original.jpeg
+images:
+- file: images/passeriformes/conopophagidae/conopophaga-snethlageae/1.jpg
+  page: https://www.inaturalist.org/photos/444836660
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444836660/original.jpeg
+- file: images/passeriformes/conopophagidae/conopophaga-snethlageae/2.jpg
+  page: https://www.inaturalist.org/photos/418618925
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418618925/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-snethlageae/3.jpg
+  page: https://www.inaturalist.org/photos/444836640
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444836640/original.jpeg
+- file: images/passeriformes/conopophagidae/conopophaga-snethlageae/4.jpg
+  page: https://www.inaturalist.org/photos/444836642
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444836642/original.jpeg
+- file: images/passeriformes/conopophagidae/conopophaga-snethlageae/5.jpg
+  page: https://www.inaturalist.org/photos/444836658
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444836658/original.jpeg
 ---
 
 

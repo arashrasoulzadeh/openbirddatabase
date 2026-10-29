@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/sublegatus-arenarum/1.jpg
+  page: https://www.inaturalist.org/photos/608763992
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763992/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/sublegatus-arenarum/1.jpg
+  page: https://www.inaturalist.org/photos/608763992
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763992/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-arenarum/2.jpg
+  page: https://www.inaturalist.org/photos/605931564
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605931564/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-arenarum/3.jpg
+  page: https://www.inaturalist.org/photos/635890394
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635890394/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-arenarum/4.jpg
+  page: https://www.inaturalist.org/photos/712718122
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712718122/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-arenarum/5.jpg
+  page: https://www.inaturalist.org/photos/464041812
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464041812/original.jpg
 ---
 
 

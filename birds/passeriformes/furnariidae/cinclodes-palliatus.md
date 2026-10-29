@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cinclodes-palliatus/1.jpg
+  page: https://www.inaturalist.org/photos/601130115
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601130115/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cinclodes-palliatus/1.jpg
+  page: https://www.inaturalist.org/photos/601130115
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601130115/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-palliatus/2.jpg
+  page: https://www.inaturalist.org/photos/593383765
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593383765/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-palliatus/3.jpg
+  page: https://www.inaturalist.org/photos/176088272
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176088272/original.jpeg
+- file: images/passeriformes/furnariidae/cinclodes-palliatus/4.jpg
+  page: https://www.inaturalist.org/photos/601130095
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601130095/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-palliatus/5.jpg
+  page: https://www.inaturalist.org/photos/601130093
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601130093/original.jpg
 ---
 
 

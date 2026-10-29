@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-atripennis/1.jpg
+  page: https://www.inaturalist.org/photos/449097494
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449097494/original.jpeg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-atripennis/1.jpg
+  page: https://www.inaturalist.org/photos/449097494
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449097494/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-atripennis/2.jpg
+  page: https://www.inaturalist.org/photos/260263586
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260263586/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-atripennis/3.jpg
+  page: https://www.inaturalist.org/photos/197712895
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/197712895/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-atripennis/4.jpg
+  page: https://www.inaturalist.org/photos/74467043
+  author: renjus box
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/74467043/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-atripennis/5.jpg
+  page: https://www.inaturalist.org/photos/132645051
+  author: Renjith Jacob Mathews
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/132645051/original.jpeg
 ---
 
 

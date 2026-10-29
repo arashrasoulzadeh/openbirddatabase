@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/mackenziaena-severa/1.jpg
+  page: https://www.inaturalist.org/photos/627807253
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627807253/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/mackenziaena-severa/1.jpg
+  page: https://www.inaturalist.org/photos/627807253
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627807253/original.jpg
+- file: images/passeriformes/thamnophilidae/mackenziaena-severa/2.jpg
+  page: https://www.inaturalist.org/photos/730113135
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730113135/original.jpg
+- file: images/passeriformes/thamnophilidae/mackenziaena-severa/3.jpg
+  page: https://www.inaturalist.org/photos/478133346
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478133346/original.jpeg
+- file: images/passeriformes/thamnophilidae/mackenziaena-severa/4.jpg
+  page: https://www.inaturalist.org/photos/509705293
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509705293/original.jpg
+- file: images/passeriformes/thamnophilidae/mackenziaena-severa/5.jpg
+  page: https://www.inaturalist.org/photos/560112351
+  author: Gabriel Brachetti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560112351/original.jpg
 ---
 
 

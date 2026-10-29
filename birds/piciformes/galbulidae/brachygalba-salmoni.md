@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/brachygalba-salmoni/1.jpg
+  page: https://www.inaturalist.org/photos/639234787
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639234787/original.jpg
+images:
+- file: images/piciformes/galbulidae/brachygalba-salmoni/1.jpg
+  page: https://www.inaturalist.org/photos/639234787
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639234787/original.jpg
+- file: images/piciformes/galbulidae/brachygalba-salmoni/2.jpg
+  page: https://www.inaturalist.org/photos/576148097
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576148097/original.jpg
+- file: images/piciformes/galbulidae/brachygalba-salmoni/3.jpg
+  page: https://www.inaturalist.org/photos/597741695
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597741695/original.jpg
+- file: images/piciformes/galbulidae/brachygalba-salmoni/4.jpg
+  page: https://www.inaturalist.org/photos/354031280
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354031280/original.jpg
+- file: images/piciformes/galbulidae/brachygalba-salmoni/5.jpg
+  page: https://www.inaturalist.org/photos/414718280
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414718280/original.jpg
 ---
 
 

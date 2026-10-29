@@ -148,8 +148,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/spelaeornis-caudatus/1.jpg
+  page: https://www.inaturalist.org/photos/364949788
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364949788/original.jpeg
+images:
+- file: images/passeriformes/timaliidae/spelaeornis-caudatus/1.jpg
+  page: https://www.inaturalist.org/photos/364949788
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364949788/original.jpeg
+- file: images/passeriformes/timaliidae/spelaeornis-caudatus/2.jpg
+  page: https://www.inaturalist.org/photos/395651456
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651456/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/chlorophoneus-nigrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/716650852
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650852/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/chlorophoneus-nigrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/716650852
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650852/original.jpg
+- file: images/passeriformes/malaconotidae/chlorophoneus-nigrifrons/2.jpg
+  page: https://www.inaturalist.org/photos/582570404
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582570404/original.jpg
+- file: images/passeriformes/malaconotidae/chlorophoneus-nigrifrons/3.jpg
+  page: https://www.inaturalist.org/photos/475926691
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475926691/original.jpg
+- file: images/passeriformes/malaconotidae/chlorophoneus-nigrifrons/4.jpg
+  page: https://www.inaturalist.org/photos/266586892
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266586892/original.jpeg
+- file: images/passeriformes/malaconotidae/chlorophoneus-nigrifrons/5.jpg
+  page: https://www.inaturalist.org/photos/716650875
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650875/original.jpg
 ---
 
 

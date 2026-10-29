@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/conopophagidae/conopophaga-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/610446182
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610446182/original.jpg
+images:
+- file: images/passeriformes/conopophagidae/conopophaga-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/610446182
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610446182/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-melanops/2.jpg
+  page: https://www.inaturalist.org/photos/611671317
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611671317/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-melanops/3.jpg
+  page: https://www.inaturalist.org/photos/653774742
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653774742/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-melanops/4.jpg
+  page: https://www.inaturalist.org/photos/670662578
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670662578/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-melanops/5.jpg
+  page: https://www.inaturalist.org/photos/686812200
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686812200/original.jpg
 ---
 
 

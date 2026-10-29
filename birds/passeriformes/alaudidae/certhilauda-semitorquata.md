@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/certhilauda-semitorquata/1.jpg
+  page: https://www.inaturalist.org/photos/364201204
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364201204/original.jpeg
+images:
+- file: images/passeriformes/alaudidae/certhilauda-semitorquata/1.jpg
+  page: https://www.inaturalist.org/photos/364201204
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364201204/original.jpeg
+- file: images/passeriformes/alaudidae/certhilauda-semitorquata/2.jpg
+  page: https://www.inaturalist.org/photos/615245376
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615245376/original.jpg
+- file: images/passeriformes/alaudidae/certhilauda-semitorquata/3.jpg
+  page: https://www.inaturalist.org/photos/301799866
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/301799866/original.jpeg
+- file: images/passeriformes/alaudidae/certhilauda-semitorquata/4.jpg
+  page: https://www.inaturalist.org/photos/206000480
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/206000480/original.jpeg
+- file: images/passeriformes/alaudidae/certhilauda-semitorquata/5.jpg
+  page: https://www.inaturalist.org/photos/105934332
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105934332/original.jpg
 ---
 
 

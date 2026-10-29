@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 31
+image:
+  file: images/columbiformes/columbidae/zenaida-macroura/1.jpg
+  page: https://www.inaturalist.org/photos/604932539
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604932539/original.jpg
+images:
+- file: images/columbiformes/columbidae/zenaida-macroura/1.jpg
+  page: https://www.inaturalist.org/photos/604932539
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604932539/original.jpg
+- file: images/columbiformes/columbidae/zenaida-macroura/2.jpg
+  page: https://www.inaturalist.org/photos/605229012
+  author: Bill Keim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605229012/original.jpg
+- file: images/columbiformes/columbidae/zenaida-macroura/3.jpg
+  page: https://www.inaturalist.org/photos/605506383
+  author: Luke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605506383/original.jpg
+- file: images/columbiformes/columbidae/zenaida-macroura/4.jpg
+  page: https://www.inaturalist.org/photos/604630593
+  author: Sam Kieschnick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604630593/original.jpg
+- file: images/columbiformes/columbidae/zenaida-macroura/5.jpg
+  page: https://www.inaturalist.org/photos/604913228
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604913228/original.jpg
 ---
 
 

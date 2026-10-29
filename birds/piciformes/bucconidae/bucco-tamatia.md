@@ -133,7 +133,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 29.6
@@ -143,6 +144,44 @@ morphology:
   body_mass_g: 35.5
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/piciformes/bucconidae/bucco-tamatia/1.jpg
+  page: https://www.inaturalist.org/photos/716619045
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716619045/original.jpg
+images:
+- file: images/piciformes/bucconidae/bucco-tamatia/1.jpg
+  page: https://www.inaturalist.org/photos/716619045
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716619045/original.jpg
+- file: images/piciformes/bucconidae/bucco-tamatia/2.jpg
+  page: https://www.inaturalist.org/photos/467934724
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467934724/original.jpg
+- file: images/piciformes/bucconidae/bucco-tamatia/3.jpg
+  page: https://www.inaturalist.org/photos/467892048
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467892048/original.jpeg
+- file: images/piciformes/bucconidae/bucco-tamatia/4.jpg
+  page: https://www.inaturalist.org/photos/338440892
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338440892/original.jpg
+- file: images/piciformes/bucconidae/bucco-tamatia/5.jpg
+  page: https://www.inaturalist.org/photos/336643792
+  author: Soetjipto Verkuijl
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336643792/original.jpeg
 ---
 
 

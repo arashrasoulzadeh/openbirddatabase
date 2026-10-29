@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/anseriformes/anatidae/branta-bernicla/1.jpg
+  page: https://www.inaturalist.org/photos/605507762
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605507762/original.jpg
+images:
+- file: images/anseriformes/anatidae/branta-bernicla/1.jpg
+  page: https://www.inaturalist.org/photos/605507762
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605507762/original.jpg
+- file: images/anseriformes/anatidae/branta-bernicla/2.jpg
+  page: https://www.inaturalist.org/photos/605164363
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605164363/original.jpg
+- file: images/anseriformes/anatidae/branta-bernicla/3.jpg
+  page: https://www.inaturalist.org/photos/604810618
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604810618/original.jpg
+- file: images/anseriformes/anatidae/branta-bernicla/4.jpg
+  page: https://www.inaturalist.org/photos/605005778
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605005778/original.jpg
+- file: images/anseriformes/anatidae/branta-bernicla/5.jpg
+  page: https://www.inaturalist.org/photos/604470377
+  author: Richard Shirky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604470377/original.jpg
 ---
 
 

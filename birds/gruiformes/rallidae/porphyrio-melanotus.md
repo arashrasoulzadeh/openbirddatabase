@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/porphyrio-melanotus/1.jpg
+  page: https://www.inaturalist.org/photos/605533101
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605533101/original.jpg
+images:
+- file: images/gruiformes/rallidae/porphyrio-melanotus/1.jpg
+  page: https://www.inaturalist.org/photos/605533101
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605533101/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-melanotus/2.jpg
+  page: https://www.inaturalist.org/photos/605000918
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605000918/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-melanotus/3.jpg
+  page: https://www.inaturalist.org/photos/605240115
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605240115/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-melanotus/4.jpg
+  page: https://www.inaturalist.org/photos/610777808
+  author: Tom Beard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610777808/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-melanotus/5.jpg
+  page: https://www.inaturalist.org/photos/610146077
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146077/original.jpg
 ---
 
 

@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/columbiformes/columbidae/zenaida-meloda/1.jpg
+  page: https://www.inaturalist.org/photos/608729577
+  author: Antonio W. Salas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608729577/original.jpg
+images:
+- file: images/columbiformes/columbidae/zenaida-meloda/1.jpg
+  page: https://www.inaturalist.org/photos/608729577
+  author: Antonio W. Salas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608729577/original.jpg
+- file: images/columbiformes/columbidae/zenaida-meloda/2.jpg
+  page: https://www.inaturalist.org/photos/607207016
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607207016/original.jpg
+- file: images/columbiformes/columbidae/zenaida-meloda/3.jpg
+  page: https://www.inaturalist.org/photos/609673677
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609673677/original.jpg
+- file: images/columbiformes/columbidae/zenaida-meloda/4.jpg
+  page: https://www.inaturalist.org/photos/607824085
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607824085/original.jpg
+- file: images/columbiformes/columbidae/zenaida-meloda/5.jpg
+  page: https://www.inaturalist.org/photos/606910066
+  author: Ellky Arteta Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606910066/original.jpg
 ---
 
 

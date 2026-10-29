@@ -129,7 +129,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 20.4
@@ -144,6 +145,44 @@ reproduction:
   clutch_size_mean: 5.0
   broods_per_year: 1
   fledging_days: 13
+image:
+  file: images/passeriformes/icteridae/icterus-bullockii/1.jpg
+  page: https://www.inaturalist.org/photos/609350689
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609350689/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-bullockii/1.jpg
+  page: https://www.inaturalist.org/photos/609350689
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609350689/original.jpg
+- file: images/passeriformes/icteridae/icterus-bullockii/2.jpg
+  page: https://www.inaturalist.org/photos/609324018
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609324018/original.jpg
+- file: images/passeriformes/icteridae/icterus-bullockii/3.jpg
+  page: https://www.inaturalist.org/photos/613076213
+  author: Spencer Hurt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613076213/original.jpg
+- file: images/passeriformes/icteridae/icterus-bullockii/4.jpg
+  page: https://www.inaturalist.org/photos/615637482
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615637482/original.jpg
+- file: images/passeriformes/icteridae/icterus-bullockii/5.jpg
+  page: https://www.inaturalist.org/photos/620699384
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620699384/original.jpg
 ---
 
 

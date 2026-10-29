@@ -139,8 +139,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/gracupica-jalla/1.jpg
+  page: https://www.inaturalist.org/photos/611839952
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611839952/original.jpg
+images:
+- file: images/passeriformes/sturnidae/gracupica-jalla/1.jpg
+  page: https://www.inaturalist.org/photos/611839952
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611839952/original.jpg
+- file: images/passeriformes/sturnidae/gracupica-jalla/2.jpg
+  page: https://www.inaturalist.org/photos/612364387
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612364387/original.jpg
+- file: images/passeriformes/sturnidae/gracupica-jalla/3.jpg
+  page: https://www.inaturalist.org/photos/611926053
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611926053/original.jpg
+- file: images/passeriformes/sturnidae/gracupica-jalla/4.jpg
+  page: https://www.inaturalist.org/photos/622356992
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356992/original.jpg
+- file: images/passeriformes/sturnidae/gracupica-jalla/5.jpg
+  page: https://www.inaturalist.org/photos/622259574
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622259574/original.jpg
 ---
 
 

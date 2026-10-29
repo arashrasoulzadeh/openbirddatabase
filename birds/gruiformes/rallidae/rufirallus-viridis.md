@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rufirallus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/604179580
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604179580/original.jpg
+images:
+- file: images/gruiformes/rallidae/rufirallus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/604179580
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604179580/original.jpg
+- file: images/gruiformes/rallidae/rufirallus-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/351358078
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351358078/original.jpg
+- file: images/gruiformes/rallidae/rufirallus-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/358004386
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358004386/original.jpg
+- file: images/gruiformes/rallidae/rufirallus-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/457724475
+  author: Bruno Siqueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457724475/original.jpg
+- file: images/gruiformes/rallidae/rufirallus-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/266564508
+  author: Ariel Gallego
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266564508/original.jpeg
 ---
 
 

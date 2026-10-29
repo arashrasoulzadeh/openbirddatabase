@@ -133,7 +133,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 18.7
@@ -141,6 +142,44 @@ morphology:
   wing_length_mm: 78.4
   tail_length_mm: 62.8
   body_mass_g: 28.3
+image:
+  file: images/passeriformes/muscicapidae/monticola-erythronotus/1.jpg
+  page: https://www.inaturalist.org/photos/581305956
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581305956/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-erythronotus/1.jpg
+  page: https://www.inaturalist.org/photos/581305956
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581305956/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-erythronotus/2.jpg
+  page: https://www.inaturalist.org/photos/493767681
+  author: Borja Fierro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493767681/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-erythronotus/3.jpg
+  page: https://www.inaturalist.org/photos/173025676
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173025676/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-erythronotus/4.jpg
+  page: https://www.inaturalist.org/photos/17162523
+  author: James Hardcastle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17162523/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-erythronotus/5.jpg
+  page: https://www.inaturalist.org/photos/581306045
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581306045/original.jpg
 ---
 
 

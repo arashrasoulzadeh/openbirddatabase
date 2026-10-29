@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/urocissa-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/626647107
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626647107/original.jpg
+images:
+- file: images/passeriformes/corvidae/urocissa-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/626647107
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626647107/original.jpg
+- file: images/passeriformes/corvidae/urocissa-flavirostris/2.jpg
+  page: https://www.inaturalist.org/photos/657329110
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657329110/original.jpg
+- file: images/passeriformes/corvidae/urocissa-flavirostris/3.jpg
+  page: https://www.inaturalist.org/photos/660818468
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660818468/original.jpg
+- file: images/passeriformes/corvidae/urocissa-flavirostris/4.jpg
+  page: https://www.inaturalist.org/photos/724624937
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724624937/original.jpg
+- file: images/passeriformes/corvidae/urocissa-flavirostris/5.jpg
+  page: https://www.inaturalist.org/photos/657329209
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657329209/original.jpg
 ---
 
 

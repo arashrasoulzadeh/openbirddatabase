@@ -140,8 +140,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-nicolli/1.jpg
+  page: https://www.inaturalist.org/photos/588315329
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588315329/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-nicolli/1.jpg
+  page: https://www.inaturalist.org/photos/588315329
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588315329/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-nicolli/2.jpg
+  page: https://www.inaturalist.org/photos/255465077
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255465077/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-nicolli/3.jpg
+  page: https://www.inaturalist.org/photos/477672630
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477672630/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-nicolli/4.jpg
+  page: https://www.inaturalist.org/photos/477672624
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477672624/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-nicolli/5.jpg
+  page: https://www.inaturalist.org/photos/477672634
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477672634/original.jpg
 ---
 
 

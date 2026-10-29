@@ -147,8 +147,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-rufofuscus/1.jpg
+  page: https://www.inaturalist.org/photos/608408742
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608408742/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-rufofuscus/1.jpg
+  page: https://www.inaturalist.org/photos/608408742
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608408742/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-rufofuscus/2.jpg
+  page: https://www.inaturalist.org/photos/606409796
+  author: Kisha Langeveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606409796/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-rufofuscus/3.jpg
+  page: https://www.inaturalist.org/photos/611848657
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611848657/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-rufofuscus/4.jpg
+  page: https://www.inaturalist.org/photos/611015361
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611015361/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-rufofuscus/5.jpg
+  page: https://www.inaturalist.org/photos/613371389
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613371389/original.jpg
 ---
 
 

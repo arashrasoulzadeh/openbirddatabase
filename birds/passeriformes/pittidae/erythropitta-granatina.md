@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/erythropitta-granatina/1.jpg
+  page: https://www.inaturalist.org/photos/612574874
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612574874/original.jpg
+images:
+- file: images/passeriformes/pittidae/erythropitta-granatina/1.jpg
+  page: https://www.inaturalist.org/photos/612574874
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612574874/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-granatina/2.jpg
+  page: https://www.inaturalist.org/photos/638066120
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638066120/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-granatina/3.jpg
+  page: https://www.inaturalist.org/photos/468415625
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468415625/original.jpeg
+- file: images/passeriformes/pittidae/erythropitta-granatina/4.jpg
+  page: https://www.inaturalist.org/photos/414843148
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414843148/original.jpeg
+- file: images/passeriformes/pittidae/erythropitta-granatina/5.jpg
+  page: https://www.inaturalist.org/photos/342511651
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342511651/original.jpg
 ---
 
 

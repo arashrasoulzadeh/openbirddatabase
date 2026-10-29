@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-hyposticta/1.jpg
+  page: https://www.inaturalist.org/photos/700860743
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700860743/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-hyposticta/1.jpg
+  page: https://www.inaturalist.org/photos/700860743
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700860743/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-hyposticta/2.jpg
+  page: https://www.inaturalist.org/photos/582681135
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582681135/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-hyposticta/3.jpg
+  page: https://www.inaturalist.org/photos/446500403
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500403/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-hyposticta/4.jpg
+  page: https://www.inaturalist.org/photos/261928878
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261928878/original.jpeg
+- file: images/passeriformes/fringillidae/crithagra-hyposticta/5.jpg
+  page: https://www.inaturalist.org/photos/475689247
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475689247/original.jpg
 ---
 
 

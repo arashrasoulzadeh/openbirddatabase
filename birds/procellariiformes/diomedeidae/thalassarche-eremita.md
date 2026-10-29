@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/procellariiformes/diomedeidae/thalassarche-eremita/1.jpg
+  page: https://www.inaturalist.org/photos/638071265
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638071265/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/thalassarche-eremita/1.jpg
+  page: https://www.inaturalist.org/photos/638071265
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638071265/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-eremita/2.jpg
+  page: https://www.inaturalist.org/photos/534113243
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534113243/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-eremita/3.jpg
+  page: https://www.inaturalist.org/photos/344177185
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344177185/original.png
+- file: images/procellariiformes/diomedeidae/thalassarche-eremita/4.jpg
+  page: https://www.inaturalist.org/photos/384292910
+  author: Mark Fraser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/384292910/original.jpeg
+- file: images/procellariiformes/diomedeidae/thalassarche-eremita/5.jpg
+  page: https://www.inaturalist.org/photos/638071266
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638071266/original.jpg
 ---
 
 

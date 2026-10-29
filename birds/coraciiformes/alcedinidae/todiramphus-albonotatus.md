@@ -141,8 +141,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-albonotatus/1.jpg
+  page: https://www.inaturalist.org/photos/582202629
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582202629/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-albonotatus/1.jpg
+  page: https://www.inaturalist.org/photos/582202629
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582202629/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-albonotatus/2.jpg
+  page: https://www.inaturalist.org/photos/50661529
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50661529/original.jpg
 ---
 
 

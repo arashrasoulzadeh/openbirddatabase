@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/artamus-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/703267758
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703267758/original.jpg
+images:
+- file: images/passeriformes/artamidae/artamus-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/703267758
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703267758/original.jpg
+- file: images/passeriformes/artamidae/artamus-superciliosus/2.jpg
+  page: https://www.inaturalist.org/photos/720114750
+  author: Paul Coddington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720114750/original.jpg
+- file: images/passeriformes/artamidae/artamus-superciliosus/3.jpg
+  page: https://www.inaturalist.org/photos/469839788
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469839788/original.jpeg
+- file: images/passeriformes/artamidae/artamus-superciliosus/4.jpg
+  page: https://www.inaturalist.org/photos/469839782
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469839782/original.jpeg
+- file: images/passeriformes/artamidae/artamus-superciliosus/5.jpg
+  page: https://www.inaturalist.org/photos/469840141
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469840141/original.jpeg
 ---
 
 

@@ -132,8 +132,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-pseudosimplex/1.jpg
+  page: https://www.inaturalist.org/photos/422322486
+  author: Andrew Durso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422322486/original.jpeg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-pseudosimplex/1.jpg
+  page: https://www.inaturalist.org/photos/422322486
+  author: Andrew Durso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422322486/original.jpeg
+- file: images/passeriformes/pycnonotidae/pycnonotus-pseudosimplex/2.jpg
+  page: https://www.inaturalist.org/photos/461238260
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461238260/original.jpeg
+- file: images/passeriformes/pycnonotidae/pycnonotus-pseudosimplex/3.jpg
+  page: https://www.inaturalist.org/photos/268083303
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268083303/original.png
+- file: images/passeriformes/pycnonotidae/pycnonotus-pseudosimplex/4.jpg
+  page: https://www.inaturalist.org/photos/59949345
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59949345/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-pseudosimplex/5.jpg
+  page: https://www.inaturalist.org/photos/422319007
+  author: Andrew Durso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422319007/original.jpeg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/pseudocolaptes-lawrencii/1.jpg
+  page: https://www.inaturalist.org/photos/680393776
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680393776/original.jpg
+images:
+- file: images/passeriformes/furnariidae/pseudocolaptes-lawrencii/1.jpg
+  page: https://www.inaturalist.org/photos/680393776
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680393776/original.jpg
+- file: images/passeriformes/furnariidae/pseudocolaptes-lawrencii/2.jpg
+  page: https://www.inaturalist.org/photos/691129546
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691129546/original.jpg
+- file: images/passeriformes/furnariidae/pseudocolaptes-lawrencii/3.jpg
+  page: https://www.inaturalist.org/photos/350270656
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350270656/original.jpg
+- file: images/passeriformes/furnariidae/pseudocolaptes-lawrencii/4.jpg
+  page: https://www.inaturalist.org/photos/419857974
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419857974/original.jpeg
+- file: images/passeriformes/furnariidae/pseudocolaptes-lawrencii/5.jpg
+  page: https://www.inaturalist.org/photos/450366546
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450366546/original.jpeg
 ---
 
 

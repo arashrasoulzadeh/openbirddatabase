@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cinclodes-nigrofumosus/1.jpg
+  page: https://www.inaturalist.org/photos/607558047
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607558047/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cinclodes-nigrofumosus/1.jpg
+  page: https://www.inaturalist.org/photos/607558047
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607558047/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-nigrofumosus/2.jpg
+  page: https://www.inaturalist.org/photos/609897533
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609897533/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-nigrofumosus/3.jpg
+  page: https://www.inaturalist.org/photos/617749064
+  author: Nutri Gabi Barrera
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617749064/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-nigrofumosus/4.jpg
+  page: https://www.inaturalist.org/photos/626033823
+  author: Max Alejandro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626033823/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-nigrofumosus/5.jpg
+  page: https://www.inaturalist.org/photos/681813802
+  author: Rodrigo Castillo Tapia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681813802/original.jpg
 ---
 
 

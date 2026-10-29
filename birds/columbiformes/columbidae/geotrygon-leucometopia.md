@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geotrygon-leucometopia/1.jpg
+  page: https://www.inaturalist.org/photos/609776877
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609776877/original.jpg
+images:
+- file: images/columbiformes/columbidae/geotrygon-leucometopia/1.jpg
+  page: https://www.inaturalist.org/photos/609776877
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609776877/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-leucometopia/2.jpg
+  page: https://www.inaturalist.org/photos/474981309
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474981309/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-leucometopia/3.jpg
+  page: https://www.inaturalist.org/photos/261733714
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261733714/original.jpeg
+- file: images/columbiformes/columbidae/geotrygon-leucometopia/4.jpg
+  page: https://www.inaturalist.org/photos/343346820
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343346820/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-leucometopia/5.jpg
+  page: https://www.inaturalist.org/photos/120630337
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120630337/original.jpeg
 ---
 
 

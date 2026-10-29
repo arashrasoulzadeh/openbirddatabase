@@ -134,8 +134,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/caligavis-subfrenata/1.jpg
+  page: https://www.inaturalist.org/photos/699765476
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699765476/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/caligavis-subfrenata/1.jpg
+  page: https://www.inaturalist.org/photos/699765476
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699765476/original.jpg
+- file: images/passeriformes/meliphagidae/caligavis-subfrenata/2.jpg
+  page: https://www.inaturalist.org/photos/717851534
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717851534/original.jpg
+- file: images/passeriformes/meliphagidae/caligavis-subfrenata/3.jpg
+  page: https://www.inaturalist.org/photos/699765488
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699765488/original.jpg
+- file: images/passeriformes/meliphagidae/caligavis-subfrenata/4.jpg
+  page: https://www.inaturalist.org/photos/699765492
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699765492/original.jpg
 ---
 
 

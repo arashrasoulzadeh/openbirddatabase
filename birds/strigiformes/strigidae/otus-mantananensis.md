@@ -150,10 +150,31 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/strigiformes/strigidae/otus-mantananensis/1.jpg
+  page: https://www.inaturalist.org/photos/176116823
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176116823/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-mantananensis/1.jpg
+  page: https://www.inaturalist.org/photos/176116823
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176116823/original.jpg
+- file: images/strigiformes/strigidae/otus-mantananensis/2.jpg
+  page: https://www.inaturalist.org/photos/198782306
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782306/original.jpg
 ---
 
 

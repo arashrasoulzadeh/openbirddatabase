@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-nainus/1.jpg
+  page: https://www.inaturalist.org/photos/555797133
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555797133/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-nainus/1.jpg
+  page: https://www.inaturalist.org/photos/555797133
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555797133/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-nainus/2.jpg
+  page: https://www.inaturalist.org/photos/573002674
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573002674/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-nainus/3.jpg
+  page: https://www.inaturalist.org/photos/611943880
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611943880/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-nainus/4.jpg
+  page: https://www.inaturalist.org/photos/325614504
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/325614504/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-nainus/5.jpg
+  page: https://www.inaturalist.org/photos/573002672
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573002672/original.jpg
 ---
 
 

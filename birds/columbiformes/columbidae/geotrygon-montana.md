@@ -182,8 +182,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geotrygon-montana/1.jpg
+  page: https://www.inaturalist.org/photos/608629073
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608629073/original.jpg
+images:
+- file: images/columbiformes/columbidae/geotrygon-montana/1.jpg
+  page: https://www.inaturalist.org/photos/608629073
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608629073/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-montana/2.jpg
+  page: https://www.inaturalist.org/photos/618073846
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618073846/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-montana/3.jpg
+  page: https://www.inaturalist.org/photos/612982945
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612982945/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-montana/4.jpg
+  page: https://www.inaturalist.org/photos/625548027
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625548027/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-montana/5.jpg
+  page: https://www.inaturalist.org/photos/638906631
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638906631/original.jpg
 ---
 
 

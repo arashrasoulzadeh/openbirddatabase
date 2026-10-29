@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/nettapus-coromandelianus/1.jpg
+  page: https://www.inaturalist.org/photos/730075175
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730075175/original.jpg
+images:
+- file: images/anseriformes/anatidae/nettapus-coromandelianus/1.jpg
+  page: https://www.inaturalist.org/photos/730075175
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730075175/original.jpg
+- file: images/anseriformes/anatidae/nettapus-coromandelianus/2.jpg
+  page: https://www.inaturalist.org/photos/615431539
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615431539/original.jpg
+- file: images/anseriformes/anatidae/nettapus-coromandelianus/3.jpg
+  page: https://www.inaturalist.org/photos/615641579
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615641579/original.jpg
+- file: images/anseriformes/anatidae/nettapus-coromandelianus/4.jpg
+  page: https://www.inaturalist.org/photos/623726314
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623726314/original.jpg
+- file: images/anseriformes/anatidae/nettapus-coromandelianus/5.jpg
+  page: https://www.inaturalist.org/photos/623639212
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623639212/original.jpg
 ---
 
 

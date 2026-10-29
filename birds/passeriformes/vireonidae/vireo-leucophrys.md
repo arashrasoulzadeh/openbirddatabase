@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/vireonidae/vireo-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/610572594
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610572594/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/610572594
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610572594/original.jpg
+- file: images/passeriformes/vireonidae/vireo-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/601332557
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601332557/original.jpg
+- file: images/passeriformes/vireonidae/vireo-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/479479898
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479479898/original.jpeg
+- file: images/passeriformes/vireonidae/vireo-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/484298117
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484298117/original.jpg
+- file: images/passeriformes/vireonidae/vireo-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/503995189
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503995189/original.jpeg
 ---
 
 

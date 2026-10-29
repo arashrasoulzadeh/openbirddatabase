@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/panyptila-cayennensis/1.jpg
+  page: https://www.inaturalist.org/photos/618428499
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618428499/original.jpg
+images:
+- file: images/apodiformes/apodidae/panyptila-cayennensis/1.jpg
+  page: https://www.inaturalist.org/photos/618428499
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618428499/original.jpg
+- file: images/apodiformes/apodidae/panyptila-cayennensis/2.jpg
+  page: https://www.inaturalist.org/photos/625548468
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625548468/original.jpg
+- file: images/apodiformes/apodidae/panyptila-cayennensis/3.jpg
+  page: https://www.inaturalist.org/photos/722823663
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722823663/original.jpg
+- file: images/apodiformes/apodidae/panyptila-cayennensis/4.jpg
+  page: https://www.inaturalist.org/photos/742192868
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742192868/original.jpg
+- file: images/apodiformes/apodidae/panyptila-cayennensis/5.jpg
+  page: https://www.inaturalist.org/photos/468969866
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468969866/original.jpg
 ---
 
 

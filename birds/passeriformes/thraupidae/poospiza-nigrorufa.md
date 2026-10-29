@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/poospiza-nigrorufa/1.jpg
+  page: https://www.inaturalist.org/photos/608004024
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608004024/original.jpg
+images:
+- file: images/passeriformes/thraupidae/poospiza-nigrorufa/1.jpg
+  page: https://www.inaturalist.org/photos/608004024
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608004024/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-nigrorufa/2.jpg
+  page: https://www.inaturalist.org/photos/660484737
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660484737/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-nigrorufa/3.jpg
+  page: https://www.inaturalist.org/photos/670225267
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670225267/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-nigrorufa/4.jpg
+  page: https://www.inaturalist.org/photos/679130441
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679130441/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-nigrorufa/5.jpg
+  page: https://www.inaturalist.org/photos/728249191
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728249191/original.jpg
 ---
 
 

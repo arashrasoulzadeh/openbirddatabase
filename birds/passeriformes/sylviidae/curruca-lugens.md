@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-lugens/1.jpg
+  page: https://www.inaturalist.org/photos/514188727
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514188727/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-lugens/1.jpg
+  page: https://www.inaturalist.org/photos/514188727
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514188727/original.jpg
+- file: images/passeriformes/sylviidae/curruca-lugens/2.jpg
+  page: https://www.inaturalist.org/photos/584549209
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584549209/original.jpg
+- file: images/passeriformes/sylviidae/curruca-lugens/3.jpg
+  page: https://www.inaturalist.org/photos/476162832
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476162832/original.jpg
+- file: images/passeriformes/sylviidae/curruca-lugens/4.jpg
+  page: https://www.inaturalist.org/photos/177259996
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177259996/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-lugens/5.jpg
+  page: https://www.inaturalist.org/photos/11878190
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/11878190/original.jpeg
 ---
 
 

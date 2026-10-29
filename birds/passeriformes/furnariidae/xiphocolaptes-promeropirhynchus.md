@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/xiphocolaptes-promeropirhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/605649292
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605649292/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xiphocolaptes-promeropirhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/605649292
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605649292/original.jpg
+- file: images/passeriformes/furnariidae/xiphocolaptes-promeropirhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/729179189
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729179189/original.jpg
+- file: images/passeriformes/furnariidae/xiphocolaptes-promeropirhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/470043912
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470043912/original.jpeg
+- file: images/passeriformes/furnariidae/xiphocolaptes-promeropirhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/555363848
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555363848/original.jpg
+- file: images/passeriformes/furnariidae/xiphocolaptes-promeropirhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/590971256
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590971256/original.jpg
 ---
 
 

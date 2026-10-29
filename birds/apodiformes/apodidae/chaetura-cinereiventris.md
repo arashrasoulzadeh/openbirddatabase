@@ -156,8 +156,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/chaetura-cinereiventris/1.jpg
+  page: https://www.inaturalist.org/photos/634709469
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634709469/original.jpg
+images:
+- file: images/apodiformes/apodidae/chaetura-cinereiventris/1.jpg
+  page: https://www.inaturalist.org/photos/634709469
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634709469/original.jpg
+- file: images/apodiformes/apodidae/chaetura-cinereiventris/2.jpg
+  page: https://www.inaturalist.org/photos/667286230
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667286230/original.jpg
+- file: images/apodiformes/apodidae/chaetura-cinereiventris/3.jpg
+  page: https://www.inaturalist.org/photos/682761447
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682761447/original.jpg
+- file: images/apodiformes/apodidae/chaetura-cinereiventris/4.jpg
+  page: https://www.inaturalist.org/photos/505654504
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505654504/original.jpg
+- file: images/apodiformes/apodidae/chaetura-cinereiventris/5.jpg
+  page: https://www.inaturalist.org/photos/509432141
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509432141/original.jpg
 ---
 
 

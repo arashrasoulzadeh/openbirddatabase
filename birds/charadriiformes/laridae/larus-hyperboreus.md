@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/charadriiformes/laridae/larus-hyperboreus/1.jpg
+  page: https://www.inaturalist.org/photos/604695525
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604695525/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-hyperboreus/1.jpg
+  page: https://www.inaturalist.org/photos/604695525
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604695525/original.jpg
+- file: images/charadriiformes/laridae/larus-hyperboreus/2.jpg
+  page: https://www.inaturalist.org/photos/604614983
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604614983/original.jpg
+- file: images/charadriiformes/laridae/larus-hyperboreus/3.jpg
+  page: https://www.inaturalist.org/photos/606391483
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606391483/original.jpg
+- file: images/charadriiformes/laridae/larus-hyperboreus/4.jpg
+  page: https://www.inaturalist.org/photos/610739294
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610739294/original.jpg
+- file: images/charadriiformes/laridae/larus-hyperboreus/5.jpg
+  page: https://www.inaturalist.org/photos/607908008
+  author: Russell Parsons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607908008/original.jpg
 ---
 
 

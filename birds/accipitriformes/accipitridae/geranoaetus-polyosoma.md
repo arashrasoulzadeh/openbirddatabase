@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/geranoaetus-polyosoma/1.jpg
+  page: https://www.inaturalist.org/photos/605210942
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210942/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/geranoaetus-polyosoma/1.jpg
+  page: https://www.inaturalist.org/photos/605210942
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210942/original.jpg
+- file: images/accipitriformes/accipitridae/geranoaetus-polyosoma/2.jpg
+  page: https://www.inaturalist.org/photos/610771899
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610771899/original.jpg
+- file: images/accipitriformes/accipitridae/geranoaetus-polyosoma/3.jpg
+  page: https://www.inaturalist.org/photos/608738668
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608738668/original.jpg
+- file: images/accipitriformes/accipitridae/geranoaetus-polyosoma/4.jpg
+  page: https://www.inaturalist.org/photos/610738059
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610738059/original.jpg
+- file: images/accipitriformes/accipitridae/geranoaetus-polyosoma/5.jpg
+  page: https://www.inaturalist.org/photos/605807786
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605807786/original.jpg
 ---
 
 

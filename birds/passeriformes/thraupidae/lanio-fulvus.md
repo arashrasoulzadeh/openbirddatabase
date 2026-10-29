@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/lanio-fulvus/1.jpg
+  page: https://www.inaturalist.org/photos/351775626
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351775626/original.jpg
+images:
+- file: images/passeriformes/thraupidae/lanio-fulvus/1.jpg
+  page: https://www.inaturalist.org/photos/351775626
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351775626/original.jpg
+- file: images/passeriformes/thraupidae/lanio-fulvus/2.jpg
+  page: https://www.inaturalist.org/photos/463387344
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463387344/original.jpeg
+- file: images/passeriformes/thraupidae/lanio-fulvus/3.jpg
+  page: https://www.inaturalist.org/photos/385922513
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385922513/original.jpg
+- file: images/passeriformes/thraupidae/lanio-fulvus/4.jpg
+  page: https://www.inaturalist.org/photos/430000826
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/430000826/original.jpg
+- file: images/passeriformes/thraupidae/lanio-fulvus/5.jpg
+  page: https://www.inaturalist.org/photos/584118627
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584118627/original.jpg
 ---
 
 

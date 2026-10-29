@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/knipolegus-aterrimus/1.jpg
+  page: https://www.inaturalist.org/photos/608285419
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608285419/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/knipolegus-aterrimus/1.jpg
+  page: https://www.inaturalist.org/photos/608285419
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608285419/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-aterrimus/2.jpg
+  page: https://www.inaturalist.org/photos/625441652
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625441652/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-aterrimus/3.jpg
+  page: https://www.inaturalist.org/photos/635548162
+  author: Ricardo Medel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635548162/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-aterrimus/4.jpg
+  page: https://www.inaturalist.org/photos/650751239
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650751239/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-aterrimus/5.jpg
+  page: https://www.inaturalist.org/photos/659627274
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659627274/original.jpg
 ---
 
 

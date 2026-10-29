@@ -208,10 +208,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/motacillidae/motacilla-flava/1.jpg
+  page: https://www.inaturalist.org/photos/609421900
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609421900/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-flava/1.jpg
+  page: https://www.inaturalist.org/photos/609421900
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609421900/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-flava/2.jpg
+  page: https://www.inaturalist.org/photos/610342860
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610342860/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-flava/3.jpg
+  page: https://www.inaturalist.org/photos/612456773
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456773/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-flava/4.jpg
+  page: https://www.inaturalist.org/photos/614553481
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553481/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-flava/5.jpg
+  page: https://www.inaturalist.org/photos/609422096
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609422096/original.jpg
 ---
 
 

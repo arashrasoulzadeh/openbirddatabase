@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/charadriiformes/burhinidae/burhinus-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/612639975
+  author: Chen Jia Hong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612639975/original.jpg
+images:
+- file: images/charadriiformes/burhinidae/burhinus-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/612639975
+  author: Chen Jia Hong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612639975/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-indicus/2.jpg
+  page: https://www.inaturalist.org/photos/632316683
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632316683/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-indicus/3.jpg
+  page: https://www.inaturalist.org/photos/637921552
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637921552/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-indicus/4.jpg
+  page: https://www.inaturalist.org/photos/634406340
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634406340/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-indicus/5.jpg
+  page: https://www.inaturalist.org/photos/612639998
+  author: Chen Jia Hong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612639998/original.jpg
 ---
 
 

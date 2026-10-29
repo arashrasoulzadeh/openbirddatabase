@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 9.5
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 108.0
   tail_length_mm: 56.6
   body_mass_g: 17.0
+image:
+  file: images/passeriformes/hirundinidae/tachycineta-euchrysea/1.jpg
+  page: https://www.inaturalist.org/photos/605772263
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605772263/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/tachycineta-euchrysea/1.jpg
+  page: https://www.inaturalist.org/photos/605772263
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605772263/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-euchrysea/2.jpg
+  page: https://www.inaturalist.org/photos/340597362
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340597362/original.jpeg
+- file: images/passeriformes/hirundinidae/tachycineta-euchrysea/3.jpg
+  page: https://www.inaturalist.org/photos/343559767
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343559767/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-euchrysea/4.jpg
+  page: https://www.inaturalist.org/photos/605771690
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605771690/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-euchrysea/5.jpg
+  page: https://www.inaturalist.org/photos/607518216
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518216/original.jpg
 ---
 
 

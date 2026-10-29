@@ -165,10 +165,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/passeriformes/oriolidae/oriolus-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/607137163
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137163/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/607137163
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137163/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-chinensis/2.jpg
+  page: https://www.inaturalist.org/photos/610145035
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610145035/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-chinensis/3.jpg
+  page: https://www.inaturalist.org/photos/609695880
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609695880/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-chinensis/4.jpg
+  page: https://www.inaturalist.org/photos/608090799
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608090799/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-chinensis/5.jpg
+  page: https://www.inaturalist.org/photos/608638855
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608638855/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/mycerobas-icterioides/1.jpg
+  page: https://www.inaturalist.org/photos/685131179
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685131179/original.jpg
+images:
+- file: images/passeriformes/fringillidae/mycerobas-icterioides/1.jpg
+  page: https://www.inaturalist.org/photos/685131179
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685131179/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-icterioides/2.jpg
+  page: https://www.inaturalist.org/photos/286764098
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286764098/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-icterioides/3.jpg
+  page: https://www.inaturalist.org/photos/180102551
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180102551/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-icterioides/4.jpg
+  page: https://www.inaturalist.org/photos/286764119
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286764119/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-icterioides/5.jpg
+  page: https://www.inaturalist.org/photos/180102610
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180102610/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/doryfera-ludovicae/1.jpg
+  page: https://www.inaturalist.org/photos/706641805
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706641805/original.jpg
+images:
+- file: images/apodiformes/trochilidae/doryfera-ludovicae/1.jpg
+  page: https://www.inaturalist.org/photos/706641805
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706641805/original.jpg
+- file: images/apodiformes/trochilidae/doryfera-ludovicae/2.jpg
+  page: https://www.inaturalist.org/photos/636133877
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636133877/original.jpg
+- file: images/apodiformes/trochilidae/doryfera-ludovicae/3.jpg
+  page: https://www.inaturalist.org/photos/742564120
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742564120/original.jpg
+- file: images/apodiformes/trochilidae/doryfera-ludovicae/4.jpg
+  page: https://www.inaturalist.org/photos/538785768
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538785768/original.jpg
+- file: images/apodiformes/trochilidae/doryfera-ludovicae/5.jpg
+  page: https://www.inaturalist.org/photos/469752763
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469752763/original.jpeg
 ---
 
 

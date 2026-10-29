@@ -141,8 +141,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/cyrtonyx-ocellatus/1.jpg
+  page: https://www.inaturalist.org/photos/482280902
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482280902/original.jpeg
+images:
+- file: images/galliformes/odontophoridae/cyrtonyx-ocellatus/1.jpg
+  page: https://www.inaturalist.org/photos/482280902
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482280902/original.jpeg
+- file: images/galliformes/odontophoridae/cyrtonyx-ocellatus/2.jpg
+  page: https://www.inaturalist.org/photos/157259264
+  author: Esteban Matías
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/157259264/original.jpeg
+- file: images/galliformes/odontophoridae/cyrtonyx-ocellatus/3.jpg
+  page: https://www.inaturalist.org/photos/182666361
+  author: Sobeida Morales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182666361/original.jpeg
+- file: images/galliformes/odontophoridae/cyrtonyx-ocellatus/4.jpg
+  page: https://www.inaturalist.org/photos/182666409
+  author: Sobeida Morales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182666409/original.jpeg
 ---
 
 

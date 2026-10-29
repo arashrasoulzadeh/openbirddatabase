@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 51
+image:
+  file: images/procellariiformes/procellariidae/puffinus-mauretanicus/1.jpg
+  page: https://www.inaturalist.org/photos/688828001
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688828001/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/puffinus-mauretanicus/1.jpg
+  page: https://www.inaturalist.org/photos/688828001
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688828001/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-mauretanicus/2.jpg
+  page: https://www.inaturalist.org/photos/676182033
+  author: Oscar Hazell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676182033/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-mauretanicus/3.jpg
+  page: https://www.inaturalist.org/photos/709742371
+  author: Ingmar Gaberle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709742371/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-mauretanicus/4.jpg
+  page: https://www.inaturalist.org/photos/722107856
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722107856/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-mauretanicus/5.jpg
+  page: https://www.inaturalist.org/photos/466848545
+  author: Luis Ferreira
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466848545/original.jpg
 ---
 
 

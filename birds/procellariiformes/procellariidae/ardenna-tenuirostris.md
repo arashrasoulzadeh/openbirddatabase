@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/ardenna-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/604760077
+  author: ttsquid
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604760077/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/ardenna-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/604760077
+  author: ttsquid
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604760077/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-tenuirostris/2.jpg
+  page: https://www.inaturalist.org/photos/604377465
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604377465/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-tenuirostris/3.jpg
+  page: https://www.inaturalist.org/photos/604418811
+  author: Roman Soroka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604418811/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-tenuirostris/4.jpg
+  page: https://www.inaturalist.org/photos/609777673
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609777673/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-tenuirostris/5.jpg
+  page: https://www.inaturalist.org/photos/614958032
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614958032/original.jpg
 ---
 
 

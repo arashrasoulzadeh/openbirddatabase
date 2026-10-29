@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-tyrannus/1.jpg
+  page: https://www.inaturalist.org/photos/628837327
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628837327/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-tyrannus/1.jpg
+  page: https://www.inaturalist.org/photos/628837327
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628837327/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-tyrannus/2.jpg
+  page: https://www.inaturalist.org/photos/631854327
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631854327/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-tyrannus/3.jpg
+  page: https://www.inaturalist.org/photos/633324478
+  author: willingarden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633324478/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-tyrannus/4.jpg
+  page: https://www.inaturalist.org/photos/634522376
+  author: Mike Tilley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634522376/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-tyrannus/5.jpg
+  page: https://www.inaturalist.org/photos/636559906
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636559906/original.jpg
 ---
 
 

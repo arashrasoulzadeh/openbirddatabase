@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/locustella-portenta/1.jpg
+  page: https://www.inaturalist.org/photos/435253919
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253919/original.jpeg
+images:
+- file: images/passeriformes/locustellidae/locustella-portenta/1.jpg
+  page: https://www.inaturalist.org/photos/435253919
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253919/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-portenta/2.jpg
+  page: https://www.inaturalist.org/photos/435253880
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253880/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-portenta/3.jpg
+  page: https://www.inaturalist.org/photos/435253899
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253899/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-portenta/4.jpg
+  page: https://www.inaturalist.org/photos/435253910
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253910/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-portenta/5.jpg
+  page: https://www.inaturalist.org/photos/435253911
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253911/original.jpeg
 ---
 
 

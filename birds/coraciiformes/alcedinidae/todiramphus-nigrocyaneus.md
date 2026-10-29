@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-nigrocyaneus/1.jpg
+  page: https://www.inaturalist.org/photos/578523008
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578523008/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-nigrocyaneus/1.jpg
+  page: https://www.inaturalist.org/photos/578523008
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578523008/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-nigrocyaneus/2.jpg
+  page: https://www.inaturalist.org/photos/618523448
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618523448/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-nigrocyaneus/3.jpg
+  page: https://www.inaturalist.org/photos/314867633
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314867633/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-nigrocyaneus/4.jpg
+  page: https://www.inaturalist.org/photos/338801266
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338801266/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-nigrocyaneus/5.jpg
+  page: https://www.inaturalist.org/photos/578523018
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578523018/original.jpg
 ---
 
 

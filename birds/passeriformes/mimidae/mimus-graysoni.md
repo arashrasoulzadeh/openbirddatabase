@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-graysoni/1.jpg
+  page: https://www.inaturalist.org/photos/191487263
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191487263/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-graysoni/1.jpg
+  page: https://www.inaturalist.org/photos/191487263
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191487263/original.jpg
+- file: images/passeriformes/mimidae/mimus-graysoni/2.jpg
+  page: https://www.inaturalist.org/photos/194504763
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/194504763/original.jpeg
+- file: images/passeriformes/mimidae/mimus-graysoni/3.jpg
+  page: https://www.inaturalist.org/photos/193642515
+  author: william_hoyer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/193642515/original.jpg
+- file: images/passeriformes/mimidae/mimus-graysoni/4.jpg
+  page: https://www.inaturalist.org/photos/191487278
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191487278/original.jpg
+- file: images/passeriformes/mimidae/mimus-graysoni/5.jpg
+  page: https://www.inaturalist.org/photos/191487302
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191487302/original.jpg
 ---
 
 

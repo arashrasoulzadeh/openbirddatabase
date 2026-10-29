@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-cruentatum/1.jpg
+  page: https://www.inaturalist.org/photos/608299921
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608299921/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-cruentatum/1.jpg
+  page: https://www.inaturalist.org/photos/608299921
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608299921/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-cruentatum/2.jpg
+  page: https://www.inaturalist.org/photos/609199021
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609199021/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-cruentatum/3.jpg
+  page: https://www.inaturalist.org/photos/610675554
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675554/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-cruentatum/4.jpg
+  page: https://www.inaturalist.org/photos/614236028
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614236028/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-cruentatum/5.jpg
+  page: https://www.inaturalist.org/photos/612055879
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612055879/original.jpg
 ---
 
 

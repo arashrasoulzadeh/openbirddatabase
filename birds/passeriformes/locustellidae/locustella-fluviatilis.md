@@ -184,10 +184,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/locustellidae/locustella-fluviatilis/1.jpg
+  page: https://www.inaturalist.org/photos/660926138
+  author: Михаил Малышев
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660926138/original.jpg
+images:
+- file: images/passeriformes/locustellidae/locustella-fluviatilis/1.jpg
+  page: https://www.inaturalist.org/photos/660926138
+  author: Михаил Малышев
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660926138/original.jpg
+- file: images/passeriformes/locustellidae/locustella-fluviatilis/2.jpg
+  page: https://www.inaturalist.org/photos/664889757
+  author: Ксения Волянская
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664889757/original.jpg
+- file: images/passeriformes/locustellidae/locustella-fluviatilis/3.jpg
+  page: https://www.inaturalist.org/photos/669819763
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669819763/original.jpg
+- file: images/passeriformes/locustellidae/locustella-fluviatilis/4.jpg
+  page: https://www.inaturalist.org/photos/669034151
+  author: Fyodor Pudovikov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669034151/original.jpg
+- file: images/passeriformes/locustellidae/locustella-fluviatilis/5.jpg
+  page: https://www.inaturalist.org/photos/670887074
+  author: Maija Mehto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670887074/original.jpg
 ---
 
 

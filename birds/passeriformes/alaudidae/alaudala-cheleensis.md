@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/alaudala-cheleensis/1.jpg
+  page: https://www.inaturalist.org/photos/687786936
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687786936/original.jpg
+images:
+- file: images/passeriformes/alaudidae/alaudala-cheleensis/1.jpg
+  page: https://www.inaturalist.org/photos/687786936
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687786936/original.jpg
+- file: images/passeriformes/alaudidae/alaudala-cheleensis/2.jpg
+  page: https://www.inaturalist.org/photos/703707049
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703707049/original.jpg
+- file: images/passeriformes/alaudidae/alaudala-cheleensis/3.jpg
+  page: https://www.inaturalist.org/photos/532255792
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532255792/original.jpg
+- file: images/passeriformes/alaudidae/alaudala-cheleensis/4.jpg
+  page: https://www.inaturalist.org/photos/565327193
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565327193/original.jpg
+- file: images/passeriformes/alaudidae/alaudala-cheleensis/5.jpg
+  page: https://www.inaturalist.org/photos/386560456
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386560456/original.jpeg
 ---
 
 

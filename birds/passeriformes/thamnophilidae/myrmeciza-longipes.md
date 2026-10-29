@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmeciza-longipes/1.jpg
+  page: https://www.inaturalist.org/photos/615583043
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615583043/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmeciza-longipes/1.jpg
+  page: https://www.inaturalist.org/photos/615583043
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615583043/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmeciza-longipes/2.jpg
+  page: https://www.inaturalist.org/photos/467122833
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467122833/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmeciza-longipes/3.jpg
+  page: https://www.inaturalist.org/photos/585409809
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585409809/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmeciza-longipes/4.jpg
+  page: https://www.inaturalist.org/photos/516878705
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516878705/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmeciza-longipes/5.jpg
+  page: https://www.inaturalist.org/photos/550456077
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550456077/original.jpg
 ---
 
 

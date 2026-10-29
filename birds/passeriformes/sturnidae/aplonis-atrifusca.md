@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/aplonis-atrifusca/1.jpg
+  page: https://www.inaturalist.org/photos/700021813
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700021813/original.jpg
+images:
+- file: images/passeriformes/sturnidae/aplonis-atrifusca/1.jpg
+  page: https://www.inaturalist.org/photos/700021813
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700021813/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-atrifusca/2.jpg
+  page: https://www.inaturalist.org/photos/728465366
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728465366/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-atrifusca/3.jpg
+  page: https://www.inaturalist.org/photos/488479297
+  author: Shelomi Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488479297/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-atrifusca/4.jpg
+  page: https://www.inaturalist.org/photos/409656405
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409656405/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-atrifusca/5.jpg
+  page: https://www.inaturalist.org/photos/27522564
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27522564/original.jpg
 ---
 
 

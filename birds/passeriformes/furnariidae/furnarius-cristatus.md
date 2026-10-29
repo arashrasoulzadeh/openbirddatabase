@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/furnarius-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/616002757
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616002757/original.jpg
+images:
+- file: images/passeriformes/furnariidae/furnarius-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/616002757
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616002757/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-cristatus/2.jpg
+  page: https://www.inaturalist.org/photos/637710008
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637710008/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-cristatus/3.jpg
+  page: https://www.inaturalist.org/photos/709295447
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709295447/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-cristatus/4.jpg
+  page: https://www.inaturalist.org/photos/723900683
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723900683/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-cristatus/5.jpg
+  page: https://www.inaturalist.org/photos/742851073
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742851073/original.jpg
 ---
 
 

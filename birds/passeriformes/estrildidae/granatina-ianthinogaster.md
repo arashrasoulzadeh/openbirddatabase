@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/granatina-ianthinogaster/1.jpg
+  page: https://www.inaturalist.org/photos/684099474
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684099474/original.jpg
+images:
+- file: images/passeriformes/estrildidae/granatina-ianthinogaster/1.jpg
+  page: https://www.inaturalist.org/photos/684099474
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684099474/original.jpg
+- file: images/passeriformes/estrildidae/granatina-ianthinogaster/2.jpg
+  page: https://www.inaturalist.org/photos/661805044
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661805044/original.jpg
+- file: images/passeriformes/estrildidae/granatina-ianthinogaster/3.jpg
+  page: https://www.inaturalist.org/photos/711401117
+  author: Mathew Rees
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711401117/original.jpg
+- file: images/passeriformes/estrildidae/granatina-ianthinogaster/4.jpg
+  page: https://www.inaturalist.org/photos/722478843
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722478843/original.jpg
+- file: images/passeriformes/estrildidae/granatina-ianthinogaster/5.jpg
+  page: https://www.inaturalist.org/photos/716131662
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716131662/original.jpg
 ---
 
 

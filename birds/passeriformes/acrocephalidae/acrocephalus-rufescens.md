@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/469382749
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469382749/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/469382749
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469382749/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-rufescens/2.jpg
+  page: https://www.inaturalist.org/photos/32884431
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/32884431/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-rufescens/3.jpg
+  page: https://www.inaturalist.org/photos/32884427
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/32884427/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-rufescens/4.jpg
+  page: https://www.inaturalist.org/photos/32884437
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/32884437/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-rufescens/5.jpg
+  page: https://www.inaturalist.org/photos/32884440
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/32884440/original.jpg
 ---
 
 

@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 24.6
@@ -136,6 +137,44 @@ morphology:
   wing_length_mm: 110.1
   tail_length_mm: 90.5
   body_mass_g: 68.0
+image:
+  file: images/passeriformes/campephagidae/celebesica-abbotti/1.jpg
+  page: https://www.inaturalist.org/photos/307627765
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307627765/original.jpg
+images:
+- file: images/passeriformes/campephagidae/celebesica-abbotti/1.jpg
+  page: https://www.inaturalist.org/photos/307627765
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307627765/original.jpg
+- file: images/passeriformes/campephagidae/celebesica-abbotti/2.jpg
+  page: https://www.inaturalist.org/photos/232589770
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232589770/original.jpeg
+- file: images/passeriformes/campephagidae/celebesica-abbotti/3.jpg
+  page: https://www.inaturalist.org/photos/64408218
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408218/original.jpg
+- file: images/passeriformes/campephagidae/celebesica-abbotti/4.jpg
+  page: https://www.inaturalist.org/photos/307627775
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307627775/original.jpg
+- file: images/passeriformes/campephagidae/celebesica-abbotti/5.jpg
+  page: https://www.inaturalist.org/photos/232589887
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232589887/original.jpeg
 ---
 
 

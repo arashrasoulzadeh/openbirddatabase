@@ -134,8 +134,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/geospiza-propinqua/1.jpg
+  page: https://www.inaturalist.org/photos/674476890
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674476890/original.jpg
+images:
+- file: images/passeriformes/thraupidae/geospiza-propinqua/1.jpg
+  page: https://www.inaturalist.org/photos/674476890
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674476890/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-propinqua/2.jpg
+  page: https://www.inaturalist.org/photos/559164298
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559164298/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-propinqua/3.jpg
+  page: https://www.inaturalist.org/photos/452108657
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452108657/original.jpeg
+- file: images/passeriformes/thraupidae/geospiza-propinqua/4.jpg
+  page: https://www.inaturalist.org/photos/287648497
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/287648497/original.jpeg
+- file: images/passeriformes/thraupidae/geospiza-propinqua/5.jpg
+  page: https://www.inaturalist.org/photos/132981142
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/132981142/original.jpeg
 ---
 
 

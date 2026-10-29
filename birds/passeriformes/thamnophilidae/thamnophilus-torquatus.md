@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/611955317
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611955317/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/611955317
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611955317/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/610140583
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610140583/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/711130504
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711130504/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/688666242
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688666242/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/733308421
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733308421/original.jpg
 ---
 
 

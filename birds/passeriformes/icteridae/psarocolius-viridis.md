@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/psarocolius-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/613970368
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613970368/original.jpg
+images:
+- file: images/passeriformes/icteridae/psarocolius-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/613970368
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613970368/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/468159445
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468159445/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/519444677
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519444677/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/600353245
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600353245/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/420916160
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420916160/original.jpeg
 ---
 
 

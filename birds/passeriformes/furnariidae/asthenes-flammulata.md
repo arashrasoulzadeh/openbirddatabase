@@ -142,10 +142,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/asthenes-flammulata/1.jpg
+  page: https://www.inaturalist.org/photos/706139184
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706139184/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-flammulata/1.jpg
+  page: https://www.inaturalist.org/photos/706139184
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706139184/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-flammulata/2.jpg
+  page: https://www.inaturalist.org/photos/548639684
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548639684/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-flammulata/3.jpg
+  page: https://www.inaturalist.org/photos/394104273
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394104273/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-flammulata/4.jpg
+  page: https://www.inaturalist.org/photos/446198188
+  author: Ken-ichi Ueda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446198188/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-flammulata/5.jpg
+  page: https://www.inaturalist.org/photos/264009702
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264009702/original.jpg
 ---
 
 

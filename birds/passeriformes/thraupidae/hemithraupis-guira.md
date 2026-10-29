@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/hemithraupis-guira/1.jpg
+  page: https://www.inaturalist.org/photos/625137522
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625137522/original.jpg
+images:
+- file: images/passeriformes/thraupidae/hemithraupis-guira/1.jpg
+  page: https://www.inaturalist.org/photos/625137522
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625137522/original.jpg
+- file: images/passeriformes/thraupidae/hemithraupis-guira/2.jpg
+  page: https://www.inaturalist.org/photos/633219795
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633219795/original.jpg
+- file: images/passeriformes/thraupidae/hemithraupis-guira/3.jpg
+  page: https://www.inaturalist.org/photos/691464975
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691464975/original.jpg
+- file: images/passeriformes/thraupidae/hemithraupis-guira/4.jpg
+  page: https://www.inaturalist.org/photos/728201144
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728201144/original.jpg
+- file: images/passeriformes/thraupidae/hemithraupis-guira/5.jpg
+  page: https://www.inaturalist.org/photos/709572503
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709572503/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-longicaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/608729270
+  author: Antonio W. Salas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608729270/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-longicaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/608729270
+  author: Antonio W. Salas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608729270/original.jpg
+- file: images/passeriformes/mimidae/mimus-longicaudatus/2.jpg
+  page: https://www.inaturalist.org/photos/608659355
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608659355/original.jpg
+- file: images/passeriformes/mimidae/mimus-longicaudatus/3.jpg
+  page: https://www.inaturalist.org/photos/610304560
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610304560/original.jpg
+- file: images/passeriformes/mimidae/mimus-longicaudatus/4.jpg
+  page: https://www.inaturalist.org/photos/611793386
+  author: Sebastián Sánchez Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611793386/original.jpg
+- file: images/passeriformes/mimidae/mimus-longicaudatus/5.jpg
+  page: https://www.inaturalist.org/photos/612588783
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612588783/original.jpg
 ---
 
 

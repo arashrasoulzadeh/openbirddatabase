@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/heterophasia-desgodinsi/1.jpg
+  page: https://www.inaturalist.org/photos/463722044
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463722044/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/heterophasia-desgodinsi/1.jpg
+  page: https://www.inaturalist.org/photos/463722044
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463722044/original.jpeg
+- file: images/passeriformes/leiothrichidae/heterophasia-desgodinsi/2.jpg
+  page: https://www.inaturalist.org/photos/518050864
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518050864/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-desgodinsi/3.jpg
+  page: https://www.inaturalist.org/photos/518011527
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518011527/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-desgodinsi/4.jpg
+  page: https://www.inaturalist.org/photos/478958533
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478958533/original.jpeg
+- file: images/passeriformes/leiothrichidae/heterophasia-desgodinsi/5.jpg
+  page: https://www.inaturalist.org/photos/479295783
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479295783/original.jpeg
 ---
 
 

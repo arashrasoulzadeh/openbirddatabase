@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.2
@@ -149,6 +150,38 @@ morphology:
   wing_length_mm: 49.5
   tail_length_mm: 39.5
   body_mass_g: 13.3
+image:
+  file: images/passeriformes/estrildidae/lonchura-teerinki/1.jpg
+  page: https://www.inaturalist.org/photos/569378837
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569378837/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-teerinki/1.jpg
+  page: https://www.inaturalist.org/photos/569378837
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569378837/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-teerinki/2.jpg
+  page: https://www.inaturalist.org/photos/569378857
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569378857/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-teerinki/3.jpg
+  page: https://www.inaturalist.org/photos/569379012
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569379012/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-teerinki/4.jpg
+  page: https://www.inaturalist.org/photos/569389791
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569389791/original.jpg
 ---
 
 

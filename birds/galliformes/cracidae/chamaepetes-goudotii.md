@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/chamaepetes-goudotii/1.jpg
+  page: https://www.inaturalist.org/photos/610855127
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610855127/original.jpg
+images:
+- file: images/galliformes/cracidae/chamaepetes-goudotii/1.jpg
+  page: https://www.inaturalist.org/photos/610855127
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610855127/original.jpg
+- file: images/galliformes/cracidae/chamaepetes-goudotii/2.jpg
+  page: https://www.inaturalist.org/photos/612469889
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612469889/original.jpg
+- file: images/galliformes/cracidae/chamaepetes-goudotii/3.jpg
+  page: https://www.inaturalist.org/photos/623006024
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623006024/original.jpg
+- file: images/galliformes/cracidae/chamaepetes-goudotii/4.jpg
+  page: https://www.inaturalist.org/photos/652810162
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652810162/original.jpg
+- file: images/galliformes/cracidae/chamaepetes-goudotii/5.jpg
+  page: https://www.inaturalist.org/photos/699773289
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699773289/original.jpg
 ---
 
 

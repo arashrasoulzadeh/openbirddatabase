@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/mixornis-bornensis/1.jpg
+  page: https://www.inaturalist.org/photos/679112182
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679112182/original.jpg
+images:
+- file: images/passeriformes/timaliidae/mixornis-bornensis/1.jpg
+  page: https://www.inaturalist.org/photos/679112182
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679112182/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-bornensis/2.jpg
+  page: https://www.inaturalist.org/photos/582539862
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582539862/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-bornensis/3.jpg
+  page: https://www.inaturalist.org/photos/598245591
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598245591/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-bornensis/4.jpg
+  page: https://www.inaturalist.org/photos/390616826
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390616826/original.jpeg
+- file: images/passeriformes/timaliidae/mixornis-bornensis/5.jpg
+  page: https://www.inaturalist.org/photos/679112188
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679112188/original.jpg
 ---
 
 

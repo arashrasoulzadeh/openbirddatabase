@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/tyrannidae/empidonax-alnorum/1.jpg
+  page: https://www.inaturalist.org/photos/667777348
+  author: worldbird
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667777348/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonax-alnorum/1.jpg
+  page: https://www.inaturalist.org/photos/667777348
+  author: worldbird
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667777348/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-alnorum/2.jpg
+  page: https://www.inaturalist.org/photos/671346412
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671346412/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-alnorum/3.jpg
+  page: https://www.inaturalist.org/photos/674375776
+  author: Pam Hardy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674375776/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-alnorum/4.jpg
+  page: https://www.inaturalist.org/photos/681108157
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681108157/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-alnorum/5.jpg
+  page: https://www.inaturalist.org/photos/679843904
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679843904/original.jpg
 ---
 
 

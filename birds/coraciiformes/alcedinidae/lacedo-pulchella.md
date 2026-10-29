@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/lacedo-pulchella/1.jpg
+  page: https://www.inaturalist.org/photos/616152095
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152095/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/lacedo-pulchella/1.jpg
+  page: https://www.inaturalist.org/photos/616152095
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152095/original.jpg
+- file: images/coraciiformes/alcedinidae/lacedo-pulchella/2.jpg
+  page: https://www.inaturalist.org/photos/618849504
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849504/original.jpg
+- file: images/coraciiformes/alcedinidae/lacedo-pulchella/3.jpg
+  page: https://www.inaturalist.org/photos/618627687
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618627687/original.jpg
+- file: images/coraciiformes/alcedinidae/lacedo-pulchella/4.jpg
+  page: https://www.inaturalist.org/photos/621637072
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621637072/original.jpg
+- file: images/coraciiformes/alcedinidae/lacedo-pulchella/5.jpg
+  page: https://www.inaturalist.org/photos/626694409
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626694409/original.jpg
 ---
 
 

@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-treacheri/1.jpg
+  page: https://www.inaturalist.org/photos/620098066
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620098066/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-treacheri/1.jpg
+  page: https://www.inaturalist.org/photos/620098066
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620098066/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-treacheri/2.jpg
+  page: https://www.inaturalist.org/photos/679112014
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679112014/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-treacheri/3.jpg
+  page: https://www.inaturalist.org/photos/687441335
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687441335/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-treacheri/4.jpg
+  page: https://www.inaturalist.org/photos/717699032
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717699032/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-treacheri/5.jpg
+  page: https://www.inaturalist.org/photos/474678992
+  author: Mok Zhuang Yu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474678992/original.jpeg
 ---
 
 

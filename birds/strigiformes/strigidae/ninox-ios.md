@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-ios/1.jpg
+  page: https://www.inaturalist.org/photos/416842545
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416842545/original.jpeg
+images:
+- file: images/strigiformes/strigidae/ninox-ios/1.jpg
+  page: https://www.inaturalist.org/photos/416842545
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416842545/original.jpeg
+- file: images/strigiformes/strigidae/ninox-ios/2.jpg
+  page: https://www.inaturalist.org/photos/107803800
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107803800/original.jpg
+- file: images/strigiformes/strigidae/ninox-ios/3.jpg
+  page: https://www.inaturalist.org/photos/64408622
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408622/original.jpg
+- file: images/strigiformes/strigidae/ninox-ios/4.jpg
+  page: https://www.inaturalist.org/photos/64408620
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408620/original.jpg
+- file: images/strigiformes/strigidae/ninox-ios/5.jpg
+  page: https://www.inaturalist.org/photos/64408626
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408626/original.jpg
 ---
 
 

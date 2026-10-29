@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ispidina-lecontei/1.jpg
+  page: https://www.inaturalist.org/photos/565281756
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565281756/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ispidina-lecontei/1.jpg
+  page: https://www.inaturalist.org/photos/565281756
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565281756/original.jpg
+- file: images/coraciiformes/alcedinidae/ispidina-lecontei/2.jpg
+  page: https://www.inaturalist.org/photos/394124084
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394124084/original.jpg
+- file: images/coraciiformes/alcedinidae/ispidina-lecontei/3.jpg
+  page: https://www.inaturalist.org/photos/63245166
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63245166/original.jpg
+- file: images/coraciiformes/alcedinidae/ispidina-lecontei/4.jpg
+  page: https://www.inaturalist.org/photos/106013451
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106013451/original.jpg
+- file: images/coraciiformes/alcedinidae/ispidina-lecontei/5.jpg
+  page: https://www.inaturalist.org/photos/565281759
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565281759/original.jpg
 ---
 
 

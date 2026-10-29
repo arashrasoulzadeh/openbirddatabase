@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/leistes-loyca/1.jpg
+  page: https://www.inaturalist.org/photos/604810658
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604810658/original.jpg
+images:
+- file: images/passeriformes/icteridae/leistes-loyca/1.jpg
+  page: https://www.inaturalist.org/photos/604810658
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604810658/original.jpg
+- file: images/passeriformes/icteridae/leistes-loyca/2.jpg
+  page: https://www.inaturalist.org/photos/606157365
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606157365/original.jpg
+- file: images/passeriformes/icteridae/leistes-loyca/3.jpg
+  page: https://www.inaturalist.org/photos/610269103
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610269103/original.jpg
+- file: images/passeriformes/icteridae/leistes-loyca/4.jpg
+  page: https://www.inaturalist.org/photos/610992327
+  author: Lauren L.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610992327/original.jpg
+- file: images/passeriformes/icteridae/leistes-loyca/5.jpg
+  page: https://www.inaturalist.org/photos/610559869
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610559869/original.jpg
 ---
 
 

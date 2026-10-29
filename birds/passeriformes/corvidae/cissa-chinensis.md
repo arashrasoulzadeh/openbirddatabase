@@ -156,8 +156,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cissa-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/728831551
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728831551/original.jpg
+images:
+- file: images/passeriformes/corvidae/cissa-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/728831551
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728831551/original.jpg
+- file: images/passeriformes/corvidae/cissa-chinensis/2.jpg
+  page: https://www.inaturalist.org/photos/624117815
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624117815/original.jpg
+- file: images/passeriformes/corvidae/cissa-chinensis/3.jpg
+  page: https://www.inaturalist.org/photos/628224311
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628224311/original.jpg
+- file: images/passeriformes/corvidae/cissa-chinensis/4.jpg
+  page: https://www.inaturalist.org/photos/469281588
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469281588/original.jpeg
+- file: images/passeriformes/corvidae/cissa-chinensis/5.jpg
+  page: https://www.inaturalist.org/photos/470934855
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470934855/original.jpeg
 ---
 
 

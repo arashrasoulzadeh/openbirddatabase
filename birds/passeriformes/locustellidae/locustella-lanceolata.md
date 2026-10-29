@@ -181,8 +181,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/locustella-lanceolata/1.jpg
+  page: https://www.inaturalist.org/photos/643159478
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643159478/original.jpg
+images:
+- file: images/passeriformes/locustellidae/locustella-lanceolata/1.jpg
+  page: https://www.inaturalist.org/photos/643159478
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643159478/original.jpg
+- file: images/passeriformes/locustellidae/locustella-lanceolata/2.jpg
+  page: https://www.inaturalist.org/photos/687669858
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687669858/original.jpg
+- file: images/passeriformes/locustellidae/locustella-lanceolata/3.jpg
+  page: https://www.inaturalist.org/photos/683376603
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683376603/original.jpg
+- file: images/passeriformes/locustellidae/locustella-lanceolata/4.jpg
+  page: https://www.inaturalist.org/photos/691054771
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691054771/original.jpg
+- file: images/passeriformes/locustellidae/locustella-lanceolata/5.jpg
+  page: https://www.inaturalist.org/photos/732241608
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732241608/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-amazonum/1.jpg
+  page: https://www.inaturalist.org/photos/591652299
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591652299/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-amazonum/1.jpg
+  page: https://www.inaturalist.org/photos/591652299
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591652299/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-amazonum/2.jpg
+  page: https://www.inaturalist.org/photos/444260059
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444260059/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-amazonum/3.jpg
+  page: https://www.inaturalist.org/photos/468921888
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468921888/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-amazonum/4.jpg
+  page: https://www.inaturalist.org/photos/601113762
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601113762/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-amazonum/5.jpg
+  page: https://www.inaturalist.org/photos/128017972
+  author: Mario Barroso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/128017972/original.jpg
 ---
 
 

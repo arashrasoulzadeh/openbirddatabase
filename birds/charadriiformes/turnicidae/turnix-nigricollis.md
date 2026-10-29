@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/468433240
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468433240/original.jpeg
+images:
+- file: images/charadriiformes/turnicidae/turnix-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/468433240
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468433240/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-nigricollis/2.jpg
+  page: https://www.inaturalist.org/photos/453288142
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453288142/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-nigricollis/3.jpg
+  page: https://www.inaturalist.org/photos/455475565
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455475565/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-nigricollis/4.jpg
+  page: https://www.inaturalist.org/photos/444302415
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444302415/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-nigricollis/5.jpg
+  page: https://www.inaturalist.org/photos/457052991
+  author: Louis Aureglia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457052991/original.jpeg
 ---
 
 

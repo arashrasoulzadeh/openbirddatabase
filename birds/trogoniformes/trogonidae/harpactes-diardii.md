@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/harpactes-diardii/1.jpg
+  page: https://www.inaturalist.org/photos/682439628
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682439628/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/harpactes-diardii/1.jpg
+  page: https://www.inaturalist.org/photos/682439628
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682439628/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-diardii/2.jpg
+  page: https://www.inaturalist.org/photos/475216986
+  author: Joss Carr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475216986/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-diardii/3.jpg
+  page: https://www.inaturalist.org/photos/580894499
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580894499/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-diardii/4.jpg
+  page: https://www.inaturalist.org/photos/599828361
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599828361/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-diardii/5.jpg
+  page: https://www.inaturalist.org/photos/388466998
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388466998/original.jpeg
 ---
 
 

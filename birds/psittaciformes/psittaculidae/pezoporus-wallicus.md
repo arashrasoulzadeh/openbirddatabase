@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/psittaciformes/psittaculidae/pezoporus-wallicus/1.jpg
+  page: https://www.inaturalist.org/photos/473449793
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473449793/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/pezoporus-wallicus/1.jpg
+  page: https://www.inaturalist.org/photos/473449793
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473449793/original.jpg
+- file: images/psittaciformes/psittaculidae/pezoporus-wallicus/2.jpg
+  page: https://www.inaturalist.org/photos/388188451
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388188451/original.jpeg
+- file: images/psittaciformes/psittaculidae/pezoporus-wallicus/3.jpg
+  page: https://www.inaturalist.org/photos/248451128
+  author: Matt Berger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248451128/original.jpg
+- file: images/psittaciformes/psittaculidae/pezoporus-wallicus/4.jpg
+  page: https://www.inaturalist.org/photos/113865228
+  author: Brendan Costello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113865228/original.jpeg
+- file: images/psittaciformes/psittaculidae/pezoporus-wallicus/5.jpg
+  page: https://www.inaturalist.org/photos/174342325
+  author: Max Campbell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174342325/original.jpeg
 ---
 
 

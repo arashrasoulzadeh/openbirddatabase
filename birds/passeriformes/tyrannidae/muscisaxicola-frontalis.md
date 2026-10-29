@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/489577060
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489577060/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/489577060
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489577060/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/483827876
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483827876/original.jpeg
+- file: images/passeriformes/tyrannidae/muscisaxicola-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/579574699
+  author: Francisco Liguori
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579574699/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/584817319
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584817319/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/369590438
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369590438/original.jpeg
 ---
 
 

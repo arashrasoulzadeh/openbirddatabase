@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/prunellidae/prunella-strophiata/1.jpg
+  page: https://www.inaturalist.org/photos/624113279
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624113279/original.jpg
+images:
+- file: images/passeriformes/prunellidae/prunella-strophiata/1.jpg
+  page: https://www.inaturalist.org/photos/624113279
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624113279/original.jpg
+- file: images/passeriformes/prunellidae/prunella-strophiata/2.jpg
+  page: https://www.inaturalist.org/photos/660816538
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660816538/original.jpg
+- file: images/passeriformes/prunellidae/prunella-strophiata/3.jpg
+  page: https://www.inaturalist.org/photos/565657412
+  author: Gary Yong Gee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565657412/original.jpg
+- file: images/passeriformes/prunellidae/prunella-strophiata/4.jpg
+  page: https://www.inaturalist.org/photos/483774567
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483774567/original.jpg
+- file: images/passeriformes/prunellidae/prunella-strophiata/5.jpg
+  page: https://www.inaturalist.org/photos/624113297
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624113297/original.jpg
 ---
 
 

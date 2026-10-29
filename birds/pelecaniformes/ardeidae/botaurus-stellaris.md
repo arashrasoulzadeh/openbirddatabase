@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/pelecaniformes/ardeidae/botaurus-stellaris/1.jpg
+  page: https://www.inaturalist.org/photos/605089887
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605089887/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/botaurus-stellaris/1.jpg
+  page: https://www.inaturalist.org/photos/605089887
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605089887/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-stellaris/2.jpg
+  page: https://www.inaturalist.org/photos/606232856
+  author: Marcello Manara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606232856/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-stellaris/3.jpg
+  page: https://www.inaturalist.org/photos/607096331
+  author: Andrejus Gaidamavičius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607096331/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-stellaris/4.jpg
+  page: https://www.inaturalist.org/photos/608720038
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608720038/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-stellaris/5.jpg
+  page: https://www.inaturalist.org/photos/607211318
+  author: Thomas Barrès
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607211318/original.jpg
 ---
 
 

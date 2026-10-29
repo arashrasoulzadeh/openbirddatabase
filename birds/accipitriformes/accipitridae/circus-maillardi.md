@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circus-maillardi/1.jpg
+  page: https://www.inaturalist.org/photos/462316530
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462316530/original.jpeg
+images:
+- file: images/accipitriformes/accipitridae/circus-maillardi/1.jpg
+  page: https://www.inaturalist.org/photos/462316530
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462316530/original.jpeg
+- file: images/accipitriformes/accipitridae/circus-maillardi/2.jpg
+  page: https://www.inaturalist.org/photos/540191591
+  author: Denis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540191591/original.jpg
+- file: images/accipitriformes/accipitridae/circus-maillardi/3.jpg
+  page: https://www.inaturalist.org/photos/551726235
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551726235/original.jpg
+- file: images/accipitriformes/accipitridae/circus-maillardi/4.jpg
+  page: https://www.inaturalist.org/photos/286853439
+  author: Théo Porcheron-Georget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286853439/original.jpg
+- file: images/accipitriformes/accipitridae/circus-maillardi/5.jpg
+  page: https://www.inaturalist.org/photos/462316538
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462316538/original.jpeg
 ---
 
 

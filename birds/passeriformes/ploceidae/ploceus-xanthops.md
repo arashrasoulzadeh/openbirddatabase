@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-xanthops/1.jpg
+  page: https://www.inaturalist.org/photos/605338123
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605338123/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-xanthops/1.jpg
+  page: https://www.inaturalist.org/photos/605338123
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605338123/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-xanthops/2.jpg
+  page: https://www.inaturalist.org/photos/619038833
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619038833/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-xanthops/3.jpg
+  page: https://www.inaturalist.org/photos/666579194
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666579194/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-xanthops/4.jpg
+  page: https://www.inaturalist.org/photos/468877286
+  author: Robert Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468877286/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-xanthops/5.jpg
+  page: https://www.inaturalist.org/photos/619047428
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619047428/original.jpg
 ---
 
 

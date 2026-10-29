@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-vitiensis/1.jpg
+  page: https://www.inaturalist.org/photos/700021794
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700021794/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-vitiensis/1.jpg
+  page: https://www.inaturalist.org/photos/700021794
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700021794/original.jpg
+- file: images/columbiformes/columbidae/columba-vitiensis/2.jpg
+  page: https://www.inaturalist.org/photos/727592301
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727592301/original.jpg
+- file: images/columbiformes/columbidae/columba-vitiensis/3.jpg
+  page: https://www.inaturalist.org/photos/550816385
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550816385/original.jpg
+- file: images/columbiformes/columbidae/columba-vitiensis/4.jpg
+  page: https://www.inaturalist.org/photos/586531858
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586531858/original.jpg
+- file: images/columbiformes/columbidae/columba-vitiensis/5.jpg
+  page: https://www.inaturalist.org/photos/604280020
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604280020/original.jpg
 ---
 
 

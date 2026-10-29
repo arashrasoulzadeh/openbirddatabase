@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/locustella-thoracica/1.jpg
+  page: https://www.inaturalist.org/photos/521762185
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762185/original.jpg
+images:
+- file: images/passeriformes/locustellidae/locustella-thoracica/1.jpg
+  page: https://www.inaturalist.org/photos/521762185
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762185/original.jpg
+- file: images/passeriformes/locustellidae/locustella-thoracica/2.jpg
+  page: https://www.inaturalist.org/photos/483427706
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483427706/original.jpg
+- file: images/passeriformes/locustellidae/locustella-thoracica/3.jpg
+  page: https://www.inaturalist.org/photos/348394309
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348394309/original.jpg
+- file: images/passeriformes/locustellidae/locustella-thoracica/4.jpg
+  page: https://www.inaturalist.org/photos/521762206
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762206/original.jpg
+- file: images/passeriformes/locustellidae/locustella-thoracica/5.jpg
+  page: https://www.inaturalist.org/photos/348395857
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348395857/original.jpg
 ---
 
 

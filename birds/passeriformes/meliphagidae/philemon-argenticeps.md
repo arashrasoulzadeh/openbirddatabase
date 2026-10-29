@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/philemon-argenticeps/1.jpg
+  page: https://www.inaturalist.org/photos/743079480
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743079480/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/philemon-argenticeps/1.jpg
+  page: https://www.inaturalist.org/photos/743079480
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743079480/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-argenticeps/2.jpg
+  page: https://www.inaturalist.org/photos/739529007
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739529007/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-argenticeps/3.jpg
+  page: https://www.inaturalist.org/photos/535889019
+  author: pimelea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535889019/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-argenticeps/4.jpg
+  page: https://www.inaturalist.org/photos/743033393
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743033393/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-argenticeps/5.jpg
+  page: https://www.inaturalist.org/photos/739523962
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739523962/original.jpg
 ---
 
 

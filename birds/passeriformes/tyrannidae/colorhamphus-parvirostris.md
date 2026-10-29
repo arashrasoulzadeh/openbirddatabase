@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/colorhamphus-parvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/617313499
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617313499/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/colorhamphus-parvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/617313499
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617313499/original.jpg
+- file: images/passeriformes/tyrannidae/colorhamphus-parvirostris/2.jpg
+  page: https://www.inaturalist.org/photos/634480095
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634480095/original.jpg
+- file: images/passeriformes/tyrannidae/colorhamphus-parvirostris/3.jpg
+  page: https://www.inaturalist.org/photos/665182709
+  author: Jonathan Curley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665182709/original.jpg
+- file: images/passeriformes/tyrannidae/colorhamphus-parvirostris/4.jpg
+  page: https://www.inaturalist.org/photos/699402271
+  author: Perrito Chiquitito
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699402271/original.jpg
+- file: images/passeriformes/tyrannidae/colorhamphus-parvirostris/5.jpg
+  page: https://www.inaturalist.org/photos/717390883
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717390883/original.jpg
 ---
 
 

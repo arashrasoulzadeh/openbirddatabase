@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/cotinga-amabilis/1.jpg
+  page: https://www.inaturalist.org/photos/194460069
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/194460069/original.jpg
+images:
+- file: images/passeriformes/cotingidae/cotinga-amabilis/1.jpg
+  page: https://www.inaturalist.org/photos/194460069
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/194460069/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-amabilis/2.jpg
+  page: https://www.inaturalist.org/photos/732827114
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732827114/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-amabilis/3.jpg
+  page: https://www.inaturalist.org/photos/173765332
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173765332/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-amabilis/4.jpg
+  page: https://www.inaturalist.org/photos/194460103
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/194460103/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-amabilis/5.jpg
+  page: https://www.inaturalist.org/photos/732827133
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732827133/original.jpg
 ---
 
 

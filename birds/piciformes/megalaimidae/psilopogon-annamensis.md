@@ -130,8 +130,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-annamensis/1.jpg
+  page: https://www.inaturalist.org/photos/624736343
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624736343/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-annamensis/1.jpg
+  page: https://www.inaturalist.org/photos/624736343
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624736343/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-annamensis/2.jpg
+  page: https://www.inaturalist.org/photos/390228602
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390228602/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-annamensis/3.jpg
+  page: https://www.inaturalist.org/photos/385766514
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766514/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-annamensis/4.jpg
+  page: https://www.inaturalist.org/photos/105771981
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105771981/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-annamensis/5.jpg
+  page: https://www.inaturalist.org/photos/80655981
+  author: bigayon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/80655981/original.jpeg
 ---
 
 

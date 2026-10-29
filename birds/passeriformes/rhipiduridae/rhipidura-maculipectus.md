@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-maculipectus/1.jpg
+  page: https://www.inaturalist.org/photos/671906514
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671906514/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-maculipectus/1.jpg
+  page: https://www.inaturalist.org/photos/671906514
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671906514/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-maculipectus/2.jpg
+  page: https://www.inaturalist.org/photos/671906512
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671906512/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-maculipectus/3.jpg
+  page: https://www.inaturalist.org/photos/671906515
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671906515/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-maculipectus/4.jpg
+  page: https://www.inaturalist.org/photos/671908246
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671908246/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-maculipectus/5.jpg
+  page: https://www.inaturalist.org/photos/671908248
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671908248/original.jpg
 ---
 
 

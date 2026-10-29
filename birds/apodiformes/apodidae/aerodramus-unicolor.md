@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/706037170
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706037170/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/706037170
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706037170/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/474465253
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474465253/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/524022156
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524022156/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/535826663
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535826663/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/642231572
+  author: Navaneeth Sini George
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642231572/original.jpg
 ---
 
 

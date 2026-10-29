@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/geospiza-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/674478892
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674478892/original.jpg
+images:
+- file: images/passeriformes/thraupidae/geospiza-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/674478892
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674478892/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-magnirostris/2.jpg
+  page: https://www.inaturalist.org/photos/559080069
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559080069/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-magnirostris/3.jpg
+  page: https://www.inaturalist.org/photos/444912666
+  author: Megan Bolcar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444912666/original.jpeg
+- file: images/passeriformes/thraupidae/geospiza-magnirostris/4.jpg
+  page: https://www.inaturalist.org/photos/452063354
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452063354/original.jpeg
+- file: images/passeriformes/thraupidae/geospiza-magnirostris/5.jpg
+  page: https://www.flickr.com/photos/99613800@N02/54567871697/
+  author: Chris Kirby-Lambert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602745039/original.jpg
 ---
 
 

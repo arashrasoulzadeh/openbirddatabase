@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/618849554
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849554/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/618849554
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849554/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/628740963
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628740963/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/648809448
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648809448/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/651762825
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651762825/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/671873000
+  author: bko
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671873000/original.jpg
 ---
 
 

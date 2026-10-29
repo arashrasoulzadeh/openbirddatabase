@@ -175,10 +175,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/charadriiformes/scolopacidae/calidris-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/607026756
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607026756/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/607026756
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607026756/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-tenuirostris/2.jpg
+  page: https://www.inaturalist.org/photos/616761462
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761462/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-tenuirostris/3.jpg
+  page: https://www.inaturalist.org/photos/620817154
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620817154/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-tenuirostris/4.jpg
+  page: https://www.inaturalist.org/photos/615635060
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635060/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-tenuirostris/5.jpg
+  page: https://www.inaturalist.org/photos/620435521
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620435521/original.jpg
 ---
 
 

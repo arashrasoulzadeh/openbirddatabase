@@ -145,8 +145,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/iodopleura-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/467766152
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467766152/original.jpg
+images:
+- file: images/passeriformes/tityridae/iodopleura-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/467766152
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467766152/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/57843776
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57843776/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/468317638
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468317638/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/468317634
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468317634/original.jpg
 ---
 
 

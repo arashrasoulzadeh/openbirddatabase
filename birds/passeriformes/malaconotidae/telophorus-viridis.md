@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/telophorus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/573318223
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573318223/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/telophorus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/573318223
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573318223/original.jpg
+- file: images/passeriformes/malaconotidae/telophorus-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/252677181
+  author: Robert Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252677181/original.jpg
+- file: images/passeriformes/malaconotidae/telophorus-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/175181224
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175181224/original.jpeg
+- file: images/passeriformes/malaconotidae/telophorus-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/15295958
+  author: Wynand Uys
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/15295958/original.jpg
+- file: images/passeriformes/malaconotidae/telophorus-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/573678933
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573678933/original.jpg
 ---
 
 

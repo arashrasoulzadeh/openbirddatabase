@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-wagleri/1.jpg
+  page: https://www.inaturalist.org/photos/608464730
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608464730/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-wagleri/1.jpg
+  page: https://www.inaturalist.org/photos/608464730
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608464730/original.jpg
+- file: images/passeriformes/icteridae/icterus-wagleri/2.jpg
+  page: https://www.inaturalist.org/photos/608047210
+  author: Guillermo Huerta Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608047210/original.jpg
+- file: images/passeriformes/icteridae/icterus-wagleri/3.jpg
+  page: https://www.inaturalist.org/photos/611747938
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611747938/original.jpg
+- file: images/passeriformes/icteridae/icterus-wagleri/4.jpg
+  page: https://www.inaturalist.org/photos/620297233
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620297233/original.jpg
+- file: images/passeriformes/icteridae/icterus-wagleri/5.jpg
+  page: https://www.inaturalist.org/photos/639764704
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639764704/original.jpg
 ---
 
 

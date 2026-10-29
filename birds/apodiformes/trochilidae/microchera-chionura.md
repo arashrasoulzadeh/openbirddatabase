@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Lek
+image:
+  file: images/apodiformes/trochilidae/microchera-chionura/1.jpg
+  page: https://www.inaturalist.org/photos/716613890
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716613890/original.jpg
+images:
+- file: images/apodiformes/trochilidae/microchera-chionura/1.jpg
+  page: https://www.inaturalist.org/photos/716613890
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716613890/original.jpg
+- file: images/apodiformes/trochilidae/microchera-chionura/2.jpg
+  page: https://www.inaturalist.org/photos/719112048
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719112048/original.jpg
+- file: images/apodiformes/trochilidae/microchera-chionura/3.jpg
+  page: https://www.inaturalist.org/photos/727971544
+  author: Catriona Hall
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727971544/original.jpg
+- file: images/apodiformes/trochilidae/microchera-chionura/4.jpg
+  page: https://www.inaturalist.org/photos/553044167
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553044167/original.jpg
+- file: images/apodiformes/trochilidae/microchera-chionura/5.jpg
+  page: https://www.inaturalist.org/photos/421188724
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/421188724/original.jpeg
 ---
 
 

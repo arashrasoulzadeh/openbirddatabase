@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-kaempferi/1.jpg
+  page: https://www.inaturalist.org/photos/615809981
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615809981/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-kaempferi/1.jpg
+  page: https://www.inaturalist.org/photos/615809981
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615809981/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-kaempferi/2.jpg
+  page: https://www.inaturalist.org/photos/641039082
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641039082/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-kaempferi/3.jpg
+  page: https://www.inaturalist.org/photos/279291953
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279291953/original.jpeg
+- file: images/passeriformes/tyrannidae/hemitriccus-kaempferi/4.jpg
+  page: https://www.inaturalist.org/photos/299348575
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/299348575/original.jpeg
+- file: images/passeriformes/tyrannidae/hemitriccus-kaempferi/5.jpg
+  page: https://www.inaturalist.org/photos/428821301
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428821301/original.jpg
 ---
 
 

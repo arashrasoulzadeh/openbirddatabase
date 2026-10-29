@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-montagnii/1.jpg
+  page: https://www.inaturalist.org/photos/605214260
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605214260/original.jpg
+images:
+- file: images/galliformes/cracidae/penelope-montagnii/1.jpg
+  page: https://www.inaturalist.org/photos/605214260
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605214260/original.jpg
+- file: images/galliformes/cracidae/penelope-montagnii/2.jpg
+  page: https://www.inaturalist.org/photos/612909879
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612909879/original.jpg
+- file: images/galliformes/cracidae/penelope-montagnii/3.jpg
+  page: https://www.inaturalist.org/photos/632643997
+  author: Andrew J. Crawford
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632643997/original.jpg
+- file: images/galliformes/cracidae/penelope-montagnii/4.jpg
+  page: https://www.inaturalist.org/photos/634493044
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634493044/original.jpg
+- file: images/galliformes/cracidae/penelope-montagnii/5.jpg
+  page: https://www.inaturalist.org/photos/650452576
+  author: Cajá-manga
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650452576/original.jpg
 ---
 
 

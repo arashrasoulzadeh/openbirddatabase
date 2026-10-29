@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/geositta-punensis/1.jpg
+  page: https://www.inaturalist.org/photos/616643677
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616643677/original.jpg
+images:
+- file: images/passeriformes/furnariidae/geositta-punensis/1.jpg
+  page: https://www.inaturalist.org/photos/616643677
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616643677/original.jpg
+- file: images/passeriformes/furnariidae/geositta-punensis/2.jpg
+  page: https://www.inaturalist.org/photos/649734733
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649734733/original.jpg
+- file: images/passeriformes/furnariidae/geositta-punensis/3.jpg
+  page: https://www.inaturalist.org/photos/664803645
+  author: Rodrigo Castillo Tapia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664803645/original.jpg
+- file: images/passeriformes/furnariidae/geositta-punensis/4.jpg
+  page: https://www.inaturalist.org/photos/700221787
+  author: Jorge Herreros de Lartundo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700221787/original.jpg
+- file: images/passeriformes/furnariidae/geositta-punensis/5.jpg
+  page: https://www.inaturalist.org/photos/737584263
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737584263/original.jpg
 ---
 
 

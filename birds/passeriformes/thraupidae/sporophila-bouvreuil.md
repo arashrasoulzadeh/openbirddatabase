@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-bouvreuil/1.jpg
+  page: https://www.inaturalist.org/photos/703995806
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703995806/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-bouvreuil/1.jpg
+  page: https://www.inaturalist.org/photos/703995806
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703995806/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-bouvreuil/2.jpg
+  page: https://www.inaturalist.org/photos/712532230
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712532230/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-bouvreuil/3.jpg
+  page: https://www.inaturalist.org/photos/588211749
+  author: Reuber Brandão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588211749/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-bouvreuil/4.jpg
+  page: https://www.inaturalist.org/photos/597705769
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597705769/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-bouvreuil/5.jpg
+  page: https://www.inaturalist.org/photos/604179549
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604179549/original.jpg
 ---
 
 

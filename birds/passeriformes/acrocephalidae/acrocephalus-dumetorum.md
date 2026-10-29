@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-dumetorum/1.jpg
+  page: https://www.inaturalist.org/photos/605891201
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605891201/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-dumetorum/1.jpg
+  page: https://www.inaturalist.org/photos/605891201
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605891201/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-dumetorum/2.jpg
+  page: https://www.inaturalist.org/photos/609147607
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609147607/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-dumetorum/3.jpg
+  page: https://www.inaturalist.org/photos/606171108
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606171108/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-dumetorum/4.jpg
+  page: https://www.inaturalist.org/photos/616070318
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616070318/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-dumetorum/5.jpg
+  page: https://www.inaturalist.org/photos/618689415
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618689415/original.jpg
 ---
 
 

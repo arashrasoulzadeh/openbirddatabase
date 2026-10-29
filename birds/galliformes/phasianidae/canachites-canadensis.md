@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/canachites-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/608263580
+  author: Spencer Quayle
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608263580/original.jpg
+images:
+- file: images/galliformes/phasianidae/canachites-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/608263580
+  author: Spencer Quayle
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608263580/original.jpg
+- file: images/galliformes/phasianidae/canachites-canadensis/2.jpg
+  page: https://www.inaturalist.org/photos/606753707
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606753707/original.jpg
+- file: images/galliformes/phasianidae/canachites-canadensis/3.jpg
+  page: https://www.inaturalist.org/photos/613096713
+  author: Syd Cannings
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613096713/original.jpg
+- file: images/galliformes/phasianidae/canachites-canadensis/4.jpg
+  page: https://www.inaturalist.org/photos/613516272
+  author: Peggy Schaeffer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613516272/original.jpg
+- file: images/galliformes/phasianidae/canachites-canadensis/5.jpg
+  page: https://www.inaturalist.org/photos/620779887
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620779887/original.jpg
 ---
 
 

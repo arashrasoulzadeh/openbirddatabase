@@ -150,8 +150,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/saucerottia-edward/1.jpg
+  page: https://www.inaturalist.org/photos/613753324
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613753324/original.jpg
+images:
+- file: images/apodiformes/trochilidae/saucerottia-edward/1.jpg
+  page: https://www.inaturalist.org/photos/613753324
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613753324/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-edward/2.jpg
+  page: https://www.inaturalist.org/photos/612473050
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612473050/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-edward/3.jpg
+  page: https://www.inaturalist.org/photos/614797759
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614797759/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-edward/4.jpg
+  page: https://www.inaturalist.org/photos/623057800
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623057800/original.jpg
 ---
 
 

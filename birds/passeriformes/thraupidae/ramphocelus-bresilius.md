@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/ramphocelus-bresilius/1.jpg
+  page: https://www.inaturalist.org/photos/605729978
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729978/original.jpg
+images:
+- file: images/passeriformes/thraupidae/ramphocelus-bresilius/1.jpg
+  page: https://www.inaturalist.org/photos/605729978
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729978/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-bresilius/2.jpg
+  page: https://www.inaturalist.org/photos/610882996
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610882996/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-bresilius/3.jpg
+  page: https://www.inaturalist.org/photos/609581584
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609581584/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-bresilius/4.jpg
+  page: https://www.inaturalist.org/photos/611954012
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611954012/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-bresilius/5.jpg
+  page: https://www.inaturalist.org/photos/611671235
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611671235/original.jpg
 ---
 
 

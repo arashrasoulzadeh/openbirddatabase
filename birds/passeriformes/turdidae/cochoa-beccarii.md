@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 22.0
@@ -136,6 +137,26 @@ morphology:
   wing_length_mm: 138.0
   tail_length_mm: 110.0
   body_mass_g: 111.5
+image:
+  file: images/passeriformes/turdidae/cochoa-beccarii/1.jpg
+  page: https://www.inaturalist.org/photos/339650031
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339650031/original.jpg
+images:
+- file: images/passeriformes/turdidae/cochoa-beccarii/1.jpg
+  page: https://www.inaturalist.org/photos/339650031
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339650031/original.jpg
+- file: images/passeriformes/turdidae/cochoa-beccarii/2.jpg
+  page: https://www.inaturalist.org/photos/59388421
+  author: Attila Steiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59388421/original.jpeg
 ---
 
 

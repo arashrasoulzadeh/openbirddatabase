@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-megalopterus/1.jpg
+  page: https://www.inaturalist.org/photos/607808674
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808674/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-megalopterus/1.jpg
+  page: https://www.inaturalist.org/photos/607808674
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808674/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-megalopterus/2.jpg
+  page: https://www.inaturalist.org/photos/665344828
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665344828/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-megalopterus/3.jpg
+  page: https://www.inaturalist.org/photos/467548030
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467548030/original.jpeg
+- file: images/passeriformes/troglodytidae/campylorhynchus-megalopterus/4.jpg
+  page: https://www.inaturalist.org/photos/482842684
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482842684/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-megalopterus/5.jpg
+  page: https://www.inaturalist.org/photos/597127572
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597127572/original.jpg
 ---
 
 

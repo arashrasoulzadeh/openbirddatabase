@@ -146,7 +146,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 125.8
@@ -156,6 +157,44 @@ morphology:
   body_mass_g: 1500.0
 demography:
   max_longevity_years: 12
+image:
+  file: images/pelecaniformes/threskiornithidae/bostrychia-carunculata/1.jpg
+  page: https://www.inaturalist.org/photos/667695424
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667695424/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/bostrychia-carunculata/1.jpg
+  page: https://www.inaturalist.org/photos/667695424
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667695424/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-carunculata/2.jpg
+  page: https://www.inaturalist.org/photos/734394371
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734394371/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-carunculata/3.jpg
+  page: https://www.inaturalist.org/photos/610092366
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610092366/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-carunculata/4.jpg
+  page: https://www.inaturalist.org/photos/361015809
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361015809/original.jpeg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-carunculata/5.jpg
+  page: https://www.inaturalist.org/photos/441434570
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441434570/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scelorchilus-rubecula/1.jpg
+  page: https://www.inaturalist.org/photos/608277439
+  author: Roberto Goldschmidt
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608277439/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scelorchilus-rubecula/1.jpg
+  page: https://www.inaturalist.org/photos/608277439
+  author: Roberto Goldschmidt
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608277439/original.jpg
+- file: images/passeriformes/rhinocryptidae/scelorchilus-rubecula/2.jpg
+  page: https://www.inaturalist.org/photos/629699330
+  author: Ricardo Barrientos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629699330/original.jpg
+- file: images/passeriformes/rhinocryptidae/scelorchilus-rubecula/3.jpg
+  page: https://www.inaturalist.org/photos/623722152
+  author: Santiago Martín-Bravo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623722152/original.jpg
+- file: images/passeriformes/rhinocryptidae/scelorchilus-rubecula/4.jpg
+  page: https://www.inaturalist.org/photos/679697509
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679697509/original.jpg
+- file: images/passeriformes/rhinocryptidae/scelorchilus-rubecula/5.jpg
+  page: https://www.inaturalist.org/photos/624010054
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624010054/original.jpg
 ---
 
 

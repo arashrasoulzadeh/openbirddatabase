@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-hellmayri/1.jpg
+  page: https://www.inaturalist.org/photos/637771908
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637771908/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-hellmayri/1.jpg
+  page: https://www.inaturalist.org/photos/637771908
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637771908/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-hellmayri/2.jpg
+  page: https://www.inaturalist.org/photos/639435440
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639435440/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-hellmayri/3.jpg
+  page: https://www.inaturalist.org/photos/693388282
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693388282/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-hellmayri/4.jpg
+  page: https://www.inaturalist.org/photos/463364014
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463364014/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-hellmayri/5.jpg
+  page: https://www.inaturalist.org/photos/599229960
+  author: Joey Bom
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599229960/original.jpg
 ---
 
 

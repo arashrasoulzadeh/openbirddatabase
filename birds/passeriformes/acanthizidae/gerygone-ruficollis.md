@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/gerygone-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/699839098
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839098/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/gerygone-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/699839098
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839098/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/571344782
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571344782/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/335328673
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335328673/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/699839096
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839096/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/699839095
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839095/original.jpg
 ---
 
 

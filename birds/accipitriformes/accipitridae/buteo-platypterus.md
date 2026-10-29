@@ -173,10 +173,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/accipitriformes/accipitridae/buteo-platypterus/1.jpg
+  page: https://www.inaturalist.org/photos/605434687
+  author: Mario Cohn-Haft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434687/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-platypterus/1.jpg
+  page: https://www.inaturalist.org/photos/605434687
+  author: Mario Cohn-Haft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434687/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-platypterus/2.jpg
+  page: https://www.inaturalist.org/photos/604940076
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604940076/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-platypterus/3.jpg
+  page: https://www.inaturalist.org/photos/605798621
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605798621/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-platypterus/4.jpg
+  page: https://www.inaturalist.org/photos/606264524
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606264524/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-platypterus/5.jpg
+  page: https://www.inaturalist.org/photos/608931905
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608931905/original.jpg
 ---
 
 

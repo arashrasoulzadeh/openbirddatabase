@@ -151,10 +151,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/psittaciformes/psittaculidae/cyanoramphus-saisseti/1.jpg
+  page: https://www.inaturalist.org/photos/585909359
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585909359/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/cyanoramphus-saisseti/1.jpg
+  page: https://www.inaturalist.org/photos/585909359
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585909359/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-saisseti/2.jpg
+  page: https://www.inaturalist.org/photos/53954752
+  author: naturewatchwidow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53954752/original.jpeg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-saisseti/3.jpg
+  page: https://www.inaturalist.org/photos/28961756
+  author: Mikael Bauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/28961756/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-saisseti/4.jpg
+  page: https://www.inaturalist.org/photos/53954747
+  author: naturewatchwidow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53954747/original.jpeg
 ---
 
 

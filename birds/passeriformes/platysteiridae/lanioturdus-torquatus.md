@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/lanioturdus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/620543821
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620543821/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/lanioturdus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/620543821
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620543821/original.jpg
+- file: images/passeriformes/platysteiridae/lanioturdus-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/595399241
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595399241/original.jpg
+- file: images/passeriformes/platysteiridae/lanioturdus-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/434375721
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434375721/original.jpeg
+- file: images/passeriformes/platysteiridae/lanioturdus-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/419152639
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419152639/original.jpeg
+- file: images/passeriformes/platysteiridae/lanioturdus-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/411442822
+  author: Jonas Kraft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411442822/original.jpg
 ---
 
 

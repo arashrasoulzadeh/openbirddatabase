@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-comptus/1.jpg
+  page: https://www.inaturalist.org/photos/263756670
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263756670/original.jpeg
+images:
+- file: images/trogoniformes/trogonidae/trogon-comptus/1.jpg
+  page: https://www.inaturalist.org/photos/263756670
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263756670/original.jpeg
+- file: images/trogoniformes/trogonidae/trogon-comptus/2.jpg
+  page: https://www.inaturalist.org/photos/342081438
+  author: Scott Crabtree
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342081438/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-comptus/3.jpg
+  page: https://www.inaturalist.org/photos/375568062
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375568062/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-comptus/4.jpg
+  page: https://www.inaturalist.org/photos/136603758
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/136603758/original.jpeg
+- file: images/trogoniformes/trogonidae/trogon-comptus/5.jpg
+  page: https://www.inaturalist.org/photos/375568170
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375568170/original.jpg
 ---
 
 

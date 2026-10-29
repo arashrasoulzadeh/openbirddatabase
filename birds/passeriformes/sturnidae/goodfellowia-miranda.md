@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/goodfellowia-miranda/1.jpg
+  page: https://www.inaturalist.org/photos/458609163
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609163/original.jpeg
+images:
+- file: images/passeriformes/sturnidae/goodfellowia-miranda/1.jpg
+  page: https://www.inaturalist.org/photos/458609163
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609163/original.jpeg
+- file: images/passeriformes/sturnidae/goodfellowia-miranda/2.jpg
+  page: https://www.inaturalist.org/photos/267294848
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294848/original.jpg
+- file: images/passeriformes/sturnidae/goodfellowia-miranda/3.jpg
+  page: https://www.inaturalist.org/photos/458611550
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458611550/original.jpeg
+- file: images/passeriformes/sturnidae/goodfellowia-miranda/4.jpg
+  page: https://www.inaturalist.org/photos/458611558
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458611558/original.jpeg
+- file: images/passeriformes/sturnidae/goodfellowia-miranda/5.jpg
+  page: https://www.inaturalist.org/photos/267294986
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294986/original.jpg
 ---
 
 

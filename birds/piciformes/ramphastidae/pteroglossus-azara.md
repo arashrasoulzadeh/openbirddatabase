@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/pteroglossus-azara/1.jpg
+  page: https://www.inaturalist.org/photos/525359364
+  author: Michael Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525359364/original.jpg
+images:
+- file: images/piciformes/ramphastidae/pteroglossus-azara/1.jpg
+  page: https://www.inaturalist.org/photos/525359364
+  author: Michael Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525359364/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-azara/2.jpg
+  page: https://www.inaturalist.org/photos/537474610
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537474610/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-azara/3.jpg
+  page: https://www.inaturalist.org/photos/395504865
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395504865/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-azara/4.jpg
+  page: https://www.inaturalist.org/photos/254894132
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254894132/original.jpeg
+- file: images/piciformes/ramphastidae/pteroglossus-azara/5.jpg
+  page: https://www.inaturalist.org/photos/500003828
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500003828/original.jpg
 ---
 
 

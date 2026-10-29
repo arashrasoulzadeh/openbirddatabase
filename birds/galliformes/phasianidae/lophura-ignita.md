@@ -143,7 +143,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 40.9
@@ -151,6 +152,44 @@ morphology:
   wing_length_mm: 280.4
   tail_length_mm: 231.2
   body_mass_g: 1768.1
+image:
+  file: images/galliformes/phasianidae/lophura-ignita/1.jpg
+  page: https://www.inaturalist.org/photos/619194954
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619194954/original.jpg
+images:
+- file: images/galliformes/phasianidae/lophura-ignita/1.jpg
+  page: https://www.inaturalist.org/photos/619194954
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619194954/original.jpg
+- file: images/galliformes/phasianidae/lophura-ignita/2.jpg
+  page: https://www.inaturalist.org/photos/741655098
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741655098/original.jpg
+- file: images/galliformes/phasianidae/lophura-ignita/3.jpg
+  page: https://www.inaturalist.org/photos/690085767
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690085767/original.jpg
+- file: images/galliformes/phasianidae/lophura-ignita/4.jpg
+  page: https://www.inaturalist.org/photos/707698831
+  author: Manuel R Popp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707698831/original.jpg
+- file: images/galliformes/phasianidae/lophura-ignita/5.jpg
+  page: https://www.inaturalist.org/photos/590075837
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590075837/original.jpg
 ---
 
 

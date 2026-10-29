@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 48
+image:
+  file: images/ciconiiformes/ciconiidae/ciconia-boyciana/1.jpg
+  page: https://www.inaturalist.org/photos/605062146
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605062146/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/ciconia-boyciana/1.jpg
+  page: https://www.inaturalist.org/photos/605062146
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605062146/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-boyciana/2.jpg
+  page: https://www.inaturalist.org/photos/606353504
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606353504/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-boyciana/3.jpg
+  page: https://www.inaturalist.org/photos/613180837
+  author: RX ZHANG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613180837/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-boyciana/4.jpg
+  page: https://www.inaturalist.org/photos/617371068
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617371068/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-boyciana/5.jpg
+  page: https://www.inaturalist.org/photos/617703379
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617703379/original.jpg
 ---
 
 

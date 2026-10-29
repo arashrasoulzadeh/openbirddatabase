@@ -133,7 +133,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 93.6
@@ -141,6 +142,32 @@ morphology:
   wing_length_mm: 303.0
   tail_length_mm: 124.2
   body_mass_g: 802.0
+image:
+  file: images/pelecaniformes/ardeidae/zonerodius-heliosylus/1.jpg
+  page: https://www.inaturalist.org/photos/587489936
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587489936/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/zonerodius-heliosylus/1.jpg
+  page: https://www.inaturalist.org/photos/587489936
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587489936/original.jpg
+- file: images/pelecaniformes/ardeidae/zonerodius-heliosylus/2.jpg
+  page: https://www.inaturalist.org/photos/49724965
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49724965/original.jpeg
+- file: images/pelecaniformes/ardeidae/zonerodius-heliosylus/3.jpg
+  page: https://www.inaturalist.org/photos/587489842
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587489842/original.jpg
 ---
 
 

@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/charadriiformes/laridae/anous-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/707967193
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967193/original.jpg
+images:
+- file: images/charadriiformes/laridae/anous-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/707967193
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967193/original.jpg
+- file: images/charadriiformes/laridae/anous-tenuirostris/2.jpg
+  page: https://www.inaturalist.org/photos/488826517
+  author: vyh3
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488826517/original.jpeg
+- file: images/charadriiformes/laridae/anous-tenuirostris/3.jpg
+  page: https://www.inaturalist.org/photos/582893924
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582893924/original.jpg
+- file: images/charadriiformes/laridae/anous-tenuirostris/4.jpg
+  page: https://www.inaturalist.org/photos/357663643
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357663643/original.jpeg
+- file: images/charadriiformes/laridae/anous-tenuirostris/5.jpg
+  page: https://www.inaturalist.org/photos/453446622
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453446622/original.jpeg
 ---
 
 

@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/apodiformes/trochilidae/lampornis-clemenciae/1.jpg
+  page: https://www.inaturalist.org/photos/608482433
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608482433/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lampornis-clemenciae/1.jpg
+  page: https://www.inaturalist.org/photos/608482433
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608482433/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-clemenciae/2.jpg
+  page: https://www.inaturalist.org/photos/635655498
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635655498/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-clemenciae/3.jpg
+  page: https://www.inaturalist.org/photos/643355235
+  author: Masked Lynx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643355235/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-clemenciae/4.jpg
+  page: https://www.inaturalist.org/photos/635655555
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635655555/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-clemenciae/5.jpg
+  page: https://www.inaturalist.org/photos/638122694
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638122694/original.jpg
 ---
 
 

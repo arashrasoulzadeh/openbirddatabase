@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/malacoptila-semicincta/1.jpg
+  page: https://www.inaturalist.org/photos/424589067
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424589067/original.jpg
+images:
+- file: images/piciformes/bucconidae/malacoptila-semicincta/1.jpg
+  page: https://www.inaturalist.org/photos/424589067
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424589067/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-semicincta/2.jpg
+  page: https://www.inaturalist.org/photos/335386271
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335386271/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-semicincta/3.jpg
+  page: https://www.inaturalist.org/photos/26769260
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26769260/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-semicincta/4.jpg
+  page: https://www.inaturalist.org/photos/7625868
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/7625868/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-semicincta/5.jpg
+  page: https://www.inaturalist.org/photos/335386300
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335386300/original.jpeg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/hemiprocnidae/hemiprocne-comata/1.jpg
+  page: https://www.inaturalist.org/photos/605890334
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605890334/original.jpg
+images:
+- file: images/apodiformes/hemiprocnidae/hemiprocne-comata/1.jpg
+  page: https://www.inaturalist.org/photos/605890334
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605890334/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-comata/2.jpg
+  page: https://www.inaturalist.org/photos/616152588
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152588/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-comata/3.jpg
+  page: https://www.inaturalist.org/photos/618849268
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849268/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-comata/4.jpg
+  page: https://www.inaturalist.org/photos/611502602
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611502602/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-comata/5.jpg
+  page: https://www.inaturalist.org/photos/620373836
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620373836/original.jpg
 ---
 
 

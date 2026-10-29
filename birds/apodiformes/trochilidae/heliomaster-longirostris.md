@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliomaster-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/615475602
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615475602/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliomaster-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/615475602
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615475602/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/617327398
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327398/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/616152999
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152999/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/617278204
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617278204/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/656585253
+  author: Francis Pérez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656585253/original.jpg
 ---
 
 

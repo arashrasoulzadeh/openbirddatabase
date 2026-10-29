@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-bernardi/1.jpg
+  page: https://www.inaturalist.org/photos/628939259
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628939259/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-bernardi/1.jpg
+  page: https://www.inaturalist.org/photos/628939259
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628939259/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-bernardi/2.jpg
+  page: https://www.inaturalist.org/photos/548640593
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548640593/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-bernardi/3.jpg
+  page: https://www.inaturalist.org/photos/559553329
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559553329/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-bernardi/4.jpg
+  page: https://www.inaturalist.org/photos/597561851
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597561851/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-bernardi/5.jpg
+  page: https://www.inaturalist.org/photos/255793885
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255793885/original.jpg
 ---
 
 

@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/charadriiformes/alcidae/cepphus-columba/1.jpg
+  page: https://www.inaturalist.org/photos/605992544
+  author: Mara Christensen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605992544/original.jpg
+images:
+- file: images/charadriiformes/alcidae/cepphus-columba/1.jpg
+  page: https://www.inaturalist.org/photos/605992544
+  author: Mara Christensen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605992544/original.jpg
+- file: images/charadriiformes/alcidae/cepphus-columba/2.jpg
+  page: https://www.inaturalist.org/photos/607773932
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607773932/original.jpg
+- file: images/charadriiformes/alcidae/cepphus-columba/3.jpg
+  page: https://www.inaturalist.org/photos/609127032
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609127032/original.jpg
+- file: images/charadriiformes/alcidae/cepphus-columba/4.jpg
+  page: https://www.inaturalist.org/photos/613656240
+  author: Sean Haight
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613656240/original.jpg
+- file: images/charadriiformes/alcidae/cepphus-columba/5.jpg
+  page: https://www.inaturalist.org/photos/619430186
+  author: zorthesosen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619430186/original.jpg
 ---
 
 

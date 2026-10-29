@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 39
+image:
+  file: images/psittaciformes/psittacidae/anodorhynchus-hyacinthinus/1.jpg
+  page: https://www.inaturalist.org/photos/606027197
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027197/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/anodorhynchus-hyacinthinus/1.jpg
+  page: https://www.inaturalist.org/photos/606027197
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027197/original.jpg
+- file: images/psittaciformes/psittacidae/anodorhynchus-hyacinthinus/2.jpg
+  page: https://www.inaturalist.org/photos/655056407
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655056407/original.jpg
+- file: images/psittaciformes/psittacidae/anodorhynchus-hyacinthinus/3.jpg
+  page: https://www.inaturalist.org/photos/670246871
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670246871/original.jpg
+- file: images/psittaciformes/psittacidae/anodorhynchus-hyacinthinus/4.jpg
+  page: https://www.inaturalist.org/photos/684165649
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684165649/original.jpg
+- file: images/psittaciformes/psittacidae/anodorhynchus-hyacinthinus/5.jpg
+  page: https://www.inaturalist.org/photos/701741867
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701741867/original.jpg
 ---
 
 

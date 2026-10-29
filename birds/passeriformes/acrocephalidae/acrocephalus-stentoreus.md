@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-stentoreus/1.jpg
+  page: https://www.inaturalist.org/photos/610352245
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610352245/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-stentoreus/1.jpg
+  page: https://www.inaturalist.org/photos/610352245
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610352245/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-stentoreus/2.jpg
+  page: https://www.inaturalist.org/photos/614231633
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231633/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-stentoreus/3.jpg
+  page: https://www.inaturalist.org/photos/629543701
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629543701/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-stentoreus/4.jpg
+  page: https://www.inaturalist.org/photos/623193886
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623193886/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-stentoreus/5.jpg
+  page: https://www.inaturalist.org/photos/621466363
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621466363/original.jpg
 ---
 
 

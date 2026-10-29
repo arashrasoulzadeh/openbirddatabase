@@ -135,7 +135,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 39.8
@@ -150,6 +151,44 @@ reproduction:
   fledging_days: 35
 demography:
   max_longevity_years: 9
+image:
+  file: images/charadriiformes/laridae/leucophaeus-pipixcan/1.jpg
+  page: https://www.inaturalist.org/photos/609461349
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609461349/original.jpg
+images:
+- file: images/charadriiformes/laridae/leucophaeus-pipixcan/1.jpg
+  page: https://www.inaturalist.org/photos/609461349
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609461349/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-pipixcan/2.jpg
+  page: https://www.inaturalist.org/photos/606664108
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606664108/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-pipixcan/3.jpg
+  page: https://www.inaturalist.org/photos/610429826
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610429826/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-pipixcan/4.jpg
+  page: https://www.inaturalist.org/photos/608718036
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608718036/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-pipixcan/5.jpg
+  page: https://www.inaturalist.org/photos/612772408
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612772408/original.jpg
 ---
 
 

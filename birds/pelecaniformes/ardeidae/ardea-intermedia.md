@@ -181,8 +181,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardea-intermedia/1.jpg
+  page: https://www.inaturalist.org/photos/604662739
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662739/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-intermedia/1.jpg
+  page: https://www.inaturalist.org/photos/604662739
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662739/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-intermedia/2.jpg
+  page: https://www.inaturalist.org/photos/605274299
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605274299/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-intermedia/3.jpg
+  page: https://www.inaturalist.org/photos/607136844
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607136844/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-intermedia/4.jpg
+  page: https://www.inaturalist.org/photos/605843737
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605843737/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-intermedia/5.jpg
+  page: https://www.inaturalist.org/photos/607116750
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116750/original.jpg
 ---
 
 

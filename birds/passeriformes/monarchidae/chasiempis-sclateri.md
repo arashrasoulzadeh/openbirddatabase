@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/monarchidae/chasiempis-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/654640469
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654640469/original.jpg
+images:
+- file: images/passeriformes/monarchidae/chasiempis-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/654640469
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654640469/original.jpg
+- file: images/passeriformes/monarchidae/chasiempis-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/513072152
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513072152/original.jpg
+- file: images/passeriformes/monarchidae/chasiempis-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/397440784
+  author: Kevin Faccenda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/397440784/original.jpg
+- file: images/passeriformes/monarchidae/chasiempis-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/301189813
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/301189813/original.jpeg
+- file: images/passeriformes/monarchidae/chasiempis-sclateri/5.jpg
+  page: https://www.inaturalist.org/photos/181466120
+  author: Tuoichen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181466120/original.jpg
 ---
 
 

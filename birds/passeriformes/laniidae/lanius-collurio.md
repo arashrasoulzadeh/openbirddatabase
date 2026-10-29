@@ -203,10 +203,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/laniidae/lanius-collurio/1.jpg
+  page: https://www.inaturalist.org/photos/611842852
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611842852/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-collurio/1.jpg
+  page: https://www.inaturalist.org/photos/611842852
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611842852/original.jpg
+- file: images/passeriformes/laniidae/lanius-collurio/2.jpg
+  page: https://www.inaturalist.org/photos/625687913
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625687913/original.jpg
+- file: images/passeriformes/laniidae/lanius-collurio/3.jpg
+  page: https://www.inaturalist.org/photos/627587960
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627587960/original.jpg
+- file: images/passeriformes/laniidae/lanius-collurio/4.jpg
+  page: https://www.inaturalist.org/photos/611837428
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611837428/original.jpg
+- file: images/passeriformes/laniidae/lanius-collurio/5.jpg
+  page: https://www.inaturalist.org/photos/625687952
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625687952/original.jpg
 ---
 
 

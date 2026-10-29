@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/buceros-rhinoceros/1.jpg
+  page: https://www.inaturalist.org/photos/608498936
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608498936/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/buceros-rhinoceros/1.jpg
+  page: https://www.inaturalist.org/photos/608498936
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608498936/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-rhinoceros/2.jpg
+  page: https://www.inaturalist.org/photos/617987197
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617987197/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-rhinoceros/3.jpg
+  page: https://www.inaturalist.org/photos/631423802
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631423802/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-rhinoceros/4.jpg
+  page: https://www.inaturalist.org/photos/637832563
+  author: vyh3
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637832563/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-rhinoceros/5.jpg
+  page: https://www.inaturalist.org/photos/636987561
+  author: Andreas Manz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636987561/original.jpg
 ---
 
 

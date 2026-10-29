@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/anabacerthia-variegaticeps/1.jpg
+  page: https://www.inaturalist.org/photos/608656869
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608656869/original.jpg
+images:
+- file: images/passeriformes/furnariidae/anabacerthia-variegaticeps/1.jpg
+  page: https://www.inaturalist.org/photos/608656869
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608656869/original.jpg
+- file: images/passeriformes/furnariidae/anabacerthia-variegaticeps/2.jpg
+  page: https://www.inaturalist.org/photos/719111918
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719111918/original.jpg
+- file: images/passeriformes/furnariidae/anabacerthia-variegaticeps/3.jpg
+  page: https://www.inaturalist.org/photos/488800726
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488800726/original.jpg
+- file: images/passeriformes/furnariidae/anabacerthia-variegaticeps/4.jpg
+  page: https://www.inaturalist.org/photos/481022691
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481022691/original.jpg
+- file: images/passeriformes/furnariidae/anabacerthia-variegaticeps/5.jpg
+  page: https://www.inaturalist.org/photos/482832872
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482832872/original.png
 ---
 
 

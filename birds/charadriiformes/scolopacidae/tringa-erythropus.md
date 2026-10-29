@@ -199,10 +199,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/charadriiformes/scolopacidae/tringa-erythropus/1.jpg
+  page: https://www.inaturalist.org/photos/605840259
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605840259/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/tringa-erythropus/1.jpg
+  page: https://www.inaturalist.org/photos/605840259
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605840259/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-erythropus/2.jpg
+  page: https://www.inaturalist.org/photos/606387968
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606387968/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-erythropus/3.jpg
+  page: https://www.inaturalist.org/photos/609558212
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609558212/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-erythropus/4.jpg
+  page: https://www.inaturalist.org/photos/608142815
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608142815/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-erythropus/5.jpg
+  page: https://www.inaturalist.org/photos/609538225
+  author: Susanne Primdahl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609538225/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/accipitriformes/accipitridae/icthyophaga-vocifer/1.jpg
+  page: https://www.inaturalist.org/photos/607188765
+  author: Aurelijus Narbutas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607188765/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/icthyophaga-vocifer/1.jpg
+  page: https://www.inaturalist.org/photos/607188765
+  author: Aurelijus Narbutas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607188765/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-vocifer/2.jpg
+  page: https://www.inaturalist.org/photos/609457121
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609457121/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-vocifer/3.jpg
+  page: https://www.inaturalist.org/photos/606217335
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606217335/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-vocifer/4.jpg
+  page: https://www.inaturalist.org/photos/606216300
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216300/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-vocifer/5.jpg
+  page: https://www.inaturalist.org/photos/606217262
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606217262/original.jpg
 ---
 
 

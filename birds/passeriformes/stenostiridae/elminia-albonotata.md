@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/stenostiridae/elminia-albonotata/1.jpg
+  page: https://www.inaturalist.org/photos/581276087
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581276087/original.jpg
+images:
+- file: images/passeriformes/stenostiridae/elminia-albonotata/1.jpg
+  page: https://www.inaturalist.org/photos/581276087
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581276087/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albonotata/2.jpg
+  page: https://www.inaturalist.org/photos/583477153
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583477153/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albonotata/3.jpg
+  page: https://www.inaturalist.org/photos/607768416
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607768416/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albonotata/4.jpg
+  page: https://www.inaturalist.org/photos/477684856
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477684856/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albonotata/5.jpg
+  page: https://www.inaturalist.org/photos/266011998
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266011998/original.jpeg
 ---
 
 

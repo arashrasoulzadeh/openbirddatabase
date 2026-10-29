@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/promeropidae/promerops-gurneyi/1.jpg
+  page: https://www.inaturalist.org/photos/627205132
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627205132/original.jpg
+images:
+- file: images/passeriformes/promeropidae/promerops-gurneyi/1.jpg
+  page: https://www.inaturalist.org/photos/627205132
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627205132/original.jpg
+- file: images/passeriformes/promeropidae/promerops-gurneyi/2.jpg
+  page: https://www.inaturalist.org/photos/324518317
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/324518317/original.jpeg
+- file: images/passeriformes/promeropidae/promerops-gurneyi/3.jpg
+  page: https://www.inaturalist.org/photos/333930012
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333930012/original.jpg
+- file: images/passeriformes/promeropidae/promerops-gurneyi/4.jpg
+  page: https://www.inaturalist.org/photos/431504943
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431504943/original.jpeg
+- file: images/passeriformes/promeropidae/promerops-gurneyi/5.jpg
+  page: https://www.inaturalist.org/photos/413208966
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413208966/original.jpeg
 ---
 
 

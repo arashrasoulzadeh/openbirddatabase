@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/passeriformes/cardinalidae/pheucticus-ludovicianus/1.jpg
+  page: https://www.inaturalist.org/photos/604699915
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699915/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/pheucticus-ludovicianus/1.jpg
+  page: https://www.inaturalist.org/photos/604699915
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699915/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-ludovicianus/2.jpg
+  page: https://www.inaturalist.org/photos/610053483
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610053483/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-ludovicianus/3.jpg
+  page: https://www.inaturalist.org/photos/610511820
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610511820/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-ludovicianus/4.jpg
+  page: https://www.inaturalist.org/photos/609120164
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609120164/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-ludovicianus/5.jpg
+  page: https://www.inaturalist.org/photos/612381498
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612381498/original.jpg
 ---
 
 

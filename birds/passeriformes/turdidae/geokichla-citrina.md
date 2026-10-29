@@ -159,8 +159,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-citrina/1.jpg
+  page: https://www.inaturalist.org/photos/606926625
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606926625/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-citrina/1.jpg
+  page: https://www.inaturalist.org/photos/606926625
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606926625/original.jpg
+- file: images/passeriformes/turdidae/geokichla-citrina/2.jpg
+  page: https://www.inaturalist.org/photos/609108354
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609108354/original.jpg
+- file: images/passeriformes/turdidae/geokichla-citrina/3.jpg
+  page: https://www.inaturalist.org/photos/612474066
+  author: grass_0
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612474066/original.jpg
+- file: images/passeriformes/turdidae/geokichla-citrina/4.jpg
+  page: https://www.inaturalist.org/photos/609882379
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609882379/original.jpg
+- file: images/passeriformes/turdidae/geokichla-citrina/5.jpg
+  page: https://www.inaturalist.org/photos/686342703
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686342703/original.jpg
 ---
 
 

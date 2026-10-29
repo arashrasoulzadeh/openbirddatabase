@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/muscicapidae/ficedula-semitorquata/1.jpg
+  page: https://www.inaturalist.org/photos/691082177
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691082177/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-semitorquata/1.jpg
+  page: https://www.inaturalist.org/photos/691082177
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691082177/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-semitorquata/2.jpg
+  page: https://www.inaturalist.org/photos/656029337
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656029337/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-semitorquata/3.jpg
+  page: https://www.inaturalist.org/photos/668260586
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668260586/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-semitorquata/4.jpg
+  page: https://www.inaturalist.org/photos/691972823
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691972823/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-semitorquata/5.jpg
+  page: https://www.inaturalist.org/photos/693380190
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693380190/original.jpg
 ---
 
 

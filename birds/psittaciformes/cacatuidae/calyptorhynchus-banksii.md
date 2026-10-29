@@ -144,10 +144,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 45
+image:
+  file: images/psittaciformes/cacatuidae/calyptorhynchus-banksii/1.jpg
+  page: https://www.inaturalist.org/photos/610133336
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610133336/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/calyptorhynchus-banksii/1.jpg
+  page: https://www.inaturalist.org/photos/610133336
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610133336/original.jpg
+- file: images/psittaciformes/cacatuidae/calyptorhynchus-banksii/2.jpg
+  page: https://www.inaturalist.org/photos/611860470
+  author: kittenpunk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611860470/original.jpg
+- file: images/psittaciformes/cacatuidae/calyptorhynchus-banksii/3.jpg
+  page: https://www.inaturalist.org/photos/613316319
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613316319/original.jpg
+- file: images/psittaciformes/cacatuidae/calyptorhynchus-banksii/4.jpg
+  page: https://www.inaturalist.org/photos/611860485
+  author: kittenpunk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611860485/original.jpg
+- file: images/psittaciformes/cacatuidae/calyptorhynchus-banksii/5.jpg
+  page: https://www.inaturalist.org/photos/611860490
+  author: kittenpunk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611860490/original.jpg
 ---
 
 

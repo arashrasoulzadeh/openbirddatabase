@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/aulacorhynchus-albivitta/1.jpg
+  page: https://www.inaturalist.org/photos/612269247
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612269247/original.jpg
+images:
+- file: images/piciformes/ramphastidae/aulacorhynchus-albivitta/1.jpg
+  page: https://www.inaturalist.org/photos/612269247
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612269247/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-albivitta/2.jpg
+  page: https://www.inaturalist.org/photos/612488854
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612488854/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-albivitta/3.jpg
+  page: https://www.inaturalist.org/photos/623187065
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623187065/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-albivitta/4.jpg
+  page: https://www.inaturalist.org/photos/652809836
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652809836/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-albivitta/5.jpg
+  page: https://www.inaturalist.org/photos/612269212
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612269212/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-nasicus/1.jpg
+  page: https://www.inaturalist.org/photos/629335629
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629335629/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-nasicus/1.jpg
+  page: https://www.inaturalist.org/photos/629335629
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629335629/original.jpg
+- file: images/passeriformes/corvidae/corvus-nasicus/2.jpg
+  page: https://www.inaturalist.org/photos/636057811
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636057811/original.jpg
+- file: images/passeriformes/corvidae/corvus-nasicus/3.jpg
+  page: https://www.inaturalist.org/photos/357828869
+  author: Luke Padon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357828869/original.jpg
+- file: images/passeriformes/corvidae/corvus-nasicus/4.jpg
+  page: https://www.inaturalist.org/photos/447585987
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447585987/original.jpeg
+- file: images/passeriformes/corvidae/corvus-nasicus/5.jpg
+  page: https://www.inaturalist.org/photos/187986014
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187986014/original.jpg
 ---
 
 

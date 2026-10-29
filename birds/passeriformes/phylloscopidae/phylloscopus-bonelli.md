@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-bonelli/1.jpg
+  page: https://www.inaturalist.org/photos/608150539
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608150539/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-bonelli/1.jpg
+  page: https://www.inaturalist.org/photos/608150539
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608150539/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-bonelli/2.jpg
+  page: https://www.inaturalist.org/photos/635175465
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635175465/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-bonelli/3.jpg
+  page: https://www.inaturalist.org/photos/636959749
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636959749/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-bonelli/4.jpg
+  page: https://www.inaturalist.org/photos/635594104
+  author: S. Menéndez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635594104/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-bonelli/5.jpg
+  page: https://www.inaturalist.org/photos/636623306
+  author: Aurélien Coste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636623306/original.jpg
 ---
 
 

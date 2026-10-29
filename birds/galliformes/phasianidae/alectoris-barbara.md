@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/alectoris-barbara/1.jpg
+  page: https://www.inaturalist.org/photos/607027711
+  author: Elias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607027711/original.jpg
+images:
+- file: images/galliformes/phasianidae/alectoris-barbara/1.jpg
+  page: https://www.inaturalist.org/photos/607027711
+  author: Elias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607027711/original.jpg
+- file: images/galliformes/phasianidae/alectoris-barbara/2.jpg
+  page: https://www.inaturalist.org/photos/611413889
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611413889/original.jpg
+- file: images/galliformes/phasianidae/alectoris-barbara/3.jpg
+  page: https://www.inaturalist.org/photos/615003266
+  author: Roy Lowry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615003266/original.jpg
+- file: images/galliformes/phasianidae/alectoris-barbara/4.jpg
+  page: https://www.inaturalist.org/photos/616408951
+  author: Ina Siebert
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616408951/original.jpg
+- file: images/galliformes/phasianidae/alectoris-barbara/5.jpg
+  page: https://www.inaturalist.org/photos/619607020
+  author: Mike Concannon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619607020/original.jpg
 ---
 
 

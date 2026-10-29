@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 49
+image:
+  file: images/psittaciformes/psittacidae/amazona-aestiva/1.jpg
+  page: https://www.inaturalist.org/photos/605467478
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605467478/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-aestiva/1.jpg
+  page: https://www.inaturalist.org/photos/605467478
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605467478/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-aestiva/2.jpg
+  page: https://www.inaturalist.org/photos/606027557
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027557/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-aestiva/3.jpg
+  page: https://www.inaturalist.org/photos/607279694
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607279694/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-aestiva/4.jpg
+  page: https://www.inaturalist.org/photos/609028628
+  author: Otto Heringer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609028628/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-aestiva/5.jpg
+  page: https://www.inaturalist.org/photos/612569054
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612569054/original.jpg
 ---
 
 

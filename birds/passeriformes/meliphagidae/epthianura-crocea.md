@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/epthianura-crocea/1.jpg
+  page: https://www.inaturalist.org/photos/676702419
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676702419/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/epthianura-crocea/1.jpg
+  page: https://www.inaturalist.org/photos/676702419
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676702419/original.jpg
+- file: images/passeriformes/meliphagidae/epthianura-crocea/2.jpg
+  page: https://www.inaturalist.org/photos/431774528
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431774528/original.jpeg
+- file: images/passeriformes/meliphagidae/epthianura-crocea/3.jpg
+  page: https://www.inaturalist.org/photos/43388292
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/43388292/original.jpg
+- file: images/passeriformes/meliphagidae/epthianura-crocea/4.jpg
+  page: https://www.inaturalist.org/photos/368384071
+  author: pimelea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368384071/original.jpeg
+- file: images/passeriformes/meliphagidae/epthianura-crocea/5.jpg
+  page: https://www.inaturalist.org/photos/260640772
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260640772/original.jpg
 ---
 
 

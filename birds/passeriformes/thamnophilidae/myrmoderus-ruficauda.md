@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmoderus-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/622222487
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622222487/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmoderus-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/622222487
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622222487/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoderus-ruficauda/2.jpg
+  page: https://www.inaturalist.org/photos/726721129
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726721129/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoderus-ruficauda/3.jpg
+  page: https://www.inaturalist.org/photos/505663175
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505663175/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoderus-ruficauda/4.jpg
+  page: https://www.inaturalist.org/photos/604182151
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604182151/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoderus-ruficauda/5.jpg
+  page: https://www.inaturalist.org/photos/622222488
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622222488/original.jpg
 ---
 
 

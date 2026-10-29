@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/egretta-vinaceigula/1.jpg
+  page: https://www.inaturalist.org/photos/567467702
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567467702/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/egretta-vinaceigula/1.jpg
+  page: https://www.inaturalist.org/photos/567467702
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567467702/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-vinaceigula/2.jpg
+  page: https://www.inaturalist.org/photos/456157766
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456157766/original.jpeg
+- file: images/pelecaniformes/ardeidae/egretta-vinaceigula/3.jpg
+  page: https://www.inaturalist.org/photos/225651764
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225651764/original.jpeg
+- file: images/pelecaniformes/ardeidae/egretta-vinaceigula/4.jpg
+  page: https://www.inaturalist.org/photos/61950063
+  author: Robert Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61950063/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-vinaceigula/5.jpg
+  page: https://www.inaturalist.org/photos/473171297
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473171297/original.jpg
 ---
 
 

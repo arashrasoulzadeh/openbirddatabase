@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/antrostomus-saturatus/1.jpg
+  page: https://www.inaturalist.org/photos/350271542
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350271542/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-saturatus/1.jpg
+  page: https://www.inaturalist.org/photos/350271542
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350271542/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-saturatus/2.jpg
+  page: https://www.inaturalist.org/photos/195123978
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195123978/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-saturatus/3.jpg
+  page: https://www.inaturalist.org/photos/211028961
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211028961/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-saturatus/4.jpg
+  page: https://www.inaturalist.org/photos/66846921
+  author: Yves Bas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/66846921/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-saturatus/5.jpg
+  page: https://www.inaturalist.org/photos/350271545
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350271545/original.jpg
 ---
 
 

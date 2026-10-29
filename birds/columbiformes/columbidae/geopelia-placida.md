@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/columbiformes/columbidae/geopelia-placida/1.jpg
+  page: https://www.inaturalist.org/photos/604417209
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604417209/original.jpg
+images:
+- file: images/columbiformes/columbidae/geopelia-placida/1.jpg
+  page: https://www.inaturalist.org/photos/604417209
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604417209/original.jpg
+- file: images/columbiformes/columbidae/geopelia-placida/2.jpg
+  page: https://www.inaturalist.org/photos/606117121
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606117121/original.jpg
+- file: images/columbiformes/columbidae/geopelia-placida/3.jpg
+  page: https://www.inaturalist.org/photos/607397464
+  author: Suzanne Muzic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607397464/original.jpg
+- file: images/columbiformes/columbidae/geopelia-placida/4.jpg
+  page: https://www.inaturalist.org/photos/605844153
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605844153/original.jpg
+- file: images/columbiformes/columbidae/geopelia-placida/5.jpg
+  page: https://www.inaturalist.org/photos/606761227
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606761227/original.jpg
 ---
 
 

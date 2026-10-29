@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hemixos-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/618849307
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849307/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hemixos-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/618849307
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849307/original.jpg
+- file: images/passeriformes/pycnonotidae/hemixos-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/616152435
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152435/original.jpg
+- file: images/passeriformes/pycnonotidae/hemixos-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/482059458
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482059458/original.jpg
+- file: images/passeriformes/pycnonotidae/hemixos-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/593957245
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593957245/original.jpg
+- file: images/passeriformes/pycnonotidae/hemixos-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/599139779
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599139779/original.jpg
 ---
 
 

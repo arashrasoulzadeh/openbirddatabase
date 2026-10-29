@@ -153,10 +153,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-verticalis/1.jpg
+  page: https://www.inaturalist.org/photos/610176023
+  author: Jacqueline Raiford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610176023/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-verticalis/1.jpg
+  page: https://www.inaturalist.org/photos/610176023
+  author: Jacqueline Raiford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610176023/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-verticalis/2.jpg
+  page: https://www.inaturalist.org/photos/607971385
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607971385/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-verticalis/3.jpg
+  page: https://www.inaturalist.org/photos/609931346
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609931346/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-verticalis/4.jpg
+  page: https://www.inaturalist.org/photos/606025052
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606025052/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-verticalis/5.jpg
+  page: https://www.inaturalist.org/photos/606494364
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606494364/original.jpg
 ---
 
 

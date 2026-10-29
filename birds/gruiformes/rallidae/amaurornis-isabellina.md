@@ -134,8 +134,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/amaurornis-isabellina/1.jpg
+  page: https://www.inaturalist.org/photos/526014828
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014828/original.jpg
+images:
+- file: images/gruiformes/rallidae/amaurornis-isabellina/1.jpg
+  page: https://www.inaturalist.org/photos/526014828
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014828/original.jpg
+- file: images/gruiformes/rallidae/amaurornis-isabellina/2.jpg
+  page: https://www.inaturalist.org/photos/471305717
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471305717/original.jpeg
+- file: images/gruiformes/rallidae/amaurornis-isabellina/3.jpg
+  page: https://www.inaturalist.org/photos/311141339
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311141339/original.jpg
+- file: images/gruiformes/rallidae/amaurornis-isabellina/4.jpg
+  page: https://www.inaturalist.org/photos/228863624
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228863624/original.jpeg
+- file: images/gruiformes/rallidae/amaurornis-isabellina/5.jpg
+  page: https://www.inaturalist.org/photos/339645082
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339645082/original.jpg
 ---
 
 

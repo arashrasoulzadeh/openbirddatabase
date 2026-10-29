@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-hottentottus/1.jpg
+  page: https://www.inaturalist.org/photos/126329071
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/126329071/original.jpeg
+images:
+- file: images/charadriiformes/turnicidae/turnix-hottentottus/1.jpg
+  page: https://www.inaturalist.org/photos/126329071
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/126329071/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-hottentottus/2.jpg
+  page: https://www.inaturalist.org/photos/36139845
+  author: Seth Musker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/36139845/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-hottentottus/3.jpg
+  page: https://www.inaturalist.org/photos/126329241
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/126329241/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-hottentottus/4.jpg
+  page: https://www.inaturalist.org/photos/126329275
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/126329275/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-hottentottus/5.jpg
+  page: https://www.inaturalist.org/photos/134799231
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/134799231/original.jpeg
 ---
 
 

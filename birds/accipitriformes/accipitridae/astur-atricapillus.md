@@ -139,8 +139,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/astur-atricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/605815560
+  author: Owen Strickland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605815560/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/astur-atricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/605815560
+  author: Owen Strickland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605815560/original.jpg
+- file: images/accipitriformes/accipitridae/astur-atricapillus/2.jpg
+  page: https://www.inaturalist.org/photos/614766097
+  author: Sam Eberhard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614766097/original.jpg
+- file: images/accipitriformes/accipitridae/astur-atricapillus/3.jpg
+  page: https://www.inaturalist.org/photos/615100344
+  author: Colin Croft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615100344/original.jpg
+- file: images/accipitriformes/accipitridae/astur-atricapillus/4.jpg
+  page: https://www.inaturalist.org/photos/622886344
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622886344/original.jpg
+- file: images/accipitriformes/accipitridae/astur-atricapillus/5.jpg
+  page: https://www.inaturalist.org/photos/663905906
+  author: Syd Cannings
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663905906/original.jpg
 ---
 
 

@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sicalis-flaveola/1.jpg
+  page: https://www.inaturalist.org/photos/604750297
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604750297/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sicalis-flaveola/1.jpg
+  page: https://www.inaturalist.org/photos/604750297
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604750297/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-flaveola/2.jpg
+  page: https://www.inaturalist.org/photos/604540884
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604540884/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-flaveola/3.jpg
+  page: https://www.inaturalist.org/photos/605183151
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605183151/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-flaveola/4.jpg
+  page: https://www.inaturalist.org/photos/605583295
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605583295/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-flaveola/5.jpg
+  page: https://www.inaturalist.org/photos/605551523
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605551523/original.jpg
 ---
 
 

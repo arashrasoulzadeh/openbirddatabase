@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/notharchus-swainsoni/1.jpg
+  page: https://www.inaturalist.org/photos/616201345
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201345/original.jpg
+images:
+- file: images/piciformes/bucconidae/notharchus-swainsoni/1.jpg
+  page: https://www.inaturalist.org/photos/616201345
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201345/original.jpg
+- file: images/piciformes/bucconidae/notharchus-swainsoni/2.jpg
+  page: https://www.inaturalist.org/photos/693418552
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693418552/original.jpg
+- file: images/piciformes/bucconidae/notharchus-swainsoni/3.jpg
+  page: https://www.inaturalist.org/photos/720442973
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720442973/original.jpg
+- file: images/piciformes/bucconidae/notharchus-swainsoni/4.jpg
+  page: https://www.inaturalist.org/photos/739151757
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739151757/original.jpg
+- file: images/piciformes/bucconidae/notharchus-swainsoni/5.jpg
+  page: https://www.inaturalist.org/photos/528345275
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528345275/original.jpg
 ---
 
 

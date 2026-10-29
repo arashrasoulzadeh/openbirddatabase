@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/692278201
+  author: Reuber Brandão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692278201/original.jpg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/692278201
+  author: Reuber Brandão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692278201/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/414370699
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414370699/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/183622218
+  author: Pedro Sisnando Araújo dos Santos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/183622218/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/209404392
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/209404392/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/61737711
+  author: Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61737711/original.jpeg
 ---
 
 

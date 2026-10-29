@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/leuconotopicus-stricklandi/1.jpg
+  page: https://www.inaturalist.org/photos/478846913
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478846913/original.jpg
+images:
+- file: images/piciformes/picidae/leuconotopicus-stricklandi/1.jpg
+  page: https://www.inaturalist.org/photos/478846913
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478846913/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-stricklandi/2.jpg
+  page: https://www.inaturalist.org/photos/369975446
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369975446/original.jpeg
+- file: images/piciformes/picidae/leuconotopicus-stricklandi/3.jpg
+  page: https://www.inaturalist.org/photos/405634766
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/405634766/original.jpeg
+- file: images/piciformes/picidae/leuconotopicus-stricklandi/4.jpg
+  page: https://www.inaturalist.org/photos/406236750
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/406236750/original.jpeg
+- file: images/piciformes/picidae/leuconotopicus-stricklandi/5.jpg
+  page: https://www.inaturalist.org/photos/218669694
+  author: Alberto Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218669694/original.jpg
 ---
 
 

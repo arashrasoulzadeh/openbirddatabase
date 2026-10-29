@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/megaceryle-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/616542990
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616542990/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/megaceryle-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/616542990
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616542990/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-lugubris/2.jpg
+  page: https://www.inaturalist.org/photos/741101163
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741101163/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-lugubris/3.jpg
+  page: https://www.inaturalist.org/photos/624116677
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624116677/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-lugubris/4.jpg
+  page: https://www.inaturalist.org/photos/632815722
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632815722/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-lugubris/5.jpg
+  page: https://www.inaturalist.org/photos/692661749
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692661749/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanolyca-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/623770803
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623770803/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanolyca-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/623770803
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623770803/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-cucullata/2.jpg
+  page: https://www.inaturalist.org/photos/571222146
+  author: Phillip Salzinger
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571222146/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-cucullata/3.jpg
+  page: https://www.inaturalist.org/photos/570576817
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570576817/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-cucullata/4.jpg
+  page: https://www.inaturalist.org/photos/365782041
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365782041/original.jpeg
+- file: images/passeriformes/corvidae/cyanolyca-cucullata/5.jpg
+  page: https://www.inaturalist.org/photos/411817486
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411817486/original.jpeg
 ---
 
 

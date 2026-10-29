@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/procellariiformes/procellariidae/daption-capense/1.jpg
+  page: https://www.inaturalist.org/photos/605474728
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474728/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/daption-capense/1.jpg
+  page: https://www.inaturalist.org/photos/605474728
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474728/original.jpg
+- file: images/procellariiformes/procellariidae/daption-capense/2.jpg
+  page: https://www.inaturalist.org/photos/614225838
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614225838/original.jpg
+- file: images/procellariiformes/procellariidae/daption-capense/3.jpg
+  page: https://www.inaturalist.org/photos/605474752
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474752/original.jpg
+- file: images/procellariiformes/procellariidae/daption-capense/4.jpg
+  page: https://www.inaturalist.org/photos/605478378
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478378/original.jpg
+- file: images/procellariiformes/procellariidae/daption-capense/5.jpg
+  page: https://www.inaturalist.org/photos/605478308
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478308/original.jpg
 ---
 
 

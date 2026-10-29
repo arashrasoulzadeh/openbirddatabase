@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lampornis-hemileucus/1.jpg
+  page: https://www.inaturalist.org/photos/707785979
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707785979/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lampornis-hemileucus/1.jpg
+  page: https://www.inaturalist.org/photos/707785979
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707785979/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-hemileucus/2.jpg
+  page: https://www.inaturalist.org/photos/675769470
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675769470/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-hemileucus/3.jpg
+  page: https://www.inaturalist.org/photos/719214257
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719214257/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-hemileucus/4.jpg
+  page: https://www.inaturalist.org/photos/525106029
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525106029/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-hemileucus/5.jpg
+  page: https://www.inaturalist.org/photos/366687765
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366687765/original.jpeg
 ---
 
 

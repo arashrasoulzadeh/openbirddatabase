@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/661019810
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661019810/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/661019810
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661019810/original.jpg
+- file: images/passeriformes/passeridae/passer-simplex/2.jpg
+  page: https://www.inaturalist.org/photos/621084432
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621084432/original.jpg
+- file: images/passeriformes/passeridae/passer-simplex/3.jpg
+  page: https://www.inaturalist.org/photos/624568028
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624568028/original.jpg
+- file: images/passeriformes/passeridae/passer-simplex/4.jpg
+  page: https://www.inaturalist.org/photos/624018967
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624018967/original.jpg
+- file: images/passeriformes/passeridae/passer-simplex/5.jpg
+  page: https://www.inaturalist.org/photos/628286679
+  author: Johnny C
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628286679/original.jpg
 ---
 
 

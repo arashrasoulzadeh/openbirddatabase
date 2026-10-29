@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/173238276
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173238276/original.jpeg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/173238276
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173238276/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-rufogularis/2.jpg
+  page: https://www.inaturalist.org/photos/322042639
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322042639/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-rufogularis/3.jpg
+  page: https://www.inaturalist.org/photos/54852068
+  author: Paul Coddington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/54852068/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-rufogularis/4.jpg
+  page: https://www.inaturalist.org/photos/173238286
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173238286/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-rufogularis/5.jpg
+  page: https://www.inaturalist.org/photos/173241531
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173241531/original.jpeg
 ---
 
 

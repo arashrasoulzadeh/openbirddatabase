@@ -193,10 +193,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/locustellidae/locustella-luscinioides/1.jpg
+  page: https://www.inaturalist.org/photos/627476439
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627476439/original.jpg
+images:
+- file: images/passeriformes/locustellidae/locustella-luscinioides/1.jpg
+  page: https://www.inaturalist.org/photos/627476439
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627476439/original.jpg
+- file: images/passeriformes/locustellidae/locustella-luscinioides/2.jpg
+  page: https://www.inaturalist.org/photos/635153932
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635153932/original.jpg
+- file: images/passeriformes/locustellidae/locustella-luscinioides/3.jpg
+  page: https://www.inaturalist.org/photos/635524586
+  author: Mattis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635524586/original.jpg
+- file: images/passeriformes/locustellidae/locustella-luscinioides/4.jpg
+  page: https://www.inaturalist.org/photos/645670816
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645670816/original.jpg
+- file: images/passeriformes/locustellidae/locustella-luscinioides/5.jpg
+  page: https://www.inaturalist.org/photos/646273748
+  author: Tomas Broucek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646273748/original.jpg
 ---
 
 

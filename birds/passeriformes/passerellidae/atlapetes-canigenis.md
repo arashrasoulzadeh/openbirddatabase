@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-canigenis/1.jpg
+  page: https://www.inaturalist.org/photos/624066100
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624066100/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-canigenis/1.jpg
+  page: https://www.inaturalist.org/photos/624066100
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624066100/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-canigenis/2.jpg
+  page: https://www.inaturalist.org/photos/483912369
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483912369/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-canigenis/3.jpg
+  page: https://www.inaturalist.org/photos/423561268
+  author: Andrew Campbell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423561268/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-canigenis/4.jpg
+  page: https://www.inaturalist.org/photos/339580964
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339580964/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-canigenis/5.jpg
+  page: https://www.inaturalist.org/photos/243713916
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243713916/original.jpg
 ---
 
 

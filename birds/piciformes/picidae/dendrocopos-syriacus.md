@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/piciformes/picidae/dendrocopos-syriacus/1.jpg
+  page: https://www.inaturalist.org/photos/610375213
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610375213/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-syriacus/1.jpg
+  page: https://www.inaturalist.org/photos/610375213
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610375213/original.jpg
+- file: images/piciformes/picidae/dendrocopos-syriacus/2.jpg
+  page: https://www.inaturalist.org/photos/607115079
+  author: Дима Орлов
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607115079/original.jpg
+- file: images/piciformes/picidae/dendrocopos-syriacus/3.jpg
+  page: https://www.inaturalist.org/photos/610375352
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610375352/original.jpg
+- file: images/piciformes/picidae/dendrocopos-syriacus/4.jpg
+  page: https://www.inaturalist.org/photos/610375400
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610375400/original.jpg
+- file: images/piciformes/picidae/dendrocopos-syriacus/5.jpg
+  page: https://www.inaturalist.org/photos/610375434
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610375434/original.jpg
 ---
 
 

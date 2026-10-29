@@ -123,8 +123,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/paradisaeidae/diphyllodes-respublica/1.jpg
+  page: https://www.inaturalist.org/photos/605969179
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605969179/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/diphyllodes-respublica/1.jpg
+  page: https://www.inaturalist.org/photos/605969179
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605969179/original.jpg
+- file: images/passeriformes/paradisaeidae/diphyllodes-respublica/2.jpg
+  page: https://www.inaturalist.org/photos/613592128
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613592128/original.jpg
+- file: images/passeriformes/paradisaeidae/diphyllodes-respublica/3.jpg
+  page: https://www.inaturalist.org/photos/477473720
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477473720/original.jpeg
+- file: images/passeriformes/paradisaeidae/diphyllodes-respublica/4.jpg
+  page: https://www.inaturalist.org/photos/594920257
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594920257/original.jpg
+- file: images/passeriformes/paradisaeidae/diphyllodes-respublica/5.jpg
+  page: https://www.inaturalist.org/photos/730827408
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730827408/original.jpg
 ---
 
 

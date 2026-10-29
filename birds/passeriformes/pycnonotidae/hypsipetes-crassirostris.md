@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/621762828
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621762828/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/621762828
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621762828/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/691000284
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691000284/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/453500345
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453500345/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/691000319
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691000319/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/453437557
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453437557/original.jpeg
 ---
 
 

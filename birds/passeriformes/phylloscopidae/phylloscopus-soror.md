@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-soror/1.jpg
+  page: https://www.inaturalist.org/photos/683615153
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683615153/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-soror/1.jpg
+  page: https://www.inaturalist.org/photos/683615153
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683615153/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-soror/2.jpg
+  page: https://www.inaturalist.org/photos/586324280
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586324280/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-soror/3.jpg
+  page: https://www.inaturalist.org/photos/401444962
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401444962/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-soror/4.jpg
+  page: https://www.inaturalist.org/photos/129254419
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129254419/original.jpeg
+- file: images/passeriformes/phylloscopidae/phylloscopus-soror/5.jpg
+  page: https://www.inaturalist.org/photos/586324319
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586324319/original.jpg
 ---
 
 

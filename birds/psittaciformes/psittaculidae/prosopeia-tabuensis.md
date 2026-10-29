@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/prosopeia-tabuensis/1.jpg
+  page: https://www.inaturalist.org/photos/728673466
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728673466/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/prosopeia-tabuensis/1.jpg
+  page: https://www.inaturalist.org/photos/728673466
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728673466/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-tabuensis/2.jpg
+  page: https://www.inaturalist.org/photos/482632711
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482632711/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-tabuensis/3.jpg
+  page: https://www.inaturalist.org/photos/333031554
+  author: J Straka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333031554/original.jpeg
+- file: images/psittaciformes/psittaculidae/prosopeia-tabuensis/4.jpg
+  page: https://www.inaturalist.org/photos/60382683
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60382683/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-tabuensis/5.jpg
+  page: https://www.inaturalist.org/photos/728673516
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728673516/original.jpg
 ---
 
 

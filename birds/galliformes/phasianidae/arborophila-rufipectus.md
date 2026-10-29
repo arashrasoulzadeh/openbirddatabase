@@ -148,8 +148,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/arborophila-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/511368850
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511368850/original.jpg
+images:
+- file: images/galliformes/phasianidae/arborophila-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/511368850
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511368850/original.jpg
+- file: images/galliformes/phasianidae/arborophila-rufipectus/2.jpg
+  page: https://www.inaturalist.org/photos/337839240
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337839240/original.jpeg
+- file: images/galliformes/phasianidae/arborophila-rufipectus/3.jpg
+  page: https://www.inaturalist.org/photos/337839247
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337839247/original.jpeg
+- file: images/galliformes/phasianidae/arborophila-rufipectus/4.jpg
+  page: https://www.inaturalist.org/photos/337839266
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337839266/original.jpeg
 ---
 
 

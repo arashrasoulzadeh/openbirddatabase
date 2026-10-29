@@ -137,10 +137,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/laniidae/lanius-validirostris/1.jpg
+  page: https://www.inaturalist.org/photos/267295841
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295841/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-validirostris/1.jpg
+  page: https://www.inaturalist.org/photos/267295841
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295841/original.jpg
+- file: images/passeriformes/laniidae/lanius-validirostris/2.jpg
+  page: https://www.inaturalist.org/photos/267295855
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295855/original.jpg
+- file: images/passeriformes/laniidae/lanius-validirostris/3.jpg
+  page: https://www.inaturalist.org/photos/267295868
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295868/original.jpg
+- file: images/passeriformes/laniidae/lanius-validirostris/4.jpg
+  page: https://www.inaturalist.org/photos/267295881
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295881/original.jpg
+- file: images/passeriformes/laniidae/lanius-validirostris/5.jpg
+  page: https://www.inaturalist.org/photos/267295894
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295894/original.jpg
 ---
 
 

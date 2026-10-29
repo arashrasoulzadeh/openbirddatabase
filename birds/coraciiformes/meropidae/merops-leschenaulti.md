@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-leschenaulti/1.jpg
+  page: https://www.inaturalist.org/photos/607907291
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907291/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-leschenaulti/1.jpg
+  page: https://www.inaturalist.org/photos/607907291
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907291/original.jpg
+- file: images/coraciiformes/meropidae/merops-leschenaulti/2.jpg
+  page: https://www.inaturalist.org/photos/609462970
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609462970/original.jpg
+- file: images/coraciiformes/meropidae/merops-leschenaulti/3.jpg
+  page: https://www.inaturalist.org/photos/608034371
+  author: engagenosey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608034371/original.jpg
+- file: images/coraciiformes/meropidae/merops-leschenaulti/4.jpg
+  page: https://www.inaturalist.org/photos/607743757
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607743757/original.jpg
+- file: images/coraciiformes/meropidae/merops-leschenaulti/5.jpg
+  page: https://www.inaturalist.org/photos/611667564
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611667564/original.jpg
 ---
 
 

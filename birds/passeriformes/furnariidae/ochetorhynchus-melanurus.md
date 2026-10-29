@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/ochetorhynchus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/666124166
+  author: Nutri Gabi Barrera
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666124166/original.jpg
+images:
+- file: images/passeriformes/furnariidae/ochetorhynchus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/666124166
+  author: Nutri Gabi Barrera
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666124166/original.jpg
+- file: images/passeriformes/furnariidae/ochetorhynchus-melanurus/2.jpg
+  page: https://www.inaturalist.org/photos/738878802
+  author: Gaston Carvallo B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738878802/original.jpg
+- file: images/passeriformes/furnariidae/ochetorhynchus-melanurus/3.jpg
+  page: https://www.inaturalist.org/photos/499661022
+  author: SebaArosZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499661022/original.jpeg
+- file: images/passeriformes/furnariidae/ochetorhynchus-melanurus/4.jpg
+  page: https://www.inaturalist.org/photos/508141594
+  author: Franco Arenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508141594/original.jpg
+- file: images/passeriformes/furnariidae/ochetorhynchus-melanurus/5.jpg
+  page: https://www.inaturalist.org/photos/527227617
+  author: Eric Schmidt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527227617/original.jpg
 ---
 
 

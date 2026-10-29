@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-brevipes/1.jpg
+  page: https://www.inaturalist.org/photos/613421694
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613421694/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-brevipes/1.jpg
+  page: https://www.inaturalist.org/photos/613421694
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613421694/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-brevipes/2.jpg
+  page: https://www.inaturalist.org/photos/473619999
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473619999/original.jpeg
+- file: images/passeriformes/muscicapidae/monticola-brevipes/3.jpg
+  page: https://www.inaturalist.org/photos/550164588
+  author: Albertus Horn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550164588/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-brevipes/4.jpg
+  page: https://www.inaturalist.org/photos/581569259
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581569259/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-brevipes/5.jpg
+  page: https://www.inaturalist.org/photos/586937916
+  author: Stefan Curth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586937916/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-uropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/609669780
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609669780/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-uropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/609669780
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609669780/original.jpg
+- file: images/passeriformes/fringillidae/spinus-uropygialis/2.jpg
+  page: https://www.inaturalist.org/photos/615894021
+  author: Jorge Muñoz Camadro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615894021/original.jpg
+- file: images/passeriformes/fringillidae/spinus-uropygialis/3.jpg
+  page: https://www.inaturalist.org/photos/466311347
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466311347/original.jpg
+- file: images/passeriformes/fringillidae/spinus-uropygialis/4.jpg
+  page: https://www.inaturalist.org/photos/463402758
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463402758/original.jpg
+- file: images/passeriformes/fringillidae/spinus-uropygialis/5.jpg
+  page: https://www.inaturalist.org/photos/541004534
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541004534/original.jpg
 ---
 
 

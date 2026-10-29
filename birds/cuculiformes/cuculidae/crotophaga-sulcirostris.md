@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/crotophaga-sulcirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605647182
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605647182/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/crotophaga-sulcirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605647182
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605647182/original.jpg
+- file: images/cuculiformes/cuculidae/crotophaga-sulcirostris/2.jpg
+  page: https://www.inaturalist.org/photos/607960314
+  author: Francisco Farriols Sarabia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607960314/original.jpg
+- file: images/cuculiformes/cuculidae/crotophaga-sulcirostris/3.jpg
+  page: https://www.inaturalist.org/photos/606797754
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606797754/original.jpg
+- file: images/cuculiformes/cuculidae/crotophaga-sulcirostris/4.jpg
+  page: https://www.inaturalist.org/photos/609559152
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609559152/original.jpg
+- file: images/cuculiformes/cuculidae/crotophaga-sulcirostris/5.jpg
+  page: https://www.inaturalist.org/photos/608968206
+  author: Erick Vélez Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608968206/original.jpg
 ---
 
 

@@ -213,10 +213,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/charadriiformes/scolopacidae/xenus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/616761767
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761767/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/xenus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/616761767
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761767/original.jpg
+- file: images/charadriiformes/scolopacidae/xenus-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/619541219
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619541219/original.jpg
+- file: images/charadriiformes/scolopacidae/xenus-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/620817132
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620817132/original.jpg
+- file: images/charadriiformes/scolopacidae/xenus-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/623892439
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623892439/original.jpg
+- file: images/charadriiformes/scolopacidae/xenus-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/631185216
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631185216/original.jpg
 ---
 
 

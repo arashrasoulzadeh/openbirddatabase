@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/730676367
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730676367/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/730676367
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730676367/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-albifrons/2.jpg
+  page: https://www.inaturalist.org/photos/562726826
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562726826/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-albifrons/3.jpg
+  page: https://www.inaturalist.org/photos/601129839
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601129839/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-albifrons/4.jpg
+  page: https://www.inaturalist.org/photos/353435000
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353435000/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-albifrons/5.jpg
+  page: https://www.inaturalist.org/photos/553572114
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553572114/original.jpg
 ---
 
 

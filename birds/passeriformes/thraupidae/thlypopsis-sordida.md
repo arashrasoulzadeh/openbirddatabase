@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/thlypopsis-sordida/1.jpg
+  page: https://www.inaturalist.org/photos/628182995
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628182995/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thlypopsis-sordida/1.jpg
+  page: https://www.inaturalist.org/photos/628182995
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628182995/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-sordida/2.jpg
+  page: https://www.inaturalist.org/photos/615102046
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615102046/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-sordida/3.jpg
+  page: https://www.inaturalist.org/photos/631620840
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631620840/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-sordida/4.jpg
+  page: https://www.inaturalist.org/photos/642923410
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642923410/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-sordida/5.jpg
+  page: https://www.inaturalist.org/photos/641925346
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641925346/original.jpg
 ---
 
 

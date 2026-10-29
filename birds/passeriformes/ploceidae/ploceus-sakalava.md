@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-sakalava/1.jpg
+  page: https://www.inaturalist.org/photos/639161220
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639161220/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-sakalava/1.jpg
+  page: https://www.inaturalist.org/photos/639161220
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639161220/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-sakalava/2.jpg
+  page: https://www.inaturalist.org/photos/580221222
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580221222/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-sakalava/3.jpg
+  page: https://www.inaturalist.org/photos/451621653
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451621653/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-sakalava/4.jpg
+  page: https://www.inaturalist.org/photos/455475297
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455475297/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-sakalava/5.jpg
+  page: https://www.inaturalist.org/photos/639160940
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639160940/original.jpg
 ---
 
 

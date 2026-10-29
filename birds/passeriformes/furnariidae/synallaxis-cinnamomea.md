@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/synallaxis-cinnamomea/1.jpg
+  page: https://www.inaturalist.org/photos/701106186
+  author: Bendi Toth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701106186/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-cinnamomea/1.jpg
+  page: https://www.inaturalist.org/photos/701106186
+  author: Bendi Toth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701106186/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-cinnamomea/2.jpg
+  page: https://www.inaturalist.org/photos/263015515
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263015515/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-cinnamomea/3.jpg
+  page: https://www.inaturalist.org/photos/263015585
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263015585/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-cinnamomea/4.jpg
+  page: https://www.inaturalist.org/photos/263015659
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263015659/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-cinnamomea/5.jpg
+  page: https://www.inaturalist.org/photos/263015727
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263015727/original.jpeg
 ---
 
 

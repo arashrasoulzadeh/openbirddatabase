@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/bangsia-melanochlamys/1.jpg
+  page: https://www.inaturalist.org/photos/652842134
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652842134/original.jpg
+images:
+- file: images/passeriformes/thraupidae/bangsia-melanochlamys/1.jpg
+  page: https://www.inaturalist.org/photos/652842134
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652842134/original.jpg
+- file: images/passeriformes/thraupidae/bangsia-melanochlamys/2.jpg
+  page: https://www.inaturalist.org/photos/489869746
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489869746/original.jpg
+- file: images/passeriformes/thraupidae/bangsia-melanochlamys/3.jpg
+  page: https://www.inaturalist.org/photos/489394451
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489394451/original.jpg
+- file: images/passeriformes/thraupidae/bangsia-melanochlamys/4.jpg
+  page: https://www.inaturalist.org/photos/353072687
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353072687/original.jpeg
+- file: images/passeriformes/thraupidae/bangsia-melanochlamys/5.jpg
+  page: https://www.inaturalist.org/photos/505492424
+  author: Esteban Villa Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505492424/original.jpg
 ---
 
 

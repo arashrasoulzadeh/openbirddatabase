@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/pygochelidon-cyanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/605914331
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914331/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/pygochelidon-cyanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/605914331
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914331/original.jpg
+- file: images/passeriformes/hirundinidae/pygochelidon-cyanoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/607805788
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607805788/original.jpg
+- file: images/passeriformes/hirundinidae/pygochelidon-cyanoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/608651796
+  author: Darci
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608651796/original.jpg
+- file: images/passeriformes/hirundinidae/pygochelidon-cyanoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/607498473
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607498473/original.jpg
+- file: images/passeriformes/hirundinidae/pygochelidon-cyanoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/608918784
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608918784/original.jpg
 ---
 
 

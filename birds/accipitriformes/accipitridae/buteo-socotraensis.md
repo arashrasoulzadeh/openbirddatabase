@@ -145,10 +145,37 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/accipitriformes/accipitridae/buteo-socotraensis/1.jpg
+  page: https://www.inaturalist.org/photos/256155076
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256155076/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-socotraensis/1.jpg
+  page: https://www.inaturalist.org/photos/256155076
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256155076/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-socotraensis/2.jpg
+  page: https://www.inaturalist.org/photos/336780320
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336780320/original.jpeg
+- file: images/accipitriformes/accipitridae/buteo-socotraensis/3.jpg
+  page: https://www.inaturalist.org/photos/88513469
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/88513469/original.jpeg
 ---
 
 

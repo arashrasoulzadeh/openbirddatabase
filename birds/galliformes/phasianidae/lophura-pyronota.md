@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lophura-pyronota/1.jpg
+  page: https://www.inaturalist.org/photos/672066047
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672066047/original.jpg
+images:
+- file: images/galliformes/phasianidae/lophura-pyronota/1.jpg
+  page: https://www.inaturalist.org/photos/672066047
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672066047/original.jpg
+- file: images/galliformes/phasianidae/lophura-pyronota/2.jpg
+  page: https://www.inaturalist.org/photos/468623367
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468623367/original.jpeg
+- file: images/galliformes/phasianidae/lophura-pyronota/3.jpg
+  page: https://www.inaturalist.org/photos/426131499
+  author: kkacheltje
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426131499/original.jpeg
+- file: images/galliformes/phasianidae/lophura-pyronota/4.jpg
+  page: https://www.inaturalist.org/photos/437781761
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437781761/original.jpeg
+- file: images/galliformes/phasianidae/lophura-pyronota/5.jpg
+  page: https://www.inaturalist.org/photos/9904520
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9904520/original.jpeg
 ---
 
 

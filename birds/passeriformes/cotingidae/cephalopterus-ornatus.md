@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/cephalopterus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/625516037
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625516037/original.jpg
+images:
+- file: images/passeriformes/cotingidae/cephalopterus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/625516037
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625516037/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/489124440
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489124440/original.jpeg
+- file: images/passeriformes/cotingidae/cephalopterus-ornatus/3.jpg
+  page: https://www.inaturalist.org/photos/559037026
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559037026/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-ornatus/4.jpg
+  page: https://www.inaturalist.org/photos/589475451
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589475451/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-ornatus/5.jpg
+  page: https://www.inaturalist.org/photos/599778602
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599778602/original.jpg
 ---
 
 

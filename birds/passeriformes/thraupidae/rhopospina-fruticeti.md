@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/rhopospina-fruticeti/1.jpg
+  page: https://www.inaturalist.org/photos/608757587
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608757587/original.jpg
+images:
+- file: images/passeriformes/thraupidae/rhopospina-fruticeti/1.jpg
+  page: https://www.inaturalist.org/photos/608757587
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608757587/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-fruticeti/2.jpg
+  page: https://www.inaturalist.org/photos/615364122
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615364122/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-fruticeti/3.jpg
+  page: https://www.inaturalist.org/photos/618435752
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618435752/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-fruticeti/4.jpg
+  page: https://www.inaturalist.org/photos/617994178
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617994178/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-fruticeti/5.jpg
+  page: https://www.inaturalist.org/photos/617308364
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617308364/original.jpg
 ---
 
 

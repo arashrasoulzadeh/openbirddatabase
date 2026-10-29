@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-atrinucha/1.jpg
+  page: https://www.inaturalist.org/photos/609534062
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609534062/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-atrinucha/1.jpg
+  page: https://www.inaturalist.org/photos/609534062
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609534062/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-atrinucha/2.jpg
+  page: https://www.inaturalist.org/photos/606242944
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606242944/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-atrinucha/3.jpg
+  page: https://www.inaturalist.org/photos/613762903
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762903/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-atrinucha/4.jpg
+  page: https://www.inaturalist.org/photos/612921910
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612921910/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-atrinucha/5.jpg
+  page: https://www.inaturalist.org/photos/614265382
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614265382/original.jpg
 ---
 
 

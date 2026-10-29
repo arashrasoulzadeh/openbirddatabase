@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/acanthizidae/acanthiza-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/605597640
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605597640/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthiza-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/605597640
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605597640/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-pusilla/2.jpg
+  page: https://www.inaturalist.org/photos/607649693
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607649693/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-pusilla/3.jpg
+  page: https://www.inaturalist.org/photos/609418403
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609418403/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-pusilla/4.jpg
+  page: https://www.inaturalist.org/photos/606118394
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606118394/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-pusilla/5.jpg
+  page: https://www.inaturalist.org/photos/607649659
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607649659/original.jpg
 ---
 
 

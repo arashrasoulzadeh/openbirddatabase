@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pnoepygidae/pnoepyga-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/610384514
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610384514/original.jpg
+images:
+- file: images/passeriformes/pnoepygidae/pnoepyga-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/610384514
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610384514/original.jpg
+- file: images/passeriformes/pnoepygidae/pnoepyga-pusilla/2.jpg
+  page: https://www.inaturalist.org/photos/631423801
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631423801/original.jpg
+- file: images/passeriformes/pnoepygidae/pnoepyga-pusilla/3.jpg
+  page: https://www.inaturalist.org/photos/469021722
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469021722/original.jpeg
+- file: images/passeriformes/pnoepygidae/pnoepyga-pusilla/4.jpg
+  page: https://www.inaturalist.org/photos/541190902
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541190902/original.jpg
+- file: images/passeriformes/pnoepygidae/pnoepyga-pusilla/5.jpg
+  page: https://www.inaturalist.org/photos/471188915
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471188915/original.jpeg
 ---
 
 

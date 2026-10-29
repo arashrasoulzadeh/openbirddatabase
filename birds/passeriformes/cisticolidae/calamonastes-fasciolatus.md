@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/calamonastes-fasciolatus/1.jpg
+  page: https://www.inaturalist.org/photos/611842615
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611842615/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/calamonastes-fasciolatus/1.jpg
+  page: https://www.inaturalist.org/photos/611842615
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611842615/original.jpg
+- file: images/passeriformes/cisticolidae/calamonastes-fasciolatus/2.jpg
+  page: https://www.inaturalist.org/photos/730289528
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730289528/original.jpg
+- file: images/passeriformes/cisticolidae/calamonastes-fasciolatus/3.jpg
+  page: https://www.inaturalist.org/photos/554599719
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554599719/original.jpg
+- file: images/passeriformes/cisticolidae/calamonastes-fasciolatus/4.jpg
+  page: https://www.inaturalist.org/photos/309421554
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309421554/original.jpeg
+- file: images/passeriformes/cisticolidae/calamonastes-fasciolatus/5.jpg
+  page: https://www.inaturalist.org/photos/352651693
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352651693/original.jpeg
 ---
 
 

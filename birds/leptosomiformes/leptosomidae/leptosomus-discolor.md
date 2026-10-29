@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/leptosomiformes/leptosomidae/leptosomus-discolor/1.jpg
+  page: https://www.inaturalist.org/photos/452196998
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452196998/original.jpg
+images:
+- file: images/leptosomiformes/leptosomidae/leptosomus-discolor/1.jpg
+  page: https://www.inaturalist.org/photos/452196998
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452196998/original.jpg
+- file: images/leptosomiformes/leptosomidae/leptosomus-discolor/2.jpg
+  page: https://www.inaturalist.org/photos/455677304
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455677304/original.jpeg
+- file: images/leptosomiformes/leptosomidae/leptosomus-discolor/3.jpg
+  page: https://www.inaturalist.org/photos/448844318
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448844318/original.jpeg
+- file: images/leptosomiformes/leptosomidae/leptosomus-discolor/4.jpg
+  page: https://www.inaturalist.org/photos/338065022
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338065022/original.jpeg
+- file: images/leptosomiformes/leptosomidae/leptosomus-discolor/5.jpg
+  page: https://www.inaturalist.org/photos/187856116
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187856116/original.jpeg
 ---
 
 

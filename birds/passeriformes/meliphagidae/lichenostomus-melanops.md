@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/meliphagidae/lichenostomus-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/609647325
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609647325/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/lichenostomus-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/609647325
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609647325/original.jpg
+- file: images/passeriformes/meliphagidae/lichenostomus-melanops/2.jpg
+  page: https://www.inaturalist.org/photos/623715495
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623715495/original.jpg
+- file: images/passeriformes/meliphagidae/lichenostomus-melanops/3.jpg
+  page: https://www.inaturalist.org/photos/617689950
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617689950/original.jpg
+- file: images/passeriformes/meliphagidae/lichenostomus-melanops/4.jpg
+  page: https://www.inaturalist.org/photos/620053801
+  author: Niko Ioannidis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620053801/original.jpg
+- file: images/passeriformes/meliphagidae/lichenostomus-melanops/5.jpg
+  page: https://www.inaturalist.org/photos/627311975
+  author: Sofia Zvolanek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627311975/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-curucui/1.jpg
+  page: https://www.inaturalist.org/photos/610171891
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610171891/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-curucui/1.jpg
+  page: https://www.inaturalist.org/photos/610171891
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610171891/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-curucui/2.jpg
+  page: https://www.inaturalist.org/photos/612751114
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612751114/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-curucui/3.jpg
+  page: https://www.inaturalist.org/photos/610948186
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610948186/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-curucui/4.jpg
+  page: https://www.inaturalist.org/photos/612177310
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612177310/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-curucui/5.jpg
+  page: https://www.inaturalist.org/photos/620424799
+  author: Stan Rullman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620424799/original.jpg
 ---
 
 

@@ -135,7 +135,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 23.4
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 94.5
   tail_length_mm: 54.0
   body_mass_g: 93.0
+image:
+  file: images/piciformes/megalaimidae/psilopogon-incognitus/1.jpg
+  page: https://www.inaturalist.org/photos/619800859
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619800859/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-incognitus/1.jpg
+  page: https://www.inaturalist.org/photos/619800859
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619800859/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-incognitus/2.jpg
+  page: https://www.inaturalist.org/photos/630009633
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630009633/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-incognitus/3.jpg
+  page: https://www.inaturalist.org/photos/352676793
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352676793/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-incognitus/4.jpg
+  page: https://www.inaturalist.org/photos/457457648
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457457648/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-incognitus/5.jpg
+  page: https://www.inaturalist.org/photos/272438272
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/272438272/original.jpg
 ---
 
 

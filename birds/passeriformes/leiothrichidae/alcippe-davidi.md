@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/348426917
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348426917/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/348426917
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348426917/original.jpeg
+- file: images/passeriformes/leiothrichidae/alcippe-davidi/2.jpg
+  page: https://www.inaturalist.org/photos/395498935
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395498935/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-davidi/3.jpg
+  page: https://www.inaturalist.org/photos/600548665
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600548665/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-davidi/4.jpg
+  page: https://www.inaturalist.org/photos/267227854
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267227854/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-davidi/5.jpg
+  page: https://www.inaturalist.org/photos/331623766
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331623766/original.jpeg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/myiagra-inquieta/1.jpg
+  page: https://www.inaturalist.org/photos/616573530
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616573530/original.jpg
+images:
+- file: images/passeriformes/monarchidae/myiagra-inquieta/1.jpg
+  page: https://www.inaturalist.org/photos/616573530
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616573530/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-inquieta/2.jpg
+  page: https://www.inaturalist.org/photos/639509012
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639509012/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-inquieta/3.jpg
+  page: https://www.inaturalist.org/photos/635968978
+  author: Roman Soroka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635968978/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-inquieta/4.jpg
+  page: https://www.inaturalist.org/photos/710814670
+  author: Scott Bazely
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710814670/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-inquieta/5.jpg
+  page: https://www.inaturalist.org/photos/616581357
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616581357/original.jpg
 ---
 
 

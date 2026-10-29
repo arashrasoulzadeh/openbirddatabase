@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605604846
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605604846/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605604846
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605604846/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-tenuirostris/2.jpg
+  page: https://www.inaturalist.org/photos/604662574
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662574/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-tenuirostris/3.jpg
+  page: https://www.inaturalist.org/photos/609854839
+  author: Ian Rainbow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609854839/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-tenuirostris/4.jpg
+  page: https://www.inaturalist.org/photos/607403278
+  author: Cowirrie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607403278/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-tenuirostris/5.jpg
+  page: https://www.inaturalist.org/photos/605604853
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605604853/original.jpg
 ---
 
 

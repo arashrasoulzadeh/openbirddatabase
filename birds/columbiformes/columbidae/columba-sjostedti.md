@@ -136,7 +136,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 24.4
@@ -144,6 +145,20 @@ morphology:
   wing_length_mm: 216.8
   tail_length_mm: 119.0
   body_mass_g: 308.5
+image:
+  file: images/columbiformes/columbidae/columba-sjostedti/1.jpg
+  page: https://www.inaturalist.org/photos/640845304
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845304/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-sjostedti/1.jpg
+  page: https://www.inaturalist.org/photos/640845304
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845304/original.jpg
 ---
 
 

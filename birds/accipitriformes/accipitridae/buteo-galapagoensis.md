@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-galapagoensis/1.jpg
+  page: https://www.inaturalist.org/photos/608684552
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608684552/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-galapagoensis/1.jpg
+  page: https://www.inaturalist.org/photos/608684552
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608684552/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-galapagoensis/2.jpg
+  page: https://www.inaturalist.org/photos/660962091
+  author: Karen Guin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660962091/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-galapagoensis/3.jpg
+  page: https://www.inaturalist.org/photos/691784782
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691784782/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-galapagoensis/4.jpg
+  page: https://www.inaturalist.org/photos/693541310
+  author: Naji Love
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693541310/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-galapagoensis/5.jpg
+  page: https://www.inaturalist.org/photos/608684563
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608684563/original.jpg
 ---
 
 

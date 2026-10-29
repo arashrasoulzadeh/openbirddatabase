@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/buccanodon-duchaillui/1.jpg
+  page: https://www.inaturalist.org/photos/665525589
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525589/original.jpg
+images:
+- file: images/piciformes/lybiidae/buccanodon-duchaillui/1.jpg
+  page: https://www.inaturalist.org/photos/665525589
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525589/original.jpg
+- file: images/piciformes/lybiidae/buccanodon-duchaillui/2.jpg
+  page: https://www.inaturalist.org/photos/584776226
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584776226/original.jpg
+- file: images/piciformes/lybiidae/buccanodon-duchaillui/3.jpg
+  page: https://www.inaturalist.org/photos/280875309
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/280875309/original.jpeg
+- file: images/piciformes/lybiidae/buccanodon-duchaillui/4.jpg
+  page: https://www.inaturalist.org/photos/181193583
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181193583/original.jpg
+- file: images/piciformes/lybiidae/buccanodon-duchaillui/5.jpg
+  page: http://www.flickr.com/photos/55368994@N06/7141578317
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/111239/original.jpg
 ---
 
 

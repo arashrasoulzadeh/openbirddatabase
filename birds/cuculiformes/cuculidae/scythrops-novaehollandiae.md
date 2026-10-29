@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/cuculiformes/cuculidae/scythrops-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/606096926
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606096926/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/scythrops-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/606096926
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606096926/original.jpg
+- file: images/cuculiformes/cuculidae/scythrops-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/606320041
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606320041/original.jpg
+- file: images/cuculiformes/cuculidae/scythrops-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/607267515
+  author: Elizabeth Meier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607267515/original.jpg
+- file: images/cuculiformes/cuculidae/scythrops-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/612933829
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612933829/original.jpg
+- file: images/cuculiformes/cuculidae/scythrops-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/742065122
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742065122/original.jpg
 ---
 
 

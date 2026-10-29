@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 30.0
@@ -136,6 +137,20 @@ morphology:
   wing_length_mm: 93.7
   tail_length_mm: 87.2
   body_mass_g: 22.5
+image:
+  file: images/passeriformes/meliphagidae/myza-sarasinorum/1.jpg
+  page: https://www.inaturalist.org/photos/925097
+  author: Fabian Brambach
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/925097/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myza-sarasinorum/1.jpg
+  page: https://www.inaturalist.org/photos/925097
+  author: Fabian Brambach
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/925097/original.jpg
 ---
 
 

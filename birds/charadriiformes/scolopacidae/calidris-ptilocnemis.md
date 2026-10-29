@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/charadriiformes/scolopacidae/calidris-ptilocnemis/1.jpg
+  page: https://www.inaturalist.org/photos/609370947
+  author: Aiva Noringseth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609370947/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-ptilocnemis/1.jpg
+  page: https://www.inaturalist.org/photos/609370947
+  author: Aiva Noringseth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609370947/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ptilocnemis/2.jpg
+  page: https://www.inaturalist.org/photos/609135013
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609135013/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ptilocnemis/3.jpg
+  page: https://www.inaturalist.org/photos/627673449
+  author: Hartwig Adam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627673449/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ptilocnemis/4.jpg
+  page: https://www.inaturalist.org/photos/659638053
+  author: Seth G. Breeding
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659638053/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ptilocnemis/5.jpg
+  page: https://www.inaturalist.org/photos/677665481
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677665481/original.jpg
 ---
 
 

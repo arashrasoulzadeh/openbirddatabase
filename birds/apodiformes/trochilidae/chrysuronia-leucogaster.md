@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chrysuronia-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/611954692
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611954692/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chrysuronia-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/611954692
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611954692/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-leucogaster/2.jpg
+  page: https://www.inaturalist.org/photos/612812080
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612812080/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-leucogaster/3.jpg
+  page: https://www.inaturalist.org/photos/714440763
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714440763/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-leucogaster/4.jpg
+  page: https://www.inaturalist.org/photos/624866321
+  author: Eli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624866321/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-leucogaster/5.jpg
+  page: https://www.inaturalist.org/photos/633350817
+  author: Andrii Khokhlov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633350817/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-niveiceps/1.jpg
+  page: https://www.inaturalist.org/photos/531750825
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531750825/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-niveiceps/1.jpg
+  page: https://www.inaturalist.org/photos/531750825
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531750825/original.jpg
+- file: images/passeriformes/turdidae/turdus-niveiceps/2.jpg
+  page: https://www.inaturalist.org/photos/251680676
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251680676/original.png
+- file: images/passeriformes/turdidae/turdus-niveiceps/3.jpg
+  page: https://www.inaturalist.org/photos/39110830
+  author: Tatsutomo Chin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/39110830/original.jpg
+- file: images/passeriformes/turdidae/turdus-niveiceps/4.jpg
+  page: https://www.inaturalist.org/photos/531751255
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531751255/original.jpg
+- file: images/passeriformes/turdidae/turdus-niveiceps/5.jpg
+  page: https://www.inaturalist.org/photos/531751250
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531751250/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-monticolum/1.jpg
+  page: https://www.inaturalist.org/photos/526187471
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526187471/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-monticolum/1.jpg
+  page: https://www.inaturalist.org/photos/526187471
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526187471/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-monticolum/2.jpg
+  page: https://www.inaturalist.org/photos/580814821
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580814821/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-monticolum/3.jpg
+  page: https://www.inaturalist.org/photos/583056130
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583056130/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-monticolum/4.jpg
+  page: https://www.inaturalist.org/photos/453577535
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453577535/original.jpeg
+- file: images/passeriformes/dicaeidae/dicaeum-monticolum/5.jpg
+  page: https://www.inaturalist.org/photos/267486947
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267486947/original.png
 ---
 
 

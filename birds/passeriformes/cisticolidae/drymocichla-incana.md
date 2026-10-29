@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/drymocichla-incana/1.jpg
+  page: https://www.inaturalist.org/photos/637945779
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637945779/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/drymocichla-incana/1.jpg
+  page: https://www.inaturalist.org/photos/637945779
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637945779/original.jpg
+- file: images/passeriformes/cisticolidae/drymocichla-incana/2.jpg
+  page: https://www.inaturalist.org/photos/637908521
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637908521/original.jpg
+- file: images/passeriformes/cisticolidae/drymocichla-incana/3.jpg
+  page: https://www.inaturalist.org/photos/637908482
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637908482/original.jpg
+- file: images/passeriformes/cisticolidae/drymocichla-incana/4.jpg
+  page: https://www.inaturalist.org/photos/637908485
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637908485/original.jpg
+- file: images/passeriformes/cisticolidae/drymocichla-incana/5.jpg
+  page: https://www.inaturalist.org/photos/566604683
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566604683/original.jpg
 ---
 
 

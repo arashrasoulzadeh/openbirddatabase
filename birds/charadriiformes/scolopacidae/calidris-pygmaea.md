@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/calidris-pygmaea/1.jpg
+  page: https://www.inaturalist.org/photos/606548481
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606548481/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-pygmaea/1.jpg
+  page: https://www.inaturalist.org/photos/606548481
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606548481/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-pygmaea/2.jpg
+  page: https://www.inaturalist.org/photos/616761593
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761593/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-pygmaea/3.jpg
+  page: https://www.inaturalist.org/photos/620817159
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620817159/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-pygmaea/4.jpg
+  page: https://www.inaturalist.org/photos/633670688
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633670688/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-pygmaea/5.jpg
+  page: https://www.inaturalist.org/photos/621720398
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621720398/original.jpg
 ---
 
 

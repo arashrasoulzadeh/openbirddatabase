@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/icteriidae/icteria-virens/1.jpg
+  page: https://www.inaturalist.org/photos/606797581
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606797581/original.jpg
+images:
+- file: images/passeriformes/icteriidae/icteria-virens/1.jpg
+  page: https://www.inaturalist.org/photos/606797581
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606797581/original.jpg
+- file: images/passeriformes/icteriidae/icteria-virens/2.jpg
+  page: https://www.inaturalist.org/photos/612793222
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612793222/original.jpg
+- file: images/passeriformes/icteriidae/icteria-virens/3.jpg
+  page: https://www.inaturalist.org/photos/618086259
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618086259/original.jpg
+- file: images/passeriformes/icteriidae/icteria-virens/4.jpg
+  page: https://www.inaturalist.org/photos/647319983
+  author: Shelby Lyn Sanders
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647319983/original.jpg
+- file: images/passeriformes/icteriidae/icteria-virens/5.jpg
+  page: https://www.inaturalist.org/photos/647320034
+  author: Shelby Lyn Sanders
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647320034/original.jpg
 ---
 
 

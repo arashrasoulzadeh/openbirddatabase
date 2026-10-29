@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/pelecaniformes/ardeidae/egretta-thula/1.jpg
+  page: https://www.inaturalist.org/photos/604696722
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604696722/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/egretta-thula/1.jpg
+  page: https://www.inaturalist.org/photos/604696722
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604696722/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-thula/2.jpg
+  page: https://www.inaturalist.org/photos/604806845
+  author: Steven Smethurst
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604806845/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-thula/3.jpg
+  page: https://www.inaturalist.org/photos/605159848
+  author: Arturo Benavides Mendoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605159848/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-thula/4.jpg
+  page: https://www.inaturalist.org/photos/605476325
+  author: Hydrocycler (Elizabeth Dougherty)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605476325/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-thula/5.jpg
+  page: https://www.inaturalist.org/photos/604612351
+  author: Hartwig Adam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604612351/original.jpg
 ---
 
 

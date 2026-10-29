@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-collaris/1.jpg
+  page: https://www.inaturalist.org/photos/609107447
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609107447/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-collaris/1.jpg
+  page: https://www.inaturalist.org/photos/609107447
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609107447/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-collaris/2.jpg
+  page: https://www.inaturalist.org/photos/614242043
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614242043/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-collaris/3.jpg
+  page: https://www.inaturalist.org/photos/613078564
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613078564/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-collaris/4.jpg
+  page: https://www.inaturalist.org/photos/621307217
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621307217/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-collaris/5.jpg
+  page: https://www.inaturalist.org/photos/652764941
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652764941/original.jpg
 ---
 
 

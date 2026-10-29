@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/conirostrum-cinereum/1.jpg
+  page: https://www.inaturalist.org/photos/616293005
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616293005/original.jpg
+images:
+- file: images/passeriformes/thraupidae/conirostrum-cinereum/1.jpg
+  page: https://www.inaturalist.org/photos/616293005
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616293005/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-cinereum/2.jpg
+  page: https://www.inaturalist.org/photos/619333187
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333187/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-cinereum/3.jpg
+  page: https://www.inaturalist.org/photos/620745776
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620745776/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-cinereum/4.jpg
+  page: https://www.inaturalist.org/photos/620747434
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620747434/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-cinereum/5.jpg
+  page: https://www.inaturalist.org/photos/628292796
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628292796/original.jpg
 ---
 
 

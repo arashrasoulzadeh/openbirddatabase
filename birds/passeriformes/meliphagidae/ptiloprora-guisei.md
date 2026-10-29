@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/ptiloprora-guisei/1.jpg
+  page: https://www.inaturalist.org/photos/704410180
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704410180/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/ptiloprora-guisei/1.jpg
+  page: https://www.inaturalist.org/photos/704410180
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704410180/original.jpg
+- file: images/passeriformes/meliphagidae/ptiloprora-guisei/2.jpg
+  page: https://www.inaturalist.org/photos/561878691
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561878691/original.jpg
+- file: images/passeriformes/meliphagidae/ptiloprora-guisei/3.jpg
+  page: https://www.inaturalist.org/photos/226088428
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226088428/original.jpg
+- file: images/passeriformes/meliphagidae/ptiloprora-guisei/4.jpg
+  page: https://www.inaturalist.org/photos/704410178
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704410178/original.jpg
+- file: images/passeriformes/meliphagidae/ptiloprora-guisei/5.jpg
+  page: https://www.inaturalist.org/photos/704410175
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704410175/original.jpg
 ---
 
 

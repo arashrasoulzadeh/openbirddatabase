@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/oriolidae/oriolus-kundoo/1.jpg
+  page: https://www.inaturalist.org/photos/605282642
+  author: Chandu Bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605282642/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-kundoo/1.jpg
+  page: https://www.inaturalist.org/photos/605282642
+  author: Chandu Bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605282642/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-kundoo/2.jpg
+  page: https://www.inaturalist.org/photos/607907263
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907263/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-kundoo/3.jpg
+  page: https://www.inaturalist.org/photos/606320444
+  author: Ameet Mandavia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606320444/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-kundoo/4.jpg
+  page: https://www.inaturalist.org/photos/607907262
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907262/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-kundoo/5.jpg
+  page: https://www.inaturalist.org/photos/605891202
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605891202/original.jpg
 ---
 
 

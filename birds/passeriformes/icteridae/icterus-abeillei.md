@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/icteridae/icterus-abeillei/1.jpg
+  page: https://www.inaturalist.org/photos/609762589
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609762589/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-abeillei/1.jpg
+  page: https://www.inaturalist.org/photos/609762589
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609762589/original.jpg
+- file: images/passeriformes/icteridae/icterus-abeillei/2.jpg
+  page: https://www.inaturalist.org/photos/716119690
+  author: Jer Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716119690/original.jpg
+- file: images/passeriformes/icteridae/icterus-abeillei/3.jpg
+  page: https://www.inaturalist.org/photos/609766558
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609766558/original.jpg
+- file: images/passeriformes/icteridae/icterus-abeillei/4.jpg
+  page: https://www.inaturalist.org/photos/716120511
+  author: Jer Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716120511/original.jpg
+- file: images/passeriformes/icteridae/icterus-abeillei/5.jpg
+  page: https://www.inaturalist.org/photos/640361493
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640361493/original.jpg
 ---
 
 

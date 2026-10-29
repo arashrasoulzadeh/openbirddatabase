@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/eurylaimidae/serilophus-lunatus/1.jpg
+  page: https://www.inaturalist.org/photos/611427694
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611427694/original.jpg
+images:
+- file: images/passeriformes/eurylaimidae/serilophus-lunatus/1.jpg
+  page: https://www.inaturalist.org/photos/611427694
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611427694/original.jpg
+- file: images/passeriformes/eurylaimidae/serilophus-lunatus/2.jpg
+  page: https://www.inaturalist.org/photos/631335931
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631335931/original.jpg
+- file: images/passeriformes/eurylaimidae/serilophus-lunatus/3.jpg
+  page: https://www.inaturalist.org/photos/639387055
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639387055/original.jpg
+- file: images/passeriformes/eurylaimidae/serilophus-lunatus/4.jpg
+  page: https://www.inaturalist.org/photos/658148913
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658148913/original.jpg
+- file: images/passeriformes/eurylaimidae/serilophus-lunatus/5.jpg
+  page: https://www.inaturalist.org/photos/627556273
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627556273/original.jpg
 ---
 
 

@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/xenops-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/604543204
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543204/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xenops-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/604543204
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543204/original.jpg
+- file: images/passeriformes/furnariidae/xenops-minutus/2.jpg
+  page: https://www.inaturalist.org/photos/716808430
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716808430/original.jpg
+- file: images/passeriformes/furnariidae/xenops-minutus/3.jpg
+  page: https://www.inaturalist.org/photos/633184963
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633184963/original.jpg
+- file: images/passeriformes/furnariidae/xenops-minutus/4.jpg
+  page: https://www.inaturalist.org/photos/643917352
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643917352/original.jpg
+- file: images/passeriformes/furnariidae/xenops-minutus/5.jpg
+  page: https://www.inaturalist.org/photos/642105182
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642105182/original.jpg
 ---
 
 

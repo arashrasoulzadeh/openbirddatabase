@@ -141,7 +141,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 59.2
@@ -156,6 +157,44 @@ reproduction:
   broods_per_year: 1
   incubation_days: 29
   fledging_days: 44
+image:
+  file: images/charadriiformes/stercorariidae/stercorarius-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/611224023
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611224023/original.jpg
+images:
+- file: images/charadriiformes/stercorariidae/stercorarius-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/611224023
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611224023/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-antarcticus/2.jpg
+  page: https://www.inaturalist.org/photos/628990162
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628990162/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-antarcticus/3.jpg
+  page: https://www.inaturalist.org/photos/665814169
+  author: Muhammad Uzair Davids
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665814169/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-antarcticus/4.jpg
+  page: https://www.inaturalist.org/photos/611224027
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611224027/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-antarcticus/5.jpg
+  page: https://www.inaturalist.org/photos/611224030
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611224030/original.jpg
 ---
 
 

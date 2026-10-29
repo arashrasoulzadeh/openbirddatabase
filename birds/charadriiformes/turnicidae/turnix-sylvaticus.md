@@ -185,8 +185,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-sylvaticus/1.jpg
+  page: https://www.inaturalist.org/photos/650459740
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650459740/original.jpg
+images:
+- file: images/charadriiformes/turnicidae/turnix-sylvaticus/1.jpg
+  page: https://www.inaturalist.org/photos/650459740
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650459740/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-sylvaticus/2.jpg
+  page: https://www.inaturalist.org/photos/617752754
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617752754/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-sylvaticus/3.jpg
+  page: https://www.inaturalist.org/photos/552155104
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552155104/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-sylvaticus/4.jpg
+  page: https://www.inaturalist.org/photos/622010947
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622010947/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-sylvaticus/5.jpg
+  page: https://www.inaturalist.org/photos/635096183
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635096183/original.jpg
 ---
 
 

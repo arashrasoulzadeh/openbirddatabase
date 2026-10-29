@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/leptocoma-zeylonica/1.jpg
+  page: https://www.inaturalist.org/photos/605282686
+  author: Chandu Bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605282686/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/leptocoma-zeylonica/1.jpg
+  page: https://www.inaturalist.org/photos/605282686
+  author: Chandu Bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605282686/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-zeylonica/2.jpg
+  page: https://www.inaturalist.org/photos/607116715
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116715/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-zeylonica/3.jpg
+  page: https://www.inaturalist.org/photos/610599566
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610599566/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-zeylonica/4.jpg
+  page: https://www.inaturalist.org/photos/609942431
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609942431/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-zeylonica/5.jpg
+  page: https://www.inaturalist.org/photos/610993646
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610993646/original.jpg
 ---
 
 

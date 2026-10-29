@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/machaeropterus-pyrocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/562860993
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562860993/original.jpg
+images:
+- file: images/passeriformes/pipridae/machaeropterus-pyrocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/562860993
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562860993/original.jpg
+- file: images/passeriformes/pipridae/machaeropterus-pyrocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/338243504
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338243504/original.jpeg
+- file: images/passeriformes/pipridae/machaeropterus-pyrocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/331379926
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331379926/original.jpeg
+- file: images/passeriformes/pipridae/machaeropterus-pyrocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/428513106
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428513106/original.jpg
+- file: images/passeriformes/pipridae/machaeropterus-pyrocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/11804593
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/11804593/original.jpeg
 ---
 
 

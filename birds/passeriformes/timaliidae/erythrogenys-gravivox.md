@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/erythrogenys-gravivox/1.jpg
+  page: https://www.inaturalist.org/photos/683164270
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683164270/original.jpg
+images:
+- file: images/passeriformes/timaliidae/erythrogenys-gravivox/1.jpg
+  page: https://www.inaturalist.org/photos/683164270
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683164270/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-gravivox/2.jpg
+  page: https://www.inaturalist.org/photos/479296779
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479296779/original.jpeg
+- file: images/passeriformes/timaliidae/erythrogenys-gravivox/3.jpg
+  page: https://www.inaturalist.org/photos/518752406
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518752406/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-gravivox/4.jpg
+  page: https://www.inaturalist.org/photos/525967074
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525967074/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-gravivox/5.jpg
+  page: https://www.inaturalist.org/photos/591727569
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591727569/original.jpg
 ---
 
 

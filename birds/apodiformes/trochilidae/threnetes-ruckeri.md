@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/threnetes-ruckeri/1.jpg
+  page: https://www.inaturalist.org/photos/656933447
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656933447/original.jpg
+images:
+- file: images/apodiformes/trochilidae/threnetes-ruckeri/1.jpg
+  page: https://www.inaturalist.org/photos/656933447
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656933447/original.jpg
+- file: images/apodiformes/trochilidae/threnetes-ruckeri/2.jpg
+  page: https://www.inaturalist.org/photos/712353000
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712353000/original.jpg
+- file: images/apodiformes/trochilidae/threnetes-ruckeri/3.jpg
+  page: https://www.inaturalist.org/photos/742193787
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742193787/original.jpg
+- file: images/apodiformes/trochilidae/threnetes-ruckeri/4.jpg
+  page: https://www.inaturalist.org/photos/543641323
+  author: Uma Mezzanotte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543641323/original.jpg
+- file: images/apodiformes/trochilidae/threnetes-ruckeri/5.jpg
+  page: https://www.inaturalist.org/photos/503861796
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503861796/original.jpg
 ---
 
 

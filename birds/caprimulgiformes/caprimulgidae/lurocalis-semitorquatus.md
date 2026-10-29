@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/lurocalis-semitorquatus/1.jpg
+  page: https://www.inaturalist.org/photos/604606715
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606715/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-semitorquatus/1.jpg
+  page: https://www.inaturalist.org/photos/604606715
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606715/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-semitorquatus/2.jpg
+  page: https://www.inaturalist.org/photos/675082257
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675082257/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-semitorquatus/3.jpg
+  page: https://www.inaturalist.org/photos/469403219
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469403219/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-semitorquatus/4.jpg
+  page: https://www.inaturalist.org/photos/503861953
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503861953/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-semitorquatus/5.jpg
+  page: https://www.inaturalist.org/photos/502459873
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502459873/original.jpeg
 ---
 
 

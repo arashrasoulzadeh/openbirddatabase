@@ -142,8 +142,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/leucocarbo-ranfurlyi/1.jpg
+  page: https://www.inaturalist.org/photos/344249306
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344249306/original.png
+images:
+- file: images/suliformes/phalacrocoracidae/leucocarbo-ranfurlyi/1.jpg
+  page: https://www.inaturalist.org/photos/344249306
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344249306/original.png
+- file: images/suliformes/phalacrocoracidae/leucocarbo-ranfurlyi/2.jpg
+  page: https://www.inaturalist.org/photos/178240516
+  author: rempson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178240516/original.jpeg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-ranfurlyi/3.jpg
+  page: https://www.inaturalist.org/photos/344249307
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344249307/original.png
 ---
 
 

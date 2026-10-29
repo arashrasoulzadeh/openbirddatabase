@@ -134,8 +134,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/cnemathraupis-aureodorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/272916262
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/272916262/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cnemathraupis-aureodorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/272916262
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/272916262/original.jpg
+- file: images/passeriformes/thraupidae/cnemathraupis-aureodorsalis/2.jpg
+  page: https://www.inaturalist.org/photos/352535210
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352535210/original.jpeg
+- file: images/passeriformes/thraupidae/cnemathraupis-aureodorsalis/3.jpg
+  page: https://www.inaturalist.org/photos/272916353
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/272916353/original.jpg
+- file: images/passeriformes/thraupidae/cnemathraupis-aureodorsalis/4.jpg
+  page: https://www.inaturalist.org/photos/352535195
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352535195/original.jpeg
 ---
 
 

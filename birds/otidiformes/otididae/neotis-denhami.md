@@ -157,8 +157,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/neotis-denhami/1.jpg
+  page: https://www.inaturalist.org/photos/610990219
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610990219/original.jpg
+images:
+- file: images/otidiformes/otididae/neotis-denhami/1.jpg
+  page: https://www.inaturalist.org/photos/610990219
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610990219/original.jpg
+- file: images/otidiformes/otididae/neotis-denhami/2.jpg
+  page: https://www.inaturalist.org/photos/613372426
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613372426/original.jpg
+- file: images/otidiformes/otididae/neotis-denhami/3.jpg
+  page: https://www.inaturalist.org/photos/616071713
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616071713/original.jpg
+- file: images/otidiformes/otididae/neotis-denhami/4.jpg
+  page: https://www.inaturalist.org/photos/743222060
+  author: John Barrow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743222060/original.jpg
+- file: images/otidiformes/otididae/neotis-denhami/5.jpg
+  page: https://www.inaturalist.org/photos/732119378
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732119378/original.jpg
 ---
 
 

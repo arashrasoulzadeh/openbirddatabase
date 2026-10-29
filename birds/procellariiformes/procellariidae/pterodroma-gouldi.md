@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-gouldi/1.jpg
+  page: https://www.inaturalist.org/photos/605324928
+  author: Michael Silberbauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605324928/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-gouldi/1.jpg
+  page: https://www.inaturalist.org/photos/605324928
+  author: Michael Silberbauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605324928/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-gouldi/2.jpg
+  page: https://www.inaturalist.org/photos/615768759
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615768759/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-gouldi/3.jpg
+  page: https://www.inaturalist.org/photos/625244062
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625244062/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-gouldi/4.jpg
+  page: https://www.inaturalist.org/photos/661989104
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661989104/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-gouldi/5.jpg
+  page: https://www.inaturalist.org/photos/471342267
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471342267/original.jpeg
 ---
 
 

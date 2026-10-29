@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/phyllomyias-griseocapilla/1.jpg
+  page: https://www.inaturalist.org/photos/604541023
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541023/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/phyllomyias-griseocapilla/1.jpg
+  page: https://www.inaturalist.org/photos/604541023
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541023/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-griseocapilla/2.jpg
+  page: https://www.inaturalist.org/photos/645037614
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645037614/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-griseocapilla/3.jpg
+  page: https://www.inaturalist.org/photos/649835343
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649835343/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-griseocapilla/4.jpg
+  page: https://www.inaturalist.org/photos/699553976
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699553976/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-griseocapilla/5.jpg
+  page: https://www.inaturalist.org/photos/514299706
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514299706/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/zenaida-galapagoensis/1.jpg
+  page: https://www.inaturalist.org/photos/610547811
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610547811/original.jpg
+images:
+- file: images/columbiformes/columbidae/zenaida-galapagoensis/1.jpg
+  page: https://www.inaturalist.org/photos/610547811
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610547811/original.jpg
+- file: images/columbiformes/columbidae/zenaida-galapagoensis/2.jpg
+  page: https://www.inaturalist.org/photos/607459725
+  author: Alison
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607459725/original.jpg
+- file: images/columbiformes/columbidae/zenaida-galapagoensis/3.jpg
+  page: https://www.inaturalist.org/photos/608684806
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608684806/original.jpg
+- file: images/columbiformes/columbidae/zenaida-galapagoensis/4.jpg
+  page: https://www.inaturalist.org/photos/661041797
+  author: Karen Guin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661041797/original.jpg
+- file: images/columbiformes/columbidae/zenaida-galapagoensis/5.jpg
+  page: https://www.inaturalist.org/photos/607459180
+  author: Alison
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607459180/original.jpg
 ---
 
 

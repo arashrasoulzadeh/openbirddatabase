@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coua-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/547814033
+  author: Guilherme Siniciato Terra Garbino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547814033/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coua-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/547814033
+  author: Guilherme Siniciato Terra Garbino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547814033/original.jpg
+- file: images/cuculiformes/cuculidae/coua-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/578522581
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578522581/original.jpg
+- file: images/cuculiformes/cuculidae/coua-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/397302607
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/397302607/original.jpeg
+- file: images/cuculiformes/cuculidae/coua-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/444426350
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444426350/original.jpeg
+- file: images/cuculiformes/cuculidae/coua-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/452197529
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452197529/original.jpg
 ---
 
 

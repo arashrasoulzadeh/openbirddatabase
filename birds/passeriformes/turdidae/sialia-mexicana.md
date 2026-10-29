@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/turdidae/sialia-mexicana/1.jpg
+  page: https://www.inaturalist.org/photos/605153262
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605153262/original.jpg
+images:
+- file: images/passeriformes/turdidae/sialia-mexicana/1.jpg
+  page: https://www.inaturalist.org/photos/605153262
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605153262/original.jpg
+- file: images/passeriformes/turdidae/sialia-mexicana/2.jpg
+  page: https://www.inaturalist.org/photos/605543108
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605543108/original.jpg
+- file: images/passeriformes/turdidae/sialia-mexicana/3.jpg
+  page: https://www.inaturalist.org/photos/605249215
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605249215/original.jpg
+- file: images/passeriformes/turdidae/sialia-mexicana/4.jpg
+  page: https://www.inaturalist.org/photos/604836332
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604836332/original.jpg
+- file: images/passeriformes/turdidae/sialia-mexicana/5.jpg
+  page: https://www.inaturalist.org/photos/605153263
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605153263/original.jpg
 ---
 
 

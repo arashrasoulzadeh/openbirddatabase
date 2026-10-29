@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/aulacorhynchus-haematopygus/1.jpg
+  page: https://www.inaturalist.org/photos/614581332
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614581332/original.jpg
+images:
+- file: images/piciformes/ramphastidae/aulacorhynchus-haematopygus/1.jpg
+  page: https://www.inaturalist.org/photos/614581332
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614581332/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-haematopygus/2.jpg
+  page: https://www.inaturalist.org/photos/687356738
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687356738/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-haematopygus/3.jpg
+  page: https://www.inaturalist.org/photos/687355726
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687355726/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-haematopygus/4.jpg
+  page: https://www.inaturalist.org/photos/687355716
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687355716/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-haematopygus/5.jpg
+  page: https://www.inaturalist.org/photos/687355721
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687355721/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/nisaetus-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/617114619
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114619/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/nisaetus-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/617114619
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114619/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-nipalensis/2.jpg
+  page: https://www.inaturalist.org/photos/616554927
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616554927/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-nipalensis/3.jpg
+  page: https://www.inaturalist.org/photos/627912882
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627912882/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-nipalensis/4.jpg
+  page: https://www.inaturalist.org/photos/654462703
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654462703/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-nipalensis/5.jpg
+  page: https://www.inaturalist.org/photos/633629921
+  author: RX ZHANG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633629921/original.jpg
 ---
 
 

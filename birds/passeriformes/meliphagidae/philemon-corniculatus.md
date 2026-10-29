@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/meliphagidae/philemon-corniculatus/1.jpg
+  page: https://www.inaturalist.org/photos/605260189
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605260189/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/philemon-corniculatus/1.jpg
+  page: https://www.inaturalist.org/photos/605260189
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605260189/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-corniculatus/2.jpg
+  page: https://www.inaturalist.org/photos/606117100
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606117100/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-corniculatus/3.jpg
+  page: https://www.inaturalist.org/photos/606338238
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606338238/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-corniculatus/4.jpg
+  page: https://www.inaturalist.org/photos/605260197
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605260197/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-corniculatus/5.jpg
+  page: https://www.inaturalist.org/photos/608757968
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608757968/original.jpg
 ---
 
 

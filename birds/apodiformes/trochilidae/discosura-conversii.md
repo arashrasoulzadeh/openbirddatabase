@@ -142,8 +142,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/discosura-conversii/1.jpg
+  page: https://www.inaturalist.org/photos/607055811
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607055811/original.jpg
+images:
+- file: images/apodiformes/trochilidae/discosura-conversii/1.jpg
+  page: https://www.inaturalist.org/photos/607055811
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607055811/original.jpg
+- file: images/apodiformes/trochilidae/discosura-conversii/2.jpg
+  page: https://www.inaturalist.org/photos/616991273
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616991273/original.jpg
+- file: images/apodiformes/trochilidae/discosura-conversii/3.jpg
+  page: https://www.inaturalist.org/photos/622066200
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622066200/original.jpg
+- file: images/apodiformes/trochilidae/discosura-conversii/4.jpg
+  page: https://www.inaturalist.org/photos/630984026
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630984026/original.jpg
+- file: images/apodiformes/trochilidae/discosura-conversii/5.jpg
+  page: https://www.inaturalist.org/photos/607055809
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607055809/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/prioniturus-waterstradti/1.jpg
+  page: https://www.inaturalist.org/photos/267294803
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294803/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/prioniturus-waterstradti/1.jpg
+  page: https://www.inaturalist.org/photos/267294803
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294803/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-waterstradti/2.jpg
+  page: https://www.inaturalist.org/photos/267294855
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294855/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-waterstradti/3.jpg
+  page: https://www.inaturalist.org/photos/252852735
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252852735/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-waterstradti/4.jpg
+  page: https://www.inaturalist.org/photos/252852754
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252852754/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-waterstradti/5.jpg
+  page: https://www.inaturalist.org/photos/252852744
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252852744/original.jpg
 ---
 
 

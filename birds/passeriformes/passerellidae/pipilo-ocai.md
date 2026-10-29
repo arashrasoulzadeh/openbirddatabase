@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/pipilo-ocai/1.jpg
+  page: https://www.inaturalist.org/photos/609576169
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576169/original.jpg
+images:
+- file: images/passeriformes/passerellidae/pipilo-ocai/1.jpg
+  page: https://www.inaturalist.org/photos/609576169
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576169/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-ocai/2.jpg
+  page: https://www.inaturalist.org/photos/665345580
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665345580/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-ocai/3.jpg
+  page: https://www.inaturalist.org/photos/741347863
+  author: Jeff Birek
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741347863/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-ocai/4.jpg
+  page: https://www.inaturalist.org/photos/464437306
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464437306/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-ocai/5.jpg
+  page: https://www.inaturalist.org/photos/485493272
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485493272/original.jpeg
 ---
 
 

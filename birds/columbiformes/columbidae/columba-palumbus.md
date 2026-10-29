@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/columbiformes/columbidae/columba-palumbus/1.jpg
+  page: https://www.inaturalist.org/photos/605397019
+  author: Holly Hodges
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605397019/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-palumbus/1.jpg
+  page: https://www.inaturalist.org/photos/605397019
+  author: Holly Hodges
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605397019/original.jpg
+- file: images/columbiformes/columbidae/columba-palumbus/2.jpg
+  page: https://www.inaturalist.org/photos/604477630
+  author: Andrew Cunnington
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604477630/original.jpg
+- file: images/columbiformes/columbidae/columba-palumbus/3.jpg
+  page: https://www.inaturalist.org/photos/605350923
+  author: Cara Ennis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605350923/original.jpg
+- file: images/columbiformes/columbidae/columba-palumbus/4.jpg
+  page: https://www.inaturalist.org/photos/604797834
+  author: Elliot Greiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604797834/original.jpg
+- file: images/columbiformes/columbidae/columba-palumbus/5.jpg
+  page: https://www.inaturalist.org/photos/605045612
+  author: Ксения Волянская
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605045612/original.jpg
 ---
 
 

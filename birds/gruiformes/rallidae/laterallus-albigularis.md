@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/laterallus-albigularis/1.jpg
+  page: https://www.inaturalist.org/photos/630916578
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630916578/original.jpg
+images:
+- file: images/gruiformes/rallidae/laterallus-albigularis/1.jpg
+  page: https://www.inaturalist.org/photos/630916578
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630916578/original.jpg
+- file: images/gruiformes/rallidae/laterallus-albigularis/2.jpg
+  page: https://www.inaturalist.org/photos/621766432
+  author: Carlos Mosquera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621766432/original.jpg
+- file: images/gruiformes/rallidae/laterallus-albigularis/3.jpg
+  page: https://www.inaturalist.org/photos/667390370
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667390370/original.jpg
+- file: images/gruiformes/rallidae/laterallus-albigularis/4.jpg
+  page: https://www.inaturalist.org/photos/489562797
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489562797/original.jpg
+- file: images/gruiformes/rallidae/laterallus-albigularis/5.jpg
+  page: https://www.inaturalist.org/photos/530045142
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530045142/original.jpg
 ---
 
 

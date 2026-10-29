@@ -146,8 +146,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-atyphus/1.jpg
+  page: https://www.inaturalist.org/photos/561105335
+  author: Joshua Morris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561105335/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-atyphus/1.jpg
+  page: https://www.inaturalist.org/photos/561105335
+  author: Joshua Morris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561105335/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-atyphus/2.jpg
+  page: https://www.inaturalist.org/photos/457387853
+  author: carol5126
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457387853/original.jpeg
 ---
 
 

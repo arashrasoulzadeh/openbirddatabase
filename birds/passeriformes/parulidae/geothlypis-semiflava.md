@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/geothlypis-semiflava/1.jpg
+  page: https://www.inaturalist.org/photos/630901342
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630901342/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-semiflava/1.jpg
+  page: https://www.inaturalist.org/photos/630901342
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630901342/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-semiflava/2.jpg
+  page: https://www.inaturalist.org/photos/667289036
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667289036/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-semiflava/3.jpg
+  page: https://www.inaturalist.org/photos/709412614
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709412614/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-semiflava/4.jpg
+  page: https://www.inaturalist.org/photos/742231685
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742231685/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-semiflava/5.jpg
+  page: https://www.inaturalist.org/photos/524641702
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524641702/original.jpg
 ---
 
 

@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/tyrannidae/camptostoma-imberbe/1.jpg
+  page: https://www.inaturalist.org/photos/604564864
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604564864/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/camptostoma-imberbe/1.jpg
+  page: https://www.inaturalist.org/photos/604564864
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604564864/original.jpg
+- file: images/passeriformes/tyrannidae/camptostoma-imberbe/2.jpg
+  page: https://www.inaturalist.org/photos/665342155
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665342155/original.jpg
+- file: images/passeriformes/tyrannidae/camptostoma-imberbe/3.jpg
+  page: https://www.inaturalist.org/photos/641198777
+  author: Alberto Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641198777/original.jpg
+- file: images/passeriformes/tyrannidae/camptostoma-imberbe/4.jpg
+  page: https://www.inaturalist.org/photos/738451514
+  author: John Thomlinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738451514/original.jpg
+- file: images/passeriformes/tyrannidae/camptostoma-imberbe/5.jpg
+  page: https://www.inaturalist.org/photos/604815333
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604815333/original.jpg
 ---
 
 

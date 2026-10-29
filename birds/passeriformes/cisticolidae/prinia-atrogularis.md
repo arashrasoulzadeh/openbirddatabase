@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-atrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/548757046
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757046/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-atrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/548757046
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757046/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-atrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/577594732
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577594732/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-atrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/376932228
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376932228/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-atrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/614618978
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614618978/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-atrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/548757055
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757055/original.jpg
 ---
 
 

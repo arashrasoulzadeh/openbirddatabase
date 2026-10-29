@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/setophaga-pityophila/1.jpg
+  page: https://www.inaturalist.org/photos/354114634
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354114634/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-pityophila/1.jpg
+  page: https://www.inaturalist.org/photos/354114634
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354114634/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pityophila/2.jpg
+  page: https://www.inaturalist.org/photos/186417945
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186417945/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pityophila/3.jpg
+  page: https://www.inaturalist.org/photos/35437044
+  author: Ben Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/35437044/original.jpeg
+- file: images/passeriformes/parulidae/setophaga-pityophila/4.jpg
+  page: https://www.inaturalist.org/photos/303628304
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303628304/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pityophila/5.jpg
+  page: https://www.inaturalist.org/photos/104119709
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104119709/original.jpeg
 ---
 
 

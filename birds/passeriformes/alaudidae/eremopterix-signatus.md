@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/eremopterix-signatus/1.jpg
+  page: https://www.inaturalist.org/photos/466454073
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466454073/original.jpeg
+images:
+- file: images/passeriformes/alaudidae/eremopterix-signatus/1.jpg
+  page: https://www.inaturalist.org/photos/466454073
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466454073/original.jpeg
+- file: images/passeriformes/alaudidae/eremopterix-signatus/2.jpg
+  page: https://www.inaturalist.org/photos/161728832
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/161728832/original.jpeg
+- file: images/passeriformes/alaudidae/eremopterix-signatus/3.jpg
+  page: https://www.inaturalist.org/photos/466454074
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466454074/original.jpeg
+- file: images/passeriformes/alaudidae/eremopterix-signatus/4.jpg
+  page: https://www.inaturalist.org/photos/608002382
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608002382/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-signatus/5.jpg
+  page: https://www.inaturalist.org/photos/608002391
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608002391/original.jpg
 ---
 
 

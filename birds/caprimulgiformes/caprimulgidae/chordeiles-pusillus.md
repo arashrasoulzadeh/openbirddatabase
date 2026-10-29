@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/chordeiles-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/623921492
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623921492/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/623921492
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623921492/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-pusillus/2.jpg
+  page: https://www.inaturalist.org/photos/603460836
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603460836/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-pusillus/3.jpg
+  page: https://www.inaturalist.org/photos/246171175
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246171175/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-pusillus/4.jpg
+  page: https://www.inaturalist.org/photos/585021453
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585021453/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-pusillus/5.jpg
+  page: https://www.inaturalist.org/photos/549565593
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549565593/original.jpg
 ---
 
 

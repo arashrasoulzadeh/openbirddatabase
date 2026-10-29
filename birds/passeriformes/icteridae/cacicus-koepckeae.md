@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 27.3
@@ -149,6 +150,38 @@ morphology:
   wing_length_mm: 110.0
   tail_length_mm: 100.0
   body_mass_g: 48.0
+image:
+  file: images/passeriformes/icteridae/cacicus-koepckeae/1.jpg
+  page: https://www.inaturalist.org/photos/608113056
+  author: Raphaël Sané
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608113056/original.jpg
+images:
+- file: images/passeriformes/icteridae/cacicus-koepckeae/1.jpg
+  page: https://www.inaturalist.org/photos/608113056
+  author: Raphaël Sané
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608113056/original.jpg
+- file: images/passeriformes/icteridae/cacicus-koepckeae/2.jpg
+  page: https://www.inaturalist.org/photos/608113061
+  author: Raphaël Sané
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608113061/original.jpg
+- file: images/passeriformes/icteridae/cacicus-koepckeae/3.jpg
+  page: https://www.inaturalist.org/photos/608113080
+  author: Raphaël Sané
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608113080/original.jpg
+- file: images/passeriformes/icteridae/cacicus-koepckeae/4.jpg
+  page: https://www.inaturalist.org/photos/608113090
+  author: Raphaël Sané
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608113090/original.jpg
 ---
 
 

@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/nyctibiiformes/nyctibiidae/nyctibius-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/605259946
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259946/original.jpg
+images:
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/605259946
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259946/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-jamaicensis/2.jpg
+  page: https://www.inaturalist.org/photos/605553374
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605553374/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-jamaicensis/3.jpg
+  page: https://www.inaturalist.org/photos/610552129
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610552129/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-jamaicensis/4.jpg
+  page: https://www.inaturalist.org/photos/614366120
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614366120/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-jamaicensis/5.jpg
+  page: https://www.inaturalist.org/photos/616933547
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616933547/original.jpg
 ---
 
 

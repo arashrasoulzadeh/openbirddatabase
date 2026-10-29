@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-lineata/1.jpg
+  page: https://www.inaturalist.org/photos/698103846
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698103846/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-lineata/1.jpg
+  page: https://www.inaturalist.org/photos/698103846
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698103846/original.jpg
+- file: images/passeriformes/campephagidae/coracina-lineata/2.jpg
+  page: https://www.inaturalist.org/photos/713986345
+  author: Jonathan Curley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713986345/original.jpg
+- file: images/passeriformes/campephagidae/coracina-lineata/3.jpg
+  page: https://www.inaturalist.org/photos/737408502
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737408502/original.jpg
+- file: images/passeriformes/campephagidae/coracina-lineata/4.jpg
+  page: https://www.inaturalist.org/photos/470642732
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470642732/original.jpg
+- file: images/passeriformes/campephagidae/coracina-lineata/5.jpg
+  page: https://www.inaturalist.org/photos/555837371
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555837371/original.jpg
 ---
 
 

@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 31
+image:
+  file: images/anseriformes/anatidae/anser-anser/1.jpg
+  page: https://www.inaturalist.org/photos/605720427
+  author: Andreas Schneider
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605720427/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-anser/1.jpg
+  page: https://www.inaturalist.org/photos/605720427
+  author: Andreas Schneider
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605720427/original.jpg
+- file: images/anseriformes/anatidae/anser-anser/2.jpg
+  page: https://www.inaturalist.org/photos/605029710
+  author: Istvan Sipos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605029710/original.jpg
+- file: images/anseriformes/anatidae/anser-anser/3.jpg
+  page: https://www.inaturalist.org/photos/605414141
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605414141/original.jpg
+- file: images/anseriformes/anatidae/anser-anser/4.jpg
+  page: https://www.inaturalist.org/photos/605112880
+  author: Marco Zaccaria Di Fraia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605112880/original.jpg
+- file: images/anseriformes/anatidae/anser-anser/5.jpg
+  page: https://www.inaturalist.org/photos/604627265
+  author: Frank Ashwood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604627265/original.jpg
 ---
 
 

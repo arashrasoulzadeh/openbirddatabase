@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/cyphorhinus-arada/1.jpg
+  page: https://www.inaturalist.org/photos/591636758
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636758/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cyphorhinus-arada/1.jpg
+  page: https://www.inaturalist.org/photos/591636758
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636758/original.jpg
+- file: images/passeriformes/troglodytidae/cyphorhinus-arada/2.jpg
+  page: https://www.inaturalist.org/photos/313288795
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313288795/original.jpg
+- file: images/passeriformes/troglodytidae/cyphorhinus-arada/3.jpg
+  page: https://www.inaturalist.org/photos/161930591
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/161930591/original.jpeg
+- file: images/passeriformes/troglodytidae/cyphorhinus-arada/4.jpg
+  page: https://www.inaturalist.org/photos/385728807
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385728807/original.jpg
+- file: images/passeriformes/troglodytidae/cyphorhinus-arada/5.jpg
+  page: https://www.inaturalist.org/photos/327788158
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327788158/original.jpg
 ---
 
 

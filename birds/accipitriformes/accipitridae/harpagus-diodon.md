@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/harpagus-diodon/1.jpg
+  page: https://www.inaturalist.org/photos/605730138
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730138/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/harpagus-diodon/1.jpg
+  page: https://www.inaturalist.org/photos/605730138
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730138/original.jpg
+- file: images/accipitriformes/accipitridae/harpagus-diodon/2.jpg
+  page: https://www.inaturalist.org/photos/626433110
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626433110/original.jpg
+- file: images/accipitriformes/accipitridae/harpagus-diodon/3.jpg
+  page: https://www.inaturalist.org/photos/502106869
+  author: Martin Vallejos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502106869/original.jpg
+- file: images/accipitriformes/accipitridae/harpagus-diodon/4.jpg
+  page: https://www.inaturalist.org/photos/573842104
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573842104/original.jpg
+- file: images/accipitriformes/accipitridae/harpagus-diodon/5.jpg
+  page: https://www.inaturalist.org/photos/590139390
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590139390/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/margarobyas-lawrencii/1.jpg
+  page: https://www.inaturalist.org/photos/613171895
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613171895/original.jpg
+images:
+- file: images/strigiformes/strigidae/margarobyas-lawrencii/1.jpg
+  page: https://www.inaturalist.org/photos/613171895
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613171895/original.jpg
+- file: images/strigiformes/strigidae/margarobyas-lawrencii/2.jpg
+  page: https://www.inaturalist.org/photos/634260860
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634260860/original.jpg
+- file: images/strigiformes/strigidae/margarobyas-lawrencii/3.jpg
+  page: https://www.inaturalist.org/photos/601759151
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601759151/original.jpg
+- file: images/strigiformes/strigidae/margarobyas-lawrencii/4.jpg
+  page: https://www.inaturalist.org/photos/354294021
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354294021/original.jpg
+- file: images/strigiformes/strigidae/margarobyas-lawrencii/5.jpg
+  page: https://www.inaturalist.org/photos/419885960
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419885960/original.jpeg
 ---
 
 

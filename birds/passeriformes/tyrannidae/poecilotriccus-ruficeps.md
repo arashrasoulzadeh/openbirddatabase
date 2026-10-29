@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/poecilotriccus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/489431642
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489431642/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/poecilotriccus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/489431642
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489431642/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/594780524
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594780524/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/475847318
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475847318/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/530077465
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530077465/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/528116922
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528116922/original.jpg
 ---
 
 

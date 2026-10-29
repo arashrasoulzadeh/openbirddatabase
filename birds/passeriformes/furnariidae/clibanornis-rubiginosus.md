@@ -159,8 +159,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/clibanornis-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/314915263
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314915263/original.jpg
+images:
+- file: images/passeriformes/furnariidae/clibanornis-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/314915263
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314915263/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-rubiginosus/2.jpg
+  page: https://www.inaturalist.org/photos/314912693
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314912693/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-rubiginosus/3.jpg
+  page: https://www.inaturalist.org/photos/314912718
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314912718/original.jpg
 ---
 
 

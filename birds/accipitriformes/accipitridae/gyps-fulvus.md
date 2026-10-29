@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 41
+image:
+  file: images/accipitriformes/accipitridae/gyps-fulvus/1.jpg
+  page: https://www.inaturalist.org/photos/606724414
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606724414/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/gyps-fulvus/1.jpg
+  page: https://www.inaturalist.org/photos/606724414
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606724414/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-fulvus/2.jpg
+  page: https://www.inaturalist.org/photos/611004346
+  author: Nachman bones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611004346/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-fulvus/3.jpg
+  page: https://www.inaturalist.org/photos/609228248
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609228248/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-fulvus/4.jpg
+  page: https://www.inaturalist.org/photos/607169793
+  author: Emily Nyenyedzi Davies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607169793/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-fulvus/5.jpg
+  page: https://www.inaturalist.org/photos/611004393
+  author: Nachman bones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611004393/original.jpg
 ---
 
 

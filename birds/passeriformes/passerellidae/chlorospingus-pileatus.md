@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/chlorospingus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/607287281
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607287281/original.jpg
+images:
+- file: images/passeriformes/passerellidae/chlorospingus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/607287281
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607287281/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-pileatus/2.jpg
+  page: https://www.inaturalist.org/photos/607242089
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242089/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-pileatus/3.jpg
+  page: https://www.inaturalist.org/photos/609099121
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609099121/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-pileatus/4.jpg
+  page: https://www.inaturalist.org/photos/610071111
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610071111/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-pileatus/5.jpg
+  page: https://www.inaturalist.org/photos/621259656
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621259656/original.jpg
 ---
 
 

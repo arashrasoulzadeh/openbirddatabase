@@ -206,10 +206,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/pelecaniformes/ardeidae/ardeola-ralloides/1.jpg
+  page: https://www.inaturalist.org/photos/606213814
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606213814/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardeola-ralloides/1.jpg
+  page: https://www.inaturalist.org/photos/606213814
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606213814/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-ralloides/2.jpg
+  page: https://www.inaturalist.org/photos/612480050
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612480050/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-ralloides/3.jpg
+  page: https://www.inaturalist.org/photos/719722631
+  author: Алёна Карцева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719722631/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-ralloides/4.jpg
+  page: https://www.inaturalist.org/photos/612480051
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612480051/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-ralloides/5.jpg
+  page: https://www.inaturalist.org/photos/612469453
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612469453/original.jpg
 ---
 
 

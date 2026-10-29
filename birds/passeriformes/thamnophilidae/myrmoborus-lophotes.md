@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmoborus-lophotes/1.jpg
+  page: https://www.inaturalist.org/photos/523686463
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686463/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmoborus-lophotes/1.jpg
+  page: https://www.inaturalist.org/photos/523686463
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686463/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-lophotes/2.jpg
+  page: https://www.inaturalist.org/photos/328983421
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328983421/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmoborus-lophotes/3.jpg
+  page: https://www.inaturalist.org/photos/328983419
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328983419/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmoborus-lophotes/4.jpg
+  page: https://www.inaturalist.org/photos/328983414
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328983414/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmoborus-lophotes/5.jpg
+  page: https://www.inaturalist.org/photos/328983468
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328983468/original.jpeg
 ---
 
 

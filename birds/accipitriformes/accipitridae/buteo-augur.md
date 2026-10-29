@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-augur/1.jpg
+  page: https://www.inaturalist.org/photos/612939971
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612939971/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-augur/1.jpg
+  page: https://www.inaturalist.org/photos/612939971
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612939971/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-augur/2.jpg
+  page: https://www.inaturalist.org/photos/613703919
+  author: WaterGoat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613703919/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-augur/3.jpg
+  page: https://www.inaturalist.org/photos/681917885
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681917885/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-augur/4.jpg
+  page: https://www.inaturalist.org/photos/700793061
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700793061/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-augur/5.jpg
+  page: https://www.inaturalist.org/photos/621449788
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621449788/original.jpg
 ---
 
 

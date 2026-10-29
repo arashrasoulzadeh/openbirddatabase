@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-hortulorum/1.jpg
+  page: https://www.inaturalist.org/photos/606520884
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606520884/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-hortulorum/1.jpg
+  page: https://www.inaturalist.org/photos/606520884
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606520884/original.jpg
+- file: images/passeriformes/turdidae/turdus-hortulorum/2.jpg
+  page: https://www.inaturalist.org/photos/617087926
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617087926/original.jpg
+- file: images/passeriformes/turdidae/turdus-hortulorum/3.jpg
+  page: https://www.inaturalist.org/photos/623089382
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089382/original.jpg
+- file: images/passeriformes/turdidae/turdus-hortulorum/4.jpg
+  page: https://www.inaturalist.org/photos/641532536
+  author: patrickc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641532536/original.jpg
+- file: images/passeriformes/turdidae/turdus-hortulorum/5.jpg
+  page: https://www.inaturalist.org/photos/606520908
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606520908/original.jpg
 ---
 
 

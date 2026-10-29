@@ -141,10 +141,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/thraupidae/tangara-callophrys/1.jpg
+  page: https://www.inaturalist.org/photos/729283165
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729283165/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-callophrys/1.jpg
+  page: https://www.inaturalist.org/photos/729283165
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729283165/original.jpg
+- file: images/passeriformes/thraupidae/tangara-callophrys/2.jpg
+  page: https://www.inaturalist.org/photos/552874056
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552874056/original.jpg
+- file: images/passeriformes/thraupidae/tangara-callophrys/3.jpg
+  page: https://www.inaturalist.org/photos/539026780
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539026780/original.jpg
+- file: images/passeriformes/thraupidae/tangara-callophrys/4.jpg
+  page: https://www.inaturalist.org/photos/362010117
+  author: Bill Levine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362010117/original.jpeg
+- file: images/passeriformes/thraupidae/tangara-callophrys/5.jpg
+  page: https://www.inaturalist.org/photos/398633504
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398633504/original.jpg
 ---
 
 

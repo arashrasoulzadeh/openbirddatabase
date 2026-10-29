@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/psittaciformes/psittacidae/pionopsitta-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/654842209
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654842209/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pionopsitta-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/654842209
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654842209/original.jpg
+- file: images/psittaciformes/psittacidae/pionopsitta-pileata/2.jpg
+  page: https://www.inaturalist.org/photos/675534618
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675534618/original.jpg
+- file: images/psittaciformes/psittacidae/pionopsitta-pileata/3.jpg
+  page: https://www.inaturalist.org/photos/434013279
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434013279/original.jpg
+- file: images/psittaciformes/psittacidae/pionopsitta-pileata/4.jpg
+  page: https://www.inaturalist.org/photos/435915682
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435915682/original.jpeg
+- file: images/psittaciformes/psittacidae/pionopsitta-pileata/5.jpg
+  page: https://www.inaturalist.org/photos/299338065
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/299338065/original.jpeg
 ---
 
 

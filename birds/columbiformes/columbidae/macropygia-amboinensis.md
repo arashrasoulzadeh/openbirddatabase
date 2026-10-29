@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-amboinensis/1.jpg
+  page: https://www.inaturalist.org/photos/718305673
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305673/original.jpg
+images:
+- file: images/columbiformes/columbidae/macropygia-amboinensis/1.jpg
+  page: https://www.inaturalist.org/photos/718305673
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305673/original.jpg
+- file: images/columbiformes/columbidae/macropygia-amboinensis/2.jpg
+  page: https://www.inaturalist.org/photos/698011907
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698011907/original.jpg
+- file: images/columbiformes/columbidae/macropygia-amboinensis/3.jpg
+  page: https://www.inaturalist.org/photos/559407376
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559407376/original.jpg
+- file: images/columbiformes/columbidae/macropygia-amboinensis/4.jpg
+  page: https://www.inaturalist.org/photos/573030122
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573030122/original.jpg
+- file: images/columbiformes/columbidae/macropygia-amboinensis/5.jpg
+  page: https://www.inaturalist.org/photos/670824371
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670824371/original.jpg
 ---
 
 

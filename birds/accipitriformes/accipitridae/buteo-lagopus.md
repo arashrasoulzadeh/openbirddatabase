@@ -171,10 +171,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/accipitriformes/accipitridae/buteo-lagopus/1.jpg
+  page: https://www.inaturalist.org/photos/605228533
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605228533/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-lagopus/1.jpg
+  page: https://www.inaturalist.org/photos/605228533
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605228533/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-lagopus/2.jpg
+  page: https://www.inaturalist.org/photos/605165712
+  author: Дмитрий Еременко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165712/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-lagopus/3.jpg
+  page: https://www.inaturalist.org/photos/605445505
+  author: Alexey Yakovlev
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605445505/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-lagopus/4.jpg
+  page: https://www.inaturalist.org/photos/605682111
+  author: Ryan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605682111/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-lagopus/5.jpg
+  page: https://www.inaturalist.org/photos/605228534
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605228534/original.jpg
 ---
 
 

@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lophura-nycthemera/1.jpg
+  page: https://www.inaturalist.org/photos/618336394
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618336394/original.jpg
+images:
+- file: images/galliformes/phasianidae/lophura-nycthemera/1.jpg
+  page: https://www.inaturalist.org/photos/618336394
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618336394/original.jpg
+- file: images/galliformes/phasianidae/lophura-nycthemera/2.jpg
+  page: https://www.inaturalist.org/photos/621508596
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621508596/original.jpg
+- file: images/galliformes/phasianidae/lophura-nycthemera/3.jpg
+  page: https://www.inaturalist.org/photos/626976073
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626976073/original.jpg
+- file: images/galliformes/phasianidae/lophura-nycthemera/4.jpg
+  page: https://www.inaturalist.org/photos/661733462
+  author: Silvio Montani
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661733462/original.jpg
+- file: images/galliformes/phasianidae/lophura-nycthemera/5.jpg
+  page: https://www.inaturalist.org/photos/629629110
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629629110/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-icterocephala/1.jpg
+  page: https://www.inaturalist.org/photos/610503115
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503115/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-icterocephala/1.jpg
+  page: https://www.inaturalist.org/photos/610503115
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503115/original.jpg
+- file: images/passeriformes/thraupidae/tangara-icterocephala/2.jpg
+  page: https://www.inaturalist.org/photos/610089428
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610089428/original.jpg
+- file: images/passeriformes/thraupidae/tangara-icterocephala/3.jpg
+  page: https://www.inaturalist.org/photos/608023994
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608023994/original.jpg
+- file: images/passeriformes/thraupidae/tangara-icterocephala/4.jpg
+  page: https://www.inaturalist.org/photos/610883607
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610883607/original.jpg
+- file: images/passeriformes/thraupidae/tangara-icterocephala/5.jpg
+  page: https://www.inaturalist.org/photos/613650268
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613650268/original.jpg
 ---
 
 

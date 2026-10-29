@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-macroura/1.jpg
+  page: https://www.inaturalist.org/photos/477090024
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477090024/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-macroura/1.jpg
+  page: https://www.inaturalist.org/photos/477090024
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477090024/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-macroura/2.jpg
+  page: https://www.inaturalist.org/photos/477941817
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477941817/original.jpeg
+- file: images/passeriformes/ploceidae/euplectes-macroura/3.jpg
+  page: https://www.inaturalist.org/photos/548839608
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548839608/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-macroura/4.jpg
+  page: https://www.inaturalist.org/photos/591217712
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591217712/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-macroura/5.jpg
+  page: https://www.inaturalist.org/photos/454597186
+  author: melianie_max_and_asker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454597186/original.jpeg
 ---
 
 

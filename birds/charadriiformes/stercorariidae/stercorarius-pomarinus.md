@@ -191,8 +191,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/stercorariidae/stercorarius-pomarinus/1.jpg
+  page: https://www.inaturalist.org/photos/609133743
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609133743/original.jpg
+images:
+- file: images/charadriiformes/stercorariidae/stercorarius-pomarinus/1.jpg
+  page: https://www.inaturalist.org/photos/609133743
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609133743/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-pomarinus/2.jpg
+  page: https://www.inaturalist.org/photos/614520926
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520926/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-pomarinus/3.jpg
+  page: https://www.inaturalist.org/photos/619961664
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619961664/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-pomarinus/4.jpg
+  page: https://www.inaturalist.org/photos/617790415
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617790415/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-pomarinus/5.jpg
+  page: https://www.inaturalist.org/photos/649515292
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649515292/original.jpg
 ---
 
 

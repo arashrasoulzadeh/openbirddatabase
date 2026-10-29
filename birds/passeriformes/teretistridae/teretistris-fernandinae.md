@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/teretistridae/teretistris-fernandinae/1.jpg
+  page: https://www.inaturalist.org/photos/617117936
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617117936/original.jpg
+images:
+- file: images/passeriformes/teretistridae/teretistris-fernandinae/1.jpg
+  page: https://www.inaturalist.org/photos/617117936
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617117936/original.jpg
+- file: images/passeriformes/teretistridae/teretistris-fernandinae/2.jpg
+  page: https://www.inaturalist.org/photos/628539793
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628539793/original.jpg
+- file: images/passeriformes/teretistridae/teretistris-fernandinae/3.jpg
+  page: https://www.inaturalist.org/photos/636403977
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636403977/original.jpg
+- file: images/passeriformes/teretistridae/teretistris-fernandinae/4.jpg
+  page: https://www.inaturalist.org/photos/610230655
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610230655/original.jpg
+- file: images/passeriformes/teretistridae/teretistris-fernandinae/5.jpg
+  page: https://www.inaturalist.org/photos/354114651
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354114651/original.jpg
 ---
 
 

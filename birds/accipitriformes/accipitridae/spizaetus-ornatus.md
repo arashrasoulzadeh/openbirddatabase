@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/spizaetus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/610553450
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610553450/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/spizaetus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/610553450
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610553450/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/611746297
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611746297/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-ornatus/3.jpg
+  page: https://www.inaturalist.org/photos/622499226
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622499226/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-ornatus/4.jpg
+  page: https://www.inaturalist.org/photos/624034936
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624034936/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-ornatus/5.jpg
+  page: https://www.inaturalist.org/photos/640345060
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640345060/original.jpg
 ---
 
 

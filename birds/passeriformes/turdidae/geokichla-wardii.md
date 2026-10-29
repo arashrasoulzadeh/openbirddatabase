@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-wardii/1.jpg
+  page: https://www.inaturalist.org/photos/618694689
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618694689/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-wardii/1.jpg
+  page: https://www.inaturalist.org/photos/618694689
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618694689/original.jpg
+- file: images/passeriformes/turdidae/geokichla-wardii/2.jpg
+  page: https://www.inaturalist.org/photos/468090534
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468090534/original.jpg
+- file: images/passeriformes/turdidae/geokichla-wardii/3.jpg
+  page: https://www.inaturalist.org/photos/258759759
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258759759/original.jpg
+- file: images/passeriformes/turdidae/geokichla-wardii/4.jpg
+  page: https://www.inaturalist.org/photos/197487744
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/197487744/original.jpeg
+- file: images/passeriformes/turdidae/geokichla-wardii/5.jpg
+  page: https://www.inaturalist.org/photos/195586022
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195586022/original.jpg
 ---
 
 

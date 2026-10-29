@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/paridae/poecile-atricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/604639456
+  author: Jason Grant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604639456/original.jpg
+images:
+- file: images/passeriformes/paridae/poecile-atricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/604639456
+  author: Jason Grant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604639456/original.jpg
+- file: images/passeriformes/paridae/poecile-atricapillus/2.jpg
+  page: https://www.inaturalist.org/photos/605523437
+  author: Andrew Still
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605523437/original.jpg
+- file: images/passeriformes/paridae/poecile-atricapillus/3.jpg
+  page: https://www.inaturalist.org/photos/605210813
+  author: David Dyck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210813/original.jpg
+- file: images/passeriformes/paridae/poecile-atricapillus/4.jpg
+  page: https://www.inaturalist.org/photos/605444105
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605444105/original.jpg
+- file: images/passeriformes/paridae/poecile-atricapillus/5.jpg
+  page: https://www.inaturalist.org/photos/604641598
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604641598/original.jpg
 ---
 
 

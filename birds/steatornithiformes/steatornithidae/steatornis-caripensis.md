@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/steatornithiformes/steatornithidae/steatornis-caripensis/1.jpg
+  page: https://www.inaturalist.org/photos/615746810
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615746810/original.jpg
+images:
+- file: images/steatornithiformes/steatornithidae/steatornis-caripensis/1.jpg
+  page: https://www.inaturalist.org/photos/615746810
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615746810/original.jpg
+- file: images/steatornithiformes/steatornithidae/steatornis-caripensis/2.jpg
+  page: https://www.inaturalist.org/photos/618598544
+  author: EstebanMH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618598544/original.jpg
+- file: images/steatornithiformes/steatornithidae/steatornis-caripensis/3.jpg
+  page: https://www.inaturalist.org/photos/695491119
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695491119/original.jpg
+- file: images/steatornithiformes/steatornithidae/steatornis-caripensis/4.jpg
+  page: https://www.inaturalist.org/photos/729282515
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729282515/original.jpg
+- file: images/steatornithiformes/steatornithidae/steatornis-caripensis/5.jpg
+  page: https://www.inaturalist.org/photos/484296576
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484296576/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-stolidus/1.jpg
+  page: https://www.inaturalist.org/photos/610842611
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842611/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-stolidus/1.jpg
+  page: https://www.inaturalist.org/photos/610842611
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842611/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-stolidus/2.jpg
+  page: https://www.inaturalist.org/photos/607523717
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607523717/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-stolidus/3.jpg
+  page: https://www.inaturalist.org/photos/614975276
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975276/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-stolidus/4.jpg
+  page: https://www.inaturalist.org/photos/469424035
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469424035/original.jpeg
+- file: images/passeriformes/tyrannidae/myiarchus-stolidus/5.jpg
+  page: https://www.inaturalist.org/photos/474831704
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474831704/original.jpg
 ---
 
 

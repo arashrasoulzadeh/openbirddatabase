@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrilia-vulturina/1.jpg
+  page: https://www.inaturalist.org/photos/402009095
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402009095/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrilia-vulturina/1.jpg
+  page: https://www.inaturalist.org/photos/402009095
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402009095/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-vulturina/2.jpg
+  page: https://www.inaturalist.org/photos/443639075
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443639075/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrilia-vulturina/3.jpg
+  page: https://www.inaturalist.org/photos/402016731
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402016731/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-vulturina/4.jpg
+  page: https://www.inaturalist.org/photos/402016735
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402016735/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-vulturina/5.jpg
+  page: https://www.inaturalist.org/photos/402072764
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402072764/original.jpg
 ---
 
 

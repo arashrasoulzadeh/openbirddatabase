@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/phaps-histrionica/1.jpg
+  page: https://www.inaturalist.org/photos/727352637
+  author: Em Lamond
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727352637/original.jpg
+images:
+- file: images/columbiformes/columbidae/phaps-histrionica/1.jpg
+  page: https://www.inaturalist.org/photos/727352637
+  author: Em Lamond
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727352637/original.jpg
+- file: images/columbiformes/columbidae/phaps-histrionica/2.jpg
+  page: https://www.inaturalist.org/photos/744545026
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744545026/original.jpg
+- file: images/columbiformes/columbidae/phaps-histrionica/3.jpg
+  page: https://www.inaturalist.org/photos/338534521
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338534521/original.jpeg
+- file: images/columbiformes/columbidae/phaps-histrionica/4.jpg
+  page: https://www.inaturalist.org/photos/379123134
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/379123134/original.jpeg
+- file: images/columbiformes/columbidae/phaps-histrionica/5.jpg
+  page: https://www.inaturalist.org/photos/118881564
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/118881564/original.jpg
 ---
 
 

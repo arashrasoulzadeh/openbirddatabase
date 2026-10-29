@@ -145,10 +145,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/passeriformes/ptilonorhynchidae/scenopoeetes-dentirostris/1.jpg
+  page: https://www.inaturalist.org/photos/705892352
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705892352/original.jpg
+images:
+- file: images/passeriformes/ptilonorhynchidae/scenopoeetes-dentirostris/1.jpg
+  page: https://www.inaturalist.org/photos/705892352
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705892352/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/scenopoeetes-dentirostris/2.jpg
+  page: https://www.inaturalist.org/photos/713612832
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713612832/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/scenopoeetes-dentirostris/3.jpg
+  page: https://www.inaturalist.org/photos/576703409
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576703409/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/scenopoeetes-dentirostris/4.jpg
+  page: https://www.inaturalist.org/photos/572603287
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572603287/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/scenopoeetes-dentirostris/5.jpg
+  page: https://www.inaturalist.org/photos/585668012
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585668012/original.jpg
 ---
 
 

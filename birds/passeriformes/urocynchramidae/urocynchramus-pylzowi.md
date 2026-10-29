@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.7
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 73.5
   tail_length_mm: 78.2
   body_mass_g: 28.6
+image:
+  file: images/passeriformes/urocynchramidae/urocynchramus-pylzowi/1.jpg
+  page: https://www.inaturalist.org/photos/521250240
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521250240/original.jpg
+images:
+- file: images/passeriformes/urocynchramidae/urocynchramus-pylzowi/1.jpg
+  page: https://www.inaturalist.org/photos/521250240
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521250240/original.jpg
+- file: images/passeriformes/urocynchramidae/urocynchramus-pylzowi/2.jpg
+  page: https://www.inaturalist.org/photos/409443874
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409443874/original.jpeg
+- file: images/passeriformes/urocynchramidae/urocynchramus-pylzowi/3.jpg
+  page: https://www.inaturalist.org/photos/367800538
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800538/original.jpg
+- file: images/passeriformes/urocynchramidae/urocynchramus-pylzowi/4.jpg
+  page: https://www.inaturalist.org/photos/521250215
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521250215/original.jpg
+- file: images/passeriformes/urocynchramidae/urocynchramus-pylzowi/5.jpg
+  page: https://www.inaturalist.org/photos/521250182
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521250182/original.jpg
 ---
 
 

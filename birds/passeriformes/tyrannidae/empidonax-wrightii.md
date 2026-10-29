@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/empidonax-wrightii/1.jpg
+  page: https://www.inaturalist.org/photos/615085365
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615085365/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonax-wrightii/1.jpg
+  page: https://www.inaturalist.org/photos/615085365
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615085365/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-wrightii/2.jpg
+  page: https://www.inaturalist.org/photos/634245558
+  author: Wendy McCrady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634245558/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-wrightii/3.jpg
+  page: https://www.inaturalist.org/photos/646612406
+  author: Chris Conard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646612406/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-wrightii/4.jpg
+  page: https://www.inaturalist.org/photos/641721198
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641721198/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-wrightii/5.jpg
+  page: https://www.inaturalist.org/photos/652991236
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652991236/original.jpg
 ---
 
 

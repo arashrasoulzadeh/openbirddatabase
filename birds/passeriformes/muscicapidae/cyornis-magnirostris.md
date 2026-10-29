@@ -142,7 +142,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.4
@@ -150,6 +151,44 @@ morphology:
   wing_length_mm: 78.0
   tail_length_mm: 64.5
   body_mass_g: 14.5
+image:
+  file: images/passeriformes/muscicapidae/cyornis-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/612379006
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612379006/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/612379006
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612379006/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-magnirostris/2.jpg
+  page: https://www.inaturalist.org/photos/587310563
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587310563/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-magnirostris/3.jpg
+  page: https://www.inaturalist.org/photos/459847784
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459847784/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-magnirostris/4.jpg
+  page: https://www.inaturalist.org/photos/255780212
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255780212/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-magnirostris/5.jpg
+  page: https://www.inaturalist.org/photos/342404569
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342404569/original.jpeg
 ---
 
 

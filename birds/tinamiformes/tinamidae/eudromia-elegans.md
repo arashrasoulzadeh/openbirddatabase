@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/eudromia-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/607981383
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607981383/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/eudromia-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/607981383
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607981383/original.jpg
+- file: images/tinamiformes/tinamidae/eudromia-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/615364178
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615364178/original.jpg
+- file: images/tinamiformes/tinamidae/eudromia-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/623995532
+  author: cactusauria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623995532/original.jpg
+- file: images/tinamiformes/tinamidae/eudromia-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/633083286
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633083286/original.jpg
+- file: images/tinamiformes/tinamidae/eudromia-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/744277781
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744277781/original.jpg
 ---
 
 

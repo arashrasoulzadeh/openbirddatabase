@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/corvidae/aphelocoma-woodhouseii/1.jpg
+  page: https://www.inaturalist.org/photos/610751074
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610751074/original.jpg
+images:
+- file: images/passeriformes/corvidae/aphelocoma-woodhouseii/1.jpg
+  page: https://www.inaturalist.org/photos/610751074
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610751074/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-woodhouseii/2.jpg
+  page: https://www.inaturalist.org/photos/605808737
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605808737/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-woodhouseii/3.jpg
+  page: https://www.inaturalist.org/photos/608481742
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608481742/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-woodhouseii/4.jpg
+  page: https://www.inaturalist.org/photos/609538141
+  author: Indio Brown
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609538141/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-woodhouseii/5.jpg
+  page: https://www.inaturalist.org/photos/611535765
+  author: Luiz Puodzius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611535765/original.jpg
 ---
 
 

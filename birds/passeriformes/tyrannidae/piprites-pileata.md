@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/piprites-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/410018797
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410018797/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/piprites-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/410018797
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410018797/original.jpeg
+- file: images/passeriformes/tyrannidae/piprites-pileata/2.jpg
+  page: https://www.inaturalist.org/photos/450433966
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450433966/original.jpeg
+- file: images/passeriformes/tyrannidae/piprites-pileata/3.jpg
+  page: https://www.inaturalist.org/photos/454754441
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454754441/original.jpg
+- file: images/passeriformes/tyrannidae/piprites-pileata/4.jpg
+  page: https://www.inaturalist.org/photos/258512093
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258512093/original.jpg
+- file: images/passeriformes/tyrannidae/piprites-pileata/5.jpg
+  page: https://www.inaturalist.org/photos/311608853
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311608853/original.jpeg
 ---
 
 

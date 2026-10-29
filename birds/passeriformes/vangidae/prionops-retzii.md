@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/prionops-retzii/1.jpg
+  page: https://www.inaturalist.org/photos/481807117
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481807117/original.jpg
+images:
+- file: images/passeriformes/vangidae/prionops-retzii/1.jpg
+  page: https://www.inaturalist.org/photos/481807117
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481807117/original.jpg
+- file: images/passeriformes/vangidae/prionops-retzii/2.jpg
+  page: https://www.inaturalist.org/photos/519754603
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519754603/original.jpg
+- file: images/passeriformes/vangidae/prionops-retzii/3.jpg
+  page: https://www.inaturalist.org/photos/527528087
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527528087/original.jpg
+- file: images/passeriformes/vangidae/prionops-retzii/4.jpg
+  page: https://www.inaturalist.org/photos/553275649
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553275649/original.jpg
+- file: images/passeriformes/vangidae/prionops-retzii/5.jpg
+  page: https://www.inaturalist.org/photos/570419282
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570419282/original.jpg
 ---
 
 

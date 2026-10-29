@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/thlypopsis-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/718797196
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718797196/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thlypopsis-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/718797196
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718797196/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-inornata/2.jpg
+  page: https://www.inaturalist.org/photos/477996277
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477996277/original.jpeg
+- file: images/passeriformes/thraupidae/thlypopsis-inornata/3.jpg
+  page: https://www.inaturalist.org/photos/349242070
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349242070/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-inornata/4.jpg
+  page: https://www.inaturalist.org/photos/718797907
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718797907/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-inornata/5.jpg
+  page: https://www.inaturalist.org/photos/718797851
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718797851/original.jpg
 ---
 
 

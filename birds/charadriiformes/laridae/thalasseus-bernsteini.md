@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/thalasseus-bernsteini/1.jpg
+  page: https://www.inaturalist.org/photos/480368452
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480368452/original.jpeg
+images:
+- file: images/charadriiformes/laridae/thalasseus-bernsteini/1.jpg
+  page: https://www.inaturalist.org/photos/480368452
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480368452/original.jpeg
+- file: images/charadriiformes/laridae/thalasseus-bernsteini/2.jpg
+  page: https://www.inaturalist.org/photos/480368463
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480368463/original.jpeg
+- file: images/charadriiformes/laridae/thalasseus-bernsteini/3.jpg
+  page: https://www.inaturalist.org/photos/480368716
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480368716/original.jpeg
+- file: images/charadriiformes/laridae/thalasseus-bernsteini/4.jpg
+  page: https://www.inaturalist.org/photos/480368725
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480368725/original.jpeg
+- file: images/charadriiformes/laridae/thalasseus-bernsteini/5.jpg
+  page: https://www.inaturalist.org/photos/480368734
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480368734/original.jpeg
 ---
 
 

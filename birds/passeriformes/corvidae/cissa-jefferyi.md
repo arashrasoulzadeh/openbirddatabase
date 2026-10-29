@@ -130,7 +130,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 34.9
@@ -138,6 +139,44 @@ morphology:
   wing_length_mm: 130.3
   tail_length_mm: 121.1
   body_mass_g: 125.0
+image:
+  file: images/passeriformes/corvidae/cissa-jefferyi/1.jpg
+  page: https://www.inaturalist.org/photos/686444266
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686444266/original.jpg
+images:
+- file: images/passeriformes/corvidae/cissa-jefferyi/1.jpg
+  page: https://www.inaturalist.org/photos/686444266
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686444266/original.jpg
+- file: images/passeriformes/corvidae/cissa-jefferyi/2.jpg
+  page: https://www.inaturalist.org/photos/745356669
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745356669/original.jpg
+- file: images/passeriformes/corvidae/cissa-jefferyi/3.jpg
+  page: https://www.inaturalist.org/photos/590437847
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590437847/original.jpg
+- file: images/passeriformes/corvidae/cissa-jefferyi/4.jpg
+  page: https://www.inaturalist.org/photos/484076867
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484076867/original.jpeg
+- file: images/passeriformes/corvidae/cissa-jefferyi/5.jpg
+  page: https://www.inaturalist.org/photos/423377253
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423377253/original.jpeg
 ---
 
 

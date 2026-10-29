@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/gracula-indica/1.jpg
+  page: https://www.inaturalist.org/photos/651240151
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651240151/original.jpg
+images:
+- file: images/passeriformes/sturnidae/gracula-indica/1.jpg
+  page: https://www.inaturalist.org/photos/651240151
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651240151/original.jpg
+- file: images/passeriformes/sturnidae/gracula-indica/2.jpg
+  page: https://www.inaturalist.org/photos/623609568
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623609568/original.jpg
+- file: images/passeriformes/sturnidae/gracula-indica/3.jpg
+  page: https://www.inaturalist.org/photos/668257199
+  author: rajesh rocky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668257199/original.jpg
+- file: images/passeriformes/sturnidae/gracula-indica/4.jpg
+  page: https://www.inaturalist.org/photos/676331476
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676331476/original.jpg
+- file: images/passeriformes/sturnidae/gracula-indica/5.jpg
+  page: https://www.inaturalist.org/photos/679637495
+  author: Kesava Garimella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679637495/original.jpg
 ---
 
 

@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/basileuterus-culicivorus/1.jpg
+  page: https://www.inaturalist.org/photos/605534368
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534368/original.jpg
+images:
+- file: images/passeriformes/parulidae/basileuterus-culicivorus/1.jpg
+  page: https://www.inaturalist.org/photos/605534368
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534368/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-culicivorus/2.jpg
+  page: https://www.inaturalist.org/photos/604543236
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543236/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-culicivorus/3.jpg
+  page: https://www.inaturalist.org/photos/604600433
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604600433/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-culicivorus/4.jpg
+  page: https://www.inaturalist.org/photos/605183727
+  author: lander1950
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605183727/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-culicivorus/5.jpg
+  page: https://www.inaturalist.org/photos/609124994
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609124994/original.jpg
 ---
 
 

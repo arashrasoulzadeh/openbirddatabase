@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-cyanea/1.jpg
+  page: https://www.inaturalist.org/photos/610574161
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574161/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-cyanea/1.jpg
+  page: https://www.inaturalist.org/photos/610574161
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574161/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-cyanea/2.jpg
+  page: https://www.inaturalist.org/photos/614581420
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614581420/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-cyanea/3.jpg
+  page: https://www.inaturalist.org/photos/612919579
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612919579/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-cyanea/4.jpg
+  page: https://www.inaturalist.org/photos/609331407
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609331407/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-cyanea/5.jpg
+  page: https://www.inaturalist.org/photos/619672102
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619672102/original.jpg
 ---
 
 

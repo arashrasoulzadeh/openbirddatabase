@@ -154,8 +154,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/discosura-longicaudus/1.jpg
+  page: https://www.inaturalist.org/photos/607761330
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607761330/original.jpg
+images:
+- file: images/apodiformes/trochilidae/discosura-longicaudus/1.jpg
+  page: https://www.inaturalist.org/photos/607761330
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607761330/original.jpg
+- file: images/apodiformes/trochilidae/discosura-longicaudus/2.jpg
+  page: https://www.inaturalist.org/photos/107974437
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107974437/original.jpg
 ---
 
 

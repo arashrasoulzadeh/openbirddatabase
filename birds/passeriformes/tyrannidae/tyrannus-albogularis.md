@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/607273158
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273158/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/607273158
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273158/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/609036187
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609036187/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/613315077
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613315077/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/653165861
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653165861/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/732673707
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732673707/original.jpg
 ---
 
 

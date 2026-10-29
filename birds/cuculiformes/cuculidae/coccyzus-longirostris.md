@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coccyzus-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/611058998
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611058998/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coccyzus-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/611058998
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611058998/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/607139434
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607139434/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/614975472
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975472/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/462229465
+  author: Maria Altagracia Sanchez Jimenez
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462229465/original.jpeg
+- file: images/cuculiformes/cuculidae/coccyzus-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/474526194
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474526194/original.jpg
 ---
 
 

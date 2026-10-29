@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/zanclostomus-javanicus/1.jpg
+  page: https://www.inaturalist.org/photos/630943199
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630943199/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/zanclostomus-javanicus/1.jpg
+  page: https://www.inaturalist.org/photos/630943199
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630943199/original.jpg
+- file: images/cuculiformes/cuculidae/zanclostomus-javanicus/2.jpg
+  page: https://www.inaturalist.org/photos/658466944
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658466944/original.jpg
+- file: images/cuculiformes/cuculidae/zanclostomus-javanicus/3.jpg
+  page: https://www.inaturalist.org/photos/660056760
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660056760/original.jpg
+- file: images/cuculiformes/cuculidae/zanclostomus-javanicus/4.jpg
+  page: https://www.inaturalist.org/photos/669576066
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669576066/original.jpg
+- file: images/cuculiformes/cuculidae/zanclostomus-javanicus/5.jpg
+  page: https://www.inaturalist.org/photos/679111969
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679111969/original.jpg
 ---
 
 

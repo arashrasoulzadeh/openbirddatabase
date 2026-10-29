@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 45
+image:
+  file: images/procellariiformes/procellariidae/fulmarus-glacialoides/1.jpg
+  page: https://www.inaturalist.org/photos/608146305
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608146305/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/fulmarus-glacialoides/1.jpg
+  page: https://www.inaturalist.org/photos/608146305
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608146305/original.jpg
+- file: images/procellariiformes/procellariidae/fulmarus-glacialoides/2.jpg
+  page: https://www.inaturalist.org/photos/614228619
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614228619/original.jpg
+- file: images/procellariiformes/procellariidae/fulmarus-glacialoides/3.jpg
+  page: https://www.inaturalist.org/photos/610840217
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610840217/original.jpg
+- file: images/procellariiformes/procellariidae/fulmarus-glacialoides/4.jpg
+  page: https://www.inaturalist.org/photos/610840278
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610840278/original.jpg
+- file: images/procellariiformes/procellariidae/fulmarus-glacialoides/5.jpg
+  page: https://www.inaturalist.org/photos/610395166
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610395166/original.jpg
 ---
 
 

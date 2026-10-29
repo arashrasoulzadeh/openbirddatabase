@@ -126,7 +126,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 122.9
@@ -134,6 +135,44 @@ morphology:
   wing_length_mm: 477.8
   tail_length_mm: 175.4
   body_mass_g: 4296.2
+image:
+  file: images/gruiformes/gruidae/antigone-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/604965004
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604965004/original.jpg
+images:
+- file: images/gruiformes/gruidae/antigone-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/604965004
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604965004/original.jpg
+- file: images/gruiformes/gruidae/antigone-canadensis/2.jpg
+  page: https://www.inaturalist.org/photos/605194315
+  author: Rachel Stringham
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605194315/original.jpg
+- file: images/gruiformes/gruidae/antigone-canadensis/3.jpg
+  page: https://www.inaturalist.org/photos/605254100
+  author: Karen Burns Ball
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605254100/original.jpg
+- file: images/gruiformes/gruidae/antigone-canadensis/4.jpg
+  page: https://www.inaturalist.org/photos/604895300
+  author: Calinsdad
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895300/original.jpg
+- file: images/gruiformes/gruidae/antigone-canadensis/5.jpg
+  page: https://www.inaturalist.org/photos/605642753
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605642753/original.jpg
 ---
 
 

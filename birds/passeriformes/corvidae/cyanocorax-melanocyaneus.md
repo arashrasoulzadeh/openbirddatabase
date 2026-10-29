@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-melanocyaneus/1.jpg
+  page: https://www.inaturalist.org/photos/616034758
+  author: Chris Wyse
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616034758/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-melanocyaneus/1.jpg
+  page: https://www.inaturalist.org/photos/616034758
+  author: Chris Wyse
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616034758/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-melanocyaneus/2.jpg
+  page: https://www.inaturalist.org/photos/616799748
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616799748/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-melanocyaneus/3.jpg
+  page: https://www.inaturalist.org/photos/620884719
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620884719/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-melanocyaneus/4.jpg
+  page: https://www.inaturalist.org/photos/647490549
+  author: Gandhi Ponce Juárez
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647490549/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-melanocyaneus/5.jpg
+  page: https://www.inaturalist.org/photos/665773261
+  author: ashleyrsteel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665773261/original.jpg
 ---
 
 

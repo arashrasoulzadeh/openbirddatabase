@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/podargus-papuensis/1.jpg
+  page: https://www.inaturalist.org/photos/609124637
+  author: Ged Tranter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609124637/original.jpg
+images:
+- file: images/podargiformes/podargidae/podargus-papuensis/1.jpg
+  page: https://www.inaturalist.org/photos/609124637
+  author: Ged Tranter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609124637/original.jpg
+- file: images/podargiformes/podargidae/podargus-papuensis/2.jpg
+  page: https://www.inaturalist.org/photos/613435076
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435076/original.jpg
+- file: images/podargiformes/podargidae/podargus-papuensis/3.jpg
+  page: https://www.inaturalist.org/photos/616449546
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616449546/original.jpg
+- file: images/podargiformes/podargidae/podargus-papuensis/4.jpg
+  page: https://www.inaturalist.org/photos/612345579
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612345579/original.jpg
+- file: images/podargiformes/podargidae/podargus-papuensis/5.jpg
+  page: https://www.inaturalist.org/photos/636757848
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636757848/original.jpg
 ---
 
 

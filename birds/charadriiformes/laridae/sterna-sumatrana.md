@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sterna-sumatrana/1.jpg
+  page: https://www.inaturalist.org/photos/607009782
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607009782/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-sumatrana/1.jpg
+  page: https://www.inaturalist.org/photos/607009782
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607009782/original.jpg
+- file: images/charadriiformes/laridae/sterna-sumatrana/2.jpg
+  page: https://www.inaturalist.org/photos/626262245
+  author: Debra Baker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626262245/original.jpg
+- file: images/charadriiformes/laridae/sterna-sumatrana/3.jpg
+  page: https://www.inaturalist.org/photos/645903622
+  author: Mariana
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645903622/original.jpg
+- file: images/charadriiformes/laridae/sterna-sumatrana/4.jpg
+  page: https://www.inaturalist.org/photos/652365100
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652365100/original.jpg
+- file: images/charadriiformes/laridae/sterna-sumatrana/5.jpg
+  page: https://www.inaturalist.org/photos/672864854
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672864854/original.jpg
 ---
 
 

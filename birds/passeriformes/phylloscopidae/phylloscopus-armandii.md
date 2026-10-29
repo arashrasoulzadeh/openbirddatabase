@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-armandii/1.jpg
+  page: https://www.inaturalist.org/photos/367800974
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800974/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-armandii/1.jpg
+  page: https://www.inaturalist.org/photos/367800974
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800974/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-armandii/2.jpg
+  page: https://www.inaturalist.org/photos/63647296
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63647296/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-armandii/3.jpg
+  page: https://www.inaturalist.org/photos/3565765
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/3565765/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-armandii/4.jpg
+  page: https://www.inaturalist.org/photos/347691699
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347691699/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-armandii/5.jpg
+  page: https://www.inaturalist.org/photos/63647297
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63647297/original.jpg
 ---
 
 

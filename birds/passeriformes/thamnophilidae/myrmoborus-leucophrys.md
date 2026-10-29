@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmoborus-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/608728464
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608728464/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmoborus-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/608728464
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608728464/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/594789821
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594789821/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/474212329
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474212329/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmoborus-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/562887749
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562887749/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/345618313
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345618313/original.jpeg
 ---
 
 

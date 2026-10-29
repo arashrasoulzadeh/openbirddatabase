@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-bernieri/1.jpg
+  page: https://www.inaturalist.org/photos/451375712
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451375712/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-bernieri/1.jpg
+  page: https://www.inaturalist.org/photos/451375712
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451375712/original.jpg
+- file: images/anseriformes/anatidae/anas-bernieri/2.jpg
+  page: https://www.inaturalist.org/photos/465441980
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465441980/original.jpg
+- file: images/anseriformes/anatidae/anas-bernieri/3.jpg
+  page: https://www.inaturalist.org/photos/247450556
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247450556/original.jpg
+- file: images/anseriformes/anatidae/anas-bernieri/4.jpg
+  page: https://www.inaturalist.org/photos/465441988
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465441988/original.jpg
+- file: images/anseriformes/anatidae/anas-bernieri/5.jpg
+  page: https://www.inaturalist.org/photos/465441993
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465441993/original.jpg
 ---
 
 

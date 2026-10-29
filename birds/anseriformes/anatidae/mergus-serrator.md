@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/anseriformes/anatidae/mergus-serrator/1.jpg
+  page: https://www.inaturalist.org/photos/604616096
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604616096/original.jpg
+images:
+- file: images/anseriformes/anatidae/mergus-serrator/1.jpg
+  page: https://www.inaturalist.org/photos/604616096
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604616096/original.jpg
+- file: images/anseriformes/anatidae/mergus-serrator/2.jpg
+  page: https://www.inaturalist.org/photos/605482250
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605482250/original.jpg
+- file: images/anseriformes/anatidae/mergus-serrator/3.jpg
+  page: https://www.inaturalist.org/photos/605647267
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605647267/original.jpg
+- file: images/anseriformes/anatidae/mergus-serrator/4.jpg
+  page: https://www.inaturalist.org/photos/605752225
+  author: Kevin Lynch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605752225/original.jpg
+- file: images/anseriformes/anatidae/mergus-serrator/5.jpg
+  page: https://www.inaturalist.org/photos/605352659
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605352659/original.jpg
 ---
 
 

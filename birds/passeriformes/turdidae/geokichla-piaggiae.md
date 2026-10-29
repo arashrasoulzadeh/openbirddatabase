@@ -155,8 +155,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-piaggiae/1.jpg
+  page: https://www.inaturalist.org/photos/610084564
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084564/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-piaggiae/1.jpg
+  page: https://www.inaturalist.org/photos/610084564
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084564/original.jpg
+- file: images/passeriformes/turdidae/geokichla-piaggiae/2.jpg
+  page: https://www.inaturalist.org/photos/610084541
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084541/original.jpg
+- file: images/passeriformes/turdidae/geokichla-piaggiae/3.jpg
+  page: https://www.inaturalist.org/photos/610084531
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084531/original.jpg
+- file: images/passeriformes/turdidae/geokichla-piaggiae/4.jpg
+  page: https://www.inaturalist.org/photos/610084539
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084539/original.jpg
 ---
 
 

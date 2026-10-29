@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/polystictus-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/610699129
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610699129/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/polystictus-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/610699129
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610699129/original.jpg
+- file: images/passeriformes/tyrannidae/polystictus-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/605807211
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605807211/original.jpg
+- file: images/passeriformes/tyrannidae/polystictus-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/461557535
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461557535/original.jpeg
+- file: images/passeriformes/tyrannidae/polystictus-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/470625497
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470625497/original.jpg
+- file: images/passeriformes/tyrannidae/polystictus-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/480292691
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480292691/original.jpeg
 ---
 
 

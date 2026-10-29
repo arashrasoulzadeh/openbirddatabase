@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/halcyon-malimbica/1.jpg
+  page: https://www.inaturalist.org/photos/639317809
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639317809/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/halcyon-malimbica/1.jpg
+  page: https://www.inaturalist.org/photos/639317809
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639317809/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-malimbica/2.jpg
+  page: https://www.inaturalist.org/photos/469543204
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469543204/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-malimbica/3.jpg
+  page: https://www.inaturalist.org/photos/468585883
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468585883/original.png
+- file: images/coraciiformes/alcedinidae/halcyon-malimbica/4.jpg
+  page: https://www.inaturalist.org/photos/471577902
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471577902/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-malimbica/5.jpg
+  page: https://www.inaturalist.org/photos/475627711
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475627711/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-trichopsis/1.jpg
+  page: https://www.inaturalist.org/photos/606530492
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606530492/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-trichopsis/1.jpg
+  page: https://www.inaturalist.org/photos/606530492
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606530492/original.jpg
+- file: images/strigiformes/strigidae/megascops-trichopsis/2.jpg
+  page: https://www.inaturalist.org/photos/469757996
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469757996/original.jpg
+- file: images/strigiformes/strigidae/megascops-trichopsis/3.jpg
+  page: https://www.inaturalist.org/photos/501711280
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501711280/original.jpg
+- file: images/strigiformes/strigidae/megascops-trichopsis/4.jpg
+  page: https://www.inaturalist.org/photos/602123513
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602123513/original.jpg
+- file: images/strigiformes/strigidae/megascops-trichopsis/5.jpg
+  page: https://www.inaturalist.org/photos/265105451
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265105451/original.jpeg
 ---
 
 

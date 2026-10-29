@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 21.1
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 173.0
   tail_length_mm: 102.8
   body_mass_g: 308.5
+image:
+  file: images/columbiformes/columbidae/columba-malherbii/1.jpg
+  page: https://www.inaturalist.org/photos/468911698
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468911698/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-malherbii/1.jpg
+  page: https://www.inaturalist.org/photos/468911698
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468911698/original.jpg
+- file: images/columbiformes/columbidae/columba-malherbii/2.jpg
+  page: https://www.inaturalist.org/photos/560622549
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560622549/original.jpg
+- file: images/columbiformes/columbidae/columba-malherbii/3.jpg
+  page: https://www.inaturalist.org/photos/9787813
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9787813/original.jpeg
+- file: images/columbiformes/columbidae/columba-malherbii/4.jpg
+  page: https://www.inaturalist.org/photos/65403890
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/65403890/original.jpeg
+- file: images/columbiformes/columbidae/columba-malherbii/5.jpg
+  page: https://www.inaturalist.org/photos/158081415
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158081415/original.jpeg
 ---
 
 

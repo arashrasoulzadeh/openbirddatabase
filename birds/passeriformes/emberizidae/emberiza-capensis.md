@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/609229663
+  author: Justin Schoon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609229663/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/609229663
+  author: Justin Schoon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609229663/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/613421214
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613421214/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/623980977
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623980977/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/630357185
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630357185/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/641510584
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641510584/original.jpg
 ---
 
 

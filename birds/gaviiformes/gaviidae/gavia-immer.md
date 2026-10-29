@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/gaviiformes/gaviidae/gavia-immer/1.jpg
+  page: https://www.inaturalist.org/photos/605294516
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605294516/original.jpg
+images:
+- file: images/gaviiformes/gaviidae/gavia-immer/1.jpg
+  page: https://www.inaturalist.org/photos/605294516
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605294516/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-immer/2.jpg
+  page: https://www.inaturalist.org/photos/605545089
+  author: Liam Steele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605545089/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-immer/3.jpg
+  page: https://www.inaturalist.org/photos/604857869
+  author: uxbridgebirder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604857869/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-immer/4.jpg
+  page: https://www.inaturalist.org/photos/605455701
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605455701/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-immer/5.jpg
+  page: https://www.inaturalist.org/photos/604827141
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604827141/original.jpg
 ---
 
 

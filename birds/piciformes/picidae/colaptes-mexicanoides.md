@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/colaptes-mexicanoides/1.jpg
+  page: https://www.inaturalist.org/photos/616641230
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616641230/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-mexicanoides/1.jpg
+  page: https://www.inaturalist.org/photos/616641230
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616641230/original.jpg
+- file: images/piciformes/picidae/colaptes-mexicanoides/2.jpg
+  page: https://www.inaturalist.org/photos/474685164
+  author: Nohemy Juc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474685164/original.jpeg
+- file: images/piciformes/picidae/colaptes-mexicanoides/3.jpg
+  page: https://www.inaturalist.org/photos/476618558
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476618558/original.jpeg
+- file: images/piciformes/picidae/colaptes-mexicanoides/4.jpg
+  page: https://www.inaturalist.org/photos/482826161
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482826161/original.jpeg
+- file: images/piciformes/picidae/colaptes-mexicanoides/5.jpg
+  page: https://www.inaturalist.org/photos/523233818
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523233818/original.jpg
 ---
 
 

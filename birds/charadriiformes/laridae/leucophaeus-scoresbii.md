@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 43.9
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 323.0
   tail_length_mm: 128.6
   body_mass_g: 523.5
+image:
+  file: images/charadriiformes/laridae/leucophaeus-scoresbii/1.jpg
+  page: https://www.inaturalist.org/photos/604803871
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604803871/original.jpg
+images:
+- file: images/charadriiformes/laridae/leucophaeus-scoresbii/1.jpg
+  page: https://www.inaturalist.org/photos/604803871
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604803871/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-scoresbii/2.jpg
+  page: https://www.inaturalist.org/photos/610074218
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610074218/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-scoresbii/3.jpg
+  page: https://www.inaturalist.org/photos/612267715
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612267715/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-scoresbii/4.jpg
+  page: https://www.inaturalist.org/photos/615792569
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792569/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-scoresbii/5.jpg
+  page: https://www.inaturalist.org/photos/623019594
+  author: Santiago Martín-Bravo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623019594/original.jpg
 ---
 
 

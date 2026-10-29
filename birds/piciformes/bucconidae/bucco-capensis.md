@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/bucco-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/466904349
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466904349/original.jpg
+images:
+- file: images/piciformes/bucconidae/bucco-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/466904349
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466904349/original.jpg
+- file: images/piciformes/bucconidae/bucco-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/477083323
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477083323/original.jpg
+- file: images/piciformes/bucconidae/bucco-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/529017435
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529017435/original.jpg
+- file: images/piciformes/bucconidae/bucco-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/402072780
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402072780/original.jpg
+- file: images/piciformes/bucconidae/bucco-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/249260727
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249260727/original.jpeg
 ---
 
 

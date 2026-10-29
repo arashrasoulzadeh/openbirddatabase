@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-ricketti/1.jpg
+  page: https://www.inaturalist.org/photos/617147195
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147195/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-ricketti/1.jpg
+  page: https://www.inaturalist.org/photos/617147195
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147195/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-ricketti/2.jpg
+  page: https://www.inaturalist.org/photos/585903345
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585903345/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-ricketti/3.jpg
+  page: https://www.inaturalist.org/photos/455009058
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455009058/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-ricketti/4.jpg
+  page: https://www.inaturalist.org/photos/483818452
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483818452/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-ricketti/5.jpg
+  page: https://www.inaturalist.org/photos/342168410
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342168410/original.jpeg
 ---
 
 

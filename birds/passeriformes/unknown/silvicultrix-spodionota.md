@@ -126,8 +126,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/unknown/silvicultrix-spodionota/1.jpg
+  page: https://www.inaturalist.org/photos/652824196
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652824196/original.jpg
+images:
+- file: images/passeriformes/unknown/silvicultrix-spodionota/1.jpg
+  page: https://www.inaturalist.org/photos/652824196
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652824196/original.jpg
+- file: images/passeriformes/unknown/silvicultrix-spodionota/2.jpg
+  page: https://www.inaturalist.org/photos/528237787
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528237787/original.jpg
+- file: images/passeriformes/unknown/silvicultrix-spodionota/3.jpg
+  page: https://www.inaturalist.org/photos/606158953
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606158953/original.jpg
+- file: images/passeriformes/unknown/silvicultrix-spodionota/4.jpg
+  page: https://www.inaturalist.org/photos/591786589
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591786589/original.jpg
+- file: images/passeriformes/unknown/silvicultrix-spodionota/5.jpg
+  page: https://www.inaturalist.org/photos/596411266
+  author: danpatrick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596411266/original.jpg
 ---
 
 

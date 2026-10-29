@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/dessonornis-humeralis/1.jpg
+  page: https://www.inaturalist.org/photos/705916872
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705916872/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/dessonornis-humeralis/1.jpg
+  page: https://www.inaturalist.org/photos/705916872
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705916872/original.jpg
+- file: images/passeriformes/muscicapidae/dessonornis-humeralis/2.jpg
+  page: https://www.inaturalist.org/photos/717140333
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717140333/original.jpg
+- file: images/passeriformes/muscicapidae/dessonornis-humeralis/3.jpg
+  page: https://www.inaturalist.org/photos/487894074
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487894074/original.jpg
+- file: images/passeriformes/muscicapidae/dessonornis-humeralis/4.jpg
+  page: https://www.inaturalist.org/photos/548556205
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548556205/original.jpg
+- file: images/passeriformes/muscicapidae/dessonornis-humeralis/5.jpg
+  page: https://www.inaturalist.org/photos/494944285
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/494944285/original.jpg
 ---
 
 

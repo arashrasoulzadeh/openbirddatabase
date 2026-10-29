@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/campocolinus-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/607954975
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607954975/original.jpg
+images:
+- file: images/galliformes/phasianidae/campocolinus-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/607954975
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607954975/original.jpg
+- file: images/galliformes/phasianidae/campocolinus-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/607954969
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607954969/original.jpg
+- file: images/galliformes/phasianidae/campocolinus-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/607954967
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607954967/original.jpg
+- file: images/galliformes/phasianidae/campocolinus-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/607954979
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607954979/original.jpg
+- file: images/galliformes/phasianidae/campocolinus-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/607954981
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607954981/original.jpg
 ---
 
 

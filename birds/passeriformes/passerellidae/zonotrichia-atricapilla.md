@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/passerellidae/zonotrichia-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/604931647
+  author: Jacob Moyer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604931647/original.jpg
+images:
+- file: images/passeriformes/passerellidae/zonotrichia-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/604931647
+  author: Jacob Moyer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604931647/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-atricapilla/2.jpg
+  page: https://www.inaturalist.org/photos/605512444
+  author: funnieanimals
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605512444/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-atricapilla/3.jpg
+  page: https://www.inaturalist.org/photos/605289396
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605289396/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-atricapilla/4.jpg
+  page: https://www.inaturalist.org/photos/604609832
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604609832/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-atricapilla/5.jpg
+  page: https://www.inaturalist.org/photos/605285643
+  author: zorthesosen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605285643/original.jpg
 ---
 
 

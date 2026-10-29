@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-variegatum/1.jpg
+  page: https://www.inaturalist.org/photos/626641282
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626641282/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-variegatum/1.jpg
+  page: https://www.inaturalist.org/photos/626641282
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626641282/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-variegatum/2.jpg
+  page: https://www.inaturalist.org/photos/728837114
+  author: Parul
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728837114/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-variegatum/3.jpg
+  page: https://www.inaturalist.org/photos/626641298
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626641298/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-variegatum/4.jpg
+  page: https://www.inaturalist.org/photos/626645325
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626645325/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-variegatum/5.jpg
+  page: https://www.inaturalist.org/photos/728841616
+  author: Parul
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728841616/original.jpg
 ---
 
 

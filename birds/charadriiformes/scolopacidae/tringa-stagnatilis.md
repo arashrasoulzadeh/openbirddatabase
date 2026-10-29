@@ -215,10 +215,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/charadriiformes/scolopacidae/tringa-stagnatilis/1.jpg
+  page: https://www.inaturalist.org/photos/605840534
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605840534/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/tringa-stagnatilis/1.jpg
+  page: https://www.inaturalist.org/photos/605840534
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605840534/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-stagnatilis/2.jpg
+  page: https://www.inaturalist.org/photos/609175939
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609175939/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-stagnatilis/3.jpg
+  page: https://www.inaturalist.org/photos/609999265
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609999265/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-stagnatilis/4.jpg
+  page: https://www.inaturalist.org/photos/606548136
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606548136/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-stagnatilis/5.jpg
+  page: https://www.inaturalist.org/photos/611446062
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611446062/original.jpg
 ---
 
 

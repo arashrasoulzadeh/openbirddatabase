@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/pomatostomidae/pomatostomus-temporalis/1.jpg
+  page: https://www.inaturalist.org/photos/604659893
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604659893/original.jpg
+images:
+- file: images/passeriformes/pomatostomidae/pomatostomus-temporalis/1.jpg
+  page: https://www.inaturalist.org/photos/604659893
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604659893/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-temporalis/2.jpg
+  page: https://www.inaturalist.org/photos/609789691
+  author: Roger Yandle
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609789691/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-temporalis/3.jpg
+  page: https://www.inaturalist.org/photos/616303555
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616303555/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-temporalis/4.jpg
+  page: https://www.inaturalist.org/photos/620336492
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620336492/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-temporalis/5.jpg
+  page: https://www.inaturalist.org/photos/604656632
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604656632/original.jpg
 ---
 
 

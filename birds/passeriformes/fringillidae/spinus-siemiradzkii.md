@@ -134,8 +134,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-siemiradzkii/1.jpg
+  page: https://www.inaturalist.org/photos/323054379
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323054379/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-siemiradzkii/1.jpg
+  page: https://www.inaturalist.org/photos/323054379
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323054379/original.jpg
+- file: images/passeriformes/fringillidae/spinus-siemiradzkii/2.jpg
+  page: https://www.inaturalist.org/photos/59820229
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59820229/original.jpg
+- file: images/passeriformes/fringillidae/spinus-siemiradzkii/3.jpg
+  page: https://www.inaturalist.org/photos/12870644
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12870644/original.jpg
+- file: images/passeriformes/fringillidae/spinus-siemiradzkii/4.jpg
+  page: https://www.inaturalist.org/photos/59820231
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59820231/original.jpg
+- file: images/passeriformes/fringillidae/spinus-siemiradzkii/5.jpg
+  page: https://www.inaturalist.org/photos/59820233
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59820233/original.jpg
 ---
 
 

@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 70
+image:
+  file: images/bucerotiformes/bucerotidae/bucorvus-abyssinicus/1.jpg
+  page: https://www.inaturalist.org/photos/631026096
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631026096/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/bucorvus-abyssinicus/1.jpg
+  page: https://www.inaturalist.org/photos/631026096
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631026096/original.jpg
+- file: images/bucerotiformes/bucerotidae/bucorvus-abyssinicus/2.jpg
+  page: https://www.inaturalist.org/photos/723313870
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723313870/original.jpg
+- file: images/bucerotiformes/bucerotidae/bucorvus-abyssinicus/3.jpg
+  page: https://www.inaturalist.org/photos/610165584
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610165584/original.jpg
+- file: images/bucerotiformes/bucerotidae/bucorvus-abyssinicus/4.jpg
+  page: https://www.inaturalist.org/photos/543211092
+  author: a_virginian
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543211092/original.jpg
+- file: images/bucerotiformes/bucerotidae/bucorvus-abyssinicus/5.jpg
+  page: https://www.inaturalist.org/photos/723313900
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723313900/original.jpg
 ---
 
 

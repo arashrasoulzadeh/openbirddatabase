@@ -139,8 +139,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/poecile-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/347870624
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347870624/original.jpg
+images:
+- file: images/passeriformes/paridae/poecile-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/347870624
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347870624/original.jpg
+- file: images/passeriformes/paridae/poecile-davidi/2.jpg
+  page: https://www.inaturalist.org/photos/347881461
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347881461/original.jpg
+- file: images/passeriformes/paridae/poecile-davidi/3.jpg
+  page: https://www.inaturalist.org/photos/347883406
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347883406/original.jpg
+- file: images/passeriformes/paridae/poecile-davidi/4.jpg
+  page: https://www.inaturalist.org/photos/347890371
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347890371/original.jpg
 ---
 
 

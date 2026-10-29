@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-totta/1.jpg
+  page: https://www.inaturalist.org/photos/650678105
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650678105/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-totta/1.jpg
+  page: https://www.inaturalist.org/photos/650678105
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650678105/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-totta/2.jpg
+  page: https://www.inaturalist.org/photos/714417073
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714417073/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-totta/3.jpg
+  page: https://www.inaturalist.org/photos/482051446
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482051446/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-totta/4.jpg
+  page: https://www.inaturalist.org/photos/513910826
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513910826/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-totta/5.jpg
+  page: https://www.inaturalist.org/photos/583619783
+  author: Fred Derks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583619783/original.jpg
 ---
 
 

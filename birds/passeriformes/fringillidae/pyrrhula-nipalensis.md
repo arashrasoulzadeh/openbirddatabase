@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/pyrrhula-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/624877431
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624877431/original.jpg
+images:
+- file: images/passeriformes/fringillidae/pyrrhula-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/624877431
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624877431/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-nipalensis/2.jpg
+  page: https://www.inaturalist.org/photos/375072856
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375072856/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-nipalensis/3.jpg
+  page: https://www.inaturalist.org/photos/378478954
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378478954/original.png
+- file: images/passeriformes/fringillidae/pyrrhula-nipalensis/4.jpg
+  page: https://www.inaturalist.org/photos/421963531
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/421963531/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-nipalensis/5.jpg
+  page: https://www.inaturalist.org/photos/254209551
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254209551/original.jpeg
 ---
 
 

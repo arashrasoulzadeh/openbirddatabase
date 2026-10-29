@@ -141,8 +141,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-omeiensis/1.jpg
+  page: https://www.inaturalist.org/photos/286474468
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286474468/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-omeiensis/1.jpg
+  page: https://www.inaturalist.org/photos/286474468
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286474468/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-omeiensis/2.jpg
+  page: https://www.inaturalist.org/photos/286474451
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286474451/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-omeiensis/3.jpg
+  page: https://www.inaturalist.org/photos/286474424
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286474424/original.jpg
 ---
 
 

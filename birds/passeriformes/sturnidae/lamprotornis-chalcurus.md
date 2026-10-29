@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-chalcurus/1.jpg
+  page: https://www.inaturalist.org/photos/474525163
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474525163/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-chalcurus/1.jpg
+  page: https://www.inaturalist.org/photos/474525163
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474525163/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-chalcurus/2.jpg
+  page: https://www.inaturalist.org/photos/364781346
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364781346/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-chalcurus/3.jpg
+  page: https://www.inaturalist.org/photos/458895987
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458895987/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-chalcurus/4.jpg
+  page: https://www.inaturalist.org/photos/258386158
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258386158/original.jpeg
+- file: images/passeriformes/sturnidae/lamprotornis-chalcurus/5.jpg
+  page: https://www.inaturalist.org/photos/56288602
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/56288602/original.jpg
 ---
 
 

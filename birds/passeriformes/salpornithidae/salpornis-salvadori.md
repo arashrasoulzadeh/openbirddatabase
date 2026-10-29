@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/salpornithidae/salpornis-salvadori/1.jpg
+  page: https://www.inaturalist.org/photos/733611226
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733611226/original.jpg
+images:
+- file: images/passeriformes/salpornithidae/salpornis-salvadori/1.jpg
+  page: https://www.inaturalist.org/photos/733611226
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733611226/original.jpg
+- file: images/passeriformes/salpornithidae/salpornis-salvadori/2.jpg
+  page: https://www.inaturalist.org/photos/612306953
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612306953/original.jpg
+- file: images/passeriformes/salpornithidae/salpornis-salvadori/3.jpg
+  page: https://www.inaturalist.org/photos/444306191
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444306191/original.jpg
+- file: images/passeriformes/salpornithidae/salpornis-salvadori/4.jpg
+  page: https://www.inaturalist.org/photos/97256718
+  author: Jonathan Whitaker
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97256718/original.jpeg
+- file: images/passeriformes/salpornithidae/salpornis-salvadori/5.jpg
+  page: https://www.inaturalist.org/photos/733611231
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733611231/original.jpg
 ---
 
 

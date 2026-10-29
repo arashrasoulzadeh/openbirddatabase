@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/meliphagidae/myzomela-erythrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/628391770
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628391770/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-erythrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/628391770
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628391770/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-erythrocephala/2.jpg
+  page: https://www.inaturalist.org/photos/708159039
+  author: Roland Muench
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708159039/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-erythrocephala/3.jpg
+  page: https://www.inaturalist.org/photos/540588456
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540588456/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-erythrocephala/4.jpg
+  page: https://www.inaturalist.org/photos/550784305
+  author: Andrew Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550784305/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-erythrocephala/5.jpg
+  page: https://www.inaturalist.org/photos/562246095
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562246095/original.jpg
 ---
 
 

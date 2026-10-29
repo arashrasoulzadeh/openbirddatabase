@@ -153,8 +153,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/610392124
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610392124/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/610392124
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610392124/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-gutturalis/2.jpg
+  page: https://www.inaturalist.org/photos/722228623
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722228623/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-gutturalis/3.jpg
+  page: https://www.inaturalist.org/photos/722065418
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722065418/original.jpg
 ---
 
 

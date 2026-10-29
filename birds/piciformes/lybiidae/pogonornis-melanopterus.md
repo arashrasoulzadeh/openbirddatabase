@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/pogonornis-melanopterus/1.jpg
+  page: https://www.inaturalist.org/photos/664268762
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664268762/original.jpg
+images:
+- file: images/piciformes/lybiidae/pogonornis-melanopterus/1.jpg
+  page: https://www.inaturalist.org/photos/664268762
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664268762/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-melanopterus/2.jpg
+  page: https://www.inaturalist.org/photos/588027356
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588027356/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-melanopterus/3.jpg
+  page: https://www.inaturalist.org/photos/593619554
+  author: Nicole Kearney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593619554/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-melanopterus/4.jpg
+  page: https://www.inaturalist.org/photos/442244322
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442244322/original.jpeg
+- file: images/piciformes/lybiidae/pogonornis-melanopterus/5.jpg
+  page: https://www.inaturalist.org/photos/255465720
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255465720/original.jpeg
 ---
 
 

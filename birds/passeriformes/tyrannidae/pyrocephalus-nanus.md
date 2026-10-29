@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/pyrocephalus-nanus/1.jpg
+  page: https://www.inaturalist.org/photos/604642451
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604642451/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pyrocephalus-nanus/1.jpg
+  page: https://www.inaturalist.org/photos/604642451
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604642451/original.jpg
+- file: images/passeriformes/tyrannidae/pyrocephalus-nanus/2.jpg
+  page: https://www.inaturalist.org/photos/604817414
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604817414/original.jpg
+- file: images/passeriformes/tyrannidae/pyrocephalus-nanus/3.jpg
+  page: https://www.inaturalist.org/photos/605546566
+  author: Kristen Francis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605546566/original.jpg
+- file: images/passeriformes/tyrannidae/pyrocephalus-nanus/4.jpg
+  page: https://www.inaturalist.org/photos/605589253
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605589253/original.jpg
+- file: images/passeriformes/tyrannidae/pyrocephalus-nanus/5.jpg
+  page: https://www.inaturalist.org/photos/604968703
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604968703/original.jpg
 ---
 
 

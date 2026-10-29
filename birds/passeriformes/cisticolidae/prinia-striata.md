@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-striata/1.jpg
+  page: https://www.inaturalist.org/photos/696221309
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696221309/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-striata/1.jpg
+  page: https://www.inaturalist.org/photos/696221309
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696221309/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-striata/2.jpg
+  page: https://www.inaturalist.org/photos/378435558
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378435558/original.png
+- file: images/passeriformes/cisticolidae/prinia-striata/3.jpg
+  page: https://www.inaturalist.org/photos/261362320
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261362320/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-striata/4.jpg
+  page: https://www.inaturalist.org/photos/378435499
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378435499/original.png
+- file: images/passeriformes/cisticolidae/prinia-striata/5.jpg
+  page: https://www.inaturalist.org/photos/378435423
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378435423/original.png
 ---
 
 

@@ -145,10 +145,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/muscicapidae/ficedula-speculigera/1.jpg
+  page: https://www.inaturalist.org/photos/667421523
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667421523/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-speculigera/1.jpg
+  page: https://www.inaturalist.org/photos/667421523
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667421523/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-speculigera/2.jpg
+  page: https://www.inaturalist.org/photos/719603053
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719603053/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-speculigera/3.jpg
+  page: https://www.inaturalist.org/photos/508092405
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508092405/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-speculigera/4.jpg
+  page: https://www.inaturalist.org/photos/667421522
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667421522/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-speculigera/5.jpg
+  page: https://www.inaturalist.org/photos/667421524
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667421524/original.jpg
 ---
 
 

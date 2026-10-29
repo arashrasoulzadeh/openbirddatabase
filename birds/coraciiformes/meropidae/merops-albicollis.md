@@ -182,8 +182,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/608896064
+  author: Kate McAlpine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608896064/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/608896064
+  author: Kate McAlpine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608896064/original.jpg
+- file: images/coraciiformes/meropidae/merops-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/656270128
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656270128/original.jpg
+- file: images/coraciiformes/meropidae/merops-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/722795588
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722795588/original.jpg
+- file: images/coraciiformes/meropidae/merops-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/721443235
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721443235/original.jpg
+- file: images/coraciiformes/meropidae/merops-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/722423357
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722423357/original.jpg
 ---
 
 

@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/charadriiformes/laridae/hydroprogne-caspia/1.jpg
+  page: https://www.inaturalist.org/photos/605513441
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605513441/original.jpg
+images:
+- file: images/charadriiformes/laridae/hydroprogne-caspia/1.jpg
+  page: https://www.inaturalist.org/photos/605513441
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605513441/original.jpg
+- file: images/charadriiformes/laridae/hydroprogne-caspia/2.jpg
+  page: https://www.inaturalist.org/photos/605656646
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605656646/original.jpg
+- file: images/charadriiformes/laridae/hydroprogne-caspia/3.jpg
+  page: https://www.inaturalist.org/photos/604659720
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604659720/original.jpg
+- file: images/charadriiformes/laridae/hydroprogne-caspia/4.jpg
+  page: https://www.inaturalist.org/photos/604971269
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604971269/original.jpg
+- file: images/charadriiformes/laridae/hydroprogne-caspia/5.jpg
+  page: https://www.inaturalist.org/photos/606353767
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606353767/original.jpg
 ---
 
 

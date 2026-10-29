@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-surinamensis/1.jpg
+  page: https://www.inaturalist.org/photos/722961993
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722961993/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-surinamensis/1.jpg
+  page: https://www.inaturalist.org/photos/722961993
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722961993/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-surinamensis/2.jpg
+  page: https://www.inaturalist.org/photos/467083161
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467083161/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-surinamensis/3.jpg
+  page: https://www.inaturalist.org/photos/435598643
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435598643/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-surinamensis/4.jpg
+  page: https://www.inaturalist.org/photos/463777129
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463777129/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmotherula-surinamensis/5.jpg
+  page: https://www.inaturalist.org/photos/338451152
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338451152/original.jpg
 ---
 
 

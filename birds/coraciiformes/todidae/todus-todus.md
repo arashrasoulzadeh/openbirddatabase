@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/todidae/todus-todus/1.jpg
+  page: https://www.inaturalist.org/photos/353692554
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353692554/original.jpg
+images:
+- file: images/coraciiformes/todidae/todus-todus/1.jpg
+  page: https://www.inaturalist.org/photos/353692554
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353692554/original.jpg
+- file: images/coraciiformes/todidae/todus-todus/2.jpg
+  page: https://www.inaturalist.org/photos/403472430
+  author: Marilyne Busque-Dubois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/403472430/original.jpeg
+- file: images/coraciiformes/todidae/todus-todus/3.jpg
+  page: https://www.inaturalist.org/photos/336729016
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336729016/original.jpeg
+- file: images/coraciiformes/todidae/todus-todus/4.jpg
+  page: https://www.inaturalist.org/photos/176988359
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176988359/original.jpg
+- file: images/coraciiformes/todidae/todus-todus/5.jpg
+  page: https://www.inaturalist.org/photos/47369556
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/47369556/original.jpg
 ---
 
 

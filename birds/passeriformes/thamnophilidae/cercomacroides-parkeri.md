@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cercomacroides-parkeri/1.jpg
+  page: https://www.inaturalist.org/photos/238331646
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238331646/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/cercomacroides-parkeri/1.jpg
+  page: https://www.inaturalist.org/photos/238331646
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238331646/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacroides-parkeri/2.jpg
+  page: https://www.inaturalist.org/photos/247140575
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247140575/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacroides-parkeri/3.jpg
+  page: https://www.inaturalist.org/photos/238332159
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238332159/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacroides-parkeri/4.jpg
+  page: https://www.inaturalist.org/photos/238332242
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238332242/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacroides-parkeri/5.jpg
+  page: https://www.inaturalist.org/photos/238333012
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238333012/original.jpeg
 ---
 
 

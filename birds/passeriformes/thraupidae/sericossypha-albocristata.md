@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sericossypha-albocristata/1.jpg
+  page: https://www.inaturalist.org/photos/612532821
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612532821/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sericossypha-albocristata/1.jpg
+  page: https://www.inaturalist.org/photos/612532821
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612532821/original.jpg
+- file: images/passeriformes/thraupidae/sericossypha-albocristata/2.jpg
+  page: https://www.inaturalist.org/photos/489388200
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489388200/original.jpg
+- file: images/passeriformes/thraupidae/sericossypha-albocristata/3.jpg
+  page: https://www.inaturalist.org/photos/472204120
+  author: Samuel Peláez Vélez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472204120/original.jpeg
+- file: images/passeriformes/thraupidae/sericossypha-albocristata/4.jpg
+  page: https://www.inaturalist.org/photos/479129617
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479129617/original.jpeg
+- file: images/passeriformes/thraupidae/sericossypha-albocristata/5.jpg
+  page: https://www.inaturalist.org/photos/528137645
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528137645/original.jpg
 ---
 
 

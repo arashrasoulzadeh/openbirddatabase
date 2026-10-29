@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/petroicidae/microeca-fascinans/1.jpg
+  page: https://www.inaturalist.org/photos/610933757
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610933757/original.jpg
+images:
+- file: images/passeriformes/petroicidae/microeca-fascinans/1.jpg
+  page: https://www.inaturalist.org/photos/610933757
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610933757/original.jpg
+- file: images/passeriformes/petroicidae/microeca-fascinans/2.jpg
+  page: https://www.inaturalist.org/photos/619420661
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619420661/original.jpg
+- file: images/passeriformes/petroicidae/microeca-fascinans/3.jpg
+  page: https://www.inaturalist.org/photos/622748943
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748943/original.jpg
+- file: images/passeriformes/petroicidae/microeca-fascinans/4.jpg
+  page: https://www.inaturalist.org/photos/624896146
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624896146/original.jpg
+- file: images/passeriformes/petroicidae/microeca-fascinans/5.jpg
+  page: https://www.inaturalist.org/photos/621110466
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621110466/original.jpg
 ---
 
 

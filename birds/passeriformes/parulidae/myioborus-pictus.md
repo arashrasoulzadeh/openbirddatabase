@@ -152,10 +152,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/parulidae/myioborus-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/604861311
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604861311/original.jpg
+images:
+- file: images/passeriformes/parulidae/myioborus-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/604861311
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604861311/original.jpg
+- file: images/passeriformes/parulidae/myioborus-pictus/2.jpg
+  page: https://www.inaturalist.org/photos/608479332
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608479332/original.jpg
+- file: images/passeriformes/parulidae/myioborus-pictus/3.jpg
+  page: https://www.inaturalist.org/photos/608234643
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608234643/original.jpg
+- file: images/passeriformes/parulidae/myioborus-pictus/4.jpg
+  page: https://www.inaturalist.org/photos/618963510
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618963510/original.jpg
+- file: images/passeriformes/parulidae/myioborus-pictus/5.jpg
+  page: https://www.inaturalist.org/photos/620694670
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620694670/original.jpg
 ---
 
 

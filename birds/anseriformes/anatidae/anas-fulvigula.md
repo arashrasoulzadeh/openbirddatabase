@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/anseriformes/anatidae/anas-fulvigula/1.jpg
+  page: https://www.inaturalist.org/photos/605090327
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090327/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-fulvigula/1.jpg
+  page: https://www.inaturalist.org/photos/605090327
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090327/original.jpg
+- file: images/anseriformes/anatidae/anas-fulvigula/2.jpg
+  page: https://www.inaturalist.org/photos/607006741
+  author: Dennis Vollmar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607006741/original.jpg
+- file: images/anseriformes/anatidae/anas-fulvigula/3.jpg
+  page: https://www.inaturalist.org/photos/606214425
+  author: natgrace18
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606214425/original.jpg
+- file: images/anseriformes/anatidae/anas-fulvigula/4.jpg
+  page: https://www.inaturalist.org/photos/607581092
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607581092/original.jpg
+- file: images/anseriformes/anatidae/anas-fulvigula/5.jpg
+  page: https://www.inaturalist.org/photos/608310841
+  author: margohj
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608310841/original.jpg
 ---
 
 

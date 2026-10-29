@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/calcariidae/rhynchophanes-mccownii/1.jpg
+  page: https://www.inaturalist.org/photos/725145023
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725145023/original.jpg
+images:
+- file: images/passeriformes/calcariidae/rhynchophanes-mccownii/1.jpg
+  page: https://www.inaturalist.org/photos/725145023
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725145023/original.jpg
+- file: images/passeriformes/calcariidae/rhynchophanes-mccownii/2.jpg
+  page: https://www.inaturalist.org/photos/467635076
+  author: Tristan A. McKnight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467635076/original.jpg
+- file: images/passeriformes/calcariidae/rhynchophanes-mccownii/3.jpg
+  page: https://www.inaturalist.org/photos/550490245
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550490245/original.jpg
+- file: images/passeriformes/calcariidae/rhynchophanes-mccownii/4.jpg
+  page: https://www.inaturalist.org/photos/467635103
+  author: Tristan A. McKnight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467635103/original.jpg
+- file: images/passeriformes/calcariidae/rhynchophanes-mccownii/5.jpg
+  page: https://www.inaturalist.org/photos/467635121
+  author: Tristan A. McKnight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467635121/original.jpg
 ---
 
 

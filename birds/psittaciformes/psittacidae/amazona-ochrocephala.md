@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 56
+image:
+  file: images/psittaciformes/psittacidae/amazona-ochrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605657882
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657882/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-ochrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605657882
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657882/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-ochrocephala/2.jpg
+  page: https://www.inaturalist.org/photos/606893713
+  author: Louis Imbeau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606893713/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-ochrocephala/3.jpg
+  page: https://www.inaturalist.org/photos/612845363
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612845363/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-ochrocephala/4.jpg
+  page: https://www.inaturalist.org/photos/616152794
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152794/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-ochrocephala/5.jpg
+  page: https://www.inaturalist.org/photos/606893714
+  author: Louis Imbeau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606893714/original.jpg
 ---
 
 

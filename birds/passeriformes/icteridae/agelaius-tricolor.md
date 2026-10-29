@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/icteridae/agelaius-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/609283442
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609283442/original.jpg
+images:
+- file: images/passeriformes/icteridae/agelaius-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/609283442
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609283442/original.jpg
+- file: images/passeriformes/icteridae/agelaius-tricolor/2.jpg
+  page: https://www.inaturalist.org/photos/666993765
+  author: Devon Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666993765/original.jpg
+- file: images/passeriformes/icteridae/agelaius-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/617662071
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617662071/original.jpg
+- file: images/passeriformes/icteridae/agelaius-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/616793072
+  author: Cheng-Te Hsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616793072/original.jpg
+- file: images/passeriformes/icteridae/agelaius-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/619097860
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619097860/original.jpg
 ---
 
 

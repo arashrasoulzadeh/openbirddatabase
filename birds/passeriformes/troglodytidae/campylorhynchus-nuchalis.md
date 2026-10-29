@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/711282402
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711282402/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/711282402
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711282402/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-nuchalis/2.jpg
+  page: https://www.inaturalist.org/photos/699892584
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699892584/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-nuchalis/3.jpg
+  page: https://www.inaturalist.org/photos/739972067
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739972067/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-nuchalis/4.jpg
+  page: https://www.inaturalist.org/photos/472959648
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472959648/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-nuchalis/5.jpg
+  page: https://www.inaturalist.org/photos/601968302
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601968302/original.jpg
 ---
 
 

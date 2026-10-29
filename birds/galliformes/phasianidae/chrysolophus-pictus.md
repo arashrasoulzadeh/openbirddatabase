@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/galliformes/phasianidae/chrysolophus-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/611416320
+  author: Adrian Wolfgang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611416320/original.jpg
+images:
+- file: images/galliformes/phasianidae/chrysolophus-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/611416320
+  author: Adrian Wolfgang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611416320/original.jpg
+- file: images/galliformes/phasianidae/chrysolophus-pictus/2.jpg
+  page: https://www.inaturalist.org/photos/712472152
+  author: Tim Leilich
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712472152/original.jpg
+- file: images/galliformes/phasianidae/chrysolophus-pictus/3.jpg
+  page: https://www.inaturalist.org/photos/553039324
+  author: Jenny Saito
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553039324/original.jpg
+- file: images/galliformes/phasianidae/chrysolophus-pictus/4.jpg
+  page: https://www.inaturalist.org/photos/577457818
+  author: Mel Whiting
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/original.jpg
+- file: images/galliformes/phasianidae/chrysolophus-pictus/5.jpg
+  page: https://www.inaturalist.org/photos/588762776
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588762776/original.jpg
 ---
 
 

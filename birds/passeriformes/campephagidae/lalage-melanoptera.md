@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/lalage-melanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/611674976
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611674976/original.jpg
+images:
+- file: images/passeriformes/campephagidae/lalage-melanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/611674976
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611674976/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melanoptera/2.jpg
+  page: https://www.inaturalist.org/photos/615646079
+  author: Dheemanth Bhandarkar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615646079/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melanoptera/3.jpg
+  page: https://www.inaturalist.org/photos/627942667
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627942667/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melanoptera/4.jpg
+  page: https://www.inaturalist.org/photos/649283024
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649283024/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melanoptera/5.jpg
+  page: https://www.inaturalist.org/photos/716461210
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716461210/original.jpg
 ---
 
 

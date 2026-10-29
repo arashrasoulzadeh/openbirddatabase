@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-osea/1.jpg
+  page: https://www.inaturalist.org/photos/613423606
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613423606/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-osea/1.jpg
+  page: https://www.inaturalist.org/photos/613423606
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613423606/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-osea/2.jpg
+  page: https://www.inaturalist.org/photos/614553581
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553581/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-osea/3.jpg
+  page: https://www.inaturalist.org/photos/616370961
+  author: Conor McKinney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616370961/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-osea/4.jpg
+  page: https://www.inaturalist.org/photos/617780410
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617780410/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-osea/5.jpg
+  page: https://www.inaturalist.org/photos/634873889
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634873889/original.jpg
 ---
 
 

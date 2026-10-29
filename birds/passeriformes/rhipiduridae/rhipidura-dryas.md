@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-dryas/1.jpg
+  page: https://www.inaturalist.org/photos/675834204
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675834204/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-dryas/1.jpg
+  page: https://www.inaturalist.org/photos/675834204
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675834204/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-dryas/2.jpg
+  page: https://www.inaturalist.org/photos/525471016
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525471016/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-dryas/3.jpg
+  page: https://www.inaturalist.org/photos/527007270
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527007270/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-dryas/4.jpg
+  page: https://www.inaturalist.org/photos/535860729
+  author: pimelea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535860729/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-dryas/5.jpg
+  page: https://www.inaturalist.org/photos/566148918
+  author: Andrew Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566148918/original.jpg
 ---
 
 

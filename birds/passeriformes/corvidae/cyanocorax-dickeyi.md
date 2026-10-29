@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-dickeyi/1.jpg
+  page: https://www.inaturalist.org/photos/606539479
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606539479/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-dickeyi/1.jpg
+  page: https://www.inaturalist.org/photos/606539479
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606539479/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-dickeyi/2.jpg
+  page: https://www.inaturalist.org/photos/367457943
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367457943/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-dickeyi/3.jpg
+  page: https://www.inaturalist.org/photos/424489848
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424489848/original.jpeg
+- file: images/passeriformes/corvidae/cyanocorax-dickeyi/4.jpg
+  page: https://www.inaturalist.org/photos/298193319
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298193319/original.jpeg
+- file: images/passeriformes/corvidae/cyanocorax-dickeyi/5.jpg
+  page: https://www.inaturalist.org/photos/606539593
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606539593/original.jpg
 ---
 
 

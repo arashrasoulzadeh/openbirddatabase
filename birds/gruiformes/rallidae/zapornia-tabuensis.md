@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/zapornia-tabuensis/1.jpg
+  page: https://www.inaturalist.org/photos/608567649
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608567649/original.jpg
+images:
+- file: images/gruiformes/rallidae/zapornia-tabuensis/1.jpg
+  page: https://www.inaturalist.org/photos/608567649
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608567649/original.jpg
+- file: images/gruiformes/rallidae/zapornia-tabuensis/2.jpg
+  page: https://www.inaturalist.org/photos/612881774
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612881774/original.jpg
+- file: images/gruiformes/rallidae/zapornia-tabuensis/3.jpg
+  page: https://www.inaturalist.org/photos/628316768
+  author: Emma Naylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628316768/original.jpg
+- file: images/gruiformes/rallidae/zapornia-tabuensis/4.jpg
+  page: https://www.inaturalist.org/photos/651764274
+  author: Nic Charlton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651764274/original.jpg
+- file: images/gruiformes/rallidae/zapornia-tabuensis/5.jpg
+  page: https://www.inaturalist.org/photos/651976766
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651976766/original.jpg
 ---
 
 

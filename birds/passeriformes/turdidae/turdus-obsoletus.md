@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/609753342
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609753342/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/609753342
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609753342/original.jpg
+- file: images/passeriformes/turdidae/turdus-obsoletus/2.jpg
+  page: https://www.inaturalist.org/photos/624305951
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624305951/original.jpg
+- file: images/passeriformes/turdidae/turdus-obsoletus/3.jpg
+  page: https://www.inaturalist.org/photos/630756687
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630756687/original.jpg
+- file: images/passeriformes/turdidae/turdus-obsoletus/4.jpg
+  page: https://www.inaturalist.org/photos/350276035
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350276035/original.jpg
+- file: images/passeriformes/turdidae/turdus-obsoletus/5.jpg
+  page: https://www.inaturalist.org/photos/357567105
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357567105/original.jpeg
 ---
 
 

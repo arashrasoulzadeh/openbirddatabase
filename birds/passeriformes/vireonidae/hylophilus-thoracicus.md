@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/hylophilus-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/627316007
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627316007/original.jpg
+images:
+- file: images/passeriformes/vireonidae/hylophilus-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/627316007
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627316007/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-thoracicus/2.jpg
+  page: https://www.inaturalist.org/photos/641083772
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641083772/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-thoracicus/3.jpg
+  page: https://www.inaturalist.org/photos/683751508
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683751508/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-thoracicus/4.jpg
+  page: https://www.inaturalist.org/photos/470183791
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470183791/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-thoracicus/5.jpg
+  page: https://www.inaturalist.org/photos/505648742
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505648742/original.jpg
 ---
 
 

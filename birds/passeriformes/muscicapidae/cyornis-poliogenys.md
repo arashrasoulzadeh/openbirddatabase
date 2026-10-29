@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-poliogenys/1.jpg
+  page: https://www.inaturalist.org/photos/718983507
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718983507/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-poliogenys/1.jpg
+  page: https://www.inaturalist.org/photos/718983507
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718983507/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-poliogenys/2.jpg
+  page: https://www.inaturalist.org/photos/718937045
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718937045/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-poliogenys/3.jpg
+  page: https://www.inaturalist.org/photos/718937080
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718937080/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-poliogenys/4.jpg
+  page: https://www.inaturalist.org/photos/728829899
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728829899/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-poliogenys/5.jpg
+  page: https://www.inaturalist.org/photos/728829903
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728829903/original.jpg
 ---
 
 

@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/neomixis-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/457494350
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457494350/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/neomixis-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/457494350
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457494350/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/241516170
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241516170/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/2075640
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2075640/original.JPG
+- file: images/passeriformes/cisticolidae/neomixis-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/457499690
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457499690/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/241516176
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241516176/original.jpg
 ---
 
 

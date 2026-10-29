@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/lewinia-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/532773165
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532773165/original.jpg
+images:
+- file: images/gruiformes/rallidae/lewinia-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/532773165
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532773165/original.jpg
+- file: images/gruiformes/rallidae/lewinia-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/534269094
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534269094/original.jpg
+- file: images/gruiformes/rallidae/lewinia-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/597692529
+  author: Erik Schiff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597692529/original.jpg
+- file: images/gruiformes/rallidae/lewinia-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/534269114
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534269114/original.jpg
+- file: images/gruiformes/rallidae/lewinia-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/535809736
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535809736/original.jpg
 ---
 
 

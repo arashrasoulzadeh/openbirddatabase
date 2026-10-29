@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-leucogenys/1.jpg
+  page: https://www.inaturalist.org/photos/617767700
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617767700/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucogenys/1.jpg
+  page: https://www.inaturalist.org/photos/617767700
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617767700/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucogenys/2.jpg
+  page: https://www.inaturalist.org/photos/616370518
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616370518/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucogenys/3.jpg
+  page: https://www.inaturalist.org/photos/616543190
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616543190/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucogenys/4.jpg
+  page: https://www.inaturalist.org/photos/616370542
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616370542/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucogenys/5.jpg
+  page: https://www.inaturalist.org/photos/618389187
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618389187/original.jpg
 ---
 
 

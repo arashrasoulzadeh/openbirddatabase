@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/ramphastos-sulfuratus/1.jpg
+  page: https://www.inaturalist.org/photos/605583615
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605583615/original.jpg
+images:
+- file: images/piciformes/ramphastidae/ramphastos-sulfuratus/1.jpg
+  page: https://www.inaturalist.org/photos/605583615
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605583615/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-sulfuratus/2.jpg
+  page: https://www.inaturalist.org/photos/605480328
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605480328/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-sulfuratus/3.jpg
+  page: https://www.inaturalist.org/photos/610510149
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510149/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-sulfuratus/4.jpg
+  page: https://www.inaturalist.org/photos/606261997
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606261997/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-sulfuratus/5.jpg
+  page: https://www.inaturalist.org/photos/605760544
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605760544/original.jpg
 ---
 
 

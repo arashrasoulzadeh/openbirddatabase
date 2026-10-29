@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/heleia-squamifrons/1.jpg
+  page: https://www.inaturalist.org/photos/686365040
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686365040/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/heleia-squamifrons/1.jpg
+  page: https://www.inaturalist.org/photos/686365040
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686365040/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-squamifrons/2.jpg
+  page: https://www.inaturalist.org/photos/582386568
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582386568/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-squamifrons/3.jpg
+  page: https://www.inaturalist.org/photos/289863283
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289863283/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-squamifrons/4.jpg
+  page: https://www.inaturalist.org/photos/138916423
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/138916423/original.jpeg
+- file: images/passeriformes/zosteropidae/heleia-squamifrons/5.jpg
+  page: https://www.inaturalist.org/photos/289863290
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289863290/original.jpg
 ---
 
 

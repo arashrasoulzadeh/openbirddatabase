@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 17.9
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 60.3
   tail_length_mm: 55.0
   body_mass_g: 20.0
+image:
+  file: images/passeriformes/troglodytidae/pheugopedius-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/630141717
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630141717/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/pheugopedius-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/630141717
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630141717/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/500113982
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500113982/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/559647870
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559647870/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/349936554
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349936554/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-sclateri/5.jpg
+  page: https://www.inaturalist.org/photos/361103133
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361103133/original.jpg
 ---
 
 

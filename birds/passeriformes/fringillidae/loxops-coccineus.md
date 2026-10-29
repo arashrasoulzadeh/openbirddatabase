@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/fringillidae/loxops-coccineus/1.jpg
+  page: https://www.inaturalist.org/photos/623024244
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623024244/original.jpg
+images:
+- file: images/passeriformes/fringillidae/loxops-coccineus/1.jpg
+  page: https://www.inaturalist.org/photos/623024244
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623024244/original.jpg
+- file: images/passeriformes/fringillidae/loxops-coccineus/2.jpg
+  page: https://www.inaturalist.org/photos/461580439
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461580439/original.jpeg
+- file: images/passeriformes/fringillidae/loxops-coccineus/3.jpg
+  page: https://www.inaturalist.org/photos/460989669
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460989669/original.jpg
+- file: images/passeriformes/fringillidae/loxops-coccineus/4.jpg
+  page: https://www.inaturalist.org/photos/259104704
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259104704/original.jpg
+- file: images/passeriformes/fringillidae/loxops-coccineus/5.jpg
+  page: https://www.inaturalist.org/photos/302048001
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/302048001/original.jpeg
 ---
 
 

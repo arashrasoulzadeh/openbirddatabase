@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-andina/1.jpg
+  page: https://www.inaturalist.org/photos/592728098
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592728098/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-andina/1.jpg
+  page: https://www.inaturalist.org/photos/592728098
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592728098/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-andina/2.jpg
+  page: https://www.inaturalist.org/photos/176088163
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176088163/original.jpeg
+- file: images/charadriiformes/scolopacidae/gallinago-andina/3.jpg
+  page: https://www.inaturalist.org/photos/249298307
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249298307/original.jpeg
+- file: images/charadriiformes/scolopacidae/gallinago-andina/4.jpg
+  page: https://www.inaturalist.org/photos/268480811
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268480811/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-andina/5.jpg
+  page: https://www.inaturalist.org/photos/67544981
+  author: Jorge Herreros de Lartundo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/67544981/original.jpg
 ---
 
 

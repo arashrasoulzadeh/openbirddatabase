@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/sporopipes-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/679443665
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679443665/original.jpg
+images:
+- file: images/passeriformes/ploceidae/sporopipes-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/679443665
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679443665/original.jpg
+- file: images/passeriformes/ploceidae/sporopipes-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/631320557
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631320557/original.jpg
+- file: images/passeriformes/ploceidae/sporopipes-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/731704677
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731704677/original.jpg
+- file: images/passeriformes/ploceidae/sporopipes-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/716131643
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716131643/original.jpg
+- file: images/passeriformes/ploceidae/sporopipes-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/722475052
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722475052/original.jpg
 ---
 
 

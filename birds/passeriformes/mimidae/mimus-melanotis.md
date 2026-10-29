@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/608117927
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608117927/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/608117927
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608117927/original.jpg
+- file: images/passeriformes/mimidae/mimus-melanotis/2.jpg
+  page: https://www.inaturalist.org/photos/659725784
+  author: Karen Guin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659725784/original.jpg
+- file: images/passeriformes/mimidae/mimus-melanotis/3.jpg
+  page: https://www.inaturalist.org/photos/717564734
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717564734/original.jpg
+- file: images/passeriformes/mimidae/mimus-melanotis/4.jpg
+  page: https://www.inaturalist.org/photos/467200816
+  author: Theo Summer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467200816/original.jpeg
+- file: images/passeriformes/mimidae/mimus-melanotis/5.jpg
+  page: https://www.inaturalist.org/photos/608117931
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608117931/original.jpg
 ---
 
 

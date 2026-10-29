@@ -164,8 +164,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/egretta-ardesiaca/1.jpg
+  page: https://www.inaturalist.org/photos/661656748
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661656748/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/egretta-ardesiaca/1.jpg
+  page: https://www.inaturalist.org/photos/661656748
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661656748/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-ardesiaca/2.jpg
+  page: https://www.inaturalist.org/photos/654824542
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654824542/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-ardesiaca/3.jpg
+  page: https://www.inaturalist.org/photos/694151351
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694151351/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-ardesiaca/4.jpg
+  page: https://www.inaturalist.org/photos/691359930
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691359930/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-ardesiaca/5.jpg
+  page: https://www.inaturalist.org/photos/661657019
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661657019/original.jpg
 ---
 
 

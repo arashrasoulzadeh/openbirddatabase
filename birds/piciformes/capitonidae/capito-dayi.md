@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/capito-dayi/1.jpg
+  page: https://www.inaturalist.org/photos/385713778
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385713778/original.jpg
+images:
+- file: images/piciformes/capitonidae/capito-dayi/1.jpg
+  page: https://www.inaturalist.org/photos/385713778
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385713778/original.jpg
+- file: images/piciformes/capitonidae/capito-dayi/2.jpg
+  page: https://www.inaturalist.org/photos/468904612
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468904612/original.jpg
+- file: images/piciformes/capitonidae/capito-dayi/3.jpg
+  page: https://www.inaturalist.org/photos/402027173
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402027173/original.jpg
+- file: images/piciformes/capitonidae/capito-dayi/4.jpg
+  page: https://www.inaturalist.org/photos/144089754
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/144089754/original.jpg
+- file: images/piciformes/capitonidae/capito-dayi/5.jpg
+  page: https://www.inaturalist.org/photos/144090034
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/144090034/original.jpg
 ---
 
 

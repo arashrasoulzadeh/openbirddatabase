@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-berthelotii/1.jpg
+  page: https://www.inaturalist.org/photos/605474547
+  author: Elias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474547/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-berthelotii/1.jpg
+  page: https://www.inaturalist.org/photos/605474547
+  author: Elias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474547/original.jpg
+- file: images/passeriformes/motacillidae/anthus-berthelotii/2.jpg
+  page: https://www.inaturalist.org/photos/611384483
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611384483/original.jpg
+- file: images/passeriformes/motacillidae/anthus-berthelotii/3.jpg
+  page: https://www.inaturalist.org/photos/611696308
+  author: Ismael Medina Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611696308/original.jpg
+- file: images/passeriformes/motacillidae/anthus-berthelotii/4.jpg
+  page: https://www.inaturalist.org/photos/614480797
+  author: Christian Berg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614480797/original.jpg
+- file: images/passeriformes/motacillidae/anthus-berthelotii/5.jpg
+  page: https://www.inaturalist.org/photos/615766703
+  author: Roy Lowry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615766703/original.jpg
 ---
 
 

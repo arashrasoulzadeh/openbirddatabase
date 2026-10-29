@@ -133,8 +133,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/strigiformes/strigidae/taenioptynx-sylvaticus/1.jpg
+  page: https://www.inaturalist.org/photos/610366946
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610366946/original.jpg
+images:
+- file: images/strigiformes/strigidae/taenioptynx-sylvaticus/1.jpg
+  page: https://www.inaturalist.org/photos/610366946
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610366946/original.jpg
+- file: images/strigiformes/strigidae/taenioptynx-sylvaticus/2.jpg
+  page: https://www.inaturalist.org/photos/620179934
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620179934/original.jpg
+- file: images/strigiformes/strigidae/taenioptynx-sylvaticus/3.jpg
+  page: https://www.inaturalist.org/photos/621725583
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621725583/original.jpg
+- file: images/strigiformes/strigidae/taenioptynx-sylvaticus/4.jpg
+  page: https://www.inaturalist.org/photos/625716678
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625716678/original.jpg
+- file: images/strigiformes/strigidae/taenioptynx-sylvaticus/5.jpg
+  page: https://www.inaturalist.org/photos/722342412
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722342412/original.jpg
 ---
 
 

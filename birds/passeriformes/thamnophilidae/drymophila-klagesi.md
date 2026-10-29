@@ -135,8 +135,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/drymophila-klagesi/1.jpg
+  page: https://www.inaturalist.org/photos/273476964
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/273476964/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/drymophila-klagesi/1.jpg
+  page: https://www.inaturalist.org/photos/273476964
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/273476964/original.jpeg
+- file: images/passeriformes/thamnophilidae/drymophila-klagesi/2.jpg
+  page: https://www.inaturalist.org/photos/273477908
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/273477908/original.jpeg
 ---
 
 

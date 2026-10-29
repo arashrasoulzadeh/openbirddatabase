@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 12.7
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 62.5
   tail_length_mm: 57.5
   body_mass_g: 13.0
+image:
+  file: images/passeriformes/thraupidae/rhopospina-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/703116684
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703116684/original.jpg
+images:
+- file: images/passeriformes/thraupidae/rhopospina-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/703116684
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703116684/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/621858538
+  author: Davidson Moreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621858538/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/603455402
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603455402/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/602332114
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602332114/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/438277347
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438277347/original.jpeg
 ---
 
 

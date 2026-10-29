@@ -122,8 +122,41 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/cyphorhinus-dichrous/1.jpg
+  page: https://www.inaturalist.org/photos/591324270
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324270/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cyphorhinus-dichrous/1.jpg
+  page: https://www.inaturalist.org/photos/591324270
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324270/original.jpg
+- file: images/passeriformes/troglodytidae/cyphorhinus-dichrous/2.jpg
+  page: https://www.inaturalist.org/photos/460672161
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460672161/original.jpeg
+- file: images/passeriformes/troglodytidae/cyphorhinus-dichrous/3.jpg
+  page: https://www.inaturalist.org/photos/248733271
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248733271/original.jpeg
+- file: images/passeriformes/troglodytidae/cyphorhinus-dichrous/4.jpg
+  page: https://www.inaturalist.org/photos/591324285
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324285/original.jpg
 ---
 
 

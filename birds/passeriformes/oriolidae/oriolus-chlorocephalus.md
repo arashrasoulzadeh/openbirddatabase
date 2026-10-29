@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-chlorocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/582681108
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582681108/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-chlorocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/582681108
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582681108/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-chlorocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/477189109
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477189109/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-chlorocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/582681111
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582681111/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-chlorocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/587174195
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587174195/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-chlorocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/587210682
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587210682/original.jpg
 ---
 
 

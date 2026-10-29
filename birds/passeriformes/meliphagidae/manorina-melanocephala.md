@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/meliphagidae/manorina-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/604707418
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604707418/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/manorina-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/604707418
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604707418/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/605605116
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605605116/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/604660014
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604660014/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/605274745
+  author: Terra Occ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605274745/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/605568050
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605568050/original.jpg
 ---
 
 

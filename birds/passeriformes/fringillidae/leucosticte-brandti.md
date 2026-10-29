@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/leucosticte-brandti/1.jpg
+  page: https://www.inaturalist.org/photos/707695573
+  author: condorr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707695573/original.jpg
+images:
+- file: images/passeriformes/fringillidae/leucosticte-brandti/1.jpg
+  page: https://www.inaturalist.org/photos/707695573
+  author: condorr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707695573/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-brandti/2.jpg
+  page: https://www.inaturalist.org/photos/463108955
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463108955/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-brandti/3.jpg
+  page: https://www.inaturalist.org/photos/593324688
+  author: Andrew Lie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593324688/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-brandti/4.jpg
+  page: https://www.inaturalist.org/photos/707663550
+  author: condorr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707663550/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-brandti/5.jpg
+  page: https://www.inaturalist.org/photos/707663128
+  author: condorr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707663128/original.jpg
 ---
 
 

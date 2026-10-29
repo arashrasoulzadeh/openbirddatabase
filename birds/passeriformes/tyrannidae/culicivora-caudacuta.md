@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/culicivora-caudacuta/1.jpg
+  page: https://www.inaturalist.org/photos/664073927
+  author: Celso Henrique Varela Rios
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664073927/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/culicivora-caudacuta/1.jpg
+  page: https://www.inaturalist.org/photos/664073927
+  author: Celso Henrique Varela Rios
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664073927/original.jpg
+- file: images/passeriformes/tyrannidae/culicivora-caudacuta/2.jpg
+  page: https://www.inaturalist.org/photos/686825762
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686825762/original.jpg
+- file: images/passeriformes/tyrannidae/culicivora-caudacuta/3.jpg
+  page: https://www.inaturalist.org/photos/746001937
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/746001937/original.jpg
+- file: images/passeriformes/tyrannidae/culicivora-caudacuta/4.jpg
+  page: https://www.inaturalist.org/photos/501823258
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501823258/original.jpeg
+- file: images/passeriformes/tyrannidae/culicivora-caudacuta/5.jpg
+  page: https://www.inaturalist.org/photos/295867812
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/295867812/original.jpeg
 ---
 
 

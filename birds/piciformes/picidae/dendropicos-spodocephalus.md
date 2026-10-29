@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendropicos-spodocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/700129768
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700129768/original.jpg
+images:
+- file: images/piciformes/picidae/dendropicos-spodocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/700129768
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700129768/original.jpg
+- file: images/piciformes/picidae/dendropicos-spodocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/716627898
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716627898/original.jpg
+- file: images/piciformes/picidae/dendropicos-spodocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/537060761
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537060761/original.jpg
+- file: images/piciformes/picidae/dendropicos-spodocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/540189409
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540189409/original.jpg
+- file: images/piciformes/picidae/dendropicos-spodocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/581279306
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581279306/original.jpg
 ---
 
 

@@ -138,10 +138,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/muscicapidae/cyornis-omissus/1.jpg
+  page: https://www.inaturalist.org/photos/734781278
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734781278/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-omissus/1.jpg
+  page: https://www.inaturalist.org/photos/734781278
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734781278/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-omissus/2.jpg
+  page: https://www.inaturalist.org/photos/724567398
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724567398/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-omissus/3.jpg
+  page: https://www.inaturalist.org/photos/525998363
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525998363/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-omissus/4.jpg
+  page: https://www.inaturalist.org/photos/471302064
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471302064/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-omissus/5.jpg
+  page: https://www.inaturalist.org/photos/416461566
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416461566/original.jpeg
 ---
 
 

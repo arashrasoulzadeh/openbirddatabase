@@ -125,8 +125,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-hanieli/1.jpg
+  page: https://www.inaturalist.org/photos/739344604
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739344604/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-hanieli/1.jpg
+  page: https://www.inaturalist.org/photos/739344604
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739344604/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-hanieli/2.jpg
+  page: https://www.inaturalist.org/photos/590688207
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590688207/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-hanieli/3.jpg
+  page: https://www.inaturalist.org/photos/413012370
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413012370/original.jpeg
+- file: images/passeriformes/dicaeidae/dicaeum-hanieli/4.jpg
+  page: https://www.inaturalist.org/photos/441321120
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441321120/original.jpeg
+- file: images/passeriformes/dicaeidae/dicaeum-hanieli/5.jpg
+  page: https://www.inaturalist.org/photos/459611348
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459611348/original.jpeg
 ---
 
 

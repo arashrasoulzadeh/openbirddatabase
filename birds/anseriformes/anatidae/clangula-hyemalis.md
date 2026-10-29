@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/anseriformes/anatidae/clangula-hyemalis/1.jpg
+  page: https://www.inaturalist.org/photos/605430099
+  author: Maria Kohanovskaya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605430099/original.jpg
+images:
+- file: images/anseriformes/anatidae/clangula-hyemalis/1.jpg
+  page: https://www.inaturalist.org/photos/605430099
+  author: Maria Kohanovskaya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605430099/original.jpg
+- file: images/anseriformes/anatidae/clangula-hyemalis/2.jpg
+  page: https://www.inaturalist.org/photos/604790823
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604790823/original.jpg
+- file: images/anseriformes/anatidae/clangula-hyemalis/3.jpg
+  page: https://www.inaturalist.org/photos/605133159
+  author: Cam Mackinnon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605133159/original.jpg
+- file: images/anseriformes/anatidae/clangula-hyemalis/4.jpg
+  page: https://www.inaturalist.org/photos/604644143
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604644143/original.jpg
+- file: images/anseriformes/anatidae/clangula-hyemalis/5.jpg
+  page: https://www.inaturalist.org/photos/605752136
+  author: Kevin Lynch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605752136/original.jpg
 ---
 
 

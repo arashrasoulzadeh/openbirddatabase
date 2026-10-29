@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-auriventer/1.jpg
+  page: https://www.inaturalist.org/photos/629579953
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579953/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-auriventer/1.jpg
+  page: https://www.inaturalist.org/photos/629579953
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579953/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-auriventer/2.jpg
+  page: https://www.inaturalist.org/photos/520139437
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520139437/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-auriventer/3.jpg
+  page: https://www.inaturalist.org/photos/599184165
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599184165/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-auriventer/4.jpg
+  page: https://www.inaturalist.org/photos/350312940
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350312940/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-auriventer/5.jpg
+  page: https://www.inaturalist.org/photos/450433539
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450433539/original.jpeg
 ---
 
 

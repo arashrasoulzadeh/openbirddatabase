@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/eurylaimidae/eurylaimus-ochromalus/1.jpg
+  page: https://www.inaturalist.org/photos/616756118
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616756118/original.jpg
+images:
+- file: images/passeriformes/eurylaimidae/eurylaimus-ochromalus/1.jpg
+  page: https://www.inaturalist.org/photos/616756118
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616756118/original.jpg
+- file: images/passeriformes/eurylaimidae/eurylaimus-ochromalus/2.jpg
+  page: https://www.inaturalist.org/photos/618842263
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618842263/original.jpg
+- file: images/passeriformes/eurylaimidae/eurylaimus-ochromalus/3.jpg
+  page: https://www.inaturalist.org/photos/629865774
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629865774/original.jpg
+- file: images/passeriformes/eurylaimidae/eurylaimus-ochromalus/4.jpg
+  page: https://www.inaturalist.org/photos/739495588
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495588/original.jpg
+- file: images/passeriformes/eurylaimidae/eurylaimus-ochromalus/5.jpg
+  page: https://www.inaturalist.org/photos/624192750
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624192750/original.jpg
 ---
 
 

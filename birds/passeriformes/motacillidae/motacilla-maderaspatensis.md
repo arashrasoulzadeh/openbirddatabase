@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/motacilla-maderaspatensis/1.jpg
+  page: https://www.inaturalist.org/photos/605083297
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083297/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-maderaspatensis/1.jpg
+  page: https://www.inaturalist.org/photos/605083297
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083297/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-maderaspatensis/2.jpg
+  page: https://www.inaturalist.org/photos/609835587
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609835587/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-maderaspatensis/3.jpg
+  page: https://www.inaturalist.org/photos/622356746
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356746/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-maderaspatensis/4.jpg
+  page: https://www.inaturalist.org/photos/651252669
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651252669/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-maderaspatensis/5.jpg
+  page: https://www.inaturalist.org/photos/607625469
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607625469/original.jpg
 ---
 
 

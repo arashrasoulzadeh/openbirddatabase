@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiodynastes-chrysocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/623703749
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623703749/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiodynastes-chrysocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/623703749
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623703749/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-chrysocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/474139073
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474139073/original.jpeg
+- file: images/passeriformes/tyrannidae/myiodynastes-chrysocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/504848895
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504848895/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-chrysocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/586749980
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586749980/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-chrysocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/562783624
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562783624/original.jpg
 ---
 
 

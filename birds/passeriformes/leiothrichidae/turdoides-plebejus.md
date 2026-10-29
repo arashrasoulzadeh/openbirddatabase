@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/turdoides-plebejus/1.jpg
+  page: https://www.inaturalist.org/photos/470323502
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470323502/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/turdoides-plebejus/1.jpg
+  page: https://www.inaturalist.org/photos/470323502
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470323502/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-plebejus/2.jpg
+  page: https://www.inaturalist.org/photos/471407796
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471407796/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-plebejus/3.jpg
+  page: https://www.inaturalist.org/photos/479383668
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479383668/original.jpeg
+- file: images/passeriformes/leiothrichidae/turdoides-plebejus/4.jpg
+  page: https://www.inaturalist.org/photos/503234317
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503234317/original.jpeg
+- file: images/passeriformes/leiothrichidae/turdoides-plebejus/5.jpg
+  page: https://www.inaturalist.org/photos/470323510
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470323510/original.jpg
 ---
 
 

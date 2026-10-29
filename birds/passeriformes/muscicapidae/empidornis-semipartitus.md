@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/empidornis-semipartitus/1.jpg
+  page: https://www.inaturalist.org/photos/685180894
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685180894/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/empidornis-semipartitus/1.jpg
+  page: https://www.inaturalist.org/photos/685180894
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685180894/original.jpg
+- file: images/passeriformes/muscicapidae/empidornis-semipartitus/2.jpg
+  page: https://www.inaturalist.org/photos/631028071
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631028071/original.jpg
+- file: images/passeriformes/muscicapidae/empidornis-semipartitus/3.jpg
+  page: https://www.inaturalist.org/photos/657154765
+  author: Chiara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657154765/original.jpg
+- file: images/passeriformes/muscicapidae/empidornis-semipartitus/4.jpg
+  page: https://www.inaturalist.org/photos/709282554
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709282554/original.jpg
+- file: images/passeriformes/muscicapidae/empidornis-semipartitus/5.jpg
+  page: https://www.inaturalist.org/photos/716587304
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716587304/original.jpg
 ---
 
 

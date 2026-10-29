@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/chaetura-martinica/1.jpg
+  page: https://www.inaturalist.org/photos/609066103
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609066103/original.jpg
+images:
+- file: images/apodiformes/apodidae/chaetura-martinica/1.jpg
+  page: https://www.inaturalist.org/photos/609066103
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609066103/original.jpg
+- file: images/apodiformes/apodidae/chaetura-martinica/2.jpg
+  page: https://www.inaturalist.org/photos/616531840
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616531840/original.jpg
+- file: images/apodiformes/apodidae/chaetura-martinica/3.jpg
+  page: https://www.inaturalist.org/photos/209577781
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/209577781/original.jpg
+- file: images/apodiformes/apodidae/chaetura-martinica/4.jpg
+  page: https://www.inaturalist.org/photos/609066099
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609066099/original.jpg
+- file: images/apodiformes/apodidae/chaetura-martinica/5.jpg
+  page: https://www.inaturalist.org/photos/616531835
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616531835/original.jpg
 ---
 
 

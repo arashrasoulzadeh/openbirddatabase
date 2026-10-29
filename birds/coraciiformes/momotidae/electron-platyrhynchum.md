@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/momotidae/electron-platyrhynchum/1.jpg
+  page: https://www.inaturalist.org/photos/606704785
+  author: kristen_276
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606704785/original.jpg
+images:
+- file: images/coraciiformes/momotidae/electron-platyrhynchum/1.jpg
+  page: https://www.inaturalist.org/photos/606704785
+  author: kristen_276
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606704785/original.jpg
+- file: images/coraciiformes/momotidae/electron-platyrhynchum/2.jpg
+  page: https://www.inaturalist.org/photos/609078586
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609078586/original.jpg
+- file: images/coraciiformes/momotidae/electron-platyrhynchum/3.jpg
+  page: https://www.inaturalist.org/photos/608362934
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608362934/original.jpg
+- file: images/coraciiformes/momotidae/electron-platyrhynchum/4.jpg
+  page: https://www.inaturalist.org/photos/606618422
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606618422/original.jpg
+- file: images/coraciiformes/momotidae/electron-platyrhynchum/5.jpg
+  page: https://www.inaturalist.org/photos/610503195
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503195/original.jpg
 ---
 
 

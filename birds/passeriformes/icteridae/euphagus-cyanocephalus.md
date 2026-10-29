@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/icteridae/euphagus-cyanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/605295028
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605295028/original.jpg
+images:
+- file: images/passeriformes/icteridae/euphagus-cyanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/605295028
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605295028/original.jpg
+- file: images/passeriformes/icteridae/euphagus-cyanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/605551047
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605551047/original.jpg
+- file: images/passeriformes/icteridae/euphagus-cyanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/604952265
+  author: Aiva Noringseth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604952265/original.jpg
+- file: images/passeriformes/icteridae/euphagus-cyanocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/604847601
+  author: Nick
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604847601/original.jpg
+- file: images/passeriformes/icteridae/euphagus-cyanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/610817764
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610817764/original.jpg
 ---
 
 

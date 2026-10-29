@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-ferox/1.jpg
+  page: https://www.inaturalist.org/photos/617325361
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617325361/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-ferox/1.jpg
+  page: https://www.inaturalist.org/photos/617325361
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617325361/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-ferox/2.jpg
+  page: https://www.inaturalist.org/photos/618059530
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059530/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-ferox/3.jpg
+  page: https://www.inaturalist.org/photos/621632159
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621632159/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-ferox/4.jpg
+  page: https://www.inaturalist.org/photos/671319288
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671319288/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-ferox/5.jpg
+  page: https://www.inaturalist.org/photos/683520211
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683520211/original.jpg
 ---
 
 

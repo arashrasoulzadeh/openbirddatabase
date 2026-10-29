@@ -130,8 +130,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-eurycricotus/1.jpg
+  page: https://www.inaturalist.org/photos/476786853
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476786853/original.jpeg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-eurycricotus/1.jpg
+  page: https://www.inaturalist.org/photos/476786853
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476786853/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-eurycricotus/2.jpg
+  page: https://www.inaturalist.org/photos/21938181
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/21938181/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-eurycricotus/3.jpg
+  page: https://www.inaturalist.org/photos/476786931
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476786931/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-eurycricotus/4.jpg
+  page: https://www.inaturalist.org/photos/476787115
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476787115/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-eurycricotus/5.jpg
+  page: https://www.inaturalist.org/photos/476787355
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476787355/original.jpeg
 ---
 
 

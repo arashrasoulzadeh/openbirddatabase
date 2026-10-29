@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/paradoxornis-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/626354709
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626354709/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/paradoxornis-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/626354709
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626354709/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/468779141
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468779141/original.jpeg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/479296126
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479296126/original.jpeg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/386197463
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386197463/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/626354713
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626354713/original.jpg
 ---
 
 

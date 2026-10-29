@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/crypturellus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/608625163
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608625163/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/crypturellus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/608625163
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608625163/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/591636899
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636899/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/360846090
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360846090/original.jpeg
+- file: images/tinamiformes/tinamidae/crypturellus-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/463612357
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463612357/original.jpeg
+- file: images/tinamiformes/tinamidae/crypturellus-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/119189527
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/119189527/original.jpeg
 ---
 
 

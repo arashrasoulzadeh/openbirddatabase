@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-palumboides/1.jpg
+  page: https://www.inaturalist.org/photos/465897286
+  author: Surabhi Srivastava
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465897286/original.jpeg
+images:
+- file: images/columbiformes/columbidae/columba-palumboides/1.jpg
+  page: https://www.inaturalist.org/photos/465897286
+  author: Surabhi Srivastava
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465897286/original.jpeg
+- file: images/columbiformes/columbidae/columba-palumboides/2.jpg
+  page: https://www.inaturalist.org/photos/465897059
+  author: Surabhi Srivastava
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465897059/original.jpeg
+- file: images/columbiformes/columbidae/columba-palumboides/3.jpg
+  page: https://www.inaturalist.org/photos/465897566
+  author: Surabhi Srivastava
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465897566/original.jpeg
+- file: images/columbiformes/columbidae/columba-palumboides/4.jpg
+  page: https://www.inaturalist.org/photos/465895288
+  author: Surabhi Srivastava
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465895288/original.jpeg
+- file: images/columbiformes/columbidae/columba-palumboides/5.jpg
+  page: https://www.inaturalist.org/photos/465895489
+  author: Surabhi Srivastava
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465895489/original.jpeg
 ---
 
 

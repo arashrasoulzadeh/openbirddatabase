@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/nothoprocta-pentlandii/1.jpg
+  page: https://www.inaturalist.org/photos/728588740
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728588740/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/nothoprocta-pentlandii/1.jpg
+  page: https://www.inaturalist.org/photos/728588740
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728588740/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-pentlandii/2.jpg
+  page: https://www.inaturalist.org/photos/742496841
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742496841/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-pentlandii/3.jpg
+  page: https://www.inaturalist.org/photos/465415451
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465415451/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-pentlandii/4.jpg
+  page: https://www.inaturalist.org/photos/486620689
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486620689/original.jpeg
+- file: images/tinamiformes/tinamidae/nothoprocta-pentlandii/5.jpg
+  page: https://www.inaturalist.org/photos/594107713
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594107713/original.jpg
 ---
 
 

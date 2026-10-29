@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/maluridae/malurus-lamberti/1.jpg
+  page: https://www.inaturalist.org/photos/605869503
+  author: Austen Armstrong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605869503/original.jpg
+images:
+- file: images/passeriformes/maluridae/malurus-lamberti/1.jpg
+  page: https://www.inaturalist.org/photos/605869503
+  author: Austen Armstrong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605869503/original.jpg
+- file: images/passeriformes/maluridae/malurus-lamberti/2.jpg
+  page: https://www.inaturalist.org/photos/606119003
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606119003/original.jpg
+- file: images/passeriformes/maluridae/malurus-lamberti/3.jpg
+  page: https://www.inaturalist.org/photos/608764086
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608764086/original.jpg
+- file: images/passeriformes/maluridae/malurus-lamberti/4.jpg
+  page: https://www.inaturalist.org/photos/605991812
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605991812/original.jpg
+- file: images/passeriformes/maluridae/malurus-lamberti/5.jpg
+  page: https://www.inaturalist.org/photos/607889803
+  author: Mark Kriedemann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607889803/original.jpg
 ---
 
 

@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/cardinalidae/piranga-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/630229569
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630229569/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/piranga-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/630229569
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630229569/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-olivacea/2.jpg
+  page: https://www.inaturalist.org/photos/630928918
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630928918/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-olivacea/3.jpg
+  page: https://www.inaturalist.org/photos/634997592
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634997592/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-olivacea/4.jpg
+  page: https://www.inaturalist.org/photos/637482157
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637482157/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-olivacea/5.jpg
+  page: https://www.inaturalist.org/photos/636824692
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636824692/original.jpg
 ---
 
 

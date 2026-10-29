@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/lophoceros-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/612477400
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477400/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/lophoceros-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/612477400
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477400/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-fasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/637091431
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637091431/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-fasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/465496740
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465496740/original.jpeg
+- file: images/bucerotiformes/bucerotidae/lophoceros-fasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/473602426
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473602426/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-fasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/612477406
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477406/original.jpg
 ---
 
 

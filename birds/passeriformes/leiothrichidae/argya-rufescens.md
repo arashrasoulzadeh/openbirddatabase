@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/argya-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/617952788
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952788/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/argya-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/617952788
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952788/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-rufescens/2.jpg
+  page: https://www.inaturalist.org/photos/467601656
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467601656/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-rufescens/3.jpg
+  page: https://www.inaturalist.org/photos/483444471
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483444471/original.jpeg
+- file: images/passeriformes/leiothrichidae/argya-rufescens/4.jpg
+  page: https://www.inaturalist.org/photos/452158707
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452158707/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-rufescens/5.jpg
+  page: https://www.inaturalist.org/photos/257090722
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257090722/original.jpg
 ---
 
 

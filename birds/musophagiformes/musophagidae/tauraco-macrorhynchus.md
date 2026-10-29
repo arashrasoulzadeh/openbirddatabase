@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/musophagiformes/musophagidae/tauraco-macrorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/640845059
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845059/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-macrorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/640845059
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845059/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-macrorhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/351063225
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063225/original.png
+- file: images/musophagiformes/musophagidae/tauraco-macrorhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/219089082
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219089082/original.jpeg
+- file: images/musophagiformes/musophagidae/tauraco-macrorhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/674382586
+  author: Sierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674382586/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-macrorhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/68011509
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/68011509/original.jpg
 ---
 
 

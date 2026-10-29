@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/procellariiformes/diomedeidae/thalassarche-salvini/1.jpg
+  page: https://www.inaturalist.org/photos/605243307
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243307/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/thalassarche-salvini/1.jpg
+  page: https://www.inaturalist.org/photos/605243307
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243307/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-salvini/2.jpg
+  page: https://www.inaturalist.org/photos/605797046
+  author: Blaire Shadforth
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605797046/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-salvini/3.jpg
+  page: https://www.inaturalist.org/photos/615974873
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615974873/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-salvini/4.jpg
+  page: https://www.inaturalist.org/photos/626299326
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626299326/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-salvini/5.jpg
+  page: https://www.inaturalist.org/photos/636422148
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636422148/original.jpg
 ---
 
 

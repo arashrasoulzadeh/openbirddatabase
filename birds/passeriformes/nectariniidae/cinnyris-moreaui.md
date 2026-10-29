@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-moreaui/1.jpg
+  page: https://www.inaturalist.org/photos/582430573
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582430573/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-moreaui/1.jpg
+  page: https://www.inaturalist.org/photos/582430573
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582430573/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-moreaui/2.jpg
+  page: https://www.inaturalist.org/photos/475914735
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475914735/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-moreaui/3.jpg
+  page: https://www.inaturalist.org/photos/582430568
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582430568/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-moreaui/4.jpg
+  page: https://www.inaturalist.org/photos/582430565
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582430565/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-moreaui/5.jpg
+  page: https://www.inaturalist.org/photos/475914747
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475914747/original.jpg
 ---
 
 

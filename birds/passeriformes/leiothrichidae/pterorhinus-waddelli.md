@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-waddelli/1.jpg
+  page: https://www.inaturalist.org/photos/640010508
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640010508/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-waddelli/1.jpg
+  page: https://www.inaturalist.org/photos/640010508
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640010508/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-waddelli/2.jpg
+  page: https://www.inaturalist.org/photos/730273086
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730273086/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-waddelli/3.jpg
+  page: https://www.inaturalist.org/photos/321617303
+  author: TonyT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/321617303/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-waddelli/4.jpg
+  page: https://www.inaturalist.org/photos/367800187
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800187/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-waddelli/5.jpg
+  page: https://www.inaturalist.org/photos/730273129
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730273129/original.jpg
 ---
 
 

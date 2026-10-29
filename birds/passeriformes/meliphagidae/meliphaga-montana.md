@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.7
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 82.2
   tail_length_mm: 67.7
   body_mass_g: 28.0
+image:
+  file: images/passeriformes/meliphagidae/meliphaga-montana/1.jpg
+  page: https://www.inaturalist.org/photos/614725183
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614725183/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/meliphaga-montana/1.jpg
+  page: https://www.inaturalist.org/photos/614725183
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614725183/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-montana/2.jpg
+  page: https://www.inaturalist.org/photos/615135908
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615135908/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-montana/3.jpg
+  page: https://www.inaturalist.org/photos/615135917
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615135917/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-montana/4.jpg
+  page: https://www.inaturalist.org/photos/615136215
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615136215/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-montana/5.jpg
+  page: https://www.inaturalist.org/photos/615136227
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615136227/original.jpg
 ---
 
 

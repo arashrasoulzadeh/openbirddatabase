@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lonchura-spectabilis/1.jpg
+  page: https://www.inaturalist.org/photos/698813257
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813257/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-spectabilis/1.jpg
+  page: https://www.inaturalist.org/photos/698813257
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813257/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-spectabilis/2.jpg
+  page: https://www.inaturalist.org/photos/671874002
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671874002/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-spectabilis/3.jpg
+  page: https://www.inaturalist.org/photos/226811564
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226811564/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-spectabilis/4.jpg
+  page: https://www.inaturalist.org/photos/698813261
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813261/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-spectabilis/5.jpg
+  page: https://www.inaturalist.org/photos/671874068
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671874068/original.jpg
 ---
 
 

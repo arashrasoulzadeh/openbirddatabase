@@ -145,7 +145,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 19.2
@@ -155,6 +156,20 @@ morphology:
   body_mass_g: 29.2
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/muscicapidae/copsychus-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/603883004
+  author: Jyotsna Nag
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603883004/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/copsychus-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/603883004
+  author: Jyotsna Nag
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603883004/original.jpg
 ---
 
 

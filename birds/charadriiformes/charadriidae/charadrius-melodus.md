@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/charadriiformes/charadriidae/charadrius-melodus/1.jpg
+  page: https://www.inaturalist.org/photos/607431094
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607431094/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/charadrius-melodus/1.jpg
+  page: https://www.inaturalist.org/photos/607431094
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607431094/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-melodus/2.jpg
+  page: https://www.inaturalist.org/photos/609555395
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609555395/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-melodus/3.jpg
+  page: https://www.inaturalist.org/photos/608978450
+  author: worldbird
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608978450/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-melodus/4.jpg
+  page: https://www.inaturalist.org/photos/608504245
+  author: Senna Bryce Robeson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608504245/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-melodus/5.jpg
+  page: https://www.inaturalist.org/photos/614265623
+  author: Chase Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614265623/original.jpg
 ---
 
 

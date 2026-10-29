@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-philippinus/1.jpg
+  page: https://www.inaturalist.org/photos/605280033
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605280033/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-philippinus/1.jpg
+  page: https://www.inaturalist.org/photos/605280033
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605280033/original.jpg
+- file: images/coraciiformes/meropidae/merops-philippinus/2.jpg
+  page: https://www.inaturalist.org/photos/607117474
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607117474/original.jpg
+- file: images/coraciiformes/meropidae/merops-philippinus/3.jpg
+  page: https://www.inaturalist.org/photos/610405795
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610405795/original.jpg
+- file: images/coraciiformes/meropidae/merops-philippinus/4.jpg
+  page: https://www.inaturalist.org/photos/607896332
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607896332/original.jpg
+- file: images/coraciiformes/meropidae/merops-philippinus/5.jpg
+  page: https://www.inaturalist.org/photos/609920985
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609920985/original.jpg
 ---
 
 

@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/parulidae/geothlypis-tolmiei/1.jpg
+  page: https://www.inaturalist.org/photos/609279284
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609279284/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-tolmiei/1.jpg
+  page: https://www.inaturalist.org/photos/609279284
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609279284/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-tolmiei/2.jpg
+  page: https://www.inaturalist.org/photos/610325842
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610325842/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-tolmiei/3.jpg
+  page: https://www.inaturalist.org/photos/605423985
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605423985/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-tolmiei/4.jpg
+  page: https://www.inaturalist.org/photos/609230203
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609230203/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-tolmiei/5.jpg
+  page: https://www.inaturalist.org/photos/620694739
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620694739/original.jpg
 ---
 
 

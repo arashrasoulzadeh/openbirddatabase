@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/leptasthenura-striata/1.jpg
+  page: https://www.inaturalist.org/photos/510936950
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510936950/original.jpg
+images:
+- file: images/passeriformes/furnariidae/leptasthenura-striata/1.jpg
+  page: https://www.inaturalist.org/photos/510936950
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510936950/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-striata/2.jpg
+  page: https://www.inaturalist.org/photos/385317348
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385317348/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-striata/3.jpg
+  page: https://www.inaturalist.org/photos/427008142
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427008142/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-striata/4.jpg
+  page: https://www.inaturalist.org/photos/188542053
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188542053/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-striata/5.jpg
+  page: https://www.inaturalist.org/photos/249284700
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249284700/original.jpeg
 ---
 
 

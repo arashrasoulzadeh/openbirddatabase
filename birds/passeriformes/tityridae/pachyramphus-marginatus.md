@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-marginatus/1.jpg
+  page: https://www.inaturalist.org/photos/684356038
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684356038/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-marginatus/1.jpg
+  page: https://www.inaturalist.org/photos/684356038
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684356038/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-marginatus/2.jpg
+  page: https://www.inaturalist.org/photos/464021458
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464021458/original.jpeg
+- file: images/passeriformes/tityridae/pachyramphus-marginatus/3.jpg
+  page: https://www.inaturalist.org/photos/375876127
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375876127/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-marginatus/4.jpg
+  page: https://www.inaturalist.org/photos/341646581
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341646581/original.jpeg
+- file: images/passeriformes/tityridae/pachyramphus-marginatus/5.jpg
+  page: https://www.inaturalist.org/photos/53257225
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53257225/original.jpg
 ---
 
 

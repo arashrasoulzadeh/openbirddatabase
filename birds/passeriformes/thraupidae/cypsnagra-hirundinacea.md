@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/cypsnagra-hirundinacea/1.jpg
+  page: https://www.inaturalist.org/photos/607273012
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273012/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cypsnagra-hirundinacea/1.jpg
+  page: https://www.inaturalist.org/photos/607273012
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273012/original.jpg
+- file: images/passeriformes/thraupidae/cypsnagra-hirundinacea/2.jpg
+  page: https://www.inaturalist.org/photos/705740325
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705740325/original.jpg
+- file: images/passeriformes/thraupidae/cypsnagra-hirundinacea/3.jpg
+  page: https://www.inaturalist.org/photos/706583373
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706583373/original.jpg
+- file: images/passeriformes/thraupidae/cypsnagra-hirundinacea/4.jpg
+  page: https://www.inaturalist.org/photos/732150987
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732150987/original.jpg
+- file: images/passeriformes/thraupidae/cypsnagra-hirundinacea/5.jpg
+  page: https://www.inaturalist.org/photos/511132473
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511132473/original.jpg
 ---
 
 

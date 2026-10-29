@@ -128,7 +128,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 52.1
@@ -143,6 +144,44 @@ reproduction:
   clutch_size_mean: 4.0
   broods_per_year: 1
   fledging_days: 27
+image:
+  file: images/piciformes/picidae/dryocopus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/605211079
+  author: sudomir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605211079/original.jpg
+images:
+- file: images/piciformes/picidae/dryocopus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/605211079
+  author: sudomir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605211079/original.jpg
+- file: images/piciformes/picidae/dryocopus-pileatus/2.jpg
+  page: https://www.inaturalist.org/photos/604590988
+  author: Liren Varghese
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604590988/original.jpg
+- file: images/piciformes/picidae/dryocopus-pileatus/3.jpg
+  page: https://www.inaturalist.org/photos/604668399
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604668399/original.jpg
+- file: images/piciformes/picidae/dryocopus-pileatus/4.jpg
+  page: https://www.inaturalist.org/photos/604504735
+  author: Phoenix M.S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604504735/original.jpg
+- file: images/piciformes/picidae/dryocopus-pileatus/5.jpg
+  page: https://www.inaturalist.org/photos/605352568
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605352568/original.jpg
 ---
 
 

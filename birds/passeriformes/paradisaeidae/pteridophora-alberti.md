@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradisaeidae/pteridophora-alberti/1.jpg
+  page: https://www.inaturalist.org/photos/699288269
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699288269/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/pteridophora-alberti/1.jpg
+  page: https://www.inaturalist.org/photos/699288269
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699288269/original.jpg
+- file: images/passeriformes/paradisaeidae/pteridophora-alberti/2.jpg
+  page: https://www.inaturalist.org/photos/717850961
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717850961/original.jpg
+- file: images/passeriformes/paradisaeidae/pteridophora-alberti/3.jpg
+  page: https://www.inaturalist.org/photos/560359964
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560359964/original.jpg
+- file: images/passeriformes/paradisaeidae/pteridophora-alberti/4.jpg
+  page: https://www.inaturalist.org/photos/571216437
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571216437/original.jpg
+- file: images/passeriformes/paradisaeidae/pteridophora-alberti/5.jpg
+  page: https://www.inaturalist.org/photos/578588869
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578588869/original.jpg
 ---
 
 

@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/columbiformes/columbidae/ducula-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/610675239
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675239/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/610675239
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675239/original.jpg
+- file: images/columbiformes/columbidae/ducula-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/616478969
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616478969/original.jpg
+- file: images/columbiformes/columbidae/ducula-bicolor/3.jpg
+  page: https://www.inaturalist.org/photos/628601162
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628601162/original.jpg
+- file: images/columbiformes/columbidae/ducula-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/624472192
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624472192/original.jpg
+- file: images/columbiformes/columbidae/ducula-bicolor/5.jpg
+  page: https://www.inaturalist.org/photos/629573771
+  author: P Jeganathan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629573771/original.jpg
 ---
 
 

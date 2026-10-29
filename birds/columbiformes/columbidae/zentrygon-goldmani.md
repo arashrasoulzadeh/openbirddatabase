@@ -136,8 +136,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/zentrygon-goldmani/1.jpg
+  page: https://www.inaturalist.org/photos/361143861
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361143861/original.jpg
+images:
+- file: images/columbiformes/columbidae/zentrygon-goldmani/1.jpg
+  page: https://www.inaturalist.org/photos/361143861
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361143861/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-goldmani/2.jpg
+  page: https://www.inaturalist.org/photos/254392185
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254392185/original.jpeg
+- file: images/columbiformes/columbidae/zentrygon-goldmani/3.jpg
+  page: https://www.inaturalist.org/photos/361143887
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361143887/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-goldmani/4.jpg
+  page: https://www.inaturalist.org/photos/254392224
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254392224/original.jpeg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lerwa-lerwa/1.jpg
+  page: https://www.inaturalist.org/photos/76842660
+  author: Pramod CL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/76842660/original.jpg
+images:
+- file: images/galliformes/phasianidae/lerwa-lerwa/1.jpg
+  page: https://www.inaturalist.org/photos/76842660
+  author: Pramod CL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/76842660/original.jpg
+- file: images/galliformes/phasianidae/lerwa-lerwa/2.jpg
+  page: https://www.inaturalist.org/photos/409359139
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409359139/original.jpg
+- file: images/galliformes/phasianidae/lerwa-lerwa/3.jpg
+  page: https://www.inaturalist.org/photos/395651271
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651271/original.jpg
+- file: images/galliformes/phasianidae/lerwa-lerwa/4.jpg
+  page: https://www.inaturalist.org/photos/347380953
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347380953/original.jpg
+- file: images/galliformes/phasianidae/lerwa-lerwa/5.jpg
+  page: https://www.inaturalist.org/photos/76842644
+  author: Pramod CL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/76842644/original.jpg
 ---
 
 

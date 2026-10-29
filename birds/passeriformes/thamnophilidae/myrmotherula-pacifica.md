@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/618275095
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618275095/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/618275095
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618275095/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-pacifica/2.jpg
+  page: https://www.inaturalist.org/photos/628737009
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628737009/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-pacifica/3.jpg
+  page: https://www.inaturalist.org/photos/630928597
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630928597/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-pacifica/4.jpg
+  page: https://www.inaturalist.org/photos/474667859
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474667859/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-pacifica/5.jpg
+  page: https://www.inaturalist.org/photos/578456469
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578456469/original.jpg
 ---
 
 

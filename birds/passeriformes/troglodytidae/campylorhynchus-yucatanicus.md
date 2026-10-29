@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-yucatanicus/1.jpg
+  page: https://www.inaturalist.org/photos/621350909
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621350909/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-yucatanicus/1.jpg
+  page: https://www.inaturalist.org/photos/621350909
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621350909/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-yucatanicus/2.jpg
+  page: https://www.inaturalist.org/photos/611808987
+  author: Thompson Hyggen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611808987/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-yucatanicus/3.jpg
+  page: https://www.inaturalist.org/photos/487708716
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487708716/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-yucatanicus/4.jpg
+  page: https://www.inaturalist.org/photos/526951394
+  author: Diego Puc Estrada
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526951394/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-yucatanicus/5.jpg
+  page: https://www.inaturalist.org/photos/580030375
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580030375/original.jpg
 ---
 
 

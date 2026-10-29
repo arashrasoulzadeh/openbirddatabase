@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sicalis-luteola/1.jpg
+  page: https://www.inaturalist.org/photos/610771936
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610771936/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sicalis-luteola/1.jpg
+  page: https://www.inaturalist.org/photos/610771936
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610771936/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-luteola/2.jpg
+  page: https://www.inaturalist.org/photos/609369741
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609369741/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-luteola/3.jpg
+  page: https://www.inaturalist.org/photos/610450081
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610450081/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-luteola/4.jpg
+  page: https://www.inaturalist.org/photos/613026337
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613026337/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-luteola/5.jpg
+  page: https://www.inaturalist.org/photos/626548876
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626548876/original.jpg
 ---
 
 

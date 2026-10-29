@@ -148,8 +148,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pelecanoides-garnotii/1.jpg
+  page: https://www.inaturalist.org/photos/621115399
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621115399/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pelecanoides-garnotii/1.jpg
+  page: https://www.inaturalist.org/photos/621115399
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621115399/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-garnotii/2.jpg
+  page: https://www.inaturalist.org/photos/636198498
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636198498/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-garnotii/3.jpg
+  page: https://www.inaturalist.org/photos/741869438
+  author: Juan Mauricio Contreras
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741869438/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-garnotii/4.jpg
+  page: https://www.inaturalist.org/photos/724626274
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724626274/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-garnotii/5.jpg
+  page: https://www.inaturalist.org/photos/675368175
+  author: the natural moment
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675368175/original.jpg
 ---
 
 

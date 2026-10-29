@@ -184,10 +184,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 47
+image:
+  file: images/anseriformes/anatidae/anser-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/604864447
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604864447/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/604864447
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604864447/original.jpg
+- file: images/anseriformes/anatidae/anser-albifrons/2.jpg
+  page: https://www.inaturalist.org/photos/605479251
+  author: Ian Wright
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605479251/original.jpg
+- file: images/anseriformes/anatidae/anser-albifrons/3.jpg
+  page: https://www.inaturalist.org/photos/604471555
+  author: Richard Shirky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604471555/original.jpg
+- file: images/anseriformes/anatidae/anser-albifrons/4.jpg
+  page: https://www.inaturalist.org/photos/605707061
+  author: Phil James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605707061/original.jpg
+- file: images/anseriformes/anatidae/anser-albifrons/5.jpg
+  page: https://www.inaturalist.org/photos/605395173
+  author: Frank Sengpiel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605395173/original.jpg
 ---
 
 

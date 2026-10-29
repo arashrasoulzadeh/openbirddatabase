@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/sarothruridae/sarothrura-insularis/1.jpg
+  page: https://www.inaturalist.org/photos/338204330
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338204330/original.jpeg
+images:
+- file: images/gruiformes/sarothruridae/sarothrura-insularis/1.jpg
+  page: https://www.inaturalist.org/photos/338204330
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338204330/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-insularis/2.jpg
+  page: https://www.inaturalist.org/photos/608908210
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608908210/original.jpg
+- file: images/gruiformes/sarothruridae/sarothrura-insularis/3.jpg
+  page: https://www.inaturalist.org/photos/338204329
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338204329/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-insularis/4.jpg
+  page: https://www.inaturalist.org/photos/338204327
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338204327/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-insularis/5.jpg
+  page: https://www.inaturalist.org/photos/338204507
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338204507/original.jpeg
 ---
 
 

@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/thalurania-furcata/1.jpg
+  page: https://www.inaturalist.org/photos/608727104
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608727104/original.jpg
+images:
+- file: images/apodiformes/trochilidae/thalurania-furcata/1.jpg
+  page: https://www.inaturalist.org/photos/608727104
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608727104/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-furcata/2.jpg
+  page: https://www.inaturalist.org/photos/617507784
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507784/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-furcata/3.jpg
+  page: https://www.inaturalist.org/photos/616427859
+  author: Jean Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616427859/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-furcata/4.jpg
+  page: https://www.inaturalist.org/photos/614263901
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614263901/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-furcata/5.jpg
+  page: https://www.inaturalist.org/photos/626500493
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626500493/original.jpg
 ---
 
 

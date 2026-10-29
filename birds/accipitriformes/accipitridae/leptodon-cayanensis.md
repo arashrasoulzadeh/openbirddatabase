@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/leptodon-cayanensis/1.jpg
+  page: https://www.inaturalist.org/photos/604607013
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604607013/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/leptodon-cayanensis/1.jpg
+  page: https://www.inaturalist.org/photos/604607013
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604607013/original.jpg
+- file: images/accipitriformes/accipitridae/leptodon-cayanensis/2.jpg
+  page: https://www.inaturalist.org/photos/612558243
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612558243/original.jpg
+- file: images/accipitriformes/accipitridae/leptodon-cayanensis/3.jpg
+  page: https://www.inaturalist.org/photos/615510863
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615510863/original.jpg
+- file: images/accipitriformes/accipitridae/leptodon-cayanensis/4.jpg
+  page: https://www.inaturalist.org/photos/616090478
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616090478/original.jpg
+- file: images/accipitriformes/accipitridae/leptodon-cayanensis/5.jpg
+  page: https://www.inaturalist.org/photos/622499280
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622499280/original.jpg
 ---
 
 

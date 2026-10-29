@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.6
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 62.7
   tail_length_mm: 51.8
   body_mass_g: 14.0
+image:
+  file: images/passeriformes/zosteropidae/yuhina-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/63644561
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63644561/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/yuhina-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/63644561
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63644561/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-humilis/2.jpg
+  page: https://www.inaturalist.org/photos/546757472
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546757472/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-humilis/3.jpg
+  page: https://www.inaturalist.org/photos/63644562
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63644562/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-humilis/4.jpg
+  page: https://www.inaturalist.org/photos/63644563
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63644563/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-humilis/5.jpg
+  page: https://www.inaturalist.org/photos/63644567
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63644567/original.jpg
 ---
 
 

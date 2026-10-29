@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/gruiformes/rallidae/laterallus-ruber/1.jpg
+  page: https://www.inaturalist.org/photos/607197398
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607197398/original.jpg
+images:
+- file: images/gruiformes/rallidae/laterallus-ruber/1.jpg
+  page: https://www.inaturalist.org/photos/607197398
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607197398/original.jpg
+- file: images/gruiformes/rallidae/laterallus-ruber/2.jpg
+  page: https://www.inaturalist.org/photos/619596878
+  author: Alexis Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619596878/original.jpg
+- file: images/gruiformes/rallidae/laterallus-ruber/3.jpg
+  page: https://www.inaturalist.org/photos/563966817
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563966817/original.jpg
+- file: images/gruiformes/rallidae/laterallus-ruber/4.jpg
+  page: https://www.inaturalist.org/photos/581624132
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581624132/original.jpg
+- file: images/gruiformes/rallidae/laterallus-ruber/5.jpg
+  page: https://www.inaturalist.org/photos/401841142
+  author: Ricard Busquets Reverte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401841142/original.jpeg
 ---
 
 

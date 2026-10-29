@@ -176,10 +176,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/pelecaniformes/ardeidae/butorides-virescens/1.jpg
+  page: https://www.inaturalist.org/photos/605096263
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605096263/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/butorides-virescens/1.jpg
+  page: https://www.inaturalist.org/photos/605096263
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605096263/original.jpg
+- file: images/pelecaniformes/ardeidae/butorides-virescens/2.jpg
+  page: https://www.inaturalist.org/photos/604626949
+  author: Stephanie Buck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604626949/original.jpg
+- file: images/pelecaniformes/ardeidae/butorides-virescens/3.jpg
+  page: https://www.inaturalist.org/photos/604939187
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604939187/original.jpg
+- file: images/pelecaniformes/ardeidae/butorides-virescens/4.jpg
+  page: https://www.inaturalist.org/photos/605651080
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605651080/original.jpg
+- file: images/pelecaniformes/ardeidae/butorides-virescens/5.jpg
+  page: https://www.inaturalist.org/photos/605469122
+  author: Jill DeVito, PhD
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605469122/original.jpg
 ---
 
 

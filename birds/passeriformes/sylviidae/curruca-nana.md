@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-nana/1.jpg
+  page: https://www.inaturalist.org/photos/697105589
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697105589/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-nana/1.jpg
+  page: https://www.inaturalist.org/photos/697105589
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697105589/original.jpg
+- file: images/passeriformes/sylviidae/curruca-nana/2.jpg
+  page: https://www.inaturalist.org/photos/513279779
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513279779/original.jpg
+- file: images/passeriformes/sylviidae/curruca-nana/3.jpg
+  page: https://www.inaturalist.org/photos/590444499
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590444499/original.jpg
+- file: images/passeriformes/sylviidae/curruca-nana/4.jpg
+  page: https://www.inaturalist.org/photos/579815860
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579815860/original.jpg
+- file: images/passeriformes/sylviidae/curruca-nana/5.jpg
+  page: https://www.inaturalist.org/photos/386560225
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386560225/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/aplonis-opaca/1.jpg
+  page: https://www.inaturalist.org/photos/615113590
+  author: Gabriel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615113590/original.jpg
+images:
+- file: images/passeriformes/sturnidae/aplonis-opaca/1.jpg
+  page: https://www.inaturalist.org/photos/615113590
+  author: Gabriel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615113590/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-opaca/2.jpg
+  page: https://www.inaturalist.org/photos/354144888
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354144888/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-opaca/3.jpg
+  page: https://www.inaturalist.org/photos/385434088
+  author: Dana Lee Ling
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385434088/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-opaca/4.jpg
+  page: https://www.inaturalist.org/photos/409691403
+  author: fletchermoore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409691403/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-opaca/5.jpg
+  page: https://www.inaturalist.org/photos/615113617
+  author: Gabriel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615113617/original.jpg
 ---
 
 

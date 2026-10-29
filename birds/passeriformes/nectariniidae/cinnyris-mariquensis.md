@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-mariquensis/1.jpg
+  page: https://www.inaturalist.org/photos/617147582
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147582/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-mariquensis/1.jpg
+  page: https://www.inaturalist.org/photos/617147582
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147582/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-mariquensis/2.jpg
+  page: https://www.inaturalist.org/photos/619602237
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619602237/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-mariquensis/3.jpg
+  page: https://www.inaturalist.org/photos/631487923
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631487923/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-mariquensis/4.jpg
+  page: https://www.inaturalist.org/photos/633023846
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633023846/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-mariquensis/5.jpg
+  page: https://www.inaturalist.org/photos/722395791
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722395791/original.jpg
 ---
 
 

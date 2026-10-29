@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/onychognathus-walleri/1.jpg
+  page: https://www.inaturalist.org/photos/588290048
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588290048/original.jpg
+images:
+- file: images/passeriformes/sturnidae/onychognathus-walleri/1.jpg
+  page: https://www.inaturalist.org/photos/588290048
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588290048/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-walleri/2.jpg
+  page: https://www.inaturalist.org/photos/475926715
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475926715/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-walleri/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5722124454181098658
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91907/original.JPG
+- file: images/passeriformes/sturnidae/onychognathus-walleri/4.jpg
+  page: https://www.inaturalist.org/photos/588290051
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588290051/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-walleri/5.jpg
+  page: https://www.inaturalist.org/photos/475926703
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475926703/original.jpg
 ---
 
 

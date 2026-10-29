@@ -159,8 +159,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/erythrura-prasina/1.jpg
+  page: https://www.inaturalist.org/photos/466517562
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466517562/original.jpeg
+images:
+- file: images/passeriformes/estrildidae/erythrura-prasina/1.jpg
+  page: https://www.inaturalist.org/photos/466517562
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466517562/original.jpeg
+- file: images/passeriformes/estrildidae/erythrura-prasina/2.jpg
+  page: https://www.inaturalist.org/photos/470473119
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470473119/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-prasina/3.jpg
+  page: https://www.inaturalist.org/photos/451626853
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451626853/original.jpeg
+- file: images/passeriformes/estrildidae/erythrura-prasina/4.jpg
+  page: https://www.inaturalist.org/photos/466517567
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466517567/original.jpeg
+- file: images/passeriformes/estrildidae/erythrura-prasina/5.jpg
+  page: https://www.inaturalist.org/photos/466517571
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466517571/original.jpeg
 ---
 
 

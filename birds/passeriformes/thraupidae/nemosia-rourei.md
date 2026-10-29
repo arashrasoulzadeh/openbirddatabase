@@ -132,8 +132,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/nemosia-rourei/1.jpg
+  page: https://www.inaturalist.org/photos/694872324
+  author: Paulo Mascaretti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694872324/original.jpg
+images:
+- file: images/passeriformes/thraupidae/nemosia-rourei/1.jpg
+  page: https://www.inaturalist.org/photos/694872324
+  author: Paulo Mascaretti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694872324/original.jpg
+- file: images/passeriformes/thraupidae/nemosia-rourei/2.jpg
+  page: https://www.inaturalist.org/photos/450872877
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450872877/original.jpg
+- file: images/passeriformes/thraupidae/nemosia-rourei/3.jpg
+  page: https://www.inaturalist.org/photos/232693519
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232693519/original.jpeg
+- file: images/passeriformes/thraupidae/nemosia-rourei/4.jpg
+  page: https://www.inaturalist.org/photos/634286145
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634286145/original.jpg
+- file: images/passeriformes/thraupidae/nemosia-rourei/5.jpg
+  page: https://www.inaturalist.org/photos/694872419
+  author: Paulo Mascaretti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694872419/original.jpg
 ---
 
 

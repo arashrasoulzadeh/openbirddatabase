@@ -185,8 +185,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/hedydipna-collaris/1.jpg
+  page: https://www.inaturalist.org/photos/613962393
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613962393/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/hedydipna-collaris/1.jpg
+  page: https://www.inaturalist.org/photos/613962393
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613962393/original.jpg
+- file: images/passeriformes/nectariniidae/hedydipna-collaris/2.jpg
+  page: https://www.inaturalist.org/photos/626261518
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626261518/original.jpg
+- file: images/passeriformes/nectariniidae/hedydipna-collaris/3.jpg
+  page: https://www.inaturalist.org/photos/621197221
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621197221/original.jpg
+- file: images/passeriformes/nectariniidae/hedydipna-collaris/4.jpg
+  page: https://www.inaturalist.org/photos/665525396
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525396/original.jpg
+- file: images/passeriformes/nectariniidae/hedydipna-collaris/5.jpg
+  page: https://www.inaturalist.org/photos/626261532
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626261532/original.jpg
 ---
 
 

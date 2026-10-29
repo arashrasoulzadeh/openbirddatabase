@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/laniarius-aethiopicus/1.jpg
+  page: https://www.inaturalist.org/photos/608848440
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608848440/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/laniarius-aethiopicus/1.jpg
+  page: https://www.inaturalist.org/photos/608848440
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608848440/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-aethiopicus/2.jpg
+  page: https://www.inaturalist.org/photos/361016635
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361016635/original.jpeg
+- file: images/passeriformes/malaconotidae/laniarius-aethiopicus/3.jpg
+  page: https://www.inaturalist.org/photos/207727829
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207727829/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-aethiopicus/4.jpg
+  page: https://www.inaturalist.org/photos/13364650
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13364650/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-aethiopicus/5.jpg
+  page: https://www.inaturalist.org/photos/608848451
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608848451/original.jpg
 ---
 
 

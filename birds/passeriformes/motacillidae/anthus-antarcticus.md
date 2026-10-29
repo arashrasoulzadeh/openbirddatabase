@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/355115637
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355115637/original.jpeg
+images:
+- file: images/passeriformes/motacillidae/anthus-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/355115637
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355115637/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-antarcticus/2.jpg
+  page: https://www.inaturalist.org/photos/466892242
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466892242/original.jpg
+- file: images/passeriformes/motacillidae/anthus-antarcticus/3.jpg
+  page: https://www.inaturalist.org/photos/182482725
+  author: Carrie Powers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182482725/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-antarcticus/4.jpg
+  page: https://www.inaturalist.org/photos/250513155
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250513155/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-antarcticus/5.jpg
+  page: https://www.inaturalist.org/photos/251370574
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251370574/original.jpeg
 ---
 
 

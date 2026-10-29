@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-brachyrhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/717851651
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717851651/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-brachyrhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/717851651
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717851651/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-brachyrhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/624318091
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624318091/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-brachyrhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/717851659
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717851659/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-brachyrhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/624317720
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624317720/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-brachyrhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/624317756
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624317756/original.jpg
 ---
 
 

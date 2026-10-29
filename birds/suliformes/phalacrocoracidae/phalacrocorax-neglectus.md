@@ -142,8 +142,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/phalacrocorax-neglectus/1.jpg
+  page: https://www.inaturalist.org/photos/713746161
+  author: Elias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713746161/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-neglectus/1.jpg
+  page: https://www.inaturalist.org/photos/713746161
+  author: Elias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713746161/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-neglectus/2.jpg
+  page: https://www.inaturalist.org/photos/724663056
+  author: marius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724663056/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-neglectus/3.jpg
+  page: https://www.inaturalist.org/photos/730892066
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730892066/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-neglectus/4.jpg
+  page: https://www.inaturalist.org/photos/742480981
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742480981/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-neglectus/5.jpg
+  page: https://www.inaturalist.org/photos/466094546
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466094546/original.jpeg
 ---
 
 

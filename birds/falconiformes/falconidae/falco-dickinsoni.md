@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-dickinsoni/1.jpg
+  page: https://www.inaturalist.org/photos/551570119
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551570119/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-dickinsoni/1.jpg
+  page: https://www.inaturalist.org/photos/551570119
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551570119/original.jpg
+- file: images/falconiformes/falconidae/falco-dickinsoni/2.jpg
+  page: https://www.inaturalist.org/photos/581915869
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581915869/original.jpg
+- file: images/falconiformes/falconidae/falco-dickinsoni/3.jpg
+  page: https://www.inaturalist.org/photos/434369974
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434369974/original.jpeg
+- file: images/falconiformes/falconidae/falco-dickinsoni/4.jpg
+  page: https://www.inaturalist.org/photos/421963984
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/421963984/original.jpeg
+- file: images/falconiformes/falconidae/falco-dickinsoni/5.jpg
+  page: https://www.inaturalist.org/photos/408115572
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/408115572/original.jpg
 ---
 
 

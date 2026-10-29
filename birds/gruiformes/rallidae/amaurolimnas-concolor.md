@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/amaurolimnas-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/686083066
+  author: Artur Alves
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686083066/original.jpg
+images:
+- file: images/gruiformes/rallidae/amaurolimnas-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/686083066
+  author: Artur Alves
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686083066/original.jpg
+- file: images/gruiformes/rallidae/amaurolimnas-concolor/2.jpg
+  page: https://www.inaturalist.org/photos/345594884
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345594884/original.jpg
+- file: images/gruiformes/rallidae/amaurolimnas-concolor/3.jpg
+  page: https://www.inaturalist.org/photos/416705274
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416705274/original.jpg
+- file: images/gruiformes/rallidae/amaurolimnas-concolor/4.jpg
+  page: https://www.inaturalist.org/photos/404089232
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404089232/original.jpg
+- file: images/gruiformes/rallidae/amaurolimnas-concolor/5.jpg
+  page: https://www.inaturalist.org/photos/269760849
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269760849/original.jpeg
 ---
 
 

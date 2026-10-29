@@ -142,8 +142,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cossyphicula-roberti/1.jpg
+  page: https://www.inaturalist.org/photos/592263492
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592263492/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cossyphicula-roberti/1.jpg
+  page: https://www.inaturalist.org/photos/592263492
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592263492/original.jpg
+- file: images/passeriformes/muscicapidae/cossyphicula-roberti/2.jpg
+  page: https://www.inaturalist.org/photos/173824264
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173824264/original.jpg
+- file: images/passeriformes/muscicapidae/cossyphicula-roberti/3.jpg
+  page: https://www.inaturalist.org/photos/588161612
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588161612/original.jpg
 ---
 
 

@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-stewarti/1.jpg
+  page: https://www.inaturalist.org/photos/628359638
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628359638/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-stewarti/1.jpg
+  page: https://www.inaturalist.org/photos/628359638
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628359638/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-stewarti/2.jpg
+  page: https://www.inaturalist.org/photos/469761704
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469761704/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-stewarti/3.jpg
+  page: https://www.inaturalist.org/photos/515937847
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515937847/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-stewarti/4.jpg
+  page: https://www.inaturalist.org/photos/590418134
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590418134/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-stewarti/5.jpg
+  page: https://www.inaturalist.org/photos/395592984
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395592984/original.jpg
 ---
 
 

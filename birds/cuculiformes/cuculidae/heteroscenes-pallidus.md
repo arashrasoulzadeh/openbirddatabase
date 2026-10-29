@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/heteroscenes-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/607660946
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607660946/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/heteroscenes-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/607660946
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607660946/original.jpg
+- file: images/cuculiformes/cuculidae/heteroscenes-pallidus/2.jpg
+  page: https://www.inaturalist.org/photos/728307557
+  author: Roman Soroka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728307557/original.jpg
+- file: images/cuculiformes/cuculidae/heteroscenes-pallidus/3.jpg
+  page: https://www.inaturalist.org/photos/736889378
+  author: plantlookymagee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736889378/original.jpg
+- file: images/cuculiformes/cuculidae/heteroscenes-pallidus/4.jpg
+  page: https://www.inaturalist.org/photos/744202742
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744202742/original.jpg
+- file: images/cuculiformes/cuculidae/heteroscenes-pallidus/5.jpg
+  page: https://www.inaturalist.org/photos/745891996
+  author: fungihunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745891996/original.jpg
 ---
 
 

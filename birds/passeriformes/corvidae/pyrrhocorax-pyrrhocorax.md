@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/corvidae/pyrrhocorax-pyrrhocorax/1.jpg
+  page: https://www.inaturalist.org/photos/609713339
+  author: fernium
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609713339/original.jpg
+images:
+- file: images/passeriformes/corvidae/pyrrhocorax-pyrrhocorax/1.jpg
+  page: https://www.inaturalist.org/photos/609713339
+  author: fernium
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609713339/original.jpg
+- file: images/passeriformes/corvidae/pyrrhocorax-pyrrhocorax/2.jpg
+  page: https://www.inaturalist.org/photos/612771358
+  author: ANGEL MARCOS LUENGO BELLO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771358/original.jpg
+- file: images/passeriformes/corvidae/pyrrhocorax-pyrrhocorax/3.jpg
+  page: https://www.inaturalist.org/photos/611479093
+  author: Gonzalo Ganda Álvarez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611479093/original.jpg
+- file: images/passeriformes/corvidae/pyrrhocorax-pyrrhocorax/4.jpg
+  page: https://www.inaturalist.org/photos/611490764
+  author: kitbeard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611490764/original.jpg
+- file: images/passeriformes/corvidae/pyrrhocorax-pyrrhocorax/5.jpg
+  page: https://www.inaturalist.org/photos/616021037
+  author: Paul Kirkland and Kay Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616021037/original.jpg
 ---
 
 

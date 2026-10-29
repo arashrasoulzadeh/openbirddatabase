@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/phacellodomus-sibilatrix/1.jpg
+  page: https://www.inaturalist.org/photos/605494019
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494019/original.jpg
+images:
+- file: images/passeriformes/furnariidae/phacellodomus-sibilatrix/1.jpg
+  page: https://www.inaturalist.org/photos/605494019
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494019/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-sibilatrix/2.jpg
+  page: https://www.inaturalist.org/photos/628508113
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628508113/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-sibilatrix/3.jpg
+  page: https://www.inaturalist.org/photos/637711273
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637711273/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-sibilatrix/4.jpg
+  page: https://www.inaturalist.org/photos/657197074
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657197074/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-sibilatrix/5.jpg
+  page: https://www.inaturalist.org/photos/688123682
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688123682/original.jpg
 ---
 
 

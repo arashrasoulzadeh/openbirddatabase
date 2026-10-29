@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/paridae/cyanistes-teneriffae/1.jpg
+  page: https://www.inaturalist.org/photos/605749789
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605749789/original.jpg
+images:
+- file: images/passeriformes/paridae/cyanistes-teneriffae/1.jpg
+  page: https://www.inaturalist.org/photos/605749789
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605749789/original.jpg
+- file: images/passeriformes/paridae/cyanistes-teneriffae/2.jpg
+  page: https://www.inaturalist.org/photos/611413910
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611413910/original.jpg
+- file: images/passeriformes/paridae/cyanistes-teneriffae/3.jpg
+  page: https://www.inaturalist.org/photos/615995954
+  author: Roy Lowry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615995954/original.jpg
+- file: images/passeriformes/paridae/cyanistes-teneriffae/4.jpg
+  page: https://www.inaturalist.org/photos/619383234
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619383234/original.jpg
+- file: images/passeriformes/paridae/cyanistes-teneriffae/5.jpg
+  page: https://www.inaturalist.org/photos/622195673
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622195673/original.jpg
 ---
 
 

@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/charadriiformes/laridae/anous-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/632940500
+  author: Mike Burnett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632940500/original.jpg
+images:
+- file: images/charadriiformes/laridae/anous-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/632940500
+  author: Mike Burnett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632940500/original.jpg
+- file: images/charadriiformes/laridae/anous-minutus/2.jpg
+  page: https://www.inaturalist.org/photos/668230479
+  author: Nathan Nguyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668230479/original.jpg
+- file: images/charadriiformes/laridae/anous-minutus/3.jpg
+  page: https://www.inaturalist.org/photos/636936184
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636936184/original.jpg
+- file: images/charadriiformes/laridae/anous-minutus/4.jpg
+  page: https://www.inaturalist.org/photos/641744096
+  author: Dave Shenton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641744096/original.jpg
+- file: images/charadriiformes/laridae/anous-minutus/5.jpg
+  page: https://www.inaturalist.org/photos/642714062
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642714062/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-trivirgatus/1.jpg
+  page: https://www.inaturalist.org/photos/613435320
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435320/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-trivirgatus/1.jpg
+  page: https://www.inaturalist.org/photos/613435320
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435320/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trivirgatus/2.jpg
+  page: https://www.inaturalist.org/photos/618852032
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618852032/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trivirgatus/3.jpg
+  page: https://www.inaturalist.org/photos/613572348
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613572348/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trivirgatus/4.jpg
+  page: https://www.inaturalist.org/photos/686363556
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686363556/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trivirgatus/5.jpg
+  page: https://www.inaturalist.org/photos/475440225
+  author: Mok Zhuang Yu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475440225/original.jpeg
 ---
 
 

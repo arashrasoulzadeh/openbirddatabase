@@ -133,8 +133,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyanoptila-cumatilis/1.jpg
+  page: https://www.inaturalist.org/photos/629195462
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629195462/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyanoptila-cumatilis/1.jpg
+  page: https://www.inaturalist.org/photos/629195462
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629195462/original.jpg
+- file: images/passeriformes/muscicapidae/cyanoptila-cumatilis/2.jpg
+  page: https://www.inaturalist.org/photos/519186971
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519186971/original.jpg
+- file: images/passeriformes/muscicapidae/cyanoptila-cumatilis/3.jpg
+  page: https://www.inaturalist.org/photos/57122209
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57122209/original.jpeg
+- file: images/passeriformes/muscicapidae/cyanoptila-cumatilis/4.jpg
+  page: https://www.inaturalist.org/photos/519186977
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519186977/original.jpg
+- file: images/passeriformes/muscicapidae/cyanoptila-cumatilis/5.jpg
+  page: https://www.inaturalist.org/photos/519186980
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519186980/original.jpg
 ---
 
 

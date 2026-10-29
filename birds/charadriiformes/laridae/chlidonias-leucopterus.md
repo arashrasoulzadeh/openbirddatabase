@@ -222,8 +222,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/chlidonias-leucopterus/1.jpg
+  page: https://www.inaturalist.org/photos/612699817
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612699817/original.jpg
+images:
+- file: images/charadriiformes/laridae/chlidonias-leucopterus/1.jpg
+  page: https://www.inaturalist.org/photos/612699817
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612699817/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-leucopterus/2.jpg
+  page: https://www.inaturalist.org/photos/614175833
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614175833/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-leucopterus/3.jpg
+  page: https://www.inaturalist.org/photos/626714357
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626714357/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-leucopterus/4.jpg
+  page: https://www.inaturalist.org/photos/626875338
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626875338/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-leucopterus/5.jpg
+  page: https://www.inaturalist.org/photos/640513305
+  author: julie burgher
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640513305/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/myadestes-townsendi/1.jpg
+  page: https://www.inaturalist.org/photos/604916883
+  author: Emma Glaser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604916883/original.jpg
+images:
+- file: images/passeriformes/turdidae/myadestes-townsendi/1.jpg
+  page: https://www.inaturalist.org/photos/604916883
+  author: Emma Glaser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604916883/original.jpg
+- file: images/passeriformes/turdidae/myadestes-townsendi/2.jpg
+  page: https://www.inaturalist.org/photos/608449960
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608449960/original.jpg
+- file: images/passeriformes/turdidae/myadestes-townsendi/3.jpg
+  page: https://www.inaturalist.org/photos/610148540
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610148540/original.jpg
+- file: images/passeriformes/turdidae/myadestes-townsendi/4.jpg
+  page: https://www.inaturalist.org/photos/608256856
+  author: Jane Weeden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608256856/original.jpg
+- file: images/passeriformes/turdidae/myadestes-townsendi/5.jpg
+  page: https://www.inaturalist.org/photos/607522659
+  author: Craig Martin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607522659/original.jpg
 ---
 
 

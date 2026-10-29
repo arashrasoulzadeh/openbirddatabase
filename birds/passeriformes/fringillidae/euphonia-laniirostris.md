@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-laniirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610067372
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610067372/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-laniirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610067372
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610067372/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-laniirostris/2.jpg
+  page: https://www.inaturalist.org/photos/609237718
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609237718/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-laniirostris/3.jpg
+  page: https://www.inaturalist.org/photos/612471791
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612471791/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-laniirostris/4.jpg
+  page: https://www.inaturalist.org/photos/610879684
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610879684/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-laniirostris/5.jpg
+  page: https://www.inaturalist.org/photos/612402051
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612402051/original.jpg
 ---
 
 

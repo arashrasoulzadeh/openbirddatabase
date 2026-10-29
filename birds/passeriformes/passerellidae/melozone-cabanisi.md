@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.7
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 66.5
   tail_length_mm: 59.3
   body_mass_g: 28.0
+image:
+  file: images/passeriformes/passerellidae/melozone-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/630252589
+  author: Shawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630252589/original.jpg
+images:
+- file: images/passeriformes/passerellidae/melozone-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/630252589
+  author: Shawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630252589/original.jpg
+- file: images/passeriformes/passerellidae/melozone-cabanisi/2.jpg
+  page: https://www.inaturalist.org/photos/650092223
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650092223/original.jpg
+- file: images/passeriformes/passerellidae/melozone-cabanisi/3.jpg
+  page: https://www.inaturalist.org/photos/563965364
+  author: Juan Martínez Reina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563965364/original.jpg
+- file: images/passeriformes/passerellidae/melozone-cabanisi/4.jpg
+  page: https://www.inaturalist.org/photos/354025642
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354025642/original.jpeg
+- file: images/passeriformes/passerellidae/melozone-cabanisi/5.jpg
+  page: https://www.inaturalist.org/photos/305890434
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305890434/original.jpeg
 ---
 
 

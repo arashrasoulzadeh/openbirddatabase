@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/lophotis-ruficrista/1.jpg
+  page: https://www.inaturalist.org/photos/617667441
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617667441/original.jpg
+images:
+- file: images/otidiformes/otididae/lophotis-ruficrista/1.jpg
+  page: https://www.inaturalist.org/photos/617667441
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617667441/original.jpg
+- file: images/otidiformes/otididae/lophotis-ruficrista/2.jpg
+  page: https://www.inaturalist.org/photos/650458651
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650458651/original.jpg
+- file: images/otidiformes/otididae/lophotis-ruficrista/3.jpg
+  page: https://www.inaturalist.org/photos/671019795
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671019795/original.jpg
+- file: images/otidiformes/otididae/lophotis-ruficrista/4.jpg
+  page: https://www.inaturalist.org/photos/715409320
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715409320/original.jpg
+- file: images/otidiformes/otididae/lophotis-ruficrista/5.jpg
+  page: https://www.inaturalist.org/photos/719559729
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719559729/original.jpg
 ---
 
 

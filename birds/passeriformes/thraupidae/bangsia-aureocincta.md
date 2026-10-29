@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/bangsia-aureocincta/1.jpg
+  page: https://www.inaturalist.org/photos/611777170
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611777170/original.jpg
+images:
+- file: images/passeriformes/thraupidae/bangsia-aureocincta/1.jpg
+  page: https://www.inaturalist.org/photos/611777170
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611777170/original.jpg
+- file: images/passeriformes/thraupidae/bangsia-aureocincta/2.jpg
+  page: https://www.inaturalist.org/photos/652839841
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652839841/original.jpg
+- file: images/passeriformes/thraupidae/bangsia-aureocincta/3.jpg
+  page: https://www.inaturalist.org/photos/353072369
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353072369/original.jpeg
+- file: images/passeriformes/thraupidae/bangsia-aureocincta/4.jpg
+  page: https://www.inaturalist.org/photos/255638437
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255638437/original.jpeg
+- file: images/passeriformes/thraupidae/bangsia-aureocincta/5.jpg
+  page: https://www.inaturalist.org/photos/355740907
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355740907/original.jpeg
 ---
 
 

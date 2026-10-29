@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/nothoprocta-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/630661378
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630661378/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/nothoprocta-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/630661378
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630661378/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-cinerascens/2.jpg
+  page: https://www.inaturalist.org/photos/743779184
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743779184/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-cinerascens/3.jpg
+  page: https://www.inaturalist.org/photos/481684525
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481684525/original.jpeg
+- file: images/tinamiformes/tinamidae/nothoprocta-cinerascens/4.jpg
+  page: https://www.inaturalist.org/photos/482399771
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482399771/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-cinerascens/5.jpg
+  page: https://www.inaturalist.org/photos/506919814
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506919814/original.jpg
 ---
 
 

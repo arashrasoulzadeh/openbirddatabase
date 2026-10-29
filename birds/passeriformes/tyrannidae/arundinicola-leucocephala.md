@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/arundinicola-leucocephala/1.jpg
+  page: https://www.inaturalist.org/photos/610974842
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610974842/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/arundinicola-leucocephala/1.jpg
+  page: https://www.inaturalist.org/photos/610974842
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610974842/original.jpg
+- file: images/passeriformes/tyrannidae/arundinicola-leucocephala/2.jpg
+  page: https://www.inaturalist.org/photos/612558034
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612558034/original.jpg
+- file: images/passeriformes/tyrannidae/arundinicola-leucocephala/3.jpg
+  page: https://www.inaturalist.org/photos/612256329
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612256329/original.jpg
+- file: images/passeriformes/tyrannidae/arundinicola-leucocephala/4.jpg
+  page: https://www.inaturalist.org/photos/617452076
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452076/original.jpg
+- file: images/passeriformes/tyrannidae/arundinicola-leucocephala/5.jpg
+  page: https://www.inaturalist.org/photos/630398461
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630398461/original.jpg
 ---
 
 

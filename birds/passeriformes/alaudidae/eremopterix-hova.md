@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/eremopterix-hova/1.jpg
+  page: https://www.inaturalist.org/photos/642350693
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642350693/original.jpg
+images:
+- file: images/passeriformes/alaudidae/eremopterix-hova/1.jpg
+  page: https://www.inaturalist.org/photos/642350693
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642350693/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-hova/2.jpg
+  page: https://www.inaturalist.org/photos/395319224
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395319224/original.jpeg
+- file: images/passeriformes/alaudidae/eremopterix-hova/3.jpg
+  page: https://www.inaturalist.org/photos/452752401
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452752401/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-hova/4.jpg
+  page: https://www.inaturalist.org/photos/252609522
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252609522/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-hova/5.jpg
+  page: https://www.inaturalist.org/photos/243864751
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243864751/original.jpg
 ---
 
 

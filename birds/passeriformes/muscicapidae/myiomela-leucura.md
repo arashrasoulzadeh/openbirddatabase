@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/myiomela-leucura/1.jpg
+  page: https://www.inaturalist.org/photos/614262005
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614262005/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myiomela-leucura/1.jpg
+  page: https://www.inaturalist.org/photos/614262005
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614262005/original.jpg
+- file: images/passeriformes/muscicapidae/myiomela-leucura/2.jpg
+  page: https://www.inaturalist.org/photos/718937252
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718937252/original.jpg
+- file: images/passeriformes/muscicapidae/myiomela-leucura/3.jpg
+  page: https://www.inaturalist.org/photos/628077659
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077659/original.jpg
+- file: images/passeriformes/muscicapidae/myiomela-leucura/4.jpg
+  page: https://www.inaturalist.org/photos/623518558
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623518558/original.jpg
+- file: images/passeriformes/muscicapidae/myiomela-leucura/5.jpg
+  page: https://www.inaturalist.org/photos/629484575
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629484575/original.jpg
 ---
 
 

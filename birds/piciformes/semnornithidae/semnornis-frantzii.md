@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/semnornithidae/semnornis-frantzii/1.jpg
+  page: https://www.inaturalist.org/photos/613650154
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613650154/original.jpg
+images:
+- file: images/piciformes/semnornithidae/semnornis-frantzii/1.jpg
+  page: https://www.inaturalist.org/photos/613650154
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613650154/original.jpg
+- file: images/piciformes/semnornithidae/semnornis-frantzii/2.jpg
+  page: https://www.inaturalist.org/photos/620962902
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620962902/original.jpg
+- file: images/piciformes/semnornithidae/semnornis-frantzii/3.jpg
+  page: https://www.inaturalist.org/photos/626152620
+  author: gretchenparadis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626152620/original.jpg
+- file: images/piciformes/semnornithidae/semnornis-frantzii/4.jpg
+  page: https://www.inaturalist.org/photos/680392717
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680392717/original.jpg
+- file: images/piciformes/semnornithidae/semnornis-frantzii/5.jpg
+  page: https://www.inaturalist.org/photos/463609108
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463609108/original.jpeg
 ---
 
 

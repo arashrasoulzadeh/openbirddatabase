@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-chloris/1.jpg
+  page: https://www.inaturalist.org/photos/466737208
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466737208/original.jpeg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-chloris/1.jpg
+  page: https://www.inaturalist.org/photos/466737208
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466737208/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-chloris/2.jpg
+  page: https://www.inaturalist.org/photos/466349920
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466349920/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-chloris/3.jpg
+  page: https://www.inaturalist.org/photos/279212612
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279212612/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-chloris/4.jpg
+  page: https://www.inaturalist.org/photos/305995557
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305995557/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-chloris/5.jpg
+  page: https://www.inaturalist.org/photos/466737142
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466737142/original.jpeg
 ---
 
 

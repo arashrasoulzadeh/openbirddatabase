@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/granatellus-venustus/1.jpg
+  page: https://www.inaturalist.org/photos/634535609
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634535609/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/granatellus-venustus/1.jpg
+  page: https://www.inaturalist.org/photos/634535609
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634535609/original.jpg
+- file: images/passeriformes/cardinalidae/granatellus-venustus/2.jpg
+  page: https://www.inaturalist.org/photos/462591307
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462591307/original.jpeg
+- file: images/passeriformes/cardinalidae/granatellus-venustus/3.jpg
+  page: https://www.inaturalist.org/photos/468339719
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468339719/original.jpeg
+- file: images/passeriformes/cardinalidae/granatellus-venustus/4.jpg
+  page: https://www.inaturalist.org/photos/485374542
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485374542/original.jpg
+- file: images/passeriformes/cardinalidae/granatellus-venustus/5.jpg
+  page: https://www.inaturalist.org/photos/516323419
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516323419/original.jpg
 ---
 
 

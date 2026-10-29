@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-capistratus/1.jpg
+  page: https://www.inaturalist.org/photos/615388728
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388728/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-capistratus/1.jpg
+  page: https://www.inaturalist.org/photos/615388728
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388728/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-capistratus/2.jpg
+  page: https://www.inaturalist.org/photos/630009998
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630009998/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-capistratus/3.jpg
+  page: https://www.inaturalist.org/photos/659132094
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659132094/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-capistratus/4.jpg
+  page: https://www.inaturalist.org/photos/734468209
+  author: Duban Espinoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734468209/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-capistratus/5.jpg
+  page: https://www.inaturalist.org/photos/469054113
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469054113/original.jpeg
 ---
 
 

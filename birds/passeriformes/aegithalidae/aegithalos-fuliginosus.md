@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/aegithalidae/aegithalos-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/481501551
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481501551/original.jpeg
+images:
+- file: images/passeriformes/aegithalidae/aegithalos-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/481501551
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481501551/original.jpeg
+- file: images/passeriformes/aegithalidae/aegithalos-fuliginosus/2.jpg
+  page: https://www.inaturalist.org/photos/600548737
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600548737/original.jpg
+- file: images/passeriformes/aegithalidae/aegithalos-fuliginosus/3.jpg
+  page: https://www.inaturalist.org/photos/55084560
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/55084560/original.jpg
+- file: images/passeriformes/aegithalidae/aegithalos-fuliginosus/4.jpg
+  page: https://www.inaturalist.org/photos/481501607
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481501607/original.jpeg
+- file: images/passeriformes/aegithalidae/aegithalos-fuliginosus/5.jpg
+  page: https://www.inaturalist.org/photos/481501632
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481501632/original.jpeg
 ---
 
 

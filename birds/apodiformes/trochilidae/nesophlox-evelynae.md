@@ -151,8 +151,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/nesophlox-evelynae/1.jpg
+  page: https://www.inaturalist.org/photos/618095787
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618095787/original.jpg
+images:
+- file: images/apodiformes/trochilidae/nesophlox-evelynae/1.jpg
+  page: https://www.inaturalist.org/photos/618095787
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618095787/original.jpg
+- file: images/apodiformes/trochilidae/nesophlox-evelynae/2.jpg
+  page: https://www.inaturalist.org/photos/262910874
+  author: hobbiesera
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262910874/original.jpg
 ---
 
 

@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/poospizopsis-caesar/1.jpg
+  page: https://www.inaturalist.org/photos/624390343
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624390343/original.jpg
+images:
+- file: images/passeriformes/thraupidae/poospizopsis-caesar/1.jpg
+  page: https://www.inaturalist.org/photos/624390343
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624390343/original.jpg
+- file: images/passeriformes/thraupidae/poospizopsis-caesar/2.jpg
+  page: https://www.inaturalist.org/photos/636291612
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636291612/original.jpg
+- file: images/passeriformes/thraupidae/poospizopsis-caesar/3.jpg
+  page: https://www.inaturalist.org/photos/365597925
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365597925/original.jpeg
+- file: images/passeriformes/thraupidae/poospizopsis-caesar/4.jpg
+  page: https://www.inaturalist.org/photos/373321963
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373321963/original.jpeg
+- file: images/passeriformes/thraupidae/poospizopsis-caesar/5.jpg
+  page: https://www.inaturalist.org/photos/433170793
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433170793/original.jpeg
 ---
 
 

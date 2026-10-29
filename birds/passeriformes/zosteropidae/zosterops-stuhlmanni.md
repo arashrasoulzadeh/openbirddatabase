@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-stuhlmanni/1.jpg
+  page: https://www.inaturalist.org/photos/622900500
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622900500/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-stuhlmanni/1.jpg
+  page: https://www.inaturalist.org/photos/622900500
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622900500/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-stuhlmanni/2.jpg
+  page: https://www.inaturalist.org/photos/678159509
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678159509/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-stuhlmanni/3.jpg
+  page: https://www.inaturalist.org/photos/464906312
+  author: Michał Żyła
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464906312/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-stuhlmanni/4.jpg
+  page: https://www.inaturalist.org/photos/550599536
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550599536/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-stuhlmanni/5.jpg
+  page: https://www.inaturalist.org/photos/564266613
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564266613/original.jpg
 ---
 
 

@@ -137,8 +137,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/podiceps-gallardoi/1.jpg
+  page: https://www.inaturalist.org/photos/615859121
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615859121/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/podiceps-gallardoi/1.jpg
+  page: https://www.inaturalist.org/photos/615859121
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615859121/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-gallardoi/2.jpg
+  page: https://www.inaturalist.org/photos/626228387
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626228387/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-gallardoi/3.jpg
+  page: https://www.inaturalist.org/photos/621851461
+  author: Matias Cabezas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621851461/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-gallardoi/4.jpg
+  page: https://www.inaturalist.org/photos/465019428
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465019428/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-gallardoi/5.jpg
+  page: https://www.inaturalist.org/photos/249589041
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249589041/original.jpeg
 ---
 
 

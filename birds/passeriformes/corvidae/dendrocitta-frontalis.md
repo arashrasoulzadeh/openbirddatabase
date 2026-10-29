@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/dendrocitta-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/507855542
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507855542/original.jpg
+images:
+- file: images/passeriformes/corvidae/dendrocitta-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/507855542
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507855542/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/358956368
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358956368/original.jpeg
+- file: images/passeriformes/corvidae/dendrocitta-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/590816669
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590816669/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/513955003
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513955003/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/53053101
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53053101/original.jpeg
 ---
 
 

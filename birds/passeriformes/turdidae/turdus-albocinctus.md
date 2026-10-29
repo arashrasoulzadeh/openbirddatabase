@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-albocinctus/1.jpg
+  page: https://www.inaturalist.org/photos/626645472
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626645472/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-albocinctus/1.jpg
+  page: https://www.inaturalist.org/photos/626645472
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626645472/original.jpg
+- file: images/passeriformes/turdidae/turdus-albocinctus/2.jpg
+  page: https://www.inaturalist.org/photos/635566863
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635566863/original.jpg
+- file: images/passeriformes/turdidae/turdus-albocinctus/3.jpg
+  page: https://www.inaturalist.org/photos/730254351
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730254351/original.jpg
+- file: images/passeriformes/turdidae/turdus-albocinctus/4.jpg
+  page: https://www.inaturalist.org/photos/487054937
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054937/original.jpg
+- file: images/passeriformes/turdidae/turdus-albocinctus/5.jpg
+  page: https://www.inaturalist.org/photos/512688921
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512688921/original.jpg
 ---
 
 

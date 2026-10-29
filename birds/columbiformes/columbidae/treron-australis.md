@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-australis/1.jpg
+  page: https://www.inaturalist.org/photos/579195526
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579195526/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-australis/1.jpg
+  page: https://www.inaturalist.org/photos/579195526
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579195526/original.jpg
+- file: images/columbiformes/columbidae/treron-australis/2.jpg
+  page: https://www.inaturalist.org/photos/454204556
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454204556/original.jpg
+- file: images/columbiformes/columbidae/treron-australis/3.jpg
+  page: https://www.inaturalist.org/photos/444527399
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444527399/original.jpeg
+- file: images/columbiformes/columbidae/treron-australis/4.jpg
+  page: https://www.inaturalist.org/photos/446996795
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446996795/original.jpeg
+- file: images/columbiformes/columbidae/treron-australis/5.jpg
+  page: https://www.inaturalist.org/photos/247021055
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247021055/original.jpg
 ---
 
 

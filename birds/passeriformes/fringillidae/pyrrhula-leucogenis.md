@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/pyrrhula-leucogenis/1.jpg
+  page: https://www.inaturalist.org/photos/458593580
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458593580/original.jpeg
+images:
+- file: images/passeriformes/fringillidae/pyrrhula-leucogenis/1.jpg
+  page: https://www.inaturalist.org/photos/458593580
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458593580/original.jpeg
+- file: images/passeriformes/fringillidae/pyrrhula-leucogenis/2.jpg
+  page: https://www.inaturalist.org/photos/267294895
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294895/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-leucogenis/3.jpg
+  page: https://www.inaturalist.org/photos/267294904
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294904/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-leucogenis/4.jpg
+  page: https://www.inaturalist.org/photos/267294917
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294917/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-leucogenis/5.jpg
+  page: https://www.inaturalist.org/photos/267294926
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294926/original.jpg
 ---
 
 

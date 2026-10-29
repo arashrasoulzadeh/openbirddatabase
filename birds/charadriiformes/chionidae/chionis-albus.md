@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/chionidae/chionis-albus/1.jpg
+  page: https://www.inaturalist.org/photos/607715509
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607715509/original.jpg
+images:
+- file: images/charadriiformes/chionidae/chionis-albus/1.jpg
+  page: https://www.inaturalist.org/photos/607715509
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607715509/original.jpg
+- file: images/charadriiformes/chionidae/chionis-albus/2.jpg
+  page: https://www.inaturalist.org/photos/608627699
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608627699/original.jpg
+- file: images/charadriiformes/chionidae/chionis-albus/3.jpg
+  page: https://www.inaturalist.org/photos/607674383
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607674383/original.jpg
+- file: images/charadriiformes/chionidae/chionis-albus/4.jpg
+  page: https://www.inaturalist.org/photos/612320051
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612320051/original.jpg
+- file: images/charadriiformes/chionidae/chionis-albus/5.jpg
+  page: https://www.inaturalist.org/photos/620444529
+  author: bungelina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620444529/original.jpg
 ---
 
 

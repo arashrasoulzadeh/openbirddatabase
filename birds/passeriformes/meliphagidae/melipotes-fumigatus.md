@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/melipotes-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/699288355
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699288355/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/melipotes-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/699288355
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699288355/original.jpg
+- file: images/passeriformes/meliphagidae/melipotes-fumigatus/2.jpg
+  page: https://www.inaturalist.org/photos/560354435
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560354435/original.jpg
+- file: images/passeriformes/meliphagidae/melipotes-fumigatus/3.jpg
+  page: https://www.inaturalist.org/photos/571193560
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571193560/original.jpg
+- file: images/passeriformes/meliphagidae/melipotes-fumigatus/4.jpg
+  page: https://www.inaturalist.org/photos/578592288
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578592288/original.jpg
+- file: images/passeriformes/meliphagidae/melipotes-fumigatus/5.jpg
+  page: https://www.inaturalist.org/photos/226811609
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226811609/original.jpg
 ---
 
 

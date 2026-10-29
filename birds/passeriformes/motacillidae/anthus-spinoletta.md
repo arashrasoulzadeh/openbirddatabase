@@ -200,10 +200,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/motacillidae/anthus-spinoletta/1.jpg
+  page: https://www.inaturalist.org/photos/604854235
+  author: Gabriele Vaudano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604854235/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-spinoletta/1.jpg
+  page: https://www.inaturalist.org/photos/604854235
+  author: Gabriele Vaudano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604854235/original.jpg
+- file: images/passeriformes/motacillidae/anthus-spinoletta/2.jpg
+  page: https://www.inaturalist.org/photos/607522919
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607522919/original.jpg
+- file: images/passeriformes/motacillidae/anthus-spinoletta/3.jpg
+  page: https://www.inaturalist.org/photos/606110567
+  author: Istvan Sipos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606110567/original.jpg
+- file: images/passeriformes/motacillidae/anthus-spinoletta/4.jpg
+  page: https://www.inaturalist.org/photos/606666361
+  author: ANGEL MARCOS LUENGO BELLO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606666361/original.jpg
+- file: images/passeriformes/motacillidae/anthus-spinoletta/5.jpg
+  page: https://www.inaturalist.org/photos/604854220
+  author: Gabriele Vaudano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604854220/original.jpg
 ---
 
 

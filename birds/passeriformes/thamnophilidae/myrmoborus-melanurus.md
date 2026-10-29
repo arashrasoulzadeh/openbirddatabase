@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmoborus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/426757460
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426757460/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmoborus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/426757460
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426757460/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-melanurus/2.jpg
+  page: https://www.inaturalist.org/photos/313268209
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313268209/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-melanurus/3.jpg
+  page: https://www.inaturalist.org/photos/52832701
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52832701/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-melanurus/4.jpg
+  page: https://www.inaturalist.org/photos/313268204
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313268204/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-melanurus/5.jpg
+  page: https://www.inaturalist.org/photos/52832730
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52832730/original.jpg
 ---
 
 

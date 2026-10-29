@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/helopsaltes-certhiola/1.jpg
+  page: https://www.inaturalist.org/photos/615534834
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615534834/original.jpg
+images:
+- file: images/passeriformes/locustellidae/helopsaltes-certhiola/1.jpg
+  page: https://www.inaturalist.org/photos/615534834
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615534834/original.jpg
+- file: images/passeriformes/locustellidae/helopsaltes-certhiola/2.jpg
+  page: https://www.inaturalist.org/photos/618849917
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849917/original.jpg
+- file: images/passeriformes/locustellidae/helopsaltes-certhiola/3.jpg
+  page: https://www.inaturalist.org/photos/707096742
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707096742/original.jpg
+- file: images/passeriformes/locustellidae/helopsaltes-certhiola/4.jpg
+  page: https://www.inaturalist.org/photos/707584945
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707584945/original.jpg
+- file: images/passeriformes/locustellidae/helopsaltes-certhiola/5.jpg
+  page: https://www.inaturalist.org/photos/742200622
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742200622/original.jpg
 ---
 
 

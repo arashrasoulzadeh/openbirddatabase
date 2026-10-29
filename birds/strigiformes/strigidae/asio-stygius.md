@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/asio-stygius/1.jpg
+  page: https://www.inaturalist.org/photos/605434639
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434639/original.jpg
+images:
+- file: images/strigiformes/strigidae/asio-stygius/1.jpg
+  page: https://www.inaturalist.org/photos/605434639
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434639/original.jpg
+- file: images/strigiformes/strigidae/asio-stygius/2.jpg
+  page: https://www.inaturalist.org/photos/626463208
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626463208/original.jpg
+- file: images/strigiformes/strigidae/asio-stygius/3.jpg
+  page: https://www.inaturalist.org/photos/614320994
+  author: Dayson Moran
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614320994/original.jpg
+- file: images/strigiformes/strigidae/asio-stygius/4.jpg
+  page: https://www.inaturalist.org/photos/622683565
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622683565/original.jpg
+- file: images/strigiformes/strigidae/asio-stygius/5.jpg
+  page: https://www.inaturalist.org/photos/637702202
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637702202/original.jpg
 ---
 
 

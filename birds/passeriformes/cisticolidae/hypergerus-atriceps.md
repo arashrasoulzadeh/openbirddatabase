@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/hypergerus-atriceps/1.jpg
+  page: https://www.inaturalist.org/photos/638923917
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638923917/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/hypergerus-atriceps/1.jpg
+  page: https://www.inaturalist.org/photos/638923917
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638923917/original.jpg
+- file: images/passeriformes/cisticolidae/hypergerus-atriceps/2.jpg
+  page: https://www.inaturalist.org/photos/607372130
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607372130/original.jpg
+- file: images/passeriformes/cisticolidae/hypergerus-atriceps/3.jpg
+  page: https://www.inaturalist.org/photos/353542270
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353542270/original.png
+- file: images/passeriformes/cisticolidae/hypergerus-atriceps/4.jpg
+  page: https://www.inaturalist.org/photos/363990902
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363990902/original.jpg
+- file: images/passeriformes/cisticolidae/hypergerus-atriceps/5.jpg
+  page: https://www.inaturalist.org/photos/367607177
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367607177/original.jpg
 ---
 
 

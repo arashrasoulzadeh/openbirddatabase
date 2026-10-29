@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/cettia-brunnifrons/1.jpg
+  page: https://www.inaturalist.org/photos/372221281
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/372221281/original.jpeg
+images:
+- file: images/passeriformes/cettiidae/cettia-brunnifrons/1.jpg
+  page: https://www.inaturalist.org/photos/372221281
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/372221281/original.jpeg
+- file: images/passeriformes/cettiidae/cettia-brunnifrons/2.jpg
+  page: https://www.inaturalist.org/photos/174670645
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174670645/original.jpeg
+- file: images/passeriformes/cettiidae/cettia-brunnifrons/3.jpg
+  page: https://www.inaturalist.org/photos/208485589
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/208485589/original.jpg
+- file: images/passeriformes/cettiidae/cettia-brunnifrons/4.jpg
+  page: https://www.inaturalist.org/photos/175578658
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175578658/original.jpg
+- file: images/passeriformes/cettiidae/cettia-brunnifrons/5.jpg
+  page: https://www.inaturalist.org/photos/395651028
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651028/original.jpg
 ---
 
 

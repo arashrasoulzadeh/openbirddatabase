@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/sibirionetta-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/607666781
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607666781/original.jpg
+images:
+- file: images/anseriformes/anatidae/sibirionetta-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/607666781
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607666781/original.jpg
+- file: images/anseriformes/anatidae/sibirionetta-formosa/2.jpg
+  page: https://www.inaturalist.org/photos/645888884
+  author: bko
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645888884/original.jpg
+- file: images/anseriformes/anatidae/sibirionetta-formosa/3.jpg
+  page: https://www.inaturalist.org/photos/613229302
+  author: Frank Sengpiel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613229302/original.jpg
+- file: images/anseriformes/anatidae/sibirionetta-formosa/4.jpg
+  page: https://www.inaturalist.org/photos/615997819
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615997819/original.jpg
+- file: images/anseriformes/anatidae/sibirionetta-formosa/5.jpg
+  page: https://www.inaturalist.org/photos/619457053
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619457053/original.jpg
 ---
 
 

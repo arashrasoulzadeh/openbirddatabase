@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/hirundinidae/hirundo-domicola/1.jpg
+  page: https://www.inaturalist.org/photos/621695202
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621695202/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/hirundo-domicola/1.jpg
+  page: https://www.inaturalist.org/photos/621695202
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621695202/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-domicola/2.jpg
+  page: https://www.inaturalist.org/photos/649378197
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649378197/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-domicola/3.jpg
+  page: https://www.inaturalist.org/photos/654662205
+  author: Arbor Chetia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654662205/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-domicola/4.jpg
+  page: https://www.inaturalist.org/photos/682494179
+  author: Kesava Garimella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682494179/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-domicola/5.jpg
+  page: https://www.inaturalist.org/photos/465540369
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465540369/original.jpeg
 ---
 
 

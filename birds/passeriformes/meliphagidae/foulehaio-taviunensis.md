@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/foulehaio-taviunensis/1.jpg
+  page: https://www.inaturalist.org/photos/728673129
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728673129/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/foulehaio-taviunensis/1.jpg
+  page: https://www.inaturalist.org/photos/728673129
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728673129/original.jpg
+- file: images/passeriformes/meliphagidae/foulehaio-taviunensis/2.jpg
+  page: https://www.inaturalist.org/photos/333030150
+  author: J Straka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333030150/original.jpeg
+- file: images/passeriformes/meliphagidae/foulehaio-taviunensis/3.jpg
+  page: https://www.inaturalist.org/photos/60385031
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60385031/original.jpg
+- file: images/passeriformes/meliphagidae/foulehaio-taviunensis/4.jpg
+  page: https://www.inaturalist.org/photos/728673140
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728673140/original.jpg
+- file: images/passeriformes/meliphagidae/foulehaio-taviunensis/5.jpg
+  page: https://www.inaturalist.org/photos/728673165
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728673165/original.jpg
 ---
 
 

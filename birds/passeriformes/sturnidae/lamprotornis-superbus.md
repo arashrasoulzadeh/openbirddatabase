@@ -155,10 +155,37 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-superbus/1.jpg
+  page: https://www.inaturalist.org/photos/610389830
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610389830/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-superbus/1.jpg
+  page: https://www.inaturalist.org/photos/610389830
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610389830/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-superbus/2.jpg
+  page: https://www.inaturalist.org/photos/610952372
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610952372/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-superbus/3.jpg
+  page: https://www.inaturalist.org/photos/610388906
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610388906/original.jpg
 ---
 
 

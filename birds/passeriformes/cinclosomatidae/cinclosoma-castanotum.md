@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/cinclosomatidae/cinclosoma-castanotum/1.jpg
+  page: https://www.inaturalist.org/photos/622748918
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748918/original.jpg
+images:
+- file: images/passeriformes/cinclosomatidae/cinclosoma-castanotum/1.jpg
+  page: https://www.inaturalist.org/photos/622748918
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748918/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-castanotum/2.jpg
+  page: https://www.inaturalist.org/photos/729523668
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729523668/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-castanotum/3.jpg
+  page: https://www.inaturalist.org/photos/469842697
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469842697/original.jpeg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-castanotum/4.jpg
+  page: https://www.inaturalist.org/photos/438796220
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438796220/original.jpeg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-castanotum/5.jpg
+  page: https://www.inaturalist.org/photos/304388399
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304388399/original.jpg
 ---
 
 

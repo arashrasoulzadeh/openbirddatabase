@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-velia/1.jpg
+  page: https://www.inaturalist.org/photos/740543369
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740543369/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-velia/1.jpg
+  page: https://www.inaturalist.org/photos/740543369
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740543369/original.jpg
+- file: images/passeriformes/thraupidae/tangara-velia/2.jpg
+  page: https://www.inaturalist.org/photos/679968928
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679968928/original.jpg
+- file: images/passeriformes/thraupidae/tangara-velia/3.jpg
+  page: https://www.inaturalist.org/photos/466904268
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466904268/original.jpg
+- file: images/passeriformes/thraupidae/tangara-velia/4.jpg
+  page: https://www.inaturalist.org/photos/518091582
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518091582/original.jpg
+- file: images/passeriformes/thraupidae/tangara-velia/5.jpg
+  page: https://www.inaturalist.org/photos/552870201
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552870201/original.jpg
 ---
 
 

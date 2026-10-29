@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/psittaciformes/psittacidae/aratinga-nenday/1.jpg
+  page: https://www.inaturalist.org/photos/605090974
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090974/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/aratinga-nenday/1.jpg
+  page: https://www.inaturalist.org/photos/605090974
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090974/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-nenday/2.jpg
+  page: https://www.inaturalist.org/photos/606027538
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027538/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-nenday/3.jpg
+  page: https://www.inaturalist.org/photos/614269324
+  author: Chase Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614269324/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-nenday/4.jpg
+  page: https://www.inaturalist.org/photos/605090993
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090993/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-nenday/5.jpg
+  page: https://www.inaturalist.org/photos/605091231
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605091231/original.jpg
 ---
 
 

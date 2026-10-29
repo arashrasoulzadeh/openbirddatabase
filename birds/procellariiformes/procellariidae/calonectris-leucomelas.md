@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/calonectris-leucomelas/1.jpg
+  page: https://www.inaturalist.org/photos/618680603
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680603/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/calonectris-leucomelas/1.jpg
+  page: https://www.inaturalist.org/photos/618680603
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680603/original.jpg
+- file: images/procellariiformes/procellariidae/calonectris-leucomelas/2.jpg
+  page: https://www.inaturalist.org/photos/618680625
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680625/original.jpg
+- file: images/procellariiformes/procellariidae/calonectris-leucomelas/3.jpg
+  page: https://www.inaturalist.org/photos/618680615
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680615/original.jpg
+- file: images/procellariiformes/procellariidae/calonectris-leucomelas/4.jpg
+  page: https://www.inaturalist.org/photos/618680619
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680619/original.jpg
+- file: images/procellariiformes/procellariidae/calonectris-leucomelas/5.jpg
+  page: https://www.inaturalist.org/photos/618680627
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680627/original.jpg
 ---
 
 

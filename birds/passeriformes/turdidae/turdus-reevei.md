@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-reevei/1.jpg
+  page: https://www.inaturalist.org/photos/559786116
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559786116/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-reevei/1.jpg
+  page: https://www.inaturalist.org/photos/559786116
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559786116/original.jpg
+- file: images/passeriformes/turdidae/turdus-reevei/2.jpg
+  page: https://www.inaturalist.org/photos/323098478
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323098478/original.jpg
+- file: images/passeriformes/turdidae/turdus-reevei/3.jpg
+  page: https://www.inaturalist.org/photos/153212956
+  author: Frances Oliver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153212956/original.jpg
+- file: images/passeriformes/turdidae/turdus-reevei/4.jpg
+  page: https://www.inaturalist.org/photos/103073173
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103073173/original.jpeg
+- file: images/passeriformes/turdidae/turdus-reevei/5.jpg
+  page: https://www.inaturalist.org/photos/559796241
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559796241/original.jpg
 ---
 
 

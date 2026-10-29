@@ -207,10 +207,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/accipitriformes/accipitridae/milvus-migrans/1.jpg
+  page: https://www.inaturalist.org/photos/605245717
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605245717/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/milvus-migrans/1.jpg
+  page: https://www.inaturalist.org/photos/605245717
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605245717/original.jpg
+- file: images/accipitriformes/accipitridae/milvus-migrans/2.jpg
+  page: https://www.inaturalist.org/photos/605535431
+  author: cappycollins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605535431/original.jpg
+- file: images/accipitriformes/accipitridae/milvus-migrans/3.jpg
+  page: https://www.inaturalist.org/photos/604951554
+  author: FUKUDA Kazuhito 福田一人
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604951554/original.jpg
+- file: images/accipitriformes/accipitridae/milvus-migrans/4.jpg
+  page: https://www.inaturalist.org/photos/605619297
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605619297/original.jpg
+- file: images/accipitriformes/accipitridae/milvus-migrans/5.jpg
+  page: https://www.inaturalist.org/photos/610375536
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610375536/original.jpg
 ---
 
 

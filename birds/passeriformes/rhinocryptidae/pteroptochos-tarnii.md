@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/pteroptochos-tarnii/1.jpg
+  page: https://www.inaturalist.org/photos/629700961
+  author: Ricardo Barrientos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629700961/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/pteroptochos-tarnii/1.jpg
+  page: https://www.inaturalist.org/photos/629700961
+  author: Ricardo Barrientos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629700961/original.jpg
+- file: images/passeriformes/rhinocryptidae/pteroptochos-tarnii/2.jpg
+  page: https://www.inaturalist.org/photos/670711619
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670711619/original.jpg
+- file: images/passeriformes/rhinocryptidae/pteroptochos-tarnii/3.jpg
+  page: https://www.inaturalist.org/photos/461275711
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461275711/original.jpeg
+- file: images/passeriformes/rhinocryptidae/pteroptochos-tarnii/4.jpg
+  page: https://www.inaturalist.org/photos/467629690
+  author: Matt Berger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467629690/original.jpeg
+- file: images/passeriformes/rhinocryptidae/pteroptochos-tarnii/5.jpg
+  page: https://www.inaturalist.org/photos/465029182
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465029182/original.png
 ---
 
 

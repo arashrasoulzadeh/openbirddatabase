@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tolmomyias-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/610014668
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014668/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tolmomyias-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/610014668
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014668/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-flaviventris/2.jpg
+  page: https://www.inaturalist.org/photos/616157808
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616157808/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-flaviventris/3.jpg
+  page: https://www.inaturalist.org/photos/642179226
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642179226/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-flaviventris/4.jpg
+  page: https://www.inaturalist.org/photos/683754491
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683754491/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-flaviventris/5.jpg
+  page: https://www.inaturalist.org/photos/705951293
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705951293/original.jpg
 ---
 
 

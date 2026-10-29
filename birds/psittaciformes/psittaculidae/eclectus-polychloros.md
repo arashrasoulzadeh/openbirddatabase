@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/eclectus-polychloros/1.jpg
+  page: https://www.inaturalist.org/photos/615309578
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615309578/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/eclectus-polychloros/1.jpg
+  page: https://www.inaturalist.org/photos/615309578
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615309578/original.jpg
+- file: images/psittaciformes/psittaculidae/eclectus-polychloros/2.jpg
+  page: https://www.inaturalist.org/photos/625309620
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625309620/original.jpg
+- file: images/psittaciformes/psittaculidae/eclectus-polychloros/3.jpg
+  page: https://www.inaturalist.org/photos/697491306
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697491306/original.jpg
+- file: images/psittaciformes/psittaculidae/eclectus-polychloros/4.jpg
+  page: https://www.inaturalist.org/photos/702136503
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702136503/original.jpg
+- file: images/psittaciformes/psittaculidae/eclectus-polychloros/5.jpg
+  page: https://www.inaturalist.org/photos/713042167
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713042167/original.jpg
 ---
 
 

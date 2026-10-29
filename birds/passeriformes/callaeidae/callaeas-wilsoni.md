@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/callaeidae/callaeas-wilsoni/1.jpg
+  page: https://www.inaturalist.org/photos/619386552
+  author: Colin Meurk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619386552/original.jpg
+images:
+- file: images/passeriformes/callaeidae/callaeas-wilsoni/1.jpg
+  page: https://www.inaturalist.org/photos/619386552
+  author: Colin Meurk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619386552/original.jpg
+- file: images/passeriformes/callaeidae/callaeas-wilsoni/2.jpg
+  page: https://www.inaturalist.org/photos/636077694
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636077694/original.jpg
+- file: images/passeriformes/callaeidae/callaeas-wilsoni/3.jpg
+  page: https://www.inaturalist.org/photos/634656869
+  author: Brett Sandford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634656869/original.jpg
+- file: images/passeriformes/callaeidae/callaeas-wilsoni/4.jpg
+  page: https://www.inaturalist.org/photos/650633324
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650633324/original.jpg
+- file: images/passeriformes/callaeidae/callaeas-wilsoni/5.jpg
+  page: https://www.inaturalist.org/photos/661079780
+  author: Emma Naylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661079780/original.jpg
 ---
 
 

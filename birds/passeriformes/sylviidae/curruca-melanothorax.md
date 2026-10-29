@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-melanothorax/1.jpg
+  page: https://www.inaturalist.org/photos/659568091
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659568091/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-melanothorax/1.jpg
+  page: https://www.inaturalist.org/photos/659568091
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659568091/original.jpg
+- file: images/passeriformes/sylviidae/curruca-melanothorax/2.jpg
+  page: https://www.inaturalist.org/photos/585002395
+  author: Morgan Caygill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585002395/original.jpg
+- file: images/passeriformes/sylviidae/curruca-melanothorax/3.jpg
+  page: https://www.flickr.com/photos/99613800@N02/53697081218/
+  author: Chris Kirby-Lambert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606626545/original.jpg
+- file: images/passeriformes/sylviidae/curruca-melanothorax/4.jpg
+  page: https://www.inaturalist.org/photos/261919347
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261919347/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-melanothorax/5.jpg
+  page: https://www.inaturalist.org/photos/60539246
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60539246/original.jpeg
 ---
 
 

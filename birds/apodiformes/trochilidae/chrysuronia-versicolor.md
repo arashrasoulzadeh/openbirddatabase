@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chrysuronia-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/611673404
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611673404/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chrysuronia-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/611673404
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611673404/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/621927752
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621927752/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/641150607
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150607/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/659912569
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659912569/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/720246960
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720246960/original.jpg
 ---
 
 

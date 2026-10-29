@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 11.8
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 65.6
   tail_length_mm: 42.6
   body_mass_g: 18.1
+image:
+  file: images/passeriformes/passerellidae/centronyx-bairdii/1.jpg
+  page: https://www.inaturalist.org/photos/524168454
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524168454/original.jpg
+images:
+- file: images/passeriformes/passerellidae/centronyx-bairdii/1.jpg
+  page: https://www.inaturalist.org/photos/524168454
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524168454/original.jpg
+- file: images/passeriformes/passerellidae/centronyx-bairdii/2.jpg
+  page: https://www.inaturalist.org/photos/588671713
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588671713/original.jpg
+- file: images/passeriformes/passerellidae/centronyx-bairdii/3.jpg
+  page: https://www.inaturalist.org/photos/561831454
+  author: margohj
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561831454/original.jpg
+- file: images/passeriformes/passerellidae/centronyx-bairdii/4.jpg
+  page: https://www.inaturalist.org/photos/395501087
+  author: Kathlin Simpkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395501087/original.jpg
+- file: images/passeriformes/passerellidae/centronyx-bairdii/5.jpg
+  page: https://www.inaturalist.org/photos/276097108
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276097108/original.jpg
 ---
 
 

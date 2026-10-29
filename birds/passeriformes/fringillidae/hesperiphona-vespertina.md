@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/fringillidae/hesperiphona-vespertina/1.jpg
+  page: https://www.inaturalist.org/photos/604510277
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604510277/original.jpg
+images:
+- file: images/passeriformes/fringillidae/hesperiphona-vespertina/1.jpg
+  page: https://www.inaturalist.org/photos/604510277
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604510277/original.jpg
+- file: images/passeriformes/fringillidae/hesperiphona-vespertina/2.jpg
+  page: https://www.inaturalist.org/photos/605072650
+  author: robinlanark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605072650/original.jpg
+- file: images/passeriformes/fringillidae/hesperiphona-vespertina/3.jpg
+  page: https://www.inaturalist.org/photos/604532096
+  author: Serge-Étienne Parent
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604532096/original.jpg
+- file: images/passeriformes/fringillidae/hesperiphona-vespertina/4.jpg
+  page: https://www.inaturalist.org/photos/604492261
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604492261/original.jpg
+- file: images/passeriformes/fringillidae/hesperiphona-vespertina/5.jpg
+  page: https://www.inaturalist.org/photos/605710202
+  author: Quinten Wiegersma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605710202/original.jpg
 ---
 
 

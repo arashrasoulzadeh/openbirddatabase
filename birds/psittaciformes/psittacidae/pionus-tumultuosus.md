@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pionus-tumultuosus/1.jpg
+  page: https://www.inaturalist.org/photos/521546708
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521546708/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pionus-tumultuosus/1.jpg
+  page: https://www.inaturalist.org/photos/521546708
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521546708/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-tumultuosus/2.jpg
+  page: https://www.inaturalist.org/photos/484318438
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484318438/original.jpeg
+- file: images/psittaciformes/psittacidae/pionus-tumultuosus/3.jpg
+  page: https://www.inaturalist.org/photos/551622287
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551622287/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-tumultuosus/4.jpg
+  page: https://www.inaturalist.org/photos/613642547
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613642547/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-tumultuosus/5.jpg
+  page: https://www.inaturalist.org/photos/344068613
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344068613/original.jpeg
 ---
 
 

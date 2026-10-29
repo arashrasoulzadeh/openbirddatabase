@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/remizidae/anthoscopus-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/615455729
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615455729/original.jpg
+images:
+- file: images/passeriformes/remizidae/anthoscopus-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/615455729
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615455729/original.jpg
+- file: images/passeriformes/remizidae/anthoscopus-minutus/2.jpg
+  page: https://www.inaturalist.org/photos/630117406
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630117406/original.jpg
+- file: images/passeriformes/remizidae/anthoscopus-minutus/3.jpg
+  page: https://www.inaturalist.org/photos/477583290
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477583290/original.jpeg
+- file: images/passeriformes/remizidae/anthoscopus-minutus/4.jpg
+  page: https://www.inaturalist.org/photos/559047048
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559047048/original.jpg
+- file: images/passeriformes/remizidae/anthoscopus-minutus/5.jpg
+  page: https://www.inaturalist.org/photos/360005380
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360005380/original.jpg
 ---
 
 

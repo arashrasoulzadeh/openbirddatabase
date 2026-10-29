@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hafferia-fortis/1.jpg
+  page: https://www.inaturalist.org/photos/591650026
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591650026/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hafferia-fortis/1.jpg
+  page: https://www.inaturalist.org/photos/591650026
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591650026/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-fortis/2.jpg
+  page: https://www.inaturalist.org/photos/199501295
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199501295/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-fortis/3.jpg
+  page: https://www.inaturalist.org/photos/163314135
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163314135/original.jpeg
+- file: images/passeriformes/thamnophilidae/hafferia-fortis/4.jpg
+  page: https://www.inaturalist.org/photos/108674485
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108674485/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-fortis/5.jpg
+  page: https://www.inaturalist.org/photos/159921227
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/159921227/original.jpeg
 ---
 
 

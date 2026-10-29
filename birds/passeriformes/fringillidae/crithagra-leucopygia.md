@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-leucopygia/1.jpg
+  page: https://www.inaturalist.org/photos/615325401
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615325401/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-leucopygia/1.jpg
+  page: https://www.inaturalist.org/photos/615325401
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615325401/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-leucopygia/2.jpg
+  page: https://www.inaturalist.org/photos/619878128
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619878128/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-leucopygia/3.jpg
+  page: https://www.inaturalist.org/photos/590559053
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590559053/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-leucopygia/4.jpg
+  page: https://www.inaturalist.org/photos/351102332
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351102332/original.jpeg
+- file: images/passeriformes/fringillidae/crithagra-leucopygia/5.jpg
+  page: https://www.inaturalist.org/photos/353842288
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353842288/original.png
 ---
 
 

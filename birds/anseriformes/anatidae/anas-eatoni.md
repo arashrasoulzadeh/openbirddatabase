@@ -149,10 +149,31 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/anseriformes/anatidae/anas-eatoni/1.jpg
+  page: https://www.inaturalist.org/photos/449117201
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449117201/original.jpeg
+images:
+- file: images/anseriformes/anatidae/anas-eatoni/1.jpg
+  page: https://www.inaturalist.org/photos/449117201
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449117201/original.jpeg
+- file: images/anseriformes/anatidae/anas-eatoni/2.jpg
+  page: https://www.inaturalist.org/photos/369054592
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369054592/original.jpg
 ---
 
 

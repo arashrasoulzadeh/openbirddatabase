@@ -197,10 +197,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/falconiformes/falconidae/falco-naumanni/1.jpg
+  page: https://www.inaturalist.org/photos/608453740
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608453740/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-naumanni/1.jpg
+  page: https://www.inaturalist.org/photos/608453740
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608453740/original.jpg
+- file: images/falconiformes/falconidae/falco-naumanni/2.jpg
+  page: https://www.inaturalist.org/photos/618920246
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618920246/original.jpg
+- file: images/falconiformes/falconidae/falco-naumanni/3.jpg
+  page: https://www.inaturalist.org/photos/684094191
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684094191/original.jpg
+- file: images/falconiformes/falconidae/falco-naumanni/4.jpg
+  page: https://www.inaturalist.org/photos/682974183
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682974183/original.jpg
+- file: images/falconiformes/falconidae/falco-naumanni/5.jpg
+  page: https://www.inaturalist.org/photos/624706117
+  author: Karsten Ste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624706117/original.jpg
 ---
 
 

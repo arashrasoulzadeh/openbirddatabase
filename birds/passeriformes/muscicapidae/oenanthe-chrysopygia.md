@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-chrysopygia/1.jpg
+  page: https://www.inaturalist.org/photos/624130137
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624130137/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-chrysopygia/1.jpg
+  page: https://www.inaturalist.org/photos/624130137
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624130137/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-chrysopygia/2.jpg
+  page: https://www.inaturalist.org/photos/631502106
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631502106/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-chrysopygia/3.jpg
+  page: https://www.inaturalist.org/photos/693630838
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693630838/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-chrysopygia/4.jpg
+  page: https://www.inaturalist.org/photos/582788755
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582788755/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-chrysopygia/5.jpg
+  page: https://www.inaturalist.org/photos/582890152
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582890152/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/saroglossa-spilopterus/1.jpg
+  page: https://www.inaturalist.org/photos/364206773
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364206773/original.jpeg
+images:
+- file: images/passeriformes/sturnidae/saroglossa-spilopterus/1.jpg
+  page: https://www.inaturalist.org/photos/364206773
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364206773/original.jpeg
+- file: images/passeriformes/sturnidae/saroglossa-spilopterus/2.jpg
+  page: https://www.inaturalist.org/photos/176450115
+  author: Rongrong Angkaew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176450115/original.jpg
+- file: images/passeriformes/sturnidae/saroglossa-spilopterus/3.jpg
+  page: https://www.inaturalist.org/photos/231354509
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231354509/original.jpeg
+- file: images/passeriformes/sturnidae/saroglossa-spilopterus/4.jpg
+  page: https://www.inaturalist.org/photos/120752963
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120752963/original.jpg
+- file: images/passeriformes/sturnidae/saroglossa-spilopterus/5.jpg
+  page: https://www.inaturalist.org/photos/86885478
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/86885478/original.jpg
 ---
 
 

@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/aegolius-ridgwayi/1.jpg
+  page: https://www.inaturalist.org/photos/482012730
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482012730/original.jpeg
+images:
+- file: images/strigiformes/strigidae/aegolius-ridgwayi/1.jpg
+  page: https://www.inaturalist.org/photos/482012730
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482012730/original.jpeg
+- file: images/strigiformes/strigidae/aegolius-ridgwayi/2.jpg
+  page: https://www.inaturalist.org/photos/195123941
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195123941/original.jpg
+- file: images/strigiformes/strigidae/aegolius-ridgwayi/3.jpg
+  page: https://www.inaturalist.org/photos/191437407
+  author: Joseph Greco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191437407/original.jpg
+- file: images/strigiformes/strigidae/aegolius-ridgwayi/4.jpg
+  page: https://www.inaturalist.org/photos/69466414
+  author: Blair Dudeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/69466414/original.jpg
+- file: images/strigiformes/strigidae/aegolius-ridgwayi/5.jpg
+  page: https://www.inaturalist.org/photos/195123968
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195123968/original.jpg
 ---
 
 

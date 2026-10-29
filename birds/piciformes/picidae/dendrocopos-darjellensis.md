@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendrocopos-darjellensis/1.jpg
+  page: https://www.inaturalist.org/photos/523444014
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523444014/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-darjellensis/1.jpg
+  page: https://www.inaturalist.org/photos/523444014
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523444014/original.jpg
+- file: images/piciformes/picidae/dendrocopos-darjellensis/2.jpg
+  page: https://www.inaturalist.org/photos/603784246
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603784246/original.jpg
+- file: images/piciformes/picidae/dendrocopos-darjellensis/3.jpg
+  page: https://www.inaturalist.org/photos/365339305
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365339305/original.jpeg
+- file: images/piciformes/picidae/dendrocopos-darjellensis/4.jpg
+  page: https://www.inaturalist.org/photos/601314950
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601314950/original.jpg
+- file: images/piciformes/picidae/dendrocopos-darjellensis/5.jpg
+  page: https://www.inaturalist.org/photos/386802037
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386802037/original.jpg
 ---
 
 

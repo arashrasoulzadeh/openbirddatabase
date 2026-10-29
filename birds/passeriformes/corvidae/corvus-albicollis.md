@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/609763025
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609763025/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/609763025
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609763025/original.jpg
+- file: images/passeriformes/corvidae/corvus-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/624181179
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624181179/original.jpg
+- file: images/passeriformes/corvidae/corvus-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/612378165
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612378165/original.jpg
+- file: images/passeriformes/corvidae/corvus-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/613851068
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613851068/original.jpg
+- file: images/passeriformes/corvidae/corvus-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/619828038
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619828038/original.jpg
 ---
 
 

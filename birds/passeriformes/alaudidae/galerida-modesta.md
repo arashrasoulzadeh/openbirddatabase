@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/galerida-modesta/1.jpg
+  page: https://www.inaturalist.org/photos/607969444
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607969444/original.jpg
+images:
+- file: images/passeriformes/alaudidae/galerida-modesta/1.jpg
+  page: https://www.inaturalist.org/photos/607969444
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607969444/original.jpg
+- file: images/passeriformes/alaudidae/galerida-modesta/2.jpg
+  page: https://www.inaturalist.org/photos/181144826
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181144826/original.jpg
+- file: images/passeriformes/alaudidae/galerida-modesta/3.jpg
+  page: https://www.inaturalist.org/photos/56289558
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/56289558/original.jpg
+- file: images/passeriformes/alaudidae/galerida-modesta/4.jpg
+  page: https://www.inaturalist.org/photos/607969446
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607969446/original.jpg
+- file: images/passeriformes/alaudidae/galerida-modesta/5.jpg
+  page: https://www.inaturalist.org/photos/607969449
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607969449/original.jpg
 ---
 
 

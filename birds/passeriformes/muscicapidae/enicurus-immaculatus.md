@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/enicurus-immaculatus/1.jpg
+  page: https://www.inaturalist.org/photos/608380418
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608380418/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/enicurus-immaculatus/1.jpg
+  page: https://www.inaturalist.org/photos/608380418
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608380418/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-immaculatus/2.jpg
+  page: https://www.inaturalist.org/photos/544333060
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544333060/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-immaculatus/3.jpg
+  page: https://www.inaturalist.org/photos/268965393
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268965393/original.jpeg
+- file: images/passeriformes/muscicapidae/enicurus-immaculatus/4.jpg
+  page: https://www.inaturalist.org/photos/17341629
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17341629/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-immaculatus/5.jpg
+  page: https://www.inaturalist.org/photos/546777710
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546777710/original.jpg
 ---
 
 

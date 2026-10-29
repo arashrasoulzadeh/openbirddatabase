@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-eversmanni/1.jpg
+  page: https://www.inaturalist.org/photos/509274092
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509274092/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-eversmanni/1.jpg
+  page: https://www.inaturalist.org/photos/509274092
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509274092/original.jpg
+- file: images/columbiformes/columbidae/columba-eversmanni/2.jpg
+  page: https://www.inaturalist.org/photos/396434064
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396434064/original.jpg
+- file: images/columbiformes/columbidae/columba-eversmanni/3.jpg
+  page: https://www.inaturalist.org/photos/471840615
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471840615/original.jpg
+- file: images/columbiformes/columbidae/columba-eversmanni/4.jpg
+  page: https://www.inaturalist.org/photos/339648761
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339648761/original.jpeg
+- file: images/columbiformes/columbidae/columba-eversmanni/5.jpg
+  page: https://www.inaturalist.org/photos/76844553
+  author: Pramod CL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/76844553/original.jpg
 ---
 
 

@@ -147,10 +147,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/acanthizidae/acanthiza-nana/1.jpg
+  page: https://www.inaturalist.org/photos/607793596
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607793596/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthiza-nana/1.jpg
+  page: https://www.inaturalist.org/photos/607793596
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607793596/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-nana/2.jpg
+  page: https://www.inaturalist.org/photos/617712883
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712883/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-nana/3.jpg
+  page: https://www.inaturalist.org/photos/635694483
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635694483/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-nana/4.jpg
+  page: https://www.inaturalist.org/photos/617712882
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712882/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-nana/5.jpg
+  page: https://www.inaturalist.org/photos/617712892
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712892/original.jpg
 ---
 
 

@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-borbonicus/1.jpg
+  page: https://www.inaturalist.org/photos/638117711
+  author: marius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638117711/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-borbonicus/1.jpg
+  page: https://www.inaturalist.org/photos/638117711
+  author: marius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638117711/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-borbonicus/2.jpg
+  page: https://www.inaturalist.org/photos/426450033
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426450033/original.jpeg
+- file: images/passeriformes/pycnonotidae/hypsipetes-borbonicus/3.jpg
+  page: https://www.inaturalist.org/photos/371245565
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/371245565/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-borbonicus/4.jpg
+  page: https://www.inaturalist.org/photos/332058737
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332058737/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-borbonicus/5.jpg
+  page: https://www.inaturalist.org/photos/243978194
+  author: Jacek Pietruszewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243978194/original.jpeg
 ---
 
 

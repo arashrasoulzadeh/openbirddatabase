@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/monarchidae/monarcha-melanopsis/1.jpg
+  page: https://www.inaturalist.org/photos/605366030
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605366030/original.jpg
+images:
+- file: images/passeriformes/monarchidae/monarcha-melanopsis/1.jpg
+  page: https://www.inaturalist.org/photos/605366030
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605366030/original.jpg
+- file: images/passeriformes/monarchidae/monarcha-melanopsis/2.jpg
+  page: https://www.inaturalist.org/photos/607844699
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607844699/original.jpg
+- file: images/passeriformes/monarchidae/monarcha-melanopsis/3.jpg
+  page: https://www.inaturalist.org/photos/606097897
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606097897/original.jpg
+- file: images/passeriformes/monarchidae/monarcha-melanopsis/4.jpg
+  page: https://www.inaturalist.org/photos/711843510
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711843510/original.jpg
+- file: images/passeriformes/monarchidae/monarcha-melanopsis/5.jpg
+  page: https://www.inaturalist.org/photos/607845650
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607845650/original.jpg
 ---
 
 

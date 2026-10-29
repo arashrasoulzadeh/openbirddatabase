@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/polyplectron-bicalcaratum/1.jpg
+  page: https://www.inaturalist.org/photos/640202977
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640202977/original.jpg
+images:
+- file: images/galliformes/phasianidae/polyplectron-bicalcaratum/1.jpg
+  page: https://www.inaturalist.org/photos/640202977
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640202977/original.jpg
+- file: images/galliformes/phasianidae/polyplectron-bicalcaratum/2.jpg
+  page: https://www.inaturalist.org/photos/628224268
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628224268/original.jpg
+- file: images/galliformes/phasianidae/polyplectron-bicalcaratum/3.jpg
+  page: https://www.inaturalist.org/photos/705167100
+  author: Thomas Gyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705167100/original.jpg
+- file: images/galliformes/phasianidae/polyplectron-bicalcaratum/4.jpg
+  page: https://www.inaturalist.org/photos/507811811
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507811811/original.jpg
+- file: images/galliformes/phasianidae/polyplectron-bicalcaratum/5.jpg
+  page: https://www.inaturalist.org/photos/345598919
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345598919/original.jpg
 ---
 
 

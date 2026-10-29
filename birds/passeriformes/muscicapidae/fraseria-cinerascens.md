@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/fraseria-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/664256242
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664256242/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/fraseria-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/664256242
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664256242/original.jpg
+- file: images/passeriformes/muscicapidae/fraseria-cinerascens/2.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222264152267790514
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732915/original.JPG
+- file: images/passeriformes/muscicapidae/fraseria-cinerascens/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096533294091404754
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442025/original.JPG
+- file: images/passeriformes/muscicapidae/fraseria-cinerascens/4.jpg
+  page: https://www.inaturalist.org/photos/664256252
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664256252/original.jpg
+- file: images/passeriformes/muscicapidae/fraseria-cinerascens/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222264076208529826
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732916/original.JPG
 ---
 
 

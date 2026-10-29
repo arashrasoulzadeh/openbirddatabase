@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelopina-nigra/1.jpg
+  page: https://www.inaturalist.org/photos/605124822
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605124822/original.jpg
+images:
+- file: images/galliformes/cracidae/penelopina-nigra/1.jpg
+  page: https://www.inaturalist.org/photos/605124822
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605124822/original.jpg
+- file: images/galliformes/cracidae/penelopina-nigra/2.jpg
+  page: https://www.inaturalist.org/photos/345278257
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345278257/original.jpg
+- file: images/galliformes/cracidae/penelopina-nigra/3.jpg
+  page: https://www.inaturalist.org/photos/314914180
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314914180/original.jpg
+- file: images/galliformes/cracidae/penelopina-nigra/4.jpg
+  page: https://www.inaturalist.org/photos/33322955
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/33322955/original.jpeg
+- file: images/galliformes/cracidae/penelopina-nigra/5.jpg
+  page: https://www.inaturalist.org/photos/345278277
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345278277/original.jpg
 ---
 
 

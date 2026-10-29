@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-indigotica/1.jpg
+  page: https://www.inaturalist.org/photos/609325126
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609325126/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-indigotica/1.jpg
+  page: https://www.inaturalist.org/photos/609325126
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609325126/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-indigotica/2.jpg
+  page: https://www.inaturalist.org/photos/623757183
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623757183/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-indigotica/3.jpg
+  page: https://www.inaturalist.org/photos/488686122
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488686122/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-indigotica/4.jpg
+  page: https://www.inaturalist.org/photos/263753525
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263753525/original.jpeg
+- file: images/passeriformes/thraupidae/diglossa-indigotica/5.jpg
+  page: https://www.inaturalist.org/photos/188008863
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188008863/original.png
 ---
 
 

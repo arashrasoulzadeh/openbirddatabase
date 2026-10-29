@@ -172,8 +172,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/oxyura-leucocephala/1.jpg
+  page: https://www.inaturalist.org/photos/608613629
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608613629/original.jpg
+images:
+- file: images/anseriformes/anatidae/oxyura-leucocephala/1.jpg
+  page: https://www.inaturalist.org/photos/608613629
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608613629/original.jpg
+- file: images/anseriformes/anatidae/oxyura-leucocephala/2.jpg
+  page: https://www.inaturalist.org/photos/609198932
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609198932/original.jpg
+- file: images/anseriformes/anatidae/oxyura-leucocephala/3.jpg
+  page: https://www.inaturalist.org/photos/614162870
+  author: bigayon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614162870/original.jpg
+- file: images/anseriformes/anatidae/oxyura-leucocephala/4.jpg
+  page: https://www.inaturalist.org/photos/615059686
+  author: Cristina Olivares Collado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615059686/original.jpg
+- file: images/anseriformes/anatidae/oxyura-leucocephala/5.jpg
+  page: https://www.inaturalist.org/photos/609198936
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609198936/original.jpg
 ---
 
 

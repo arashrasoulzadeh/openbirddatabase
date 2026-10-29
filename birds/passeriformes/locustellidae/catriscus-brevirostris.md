@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/catriscus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/577543213
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577543213/original.jpg
+images:
+- file: images/passeriformes/locustellidae/catriscus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/577543213
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577543213/original.jpg
+- file: images/passeriformes/locustellidae/catriscus-brevirostris/2.jpg
+  page: https://www.inaturalist.org/photos/454155694
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454155694/original.jpg
+- file: images/passeriformes/locustellidae/catriscus-brevirostris/3.jpg
+  page: https://www.inaturalist.org/photos/476343208
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476343208/original.jpg
+- file: images/passeriformes/locustellidae/catriscus-brevirostris/4.jpg
+  page: https://www.inaturalist.org/photos/334150815
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334150815/original.jpeg
+- file: images/passeriformes/locustellidae/catriscus-brevirostris/5.jpg
+  page: https://www.inaturalist.org/photos/265465486
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265465486/original.jpeg
 ---
 
 

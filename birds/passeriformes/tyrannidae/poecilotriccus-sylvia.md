@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/poecilotriccus-sylvia/1.jpg
+  page: https://www.inaturalist.org/photos/489422984
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489422984/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/poecilotriccus-sylvia/1.jpg
+  page: https://www.inaturalist.org/photos/489422984
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489422984/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-sylvia/2.jpg
+  page: https://www.inaturalist.org/photos/473661235
+  author: Diego López
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473661235/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-sylvia/3.jpg
+  page: https://www.flickr.com/photos/cricketsblog/54402687661/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478608844/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-sylvia/4.jpg
+  page: https://www.inaturalist.org/photos/596906829
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596906829/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-sylvia/5.jpg
+  page: https://www.inaturalist.org/photos/348495939
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348495939/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/pseudocolopteryx-acutipennis/1.jpg
+  page: https://www.inaturalist.org/photos/610682028
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610682028/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-acutipennis/1.jpg
+  page: https://www.inaturalist.org/photos/610682028
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610682028/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-acutipennis/2.jpg
+  page: https://www.inaturalist.org/photos/609369764
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609369764/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-acutipennis/3.jpg
+  page: https://www.inaturalist.org/photos/615927405
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615927405/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-acutipennis/4.jpg
+  page: https://www.inaturalist.org/photos/738157852
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738157852/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-acutipennis/5.jpg
+  page: https://www.inaturalist.org/photos/475513438
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475513438/original.jpg
 ---
 
 

@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/anseriformes/anseranatidae/anseranas-semipalmata/1.jpg
+  page: https://www.inaturalist.org/photos/604662677
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662677/original.jpg
+images:
+- file: images/anseriformes/anseranatidae/anseranas-semipalmata/1.jpg
+  page: https://www.inaturalist.org/photos/604662677
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662677/original.jpg
+- file: images/anseriformes/anseranatidae/anseranas-semipalmata/2.jpg
+  page: https://www.inaturalist.org/photos/605266928
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605266928/original.jpg
+- file: images/anseriformes/anseranatidae/anseranas-semipalmata/3.jpg
+  page: https://www.inaturalist.org/photos/604417229
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604417229/original.jpg
+- file: images/anseriformes/anseranatidae/anseranas-semipalmata/4.jpg
+  page: https://www.inaturalist.org/photos/607088264
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607088264/original.jpg
+- file: images/anseriformes/anseranatidae/anseranas-semipalmata/5.jpg
+  page: https://www.inaturalist.org/photos/608542550
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608542550/original.jpg
 ---
 
 

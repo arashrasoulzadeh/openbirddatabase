@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/polioptilidae/microbates-cinereiventris/1.jpg
+  page: https://www.inaturalist.org/photos/571290613
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571290613/original.jpg
+images:
+- file: images/passeriformes/polioptilidae/microbates-cinereiventris/1.jpg
+  page: https://www.inaturalist.org/photos/571290613
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571290613/original.jpg
+- file: images/passeriformes/polioptilidae/microbates-cinereiventris/2.jpg
+  page: https://www.inaturalist.org/photos/411380766
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411380766/original.jpeg
+- file: images/passeriformes/polioptilidae/microbates-cinereiventris/3.jpg
+  page: https://www.inaturalist.org/photos/269755862
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269755862/original.jpeg
+- file: images/passeriformes/polioptilidae/microbates-cinereiventris/4.jpg
+  page: https://www.inaturalist.org/photos/479655272
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479655272/original.jpg
+- file: images/passeriformes/polioptilidae/microbates-cinereiventris/5.jpg
+  page: https://www.inaturalist.org/photos/337902147
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337902147/original.jpg
 ---
 
 

@@ -137,7 +137,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 19.5
@@ -145,6 +146,32 @@ morphology:
   wing_length_mm: 69.5
   tail_length_mm: 36.2
   body_mass_g: 26.6
+image:
+  file: images/passeriformes/ploceidae/ploceus-spekeoides/1.jpg
+  page: https://www.inaturalist.org/photos/562942370
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562942370/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-spekeoides/1.jpg
+  page: https://www.inaturalist.org/photos/562942370
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562942370/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-spekeoides/2.jpg
+  page: https://www.inaturalist.org/photos/562942424
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562942424/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-spekeoides/3.jpg
+  page: https://www.inaturalist.org/photos/562942427
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562942427/original.jpg
 ---
 
 

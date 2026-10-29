@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.6
@@ -133,6 +134,32 @@ morphology:
   wing_length_mm: 101.9
   tail_length_mm: 70.2
   body_mass_g: 20.7
+image:
+  file: images/passeriformes/thraupidae/idiopsar-erythronotus/1.jpg
+  page: https://www.inaturalist.org/photos/354570627
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354570627/original.jpg
+images:
+- file: images/passeriformes/thraupidae/idiopsar-erythronotus/1.jpg
+  page: https://www.inaturalist.org/photos/354570627
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354570627/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-erythronotus/2.jpg
+  page: https://www.inaturalist.org/photos/456797115
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456797115/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-erythronotus/3.jpg
+  page: https://www.inaturalist.org/photos/249292380
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249292380/original.jpeg
 ---
 
 

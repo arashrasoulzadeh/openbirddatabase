@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/anthochaera-phrygia/1.jpg
+  page: https://www.inaturalist.org/photos/398106226
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398106226/original.jpeg
+images:
+- file: images/passeriformes/meliphagidae/anthochaera-phrygia/1.jpg
+  page: https://www.inaturalist.org/photos/398106226
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398106226/original.jpeg
+- file: images/passeriformes/meliphagidae/anthochaera-phrygia/2.jpg
+  page: https://www.inaturalist.org/photos/406328443
+  author: Julie Overton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/406328443/original.jpeg
+- file: images/passeriformes/meliphagidae/anthochaera-phrygia/3.jpg
+  page: https://www.inaturalist.org/photos/398106221
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398106221/original.jpeg
+- file: images/passeriformes/meliphagidae/anthochaera-phrygia/4.jpg
+  page: https://www.inaturalist.org/photos/398107024
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398107024/original.jpeg
+- file: images/passeriformes/meliphagidae/anthochaera-phrygia/5.jpg
+  page: https://www.inaturalist.org/photos/398107030
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398107030/original.jpeg
 ---
 
 

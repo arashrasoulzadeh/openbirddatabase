@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-cephalotes/1.jpg
+  page: https://www.inaturalist.org/photos/692183782
+  author: Álvaro Rivas Godin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692183782/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-cephalotes/1.jpg
+  page: https://www.inaturalist.org/photos/692183782
+  author: Álvaro Rivas Godin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692183782/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-cephalotes/2.jpg
+  page: https://www.inaturalist.org/photos/468479041
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468479041/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-cephalotes/3.jpg
+  page: https://www.inaturalist.org/photos/520937809
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520937809/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-cephalotes/4.jpg
+  page: https://www.inaturalist.org/photos/476268762
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476268762/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-cephalotes/5.jpg
+  page: https://www.inaturalist.org/photos/530076998
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530076998/original.jpg
 ---
 
 

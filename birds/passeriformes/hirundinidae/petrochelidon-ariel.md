@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/hirundinidae/petrochelidon-ariel/1.jpg
+  page: https://www.inaturalist.org/photos/605879508
+  author: Terra Occ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605879508/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/petrochelidon-ariel/1.jpg
+  page: https://www.inaturalist.org/photos/605879508
+  author: Terra Occ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605879508/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-ariel/2.jpg
+  page: https://www.inaturalist.org/photos/617417049
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617417049/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-ariel/3.jpg
+  page: https://www.inaturalist.org/photos/616510135
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616510135/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-ariel/4.jpg
+  page: https://www.inaturalist.org/photos/629549388
+  author: graeme lunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629549388/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-ariel/5.jpg
+  page: https://www.inaturalist.org/photos/636945325
+  author: elizard
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636945325/original.jpg
 ---
 
 

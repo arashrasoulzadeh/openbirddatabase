@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-lineiventris/1.jpg
+  page: https://www.inaturalist.org/photos/665052381
+  author: Ronald Olivier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665052381/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-lineiventris/1.jpg
+  page: https://www.inaturalist.org/photos/665052381
+  author: Ronald Olivier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665052381/original.jpg
+- file: images/passeriformes/motacillidae/anthus-lineiventris/2.jpg
+  page: https://www.inaturalist.org/photos/721146418
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721146418/original.jpg
+- file: images/passeriformes/motacillidae/anthus-lineiventris/3.jpg
+  page: https://www.inaturalist.org/photos/582716466
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582716466/original.jpg
+- file: images/passeriformes/motacillidae/anthus-lineiventris/4.jpg
+  page: https://www.inaturalist.org/photos/581558298
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581558298/original.jpg
+- file: images/passeriformes/motacillidae/anthus-lineiventris/5.jpg
+  page: https://www.inaturalist.org/photos/344630078
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344630078/original.jpg
 ---
 
 

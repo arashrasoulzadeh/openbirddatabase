@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireolanius-pulchellus/1.jpg
+  page: https://www.inaturalist.org/photos/614513868
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614513868/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireolanius-pulchellus/1.jpg
+  page: https://www.inaturalist.org/photos/614513868
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614513868/original.jpg
+- file: images/passeriformes/vireonidae/vireolanius-pulchellus/2.jpg
+  page: https://www.inaturalist.org/photos/637759261
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637759261/original.jpg
+- file: images/passeriformes/vireonidae/vireolanius-pulchellus/3.jpg
+  page: https://www.inaturalist.org/photos/470638160
+  author: TheMongrelKoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470638160/original.jpeg
+- file: images/passeriformes/vireonidae/vireolanius-pulchellus/4.jpg
+  page: https://www.inaturalist.org/photos/535127560
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535127560/original.jpg
+- file: images/passeriformes/vireonidae/vireolanius-pulchellus/5.jpg
+  page: https://www.inaturalist.org/photos/605838748
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605838748/original.jpg
 ---
 
 

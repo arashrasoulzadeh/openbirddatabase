@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/vini-kuhlii/1.jpg
+  page: https://www.inaturalist.org/photos/345700092
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345700092/original.jpeg
+images:
+- file: images/psittaciformes/psittaculidae/vini-kuhlii/1.jpg
+  page: https://www.inaturalist.org/photos/345700092
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345700092/original.jpeg
+- file: images/psittaciformes/psittaculidae/vini-kuhlii/2.jpg
+  page: https://www.inaturalist.org/photos/395655054
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395655054/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-kuhlii/3.jpg
+  page: https://www.inaturalist.org/photos/13238804
+  author: Geoff Shuetrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13238804/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-kuhlii/4.jpg
+  page: https://www.inaturalist.org/photos/109929524
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109929524/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-kuhlii/5.jpg
+  page: https://www.inaturalist.org/photos/345700289
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345700289/original.jpeg
 ---
 
 

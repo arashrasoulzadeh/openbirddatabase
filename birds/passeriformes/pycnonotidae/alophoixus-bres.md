@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/alophoixus-bres/1.jpg
+  page: https://www.inaturalist.org/photos/691170028
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691170028/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/alophoixus-bres/1.jpg
+  page: https://www.inaturalist.org/photos/691170028
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691170028/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-bres/2.jpg
+  page: https://www.inaturalist.org/photos/540480217
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540480217/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-bres/3.jpg
+  page: https://www.inaturalist.org/photos/603003845
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603003845/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-bres/4.jpg
+  page: https://www.inaturalist.org/photos/549216586
+  author: René Heinrich
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549216586/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-bres/5.jpg
+  page: https://www.inaturalist.org/photos/597002724
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597002724/original.jpg
 ---
 
 

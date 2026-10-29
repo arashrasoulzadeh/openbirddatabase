@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/amaurornis-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/614041849
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614041849/original.jpg
+images:
+- file: images/gruiformes/rallidae/amaurornis-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/614041849
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614041849/original.jpg
+- file: images/gruiformes/rallidae/amaurornis-olivacea/2.jpg
+  page: https://www.inaturalist.org/photos/613529218
+  author: Jane C Frost
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613529218/original.jpg
+- file: images/gruiformes/rallidae/amaurornis-olivacea/3.jpg
+  page: https://www.inaturalist.org/photos/468724427
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468724427/original.jpg
+- file: images/gruiformes/rallidae/amaurornis-olivacea/4.jpg
+  page: https://www.inaturalist.org/photos/526333894
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333894/original.jpg
+- file: images/gruiformes/rallidae/amaurornis-olivacea/5.jpg
+  page: https://www.inaturalist.org/photos/473595224
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473595224/original.jpg
 ---
 
 

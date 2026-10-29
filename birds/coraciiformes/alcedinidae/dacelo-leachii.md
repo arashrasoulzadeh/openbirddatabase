@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/dacelo-leachii/1.jpg
+  page: https://www.inaturalist.org/photos/606108544
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606108544/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/dacelo-leachii/1.jpg
+  page: https://www.inaturalist.org/photos/606108544
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606108544/original.jpg
+- file: images/coraciiformes/alcedinidae/dacelo-leachii/2.jpg
+  page: https://www.inaturalist.org/photos/629051188
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629051188/original.jpg
+- file: images/coraciiformes/alcedinidae/dacelo-leachii/3.jpg
+  page: https://www.inaturalist.org/photos/627389643
+  author: Carly Sheil
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627389643/original.jpg
+- file: images/coraciiformes/alcedinidae/dacelo-leachii/4.jpg
+  page: https://www.inaturalist.org/photos/704474180
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704474180/original.jpg
+- file: images/coraciiformes/alcedinidae/dacelo-leachii/5.jpg
+  page: https://www.inaturalist.org/photos/606108547
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606108547/original.jpg
 ---
 
 

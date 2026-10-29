@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/bubo-africanus/1.jpg
+  page: https://www.inaturalist.org/photos/609263311
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609263311/original.jpg
+images:
+- file: images/strigiformes/strigidae/bubo-africanus/1.jpg
+  page: https://www.inaturalist.org/photos/609263311
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609263311/original.jpg
+- file: images/strigiformes/strigidae/bubo-africanus/2.jpg
+  page: https://www.inaturalist.org/photos/611928566
+  author: Dave Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611928566/original.jpg
+- file: images/strigiformes/strigidae/bubo-africanus/3.jpg
+  page: https://www.inaturalist.org/photos/608681329
+  author: Glynn Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608681329/original.jpg
+- file: images/strigiformes/strigidae/bubo-africanus/4.jpg
+  page: https://www.inaturalist.org/photos/613728162
+  author: Burgert Jordaan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613728162/original.jpg
+- file: images/strigiformes/strigidae/bubo-africanus/5.jpg
+  page: https://www.inaturalist.org/photos/615998030
+  author: Caroline Voget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615998030/original.jpg
 ---
 
 

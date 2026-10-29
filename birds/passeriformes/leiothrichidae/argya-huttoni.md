@@ -143,10 +143,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Cooperative
+image:
+  file: images/passeriformes/leiothrichidae/argya-huttoni/1.jpg
+  page: https://www.inaturalist.org/photos/645186224
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645186224/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/argya-huttoni/1.jpg
+  page: https://www.inaturalist.org/photos/645186224
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645186224/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-huttoni/2.jpg
+  page: https://www.inaturalist.org/photos/459116612
+  author: Mohammad Amin Ghaffari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459116612/original.jpeg
+- file: images/passeriformes/leiothrichidae/argya-huttoni/3.jpg
+  page: https://www.inaturalist.org/photos/116396704
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116396704/original.jpeg
+- file: images/passeriformes/leiothrichidae/argya-huttoni/4.jpg
+  page: https://www.inaturalist.org/photos/595243681
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595243681/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-huttoni/5.jpg
+  page: https://www.inaturalist.org/photos/351030782
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351030782/original.jpeg
 ---
 
 

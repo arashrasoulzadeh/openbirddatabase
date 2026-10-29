@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/dendronanthus-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/608624774
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608624774/original.jpg
+images:
+- file: images/passeriformes/motacillidae/dendronanthus-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/608624774
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608624774/original.jpg
+- file: images/passeriformes/motacillidae/dendronanthus-indicus/2.jpg
+  page: https://www.inaturalist.org/photos/608787780
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608787780/original.jpg
+- file: images/passeriformes/motacillidae/dendronanthus-indicus/3.jpg
+  page: https://www.inaturalist.org/photos/734637318
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734637318/original.jpg
+- file: images/passeriformes/motacillidae/dendronanthus-indicus/4.jpg
+  page: https://www.inaturalist.org/photos/737001531
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737001531/original.jpg
+- file: images/passeriformes/motacillidae/dendronanthus-indicus/5.jpg
+  page: https://www.inaturalist.org/photos/464138279
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464138279/original.jpeg
 ---
 
 

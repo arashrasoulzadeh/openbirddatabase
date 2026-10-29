@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/turdidae/sialia-sialis/1.jpg
+  page: https://www.inaturalist.org/photos/604770573
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604770573/original.jpg
+images:
+- file: images/passeriformes/turdidae/sialia-sialis/1.jpg
+  page: https://www.inaturalist.org/photos/604770573
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604770573/original.jpg
+- file: images/passeriformes/turdidae/sialia-sialis/2.jpg
+  page: https://www.inaturalist.org/photos/604873936
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604873936/original.jpg
+- file: images/passeriformes/turdidae/sialia-sialis/3.jpg
+  page: https://www.inaturalist.org/photos/604521077
+  author: Jeff Davis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604521077/original.jpg
+- file: images/passeriformes/turdidae/sialia-sialis/4.jpg
+  page: https://www.inaturalist.org/photos/605402913
+  author: Shannon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605402913/original.jpg
+- file: images/passeriformes/turdidae/sialia-sialis/5.jpg
+  page: https://www.inaturalist.org/photos/605141614
+  author: anoleinwoods
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605141614/original.jpg
 ---
 
 

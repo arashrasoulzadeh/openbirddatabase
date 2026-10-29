@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradisaeidae/manucodia-chalybatus/1.jpg
+  page: https://www.inaturalist.org/photos/572616034
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572616034/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/manucodia-chalybatus/1.jpg
+  page: https://www.inaturalist.org/photos/572616034
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572616034/original.jpg
+- file: images/passeriformes/paradisaeidae/manucodia-chalybatus/2.jpg
+  page: https://www.inaturalist.org/photos/341061008
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341061008/original.jpg
+- file: images/passeriformes/paradisaeidae/manucodia-chalybatus/3.jpg
+  page: https://www.inaturalist.org/photos/572616057
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572616057/original.jpg
+- file: images/passeriformes/paradisaeidae/manucodia-chalybatus/4.jpg
+  page: https://www.inaturalist.org/photos/572616054
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572616054/original.jpg
+- file: images/passeriformes/paradisaeidae/manucodia-chalybatus/5.jpg
+  page: https://www.inaturalist.org/photos/341060973
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341060973/original.jpg
 ---
 
 

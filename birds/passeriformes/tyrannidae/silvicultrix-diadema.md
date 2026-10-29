@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/silvicultrix-diadema/1.jpg
+  page: https://www.inaturalist.org/photos/612901043
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612901043/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/silvicultrix-diadema/1.jpg
+  page: https://www.inaturalist.org/photos/612901043
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612901043/original.jpg
+- file: images/passeriformes/tyrannidae/silvicultrix-diadema/2.jpg
+  page: https://www.inaturalist.org/photos/622993563
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622993563/original.jpg
+- file: images/passeriformes/tyrannidae/silvicultrix-diadema/3.jpg
+  page: https://www.inaturalist.org/photos/652811662
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652811662/original.jpg
+- file: images/passeriformes/tyrannidae/silvicultrix-diadema/4.jpg
+  page: https://www.inaturalist.org/photos/468141339
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468141339/original.jpeg
+- file: images/passeriformes/tyrannidae/silvicultrix-diadema/5.jpg
+  page: https://www.inaturalist.org/photos/489348106
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489348106/original.jpg
 ---
 
 

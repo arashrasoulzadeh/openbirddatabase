@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lophura-leucomelanos/1.jpg
+  page: https://www.inaturalist.org/photos/615208764
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615208764/original.jpg
+images:
+- file: images/galliformes/phasianidae/lophura-leucomelanos/1.jpg
+  page: https://www.inaturalist.org/photos/615208764
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615208764/original.jpg
+- file: images/galliformes/phasianidae/lophura-leucomelanos/2.jpg
+  page: https://www.inaturalist.org/photos/617526283
+  author: Yvan Papa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617526283/original.jpg
+- file: images/galliformes/phasianidae/lophura-leucomelanos/3.jpg
+  page: https://www.inaturalist.org/photos/618765594
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618765594/original.jpg
+- file: images/galliformes/phasianidae/lophura-leucomelanos/4.jpg
+  page: https://www.inaturalist.org/photos/619806902
+  author: Anirban Datta-Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619806902/original.jpg
+- file: images/galliformes/phasianidae/lophura-leucomelanos/5.jpg
+  page: https://www.inaturalist.org/photos/620041229
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620041229/original.jpg
 ---
 
 

@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-shelleyi/1.jpg
+  page: https://www.inaturalist.org/photos/610516770
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610516770/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-shelleyi/1.jpg
+  page: https://www.inaturalist.org/photos/610516770
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610516770/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-shelleyi/2.jpg
+  page: https://www.inaturalist.org/photos/469376087
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469376087/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-shelleyi/3.jpg
+  page: https://www.inaturalist.org/photos/132794071
+  author: Brian Henderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/132794071/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-shelleyi/4.jpg
+  page: https://www.inaturalist.org/photos/611727424
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611727424/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-shelleyi/5.jpg
+  page: https://www.inaturalist.org/photos/611727434
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611727434/original.jpg
 ---
 
 

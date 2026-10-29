@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/batrachostomus-auritus/1.jpg
+  page: https://www.inaturalist.org/photos/292316835
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/292316835/original.jpg
+images:
+- file: images/podargiformes/podargidae/batrachostomus-auritus/1.jpg
+  page: https://www.inaturalist.org/photos/292316835
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/292316835/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-auritus/2.jpg
+  page: https://www.inaturalist.org/photos/102417980
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102417980/original.jpeg
+- file: images/podargiformes/podargidae/batrachostomus-auritus/3.jpg
+  page: https://www.inaturalist.org/photos/342567305
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342567305/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-auritus/4.jpg
+  page: https://www.inaturalist.org/photos/292316841
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/292316841/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-auritus/5.jpg
+  page: https://www.inaturalist.org/photos/102417992
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102417992/original.jpeg
 ---
 
 

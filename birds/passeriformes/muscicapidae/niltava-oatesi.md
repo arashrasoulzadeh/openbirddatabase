@@ -130,8 +130,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/niltava-oatesi/1.jpg
+  page: https://www.inaturalist.org/photos/461564868
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461564868/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/niltava-oatesi/1.jpg
+  page: https://www.inaturalist.org/photos/461564868
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461564868/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-oatesi/2.jpg
+  page: https://www.inaturalist.org/photos/547356664
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547356664/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-oatesi/3.jpg
+  page: https://www.inaturalist.org/photos/181517848
+  author: Sevin Dee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181517848/original.jpeg
+- file: images/passeriformes/muscicapidae/niltava-oatesi/4.jpg
+  page: https://www.inaturalist.org/photos/461565047
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461565047/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-oatesi/5.jpg
+  page: https://www.inaturalist.org/photos/461565064
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461565064/original.jpg
 ---
 
 

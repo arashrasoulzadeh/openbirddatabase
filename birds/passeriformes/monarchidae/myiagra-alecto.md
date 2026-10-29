@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/monarchidae/myiagra-alecto/1.jpg
+  page: https://www.inaturalist.org/photos/606397696
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606397696/original.jpg
+images:
+- file: images/passeriformes/monarchidae/myiagra-alecto/1.jpg
+  page: https://www.inaturalist.org/photos/606397696
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606397696/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-alecto/2.jpg
+  page: https://www.inaturalist.org/photos/654663267
+  author: Dave Shenton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654663267/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-alecto/3.jpg
+  page: https://www.inaturalist.org/photos/682494507
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682494507/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-alecto/4.jpg
+  page: https://www.inaturalist.org/photos/688285815
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688285815/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-alecto/5.jpg
+  page: https://www.inaturalist.org/photos/710650655
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710650655/original.jpg
 ---
 
 

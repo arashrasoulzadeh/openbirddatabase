@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/lipaugus-vociferans/1.jpg
+  page: https://www.inaturalist.org/photos/618368444
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618368444/original.jpg
+images:
+- file: images/passeriformes/cotingidae/lipaugus-vociferans/1.jpg
+  page: https://www.inaturalist.org/photos/618368444
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618368444/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-vociferans/2.jpg
+  page: https://www.inaturalist.org/photos/464117053
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464117053/original.jpeg
+- file: images/passeriformes/cotingidae/lipaugus-vociferans/3.jpg
+  page: https://www.inaturalist.org/photos/467510491
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467510491/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-vociferans/4.jpg
+  page: https://www.inaturalist.org/photos/511149015
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511149015/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-vociferans/5.jpg
+  page: https://www.inaturalist.org/photos/561827144
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561827144/original.jpg
 ---
 
 

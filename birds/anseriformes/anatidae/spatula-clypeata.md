@@ -180,8 +180,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/spatula-clypeata/1.jpg
+  page: https://www.inaturalist.org/photos/604718423
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604718423/original.jpg
+images:
+- file: images/anseriformes/anatidae/spatula-clypeata/1.jpg
+  page: https://www.inaturalist.org/photos/604718423
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604718423/original.jpg
+- file: images/anseriformes/anatidae/spatula-clypeata/2.jpg
+  page: https://www.inaturalist.org/photos/605210159
+  author: sudomir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210159/original.jpg
+- file: images/anseriformes/anatidae/spatula-clypeata/3.jpg
+  page: https://www.inaturalist.org/photos/604626723
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604626723/original.jpg
+- file: images/anseriformes/anatidae/spatula-clypeata/4.jpg
+  page: https://www.inaturalist.org/photos/605052184
+  author: cwriggy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605052184/original.jpg
+- file: images/anseriformes/anatidae/spatula-clypeata/5.jpg
+  page: https://www.inaturalist.org/photos/604691819
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604691819/original.jpg
 ---
 
 

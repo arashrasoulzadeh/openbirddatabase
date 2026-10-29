@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/patagioenas-caribaea/1.jpg
+  page: https://www.inaturalist.org/photos/469770725
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469770725/original.jpeg
+images:
+- file: images/columbiformes/columbidae/patagioenas-caribaea/1.jpg
+  page: https://www.inaturalist.org/photos/469770725
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469770725/original.jpeg
+- file: images/columbiformes/columbidae/patagioenas-caribaea/2.jpg
+  page: https://www.inaturalist.org/photos/574057593
+  author: Shawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574057593/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-caribaea/3.jpg
+  page: https://www.inaturalist.org/photos/353713034
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353713034/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-caribaea/4.jpg
+  page: https://www.inaturalist.org/photos/337431550
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337431550/original.jpeg
+- file: images/columbiformes/columbidae/patagioenas-caribaea/5.jpg
+  page: https://www.inaturalist.org/photos/177196497
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177196497/original.jpg
 ---
 
 

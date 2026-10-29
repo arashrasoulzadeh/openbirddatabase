@@ -126,7 +126,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.9
@@ -136,6 +137,44 @@ morphology:
   body_mass_g: 38.8
 reproduction:
   clutch_size_mean: 1.4
+image:
+  file: images/passeriformes/cardinalidae/chlorothraupis-stolzmanni/1.jpg
+  page: https://www.inaturalist.org/photos/608656621
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608656621/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/chlorothraupis-stolzmanni/1.jpg
+  page: https://www.inaturalist.org/photos/608656621
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608656621/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-stolzmanni/2.jpg
+  page: https://www.inaturalist.org/photos/463195643
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463195643/original.jpeg
+- file: images/passeriformes/cardinalidae/chlorothraupis-stolzmanni/3.jpg
+  page: https://www.inaturalist.org/photos/598666320
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598666320/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-stolzmanni/4.jpg
+  page: https://www.inaturalist.org/photos/323092621
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323092621/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-stolzmanni/5.jpg
+  page: https://www.inaturalist.org/photos/256053963
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256053963/original.jpeg
 ---
 
 

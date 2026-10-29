@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picus-squamatus/1.jpg
+  page: https://www.inaturalist.org/photos/480145114
+  author: Madyan Swat
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480145114/original.jpeg
+images:
+- file: images/piciformes/picidae/picus-squamatus/1.jpg
+  page: https://www.inaturalist.org/photos/480145114
+  author: Madyan Swat
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480145114/original.jpeg
+- file: images/piciformes/picidae/picus-squamatus/2.jpg
+  page: https://www.inaturalist.org/photos/366376300
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366376300/original.jpeg
+- file: images/piciformes/picidae/picus-squamatus/3.jpg
+  page: https://www.inaturalist.org/photos/442285991
+  author: Nicolás Tamargo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442285991/original.jpg
+- file: images/piciformes/picidae/picus-squamatus/4.jpg
+  page: https://www.inaturalist.org/photos/256746477
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256746477/original.jpg
+- file: images/piciformes/picidae/picus-squamatus/5.jpg
+  page: https://www.inaturalist.org/photos/264488041
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264488041/original.jpg
 ---
 
 

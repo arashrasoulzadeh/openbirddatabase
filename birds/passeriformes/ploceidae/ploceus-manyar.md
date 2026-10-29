@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-manyar/1.jpg
+  page: https://www.inaturalist.org/photos/617218946
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617218946/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-manyar/1.jpg
+  page: https://www.inaturalist.org/photos/617218946
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617218946/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-manyar/2.jpg
+  page: https://www.inaturalist.org/photos/619773813
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619773813/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-manyar/3.jpg
+  page: https://www.inaturalist.org/photos/627862263
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627862263/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-manyar/4.jpg
+  page: https://www.inaturalist.org/photos/466734188
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466734188/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-manyar/5.jpg
+  page: https://www.inaturalist.org/photos/466908022
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466908022/original.jpeg
 ---
 
 

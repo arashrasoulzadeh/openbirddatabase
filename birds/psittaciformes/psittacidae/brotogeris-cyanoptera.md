@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/brotogeris-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/729284010
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729284010/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/brotogeris-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/729284010
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729284010/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-cyanoptera/2.jpg
+  page: https://www.inaturalist.org/photos/731197966
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731197966/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-cyanoptera/3.jpg
+  page: https://www.inaturalist.org/photos/739655123
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739655123/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-cyanoptera/4.jpg
+  page: https://www.inaturalist.org/photos/485317108
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485317108/original.jpeg
+- file: images/psittaciformes/psittacidae/brotogeris-cyanoptera/5.jpg
+  page: https://www.inaturalist.org/photos/482675624
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482675624/original.jpeg
 ---
 
 

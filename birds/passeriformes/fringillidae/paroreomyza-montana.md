@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/paroreomyza-montana/1.jpg
+  page: https://www.inaturalist.org/photos/639463447
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639463447/original.jpg
+images:
+- file: images/passeriformes/fringillidae/paroreomyza-montana/1.jpg
+  page: https://www.inaturalist.org/photos/639463447
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639463447/original.jpg
+- file: images/passeriformes/fringillidae/paroreomyza-montana/2.jpg
+  page: https://www.inaturalist.org/photos/477305188
+  author: Clay Gibbons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477305188/original.jpeg
+- file: images/passeriformes/fringillidae/paroreomyza-montana/3.jpg
+  page: https://www.inaturalist.org/photos/298321129
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298321129/original.jpg
+- file: images/passeriformes/fringillidae/paroreomyza-montana/4.jpg
+  page: https://www.inaturalist.org/photos/324474064
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/324474064/original.jpeg
+- file: images/passeriformes/fringillidae/paroreomyza-montana/5.jpg
+  page: https://www.inaturalist.org/photos/117888409
+  author: Rachel Stringham
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/117888409/original.jpeg
 ---
 
 

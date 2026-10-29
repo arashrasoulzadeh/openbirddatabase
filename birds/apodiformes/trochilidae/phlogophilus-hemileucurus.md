@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phlogophilus-hemileucurus/1.jpg
+  page: https://www.inaturalist.org/photos/385922861
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385922861/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phlogophilus-hemileucurus/1.jpg
+  page: https://www.inaturalist.org/photos/385922861
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385922861/original.jpg
+- file: images/apodiformes/trochilidae/phlogophilus-hemileucurus/2.jpg
+  page: https://www.inaturalist.org/photos/417780996
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417780996/original.jpg
+- file: images/apodiformes/trochilidae/phlogophilus-hemileucurus/3.jpg
+  page: https://www.inaturalist.org/photos/168088902
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/168088902/original.jpeg
+- file: images/apodiformes/trochilidae/phlogophilus-hemileucurus/4.jpg
+  page: https://www.inaturalist.org/photos/417780994
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417780994/original.jpg
+- file: images/apodiformes/trochilidae/phlogophilus-hemileucurus/5.jpg
+  page: https://www.inaturalist.org/photos/167891709
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/167891709/original.jpeg
 ---
 
 

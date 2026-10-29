@@ -128,8 +128,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/patagioenas-goodsoni/1.jpg
+  page: https://www.inaturalist.org/photos/136603507
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/136603507/original.jpeg
+images:
+- file: images/columbiformes/columbidae/patagioenas-goodsoni/1.jpg
+  page: https://www.inaturalist.org/photos/136603507
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/136603507/original.jpeg
+- file: images/columbiformes/columbidae/patagioenas-goodsoni/2.jpg
+  page: https://www.inaturalist.org/photos/104824380
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104824380/original.jpeg
+- file: images/columbiformes/columbidae/patagioenas-goodsoni/3.jpg
+  page: https://www.inaturalist.org/photos/10430592
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/10430592/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-goodsoni/4.jpg
+  page: https://www.inaturalist.org/photos/136603511
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/136603511/original.jpeg
+- file: images/columbiformes/columbidae/patagioenas-goodsoni/5.jpg
+  page: https://www.inaturalist.org/photos/104824388
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104824388/original.jpeg
 ---
 
 

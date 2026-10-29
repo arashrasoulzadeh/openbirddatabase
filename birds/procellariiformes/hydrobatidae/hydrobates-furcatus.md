@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-furcatus/1.jpg
+  page: https://www.inaturalist.org/photos/605287220
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605287220/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-furcatus/1.jpg
+  page: https://www.inaturalist.org/photos/605287220
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605287220/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-furcatus/2.jpg
+  page: https://www.inaturalist.org/photos/670126828
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670126828/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-furcatus/3.jpg
+  page: https://www.inaturalist.org/photos/670390986
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670390986/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-furcatus/4.jpg
+  page: https://www.inaturalist.org/photos/678854942
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678854942/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-furcatus/5.jpg
+  page: https://www.inaturalist.org/photos/684340384
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684340384/original.jpg
 ---
 
 

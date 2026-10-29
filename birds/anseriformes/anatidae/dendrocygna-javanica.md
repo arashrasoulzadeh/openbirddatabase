@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/dendrocygna-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/607188823
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607188823/original.jpg
+images:
+- file: images/anseriformes/anatidae/dendrocygna-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/607188823
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607188823/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-javanica/2.jpg
+  page: https://www.inaturalist.org/photos/607116964
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116964/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-javanica/3.jpg
+  page: https://www.inaturalist.org/photos/619285199
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619285199/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-javanica/4.jpg
+  page: https://www.inaturalist.org/photos/623509906
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623509906/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-javanica/5.jpg
+  page: https://www.inaturalist.org/photos/607188829
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607188829/original.jpg
 ---
 
 

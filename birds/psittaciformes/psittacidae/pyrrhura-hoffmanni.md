@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-hoffmanni/1.jpg
+  page: https://www.inaturalist.org/photos/614797180
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614797180/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-hoffmanni/1.jpg
+  page: https://www.inaturalist.org/photos/614797180
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614797180/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-hoffmanni/2.jpg
+  page: https://www.inaturalist.org/photos/647386254
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647386254/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-hoffmanni/3.jpg
+  page: https://www.inaturalist.org/photos/719754946
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719754946/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-hoffmanni/4.jpg
+  page: https://www.inaturalist.org/photos/553511315
+  author: STEVEN PEREZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553511315/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-hoffmanni/5.jpg
+  page: https://www.inaturalist.org/photos/353242422
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353242422/original.jpg
 ---
 
 

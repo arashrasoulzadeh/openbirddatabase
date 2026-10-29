@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-krueperi/1.jpg
+  page: https://www.inaturalist.org/photos/607272940
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272940/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-krueperi/1.jpg
+  page: https://www.inaturalist.org/photos/607272940
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272940/original.jpg
+- file: images/passeriformes/sittidae/sitta-krueperi/2.jpg
+  page: https://www.inaturalist.org/photos/615027637
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615027637/original.jpg
+- file: images/passeriformes/sittidae/sitta-krueperi/3.jpg
+  page: https://www.inaturalist.org/photos/704251782
+  author: Юлия Захаренко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704251782/original.jpg
+- file: images/passeriformes/sittidae/sitta-krueperi/4.jpg
+  page: https://www.inaturalist.org/photos/726286362
+  author: Oscar Hazell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726286362/original.jpg
+- file: images/passeriformes/sittidae/sitta-krueperi/5.jpg
+  page: https://www.inaturalist.org/photos/734799202
+  author: Dylan Findlay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734799202/original.jpg
 ---
 
 

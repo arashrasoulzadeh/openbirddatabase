@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/anthracothorax-prevostii/1.jpg
+  page: https://www.inaturalist.org/photos/605677509
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605677509/original.jpg
+images:
+- file: images/apodiformes/trochilidae/anthracothorax-prevostii/1.jpg
+  page: https://www.inaturalist.org/photos/605677509
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605677509/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-prevostii/2.jpg
+  page: https://www.inaturalist.org/photos/604897410
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604897410/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-prevostii/3.jpg
+  page: https://www.inaturalist.org/photos/611961832
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611961832/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-prevostii/4.jpg
+  page: https://www.inaturalist.org/photos/612274756
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612274756/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-prevostii/5.jpg
+  page: https://www.inaturalist.org/photos/613446380
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613446380/original.jpg
 ---
 
 

@@ -147,10 +147,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/anseriformes/anatidae/oxyura-australis/1.jpg
+  page: https://www.inaturalist.org/photos/607088351
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607088351/original.jpg
+images:
+- file: images/anseriformes/anatidae/oxyura-australis/1.jpg
+  page: https://www.inaturalist.org/photos/607088351
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607088351/original.jpg
+- file: images/anseriformes/anatidae/oxyura-australis/2.jpg
+  page: https://www.inaturalist.org/photos/609892157
+  author: Cowirrie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609892157/original.jpg
+- file: images/anseriformes/anatidae/oxyura-australis/3.jpg
+  page: https://www.inaturalist.org/photos/614077424
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614077424/original.jpg
+- file: images/anseriformes/anatidae/oxyura-australis/4.jpg
+  page: https://www.inaturalist.org/photos/607089179
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607089179/original.jpg
+- file: images/anseriformes/anatidae/oxyura-australis/5.jpg
+  page: https://www.inaturalist.org/photos/607089115
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607089115/original.jpg
 ---
 
 

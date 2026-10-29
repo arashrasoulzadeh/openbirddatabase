@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-mesurus/1.jpg
+  page: https://www.inaturalist.org/photos/736678761
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736678761/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-mesurus/1.jpg
+  page: https://www.inaturalist.org/photos/736678761
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736678761/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-mesurus/2.jpg
+  page: https://www.inaturalist.org/photos/559611617
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559611617/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-mesurus/3.jpg
+  page: https://www.inaturalist.org/photos/437754374
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437754374/original.jpeg
+- file: images/trogoniformes/trogonidae/trogon-mesurus/4.jpg
+  page: https://www.inaturalist.org/photos/255794626
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255794626/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-mesurus/5.jpg
+  page: https://www.inaturalist.org/photos/323096081
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323096081/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/pellorneum-malaccense/1.jpg
+  page: https://www.inaturalist.org/photos/629631832
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629631832/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/pellorneum-malaccense/1.jpg
+  page: https://www.inaturalist.org/photos/629631832
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629631832/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-malaccense/2.jpg
+  page: https://www.inaturalist.org/photos/682511942
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682511942/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-malaccense/3.jpg
+  page: https://www.inaturalist.org/photos/686297721
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686297721/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-malaccense/4.jpg
+  page: https://www.inaturalist.org/photos/596952991
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596952991/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-malaccense/5.jpg
+  page: https://www.inaturalist.org/photos/456802801
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456802801/original.jpeg
 ---
 
 

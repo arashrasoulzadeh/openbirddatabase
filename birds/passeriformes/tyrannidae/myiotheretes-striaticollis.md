@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiotheretes-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/608012781
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608012781/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiotheretes-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/608012781
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608012781/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-striaticollis/2.jpg
+  page: https://www.inaturalist.org/photos/612914279
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612914279/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-striaticollis/3.jpg
+  page: https://www.inaturalist.org/photos/712787292
+  author: Gabriel Albelda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712787292/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-striaticollis/4.jpg
+  page: https://www.inaturalist.org/photos/724740516
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724740516/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-striaticollis/5.jpg
+  page: https://www.inaturalist.org/photos/530086601
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530086601/original.jpg
 ---
 
 

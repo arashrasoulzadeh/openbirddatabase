@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-spragueii/1.jpg
+  page: https://www.inaturalist.org/photos/710434224
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710434224/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-spragueii/1.jpg
+  page: https://www.inaturalist.org/photos/710434224
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710434224/original.jpg
+- file: images/passeriformes/motacillidae/anthus-spragueii/2.jpg
+  page: https://www.inaturalist.org/photos/480312060
+  author: JD Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480312060/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-spragueii/3.jpg
+  page: https://www.inaturalist.org/photos/524168522
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524168522/original.jpg
+- file: images/passeriformes/motacillidae/anthus-spragueii/4.jpg
+  page: https://www.inaturalist.org/photos/588671533
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588671533/original.jpg
+- file: images/passeriformes/motacillidae/anthus-spragueii/5.jpg
+  page: https://www.inaturalist.org/photos/598656220
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598656220/original.jpg
 ---
 
 

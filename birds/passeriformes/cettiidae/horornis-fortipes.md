@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/horornis-fortipes/1.jpg
+  page: https://www.inaturalist.org/photos/617369709
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617369709/original.jpg
+images:
+- file: images/passeriformes/cettiidae/horornis-fortipes/1.jpg
+  page: https://www.inaturalist.org/photos/617369709
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617369709/original.jpg
+- file: images/passeriformes/cettiidae/horornis-fortipes/2.jpg
+  page: https://www.inaturalist.org/photos/722403301
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403301/original.jpg
+- file: images/passeriformes/cettiidae/horornis-fortipes/3.jpg
+  page: https://www.inaturalist.org/photos/506092397
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506092397/original.jpg
+- file: images/passeriformes/cettiidae/horornis-fortipes/4.jpg
+  page: https://www.inaturalist.org/photos/548756346
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548756346/original.jpg
+- file: images/passeriformes/cettiidae/horornis-fortipes/5.jpg
+  page: https://www.inaturalist.org/photos/548756326
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548756326/original.jpg
 ---
 
 

@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 61
+image:
+  file: images/procellariiformes/diomedeidae/diomedea-sanfordi/1.jpg
+  page: https://www.inaturalist.org/photos/605243042
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243042/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/diomedea-sanfordi/1.jpg
+  page: https://www.inaturalist.org/photos/605243042
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243042/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-sanfordi/2.jpg
+  page: https://www.inaturalist.org/photos/606101780
+  author: Peter Hancock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606101780/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-sanfordi/3.jpg
+  page: https://www.inaturalist.org/photos/611602739
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611602739/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-sanfordi/4.jpg
+  page: https://www.inaturalist.org/photos/617686674
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617686674/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-sanfordi/5.jpg
+  page: https://www.inaturalist.org/photos/620140546
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620140546/original.jpg
 ---
 
 

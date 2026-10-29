@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/erythrogenys-erythrocnemis/1.jpg
+  page: https://www.inaturalist.org/photos/658474573
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658474573/original.jpg
+images:
+- file: images/passeriformes/timaliidae/erythrogenys-erythrocnemis/1.jpg
+  page: https://www.inaturalist.org/photos/658474573
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658474573/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-erythrocnemis/2.jpg
+  page: https://www.inaturalist.org/photos/696221266
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696221266/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-erythrocnemis/3.jpg
+  page: https://www.inaturalist.org/photos/684155650
+  author: Yu-Tang, Huang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684155650/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-erythrocnemis/4.jpg
+  page: https://www.inaturalist.org/photos/685108471
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685108471/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-erythrocnemis/5.jpg
+  page: https://www.inaturalist.org/photos/574237005
+  author: Malcolm Simard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574237005/original.jpg
 ---
 
 

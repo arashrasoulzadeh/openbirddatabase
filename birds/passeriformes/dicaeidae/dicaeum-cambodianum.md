@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-cambodianum/1.jpg
+  page: https://www.inaturalist.org/photos/609196649
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609196649/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-cambodianum/1.jpg
+  page: https://www.inaturalist.org/photos/609196649
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609196649/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-cambodianum/2.jpg
+  page: https://www.inaturalist.org/photos/614337075
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614337075/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-cambodianum/3.jpg
+  page: https://www.inaturalist.org/photos/617367934
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617367934/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-cambodianum/4.jpg
+  page: https://www.inaturalist.org/photos/624877754
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624877754/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-cambodianum/5.jpg
+  page: https://www.inaturalist.org/photos/629579906
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579906/original.jpg
 ---
 
 

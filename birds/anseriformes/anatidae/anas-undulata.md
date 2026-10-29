@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/anseriformes/anatidae/anas-undulata/1.jpg
+  page: https://www.inaturalist.org/photos/608867799
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608867799/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-undulata/1.jpg
+  page: https://www.inaturalist.org/photos/608867799
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608867799/original.jpg
+- file: images/anseriformes/anatidae/anas-undulata/2.jpg
+  page: https://www.inaturalist.org/photos/610369402
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610369402/original.jpg
+- file: images/anseriformes/anatidae/anas-undulata/3.jpg
+  page: https://www.inaturalist.org/photos/606333932
+  author: Haneef Tayob
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606333932/original.jpg
+- file: images/anseriformes/anatidae/anas-undulata/4.jpg
+  page: https://www.inaturalist.org/photos/612197267
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612197267/original.jpg
+- file: images/anseriformes/anatidae/anas-undulata/5.jpg
+  page: https://www.inaturalist.org/photos/612125247
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612125247/original.jpg
 ---
 
 

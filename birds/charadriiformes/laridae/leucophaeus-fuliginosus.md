@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 48.5
@@ -132,6 +133,26 @@ morphology:
   wing_length_mm: 341.0
   tail_length_mm: 139.0
   body_mass_g: 380.0
+image:
+  file: images/charadriiformes/laridae/leucophaeus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/677713426
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677713426/original.jpg
+images:
+- file: images/charadriiformes/laridae/leucophaeus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/677713426
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677713426/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-fuliginosus/2.jpg
+  page: https://www.inaturalist.org/photos/677713643
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677713643/original.jpg
 ---
 
 

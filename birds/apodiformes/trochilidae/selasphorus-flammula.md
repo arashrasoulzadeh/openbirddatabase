@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/selasphorus-flammula/1.jpg
+  page: https://www.inaturalist.org/photos/623761764
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623761764/original.jpg
+images:
+- file: images/apodiformes/trochilidae/selasphorus-flammula/1.jpg
+  page: https://www.inaturalist.org/photos/623761764
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623761764/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-flammula/2.jpg
+  page: https://www.inaturalist.org/photos/612728607
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612728607/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-flammula/3.jpg
+  page: https://www.inaturalist.org/photos/621254428
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621254428/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-flammula/4.jpg
+  page: https://www.inaturalist.org/photos/621610360
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621610360/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-flammula/5.jpg
+  page: https://www.inaturalist.org/photos/629605316
+  author: Fabian Orozco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629605316/original.jpg
 ---
 
 

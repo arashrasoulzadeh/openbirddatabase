@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/cypseloides-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/602883653
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602883653/original.jpg
+images:
+- file: images/apodiformes/apodidae/cypseloides-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/602883653
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602883653/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-fumigatus/2.jpg
+  page: https://www.inaturalist.org/photos/429727050
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429727050/original.jpeg
+- file: images/apodiformes/apodidae/cypseloides-fumigatus/3.jpg
+  page: https://www.inaturalist.org/photos/444265087
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444265087/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-fumigatus/4.jpg
+  page: https://www.inaturalist.org/photos/140676966
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/140676966/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-fumigatus/5.jpg
+  page: https://www.inaturalist.org/photos/20085000
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/20085000/original.jpeg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/drepanorhynchus-reichenowi/1.jpg
+  page: https://www.inaturalist.org/photos/716639305
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716639305/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/drepanorhynchus-reichenowi/1.jpg
+  page: https://www.inaturalist.org/photos/716639305
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716639305/original.jpg
+- file: images/passeriformes/nectariniidae/drepanorhynchus-reichenowi/2.jpg
+  page: https://www.inaturalist.org/photos/718535694
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718535694/original.jpg
+- file: images/passeriformes/nectariniidae/drepanorhynchus-reichenowi/3.jpg
+  page: https://www.inaturalist.org/photos/514076855
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514076855/original.jpg
+- file: images/passeriformes/nectariniidae/drepanorhynchus-reichenowi/4.jpg
+  page: https://www.inaturalist.org/photos/584655805
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584655805/original.jpg
+- file: images/passeriformes/nectariniidae/drepanorhynchus-reichenowi/5.jpg
+  page: https://www.inaturalist.org/photos/599558512
+  author: danielarah
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599558512/original.jpg
 ---
 
 

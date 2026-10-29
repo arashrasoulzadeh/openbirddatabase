@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/stephanoxis-loddigesii/1.jpg
+  page: https://www.inaturalist.org/photos/619832604
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619832604/original.jpg
+images:
+- file: images/apodiformes/trochilidae/stephanoxis-loddigesii/1.jpg
+  page: https://www.inaturalist.org/photos/619832604
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619832604/original.jpg
+- file: images/apodiformes/trochilidae/stephanoxis-loddigesii/2.jpg
+  page: https://www.inaturalist.org/photos/625220149
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625220149/original.jpg
+- file: images/apodiformes/trochilidae/stephanoxis-loddigesii/3.jpg
+  page: https://www.inaturalist.org/photos/632723375
+  author: Deonir Geolvane Zimmermann
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632723375/original.jpg
+- file: images/apodiformes/trochilidae/stephanoxis-loddigesii/4.jpg
+  page: https://www.inaturalist.org/photos/639563295
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639563295/original.jpg
+- file: images/apodiformes/trochilidae/stephanoxis-loddigesii/5.jpg
+  page: https://www.inaturalist.org/photos/691464859
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691464859/original.jpg
 ---
 
 

@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/myrmothera-dives/1.jpg
+  page: https://www.inaturalist.org/photos/266103226
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266103226/original.jpeg
+images:
+- file: images/passeriformes/grallariidae/myrmothera-dives/1.jpg
+  page: https://www.inaturalist.org/photos/266103226
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266103226/original.jpeg
+- file: images/passeriformes/grallariidae/myrmothera-dives/2.jpg
+  page: https://www.inaturalist.org/photos/548998201
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548998201/original.jpg
+- file: images/passeriformes/grallariidae/myrmothera-dives/3.jpg
+  page: https://www.inaturalist.org/photos/244962841
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244962841/original.jpg
+- file: images/passeriformes/grallariidae/myrmothera-dives/4.jpg
+  page: https://www.inaturalist.org/photos/266103267
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266103267/original.jpeg
+- file: images/passeriformes/grallariidae/myrmothera-dives/5.jpg
+  page: https://www.inaturalist.org/photos/266103198
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266103198/original.jpeg
 ---
 
 

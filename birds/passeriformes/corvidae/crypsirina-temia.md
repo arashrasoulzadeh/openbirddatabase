@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/crypsirina-temia/1.jpg
+  page: https://www.inaturalist.org/photos/610397870
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610397870/original.jpg
+images:
+- file: images/passeriformes/corvidae/crypsirina-temia/1.jpg
+  page: https://www.inaturalist.org/photos/610397870
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610397870/original.jpg
+- file: images/passeriformes/corvidae/crypsirina-temia/2.jpg
+  page: https://www.inaturalist.org/photos/613567335
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613567335/original.jpg
+- file: images/passeriformes/corvidae/crypsirina-temia/3.jpg
+  page: https://www.inaturalist.org/photos/618851818
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851818/original.jpg
+- file: images/passeriformes/corvidae/crypsirina-temia/4.jpg
+  page: https://www.inaturalist.org/photos/618918392
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618918392/original.jpg
+- file: images/passeriformes/corvidae/crypsirina-temia/5.jpg
+  page: https://www.inaturalist.org/photos/622854407
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622854407/original.jpg
 ---
 
 

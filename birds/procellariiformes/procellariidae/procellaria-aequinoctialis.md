@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/procellariiformes/procellariidae/procellaria-aequinoctialis/1.jpg
+  page: https://www.inaturalist.org/photos/605477852
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605477852/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/procellaria-aequinoctialis/1.jpg
+  page: https://www.inaturalist.org/photos/605477852
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605477852/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-aequinoctialis/2.jpg
+  page: https://www.inaturalist.org/photos/614225871
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614225871/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-aequinoctialis/3.jpg
+  page: https://www.inaturalist.org/photos/624050773
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624050773/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-aequinoctialis/4.jpg
+  page: https://www.inaturalist.org/photos/625188047
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625188047/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-aequinoctialis/5.jpg
+  page: https://www.inaturalist.org/photos/626299274
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626299274/original.jpg
 ---
 
 

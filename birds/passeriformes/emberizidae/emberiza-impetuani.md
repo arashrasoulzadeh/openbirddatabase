@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-impetuani/1.jpg
+  page: https://www.inaturalist.org/photos/610143430
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610143430/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-impetuani/1.jpg
+  page: https://www.inaturalist.org/photos/610143430
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610143430/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-impetuani/2.jpg
+  page: https://www.inaturalist.org/photos/617131097
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617131097/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-impetuani/3.jpg
+  page: https://www.inaturalist.org/photos/672024251
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672024251/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-impetuani/4.jpg
+  page: https://www.inaturalist.org/photos/660338215
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660338215/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-impetuani/5.jpg
+  page: https://www.inaturalist.org/photos/711899254
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711899254/original.jpg
 ---
 
 

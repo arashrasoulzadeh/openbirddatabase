@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hylophylax-naevius/1.jpg
+  page: https://www.inaturalist.org/photos/721734456
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721734456/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hylophylax-naevius/1.jpg
+  page: https://www.inaturalist.org/photos/721734456
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721734456/original.jpg
+- file: images/passeriformes/thamnophilidae/hylophylax-naevius/2.jpg
+  page: https://www.inaturalist.org/photos/329598148
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329598148/original.jpeg
+- file: images/passeriformes/thamnophilidae/hylophylax-naevius/3.jpg
+  page: https://www.inaturalist.org/photos/338446760
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338446760/original.jpg
+- file: images/passeriformes/thamnophilidae/hylophylax-naevius/4.jpg
+  page: https://www.inaturalist.org/photos/334970392
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334970392/original.jpg
+- file: images/passeriformes/thamnophilidae/hylophylax-naevius/5.jpg
+  page: https://www.inaturalist.org/photos/108673936
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108673936/original.jpg
 ---
 
 

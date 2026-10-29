@@ -135,8 +135,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-primigenia/1.jpg
+  page: https://www.inaturalist.org/photos/267295106
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295106/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-primigenia/1.jpg
+  page: https://www.inaturalist.org/photos/267295106
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295106/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-primigenia/2.jpg
+  page: https://www.inaturalist.org/photos/267295113
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295113/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-primigenia/3.jpg
+  page: https://www.inaturalist.org/photos/267295122
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295122/original.jpg
 ---
 
 

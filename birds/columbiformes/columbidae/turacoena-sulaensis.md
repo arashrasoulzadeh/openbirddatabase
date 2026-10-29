@@ -131,8 +131,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/turacoena-sulaensis/1.jpg
+  page: https://www.inaturalist.org/photos/583509168
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509168/original.jpg
+images:
+- file: images/columbiformes/columbidae/turacoena-sulaensis/1.jpg
+  page: https://www.inaturalist.org/photos/583509168
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509168/original.jpg
+- file: images/columbiformes/columbidae/turacoena-sulaensis/2.jpg
+  page: https://www.inaturalist.org/photos/583509176
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509176/original.jpg
+- file: images/columbiformes/columbidae/turacoena-sulaensis/3.jpg
+  page: https://www.inaturalist.org/photos/435253785
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253785/original.jpeg
+- file: images/columbiformes/columbidae/turacoena-sulaensis/4.jpg
+  page: https://www.inaturalist.org/photos/435253766
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253766/original.jpeg
+- file: images/columbiformes/columbidae/turacoena-sulaensis/5.jpg
+  page: https://www.inaturalist.org/photos/435253801
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253801/original.jpeg
 ---
 
 

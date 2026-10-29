@@ -201,10 +201,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/charadriiformes/scolopacidae/calidris-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/606208259
+  author: Andrew Gibson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606208259/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/606208259
+  author: Andrew Gibson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606208259/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ferruginea/2.jpg
+  page: https://www.inaturalist.org/photos/607027660
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607027660/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ferruginea/3.jpg
+  page: https://www.inaturalist.org/photos/606548187
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606548187/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ferruginea/4.jpg
+  page: https://www.inaturalist.org/photos/612710902
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612710902/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ferruginea/5.jpg
+  page: https://www.inaturalist.org/photos/616761617
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761617/original.jpg
 ---
 
 

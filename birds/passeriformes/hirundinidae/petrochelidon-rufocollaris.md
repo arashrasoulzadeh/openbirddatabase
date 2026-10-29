@@ -146,10 +146,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/passeriformes/hirundinidae/petrochelidon-rufocollaris/1.jpg
+  page: https://www.inaturalist.org/photos/559783913
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559783913/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/petrochelidon-rufocollaris/1.jpg
+  page: https://www.inaturalist.org/photos/559783913
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559783913/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-rufocollaris/2.jpg
+  page: https://www.inaturalist.org/photos/450652044
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450652044/original.jpeg
+- file: images/passeriformes/hirundinidae/petrochelidon-rufocollaris/3.jpg
+  page: https://www.inaturalist.org/photos/323100797
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323100797/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-rufocollaris/4.jpg
+  page: https://www.inaturalist.org/photos/469815573
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469815573/original.jpeg
+- file: images/passeriformes/hirundinidae/petrochelidon-rufocollaris/5.jpg
+  page: https://www.inaturalist.org/photos/124896011
+  author: Juan Carlos Caicedo Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/124896011/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/hierococcyx-fugax/1.jpg
+  page: https://www.inaturalist.org/photos/474495101
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474495101/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/hierococcyx-fugax/1.jpg
+  page: https://www.inaturalist.org/photos/474495101
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474495101/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-fugax/2.jpg
+  page: https://www.inaturalist.org/photos/414875185
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414875185/original.jpeg
+- file: images/cuculiformes/cuculidae/hierococcyx-fugax/3.jpg
+  page: https://www.inaturalist.org/photos/547323935
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547323935/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-fugax/4.jpg
+  page: https://www.inaturalist.org/photos/474495291
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474495291/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-fugax/5.jpg
+  page: https://www.inaturalist.org/photos/414875222
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414875222/original.jpeg
 ---
 
 

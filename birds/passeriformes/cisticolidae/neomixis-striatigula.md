@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/neomixis-striatigula/1.jpg
+  page: https://www.inaturalist.org/photos/453270049
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453270049/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/neomixis-striatigula/1.jpg
+  page: https://www.inaturalist.org/photos/453270049
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453270049/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-striatigula/2.jpg
+  page: https://www.inaturalist.org/photos/455736796
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455736796/original.jpeg
+- file: images/passeriformes/cisticolidae/neomixis-striatigula/3.jpg
+  page: https://www.inaturalist.org/photos/338500623
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338500623/original.jpeg
+- file: images/passeriformes/cisticolidae/neomixis-striatigula/4.jpg
+  page: https://www.inaturalist.org/photos/242742585
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242742585/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-striatigula/5.jpg
+  page: https://www.inaturalist.org/photos/8925952
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8925952/original.jpeg
 ---
 
 

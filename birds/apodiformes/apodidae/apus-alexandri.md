@@ -136,8 +136,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/apus-alexandri/1.jpg
+  page: https://www.inaturalist.org/photos/654824732
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654824732/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-alexandri/1.jpg
+  page: https://www.inaturalist.org/photos/654824732
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654824732/original.jpg
+- file: images/apodiformes/apodidae/apus-alexandri/2.jpg
+  page: https://www.inaturalist.org/photos/352415165
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352415165/original.jpg
+- file: images/apodiformes/apodidae/apus-alexandri/3.jpg
+  page: https://www.inaturalist.org/photos/460924585
+  author: Rob Wadsworth
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460924585/original.jpg
+- file: images/apodiformes/apodidae/apus-alexandri/4.jpg
+  page: https://www.inaturalist.org/photos/443632967
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443632967/original.jpg
+- file: images/apodiformes/apodidae/apus-alexandri/5.jpg
+  page: https://www.inaturalist.org/photos/654303650
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654303650/original.jpg
 ---
 
 

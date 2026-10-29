@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/635164579
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635164579/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/635164579
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635164579/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/652070882
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652070882/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/659536468
+  author: Tatsutomo Chin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659536468/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/465085736
+  author: Cheng-Te Hsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465085736/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/378480437
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378480437/original.jpeg
 ---
 
 

@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/serinus-flavivertex/1.jpg
+  page: https://www.inaturalist.org/photos/550606736
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550606736/original.jpg
+images:
+- file: images/passeriformes/fringillidae/serinus-flavivertex/1.jpg
+  page: https://www.inaturalist.org/photos/550606736
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550606736/original.jpg
+- file: images/passeriformes/fringillidae/serinus-flavivertex/2.jpg
+  page: https://www.inaturalist.org/photos/602482555
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602482555/original.jpg
+- file: images/passeriformes/fringillidae/serinus-flavivertex/3.jpg
+  page: https://www.inaturalist.org/photos/361711074
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361711074/original.jpg
+- file: images/passeriformes/fringillidae/serinus-flavivertex/4.jpg
+  page: https://www.inaturalist.org/photos/439294623
+  author: Jonathan Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439294623/original.jpg
+- file: images/passeriformes/fringillidae/serinus-flavivertex/5.jpg
+  page: https://www.inaturalist.org/photos/595625224
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595625224/original.jpg
 ---
 
 

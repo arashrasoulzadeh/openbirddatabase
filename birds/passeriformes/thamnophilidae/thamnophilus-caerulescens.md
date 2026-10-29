@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/607273204
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273204/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/607273204
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273204/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/637692779
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637692779/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/645710373
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645710373/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/642131263
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642131263/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/645889442
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645889442/original.jpg
 ---
 
 

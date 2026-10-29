@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/parulidae/geothlypis-trichas/1.jpg
+  page: https://www.inaturalist.org/photos/604658627
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604658627/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-trichas/1.jpg
+  page: https://www.inaturalist.org/photos/604658627
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604658627/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-trichas/2.jpg
+  page: https://www.inaturalist.org/photos/604964457
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604964457/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-trichas/3.jpg
+  page: https://www.inaturalist.org/photos/604643526
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604643526/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-trichas/4.jpg
+  page: https://www.inaturalist.org/photos/604572148
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604572148/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-trichas/5.jpg
+  page: https://www.inaturalist.org/photos/609954446
+  author: willingarden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609954446/original.jpg
 ---
 
 

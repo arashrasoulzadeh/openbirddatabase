@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-purpuratus/1.jpg
+  page: https://www.inaturalist.org/photos/611695017
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611695017/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-purpuratus/1.jpg
+  page: https://www.inaturalist.org/photos/611695017
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611695017/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-purpuratus/2.jpg
+  page: https://www.inaturalist.org/photos/655661952
+  author: Antoine MARNAT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655661952/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-purpuratus/3.jpg
+  page: https://www.inaturalist.org/photos/678099117
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678099117/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-purpuratus/4.jpg
+  page: https://www.inaturalist.org/photos/724435901
+  author: Hugh Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724435901/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-purpuratus/5.jpg
+  page: https://www.inaturalist.org/photos/600455834
+  author: Neil Birrell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600455834/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mionectes-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/591324183
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324183/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/mionectes-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/591324183
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324183/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-striaticollis/2.jpg
+  page: https://www.inaturalist.org/photos/594505054
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594505054/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-striaticollis/3.jpg
+  page: https://www.inaturalist.org/photos/351115661
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351115661/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-striaticollis/4.jpg
+  page: https://www.inaturalist.org/photos/426992426
+  author: Andrew Campbell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426992426/original.jpeg
+- file: images/passeriformes/tyrannidae/mionectes-striaticollis/5.jpg
+  page: https://www.inaturalist.org/photos/454907371
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454907371/original.jpeg
 ---
 
 

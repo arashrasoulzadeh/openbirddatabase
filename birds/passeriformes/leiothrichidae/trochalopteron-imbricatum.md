@@ -142,8 +142,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-imbricatum/1.jpg
+  page: https://www.inaturalist.org/photos/635095298
+  author: Tarun Meena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635095298/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-imbricatum/1.jpg
+  page: https://www.inaturalist.org/photos/635095298
+  author: Tarun Meena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635095298/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-imbricatum/2.jpg
+  page: https://www.inaturalist.org/photos/503260708
+  author: libby hepburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503260708/original.jpeg
+- file: images/passeriformes/leiothrichidae/trochalopteron-imbricatum/3.jpg
+  page: https://www.inaturalist.org/photos/603784344
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603784344/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-imbricatum/4.jpg
+  page: https://www.inaturalist.org/photos/365336599
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365336599/original.jpeg
+- file: images/passeriformes/leiothrichidae/trochalopteron-imbricatum/5.jpg
+  page: https://www.inaturalist.org/photos/175577892
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175577892/original.jpg
 ---
 
 

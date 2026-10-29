@@ -133,7 +133,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 25.6
@@ -143,6 +144,44 @@ morphology:
   body_mass_g: 89.6
 reproduction:
   clutch_size_mean: 4.0
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-finschii/1.jpg
+  page: https://www.inaturalist.org/photos/615465905
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615465905/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-finschii/1.jpg
+  page: https://www.inaturalist.org/photos/615465905
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615465905/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-finschii/2.jpg
+  page: https://www.inaturalist.org/photos/724016686
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724016686/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-finschii/3.jpg
+  page: https://www.inaturalist.org/photos/351740538
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351740538/original.jpeg
+- file: images/psittaciformes/psittaculidae/psittacula-finschii/4.jpg
+  page: https://www.inaturalist.org/photos/386441391
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386441391/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-finschii/5.jpg
+  page: https://www.inaturalist.org/photos/343930018
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343930018/original.jpeg
 ---
 
 

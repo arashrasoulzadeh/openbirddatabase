@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/lophotriccus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/463206877
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463206877/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/lophotriccus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/463206877
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463206877/original.jpeg
+- file: images/passeriformes/tyrannidae/lophotriccus-pileatus/2.jpg
+  page: https://www.inaturalist.org/photos/473434721
+  author: Buckelkopfcichlide
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473434721/original.jpeg
+- file: images/passeriformes/tyrannidae/lophotriccus-pileatus/3.jpg
+  page: https://www.inaturalist.org/photos/518455072
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518455072/original.jpg
+- file: images/passeriformes/tyrannidae/lophotriccus-pileatus/4.jpg
+  page: https://www.inaturalist.org/photos/554953911
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554953911/original.jpg
+- file: images/passeriformes/tyrannidae/lophotriccus-pileatus/5.jpg
+  page: https://www.inaturalist.org/photos/559068822
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559068822/original.jpg
 ---
 
 

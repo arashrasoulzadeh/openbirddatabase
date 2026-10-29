@@ -240,10 +240,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 69
+image:
+  file: images/passeriformes/corvidae/corvus-corax/1.jpg
+  page: https://www.inaturalist.org/photos/605054561
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605054561/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-corax/1.jpg
+  page: https://www.inaturalist.org/photos/605054561
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605054561/original.jpg
+- file: images/passeriformes/corvidae/corvus-corax/2.jpg
+  page: https://www.inaturalist.org/photos/604447727
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604447727/original.jpg
+- file: images/passeriformes/corvidae/corvus-corax/3.jpg
+  page: https://www.inaturalist.org/photos/604717862
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604717862/original.jpg
+- file: images/passeriformes/corvidae/corvus-corax/4.jpg
+  page: https://www.inaturalist.org/photos/604482874
+  author: Полина Полежанкина
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604482874/original.jpg
+- file: images/passeriformes/corvidae/corvus-corax/5.jpg
+  page: https://www.inaturalist.org/photos/605049712
+  author: k
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605049712/original.jpg
 ---
 
 

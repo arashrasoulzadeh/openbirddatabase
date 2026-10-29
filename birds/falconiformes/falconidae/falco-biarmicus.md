@@ -195,8 +195,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-biarmicus/1.jpg
+  page: https://www.inaturalist.org/photos/608407841
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608407841/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-biarmicus/1.jpg
+  page: https://www.inaturalist.org/photos/608407841
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608407841/original.jpg
+- file: images/falconiformes/falconidae/falco-biarmicus/2.jpg
+  page: https://www.inaturalist.org/photos/612186372
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612186372/original.jpg
+- file: images/falconiformes/falconidae/falco-biarmicus/3.jpg
+  page: https://www.inaturalist.org/photos/620114631
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620114631/original.jpg
+- file: images/falconiformes/falconidae/falco-biarmicus/4.jpg
+  page: https://www.inaturalist.org/photos/618555412
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618555412/original.jpg
+- file: images/falconiformes/falconidae/falco-biarmicus/5.jpg
+  page: https://www.inaturalist.org/photos/623391513
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623391513/original.jpg
 ---
 
 

@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hypocoliidae/hypocolius-ampelinus/1.jpg
+  page: https://www.inaturalist.org/photos/474359227
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474359227/original.jpeg
+images:
+- file: images/passeriformes/hypocoliidae/hypocolius-ampelinus/1.jpg
+  page: https://www.inaturalist.org/photos/474359227
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474359227/original.jpeg
+- file: images/passeriformes/hypocoliidae/hypocolius-ampelinus/2.jpg
+  page: https://www.inaturalist.org/photos/472344725
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472344725/original.jpg
+- file: images/passeriformes/hypocoliidae/hypocolius-ampelinus/3.jpg
+  page: https://www.inaturalist.org/photos/645206477
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645206477/original.jpg
+- file: images/passeriformes/hypocoliidae/hypocolius-ampelinus/4.jpg
+  page: https://www.inaturalist.org/photos/459135067
+  author: Mohammad Amin Ghaffari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459135067/original.jpeg
+- file: images/passeriformes/hypocoliidae/hypocolius-ampelinus/5.jpg
+  page: https://www.inaturalist.org/photos/261077097
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261077097/original.jpeg
 ---
 
 

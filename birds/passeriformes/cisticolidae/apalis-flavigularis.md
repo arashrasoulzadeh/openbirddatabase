@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/apalis-flavigularis/1.jpg
+  page: https://www.inaturalist.org/photos/446500221
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500221/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/apalis-flavigularis/1.jpg
+  page: https://www.inaturalist.org/photos/446500221
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500221/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-flavigularis/2.jpg
+  page: https://www.inaturalist.org/photos/446500183
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500183/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-flavigularis/3.jpg
+  page: https://www.inaturalist.org/photos/446500208
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500208/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-flavigularis/4.jpg
+  page: https://www.inaturalist.org/photos/446500209
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500209/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-flavigularis/5.jpg
+  page: https://www.inaturalist.org/photos/446500210
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500210/original.jpg
 ---
 
 

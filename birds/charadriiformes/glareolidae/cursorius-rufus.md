@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/cursorius-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/712504141
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712504141/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/cursorius-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/712504141
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712504141/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-rufus/2.jpg
+  page: https://www.inaturalist.org/photos/519825924
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519825924/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-rufus/3.jpg
+  page: https://www.inaturalist.org/photos/317823156
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/317823156/original.jpeg
+- file: images/charadriiformes/glareolidae/cursorius-rufus/4.jpg
+  page: https://www.inaturalist.org/photos/116429446
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116429446/original.jpeg
+- file: images/charadriiformes/glareolidae/cursorius-rufus/5.jpg
+  page: https://www.inaturalist.org/photos/456828545
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456828545/original.jpeg
 ---
 
 

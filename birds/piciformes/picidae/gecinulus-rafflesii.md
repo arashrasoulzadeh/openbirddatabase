@@ -125,8 +125,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/piciformes/picidae/gecinulus-rafflesii/1.jpg
+  page: https://www.inaturalist.org/photos/546696299
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546696299/original.jpg
+images:
+- file: images/piciformes/picidae/gecinulus-rafflesii/1.jpg
+  page: https://www.inaturalist.org/photos/546696299
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546696299/original.jpg
+- file: images/piciformes/picidae/gecinulus-rafflesii/2.jpg
+  page: https://www.inaturalist.org/photos/598560646
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598560646/original.jpg
+- file: images/piciformes/picidae/gecinulus-rafflesii/3.jpg
+  page: https://www.inaturalist.org/photos/547345779
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547345779/original.jpg
+- file: images/piciformes/picidae/gecinulus-rafflesii/4.jpg
+  page: https://www.inaturalist.org/photos/547362905
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547362905/original.jpg
+- file: images/piciformes/picidae/gecinulus-rafflesii/5.jpg
+  page: https://www.inaturalist.org/photos/546787113
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546787113/original.jpg
 ---
 
 

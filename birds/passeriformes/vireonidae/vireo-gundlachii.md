@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireo-gundlachii/1.jpg
+  page: https://www.inaturalist.org/photos/611497562
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611497562/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-gundlachii/1.jpg
+  page: https://www.inaturalist.org/photos/611497562
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611497562/original.jpg
+- file: images/passeriformes/vireonidae/vireo-gundlachii/2.jpg
+  page: https://www.inaturalist.org/photos/629206459
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629206459/original.jpg
+- file: images/passeriformes/vireonidae/vireo-gundlachii/3.jpg
+  page: https://www.inaturalist.org/photos/347109730
+  author: Robin White
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347109730/original.jpg
+- file: images/passeriformes/vireonidae/vireo-gundlachii/4.jpg
+  page: https://www.inaturalist.org/photos/574685675
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574685675/original.jpg
+- file: images/passeriformes/vireonidae/vireo-gundlachii/5.jpg
+  page: https://www.inaturalist.org/photos/354230741
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354230741/original.jpg
 ---
 
 

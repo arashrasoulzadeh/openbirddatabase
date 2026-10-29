@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-cruentata/1.jpg
+  page: https://www.inaturalist.org/photos/670664163
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670664163/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-cruentata/1.jpg
+  page: https://www.inaturalist.org/photos/670664163
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670664163/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-cruentata/2.jpg
+  page: https://www.inaturalist.org/photos/669860352
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669860352/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-cruentata/3.jpg
+  page: https://www.inaturalist.org/photos/736136687
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736136687/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-cruentata/4.jpg
+  page: https://www.inaturalist.org/photos/505648764
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505648764/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-cruentata/5.jpg
+  page: https://www.inaturalist.org/photos/417464691
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417464691/original.jpg
 ---
 
 

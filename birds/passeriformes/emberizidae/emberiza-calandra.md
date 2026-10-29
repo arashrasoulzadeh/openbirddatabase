@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/emberizidae/emberiza-calandra/1.jpg
+  page: https://www.inaturalist.org/photos/610495827
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610495827/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-calandra/1.jpg
+  page: https://www.inaturalist.org/photos/610495827
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610495827/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-calandra/2.jpg
+  page: https://www.inaturalist.org/photos/609690465
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609690465/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-calandra/3.jpg
+  page: https://www.inaturalist.org/photos/609035645
+  author: uxbridgebirder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609035645/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-calandra/4.jpg
+  page: https://www.inaturalist.org/photos/609148184
+  author: Marco Lipka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609148184/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-calandra/5.jpg
+  page: https://www.inaturalist.org/photos/606625336
+  author: euqirneto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606625336/original.jpg
 ---
 
 

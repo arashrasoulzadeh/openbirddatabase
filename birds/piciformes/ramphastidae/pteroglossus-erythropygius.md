@@ -146,8 +146,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/pteroglossus-erythropygius/1.jpg
+  page: https://www.inaturalist.org/photos/609302869
+  author: Benjamin Hidalgo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609302869/original.jpg
+images:
+- file: images/piciformes/ramphastidae/pteroglossus-erythropygius/1.jpg
+  page: https://www.inaturalist.org/photos/609302869
+  author: Benjamin Hidalgo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609302869/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-erythropygius/2.jpg
+  page: https://www.inaturalist.org/photos/610883420
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610883420/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-erythropygius/3.jpg
+  page: https://www.inaturalist.org/photos/609248328
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609248328/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-erythropygius/4.jpg
+  page: https://www.inaturalist.org/photos/618276716
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618276716/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-erythropygius/5.jpg
+  page: https://www.inaturalist.org/photos/631003407
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631003407/original.jpg
 ---
 
 

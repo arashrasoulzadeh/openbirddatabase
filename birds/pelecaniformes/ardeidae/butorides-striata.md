@@ -208,10 +208,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/pelecaniformes/ardeidae/butorides-striata/1.jpg
+  page: https://www.inaturalist.org/photos/610062487
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610062487/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/butorides-striata/1.jpg
+  page: https://www.inaturalist.org/photos/610062487
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610062487/original.jpg
+- file: images/pelecaniformes/ardeidae/butorides-striata/2.jpg
+  page: https://www.inaturalist.org/photos/610219570
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610219570/original.jpg
+- file: images/pelecaniformes/ardeidae/butorides-striata/3.jpg
+  page: https://www.inaturalist.org/photos/608955254
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608955254/original.jpg
+- file: images/pelecaniformes/ardeidae/butorides-striata/4.jpg
+  page: https://www.inaturalist.org/photos/609364412
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609364412/original.jpg
+- file: images/pelecaniformes/ardeidae/butorides-striata/5.jpg
+  page: https://www.inaturalist.org/photos/607343822
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607343822/original.jpg
 ---
 
 

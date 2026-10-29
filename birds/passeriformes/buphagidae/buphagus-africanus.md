@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/buphagidae/buphagus-africanus/1.jpg
+  page: https://www.inaturalist.org/photos/612473575
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612473575/original.jpg
+images:
+- file: images/passeriformes/buphagidae/buphagus-africanus/1.jpg
+  page: https://www.inaturalist.org/photos/612473575
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612473575/original.jpg
+- file: images/passeriformes/buphagidae/buphagus-africanus/2.jpg
+  page: https://www.inaturalist.org/photos/650456143
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650456143/original.jpg
+- file: images/passeriformes/buphagidae/buphagus-africanus/3.jpg
+  page: https://www.inaturalist.org/photos/665659986
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665659986/original.jpg
+- file: images/passeriformes/buphagidae/buphagus-africanus/4.jpg
+  page: https://www.inaturalist.org/photos/682516369
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682516369/original.jpg
+- file: images/passeriformes/buphagidae/buphagus-africanus/5.jpg
+  page: https://www.inaturalist.org/photos/639763886
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639763886/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/dendrocitta-formosae/1.jpg
+  page: https://www.inaturalist.org/photos/610614647
+  author: GinaGPark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610614647/original.jpg
+images:
+- file: images/passeriformes/corvidae/dendrocitta-formosae/1.jpg
+  page: https://www.inaturalist.org/photos/610614647
+  author: GinaGPark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610614647/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-formosae/2.jpg
+  page: https://www.inaturalist.org/photos/608051609
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608051609/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-formosae/3.jpg
+  page: https://www.inaturalist.org/photos/610690876
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610690876/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-formosae/4.jpg
+  page: https://www.inaturalist.org/photos/608574162
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608574162/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-formosae/5.jpg
+  page: https://www.inaturalist.org/photos/612078303
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612078303/original.jpg
 ---
 
 

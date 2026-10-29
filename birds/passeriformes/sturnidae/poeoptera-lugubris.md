@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/poeoptera-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/591396576
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591396576/original.jpg
+images:
+- file: images/passeriformes/sturnidae/poeoptera-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/591396576
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591396576/original.jpg
+- file: images/passeriformes/sturnidae/poeoptera-lugubris/2.jpg
+  page: https://www.inaturalist.org/photos/393648944
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393648944/original.jpg
+- file: images/passeriformes/sturnidae/poeoptera-lugubris/3.jpg
+  page: https://www.inaturalist.org/photos/591396586
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591396586/original.jpg
+- file: images/passeriformes/sturnidae/poeoptera-lugubris/4.jpg
+  page: https://www.inaturalist.org/photos/591396568
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591396568/original.jpg
+- file: images/passeriformes/sturnidae/poeoptera-lugubris/5.jpg
+  page: https://www.inaturalist.org/photos/591396577
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591396577/original.jpg
 ---
 
 

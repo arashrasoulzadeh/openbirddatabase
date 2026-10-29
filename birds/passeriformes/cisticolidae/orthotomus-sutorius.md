@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/orthotomus-sutorius/1.jpg
+  page: https://www.inaturalist.org/photos/604728176
+  author: Aleksandr Gromov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604728176/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/orthotomus-sutorius/1.jpg
+  page: https://www.inaturalist.org/photos/604728176
+  author: Aleksandr Gromov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604728176/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-sutorius/2.jpg
+  page: https://www.inaturalist.org/photos/607736976
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607736976/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-sutorius/3.jpg
+  page: https://www.inaturalist.org/photos/609196861
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609196861/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-sutorius/4.jpg
+  page: https://www.inaturalist.org/photos/608362294
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608362294/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-sutorius/5.jpg
+  page: https://www.inaturalist.org/photos/605891255
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605891255/original.jpg
 ---
 
 

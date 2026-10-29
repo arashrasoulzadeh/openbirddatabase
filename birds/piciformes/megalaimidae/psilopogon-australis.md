@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-australis/1.jpg
+  page: https://www.inaturalist.org/photos/658094788
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658094788/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-australis/1.jpg
+  page: https://www.inaturalist.org/photos/658094788
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658094788/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-australis/2.jpg
+  page: https://www.inaturalist.org/photos/383797410
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/383797410/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-australis/3.jpg
+  page: https://www.inaturalist.org/photos/279211807
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279211807/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-australis/4.jpg
+  page: https://www.inaturalist.org/photos/249350569
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249350569/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-australis/5.jpg
+  page: https://www.inaturalist.org/photos/103270038
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103270038/original.jpeg
 ---
 
 

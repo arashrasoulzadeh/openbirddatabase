@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/cardinalidae/piranga-rubra/1.jpg
+  page: https://www.inaturalist.org/photos/605390988
+  author: Dylan Camacho Guzman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605390988/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/piranga-rubra/1.jpg
+  page: https://www.inaturalist.org/photos/605390988
+  author: Dylan Camacho Guzman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605390988/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-rubra/2.jpg
+  page: https://www.inaturalist.org/photos/605650971
+  author: Arturo Benavides Mendoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605650971/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-rubra/3.jpg
+  page: https://www.inaturalist.org/photos/610577752
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610577752/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-rubra/4.jpg
+  page: https://www.inaturalist.org/photos/610572303
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610572303/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-rubra/5.jpg
+  page: https://www.inaturalist.org/photos/609123128
+  author: Texas Bird Family
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609123128/original.jpg
 ---
 
 

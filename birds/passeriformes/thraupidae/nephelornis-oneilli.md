@@ -140,8 +140,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/nephelornis-oneilli/1.jpg
+  page: https://www.inaturalist.org/photos/352533392
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352533392/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/nephelornis-oneilli/1.jpg
+  page: https://www.inaturalist.org/photos/352533392
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352533392/original.jpeg
+- file: images/passeriformes/thraupidae/nephelornis-oneilli/2.jpg
+  page: https://www.inaturalist.org/photos/352533377
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352533377/original.jpeg
 ---
 
 

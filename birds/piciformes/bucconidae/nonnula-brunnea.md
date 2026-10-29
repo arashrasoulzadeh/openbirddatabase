@@ -142,8 +142,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/nonnula-brunnea/1.jpg
+  page: https://www.inaturalist.org/photos/199483942
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199483942/original.jpg
+images:
+- file: images/piciformes/bucconidae/nonnula-brunnea/1.jpg
+  page: https://www.inaturalist.org/photos/199483942
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199483942/original.jpg
+- file: images/piciformes/bucconidae/nonnula-brunnea/2.jpg
+  page: https://www.inaturalist.org/photos/62673716
+  author: Dan Riskin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62673716/original.jpg
+- file: images/piciformes/bucconidae/nonnula-brunnea/3.jpg
+  page: https://www.inaturalist.org/photos/159912799
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/159912799/original.jpeg
 ---
 
 

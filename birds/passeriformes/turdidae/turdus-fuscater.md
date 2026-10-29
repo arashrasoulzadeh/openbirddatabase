@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-fuscater/1.jpg
+  page: https://www.inaturalist.org/photos/608004578
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608004578/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-fuscater/1.jpg
+  page: https://www.inaturalist.org/photos/608004578
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608004578/original.jpg
+- file: images/passeriformes/turdidae/turdus-fuscater/2.jpg
+  page: https://www.inaturalist.org/photos/606494167
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606494167/original.jpg
+- file: images/passeriformes/turdidae/turdus-fuscater/3.jpg
+  page: https://www.inaturalist.org/photos/610574936
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574936/original.jpg
+- file: images/passeriformes/turdidae/turdus-fuscater/4.jpg
+  page: https://www.inaturalist.org/photos/612729186
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612729186/original.jpg
+- file: images/passeriformes/turdidae/turdus-fuscater/5.jpg
+  page: https://www.inaturalist.org/photos/612143317
+  author: Sebastián Ordóñez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612143317/original.jpg
 ---
 
 

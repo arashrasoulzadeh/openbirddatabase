@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-crenatus/1.jpg
+  page: https://www.inaturalist.org/photos/586574409
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586574409/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-crenatus/1.jpg
+  page: https://www.inaturalist.org/photos/586574409
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586574409/original.jpg
+- file: images/passeriformes/motacillidae/anthus-crenatus/2.jpg
+  page: https://www.inaturalist.org/photos/112817803
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/112817803/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-crenatus/3.jpg
+  page: https://www.inaturalist.org/photos/93100913
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/93100913/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-crenatus/4.jpg
+  page: https://www.inaturalist.org/photos/13596727
+  author: Todd Boland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13596727/original.jpg
+- file: images/passeriformes/motacillidae/anthus-crenatus/5.jpg
+  page: https://www.inaturalist.org/photos/586574411
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586574411/original.jpg
 ---
 
 

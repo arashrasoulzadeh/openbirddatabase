@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-lignarius/1.jpg
+  page: https://www.inaturalist.org/photos/605179918
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605179918/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-lignarius/1.jpg
+  page: https://www.inaturalist.org/photos/605179918
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605179918/original.jpg
+- file: images/piciformes/picidae/veniliornis-lignarius/2.jpg
+  page: https://www.inaturalist.org/photos/609424289
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609424289/original.jpg
+- file: images/piciformes/picidae/veniliornis-lignarius/3.jpg
+  page: https://www.inaturalist.org/photos/613718718
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613718718/original.jpg
+- file: images/piciformes/picidae/veniliornis-lignarius/4.jpg
+  page: https://www.inaturalist.org/photos/616476651
+  author: Kath Altamirano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616476651/original.jpg
+- file: images/piciformes/picidae/veniliornis-lignarius/5.jpg
+  page: https://www.inaturalist.org/photos/625214030
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625214030/original.jpg
 ---
 
 

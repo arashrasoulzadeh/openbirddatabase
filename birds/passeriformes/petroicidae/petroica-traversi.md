@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/petroicidae/petroica-traversi/1.jpg
+  page: https://www.inaturalist.org/photos/2217220
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2217220/original.jpg
+images:
+- file: images/passeriformes/petroicidae/petroica-traversi/1.jpg
+  page: https://www.inaturalist.org/photos/2217220
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2217220/original.jpg
+- file: images/passeriformes/petroicidae/petroica-traversi/2.jpg
+  page: https://www.inaturalist.org/photos/2217239
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2217239/original.jpg
+- file: images/passeriformes/petroicidae/petroica-traversi/3.jpg
+  page: https://www.inaturalist.org/photos/2217551
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2217551/original.jpg
+- file: images/passeriformes/petroicidae/petroica-traversi/4.jpg
+  page: https://www.inaturalist.org/photos/2235630
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2235630/original.jpg
+- file: images/passeriformes/petroicidae/petroica-traversi/5.jpg
+  page: https://www.inaturalist.org/photos/2305008
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2305008/original.jpg
 ---
 
 

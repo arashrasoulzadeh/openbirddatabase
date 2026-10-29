@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/empidonax-atriceps/1.jpg
+  page: https://www.inaturalist.org/photos/607292288
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607292288/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonax-atriceps/1.jpg
+  page: https://www.inaturalist.org/photos/607292288
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607292288/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-atriceps/2.jpg
+  page: https://www.inaturalist.org/photos/657979467
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657979467/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-atriceps/3.jpg
+  page: https://www.inaturalist.org/photos/709311901
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709311901/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-atriceps/4.jpg
+  page: https://www.inaturalist.org/photos/706947756
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706947756/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-atriceps/5.jpg
+  page: https://www.inaturalist.org/photos/719304767
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719304767/original.jpg
 ---
 
 

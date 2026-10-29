@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/thlypopsis-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/651841905
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651841905/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thlypopsis-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/651841905
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651841905/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/730345294
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730345294/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/463203552
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463203552/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/474005497
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474005497/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/562783706
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562783706/original.jpg
 ---
 
 

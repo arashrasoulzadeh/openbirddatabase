@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/rhinocrypta-lanceolata/1.jpg
+  page: https://www.inaturalist.org/photos/637714291
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637714291/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/rhinocrypta-lanceolata/1.jpg
+  page: https://www.inaturalist.org/photos/637714291
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637714291/original.jpg
+- file: images/passeriformes/rhinocryptidae/rhinocrypta-lanceolata/2.jpg
+  page: https://www.inaturalist.org/photos/685247264
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685247264/original.jpg
+- file: images/passeriformes/rhinocryptidae/rhinocrypta-lanceolata/3.jpg
+  page: https://www.inaturalist.org/photos/739633099
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739633099/original.jpg
+- file: images/passeriformes/rhinocryptidae/rhinocrypta-lanceolata/4.jpg
+  page: https://www.inaturalist.org/photos/472149873
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472149873/original.jpg
+- file: images/passeriformes/rhinocryptidae/rhinocrypta-lanceolata/5.jpg
+  page: https://www.inaturalist.org/photos/476160418
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476160418/original.jpeg
 ---
 
 

@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.9
@@ -136,6 +137,44 @@ morphology:
   wing_length_mm: 73.1
   tail_length_mm: 84.7
   body_mass_g: 16.3
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-lansbergei/1.jpg
+  page: https://www.inaturalist.org/photos/693707412
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693707412/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-lansbergei/1.jpg
+  page: https://www.inaturalist.org/photos/693707412
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693707412/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-lansbergei/2.jpg
+  page: https://www.inaturalist.org/photos/435395579
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435395579/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-lansbergei/3.jpg
+  page: https://www.inaturalist.org/photos/696362554
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696362554/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-lansbergei/4.jpg
+  page: https://www.inaturalist.org/photos/589680929
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589680929/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-lansbergei/5.jpg
+  page: https://www.inaturalist.org/photos/596127341
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596127341/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/cutia-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/514452313
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514452313/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/cutia-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/514452313
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514452313/original.jpg
+- file: images/passeriformes/leiothrichidae/cutia-nipalensis/2.jpg
+  page: https://www.inaturalist.org/photos/373056545
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373056545/original.jpg
+- file: images/passeriformes/leiothrichidae/cutia-nipalensis/3.jpg
+  page: https://www.inaturalist.org/photos/386385924
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386385924/original.jpeg
+- file: images/passeriformes/leiothrichidae/cutia-nipalensis/4.jpg
+  page: https://www.inaturalist.org/photos/450447866
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450447866/original.jpeg
+- file: images/passeriformes/leiothrichidae/cutia-nipalensis/5.jpg
+  page: https://www.inaturalist.org/photos/256022420
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256022420/original.jpg
 ---
 
 

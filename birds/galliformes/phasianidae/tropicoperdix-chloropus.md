@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/tropicoperdix-chloropus/1.jpg
+  page: https://www.inaturalist.org/photos/614221022
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614221022/original.jpg
+images:
+- file: images/galliformes/phasianidae/tropicoperdix-chloropus/1.jpg
+  page: https://www.inaturalist.org/photos/614221022
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614221022/original.jpg
+- file: images/galliformes/phasianidae/tropicoperdix-chloropus/2.jpg
+  page: https://www.inaturalist.org/photos/617147283
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147283/original.jpg
+- file: images/galliformes/phasianidae/tropicoperdix-chloropus/3.jpg
+  page: https://www.inaturalist.org/photos/637817819
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637817819/original.jpg
+- file: images/galliformes/phasianidae/tropicoperdix-chloropus/4.jpg
+  page: https://www.inaturalist.org/photos/628224910
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628224910/original.jpg
+- file: images/galliformes/phasianidae/tropicoperdix-chloropus/5.jpg
+  page: https://www.inaturalist.org/photos/631339680
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631339680/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/formicariidae/chamaeza-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/704124704
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704124704/original.jpg
+images:
+- file: images/passeriformes/formicariidae/chamaeza-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/704124704
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704124704/original.jpg
+- file: images/passeriformes/formicariidae/chamaeza-ruficauda/2.jpg
+  page: https://www.inaturalist.org/photos/146676295
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/146676295/original.jpeg
+- file: images/passeriformes/formicariidae/chamaeza-ruficauda/3.jpg
+  page: https://www.inaturalist.org/photos/418690570
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418690570/original.jpg
+- file: images/passeriformes/formicariidae/chamaeza-ruficauda/4.jpg
+  page: https://www.inaturalist.org/photos/606744195
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606744195/original.jpg
+- file: images/passeriformes/formicariidae/chamaeza-ruficauda/5.jpg
+  page: https://www.inaturalist.org/photos/704124553
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704124553/original.jpg
 ---
 
 

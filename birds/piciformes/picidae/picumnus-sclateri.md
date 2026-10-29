@@ -139,8 +139,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/559586693
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559586693/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/559586693
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559586693/original.jpg
+- file: images/piciformes/picidae/picumnus-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/323054390
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323054390/original.jpg
+- file: images/piciformes/picidae/picumnus-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/255793617
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255793617/original.jpg
+- file: images/piciformes/picidae/picumnus-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/323054395
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323054395/original.jpg
 ---
 
 

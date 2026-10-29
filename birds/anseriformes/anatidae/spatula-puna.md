@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/spatula-puna/1.jpg
+  page: https://www.inaturalist.org/photos/613762162
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762162/original.jpg
+images:
+- file: images/anseriformes/anatidae/spatula-puna/1.jpg
+  page: https://www.inaturalist.org/photos/613762162
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762162/original.jpg
+- file: images/anseriformes/anatidae/spatula-puna/2.jpg
+  page: https://www.inaturalist.org/photos/629066364
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629066364/original.jpg
+- file: images/anseriformes/anatidae/spatula-puna/3.jpg
+  page: https://www.inaturalist.org/photos/649009300
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649009300/original.jpg
+- file: images/anseriformes/anatidae/spatula-puna/4.jpg
+  page: https://www.inaturalist.org/photos/648882680
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648882680/original.jpg
+- file: images/anseriformes/anatidae/spatula-puna/5.jpg
+  page: https://www.inaturalist.org/photos/672598301
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672598301/original.jpg
 ---
 
 

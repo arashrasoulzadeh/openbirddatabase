@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/pinarornis-plumosus/1.jpg
+  page: https://www.inaturalist.org/photos/727814632
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727814632/original.jpg
+images:
+- file: images/passeriformes/turdidae/pinarornis-plumosus/1.jpg
+  page: https://www.inaturalist.org/photos/727814632
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727814632/original.jpg
+- file: images/passeriformes/turdidae/pinarornis-plumosus/2.jpg
+  page: https://www.inaturalist.org/photos/445036289
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036289/original.jpg
+- file: images/passeriformes/turdidae/pinarornis-plumosus/3.jpg
+  page: https://www.inaturalist.org/photos/263714302
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263714302/original.jpeg
+- file: images/passeriformes/turdidae/pinarornis-plumosus/4.jpg
+  page: https://www.inaturalist.org/photos/727814626
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727814626/original.jpg
+- file: images/passeriformes/turdidae/pinarornis-plumosus/5.jpg
+  page: https://www.inaturalist.org/photos/597915203
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597915203/original.jpg
 ---
 
 

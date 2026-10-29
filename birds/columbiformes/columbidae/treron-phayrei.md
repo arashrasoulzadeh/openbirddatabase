@@ -151,8 +151,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-phayrei/1.jpg
+  page: https://www.inaturalist.org/photos/724540744
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724540744/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-phayrei/1.jpg
+  page: https://www.inaturalist.org/photos/724540744
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724540744/original.jpg
+- file: images/columbiformes/columbidae/treron-phayrei/2.jpg
+  page: https://www.inaturalist.org/photos/738334681
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738334681/original.jpg
+- file: images/columbiformes/columbidae/treron-phayrei/3.jpg
+  page: https://www.inaturalist.org/photos/346340086
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346340086/original.jpeg
+- file: images/columbiformes/columbidae/treron-phayrei/4.jpg
+  page: https://www.inaturalist.org/photos/392661980
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392661980/original.jpg
+- file: images/columbiformes/columbidae/treron-phayrei/5.jpg
+  page: https://www.inaturalist.org/photos/581599365
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581599365/original.jpg
 ---
 
 

@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/ciconiiformes/ciconiidae/mycteria-americana/1.jpg
+  page: https://www.inaturalist.org/photos/604964907
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604964907/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/mycteria-americana/1.jpg
+  page: https://www.inaturalist.org/photos/604964907
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604964907/original.jpg
+- file: images/ciconiiformes/ciconiidae/mycteria-americana/2.jpg
+  page: https://www.inaturalist.org/photos/605639066
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605639066/original.jpg
+- file: images/ciconiiformes/ciconiidae/mycteria-americana/3.jpg
+  page: https://www.inaturalist.org/photos/604517048
+  author: aross0805
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604517048/original.jpg
+- file: images/ciconiiformes/ciconiidae/mycteria-americana/4.jpg
+  page: https://www.inaturalist.org/photos/605463644
+  author: Jill DeVito, PhD
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463644/original.jpg
+- file: images/ciconiiformes/ciconiidae/mycteria-americana/5.jpg
+  page: https://www.inaturalist.org/photos/604583311
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604583311/original.jpg
 ---
 
 

@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/acanthizidae/sericornis-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/604986379
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604986379/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/sericornis-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/604986379
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604986379/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/605483741
+  author: Ian Rainbow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605483741/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/609429701
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609429701/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/606015660
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606015660/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/605859228
+  author: Graham Cleaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605859228/original.jpg
 ---
 
 

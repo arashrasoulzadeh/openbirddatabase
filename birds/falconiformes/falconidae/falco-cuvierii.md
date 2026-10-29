@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-cuvierii/1.jpg
+  page: https://www.inaturalist.org/photos/474523502
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474523502/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-cuvierii/1.jpg
+  page: https://www.inaturalist.org/photos/474523502
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474523502/original.jpg
+- file: images/falconiformes/falconidae/falco-cuvierii/2.jpg
+  page: https://www.inaturalist.org/photos/258528180
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258528180/original.jpeg
+- file: images/falconiformes/falconidae/falco-cuvierii/3.jpg
+  page: https://www.inaturalist.org/photos/471928168
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471928168/original.jpg
+- file: images/falconiformes/falconidae/falco-cuvierii/4.jpg
+  page: https://www.inaturalist.org/photos/275558628
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/275558628/original.jpeg
+- file: images/falconiformes/falconidae/falco-cuvierii/5.jpg
+  page: https://www.inaturalist.org/photos/471928213
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471928213/original.jpg
 ---
 
 

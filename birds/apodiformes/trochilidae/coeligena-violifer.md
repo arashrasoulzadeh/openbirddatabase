@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-violifer/1.jpg
+  page: https://www.inaturalist.org/photos/625119545
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625119545/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-violifer/1.jpg
+  page: https://www.inaturalist.org/photos/625119545
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625119545/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-violifer/2.jpg
+  page: https://www.inaturalist.org/photos/651844355
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651844355/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-violifer/3.jpg
+  page: https://www.inaturalist.org/photos/730345234
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730345234/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-violifer/4.jpg
+  page: https://www.inaturalist.org/photos/376318350
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376318350/original.jpeg
+- file: images/apodiformes/trochilidae/coeligena-violifer/5.jpg
+  page: https://www.inaturalist.org/photos/252842254
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252842254/original.jpeg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/melidectes-belfordi/1.jpg
+  page: https://www.inaturalist.org/photos/703067870
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067870/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/melidectes-belfordi/1.jpg
+  page: https://www.inaturalist.org/photos/703067870
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067870/original.jpg
+- file: images/passeriformes/meliphagidae/melidectes-belfordi/2.jpg
+  page: https://www.inaturalist.org/photos/558252590
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558252590/original.jpg
+- file: images/passeriformes/meliphagidae/melidectes-belfordi/3.jpg
+  page: https://www.inaturalist.org/photos/571174684
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571174684/original.jpg
+- file: images/passeriformes/meliphagidae/melidectes-belfordi/4.jpg
+  page: https://www.inaturalist.org/photos/578592260
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578592260/original.jpg
+- file: images/passeriformes/meliphagidae/melidectes-belfordi/5.jpg
+  page: https://www.inaturalist.org/photos/336059075
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336059075/original.jpg
 ---
 
 

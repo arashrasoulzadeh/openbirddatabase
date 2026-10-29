@@ -144,8 +144,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliangelus-spencei/1.jpg
+  page: https://www.inaturalist.org/photos/78110358
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78110358/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/heliangelus-spencei/1.jpg
+  page: https://www.inaturalist.org/photos/78110358
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78110358/original.jpeg
+- file: images/apodiformes/trochilidae/heliangelus-spencei/2.jpg
+  page: https://www.inaturalist.org/photos/78111093
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78111093/original.jpeg
+- file: images/apodiformes/trochilidae/heliangelus-spencei/3.jpg
+  page: https://www.inaturalist.org/photos/79127061
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/79127061/original.jpeg
+- file: images/apodiformes/trochilidae/heliangelus-spencei/4.jpg
+  page: https://www.inaturalist.org/photos/79128615
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/79128615/original.jpeg
 ---
 
 

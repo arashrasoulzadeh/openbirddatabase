@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/cynanthus-lawrencei/1.jpg
+  page: https://www.inaturalist.org/photos/607075770
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607075770/original.jpg
+images:
+- file: images/apodiformes/trochilidae/cynanthus-lawrencei/1.jpg
+  page: https://www.inaturalist.org/photos/607075770
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607075770/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-lawrencei/2.jpg
+  page: https://www.inaturalist.org/photos/606529838
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606529838/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-lawrencei/3.jpg
+  page: https://www.inaturalist.org/photos/609545178
+  author: Bruno Frías Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609545178/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-lawrencei/4.jpg
+  page: https://www.inaturalist.org/photos/607984041
+  author: Luc Wyn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607984041/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-lawrencei/5.jpg
+  page: https://www.inaturalist.org/photos/607075768
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607075768/original.jpg
 ---
 
 

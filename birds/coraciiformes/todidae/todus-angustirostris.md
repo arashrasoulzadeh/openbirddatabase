@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/todidae/todus-angustirostris/1.jpg
+  page: https://www.inaturalist.org/photos/609776524
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609776524/original.jpg
+images:
+- file: images/coraciiformes/todidae/todus-angustirostris/1.jpg
+  page: https://www.inaturalist.org/photos/609776524
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609776524/original.jpg
+- file: images/coraciiformes/todidae/todus-angustirostris/2.jpg
+  page: https://www.inaturalist.org/photos/607518305
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518305/original.jpg
+- file: images/coraciiformes/todidae/todus-angustirostris/3.jpg
+  page: https://www.inaturalist.org/photos/474981351
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474981351/original.jpg
+- file: images/coraciiformes/todidae/todus-angustirostris/4.jpg
+  page: https://www.inaturalist.org/photos/511660749
+  author: R Grullón Feria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511660749/original.jpg
+- file: images/coraciiformes/todidae/todus-angustirostris/5.jpg
+  page: https://www.inaturalist.org/photos/589871433
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589871433/original.jpg
 ---
 
 

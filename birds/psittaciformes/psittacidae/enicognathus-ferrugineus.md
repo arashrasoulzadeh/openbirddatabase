@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/enicognathus-ferrugineus/1.jpg
+  page: https://www.inaturalist.org/photos/609144727
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609144727/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/enicognathus-ferrugineus/1.jpg
+  page: https://www.inaturalist.org/photos/609144727
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609144727/original.jpg
+- file: images/psittaciformes/psittacidae/enicognathus-ferrugineus/2.jpg
+  page: https://www.inaturalist.org/photos/608757883
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608757883/original.jpg
+- file: images/psittaciformes/psittacidae/enicognathus-ferrugineus/3.jpg
+  page: https://www.inaturalist.org/photos/606751724
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606751724/original.jpg
+- file: images/psittaciformes/psittacidae/enicognathus-ferrugineus/4.jpg
+  page: https://www.inaturalist.org/photos/616391355
+  author: Cesar Ormazabal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616391355/original.jpg
+- file: images/psittaciformes/psittacidae/enicognathus-ferrugineus/5.jpg
+  page: https://www.inaturalist.org/photos/613728227
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613728227/original.jpg
 ---
 
 

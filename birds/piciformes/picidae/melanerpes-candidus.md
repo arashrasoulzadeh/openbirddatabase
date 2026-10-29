@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-candidus/1.jpg
+  page: https://www.inaturalist.org/photos/611650476
+  author: Marcos Severgnini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611650476/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-candidus/1.jpg
+  page: https://www.inaturalist.org/photos/611650476
+  author: Marcos Severgnini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611650476/original.jpg
+- file: images/piciformes/picidae/melanerpes-candidus/2.jpg
+  page: https://www.inaturalist.org/photos/612363940
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612363940/original.jpg
+- file: images/piciformes/picidae/melanerpes-candidus/3.jpg
+  page: https://www.inaturalist.org/photos/610704660
+  author: Luis Martin Stivanello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610704660/original.jpg
+- file: images/piciformes/picidae/melanerpes-candidus/4.jpg
+  page: https://www.inaturalist.org/photos/605673728
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605673728/original.jpg
+- file: images/piciformes/picidae/melanerpes-candidus/5.jpg
+  page: https://www.inaturalist.org/photos/613644906
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613644906/original.jpg
 ---
 
 

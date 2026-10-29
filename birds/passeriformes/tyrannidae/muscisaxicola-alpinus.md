@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-alpinus/1.jpg
+  page: https://www.inaturalist.org/photos/552061002
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552061002/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-alpinus/1.jpg
+  page: https://www.inaturalist.org/photos/552061002
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552061002/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-alpinus/2.jpg
+  page: https://www.inaturalist.org/photos/352499420
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352499420/original.jpeg
+- file: images/passeriformes/tyrannidae/muscisaxicola-alpinus/3.jpg
+  page: https://www.inaturalist.org/photos/410771265
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410771265/original.jpeg
+- file: images/passeriformes/tyrannidae/muscisaxicola-alpinus/4.jpg
+  page: https://www.inaturalist.org/photos/264009670
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264009670/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-alpinus/5.jpg
+  page: https://www.inaturalist.org/photos/258716319
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258716319/original.jpeg
 ---
 
 

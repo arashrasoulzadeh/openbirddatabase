@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-asiaticus/1.jpg
+  page: https://www.inaturalist.org/photos/605271529
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605271529/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-asiaticus/1.jpg
+  page: https://www.inaturalist.org/photos/605271529
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605271529/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-asiaticus/2.jpg
+  page: https://www.inaturalist.org/photos/607849916
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607849916/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-asiaticus/3.jpg
+  page: https://www.inaturalist.org/photos/608436375
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608436375/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-asiaticus/4.jpg
+  page: https://www.inaturalist.org/photos/609151423
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609151423/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-asiaticus/5.jpg
+  page: https://www.inaturalist.org/photos/607849920
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607849920/original.jpg
 ---
 
 

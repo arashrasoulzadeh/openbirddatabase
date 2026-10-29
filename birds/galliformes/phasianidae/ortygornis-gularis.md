@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/ortygornis-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/737491295
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737491295/original.jpg
+images:
+- file: images/galliformes/phasianidae/ortygornis-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/737491295
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737491295/original.jpg
+- file: images/galliformes/phasianidae/ortygornis-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/486733047
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486733047/original.jpg
+- file: images/galliformes/phasianidae/ortygornis-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/364206423
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364206423/original.jpeg
+- file: images/galliformes/phasianidae/ortygornis-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/128355325
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/128355325/original.jpg
+- file: images/galliformes/phasianidae/ortygornis-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/175525841
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175525841/original.jpg
 ---
 
 

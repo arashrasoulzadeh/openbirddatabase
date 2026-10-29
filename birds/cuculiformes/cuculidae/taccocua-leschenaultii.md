@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/taccocua-leschenaultii/1.jpg
+  page: https://www.inaturalist.org/photos/622356904
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356904/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/taccocua-leschenaultii/1.jpg
+  page: https://www.inaturalist.org/photos/622356904
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356904/original.jpg
+- file: images/cuculiformes/cuculidae/taccocua-leschenaultii/2.jpg
+  page: https://www.inaturalist.org/photos/676940665
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676940665/original.jpg
+- file: images/cuculiformes/cuculidae/taccocua-leschenaultii/3.jpg
+  page: https://www.inaturalist.org/photos/655477190
+  author: Ahirbudhnyan M
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655477190/original.jpg
+- file: images/cuculiformes/cuculidae/taccocua-leschenaultii/4.jpg
+  page: https://www.inaturalist.org/photos/710614391
+  author: Chinmay Bhoyar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710614391/original.jpg
+- file: images/cuculiformes/cuculidae/taccocua-leschenaultii/5.jpg
+  page: https://www.inaturalist.org/photos/516931186
+  author: Aryan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516931186/original.jpg
 ---
 
 

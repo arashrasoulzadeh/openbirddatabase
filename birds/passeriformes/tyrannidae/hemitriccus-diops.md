@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-diops/1.jpg
+  page: https://www.inaturalist.org/photos/659881725
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659881725/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-diops/1.jpg
+  page: https://www.inaturalist.org/photos/659881725
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659881725/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-diops/2.jpg
+  page: https://www.inaturalist.org/photos/678650025
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678650025/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-diops/3.jpg
+  page: https://www.inaturalist.org/photos/739911091
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739911091/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-diops/4.jpg
+  page: https://www.inaturalist.org/photos/461243944
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461243944/original.jpeg
+- file: images/passeriformes/tyrannidae/hemitriccus-diops/5.jpg
+  page: https://www.inaturalist.org/photos/478203895
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478203895/original.jpeg
 ---
 
 

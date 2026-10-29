@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/passeriformes/corvidae/pyrrhocorax-graculus/1.jpg
+  page: https://www.inaturalist.org/photos/605094409
+  author: Samuel Paitreault
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605094409/original.jpg
+images:
+- file: images/passeriformes/corvidae/pyrrhocorax-graculus/1.jpg
+  page: https://www.inaturalist.org/photos/605094409
+  author: Samuel Paitreault
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605094409/original.jpg
+- file: images/passeriformes/corvidae/pyrrhocorax-graculus/2.jpg
+  page: https://www.inaturalist.org/photos/605998889
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605998889/original.jpg
+- file: images/passeriformes/corvidae/pyrrhocorax-graculus/3.jpg
+  page: https://www.inaturalist.org/photos/607246379
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607246379/original.gif
+- file: images/passeriformes/corvidae/pyrrhocorax-graculus/4.jpg
+  page: https://www.inaturalist.org/photos/609271722
+  author: Bianca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609271722/original.jpg
+- file: images/passeriformes/corvidae/pyrrhocorax-graculus/5.jpg
+  page: https://www.inaturalist.org/photos/614426834
+  author: liam1294
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614426834/original.jpg
 ---
 
 

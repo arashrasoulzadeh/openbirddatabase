@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/leptasthenura-striolata/1.jpg
+  page: https://www.inaturalist.org/photos/647208347
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647208347/original.jpg
+images:
+- file: images/passeriformes/furnariidae/leptasthenura-striolata/1.jpg
+  page: https://www.inaturalist.org/photos/647208347
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647208347/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-striolata/2.jpg
+  page: https://www.inaturalist.org/photos/347670265
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347670265/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-striolata/3.jpg
+  page: https://www.inaturalist.org/photos/117650916
+  author: Kahio Tiberio Mazon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/117650916/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-striolata/4.jpg
+  page: https://www.inaturalist.org/photos/428085863
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428085863/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-striolata/5.jpg
+  page: https://www.inaturalist.org/photos/494116014
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/494116014/original.jpeg
 ---
 
 

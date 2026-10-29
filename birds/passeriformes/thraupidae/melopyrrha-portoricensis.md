@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/melopyrrha-portoricensis/1.jpg
+  page: https://www.inaturalist.org/photos/642784220
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642784220/original.jpg
+images:
+- file: images/passeriformes/thraupidae/melopyrrha-portoricensis/1.jpg
+  page: https://www.inaturalist.org/photos/642784220
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642784220/original.jpg
+- file: images/passeriformes/thraupidae/melopyrrha-portoricensis/2.jpg
+  page: https://www.inaturalist.org/photos/640850849
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640850849/original.jpg
+- file: images/passeriformes/thraupidae/melopyrrha-portoricensis/3.jpg
+  page: https://www.inaturalist.org/photos/654164119
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654164119/original.jpg
+- file: images/passeriformes/thraupidae/melopyrrha-portoricensis/4.jpg
+  page: https://www.inaturalist.org/photos/680875978
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680875978/original.jpg
+- file: images/passeriformes/thraupidae/melopyrrha-portoricensis/5.jpg
+  page: https://www.inaturalist.org/photos/694738746
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694738746/original.jpg
 ---
 
 

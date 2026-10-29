@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnistes-anabatinus/1.jpg
+  page: https://www.inaturalist.org/photos/618583269
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618583269/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnistes-anabatinus/1.jpg
+  page: https://www.inaturalist.org/photos/618583269
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618583269/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnistes-anabatinus/2.jpg
+  page: https://www.inaturalist.org/photos/719214882
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719214882/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnistes-anabatinus/3.jpg
+  page: https://www.inaturalist.org/photos/354646279
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354646279/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnistes-anabatinus/4.jpg
+  page: https://www.inaturalist.org/photos/359664554
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359664554/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnistes-anabatinus/5.jpg
+  page: https://www.inaturalist.org/photos/424288596
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424288596/original.jpg
 ---
 
 

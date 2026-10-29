@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/pelargopsis-melanorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/715428810
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715428810/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/pelargopsis-melanorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/715428810
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715428810/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-melanorhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/310893344
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/310893344/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-melanorhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/242939970
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242939970/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-melanorhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/73064713
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/73064713/original.jpeg
+- file: images/coraciiformes/alcedinidae/pelargopsis-melanorhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/339643085
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339643085/original.jpg
 ---
 
 

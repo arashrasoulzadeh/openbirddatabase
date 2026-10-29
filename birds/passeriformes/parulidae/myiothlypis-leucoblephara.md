@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-leucoblephara/1.jpg
+  page: https://www.inaturalist.org/photos/609321203
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321203/original.jpg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-leucoblephara/1.jpg
+  page: https://www.inaturalist.org/photos/609321203
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321203/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-leucoblephara/2.jpg
+  page: https://www.inaturalist.org/photos/617456247
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617456247/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-leucoblephara/3.jpg
+  page: https://www.inaturalist.org/photos/618786727
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618786727/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-leucoblephara/4.jpg
+  page: https://www.inaturalist.org/photos/622555466
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622555466/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-leucoblephara/5.jpg
+  page: https://www.inaturalist.org/photos/645726871
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645726871/original.jpg
 ---
 
 

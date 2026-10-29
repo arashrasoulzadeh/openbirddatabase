@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/malacopteron-affine/1.jpg
+  page: https://www.inaturalist.org/photos/691204285
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691204285/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/malacopteron-affine/1.jpg
+  page: https://www.inaturalist.org/photos/691204285
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691204285/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-affine/2.jpg
+  page: https://www.inaturalist.org/photos/547427386
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547427386/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-affine/3.jpg
+  page: https://www.inaturalist.org/photos/573038808
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573038808/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-affine/4.jpg
+  page: https://www.inaturalist.org/photos/597679286
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597679286/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-affine/5.jpg
+  page: https://www.inaturalist.org/photos/411365476
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411365476/original.jpeg
 ---
 
 

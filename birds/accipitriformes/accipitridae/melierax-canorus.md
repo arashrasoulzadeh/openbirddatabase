@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/melierax-canorus/1.jpg
+  page: https://www.inaturalist.org/photos/608408898
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608408898/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/melierax-canorus/1.jpg
+  page: https://www.inaturalist.org/photos/608408898
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608408898/original.jpg
+- file: images/accipitriformes/accipitridae/melierax-canorus/2.jpg
+  page: https://www.inaturalist.org/photos/609976637
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609976637/original.jpg
+- file: images/accipitriformes/accipitridae/melierax-canorus/3.jpg
+  page: https://www.inaturalist.org/photos/608578815
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608578815/original.jpg
+- file: images/accipitriformes/accipitridae/melierax-canorus/4.jpg
+  page: https://www.inaturalist.org/photos/617147173
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147173/original.jpg
+- file: images/accipitriformes/accipitridae/melierax-canorus/5.jpg
+  page: https://www.inaturalist.org/photos/624561383
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624561383/original.jpg
 ---
 
 

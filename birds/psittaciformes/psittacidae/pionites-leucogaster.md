@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/psittaciformes/psittacidae/pionites-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/710438173
+  author: Daniel Nicholson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710438173/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pionites-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/710438173
+  author: Daniel Nicholson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710438173/original.jpg
+- file: images/psittaciformes/psittacidae/pionites-leucogaster/2.jpg
+  page: https://www.inaturalist.org/photos/709700200
+  author: Zinnia Xu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709700200/original.jpg
+- file: images/psittaciformes/psittacidae/pionites-leucogaster/3.jpg
+  page: https://www.inaturalist.org/photos/591901836
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591901836/original.jpg
+- file: images/psittaciformes/psittacidae/pionites-leucogaster/4.jpg
+  page: https://www.inaturalist.org/photos/424654855
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424654855/original.jpg
+- file: images/psittaciformes/psittacidae/pionites-leucogaster/5.jpg
+  page: https://www.inaturalist.org/photos/442618521
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442618521/original.jpeg
 ---
 
 

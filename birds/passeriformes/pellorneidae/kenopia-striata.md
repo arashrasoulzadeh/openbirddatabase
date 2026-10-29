@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/kenopia-striata/1.jpg
+  page: https://www.inaturalist.org/photos/572077657
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077657/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/kenopia-striata/1.jpg
+  page: https://www.inaturalist.org/photos/572077657
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077657/original.jpg
+- file: images/passeriformes/pellorneidae/kenopia-striata/2.jpg
+  page: https://www.inaturalist.org/photos/577947290
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577947290/original.jpg
+- file: images/passeriformes/pellorneidae/kenopia-striata/3.jpg
+  page: https://www.inaturalist.org/photos/454986663
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454986663/original.jpeg
+- file: images/passeriformes/pellorneidae/kenopia-striata/4.jpg
+  page: https://www.inaturalist.org/photos/442615471
+  author: Megan Crewe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442615471/original.jpeg
+- file: images/passeriformes/pellorneidae/kenopia-striata/5.jpg
+  page: https://www.inaturalist.org/photos/33945551
+  author: Mark Bolnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/33945551/original.jpg
 ---
 
 

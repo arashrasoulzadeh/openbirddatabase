@@ -136,7 +136,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 37.0
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 153.0
   tail_length_mm: 113.8
   body_mass_g: 200.0
+image:
+  file: images/piciformes/picidae/dendrocopos-noguchii/1.jpg
+  page: https://www.inaturalist.org/photos/690935646
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690935646/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-noguchii/1.jpg
+  page: https://www.inaturalist.org/photos/690935646
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690935646/original.jpg
+- file: images/piciformes/picidae/dendrocopos-noguchii/2.jpg
+  page: https://www.inaturalist.org/photos/725741695
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725741695/original.jpg
+- file: images/piciformes/picidae/dendrocopos-noguchii/3.jpg
+  page: https://www.inaturalist.org/photos/702397873
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702397873/original.jpg
+- file: images/piciformes/picidae/dendrocopos-noguchii/4.jpg
+  page: https://www.inaturalist.org/photos/526007367
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526007367/original.jpg
+- file: images/piciformes/picidae/dendrocopos-noguchii/5.jpg
+  page: https://www.inaturalist.org/photos/433608572
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433608572/original.jpeg
 ---
 
 

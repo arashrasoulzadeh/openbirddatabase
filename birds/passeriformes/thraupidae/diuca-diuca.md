@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diuca-diuca/1.jpg
+  page: https://www.inaturalist.org/photos/606442743
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606442743/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diuca-diuca/1.jpg
+  page: https://www.inaturalist.org/photos/606442743
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606442743/original.jpg
+- file: images/passeriformes/thraupidae/diuca-diuca/2.jpg
+  page: https://www.inaturalist.org/photos/609142940
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609142940/original.jpg
+- file: images/passeriformes/thraupidae/diuca-diuca/3.jpg
+  page: https://www.inaturalist.org/photos/610295703
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610295703/original.jpg
+- file: images/passeriformes/thraupidae/diuca-diuca/4.jpg
+  page: https://www.inaturalist.org/photos/607940901
+  author: Fernando Peña
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607940901/original.jpg
+- file: images/passeriformes/thraupidae/diuca-diuca/5.jpg
+  page: https://www.inaturalist.org/photos/612742989
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612742989/original.jpg
 ---
 
 

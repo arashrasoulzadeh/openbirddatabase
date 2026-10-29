@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/psittaciformes/psittacidae/poicephalus-rueppellii/1.jpg
+  page: https://www.inaturalist.org/photos/482671425
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482671425/original.jpeg
+images:
+- file: images/psittaciformes/psittacidae/poicephalus-rueppellii/1.jpg
+  page: https://www.inaturalist.org/photos/482671425
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482671425/original.jpeg
+- file: images/psittaciformes/psittacidae/poicephalus-rueppellii/2.jpg
+  page: https://www.inaturalist.org/photos/590548122
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590548122/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-rueppellii/3.jpg
+  page: https://www.inaturalist.org/photos/419230388
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419230388/original.jpeg
+- file: images/psittaciformes/psittacidae/poicephalus-rueppellii/4.jpg
+  page: https://www.inaturalist.org/photos/427397924
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427397924/original.jpeg
+- file: images/psittaciformes/psittacidae/poicephalus-rueppellii/5.jpg
+  page: https://www.inaturalist.org/photos/339241955
+  author: Linda Lötjönen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339241955/original.jpeg
 ---
 
 

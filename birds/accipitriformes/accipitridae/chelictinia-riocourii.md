@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/chelictinia-riocourii/1.jpg
+  page: https://www.inaturalist.org/photos/584018374
+  author: Markus Lampinen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584018374/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/chelictinia-riocourii/1.jpg
+  page: https://www.inaturalist.org/photos/584018374
+  author: Markus Lampinen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584018374/original.jpg
+- file: images/accipitriformes/accipitridae/chelictinia-riocourii/2.jpg
+  page: https://www.inaturalist.org/photos/617630039
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617630039/original.jpg
+- file: images/accipitriformes/accipitridae/chelictinia-riocourii/3.jpg
+  page: https://www.inaturalist.org/photos/59902183
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59902183/original.jpg
+- file: images/accipitriformes/accipitridae/chelictinia-riocourii/4.jpg
+  page: https://www.inaturalist.org/photos/95177748
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95177748/original.jpeg
+- file: images/accipitriformes/accipitridae/chelictinia-riocourii/5.jpg
+  page: https://www.inaturalist.org/photos/617630044
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617630044/original.jpg
 ---
 
 

@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/colinus-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/617330953
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617330953/original.jpg
+images:
+- file: images/galliformes/odontophoridae/colinus-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/617330953
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617330953/original.jpg
+- file: images/galliformes/odontophoridae/colinus-cristatus/2.jpg
+  page: https://www.inaturalist.org/photos/606978071
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606978071/original.jpg
+- file: images/galliformes/odontophoridae/colinus-cristatus/3.jpg
+  page: https://www.inaturalist.org/photos/620357182
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620357182/original.jpg
+- file: images/galliformes/odontophoridae/colinus-cristatus/4.jpg
+  page: https://www.inaturalist.org/photos/674307334
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674307334/original.jpg
+- file: images/galliformes/odontophoridae/colinus-cristatus/5.jpg
+  page: https://www.inaturalist.org/photos/699000756
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699000756/original.jpg
 ---
 
 

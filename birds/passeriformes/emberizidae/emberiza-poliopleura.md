@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-poliopleura/1.jpg
+  page: https://www.inaturalist.org/photos/585227467
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585227467/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-poliopleura/1.jpg
+  page: https://www.inaturalist.org/photos/585227467
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585227467/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-poliopleura/2.jpg
+  page: https://www.inaturalist.org/photos/589172744
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589172744/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-poliopleura/3.jpg
+  page: https://www.inaturalist.org/photos/477949844
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477949844/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-poliopleura/4.jpg
+  page: https://www.inaturalist.org/photos/2846946
+  author: Floyd A. Reed
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2846946/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-poliopleura/5.jpg
+  page: https://www.inaturalist.org/photos/585227479
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585227479/original.jpg
 ---
 
 

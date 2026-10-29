@@ -165,10 +165,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/leiothrichidae/leiothrix-lutea/1.jpg
+  page: https://www.inaturalist.org/photos/615203891
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615203891/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/leiothrix-lutea/1.jpg
+  page: https://www.inaturalist.org/photos/615203891
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615203891/original.jpg
+- file: images/passeriformes/leiothrichidae/leiothrix-lutea/2.jpg
+  page: https://www.inaturalist.org/photos/617482031
+  author: Thomas Barrès
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617482031/original.jpg
+- file: images/passeriformes/leiothrichidae/leiothrix-lutea/3.jpg
+  page: https://www.inaturalist.org/photos/616553609
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616553609/original.jpg
+- file: images/passeriformes/leiothrichidae/leiothrix-lutea/4.jpg
+  page: https://www.inaturalist.org/photos/625276844
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625276844/original.jpg
+- file: images/passeriformes/leiothrichidae/leiothrix-lutea/5.jpg
+  page: https://www.inaturalist.org/photos/615203929
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615203929/original.jpg
 ---
 
 

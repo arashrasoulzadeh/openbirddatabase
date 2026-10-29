@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-bannermani/1.jpg
+  page: https://www.inaturalist.org/photos/659603130
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659603130/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-bannermani/1.jpg
+  page: https://www.inaturalist.org/photos/659603130
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659603130/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bannermani/2.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5721787792466141282
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91661/original.JPG
+- file: images/passeriformes/ploceidae/ploceus-bannermani/3.jpg
+  page: https://www.inaturalist.org/photos/659603174
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659603174/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bannermani/4.jpg
+  page: https://www.inaturalist.org/photos/659603176
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659603176/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bannermani/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5721787787088838290
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91662/original.JPG
 ---
 
 

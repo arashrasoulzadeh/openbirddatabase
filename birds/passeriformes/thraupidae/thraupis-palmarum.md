@@ -138,7 +138,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.0
@@ -151,6 +152,44 @@ reproduction:
   broods_per_year: 4
   incubation_days: 14
   fledging_days: 18
+image:
+  file: images/passeriformes/thraupidae/thraupis-palmarum/1.jpg
+  page: https://www.inaturalist.org/photos/605731135
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605731135/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thraupis-palmarum/1.jpg
+  page: https://www.inaturalist.org/photos/605731135
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605731135/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-palmarum/2.jpg
+  page: https://www.inaturalist.org/photos/605425710
+  author: Catalina Ayala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605425710/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-palmarum/3.jpg
+  page: https://www.inaturalist.org/photos/605729602
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729602/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-palmarum/4.jpg
+  page: https://www.inaturalist.org/photos/610014637
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014637/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-palmarum/5.jpg
+  page: https://www.inaturalist.org/photos/609089546
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609089546/original.jpg
 ---
 
 

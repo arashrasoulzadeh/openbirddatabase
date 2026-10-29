@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/dubusia-castaneoventris/1.jpg
+  page: https://www.inaturalist.org/photos/587194414
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194414/original.jpg
+images:
+- file: images/passeriformes/thraupidae/dubusia-castaneoventris/1.jpg
+  page: https://www.inaturalist.org/photos/587194414
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194414/original.jpg
+- file: images/passeriformes/thraupidae/dubusia-castaneoventris/2.jpg
+  page: https://www.inaturalist.org/photos/338229657
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338229657/original.jpeg
+- file: images/passeriformes/thraupidae/dubusia-castaneoventris/3.jpg
+  page: https://www.inaturalist.org/photos/352533430
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352533430/original.jpeg
+- file: images/passeriformes/thraupidae/dubusia-castaneoventris/4.jpg
+  page: https://www.inaturalist.org/photos/231816083
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231816083/original.jpg
+- file: images/passeriformes/thraupidae/dubusia-castaneoventris/5.jpg
+  page: https://www.inaturalist.org/photos/224912534
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224912534/original.jpg
 ---
 
 

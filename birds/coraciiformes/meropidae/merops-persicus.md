@@ -209,8 +209,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-persicus/1.jpg
+  page: https://www.inaturalist.org/photos/610114256
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610114256/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-persicus/1.jpg
+  page: https://www.inaturalist.org/photos/610114256
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610114256/original.jpg
+- file: images/coraciiformes/meropidae/merops-persicus/2.jpg
+  page: https://www.inaturalist.org/photos/615437395
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615437395/original.jpg
+- file: images/coraciiformes/meropidae/merops-persicus/3.jpg
+  page: https://www.inaturalist.org/photos/625290114
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625290114/original.jpg
+- file: images/coraciiformes/meropidae/merops-persicus/4.jpg
+  page: https://www.inaturalist.org/photos/615437396
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615437396/original.jpg
+- file: images/coraciiformes/meropidae/merops-persicus/5.jpg
+  page: https://www.inaturalist.org/photos/615438406
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615438406/original.jpg
 ---
 
 

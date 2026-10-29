@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-haplonota/1.jpg
+  page: https://www.inaturalist.org/photos/352318211
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352318211/original.jpeg
+images:
+- file: images/passeriformes/grallariidae/grallaria-haplonota/1.jpg
+  page: https://www.inaturalist.org/photos/352318211
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352318211/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-haplonota/2.jpg
+  page: https://www.inaturalist.org/photos/624048629
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624048629/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-haplonota/3.jpg
+  page: https://www.inaturalist.org/photos/416381183
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416381183/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-haplonota/4.jpg
+  page: https://www.inaturalist.org/photos/477439004
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477439004/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-haplonota/5.jpg
+  page: https://www.inaturalist.org/photos/199529312
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199529312/original.jpg
 ---
 
 

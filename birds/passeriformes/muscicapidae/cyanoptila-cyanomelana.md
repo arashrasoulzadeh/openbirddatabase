@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyanoptila-cyanomelana/1.jpg
+  page: https://www.inaturalist.org/photos/631750257
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631750257/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyanoptila-cyanomelana/1.jpg
+  page: https://www.inaturalist.org/photos/631750257
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631750257/original.jpg
+- file: images/passeriformes/muscicapidae/cyanoptila-cyanomelana/2.jpg
+  page: https://www.inaturalist.org/photos/638825403
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638825403/original.jpg
+- file: images/passeriformes/muscicapidae/cyanoptila-cyanomelana/3.jpg
+  page: https://www.inaturalist.org/photos/639418264
+  author: nayeonyooo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639418264/original.jpg
+- file: images/passeriformes/muscicapidae/cyanoptila-cyanomelana/4.jpg
+  page: https://www.inaturalist.org/photos/642766121
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642766121/original.jpg
+- file: images/passeriformes/muscicapidae/cyanoptila-cyanomelana/5.jpg
+  page: https://www.inaturalist.org/photos/631750265
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631750265/original.jpg
 ---
 
 

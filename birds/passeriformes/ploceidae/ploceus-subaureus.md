@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-subaureus/1.jpg
+  page: https://www.inaturalist.org/photos/618403080
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618403080/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-subaureus/1.jpg
+  page: https://www.inaturalist.org/photos/618403080
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618403080/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-subaureus/2.jpg
+  page: https://www.inaturalist.org/photos/617468349
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617468349/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-subaureus/3.jpg
+  page: https://www.inaturalist.org/photos/626600936
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626600936/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-subaureus/4.jpg
+  page: https://www.inaturalist.org/photos/620159348
+  author: Wouter Van Landuyt
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620159348/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-subaureus/5.jpg
+  page: https://www.inaturalist.org/photos/619851356
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851356/original.jpg
 ---
 
 

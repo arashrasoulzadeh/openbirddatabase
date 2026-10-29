@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/monarchidae/myiagra-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/686426746
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686426746/original.jpg
+images:
+- file: images/passeriformes/monarchidae/myiagra-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/686426746
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686426746/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/525341716
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525341716/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/562247176
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562247176/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/598457801
+  author: James Cunningham
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598457801/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/442113847
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442113847/original.jpg
 ---
 
 

@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 46
+image:
+  file: images/procellariiformes/procellariidae/pagodroma-nivea/1.jpg
+  page: https://www.inaturalist.org/photos/606653142
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606653142/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pagodroma-nivea/1.jpg
+  page: https://www.inaturalist.org/photos/606653142
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606653142/original.jpg
+- file: images/procellariiformes/procellariidae/pagodroma-nivea/2.jpg
+  page: https://www.inaturalist.org/photos/614225575
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614225575/original.jpg
+- file: images/procellariiformes/procellariidae/pagodroma-nivea/3.jpg
+  page: https://www.inaturalist.org/photos/463360920
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463360920/original.jpeg
+- file: images/procellariiformes/procellariidae/pagodroma-nivea/4.jpg
+  page: https://www.inaturalist.org/photos/606653197
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606653197/original.jpg
+- file: images/procellariiformes/procellariidae/pagodroma-nivea/5.jpg
+  page: https://www.inaturalist.org/photos/606653205
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606653205/original.jpg
 ---
 
 

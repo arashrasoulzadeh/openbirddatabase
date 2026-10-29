@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/parulidae/setophaga-adelaidae/1.jpg
+  page: https://www.inaturalist.org/photos/639707312
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639707312/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-adelaidae/1.jpg
+  page: https://www.inaturalist.org/photos/639707312
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639707312/original.jpg
+- file: images/passeriformes/parulidae/setophaga-adelaidae/2.jpg
+  page: https://www.inaturalist.org/photos/669342915
+  author: Alex Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669342915/original.jpg
+- file: images/passeriformes/parulidae/setophaga-adelaidae/3.jpg
+  page: https://www.inaturalist.org/photos/679992857
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679992857/original.jpg
+- file: images/passeriformes/parulidae/setophaga-adelaidae/4.jpg
+  page: https://www.inaturalist.org/photos/694736086
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694736086/original.jpg
+- file: images/passeriformes/parulidae/setophaga-adelaidae/5.jpg
+  page: https://www.flickr.com/photos/cricketsblog/54312494047/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468723419/original.jpg
 ---
 
 

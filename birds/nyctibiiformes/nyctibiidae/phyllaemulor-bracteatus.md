@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/nyctibiiformes/nyctibiidae/phyllaemulor-bracteatus/1.jpg
+  page: https://www.inaturalist.org/photos/596096590
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596096590/original.jpg
+images:
+- file: images/nyctibiiformes/nyctibiidae/phyllaemulor-bracteatus/1.jpg
+  page: https://www.inaturalist.org/photos/596096590
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596096590/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/phyllaemulor-bracteatus/2.jpg
+  page: https://www.inaturalist.org/photos/426775673
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775673/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/phyllaemulor-bracteatus/3.jpg
+  page: https://www.inaturalist.org/photos/163314896
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163314896/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/phyllaemulor-bracteatus/4.jpg
+  page: https://www.inaturalist.org/photos/177026931
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177026931/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/phyllaemulor-bracteatus/5.jpg
+  page: https://www.inaturalist.org/photos/596096573
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596096573/original.jpg
 ---
 
 

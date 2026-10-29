@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/thryorchilus-browni/1.jpg
+  page: https://www.inaturalist.org/photos/644307755
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644307755/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/thryorchilus-browni/1.jpg
+  page: https://www.inaturalist.org/photos/644307755
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644307755/original.jpg
+- file: images/passeriformes/troglodytidae/thryorchilus-browni/2.jpg
+  page: https://www.inaturalist.org/photos/350271833
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350271833/original.jpg
+- file: images/passeriformes/troglodytidae/thryorchilus-browni/3.jpg
+  page: https://www.inaturalist.org/photos/359628030
+  author: Kristy Morley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359628030/original.jpg
+- file: images/passeriformes/troglodytidae/thryorchilus-browni/4.jpg
+  page: https://www.inaturalist.org/photos/450590830
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450590830/original.jpeg
+- file: images/passeriformes/troglodytidae/thryorchilus-browni/5.jpg
+  page: https://www.inaturalist.org/photos/458777944
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458777944/original.jpg
 ---
 
 

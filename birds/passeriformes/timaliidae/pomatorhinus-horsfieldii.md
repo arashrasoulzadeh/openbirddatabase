@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/pomatorhinus-horsfieldii/1.jpg
+  page: https://www.inaturalist.org/photos/635154021
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635154021/original.jpg
+images:
+- file: images/passeriformes/timaliidae/pomatorhinus-horsfieldii/1.jpg
+  page: https://www.inaturalist.org/photos/635154021
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635154021/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-horsfieldii/2.jpg
+  page: https://www.inaturalist.org/photos/552153472
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552153472/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-horsfieldii/3.jpg
+  page: https://www.inaturalist.org/photos/591826704
+  author: Surya
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591826704/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-horsfieldii/4.jpg
+  page: https://www.inaturalist.org/photos/487194751
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487194751/original.jpeg
+- file: images/passeriformes/timaliidae/pomatorhinus-horsfieldii/5.jpg
+  page: https://www.inaturalist.org/photos/282756486
+  author: Seema Merchant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/282756486/original.jpg
 ---
 
 

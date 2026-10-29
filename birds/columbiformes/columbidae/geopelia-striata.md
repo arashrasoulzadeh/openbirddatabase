@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/columbiformes/columbidae/geopelia-striata/1.jpg
+  page: https://www.inaturalist.org/photos/604393938
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604393938/original.jpg
+images:
+- file: images/columbiformes/columbidae/geopelia-striata/1.jpg
+  page: https://www.inaturalist.org/photos/604393938
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604393938/original.jpg
+- file: images/columbiformes/columbidae/geopelia-striata/2.jpg
+  page: https://www.inaturalist.org/photos/605437644
+  author: Christine Blackburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605437644/original.jpg
+- file: images/columbiformes/columbidae/geopelia-striata/3.jpg
+  page: https://www.inaturalist.org/photos/605606263
+  author: Panya Buasri
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605606263/original.jpg
+- file: images/columbiformes/columbidae/geopelia-striata/4.jpg
+  page: https://www.inaturalist.org/photos/605583344
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605583344/original.jpg
+- file: images/columbiformes/columbidae/geopelia-striata/5.jpg
+  page: https://www.inaturalist.org/photos/605577466
+  author: Eugene Eric Kim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605577466/original.jpg
 ---
 
 

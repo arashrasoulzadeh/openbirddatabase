@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/basileuterus-tristriatus/1.jpg
+  page: https://www.inaturalist.org/photos/620951665
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620951665/original.jpg
+images:
+- file: images/passeriformes/parulidae/basileuterus-tristriatus/1.jpg
+  page: https://www.inaturalist.org/photos/620951665
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620951665/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-tristriatus/2.jpg
+  page: https://www.inaturalist.org/photos/719320026
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719320026/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-tristriatus/3.jpg
+  page: https://www.inaturalist.org/photos/489869992
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489869992/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-tristriatus/4.jpg
+  page: https://www.inaturalist.org/photos/511399404
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511399404/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-tristriatus/5.jpg
+  page: https://www.inaturalist.org/photos/499980993
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499980993/original.jpeg
 ---
 
 

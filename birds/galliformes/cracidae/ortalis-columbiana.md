@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-columbiana/1.jpg
+  page: https://www.inaturalist.org/photos/612269184
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612269184/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-columbiana/1.jpg
+  page: https://www.inaturalist.org/photos/612269184
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612269184/original.jpg
+- file: images/galliformes/cracidae/ortalis-columbiana/2.jpg
+  page: https://www.inaturalist.org/photos/617806622
+  author: Álvaro Rivas Godin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617806622/original.jpg
+- file: images/galliformes/cracidae/ortalis-columbiana/3.jpg
+  page: https://www.inaturalist.org/photos/614286970
+  author: EstebanMH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614286970/original.jpg
+- file: images/galliformes/cracidae/ortalis-columbiana/4.jpg
+  page: https://www.inaturalist.org/photos/614555356
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614555356/original.jpg
+- file: images/galliformes/cracidae/ortalis-columbiana/5.jpg
+  page: https://www.inaturalist.org/photos/618247616
+  author: Catalina Ayala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618247616/original.jpg
 ---
 
 

@@ -183,10 +183,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/charadriiformes/stercorariidae/stercorarius-longicaudus/1.jpg
+  page: https://www.inaturalist.org/photos/676841319
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676841319/original.jpg
+images:
+- file: images/charadriiformes/stercorariidae/stercorarius-longicaudus/1.jpg
+  page: https://www.inaturalist.org/photos/676841319
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676841319/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-longicaudus/2.jpg
+  page: https://www.inaturalist.org/photos/672421235
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672421235/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-longicaudus/3.jpg
+  page: https://www.inaturalist.org/photos/678786373
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678786373/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-longicaudus/4.jpg
+  page: https://www.inaturalist.org/photos/673754032
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673754032/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-longicaudus/5.jpg
+  page: https://www.inaturalist.org/photos/680493190
+  author: Sami Törnblom
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680493190/original.jpg
 ---
 
 

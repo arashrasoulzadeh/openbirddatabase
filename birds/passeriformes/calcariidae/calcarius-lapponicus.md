@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/calcariidae/calcarius-lapponicus/1.jpg
+  page: https://www.inaturalist.org/photos/605450928
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605450928/original.jpg
+images:
+- file: images/passeriformes/calcariidae/calcarius-lapponicus/1.jpg
+  page: https://www.inaturalist.org/photos/605450928
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605450928/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-lapponicus/2.jpg
+  page: https://www.inaturalist.org/photos/608741530
+  author: Court Harding
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608741530/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-lapponicus/3.jpg
+  page: https://www.inaturalist.org/photos/608978559
+  author: Peter Waycik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608978559/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-lapponicus/4.jpg
+  page: https://www.inaturalist.org/photos/636314030
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636314030/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-lapponicus/5.jpg
+  page: https://www.inaturalist.org/photos/608978627
+  author: Peter Waycik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608978627/original.jpg
 ---
 
 

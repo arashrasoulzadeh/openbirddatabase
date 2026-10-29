@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/orthotomus-derbianus/1.jpg
+  page: https://www.inaturalist.org/photos/261837816
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837816/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/orthotomus-derbianus/1.jpg
+  page: https://www.inaturalist.org/photos/261837816
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837816/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-derbianus/2.jpg
+  page: https://www.inaturalist.org/photos/339658129
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339658129/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-derbianus/3.jpg
+  page: https://www.inaturalist.org/photos/261837838
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837838/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-derbianus/4.jpg
+  page: https://www.inaturalist.org/photos/261837837
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837837/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-derbianus/5.jpg
+  page: https://www.inaturalist.org/photos/318936527
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318936527/original.jpeg
 ---
 
 

@@ -146,7 +146,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 19.2
@@ -154,6 +155,44 @@ morphology:
   wing_length_mm: 90.2
   tail_length_mm: 45.8
   body_mass_g: 44.9
+image:
+  file: images/piciformes/picidae/dendrocopos-analis/1.jpg
+  page: https://www.inaturalist.org/photos/618862262
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618862262/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-analis/1.jpg
+  page: https://www.inaturalist.org/photos/618862262
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618862262/original.jpg
+- file: images/piciformes/picidae/dendrocopos-analis/2.jpg
+  page: https://www.inaturalist.org/photos/623559827
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623559827/original.jpg
+- file: images/piciformes/picidae/dendrocopos-analis/3.jpg
+  page: https://www.inaturalist.org/photos/617192071
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617192071/original.jpg
+- file: images/piciformes/picidae/dendrocopos-analis/4.jpg
+  page: https://www.inaturalist.org/photos/632165826
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632165826/original.jpg
+- file: images/piciformes/picidae/dendrocopos-analis/5.jpg
+  page: https://www.inaturalist.org/photos/642854528
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642854528/original.jpg
 ---
 
 

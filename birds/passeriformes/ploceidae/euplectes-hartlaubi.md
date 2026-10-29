@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-hartlaubi/1.jpg
+  page: https://www.inaturalist.org/photos/205547450
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205547450/original.jpeg
+images:
+- file: images/passeriformes/ploceidae/euplectes-hartlaubi/1.jpg
+  page: https://www.inaturalist.org/photos/205547450
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205547450/original.jpeg
+- file: images/passeriformes/ploceidae/euplectes-hartlaubi/2.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096548527566976018
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442707/original.JPG
+- file: images/passeriformes/ploceidae/euplectes-hartlaubi/3.jpg
+  page: https://www.inaturalist.org/photos/205553514
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205553514/original.jpeg
+- file: images/passeriformes/ploceidae/euplectes-hartlaubi/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096548514850800338
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442708/original.JPG
+- file: images/passeriformes/ploceidae/euplectes-hartlaubi/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6095392436654443410
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1436191/original.JPG
 ---
 
 

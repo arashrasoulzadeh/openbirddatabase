@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/corvidae/aphelocoma-californica/1.jpg
+  page: https://www.inaturalist.org/photos/604702979
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702979/original.jpg
+images:
+- file: images/passeriformes/corvidae/aphelocoma-californica/1.jpg
+  page: https://www.inaturalist.org/photos/604702979
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702979/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-californica/2.jpg
+  page: https://www.inaturalist.org/photos/605189413
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605189413/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-californica/3.jpg
+  page: https://www.inaturalist.org/photos/604641375
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604641375/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-californica/4.jpg
+  page: https://www.inaturalist.org/photos/604662446
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662446/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-californica/5.jpg
+  page: https://www.inaturalist.org/photos/604930589
+  author: Nathan Odgers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604930589/original.jpg
 ---
 
 

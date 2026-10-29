@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/notopholia-corusca/1.jpg
+  page: https://www.inaturalist.org/photos/620178556
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620178556/original.jpg
+images:
+- file: images/passeriformes/sturnidae/notopholia-corusca/1.jpg
+  page: https://www.inaturalist.org/photos/620178556
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620178556/original.jpg
+- file: images/passeriformes/sturnidae/notopholia-corusca/2.jpg
+  page: https://www.inaturalist.org/photos/620177676
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620177676/original.jpg
+- file: images/passeriformes/sturnidae/notopholia-corusca/3.jpg
+  page: https://www.inaturalist.org/photos/714366463
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714366463/original.jpg
+- file: images/passeriformes/sturnidae/notopholia-corusca/4.jpg
+  page: https://www.inaturalist.org/photos/652188751
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652188751/original.jpg
+- file: images/passeriformes/sturnidae/notopholia-corusca/5.jpg
+  page: https://www.inaturalist.org/photos/620194552
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620194552/original.jpg
 ---
 
 

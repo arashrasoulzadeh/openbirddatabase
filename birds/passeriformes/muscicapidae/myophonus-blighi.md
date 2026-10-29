@@ -136,8 +136,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/myophonus-blighi/1.jpg
+  page: https://www.inaturalist.org/photos/468467708
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468467708/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myophonus-blighi/1.jpg
+  page: https://www.inaturalist.org/photos/468467708
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468467708/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-blighi/2.jpg
+  page: https://www.inaturalist.org/photos/483419167
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483419167/original.jpeg
+- file: images/passeriformes/muscicapidae/myophonus-blighi/3.jpg
+  page: https://www.inaturalist.org/photos/468467714
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468467714/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-blighi/4.jpg
+  page: https://www.inaturalist.org/photos/468467668
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468467668/original.jpg
 ---
 
 

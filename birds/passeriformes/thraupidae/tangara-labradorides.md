@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-labradorides/1.jpg
+  page: https://www.inaturalist.org/photos/620951070
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620951070/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-labradorides/1.jpg
+  page: https://www.inaturalist.org/photos/620951070
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620951070/original.jpg
+- file: images/passeriformes/thraupidae/tangara-labradorides/2.jpg
+  page: https://www.inaturalist.org/photos/652830198
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652830198/original.jpg
+- file: images/passeriformes/thraupidae/tangara-labradorides/3.jpg
+  page: https://www.inaturalist.org/photos/489183012
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489183012/original.jpg
+- file: images/passeriformes/thraupidae/tangara-labradorides/4.jpg
+  page: https://www.inaturalist.org/photos/476154630
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476154630/original.jpg
+- file: images/passeriformes/thraupidae/tangara-labradorides/5.jpg
+  page: https://www.inaturalist.org/photos/592101751
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592101751/original.jpg
 ---
 
 

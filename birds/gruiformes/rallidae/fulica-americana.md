@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/gruiformes/rallidae/fulica-americana/1.jpg
+  page: https://www.inaturalist.org/photos/604640134
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604640134/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-americana/1.jpg
+  page: https://www.inaturalist.org/photos/604640134
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604640134/original.jpg
+- file: images/gruiformes/rallidae/fulica-americana/2.jpg
+  page: https://www.inaturalist.org/photos/605707872
+  author: dougbrown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605707872/original.jpg
+- file: images/gruiformes/rallidae/fulica-americana/3.jpg
+  page: https://www.inaturalist.org/photos/605603418
+  author: funnieanimals
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605603418/original.jpg
+- file: images/gruiformes/rallidae/fulica-americana/4.jpg
+  page: https://www.inaturalist.org/photos/604999009
+  author: Chuck Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604999009/original.jpg
+- file: images/gruiformes/rallidae/fulica-americana/5.jpg
+  page: https://www.inaturalist.org/photos/604640041
+  author: Charles Swift
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604640041/original.jpg
 ---
 
 

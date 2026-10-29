@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/emberizoides-ypiranganus/1.jpg
+  page: https://www.inaturalist.org/photos/356187261
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356187261/original.jpg
+images:
+- file: images/passeriformes/thraupidae/emberizoides-ypiranganus/1.jpg
+  page: https://www.inaturalist.org/photos/356187261
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356187261/original.jpg
+- file: images/passeriformes/thraupidae/emberizoides-ypiranganus/2.jpg
+  page: https://www.inaturalist.org/photos/418729570
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418729570/original.jpeg
+- file: images/passeriformes/thraupidae/emberizoides-ypiranganus/3.jpg
+  page: https://www.inaturalist.org/photos/474210530
+  author: Deonir Geolvane Zimmermann
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474210530/original.jpeg
+- file: images/passeriformes/thraupidae/emberizoides-ypiranganus/4.jpg
+  page: https://www.inaturalist.org/photos/445224817
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445224817/original.jpeg
+- file: images/passeriformes/thraupidae/emberizoides-ypiranganus/5.jpg
+  page: https://www.inaturalist.org/photos/455198029
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455198029/original.jpeg
 ---
 
 

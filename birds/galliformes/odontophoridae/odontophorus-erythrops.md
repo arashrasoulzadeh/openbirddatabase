@@ -145,8 +145,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/odontophorus-erythrops/1.jpg
+  page: https://www.inaturalist.org/photos/611036516
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611036516/original.jpg
+images:
+- file: images/galliformes/odontophoridae/odontophorus-erythrops/1.jpg
+  page: https://www.inaturalist.org/photos/611036516
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611036516/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-erythrops/2.jpg
+  page: https://www.inaturalist.org/photos/50362568
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50362568/original.jpg
 ---
 
 

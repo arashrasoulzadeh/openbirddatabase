@@ -181,10 +181,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/passeriformes/corvidae/corvus-corone/1.jpg
+  page: https://www.inaturalist.org/photos/604752567
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604752567/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-corone/1.jpg
+  page: https://www.inaturalist.org/photos/604752567
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604752567/original.jpg
+- file: images/passeriformes/corvidae/corvus-corone/2.jpg
+  page: https://www.inaturalist.org/photos/605487293
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487293/original.jpg
+- file: images/passeriformes/corvidae/corvus-corone/3.jpg
+  page: https://www.inaturalist.org/photos/604512410
+  author: Helen Bovill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604512410/original.jpg
+- file: images/passeriformes/corvidae/corvus-corone/4.jpg
+  page: https://www.inaturalist.org/photos/605081484
+  author: Andrew Cunnington
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605081484/original.jpg
+- file: images/passeriformes/corvidae/corvus-corone/5.jpg
+  page: https://www.inaturalist.org/photos/604540767
+  author: olmagon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604540767/original.jpg
 ---
 
 

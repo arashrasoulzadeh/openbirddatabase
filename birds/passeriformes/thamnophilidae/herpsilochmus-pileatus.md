@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/herpsilochmus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/707560640
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707560640/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/707560640
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707560640/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pileatus/2.jpg
+  page: https://www.inaturalist.org/photos/505663421
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505663421/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pileatus/3.jpg
+  page: https://www.inaturalist.org/photos/341639439
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341639439/original.jpeg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pileatus/4.jpg
+  page: https://www.inaturalist.org/photos/707560662
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707560662/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pileatus/5.jpg
+  page: https://www.inaturalist.org/photos/707560642
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707560642/original.jpg
 ---
 
 

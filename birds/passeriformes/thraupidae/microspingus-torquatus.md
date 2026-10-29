@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/microspingus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/611733863
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611733863/original.jpg
+images:
+- file: images/passeriformes/thraupidae/microspingus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/611733863
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611733863/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/648998775
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648998775/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/742736393
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742736393/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/740673325
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740673325/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/465776536
+  author: RAP
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465776536/original.jpg
 ---
 
 

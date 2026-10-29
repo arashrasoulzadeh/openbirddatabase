@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-palustris/1.jpg
+  page: https://www.inaturalist.org/photos/469528950
+  author: Sebastián Gómez Barboza Silveira
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469528950/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/sporophila-palustris/1.jpg
+  page: https://www.inaturalist.org/photos/469528950
+  author: Sebastián Gómez Barboza Silveira
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469528950/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-palustris/2.jpg
+  page: https://www.inaturalist.org/photos/594018507
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594018507/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-palustris/3.jpg
+  page: https://www.inaturalist.org/photos/348451984
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348451984/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-palustris/4.jpg
+  page: https://www.inaturalist.org/photos/457329115
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457329115/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-palustris/5.jpg
+  page: https://www.inaturalist.org/photos/448282578
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448282578/original.jpeg
 ---
 
 

@@ -130,8 +130,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/rhamphococcyx-calyorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/734778363
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734778363/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/rhamphococcyx-calyorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/734778363
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734778363/original.jpg
+- file: images/cuculiformes/cuculidae/rhamphococcyx-calyorhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/714953036
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714953036/original.jpg
+- file: images/cuculiformes/cuculidae/rhamphococcyx-calyorhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/526014014
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014014/original.jpg
+- file: images/cuculiformes/cuculidae/rhamphococcyx-calyorhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/471155719
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471155719/original.jpeg
+- file: images/cuculiformes/cuculidae/rhamphococcyx-calyorhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/549396028
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549396028/original.jpg
 ---
 
 

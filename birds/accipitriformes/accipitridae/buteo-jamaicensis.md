@@ -220,10 +220,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 31
+image:
+  file: images/accipitriformes/accipitridae/buteo-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/605525451
+  author: Hunter Hammil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605525451/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/605525451
+  author: Hunter Hammil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605525451/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-jamaicensis/2.jpg
+  page: https://www.inaturalist.org/photos/605531956
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605531956/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-jamaicensis/3.jpg
+  page: https://www.inaturalist.org/photos/604668775
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604668775/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-jamaicensis/4.jpg
+  page: https://www.inaturalist.org/photos/605147735
+  author: Conway Hawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605147735/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-jamaicensis/5.jpg
+  page: https://www.inaturalist.org/photos/604595133
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604595133/original.jpg
 ---
 
 

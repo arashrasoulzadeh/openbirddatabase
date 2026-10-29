@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/ceuthmochares-aereus/1.jpg
+  page: https://www.inaturalist.org/photos/582387116
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582387116/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/ceuthmochares-aereus/1.jpg
+  page: https://www.inaturalist.org/photos/582387116
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582387116/original.jpg
+- file: images/cuculiformes/cuculidae/ceuthmochares-aereus/2.jpg
+  page: https://www.inaturalist.org/photos/594509736
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594509736/original.jpg
+- file: images/cuculiformes/cuculidae/ceuthmochares-aereus/3.jpg
+  page: https://www.inaturalist.org/photos/588794735
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588794735/original.jpg
+- file: images/cuculiformes/cuculidae/ceuthmochares-aereus/4.jpg
+  page: https://www.inaturalist.org/photos/257851479
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257851479/original.jpeg
+- file: images/cuculiformes/cuculidae/ceuthmochares-aereus/5.jpg
+  page: https://www.inaturalist.org/photos/260562002
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260562002/original.jpeg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-latinuchus/1.jpg
+  page: https://www.inaturalist.org/photos/625833353
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625833353/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-latinuchus/1.jpg
+  page: https://www.inaturalist.org/photos/625833353
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625833353/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-latinuchus/2.jpg
+  page: https://www.inaturalist.org/photos/708617524
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708617524/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-latinuchus/3.jpg
+  page: https://www.inaturalist.org/photos/724738687
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724738687/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-latinuchus/4.jpg
+  page: https://www.inaturalist.org/photos/722769366
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722769366/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-latinuchus/5.jpg
+  page: https://www.inaturalist.org/photos/530076784
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530076784/original.jpg
 ---
 
 

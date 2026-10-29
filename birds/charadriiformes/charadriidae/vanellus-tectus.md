@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-tectus/1.jpg
+  page: https://www.inaturalist.org/photos/607759696
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607759696/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-tectus/1.jpg
+  page: https://www.inaturalist.org/photos/607759696
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607759696/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-tectus/2.jpg
+  page: https://www.inaturalist.org/photos/612512405
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612512405/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-tectus/3.jpg
+  page: https://www.inaturalist.org/photos/472287499
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472287499/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-tectus/4.jpg
+  page: https://www.inaturalist.org/photos/481040681
+  author: Maxim Shashkov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481040681/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-tectus/5.jpg
+  page: https://www.inaturalist.org/photos/567641514
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567641514/original.jpg
 ---
 
 

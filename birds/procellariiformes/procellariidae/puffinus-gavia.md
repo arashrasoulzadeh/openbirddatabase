@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/puffinus-gavia/1.jpg
+  page: https://www.inaturalist.org/photos/605530155
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605530155/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/puffinus-gavia/1.jpg
+  page: https://www.inaturalist.org/photos/605530155
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605530155/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-gavia/2.jpg
+  page: https://www.inaturalist.org/photos/604977046
+  author: Kizzie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604977046/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-gavia/3.jpg
+  page: https://www.inaturalist.org/photos/606040174
+  author: Squid Wizard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606040174/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-gavia/4.jpg
+  page: https://www.inaturalist.org/photos/614958474
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614958474/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-gavia/5.jpg
+  page: https://www.inaturalist.org/photos/615297083
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615297083/original.jpg
 ---
 
 

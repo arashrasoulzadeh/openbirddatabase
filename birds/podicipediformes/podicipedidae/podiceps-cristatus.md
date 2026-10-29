@@ -192,10 +192,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/podicipediformes/podicipedidae/podiceps-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/605408549
+  author: Alexis Lours
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605408549/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/podiceps-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/605408549
+  author: Alexis Lours
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605408549/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-cristatus/2.jpg
+  page: https://www.inaturalist.org/photos/605173841
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605173841/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-cristatus/3.jpg
+  page: https://www.inaturalist.org/photos/605374033
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605374033/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-cristatus/4.jpg
+  page: https://www.inaturalist.org/photos/605165750
+  author: Дмитрий Еременко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165750/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-cristatus/5.jpg
+  page: https://www.inaturalist.org/photos/605417673
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417673/original.jpg
 ---
 
 

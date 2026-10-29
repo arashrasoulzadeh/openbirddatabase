@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/anthipes-solitaris/1.jpg
+  page: https://www.inaturalist.org/photos/626428773
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428773/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/anthipes-solitaris/1.jpg
+  page: https://www.inaturalist.org/photos/626428773
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428773/original.jpg
+- file: images/passeriformes/muscicapidae/anthipes-solitaris/2.jpg
+  page: https://www.inaturalist.org/photos/658466904
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658466904/original.jpg
+- file: images/passeriformes/muscicapidae/anthipes-solitaris/3.jpg
+  page: https://www.inaturalist.org/photos/722393485
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722393485/original.jpg
+- file: images/passeriformes/muscicapidae/anthipes-solitaris/4.jpg
+  page: https://www.inaturalist.org/photos/703304491
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703304491/original.jpg
+- file: images/passeriformes/muscicapidae/anthipes-solitaris/5.jpg
+  page: https://www.inaturalist.org/photos/531785103
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531785103/original.jpg
 ---
 
 

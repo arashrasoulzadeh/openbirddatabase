@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/momotidae/electron-carinatum/1.jpg
+  page: https://www.inaturalist.org/photos/623594792
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623594792/original.jpg
+images:
+- file: images/coraciiformes/momotidae/electron-carinatum/1.jpg
+  page: https://www.inaturalist.org/photos/623594792
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623594792/original.jpg
+- file: images/coraciiformes/momotidae/electron-carinatum/2.jpg
+  page: https://www.inaturalist.org/photos/654607593
+  author: Sean Krieg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654607593/original.jpg
+- file: images/coraciiformes/momotidae/electron-carinatum/3.jpg
+  page: https://www.inaturalist.org/photos/465085588
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465085588/original.jpg
+- file: images/coraciiformes/momotidae/electron-carinatum/4.jpg
+  page: https://www.inaturalist.org/photos/526804307
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526804307/original.jpg
+- file: images/coraciiformes/momotidae/electron-carinatum/5.jpg
+  page: https://www.inaturalist.org/photos/580222592
+  author: Phillip Salzinger
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580222592/original.jpg
 ---
 
 

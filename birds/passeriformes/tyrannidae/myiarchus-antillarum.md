@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-antillarum/1.jpg
+  page: https://www.inaturalist.org/photos/641118183
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641118183/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-antillarum/1.jpg
+  page: https://www.inaturalist.org/photos/641118183
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641118183/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-antillarum/2.jpg
+  page: https://www.inaturalist.org/photos/642984051
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642984051/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-antillarum/3.jpg
+  page: https://www.inaturalist.org/photos/635263899
+  author: Ricardo siverio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635263899/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-antillarum/4.jpg
+  page: https://www.inaturalist.org/photos/654164425
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654164425/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-antillarum/5.jpg
+  page: https://www.inaturalist.org/photos/669342811
+  author: Alex Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669342811/original.jpg
 ---
 
 

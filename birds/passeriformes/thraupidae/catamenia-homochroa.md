@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/catamenia-homochroa/1.jpg
+  page: https://www.inaturalist.org/photos/623057868
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623057868/original.jpg
+images:
+- file: images/passeriformes/thraupidae/catamenia-homochroa/1.jpg
+  page: https://www.inaturalist.org/photos/623057868
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623057868/original.jpg
+- file: images/passeriformes/thraupidae/catamenia-homochroa/2.jpg
+  page: https://www.inaturalist.org/photos/652811185
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652811185/original.jpg
+- file: images/passeriformes/thraupidae/catamenia-homochroa/3.jpg
+  page: https://www.inaturalist.org/photos/734403075
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734403075/original.jpg
+- file: images/passeriformes/thraupidae/catamenia-homochroa/4.jpg
+  page: https://www.inaturalist.org/photos/514834217
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514834217/original.jpg
+- file: images/passeriformes/thraupidae/catamenia-homochroa/5.jpg
+  page: https://www.inaturalist.org/photos/489337243
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489337243/original.jpg
 ---
 
 

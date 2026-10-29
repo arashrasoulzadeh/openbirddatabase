@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/schetba-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/452210127
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452210127/original.jpg
+images:
+- file: images/passeriformes/vangidae/schetba-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/452210127
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452210127/original.jpg
+- file: images/passeriformes/vangidae/schetba-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/455475235
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455475235/original.jpeg
+- file: images/passeriformes/vangidae/schetba-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/444302546
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444302546/original.jpeg
+- file: images/passeriformes/vangidae/schetba-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/457385848
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457385848/original.jpg
+- file: images/passeriformes/vangidae/schetba-rufa/5.jpg
+  page: https://www.inaturalist.org/photos/246643642
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246643642/original.jpg
 ---
 
 

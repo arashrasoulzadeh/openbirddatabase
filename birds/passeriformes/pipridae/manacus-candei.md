@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/manacus-candei/1.jpg
+  page: https://www.inaturalist.org/photos/605342994
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605342994/original.jpg
+images:
+- file: images/passeriformes/pipridae/manacus-candei/1.jpg
+  page: https://www.inaturalist.org/photos/605342994
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605342994/original.jpg
+- file: images/passeriformes/pipridae/manacus-candei/2.jpg
+  page: https://www.inaturalist.org/photos/605144625
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144625/original.jpg
+- file: images/passeriformes/pipridae/manacus-candei/3.jpg
+  page: https://www.inaturalist.org/photos/606159837
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606159837/original.jpg
+- file: images/passeriformes/pipridae/manacus-candei/4.jpg
+  page: https://www.inaturalist.org/photos/610844497
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610844497/original.jpg
+- file: images/passeriformes/pipridae/manacus-candei/5.jpg
+  page: https://www.inaturalist.org/photos/612913951
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612913951/original.jpg
 ---
 
 

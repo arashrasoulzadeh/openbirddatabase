@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-flavifrons/1.jpg
+  page: https://www.inaturalist.org/photos/611664595
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611664595/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-flavifrons/1.jpg
+  page: https://www.inaturalist.org/photos/611664595
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611664595/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-flavifrons/2.jpg
+  page: https://www.inaturalist.org/photos/631373367
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631373367/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-flavifrons/3.jpg
+  page: https://www.inaturalist.org/photos/617952781
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952781/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-flavifrons/4.jpg
+  page: https://www.inaturalist.org/photos/689656859
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689656859/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-flavifrons/5.jpg
+  page: https://www.inaturalist.org/photos/465712584
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465712584/original.jpeg
 ---
 
 

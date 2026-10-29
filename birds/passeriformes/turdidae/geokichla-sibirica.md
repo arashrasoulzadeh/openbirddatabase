@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-sibirica/1.jpg
+  page: https://www.inaturalist.org/photos/679339874
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679339874/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-sibirica/1.jpg
+  page: https://www.inaturalist.org/photos/679339874
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679339874/original.jpg
+- file: images/passeriformes/turdidae/geokichla-sibirica/2.jpg
+  page: https://www.inaturalist.org/photos/515495978
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515495978/original.jpg
+- file: images/passeriformes/turdidae/geokichla-sibirica/3.jpg
+  page: https://www.inaturalist.org/photos/585550127
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585550127/original.jpg
+- file: images/passeriformes/turdidae/geokichla-sibirica/4.jpg
+  page: https://www.inaturalist.org/photos/588664542
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588664542/original.jpg
+- file: images/passeriformes/turdidae/geokichla-sibirica/5.jpg
+  page: https://www.inaturalist.org/photos/592519010
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592519010/original.jpg
 ---
 
 

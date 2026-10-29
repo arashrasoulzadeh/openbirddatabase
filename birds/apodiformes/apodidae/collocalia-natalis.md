@@ -137,8 +137,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/collocalia-natalis/1.jpg
+  page: https://www.inaturalist.org/photos/724003158
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724003158/original.jpg
+images:
+- file: images/apodiformes/apodidae/collocalia-natalis/1.jpg
+  page: https://www.inaturalist.org/photos/724003158
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724003158/original.jpg
+- file: images/apodiformes/apodidae/collocalia-natalis/2.jpg
+  page: https://www.inaturalist.org/photos/392215514
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392215514/original.jpg
+- file: images/apodiformes/apodidae/collocalia-natalis/3.jpg
+  page: https://www.inaturalist.org/photos/344430551
+  author: Leo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344430551/original.jpg
+- file: images/apodiformes/apodidae/collocalia-natalis/4.jpg
+  page: https://www.inaturalist.org/photos/724003167
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724003167/original.jpg
+- file: images/apodiformes/apodidae/collocalia-natalis/5.jpg
+  page: https://www.inaturalist.org/photos/724003147
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724003147/original.jpg
 ---
 
 

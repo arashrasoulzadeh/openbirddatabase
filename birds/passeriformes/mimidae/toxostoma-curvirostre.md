@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/mimidae/toxostoma-curvirostre/1.jpg
+  page: https://www.inaturalist.org/photos/607984030
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607984030/original.jpg
+images:
+- file: images/passeriformes/mimidae/toxostoma-curvirostre/1.jpg
+  page: https://www.inaturalist.org/photos/607984030
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607984030/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-curvirostre/2.jpg
+  page: https://www.inaturalist.org/photos/609454376
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609454376/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-curvirostre/3.jpg
+  page: https://www.inaturalist.org/photos/610244502
+  author: Stephanie Tran
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610244502/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-curvirostre/4.jpg
+  page: https://www.inaturalist.org/photos/606246920
+  author: mred97
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606246920/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-curvirostre/5.jpg
+  page: https://www.inaturalist.org/photos/608075235
+  author: k7hpn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608075235/original.jpg
 ---
 
 

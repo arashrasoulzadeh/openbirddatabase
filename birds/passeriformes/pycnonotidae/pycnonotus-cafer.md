@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-cafer/1.jpg
+  page: https://www.inaturalist.org/photos/605310000
+  author: Shriya Uday
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605310000/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-cafer/1.jpg
+  page: https://www.inaturalist.org/photos/605310000
+  author: Shriya Uday
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605310000/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-cafer/2.jpg
+  page: https://www.inaturalist.org/photos/607052859
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607052859/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-cafer/3.jpg
+  page: https://www.inaturalist.org/photos/607529939
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529939/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-cafer/4.jpg
+  page: https://www.inaturalist.org/photos/608897517
+  author: Livson Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608897517/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-cafer/5.jpg
+  page: https://www.inaturalist.org/photos/610417253
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610417253/original.jpg
 ---
 
 

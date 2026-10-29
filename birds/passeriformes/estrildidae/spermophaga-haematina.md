@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/spermophaga-haematina/1.jpg
+  page: https://www.inaturalist.org/photos/640555570
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640555570/original.jpg
+images:
+- file: images/passeriformes/estrildidae/spermophaga-haematina/1.jpg
+  page: https://www.inaturalist.org/photos/640555570
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640555570/original.jpg
+- file: images/passeriformes/estrildidae/spermophaga-haematina/2.jpg
+  page: https://www.inaturalist.org/photos/353542321
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353542321/original.png
+- file: images/passeriformes/estrildidae/spermophaga-haematina/3.jpg
+  page: https://www.inaturalist.org/photos/218776314
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218776314/original.jpeg
+- file: images/passeriformes/estrildidae/spermophaga-haematina/4.jpg
+  page: https://www.inaturalist.org/photos/180612731
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180612731/original.jpg
+- file: images/passeriformes/estrildidae/spermophaga-haematina/5.jpg
+  page: https://www.inaturalist.org/photos/173824136
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173824136/original.jpg
 ---
 
 

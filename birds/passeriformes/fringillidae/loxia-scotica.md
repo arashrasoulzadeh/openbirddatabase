@@ -148,10 +148,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/fringillidae/loxia-scotica/1.jpg
+  page: https://www.inaturalist.org/photos/562388281
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562388281/original.jpg
+images:
+- file: images/passeriformes/fringillidae/loxia-scotica/1.jpg
+  page: https://www.inaturalist.org/photos/562388281
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562388281/original.jpg
+- file: images/passeriformes/fringillidae/loxia-scotica/2.jpg
+  page: https://www.inaturalist.org/photos/562388387
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562388387/original.jpg
+- file: images/passeriformes/fringillidae/loxia-scotica/3.jpg
+  page: https://www.inaturalist.org/photos/562388397
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562388397/original.jpg
+- file: images/passeriformes/fringillidae/loxia-scotica/4.jpg
+  page: https://www.inaturalist.org/photos/562388391
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562388391/original.jpg
+- file: images/passeriformes/fringillidae/loxia-scotica/5.jpg
+  page: https://www.inaturalist.org/photos/562388459
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562388459/original.jpg
 ---
 
 

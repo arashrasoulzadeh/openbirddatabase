@@ -132,8 +132,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/apalis-goslingi/1.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096546663694413634
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442813/original.JPG
+images:
+- file: images/passeriformes/cisticolidae/apalis-goslingi/1.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096546663694413634
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442813/original.JPG
+- file: images/passeriformes/cisticolidae/apalis-goslingi/2.jpg
+  page: https://www.inaturalist.org/photos/106013408
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106013408/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-goslingi/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096546684655457538
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442814/original.JPG
+- file: images/passeriformes/cisticolidae/apalis-goslingi/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096546645841184818
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442815/original.JPG
+- file: images/passeriformes/cisticolidae/apalis-goslingi/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096546585412962786
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442816/original.JPG
 ---
 
 

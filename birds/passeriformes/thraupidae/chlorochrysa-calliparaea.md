@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/chlorochrysa-calliparaea/1.jpg
+  page: https://www.inaturalist.org/photos/578641447
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578641447/original.jpg
+images:
+- file: images/passeriformes/thraupidae/chlorochrysa-calliparaea/1.jpg
+  page: https://www.inaturalist.org/photos/578641447
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578641447/original.jpg
+- file: images/passeriformes/thraupidae/chlorochrysa-calliparaea/2.jpg
+  page: https://www.inaturalist.org/photos/352670577
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352670577/original.jpeg
+- file: images/passeriformes/thraupidae/chlorochrysa-calliparaea/3.jpg
+  page: https://www.inaturalist.org/photos/427334385
+  author: Jackson Meade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427334385/original.jpeg
+- file: images/passeriformes/thraupidae/chlorochrysa-calliparaea/4.jpg
+  page: https://www.inaturalist.org/photos/252470952
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252470952/original.jpeg
+- file: images/passeriformes/thraupidae/chlorochrysa-calliparaea/5.jpg
+  page: https://www.inaturalist.org/photos/255155060
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255155060/original.jpeg
 ---
 
 

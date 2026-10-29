@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/crax-fasciolata/1.jpg
+  page: https://www.inaturalist.org/photos/606026983
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606026983/original.jpg
+images:
+- file: images/galliformes/cracidae/crax-fasciolata/1.jpg
+  page: https://www.inaturalist.org/photos/606026983
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606026983/original.jpg
+- file: images/galliformes/cracidae/crax-fasciolata/2.jpg
+  page: https://www.inaturalist.org/photos/612845740
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612845740/original.jpg
+- file: images/galliformes/cracidae/crax-fasciolata/3.jpg
+  page: https://www.inaturalist.org/photos/652714690
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652714690/original.jpg
+- file: images/galliformes/cracidae/crax-fasciolata/4.jpg
+  page: https://www.inaturalist.org/photos/640330578
+  author: Ibere Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640330578/original.jpg
+- file: images/galliformes/cracidae/crax-fasciolata/5.jpg
+  page: https://www.inaturalist.org/photos/689820879
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689820879/original.jpg
 ---
 
 

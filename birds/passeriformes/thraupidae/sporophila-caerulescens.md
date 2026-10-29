@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/605429771
+  author: Michel Pick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605429771/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/605429771
+  author: Michel Pick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605429771/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/605729642
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729642/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/604807280
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604807280/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/609586502
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609586502/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/610682040
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610682040/original.jpg
 ---
 
 

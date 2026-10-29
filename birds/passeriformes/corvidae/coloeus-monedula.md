@@ -156,7 +156,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 demography:
   max_longevity_years: 20
@@ -165,6 +166,44 @@ reproduction:
   broods_per_year: 1
   incubation_days: 18
   fledging_days: 32
+image:
+  file: images/passeriformes/corvidae/coloeus-monedula/1.jpg
+  page: https://www.inaturalist.org/photos/605061446
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605061446/original.jpg
+images:
+- file: images/passeriformes/corvidae/coloeus-monedula/1.jpg
+  page: https://www.inaturalist.org/photos/605061446
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605061446/original.jpg
+- file: images/passeriformes/corvidae/coloeus-monedula/2.jpg
+  page: https://www.inaturalist.org/photos/605073998
+  author: Radu Teodoreanu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605073998/original.jpg
+- file: images/passeriformes/corvidae/coloeus-monedula/3.jpg
+  page: https://www.inaturalist.org/photos/604746013
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604746013/original.jpg
+- file: images/passeriformes/corvidae/coloeus-monedula/4.jpg
+  page: https://www.inaturalist.org/photos/604828079
+  author: Шухободская Ольга Владимировна
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604828079/original.jpg
+- file: images/passeriformes/corvidae/coloeus-monedula/5.jpg
+  page: https://www.inaturalist.org/photos/604826962
+  author: Cara Ennis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604826962/original.jpg
 ---
 
 

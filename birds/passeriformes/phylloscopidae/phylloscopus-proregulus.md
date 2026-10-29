@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-proregulus/1.jpg
+  page: https://www.inaturalist.org/photos/609190428
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609190428/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-proregulus/1.jpg
+  page: https://www.inaturalist.org/photos/609190428
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609190428/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-proregulus/2.jpg
+  page: https://www.inaturalist.org/photos/607397172
+  author: 7695_Reikyu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607397172/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-proregulus/3.jpg
+  page: https://www.inaturalist.org/photos/608033029
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608033029/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-proregulus/4.jpg
+  page: https://www.inaturalist.org/photos/623089450
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089450/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-proregulus/5.jpg
+  page: https://www.inaturalist.org/photos/607397185
+  author: 7695_Reikyu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607397185/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-hartlaubi/1.jpg
+  page: https://www.inaturalist.org/photos/672017544
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672017544/original.jpg
+images:
+- file: images/galliformes/phasianidae/pternistis-hartlaubi/1.jpg
+  page: https://www.inaturalist.org/photos/672017544
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672017544/original.jpg
+- file: images/galliformes/phasianidae/pternistis-hartlaubi/2.jpg
+  page: https://www.inaturalist.org/photos/350845164
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350845164/original.jpeg
+- file: images/galliformes/phasianidae/pternistis-hartlaubi/3.jpg
+  page: https://www.inaturalist.org/photos/526878099
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526878099/original.jpg
+- file: images/galliformes/phasianidae/pternistis-hartlaubi/4.jpg
+  page: https://www.inaturalist.org/photos/11079579
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/11079579/original.jpg
+- file: images/galliformes/phasianidae/pternistis-hartlaubi/5.jpg
+  page: https://www.inaturalist.org/photos/405013405
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/405013405/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/alophoixus-flaveolus/1.jpg
+  page: https://www.inaturalist.org/photos/720529428
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720529428/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/alophoixus-flaveolus/1.jpg
+  page: https://www.inaturalist.org/photos/720529428
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720529428/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-flaveolus/2.jpg
+  page: https://www.inaturalist.org/photos/522620737
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522620737/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-flaveolus/3.jpg
+  page: https://www.inaturalist.org/photos/367313055
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367313055/original.jpeg
+- file: images/passeriformes/pycnonotidae/alophoixus-flaveolus/4.jpg
+  page: https://www.inaturalist.org/photos/375705443
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375705443/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-flaveolus/5.jpg
+  page: https://www.inaturalist.org/photos/370213322
+  author: libby hepburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370213322/original.jpeg
 ---
 
 

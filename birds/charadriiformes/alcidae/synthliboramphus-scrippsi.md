@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/charadriiformes/alcidae/synthliboramphus-scrippsi/1.jpg
+  page: https://www.inaturalist.org/photos/622224190
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622224190/original.jpg
+images:
+- file: images/charadriiformes/alcidae/synthliboramphus-scrippsi/1.jpg
+  page: https://www.inaturalist.org/photos/622224190
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622224190/original.jpg
+- file: images/charadriiformes/alcidae/synthliboramphus-scrippsi/2.jpg
+  page: https://www.inaturalist.org/photos/701007725
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701007725/original.jpg
+- file: images/charadriiformes/alcidae/synthliboramphus-scrippsi/3.jpg
+  page: https://www.inaturalist.org/photos/477378845
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477378845/original.jpg
+- file: images/charadriiformes/alcidae/synthliboramphus-scrippsi/4.jpg
+  page: https://www.inaturalist.org/photos/562550478
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562550478/original.jpg
+- file: images/charadriiformes/alcidae/synthliboramphus-scrippsi/5.jpg
+  page: https://www.inaturalist.org/photos/622224188
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622224188/original.jpg
 ---
 
 

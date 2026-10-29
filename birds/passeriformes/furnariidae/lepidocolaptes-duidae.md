@@ -134,10 +134,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/lepidocolaptes-duidae/1.jpg
+  page: https://www.inaturalist.org/photos/395403233
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395403233/original.jpg
+images:
+- file: images/passeriformes/furnariidae/lepidocolaptes-duidae/1.jpg
+  page: https://www.inaturalist.org/photos/395403233
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395403233/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-duidae/2.jpg
+  page: https://www.inaturalist.org/photos/409090831
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409090831/original.jpeg
+- file: images/passeriformes/furnariidae/lepidocolaptes-duidae/3.jpg
+  page: https://www.inaturalist.org/photos/333043067
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333043067/original.jpeg
+- file: images/passeriformes/furnariidae/lepidocolaptes-duidae/4.jpg
+  page: https://www.inaturalist.org/photos/427951502
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427951502/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-duidae/5.jpg
+  page: https://www.inaturalist.org/photos/158017658
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158017658/original.jpeg
 ---
 
 

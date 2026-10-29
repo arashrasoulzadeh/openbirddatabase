@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605286956
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286956/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605286956
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286956/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/610376536
+  author: Natalie Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610376536/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/608223357
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608223357/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/606852244
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606852244/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/606115796
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606115796/original.jpg
 ---
 
 

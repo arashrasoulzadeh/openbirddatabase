@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cossypha-cyanocampter/1.jpg
+  page: https://www.inaturalist.org/photos/477848879
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848879/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cossypha-cyanocampter/1.jpg
+  page: https://www.inaturalist.org/photos/477848879
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848879/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-cyanocampter/2.jpg
+  page: https://www.inaturalist.org/photos/477848922
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848922/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-cyanocampter/3.jpg
+  page: https://www.inaturalist.org/photos/477848947
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848947/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-cyanocampter/4.jpg
+  page: https://www.inaturalist.org/photos/477848919
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848919/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-cyanocampter/5.jpg
+  page: https://www.inaturalist.org/photos/477848968
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848968/original.jpg
 ---
 
 

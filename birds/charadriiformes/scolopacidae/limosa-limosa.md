@@ -194,10 +194,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/charadriiformes/scolopacidae/limosa-limosa/1.jpg
+  page: https://www.inaturalist.org/photos/604804437
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604804437/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/limosa-limosa/1.jpg
+  page: https://www.inaturalist.org/photos/604804437
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604804437/original.jpg
+- file: images/charadriiformes/scolopacidae/limosa-limosa/2.jpg
+  page: https://www.inaturalist.org/photos/605054346
+  author: cwriggy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605054346/original.jpg
+- file: images/charadriiformes/scolopacidae/limosa-limosa/3.jpg
+  page: https://www.inaturalist.org/photos/605146112
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605146112/original.jpg
+- file: images/charadriiformes/scolopacidae/limosa-limosa/4.jpg
+  page: https://www.inaturalist.org/photos/605669544
+  author: Fionn Ó Marcaigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605669544/original.jpg
+- file: images/charadriiformes/scolopacidae/limosa-limosa/5.jpg
+  page: https://www.inaturalist.org/photos/610727658
+  author: Helen Wilkie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610727658/original.jpg
 ---
 
 

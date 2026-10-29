@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/myiagra-cyanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/605502363
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605502363/original.jpg
+images:
+- file: images/passeriformes/monarchidae/myiagra-cyanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/605502363
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605502363/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-cyanoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/608806772
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608806772/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-cyanoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/611595190
+  author: John Cull
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611595190/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-cyanoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/466855221
+  author: Max Campbell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466855221/original.jpeg
+- file: images/passeriformes/monarchidae/myiagra-cyanoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/475236457
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475236457/original.jpeg
 ---
 
 

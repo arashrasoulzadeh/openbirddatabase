@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/suliformes/fregatidae/fregata-minor/1.jpg
+  page: https://www.inaturalist.org/photos/608580901
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608580901/original.jpg
+images:
+- file: images/suliformes/fregatidae/fregata-minor/1.jpg
+  page: https://www.inaturalist.org/photos/608580901
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608580901/original.jpg
+- file: images/suliformes/fregatidae/fregata-minor/2.jpg
+  page: https://www.inaturalist.org/photos/617222265
+  author: Yvan Papa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617222265/original.jpg
+- file: images/suliformes/fregatidae/fregata-minor/3.jpg
+  page: https://www.inaturalist.org/photos/608580909
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608580909/original.jpg
+- file: images/suliformes/fregatidae/fregata-minor/4.jpg
+  page: https://www.inaturalist.org/photos/608581210
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608581210/original.jpg
+- file: images/suliformes/fregatidae/fregata-minor/5.jpg
+  page: https://www.inaturalist.org/photos/609355064
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609355064/original.jpg
 ---
 
 

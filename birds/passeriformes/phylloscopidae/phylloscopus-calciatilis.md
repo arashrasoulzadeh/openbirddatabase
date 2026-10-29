@@ -128,8 +128,41 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-calciatilis/1.jpg
+  page: https://www.inaturalist.org/photos/614273634
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614273634/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-calciatilis/1.jpg
+  page: https://www.inaturalist.org/photos/614273634
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614273634/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-calciatilis/2.jpg
+  page: https://www.inaturalist.org/photos/105890266
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105890266/original.jpeg
+- file: images/passeriformes/phylloscopidae/phylloscopus-calciatilis/3.jpg
+  page: https://www.inaturalist.org/photos/614273650
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614273650/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-calciatilis/4.jpg
+  page: https://www.inaturalist.org/photos/105890329
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105890329/original.jpeg
 ---
 
 

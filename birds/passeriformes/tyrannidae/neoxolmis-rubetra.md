@@ -121,7 +121,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 19.9
@@ -129,6 +130,44 @@ morphology:
   wing_length_mm: 118.2
   tail_length_mm: 80.5
   body_mass_g: 36.3
+image:
+  file: images/passeriformes/tyrannidae/neoxolmis-rubetra/1.jpg
+  page: https://www.inaturalist.org/photos/696942207
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696942207/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/neoxolmis-rubetra/1.jpg
+  page: https://www.inaturalist.org/photos/696942207
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696942207/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-rubetra/2.jpg
+  page: https://www.inaturalist.org/photos/464590162
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464590162/original.jpeg
+- file: images/passeriformes/tyrannidae/neoxolmis-rubetra/3.jpg
+  page: https://www.inaturalist.org/photos/733351374
+  author: Gabriel Brachetti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733351374/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-rubetra/4.jpg
+  page: https://www.inaturalist.org/photos/575667320
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575667320/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-rubetra/5.jpg
+  page: https://www.inaturalist.org/photos/584077106
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584077106/original.jpg
 ---
 
 

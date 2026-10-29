@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/ramsayornis-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/730038373
+  author: John Cull
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730038373/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/ramsayornis-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/730038373
+  author: John Cull
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730038373/original.jpg
+- file: images/passeriformes/meliphagidae/ramsayornis-fasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/476503104
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476503104/original.jpg
+- file: images/passeriformes/meliphagidae/ramsayornis-fasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/482975539
+  author: Roland Muench
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482975539/original.jpg
+- file: images/passeriformes/meliphagidae/ramsayornis-fasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/453503493
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453503493/original.jpg
+- file: images/passeriformes/meliphagidae/ramsayornis-fasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/341546571
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341546571/original.jpg
 ---
 
 

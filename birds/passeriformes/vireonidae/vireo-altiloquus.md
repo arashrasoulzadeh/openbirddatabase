@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireo-altiloquus/1.jpg
+  page: https://www.inaturalist.org/photos/607518048
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518048/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-altiloquus/1.jpg
+  page: https://www.inaturalist.org/photos/607518048
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518048/original.jpg
+- file: images/passeriformes/vireonidae/vireo-altiloquus/2.jpg
+  page: https://www.inaturalist.org/photos/616519763
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616519763/original.jpg
+- file: images/passeriformes/vireonidae/vireo-altiloquus/3.jpg
+  page: https://www.inaturalist.org/photos/630034258
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630034258/original.jpg
+- file: images/passeriformes/vireonidae/vireo-altiloquus/4.jpg
+  page: https://www.inaturalist.org/photos/642194021
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642194021/original.jpg
+- file: images/passeriformes/vireonidae/vireo-altiloquus/5.jpg
+  page: https://www.inaturalist.org/photos/639799606
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639799606/original.jpg
 ---
 
 

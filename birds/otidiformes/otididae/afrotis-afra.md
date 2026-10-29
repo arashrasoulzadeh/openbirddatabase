@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/afrotis-afra/1.jpg
+  page: https://www.inaturalist.org/photos/610988732
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610988732/original.jpg
+images:
+- file: images/otidiformes/otididae/afrotis-afra/1.jpg
+  page: https://www.inaturalist.org/photos/610988732
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610988732/original.jpg
+- file: images/otidiformes/otididae/afrotis-afra/2.jpg
+  page: https://www.inaturalist.org/photos/729206667
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729206667/original.jpg
+- file: images/otidiformes/otididae/afrotis-afra/3.jpg
+  page: https://www.inaturalist.org/photos/741130336
+  author: jk6000
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741130336/original.jpg
+- file: images/otidiformes/otididae/afrotis-afra/4.jpg
+  page: https://www.inaturalist.org/photos/496441336
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496441336/original.jpeg
+- file: images/otidiformes/otididae/afrotis-afra/5.jpg
+  page: https://www.inaturalist.org/photos/596435159
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596435159/original.jpg
 ---
 
 

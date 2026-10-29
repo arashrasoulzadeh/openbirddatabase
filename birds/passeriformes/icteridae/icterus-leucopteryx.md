@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/icteridae/icterus-leucopteryx/1.jpg
+  page: https://www.inaturalist.org/photos/469425815
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469425815/original.jpeg
+images:
+- file: images/passeriformes/icteridae/icterus-leucopteryx/1.jpg
+  page: https://www.inaturalist.org/photos/469425815
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469425815/original.jpeg
+- file: images/passeriformes/icteridae/icterus-leucopteryx/2.jpg
+  page: https://www.inaturalist.org/photos/477930179
+  author: Megan Crewe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477930179/original.jpeg
+- file: images/passeriformes/icteridae/icterus-leucopteryx/3.jpg
+  page: https://www.inaturalist.org/photos/353713016
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353713016/original.jpg
+- file: images/passeriformes/icteridae/icterus-leucopteryx/4.jpg
+  page: https://www.inaturalist.org/photos/391555529
+  author: Marilyne Busque-Dubois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/391555529/original.jpeg
+- file: images/passeriformes/icteridae/icterus-leucopteryx/5.jpg
+  page: https://www.inaturalist.org/photos/336759777
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336759777/original.jpeg
 ---
 
 

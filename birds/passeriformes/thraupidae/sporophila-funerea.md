@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-funerea/1.jpg
+  page: https://www.inaturalist.org/photos/610157600
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610157600/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-funerea/1.jpg
+  page: https://www.inaturalist.org/photos/610157600
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610157600/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-funerea/2.jpg
+  page: https://www.inaturalist.org/photos/608763614
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763614/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-funerea/3.jpg
+  page: https://www.inaturalist.org/photos/613478133
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613478133/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-funerea/4.jpg
+  page: https://www.inaturalist.org/photos/618206784
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618206784/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-funerea/5.jpg
+  page: https://www.inaturalist.org/photos/643263501
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643263501/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/peucaea-carpalis/1.jpg
+  page: https://www.inaturalist.org/photos/607011875
+  author: Isaac Ethington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607011875/original.jpg
+images:
+- file: images/passeriformes/passerellidae/peucaea-carpalis/1.jpg
+  page: https://www.inaturalist.org/photos/607011875
+  author: Isaac Ethington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607011875/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-carpalis/2.jpg
+  page: https://www.inaturalist.org/photos/616777067
+  author: Jason Leduc
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616777067/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-carpalis/3.jpg
+  page: https://www.inaturalist.org/photos/625579369
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625579369/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-carpalis/4.jpg
+  page: https://www.inaturalist.org/photos/636337372
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636337372/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-carpalis/5.jpg
+  page: https://www.inaturalist.org/photos/663885930
+  author: Oskar P. Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663885930/original.jpg
 ---
 
 

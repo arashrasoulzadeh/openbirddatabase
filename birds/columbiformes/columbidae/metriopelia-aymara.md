@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/metriopelia-aymara/1.jpg
+  page: https://www.inaturalist.org/photos/616635242
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616635242/original.jpg
+images:
+- file: images/columbiformes/columbidae/metriopelia-aymara/1.jpg
+  page: https://www.inaturalist.org/photos/616635242
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616635242/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-aymara/2.jpg
+  page: https://www.inaturalist.org/photos/649897186
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649897186/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-aymara/3.jpg
+  page: https://www.inaturalist.org/photos/662651513
+  author: Rodrigo Castillo Tapia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662651513/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-aymara/4.jpg
+  page: https://www.inaturalist.org/photos/473970349
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473970349/original.jpeg
+- file: images/columbiformes/columbidae/metriopelia-aymara/5.jpg
+  page: https://www.inaturalist.org/photos/496805787
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496805787/original.jpeg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendropicos-griseocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/624175059
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624175059/original.jpg
+images:
+- file: images/piciformes/picidae/dendropicos-griseocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/624175059
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624175059/original.jpg
+- file: images/piciformes/picidae/dendropicos-griseocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/629861506
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629861506/original.jpg
+- file: images/piciformes/picidae/dendropicos-griseocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/648373868
+  author: Burgert Jordaan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648373868/original.jpg
+- file: images/piciformes/picidae/dendropicos-griseocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/653003075
+  author: Philipp Hoenle
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653003075/original.jpg
+- file: images/piciformes/picidae/dendropicos-griseocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/674602962
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674602962/original.jpg
 ---
 
 

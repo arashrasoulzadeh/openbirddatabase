@@ -152,8 +152,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliothryx-auritus/1.jpg
+  page: https://www.inaturalist.org/photos/617330982
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617330982/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliothryx-auritus/1.jpg
+  page: https://www.inaturalist.org/photos/617330982
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617330982/original.jpg
+- file: images/apodiformes/trochilidae/heliothryx-auritus/2.jpg
+  page: https://www.inaturalist.org/photos/716449059
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716449059/original.jpg
+- file: images/apodiformes/trochilidae/heliothryx-auritus/3.jpg
+  page: https://www.inaturalist.org/photos/685231592
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685231592/original.jpg
+- file: images/apodiformes/trochilidae/heliothryx-auritus/4.jpg
+  page: https://www.inaturalist.org/photos/702721258
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702721258/original.jpg
+- file: images/apodiformes/trochilidae/heliothryx-auritus/5.jpg
+  page: https://www.inaturalist.org/photos/720276893
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720276893/original.jpg
 ---
 
 

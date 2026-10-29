@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/psittaciformes/psittaculidae/lorius-lory/1.jpg
+  page: https://www.inaturalist.org/photos/698751871
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698751871/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/lorius-lory/1.jpg
+  page: https://www.inaturalist.org/photos/698751871
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698751871/original.jpg
+- file: images/psittaciformes/psittaculidae/lorius-lory/2.jpg
+  page: https://www.inaturalist.org/photos/478483886
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478483886/original.jpeg
+- file: images/psittaciformes/psittaculidae/lorius-lory/3.jpg
+  page: https://www.inaturalist.org/photos/549382333
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549382333/original.jpg
+- file: images/psittaciformes/psittaculidae/lorius-lory/4.jpg
+  page: https://www.inaturalist.org/photos/568907827
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568907827/original.jpg
+- file: images/psittaciformes/psittaculidae/lorius-lory/5.jpg
+  page: https://www.inaturalist.org/photos/616295333
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616295333/original.jpg
 ---
 
 

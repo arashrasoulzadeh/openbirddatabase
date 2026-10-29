@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/psittaciformes/psittaculidae/agapornis-taranta/1.jpg
+  page: https://www.inaturalist.org/photos/605113140
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605113140/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/agapornis-taranta/1.jpg
+  page: https://www.inaturalist.org/photos/605113140
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605113140/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-taranta/2.jpg
+  page: https://www.inaturalist.org/photos/361014208
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361014208/original.jpeg
+- file: images/psittaciformes/psittaculidae/agapornis-taranta/3.jpg
+  page: https://www.inaturalist.org/photos/442085697
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442085697/original.jpeg
+- file: images/psittaciformes/psittaculidae/agapornis-taranta/4.jpg
+  page: https://www.inaturalist.org/photos/62465876
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62465876/original.jpeg
+- file: images/psittaciformes/psittaculidae/agapornis-taranta/5.jpg
+  page: https://www.inaturalist.org/photos/13364661
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13364661/original.jpg
 ---
 
 

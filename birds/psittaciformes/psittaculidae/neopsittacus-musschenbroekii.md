@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/neopsittacus-musschenbroekii/1.jpg
+  page: https://www.inaturalist.org/photos/699952878
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699952878/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/neopsittacus-musschenbroekii/1.jpg
+  page: https://www.inaturalist.org/photos/699952878
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699952878/original.jpg
+- file: images/psittaciformes/psittaculidae/neopsittacus-musschenbroekii/2.jpg
+  page: https://www.inaturalist.org/photos/658495487
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658495487/original.jpg
+- file: images/psittaciformes/psittaculidae/neopsittacus-musschenbroekii/3.jpg
+  page: https://www.inaturalist.org/photos/335836776
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335836776/original.jpg
+- file: images/psittaciformes/psittaculidae/neopsittacus-musschenbroekii/4.jpg
+  page: https://www.inaturalist.org/photos/703067859
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067859/original.jpg
+- file: images/psittaciformes/psittaculidae/neopsittacus-musschenbroekii/5.jpg
+  page: https://www.inaturalist.org/photos/703067889
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067889/original.jpg
 ---
 
 

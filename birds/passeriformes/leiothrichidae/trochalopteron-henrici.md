@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-henrici/1.jpg
+  page: https://www.inaturalist.org/photos/640155155
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640155155/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-henrici/1.jpg
+  page: https://www.inaturalist.org/photos/640155155
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640155155/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-henrici/2.jpg
+  page: https://www.inaturalist.org/photos/633047003
+  author: 王天明
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633047003/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-henrici/3.jpg
+  page: https://www.inaturalist.org/photos/730269518
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730269518/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-henrici/4.jpg
+  page: https://www.inaturalist.org/photos/550252560
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550252560/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-henrici/5.jpg
+  page: https://www.inaturalist.org/photos/322142462
+  author: TonyT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322142462/original.jpeg
 ---
 
 

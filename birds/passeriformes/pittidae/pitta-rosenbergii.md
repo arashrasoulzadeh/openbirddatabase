@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/pitta-rosenbergii/1.jpg
+  page: https://www.inaturalist.org/photos/670815918
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670815918/original.jpg
+images:
+- file: images/passeriformes/pittidae/pitta-rosenbergii/1.jpg
+  page: https://www.inaturalist.org/photos/670815918
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670815918/original.jpg
+- file: images/passeriformes/pittidae/pitta-rosenbergii/2.jpg
+  page: https://www.inaturalist.org/photos/213687220
+  author: Jonathan M
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/213687220/original.jpg
+- file: images/passeriformes/pittidae/pitta-rosenbergii/3.jpg
+  page: https://www.inaturalist.org/photos/670815922
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670815922/original.jpg
+- file: images/passeriformes/pittidae/pitta-rosenbergii/4.jpg
+  page: https://www.inaturalist.org/photos/670815921
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670815921/original.jpg
+- file: images/passeriformes/pittidae/pitta-rosenbergii/5.jpg
+  page: https://www.inaturalist.org/photos/670817271
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670817271/original.jpg
 ---
 
 

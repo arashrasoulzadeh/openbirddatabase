@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/climacteridae/climacteris-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/731928872
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731928872/original.jpg
+images:
+- file: images/passeriformes/climacteridae/climacteris-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/731928872
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731928872/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/608587112
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608587112/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/304388615
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304388615/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/378753605
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378753605/original.jpeg
+- file: images/passeriformes/climacteridae/climacteris-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/334239141
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334239141/original.jpeg
 ---
 
 

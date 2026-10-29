@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/polioptilidae/polioptila-albiloris/1.jpg
+  page: https://www.inaturalist.org/photos/607706209
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607706209/original.jpg
+images:
+- file: images/passeriformes/polioptilidae/polioptila-albiloris/1.jpg
+  page: https://www.inaturalist.org/photos/607706209
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607706209/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-albiloris/2.jpg
+  page: https://www.inaturalist.org/photos/609233686
+  author: Xochitl Castaño
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609233686/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-albiloris/3.jpg
+  page: https://www.inaturalist.org/photos/616777952
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616777952/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-albiloris/4.jpg
+  page: https://www.inaturalist.org/photos/619566825
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619566825/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-albiloris/5.jpg
+  page: https://www.inaturalist.org/photos/670802721
+  author: uriel Gomez
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670802721/original.jpg
 ---
 
 

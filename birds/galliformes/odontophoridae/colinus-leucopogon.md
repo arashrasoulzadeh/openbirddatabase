@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/colinus-leucopogon/1.jpg
+  page: https://www.inaturalist.org/photos/705000319
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705000319/original.jpg
+images:
+- file: images/galliformes/odontophoridae/colinus-leucopogon/1.jpg
+  page: https://www.inaturalist.org/photos/705000319
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705000319/original.jpg
+- file: images/galliformes/odontophoridae/colinus-leucopogon/2.jpg
+  page: https://www.inaturalist.org/photos/485214954
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485214954/original.jpg
+- file: images/galliformes/odontophoridae/colinus-leucopogon/3.jpg
+  page: https://www.inaturalist.org/photos/489078290
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489078290/original.jpg
+- file: images/galliformes/odontophoridae/colinus-leucopogon/4.jpg
+  page: https://www.inaturalist.org/photos/414301490
+  author: Sobeida Morales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414301490/original.jpeg
+- file: images/galliformes/odontophoridae/colinus-leucopogon/5.jpg
+  page: https://www.inaturalist.org/photos/458901749
+  author: JoshueTG
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458901749/original.jpeg
 ---
 
 

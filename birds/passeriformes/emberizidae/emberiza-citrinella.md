@@ -181,10 +181,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/emberizidae/emberiza-citrinella/1.jpg
+  page: https://www.inaturalist.org/photos/605668465
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605668465/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-citrinella/1.jpg
+  page: https://www.inaturalist.org/photos/605668465
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605668465/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-citrinella/2.jpg
+  page: https://www.inaturalist.org/photos/604560687
+  author: Petro Miroshnyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604560687/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-citrinella/3.jpg
+  page: https://www.inaturalist.org/photos/605378927
+  author: baarttek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605378927/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-citrinella/4.jpg
+  page: https://www.inaturalist.org/photos/605407609
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605407609/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-citrinella/5.jpg
+  page: https://www.inaturalist.org/photos/605070926
+  author: Petro Miroshnyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605070926/original.jpg
 ---
 
 

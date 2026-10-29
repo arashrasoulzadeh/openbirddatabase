@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 28.0
@@ -136,6 +137,44 @@ morphology:
   wing_length_mm: 105.6
   tail_length_mm: 95.2
   body_mass_g: 43.9
+image:
+  file: images/passeriformes/furnariidae/pseudocolaptes-boissonneautii/1.jpg
+  page: https://www.inaturalist.org/photos/652823042
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652823042/original.jpg
+images:
+- file: images/passeriformes/furnariidae/pseudocolaptes-boissonneautii/1.jpg
+  page: https://www.inaturalist.org/photos/652823042
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652823042/original.jpg
+- file: images/passeriformes/furnariidae/pseudocolaptes-boissonneautii/2.jpg
+  page: https://www.inaturalist.org/photos/489348071
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489348071/original.jpg
+- file: images/passeriformes/furnariidae/pseudocolaptes-boissonneautii/3.jpg
+  page: https://www.inaturalist.org/photos/558265539
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558265539/original.jpg
+- file: images/passeriformes/furnariidae/pseudocolaptes-boissonneautii/4.jpg
+  page: https://www.inaturalist.org/photos/347359670
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347359670/original.jpeg
+- file: images/passeriformes/furnariidae/pseudocolaptes-boissonneautii/5.jpg
+  page: https://www.inaturalist.org/photos/258457375
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258457375/original.jpeg
 ---
 
 

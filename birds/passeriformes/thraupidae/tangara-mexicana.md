@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-mexicana/1.jpg
+  page: https://www.inaturalist.org/photos/622225390
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622225390/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-mexicana/1.jpg
+  page: https://www.inaturalist.org/photos/622225390
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622225390/original.jpg
+- file: images/passeriformes/thraupidae/tangara-mexicana/2.jpg
+  page: https://www.inaturalist.org/photos/742010849
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742010849/original.jpg
+- file: images/passeriformes/thraupidae/tangara-mexicana/3.jpg
+  page: https://www.inaturalist.org/photos/672627597
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672627597/original.jpg
+- file: images/passeriformes/thraupidae/tangara-mexicana/4.jpg
+  page: https://www.inaturalist.org/photos/722961818
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722961818/original.jpg
+- file: images/passeriformes/thraupidae/tangara-mexicana/5.jpg
+  page: https://www.inaturalist.org/photos/704282052
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704282052/original.jpg
 ---
 
 

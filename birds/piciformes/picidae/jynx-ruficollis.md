@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/jynx-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/626601902
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626601902/original.jpg
+images:
+- file: images/piciformes/picidae/jynx-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/626601902
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626601902/original.jpg
+- file: images/piciformes/picidae/jynx-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/641239860
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641239860/original.jpg
+- file: images/piciformes/picidae/jynx-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/716627820
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716627820/original.jpg
+- file: images/piciformes/picidae/jynx-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/696887380
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696887380/original.jpg
+- file: images/piciformes/picidae/jynx-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/597370115
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597370115/original.jpg
 ---
 
 

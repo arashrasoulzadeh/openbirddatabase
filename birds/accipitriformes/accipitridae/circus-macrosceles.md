@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circus-macrosceles/1.jpg
+  page: https://www.inaturalist.org/photos/592260208
+  author: Jonathan Walz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592260208/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-macrosceles/1.jpg
+  page: https://www.inaturalist.org/photos/592260208
+  author: Jonathan Walz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592260208/original.jpg
+- file: images/accipitriformes/accipitridae/circus-macrosceles/2.jpg
+  page: https://www.inaturalist.org/photos/457762636
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457762636/original.jpg
+- file: images/accipitriformes/accipitridae/circus-macrosceles/3.jpg
+  page: https://www.inaturalist.org/photos/457762634
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457762634/original.jpg
+- file: images/accipitriformes/accipitridae/circus-macrosceles/4.jpg
+  page: https://www.inaturalist.org/photos/457762624
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457762624/original.jpg
+- file: images/accipitriformes/accipitridae/circus-macrosceles/5.jpg
+  page: https://www.inaturalist.org/photos/457762639
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457762639/original.jpg
 ---
 
 

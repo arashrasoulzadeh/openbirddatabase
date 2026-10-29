@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-claudiae/1.jpg
+  page: https://www.inaturalist.org/photos/611136674
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136674/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-claudiae/1.jpg
+  page: https://www.inaturalist.org/photos/611136674
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136674/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-claudiae/2.jpg
+  page: https://www.inaturalist.org/photos/470890581
+  author: Utain Pummarin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470890581/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-claudiae/3.jpg
+  page: https://www.inaturalist.org/photos/600548669
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600548669/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-claudiae/4.jpg
+  page: https://www.inaturalist.org/photos/508582511
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508582511/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-claudiae/5.jpg
+  page: https://www.inaturalist.org/photos/348158119
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348158119/original.jpg
 ---
 
 

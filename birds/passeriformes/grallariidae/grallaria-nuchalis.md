@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/622966240
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622966240/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/622966240
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622966240/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-nuchalis/2.jpg
+  page: https://www.inaturalist.org/photos/498361378
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498361378/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-nuchalis/3.jpg
+  page: https://www.inaturalist.org/photos/527266779
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527266779/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-nuchalis/4.jpg
+  page: https://www.inaturalist.org/photos/557774164
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557774164/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-nuchalis/5.jpg
+  page: https://www.inaturalist.org/photos/595810721
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595810721/original.jpg
 ---
 
 

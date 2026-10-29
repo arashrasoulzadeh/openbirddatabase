@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/zentrygon-carrikeri/1.jpg
+  page: https://www.inaturalist.org/photos/41717009
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/41717009/original.jpg
+images:
+- file: images/columbiformes/columbidae/zentrygon-carrikeri/1.jpg
+  page: https://www.inaturalist.org/photos/41717009
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/41717009/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-carrikeri/2.jpg
+  page: https://www.inaturalist.org/photos/23553198
+  author: Adrianh M. Orozco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/23553198/original.jpeg
+- file: images/columbiformes/columbidae/zentrygon-carrikeri/3.jpg
+  page: https://www.inaturalist.org/photos/41717103
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/41717103/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-carrikeri/4.jpg
+  page: https://www.inaturalist.org/photos/41717105
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/41717105/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-carrikeri/5.jpg
+  page: https://www.inaturalist.org/photos/41717113
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/41717113/original.jpg
 ---
 
 

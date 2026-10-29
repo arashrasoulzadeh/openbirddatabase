@@ -126,8 +126,41 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-misoriensis/1.jpg
+  page: https://www.inaturalist.org/photos/671418463
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671418463/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-misoriensis/1.jpg
+  page: https://www.inaturalist.org/photos/671418463
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671418463/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-misoriensis/2.jpg
+  page: https://www.inaturalist.org/photos/109867884
+  author: Mikael Bauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109867884/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-misoriensis/3.jpg
+  page: https://www.inaturalist.org/photos/671418456
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671418456/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-misoriensis/4.jpg
+  page: https://www.inaturalist.org/photos/671418470
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671418470/original.jpg
 ---
 
 

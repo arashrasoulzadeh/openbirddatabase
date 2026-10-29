@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/galliformes/phasianidae/pavo-muticus/1.jpg
+  page: https://www.inaturalist.org/photos/610165118
+  author: Kiwi Shen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610165118/original.jpg
+images:
+- file: images/galliformes/phasianidae/pavo-muticus/1.jpg
+  page: https://www.inaturalist.org/photos/610165118
+  author: Kiwi Shen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610165118/original.jpg
+- file: images/galliformes/phasianidae/pavo-muticus/2.jpg
+  page: https://www.inaturalist.org/photos/623759059
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623759059/original.jpg
+- file: images/galliformes/phasianidae/pavo-muticus/3.jpg
+  page: https://www.inaturalist.org/photos/636024527
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636024527/original.jpg
+- file: images/galliformes/phasianidae/pavo-muticus/4.jpg
+  page: https://www.inaturalist.org/photos/634666114
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634666114/original.jpg
+- file: images/galliformes/phasianidae/pavo-muticus/5.jpg
+  page: https://www.inaturalist.org/photos/610165141
+  author: Kiwi Shen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610165141/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-oenothorax/1.jpg
+  page: https://www.inaturalist.org/photos/612455105
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612455105/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-oenothorax/1.jpg
+  page: https://www.inaturalist.org/photos/612455105
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612455105/original.jpg
+- file: images/columbiformes/columbidae/ducula-oenothorax/2.jpg
+  page: https://www.inaturalist.org/photos/615431813
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615431813/original.jpg
+- file: images/columbiformes/columbidae/ducula-oenothorax/3.jpg
+  page: https://www.inaturalist.org/photos/650144090
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650144090/original.jpg
+- file: images/columbiformes/columbidae/ducula-oenothorax/4.jpg
+  page: https://www.inaturalist.org/photos/735290221
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735290221/original.jpg
+- file: images/columbiformes/columbidae/ducula-oenothorax/5.jpg
+  page: https://www.inaturalist.org/photos/617216352
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617216352/original.jpg
 ---
 
 

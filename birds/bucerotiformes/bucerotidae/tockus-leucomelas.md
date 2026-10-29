@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/tockus-leucomelas/1.jpg
+  page: https://www.inaturalist.org/photos/617667585
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617667585/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/tockus-leucomelas/1.jpg
+  page: https://www.inaturalist.org/photos/617667585
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617667585/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-leucomelas/2.jpg
+  page: https://www.inaturalist.org/photos/650457241
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650457241/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-leucomelas/3.jpg
+  page: https://www.inaturalist.org/photos/616309992
+  author: Dan Lee
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616309992/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-leucomelas/4.jpg
+  page: https://www.inaturalist.org/photos/624217995
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624217995/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-leucomelas/5.jpg
+  page: https://www.inaturalist.org/photos/629140416
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629140416/original.jpg
 ---
 
 

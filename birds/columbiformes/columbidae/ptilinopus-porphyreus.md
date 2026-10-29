@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-porphyreus/1.jpg
+  page: https://www.inaturalist.org/photos/660053062
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660053062/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-porphyreus/1.jpg
+  page: https://www.inaturalist.org/photos/660053062
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660053062/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-porphyreus/2.jpg
+  page: https://www.inaturalist.org/photos/309997129
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309997129/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-porphyreus/3.jpg
+  page: https://www.inaturalist.org/photos/205990713
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205990713/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-porphyreus/4.jpg
+  page: https://www.inaturalist.org/photos/144426143
+  author: Fathurrahman Sidiq
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/144426143/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-porphyreus/5.jpg
+  page: https://www.inaturalist.org/photos/663309858
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663309858/original.jpg
 ---
 
 

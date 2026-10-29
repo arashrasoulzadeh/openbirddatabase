@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/malacopteron-palawanense/1.jpg
+  page: https://www.inaturalist.org/photos/246632138
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246632138/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/malacopteron-palawanense/1.jpg
+  page: https://www.inaturalist.org/photos/246632138
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246632138/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-palawanense/2.jpg
+  page: https://www.inaturalist.org/photos/246632175
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246632175/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-palawanense/3.jpg
+  page: https://www.inaturalist.org/photos/246632203
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246632203/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-palawanense/4.jpg
+  page: https://www.inaturalist.org/photos/246632229
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246632229/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-palawanense/5.jpg
+  page: https://www.inaturalist.org/photos/246632311
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246632311/original.jpg
 ---
 
 

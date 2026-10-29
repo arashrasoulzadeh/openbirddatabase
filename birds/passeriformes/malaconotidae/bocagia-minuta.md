@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/bocagia-minuta/1.jpg
+  page: https://www.inaturalist.org/photos/477847854
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477847854/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/bocagia-minuta/1.jpg
+  page: https://www.inaturalist.org/photos/477847854
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477847854/original.jpg
+- file: images/passeriformes/malaconotidae/bocagia-minuta/2.jpg
+  page: https://www.inaturalist.org/photos/593592642
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593592642/original.jpg
+- file: images/passeriformes/malaconotidae/bocagia-minuta/3.jpg
+  page: https://www.inaturalist.org/photos/618614940
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618614940/original.jpg
+- file: images/passeriformes/malaconotidae/bocagia-minuta/4.jpg
+  page: https://www.inaturalist.org/photos/253878753
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253878753/original.jpeg
+- file: images/passeriformes/malaconotidae/bocagia-minuta/5.jpg
+  page: https://www.inaturalist.org/photos/344795980
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344795980/original.jpeg
 ---
 
 

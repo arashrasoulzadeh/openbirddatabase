@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/gavicalis-fasciogularis/1.jpg
+  page: https://www.inaturalist.org/photos/610146381
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146381/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/gavicalis-fasciogularis/1.jpg
+  page: https://www.inaturalist.org/photos/610146381
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146381/original.jpg
+- file: images/passeriformes/meliphagidae/gavicalis-fasciogularis/2.jpg
+  page: https://www.inaturalist.org/photos/712439518
+  author: Natasha Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712439518/original.jpg
+- file: images/passeriformes/meliphagidae/gavicalis-fasciogularis/3.jpg
+  page: https://www.inaturalist.org/photos/625556210
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625556210/original.jpg
+- file: images/passeriformes/meliphagidae/gavicalis-fasciogularis/4.jpg
+  page: https://www.inaturalist.org/photos/664301441
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664301441/original.jpg
+- file: images/passeriformes/meliphagidae/gavicalis-fasciogularis/5.jpg
+  page: https://www.inaturalist.org/photos/677957820
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677957820/original.jpg
 ---
 
 

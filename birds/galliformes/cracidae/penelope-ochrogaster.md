@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-ochrogaster/1.jpg
+  page: https://www.inaturalist.org/photos/684458543
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684458543/original.jpg
+images:
+- file: images/galliformes/cracidae/penelope-ochrogaster/1.jpg
+  page: https://www.inaturalist.org/photos/684458543
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684458543/original.jpg
+- file: images/galliformes/cracidae/penelope-ochrogaster/2.jpg
+  page: https://www.inaturalist.org/photos/699430394
+  author: Christian Ledergerber
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699430394/original.jpg
+- file: images/galliformes/cracidae/penelope-ochrogaster/3.jpg
+  page: https://www.inaturalist.org/photos/704548825
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704548825/original.jpg
+- file: images/galliformes/cracidae/penelope-ochrogaster/4.jpg
+  page: https://www.inaturalist.org/photos/736820892
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736820892/original.jpg
+- file: images/galliformes/cracidae/penelope-ochrogaster/5.jpg
+  page: https://www.inaturalist.org/photos/742746252
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742746252/original.jpg
 ---
 
 

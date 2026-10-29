@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-serranus/1.jpg
+  page: https://www.inaturalist.org/photos/725788773
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725788773/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-serranus/1.jpg
+  page: https://www.inaturalist.org/photos/725788773
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725788773/original.jpg
+- file: images/passeriformes/turdidae/turdus-serranus/2.jpg
+  page: https://www.inaturalist.org/photos/587194492
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194492/original.jpg
+- file: images/passeriformes/turdidae/turdus-serranus/3.jpg
+  page: https://www.inaturalist.org/photos/447119232
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447119232/original.png
+- file: images/passeriformes/turdidae/turdus-serranus/4.jpg
+  page: https://www.inaturalist.org/photos/422441008
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422441008/original.jpeg
+- file: images/passeriformes/turdidae/turdus-serranus/5.jpg
+  page: https://www.inaturalist.org/photos/323105062
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323105062/original.jpg
 ---
 
 

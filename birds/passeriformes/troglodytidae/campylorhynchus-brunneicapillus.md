@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-brunneicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/605525416
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605525416/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-brunneicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/605525416
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605525416/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-brunneicapillus/2.jpg
+  page: https://www.inaturalist.org/photos/610267980
+  author: Joseph Rojas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610267980/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-brunneicapillus/3.jpg
+  page: https://www.inaturalist.org/photos/610849612
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610849612/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-brunneicapillus/4.jpg
+  page: https://www.inaturalist.org/photos/608381295
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608381295/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-brunneicapillus/5.jpg
+  page: https://www.inaturalist.org/photos/608228501
+  author: EJ Burns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228501/original.jpg
 ---
 
 

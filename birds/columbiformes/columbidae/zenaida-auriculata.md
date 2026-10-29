@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/zenaida-auriculata/1.jpg
+  page: https://www.inaturalist.org/photos/604594967
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604594967/original.jpg
+images:
+- file: images/columbiformes/columbidae/zenaida-auriculata/1.jpg
+  page: https://www.inaturalist.org/photos/604594967
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604594967/original.jpg
+- file: images/columbiformes/columbidae/zenaida-auriculata/2.jpg
+  page: https://www.inaturalist.org/photos/605551697
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605551697/original.jpg
+- file: images/columbiformes/columbidae/zenaida-auriculata/3.jpg
+  page: https://www.inaturalist.org/photos/605469671
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605469671/original.jpg
+- file: images/columbiformes/columbidae/zenaida-auriculata/4.jpg
+  page: https://www.inaturalist.org/photos/605614608
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605614608/original.jpg
+- file: images/columbiformes/columbidae/zenaida-auriculata/5.jpg
+  page: https://www.inaturalist.org/photos/607464939
+  author: Catalina Ayala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607464939/original.jpg
 ---
 
 

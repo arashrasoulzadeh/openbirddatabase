@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/tringa-brevipes/1.jpg
+  page: https://www.inaturalist.org/photos/607024990
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607024990/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/tringa-brevipes/1.jpg
+  page: https://www.inaturalist.org/photos/607024990
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607024990/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-brevipes/2.jpg
+  page: https://www.inaturalist.org/photos/615309456
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615309456/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-brevipes/3.jpg
+  page: https://www.inaturalist.org/photos/607025004
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607025004/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-brevipes/4.jpg
+  page: https://www.inaturalist.org/photos/607025029
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607025029/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-brevipes/5.jpg
+  page: https://www.inaturalist.org/photos/607025031
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607025031/original.jpg
 ---
 
 

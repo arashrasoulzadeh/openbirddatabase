@@ -142,10 +142,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/acanthizidae/acanthiza-katherina/1.jpg
+  page: https://www.inaturalist.org/photos/583535302
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583535302/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthiza-katherina/1.jpg
+  page: https://www.inaturalist.org/photos/583535302
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583535302/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-katherina/2.jpg
+  page: https://www.inaturalist.org/photos/444082788
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444082788/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-katherina/3.jpg
+  page: https://www.inaturalist.org/photos/343545598
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343545598/original.jpeg
+- file: images/passeriformes/acanthizidae/acanthiza-katherina/4.jpg
+  page: https://www.inaturalist.org/photos/157686684
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/157686684/original.jpeg
+- file: images/passeriformes/acanthizidae/acanthiza-katherina/5.jpg
+  page: https://www.inaturalist.org/photos/28842629
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/28842629/original.jpg
 ---
 
 

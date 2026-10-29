@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/psophiidae/psophia-leucoptera/1.jpg
+  page: https://www.inaturalist.org/photos/465793892
+  author: Robin Cañari Marzano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465793892/original.jpeg
+images:
+- file: images/gruiformes/psophiidae/psophia-leucoptera/1.jpg
+  page: https://www.inaturalist.org/photos/465793892
+  author: Robin Cañari Marzano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465793892/original.jpeg
+- file: images/gruiformes/psophiidae/psophia-leucoptera/2.jpg
+  page: https://www.inaturalist.org/photos/550992583
+  author: Raquel Mondino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550992583/original.jpg
+- file: images/gruiformes/psophiidae/psophia-leucoptera/3.jpg
+  page: https://www.inaturalist.org/photos/623961792
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623961792/original.jpg
+- file: images/gruiformes/psophiidae/psophia-leucoptera/4.jpg
+  page: https://www.inaturalist.org/photos/477134388
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477134388/original.jpg
+- file: images/gruiformes/psophiidae/psophia-leucoptera/5.jpg
+  page: https://www.inaturalist.org/photos/431629494
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431629494/original.jpeg
 ---
 
 

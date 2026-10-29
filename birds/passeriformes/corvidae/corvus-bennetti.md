@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/corvidae/corvus-bennetti/1.jpg
+  page: https://www.inaturalist.org/photos/623514341
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623514341/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-bennetti/1.jpg
+  page: https://www.inaturalist.org/photos/623514341
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623514341/original.jpg
+- file: images/passeriformes/corvidae/corvus-bennetti/2.jpg
+  page: https://www.inaturalist.org/photos/662650787
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662650787/original.jpg
+- file: images/passeriformes/corvidae/corvus-bennetti/3.jpg
+  page: https://www.inaturalist.org/photos/694210098
+  author: Luke Lythgoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694210098/original.jpg
+- file: images/passeriformes/corvidae/corvus-bennetti/4.jpg
+  page: https://www.inaturalist.org/photos/530567933
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530567933/original.jpg
+- file: images/passeriformes/corvidae/corvus-bennetti/5.jpg
+  page: https://www.inaturalist.org/photos/576283558
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576283558/original.jpg
 ---
 
 

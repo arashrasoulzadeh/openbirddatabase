@@ -141,10 +141,37 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/parulidae/setophaga-flavescens/1.jpg
+  page: https://www.inaturalist.org/photos/94120224
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94120224/original.jpeg
+images:
+- file: images/passeriformes/parulidae/setophaga-flavescens/1.jpg
+  page: https://www.inaturalist.org/photos/94120224
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94120224/original.jpeg
+- file: images/passeriformes/parulidae/setophaga-flavescens/2.jpg
+  page: https://www.inaturalist.org/photos/94120256
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94120256/original.jpeg
+- file: images/passeriformes/parulidae/setophaga-flavescens/3.jpg
+  page: https://www.inaturalist.org/photos/94120490
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94120490/original.jpeg
 ---
 
 

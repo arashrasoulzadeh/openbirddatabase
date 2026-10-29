@@ -201,10 +201,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/motacillidae/motacilla-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/605081538
+  author: Andrew Cunnington
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605081538/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/605081538
+  author: Andrew Cunnington
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605081538/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/605656924
+  author: Cara Ennis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605656924/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/605398769
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605398769/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/605100026
+  author: funny_nature
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605100026/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/604476302
+  author: karliatje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604476302/original.jpg
 ---
 
 

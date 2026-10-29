@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-whartoni/1.jpg
+  page: https://www.inaturalist.org/photos/619764414
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619764414/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-whartoni/1.jpg
+  page: https://www.inaturalist.org/photos/619764414
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619764414/original.jpg
+- file: images/columbiformes/columbidae/ducula-whartoni/2.jpg
+  page: https://www.inaturalist.org/photos/679994735
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679994735/original.jpg
+- file: images/columbiformes/columbidae/ducula-whartoni/3.jpg
+  page: https://www.inaturalist.org/photos/413754105
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413754105/original.jpeg
+- file: images/columbiformes/columbidae/ducula-whartoni/4.jpg
+  page: https://www.inaturalist.org/photos/248252564
+  author: Fernando Pérez Peralta
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248252564/original.jpeg
+- file: images/columbiformes/columbidae/ducula-whartoni/5.jpg
+  page: https://www.inaturalist.org/photos/619552865
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619552865/original.jpg
 ---
 
 

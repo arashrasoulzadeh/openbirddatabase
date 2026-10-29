@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-cinnamomea/1.jpg
+  page: https://www.inaturalist.org/photos/595860685
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595860685/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-cinnamomea/1.jpg
+  page: https://www.inaturalist.org/photos/595860685
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595860685/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-cinnamomea/2.jpg
+  page: https://www.inaturalist.org/photos/590217099
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590217099/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-cinnamomea/3.jpg
+  page: https://www.inaturalist.org/photos/595905918
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595905918/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-cinnamomea/4.jpg
+  page: https://www.inaturalist.org/photos/344326499
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344326499/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-cinnamomea/5.jpg
+  page: https://www.inaturalist.org/photos/350267368
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350267368/original.jpeg
 ---
 
 

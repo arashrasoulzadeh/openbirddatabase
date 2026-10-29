@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-pretrei/1.jpg
+  page: https://www.inaturalist.org/photos/647208103
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647208103/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-pretrei/1.jpg
+  page: https://www.inaturalist.org/photos/647208103
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647208103/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-pretrei/2.jpg
+  page: https://www.inaturalist.org/photos/686825962
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686825962/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-pretrei/3.jpg
+  page: https://www.inaturalist.org/photos/384713008
+  author: Reuber Brandão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/384713008/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-pretrei/4.jpg
+  page: https://www.inaturalist.org/photos/190660512
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190660512/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-pretrei/5.jpg
+  page: https://www.inaturalist.org/photos/244151523
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244151523/original.jpeg
 ---
 
 

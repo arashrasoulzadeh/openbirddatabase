@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/plocepasser-rufoscapulatus/1.jpg
+  page: https://www.inaturalist.org/photos/478795247
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478795247/original.jpg
+images:
+- file: images/passeriformes/ploceidae/plocepasser-rufoscapulatus/1.jpg
+  page: https://www.inaturalist.org/photos/478795247
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478795247/original.jpg
+- file: images/passeriformes/ploceidae/plocepasser-rufoscapulatus/2.jpg
+  page: https://www.inaturalist.org/photos/478795266
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478795266/original.jpg
+- file: images/passeriformes/ploceidae/plocepasser-rufoscapulatus/3.jpg
+  page: https://www.inaturalist.org/photos/478802584
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478802584/original.jpg
+- file: images/passeriformes/ploceidae/plocepasser-rufoscapulatus/4.jpg
+  page: https://www.inaturalist.org/photos/478802595
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478802595/original.jpg
+- file: images/passeriformes/ploceidae/plocepasser-rufoscapulatus/5.jpg
+  page: https://www.inaturalist.org/photos/478795268
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478795268/original.jpg
 ---
 
 

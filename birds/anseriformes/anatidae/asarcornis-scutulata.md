@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/asarcornis-scutulata/1.jpg
+  page: https://www.inaturalist.org/photos/364417149
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364417149/original.jpeg
+images:
+- file: images/anseriformes/anatidae/asarcornis-scutulata/1.jpg
+  page: https://www.inaturalist.org/photos/364417149
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364417149/original.jpeg
+- file: images/anseriformes/anatidae/asarcornis-scutulata/2.jpg
+  page: https://www.inaturalist.org/photos/53192710
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53192710/original.jpeg
+- file: images/anseriformes/anatidae/asarcornis-scutulata/3.jpg
+  page: https://www.inaturalist.org/photos/149402412
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/149402412/original.jpeg
+- file: images/anseriformes/anatidae/asarcornis-scutulata/4.jpg
+  page: https://www.inaturalist.org/photos/348836984
+  author: kalyanvarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348836984/original.jpg
+- file: images/anseriformes/anatidae/asarcornis-scutulata/5.jpg
+  page: https://www.inaturalist.org/photos/364417160
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364417160/original.jpeg
 ---
 
 

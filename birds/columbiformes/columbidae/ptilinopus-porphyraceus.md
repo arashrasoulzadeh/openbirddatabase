@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-porphyraceus/1.jpg
+  page: https://www.inaturalist.org/photos/700408843
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700408843/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-porphyraceus/1.jpg
+  page: https://www.inaturalist.org/photos/700408843
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700408843/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-porphyraceus/2.jpg
+  page: https://www.inaturalist.org/photos/728654311
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728654311/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-porphyraceus/3.jpg
+  page: https://www.inaturalist.org/photos/467027954
+  author: Shelomi Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467027954/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-porphyraceus/4.jpg
+  page: https://www.inaturalist.org/photos/409655967
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409655967/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-porphyraceus/5.jpg
+  page: https://www.inaturalist.org/photos/332285034
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332285034/original.jpg
 ---
 
 

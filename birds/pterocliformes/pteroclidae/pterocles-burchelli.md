@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-burchelli/1.jpg
+  page: https://www.inaturalist.org/photos/482683199
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482683199/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-burchelli/1.jpg
+  page: https://www.inaturalist.org/photos/482683199
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482683199/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-burchelli/2.jpg
+  page: https://www.inaturalist.org/photos/565739650
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565739650/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-burchelli/3.jpg
+  page: https://www.inaturalist.org/photos/482683210
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482683210/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-burchelli/4.jpg
+  page: https://www.inaturalist.org/photos/482683213
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482683213/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-burchelli/5.jpg
+  page: https://www.inaturalist.org/photos/567466666
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567466666/original.jpg
 ---
 
 

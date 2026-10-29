@@ -155,8 +155,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/odontophorus-gujanensis/1.jpg
+  page: https://www.inaturalist.org/photos/252598394
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252598394/original.jpeg
+images:
+- file: images/galliformes/odontophoridae/odontophorus-gujanensis/1.jpg
+  page: https://www.inaturalist.org/photos/252598394
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252598394/original.jpeg
+- file: images/galliformes/odontophoridae/odontophorus-gujanensis/2.jpg
+  page: https://www.inaturalist.org/photos/14838620
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/14838620/original.jpeg
+- file: images/galliformes/odontophoridae/odontophorus-gujanensis/3.jpg
+  page: https://www.inaturalist.org/photos/159921734
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/159921734/original.jpeg
 ---
 
 

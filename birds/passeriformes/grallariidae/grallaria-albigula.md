@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-albigula/1.jpg
+  page: https://www.inaturalist.org/photos/490421182
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490421182/original.jpeg
+images:
+- file: images/passeriformes/grallariidae/grallaria-albigula/1.jpg
+  page: https://www.inaturalist.org/photos/490421182
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490421182/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-albigula/2.jpg
+  page: https://www.inaturalist.org/photos/195341204
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195341204/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-albigula/3.jpg
+  page: https://www.inaturalist.org/photos/444635323
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444635323/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-albigula/4.jpg
+  page: https://www.inaturalist.org/photos/444600205
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444600205/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-albigula/5.jpg
+  page: https://www.inaturalist.org/photos/444600200
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444600200/original.jpeg
 ---
 
 

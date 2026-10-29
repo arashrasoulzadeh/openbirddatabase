@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/polyerata-decora/1.jpg
+  page: https://www.inaturalist.org/photos/605730284
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730284/original.jpg
+images:
+- file: images/apodiformes/trochilidae/polyerata-decora/1.jpg
+  page: https://www.inaturalist.org/photos/605730284
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730284/original.jpg
+- file: images/apodiformes/trochilidae/polyerata-decora/2.jpg
+  page: https://www.inaturalist.org/photos/611288902
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611288902/original.jpg
+- file: images/apodiformes/trochilidae/polyerata-decora/3.jpg
+  page: https://www.inaturalist.org/photos/622274303
+  author: Uma Mezzanotte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622274303/original.jpg
+- file: images/apodiformes/trochilidae/polyerata-decora/4.jpg
+  page: https://www.inaturalist.org/photos/720774810
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720774810/original.jpg
+- file: images/apodiformes/trochilidae/polyerata-decora/5.jpg
+  page: https://www.inaturalist.org/photos/676265466
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676265466/original.jpg
 ---
 
 

@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/chrysocolaptes-xanthocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/316278112
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316278112/original.jpeg
+images:
+- file: images/piciformes/picidae/chrysocolaptes-xanthocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/316278112
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316278112/original.jpeg
+- file: images/piciformes/picidae/chrysocolaptes-xanthocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/316278121
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316278121/original.jpeg
+- file: images/piciformes/picidae/chrysocolaptes-xanthocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/316278140
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316278140/original.jpeg
+- file: images/piciformes/picidae/chrysocolaptes-xanthocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/316278138
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316278138/original.jpeg
+- file: images/piciformes/picidae/chrysocolaptes-xanthocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/316278152
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316278152/original.jpeg
 ---
 
 

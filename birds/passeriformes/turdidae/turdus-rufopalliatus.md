@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-rufopalliatus/1.jpg
+  page: https://www.inaturalist.org/photos/606747721
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606747721/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-rufopalliatus/1.jpg
+  page: https://www.inaturalist.org/photos/606747721
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606747721/original.jpg
+- file: images/passeriformes/turdidae/turdus-rufopalliatus/2.jpg
+  page: https://www.inaturalist.org/photos/606797691
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606797691/original.jpg
+- file: images/passeriformes/turdidae/turdus-rufopalliatus/3.jpg
+  page: https://www.inaturalist.org/photos/609120306
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609120306/original.jpg
+- file: images/passeriformes/turdidae/turdus-rufopalliatus/4.jpg
+  page: https://www.inaturalist.org/photos/612281382
+  author: Dylan Camacho Guzman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612281382/original.jpg
+- file: images/passeriformes/turdidae/turdus-rufopalliatus/5.jpg
+  page: https://www.inaturalist.org/photos/629862701
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629862701/original.jpg
 ---
 
 

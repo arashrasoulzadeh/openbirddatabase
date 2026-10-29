@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/hirundinidae/petrochelidon-pyrrhonota/1.jpg
+  page: https://www.inaturalist.org/photos/605271935
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605271935/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/petrochelidon-pyrrhonota/1.jpg
+  page: https://www.inaturalist.org/photos/605271935
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605271935/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-pyrrhonota/2.jpg
+  page: https://www.inaturalist.org/photos/604712874
+  author: Michael, Antoni and Nihat Hinczewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604712874/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-pyrrhonota/3.jpg
+  page: https://www.inaturalist.org/photos/605526713
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605526713/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-pyrrhonota/4.jpg
+  page: https://www.inaturalist.org/photos/605807201
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605807201/original.jpg
+- file: images/passeriformes/hirundinidae/petrochelidon-pyrrhonota/5.jpg
+  page: https://www.inaturalist.org/photos/608256625
+  author: Hannah K. Maielua
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608256625/original.jpg
 ---
 
 

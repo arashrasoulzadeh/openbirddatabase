@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-palmarum/1.jpg
+  page: https://www.inaturalist.org/photos/606530041
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606530041/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-palmarum/1.jpg
+  page: https://www.inaturalist.org/photos/606530041
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606530041/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-palmarum/2.jpg
+  page: https://www.inaturalist.org/photos/485660388
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485660388/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-palmarum/3.jpg
+  page: https://www.inaturalist.org/photos/611062384
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611062384/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-palmarum/4.jpg
+  page: https://www.inaturalist.org/photos/373208448
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373208448/original.jpeg
+- file: images/strigiformes/strigidae/glaucidium-palmarum/5.jpg
+  page: https://www.inaturalist.org/photos/386656880
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386656880/original.jpg
 ---
 
 

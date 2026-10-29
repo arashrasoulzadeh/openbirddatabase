@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/laniidae/lanius-ludovicianus/1.jpg
+  page: https://www.inaturalist.org/photos/604902179
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604902179/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-ludovicianus/1.jpg
+  page: https://www.inaturalist.org/photos/604902179
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604902179/original.jpg
+- file: images/passeriformes/laniidae/lanius-ludovicianus/2.jpg
+  page: https://www.inaturalist.org/photos/605209734
+  author: sudomir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605209734/original.jpg
+- file: images/passeriformes/laniidae/lanius-ludovicianus/3.jpg
+  page: https://www.inaturalist.org/photos/605485187
+  author: Etienne Falquet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605485187/original.jpg
+- file: images/passeriformes/laniidae/lanius-ludovicianus/4.jpg
+  page: https://www.inaturalist.org/photos/605383494
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383494/original.jpg
+- file: images/passeriformes/laniidae/lanius-ludovicianus/5.jpg
+  page: https://www.inaturalist.org/photos/605711712
+  author: ncb1221
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605711712/original.jpg
 ---
 
 

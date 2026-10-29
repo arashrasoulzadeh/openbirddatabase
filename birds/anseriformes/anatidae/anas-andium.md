@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-andium/1.jpg
+  page: https://www.inaturalist.org/photos/612916332
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612916332/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-andium/1.jpg
+  page: https://www.inaturalist.org/photos/612916332
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612916332/original.jpg
+- file: images/anseriformes/anatidae/anas-andium/2.jpg
+  page: https://www.inaturalist.org/photos/616763636
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616763636/original.jpg
+- file: images/anseriformes/anatidae/anas-andium/3.jpg
+  page: https://www.inaturalist.org/photos/682416093
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682416093/original.jpg
+- file: images/anseriformes/anatidae/anas-andium/4.jpg
+  page: https://www.inaturalist.org/photos/686263163
+  author: Yuri Sofronov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686263163/original.jpg
+- file: images/anseriformes/anatidae/anas-andium/5.jpg
+  page: https://www.inaturalist.org/photos/690838846
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690838846/original.jpg
 ---
 
 

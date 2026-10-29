@@ -140,8 +140,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-spilocephala/1.jpg
+  page: https://www.inaturalist.org/photos/270925255
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925255/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-spilocephala/1.jpg
+  page: https://www.inaturalist.org/photos/270925255
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925255/original.jpg
+- file: images/strigiformes/strigidae/ninox-spilocephala/2.jpg
+  page: https://www.inaturalist.org/photos/270925274
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925274/original.jpg
+- file: images/strigiformes/strigidae/ninox-spilocephala/3.jpg
+  page: https://www.inaturalist.org/photos/232307014
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232307014/original.jpg
+- file: images/strigiformes/strigidae/ninox-spilocephala/4.jpg
+  page: https://www.inaturalist.org/photos/54490425
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/54490425/original.jpg
 ---
 
 

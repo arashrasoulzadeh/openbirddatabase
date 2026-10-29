@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 23.2
@@ -152,6 +153,32 @@ morphology:
   wing_length_mm: 109.0
   tail_length_mm: 76.6
   body_mass_g: 46.7
+image:
+  file: images/passeriformes/muscicapidae/monticola-semirufus/1.jpg
+  page: https://www.inaturalist.org/photos/612296308
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612296308/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-semirufus/1.jpg
+  page: https://www.inaturalist.org/photos/612296308
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612296308/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-semirufus/2.jpg
+  page: https://www.inaturalist.org/photos/67253120
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/67253120/original.jpeg
+- file: images/passeriformes/muscicapidae/monticola-semirufus/3.jpg
+  page: https://www.inaturalist.org/photos/612296302
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612296302/original.jpg
 ---
 
 

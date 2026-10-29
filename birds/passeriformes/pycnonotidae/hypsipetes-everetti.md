@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/263837130
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837130/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/263837130
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837130/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-everetti/2.jpg
+  page: https://www.inaturalist.org/photos/263837135
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837135/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-everetti/3.jpg
+  page: https://www.inaturalist.org/photos/263837142
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837142/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-everetti/4.jpg
+  page: https://www.inaturalist.org/photos/263837146
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837146/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-everetti/5.jpg
+  page: https://www.inaturalist.org/photos/263836774
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263836774/original.jpg
 ---
 
 

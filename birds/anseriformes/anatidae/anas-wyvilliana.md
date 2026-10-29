@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/anseriformes/anatidae/anas-wyvilliana/1.jpg
+  page: https://www.inaturalist.org/photos/607200575
+  author: Eugene Eric Kim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607200575/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-wyvilliana/1.jpg
+  page: https://www.inaturalist.org/photos/607200575
+  author: Eugene Eric Kim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607200575/original.jpg
+- file: images/anseriformes/anatidae/anas-wyvilliana/2.jpg
+  page: https://www.inaturalist.org/photos/687049454
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687049454/original.jpg
+- file: images/anseriformes/anatidae/anas-wyvilliana/3.jpg
+  page: https://www.inaturalist.org/photos/471604228
+  author: Tuoichen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471604228/original.jpeg
+- file: images/anseriformes/anatidae/anas-wyvilliana/4.jpg
+  page: https://www.inaturalist.org/photos/510379211
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510379211/original.jpg
+- file: images/anseriformes/anatidae/anas-wyvilliana/5.jpg
+  page: https://www.inaturalist.org/photos/687045920
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687045920/original.jpg
 ---
 
 

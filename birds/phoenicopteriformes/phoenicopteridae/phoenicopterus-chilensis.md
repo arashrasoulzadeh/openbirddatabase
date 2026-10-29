@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 37
+image:
+  file: images/phoenicopteriformes/phoenicopteridae/phoenicopterus-chilensis/1.jpg
+  page: https://www.inaturalist.org/photos/605534578
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534578/original.jpg
+images:
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicopterus-chilensis/1.jpg
+  page: https://www.inaturalist.org/photos/605534578
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534578/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicopterus-chilensis/2.jpg
+  page: https://www.inaturalist.org/photos/609806313
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609806313/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicopterus-chilensis/3.jpg
+  page: https://www.inaturalist.org/photos/610992866
+  author: Lauren L.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610992866/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicopterus-chilensis/4.jpg
+  page: https://www.inaturalist.org/photos/609675458
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609675458/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicopterus-chilensis/5.jpg
+  page: https://www.inaturalist.org/photos/610296347
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610296347/original.jpg
 ---
 
 

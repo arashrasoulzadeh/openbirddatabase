@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/pampa-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/675200388
+  author: Daniel Pineda Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675200388/original.jpg
+images:
+- file: images/apodiformes/trochilidae/pampa-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/675200388
+  author: Daniel Pineda Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675200388/original.jpg
+- file: images/apodiformes/trochilidae/pampa-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/488102441
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488102441/original.jpeg
+- file: images/apodiformes/trochilidae/pampa-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/600870153
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600870153/original.jpg
+- file: images/apodiformes/trochilidae/pampa-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/353638055
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353638055/original.jpg
+- file: images/apodiformes/trochilidae/pampa-rufa/5.jpg
+  page: https://www.inaturalist.org/photos/314912451
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314912451/original.jpg
 ---
 
 

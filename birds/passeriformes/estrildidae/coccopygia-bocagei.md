@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/coccopygia-bocagei/1.jpg
+  page: https://www.inaturalist.org/photos/588298454
+  author: abcdefgewing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588298454/original.jpg
+images:
+- file: images/passeriformes/estrildidae/coccopygia-bocagei/1.jpg
+  page: https://www.inaturalist.org/photos/588298454
+  author: abcdefgewing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588298454/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-bocagei/2.jpg
+  page: https://www.inaturalist.org/photos/594051716
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594051716/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-bocagei/3.jpg
+  page: https://www.inaturalist.org/photos/594052244
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594052244/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-bocagei/4.jpg
+  page: https://www.inaturalist.org/photos/594054953
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594054953/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-bocagei/5.jpg
+  page: https://www.inaturalist.org/photos/594051982
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594051982/original.jpg
 ---
 
 

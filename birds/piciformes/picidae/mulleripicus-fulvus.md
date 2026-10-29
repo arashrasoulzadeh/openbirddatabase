@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 43.6
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 179.5
   tail_length_mm: 166.4
   body_mass_g: 312.3
+image:
+  file: images/piciformes/picidae/mulleripicus-fulvus/1.jpg
+  page: https://www.inaturalist.org/photos/618389738
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618389738/original.jpg
+images:
+- file: images/piciformes/picidae/mulleripicus-fulvus/1.jpg
+  page: https://www.inaturalist.org/photos/618389738
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618389738/original.jpg
+- file: images/piciformes/picidae/mulleripicus-fulvus/2.jpg
+  page: https://www.inaturalist.org/photos/714952848
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714952848/original.jpg
+- file: images/piciformes/picidae/mulleripicus-fulvus/3.jpg
+  page: https://www.inaturalist.org/photos/526014025
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014025/original.jpg
+- file: images/piciformes/picidae/mulleripicus-fulvus/4.jpg
+  page: https://www.inaturalist.org/photos/471151630
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471151630/original.jpeg
+- file: images/piciformes/picidae/mulleripicus-fulvus/5.jpg
+  page: https://www.inaturalist.org/photos/349567879
+  author: libby hepburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349567879/original.jpg
 ---
 
 

@@ -185,10 +185,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/piciformes/picidae/dendrocopos-major/1.jpg
+  page: https://www.inaturalist.org/photos/605386109
+  author: Becky Hamilton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605386109/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-major/1.jpg
+  page: https://www.inaturalist.org/photos/605386109
+  author: Becky Hamilton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605386109/original.jpg
+- file: images/piciformes/picidae/dendrocopos-major/2.jpg
+  page: https://www.inaturalist.org/photos/605104718
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605104718/original.jpg
+- file: images/piciformes/picidae/dendrocopos-major/3.jpg
+  page: https://www.inaturalist.org/photos/604494162
+  author: lvicatko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604494162/original.jpg
+- file: images/piciformes/picidae/dendrocopos-major/4.jpg
+  page: https://www.inaturalist.org/photos/605669565
+  author: Martin Scheidleder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605669565/original.jpg
+- file: images/piciformes/picidae/dendrocopos-major/5.jpg
+  page: https://www.inaturalist.org/photos/605455484
+  author: Михаил Языков
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605455484/original.jpg
 ---
 
 

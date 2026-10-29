@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.0
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 64.6
   tail_length_mm: 42.0
   body_mass_g: 14.6
+image:
+  file: images/passeriformes/fringillidae/loxops-mana/1.jpg
+  page: https://www.inaturalist.org/photos/606812021
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606812021/original.jpg
+images:
+- file: images/passeriformes/fringillidae/loxops-mana/1.jpg
+  page: https://www.inaturalist.org/photos/606812021
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606812021/original.jpg
+- file: images/passeriformes/fringillidae/loxops-mana/2.jpg
+  page: https://www.inaturalist.org/photos/623313290
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623313290/original.jpg
+- file: images/passeriformes/fringillidae/loxops-mana/3.jpg
+  page: https://www.inaturalist.org/photos/461580433
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461580433/original.jpeg
+- file: images/passeriformes/fringillidae/loxops-mana/4.jpg
+  page: https://www.inaturalist.org/photos/460989618
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460989618/original.jpg
+- file: images/passeriformes/fringillidae/loxops-mana/5.jpg
+  page: https://www.inaturalist.org/photos/259104835
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259104835/original.jpg
 ---
 
 

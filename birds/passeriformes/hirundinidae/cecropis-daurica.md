@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/hirundinidae/cecropis-daurica/1.jpg
+  page: https://www.inaturalist.org/photos/607731822
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607731822/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/cecropis-daurica/1.jpg
+  page: https://www.inaturalist.org/photos/607731822
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607731822/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-daurica/2.jpg
+  page: https://www.inaturalist.org/photos/607896712
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607896712/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-daurica/3.jpg
+  page: https://www.inaturalist.org/photos/618388868
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388868/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-daurica/4.jpg
+  page: https://www.inaturalist.org/photos/614802246
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614802246/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-daurica/5.jpg
+  page: https://www.inaturalist.org/photos/614721078
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614721078/original.jpg
 ---
 
 

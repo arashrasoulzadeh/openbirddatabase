@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 30.4
@@ -131,6 +132,32 @@ morphology:
   wing_length_mm: 211.6
   tail_length_mm: 115.8
   body_mass_g: 335.0
+image:
+  file: images/strigiformes/strigidae/asio-grammicus/1.jpg
+  page: https://www.inaturalist.org/photos/353750797
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353750797/original.jpg
+images:
+- file: images/strigiformes/strigidae/asio-grammicus/1.jpg
+  page: https://www.inaturalist.org/photos/353750797
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353750797/original.jpg
+- file: images/strigiformes/strigidae/asio-grammicus/2.jpg
+  page: https://www.inaturalist.org/photos/176985857
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176985857/original.jpg
+- file: images/strigiformes/strigidae/asio-grammicus/3.jpg
+  page: https://www.inaturalist.org/photos/353750799
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353750799/original.jpg
 ---
 
 

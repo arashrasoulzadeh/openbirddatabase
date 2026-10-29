@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/contopus-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/620977527
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620977527/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/contopus-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/620977527
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620977527/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-lugubris/2.jpg
+  page: https://www.inaturalist.org/photos/680390785
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680390785/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-lugubris/3.jpg
+  page: https://www.inaturalist.org/photos/574210406
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574210406/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-lugubris/4.jpg
+  page: https://www.inaturalist.org/photos/350104668
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350104668/original.jpeg
+- file: images/passeriformes/tyrannidae/contopus-lugubris/5.jpg
+  page: https://www.inaturalist.org/photos/350270581
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350270581/original.jpg
 ---
 
 

@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/dasyornithidae/dasyornis-brachypterus/1.jpg
+  page: https://www.inaturalist.org/photos/388188643
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388188643/original.jpeg
+images:
+- file: images/passeriformes/dasyornithidae/dasyornis-brachypterus/1.jpg
+  page: https://www.inaturalist.org/photos/388188643
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388188643/original.jpeg
+- file: images/passeriformes/dasyornithidae/dasyornis-brachypterus/2.jpg
+  page: https://www.inaturalist.org/photos/190821435
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190821435/original.jpg
+- file: images/passeriformes/dasyornithidae/dasyornis-brachypterus/3.jpg
+  page: https://www.inaturalist.org/photos/190821446
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190821446/original.jpg
+- file: images/passeriformes/dasyornithidae/dasyornis-brachypterus/4.jpg
+  page: https://www.inaturalist.org/photos/190821455
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190821455/original.jpg
+- file: images/passeriformes/dasyornithidae/dasyornis-brachypterus/5.jpg
+  page: https://www.inaturalist.org/photos/190821462
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190821462/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/synallaxis-scutata/1.jpg
+  page: https://www.inaturalist.org/photos/626360176
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626360176/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-scutata/1.jpg
+  page: https://www.inaturalist.org/photos/626360176
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626360176/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-scutata/2.jpg
+  page: https://www.inaturalist.org/photos/368540283
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368540283/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-scutata/3.jpg
+  page: https://www.inaturalist.org/photos/416897891
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416897891/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-scutata/4.jpg
+  page: https://www.inaturalist.org/photos/444631531
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444631531/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-scutata/5.jpg
+  page: https://www.inaturalist.org/photos/254602451
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254602451/original.jpg
 ---
 
 

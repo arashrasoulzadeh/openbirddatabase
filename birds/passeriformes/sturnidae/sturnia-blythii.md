@@ -136,7 +136,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 23.0
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 100.5
   tail_length_mm: 65.3
   body_mass_g: 39.6
+image:
+  file: images/passeriformes/sturnidae/sturnia-blythii/1.jpg
+  page: https://www.inaturalist.org/photos/651240288
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651240288/original.jpg
+images:
+- file: images/passeriformes/sturnidae/sturnia-blythii/1.jpg
+  page: https://www.inaturalist.org/photos/651240288
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651240288/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-blythii/2.jpg
+  page: https://www.inaturalist.org/photos/625343175
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625343175/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-blythii/3.jpg
+  page: https://www.inaturalist.org/photos/623609413
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623609413/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-blythii/4.jpg
+  page: https://www.inaturalist.org/photos/624897253
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624897253/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-blythii/5.jpg
+  page: https://www.inaturalist.org/photos/679448116
+  author: Kesava Garimella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679448116/original.jpg
 ---
 
 

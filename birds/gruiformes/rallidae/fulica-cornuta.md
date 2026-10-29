@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/fulica-cornuta/1.jpg
+  page: https://www.inaturalist.org/photos/569674920
+  author: Eric Schmidt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569674920/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-cornuta/1.jpg
+  page: https://www.inaturalist.org/photos/569674920
+  author: Eric Schmidt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569674920/original.jpg
+- file: images/gruiformes/rallidae/fulica-cornuta/2.jpg
+  page: https://www.inaturalist.org/photos/556424774
+  author: Peter T. Rühr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556424774/original.jpg
+- file: images/gruiformes/rallidae/fulica-cornuta/3.jpg
+  page: https://www.inaturalist.org/photos/428288599
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428288599/original.jpg
+- file: images/gruiformes/rallidae/fulica-cornuta/4.jpg
+  page: https://www.inaturalist.org/photos/189678609
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/189678609/original.jpg
+- file: images/gruiformes/rallidae/fulica-cornuta/5.jpg
+  page: https://www.inaturalist.org/photos/612543198
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612543198/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/florisuga-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/604601242
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604601242/original.jpg
+images:
+- file: images/apodiformes/trochilidae/florisuga-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/604601242
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604601242/original.jpg
+- file: images/apodiformes/trochilidae/florisuga-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/610486228
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610486228/original.jpg
+- file: images/apodiformes/trochilidae/florisuga-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/612763999
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612763999/original.jpg
+- file: images/apodiformes/trochilidae/florisuga-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/631608451
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631608451/original.jpg
+- file: images/apodiformes/trochilidae/florisuga-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/612477203
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477203/original.jpg
 ---
 
 

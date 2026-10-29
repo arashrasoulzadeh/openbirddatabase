@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-hortensis/1.jpg
+  page: https://www.inaturalist.org/photos/648016784
+  author: Thomas Barrès
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648016784/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-hortensis/1.jpg
+  page: https://www.inaturalist.org/photos/648016784
+  author: Thomas Barrès
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648016784/original.jpg
+- file: images/passeriformes/sylviidae/curruca-hortensis/2.jpg
+  page: https://www.inaturalist.org/photos/660546912
+  author: michael_martinez64
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660546912/original.jpg
+- file: images/passeriformes/sylviidae/curruca-hortensis/3.jpg
+  page: https://www.inaturalist.org/photos/680958086
+  author: peresol
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680958086/original.jpg
+- file: images/passeriformes/sylviidae/curruca-hortensis/4.jpg
+  page: https://www.inaturalist.org/photos/719627540
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719627540/original.jpg
+- file: images/passeriformes/sylviidae/curruca-hortensis/5.jpg
+  page: https://www.inaturalist.org/photos/648016862
+  author: Thomas Barrès
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648016862/original.jpg
 ---
 
 

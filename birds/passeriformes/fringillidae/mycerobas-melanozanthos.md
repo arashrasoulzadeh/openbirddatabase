@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/mycerobas-melanozanthos/1.jpg
+  page: https://www.inaturalist.org/photos/628342842
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628342842/original.jpg
+images:
+- file: images/passeriformes/fringillidae/mycerobas-melanozanthos/1.jpg
+  page: https://www.inaturalist.org/photos/628342842
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628342842/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-melanozanthos/2.jpg
+  page: https://www.inaturalist.org/photos/625360191
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625360191/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-melanozanthos/3.jpg
+  page: https://www.inaturalist.org/photos/469485634
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469485634/original.jpeg
+- file: images/passeriformes/fringillidae/mycerobas-melanozanthos/4.jpg
+  page: https://www.inaturalist.org/photos/379244492
+  author: Sameer Kulkarni
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/379244492/original.jpeg
+- file: images/passeriformes/fringillidae/mycerobas-melanozanthos/5.jpg
+  page: https://www.inaturalist.org/photos/256745087
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256745087/original.jpeg
 ---
 
 

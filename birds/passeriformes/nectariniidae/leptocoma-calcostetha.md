@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/leptocoma-calcostetha/1.jpg
+  page: https://www.inaturalist.org/photos/628479172
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628479172/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/leptocoma-calcostetha/1.jpg
+  page: https://www.inaturalist.org/photos/628479172
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628479172/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-calcostetha/2.jpg
+  page: https://www.inaturalist.org/photos/657225152
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657225152/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-calcostetha/3.jpg
+  page: https://www.inaturalist.org/photos/672428718
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672428718/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-calcostetha/4.jpg
+  page: https://www.inaturalist.org/photos/628479171
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628479171/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-calcostetha/5.jpg
+  page: https://www.inaturalist.org/photos/672428738
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672428738/original.jpg
 ---
 
 

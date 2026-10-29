@@ -135,10 +135,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/dicruridae/dicrurus-densus/1.jpg
+  page: https://www.inaturalist.org/photos/465702029
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465702029/original.jpeg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-densus/1.jpg
+  page: https://www.inaturalist.org/photos/465702029
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465702029/original.jpeg
+- file: images/passeriformes/dicruridae/dicrurus-densus/2.jpg
+  page: https://www.inaturalist.org/photos/459611376
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459611376/original.jpeg
+- file: images/passeriformes/dicruridae/dicrurus-densus/3.jpg
+  page: https://www.inaturalist.org/photos/466325769
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466325769/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-densus/4.jpg
+  page: https://www.inaturalist.org/photos/331788059
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331788059/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-densus/5.jpg
+  page: https://www.inaturalist.org/photos/400110919
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/400110919/original.jpeg
 ---
 
 

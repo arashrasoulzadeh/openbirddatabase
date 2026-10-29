@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/607946155
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607946155/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/607946155
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607946155/original.jpg
+- file: images/galliformes/cracidae/ortalis-ruficauda/2.jpg
+  page: https://www.inaturalist.org/photos/617329401
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617329401/original.jpg
+- file: images/galliformes/cracidae/ortalis-ruficauda/3.jpg
+  page: https://www.inaturalist.org/photos/619547551
+  author: Jon Paul Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619547551/original.jpg
+- file: images/galliformes/cracidae/ortalis-ruficauda/4.jpg
+  page: https://www.inaturalist.org/photos/625713366
+  author: Dayson Moran
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625713366/original.jpg
+- file: images/galliformes/cracidae/ortalis-ruficauda/5.jpg
+  page: https://www.inaturalist.org/photos/710563021
+  author: Gerardo Chavarri
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710563021/original.jpg
 ---
 
 

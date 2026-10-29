@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/geococcyx-velox/1.jpg
+  page: https://www.inaturalist.org/photos/606196827
+  author: Chao 江星辰
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606196827/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/geococcyx-velox/1.jpg
+  page: https://www.inaturalist.org/photos/606196827
+  author: Chao 江星辰
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606196827/original.jpg
+- file: images/cuculiformes/cuculidae/geococcyx-velox/2.jpg
+  page: https://www.inaturalist.org/photos/611802403
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611802403/original.jpg
+- file: images/cuculiformes/cuculidae/geococcyx-velox/3.jpg
+  page: https://www.inaturalist.org/photos/638861586
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638861586/original.jpg
+- file: images/cuculiformes/cuculidae/geococcyx-velox/4.jpg
+  page: https://www.inaturalist.org/photos/714812392
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714812392/original.jpg
+- file: images/cuculiformes/cuculidae/geococcyx-velox/5.jpg
+  page: https://www.inaturalist.org/photos/625551003
+  author: Carlos Martínez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625551003/original.jpg
 ---
 
 

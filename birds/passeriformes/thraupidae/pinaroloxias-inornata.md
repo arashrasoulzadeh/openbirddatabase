@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/pinaroloxias-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/577540408
+  author: fede2cr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577540408/original.jpg
+images:
+- file: images/passeriformes/thraupidae/pinaroloxias-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/577540408
+  author: fede2cr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577540408/original.jpg
+- file: images/passeriformes/thraupidae/pinaroloxias-inornata/2.jpg
+  page: https://www.inaturalist.org/photos/425674055
+  author: mikazilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/425674055/original.jpeg
+- file: images/passeriformes/thraupidae/pinaroloxias-inornata/3.jpg
+  page: https://www.inaturalist.org/photos/577541547
+  author: fede2cr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577541547/original.jpg
+- file: images/passeriformes/thraupidae/pinaroloxias-inornata/4.jpg
+  page: https://www.inaturalist.org/photos/425674089
+  author: mikazilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/425674089/original.jpeg
+- file: images/passeriformes/thraupidae/pinaroloxias-inornata/5.jpg
+  page: https://www.inaturalist.org/photos/425674111
+  author: mikazilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/425674111/original.jpeg
 ---
 
 

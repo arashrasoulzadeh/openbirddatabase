@@ -190,10 +190,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/motacillidae/anthus-trivialis/1.jpg
+  page: https://www.inaturalist.org/photos/616062386
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616062386/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-trivialis/1.jpg
+  page: https://www.inaturalist.org/photos/616062386
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616062386/original.jpg
+- file: images/passeriformes/motacillidae/anthus-trivialis/2.jpg
+  page: https://www.inaturalist.org/photos/619227159
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619227159/original.jpg
+- file: images/passeriformes/motacillidae/anthus-trivialis/3.jpg
+  page: https://www.inaturalist.org/photos/627809525
+  author: Gonzalo Ganda Álvarez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627809525/original.jpg
+- file: images/passeriformes/motacillidae/anthus-trivialis/4.jpg
+  page: https://www.inaturalist.org/photos/616062414
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616062414/original.jpg
+- file: images/passeriformes/motacillidae/anthus-trivialis/5.jpg
+  page: https://www.inaturalist.org/photos/616062442
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616062442/original.jpg
 ---
 
 

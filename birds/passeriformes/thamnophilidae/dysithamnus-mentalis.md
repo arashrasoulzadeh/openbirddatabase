@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/dysithamnus-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/605586075
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605586075/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/dysithamnus-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/605586075
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605586075/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-mentalis/2.jpg
+  page: https://www.inaturalist.org/photos/605697109
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697109/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-mentalis/3.jpg
+  page: https://www.inaturalist.org/photos/609929730
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609929730/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-mentalis/4.jpg
+  page: https://www.inaturalist.org/photos/609337773
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609337773/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-mentalis/5.jpg
+  page: https://www.inaturalist.org/photos/611671274
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611671274/original.jpg
 ---
 
 

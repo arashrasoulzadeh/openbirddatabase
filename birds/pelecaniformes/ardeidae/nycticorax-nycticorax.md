@@ -203,10 +203,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/pelecaniformes/ardeidae/nycticorax-nycticorax/1.jpg
+  page: https://www.inaturalist.org/photos/605120014
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605120014/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/nycticorax-nycticorax/1.jpg
+  page: https://www.inaturalist.org/photos/605120014
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605120014/original.jpg
+- file: images/pelecaniformes/ardeidae/nycticorax-nycticorax/2.jpg
+  page: https://www.inaturalist.org/photos/604583373
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604583373/original.jpg
+- file: images/pelecaniformes/ardeidae/nycticorax-nycticorax/3.jpg
+  page: https://www.inaturalist.org/photos/605312302
+  author: louisiv826
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605312302/original.jpg
+- file: images/pelecaniformes/ardeidae/nycticorax-nycticorax/4.jpg
+  page: https://www.inaturalist.org/photos/605534473
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534473/original.jpg
+- file: images/pelecaniformes/ardeidae/nycticorax-nycticorax/5.jpg
+  page: https://www.inaturalist.org/photos/605288087
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605288087/original.jpg
 ---
 
 

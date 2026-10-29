@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 42
+image:
+  file: images/sphenisciformes/spheniscidae/eudyptula-minor/1.jpg
+  page: https://www.inaturalist.org/photos/605302889
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605302889/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/eudyptula-minor/1.jpg
+  page: https://www.inaturalist.org/photos/605302889
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605302889/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptula-minor/2.jpg
+  page: https://www.inaturalist.org/photos/608400295
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608400295/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptula-minor/3.jpg
+  page: https://www.inaturalist.org/photos/606262511
+  author: Halema J
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606262511/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptula-minor/4.jpg
+  page: https://www.inaturalist.org/photos/609777620
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609777620/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptula-minor/5.jpg
+  page: https://www.inaturalist.org/photos/607566956
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607566956/original.jpg
 ---
 
 

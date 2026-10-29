@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 11.0
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 49.4
   tail_length_mm: 38.4
   body_mass_g: 8.8
+image:
+  file: images/passeriformes/estrildidae/mayrimunia-tristissima/1.jpg
+  page: https://www.inaturalist.org/photos/624351143
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624351143/original.jpg
+images:
+- file: images/passeriformes/estrildidae/mayrimunia-tristissima/1.jpg
+  page: https://www.inaturalist.org/photos/624351143
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624351143/original.jpg
+- file: images/passeriformes/estrildidae/mayrimunia-tristissima/2.jpg
+  page: https://www.inaturalist.org/photos/458225316
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458225316/original.jpg
+- file: images/passeriformes/estrildidae/mayrimunia-tristissima/3.jpg
+  page: https://www.inaturalist.org/photos/624351199
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624351199/original.jpg
+- file: images/passeriformes/estrildidae/mayrimunia-tristissima/4.jpg
+  page: https://www.inaturalist.org/photos/624351250
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624351250/original.jpg
+- file: images/passeriformes/estrildidae/mayrimunia-tristissima/5.jpg
+  page: https://www.inaturalist.org/photos/624351214
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624351214/original.jpg
 ---
 
 

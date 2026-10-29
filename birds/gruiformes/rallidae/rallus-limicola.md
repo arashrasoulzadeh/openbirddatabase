@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rallus-limicola/1.jpg
+  page: https://www.inaturalist.org/photos/604602506
+  author: Jesse PC
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604602506/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallus-limicola/1.jpg
+  page: https://www.inaturalist.org/photos/604602506
+  author: Jesse PC
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604602506/original.jpg
+- file: images/gruiformes/rallidae/rallus-limicola/2.jpg
+  page: https://www.inaturalist.org/photos/625657333
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625657333/original.jpg
+- file: images/gruiformes/rallidae/rallus-limicola/3.jpg
+  page: https://www.inaturalist.org/photos/624047402
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624047402/original.jpg
+- file: images/gruiformes/rallidae/rallus-limicola/4.jpg
+  page: https://www.inaturalist.org/photos/634097759
+  author: Chris Ratzlaff
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634097759/original.jpg
+- file: images/gruiformes/rallidae/rallus-limicola/5.jpg
+  page: https://www.inaturalist.org/photos/640740098
+  author: Jonathan Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640740098/original.jpg
 ---
 
 

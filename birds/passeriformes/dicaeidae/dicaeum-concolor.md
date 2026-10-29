@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/649378493
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649378493/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/649378493
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649378493/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-concolor/2.jpg
+  page: https://www.inaturalist.org/photos/617207051
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207051/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-concolor/3.jpg
+  page: https://www.inaturalist.org/photos/630999662
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630999662/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-concolor/4.jpg
+  page: https://www.inaturalist.org/photos/693803301
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693803301/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-concolor/5.jpg
+  page: https://www.inaturalist.org/photos/699331340
+  author: Seema Merchant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699331340/original.jpg
 ---
 
 

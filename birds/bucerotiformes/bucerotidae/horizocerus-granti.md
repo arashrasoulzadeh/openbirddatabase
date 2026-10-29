@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/horizocerus-granti/1.jpg
+  page: https://www.inaturalist.org/photos/616753884
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616753884/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/horizocerus-granti/1.jpg
+  page: https://www.inaturalist.org/photos/616753884
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616753884/original.jpg
+- file: images/bucerotiformes/bucerotidae/horizocerus-granti/2.jpg
+  page: https://www.inaturalist.org/photos/354189412
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354189412/original.png
+- file: images/bucerotiformes/bucerotidae/horizocerus-granti/3.jpg
+  page: https://www.inaturalist.org/photos/270724099
+  author: Robin Fjellström
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270724099/original.jpg
+- file: images/bucerotiformes/bucerotidae/horizocerus-granti/4.jpg
+  page: https://www.inaturalist.org/photos/106654027
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106654027/original.jpg
+- file: images/bucerotiformes/bucerotidae/horizocerus-granti/5.jpg
+  page: https://www.inaturalist.org/photos/353553020
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353553020/original.png
 ---
 
 

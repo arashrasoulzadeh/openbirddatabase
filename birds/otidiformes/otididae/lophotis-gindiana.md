@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/lophotis-gindiana/1.jpg
+  page: https://www.inaturalist.org/photos/621177559
+  author: Victor Renaud
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621177559/original.jpg
+images:
+- file: images/otidiformes/otididae/lophotis-gindiana/1.jpg
+  page: https://www.inaturalist.org/photos/621177559
+  author: Victor Renaud
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621177559/original.jpg
+- file: images/otidiformes/otididae/lophotis-gindiana/2.jpg
+  page: https://www.inaturalist.org/photos/677468014
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677468014/original.jpg
+- file: images/otidiformes/otididae/lophotis-gindiana/3.jpg
+  page: https://www.inaturalist.org/photos/721686724
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721686724/original.jpg
+- file: images/otidiformes/otididae/lophotis-gindiana/4.jpg
+  page: https://www.inaturalist.org/photos/721443580
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721443580/original.jpg
+- file: images/otidiformes/otididae/lophotis-gindiana/5.jpg
+  page: https://www.inaturalist.org/photos/487745805
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487745805/original.jpeg
 ---
 
 

@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/galliformes/phasianidae/alectoris-chukar/1.jpg
+  page: https://www.inaturalist.org/photos/615648775
+  author: Carey_Knox_Southern_Scales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615648775/original.jpg
+images:
+- file: images/galliformes/phasianidae/alectoris-chukar/1.jpg
+  page: https://www.inaturalist.org/photos/615648775
+  author: Carey_Knox_Southern_Scales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615648775/original.jpg
+- file: images/galliformes/phasianidae/alectoris-chukar/2.jpg
+  page: https://www.inaturalist.org/photos/615400804
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615400804/original.jpg
+- file: images/galliformes/phasianidae/alectoris-chukar/3.jpg
+  page: https://www.inaturalist.org/photos/618094957
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618094957/original.jpg
+- file: images/galliformes/phasianidae/alectoris-chukar/4.jpg
+  page: https://www.inaturalist.org/photos/615648776
+  author: Carey_Knox_Southern_Scales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615648776/original.jpg
+- file: images/galliformes/phasianidae/alectoris-chukar/5.jpg
+  page: https://www.inaturalist.org/photos/615400831
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615400831/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-nesiotis/1.jpg
+  page: https://www.inaturalist.org/photos/463010751
+  author: Julia Palmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463010751/original.jpeg
+images:
+- file: images/anseriformes/anatidae/anas-nesiotis/1.jpg
+  page: https://www.inaturalist.org/photos/463010751
+  author: Julia Palmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463010751/original.jpeg
+- file: images/anseriformes/anatidae/anas-nesiotis/2.jpg
+  page: https://www.inaturalist.org/photos/587315487
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587315487/original.jpg
+- file: images/anseriformes/anatidae/anas-nesiotis/3.jpg
+  page: https://www.inaturalist.org/photos/453224375
+  author: Taylor Davies-Colley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453224375/original.jpg
+- file: images/anseriformes/anatidae/anas-nesiotis/4.jpg
+  page: https://www.inaturalist.org/photos/476006228
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476006228/original.jpg
+- file: images/anseriformes/anatidae/anas-nesiotis/5.jpg
+  page: https://www.inaturalist.org/photos/177184152
+  author: rempson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177184152/original.jpeg
 ---
 
 

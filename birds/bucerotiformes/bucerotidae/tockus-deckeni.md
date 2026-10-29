@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/tockus-deckeni/1.jpg
+  page: https://www.inaturalist.org/photos/631713113
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631713113/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/tockus-deckeni/1.jpg
+  page: https://www.inaturalist.org/photos/631713113
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631713113/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-deckeni/2.jpg
+  page: https://www.inaturalist.org/photos/679447191
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679447191/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-deckeni/3.jpg
+  page: https://www.inaturalist.org/photos/628002439
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628002439/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-deckeni/4.jpg
+  page: https://www.inaturalist.org/photos/671050233
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671050233/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-deckeni/5.jpg
+  page: https://www.inaturalist.org/photos/671050774
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671050774/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/bolemoreus-frenatus/1.jpg
+  page: https://www.inaturalist.org/photos/639436883
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639436883/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/bolemoreus-frenatus/1.jpg
+  page: https://www.inaturalist.org/photos/639436883
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639436883/original.jpg
+- file: images/passeriformes/meliphagidae/bolemoreus-frenatus/2.jpg
+  page: https://www.inaturalist.org/photos/665643781
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665643781/original.jpg
+- file: images/passeriformes/meliphagidae/bolemoreus-frenatus/3.jpg
+  page: https://www.inaturalist.org/photos/705979500
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705979500/original.jpg
+- file: images/passeriformes/meliphagidae/bolemoreus-frenatus/4.jpg
+  page: https://www.inaturalist.org/photos/722406984
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722406984/original.jpg
+- file: images/passeriformes/meliphagidae/bolemoreus-frenatus/5.jpg
+  page: https://www.inaturalist.org/photos/730796683
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730796683/original.jpg
 ---
 
 

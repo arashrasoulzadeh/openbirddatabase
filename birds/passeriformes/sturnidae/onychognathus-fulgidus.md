@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/onychognathus-fulgidus/1.jpg
+  page: https://www.inaturalist.org/photos/555840455
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555840455/original.jpg
+images:
+- file: images/passeriformes/sturnidae/onychognathus-fulgidus/1.jpg
+  page: https://www.inaturalist.org/photos/555840455
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555840455/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-fulgidus/2.jpg
+  page: https://www.inaturalist.org/photos/212289178
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/212289178/original.jpeg
+- file: images/passeriformes/sturnidae/onychognathus-fulgidus/3.jpg
+  page: https://www.inaturalist.org/photos/181206485
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181206485/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-fulgidus/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/GabonBiodiversity#5820862112144944082
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223977/original.JPG
+- file: images/passeriformes/sturnidae/onychognathus-fulgidus/5.jpg
+  page: https://www.inaturalist.org/photos/158423785
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158423785/original.jpeg
 ---
 
 

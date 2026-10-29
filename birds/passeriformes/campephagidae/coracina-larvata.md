@@ -129,8 +129,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-larvata/1.jpg
+  page: https://www.inaturalist.org/photos/687580154
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687580154/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-larvata/1.jpg
+  page: https://www.inaturalist.org/photos/687580154
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687580154/original.jpg
+- file: images/passeriformes/campephagidae/coracina-larvata/2.jpg
+  page: https://www.inaturalist.org/photos/573427526
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573427526/original.jpg
+- file: images/passeriformes/campephagidae/coracina-larvata/3.jpg
+  page: https://www.inaturalist.org/photos/593937106
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593937106/original.jpg
+- file: images/passeriformes/campephagidae/coracina-larvata/4.jpg
+  page: https://www.inaturalist.org/photos/453304996
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453304996/original.jpeg
+- file: images/passeriformes/campephagidae/coracina-larvata/5.jpg
+  page: https://www.inaturalist.org/photos/288196515
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288196515/original.jpg
 ---
 
 

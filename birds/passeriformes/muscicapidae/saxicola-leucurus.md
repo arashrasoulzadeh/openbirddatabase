@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/saxicola-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/249077060
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249077060/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/saxicola-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/249077060
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249077060/original.jpeg
+- file: images/passeriformes/muscicapidae/saxicola-leucurus/2.jpg
+  page: https://www.inaturalist.org/photos/409842753
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409842753/original.jpeg
+- file: images/passeriformes/muscicapidae/saxicola-leucurus/3.jpg
+  page: https://www.inaturalist.org/photos/249077110
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249077110/original.jpeg
+- file: images/passeriformes/muscicapidae/saxicola-leucurus/4.jpg
+  page: https://www.inaturalist.org/photos/249077125
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249077125/original.jpeg
+- file: images/passeriformes/muscicapidae/saxicola-leucurus/5.jpg
+  page: https://www.inaturalist.org/photos/174281059
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174281059/original.jpeg
 ---
 
 

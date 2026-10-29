@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cariamiformes/cariamidae/chunga-burmeisteri/1.jpg
+  page: https://www.inaturalist.org/photos/630660063
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630660063/original.jpg
+images:
+- file: images/cariamiformes/cariamidae/chunga-burmeisteri/1.jpg
+  page: https://www.inaturalist.org/photos/630660063
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630660063/original.jpg
+- file: images/cariamiformes/cariamidae/chunga-burmeisteri/2.jpg
+  page: https://www.inaturalist.org/photos/709295389
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709295389/original.jpg
+- file: images/cariamiformes/cariamidae/chunga-burmeisteri/3.jpg
+  page: https://www.inaturalist.org/photos/724632474
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724632474/original.jpg
+- file: images/cariamiformes/cariamidae/chunga-burmeisteri/4.jpg
+  page: https://www.inaturalist.org/photos/744113027
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744113027/original.jpg
+- file: images/cariamiformes/cariamidae/chunga-burmeisteri/5.jpg
+  page: https://www.inaturalist.org/photos/521070383
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521070383/original.jpg
 ---
 
 

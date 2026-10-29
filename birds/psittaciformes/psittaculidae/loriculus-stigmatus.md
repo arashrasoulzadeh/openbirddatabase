@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/loriculus-stigmatus/1.jpg
+  page: https://www.inaturalist.org/photos/617605983
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617605983/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/loriculus-stigmatus/1.jpg
+  page: https://www.inaturalist.org/photos/617605983
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617605983/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-stigmatus/2.jpg
+  page: https://www.inaturalist.org/photos/526014975
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014975/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-stigmatus/3.jpg
+  page: https://www.inaturalist.org/photos/557271145
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557271145/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-stigmatus/4.jpg
+  page: https://www.inaturalist.org/photos/416464493
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416464493/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-stigmatus/5.jpg
+  page: https://www.inaturalist.org/photos/305994938
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305994938/original.jpg
 ---
 
 

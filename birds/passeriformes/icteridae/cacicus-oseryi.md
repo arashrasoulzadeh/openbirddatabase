@@ -144,8 +144,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/cacicus-oseryi/1.jpg
+  page: https://www.inaturalist.org/photos/53257292
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53257292/original.jpg
+images:
+- file: images/passeriformes/icteridae/cacicus-oseryi/1.jpg
+  page: https://www.inaturalist.org/photos/53257292
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53257292/original.jpg
+- file: images/passeriformes/icteridae/cacicus-oseryi/2.jpg
+  page: https://www.inaturalist.org/photos/411958384
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411958384/original.jpeg
+- file: images/passeriformes/icteridae/cacicus-oseryi/3.jpg
+  page: https://www.inaturalist.org/photos/53257285
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53257285/original.jpg
+- file: images/passeriformes/icteridae/cacicus-oseryi/4.jpg
+  page: https://www.inaturalist.org/photos/53257279
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53257279/original.jpg
 ---
 
 

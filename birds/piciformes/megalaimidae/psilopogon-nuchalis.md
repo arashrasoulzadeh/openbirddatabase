@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/607727835
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607727835/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/607727835
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607727835/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-nuchalis/2.jpg
+  page: https://www.inaturalist.org/photos/611116292
+  author: 葉淑蓮
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611116292/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-nuchalis/3.jpg
+  page: https://www.inaturalist.org/photos/608077329
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608077329/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-nuchalis/4.jpg
+  page: https://www.inaturalist.org/photos/605266899
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605266899/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-nuchalis/5.jpg
+  page: https://www.inaturalist.org/photos/633501793
+  author: 葉子
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633501793/original.jpg
 ---
 
 

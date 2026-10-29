@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/fringillidae/pyrrhula-pyrrhula/1.jpg
+  page: https://www.inaturalist.org/photos/604746048
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604746048/original.jpg
+images:
+- file: images/passeriformes/fringillidae/pyrrhula-pyrrhula/1.jpg
+  page: https://www.inaturalist.org/photos/604746048
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604746048/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-pyrrhula/2.jpg
+  page: https://www.inaturalist.org/photos/604822200
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604822200/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-pyrrhula/3.jpg
+  page: https://www.inaturalist.org/photos/604731165
+  author: Tatiana Strus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604731165/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-pyrrhula/4.jpg
+  page: https://www.inaturalist.org/photos/604729508
+  author: Marina Potapova
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604729508/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-pyrrhula/5.jpg
+  page: https://www.inaturalist.org/photos/605674224
+  author: Шухободская Ольга Владимировна
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605674224/original.jpg
 ---
 
 

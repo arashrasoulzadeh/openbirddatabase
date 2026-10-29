@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-brasilianum/1.jpg
+  page: https://www.inaturalist.org/photos/604606159
+  author: Zygy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606159/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-brasilianum/1.jpg
+  page: https://www.inaturalist.org/photos/604606159
+  author: Zygy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606159/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-brasilianum/2.jpg
+  page: https://www.inaturalist.org/photos/605230960
+  author: jesusdavi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605230960/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-brasilianum/3.jpg
+  page: https://www.inaturalist.org/photos/605424076
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605424076/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-brasilianum/4.jpg
+  page: https://www.inaturalist.org/photos/605467129
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605467129/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-brasilianum/5.jpg
+  page: https://www.inaturalist.org/photos/607976378
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607976378/original.jpg
 ---
 
 

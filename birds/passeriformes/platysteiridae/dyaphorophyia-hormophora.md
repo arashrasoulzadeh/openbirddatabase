@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/dyaphorophyia-hormophora/1.jpg
+  page: https://www.inaturalist.org/photos/582360109
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582360109/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/dyaphorophyia-hormophora/1.jpg
+  page: https://www.inaturalist.org/photos/582360109
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582360109/original.jpg
+- file: images/passeriformes/platysteiridae/dyaphorophyia-hormophora/2.jpg
+  page: https://www.inaturalist.org/photos/353553466
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353553466/original.png
+- file: images/passeriformes/platysteiridae/dyaphorophyia-hormophora/3.jpg
+  page: https://www.inaturalist.org/photos/344850657
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344850657/original.jpeg
+- file: images/passeriformes/platysteiridae/dyaphorophyia-hormophora/4.jpg
+  page: https://www.inaturalist.org/photos/218782937
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218782937/original.jpeg
+- file: images/passeriformes/platysteiridae/dyaphorophyia-hormophora/5.jpg
+  page: https://www.inaturalist.org/photos/582360111
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582360111/original.jpg
 ---
 
 

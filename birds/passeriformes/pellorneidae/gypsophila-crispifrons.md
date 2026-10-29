@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/gypsophila-crispifrons/1.jpg
+  page: https://www.inaturalist.org/photos/610893328
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610893328/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/gypsophila-crispifrons/1.jpg
+  page: https://www.inaturalist.org/photos/610893328
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610893328/original.jpg
+- file: images/passeriformes/pellorneidae/gypsophila-crispifrons/2.jpg
+  page: https://www.inaturalist.org/photos/613904427
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613904427/original.jpg
+- file: images/passeriformes/pellorneidae/gypsophila-crispifrons/3.jpg
+  page: https://www.inaturalist.org/photos/630430066
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630430066/original.jpg
+- file: images/passeriformes/pellorneidae/gypsophila-crispifrons/4.jpg
+  page: https://www.inaturalist.org/photos/708224501
+  author: Thomas Gyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708224501/original.jpg
+- file: images/passeriformes/pellorneidae/gypsophila-crispifrons/5.jpg
+  page: https://www.inaturalist.org/photos/738842041
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738842041/original.jpg
 ---
 
 

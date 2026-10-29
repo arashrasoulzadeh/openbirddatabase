@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-albiceps/1.jpg
+  page: https://www.inaturalist.org/photos/605083909
+  author: Bruno Avilez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083909/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-albiceps/1.jpg
+  page: https://www.inaturalist.org/photos/605083909
+  author: Bruno Avilez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083909/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-albiceps/2.jpg
+  page: https://www.inaturalist.org/photos/607830771
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607830771/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-albiceps/3.jpg
+  page: https://www.inaturalist.org/photos/609789044
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609789044/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-albiceps/4.jpg
+  page: https://www.inaturalist.org/photos/607192889
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607192889/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-albiceps/5.jpg
+  page: https://www.inaturalist.org/photos/607907614
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907614/original.jpg
 ---
 
 

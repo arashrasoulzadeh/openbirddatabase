@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremonops-conirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606693773
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606693773/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremonops-conirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606693773
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606693773/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-conirostris/2.jpg
+  page: https://www.inaturalist.org/photos/617447509
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617447509/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-conirostris/3.jpg
+  page: https://www.inaturalist.org/photos/612769396
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612769396/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-conirostris/4.jpg
+  page: https://www.inaturalist.org/photos/618066948
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618066948/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-conirostris/5.jpg
+  page: https://www.inaturalist.org/photos/622072122
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622072122/original.jpg
 ---
 
 

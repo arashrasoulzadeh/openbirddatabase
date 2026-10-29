@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/geositta-peruviana/1.jpg
+  page: https://www.inaturalist.org/photos/614401770
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614401770/original.jpg
+images:
+- file: images/passeriformes/furnariidae/geositta-peruviana/1.jpg
+  page: https://www.inaturalist.org/photos/614401770
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614401770/original.jpg
+- file: images/passeriformes/furnariidae/geositta-peruviana/2.jpg
+  page: https://www.inaturalist.org/photos/485769637
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485769637/original.jpeg
+- file: images/passeriformes/furnariidae/geositta-peruviana/3.jpg
+  page: https://www.inaturalist.org/photos/526329529
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526329529/original.jpg
+- file: images/passeriformes/furnariidae/geositta-peruviana/4.jpg
+  page: https://www.inaturalist.org/photos/550329229
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550329229/original.jpg
+- file: images/passeriformes/furnariidae/geositta-peruviana/5.jpg
+  page: https://www.inaturalist.org/photos/593180312
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593180312/original.jpg
 ---
 
 

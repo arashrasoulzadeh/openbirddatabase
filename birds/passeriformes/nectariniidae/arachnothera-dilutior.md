@@ -139,10 +139,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/nectariniidae/arachnothera-dilutior/1.jpg
+  page: https://www.inaturalist.org/photos/457196521
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457196521/original.jpeg
+images:
+- file: images/passeriformes/nectariniidae/arachnothera-dilutior/1.jpg
+  page: https://www.inaturalist.org/photos/457196521
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457196521/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-dilutior/2.jpg
+  page: https://www.inaturalist.org/photos/244618110
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244618110/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-dilutior/3.jpg
+  page: https://www.inaturalist.org/photos/457196536
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457196536/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-dilutior/4.jpg
+  page: https://www.inaturalist.org/photos/457196553
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457196553/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-dilutior/5.jpg
+  page: https://www.inaturalist.org/photos/457196568
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457196568/original.jpeg
 ---
 
 

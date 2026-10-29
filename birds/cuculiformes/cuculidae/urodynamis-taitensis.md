@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/urodynamis-taitensis/1.jpg
+  page: https://www.inaturalist.org/photos/612585279
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612585279/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/urodynamis-taitensis/1.jpg
+  page: https://www.inaturalist.org/photos/612585279
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612585279/original.jpg
+- file: images/cuculiformes/cuculidae/urodynamis-taitensis/2.jpg
+  page: https://www.inaturalist.org/photos/624327847
+  author: Juliette Fuehrhop
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624327847/original.jpg
+- file: images/cuculiformes/cuculidae/urodynamis-taitensis/3.jpg
+  page: https://www.inaturalist.org/photos/703155625
+  author: Jake Osborne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703155625/original.jpg
+- file: images/cuculiformes/cuculidae/urodynamis-taitensis/4.jpg
+  page: https://www.inaturalist.org/photos/473018337
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473018337/original.jpeg
+- file: images/cuculiformes/cuculidae/urodynamis-taitensis/5.jpg
+  page: https://www.inaturalist.org/photos/587279424
+  author: Emma Naylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587279424/original.jpg
 ---
 
 

@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cuculus-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/619875759
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619875759/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/619875759
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619875759/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-solitarius/2.jpg
+  page: https://www.inaturalist.org/photos/709623338
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709623338/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-solitarius/3.jpg
+  page: https://www.inaturalist.org/photos/482481217
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482481217/original.jpeg
+- file: images/cuculiformes/cuculidae/cuculus-solitarius/4.jpg
+  page: https://www.inaturalist.org/photos/661233577
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661233577/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-solitarius/5.jpg
+  page: https://www.inaturalist.org/photos/476779401
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476779401/original.jpeg
 ---
 
 

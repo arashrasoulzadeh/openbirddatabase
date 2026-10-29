@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/saucerottia-beryllina/1.jpg
+  page: https://www.inaturalist.org/photos/611964223
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611964223/original.jpg
+images:
+- file: images/apodiformes/trochilidae/saucerottia-beryllina/1.jpg
+  page: https://www.inaturalist.org/photos/611964223
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611964223/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-beryllina/2.jpg
+  page: https://www.inaturalist.org/photos/608464332
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608464332/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-beryllina/3.jpg
+  page: https://www.inaturalist.org/photos/604659069
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604659069/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-beryllina/4.jpg
+  page: https://www.inaturalist.org/photos/614360020
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614360020/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-beryllina/5.jpg
+  page: https://www.inaturalist.org/photos/606530179
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606530179/original.jpg
 ---
 
 

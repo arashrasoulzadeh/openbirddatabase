@@ -156,8 +156,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-citrinipectus/1.jpg
+  page: https://www.inaturalist.org/photos/262313615
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262313615/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-citrinipectus/1.jpg
+  page: https://www.inaturalist.org/photos/262313615
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262313615/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-citrinipectus/2.jpg
+  page: https://www.inaturalist.org/photos/102486600
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102486600/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-citrinipectus/3.jpg
+  page: https://www.inaturalist.org/photos/102486602
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102486602/original.jpg
 ---
 
 

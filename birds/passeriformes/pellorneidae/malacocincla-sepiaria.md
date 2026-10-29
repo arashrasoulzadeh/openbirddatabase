@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/malacocincla-sepiaria/1.jpg
+  page: https://www.inaturalist.org/photos/692564728
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692564728/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/malacocincla-sepiaria/1.jpg
+  page: https://www.inaturalist.org/photos/692564728
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692564728/original.jpg
+- file: images/passeriformes/pellorneidae/malacocincla-sepiaria/2.jpg
+  page: https://www.inaturalist.org/photos/536376175
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536376175/original.jpg
+- file: images/passeriformes/pellorneidae/malacocincla-sepiaria/3.jpg
+  page: https://www.inaturalist.org/photos/569152580
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569152580/original.jpg
+- file: images/passeriformes/pellorneidae/malacocincla-sepiaria/4.jpg
+  page: https://www.inaturalist.org/photos/573699521
+  author: marisnocatpiss
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573699521/original.jpg
+- file: images/passeriformes/pellorneidae/malacocincla-sepiaria/5.jpg
+  page: https://www.inaturalist.org/photos/576114129
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576114129/original.jpg
 ---
 
 

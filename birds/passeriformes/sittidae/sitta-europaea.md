@@ -189,10 +189,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/sittidae/sitta-europaea/1.jpg
+  page: https://www.inaturalist.org/photos/604826879
+  author: E. A.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604826879/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-europaea/1.jpg
+  page: https://www.inaturalist.org/photos/604826879
+  author: E. A.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604826879/original.jpg
+- file: images/passeriformes/sittidae/sitta-europaea/2.jpg
+  page: https://www.inaturalist.org/photos/604748316
+  author: Сергей Неклюдов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604748316/original.jpg
+- file: images/passeriformes/sittidae/sitta-europaea/3.jpg
+  page: https://www.inaturalist.org/photos/605165795
+  author: Дмитрий Еременко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165795/original.jpg
+- file: images/passeriformes/sittidae/sitta-europaea/4.jpg
+  page: https://www.inaturalist.org/photos/604820203
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604820203/original.jpg
+- file: images/passeriformes/sittidae/sitta-europaea/5.jpg
+  page: https://www.inaturalist.org/photos/604536059
+  author: Полина Полежанкина
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604536059/original.jpg
 ---
 
 

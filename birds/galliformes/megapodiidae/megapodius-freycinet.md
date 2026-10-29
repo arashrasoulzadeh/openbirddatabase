@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/megapodiidae/megapodius-freycinet/1.jpg
+  page: https://www.inaturalist.org/photos/709961552
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709961552/original.jpg
+images:
+- file: images/galliformes/megapodiidae/megapodius-freycinet/1.jpg
+  page: https://www.inaturalist.org/photos/709961552
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709961552/original.jpg
+- file: images/galliformes/megapodiidae/megapodius-freycinet/2.jpg
+  page: https://www.inaturalist.org/photos/526334065
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334065/original.jpg
+- file: images/galliformes/megapodiidae/megapodius-freycinet/3.jpg
+  page: https://www.inaturalist.org/photos/690114147
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690114147/original.jpg
+- file: images/galliformes/megapodiidae/megapodius-freycinet/4.jpg
+  page: https://www.inaturalist.org/photos/317530055
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/317530055/original.jpg
+- file: images/galliformes/megapodiidae/megapodius-freycinet/5.jpg
+  page: https://www.inaturalist.org/photos/416866140
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866140/original.jpg
 ---
 
 

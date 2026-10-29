@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendropicos-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/459051757
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459051757/original.jpg
+images:
+- file: images/piciformes/picidae/dendropicos-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/459051757
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459051757/original.jpg
+- file: images/piciformes/picidae/dendropicos-obsoletus/2.jpg
+  page: https://www.inaturalist.org/photos/57191905
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57191905/original.jpg
+- file: images/piciformes/picidae/dendropicos-obsoletus/3.jpg
+  page: https://www.inaturalist.org/photos/95579556
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95579556/original.jpeg
+- file: images/piciformes/picidae/dendropicos-obsoletus/4.jpg
+  page: https://www.inaturalist.org/photos/95579574
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95579574/original.jpeg
+- file: images/piciformes/picidae/dendropicos-obsoletus/5.jpg
+  page: https://www.inaturalist.org/photos/95532480
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95532480/original.jpeg
 ---
 
 

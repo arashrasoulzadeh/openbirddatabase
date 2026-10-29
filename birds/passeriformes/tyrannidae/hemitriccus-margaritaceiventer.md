@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-margaritaceiventer/1.jpg
+  page: https://www.inaturalist.org/photos/606456210
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606456210/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-margaritaceiventer/1.jpg
+  page: https://www.inaturalist.org/photos/606456210
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606456210/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-margaritaceiventer/2.jpg
+  page: https://www.inaturalist.org/photos/612788053
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612788053/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-margaritaceiventer/3.jpg
+  page: https://www.inaturalist.org/photos/612641216
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612641216/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-margaritaceiventer/4.jpg
+  page: https://www.inaturalist.org/photos/617250994
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617250994/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-margaritaceiventer/5.jpg
+  page: https://www.inaturalist.org/photos/637742224
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637742224/original.jpg
 ---
 
 

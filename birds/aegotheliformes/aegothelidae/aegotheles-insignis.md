@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/aegotheliformes/aegothelidae/aegotheles-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/614910714
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910714/original.jpg
+images:
+- file: images/aegotheliformes/aegothelidae/aegotheles-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/614910714
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910714/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-insignis/2.jpg
+  page: https://www.inaturalist.org/photos/703074402
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703074402/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-insignis/3.jpg
+  page: https://www.inaturalist.org/photos/658484120
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658484120/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-insignis/4.jpg
+  page: https://www.inaturalist.org/photos/341061805
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341061805/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-insignis/5.jpg
+  page: https://www.inaturalist.org/photos/614963543
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614963543/original.jpg
 ---
 
 

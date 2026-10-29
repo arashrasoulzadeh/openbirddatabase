@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/manorina-melanotis/1.jpg
+  page: https://www.flickr.com/photos/dhobern/54978493546/
+  author: Donald Hobern
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599101078/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/manorina-melanotis/1.jpg
+  page: https://www.flickr.com/photos/dhobern/54978493546/
+  author: Donald Hobern
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599101078/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanotis/2.jpg
+  page: https://www.inaturalist.org/photos/280251941
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/280251941/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanotis/3.jpg
+  page: https://www.inaturalist.org/photos/283700268
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283700268/original.jpeg
+- file: images/passeriformes/meliphagidae/manorina-melanotis/4.jpg
+  page: https://www.flickr.com/photos/dhobern/54977628242/
+  author: Donald Hobern
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599101087/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanotis/5.jpg
+  page: https://www.flickr.com/photos/dhobern/54977627577/
+  author: Donald Hobern
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599101092/original.jpg
 ---
 
 

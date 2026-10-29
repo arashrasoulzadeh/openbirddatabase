@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-plumbea/1.jpg
+  page: https://www.inaturalist.org/photos/607233705
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607233705/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-plumbea/1.jpg
+  page: https://www.inaturalist.org/photos/607233705
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607233705/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-plumbea/2.jpg
+  page: https://www.inaturalist.org/photos/611006873
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611006873/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-plumbea/3.jpg
+  page: https://www.inaturalist.org/photos/613439708
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613439708/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-plumbea/4.jpg
+  page: https://www.inaturalist.org/photos/614797866
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614797866/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-plumbea/5.jpg
+  page: https://www.inaturalist.org/photos/621254538
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621254538/original.jpg
 ---
 
 

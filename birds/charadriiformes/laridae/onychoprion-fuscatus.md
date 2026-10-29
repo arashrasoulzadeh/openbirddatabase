@@ -211,10 +211,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 36
+image:
+  file: images/charadriiformes/laridae/onychoprion-fuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/610103197
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610103197/original.jpg
+images:
+- file: images/charadriiformes/laridae/onychoprion-fuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/610103197
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610103197/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-fuscatus/2.jpg
+  page: https://www.inaturalist.org/photos/619731854
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619731854/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-fuscatus/3.jpg
+  page: https://www.inaturalist.org/photos/635716570
+  author: Antoine MARNAT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635716570/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-fuscatus/4.jpg
+  page: https://www.inaturalist.org/photos/665388855
+  author: Daniel Estabrooks
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665388855/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-fuscatus/5.jpg
+  page: https://www.inaturalist.org/photos/609354940
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609354940/original.jpg
 ---
 
 

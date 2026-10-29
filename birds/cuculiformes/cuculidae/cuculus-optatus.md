@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cuculus-optatus/1.jpg
+  page: https://www.inaturalist.org/photos/734249267
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734249267/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-optatus/1.jpg
+  page: https://www.inaturalist.org/photos/734249267
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734249267/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-optatus/2.jpg
+  page: https://www.inaturalist.org/photos/659571988
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659571988/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-optatus/3.jpg
+  page: https://www.inaturalist.org/photos/670147984
+  author: Рустам Сафаргалиев
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670147984/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-optatus/4.jpg
+  page: https://www.inaturalist.org/photos/678832066
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678832066/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-optatus/5.jpg
+  page: https://www.inaturalist.org/photos/679651331
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679651331/original.jpg
 ---
 
 

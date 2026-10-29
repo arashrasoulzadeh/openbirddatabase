@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/thalassornis-leuconotus/1.jpg
+  page: https://www.inaturalist.org/photos/610452145
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610452145/original.jpg
+images:
+- file: images/anseriformes/anatidae/thalassornis-leuconotus/1.jpg
+  page: https://www.inaturalist.org/photos/610452145
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610452145/original.jpg
+- file: images/anseriformes/anatidae/thalassornis-leuconotus/2.jpg
+  page: https://www.inaturalist.org/photos/612626086
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626086/original.jpg
+- file: images/anseriformes/anatidae/thalassornis-leuconotus/3.jpg
+  page: https://www.inaturalist.org/photos/644118931
+  author: Burgert Jordaan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644118931/original.jpg
+- file: images/anseriformes/anatidae/thalassornis-leuconotus/4.jpg
+  page: https://www.inaturalist.org/photos/680949475
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680949475/original.jpg
+- file: images/anseriformes/anatidae/thalassornis-leuconotus/5.jpg
+  page: https://www.inaturalist.org/photos/612626194
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626194/original.jpg
 ---
 
 

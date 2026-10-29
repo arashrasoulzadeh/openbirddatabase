@@ -166,8 +166,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/muscicapa-sibirica/1.jpg
+  page: https://www.inaturalist.org/photos/608830466
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608830466/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/muscicapa-sibirica/1.jpg
+  page: https://www.inaturalist.org/photos/608830466
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608830466/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-sibirica/2.jpg
+  page: https://www.inaturalist.org/photos/613148017
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613148017/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-sibirica/3.jpg
+  page: https://www.inaturalist.org/photos/619767287
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619767287/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-sibirica/4.jpg
+  page: https://www.inaturalist.org/photos/641165042
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641165042/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-sibirica/5.jpg
+  page: https://www.inaturalist.org/photos/627581607
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627581607/original.jpg
 ---
 
 

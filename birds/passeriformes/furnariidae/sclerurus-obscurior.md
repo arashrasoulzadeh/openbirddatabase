@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/sclerurus-obscurior/1.jpg
+  page: https://www.inaturalist.org/photos/594477965
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594477965/original.jpg
+images:
+- file: images/passeriformes/furnariidae/sclerurus-obscurior/1.jpg
+  page: https://www.inaturalist.org/photos/594477965
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594477965/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-obscurior/2.jpg
+  page: https://www.inaturalist.org/photos/386707157
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386707157/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-obscurior/3.jpg
+  page: https://www.inaturalist.org/photos/263763548
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263763548/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-obscurior/4.jpg
+  page: https://www.inaturalist.org/photos/237102551
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237102551/original.jpeg
+- file: images/passeriformes/furnariidae/sclerurus-obscurior/5.jpg
+  page: https://www.inaturalist.org/photos/73786842
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/73786842/original.jpg
 ---
 
 

@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 22.4
@@ -131,6 +132,26 @@ morphology:
   wing_length_mm: 92.6
   tail_length_mm: 59.4
   body_mass_g: 55.8
+image:
+  file: images/passeriformes/grallariidae/grallaria-urraoensis/1.jpg
+  page: https://www.inaturalist.org/photos/623802407
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623802407/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-urraoensis/1.jpg
+  page: https://www.inaturalist.org/photos/623802407
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623802407/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-urraoensis/2.jpg
+  page: https://www.inaturalist.org/photos/18254259
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/18254259/original.jpg
 ---
 
 

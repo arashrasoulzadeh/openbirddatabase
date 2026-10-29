@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/asthenes-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/730676315
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730676315/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/730676315
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730676315/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-humilis/2.jpg
+  page: https://www.inaturalist.org/photos/528340953
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528340953/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-humilis/3.jpg
+  page: https://www.inaturalist.org/photos/339740310
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339740310/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-humilis/4.jpg
+  page: https://www.inaturalist.org/photos/339642838
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339642838/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-humilis/5.jpg
+  page: https://www.inaturalist.org/photos/63943609
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63943609/original.jpg
 ---
 
 

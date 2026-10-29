@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coliiformes/coliidae/colius-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/721441360
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721441360/original.jpg
+images:
+- file: images/coliiformes/coliidae/colius-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/721441360
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721441360/original.jpg
+- file: images/coliiformes/coliidae/colius-leucocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/722419518
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722419518/original.jpg
+- file: images/coliiformes/coliidae/colius-leucocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/585242961
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585242961/original.jpg
+- file: images/coliiformes/coliidae/colius-leucocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/588652196
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588652196/original.jpg
+- file: images/coliiformes/coliidae/colius-leucocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/254628615
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254628615/original.jpeg
 ---
 
 

@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/pseudotriccus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/489387945
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489387945/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pseudotriccus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/489387945
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489387945/original.jpg
+- file: images/passeriformes/tyrannidae/pseudotriccus-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/534614713
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534614713/original.jpg
+- file: images/passeriformes/tyrannidae/pseudotriccus-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/240913288
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240913288/original.jpeg
+- file: images/passeriformes/tyrannidae/pseudotriccus-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/12033488
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12033488/original.jpg
+- file: images/passeriformes/tyrannidae/pseudotriccus-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/534614747
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534614747/original.jpg
 ---
 
 

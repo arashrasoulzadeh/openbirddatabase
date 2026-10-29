@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/dendrocygna-eytoni/1.jpg
+  page: https://www.inaturalist.org/photos/604995958
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604995958/original.jpg
+images:
+- file: images/anseriformes/anatidae/dendrocygna-eytoni/1.jpg
+  page: https://www.inaturalist.org/photos/604995958
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604995958/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-eytoni/2.jpg
+  page: https://www.inaturalist.org/photos/605314146
+  author: elliotth86
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605314146/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-eytoni/3.jpg
+  page: https://www.inaturalist.org/photos/605733090
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605733090/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-eytoni/4.jpg
+  page: https://www.inaturalist.org/photos/605713548
+  author: Beth Addison-smith
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605713548/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-eytoni/5.jpg
+  page: https://www.inaturalist.org/photos/609385720
+  author: Scott W. Gavins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609385720/original.jpg
 ---
 
 

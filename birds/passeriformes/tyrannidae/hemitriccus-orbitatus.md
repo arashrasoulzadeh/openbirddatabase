@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-orbitatus/1.jpg
+  page: https://www.inaturalist.org/photos/624968230
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624968230/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-orbitatus/1.jpg
+  page: https://www.inaturalist.org/photos/624968230
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624968230/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-orbitatus/2.jpg
+  page: https://www.inaturalist.org/photos/643962788
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643962788/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-orbitatus/3.jpg
+  page: https://www.inaturalist.org/photos/502039739
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502039739/original.png
+- file: images/passeriformes/tyrannidae/hemitriccus-orbitatus/4.jpg
+  page: https://www.inaturalist.org/photos/587467195
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587467195/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-orbitatus/5.jpg
+  page: https://www.inaturalist.org/photos/587607573
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587607573/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/conirostrum-binghami/1.jpg
+  page: https://www.inaturalist.org/photos/558777748
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558777748/original.jpg
+images:
+- file: images/passeriformes/thraupidae/conirostrum-binghami/1.jpg
+  page: https://www.inaturalist.org/photos/558777748
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558777748/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-binghami/2.jpg
+  page: https://www.inaturalist.org/photos/583041815
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583041815/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-binghami/3.jpg
+  page: https://www.inaturalist.org/photos/586528497
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586528497/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-binghami/4.jpg
+  page: https://www.inaturalist.org/photos/398273412
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398273412/original.jpeg
+- file: images/passeriformes/thraupidae/conirostrum-binghami/5.jpg
+  page: https://www.inaturalist.org/photos/553572140
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553572140/original.jpg
 ---
 
 

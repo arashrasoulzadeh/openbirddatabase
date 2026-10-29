@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/corythopis-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/724118294
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724118294/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/corythopis-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/724118294
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724118294/original.jpg
+- file: images/passeriformes/tyrannidae/corythopis-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/334607350
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334607350/original.jpeg
+- file: images/passeriformes/tyrannidae/corythopis-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/332491531
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332491531/original.jpeg
+- file: images/passeriformes/tyrannidae/corythopis-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/338446744
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338446744/original.jpg
+- file: images/passeriformes/tyrannidae/corythopis-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/240400727
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240400727/original.jpg
 ---
 
 

@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-sparsa/1.jpg
+  page: https://www.inaturalist.org/photos/624179401
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624179401/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-sparsa/1.jpg
+  page: https://www.inaturalist.org/photos/624179401
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624179401/original.jpg
+- file: images/anseriformes/anatidae/anas-sparsa/2.jpg
+  page: https://www.inaturalist.org/photos/618066407
+  author: Dave Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618066407/original.jpg
+- file: images/anseriformes/anatidae/anas-sparsa/3.jpg
+  page: https://www.inaturalist.org/photos/666979531
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666979531/original.jpg
+- file: images/anseriformes/anatidae/anas-sparsa/4.jpg
+  page: https://www.inaturalist.org/photos/647875761
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647875761/original.jpg
+- file: images/anseriformes/anatidae/anas-sparsa/5.jpg
+  page: https://www.inaturalist.org/photos/647818093
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647818093/original.jpg
 ---
 
 

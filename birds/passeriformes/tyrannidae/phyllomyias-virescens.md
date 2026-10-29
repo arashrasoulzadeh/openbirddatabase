@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/phyllomyias-virescens/1.jpg
+  page: https://www.inaturalist.org/photos/719420444
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719420444/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/phyllomyias-virescens/1.jpg
+  page: https://www.inaturalist.org/photos/719420444
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719420444/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-virescens/2.jpg
+  page: https://www.inaturalist.org/photos/509705837
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509705837/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-virescens/3.jpg
+  page: https://www.inaturalist.org/photos/559577160
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559577160/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-virescens/4.jpg
+  page: https://www.inaturalist.org/photos/277848453
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/277848453/original.jpeg
+- file: images/passeriformes/tyrannidae/phyllomyias-virescens/5.jpg
+  page: https://www.inaturalist.org/photos/429068319
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429068319/original.jpg
 ---
 
 

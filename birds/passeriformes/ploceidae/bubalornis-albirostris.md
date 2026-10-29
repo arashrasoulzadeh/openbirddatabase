@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/ploceidae/bubalornis-albirostris/1.jpg
+  page: https://www.inaturalist.org/photos/612792997
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612792997/original.jpg
+images:
+- file: images/passeriformes/ploceidae/bubalornis-albirostris/1.jpg
+  page: https://www.inaturalist.org/photos/612792997
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612792997/original.jpg
+- file: images/passeriformes/ploceidae/bubalornis-albirostris/2.jpg
+  page: https://www.inaturalist.org/photos/628117066
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628117066/original.jpg
+- file: images/passeriformes/ploceidae/bubalornis-albirostris/3.jpg
+  page: https://www.inaturalist.org/photos/471408263
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471408263/original.jpg
+- file: images/passeriformes/ploceidae/bubalornis-albirostris/4.jpg
+  page: https://www.inaturalist.org/photos/584922523
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584922523/original.jpg
+- file: images/passeriformes/ploceidae/bubalornis-albirostris/5.jpg
+  page: https://www.inaturalist.org/photos/349722137
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349722137/original.jpeg
 ---
 
 

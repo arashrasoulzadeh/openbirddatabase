@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/patagioenas-nigrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/611120191
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611120191/original.jpg
+images:
+- file: images/columbiformes/columbidae/patagioenas-nigrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/611120191
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611120191/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-nigrirostris/2.jpg
+  page: https://www.inaturalist.org/photos/634709851
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634709851/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-nigrirostris/3.jpg
+  page: https://www.inaturalist.org/photos/648116606
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648116606/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-nigrirostris/4.jpg
+  page: https://www.inaturalist.org/photos/638626809
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638626809/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-nigrirostris/5.jpg
+  page: https://www.inaturalist.org/photos/645671004
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645671004/original.jpg
 ---
 
 

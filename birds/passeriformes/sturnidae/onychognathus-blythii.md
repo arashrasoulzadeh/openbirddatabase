@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/onychognathus-blythii/1.jpg
+  page: https://www.inaturalist.org/photos/632693589
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632693589/original.jpg
+images:
+- file: images/passeriformes/sturnidae/onychognathus-blythii/1.jpg
+  page: https://www.inaturalist.org/photos/632693589
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632693589/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-blythii/2.jpg
+  page: https://www.inaturalist.org/photos/344424761
+  author: Arabella Willing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344424761/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-blythii/3.jpg
+  page: https://www.inaturalist.org/photos/336780397
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336780397/original.jpeg
+- file: images/passeriformes/sturnidae/onychognathus-blythii/4.jpg
+  page: https://www.inaturalist.org/photos/177674116
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177674116/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-blythii/5.jpg
+  page: https://www.inaturalist.org/photos/88536210
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/88536210/original.jpeg
 ---
 
 

@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/amandava-subflava/1.jpg
+  page: https://www.inaturalist.org/photos/724085563
+  author: ecovore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724085563/original.jpg
+images:
+- file: images/passeriformes/estrildidae/amandava-subflava/1.jpg
+  page: https://www.inaturalist.org/photos/724085563
+  author: ecovore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724085563/original.jpg
+- file: images/passeriformes/estrildidae/amandava-subflava/2.jpg
+  page: https://www.inaturalist.org/photos/582359501
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582359501/original.jpg
+- file: images/passeriformes/estrildidae/amandava-subflava/3.jpg
+  page: https://www.inaturalist.org/photos/597956609
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597956609/original.jpg
+- file: images/passeriformes/estrildidae/amandava-subflava/4.jpg
+  page: https://www.inaturalist.org/photos/353842555
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353842555/original.png
+- file: images/passeriformes/estrildidae/amandava-subflava/5.jpg
+  page: https://www.inaturalist.org/photos/394789606
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394789606/original.jpeg
 ---
 
 

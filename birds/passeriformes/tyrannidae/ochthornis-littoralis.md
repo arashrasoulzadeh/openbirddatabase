@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ochthornis-littoralis/1.jpg
+  page: https://www.inaturalist.org/photos/622142187
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622142187/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/ochthornis-littoralis/1.jpg
+  page: https://www.inaturalist.org/photos/622142187
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622142187/original.jpg
+- file: images/passeriformes/tyrannidae/ochthornis-littoralis/2.jpg
+  page: https://www.inaturalist.org/photos/731679497
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731679497/original.jpg
+- file: images/passeriformes/tyrannidae/ochthornis-littoralis/3.jpg
+  page: https://www.inaturalist.org/photos/467060444
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467060444/original.jpg
+- file: images/passeriformes/tyrannidae/ochthornis-littoralis/4.jpg
+  page: https://www.inaturalist.org/photos/475342080
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475342080/original.jpeg
+- file: images/passeriformes/tyrannidae/ochthornis-littoralis/5.jpg
+  page: https://www.inaturalist.org/photos/522181099
+  author: formicacid
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522181099/original.jpg
 ---
 
 

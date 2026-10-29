@@ -160,10 +160,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/accipitriformes/accipitridae/harpia-harpyja/1.jpg
+  page: https://www.inaturalist.org/photos/609576525
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576525/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/harpia-harpyja/1.jpg
+  page: https://www.inaturalist.org/photos/609576525
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576525/original.jpg
+- file: images/accipitriformes/accipitridae/harpia-harpyja/2.jpg
+  page: https://www.inaturalist.org/photos/616728329
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616728329/original.jpg
+- file: images/accipitriformes/accipitridae/harpia-harpyja/3.jpg
+  page: https://www.inaturalist.org/photos/637183444
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637183444/original.jpg
+- file: images/accipitriformes/accipitridae/harpia-harpyja/4.jpg
+  page: https://www.inaturalist.org/photos/642179291
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642179291/original.jpg
+- file: images/accipitriformes/accipitridae/harpia-harpyja/5.jpg
+  page: https://www.inaturalist.org/photos/679968891
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679968891/original.jpg
 ---
 
 

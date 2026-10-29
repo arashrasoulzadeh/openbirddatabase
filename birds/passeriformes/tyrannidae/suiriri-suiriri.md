@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/suiriri-suiriri/1.jpg
+  page: https://www.inaturalist.org/photos/607784748
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784748/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/suiriri-suiriri/1.jpg
+  page: https://www.inaturalist.org/photos/607784748
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784748/original.jpg
+- file: images/passeriformes/tyrannidae/suiriri-suiriri/2.jpg
+  page: https://www.inaturalist.org/photos/616002380
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616002380/original.jpg
+- file: images/passeriformes/tyrannidae/suiriri-suiriri/3.jpg
+  page: https://www.inaturalist.org/photos/623921891
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623921891/original.jpg
+- file: images/passeriformes/tyrannidae/suiriri-suiriri/4.jpg
+  page: https://www.inaturalist.org/photos/658271069
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658271069/original.jpg
+- file: images/passeriformes/tyrannidae/suiriri-suiriri/5.jpg
+  page: https://www.inaturalist.org/photos/629433938
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629433938/original.jpg
 ---
 
 

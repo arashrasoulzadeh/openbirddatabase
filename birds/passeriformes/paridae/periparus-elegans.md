@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 11.5
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 61.2
   tail_length_mm: 38.5
   body_mass_g: 12.8
+image:
+  file: images/passeriformes/paridae/periparus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/644194447
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644194447/original.jpg
+images:
+- file: images/passeriformes/paridae/periparus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/644194447
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644194447/original.jpg
+- file: images/passeriformes/paridae/periparus-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/685707341
+  author: Mark Bulahao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685707341/original.jpg
+- file: images/passeriformes/paridae/periparus-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/644194979
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644194979/original.jpg
+- file: images/passeriformes/paridae/periparus-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/644195208
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644195208/original.jpg
+- file: images/passeriformes/paridae/periparus-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/644195420
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644195420/original.jpg
 ---
 
 

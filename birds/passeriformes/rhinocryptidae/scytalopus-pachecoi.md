@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-pachecoi/1.jpg
+  page: https://www.inaturalist.org/photos/647208482
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647208482/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-pachecoi/1.jpg
+  page: https://www.inaturalist.org/photos/647208482
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647208482/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-pachecoi/2.jpg
+  page: https://www.inaturalist.org/photos/730699989
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730699989/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-pachecoi/3.jpg
+  page: https://www.inaturalist.org/photos/429711377
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429711377/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-pachecoi/4.jpg
+  page: https://www.inaturalist.org/photos/198949395
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198949395/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-pachecoi/5.jpg
+  page: https://www.inaturalist.org/photos/597540175
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597540175/original.jpg
 ---
 
 

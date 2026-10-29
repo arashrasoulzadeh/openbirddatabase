@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/arachnothera-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/476580152
+  author: Joss Carr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476580152/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/arachnothera-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/476580152
+  author: Joss Carr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476580152/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-everetti/2.jpg
+  page: https://www.inaturalist.org/photos/482112412
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482112412/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-everetti/3.jpg
+  page: https://www.inaturalist.org/photos/525702301
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525702301/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-everetti/4.jpg
+  page: https://www.inaturalist.org/photos/572077448
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077448/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-everetti/5.jpg
+  page: https://www.inaturalist.org/photos/577946840
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577946840/original.jpg
 ---
 
 

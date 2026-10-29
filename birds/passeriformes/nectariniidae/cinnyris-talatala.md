@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-talatala/1.jpg
+  page: https://www.inaturalist.org/photos/734260710
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734260710/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-talatala/1.jpg
+  page: https://www.inaturalist.org/photos/734260710
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734260710/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-talatala/2.jpg
+  page: https://www.inaturalist.org/photos/682156147
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682156147/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-talatala/3.jpg
+  page: https://www.inaturalist.org/photos/682599738
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682599738/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-talatala/4.jpg
+  page: https://www.inaturalist.org/photos/681660381
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681660381/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-talatala/5.jpg
+  page: https://www.inaturalist.org/photos/681660280
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681660280/original.jpg
 ---
 
 

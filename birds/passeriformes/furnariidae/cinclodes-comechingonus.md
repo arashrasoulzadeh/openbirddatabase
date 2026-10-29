@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cinclodes-comechingonus/1.jpg
+  page: https://www.inaturalist.org/photos/494326389
+  author: Jose Luis Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/494326389/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/cinclodes-comechingonus/1.jpg
+  page: https://www.inaturalist.org/photos/494326389
+  author: Jose Luis Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/494326389/original.jpeg
+- file: images/passeriformes/furnariidae/cinclodes-comechingonus/2.jpg
+  page: https://www.inaturalist.org/photos/599836038
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599836038/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-comechingonus/3.jpg
+  page: https://www.inaturalist.org/photos/351637761
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351637761/original.jpeg
+- file: images/passeriformes/furnariidae/cinclodes-comechingonus/4.jpg
+  page: https://www.inaturalist.org/photos/407822090
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407822090/original.jpeg
+- file: images/passeriformes/furnariidae/cinclodes-comechingonus/5.jpg
+  page: https://www.inaturalist.org/photos/434973677
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434973677/original.jpeg
 ---
 
 

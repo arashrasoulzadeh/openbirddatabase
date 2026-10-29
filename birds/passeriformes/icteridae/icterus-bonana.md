@@ -152,8 +152,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-bonana/1.jpg
+  page: https://www.inaturalist.org/photos/215411820
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/215411820/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-bonana/1.jpg
+  page: https://www.inaturalist.org/photos/215411820
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/215411820/original.jpg
+- file: images/passeriformes/icteridae/icterus-bonana/2.jpg
+  page: https://www.inaturalist.org/photos/215411828
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/215411828/original.jpg
+- file: images/passeriformes/icteridae/icterus-bonana/3.jpg
+  page: https://www.inaturalist.org/photos/215411824
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/215411824/original.jpg
 ---
 
 

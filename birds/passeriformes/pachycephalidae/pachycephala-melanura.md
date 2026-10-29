@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-melanura/1.jpg
+  page: https://www.inaturalist.org/photos/582199541
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582199541/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-melanura/1.jpg
+  page: https://www.inaturalist.org/photos/582199541
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582199541/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-melanura/2.jpg
+  page: https://www.inaturalist.org/photos/434624719
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434624719/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-melanura/3.jpg
+  page: https://www.inaturalist.org/photos/322679927
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322679927/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-melanura/4.jpg
+  page: https://www.inaturalist.org/photos/333031624
+  author: pimelea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333031624/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-melanura/5.jpg
+  page: https://www.inaturalist.org/photos/337788168
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337788168/original.jpeg
 ---
 
 

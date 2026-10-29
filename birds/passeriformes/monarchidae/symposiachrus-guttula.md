@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/monarchidae/symposiachrus-guttula/1.jpg
+  page: https://www.inaturalist.org/photos/698243488
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698243488/original.jpg
+images:
+- file: images/passeriformes/monarchidae/symposiachrus-guttula/1.jpg
+  page: https://www.inaturalist.org/photos/698243488
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698243488/original.jpg
+- file: images/passeriformes/monarchidae/symposiachrus-guttula/2.jpg
+  page: https://www.inaturalist.org/photos/690113573
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690113573/original.jpg
+- file: images/passeriformes/monarchidae/symposiachrus-guttula/3.jpg
+  page: https://www.inaturalist.org/photos/338538128
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338538128/original.jpg
+- file: images/passeriformes/monarchidae/symposiachrus-guttula/4.jpg
+  page: https://www.inaturalist.org/photos/698243494
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698243494/original.jpg
+- file: images/passeriformes/monarchidae/symposiachrus-guttula/5.jpg
+  page: https://www.inaturalist.org/photos/698243497
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698243497/original.jpg
 ---
 
 

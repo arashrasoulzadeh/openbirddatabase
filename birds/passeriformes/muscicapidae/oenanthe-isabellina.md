@@ -204,8 +204,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-isabellina/1.jpg
+  page: https://www.inaturalist.org/photos/614521366
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614521366/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-isabellina/1.jpg
+  page: https://www.inaturalist.org/photos/614521366
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614521366/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-isabellina/2.jpg
+  page: https://www.inaturalist.org/photos/616865968
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616865968/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-isabellina/3.jpg
+  page: https://www.inaturalist.org/photos/622844665
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622844665/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-isabellina/4.jpg
+  page: https://www.inaturalist.org/photos/633267832
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633267832/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-isabellina/5.jpg
+  page: https://www.inaturalist.org/photos/684090808
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684090808/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cinclosomatidae/cinclosoma-cinnamomeum/1.jpg
+  page: https://www.inaturalist.org/photos/745055088
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745055088/original.jpg
+images:
+- file: images/passeriformes/cinclosomatidae/cinclosoma-cinnamomeum/1.jpg
+  page: https://www.inaturalist.org/photos/745055088
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745055088/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-cinnamomeum/2.jpg
+  page: https://www.inaturalist.org/photos/539367127
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539367127/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-cinnamomeum/3.jpg
+  page: https://www.inaturalist.org/photos/560837637
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560837637/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-cinnamomeum/4.jpg
+  page: https://www.inaturalist.org/photos/129947203
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129947203/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-cinnamomeum/5.jpg
+  page: https://www.inaturalist.org/photos/745057335
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745057335/original.jpg
 ---
 
 

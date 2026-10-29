@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/campocolinus-coqui/1.jpg
+  page: https://www.inaturalist.org/photos/682491164
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682491164/original.jpg
+images:
+- file: images/galliformes/phasianidae/campocolinus-coqui/1.jpg
+  page: https://www.inaturalist.org/photos/682491164
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682491164/original.jpg
+- file: images/galliformes/phasianidae/campocolinus-coqui/2.jpg
+  page: https://www.inaturalist.org/photos/726369913
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726369913/original.jpg
+- file: images/galliformes/phasianidae/campocolinus-coqui/3.jpg
+  page: https://www.inaturalist.org/photos/719658009
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719658009/original.jpg
+- file: images/galliformes/phasianidae/campocolinus-coqui/4.jpg
+  page: https://www.inaturalist.org/photos/513045907
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513045907/original.jpg
+- file: images/galliformes/phasianidae/campocolinus-coqui/5.jpg
+  page: https://www.inaturalist.org/photos/553252080
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553252080/original.jpg
 ---
 
 

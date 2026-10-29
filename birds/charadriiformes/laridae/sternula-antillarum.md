@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/charadriiformes/laridae/sternula-antillarum/1.jpg
+  page: https://www.inaturalist.org/photos/616497011
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616497011/original.jpg
+images:
+- file: images/charadriiformes/laridae/sternula-antillarum/1.jpg
+  page: https://www.inaturalist.org/photos/616497011
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616497011/original.jpg
+- file: images/charadriiformes/laridae/sternula-antillarum/2.jpg
+  page: https://www.inaturalist.org/photos/630201195
+  author: Jackie T
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630201195/original.jpg
+- file: images/charadriiformes/laridae/sternula-antillarum/3.jpg
+  page: https://www.inaturalist.org/photos/630193388
+  author: Melissa Meadows
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630193388/original.jpg
+- file: images/charadriiformes/laridae/sternula-antillarum/4.jpg
+  page: https://www.inaturalist.org/photos/641472477
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641472477/original.jpg
+- file: images/charadriiformes/laridae/sternula-antillarum/5.jpg
+  page: https://www.inaturalist.org/photos/639911276
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639911276/original.jpg
 ---
 
 

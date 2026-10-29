@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/phytotoma-rara/1.jpg
+  page: https://www.inaturalist.org/photos/605657386
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657386/original.jpg
+images:
+- file: images/passeriformes/cotingidae/phytotoma-rara/1.jpg
+  page: https://www.inaturalist.org/photos/605657386
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657386/original.jpg
+- file: images/passeriformes/cotingidae/phytotoma-rara/2.jpg
+  page: https://www.inaturalist.org/photos/608821819
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608821819/original.jpg
+- file: images/passeriformes/cotingidae/phytotoma-rara/3.jpg
+  page: https://www.inaturalist.org/photos/609426026
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609426026/original.jpg
+- file: images/passeriformes/cotingidae/phytotoma-rara/4.jpg
+  page: https://www.inaturalist.org/photos/612744427
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612744427/original.jpg
+- file: images/passeriformes/cotingidae/phytotoma-rara/5.jpg
+  page: https://www.inaturalist.org/photos/616048822
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616048822/original.jpg
 ---
 
 

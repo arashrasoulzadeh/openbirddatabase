@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-sindianus/1.jpg
+  page: https://www.inaturalist.org/photos/667080451
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667080451/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-sindianus/1.jpg
+  page: https://www.inaturalist.org/photos/667080451
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667080451/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-sindianus/2.jpg
+  page: https://www.inaturalist.org/photos/693407707
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693407707/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-sindianus/3.jpg
+  page: https://www.inaturalist.org/photos/536034334
+  author: Юлия Захаренко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536034334/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-sindianus/4.jpg
+  page: https://www.inaturalist.org/photos/575538685
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575538685/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-sindianus/5.jpg
+  page: https://www.inaturalist.org/photos/578798885
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578798885/original.jpg
 ---
 
 

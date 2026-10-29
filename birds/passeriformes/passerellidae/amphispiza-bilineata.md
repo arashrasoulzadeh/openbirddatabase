@@ -152,10 +152,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/passerellidae/amphispiza-bilineata/1.jpg
+  page: https://www.inaturalist.org/photos/609991652
+  author: Mauricio Calderón
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609991652/original.jpg
+images:
+- file: images/passeriformes/passerellidae/amphispiza-bilineata/1.jpg
+  page: https://www.inaturalist.org/photos/609991652
+  author: Mauricio Calderón
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609991652/original.jpg
+- file: images/passeriformes/passerellidae/amphispiza-bilineata/2.jpg
+  page: https://www.inaturalist.org/photos/610506315
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610506315/original.jpg
+- file: images/passeriformes/passerellidae/amphispiza-bilineata/3.jpg
+  page: https://www.inaturalist.org/photos/609342279
+  author: Rick_Larimore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609342279/original.jpg
+- file: images/passeriformes/passerellidae/amphispiza-bilineata/4.jpg
+  page: https://www.inaturalist.org/photos/609342278
+  author: Rick_Larimore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609342278/original.jpg
 ---
 
 

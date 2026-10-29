@@ -126,7 +126,8 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.6
@@ -136,6 +137,44 @@ morphology:
   body_mass_g: 16.0
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/thraupidae/camarhynchus-pauper/1.jpg
+  page: https://www.inaturalist.org/photos/611951220
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611951220/original.jpg
+images:
+- file: images/passeriformes/thraupidae/camarhynchus-pauper/1.jpg
+  page: https://www.inaturalist.org/photos/611951220
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611951220/original.jpg
+- file: images/passeriformes/thraupidae/camarhynchus-pauper/2.jpg
+  page: https://www.inaturalist.org/photos/109961687
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109961687/original.jpeg
+- file: images/passeriformes/thraupidae/camarhynchus-pauper/3.jpg
+  page: https://www.inaturalist.org/photos/37626869
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/37626869/original.jpg
+- file: images/passeriformes/thraupidae/camarhynchus-pauper/4.jpg
+  page: https://www.inaturalist.org/photos/339146123
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339146123/original.jpg
+- file: images/passeriformes/thraupidae/camarhynchus-pauper/5.jpg
+  page: https://www.inaturalist.org/photos/611951292
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611951292/original.jpg
 ---
 
 

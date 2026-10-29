@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-tsavoensis/1.jpg
+  page: https://www.inaturalist.org/photos/589247019
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589247019/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-tsavoensis/1.jpg
+  page: https://www.inaturalist.org/photos/589247019
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589247019/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-tsavoensis/2.jpg
+  page: https://www.inaturalist.org/photos/432739255
+  author: Nikhil R R
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/432739255/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-tsavoensis/3.jpg
+  page: https://www.inaturalist.org/photos/448334182
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448334182/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-tsavoensis/4.jpg
+  page: https://www.inaturalist.org/photos/477968343
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477968343/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-tsavoensis/5.jpg
+  page: https://www.inaturalist.org/photos/432739210
+  author: Nikhil R R
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/432739210/original.jpeg
 ---
 
 

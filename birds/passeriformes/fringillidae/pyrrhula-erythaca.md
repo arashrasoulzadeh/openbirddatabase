@@ -145,8 +145,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/pyrrhula-erythaca/1.jpg
+  page: https://www.inaturalist.org/photos/484452377
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484452377/original.jpg
+images:
+- file: images/passeriformes/fringillidae/pyrrhula-erythaca/1.jpg
+  page: https://www.inaturalist.org/photos/484452377
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484452377/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-erythaca/2.jpg
+  page: https://www.inaturalist.org/photos/519759058
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759058/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-erythaca/3.jpg
+  page: https://www.inaturalist.org/photos/519759085
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759085/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-erythaca/4.jpg
+  page: https://www.inaturalist.org/photos/519759283
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759283/original.jpg
 ---
 
 

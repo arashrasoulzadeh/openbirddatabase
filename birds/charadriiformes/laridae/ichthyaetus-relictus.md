@@ -131,7 +131,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 47.5
@@ -143,6 +144,44 @@ reproduction:
   clutch_size_mean: 2.7
 demography:
   max_longevity_years: 22
+image:
+  file: images/charadriiformes/laridae/ichthyaetus-relictus/1.jpg
+  page: https://www.inaturalist.org/photos/667080624
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667080624/original.jpg
+images:
+- file: images/charadriiformes/laridae/ichthyaetus-relictus/1.jpg
+  page: https://www.inaturalist.org/photos/667080624
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667080624/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-relictus/2.jpg
+  page: https://www.inaturalist.org/photos/705026333
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705026333/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-relictus/3.jpg
+  page: https://www.inaturalist.org/photos/722322288
+  author: Graham Whittaker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722322288/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-relictus/4.jpg
+  page: https://www.inaturalist.org/photos/597680745
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597680745/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-relictus/5.jpg
+  page: https://www.inaturalist.org/photos/302249107
+  author: Dmitry Boldyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/302249107/original.jpeg
 ---
 
 

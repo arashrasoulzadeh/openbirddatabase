@@ -142,8 +142,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/poicephalus-flavifrons/1.jpg
+  page: https://www.inaturalist.org/photos/608568824
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608568824/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/poicephalus-flavifrons/1.jpg
+  page: https://www.inaturalist.org/photos/608568824
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608568824/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-flavifrons/2.jpg
+  page: https://www.inaturalist.org/photos/608568823
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608568823/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-flavifrons/3.jpg
+  page: https://www.inaturalist.org/photos/608267223
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608267223/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-flavifrons/4.jpg
+  page: https://www.inaturalist.org/photos/612296291
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612296291/original.jpg
 ---
 
 

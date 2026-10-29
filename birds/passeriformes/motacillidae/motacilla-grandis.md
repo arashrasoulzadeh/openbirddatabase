@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/motacilla-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/604511961
+  author: yajapin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604511961/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/604511961
+  author: yajapin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604511961/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-grandis/2.jpg
+  page: https://www.inaturalist.org/photos/604993814
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604993814/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-grandis/3.jpg
+  page: https://www.inaturalist.org/photos/607666443
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607666443/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-grandis/4.jpg
+  page: https://www.inaturalist.org/photos/607641352
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607641352/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-grandis/5.jpg
+  page: https://www.inaturalist.org/photos/608105427
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608105427/original.jpg
 ---
 
 

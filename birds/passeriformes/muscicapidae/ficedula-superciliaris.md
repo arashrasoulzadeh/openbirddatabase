@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/609527431
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609527431/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/609527431
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609527431/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/621368211
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621368211/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/636508169
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636508169/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/637691590
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637691590/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/517122736
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517122736/original.jpg
 ---
 
 

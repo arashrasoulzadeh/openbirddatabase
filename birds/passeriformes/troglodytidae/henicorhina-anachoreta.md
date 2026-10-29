@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/henicorhina-anachoreta/1.jpg
+  page: https://www.inaturalist.org/photos/468142853
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468142853/original.jpeg
+images:
+- file: images/passeriformes/troglodytidae/henicorhina-anachoreta/1.jpg
+  page: https://www.inaturalist.org/photos/468142853
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468142853/original.jpeg
+- file: images/passeriformes/troglodytidae/henicorhina-anachoreta/2.jpg
+  page: https://www.inaturalist.org/photos/465409046
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465409046/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-anachoreta/3.jpg
+  page: https://www.inaturalist.org/photos/257721445
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257721445/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-anachoreta/4.jpg
+  page: https://www.inaturalist.org/photos/285525968
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285525968/original.jpeg
+- file: images/passeriformes/troglodytidae/henicorhina-anachoreta/5.jpg
+  page: https://www.inaturalist.org/photos/316403337
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316403337/original.jpeg
 ---
 
 

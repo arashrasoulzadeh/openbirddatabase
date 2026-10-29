@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/pernis-celebensis/1.jpg
+  page: https://www.inaturalist.org/photos/129077053
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129077053/original.jpeg
+images:
+- file: images/accipitriformes/accipitridae/pernis-celebensis/1.jpg
+  page: https://www.inaturalist.org/photos/129077053
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129077053/original.jpeg
+- file: images/accipitriformes/accipitridae/pernis-celebensis/2.jpg
+  page: https://www.inaturalist.org/photos/718681548
+  author: Fionn Ó Marcaigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718681548/original.jpg
+- file: images/accipitriformes/accipitridae/pernis-celebensis/3.jpg
+  page: https://www.inaturalist.org/photos/64408570
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408570/original.jpg
+- file: images/accipitriformes/accipitridae/pernis-celebensis/4.jpg
+  page: https://www.inaturalist.org/photos/129075769
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129075769/original.jpeg
+- file: images/accipitriformes/accipitridae/pernis-celebensis/5.jpg
+  page: https://www.inaturalist.org/photos/129075796
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129075796/original.jpeg
 ---
 
 

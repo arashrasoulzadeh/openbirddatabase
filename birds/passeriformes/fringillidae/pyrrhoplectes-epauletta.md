@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/pyrrhoplectes-epauletta/1.jpg
+  page: https://www.inaturalist.org/photos/512688464
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512688464/original.jpg
+images:
+- file: images/passeriformes/fringillidae/pyrrhoplectes-epauletta/1.jpg
+  page: https://www.inaturalist.org/photos/512688464
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512688464/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhoplectes-epauletta/2.jpg
+  page: https://www.inaturalist.org/photos/514007699
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514007699/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhoplectes-epauletta/3.jpg
+  page: https://www.inaturalist.org/photos/199121797
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199121797/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhoplectes-epauletta/4.jpg
+  page: https://www.inaturalist.org/photos/395651090
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651090/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhoplectes-epauletta/5.jpg
+  page: https://www.inaturalist.org/photos/514007667
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514007667/original.jpg
 ---
 
 

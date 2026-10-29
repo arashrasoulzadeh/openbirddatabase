@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/eremomela-icteropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/610143512
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610143512/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/eremomela-icteropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/610143512
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610143512/original.jpg
+- file: images/passeriformes/cisticolidae/eremomela-icteropygialis/2.jpg
+  page: https://www.inaturalist.org/photos/617151094
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617151094/original.jpg
+- file: images/passeriformes/cisticolidae/eremomela-icteropygialis/3.jpg
+  page: https://www.inaturalist.org/photos/717963313
+  author: Stefan Wolmarans
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717963313/original.jpg
+- file: images/passeriformes/cisticolidae/eremomela-icteropygialis/4.jpg
+  page: https://www.inaturalist.org/photos/487890431
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487890431/original.jpg
+- file: images/passeriformes/cisticolidae/eremomela-icteropygialis/5.jpg
+  page: https://www.inaturalist.org/photos/509240078
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509240078/original.jpg
 ---
 
 

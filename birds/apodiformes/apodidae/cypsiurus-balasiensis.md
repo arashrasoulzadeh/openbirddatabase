@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/cypsiurus-balasiensis/1.jpg
+  page: https://www.inaturalist.org/photos/610335493
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610335493/original.jpg
+images:
+- file: images/apodiformes/apodidae/cypsiurus-balasiensis/1.jpg
+  page: https://www.inaturalist.org/photos/610335493
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610335493/original.jpg
+- file: images/apodiformes/apodidae/cypsiurus-balasiensis/2.jpg
+  page: https://www.inaturalist.org/photos/612437163
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612437163/original.jpg
+- file: images/apodiformes/apodidae/cypsiurus-balasiensis/3.jpg
+  page: https://www.inaturalist.org/photos/616037718
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616037718/original.jpg
+- file: images/apodiformes/apodidae/cypsiurus-balasiensis/4.jpg
+  page: https://www.inaturalist.org/photos/621824809
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621824809/original.jpg
+- file: images/apodiformes/apodidae/cypsiurus-balasiensis/5.jpg
+  page: https://www.inaturalist.org/photos/613240383
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613240383/original.jpg
 ---
 
 

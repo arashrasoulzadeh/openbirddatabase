@@ -134,10 +134,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/cichlocolaptes-leucophrus/1.jpg
+  page: https://www.inaturalist.org/photos/729155758
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729155758/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cichlocolaptes-leucophrus/1.jpg
+  page: https://www.inaturalist.org/photos/729155758
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729155758/original.jpg
+- file: images/passeriformes/furnariidae/cichlocolaptes-leucophrus/2.jpg
+  page: https://www.inaturalist.org/photos/689636044
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689636044/original.jpg
+- file: images/passeriformes/furnariidae/cichlocolaptes-leucophrus/3.jpg
+  page: https://www.inaturalist.org/photos/589880058
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589880058/original.jpg
+- file: images/passeriformes/furnariidae/cichlocolaptes-leucophrus/4.jpg
+  page: https://www.inaturalist.org/photos/416717395
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416717395/original.jpg
+- file: images/passeriformes/furnariidae/cichlocolaptes-leucophrus/5.jpg
+  page: https://www.inaturalist.org/photos/224824305
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224824305/original.jpg
 ---
 
 

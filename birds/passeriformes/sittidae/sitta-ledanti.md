@@ -138,8 +138,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-ledanti/1.jpg
+  page: https://www.inaturalist.org/photos/642637365
+  author: Mehdi Chetibi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642637365/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-ledanti/1.jpg
+  page: https://www.inaturalist.org/photos/642637365
+  author: Mehdi Chetibi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642637365/original.jpg
+- file: images/passeriformes/sittidae/sitta-ledanti/2.jpg
+  page: https://www.inaturalist.org/photos/667421381
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667421381/original.jpg
+- file: images/passeriformes/sittidae/sitta-ledanti/3.jpg
+  page: https://www.inaturalist.org/photos/548404490
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548404490/original.jpg
+- file: images/passeriformes/sittidae/sitta-ledanti/4.jpg
+  page: https://www.inaturalist.org/photos/667421336
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667421336/original.jpg
+- file: images/passeriformes/sittidae/sitta-ledanti/5.jpg
+  page: https://www.inaturalist.org/photos/667421412
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667421412/original.jpg
 ---
 
 

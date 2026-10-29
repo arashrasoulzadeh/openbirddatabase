@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/conopophagidae/conopophaga-cearae/1.jpg
+  page: https://www.inaturalist.org/photos/591071161
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591071161/original.jpg
+images:
+- file: images/passeriformes/conopophagidae/conopophaga-cearae/1.jpg
+  page: https://www.inaturalist.org/photos/591071161
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591071161/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-cearae/2.jpg
+  page: https://www.inaturalist.org/photos/362998228
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362998228/original.jpeg
+- file: images/passeriformes/conopophagidae/conopophaga-cearae/3.jpg
+  page: https://www.inaturalist.org/photos/464737439
+  author: Salomão Janderson Ferreira Bispo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464737439/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-cearae/4.jpg
+  page: https://www.inaturalist.org/photos/343571096
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343571096/original.jpeg
+- file: images/passeriformes/conopophagidae/conopophaga-cearae/5.jpg
+  page: https://www.inaturalist.org/photos/418625021
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418625021/original.jpg
 ---
 
 

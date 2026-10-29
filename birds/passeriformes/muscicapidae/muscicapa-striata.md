@@ -212,10 +212,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/muscicapidae/muscicapa-striata/1.jpg
+  page: https://www.inaturalist.org/photos/611840622
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611840622/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/muscicapa-striata/1.jpg
+  page: https://www.inaturalist.org/photos/611840622
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611840622/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-striata/2.jpg
+  page: https://www.inaturalist.org/photos/650458904
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650458904/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-striata/3.jpg
+  page: https://www.inaturalist.org/photos/615507026
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615507026/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-striata/4.jpg
+  page: https://www.inaturalist.org/photos/618041617
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618041617/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-striata/5.jpg
+  page: https://www.inaturalist.org/photos/618740724
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618740724/original.jpg
 ---
 
 

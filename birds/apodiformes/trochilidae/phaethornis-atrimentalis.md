@@ -143,8 +143,23 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-atrimentalis/1.jpg
+  page: https://www.inaturalist.org/photos/315599944
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/315599944/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-atrimentalis/1.jpg
+  page: https://www.inaturalist.org/photos/315599944
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/315599944/original.jpg
 ---
 
 

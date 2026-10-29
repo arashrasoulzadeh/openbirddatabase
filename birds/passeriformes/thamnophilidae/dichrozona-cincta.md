@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/dichrozona-cincta/1.jpg
+  page: https://www.inaturalist.org/photos/610588948
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610588948/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/dichrozona-cincta/1.jpg
+  page: https://www.inaturalist.org/photos/610588948
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610588948/original.jpg
+- file: images/passeriformes/thamnophilidae/dichrozona-cincta/2.jpg
+  page: https://www.inaturalist.org/photos/402012674
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402012674/original.jpg
+- file: images/passeriformes/thamnophilidae/dichrozona-cincta/3.jpg
+  page: https://www.inaturalist.org/photos/159921938
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/159921938/original.jpeg
+- file: images/passeriformes/thamnophilidae/dichrozona-cincta/4.jpg
+  page: https://www.inaturalist.org/photos/610590199
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610590199/original.jpg
+- file: images/passeriformes/thamnophilidae/dichrozona-cincta/5.jpg
+  page: https://www.inaturalist.org/photos/610590207
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610590207/original.jpg
 ---
 
 

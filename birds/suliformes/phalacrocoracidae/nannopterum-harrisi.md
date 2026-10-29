@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/nannopterum-harrisi/1.jpg
+  page: https://www.inaturalist.org/photos/683934220
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683934220/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/nannopterum-harrisi/1.jpg
+  page: https://www.inaturalist.org/photos/683934220
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683934220/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-harrisi/2.jpg
+  page: https://www.inaturalist.org/photos/701150226
+  author: hitchco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701150226/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-harrisi/3.jpg
+  page: https://www.inaturalist.org/photos/702962132
+  author: Edwin Wilke
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702962132/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-harrisi/4.jpg
+  page: https://www.inaturalist.org/photos/466417947
+  author: Theo Summer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466417947/original.jpeg
+- file: images/suliformes/phalacrocoracidae/nannopterum-harrisi/5.jpg
+  page: https://www.inaturalist.org/photos/469105998
+  author: miked2000
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469105998/original.jpg
 ---
 
 

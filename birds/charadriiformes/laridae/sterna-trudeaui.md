@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sterna-trudeaui/1.jpg
+  page: https://www.inaturalist.org/photos/608943245
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608943245/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-trudeaui/1.jpg
+  page: https://www.inaturalist.org/photos/608943245
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608943245/original.jpg
+- file: images/charadriiformes/laridae/sterna-trudeaui/2.jpg
+  page: https://www.inaturalist.org/photos/607029333
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607029333/original.jpg
+- file: images/charadriiformes/laridae/sterna-trudeaui/3.jpg
+  page: https://www.inaturalist.org/photos/612773194
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612773194/original.jpg
+- file: images/charadriiformes/laridae/sterna-trudeaui/4.jpg
+  page: https://www.inaturalist.org/photos/615399617
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615399617/original.jpg
+- file: images/charadriiformes/laridae/sterna-trudeaui/5.jpg
+  page: https://www.inaturalist.org/photos/629263719
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629263719/original.jpg
 ---
 
 

@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-pelios/1.jpg
+  page: https://www.inaturalist.org/photos/612435331
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612435331/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-pelios/1.jpg
+  page: https://www.inaturalist.org/photos/612435331
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612435331/original.jpg
+- file: images/passeriformes/turdidae/turdus-pelios/2.jpg
+  page: https://www.inaturalist.org/photos/619026672
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619026672/original.jpg
+- file: images/passeriformes/turdidae/turdus-pelios/3.jpg
+  page: https://www.inaturalist.org/photos/637754207
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637754207/original.jpg
+- file: images/passeriformes/turdidae/turdus-pelios/4.jpg
+  page: https://www.inaturalist.org/photos/612435313
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612435313/original.jpg
+- file: images/passeriformes/turdidae/turdus-pelios/5.jpg
+  page: https://www.inaturalist.org/photos/612435316
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612435316/original.jpg
 ---
 
 

@@ -132,8 +132,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/amytornis-oweni/1.jpg
+  page: https://www.inaturalist.org/photos/446167673
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446167673/original.jpg
+images:
+- file: images/passeriformes/maluridae/amytornis-oweni/1.jpg
+  page: https://www.inaturalist.org/photos/446167673
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446167673/original.jpg
+- file: images/passeriformes/maluridae/amytornis-oweni/2.jpg
+  page: https://www.inaturalist.org/photos/154781969
+  author: Gavin Goodyear
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/154781969/original.jpg
+- file: images/passeriformes/maluridae/amytornis-oweni/3.jpg
+  page: https://www.inaturalist.org/photos/446167806
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446167806/original.jpg
 ---
 
 

@@ -139,7 +139,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 21.5
@@ -147,6 +148,44 @@ morphology:
   wing_length_mm: 51.8
   tail_length_mm: 35.8
   body_mass_g: 8.2
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-usambaricus/1.jpg
+  page: https://www.inaturalist.org/photos/588304112
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588304112/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-usambaricus/1.jpg
+  page: https://www.inaturalist.org/photos/588304112
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588304112/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-usambaricus/2.jpg
+  page: https://www.inaturalist.org/photos/477452279
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477452279/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-usambaricus/3.jpg
+  page: https://www.inaturalist.org/photos/588649214
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588649214/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-usambaricus/4.jpg
+  page: https://www.inaturalist.org/photos/588018903
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588018903/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-usambaricus/5.jpg
+  page: https://www.inaturalist.org/photos/588018921
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588018921/original.jpg
 ---
 
 

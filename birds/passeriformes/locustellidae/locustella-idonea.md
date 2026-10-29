@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/locustella-idonea/1.jpg
+  page: https://www.inaturalist.org/photos/631329589
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631329589/original.jpg
+images:
+- file: images/passeriformes/locustellidae/locustella-idonea/1.jpg
+  page: https://www.inaturalist.org/photos/631329589
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631329589/original.jpg
+- file: images/passeriformes/locustellidae/locustella-idonea/2.jpg
+  page: https://www.inaturalist.org/photos/389835689
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/389835689/original.jpg
+- file: images/passeriformes/locustellidae/locustella-idonea/3.jpg
+  page: https://www.inaturalist.org/photos/385765784
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385765784/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-idonea/4.jpg
+  page: https://www.inaturalist.org/photos/105772545
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105772545/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-idonea/5.jpg
+  page: https://www.inaturalist.org/photos/389835687
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/389835687/original.jpg
 ---
 
 

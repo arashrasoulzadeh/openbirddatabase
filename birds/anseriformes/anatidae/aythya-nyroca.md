@@ -207,10 +207,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/anseriformes/anatidae/aythya-nyroca/1.jpg
+  page: https://www.inaturalist.org/photos/605085860
+  author: Margherita Ferraiuolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605085860/original.jpg
+images:
+- file: images/anseriformes/anatidae/aythya-nyroca/1.jpg
+  page: https://www.inaturalist.org/photos/605085860
+  author: Margherita Ferraiuolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605085860/original.jpg
+- file: images/anseriformes/anatidae/aythya-nyroca/2.jpg
+  page: https://www.inaturalist.org/photos/605655762
+  author: Paolo Zucca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605655762/original.jpg
+- file: images/anseriformes/anatidae/aythya-nyroca/3.jpg
+  page: https://www.inaturalist.org/photos/607893629
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607893629/original.jpg
+- file: images/anseriformes/anatidae/aythya-nyroca/4.jpg
+  page: https://www.inaturalist.org/photos/608608672
+  author: Samuel Paitreault
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608608672/original.jpg
+- file: images/anseriformes/anatidae/aythya-nyroca/5.jpg
+  page: https://www.inaturalist.org/photos/606830538
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606830538/original.jpg
 ---
 
 

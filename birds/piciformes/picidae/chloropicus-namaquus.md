@@ -137,7 +137,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 32.3
@@ -145,6 +146,44 @@ morphology:
   wing_length_mm: 125.8
   tail_length_mm: 64.0
   body_mass_g: 81.5
+image:
+  file: images/piciformes/picidae/chloropicus-namaquus/1.jpg
+  page: https://www.inaturalist.org/photos/681359715
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681359715/original.jpg
+images:
+- file: images/piciformes/picidae/chloropicus-namaquus/1.jpg
+  page: https://www.inaturalist.org/photos/681359715
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681359715/original.jpg
+- file: images/piciformes/picidae/chloropicus-namaquus/2.jpg
+  page: https://www.inaturalist.org/photos/646304691
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646304691/original.jpg
+- file: images/piciformes/picidae/chloropicus-namaquus/3.jpg
+  page: https://www.inaturalist.org/photos/719838908
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719838908/original.jpg
+- file: images/piciformes/picidae/chloropicus-namaquus/4.jpg
+  page: https://www.inaturalist.org/photos/735904031
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735904031/original.jpg
+- file: images/piciformes/picidae/chloropicus-namaquus/5.jpg
+  page: https://www.inaturalist.org/photos/469532420
+  author: Polina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469532420/original.jpg
 ---
 
 

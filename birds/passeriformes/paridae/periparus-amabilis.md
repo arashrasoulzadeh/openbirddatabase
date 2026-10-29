@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 10.9
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 65.1
   tail_length_mm: 44.2
   body_mass_g: 12.7
+image:
+  file: images/passeriformes/paridae/periparus-amabilis/1.jpg
+  page: https://www.inaturalist.org/photos/276470859
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470859/original.jpg
+images:
+- file: images/passeriformes/paridae/periparus-amabilis/1.jpg
+  page: https://www.inaturalist.org/photos/276470859
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470859/original.jpg
+- file: images/passeriformes/paridae/periparus-amabilis/2.jpg
+  page: https://www.inaturalist.org/photos/339788750
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339788750/original.jpg
+- file: images/passeriformes/paridae/periparus-amabilis/3.jpg
+  page: https://www.inaturalist.org/photos/276470882
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470882/original.jpg
+- file: images/passeriformes/paridae/periparus-amabilis/4.jpg
+  page: https://www.inaturalist.org/photos/276470918
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470918/original.jpg
+- file: images/passeriformes/paridae/periparus-amabilis/5.jpg
+  page: https://www.inaturalist.org/photos/276470981
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470981/original.jpg
 ---
 
 

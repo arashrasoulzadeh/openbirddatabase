@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/vireonidae/vireo-flavoviridis/1.jpg
+  page: https://www.inaturalist.org/photos/613034641
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613034641/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-flavoviridis/1.jpg
+  page: https://www.inaturalist.org/photos/613034641
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613034641/original.jpg
+- file: images/passeriformes/vireonidae/vireo-flavoviridis/2.jpg
+  page: https://www.inaturalist.org/photos/624939219
+  author: Francis Pérez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624939219/original.jpg
+- file: images/passeriformes/vireonidae/vireo-flavoviridis/3.jpg
+  page: https://www.inaturalist.org/photos/630883475
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630883475/original.jpg
+- file: images/passeriformes/vireonidae/vireo-flavoviridis/4.jpg
+  page: https://www.inaturalist.org/photos/705102195
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705102195/original.jpg
+- file: images/passeriformes/vireonidae/vireo-flavoviridis/5.jpg
+  page: https://www.inaturalist.org/photos/648114392
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648114392/original.jpg
 ---
 
 

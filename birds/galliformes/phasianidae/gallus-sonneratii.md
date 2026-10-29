@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/gallus-sonneratii/1.jpg
+  page: https://www.inaturalist.org/photos/627561669
+  author: P Jeganathan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627561669/original.jpg
+images:
+- file: images/galliformes/phasianidae/gallus-sonneratii/1.jpg
+  page: https://www.inaturalist.org/photos/627561669
+  author: P Jeganathan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627561669/original.jpg
+- file: images/galliformes/phasianidae/gallus-sonneratii/2.jpg
+  page: https://www.inaturalist.org/photos/631794414
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631794414/original.jpg
+- file: images/galliformes/phasianidae/gallus-sonneratii/3.jpg
+  page: https://www.inaturalist.org/photos/733976326
+  author: Ashwin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733976326/original.jpg
+- file: images/galliformes/phasianidae/gallus-sonneratii/4.jpg
+  page: https://www.inaturalist.org/photos/655464886
+  author: Ahirbudhnyan M
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655464886/original.jpg
+- file: images/galliformes/phasianidae/gallus-sonneratii/5.jpg
+  page: https://www.inaturalist.org/photos/669916590
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669916590/original.jpg
 ---
 
 

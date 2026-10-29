@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/hylacola-pyrrhopygia/1.jpg
+  page: https://www.inaturalist.org/photos/638538496
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638538496/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/hylacola-pyrrhopygia/1.jpg
+  page: https://www.inaturalist.org/photos/638538496
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638538496/original.jpg
+- file: images/passeriformes/acanthizidae/hylacola-pyrrhopygia/2.jpg
+  page: https://www.inaturalist.org/photos/589553846
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589553846/original.jpg
+- file: images/passeriformes/acanthizidae/hylacola-pyrrhopygia/3.jpg
+  page: https://www.inaturalist.org/photos/360148370
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360148370/original.jpeg
+- file: images/passeriformes/acanthizidae/hylacola-pyrrhopygia/4.jpg
+  page: https://www.inaturalist.org/photos/225714989
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225714989/original.jpg
+- file: images/passeriformes/acanthizidae/hylacola-pyrrhopygia/5.jpg
+  page: https://www.inaturalist.org/photos/175470383
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175470383/original.jpeg
 ---
 
 

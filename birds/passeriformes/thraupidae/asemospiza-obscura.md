@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/asemospiza-obscura/1.jpg
+  page: https://www.inaturalist.org/photos/620745335
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620745335/original.jpg
+images:
+- file: images/passeriformes/thraupidae/asemospiza-obscura/1.jpg
+  page: https://www.inaturalist.org/photos/620745335
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620745335/original.jpg
+- file: images/passeriformes/thraupidae/asemospiza-obscura/2.jpg
+  page: https://www.inaturalist.org/photos/630659309
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630659309/original.jpg
+- file: images/passeriformes/thraupidae/asemospiza-obscura/3.jpg
+  page: https://www.inaturalist.org/photos/718798865
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718798865/original.jpg
+- file: images/passeriformes/thraupidae/asemospiza-obscura/4.jpg
+  page: https://www.inaturalist.org/photos/482793939
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482793939/original.png
+- file: images/passeriformes/thraupidae/asemospiza-obscura/5.jpg
+  page: https://www.inaturalist.org/photos/590586290
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590586290/original.jpg
 ---
 
 

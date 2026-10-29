@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/charadriiformes/scolopacidae/calidris-alba/1.jpg
+  page: https://www.inaturalist.org/photos/605083494
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083494/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-alba/1.jpg
+  page: https://www.inaturalist.org/photos/605083494
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083494/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-alba/2.jpg
+  page: https://www.inaturalist.org/photos/604657233
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604657233/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-alba/3.jpg
+  page: https://www.inaturalist.org/photos/605180638
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180638/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-alba/4.jpg
+  page: https://www.inaturalist.org/photos/605365490
+  author: Matthew Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605365490/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-alba/5.jpg
+  page: https://www.inaturalist.org/photos/605360402
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360402/original.jpg
 ---
 
 

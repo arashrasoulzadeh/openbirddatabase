@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-citrinelloides/1.jpg
+  page: https://www.inaturalist.org/photos/716310069
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716310069/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-citrinelloides/1.jpg
+  page: https://www.inaturalist.org/photos/716310069
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716310069/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-citrinelloides/2.jpg
+  page: https://www.inaturalist.org/photos/581279687
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581279687/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-citrinelloides/3.jpg
+  page: https://www.inaturalist.org/photos/610332371
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610332371/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-citrinelloides/4.jpg
+  page: https://www.inaturalist.org/photos/361018953
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361018953/original.jpeg
+- file: images/passeriformes/fringillidae/crithagra-citrinelloides/5.jpg
+  page: https://www.inaturalist.org/photos/442055689
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442055689/original.jpg
 ---
 
 

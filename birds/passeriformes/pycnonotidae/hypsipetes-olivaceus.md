@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/526182975
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526182975/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/526182975
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526182975/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/411051750
+  author: Arwin Neil Baichoo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411051750/original.jpeg
+- file: images/passeriformes/pycnonotidae/hypsipetes-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/432017500
+  author: Matthew Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/432017500/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-olivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/291298858
+  author: Charly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/291298858/original.jpeg
+- file: images/passeriformes/pycnonotidae/hypsipetes-olivaceus/5.jpg
+  page: https://www.inaturalist.org/photos/199977002
+  author: Ben
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199977002/original.jpeg
 ---
 
 

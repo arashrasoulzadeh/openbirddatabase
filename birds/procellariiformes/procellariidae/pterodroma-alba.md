@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-alba/1.jpg
+  page: https://www.inaturalist.org/photos/726221397
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726221397/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-alba/1.jpg
+  page: https://www.inaturalist.org/photos/726221397
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726221397/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-alba/2.jpg
+  page: https://www.inaturalist.org/photos/346488174
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346488174/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-alba/3.jpg
+  page: https://www.inaturalist.org/photos/434978049
+  author: Franco Arenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434978049/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-alba/4.jpg
+  page: https://www.inaturalist.org/photos/395655197
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395655197/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-alba/5.jpg
+  page: https://www.inaturalist.org/photos/724490816
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724490816/original.jpg
 ---
 
 

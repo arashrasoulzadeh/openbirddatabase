@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/empidonax-flavescens/1.jpg
+  page: https://www.inaturalist.org/photos/608753047
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608753047/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonax-flavescens/1.jpg
+  page: https://www.inaturalist.org/photos/608753047
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608753047/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-flavescens/2.jpg
+  page: https://www.inaturalist.org/photos/614717800
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717800/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-flavescens/3.jpg
+  page: https://www.inaturalist.org/photos/619727744
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619727744/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-flavescens/4.jpg
+  page: https://www.inaturalist.org/photos/619115199
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619115199/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-flavescens/5.jpg
+  page: https://www.inaturalist.org/photos/623770782
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623770782/original.jpg
 ---
 
 

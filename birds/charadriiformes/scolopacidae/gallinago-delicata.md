@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-delicata/1.jpg
+  page: https://www.inaturalist.org/photos/605409472
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605409472/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-delicata/1.jpg
+  page: https://www.inaturalist.org/photos/605409472
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605409472/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-delicata/2.jpg
+  page: https://www.inaturalist.org/photos/605377663
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605377663/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-delicata/3.jpg
+  page: https://www.inaturalist.org/photos/605383656
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383656/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-delicata/4.jpg
+  page: https://www.inaturalist.org/photos/605162720
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162720/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-delicata/5.jpg
+  page: https://www.inaturalist.org/photos/609042590
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609042590/original.jpg
 ---
 
 

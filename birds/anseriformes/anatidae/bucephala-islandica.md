@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/anseriformes/anatidae/bucephala-islandica/1.jpg
+  page: https://www.inaturalist.org/photos/605509966
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605509966/original.jpg
+images:
+- file: images/anseriformes/anatidae/bucephala-islandica/1.jpg
+  page: https://www.inaturalist.org/photos/605509966
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605509966/original.jpg
+- file: images/anseriformes/anatidae/bucephala-islandica/2.jpg
+  page: https://www.inaturalist.org/photos/604570387
+  author: Alwyn Short
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604570387/original.jpg
+- file: images/anseriformes/anatidae/bucephala-islandica/3.jpg
+  page: https://www.inaturalist.org/photos/604525156
+  author: Daniel Patterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604525156/original.jpg
+- file: images/anseriformes/anatidae/bucephala-islandica/4.jpg
+  page: https://www.inaturalist.org/photos/604702946
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702946/original.jpg
+- file: images/anseriformes/anatidae/bucephala-islandica/5.jpg
+  page: https://www.inaturalist.org/photos/605238886
+  author: Owen McElroy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605238886/original.jpg
 ---
 
 

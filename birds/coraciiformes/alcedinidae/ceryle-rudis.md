@@ -193,10 +193,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/coraciiformes/alcedinidae/ceryle-rudis/1.jpg
+  page: https://www.inaturalist.org/photos/606217322
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606217322/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceryle-rudis/1.jpg
+  page: https://www.inaturalist.org/photos/606217322
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606217322/original.jpg
+- file: images/coraciiformes/alcedinidae/ceryle-rudis/2.jpg
+  page: https://www.inaturalist.org/photos/607759689
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607759689/original.jpg
+- file: images/coraciiformes/alcedinidae/ceryle-rudis/3.jpg
+  page: https://www.inaturalist.org/photos/608838287
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608838287/original.jpg
+- file: images/coraciiformes/alcedinidae/ceryle-rudis/4.jpg
+  page: https://www.inaturalist.org/photos/608146129
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608146129/original.jpg
+- file: images/coraciiformes/alcedinidae/ceryle-rudis/5.jpg
+  page: https://www.inaturalist.org/photos/608838292
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608838292/original.jpg
 ---
 
 

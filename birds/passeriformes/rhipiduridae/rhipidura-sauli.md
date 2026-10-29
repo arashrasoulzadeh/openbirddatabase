@@ -133,8 +133,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-sauli/1.jpg
+  page: https://www.inaturalist.org/photos/198782466
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782466/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-sauli/1.jpg
+  page: https://www.inaturalist.org/photos/198782466
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782466/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-sauli/2.jpg
+  page: https://www.inaturalist.org/photos/198782473
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782473/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-sauli/3.jpg
+  page: https://www.inaturalist.org/photos/198782539
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782539/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-sauli/4.jpg
+  page: https://www.inaturalist.org/photos/198783387
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198783387/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-sauli/5.jpg
+  page: https://www.inaturalist.org/photos/198782554
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782554/original.jpg
 ---
 
 

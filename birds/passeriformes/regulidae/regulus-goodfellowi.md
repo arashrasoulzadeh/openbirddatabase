@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/regulidae/regulus-goodfellowi/1.jpg
+  page: https://www.inaturalist.org/photos/630493163
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630493163/original.jpg
+images:
+- file: images/passeriformes/regulidae/regulus-goodfellowi/1.jpg
+  page: https://www.inaturalist.org/photos/630493163
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630493163/original.jpg
+- file: images/passeriformes/regulidae/regulus-goodfellowi/2.jpg
+  page: https://www.inaturalist.org/photos/665388355
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665388355/original.jpg
+- file: images/passeriformes/regulidae/regulus-goodfellowi/3.jpg
+  page: https://www.inaturalist.org/photos/696220729
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696220729/original.jpg
+- file: images/passeriformes/regulidae/regulus-goodfellowi/4.jpg
+  page: https://www.inaturalist.org/photos/698376741
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698376741/original.jpg
+- file: images/passeriformes/regulidae/regulus-goodfellowi/5.jpg
+  page: https://www.inaturalist.org/photos/466357834
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466357834/original.jpeg
 ---
 
 

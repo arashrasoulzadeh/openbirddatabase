@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/prioniturus-discurus/1.jpg
+  page: https://www.inaturalist.org/photos/316279015
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316279015/original.jpeg
+images:
+- file: images/psittaciformes/psittaculidae/prioniturus-discurus/1.jpg
+  page: https://www.inaturalist.org/photos/316279015
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316279015/original.jpeg
+- file: images/psittaciformes/psittaculidae/prioniturus-discurus/2.jpg
+  page: https://www.inaturalist.org/photos/316278092
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316278092/original.jpeg
+- file: images/psittaciformes/psittaculidae/prioniturus-discurus/3.jpg
+  page: https://www.inaturalist.org/photos/220581476
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220581476/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-discurus/4.jpg
+  page: https://www.inaturalist.org/photos/236182262
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236182262/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-discurus/5.jpg
+  page: https://www.inaturalist.org/photos/236182292
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236182292/original.jpg
 ---
 
 

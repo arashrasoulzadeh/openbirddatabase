@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cranioleuca-erythrops/1.jpg
+  page: https://www.inaturalist.org/photos/608228295
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228295/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cranioleuca-erythrops/1.jpg
+  page: https://www.inaturalist.org/photos/608228295
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228295/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-erythrops/2.jpg
+  page: https://www.inaturalist.org/photos/612625753
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612625753/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-erythrops/3.jpg
+  page: https://www.inaturalist.org/photos/614717764
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717764/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-erythrops/4.jpg
+  page: https://www.inaturalist.org/photos/619102320
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619102320/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-erythrops/5.jpg
+  page: https://www.inaturalist.org/photos/624305998
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624305998/original.jpg
 ---
 
 

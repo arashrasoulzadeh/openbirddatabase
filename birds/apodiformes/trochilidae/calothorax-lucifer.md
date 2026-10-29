@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/apodiformes/trochilidae/calothorax-lucifer/1.jpg
+  page: https://www.inaturalist.org/photos/639270834
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639270834/original.jpg
+images:
+- file: images/apodiformes/trochilidae/calothorax-lucifer/1.jpg
+  page: https://www.inaturalist.org/photos/639270834
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639270834/original.jpg
+- file: images/apodiformes/trochilidae/calothorax-lucifer/2.jpg
+  page: https://www.inaturalist.org/photos/634321836
+  author: Jim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634321836/original.jpg
+- file: images/apodiformes/trochilidae/calothorax-lucifer/3.jpg
+  page: https://www.inaturalist.org/photos/666768297
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666768297/original.jpg
+- file: images/apodiformes/trochilidae/calothorax-lucifer/4.jpg
+  page: https://www.inaturalist.org/photos/675647053
+  author: Alberto Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675647053/original.jpg
+- file: images/apodiformes/trochilidae/calothorax-lucifer/5.jpg
+  page: https://www.inaturalist.org/photos/669170135
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669170135/original.jpg
 ---
 
 

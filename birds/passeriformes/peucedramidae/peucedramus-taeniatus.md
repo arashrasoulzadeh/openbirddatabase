@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/peucedramidae/peucedramus-taeniatus/1.jpg
+  page: https://www.inaturalist.org/photos/609069105
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609069105/original.jpg
+images:
+- file: images/passeriformes/peucedramidae/peucedramus-taeniatus/1.jpg
+  page: https://www.inaturalist.org/photos/609069105
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609069105/original.jpg
+- file: images/passeriformes/peucedramidae/peucedramus-taeniatus/2.jpg
+  page: https://www.inaturalist.org/photos/616465242
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616465242/original.jpg
+- file: images/passeriformes/peucedramidae/peucedramus-taeniatus/3.jpg
+  page: https://www.inaturalist.org/photos/619996006
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619996006/original.jpg
+- file: images/passeriformes/peucedramidae/peucedramus-taeniatus/4.jpg
+  page: https://www.inaturalist.org/photos/634843585
+  author: SustentabilidadConciencia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634843585/original.jpg
+- file: images/passeriformes/peucedramidae/peucedramus-taeniatus/5.jpg
+  page: https://www.inaturalist.org/photos/665343722
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343722/original.jpg
 ---
 
 

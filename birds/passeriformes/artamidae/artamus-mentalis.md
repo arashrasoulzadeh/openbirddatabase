@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/artamus-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/607009853
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607009853/original.jpg
+images:
+- file: images/passeriformes/artamidae/artamus-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/607009853
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607009853/original.jpg
+- file: images/passeriformes/artamidae/artamus-mentalis/2.jpg
+  page: https://www.inaturalist.org/photos/670117863
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670117863/original.jpg
+- file: images/passeriformes/artamidae/artamus-mentalis/3.jpg
+  page: https://www.inaturalist.org/photos/719523183
+  author: Laura Fernández Winzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719523183/original.jpg
+- file: images/passeriformes/artamidae/artamus-mentalis/4.jpg
+  page: https://www.inaturalist.org/photos/728678573
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728678573/original.jpg
+- file: images/passeriformes/artamidae/artamus-mentalis/5.jpg
+  page: https://www.inaturalist.org/photos/726194086
+  author: nick_goldwater
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726194086/original.jpg
 ---
 
 

@@ -144,10 +144,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/hirundinidae/cecropis-hyperythra/1.jpg
+  page: https://www.inaturalist.org/photos/612436271
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612436271/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/cecropis-hyperythra/1.jpg
+  page: https://www.inaturalist.org/photos/612436271
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612436271/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-hyperythra/2.jpg
+  page: https://www.inaturalist.org/photos/653588943
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653588943/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-hyperythra/3.jpg
+  page: https://www.inaturalist.org/photos/617952675
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952675/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-hyperythra/4.jpg
+  page: https://www.inaturalist.org/photos/738269863
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738269863/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-hyperythra/5.jpg
+  page: https://www.inaturalist.org/photos/467871252
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467871252/original.jpg
 ---
 
 

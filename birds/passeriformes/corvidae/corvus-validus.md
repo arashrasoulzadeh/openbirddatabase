@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-validus/1.jpg
+  page: https://www.inaturalist.org/photos/710678925
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710678925/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-validus/1.jpg
+  page: https://www.inaturalist.org/photos/710678925
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710678925/original.jpg
+- file: images/passeriformes/corvidae/corvus-validus/2.jpg
+  page: https://www.inaturalist.org/photos/526333520
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333520/original.jpg
+- file: images/passeriformes/corvidae/corvus-validus/3.jpg
+  page: https://www.inaturalist.org/photos/313905068
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313905068/original.jpg
+- file: images/passeriformes/corvidae/corvus-validus/4.jpg
+  page: https://www.inaturalist.org/photos/710678969
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710678969/original.jpg
+- file: images/passeriformes/corvidae/corvus-validus/5.jpg
+  page: https://www.inaturalist.org/photos/526333856
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333856/original.jpg
 ---
 
 

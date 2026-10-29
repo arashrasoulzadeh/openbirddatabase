@@ -123,8 +123,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/aegithalidae/aegithalos-exilis/1.jpg
+  page: https://www.inaturalist.org/photos/613435349
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435349/original.jpg
+images:
+- file: images/passeriformes/aegithalidae/aegithalos-exilis/1.jpg
+  page: https://www.inaturalist.org/photos/613435349
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435349/original.jpg
+- file: images/passeriformes/aegithalidae/aegithalos-exilis/2.jpg
+  page: https://www.inaturalist.org/photos/413012050
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413012050/original.jpeg
+- file: images/passeriformes/aegithalidae/aegithalos-exilis/3.jpg
+  page: https://www.inaturalist.org/photos/407676810
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407676810/original.jpeg
+- file: images/passeriformes/aegithalidae/aegithalos-exilis/4.jpg
+  page: https://www.inaturalist.org/photos/254270693
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254270693/original.jpg
+- file: images/passeriformes/aegithalidae/aegithalos-exilis/5.jpg
+  page: https://www.inaturalist.org/photos/377412252
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/377412252/original.jpg
 ---
 
 

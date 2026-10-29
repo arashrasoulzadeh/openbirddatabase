@@ -140,8 +140,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/dendrocitta-bayleii/1.jpg
+  page: https://www.inaturalist.org/photos/338546208
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338546208/original.jpeg
+images:
+- file: images/passeriformes/corvidae/dendrocitta-bayleii/1.jpg
+  page: https://www.inaturalist.org/photos/338546208
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338546208/original.jpeg
+- file: images/passeriformes/corvidae/dendrocitta-bayleii/2.jpg
+  page: https://www.inaturalist.org/photos/168345443
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/168345443/original.jpg
 ---
 
 

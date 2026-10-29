@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-paradiseus/1.jpg
+  page: https://www.inaturalist.org/photos/610408484
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610408484/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-paradiseus/1.jpg
+  page: https://www.inaturalist.org/photos/610408484
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610408484/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-paradiseus/2.jpg
+  page: https://www.inaturalist.org/photos/608897891
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608897891/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-paradiseus/3.jpg
+  page: https://www.inaturalist.org/photos/609188012
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188012/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-paradiseus/4.jpg
+  page: https://www.inaturalist.org/photos/612334741
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612334741/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-paradiseus/5.jpg
+  page: https://www.inaturalist.org/photos/612368180
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612368180/original.jpg
 ---
 
 

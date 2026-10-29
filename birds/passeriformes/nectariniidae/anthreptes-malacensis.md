@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/anthreptes-malacensis/1.jpg
+  page: https://www.inaturalist.org/photos/607897862
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607897862/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/anthreptes-malacensis/1.jpg
+  page: https://www.inaturalist.org/photos/607897862
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607897862/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-malacensis/2.jpg
+  page: https://www.inaturalist.org/photos/616738764
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738764/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-malacensis/3.jpg
+  page: https://www.inaturalist.org/photos/618847970
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618847970/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-malacensis/4.jpg
+  page: https://www.inaturalist.org/photos/616606464
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616606464/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-malacensis/5.jpg
+  page: https://www.inaturalist.org/photos/613147984
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613147984/original.jpg
 ---
 
 

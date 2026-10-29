@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/gruiformes/rallidae/gallinula-tenebrosa/1.jpg
+  page: https://www.inaturalist.org/photos/605265428
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605265428/original.jpg
+images:
+- file: images/gruiformes/rallidae/gallinula-tenebrosa/1.jpg
+  page: https://www.inaturalist.org/photos/605265428
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605265428/original.jpg
+- file: images/gruiformes/rallidae/gallinula-tenebrosa/2.jpg
+  page: https://www.inaturalist.org/photos/604994341
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604994341/original.jpg
+- file: images/gruiformes/rallidae/gallinula-tenebrosa/3.jpg
+  page: https://www.inaturalist.org/photos/604410851
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604410851/original.jpg
+- file: images/gruiformes/rallidae/gallinula-tenebrosa/4.jpg
+  page: https://www.inaturalist.org/photos/605472874
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605472874/original.jpg
+- file: images/gruiformes/rallidae/gallinula-tenebrosa/5.jpg
+  page: https://www.inaturalist.org/photos/604671264
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604671264/original.jpg
 ---
 
 

@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/megarynchus-pitangua/1.jpg
+  page: https://www.inaturalist.org/photos/605659715
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659715/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/megarynchus-pitangua/1.jpg
+  page: https://www.inaturalist.org/photos/605659715
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659715/original.jpg
+- file: images/passeriformes/tyrannidae/megarynchus-pitangua/2.jpg
+  page: https://www.inaturalist.org/photos/610037260
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610037260/original.jpg
+- file: images/passeriformes/tyrannidae/megarynchus-pitangua/3.jpg
+  page: https://www.inaturalist.org/photos/606263622
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606263622/original.jpg
+- file: images/passeriformes/tyrannidae/megarynchus-pitangua/4.jpg
+  page: https://www.inaturalist.org/photos/606027020
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027020/original.jpg
+- file: images/passeriformes/tyrannidae/megarynchus-pitangua/5.jpg
+  page: https://www.inaturalist.org/photos/608262292
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608262292/original.jpg
 ---
 
 

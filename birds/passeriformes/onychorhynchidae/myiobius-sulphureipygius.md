@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/onychorhynchidae/myiobius-sulphureipygius/1.jpg
+  page: https://www.inaturalist.org/photos/605534301
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534301/original.jpg
+images:
+- file: images/passeriformes/onychorhynchidae/myiobius-sulphureipygius/1.jpg
+  page: https://www.inaturalist.org/photos/605534301
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534301/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-sulphureipygius/2.jpg
+  page: https://www.inaturalist.org/photos/613789668
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613789668/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-sulphureipygius/3.jpg
+  page: https://www.inaturalist.org/photos/714181716
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714181716/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-sulphureipygius/4.jpg
+  page: https://www.inaturalist.org/photos/634707158
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634707158/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-sulphureipygius/5.jpg
+  page: https://www.inaturalist.org/photos/669861154
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669861154/original.jpg
 ---
 
 

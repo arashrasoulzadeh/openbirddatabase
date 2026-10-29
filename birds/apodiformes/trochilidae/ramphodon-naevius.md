@@ -136,8 +136,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/ramphodon-naevius/1.jpg
+  page: https://www.inaturalist.org/photos/612763915
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612763915/original.jpg
+images:
+- file: images/apodiformes/trochilidae/ramphodon-naevius/1.jpg
+  page: https://www.inaturalist.org/photos/612763915
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612763915/original.jpg
+- file: images/apodiformes/trochilidae/ramphodon-naevius/2.jpg
+  page: https://www.inaturalist.org/photos/614275290
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614275290/original.jpg
+- file: images/apodiformes/trochilidae/ramphodon-naevius/3.jpg
+  page: https://www.inaturalist.org/photos/616202016
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616202016/original.jpg
+- file: images/apodiformes/trochilidae/ramphodon-naevius/4.jpg
+  page: https://www.inaturalist.org/photos/641987203
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641987203/original.jpg
+- file: images/apodiformes/trochilidae/ramphodon-naevius/5.jpg
+  page: https://www.inaturalist.org/photos/685229663
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685229663/original.jpg
 ---
 
 

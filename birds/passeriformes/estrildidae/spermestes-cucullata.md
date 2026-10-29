@@ -185,8 +185,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/spermestes-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/612467990
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612467990/original.jpg
+images:
+- file: images/passeriformes/estrildidae/spermestes-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/612467990
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612467990/original.jpg
+- file: images/passeriformes/estrildidae/spermestes-cucullata/2.jpg
+  page: https://www.inaturalist.org/photos/612729080
+  author: flamelily
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612729080/original.jpg
+- file: images/passeriformes/estrildidae/spermestes-cucullata/3.jpg
+  page: https://www.inaturalist.org/photos/612467991
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612467991/original.jpg
+- file: images/passeriformes/estrildidae/spermestes-cucullata/4.jpg
+  page: https://www.inaturalist.org/photos/612465290
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612465290/original.jpg
+- file: images/passeriformes/estrildidae/spermestes-cucullata/5.jpg
+  page: https://www.inaturalist.org/photos/612465286
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612465286/original.jpg
 ---
 
 

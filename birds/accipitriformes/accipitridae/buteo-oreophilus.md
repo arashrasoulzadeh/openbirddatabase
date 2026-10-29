@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-oreophilus/1.jpg
+  page: https://www.inaturalist.org/photos/583701299
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583701299/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-oreophilus/1.jpg
+  page: https://www.inaturalist.org/photos/583701299
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583701299/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-oreophilus/2.jpg
+  page: https://www.inaturalist.org/photos/380686613
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380686613/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-oreophilus/3.jpg
+  page: https://www.inaturalist.org/photos/473812869
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473812869/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-oreophilus/4.jpg
+  page: https://www.inaturalist.org/photos/515320625
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515320625/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-oreophilus/5.jpg
+  page: https://www.inaturalist.org/photos/583701311
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583701311/original.jpg
 ---
 
 

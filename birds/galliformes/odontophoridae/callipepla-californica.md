@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/galliformes/odontophoridae/callipepla-californica/1.jpg
+  page: https://www.inaturalist.org/photos/605179447
+  author: Hunter Hickok
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605179447/original.jpg
+images:
+- file: images/galliformes/odontophoridae/callipepla-californica/1.jpg
+  page: https://www.inaturalist.org/photos/605179447
+  author: Hunter Hickok
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605179447/original.jpg
+- file: images/galliformes/odontophoridae/callipepla-californica/2.jpg
+  page: https://www.inaturalist.org/photos/605240008
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605240008/original.jpg
+- file: images/galliformes/odontophoridae/callipepla-californica/3.jpg
+  page: https://www.inaturalist.org/photos/605663219
+  author: Connor Sites-Bowen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605663219/original.jpg
+- file: images/galliformes/odontophoridae/callipepla-californica/4.jpg
+  page: https://www.inaturalist.org/photos/610555424
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610555424/original.jpg
+- file: images/galliformes/odontophoridae/callipepla-californica/5.jpg
+  page: https://www.inaturalist.org/photos/607233764
+  author: Leon Perrie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607233764/original.jpg
 ---
 
 

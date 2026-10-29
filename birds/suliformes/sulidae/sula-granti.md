@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/suliformes/sulidae/sula-granti/1.jpg
+  page: https://www.inaturalist.org/photos/608683835
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608683835/original.jpg
+images:
+- file: images/suliformes/sulidae/sula-granti/1.jpg
+  page: https://www.inaturalist.org/photos/608683835
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608683835/original.jpg
+- file: images/suliformes/sulidae/sula-granti/2.jpg
+  page: https://www.inaturalist.org/photos/610549272
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610549272/original.jpg
+- file: images/suliformes/sulidae/sula-granti/3.jpg
+  page: https://www.inaturalist.org/photos/622539775
+  author: Rosie Yacoub
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622539775/original.jpg
+- file: images/suliformes/sulidae/sula-granti/4.jpg
+  page: https://www.inaturalist.org/photos/608683909
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608683909/original.jpg
+- file: images/suliformes/sulidae/sula-granti/5.jpg
+  page: https://www.inaturalist.org/photos/608683952
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608683952/original.jpg
 ---
 
 

@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/falconiformes/falconidae/polihierax-semitorquatus/1.jpg
+  page: https://www.inaturalist.org/photos/677467382
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677467382/original.jpg
+images:
+- file: images/falconiformes/falconidae/polihierax-semitorquatus/1.jpg
+  page: https://www.inaturalist.org/photos/677467382
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677467382/original.jpg
+- file: images/falconiformes/falconidae/polihierax-semitorquatus/2.jpg
+  page: https://www.inaturalist.org/photos/651509244
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651509244/original.jpg
+- file: images/falconiformes/falconidae/polihierax-semitorquatus/3.jpg
+  page: https://www.inaturalist.org/photos/657444777
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657444777/original.jpg
+- file: images/falconiformes/falconidae/polihierax-semitorquatus/4.jpg
+  page: https://www.inaturalist.org/photos/721174202
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721174202/original.jpg
+- file: images/falconiformes/falconidae/polihierax-semitorquatus/5.jpg
+  page: https://www.inaturalist.org/photos/743299589
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743299589/original.jpg
 ---
 
 

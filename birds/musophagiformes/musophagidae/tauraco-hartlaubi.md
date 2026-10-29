@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/musophagiformes/musophagidae/tauraco-hartlaubi/1.jpg
+  page: https://www.inaturalist.org/photos/716650195
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650195/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-hartlaubi/1.jpg
+  page: https://www.inaturalist.org/photos/716650195
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650195/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-hartlaubi/2.jpg
+  page: https://www.inaturalist.org/photos/719723870
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719723870/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-hartlaubi/3.jpg
+  page: https://www.inaturalist.org/photos/476782615
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476782615/original.jpeg
+- file: images/musophagiformes/musophagidae/tauraco-hartlaubi/4.jpg
+  page: https://www.inaturalist.org/photos/531641660
+  author: Paco Cardenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531641660/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-hartlaubi/5.jpg
+  page: https://www.inaturalist.org/photos/538406546
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538406546/original.jpg
 ---
 
 

@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-roborowskii/1.jpg
+  page: https://www.inaturalist.org/photos/367800657
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800657/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-roborowskii/1.jpg
+  page: https://www.inaturalist.org/photos/367800657
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800657/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-roborowskii/2.jpg
+  page: https://www.inaturalist.org/photos/66203366
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/66203366/original.jpeg
+- file: images/passeriformes/fringillidae/carpodacus-roborowskii/3.jpg
+  page: https://www.inaturalist.org/photos/367800656
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800656/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-roborowskii/4.jpg
+  page: https://www.inaturalist.org/photos/367800636
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800636/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-roborowskii/5.jpg
+  page: https://www.inaturalist.org/photos/367800635
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800635/original.jpg
 ---
 
 

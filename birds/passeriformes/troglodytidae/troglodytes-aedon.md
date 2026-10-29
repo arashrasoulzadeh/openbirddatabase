@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-aedon/1.jpg
+  page: https://www.inaturalist.org/photos/604520760
+  author: kcthetc1
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604520760/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-aedon/1.jpg
+  page: https://www.inaturalist.org/photos/604520760
+  author: kcthetc1
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604520760/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-aedon/2.jpg
+  page: https://www.inaturalist.org/photos/605371652
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605371652/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-aedon/3.jpg
+  page: https://www.inaturalist.org/photos/605162098
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162098/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-aedon/4.jpg
+  page: https://www.inaturalist.org/photos/607535271
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607535271/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-aedon/5.jpg
+  page: https://www.inaturalist.org/photos/606542841
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606542841/original.jpg
 ---
 
 

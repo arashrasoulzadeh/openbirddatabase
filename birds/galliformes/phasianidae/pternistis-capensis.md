@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/610673036
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610673036/original.jpg
+images:
+- file: images/galliformes/phasianidae/pternistis-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/610673036
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610673036/original.jpg
+- file: images/galliformes/phasianidae/pternistis-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/607190770
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607190770/original.jpg
+- file: images/galliformes/phasianidae/pternistis-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/611398628
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611398628/original.jpg
+- file: images/galliformes/phasianidae/pternistis-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/624556161
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624556161/original.jpg
+- file: images/galliformes/phasianidae/pternistis-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/624555972
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624555972/original.jpg
 ---
 
 

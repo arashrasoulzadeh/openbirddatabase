@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/chloephaga-poliocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605111178
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605111178/original.jpg
+images:
+- file: images/anseriformes/anatidae/chloephaga-poliocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605111178
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605111178/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-poliocephala/2.jpg
+  page: https://www.inaturalist.org/photos/608909747
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608909747/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-poliocephala/3.jpg
+  page: https://www.inaturalist.org/photos/612308784
+  author: Lauren L.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612308784/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-poliocephala/4.jpg
+  page: https://www.inaturalist.org/photos/613212561
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613212561/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-poliocephala/5.jpg
+  page: https://www.inaturalist.org/photos/615855225
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615855225/original.jpg
 ---
 
 

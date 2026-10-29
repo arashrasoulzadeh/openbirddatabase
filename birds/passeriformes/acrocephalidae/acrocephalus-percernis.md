@@ -145,8 +145,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-percernis/1.jpg
+  page: https://www.inaturalist.org/photos/335748191
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335748191/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-percernis/1.jpg
+  page: https://www.inaturalist.org/photos/335748191
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335748191/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-percernis/2.jpg
+  page: https://www.inaturalist.org/photos/335747871
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335747871/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-percernis/3.jpg
+  page: https://www.inaturalist.org/photos/335747835
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335747835/original.jpg
 ---
 
 

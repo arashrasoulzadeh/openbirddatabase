@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myioborus-brunniceps/1.jpg
+  page: https://www.inaturalist.org/photos/616751993
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616751993/original.jpg
+images:
+- file: images/passeriformes/parulidae/myioborus-brunniceps/1.jpg
+  page: https://www.inaturalist.org/photos/616751993
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616751993/original.jpg
+- file: images/passeriformes/parulidae/myioborus-brunniceps/2.jpg
+  page: https://www.inaturalist.org/photos/621819591
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621819591/original.jpg
+- file: images/passeriformes/parulidae/myioborus-brunniceps/3.jpg
+  page: https://www.inaturalist.org/photos/634013685
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634013685/original.jpg
+- file: images/passeriformes/parulidae/myioborus-brunniceps/4.jpg
+  page: https://www.inaturalist.org/photos/646834053
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646834053/original.jpg
+- file: images/passeriformes/parulidae/myioborus-brunniceps/5.jpg
+  page: https://www.inaturalist.org/photos/685433137
+  author: Guillermo Debandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685433137/original.jpg
 ---
 
 

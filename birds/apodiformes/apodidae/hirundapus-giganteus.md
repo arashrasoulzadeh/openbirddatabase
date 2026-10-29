@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/hirundapus-giganteus/1.jpg
+  page: https://www.inaturalist.org/photos/609884102
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609884102/original.jpg
+images:
+- file: images/apodiformes/apodidae/hirundapus-giganteus/1.jpg
+  page: https://www.inaturalist.org/photos/609884102
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609884102/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-giganteus/2.jpg
+  page: https://www.inaturalist.org/photos/614421431
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614421431/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-giganteus/3.jpg
+  page: https://www.inaturalist.org/photos/642997105
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642997105/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-giganteus/4.jpg
+  page: https://www.inaturalist.org/photos/739495254
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495254/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-giganteus/5.jpg
+  page: https://www.inaturalist.org/photos/629606289
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629606289/original.jpg
 ---
 
 

@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/cisticolidae/cisticola-exilis/1.jpg
+  page: https://www.inaturalist.org/photos/605000724
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605000724/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-exilis/1.jpg
+  page: https://www.inaturalist.org/photos/605000724
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605000724/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-exilis/2.jpg
+  page: https://www.inaturalist.org/photos/606098134
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606098134/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-exilis/3.jpg
+  page: https://www.inaturalist.org/photos/619774048
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619774048/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-exilis/4.jpg
+  page: https://www.inaturalist.org/photos/606100451
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606100451/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-exilis/5.jpg
+  page: https://www.inaturalist.org/photos/606100455
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606100455/original.jpg
 ---
 
 

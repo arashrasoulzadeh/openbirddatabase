@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/pheugopedius-felix/1.jpg
+  page: https://www.inaturalist.org/photos/606751800
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606751800/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/pheugopedius-felix/1.jpg
+  page: https://www.inaturalist.org/photos/606751800
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606751800/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-felix/2.jpg
+  page: https://www.inaturalist.org/photos/609596552
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609596552/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-felix/3.jpg
+  page: https://www.inaturalist.org/photos/468814060
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468814060/original.jpeg
+- file: images/passeriformes/troglodytidae/pheugopedius-felix/4.jpg
+  page: https://www.inaturalist.org/photos/475938776
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475938776/original.jpeg
+- file: images/passeriformes/troglodytidae/pheugopedius-felix/5.jpg
+  page: https://www.inaturalist.org/photos/491635836
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491635836/original.jpg
 ---
 
 

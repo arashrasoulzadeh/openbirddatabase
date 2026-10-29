@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/petroicidae/petroica-australis/1.jpg
+  page: https://www.inaturalist.org/photos/605252338
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605252338/original.jpg
+images:
+- file: images/passeriformes/petroicidae/petroica-australis/1.jpg
+  page: https://www.inaturalist.org/photos/605252338
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605252338/original.jpg
+- file: images/passeriformes/petroicidae/petroica-australis/2.jpg
+  page: https://www.inaturalist.org/photos/610084703
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084703/original.jpg
+- file: images/passeriformes/petroicidae/petroica-australis/3.jpg
+  page: https://www.inaturalist.org/photos/608827894
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608827894/original.jpg
+- file: images/passeriformes/petroicidae/petroica-australis/4.jpg
+  page: https://www.inaturalist.org/photos/610556650
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610556650/original.jpg
+- file: images/passeriformes/petroicidae/petroica-australis/5.jpg
+  page: https://www.inaturalist.org/photos/607070709
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607070709/original.jpg
 ---
 
 

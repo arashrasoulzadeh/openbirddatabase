@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-perspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/526334690
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334690/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-perspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/526334690
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334690/original.jpg
+- file: images/columbiformes/columbidae/ducula-perspicillata/2.jpg
+  page: https://www.inaturalist.org/photos/313043391
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313043391/original.jpg
+- file: images/columbiformes/columbidae/ducula-perspicillata/3.jpg
+  page: https://www.inaturalist.org/photos/247483315
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247483315/original.jpeg
+- file: images/columbiformes/columbidae/ducula-perspicillata/4.jpg
+  page: https://www.inaturalist.org/photos/107893147
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107893147/original.jpg
+- file: images/columbiformes/columbidae/ducula-perspicillata/5.jpg
+  page: https://www.inaturalist.org/photos/526334693
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334693/original.jpg
 ---
 
 

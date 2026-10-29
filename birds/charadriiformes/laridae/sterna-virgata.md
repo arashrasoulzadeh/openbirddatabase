@@ -148,8 +148,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sterna-virgata/1.jpg
+  page: https://www.inaturalist.org/photos/453509848
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453509848/original.jpeg
+images:
+- file: images/charadriiformes/laridae/sterna-virgata/1.jpg
+  page: https://www.inaturalist.org/photos/453509848
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453509848/original.jpeg
+- file: images/charadriiformes/laridae/sterna-virgata/2.jpg
+  page: https://www.inaturalist.org/photos/453509961
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453509961/original.jpeg
 ---
 
 

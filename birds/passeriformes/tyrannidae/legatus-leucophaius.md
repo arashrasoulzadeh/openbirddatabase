@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/legatus-leucophaius/1.jpg
+  page: https://www.inaturalist.org/photos/607272178
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272178/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/legatus-leucophaius/1.jpg
+  page: https://www.inaturalist.org/photos/607272178
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272178/original.jpg
+- file: images/passeriformes/tyrannidae/legatus-leucophaius/2.jpg
+  page: https://www.inaturalist.org/photos/614477388
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614477388/original.jpg
+- file: images/passeriformes/tyrannidae/legatus-leucophaius/3.jpg
+  page: https://www.inaturalist.org/photos/614243056
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614243056/original.jpg
+- file: images/passeriformes/tyrannidae/legatus-leucophaius/4.jpg
+  page: https://www.inaturalist.org/photos/617562493
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617562493/original.jpg
+- file: images/passeriformes/tyrannidae/legatus-leucophaius/5.jpg
+  page: https://www.inaturalist.org/photos/727669833
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727669833/original.jpg
 ---
 
 

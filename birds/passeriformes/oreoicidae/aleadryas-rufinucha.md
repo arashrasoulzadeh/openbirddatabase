@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oreoicidae/aleadryas-rufinucha/1.jpg
+  page: https://www.inaturalist.org/photos/571221140
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571221140/original.jpg
+images:
+- file: images/passeriformes/oreoicidae/aleadryas-rufinucha/1.jpg
+  page: https://www.inaturalist.org/photos/571221140
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571221140/original.jpg
+- file: images/passeriformes/oreoicidae/aleadryas-rufinucha/2.jpg
+  page: https://www.inaturalist.org/photos/623818051
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623818051/original.jpg
+- file: images/passeriformes/oreoicidae/aleadryas-rufinucha/3.jpg
+  page: https://www.inaturalist.org/photos/226710527
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226710527/original.jpg
+- file: images/passeriformes/oreoicidae/aleadryas-rufinucha/4.jpg
+  page: https://www.inaturalist.org/photos/701355127
+  author: wilmotsenaratne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701355127/original.jpg
+- file: images/passeriformes/oreoicidae/aleadryas-rufinucha/5.jpg
+  page: https://www.inaturalist.org/photos/336154283
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336154283/original.jpg
 ---
 
 

@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/gampsonyx-swainsonii/1.jpg
+  page: https://www.inaturalist.org/photos/612260217
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612260217/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/gampsonyx-swainsonii/1.jpg
+  page: https://www.inaturalist.org/photos/612260217
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612260217/original.jpg
+- file: images/accipitriformes/accipitridae/gampsonyx-swainsonii/2.jpg
+  page: https://www.inaturalist.org/photos/606978015
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606978015/original.jpg
+- file: images/accipitriformes/accipitridae/gampsonyx-swainsonii/3.jpg
+  page: https://www.inaturalist.org/photos/614205073
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205073/original.jpg
+- file: images/accipitriformes/accipitridae/gampsonyx-swainsonii/4.jpg
+  page: https://www.inaturalist.org/photos/616499376
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616499376/original.jpg
+- file: images/accipitriformes/accipitridae/gampsonyx-swainsonii/5.jpg
+  page: https://www.inaturalist.org/photos/651236524
+  author: Jaime Navarrete Rivas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651236524/original.jpg
 ---
 
 

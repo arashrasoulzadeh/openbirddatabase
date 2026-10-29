@@ -137,10 +137,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Lek
+image:
+  file: images/apodiformes/trochilidae/chrysuronia-humboldtii/1.jpg
+  page: https://www.inaturalist.org/photos/611355665
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611355665/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chrysuronia-humboldtii/1.jpg
+  page: https://www.inaturalist.org/photos/611355665
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611355665/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-humboldtii/2.jpg
+  page: https://www.inaturalist.org/photos/241072981
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241072981/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-humboldtii/3.jpg
+  page: https://www.inaturalist.org/photos/611355636
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611355636/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-humboldtii/4.jpg
+  page: https://www.inaturalist.org/photos/611355635
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611355635/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-humboldtii/5.jpg
+  page: https://www.inaturalist.org/photos/241073124
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241073124/original.jpg
 ---
 
 

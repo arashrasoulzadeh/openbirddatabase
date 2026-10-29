@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-menachensis/1.jpg
+  page: https://www.inaturalist.org/photos/478313680
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478313680/original.jpeg
+images:
+- file: images/passeriformes/turdidae/turdus-menachensis/1.jpg
+  page: https://www.inaturalist.org/photos/478313680
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478313680/original.jpeg
+- file: images/passeriformes/turdidae/turdus-menachensis/2.jpg
+  page: https://www.inaturalist.org/photos/261076448
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261076448/original.jpeg
+- file: images/passeriformes/turdidae/turdus-menachensis/3.jpg
+  page: https://www.inaturalist.org/photos/96396585
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96396585/original.jpeg
+- file: images/passeriformes/turdidae/turdus-menachensis/4.jpg
+  page: https://www.inaturalist.org/photos/260923332
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260923332/original.jpeg
+- file: images/passeriformes/turdidae/turdus-menachensis/5.jpg
+  page: https://www.inaturalist.org/photos/261050634
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261050634/original.jpeg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/608508962
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608508962/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/608508962
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608508962/original.jpg
+- file: images/strigiformes/strigidae/megascops-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/489429720
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489429720/original.jpg
+- file: images/strigiformes/strigidae/megascops-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/595810746
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595810746/original.jpg
+- file: images/strigiformes/strigidae/megascops-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/239631428
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239631428/original.jpeg
+- file: images/strigiformes/strigidae/megascops-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/103067470
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103067470/original.jpeg
 ---
 
 

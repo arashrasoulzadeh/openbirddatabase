@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-castelnau/1.jpg
+  page: https://www.inaturalist.org/photos/599526584
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599526584/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-castelnau/1.jpg
+  page: https://www.inaturalist.org/photos/599526584
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599526584/original.jpg
+- file: images/piciformes/picidae/picumnus-castelnau/2.jpg
+  page: https://www.inaturalist.org/photos/426773694
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426773694/original.jpg
+- file: images/piciformes/picidae/picumnus-castelnau/3.jpg
+  page: https://www.inaturalist.org/photos/313842480
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313842480/original.jpg
+- file: images/piciformes/picidae/picumnus-castelnau/4.jpg
+  page: https://www.inaturalist.org/photos/599526723
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599526723/original.jpg
+- file: images/piciformes/picidae/picumnus-castelnau/5.jpg
+  page: https://www.inaturalist.org/photos/426774649
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426774649/original.jpg
 ---
 
 

@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendrocolaptes-certhia/1.jpg
+  page: https://www.inaturalist.org/photos/468507779
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468507779/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendrocolaptes-certhia/1.jpg
+  page: https://www.inaturalist.org/photos/468507779
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468507779/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-certhia/2.jpg
+  page: https://www.inaturalist.org/photos/608478481
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608478481/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-certhia/3.jpg
+  page: https://www.inaturalist.org/photos/386558953
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386558953/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-certhia/4.jpg
+  page: https://www.inaturalist.org/photos/251216491
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251216491/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-certhia/5.jpg
+  page: https://www.inaturalist.org/photos/119189883
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/119189883/original.jpeg
 ---
 
 

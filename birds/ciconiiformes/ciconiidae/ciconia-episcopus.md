@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/ciconiiformes/ciconiidae/ciconia-episcopus/1.jpg
+  page: https://www.inaturalist.org/photos/609714806
+  author: ABHINAV JEEVAN K
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609714806/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/ciconia-episcopus/1.jpg
+  page: https://www.inaturalist.org/photos/609714806
+  author: ABHINAV JEEVAN K
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609714806/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-episcopus/2.jpg
+  page: https://www.inaturalist.org/photos/619538605
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619538605/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-episcopus/3.jpg
+  page: https://www.inaturalist.org/photos/622361087
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622361087/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-episcopus/4.jpg
+  page: https://www.inaturalist.org/photos/623515040
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623515040/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-episcopus/5.jpg
+  page: https://www.inaturalist.org/photos/631015310
+  author: Pranav Chandra Bose
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631015310/original.jpg
 ---
 
 

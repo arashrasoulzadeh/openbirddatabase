@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myioborus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/612907182
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612907182/original.jpg
+images:
+- file: images/passeriformes/parulidae/myioborus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/612907182
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612907182/original.jpg
+- file: images/passeriformes/parulidae/myioborus-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/648970617
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648970617/original.jpg
+- file: images/passeriformes/parulidae/myioborus-ornatus/3.jpg
+  page: https://www.inaturalist.org/photos/652809568
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652809568/original.jpg
+- file: images/passeriformes/parulidae/myioborus-ornatus/4.jpg
+  page: https://www.inaturalist.org/photos/706456798
+  author: Sandino Guerrero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706456798/original.jpg
+- file: images/passeriformes/parulidae/myioborus-ornatus/5.jpg
+  page: https://www.inaturalist.org/photos/721622659
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721622659/original.jpg
 ---
 
 

@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.3
@@ -136,6 +137,44 @@ morphology:
   wing_length_mm: 82.0
   tail_length_mm: 46.0
   body_mass_g: 19.2
+image:
+  file: images/piciformes/picidae/yungipicus-kizuki/1.jpg
+  page: https://www.inaturalist.org/photos/604907888
+  author: IMORI MIHO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604907888/original.jpg
+images:
+- file: images/piciformes/picidae/yungipicus-kizuki/1.jpg
+  page: https://www.inaturalist.org/photos/604907888
+  author: IMORI MIHO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604907888/original.jpg
+- file: images/piciformes/picidae/yungipicus-kizuki/2.jpg
+  page: https://www.inaturalist.org/photos/605329577
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605329577/original.jpg
+- file: images/piciformes/picidae/yungipicus-kizuki/3.jpg
+  page: https://www.inaturalist.org/photos/605610494
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605610494/original.jpg
+- file: images/piciformes/picidae/yungipicus-kizuki/4.jpg
+  page: https://www.inaturalist.org/photos/604746207
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604746207/original.jpg
+- file: images/piciformes/picidae/yungipicus-kizuki/5.jpg
+  page: https://www.inaturalist.org/photos/604943881
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604943881/original.jpg
 ---
 
 

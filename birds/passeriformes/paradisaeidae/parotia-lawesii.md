@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradisaeidae/parotia-lawesii/1.jpg
+  page: https://www.inaturalist.org/photos/700676852
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700676852/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/parotia-lawesii/1.jpg
+  page: https://www.inaturalist.org/photos/700676852
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700676852/original.jpg
+- file: images/passeriformes/paradisaeidae/parotia-lawesii/2.jpg
+  page: https://www.inaturalist.org/photos/700676869
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700676869/original.jpg
+- file: images/passeriformes/paradisaeidae/parotia-lawesii/3.jpg
+  page: https://www.inaturalist.org/photos/700676871
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700676871/original.jpg
+- file: images/passeriformes/paradisaeidae/parotia-lawesii/4.jpg
+  page: https://www.inaturalist.org/photos/700676872
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700676872/original.jpg
+- file: images/passeriformes/paradisaeidae/parotia-lawesii/5.jpg
+  page: https://www.inaturalist.org/photos/700676880
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700676880/original.jpg
 ---
 
 

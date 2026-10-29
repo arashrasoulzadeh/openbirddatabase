@@ -140,8 +140,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/bernieridae/hartertula-flavoviridis/1.jpg
+  page: https://www.inaturalist.org/photos/455477933
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455477933/original.jpg
+images:
+- file: images/passeriformes/bernieridae/hartertula-flavoviridis/1.jpg
+  page: https://www.inaturalist.org/photos/455477933
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455477933/original.jpg
+- file: images/passeriformes/bernieridae/hartertula-flavoviridis/2.jpg
+  page: https://www.inaturalist.org/photos/2955094
+  author: Nick Block
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2955094/original.JPG
+- file: images/passeriformes/bernieridae/hartertula-flavoviridis/3.jpg
+  page: https://www.inaturalist.org/photos/455477890
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455477890/original.jpg
 ---
 
 

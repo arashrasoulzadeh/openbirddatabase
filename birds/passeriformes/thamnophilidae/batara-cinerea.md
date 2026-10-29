@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/batara-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/608748410
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608748410/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/batara-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/608748410
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608748410/original.jpg
+- file: images/passeriformes/thamnophilidae/batara-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/639563122
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639563122/original.jpg
+- file: images/passeriformes/thamnophilidae/batara-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/649729795
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649729795/original.jpg
+- file: images/passeriformes/thamnophilidae/batara-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/482880948
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482880948/original.jpeg
+- file: images/passeriformes/thamnophilidae/batara-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/545018446
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545018446/original.jpg
 ---
 
 

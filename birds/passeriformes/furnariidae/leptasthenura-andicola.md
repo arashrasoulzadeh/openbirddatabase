@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/leptasthenura-andicola/1.jpg
+  page: https://www.inaturalist.org/photos/621459534
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621459534/original.jpg
+images:
+- file: images/passeriformes/furnariidae/leptasthenura-andicola/1.jpg
+  page: https://www.inaturalist.org/photos/621459534
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621459534/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-andicola/2.jpg
+  page: https://www.inaturalist.org/photos/489341935
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489341935/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-andicola/3.jpg
+  page: https://www.inaturalist.org/photos/528340910
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528340910/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-andicola/4.jpg
+  page: https://www.inaturalist.org/photos/583041813
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583041813/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-andicola/5.jpg
+  page: https://www.inaturalist.org/photos/593442197
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593442197/original.jpg
 ---
 
 

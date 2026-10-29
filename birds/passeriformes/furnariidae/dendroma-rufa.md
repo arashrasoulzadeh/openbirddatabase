@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendroma-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/622665293
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622665293/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendroma-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/622665293
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622665293/original.jpg
+- file: images/passeriformes/furnariidae/dendroma-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/637261529
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637261529/original.jpg
+- file: images/passeriformes/furnariidae/dendroma-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/641153527
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641153527/original.jpg
+- file: images/passeriformes/furnariidae/dendroma-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/649409189
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649409189/original.jpg
+- file: images/passeriformes/furnariidae/dendroma-rufa/5.jpg
+  page: https://www.inaturalist.org/photos/669739684
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669739684/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/pyrgilauda-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/705333856
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705333856/original.jpg
+images:
+- file: images/passeriformes/passeridae/pyrgilauda-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/705333856
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705333856/original.jpg
+- file: images/passeriformes/passeridae/pyrgilauda-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/536997462
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536997462/original.jpg
+- file: images/passeriformes/passeridae/pyrgilauda-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/551705792
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551705792/original.jpg
+- file: images/passeriformes/passeridae/pyrgilauda-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/601018581
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601018581/original.jpg
+- file: images/passeriformes/passeridae/pyrgilauda-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/421936225
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/421936225/original.jpg
 ---
 
 

@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/microspingus-erythrophrys/1.jpg
+  page: https://www.inaturalist.org/photos/672475930
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672475930/original.jpg
+images:
+- file: images/passeriformes/thraupidae/microspingus-erythrophrys/1.jpg
+  page: https://www.inaturalist.org/photos/672475930
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672475930/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-erythrophrys/2.jpg
+  page: https://www.inaturalist.org/photos/702986674
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702986674/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-erythrophrys/3.jpg
+  page: https://www.inaturalist.org/photos/703056228
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703056228/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-erythrophrys/4.jpg
+  page: https://www.inaturalist.org/photos/490423863
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490423863/original.jpeg
+- file: images/passeriformes/thraupidae/microspingus-erythrophrys/5.jpg
+  page: https://www.inaturalist.org/photos/570318397
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570318397/original.jpg
 ---
 
 

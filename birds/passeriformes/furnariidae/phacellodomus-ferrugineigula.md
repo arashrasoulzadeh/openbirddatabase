@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/phacellodomus-ferrugineigula/1.jpg
+  page: https://www.inaturalist.org/photos/605729938
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729938/original.jpg
+images:
+- file: images/passeriformes/furnariidae/phacellodomus-ferrugineigula/1.jpg
+  page: https://www.inaturalist.org/photos/605729938
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729938/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-ferrugineigula/2.jpg
+  page: https://www.inaturalist.org/photos/637145305
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637145305/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-ferrugineigula/3.jpg
+  page: https://www.inaturalist.org/photos/643687963
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643687963/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-ferrugineigula/4.jpg
+  page: https://www.inaturalist.org/photos/641153676
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641153676/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-ferrugineigula/5.jpg
+  page: https://www.inaturalist.org/photos/733799135
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733799135/original.jpg
 ---
 
 

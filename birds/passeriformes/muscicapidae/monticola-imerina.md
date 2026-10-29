@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-imerina/1.jpg
+  page: https://www.inaturalist.org/photos/656021964
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656021964/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-imerina/1.jpg
+  page: https://www.inaturalist.org/photos/656021964
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656021964/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-imerina/2.jpg
+  page: https://www.inaturalist.org/photos/453722476
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453722476/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-imerina/3.jpg
+  page: https://www.inaturalist.org/photos/340031906
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340031906/original.jpeg
+- file: images/passeriformes/muscicapidae/monticola-imerina/4.jpg
+  page: https://www.inaturalist.org/photos/243859831
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243859831/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-imerina/5.jpg
+  page: https://www.inaturalist.org/photos/34648296
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/34648296/original.jpg
 ---
 
 

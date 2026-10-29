@@ -125,8 +125,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-modiglianii/1.jpg
+  page: https://www.inaturalist.org/photos/605727806
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605727806/original.jpg
+images:
+- file: images/columbiformes/columbidae/macropygia-modiglianii/1.jpg
+  page: https://www.inaturalist.org/photos/605727806
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605727806/original.jpg
+- file: images/columbiformes/columbidae/macropygia-modiglianii/2.jpg
+  page: https://www.inaturalist.org/photos/605727814
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605727814/original.jpg
+- file: images/columbiformes/columbidae/macropygia-modiglianii/3.jpg
+  page: https://www.inaturalist.org/photos/606421483
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606421483/original.jpg
 ---
 
 

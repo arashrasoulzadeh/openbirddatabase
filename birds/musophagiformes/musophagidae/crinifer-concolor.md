@@ -131,8 +131,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/musophagiformes/musophagidae/crinifer-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/607417432
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607417432/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/crinifer-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/607417432
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607417432/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-concolor/2.jpg
+  page: https://www.inaturalist.org/photos/609413230
+  author: Andreas De Beer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609413230/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-concolor/3.jpg
+  page: https://www.inaturalist.org/photos/607709999
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607709999/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-concolor/4.jpg
+  page: https://www.inaturalist.org/photos/611846747
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611846747/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-concolor/5.jpg
+  page: https://www.inaturalist.org/photos/642298213
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642298213/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/hylophilus-amaurocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/642873928
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642873928/original.jpg
+images:
+- file: images/passeriformes/vireonidae/hylophilus-amaurocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/642873928
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642873928/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-amaurocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/728683508
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728683508/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-amaurocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/470781048
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470781048/original.jpeg
+- file: images/passeriformes/vireonidae/hylophilus-amaurocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/504035715
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504035715/original.jpeg
+- file: images/passeriformes/vireonidae/hylophilus-amaurocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/545040373
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545040373/original.jpg
 ---
 
 

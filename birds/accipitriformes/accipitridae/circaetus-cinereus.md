@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/accipitriformes/accipitridae/circaetus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/612342884
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612342884/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circaetus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/612342884
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612342884/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/658112866
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658112866/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/626603510
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626603510/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/678046221
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678046221/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/638866202
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638866202/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/tetraogallus-tibetanus/1.jpg
+  page: https://www.inaturalist.org/photos/489235250
+  author: mnt99york
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489235250/original.jpg
+images:
+- file: images/galliformes/phasianidae/tetraogallus-tibetanus/1.jpg
+  page: https://www.inaturalist.org/photos/489235250
+  author: mnt99york
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489235250/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-tibetanus/2.jpg
+  page: https://www.inaturalist.org/photos/522378183
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522378183/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-tibetanus/3.jpg
+  page: https://www.inaturalist.org/photos/590384131
+  author: Andrew Lie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590384131/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-tibetanus/4.jpg
+  page: https://www.inaturalist.org/photos/381829781
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/381829781/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-tibetanus/5.jpg
+  page: https://www.inaturalist.org/photos/522378187
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522378187/original.jpg
 ---
 
 

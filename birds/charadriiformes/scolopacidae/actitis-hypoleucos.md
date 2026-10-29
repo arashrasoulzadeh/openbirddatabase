@@ -212,10 +212,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/charadriiformes/scolopacidae/actitis-hypoleucos/1.jpg
+  page: https://www.inaturalist.org/photos/605083816
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083816/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/actitis-hypoleucos/1.jpg
+  page: https://www.inaturalist.org/photos/605083816
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083816/original.jpg
+- file: images/charadriiformes/scolopacidae/actitis-hypoleucos/2.jpg
+  page: https://www.inaturalist.org/photos/604739662
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604739662/original.jpg
+- file: images/charadriiformes/scolopacidae/actitis-hypoleucos/3.jpg
+  page: https://www.inaturalist.org/photos/605249199
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605249199/original.jpg
+- file: images/charadriiformes/scolopacidae/actitis-hypoleucos/4.jpg
+  page: https://www.inaturalist.org/photos/605646923
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605646923/original.jpg
+- file: images/charadriiformes/scolopacidae/actitis-hypoleucos/5.jpg
+  page: https://www.inaturalist.org/photos/605030782
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605030782/original.jpg
 ---
 
 

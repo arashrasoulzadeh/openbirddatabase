@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/mimidae/toxostoma-longirostre/1.jpg
+  page: https://www.inaturalist.org/photos/606436532
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606436532/original.jpg
+images:
+- file: images/passeriformes/mimidae/toxostoma-longirostre/1.jpg
+  page: https://www.inaturalist.org/photos/606436532
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606436532/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-longirostre/2.jpg
+  page: https://www.inaturalist.org/photos/605791312
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605791312/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-longirostre/3.jpg
+  page: https://www.inaturalist.org/photos/607448438
+  author: Dennis Vollmar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607448438/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-longirostre/4.jpg
+  page: https://www.inaturalist.org/photos/616095001
+  author: mattmsa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616095001/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-longirostre/5.jpg
+  page: https://www.inaturalist.org/photos/618290085
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618290085/original.jpg
 ---
 
 

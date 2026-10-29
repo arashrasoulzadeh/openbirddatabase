@@ -129,7 +129,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 24.9
@@ -139,6 +140,44 @@ morphology:
   body_mass_g: 11.5
 reproduction:
   clutch_size_mean: 1.4
+image:
+  file: images/passeriformes/nectariniidae/cyanomitra-veroxii/1.jpg
+  page: https://www.inaturalist.org/photos/627555997
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627555997/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cyanomitra-veroxii/1.jpg
+  page: https://www.inaturalist.org/photos/627555997
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627555997/original.jpg
+- file: images/passeriformes/nectariniidae/cyanomitra-veroxii/2.jpg
+  page: https://www.inaturalist.org/photos/651206294
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651206294/original.jpg
+- file: images/passeriformes/nectariniidae/cyanomitra-veroxii/3.jpg
+  page: https://www.inaturalist.org/photos/714861900
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714861900/original.jpg
+- file: images/passeriformes/nectariniidae/cyanomitra-veroxii/4.jpg
+  page: https://www.inaturalist.org/photos/734316201
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734316201/original.jpg
+- file: images/passeriformes/nectariniidae/cyanomitra-veroxii/5.jpg
+  page: https://www.inaturalist.org/photos/462499008
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462499008/original.jpeg
 ---
 
 

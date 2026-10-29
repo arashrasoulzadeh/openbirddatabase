@@ -135,8 +135,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-vassali/1.jpg
+  page: https://www.inaturalist.org/photos/631330797
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631330797/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-vassali/1.jpg
+  page: https://www.inaturalist.org/photos/631330797
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631330797/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-vassali/2.jpg
+  page: https://www.inaturalist.org/photos/389183685
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/389183685/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-vassali/3.jpg
+  page: https://www.inaturalist.org/photos/385764697
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385764697/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-vassali/4.jpg
+  page: https://www.inaturalist.org/photos/105776774
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105776774/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-vassali/5.jpg
+  page: https://www.inaturalist.org/photos/339822471
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339822471/original.jpeg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/gampsorhynchus-rufulus/1.jpg
+  page: https://www.inaturalist.org/photos/365333971
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365333971/original.jpeg
+images:
+- file: images/passeriformes/pellorneidae/gampsorhynchus-rufulus/1.jpg
+  page: https://www.inaturalist.org/photos/365333971
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365333971/original.jpeg
+- file: images/passeriformes/pellorneidae/gampsorhynchus-rufulus/2.jpg
+  page: https://www.inaturalist.org/photos/395650944
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395650944/original.jpg
+- file: images/passeriformes/pellorneidae/gampsorhynchus-rufulus/3.jpg
+  page: https://www.inaturalist.org/photos/208316540
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/208316540/original.jpg
+- file: images/passeriformes/pellorneidae/gampsorhynchus-rufulus/4.jpg
+  page: https://www.inaturalist.org/photos/617509477
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617509477/original.jpg
+- file: images/passeriformes/pellorneidae/gampsorhynchus-rufulus/5.jpg
+  page: https://www.inaturalist.org/photos/94316266
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94316266/original.jpeg
 ---
 
 

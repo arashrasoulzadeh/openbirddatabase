@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/tyrannidae/sayornis-saya/1.jpg
+  page: https://www.inaturalist.org/photos/604668734
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604668734/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/sayornis-saya/1.jpg
+  page: https://www.inaturalist.org/photos/604668734
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604668734/original.jpg
+- file: images/passeriformes/tyrannidae/sayornis-saya/2.jpg
+  page: https://www.inaturalist.org/photos/604832449
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604832449/original.jpg
+- file: images/passeriformes/tyrannidae/sayornis-saya/3.jpg
+  page: https://www.inaturalist.org/photos/605492296
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492296/original.jpg
+- file: images/passeriformes/tyrannidae/sayornis-saya/4.jpg
+  page: https://www.inaturalist.org/photos/605383674
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383674/original.jpg
+- file: images/passeriformes/tyrannidae/sayornis-saya/5.jpg
+  page: https://www.inaturalist.org/photos/604607131
+  author: Malena Lacque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604607131/original.jpg
 ---
 
 

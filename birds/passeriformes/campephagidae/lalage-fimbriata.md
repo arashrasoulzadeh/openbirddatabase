@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/lalage-fimbriata/1.jpg
+  page: https://www.inaturalist.org/photos/627860208
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627860208/original.jpg
+images:
+- file: images/passeriformes/campephagidae/lalage-fimbriata/1.jpg
+  page: https://www.inaturalist.org/photos/627860208
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627860208/original.jpg
+- file: images/passeriformes/campephagidae/lalage-fimbriata/2.jpg
+  page: https://www.inaturalist.org/photos/549220376
+  author: René Heinrich
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549220376/original.jpg
+- file: images/passeriformes/campephagidae/lalage-fimbriata/3.jpg
+  page: https://www.inaturalist.org/photos/599187638
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599187638/original.jpg
+- file: images/passeriformes/campephagidae/lalage-fimbriata/4.jpg
+  page: https://www.inaturalist.org/photos/338999490
+  author: nevwright
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338999490/original.jpeg
+- file: images/passeriformes/campephagidae/lalage-fimbriata/5.jpg
+  page: https://www.inaturalist.org/photos/627860229
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627860229/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-atricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/237312295
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237312295/original.jpeg
+images:
+- file: images/passeriformes/passerellidae/arremon-atricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/237312295
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237312295/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-atricapillus/2.jpg
+  page: https://www.inaturalist.org/photos/250156205
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250156205/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-atricapillus/3.jpg
+  page: https://www.inaturalist.org/photos/104627830
+  author: Laia Gaitán-Botero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104627830/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-atricapillus/4.jpg
+  page: https://www.inaturalist.org/photos/237312292
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237312292/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-atricapillus/5.jpg
+  page: https://www.inaturalist.org/photos/104627847
+  author: Laia Gaitán-Botero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104627847/original.jpeg
 ---
 
 

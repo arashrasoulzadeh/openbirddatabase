@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 19.6
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 87.8
   tail_length_mm: 107.4
   body_mass_g: 26.0
+image:
+  file: images/passeriformes/paradoxornithidae/paradoxornis-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/120749740
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120749740/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/paradoxornis-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/120749740
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120749740/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-flavirostris/2.jpg
+  page: https://www.inaturalist.org/photos/395651253
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651253/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-flavirostris/3.jpg
+  page: https://www.inaturalist.org/photos/120749750
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120749750/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-flavirostris/4.jpg
+  page: https://www.inaturalist.org/photos/120749678
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120749678/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-flavirostris/5.jpg
+  page: https://www.inaturalist.org/photos/120749673
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120749673/original.jpg
 ---
 
 

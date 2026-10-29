@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-greyi/1.jpg
+  page: https://www.inaturalist.org/photos/535089965
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535089965/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-greyi/1.jpg
+  page: https://www.inaturalist.org/photos/535089965
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535089965/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-greyi/2.jpg
+  page: https://www.inaturalist.org/photos/586531839
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586531839/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-greyi/3.jpg
+  page: https://www.inaturalist.org/photos/348570764
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348570764/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-greyi/4.jpg
+  page: https://www.inaturalist.org/photos/259208607
+  author: Shelomi Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259208607/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-greyi/5.jpg
+  page: https://www.inaturalist.org/photos/113504369
+  author: Lennart Hudel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113504369/original.jpeg
 ---
 
 

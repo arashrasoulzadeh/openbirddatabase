@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-conradi/1.jpg
+  page: https://www.inaturalist.org/photos/605213322
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605213322/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-conradi/1.jpg
+  page: https://www.inaturalist.org/photos/605213322
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605213322/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-conradi/2.jpg
+  page: https://www.inaturalist.org/photos/608898301
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608898301/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-conradi/3.jpg
+  page: https://www.inaturalist.org/photos/608627195
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608627195/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-conradi/4.jpg
+  page: https://www.inaturalist.org/photos/607361593
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607361593/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-conradi/5.jpg
+  page: https://www.inaturalist.org/photos/608396561
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608396561/original.jpg
 ---
 
 

@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/melaenornis-edolioides/1.jpg
+  page: https://www.inaturalist.org/photos/612781028
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612781028/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/melaenornis-edolioides/1.jpg
+  page: https://www.inaturalist.org/photos/612781028
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612781028/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-edolioides/2.jpg
+  page: https://www.inaturalist.org/photos/668231170
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668231170/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-edolioides/3.jpg
+  page: https://www.inaturalist.org/photos/718535463
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718535463/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-edolioides/4.jpg
+  page: https://www.inaturalist.org/photos/471351540
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351540/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-edolioides/5.jpg
+  page: https://www.inaturalist.org/photos/479351864
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479351864/original.jpg
 ---
 
 

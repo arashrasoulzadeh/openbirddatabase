@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-sulphurata/1.jpg
+  page: https://www.inaturalist.org/photos/726216673
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726216673/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-sulphurata/1.jpg
+  page: https://www.inaturalist.org/photos/726216673
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726216673/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-sulphurata/2.jpg
+  page: https://www.inaturalist.org/photos/603618855
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603618855/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-sulphurata/3.jpg
+  page: https://www.inaturalist.org/photos/447798086
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447798086/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-sulphurata/4.jpg
+  page: https://www.inaturalist.org/photos/344618518
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344618518/original.jpeg
+- file: images/passeriformes/emberizidae/emberiza-sulphurata/5.jpg
+  page: https://www.inaturalist.org/photos/243889870
+  author: alexsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243889870/original.jpeg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/progne-tapera/1.jpg
+  page: https://www.inaturalist.org/photos/604777690
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604777690/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/progne-tapera/1.jpg
+  page: https://www.inaturalist.org/photos/604777690
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604777690/original.jpg
+- file: images/passeriformes/hirundinidae/progne-tapera/2.jpg
+  page: https://www.inaturalist.org/photos/605688558
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605688558/original.jpg
+- file: images/passeriformes/hirundinidae/progne-tapera/3.jpg
+  page: https://www.inaturalist.org/photos/604807511
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604807511/original.jpg
+- file: images/passeriformes/hirundinidae/progne-tapera/4.jpg
+  page: https://www.inaturalist.org/photos/607784119
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784119/original.jpg
+- file: images/passeriformes/hirundinidae/progne-tapera/5.jpg
+  page: https://www.inaturalist.org/photos/609364140
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609364140/original.jpg
 ---
 
 

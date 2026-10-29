@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campethera-notata/1.jpg
+  page: https://www.inaturalist.org/photos/624179930
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624179930/original.jpg
+images:
+- file: images/piciformes/picidae/campethera-notata/1.jpg
+  page: https://www.inaturalist.org/photos/624179930
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624179930/original.jpg
+- file: images/piciformes/picidae/campethera-notata/2.jpg
+  page: https://www.inaturalist.org/photos/620886551
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620886551/original.jpg
+- file: images/piciformes/picidae/campethera-notata/3.jpg
+  page: https://www.inaturalist.org/photos/651190342
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651190342/original.jpg
+- file: images/piciformes/picidae/campethera-notata/4.jpg
+  page: https://www.inaturalist.org/photos/565809327
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565809327/original.jpg
+- file: images/piciformes/picidae/campethera-notata/5.jpg
+  page: https://www.inaturalist.org/photos/555552929
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555552929/original.jpg
 ---
 
 

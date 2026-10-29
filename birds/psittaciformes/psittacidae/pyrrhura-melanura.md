@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-melanura/1.jpg
+  page: https://www.inaturalist.org/photos/616992510
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616992510/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-melanura/1.jpg
+  page: https://www.inaturalist.org/photos/616992510
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616992510/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-melanura/2.jpg
+  page: https://www.inaturalist.org/photos/567066970
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567066970/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-melanura/3.jpg
+  page: https://www.inaturalist.org/photos/352707433
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352707433/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-melanura/4.jpg
+  page: https://www.inaturalist.org/photos/461920058
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461920058/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-melanura/5.jpg
+  page: https://www.inaturalist.org/photos/408683156
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/408683156/original.jpeg
 ---
 
 

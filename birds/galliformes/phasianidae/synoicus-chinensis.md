@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/synoicus-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/492143446
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492143446/original.jpeg
+images:
+- file: images/galliformes/phasianidae/synoicus-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/492143446
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492143446/original.jpeg
+- file: images/galliformes/phasianidae/synoicus-chinensis/2.jpg
+  page: https://www.inaturalist.org/photos/495017843
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495017843/original.jpg
+- file: images/galliformes/phasianidae/synoicus-chinensis/3.jpg
+  page: https://www.inaturalist.org/photos/390305568
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390305568/original.jpg
+- file: images/galliformes/phasianidae/synoicus-chinensis/4.jpg
+  page: https://www.inaturalist.org/photos/185791236
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/185791236/original.jpg
+- file: images/galliformes/phasianidae/synoicus-chinensis/5.jpg
+  page: https://www.inaturalist.org/photos/240017244
+  author: Simon Tamblyn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240017244/original.jpg
 ---
 
 

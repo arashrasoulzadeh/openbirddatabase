@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/scleroptila-levaillantii/1.jpg
+  page: https://www.inaturalist.org/photos/450803592
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450803592/original.jpeg
+images:
+- file: images/galliformes/phasianidae/scleroptila-levaillantii/1.jpg
+  page: https://www.inaturalist.org/photos/450803592
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450803592/original.jpeg
+- file: images/galliformes/phasianidae/scleroptila-levaillantii/2.jpg
+  page: https://www.inaturalist.org/photos/285839641
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285839641/original.jpeg
+- file: images/galliformes/phasianidae/scleroptila-levaillantii/3.jpg
+  page: https://www.inaturalist.org/photos/338826024
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338826024/original.jpeg
+- file: images/galliformes/phasianidae/scleroptila-levaillantii/4.jpg
+  page: https://www.inaturalist.org/photos/340611036
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340611036/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-levaillantii/5.jpg
+  page: https://www.inaturalist.org/photos/351998230
+  author: Ren Hoekstra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351998230/original.jpg
 ---
 
 

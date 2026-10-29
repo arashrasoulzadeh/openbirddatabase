@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/605256530
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605256530/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/605256530
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605256530/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-rufiventris/2.jpg
+  page: https://www.inaturalist.org/photos/604966783
+  author: Rosanna Dedecius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604966783/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-rufiventris/3.jpg
+  page: https://www.inaturalist.org/photos/606741699
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606741699/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-rufiventris/4.jpg
+  page: https://www.inaturalist.org/photos/606086845
+  author: SatNavSaysStraightOn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606086845/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-rufiventris/5.jpg
+  page: https://www.inaturalist.org/photos/607793456
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607793456/original.jpg
 ---
 
 

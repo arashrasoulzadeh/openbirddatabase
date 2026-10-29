@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-costaricanum/1.jpg
+  page: https://www.inaturalist.org/photos/608405402
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608405402/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-costaricanum/1.jpg
+  page: https://www.inaturalist.org/photos/608405402
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608405402/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-costaricanum/2.jpg
+  page: https://www.inaturalist.org/photos/525862903
+  author: STEVEN PEREZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525862903/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-costaricanum/3.jpg
+  page: https://www.inaturalist.org/photos/350270804
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350270804/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-costaricanum/4.jpg
+  page: https://www.inaturalist.org/photos/357394063
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357394063/original.jpeg
+- file: images/strigiformes/strigidae/glaucidium-costaricanum/5.jpg
+  page: https://www.inaturalist.org/photos/429334486
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429334486/original.jpg
 ---
 
 

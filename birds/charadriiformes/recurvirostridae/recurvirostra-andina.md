@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/recurvirostridae/recurvirostra-andina/1.jpg
+  page: https://www.inaturalist.org/photos/609676358
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609676358/original.jpg
+images:
+- file: images/charadriiformes/recurvirostridae/recurvirostra-andina/1.jpg
+  page: https://www.inaturalist.org/photos/609676358
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609676358/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-andina/2.jpg
+  page: https://www.inaturalist.org/photos/634296289
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634296289/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-andina/3.jpg
+  page: https://www.inaturalist.org/photos/613757712
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613757712/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-andina/4.jpg
+  page: https://www.inaturalist.org/photos/616636574
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616636574/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-andina/5.jpg
+  page: https://www.inaturalist.org/photos/649319737
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649319737/original.jpg
 ---
 
 

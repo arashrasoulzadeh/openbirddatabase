@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/momotidae/baryphthengus-ruficapillus/1.jpg
+  page: https://www.inaturalist.org/photos/610972971
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610972971/original.jpg
+images:
+- file: images/coraciiformes/momotidae/baryphthengus-ruficapillus/1.jpg
+  page: https://www.inaturalist.org/photos/610972971
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610972971/original.jpg
+- file: images/coraciiformes/momotidae/baryphthengus-ruficapillus/2.jpg
+  page: https://www.inaturalist.org/photos/641150277
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150277/original.jpg
+- file: images/coraciiformes/momotidae/baryphthengus-ruficapillus/3.jpg
+  page: https://www.inaturalist.org/photos/656621043
+  author: Leonardo Biz Villar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656621043/original.jpg
+- file: images/coraciiformes/momotidae/baryphthengus-ruficapillus/4.jpg
+  page: https://www.inaturalist.org/photos/687178892
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687178892/original.jpg
+- file: images/coraciiformes/momotidae/baryphthengus-ruficapillus/5.jpg
+  page: https://www.inaturalist.org/photos/678926702
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678926702/original.jpg
 ---
 
 

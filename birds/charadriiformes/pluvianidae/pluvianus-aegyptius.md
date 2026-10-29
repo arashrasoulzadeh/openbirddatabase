@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/pluvianidae/pluvianus-aegyptius/1.jpg
+  page: https://www.inaturalist.org/photos/616735185
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616735185/original.jpg
+images:
+- file: images/charadriiformes/pluvianidae/pluvianus-aegyptius/1.jpg
+  page: https://www.inaturalist.org/photos/616735185
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616735185/original.jpg
+- file: images/charadriiformes/pluvianidae/pluvianus-aegyptius/2.jpg
+  page: https://www.inaturalist.org/photos/637945901
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637945901/original.jpg
+- file: images/charadriiformes/pluvianidae/pluvianus-aegyptius/3.jpg
+  page: https://www.inaturalist.org/photos/582488499
+  author: Markus Lampinen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582488499/original.jpg
+- file: images/charadriiformes/pluvianidae/pluvianus-aegyptius/4.jpg
+  page: https://www.inaturalist.org/photos/351731229
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351731229/original.jpeg
+- file: images/charadriiformes/pluvianidae/pluvianus-aegyptius/5.jpg
+  page: https://www.inaturalist.org/photos/353842047
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353842047/original.png
 ---
 
 

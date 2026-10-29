@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/strigiformes/strigidae/otus-sunia/1.jpg
+  page: https://www.inaturalist.org/photos/718933085
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718933085/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-sunia/1.jpg
+  page: https://www.inaturalist.org/photos/718933085
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718933085/original.jpg
+- file: images/strigiformes/strigidae/otus-sunia/2.jpg
+  page: https://www.inaturalist.org/photos/687632538
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687632538/original.jpg
+- file: images/strigiformes/strigidae/otus-sunia/3.jpg
+  page: https://www.inaturalist.org/photos/726867402
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726867402/original.jpg
+- file: images/strigiformes/strigidae/otus-sunia/4.jpg
+  page: https://www.inaturalist.org/photos/464460786
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464460786/original.jpg
+- file: images/strigiformes/strigidae/otus-sunia/5.jpg
+  page: https://www.inaturalist.org/photos/718933060
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718933060/original.jpg
 ---
 
 

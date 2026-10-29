@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/pitta-sordida/1.jpg
+  page: https://www.inaturalist.org/photos/626294418
+  author: Chuck Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626294418/original.jpg
+images:
+- file: images/passeriformes/pittidae/pitta-sordida/1.jpg
+  page: https://www.inaturalist.org/photos/626294418
+  author: Chuck Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626294418/original.jpg
+- file: images/passeriformes/pittidae/pitta-sordida/2.jpg
+  page: https://www.inaturalist.org/photos/657162523
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657162523/original.jpg
+- file: images/passeriformes/pittidae/pitta-sordida/3.jpg
+  page: https://www.inaturalist.org/photos/679337238
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679337238/original.jpg
+- file: images/passeriformes/pittidae/pitta-sordida/4.jpg
+  page: https://www.inaturalist.org/photos/699026416
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699026416/original.jpg
+- file: images/passeriformes/pittidae/pitta-sordida/5.jpg
+  page: https://www.inaturalist.org/photos/657162560
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657162560/original.jpg
 ---
 
 

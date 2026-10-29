@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-balearica/1.jpg
+  page: https://www.inaturalist.org/photos/284499034
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/284499034/original.jpeg
+images:
+- file: images/passeriformes/sylviidae/curruca-balearica/1.jpg
+  page: https://www.inaturalist.org/photos/284499034
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/284499034/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-balearica/2.jpg
+  page: https://www.inaturalist.org/photos/92251341
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92251341/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-balearica/3.jpg
+  page: https://www.inaturalist.org/photos/284499063
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/284499063/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-balearica/4.jpg
+  page: https://www.inaturalist.org/photos/284499094
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/284499094/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-balearica/5.jpg
+  page: https://www.inaturalist.org/photos/284499129
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/284499129/original.jpeg
 ---
 
 

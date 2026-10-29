@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/chamaetylas-poliocephala/1.jpg
+  page: https://www.inaturalist.org/photos/565282026
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565282026/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/chamaetylas-poliocephala/1.jpg
+  page: https://www.inaturalist.org/photos/565282026
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565282026/original.jpg
+- file: images/passeriformes/muscicapidae/chamaetylas-poliocephala/2.jpg
+  page: https://www.inaturalist.org/photos/607283987
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607283987/original.jpg
+- file: images/passeriformes/muscicapidae/chamaetylas-poliocephala/3.jpg
+  page: https://www.inaturalist.org/photos/54533503
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/54533503/original.jpeg
+- file: images/passeriformes/muscicapidae/chamaetylas-poliocephala/4.jpg
+  page: https://picasaweb.google.com/112678111612962172808/Kenya2009#5386334136646183090
+  author: Doug Macaulay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5963835/original.jpg
+- file: images/passeriformes/muscicapidae/chamaetylas-poliocephala/5.jpg
+  page: https://www.inaturalist.org/photos/565282025
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565282025/original.jpg
 ---
 
 

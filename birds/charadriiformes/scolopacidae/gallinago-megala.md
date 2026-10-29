@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-megala/1.jpg
+  page: https://www.inaturalist.org/photos/515721074
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515721074/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-megala/1.jpg
+  page: https://www.inaturalist.org/photos/515721074
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515721074/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-megala/2.jpg
+  page: https://www.inaturalist.org/photos/372714763
+  author: Marina Potapova
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/372714763/original.jpeg
+- file: images/charadriiformes/scolopacidae/gallinago-megala/3.jpg
+  page: https://www.inaturalist.org/photos/515721075
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515721075/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-megala/4.jpg
+  page: https://www.inaturalist.org/photos/515721078
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515721078/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-megala/5.jpg
+  page: https://www.inaturalist.org/photos/515721025
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515721025/original.jpg
 ---
 
 

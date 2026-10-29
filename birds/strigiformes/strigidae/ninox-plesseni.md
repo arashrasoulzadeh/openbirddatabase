@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-plesseni/1.jpg
+  page: https://www.inaturalist.org/photos/447237008
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447237008/original.jpeg
+images:
+- file: images/strigiformes/strigidae/ninox-plesseni/1.jpg
+  page: https://www.inaturalist.org/photos/447237008
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447237008/original.jpeg
+- file: images/strigiformes/strigidae/ninox-plesseni/2.jpg
+  page: https://www.inaturalist.org/photos/327372974
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327372974/original.jpeg
+- file: images/strigiformes/strigidae/ninox-plesseni/3.jpg
+  page: https://www.inaturalist.org/photos/327373244
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327373244/original.jpeg
+- file: images/strigiformes/strigidae/ninox-plesseni/4.jpg
+  page: https://www.inaturalist.org/photos/337787439
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787439/original.jpeg
+- file: images/strigiformes/strigidae/ninox-plesseni/5.jpg
+  page: https://www.inaturalist.org/photos/433880475
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433880475/original.jpeg
 ---
 
 

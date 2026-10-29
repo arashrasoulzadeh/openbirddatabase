@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-rufigena/1.jpg
+  page: https://www.inaturalist.org/photos/620780381
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620780381/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-rufigena/1.jpg
+  page: https://www.inaturalist.org/photos/620780381
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620780381/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-rufigena/2.jpg
+  page: https://www.inaturalist.org/photos/730298766
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730298766/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-rufigena/3.jpg
+  page: https://www.inaturalist.org/photos/585908259
+  author: Stefan Curth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585908259/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-rufigena/4.jpg
+  page: https://www.inaturalist.org/photos/526919343
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526919343/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-rufigena/5.jpg
+  page: https://www.inaturalist.org/photos/64594719
+  author: Robert Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64594719/original.jpg
 ---
 
 

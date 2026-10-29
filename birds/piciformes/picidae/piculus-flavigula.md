@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/piculus-flavigula/1.jpg
+  page: https://www.inaturalist.org/photos/610446960
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610446960/original.jpg
+images:
+- file: images/piciformes/picidae/piculus-flavigula/1.jpg
+  page: https://www.inaturalist.org/photos/610446960
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610446960/original.jpg
+- file: images/piciformes/picidae/piculus-flavigula/2.jpg
+  page: https://www.inaturalist.org/photos/607243329
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243329/original.jpg
+- file: images/piciformes/picidae/piculus-flavigula/3.jpg
+  page: https://www.inaturalist.org/photos/616201841
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201841/original.jpg
+- file: images/piciformes/picidae/piculus-flavigula/4.jpg
+  page: https://www.inaturalist.org/photos/622235303
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622235303/original.jpg
+- file: images/piciformes/picidae/piculus-flavigula/5.jpg
+  page: https://www.inaturalist.org/photos/716443101
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716443101/original.jpg
 ---
 
 

@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/ampelioides-tschudii/1.jpg
+  page: https://www.inaturalist.org/photos/741207405
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741207405/original.jpg
+images:
+- file: images/passeriformes/cotingidae/ampelioides-tschudii/1.jpg
+  page: https://www.inaturalist.org/photos/741207405
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741207405/original.jpg
+- file: images/passeriformes/cotingidae/ampelioides-tschudii/2.jpg
+  page: https://www.inaturalist.org/photos/489409002
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489409002/original.jpg
+- file: images/passeriformes/cotingidae/ampelioides-tschudii/3.jpg
+  page: https://www.inaturalist.org/photos/349357821
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349357821/original.jpg
+- file: images/passeriformes/cotingidae/ampelioides-tschudii/4.jpg
+  page: https://www.inaturalist.org/photos/350904054
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350904054/original.jpeg
+- file: images/passeriformes/cotingidae/ampelioides-tschudii/5.jpg
+  page: https://www.inaturalist.org/photos/254194358
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254194358/original.jpeg
 ---
 
 

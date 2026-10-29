@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/capito-maculicoronatus/1.jpg
+  page: https://www.inaturalist.org/photos/612474582
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612474582/original.jpg
+images:
+- file: images/piciformes/capitonidae/capito-maculicoronatus/1.jpg
+  page: https://www.inaturalist.org/photos/612474582
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612474582/original.jpg
+- file: images/piciformes/capitonidae/capito-maculicoronatus/2.jpg
+  page: https://www.inaturalist.org/photos/623793283
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793283/original.jpg
+- file: images/piciformes/capitonidae/capito-maculicoronatus/3.jpg
+  page: https://www.inaturalist.org/photos/698026943
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698026943/original.jpg
+- file: images/piciformes/capitonidae/capito-maculicoronatus/4.jpg
+  page: https://www.inaturalist.org/photos/722074377
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722074377/original.jpg
+- file: images/piciformes/capitonidae/capito-maculicoronatus/5.jpg
+  page: https://www.inaturalist.org/photos/462619820
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462619820/original.jpeg
 ---
 
 

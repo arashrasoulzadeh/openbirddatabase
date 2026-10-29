@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaricula-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/623798211
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623798211/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaricula-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/623798211
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623798211/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-flavirostris/2.jpg
+  page: https://www.inaturalist.org/photos/510885066
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510885066/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-flavirostris/3.jpg
+  page: https://www.inaturalist.org/photos/600433202
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600433202/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-flavirostris/4.jpg
+  page: https://www.inaturalist.org/photos/351434830
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351434830/original.jpeg
+- file: images/passeriformes/grallariidae/grallaricula-flavirostris/5.jpg
+  page: https://www.inaturalist.org/photos/623798283
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623798283/original.jpg
 ---
 
 

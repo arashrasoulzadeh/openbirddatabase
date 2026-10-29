@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/sphyrapicus-thyroideus/1.jpg
+  page: https://www.inaturalist.org/photos/606556610
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606556610/original.jpg
+images:
+- file: images/piciformes/picidae/sphyrapicus-thyroideus/1.jpg
+  page: https://www.inaturalist.org/photos/606556610
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606556610/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-thyroideus/2.jpg
+  page: https://www.inaturalist.org/photos/611478332
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611478332/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-thyroideus/3.jpg
+  page: https://www.inaturalist.org/photos/610030351
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610030351/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-thyroideus/4.jpg
+  page: https://www.inaturalist.org/photos/621953649
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621953649/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-thyroideus/5.jpg
+  page: https://www.inaturalist.org/photos/630293244
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630293244/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/pseudoleistes-guirahuro/1.jpg
+  page: https://www.inaturalist.org/photos/607793972
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607793972/original.jpg
+images:
+- file: images/passeriformes/icteridae/pseudoleistes-guirahuro/1.jpg
+  page: https://www.inaturalist.org/photos/607793972
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607793972/original.jpg
+- file: images/passeriformes/icteridae/pseudoleistes-guirahuro/2.jpg
+  page: https://www.inaturalist.org/photos/612259712
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612259712/original.jpg
+- file: images/passeriformes/icteridae/pseudoleistes-guirahuro/3.jpg
+  page: https://www.inaturalist.org/photos/612585798
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612585798/original.jpg
+- file: images/passeriformes/icteridae/pseudoleistes-guirahuro/4.jpg
+  page: https://www.inaturalist.org/photos/620958321
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620958321/original.jpg
+- file: images/passeriformes/icteridae/pseudoleistes-guirahuro/5.jpg
+  page: https://www.inaturalist.org/photos/622666635
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622666635/original.jpg
 ---
 
 

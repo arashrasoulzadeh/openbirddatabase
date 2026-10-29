@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-nebulosa/1.jpg
+  page: https://www.inaturalist.org/photos/700407091
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700407091/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-nebulosa/1.jpg
+  page: https://www.inaturalist.org/photos/700407091
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700407091/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nebulosa/2.jpg
+  page: https://www.inaturalist.org/photos/728667104
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728667104/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nebulosa/3.jpg
+  page: https://www.inaturalist.org/photos/700407085
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700407085/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nebulosa/4.jpg
+  page: https://www.inaturalist.org/photos/700407401
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700407401/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nebulosa/5.jpg
+  page: https://www.inaturalist.org/photos/728667134
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728667134/original.jpg
 ---
 
 

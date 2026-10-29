@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/batrachostomus-chaseni/1.jpg
+  page: https://www.inaturalist.org/photos/276472405
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276472405/original.jpg
+images:
+- file: images/podargiformes/podargidae/batrachostomus-chaseni/1.jpg
+  page: https://www.inaturalist.org/photos/276472405
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276472405/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-chaseni/2.jpg
+  page: https://www.inaturalist.org/photos/246633558
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246633558/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-chaseni/3.jpg
+  page: https://www.inaturalist.org/photos/246633583
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246633583/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-chaseni/4.jpg
+  page: https://www.inaturalist.org/photos/246633608
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246633608/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-chaseni/5.jpg
+  page: https://www.inaturalist.org/photos/246633651
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246633651/original.jpg
 ---
 
 

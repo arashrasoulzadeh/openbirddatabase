@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/parus-monticolus/1.jpg
+  page: https://www.inaturalist.org/photos/617114689
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114689/original.jpg
+images:
+- file: images/passeriformes/paridae/parus-monticolus/1.jpg
+  page: https://www.inaturalist.org/photos/617114689
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114689/original.jpg
+- file: images/passeriformes/paridae/parus-monticolus/2.jpg
+  page: https://www.inaturalist.org/photos/615207375
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615207375/original.jpg
+- file: images/passeriformes/paridae/parus-monticolus/3.jpg
+  page: https://www.inaturalist.org/photos/617114711
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114711/original.jpg
+- file: images/passeriformes/paridae/parus-monticolus/4.jpg
+  page: https://www.inaturalist.org/photos/617114718
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114718/original.jpg
+- file: images/passeriformes/paridae/parus-monticolus/5.jpg
+  page: https://www.inaturalist.org/photos/617114709
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114709/original.jpg
 ---
 
 

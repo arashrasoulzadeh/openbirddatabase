@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/hemitesia-pallidipes/1.jpg
+  page: https://www.inaturalist.org/photos/449869909
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449869909/original.jpeg
+images:
+- file: images/passeriformes/cettiidae/hemitesia-pallidipes/1.jpg
+  page: https://www.inaturalist.org/photos/449869909
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449869909/original.jpeg
+- file: images/passeriformes/cettiidae/hemitesia-pallidipes/2.jpg
+  page: https://www.inaturalist.org/photos/153939405
+  author: Rongrong Angkaew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153939405/original.jpg
+- file: images/passeriformes/cettiidae/hemitesia-pallidipes/3.jpg
+  page: https://www.inaturalist.org/photos/547430861
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547430861/original.jpg
+- file: images/passeriformes/cettiidae/hemitesia-pallidipes/4.jpg
+  page: https://www.inaturalist.org/photos/153939446
+  author: Rongrong Angkaew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153939446/original.jpg
+- file: images/passeriformes/cettiidae/hemitesia-pallidipes/5.jpg
+  page: https://www.inaturalist.org/photos/547430860
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547430860/original.jpg
 ---
 
 

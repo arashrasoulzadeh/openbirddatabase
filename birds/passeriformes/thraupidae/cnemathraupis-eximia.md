@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/cnemathraupis-eximia/1.jpg
+  page: https://www.inaturalist.org/photos/708617040
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708617040/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cnemathraupis-eximia/1.jpg
+  page: https://www.inaturalist.org/photos/708617040
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708617040/original.jpg
+- file: images/passeriformes/thraupidae/cnemathraupis-eximia/2.jpg
+  page: https://www.inaturalist.org/photos/472291104
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472291104/original.jpeg
+- file: images/passeriformes/thraupidae/cnemathraupis-eximia/3.jpg
+  page: https://www.inaturalist.org/photos/613958838
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613958838/original.jpg
+- file: images/passeriformes/thraupidae/cnemathraupis-eximia/4.jpg
+  page: https://www.inaturalist.org/photos/361097353
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361097353/original.jpg
+- file: images/passeriformes/thraupidae/cnemathraupis-eximia/5.jpg
+  page: https://www.inaturalist.org/photos/259360308
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259360308/original.jpeg
 ---
 
 

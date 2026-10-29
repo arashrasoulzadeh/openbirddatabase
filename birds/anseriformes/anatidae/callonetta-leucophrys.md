@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/callonetta-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/609374125
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609374125/original.jpg
+images:
+- file: images/anseriformes/anatidae/callonetta-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/609374125
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609374125/original.jpg
+- file: images/anseriformes/anatidae/callonetta-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/609003626
+  author: Reserva Natural Urbana El Corredor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609003626/original.jpg
+- file: images/anseriformes/anatidae/callonetta-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/614592464
+  author: cactusauria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614592464/original.jpg
+- file: images/anseriformes/anatidae/callonetta-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/622837736
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622837736/original.jpg
+- file: images/anseriformes/anatidae/callonetta-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/630660550
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630660550/original.jpg
 ---
 
 

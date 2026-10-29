@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/aegotheliformes/aegothelidae/aegotheles-crinifrons/1.jpg
+  page: https://www.inaturalist.org/photos/710061070
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710061070/original.jpg
+images:
+- file: images/aegotheliformes/aegothelidae/aegotheles-crinifrons/1.jpg
+  page: https://www.inaturalist.org/photos/710061070
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710061070/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-crinifrons/2.jpg
+  page: https://www.inaturalist.org/photos/526365190
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526365190/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-crinifrons/3.jpg
+  page: https://www.inaturalist.org/photos/107840959
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107840959/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-crinifrons/4.jpg
+  page: https://www.inaturalist.org/photos/710061341
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710061341/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-crinifrons/5.jpg
+  page: https://www.inaturalist.org/photos/710062227
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710062227/original.jpg
 ---
 
 

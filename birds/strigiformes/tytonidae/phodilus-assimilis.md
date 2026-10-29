@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/tytonidae/phodilus-assimilis/1.jpg
+  page: https://www.inaturalist.org/photos/612360985
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612360985/original.jpg
+images:
+- file: images/strigiformes/tytonidae/phodilus-assimilis/1.jpg
+  page: https://www.inaturalist.org/photos/612360985
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612360985/original.jpg
+- file: images/strigiformes/tytonidae/phodilus-assimilis/2.jpg
+  page: https://www.inaturalist.org/photos/254696657
+  author: renjus box
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254696657/original.jpeg
+- file: images/strigiformes/tytonidae/phodilus-assimilis/3.jpg
+  page: https://www.inaturalist.org/photos/265166151
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265166151/original.jpg
+- file: images/strigiformes/tytonidae/phodilus-assimilis/4.jpg
+  page: https://www.inaturalist.org/photos/190909515
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190909515/original.jpeg
+- file: images/strigiformes/tytonidae/phodilus-assimilis/5.jpg
+  page: https://www.inaturalist.org/photos/132558699
+  author: Renjith Jacob Mathews
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/132558699/original.jpeg
 ---
 
 

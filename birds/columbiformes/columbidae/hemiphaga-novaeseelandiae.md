@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/hemiphaga-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/604985766
+  author: Jon Sullivan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604985766/original.jpg
+images:
+- file: images/columbiformes/columbidae/hemiphaga-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/604985766
+  author: Jon Sullivan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604985766/original.jpg
+- file: images/columbiformes/columbidae/hemiphaga-novaeseelandiae/2.jpg
+  page: https://www.inaturalist.org/photos/604961277
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604961277/original.jpg
+- file: images/columbiformes/columbidae/hemiphaga-novaeseelandiae/3.jpg
+  page: https://www.inaturalist.org/photos/604397637
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604397637/original.jpg
+- file: images/columbiformes/columbidae/hemiphaga-novaeseelandiae/4.jpg
+  page: https://www.inaturalist.org/photos/604380544
+  author: craigphillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604380544/original.jpg
+- file: images/columbiformes/columbidae/hemiphaga-novaeseelandiae/5.jpg
+  page: https://www.inaturalist.org/photos/610933647
+  author: Corli du Toit Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610933647/original.jpg
 ---
 
 

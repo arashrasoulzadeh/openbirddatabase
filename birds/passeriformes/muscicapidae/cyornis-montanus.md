@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/472937589
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472937589/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/472937589
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472937589/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-montanus/2.jpg
+  page: https://www.inaturalist.org/photos/452034468
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452034468/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-montanus/3.jpg
+  page: https://www.inaturalist.org/photos/289851098
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289851098/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-montanus/4.jpg
+  page: https://www.inaturalist.org/photos/452036489
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452036489/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-montanus/5.jpg
+  page: https://www.inaturalist.org/photos/289851137
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289851137/original.jpg
 ---
 
 

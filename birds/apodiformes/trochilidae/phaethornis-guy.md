@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-guy/1.jpg
+  page: https://www.inaturalist.org/photos/608206295
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608206295/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-guy/1.jpg
+  page: https://www.inaturalist.org/photos/608206295
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608206295/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-guy/2.jpg
+  page: https://www.inaturalist.org/photos/608281163
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608281163/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-guy/3.jpg
+  page: https://www.inaturalist.org/photos/615484187
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615484187/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-guy/4.jpg
+  page: https://www.inaturalist.org/photos/619097152
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619097152/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-guy/5.jpg
+  page: https://www.inaturalist.org/photos/630968086
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630968086/original.jpg
 ---
 
 

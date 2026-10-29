@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/thlypopsis-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/608011110
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608011110/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thlypopsis-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/608011110
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608011110/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-ornata/2.jpg
+  page: https://www.inaturalist.org/photos/657019542
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657019542/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-ornata/3.jpg
+  page: https://www.inaturalist.org/photos/558891180
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558891180/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-ornata/4.jpg
+  page: https://www.inaturalist.org/photos/558265600
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558265600/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-ornata/5.jpg
+  page: https://www.inaturalist.org/photos/403662216
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/403662216/original.jpeg
 ---
 
 

@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/maluridae/malurus-splendens/1.jpg
+  page: https://www.inaturalist.org/photos/610149097
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610149097/original.jpg
+images:
+- file: images/passeriformes/maluridae/malurus-splendens/1.jpg
+  page: https://www.inaturalist.org/photos/610149097
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610149097/original.jpg
+- file: images/passeriformes/maluridae/malurus-splendens/2.jpg
+  page: https://www.inaturalist.org/photos/609155006
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609155006/original.jpg
+- file: images/passeriformes/maluridae/malurus-splendens/3.jpg
+  page: https://www.inaturalist.org/photos/614075041
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614075041/original.jpg
+- file: images/passeriformes/maluridae/malurus-splendens/4.jpg
+  page: https://www.inaturalist.org/photos/615704476
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615704476/original.jpg
+- file: images/passeriformes/maluridae/malurus-splendens/5.jpg
+  page: https://www.inaturalist.org/photos/615404420
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615404420/original.jpg
 ---
 
 

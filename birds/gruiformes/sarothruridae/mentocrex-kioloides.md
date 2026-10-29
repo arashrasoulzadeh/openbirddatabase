@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/sarothruridae/mentocrex-kioloides/1.jpg
+  page: https://www.inaturalist.org/photos/602990776
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602990776/original.jpg
+images:
+- file: images/gruiformes/sarothruridae/mentocrex-kioloides/1.jpg
+  page: https://www.inaturalist.org/photos/602990776
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602990776/original.jpg
+- file: images/gruiformes/sarothruridae/mentocrex-kioloides/2.jpg
+  page: https://www.inaturalist.org/photos/257569271
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257569271/original.jpeg
+- file: images/gruiformes/sarothruridae/mentocrex-kioloides/3.jpg
+  page: https://www.inaturalist.org/photos/2395516
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2395516/original.jpg
+- file: images/gruiformes/sarothruridae/mentocrex-kioloides/4.jpg
+  page: https://www.inaturalist.org/photos/602990785
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602990785/original.jpg
+- file: images/gruiformes/sarothruridae/mentocrex-kioloides/5.jpg
+  page: https://www.inaturalist.org/photos/257569280
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257569280/original.jpeg
 ---
 
 

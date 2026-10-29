@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/allenia-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/605865877
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605865877/original.jpg
+images:
+- file: images/passeriformes/mimidae/allenia-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/605865877
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605865877/original.jpg
+- file: images/passeriformes/mimidae/allenia-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/610749021
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610749021/original.jpg
+- file: images/passeriformes/mimidae/allenia-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/616509262
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616509262/original.jpg
+- file: images/passeriformes/mimidae/allenia-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/616800664
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616800664/original.jpg
+- file: images/passeriformes/mimidae/allenia-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/630032837
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630032837/original.jpg
 ---
 
 

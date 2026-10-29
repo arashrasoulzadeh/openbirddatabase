@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 38
+image:
+  file: images/falconiformes/falconidae/caracara-plancus/1.jpg
+  page: https://www.inaturalist.org/photos/605552757
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605552757/original.jpg
+images:
+- file: images/falconiformes/falconidae/caracara-plancus/1.jpg
+  page: https://www.inaturalist.org/photos/605552757
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605552757/original.jpg
+- file: images/falconiformes/falconidae/caracara-plancus/2.jpg
+  page: https://www.inaturalist.org/photos/605188315
+  author: nitsuga74
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605188315/original.jpg
+- file: images/falconiformes/falconidae/caracara-plancus/3.jpg
+  page: https://www.inaturalist.org/photos/605182748
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605182748/original.jpg
+- file: images/falconiformes/falconidae/caracara-plancus/4.jpg
+  page: https://www.inaturalist.org/photos/605729214
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729214/original.jpg
+- file: images/falconiformes/falconidae/caracara-plancus/5.jpg
+  page: https://www.inaturalist.org/photos/605118516
+  author: sarah1862
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605118516/original.jpg
 ---
 
 

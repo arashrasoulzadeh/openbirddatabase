@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/toxostoma-ocellatum/1.jpg
+  page: https://www.inaturalist.org/photos/665346935
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665346935/original.jpg
+images:
+- file: images/passeriformes/mimidae/toxostoma-ocellatum/1.jpg
+  page: https://www.inaturalist.org/photos/665346935
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665346935/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-ocellatum/2.jpg
+  page: https://www.inaturalist.org/photos/482311706
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482311706/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-ocellatum/3.jpg
+  page: https://www.inaturalist.org/photos/405634716
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/405634716/original.jpeg
+- file: images/passeriformes/mimidae/toxostoma-ocellatum/4.jpg
+  page: https://www.inaturalist.org/photos/463478452
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463478452/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-ocellatum/5.jpg
+  page: https://www.inaturalist.org/photos/252609199
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252609199/original.jpeg
 ---
 
 

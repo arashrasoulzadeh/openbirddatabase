@@ -154,8 +154,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/antrostomus-sericocaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/50786729
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50786729/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-sericocaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/50786729
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50786729/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-sericocaudatus/2.jpg
+  page: https://www.inaturalist.org/photos/140446583
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/140446583/original.jpg
 ---
 
 

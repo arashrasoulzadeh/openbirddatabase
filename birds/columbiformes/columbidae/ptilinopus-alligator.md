@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-alligator/1.jpg
+  page: https://www.inaturalist.org/photos/681095056
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681095056/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-alligator/1.jpg
+  page: https://www.inaturalist.org/photos/681095056
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681095056/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-alligator/2.jpg
+  page: https://www.inaturalist.org/photos/551188549
+  author: ferg_lex
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551188549/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-alligator/3.jpg
+  page: https://www.inaturalist.org/photos/462970822
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462970822/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-alligator/4.jpg
+  page: https://www.inaturalist.org/photos/472608493
+  author: steveparadox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472608493/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-alligator/5.jpg
+  page: https://www.inaturalist.org/photos/333047916
+  author: jameslambo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333047916/original.jpeg
 ---
 
 

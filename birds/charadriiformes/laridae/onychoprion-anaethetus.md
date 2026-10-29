@@ -196,10 +196,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/charadriiformes/laridae/onychoprion-anaethetus/1.jpg
+  page: https://www.inaturalist.org/photos/623824279
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623824279/original.jpg
+images:
+- file: images/charadriiformes/laridae/onychoprion-anaethetus/1.jpg
+  page: https://www.inaturalist.org/photos/623824279
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623824279/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-anaethetus/2.jpg
+  page: https://www.inaturalist.org/photos/630845123
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630845123/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-anaethetus/3.jpg
+  page: https://www.inaturalist.org/photos/676660249
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676660249/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-anaethetus/4.jpg
+  page: https://www.inaturalist.org/photos/685263268
+  author: Catriona Hall
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685263268/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-anaethetus/5.jpg
+  page: https://www.inaturalist.org/photos/623824318
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623824318/original.jpg
 ---
 
 

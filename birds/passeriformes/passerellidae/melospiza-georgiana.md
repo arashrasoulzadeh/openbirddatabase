@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/passerellidae/melospiza-georgiana/1.jpg
+  page: https://www.inaturalist.org/photos/604684835
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604684835/original.jpg
+images:
+- file: images/passeriformes/passerellidae/melospiza-georgiana/1.jpg
+  page: https://www.inaturalist.org/photos/604684835
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604684835/original.jpg
+- file: images/passeriformes/passerellidae/melospiza-georgiana/2.jpg
+  page: https://www.inaturalist.org/photos/604876676
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604876676/original.jpg
+- file: images/passeriformes/passerellidae/melospiza-georgiana/3.jpg
+  page: https://www.inaturalist.org/photos/604494789
+  author: Laura Mae
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604494789/original.jpg
+- file: images/passeriformes/passerellidae/melospiza-georgiana/4.jpg
+  page: https://www.inaturalist.org/photos/605378568
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605378568/original.jpg
+- file: images/passeriformes/passerellidae/melospiza-georgiana/5.jpg
+  page: https://www.inaturalist.org/photos/604658579
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604658579/original.jpg
 ---
 
 

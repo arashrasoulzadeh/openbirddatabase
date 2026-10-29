@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanolyca-armillata/1.jpg
+  page: https://www.inaturalist.org/photos/616788497
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616788497/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanolyca-armillata/1.jpg
+  page: https://www.inaturalist.org/photos/616788497
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616788497/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-armillata/2.jpg
+  page: https://www.inaturalist.org/photos/470686573
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470686573/original.jpeg
+- file: images/passeriformes/corvidae/cyanolyca-armillata/3.jpg
+  page: https://www.inaturalist.org/photos/489387799
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489387799/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-armillata/4.jpg
+  page: https://www.inaturalist.org/photos/502994956
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502994956/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-armillata/5.jpg
+  page: https://www.inaturalist.org/photos/521546641
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521546641/original.jpg
 ---
 
 

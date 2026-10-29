@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/setopagis-parvula/1.jpg
+  page: https://www.inaturalist.org/photos/615810001
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615810001/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/setopagis-parvula/1.jpg
+  page: https://www.inaturalist.org/photos/615810001
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615810001/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/setopagis-parvula/2.jpg
+  page: https://www.inaturalist.org/photos/620216550
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620216550/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/setopagis-parvula/3.jpg
+  page: https://www.inaturalist.org/photos/625100038
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625100038/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/setopagis-parvula/4.jpg
+  page: https://www.inaturalist.org/photos/628571726
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628571726/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/setopagis-parvula/5.jpg
+  page: https://www.inaturalist.org/photos/630661491
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630661491/original.jpg
 ---
 
 

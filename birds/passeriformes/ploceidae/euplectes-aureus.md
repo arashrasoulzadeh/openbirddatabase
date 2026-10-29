@@ -147,8 +147,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-aureus/1.jpg
+  page: https://www.inaturalist.org/photos/9670623
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9670623/original.jpeg
+images:
+- file: images/passeriformes/ploceidae/euplectes-aureus/1.jpg
+  page: https://www.inaturalist.org/photos/9670623
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9670623/original.jpeg
+- file: images/passeriformes/ploceidae/euplectes-aureus/2.jpg
+  page: https://www.inaturalist.org/photos/9670667
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9670667/original.jpeg
+- file: images/passeriformes/ploceidae/euplectes-aureus/3.jpg
+  page: https://www.inaturalist.org/photos/9712266
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9712266/original.jpeg
+- file: images/passeriformes/ploceidae/euplectes-aureus/4.jpg
+  page: https://www.inaturalist.org/photos/10870695
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/10870695/original.jpeg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/lanio-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/603514298
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603514298/original.jpg
+images:
+- file: images/passeriformes/thraupidae/lanio-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/603514298
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603514298/original.jpg
+- file: images/passeriformes/thraupidae/lanio-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/386707138
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386707138/original.jpg
+- file: images/passeriformes/thraupidae/lanio-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/444770102
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444770102/original.jpeg
+- file: images/passeriformes/thraupidae/lanio-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/328276488
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328276488/original.jpeg
+- file: images/passeriformes/thraupidae/lanio-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/611562551
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611562551/original.jpg
 ---
 
 

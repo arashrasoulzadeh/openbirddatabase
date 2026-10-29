@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/malacopteron-magnirostre/1.jpg
+  page: https://www.inaturalist.org/photos/661211599
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661211599/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/malacopteron-magnirostre/1.jpg
+  page: https://www.inaturalist.org/photos/661211599
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661211599/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-magnirostre/2.jpg
+  page: https://www.inaturalist.org/photos/585994750
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585994750/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-magnirostre/3.jpg
+  page: https://www.inaturalist.org/photos/600094695
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600094695/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-magnirostre/4.jpg
+  page: https://www.inaturalist.org/photos/256243750
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256243750/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-magnirostre/5.jpg
+  page: https://www.inaturalist.org/photos/180345219
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180345219/original.jpeg
 ---
 
 

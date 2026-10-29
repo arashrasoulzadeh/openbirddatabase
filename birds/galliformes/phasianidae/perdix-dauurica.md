@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/perdix-dauurica/1.jpg
+  page: https://www.inaturalist.org/photos/736267643
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736267643/original.jpg
+images:
+- file: images/galliformes/phasianidae/perdix-dauurica/1.jpg
+  page: https://www.inaturalist.org/photos/736267643
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736267643/original.jpg
+- file: images/galliformes/phasianidae/perdix-dauurica/2.jpg
+  page: https://www.inaturalist.org/photos/738744181
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738744181/original.jpg
+- file: images/galliformes/phasianidae/perdix-dauurica/3.jpg
+  page: https://www.inaturalist.org/photos/746030106
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/746030106/original.jpg
+- file: images/galliformes/phasianidae/perdix-dauurica/4.jpg
+  page: https://www.inaturalist.org/photos/463114285
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463114285/original.jpg
+- file: images/galliformes/phasianidae/perdix-dauurica/5.jpg
+  page: https://www.inaturalist.org/photos/528645518
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528645518/original.jpg
 ---
 
 

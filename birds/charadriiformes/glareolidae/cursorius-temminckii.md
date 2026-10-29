@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/cursorius-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/610327290
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610327290/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/cursorius-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/610327290
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610327290/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-temminckii/2.jpg
+  page: https://www.inaturalist.org/photos/613420042
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613420042/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-temminckii/3.jpg
+  page: https://www.inaturalist.org/photos/650455287
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650455287/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-temminckii/4.jpg
+  page: https://www.inaturalist.org/photos/621787896
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621787896/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-temminckii/5.jpg
+  page: https://www.inaturalist.org/photos/716131031
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716131031/original.jpg
 ---
 
 

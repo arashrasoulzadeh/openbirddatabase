@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/607243285
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243285/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/607243285
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243285/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/672624665
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672624665/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/587607553
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587607553/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/381221636
+  author: Bruno Siqueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/381221636/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/468359385
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468359385/original.jpg
 ---
 
 

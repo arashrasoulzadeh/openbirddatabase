@@ -126,7 +126,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 25.5
@@ -136,6 +137,44 @@ morphology:
   body_mass_g: 87.0
 reproduction:
   clutch_size_mean: 4.2
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-columboides/1.jpg
+  page: https://www.inaturalist.org/photos/617207155
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207155/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-columboides/1.jpg
+  page: https://www.inaturalist.org/photos/617207155
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207155/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-columboides/2.jpg
+  page: https://www.inaturalist.org/photos/680096364
+  author: Kesava Garimella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680096364/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-columboides/3.jpg
+  page: https://www.inaturalist.org/photos/706036404
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706036404/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-columboides/4.jpg
+  page: https://www.inaturalist.org/photos/718040784
+  author: rajesh rocky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718040784/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-columboides/5.jpg
+  page: https://www.inaturalist.org/photos/470229667
+  author: Ashwin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470229667/original.jpeg
 ---
 
 

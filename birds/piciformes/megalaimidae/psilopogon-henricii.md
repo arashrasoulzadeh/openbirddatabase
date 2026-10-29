@@ -143,8 +143,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-henricii/1.jpg
+  page: https://www.inaturalist.org/photos/547324349
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547324349/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-henricii/1.jpg
+  page: https://www.inaturalist.org/photos/547324349
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547324349/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-henricii/2.jpg
+  page: https://www.inaturalist.org/photos/183675542
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/183675542/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-henricii/3.jpg
+  page: https://www.inaturalist.org/photos/547324358
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547324358/original.jpg
 ---
 
 

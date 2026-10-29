@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-sarda/1.jpg
+  page: https://www.inaturalist.org/photos/527066225
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527066225/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-sarda/1.jpg
+  page: https://www.inaturalist.org/photos/527066225
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527066225/original.jpg
+- file: images/passeriformes/sylviidae/curruca-sarda/2.jpg
+  page: https://www.inaturalist.org/photos/490694629
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490694629/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-sarda/3.jpg
+  page: https://www.inaturalist.org/photos/512863355
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512863355/original.jpg
+- file: images/passeriformes/sylviidae/curruca-sarda/4.jpg
+  page: https://www.inaturalist.org/photos/533080324
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533080324/original.jpg
+- file: images/passeriformes/sylviidae/curruca-sarda/5.jpg
+  page: https://www.inaturalist.org/photos/606156534
+  author: Yves Bas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606156534/original.jpg
 ---
 
 

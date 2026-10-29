@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cranioleuca-albicapilla/1.jpg
+  page: https://www.inaturalist.org/photos/545166912
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545166912/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cranioleuca-albicapilla/1.jpg
+  page: https://www.inaturalist.org/photos/545166912
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545166912/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-albicapilla/2.jpg
+  page: https://www.inaturalist.org/photos/558262720
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558262720/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-albicapilla/3.jpg
+  page: https://www.inaturalist.org/photos/563738855
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563738855/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-albicapilla/4.jpg
+  page: https://www.inaturalist.org/photos/433704820
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433704820/original.jpeg
+- file: images/passeriformes/furnariidae/cranioleuca-albicapilla/5.jpg
+  page: https://www.inaturalist.org/photos/250986723
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250986723/original.jpeg
 ---
 
 

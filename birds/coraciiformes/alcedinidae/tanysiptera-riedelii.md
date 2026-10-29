@@ -143,10 +143,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/coraciiformes/alcedinidae/tanysiptera-riedelii/1.jpg
+  page: https://www.inaturalist.org/photos/670774697
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670774697/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/tanysiptera-riedelii/1.jpg
+  page: https://www.inaturalist.org/photos/670774697
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670774697/original.jpg
+- file: images/coraciiformes/alcedinidae/tanysiptera-riedelii/2.jpg
+  page: https://www.inaturalist.org/photos/670774726
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670774726/original.jpg
+- file: images/coraciiformes/alcedinidae/tanysiptera-riedelii/3.jpg
+  page: https://www.inaturalist.org/photos/670774747
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670774747/original.jpg
+- file: images/coraciiformes/alcedinidae/tanysiptera-riedelii/4.jpg
+  page: https://www.inaturalist.org/photos/670774824
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670774824/original.jpg
 ---
 
 

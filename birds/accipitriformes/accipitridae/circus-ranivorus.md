@@ -156,8 +156,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circus-ranivorus/1.jpg
+  page: https://www.inaturalist.org/photos/609998956
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609998956/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-ranivorus/1.jpg
+  page: https://www.inaturalist.org/photos/609998956
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609998956/original.jpg
+- file: images/accipitriformes/accipitridae/circus-ranivorus/2.jpg
+  page: https://www.inaturalist.org/photos/624174293
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624174293/original.jpg
+- file: images/accipitriformes/accipitridae/circus-ranivorus/3.jpg
+  page: https://www.inaturalist.org/photos/617468415
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617468415/original.jpg
+- file: images/accipitriformes/accipitridae/circus-ranivorus/4.jpg
+  page: https://www.inaturalist.org/photos/650788839
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650788839/original.jpg
+- file: images/accipitriformes/accipitridae/circus-ranivorus/5.jpg
+  page: https://www.inaturalist.org/photos/729176020
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729176020/original.jpg
 ---
 
 

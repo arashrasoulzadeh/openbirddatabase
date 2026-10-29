@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-triurus/1.jpg
+  page: https://www.inaturalist.org/photos/611575167
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611575167/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-triurus/1.jpg
+  page: https://www.inaturalist.org/photos/611575167
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611575167/original.jpg
+- file: images/passeriformes/mimidae/mimus-triurus/2.jpg
+  page: https://www.inaturalist.org/photos/619361053
+  author: Laura Nicola
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619361053/original.jpg
+- file: images/passeriformes/mimidae/mimus-triurus/3.jpg
+  page: https://www.inaturalist.org/photos/628478061
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628478061/original.jpg
+- file: images/passeriformes/mimidae/mimus-triurus/4.jpg
+  page: https://www.inaturalist.org/photos/630759752
+  author: Lourdes Mariel Quarin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630759752/original.jpg
+- file: images/passeriformes/mimidae/mimus-triurus/5.jpg
+  page: https://www.inaturalist.org/photos/629566476
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629566476/original.jpg
 ---
 
 

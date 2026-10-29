@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/pteroglossus-beauharnaisii/1.jpg
+  page: https://www.inaturalist.org/photos/736225253
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736225253/original.jpg
+images:
+- file: images/piciformes/ramphastidae/pteroglossus-beauharnaisii/1.jpg
+  page: https://www.inaturalist.org/photos/736225253
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736225253/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-beauharnaisii/2.jpg
+  page: https://www.inaturalist.org/photos/532962073
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532962073/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-beauharnaisii/3.jpg
+  page: https://www.inaturalist.org/photos/618386210
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618386210/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-beauharnaisii/4.jpg
+  page: https://www.inaturalist.org/photos/424675058
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424675058/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-beauharnaisii/5.jpg
+  page: https://www.inaturalist.org/photos/416145637
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416145637/original.jpeg
 ---
 
 

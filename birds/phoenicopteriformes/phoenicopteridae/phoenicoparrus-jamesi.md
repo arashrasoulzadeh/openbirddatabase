@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-jamesi/1.jpg
+  page: https://www.inaturalist.org/photos/613762354
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762354/original.jpg
+images:
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-jamesi/1.jpg
+  page: https://www.inaturalist.org/photos/613762354
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762354/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-jamesi/2.jpg
+  page: https://www.inaturalist.org/photos/616635256
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616635256/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-jamesi/3.jpg
+  page: https://www.inaturalist.org/photos/649015445
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649015445/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-jamesi/4.jpg
+  page: https://www.inaturalist.org/photos/681001178
+  author: Rodrigo Castillo Tapia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681001178/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-jamesi/5.jpg
+  page: https://www.inaturalist.org/photos/700221733
+  author: Jorge Herreros de Lartundo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700221733/original.jpg
 ---
 
 

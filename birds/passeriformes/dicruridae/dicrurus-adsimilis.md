@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-adsimilis/1.jpg
+  page: https://www.inaturalist.org/photos/611225640
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611225640/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-adsimilis/1.jpg
+  page: https://www.inaturalist.org/photos/611225640
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611225640/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-adsimilis/2.jpg
+  page: https://www.inaturalist.org/photos/612478478
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612478478/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-adsimilis/3.jpg
+  page: https://www.inaturalist.org/photos/624175138
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624175138/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-adsimilis/4.jpg
+  page: https://www.inaturalist.org/photos/612478476
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612478476/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-adsimilis/5.jpg
+  page: https://www.inaturalist.org/photos/612478477
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612478477/original.jpg
 ---
 
 

@@ -147,8 +147,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/pycnopygius-stictocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/708667225
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708667225/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/pycnopygius-stictocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/708667225
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708667225/original.jpg
+- file: images/passeriformes/meliphagidae/pycnopygius-stictocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/573194161
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573194161/original.jpg
+- file: images/passeriformes/meliphagidae/pycnopygius-stictocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/575613859
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613859/original.jpg
 ---
 
 

@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/fringillidae/loxia-curvirostra/1.jpg
+  page: https://www.inaturalist.org/photos/605159808
+  author: Marcin Zuwała
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605159808/original.jpg
+images:
+- file: images/passeriformes/fringillidae/loxia-curvirostra/1.jpg
+  page: https://www.inaturalist.org/photos/605159808
+  author: Marcin Zuwała
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605159808/original.jpg
+- file: images/passeriformes/fringillidae/loxia-curvirostra/2.jpg
+  page: https://www.inaturalist.org/photos/604447744
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604447744/original.jpg
+- file: images/passeriformes/fringillidae/loxia-curvirostra/3.jpg
+  page: https://www.inaturalist.org/photos/604972844
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604972844/original.jpg
+- file: images/passeriformes/fringillidae/loxia-curvirostra/4.jpg
+  page: https://www.inaturalist.org/photos/605370323
+  author: Susan Murphy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605370323/original.jpg
+- file: images/passeriformes/fringillidae/loxia-curvirostra/5.jpg
+  page: https://www.inaturalist.org/photos/609415533
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609415533/original.jpg
 ---
 
 

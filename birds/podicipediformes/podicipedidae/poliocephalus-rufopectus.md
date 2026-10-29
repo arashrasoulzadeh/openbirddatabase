@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/poliocephalus-rufopectus/1.jpg
+  page: https://www.inaturalist.org/photos/606097778
+  author: dannali
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606097778/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/poliocephalus-rufopectus/1.jpg
+  page: https://www.inaturalist.org/photos/606097778
+  author: dannali
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606097778/original.jpg
+- file: images/podicipediformes/podicipedidae/poliocephalus-rufopectus/2.jpg
+  page: https://www.inaturalist.org/photos/614877376
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614877376/original.jpg
+- file: images/podicipediformes/podicipedidae/poliocephalus-rufopectus/3.jpg
+  page: https://www.inaturalist.org/photos/615848606
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615848606/original.jpg
+- file: images/podicipediformes/podicipedidae/poliocephalus-rufopectus/4.jpg
+  page: https://www.inaturalist.org/photos/617533500
+  author: Blaire Shadforth
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617533500/original.jpg
+- file: images/podicipediformes/podicipedidae/poliocephalus-rufopectus/5.jpg
+  page: https://www.inaturalist.org/photos/618382967
+  author: Angus Campbell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618382967/original.jpg
 ---
 
 

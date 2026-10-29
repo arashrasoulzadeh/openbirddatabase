@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/ictinia-plumbea/1.jpg
+  page: https://www.inaturalist.org/photos/610133958
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610133958/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/ictinia-plumbea/1.jpg
+  page: https://www.inaturalist.org/photos/610133958
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610133958/original.jpg
+- file: images/accipitriformes/accipitridae/ictinia-plumbea/2.jpg
+  page: https://www.inaturalist.org/photos/606902087
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606902087/original.jpg
+- file: images/accipitriformes/accipitridae/ictinia-plumbea/3.jpg
+  page: https://www.inaturalist.org/photos/608198643
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608198643/original.jpg
+- file: images/accipitriformes/accipitridae/ictinia-plumbea/4.jpg
+  page: https://www.inaturalist.org/photos/607279307
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607279307/original.jpg
+- file: images/accipitriformes/accipitridae/ictinia-plumbea/5.jpg
+  page: https://www.inaturalist.org/photos/610838679
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610838679/original.jpg
 ---
 
 

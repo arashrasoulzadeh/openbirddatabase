@@ -142,8 +142,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/628386631
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628386631/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/628386631
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628386631/original.jpg
+- file: images/columbiformes/columbidae/treron-axillaris/2.jpg
+  page: https://www.inaturalist.org/photos/449290940
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449290940/original.jpeg
+- file: images/columbiformes/columbidae/treron-axillaris/3.jpg
+  page: https://www.inaturalist.org/photos/261948194
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261948194/original.jpg
+- file: images/columbiformes/columbidae/treron-axillaris/4.jpg
+  page: https://www.inaturalist.org/photos/335635716
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335635716/original.jpg
+- file: images/columbiformes/columbidae/treron-axillaris/5.jpg
+  page: https://www.inaturalist.org/photos/445996269
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445996269/original.jpeg
 ---
 
 

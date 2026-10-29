@@ -171,10 +171,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-ostralegus/1.jpg
+  page: https://www.inaturalist.org/photos/605658278
+  author: Fionn Ó Marcaigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605658278/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-ostralegus/1.jpg
+  page: https://www.inaturalist.org/photos/605658278
+  author: Fionn Ó Marcaigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605658278/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-ostralegus/2.jpg
+  page: https://www.inaturalist.org/photos/605325941
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605325941/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-ostralegus/3.jpg
+  page: https://www.inaturalist.org/photos/605648544
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605648544/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-ostralegus/4.jpg
+  page: https://www.inaturalist.org/photos/604511288
+  author: Patrick Le Mao
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604511288/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-ostralegus/5.jpg
+  page: https://www.inaturalist.org/photos/605131353
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605131353/original.jpg
 ---
 
 

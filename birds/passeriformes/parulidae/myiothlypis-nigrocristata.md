@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-nigrocristata/1.jpg
+  page: https://www.inaturalist.org/photos/682365612
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682365612/original.jpg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-nigrocristata/1.jpg
+  page: https://www.inaturalist.org/photos/682365612
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682365612/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-nigrocristata/2.jpg
+  page: https://www.inaturalist.org/photos/514822081
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514822081/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-nigrocristata/3.jpg
+  page: https://www.inaturalist.org/photos/482719872
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482719872/original.png
+- file: images/passeriformes/parulidae/myiothlypis-nigrocristata/4.jpg
+  page: https://www.inaturalist.org/photos/537226869
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537226869/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-nigrocristata/5.jpg
+  page: https://www.inaturalist.org/photos/559785008
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559785008/original.jpg
 ---
 
 

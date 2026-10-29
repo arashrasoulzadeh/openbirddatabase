@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-xanthogastrus/1.jpg
+  page: https://www.inaturalist.org/photos/607233674
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607233674/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-xanthogastrus/1.jpg
+  page: https://www.inaturalist.org/photos/607233674
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607233674/original.jpg
+- file: images/passeriformes/fringillidae/spinus-xanthogastrus/2.jpg
+  page: https://www.inaturalist.org/photos/612893724
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612893724/original.jpg
+- file: images/passeriformes/fringillidae/spinus-xanthogastrus/3.jpg
+  page: https://www.inaturalist.org/photos/652808246
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808246/original.jpg
+- file: images/passeriformes/fringillidae/spinus-xanthogastrus/4.jpg
+  page: https://www.inaturalist.org/photos/680389617
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680389617/original.jpg
+- file: images/passeriformes/fringillidae/spinus-xanthogastrus/5.jpg
+  page: https://www.inaturalist.org/photos/693789653
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693789653/original.jpg
 ---
 
 

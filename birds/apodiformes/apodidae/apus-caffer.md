@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/apodiformes/apodidae/apus-caffer/1.jpg
+  page: https://www.inaturalist.org/photos/642297416
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297416/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-caffer/1.jpg
+  page: https://www.inaturalist.org/photos/642297416
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297416/original.jpg
+- file: images/apodiformes/apodidae/apus-caffer/2.jpg
+  page: https://www.inaturalist.org/photos/614953427
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614953427/original.jpg
+- file: images/apodiformes/apodidae/apus-caffer/3.jpg
+  page: https://www.inaturalist.org/photos/713634414
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713634414/original.jpg
+- file: images/apodiformes/apodidae/apus-caffer/4.jpg
+  page: https://www.inaturalist.org/photos/639812738
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639812738/original.jpg
+- file: images/apodiformes/apodidae/apus-caffer/5.jpg
+  page: https://www.inaturalist.org/photos/645092747
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645092747/original.jpg
 ---
 
 

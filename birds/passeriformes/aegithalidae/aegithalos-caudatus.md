@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/aegithalidae/aegithalos-caudatus/1.jpg
+  page: https://www.inaturalist.org/photos/604760608
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604760608/original.jpg
+images:
+- file: images/passeriformes/aegithalidae/aegithalos-caudatus/1.jpg
+  page: https://www.inaturalist.org/photos/604760608
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604760608/original.jpg
+- file: images/passeriformes/aegithalidae/aegithalos-caudatus/2.jpg
+  page: https://www.inaturalist.org/photos/604745341
+  author: Bastien Le Mort
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604745341/original.jpg
+- file: images/passeriformes/aegithalidae/aegithalos-caudatus/3.jpg
+  page: https://www.inaturalist.org/photos/604489492
+  author: Leon Haag-Fank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604489492/original.jpg
+- file: images/passeriformes/aegithalidae/aegithalos-caudatus/4.jpg
+  page: https://www.inaturalist.org/photos/605681959
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605681959/original.jpg
+- file: images/passeriformes/aegithalidae/aegithalos-caudatus/5.jpg
+  page: https://www.inaturalist.org/photos/605614379
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605614379/original.jpg
 ---
 
 

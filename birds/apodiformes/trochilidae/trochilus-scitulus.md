@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/trochilus-scitulus/1.jpg
+  page: https://www.inaturalist.org/photos/353692548
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353692548/original.jpg
+images:
+- file: images/apodiformes/trochilidae/trochilus-scitulus/1.jpg
+  page: https://www.inaturalist.org/photos/353692548
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353692548/original.jpg
+- file: images/apodiformes/trochilidae/trochilus-scitulus/2.jpg
+  page: https://www.inaturalist.org/photos/399505890
+  author: Marilyne Busque-Dubois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/399505890/original.jpeg
+- file: images/apodiformes/trochilidae/trochilus-scitulus/3.jpg
+  page: https://www.inaturalist.org/photos/176986154
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176986154/original.jpg
+- file: images/apodiformes/trochilidae/trochilus-scitulus/4.jpg
+  page: https://www.inaturalist.org/photos/353692556
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353692556/original.jpg
+- file: images/apodiformes/trochilidae/trochilus-scitulus/5.jpg
+  page: https://www.inaturalist.org/photos/355200064
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355200064/original.jpg
 ---
 
 

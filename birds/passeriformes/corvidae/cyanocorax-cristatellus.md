@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-cristatellus/1.jpg
+  page: https://www.inaturalist.org/photos/646934221
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646934221/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-cristatellus/1.jpg
+  page: https://www.inaturalist.org/photos/646934221
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646934221/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cristatellus/2.jpg
+  page: https://www.inaturalist.org/photos/640330973
+  author: Ibere Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640330973/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cristatellus/3.jpg
+  page: https://www.inaturalist.org/photos/642943050
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642943050/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cristatellus/4.jpg
+  page: https://www.inaturalist.org/photos/641312117
+  author: André Ambrozio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641312117/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cristatellus/5.jpg
+  page: https://www.inaturalist.org/photos/649733716
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649733716/original.jpg
 ---
 
 

@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/leptodon-forbesi/1.jpg
+  page: https://www.inaturalist.org/photos/467915632
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467915632/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/leptodon-forbesi/1.jpg
+  page: https://www.inaturalist.org/photos/467915632
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467915632/original.jpg
+- file: images/accipitriformes/accipitridae/leptodon-forbesi/2.jpg
+  page: https://www.inaturalist.org/photos/591061575
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591061575/original.jpg
+- file: images/accipitriformes/accipitridae/leptodon-forbesi/3.jpg
+  page: https://www.inaturalist.org/photos/453007215
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453007215/original.jpeg
+- file: images/accipitriformes/accipitridae/leptodon-forbesi/4.jpg
+  page: https://www.inaturalist.org/photos/240600549
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240600549/original.jpg
+- file: images/accipitriformes/accipitridae/leptodon-forbesi/5.jpg
+  page: https://www.inaturalist.org/photos/467915630
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467915630/original.jpg
 ---
 
 

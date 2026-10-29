@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/atticora-fasciata/1.jpg
+  page: https://www.inaturalist.org/photos/613937866
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613937866/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/atticora-fasciata/1.jpg
+  page: https://www.inaturalist.org/photos/613937866
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613937866/original.jpg
+- file: images/passeriformes/hirundinidae/atticora-fasciata/2.jpg
+  page: https://www.inaturalist.org/photos/621576998
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621576998/original.jpg
+- file: images/passeriformes/hirundinidae/atticora-fasciata/3.jpg
+  page: https://www.inaturalist.org/photos/636154442
+  author: Brunno Thadeu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636154442/original.jpg
+- file: images/passeriformes/hirundinidae/atticora-fasciata/4.jpg
+  page: https://www.inaturalist.org/photos/721488185
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721488185/original.jpg
+- file: images/passeriformes/hirundinidae/atticora-fasciata/5.jpg
+  page: https://www.inaturalist.org/photos/731526535
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731526535/original.jpg
 ---
 
 

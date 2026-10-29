@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/furnarius-minor/1.jpg
+  page: https://www.inaturalist.org/photos/510467947
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510467947/original.jpg
+images:
+- file: images/passeriformes/furnariidae/furnarius-minor/1.jpg
+  page: https://www.inaturalist.org/photos/510467947
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510467947/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-minor/2.jpg
+  page: https://www.inaturalist.org/photos/526214849
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526214849/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-minor/3.jpg
+  page: https://www.inaturalist.org/photos/533933940
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533933940/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-minor/4.jpg
+  page: https://www.inaturalist.org/photos/599770045
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599770045/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-minor/5.jpg
+  page: https://www.inaturalist.org/photos/402007264
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402007264/original.jpg
 ---
 
 

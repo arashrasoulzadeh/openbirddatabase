@@ -130,8 +130,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteogallus-lacernulatus/1.jpg
+  page: https://www.inaturalist.org/photos/621718370
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621718370/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteogallus-lacernulatus/1.jpg
+  page: https://www.inaturalist.org/photos/621718370
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621718370/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-lacernulatus/2.jpg
+  page: https://www.inaturalist.org/photos/470620385
+  author: Martin Vallejos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470620385/original.jpeg
+- file: images/accipitriformes/accipitridae/buteogallus-lacernulatus/3.jpg
+  page: https://www.inaturalist.org/photos/475360829
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475360829/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-lacernulatus/4.jpg
+  page: https://www.inaturalist.org/photos/498426841
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498426841/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-lacernulatus/5.jpg
+  page: https://www.inaturalist.org/photos/503743846
+  author: Celso Henrique Varela Rios
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503743846/original.jpeg
 ---
 
 

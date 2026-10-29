@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/melanocharitidae/melanocharis-nigra/1.jpg
+  page: https://www.inaturalist.org/photos/566181304
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566181304/original.jpg
+images:
+- file: images/passeriformes/melanocharitidae/melanocharis-nigra/1.jpg
+  page: https://www.inaturalist.org/photos/566181304
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566181304/original.jpg
+- file: images/passeriformes/melanocharitidae/melanocharis-nigra/2.jpg
+  page: https://www.inaturalist.org/photos/618369407
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618369407/original.jpg
+- file: images/passeriformes/melanocharitidae/melanocharis-nigra/3.jpg
+  page: https://www.inaturalist.org/photos/337972883
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337972883/original.jpg
+- file: images/passeriformes/melanocharitidae/melanocharis-nigra/4.jpg
+  page: https://www.inaturalist.org/photos/82239760
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82239760/original.jpg
+- file: images/passeriformes/melanocharitidae/melanocharis-nigra/5.jpg
+  page: https://www.inaturalist.org/photos/566181306
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566181306/original.jpg
 ---
 
 

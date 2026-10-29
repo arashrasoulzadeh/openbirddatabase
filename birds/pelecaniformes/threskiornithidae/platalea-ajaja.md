@@ -173,10 +173,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/pelecaniformes/threskiornithidae/platalea-ajaja/1.jpg
+  page: https://www.inaturalist.org/photos/604964357
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604964357/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/platalea-ajaja/1.jpg
+  page: https://www.inaturalist.org/photos/604964357
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604964357/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-ajaja/2.jpg
+  page: https://www.inaturalist.org/photos/604874813
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604874813/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-ajaja/3.jpg
+  page: https://www.inaturalist.org/photos/605513690
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605513690/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-ajaja/4.jpg
+  page: https://www.inaturalist.org/photos/605705470
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605705470/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-ajaja/5.jpg
+  page: https://www.inaturalist.org/photos/604518401
+  author: Nick Tobler (Cowturtle)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604518401/original.jpg
 ---
 
 

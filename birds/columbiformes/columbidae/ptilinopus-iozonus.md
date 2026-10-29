@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-iozonus/1.jpg
+  page: https://www.inaturalist.org/photos/697588513
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697588513/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-iozonus/1.jpg
+  page: https://www.inaturalist.org/photos/697588513
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697588513/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-iozonus/2.jpg
+  page: https://www.inaturalist.org/photos/462094694
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462094694/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-iozonus/3.jpg
+  page: https://www.inaturalist.org/photos/544899547
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544899547/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-iozonus/4.jpg
+  page: https://www.inaturalist.org/photos/566657109
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566657109/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-iozonus/5.jpg
+  page: https://www.inaturalist.org/photos/587489968
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587489968/original.jpg
 ---
 
 

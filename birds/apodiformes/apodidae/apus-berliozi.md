@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/apus-berliozi/1.jpg
+  page: https://www.inaturalist.org/photos/92256731
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92256731/original.jpeg
+images:
+- file: images/apodiformes/apodidae/apus-berliozi/1.jpg
+  page: https://www.inaturalist.org/photos/92256731
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92256731/original.jpeg
+- file: images/apodiformes/apodidae/apus-berliozi/2.jpg
+  page: https://www.inaturalist.org/photos/92256734
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92256734/original.jpeg
+- file: images/apodiformes/apodidae/apus-berliozi/3.jpg
+  page: https://www.inaturalist.org/photos/92256738
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92256738/original.jpeg
+- file: images/apodiformes/apodidae/apus-berliozi/4.jpg
+  page: https://www.inaturalist.org/photos/92256739
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92256739/original.jpeg
+- file: images/apodiformes/apodidae/apus-berliozi/5.jpg
+  page: https://www.inaturalist.org/photos/92256742
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92256742/original.jpeg
 ---
 
 

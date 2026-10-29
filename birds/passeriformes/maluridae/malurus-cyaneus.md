@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/maluridae/malurus-cyaneus/1.jpg
+  page: https://www.inaturalist.org/photos/605020714
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020714/original.jpg
+images:
+- file: images/passeriformes/maluridae/malurus-cyaneus/1.jpg
+  page: https://www.inaturalist.org/photos/605020714
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020714/original.jpg
+- file: images/passeriformes/maluridae/malurus-cyaneus/2.jpg
+  page: https://www.inaturalist.org/photos/605473131
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605473131/original.jpg
+- file: images/passeriformes/maluridae/malurus-cyaneus/3.jpg
+  page: https://www.inaturalist.org/photos/604950643
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604950643/original.jpg
+- file: images/passeriformes/maluridae/malurus-cyaneus/4.jpg
+  page: https://www.inaturalist.org/photos/604988120
+  author: Rosalie Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604988120/original.jpg
+- file: images/passeriformes/maluridae/malurus-cyaneus/5.jpg
+  page: https://www.inaturalist.org/photos/604950641
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604950641/original.jpg
 ---
 
 

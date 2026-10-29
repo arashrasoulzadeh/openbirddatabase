@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/622234572
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622234572/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/622234572
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622234572/original.jpg
+- file: images/piciformes/picidae/veniliornis-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/700609556
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700609556/original.jpg
+- file: images/piciformes/picidae/veniliornis-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/558195468
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558195468/original.jpg
+- file: images/piciformes/picidae/veniliornis-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/347185132
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347185132/original.jpeg
+- file: images/piciformes/picidae/veniliornis-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/360698200
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360698200/original.jpeg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/regulidae/regulus-madeirensis/1.jpg
+  page: https://www.inaturalist.org/photos/615794586
+  author: K.P.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615794586/original.jpg
+images:
+- file: images/passeriformes/regulidae/regulus-madeirensis/1.jpg
+  page: https://www.inaturalist.org/photos/615794586
+  author: K.P.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615794586/original.jpg
+- file: images/passeriformes/regulidae/regulus-madeirensis/2.jpg
+  page: https://www.inaturalist.org/photos/623928790
+  author: Leonardo Ancillotto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623928790/original.jpg
+- file: images/passeriformes/regulidae/regulus-madeirensis/3.jpg
+  page: https://www.inaturalist.org/photos/632566167
+  author: Bruno Peixoto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632566167/original.jpg
+- file: images/passeriformes/regulidae/regulus-madeirensis/4.jpg
+  page: https://www.inaturalist.org/photos/634406136
+  author: Tomas Pocius
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634406136/original.jpg
+- file: images/passeriformes/regulidae/regulus-madeirensis/5.jpg
+  page: https://www.inaturalist.org/photos/649726501
+  author: Phill Robinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649726501/original.jpg
 ---
 
 

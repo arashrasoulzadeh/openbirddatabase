@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/sittidae/sitta-nagaensis/1.jpg
+  page: https://www.inaturalist.org/photos/608280757
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608280757/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-nagaensis/1.jpg
+  page: https://www.inaturalist.org/photos/608280757
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608280757/original.jpg
+- file: images/passeriformes/sittidae/sitta-nagaensis/2.jpg
+  page: https://www.inaturalist.org/photos/609862473
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609862473/original.jpg
+- file: images/passeriformes/sittidae/sitta-nagaensis/3.jpg
+  page: https://www.inaturalist.org/photos/624767312
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624767312/original.jpg
+- file: images/passeriformes/sittidae/sitta-nagaensis/4.jpg
+  page: https://www.inaturalist.org/photos/627909160
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627909160/original.jpg
+- file: images/passeriformes/sittidae/sitta-nagaensis/5.jpg
+  page: https://www.inaturalist.org/photos/625718228
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625718228/original.jpg
 ---
 
 

@@ -150,10 +150,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/strigiformes/strigidae/strix-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/613927539
+  author: Rachel Stringham
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613927539/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/613927539
+  author: Rachel Stringham
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613927539/original.jpg
+- file: images/strigiformes/strigidae/strix-occidentalis/2.jpg
+  page: https://www.inaturalist.org/photos/637858472
+  author: Megan Bolcar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637858472/original.jpg
+- file: images/strigiformes/strigidae/strix-occidentalis/3.jpg
+  page: https://www.inaturalist.org/photos/637372920
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637372920/original.jpg
+- file: images/strigiformes/strigidae/strix-occidentalis/4.jpg
+  page: https://www.inaturalist.org/photos/700224297
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700224297/original.jpg
+- file: images/strigiformes/strigidae/strix-occidentalis/5.jpg
+  page: https://www.inaturalist.org/photos/613927575
+  author: Rachel Stringham
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613927575/original.jpg
 ---
 
 

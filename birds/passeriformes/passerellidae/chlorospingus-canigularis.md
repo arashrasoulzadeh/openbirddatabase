@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/chlorospingus-canigularis/1.jpg
+  page: https://www.inaturalist.org/photos/595790020
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595790020/original.jpg
+images:
+- file: images/passeriformes/passerellidae/chlorospingus-canigularis/1.jpg
+  page: https://www.inaturalist.org/photos/595790020
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595790020/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-canigularis/2.jpg
+  page: https://www.inaturalist.org/photos/591324374
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324374/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-canigularis/3.jpg
+  page: https://www.inaturalist.org/photos/592371885
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592371885/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-canigularis/4.jpg
+  page: https://www.inaturalist.org/photos/350273239
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350273239/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-canigularis/5.jpg
+  page: https://www.inaturalist.org/photos/255442765
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255442765/original.jpeg
 ---
 
 

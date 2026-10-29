@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-surrucura/1.jpg
+  page: https://www.inaturalist.org/photos/609930226
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930226/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-surrucura/1.jpg
+  page: https://www.inaturalist.org/photos/609930226
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930226/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-surrucura/2.jpg
+  page: https://www.inaturalist.org/photos/610843819
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610843819/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-surrucura/3.jpg
+  page: https://www.inaturalist.org/photos/612763627
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612763627/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-surrucura/4.jpg
+  page: https://www.inaturalist.org/photos/612477225
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477225/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-surrucura/5.jpg
+  page: https://www.inaturalist.org/photos/616211307
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616211307/original.jpg
 ---
 
 

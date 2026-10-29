@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/oreopsittacus-arfaki/1.jpg
+  page: https://www.inaturalist.org/photos/703067931
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067931/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/oreopsittacus-arfaki/1.jpg
+  page: https://www.inaturalist.org/photos/703067931
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067931/original.jpg
+- file: images/psittaciformes/psittaculidae/oreopsittacus-arfaki/2.jpg
+  page: https://www.inaturalist.org/photos/335194565
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335194565/original.jpg
+- file: images/psittaciformes/psittaculidae/oreopsittacus-arfaki/3.jpg
+  page: https://www.inaturalist.org/photos/703067923
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067923/original.jpg
+- file: images/psittaciformes/psittaculidae/oreopsittacus-arfaki/4.jpg
+  page: https://www.inaturalist.org/photos/703067915
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067915/original.jpg
+- file: images/psittaciformes/psittaculidae/oreopsittacus-arfaki/5.jpg
+  page: https://www.inaturalist.org/photos/335194754
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335194754/original.jpg
 ---
 
 

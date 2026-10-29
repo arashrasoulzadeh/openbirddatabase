@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/turacoena-manadensis/1.jpg
+  page: https://www.inaturalist.org/photos/714847032
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714847032/original.jpg
+images:
+- file: images/columbiformes/columbidae/turacoena-manadensis/1.jpg
+  page: https://www.inaturalist.org/photos/714847032
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714847032/original.jpg
+- file: images/columbiformes/columbidae/turacoena-manadensis/2.jpg
+  page: https://www.inaturalist.org/photos/466734679
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466734679/original.jpeg
+- file: images/columbiformes/columbidae/turacoena-manadensis/3.jpg
+  page: https://www.inaturalist.org/photos/416525296
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416525296/original.jpg
+- file: images/columbiformes/columbidae/turacoena-manadensis/4.jpg
+  page: https://www.inaturalist.org/photos/241563188
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241563188/original.jpg
+- file: images/columbiformes/columbidae/turacoena-manadensis/5.jpg
+  page: https://www.inaturalist.org/photos/339645088
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339645088/original.jpg
 ---
 
 

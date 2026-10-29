@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/fulica-ardesiaca/1.jpg
+  page: https://www.inaturalist.org/photos/614401684
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614401684/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-ardesiaca/1.jpg
+  page: https://www.inaturalist.org/photos/614401684
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614401684/original.jpg
+- file: images/gruiformes/rallidae/fulica-ardesiaca/2.jpg
+  page: https://www.inaturalist.org/photos/608240230
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608240230/original.jpg
+- file: images/gruiformes/rallidae/fulica-ardesiaca/3.jpg
+  page: https://www.inaturalist.org/photos/613762214
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762214/original.jpg
+- file: images/gruiformes/rallidae/fulica-ardesiaca/4.jpg
+  page: https://www.inaturalist.org/photos/618089420
+  author: Mario Celi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618089420/original.jpg
+- file: images/gruiformes/rallidae/fulica-ardesiaca/5.jpg
+  page: https://www.inaturalist.org/photos/617978708
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617978708/original.jpg
 ---
 
 

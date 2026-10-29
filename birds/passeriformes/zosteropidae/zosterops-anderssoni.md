@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-anderssoni/1.jpg
+  page: https://www.inaturalist.org/photos/710827167
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710827167/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-anderssoni/1.jpg
+  page: https://www.inaturalist.org/photos/710827167
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710827167/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-anderssoni/2.jpg
+  page: https://www.inaturalist.org/photos/582633753
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582633753/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-anderssoni/3.jpg
+  page: https://www.inaturalist.org/photos/420707774
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420707774/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-anderssoni/4.jpg
+  page: https://www.inaturalist.org/photos/441234246
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441234246/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-anderssoni/5.jpg
+  page: https://www.inaturalist.org/photos/440360370
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440360370/original.jpg
 ---
 
 

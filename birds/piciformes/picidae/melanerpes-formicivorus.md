@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/piciformes/picidae/melanerpes-formicivorus/1.jpg
+  page: https://www.inaturalist.org/photos/604930629
+  author: Nathan Odgers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604930629/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-formicivorus/1.jpg
+  page: https://www.inaturalist.org/photos/604930629
+  author: Nathan Odgers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604930629/original.jpg
+- file: images/piciformes/picidae/melanerpes-formicivorus/2.jpg
+  page: https://www.inaturalist.org/photos/605288996
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605288996/original.jpg
+- file: images/piciformes/picidae/melanerpes-formicivorus/3.jpg
+  page: https://www.inaturalist.org/photos/605269482
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605269482/original.jpg
+- file: images/piciformes/picidae/melanerpes-formicivorus/4.jpg
+  page: https://www.inaturalist.org/photos/604853333
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604853333/original.jpg
+- file: images/piciformes/picidae/melanerpes-formicivorus/5.jpg
+  page: https://www.inaturalist.org/photos/605296281
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605296281/original.jpg
 ---
 
 

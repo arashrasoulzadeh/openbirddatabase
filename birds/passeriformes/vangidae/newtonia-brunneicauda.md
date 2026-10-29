@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/newtonia-brunneicauda/1.jpg
+  page: https://www.inaturalist.org/photos/690102517
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690102517/original.jpg
+images:
+- file: images/passeriformes/vangidae/newtonia-brunneicauda/1.jpg
+  page: https://www.inaturalist.org/photos/690102517
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690102517/original.jpg
+- file: images/passeriformes/vangidae/newtonia-brunneicauda/2.jpg
+  page: https://www.inaturalist.org/photos/580943716
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580943716/original.jpg
+- file: images/passeriformes/vangidae/newtonia-brunneicauda/3.jpg
+  page: https://www.inaturalist.org/photos/602672257
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602672257/original.jpg
+- file: images/passeriformes/vangidae/newtonia-brunneicauda/4.jpg
+  page: https://www.inaturalist.org/photos/452226617
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452226617/original.jpg
+- file: images/passeriformes/vangidae/newtonia-brunneicauda/5.jpg
+  page: https://www.inaturalist.org/photos/455729098
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455729098/original.jpeg
 ---
 
 

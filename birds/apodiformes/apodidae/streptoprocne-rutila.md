@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/streptoprocne-rutila/1.jpg
+  page: https://www.inaturalist.org/photos/612706682
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612706682/original.jpg
+images:
+- file: images/apodiformes/apodidae/streptoprocne-rutila/1.jpg
+  page: https://www.inaturalist.org/photos/612706682
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612706682/original.jpg
+- file: images/apodiformes/apodidae/streptoprocne-rutila/2.jpg
+  page: https://www.inaturalist.org/photos/652839556
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652839556/original.jpg
+- file: images/apodiformes/apodidae/streptoprocne-rutila/3.jpg
+  page: https://www.inaturalist.org/photos/651837575
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651837575/original.jpg
+- file: images/apodiformes/apodidae/streptoprocne-rutila/4.jpg
+  page: https://www.inaturalist.org/photos/489406449
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489406449/original.jpg
+- file: images/apodiformes/apodidae/streptoprocne-rutila/5.jpg
+  page: https://www.inaturalist.org/photos/484196673
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484196673/original.jpg
 ---
 
 

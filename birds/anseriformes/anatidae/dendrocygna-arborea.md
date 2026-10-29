@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/dendrocygna-arborea/1.jpg
+  page: https://www.inaturalist.org/photos/611059133
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611059133/original.jpg
+images:
+- file: images/anseriformes/anatidae/dendrocygna-arborea/1.jpg
+  page: https://www.inaturalist.org/photos/611059133
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611059133/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-arborea/2.jpg
+  page: https://www.inaturalist.org/photos/614975466
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975466/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-arborea/3.jpg
+  page: https://www.inaturalist.org/photos/678272688
+  author: Lyndon Howson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678272688/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-arborea/4.jpg
+  page: https://www.inaturalist.org/photos/680901158
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680901158/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-arborea/5.jpg
+  page: https://www.inaturalist.org/photos/686270130
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686270130/original.jpg
 ---
 
 

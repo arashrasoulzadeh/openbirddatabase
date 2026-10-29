@@ -165,10 +165,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/emberizidae/emberiza-pallasi/1.jpg
+  page: https://www.inaturalist.org/photos/616603098
+  author: 7695_Reikyu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616603098/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-pallasi/1.jpg
+  page: https://www.inaturalist.org/photos/616603098
+  author: 7695_Reikyu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616603098/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-pallasi/2.jpg
+  page: https://www.inaturalist.org/photos/630835143
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630835143/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-pallasi/3.jpg
+  page: https://www.inaturalist.org/photos/616605210
+  author: 7695_Reikyu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616605210/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-pallasi/4.jpg
+  page: https://www.inaturalist.org/photos/630835339
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630835339/original.jpg
 ---
 
 

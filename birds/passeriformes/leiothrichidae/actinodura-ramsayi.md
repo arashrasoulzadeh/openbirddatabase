@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/actinodura-ramsayi/1.jpg
+  page: https://www.inaturalist.org/photos/468779305
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468779305/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/actinodura-ramsayi/1.jpg
+  page: https://www.inaturalist.org/photos/468779305
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468779305/original.jpeg
+- file: images/passeriformes/leiothrichidae/actinodura-ramsayi/2.jpg
+  page: https://www.inaturalist.org/photos/596322862
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596322862/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-ramsayi/3.jpg
+  page: https://www.inaturalist.org/photos/256022278
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256022278/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-ramsayi/4.jpg
+  page: https://www.inaturalist.org/photos/650057046
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650057046/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-ramsayi/5.jpg
+  page: https://www.inaturalist.org/photos/344842519
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344842519/original.jpeg
 ---
 
 

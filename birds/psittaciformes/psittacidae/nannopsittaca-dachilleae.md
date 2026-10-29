@@ -144,8 +144,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/nannopsittaca-dachilleae/1.jpg
+  page: https://www.inaturalist.org/photos/444564786
+  author: Rob Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444564786/original.jpeg
+images:
+- file: images/psittaciformes/psittacidae/nannopsittaca-dachilleae/1.jpg
+  page: https://www.inaturalist.org/photos/444564786
+  author: Rob Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444564786/original.jpeg
+- file: images/psittaciformes/psittacidae/nannopsittaca-dachilleae/2.jpg
+  page: https://www.inaturalist.org/photos/59667602
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59667602/original.jpeg
 ---
 
 

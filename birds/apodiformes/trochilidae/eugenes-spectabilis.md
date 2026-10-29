@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eugenes-spectabilis/1.jpg
+  page: https://www.inaturalist.org/photos/605186120
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605186120/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eugenes-spectabilis/1.jpg
+  page: https://www.inaturalist.org/photos/605186120
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605186120/original.jpg
+- file: images/apodiformes/trochilidae/eugenes-spectabilis/2.jpg
+  page: https://www.inaturalist.org/photos/610090351
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610090351/original.jpg
+- file: images/apodiformes/trochilidae/eugenes-spectabilis/3.jpg
+  page: https://www.inaturalist.org/photos/617278280
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617278280/original.jpg
+- file: images/apodiformes/trochilidae/eugenes-spectabilis/4.jpg
+  page: https://www.inaturalist.org/photos/616825828
+  author: Logan J.L. Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616825828/original.jpg
+- file: images/apodiformes/trochilidae/eugenes-spectabilis/5.jpg
+  page: https://www.inaturalist.org/photos/621254586
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621254586/original.jpg
 ---
 
 

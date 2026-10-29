@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-tutus/1.jpg
+  page: https://www.inaturalist.org/photos/651953555
+  author: Antoine MARNAT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651953555/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-tutus/1.jpg
+  page: https://www.inaturalist.org/photos/651953555
+  author: Antoine MARNAT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651953555/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-tutus/2.jpg
+  page: https://www.inaturalist.org/photos/345698663
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345698663/original.jpeg
+- file: images/coraciiformes/alcedinidae/todiramphus-tutus/3.jpg
+  page: https://www.inaturalist.org/photos/248467069
+  author: Steven Lamonde
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248467069/original.jpeg
+- file: images/coraciiformes/alcedinidae/todiramphus-tutus/4.jpg
+  page: https://www.inaturalist.org/photos/236676019
+  author: Patrick Lam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236676019/original.jpeg
+- file: images/coraciiformes/alcedinidae/todiramphus-tutus/5.jpg
+  page: https://www.inaturalist.org/photos/395654973
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395654973/original.jpg
 ---
 
 

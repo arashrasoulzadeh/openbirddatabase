@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/niltava-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/609937893
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609937893/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/niltava-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/609937893
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609937893/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-davidi/2.jpg
+  page: https://www.inaturalist.org/photos/253062210
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253062210/original.jpeg
+- file: images/passeriformes/muscicapidae/niltava-davidi/3.jpg
+  page: https://www.inaturalist.org/photos/249086008
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249086008/original.jpeg
+- file: images/passeriformes/muscicapidae/niltava-davidi/4.jpg
+  page: https://www.inaturalist.org/photos/249086153
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249086153/original.jpeg
+- file: images/passeriformes/muscicapidae/niltava-davidi/5.jpg
+  page: https://www.inaturalist.org/photos/249087274
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249087274/original.jpeg
 ---
 
 

@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/aquila-spilogaster/1.jpg
+  page: https://www.inaturalist.org/photos/625958607
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625958607/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aquila-spilogaster/1.jpg
+  page: https://www.inaturalist.org/photos/625958607
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625958607/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-spilogaster/2.jpg
+  page: https://www.inaturalist.org/photos/650457097
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650457097/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-spilogaster/3.jpg
+  page: https://www.inaturalist.org/photos/615184699
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615184699/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-spilogaster/4.jpg
+  page: https://www.inaturalist.org/photos/638866230
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638866230/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-spilogaster/5.jpg
+  page: https://www.inaturalist.org/photos/646396983
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646396983/original.jpg
 ---
 
 

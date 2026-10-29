@@ -135,7 +135,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.1
@@ -143,6 +144,20 @@ morphology:
   wing_length_mm: 65.8
   tail_length_mm: 68.9
   body_mass_g: 12.2
+image:
+  file: images/passeriformes/furnariidae/aphrastura-masafuerae/1.jpg
+  page: https://www.inaturalist.org/photos/303002681
+  author: Patricio Novoa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303002681/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/aphrastura-masafuerae/1.jpg
+  page: https://www.inaturalist.org/photos/303002681
+  author: Patricio Novoa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303002681/original.jpeg
 ---
 
 

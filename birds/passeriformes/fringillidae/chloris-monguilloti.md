@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/chloris-monguilloti/1.jpg
+  page: https://www.inaturalist.org/photos/625595086
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625595086/original.jpg
+images:
+- file: images/passeriformes/fringillidae/chloris-monguilloti/1.jpg
+  page: https://www.inaturalist.org/photos/625595086
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625595086/original.jpg
+- file: images/passeriformes/fringillidae/chloris-monguilloti/2.jpg
+  page: https://www.inaturalist.org/photos/389835634
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/389835634/original.jpg
+- file: images/passeriformes/fringillidae/chloris-monguilloti/3.jpg
+  page: https://www.inaturalist.org/photos/385763696
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385763696/original.jpeg
+- file: images/passeriformes/fringillidae/chloris-monguilloti/4.jpg
+  page: https://www.inaturalist.org/photos/105772441
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105772441/original.jpeg
+- file: images/passeriformes/fringillidae/chloris-monguilloti/5.jpg
+  page: https://www.inaturalist.org/photos/109189477
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109189477/original.jpeg
 ---
 
 

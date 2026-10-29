@@ -129,8 +129,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/610868341
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610868341/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/610868341
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610868341/original.jpg
+- file: images/passeriformes/fringillidae/spinus-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/330539886
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330539886/original.jpeg
+- file: images/passeriformes/fringillidae/spinus-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/461344836
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461344836/original.jpeg
+- file: images/passeriformes/fringillidae/spinus-olivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/205589486
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205589486/original.jpeg
+- file: images/passeriformes/fringillidae/spinus-olivaceus/5.jpg
+  page: https://www.inaturalist.org/photos/165157085
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/165157085/original.jpeg
 ---
 
 

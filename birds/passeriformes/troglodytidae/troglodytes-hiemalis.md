@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-hiemalis/1.jpg
+  page: https://www.inaturalist.org/photos/604877411
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604877411/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-hiemalis/1.jpg
+  page: https://www.inaturalist.org/photos/604877411
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604877411/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-hiemalis/2.jpg
+  page: https://www.inaturalist.org/photos/605109246
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605109246/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-hiemalis/3.jpg
+  page: https://www.inaturalist.org/photos/605138629
+  author: Shelby Lyn Sanders
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605138629/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-hiemalis/4.jpg
+  page: https://www.inaturalist.org/photos/604865994
+  author: Conway Hawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604865994/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-hiemalis/5.jpg
+  page: https://www.inaturalist.org/photos/606502757
+  author: GobyHunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606502757/original.jpg
 ---
 
 

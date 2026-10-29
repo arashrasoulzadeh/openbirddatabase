@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/gliciphila-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/624893799
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624893799/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/gliciphila-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/624893799
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624893799/original.jpg
+- file: images/passeriformes/meliphagidae/gliciphila-melanops/2.jpg
+  page: https://www.inaturalist.org/photos/651057351
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651057351/original.jpg
+- file: images/passeriformes/meliphagidae/gliciphila-melanops/3.jpg
+  page: https://www.inaturalist.org/photos/692662211
+  author: Luke Lythgoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692662211/original.jpg
+- file: images/passeriformes/meliphagidae/gliciphila-melanops/4.jpg
+  page: https://www.inaturalist.org/photos/700668619
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700668619/original.jpg
+- file: images/passeriformes/meliphagidae/gliciphila-melanops/5.jpg
+  page: https://www.inaturalist.org/photos/729624504
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729624504/original.jpg
 ---
 
 

@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/estrildidae/stagonopleura-oculata/1.jpg
+  page: https://www.inaturalist.org/photos/620473768
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473768/original.jpg
+images:
+- file: images/passeriformes/estrildidae/stagonopleura-oculata/1.jpg
+  page: https://www.inaturalist.org/photos/620473768
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473768/original.jpg
+- file: images/passeriformes/estrildidae/stagonopleura-oculata/2.jpg
+  page: https://www.inaturalist.org/photos/620824669
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620824669/original.jpg
+- file: images/passeriformes/estrildidae/stagonopleura-oculata/3.jpg
+  page: https://www.inaturalist.org/photos/651054647
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651054647/original.jpg
+- file: images/passeriformes/estrildidae/stagonopleura-oculata/4.jpg
+  page: https://www.inaturalist.org/photos/465254721
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465254721/original.jpg
+- file: images/passeriformes/estrildidae/stagonopleura-oculata/5.jpg
+  page: https://www.inaturalist.org/photos/620473922
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473922/original.jpg
 ---
 
 

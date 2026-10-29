@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/leptotila-conoveri/1.jpg
+  page: https://www.inaturalist.org/photos/498361345
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498361345/original.jpg
+images:
+- file: images/columbiformes/columbidae/leptotila-conoveri/1.jpg
+  page: https://www.inaturalist.org/photos/498361345
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498361345/original.jpg
+- file: images/columbiformes/columbidae/leptotila-conoveri/2.jpg
+  page: https://www.inaturalist.org/photos/532561690
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532561690/original.jpg
+- file: images/columbiformes/columbidae/leptotila-conoveri/3.jpg
+  page: https://www.inaturalist.org/photos/611987315
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611987315/original.jpg
+- file: images/columbiformes/columbidae/leptotila-conoveri/4.jpg
+  page: https://www.inaturalist.org/photos/196912639
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196912639/original.jpg
+- file: images/columbiformes/columbidae/leptotila-conoveri/5.jpg
+  page: https://www.inaturalist.org/photos/231204887
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231204887/original.jpeg
 ---
 
 

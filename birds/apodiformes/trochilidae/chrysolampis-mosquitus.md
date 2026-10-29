@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chrysolampis-mosquitus/1.jpg
+  page: https://www.inaturalist.org/photos/614205213
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205213/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chrysolampis-mosquitus/1.jpg
+  page: https://www.inaturalist.org/photos/614205213
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205213/original.jpg
+- file: images/apodiformes/trochilidae/chrysolampis-mosquitus/2.jpg
+  page: https://www.inaturalist.org/photos/616767693
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616767693/original.jpg
+- file: images/apodiformes/trochilidae/chrysolampis-mosquitus/3.jpg
+  page: https://www.inaturalist.org/photos/631620824
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631620824/original.jpg
+- file: images/apodiformes/trochilidae/chrysolampis-mosquitus/4.jpg
+  page: https://www.inaturalist.org/photos/663232558
+  author: Jacob Weston
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663232558/original.jpg
+- file: images/apodiformes/trochilidae/chrysolampis-mosquitus/5.jpg
+  page: https://www.inaturalist.org/photos/729910825
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729910825/original.jpg
 ---
 
 

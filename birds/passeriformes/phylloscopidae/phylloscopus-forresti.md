@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-forresti/1.jpg
+  page: https://www.inaturalist.org/photos/303415033
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303415033/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-forresti/1.jpg
+  page: https://www.inaturalist.org/photos/303415033
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303415033/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-forresti/2.jpg
+  page: https://www.inaturalist.org/photos/347520111
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347520111/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-forresti/3.jpg
+  page: https://www.inaturalist.org/photos/338161402
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338161402/original.jpeg
+- file: images/passeriformes/phylloscopidae/phylloscopus-forresti/4.jpg
+  page: https://www.inaturalist.org/photos/303415284
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303415284/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-forresti/5.jpg
+  page: https://www.inaturalist.org/photos/306973258
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/306973258/original.jpg
 ---
 
 

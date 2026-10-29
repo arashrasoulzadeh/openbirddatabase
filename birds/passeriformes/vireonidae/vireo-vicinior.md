@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/vireonidae/vireo-vicinior/1.jpg
+  page: https://www.inaturalist.org/photos/632929126
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632929126/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-vicinior/1.jpg
+  page: https://www.inaturalist.org/photos/632929126
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632929126/original.jpg
+- file: images/passeriformes/vireonidae/vireo-vicinior/2.jpg
+  page: https://www.inaturalist.org/photos/659299275
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659299275/original.jpg
+- file: images/passeriformes/vireonidae/vireo-vicinior/3.jpg
+  page: https://www.inaturalist.org/photos/658925417
+  author: Joshua Smith
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658925417/original.jpg
+- file: images/passeriformes/vireonidae/vireo-vicinior/4.jpg
+  page: https://www.inaturalist.org/photos/674901437
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674901437/original.jpg
+- file: images/passeriformes/vireonidae/vireo-vicinior/5.jpg
+  page: https://www.inaturalist.org/photos/725143878
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725143878/original.jpg
 ---
 
 

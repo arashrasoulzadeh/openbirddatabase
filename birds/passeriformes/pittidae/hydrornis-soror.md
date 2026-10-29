@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/hydrornis-soror/1.jpg
+  page: https://www.inaturalist.org/photos/608900421
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608900421/original.jpg
+images:
+- file: images/passeriformes/pittidae/hydrornis-soror/1.jpg
+  page: https://www.inaturalist.org/photos/608900421
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608900421/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-soror/2.jpg
+  page: https://www.inaturalist.org/photos/631335705
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631335705/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-soror/3.jpg
+  page: https://www.inaturalist.org/photos/636029879
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636029879/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-soror/4.jpg
+  page: https://www.inaturalist.org/photos/391348509
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/391348509/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-soror/5.jpg
+  page: https://www.inaturalist.org/photos/581599433
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581599433/original.jpg
 ---
 
 

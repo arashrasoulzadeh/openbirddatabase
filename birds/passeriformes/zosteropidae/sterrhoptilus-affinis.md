@@ -132,8 +132,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/sterrhoptilus-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/211853219
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211853219/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/sterrhoptilus-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/211853219
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211853219/original.jpg
+- file: images/passeriformes/zosteropidae/sterrhoptilus-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/211853235
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211853235/original.jpg
+- file: images/passeriformes/zosteropidae/sterrhoptilus-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/211853255
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211853255/original.jpg
+- file: images/passeriformes/zosteropidae/sterrhoptilus-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/211853274
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211853274/original.jpg
+- file: images/passeriformes/zosteropidae/sterrhoptilus-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/211853353
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211853353/original.jpg
 ---
 
 

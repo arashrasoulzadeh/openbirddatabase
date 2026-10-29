@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 31
+image:
+  file: images/psittaciformes/psittacidae/primolius-maracana/1.jpg
+  page: https://www.inaturalist.org/photos/605145049
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605145049/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/primolius-maracana/1.jpg
+  page: https://www.inaturalist.org/photos/605145049
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605145049/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-maracana/2.jpg
+  page: https://www.inaturalist.org/photos/622220299
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622220299/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-maracana/3.jpg
+  page: https://www.inaturalist.org/photos/658269750
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658269750/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-maracana/4.jpg
+  page: https://www.inaturalist.org/photos/648904110
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648904110/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-maracana/5.jpg
+  page: https://www.inaturalist.org/photos/652770672
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652770672/original.jpg
 ---
 
 

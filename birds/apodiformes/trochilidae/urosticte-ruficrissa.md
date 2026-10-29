@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/urosticte-ruficrissa/1.jpg
+  page: https://www.inaturalist.org/photos/608941939
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608941939/original.jpg
+images:
+- file: images/apodiformes/trochilidae/urosticte-ruficrissa/1.jpg
+  page: https://www.inaturalist.org/photos/608941939
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608941939/original.jpg
+- file: images/apodiformes/trochilidae/urosticte-ruficrissa/2.jpg
+  page: https://www.inaturalist.org/photos/420089564
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420089564/original.jpg
+- file: images/apodiformes/trochilidae/urosticte-ruficrissa/3.jpg
+  page: https://www.inaturalist.org/photos/199534099
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199534099/original.jpg
+- file: images/apodiformes/trochilidae/urosticte-ruficrissa/4.jpg
+  page: https://www.inaturalist.org/photos/167892397
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/167892397/original.jpeg
+- file: images/apodiformes/trochilidae/urosticte-ruficrissa/5.jpg
+  page: https://www.inaturalist.org/photos/608941968
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608941968/original.jpg
 ---
 
 

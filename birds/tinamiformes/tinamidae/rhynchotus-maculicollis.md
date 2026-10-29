@@ -143,8 +143,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/rhynchotus-maculicollis/1.jpg
+  page: https://www.inaturalist.org/photos/609586430
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609586430/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/rhynchotus-maculicollis/1.jpg
+  page: https://www.inaturalist.org/photos/609586430
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609586430/original.jpg
+- file: images/tinamiformes/tinamidae/rhynchotus-maculicollis/2.jpg
+  page: https://www.inaturalist.org/photos/339303412
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339303412/original.jpeg
+- file: images/tinamiformes/tinamidae/rhynchotus-maculicollis/3.jpg
+  page: https://www.inaturalist.org/photos/339303409
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339303409/original.jpeg
+- file: images/tinamiformes/tinamidae/rhynchotus-maculicollis/4.jpg
+  page: https://www.inaturalist.org/photos/339303411
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339303411/original.jpeg
+- file: images/tinamiformes/tinamidae/rhynchotus-maculicollis/5.jpg
+  page: https://www.inaturalist.org/photos/339303503
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339303503/original.jpeg
 ---
 
 

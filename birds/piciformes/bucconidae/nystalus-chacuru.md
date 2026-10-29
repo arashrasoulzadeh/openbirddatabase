@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/nystalus-chacuru/1.jpg
+  page: https://www.inaturalist.org/photos/607263397
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607263397/original.jpg
+images:
+- file: images/piciformes/bucconidae/nystalus-chacuru/1.jpg
+  page: https://www.inaturalist.org/photos/607263397
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607263397/original.jpg
+- file: images/piciformes/bucconidae/nystalus-chacuru/2.jpg
+  page: https://www.inaturalist.org/photos/611257950
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611257950/original.jpg
+- file: images/piciformes/bucconidae/nystalus-chacuru/3.jpg
+  page: https://www.inaturalist.org/photos/621907430
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621907430/original.jpg
+- file: images/piciformes/bucconidae/nystalus-chacuru/4.jpg
+  page: https://www.inaturalist.org/photos/617886163
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617886163/original.jpg
+- file: images/piciformes/bucconidae/nystalus-chacuru/5.jpg
+  page: https://www.inaturalist.org/photos/706969556
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706969556/original.jpg
 ---
 
 

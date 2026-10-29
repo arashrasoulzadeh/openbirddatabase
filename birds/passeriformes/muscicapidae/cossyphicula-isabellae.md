@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cossyphicula-isabellae/1.jpg
+  page: https://www.inaturalist.org/photos/640597744
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640597744/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cossyphicula-isabellae/1.jpg
+  page: https://www.inaturalist.org/photos/640597744
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640597744/original.jpg
+- file: images/passeriformes/muscicapidae/cossyphicula-isabellae/2.jpg
+  page: https://www.inaturalist.org/photos/470067870
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470067870/original.jpg
+- file: images/passeriformes/muscicapidae/cossyphicula-isabellae/3.jpg
+  page: https://www.inaturalist.org/photos/640576428
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640576428/original.jpg
+- file: images/passeriformes/muscicapidae/cossyphicula-isabellae/4.jpg
+  page: https://www.inaturalist.org/photos/640845188
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845188/original.jpg
+- file: images/passeriformes/muscicapidae/cossyphicula-isabellae/5.jpg
+  page: https://www.inaturalist.org/photos/640845215
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845215/original.jpg
 ---
 
 

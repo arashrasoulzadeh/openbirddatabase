@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 42
+image:
+  file: images/accipitriformes/accipitridae/geranoaetus-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/609543626
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609543626/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/geranoaetus-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/609543626
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609543626/original.jpg
+- file: images/accipitriformes/accipitridae/geranoaetus-melanoleucus/2.jpg
+  page: https://www.inaturalist.org/photos/610771928
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610771928/original.jpg
+- file: images/accipitriformes/accipitridae/geranoaetus-melanoleucus/3.jpg
+  page: https://www.inaturalist.org/photos/610681387
+  author: Nicolás Garcés
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610681387/original.jpg
+- file: images/accipitriformes/accipitridae/geranoaetus-melanoleucus/4.jpg
+  page: https://www.inaturalist.org/photos/609252269
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609252269/original.jpg
+- file: images/accipitriformes/accipitridae/geranoaetus-melanoleucus/5.jpg
+  page: https://www.inaturalist.org/photos/609666233
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609666233/original.jpg
 ---
 
 

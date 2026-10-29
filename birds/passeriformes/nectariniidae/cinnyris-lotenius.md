@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-lotenius/1.jpg
+  page: https://www.inaturalist.org/photos/623524146
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623524146/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-lotenius/1.jpg
+  page: https://www.inaturalist.org/photos/623524146
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623524146/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-lotenius/2.jpg
+  page: https://www.inaturalist.org/photos/617216135
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617216135/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-lotenius/3.jpg
+  page: https://www.inaturalist.org/photos/638868375
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638868375/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-lotenius/4.jpg
+  page: https://www.inaturalist.org/photos/662564962
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662564962/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-lotenius/5.jpg
+  page: https://www.inaturalist.org/photos/665095213
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665095213/original.jpg
 ---
 
 

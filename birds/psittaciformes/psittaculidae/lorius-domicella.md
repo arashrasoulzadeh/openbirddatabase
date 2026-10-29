@@ -142,10 +142,25 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/psittaciformes/psittaculidae/lorius-domicella/1.jpg
+  page: https://www.inaturalist.org/photos/700915326
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700915326/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/lorius-domicella/1.jpg
+  page: https://www.inaturalist.org/photos/700915326
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700915326/original.jpg
 ---
 
 

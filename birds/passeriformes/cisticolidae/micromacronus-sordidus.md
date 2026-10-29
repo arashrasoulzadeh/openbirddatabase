@@ -139,8 +139,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/micromacronus-sordidus/1.jpg
+  page: https://www.inaturalist.org/photos/270915235
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270915235/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/micromacronus-sordidus/1.jpg
+  page: https://www.inaturalist.org/photos/270915235
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270915235/original.jpg
+- file: images/passeriformes/cisticolidae/micromacronus-sordidus/2.jpg
+  page: https://www.inaturalist.org/photos/270915251
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270915251/original.jpg
+- file: images/passeriformes/cisticolidae/micromacronus-sordidus/3.jpg
+  page: https://www.inaturalist.org/photos/270915135
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270915135/original.jpg
+- file: images/passeriformes/cisticolidae/micromacronus-sordidus/4.jpg
+  page: https://www.inaturalist.org/photos/270915153
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270915153/original.jpg
+- file: images/passeriformes/cisticolidae/micromacronus-sordidus/5.jpg
+  page: https://www.inaturalist.org/photos/230838286
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230838286/original.jpg
 ---
 
 

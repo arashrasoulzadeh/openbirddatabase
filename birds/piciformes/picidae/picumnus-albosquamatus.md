@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-albosquamatus/1.jpg
+  page: https://www.inaturalist.org/photos/609002715
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609002715/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-albosquamatus/1.jpg
+  page: https://www.inaturalist.org/photos/609002715
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609002715/original.jpg
+- file: images/piciformes/picidae/picumnus-albosquamatus/2.jpg
+  page: https://www.inaturalist.org/photos/625081532
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625081532/original.jpg
+- file: images/piciformes/picidae/picumnus-albosquamatus/3.jpg
+  page: https://www.inaturalist.org/photos/654382031
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654382031/original.jpg
+- file: images/piciformes/picidae/picumnus-albosquamatus/4.jpg
+  page: https://www.inaturalist.org/photos/688339100
+  author: Kazimieras Martinaitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688339100/original.jpg
+- file: images/piciformes/picidae/picumnus-albosquamatus/5.jpg
+  page: https://www.inaturalist.org/photos/720353662
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720353662/original.jpg
 ---
 
 

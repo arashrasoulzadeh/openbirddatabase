@@ -149,7 +149,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 15.6
@@ -157,6 +158,44 @@ morphology:
   wing_length_mm: 67.0
   tail_length_mm: 64.9
   body_mass_g: 15.3
+image:
+  file: images/passeriformes/muscicapidae/saxicola-jerdoni/1.jpg
+  page: https://www.inaturalist.org/photos/70426119
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70426119/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/saxicola-jerdoni/1.jpg
+  page: https://www.inaturalist.org/photos/70426119
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70426119/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-jerdoni/2.jpg
+  page: https://www.inaturalist.org/photos/63645923
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63645923/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-jerdoni/3.jpg
+  page: https://www.inaturalist.org/photos/547329188
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547329188/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-jerdoni/4.jpg
+  page: https://www.inaturalist.org/photos/63645924
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63645924/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-jerdoni/5.jpg
+  page: https://www.inaturalist.org/photos/546883826
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546883826/original.jpg
 ---
 
 

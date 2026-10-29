@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-zonorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/604945328
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604945328/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-zonorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/604945328
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604945328/original.jpg
+- file: images/anseriformes/anatidae/anas-zonorhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/604957948
+  author: FUKUDA Kazuhito 福田一人
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604957948/original.jpg
+- file: images/anseriformes/anatidae/anas-zonorhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/604444309
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604444309/original.jpg
+- file: images/anseriformes/anatidae/anas-zonorhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/604984303
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604984303/original.jpg
+- file: images/anseriformes/anatidae/anas-zonorhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/609370134
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609370134/original.jpg
 ---
 
 

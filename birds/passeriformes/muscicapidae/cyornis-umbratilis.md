@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-umbratilis/1.jpg
+  page: https://www.inaturalist.org/photos/692551936
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692551936/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-umbratilis/1.jpg
+  page: https://www.inaturalist.org/photos/692551936
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692551936/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-umbratilis/2.jpg
+  page: https://www.inaturalist.org/photos/576683908
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576683908/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-umbratilis/3.jpg
+  page: https://www.inaturalist.org/photos/583999375
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583999375/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-umbratilis/4.jpg
+  page: https://www.inaturalist.org/photos/388466540
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388466540/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-umbratilis/5.jpg
+  page: https://www.inaturalist.org/photos/547323875
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547323875/original.jpg
 ---
 
 

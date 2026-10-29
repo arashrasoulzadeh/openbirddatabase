@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/lophoceros-hemprichii/1.jpg
+  page: https://www.inaturalist.org/photos/621385482
+  author: Dimitri Brosens
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621385482/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/lophoceros-hemprichii/1.jpg
+  page: https://www.inaturalist.org/photos/621385482
+  author: Dimitri Brosens
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621385482/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-hemprichii/2.jpg
+  page: https://www.inaturalist.org/photos/584916402
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584916402/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-hemprichii/3.jpg
+  page: https://www.inaturalist.org/photos/605263294
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605263294/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-hemprichii/4.jpg
+  page: https://www.inaturalist.org/photos/608736370
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608736370/original.jpg
+- file: images/bucerotiformes/bucerotidae/lophoceros-hemprichii/5.jpg
+  page: https://www.inaturalist.org/photos/442457928
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442457928/original.jpeg
 ---
 
 

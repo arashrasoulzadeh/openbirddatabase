@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/icteridae/agelaius-assimilis/1.jpg
+  page: https://www.inaturalist.org/photos/635980576
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635980576/original.jpg
+images:
+- file: images/passeriformes/icteridae/agelaius-assimilis/1.jpg
+  page: https://www.inaturalist.org/photos/635980576
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635980576/original.jpg
+- file: images/passeriformes/icteridae/agelaius-assimilis/2.jpg
+  page: https://www.inaturalist.org/photos/419889405
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419889405/original.jpeg
+- file: images/passeriformes/icteridae/agelaius-assimilis/3.jpg
+  page: https://www.inaturalist.org/photos/186828594
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186828594/original.jpg
+- file: images/passeriformes/icteridae/agelaius-assimilis/4.jpg
+  page: https://www.inaturalist.org/photos/572435477
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572435477/original.jpg
+- file: images/passeriformes/icteridae/agelaius-assimilis/5.jpg
+  page: https://www.inaturalist.org/photos/104126975
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104126975/original.jpeg
 ---
 
 

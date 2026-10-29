@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-unicincta/1.jpg
+  page: https://www.inaturalist.org/photos/661918117
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661918117/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-unicincta/1.jpg
+  page: https://www.inaturalist.org/photos/661918117
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661918117/original.jpg
+- file: images/columbiformes/columbidae/columba-unicincta/2.jpg
+  page: https://www.inaturalist.org/photos/512191854
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512191854/original.jpg
+- file: images/columbiformes/columbidae/columba-unicincta/3.jpg
+  page: https://www.inaturalist.org/photos/248469966
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248469966/original.jpeg
+- file: images/columbiformes/columbidae/columba-unicincta/4.jpg
+  page: https://www.inaturalist.org/photos/106013601
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106013601/original.jpg
+- file: images/columbiformes/columbidae/columba-unicincta/5.jpg
+  page: https://www.inaturalist.org/photos/661918089
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661918089/original.jpg
 ---
 
 

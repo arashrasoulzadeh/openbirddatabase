@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/geositta-cunicularia/1.jpg
+  page: https://www.inaturalist.org/photos/621453806
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621453806/original.jpg
+images:
+- file: images/passeriformes/furnariidae/geositta-cunicularia/1.jpg
+  page: https://www.inaturalist.org/photos/621453806
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621453806/original.jpg
+- file: images/passeriformes/furnariidae/geositta-cunicularia/2.jpg
+  page: https://www.inaturalist.org/photos/644464159
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644464159/original.jpg
+- file: images/passeriformes/furnariidae/geositta-cunicularia/3.jpg
+  page: https://www.inaturalist.org/photos/659132097
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659132097/original.jpg
+- file: images/passeriformes/furnariidae/geositta-cunicularia/4.jpg
+  page: https://www.inaturalist.org/photos/653318124
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653318124/original.jpg
+- file: images/passeriformes/furnariidae/geositta-cunicularia/5.jpg
+  page: https://www.inaturalist.org/photos/661752868
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661752868/original.jpg
 ---
 
 

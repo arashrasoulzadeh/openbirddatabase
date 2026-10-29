@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-hemilasius/1.jpg
+  page: https://www.inaturalist.org/photos/624829939
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624829939/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-hemilasius/1.jpg
+  page: https://www.inaturalist.org/photos/624829939
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624829939/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-hemilasius/2.jpg
+  page: https://www.inaturalist.org/photos/626279380
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626279380/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-hemilasius/3.jpg
+  page: https://www.inaturalist.org/photos/654079369
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654079369/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-hemilasius/4.jpg
+  page: https://www.inaturalist.org/photos/642280889
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642280889/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-hemilasius/5.jpg
+  page: https://www.inaturalist.org/photos/639496897
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639496897/original.jpg
 ---
 
 

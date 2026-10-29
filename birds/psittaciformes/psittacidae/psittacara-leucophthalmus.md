@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/psittacara-leucophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/605468503
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605468503/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/psittacara-leucophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/605468503
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605468503/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-leucophthalmus/2.jpg
+  page: https://www.inaturalist.org/photos/610526568
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610526568/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-leucophthalmus/3.jpg
+  page: https://www.inaturalist.org/photos/609202203
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609202203/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-leucophthalmus/4.jpg
+  page: https://www.inaturalist.org/photos/610998777
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610998777/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-leucophthalmus/5.jpg
+  page: https://www.inaturalist.org/photos/609780022
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609780022/original.jpg
 ---
 
 

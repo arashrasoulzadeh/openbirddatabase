@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-pelzelni/1.jpg
+  page: https://www.inaturalist.org/photos/726717694
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726717694/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-pelzelni/1.jpg
+  page: https://www.inaturalist.org/photos/726717694
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726717694/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-pelzelni/2.jpg
+  page: https://www.inaturalist.org/photos/630474787
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630474787/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-pelzelni/3.jpg
+  page: https://www.inaturalist.org/photos/654430191
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654430191/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-pelzelni/4.jpg
+  page: https://www.inaturalist.org/photos/657481537
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657481537/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-pelzelni/5.jpg
+  page: https://www.inaturalist.org/photos/672767331
+  author: the_adventure_hunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672767331/original.jpg
 ---
 
 

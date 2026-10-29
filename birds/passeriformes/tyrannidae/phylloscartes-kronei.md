@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/phylloscartes-kronei/1.jpg
+  page: https://www.inaturalist.org/photos/641039134
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641039134/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/phylloscartes-kronei/1.jpg
+  page: https://www.inaturalist.org/photos/641039134
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641039134/original.jpg
+- file: images/passeriformes/tyrannidae/phylloscartes-kronei/2.jpg
+  page: https://www.inaturalist.org/photos/383924815
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/383924815/original.jpg
+- file: images/passeriformes/tyrannidae/phylloscartes-kronei/3.jpg
+  page: https://www.inaturalist.org/photos/281901017
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/281901017/original.jpeg
+- file: images/passeriformes/tyrannidae/phylloscartes-kronei/4.jpg
+  page: https://www.inaturalist.org/photos/276356536
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276356536/original.jpeg
+- file: images/passeriformes/tyrannidae/phylloscartes-kronei/5.jpg
+  page: https://www.inaturalist.org/photos/244790205
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244790205/original.jpeg
 ---
 
 

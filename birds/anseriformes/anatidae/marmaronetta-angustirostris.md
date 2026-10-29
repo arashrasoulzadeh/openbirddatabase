@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/marmaronetta-angustirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606864145
+  author: ashevillebirder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606864145/original.jpg
+images:
+- file: images/anseriformes/anatidae/marmaronetta-angustirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606864145
+  author: ashevillebirder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606864145/original.jpg
+- file: images/anseriformes/anatidae/marmaronetta-angustirostris/2.jpg
+  page: https://www.inaturalist.org/photos/613262540
+  author: Antón David Pérez Rodríguez
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613262540/original.jpg
+- file: images/anseriformes/anatidae/marmaronetta-angustirostris/3.jpg
+  page: https://www.inaturalist.org/photos/608909730
+  author: Pablo Galván Mateos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608909730/original.jpg
+- file: images/anseriformes/anatidae/marmaronetta-angustirostris/4.jpg
+  page: https://www.inaturalist.org/photos/620278570
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620278570/original.jpg
+- file: images/anseriformes/anatidae/marmaronetta-angustirostris/5.jpg
+  page: https://www.inaturalist.org/photos/621371772
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621371772/original.jpg
 ---
 
 

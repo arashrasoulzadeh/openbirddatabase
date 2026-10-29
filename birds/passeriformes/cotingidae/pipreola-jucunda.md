@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/pipreola-jucunda/1.jpg
+  page: https://www.inaturalist.org/photos/652841258
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652841258/original.jpg
+images:
+- file: images/passeriformes/cotingidae/pipreola-jucunda/1.jpg
+  page: https://www.inaturalist.org/photos/652841258
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652841258/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-jucunda/2.jpg
+  page: https://www.inaturalist.org/photos/489397025
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489397025/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-jucunda/3.jpg
+  page: https://www.inaturalist.org/photos/469867361
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469867361/original.jpeg
+- file: images/passeriformes/cotingidae/pipreola-jucunda/4.jpg
+  page: https://www.inaturalist.org/photos/593209439
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593209439/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-jucunda/5.jpg
+  page: https://www.inaturalist.org/photos/601651935
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601651935/original.jpg
 ---
 
 

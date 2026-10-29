@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-canicollis/1.jpg
+  page: https://www.inaturalist.org/photos/606026687
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606026687/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-canicollis/1.jpg
+  page: https://www.inaturalist.org/photos/606026687
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606026687/original.jpg
+- file: images/galliformes/cracidae/ortalis-canicollis/2.jpg
+  page: https://www.inaturalist.org/photos/612845091
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612845091/original.jpg
+- file: images/galliformes/cracidae/ortalis-canicollis/3.jpg
+  page: https://www.inaturalist.org/photos/627706194
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627706194/original.jpg
+- file: images/galliformes/cracidae/ortalis-canicollis/4.jpg
+  page: https://www.inaturalist.org/photos/655040604
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655040604/original.jpg
+- file: images/galliformes/cracidae/ortalis-canicollis/5.jpg
+  page: https://www.inaturalist.org/photos/637737165
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637737165/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/cardellina-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/611585722
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585722/original.jpg
+images:
+- file: images/passeriformes/parulidae/cardellina-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/611585722
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585722/original.jpg
+- file: images/passeriformes/parulidae/cardellina-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/476643145
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476643145/original.jpeg
+- file: images/passeriformes/parulidae/cardellina-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/482226379
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482226379/original.jpeg
+- file: images/passeriformes/parulidae/cardellina-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/523233811
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523233811/original.jpg
+- file: images/passeriformes/parulidae/cardellina-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/601137756
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601137756/original.jpg
 ---
 
 

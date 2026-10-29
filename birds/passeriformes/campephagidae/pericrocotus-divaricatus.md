@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-divaricatus/1.jpg
+  page: https://www.inaturalist.org/photos/615534781
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615534781/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-divaricatus/1.jpg
+  page: https://www.inaturalist.org/photos/615534781
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615534781/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-divaricatus/2.jpg
+  page: https://www.inaturalist.org/photos/618849884
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849884/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-divaricatus/3.jpg
+  page: https://www.inaturalist.org/photos/631352772
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631352772/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-divaricatus/4.jpg
+  page: https://www.inaturalist.org/photos/657062369
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657062369/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-divaricatus/5.jpg
+  page: https://www.inaturalist.org/photos/615534836
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615534836/original.jpg
 ---
 
 

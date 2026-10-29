@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/hieraaetus-ayresii/1.jpg
+  page: https://www.inaturalist.org/photos/657114219
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657114219/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/hieraaetus-ayresii/1.jpg
+  page: https://www.inaturalist.org/photos/657114219
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657114219/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-ayresii/2.jpg
+  page: https://www.inaturalist.org/photos/553613092
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553613092/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-ayresii/3.jpg
+  page: https://www.inaturalist.org/photos/659688389
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659688389/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-ayresii/4.jpg
+  page: https://www.inaturalist.org/photos/355591306
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355591306/original.png
+- file: images/accipitriformes/accipitridae/hieraaetus-ayresii/5.jpg
+  page: https://www.inaturalist.org/photos/380540166
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380540166/original.jpeg
 ---
 
 

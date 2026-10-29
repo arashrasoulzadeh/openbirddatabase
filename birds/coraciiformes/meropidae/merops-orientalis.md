@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/604755800
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604755800/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/604755800
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604755800/original.jpg
+- file: images/coraciiformes/meropidae/merops-orientalis/2.jpg
+  page: https://www.inaturalist.org/photos/605671606
+  author: engagenosey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605671606/original.jpg
+- file: images/coraciiformes/meropidae/merops-orientalis/3.jpg
+  page: https://www.inaturalist.org/photos/605891238
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605891238/original.jpg
+- file: images/coraciiformes/meropidae/merops-orientalis/4.jpg
+  page: https://www.inaturalist.org/photos/610628007
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610628007/original.jpg
+- file: images/coraciiformes/meropidae/merops-orientalis/5.jpg
+  page: https://www.inaturalist.org/photos/608189792
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608189792/original.jpg
 ---
 
 

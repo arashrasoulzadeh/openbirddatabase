@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/pseudoseisura-lophotes/1.jpg
+  page: https://www.inaturalist.org/photos/611733828
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611733828/original.jpg
+images:
+- file: images/passeriformes/furnariidae/pseudoseisura-lophotes/1.jpg
+  page: https://www.inaturalist.org/photos/611733828
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611733828/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-lophotes/2.jpg
+  page: https://www.inaturalist.org/photos/615858256
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615858256/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-lophotes/3.jpg
+  page: https://www.inaturalist.org/photos/612602035
+  author: Lucas Carbone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612602035/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-lophotes/4.jpg
+  page: https://www.inaturalist.org/photos/615321906
+  author: Analía Belaus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615321906/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-lophotes/5.jpg
+  page: https://www.inaturalist.org/photos/616002544
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616002544/original.jpg
 ---
 
 

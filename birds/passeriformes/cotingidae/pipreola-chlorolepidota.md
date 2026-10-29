@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/pipreola-chlorolepidota/1.jpg
+  page: https://www.inaturalist.org/photos/385944252
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385944252/original.jpg
+images:
+- file: images/passeriformes/cotingidae/pipreola-chlorolepidota/1.jpg
+  page: https://www.inaturalist.org/photos/385944252
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385944252/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-chlorolepidota/2.jpg
+  page: https://www.inaturalist.org/photos/458438472
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458438472/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-chlorolepidota/3.jpg
+  page: https://www.inaturalist.org/photos/485292889
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485292889/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-chlorolepidota/4.jpg
+  page: https://www.inaturalist.org/photos/163119987
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163119987/original.jpeg
+- file: images/passeriformes/cotingidae/pipreola-chlorolepidota/5.jpg
+  page: https://www.inaturalist.org/photos/245026263
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245026263/original.jpeg
 ---
 
 

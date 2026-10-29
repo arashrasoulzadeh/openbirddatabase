@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/fulica-gigantea/1.jpg
+  page: https://www.inaturalist.org/photos/608916579
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608916579/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-gigantea/1.jpg
+  page: https://www.inaturalist.org/photos/608916579
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608916579/original.jpg
+- file: images/gruiformes/rallidae/fulica-gigantea/2.jpg
+  page: https://www.inaturalist.org/photos/621453839
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621453839/original.jpg
+- file: images/gruiformes/rallidae/fulica-gigantea/3.jpg
+  page: https://www.inaturalist.org/photos/649013450
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649013450/original.jpg
+- file: images/gruiformes/rallidae/fulica-gigantea/4.jpg
+  page: https://www.inaturalist.org/photos/672594983
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672594983/original.jpg
+- file: images/gruiformes/rallidae/fulica-gigantea/5.jpg
+  page: https://www.inaturalist.org/photos/727044658
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727044658/original.jpg
 ---
 
 

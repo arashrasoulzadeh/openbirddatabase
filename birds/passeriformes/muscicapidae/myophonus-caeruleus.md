@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/myophonus-caeruleus/1.jpg
+  page: https://www.inaturalist.org/photos/609191121
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609191121/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myophonus-caeruleus/1.jpg
+  page: https://www.inaturalist.org/photos/609191121
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609191121/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-caeruleus/2.jpg
+  page: https://www.inaturalist.org/photos/609689466
+  author: tch373136
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609689466/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-caeruleus/3.jpg
+  page: https://www.inaturalist.org/photos/607667089
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607667089/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-caeruleus/4.jpg
+  page: https://www.inaturalist.org/photos/608371416
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608371416/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-caeruleus/5.jpg
+  page: https://www.inaturalist.org/photos/609645595
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609645595/original.jpg
 ---
 
 

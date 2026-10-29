@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.8
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 77.8
   tail_length_mm: 56.2
   body_mass_g: 22.8
+image:
+  file: images/passeriformes/thraupidae/stilpnia-preciosa/1.jpg
+  page: https://www.inaturalist.org/photos/676614677
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676614677/original.jpg
+images:
+- file: images/passeriformes/thraupidae/stilpnia-preciosa/1.jpg
+  page: https://www.inaturalist.org/photos/676614677
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676614677/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-preciosa/2.jpg
+  page: https://www.inaturalist.org/photos/702804482
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702804482/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-preciosa/3.jpg
+  page: https://www.inaturalist.org/photos/728794628
+  author: Juliana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728794628/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-preciosa/4.jpg
+  page: https://www.inaturalist.org/photos/733500721
+  author: Mateo Peña
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733500721/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-preciosa/5.jpg
+  page: https://www.inaturalist.org/photos/743573865
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743573865/original.jpg
 ---
 
 

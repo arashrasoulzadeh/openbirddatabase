@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/610876377
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610876377/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/610876377
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610876377/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-axillaris/2.jpg
+  page: https://www.inaturalist.org/photos/622179256
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622179256/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-axillaris/3.jpg
+  page: https://www.inaturalist.org/photos/614776561
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614776561/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-axillaris/4.jpg
+  page: https://www.inaturalist.org/photos/622229996
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622229996/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-axillaris/5.jpg
+  page: https://www.inaturalist.org/photos/628338872
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628338872/original.jpg
 ---
 
 

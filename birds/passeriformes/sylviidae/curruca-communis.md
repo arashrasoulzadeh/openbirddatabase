@@ -186,8 +186,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-communis/1.jpg
+  page: https://www.inaturalist.org/photos/627466223
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627466223/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-communis/1.jpg
+  page: https://www.inaturalist.org/photos/627466223
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627466223/original.jpg
+- file: images/passeriformes/sylviidae/curruca-communis/2.jpg
+  page: https://www.inaturalist.org/photos/635689998
+  author: Scott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635689998/original.jpg
+- file: images/passeriformes/sylviidae/curruca-communis/3.jpg
+  page: https://www.inaturalist.org/photos/642959805
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642959805/original.jpg
+- file: images/passeriformes/sylviidae/curruca-communis/4.jpg
+  page: https://www.inaturalist.org/photos/642871179
+  author: Helen Bovill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642871179/original.jpg
+- file: images/passeriformes/sylviidae/curruca-communis/5.jpg
+  page: https://www.inaturalist.org/photos/642118625
+  author: Will Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642118625/original.jpg
 ---
 
 

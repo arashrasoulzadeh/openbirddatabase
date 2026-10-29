@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 34.7
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 172.4
   tail_length_mm: 119.8
   body_mass_g: 200.0
+image:
+  file: images/piciformes/picidae/dryocopus-schulzii/1.jpg
+  page: https://www.inaturalist.org/photos/630819421
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630819421/original.jpg
+images:
+- file: images/piciformes/picidae/dryocopus-schulzii/1.jpg
+  page: https://www.inaturalist.org/photos/630819421
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630819421/original.jpg
+- file: images/piciformes/picidae/dryocopus-schulzii/2.jpg
+  page: https://www.inaturalist.org/photos/709295703
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709295703/original.jpg
+- file: images/piciformes/picidae/dryocopus-schulzii/3.jpg
+  page: https://www.inaturalist.org/photos/475805705
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475805705/original.jpeg
+- file: images/piciformes/picidae/dryocopus-schulzii/4.jpg
+  page: https://www.inaturalist.org/photos/475887715
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475887715/original.jpeg
+- file: images/piciformes/picidae/dryocopus-schulzii/5.jpg
+  page: https://www.inaturalist.org/photos/443355844
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443355844/original.jpeg
 ---
 
 

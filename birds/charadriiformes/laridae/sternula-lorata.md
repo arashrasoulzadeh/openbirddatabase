@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sternula-lorata/1.jpg
+  page: https://www.inaturalist.org/photos/692155800
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692155800/original.jpg
+images:
+- file: images/charadriiformes/laridae/sternula-lorata/1.jpg
+  page: https://www.inaturalist.org/photos/692155800
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692155800/original.jpg
+- file: images/charadriiformes/laridae/sternula-lorata/2.jpg
+  page: https://www.inaturalist.org/photos/716413840
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716413840/original.jpg
+- file: images/charadriiformes/laridae/sternula-lorata/3.jpg
+  page: https://www.inaturalist.org/photos/442985620
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442985620/original.jpeg
+- file: images/charadriiformes/laridae/sternula-lorata/4.jpg
+  page: https://www.inaturalist.org/photos/301052216
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/301052216/original.jpeg
+- file: images/charadriiformes/laridae/sternula-lorata/5.jpg
+  page: https://www.inaturalist.org/photos/337995198
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337995198/original.jpeg
 ---
 
 

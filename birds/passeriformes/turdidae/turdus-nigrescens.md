@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-nigrescens/1.jpg
+  page: https://www.inaturalist.org/photos/607242114
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242114/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-nigrescens/1.jpg
+  page: https://www.inaturalist.org/photos/607242114
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242114/original.jpg
+- file: images/passeriformes/turdidae/turdus-nigrescens/2.jpg
+  page: https://www.inaturalist.org/photos/621259595
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621259595/original.jpg
+- file: images/passeriformes/turdidae/turdus-nigrescens/3.jpg
+  page: https://www.inaturalist.org/photos/670229353
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670229353/original.jpg
+- file: images/passeriformes/turdidae/turdus-nigrescens/4.jpg
+  page: https://www.inaturalist.org/photos/637912883
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637912883/original.jpg
+- file: images/passeriformes/turdidae/turdus-nigrescens/5.jpg
+  page: https://www.inaturalist.org/photos/657986013
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657986013/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-rufitorques/1.jpg
+  page: https://www.inaturalist.org/photos/605839826
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605839826/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-rufitorques/1.jpg
+  page: https://www.inaturalist.org/photos/605839826
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605839826/original.jpg
+- file: images/passeriformes/turdidae/turdus-rufitorques/2.jpg
+  page: https://www.inaturalist.org/photos/611585563
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585563/original.jpg
+- file: images/passeriformes/turdidae/turdus-rufitorques/3.jpg
+  page: https://www.inaturalist.org/photos/616642410
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616642410/original.jpg
+- file: images/passeriformes/turdidae/turdus-rufitorques/4.jpg
+  page: https://www.inaturalist.org/photos/639752429
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639752429/original.jpg
+- file: images/passeriformes/turdidae/turdus-rufitorques/5.jpg
+  page: https://www.inaturalist.org/photos/663964562
+  author: Neptalí Ramírez Marcial
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663964562/original.jpg
 ---
 
 

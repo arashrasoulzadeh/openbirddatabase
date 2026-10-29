@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coliiformes/coliidae/colius-colius/1.jpg
+  page: https://www.inaturalist.org/photos/609694640
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609694640/original.jpg
+images:
+- file: images/coliiformes/coliidae/colius-colius/1.jpg
+  page: https://www.inaturalist.org/photos/609694640
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609694640/original.jpg
+- file: images/coliiformes/coliidae/colius-colius/2.jpg
+  page: https://www.inaturalist.org/photos/616024607
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616024607/original.jpg
+- file: images/coliiformes/coliidae/colius-colius/3.jpg
+  page: https://www.inaturalist.org/photos/618047866
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618047866/original.jpg
+- file: images/coliiformes/coliidae/colius-colius/4.jpg
+  page: https://www.inaturalist.org/photos/624559653
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624559653/original.jpg
+- file: images/coliiformes/coliidae/colius-colius/5.jpg
+  page: https://www.inaturalist.org/photos/621116364
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621116364/original.jpg
 ---
 
 

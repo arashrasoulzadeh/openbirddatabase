@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/ciconiiformes/ciconiidae/jabiru-mycteria/1.jpg
+  page: https://www.inaturalist.org/photos/606027360
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027360/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/jabiru-mycteria/1.jpg
+  page: https://www.inaturalist.org/photos/606027360
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027360/original.jpg
+- file: images/ciconiiformes/ciconiidae/jabiru-mycteria/2.jpg
+  page: https://www.inaturalist.org/photos/607478598
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607478598/original.jpg
+- file: images/ciconiiformes/ciconiidae/jabiru-mycteria/3.jpg
+  page: https://www.inaturalist.org/photos/611042999
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611042999/original.jpg
+- file: images/ciconiiformes/ciconiidae/jabiru-mycteria/4.jpg
+  page: https://www.inaturalist.org/photos/612256859
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612256859/original.jpg
+- file: images/ciconiiformes/ciconiidae/jabiru-mycteria/5.jpg
+  page: https://www.inaturalist.org/photos/619610690
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619610690/original.jpg
 ---
 
 

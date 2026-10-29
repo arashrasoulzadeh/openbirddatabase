@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/pampusana-stairi/1.jpg
+  page: https://www.inaturalist.org/photos/700521739
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700521739/original.jpg
+images:
+- file: images/columbiformes/columbidae/pampusana-stairi/1.jpg
+  page: https://www.inaturalist.org/photos/700521739
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700521739/original.jpg
+- file: images/columbiformes/columbidae/pampusana-stairi/2.jpg
+  page: https://www.inaturalist.org/photos/28071173
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/28071173/original.jpg
+- file: images/columbiformes/columbidae/pampusana-stairi/3.jpg
+  page: https://www.inaturalist.org/photos/700521741
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700521741/original.jpg
+- file: images/columbiformes/columbidae/pampusana-stairi/4.jpg
+  page: https://www.inaturalist.org/photos/28071136
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/28071136/original.jpg
+- file: images/columbiformes/columbidae/pampusana-stairi/5.jpg
+  page: https://www.inaturalist.org/photos/28071151
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/28071151/original.jpg
 ---
 
 

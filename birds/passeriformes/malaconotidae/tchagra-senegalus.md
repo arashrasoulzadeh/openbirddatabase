@@ -181,10 +181,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/malaconotidae/tchagra-senegalus/1.jpg
+  page: https://www.inaturalist.org/photos/619614921
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619614921/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/tchagra-senegalus/1.jpg
+  page: https://www.inaturalist.org/photos/619614921
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619614921/original.jpg
+- file: images/passeriformes/malaconotidae/tchagra-senegalus/2.jpg
+  page: https://www.inaturalist.org/photos/634873907
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634873907/original.jpg
+- file: images/passeriformes/malaconotidae/tchagra-senegalus/3.jpg
+  page: https://www.inaturalist.org/photos/677745019
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677745019/original.jpg
+- file: images/passeriformes/malaconotidae/tchagra-senegalus/4.jpg
+  page: https://www.inaturalist.org/photos/695865992
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695865992/original.jpg
+- file: images/passeriformes/malaconotidae/tchagra-senegalus/5.jpg
+  page: https://www.inaturalist.org/photos/680353404
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680353404/original.jpg
 ---
 
 

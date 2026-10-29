@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-xanthoprymna/1.jpg
+  page: https://www.inaturalist.org/photos/447081687
+  author: Fethullah ÖZTÜRK
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447081687/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-xanthoprymna/1.jpg
+  page: https://www.inaturalist.org/photos/447081687
+  author: Fethullah ÖZTÜRK
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447081687/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-xanthoprymna/2.jpg
+  page: https://www.inaturalist.org/photos/281085745
+  author: Mohammad Amin Ghaffari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/281085745/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-xanthoprymna/3.jpg
+  page: https://www.inaturalist.org/photos/202738491
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202738491/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-xanthoprymna/4.jpg
+  page: https://www.inaturalist.org/photos/6137490
+  author: Nils
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/6137490/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-xanthoprymna/5.jpg
+  page: https://www.inaturalist.org/photos/641971496
+  author: Yedidya Popper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641971496/original.jpg
 ---
 
 

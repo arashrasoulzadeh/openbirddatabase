@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/paroaria-coronata/1.jpg
+  page: https://www.inaturalist.org/photos/605577439
+  author: Eugene Eric Kim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605577439/original.jpg
+images:
+- file: images/passeriformes/thraupidae/paroaria-coronata/1.jpg
+  page: https://www.inaturalist.org/photos/605577439
+  author: Eugene Eric Kim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605577439/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-coronata/2.jpg
+  page: https://www.inaturalist.org/photos/605467243
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605467243/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-coronata/3.jpg
+  page: https://www.inaturalist.org/photos/604980707
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604980707/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-coronata/4.jpg
+  page: https://www.inaturalist.org/photos/605691348
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605691348/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-coronata/5.jpg
+  page: https://www.inaturalist.org/photos/609049956
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609049956/original.jpg
 ---
 
 

@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sterna-repressa/1.jpg
+  page: https://www.inaturalist.org/photos/614553369
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553369/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-repressa/1.jpg
+  page: https://www.inaturalist.org/photos/614553369
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553369/original.jpg
+- file: images/charadriiformes/laridae/sterna-repressa/2.jpg
+  page: https://www.inaturalist.org/photos/708264683
+  author: Martin Scheidleder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708264683/original.jpg
+- file: images/charadriiformes/laridae/sterna-repressa/3.jpg
+  page: https://www.inaturalist.org/photos/732604233
+  author: Gergely Nigg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732604233/original.jpg
+- file: images/charadriiformes/laridae/sterna-repressa/4.jpg
+  page: https://www.inaturalist.org/photos/571520703
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571520703/original.jpg
+- file: images/charadriiformes/laridae/sterna-repressa/5.jpg
+  page: https://www.inaturalist.org/photos/549985149
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549985149/original.jpg
 ---
 
 

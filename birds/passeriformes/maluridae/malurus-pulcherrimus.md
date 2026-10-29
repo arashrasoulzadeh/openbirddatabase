@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/maluridae/malurus-pulcherrimus/1.jpg
+  page: https://www.inaturalist.org/photos/462613518
+  author: Nicole Kearney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462613518/original.jpg
+images:
+- file: images/passeriformes/maluridae/malurus-pulcherrimus/1.jpg
+  page: https://www.inaturalist.org/photos/462613518
+  author: Nicole Kearney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462613518/original.jpg
+- file: images/passeriformes/maluridae/malurus-pulcherrimus/2.jpg
+  page: https://www.inaturalist.org/photos/483724558
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483724558/original.jpeg
+- file: images/passeriformes/maluridae/malurus-pulcherrimus/3.jpg
+  page: https://www.inaturalist.org/photos/542575718
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542575718/original.jpg
+- file: images/passeriformes/maluridae/malurus-pulcherrimus/4.jpg
+  page: https://www.inaturalist.org/photos/563512616
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563512616/original.jpg
+- file: images/passeriformes/maluridae/malurus-pulcherrimus/5.jpg
+  page: https://www.inaturalist.org/photos/439334167
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439334167/original.jpg
 ---
 
 

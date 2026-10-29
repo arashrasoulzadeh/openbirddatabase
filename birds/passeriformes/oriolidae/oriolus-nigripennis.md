@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-nigripennis/1.jpg
+  page: https://www.inaturalist.org/photos/555427568
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555427568/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-nigripennis/1.jpg
+  page: https://www.inaturalist.org/photos/555427568
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555427568/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-nigripennis/2.jpg
+  page: https://www.inaturalist.org/photos/351063099
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063099/original.png
+- file: images/passeriformes/oriolidae/oriolus-nigripennis/3.jpg
+  page: https://www.inaturalist.org/photos/344643065
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344643065/original.jpeg
+- file: images/passeriformes/oriolidae/oriolus-nigripennis/4.jpg
+  page: https://www.inaturalist.org/photos/174920978
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174920978/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-nigripennis/5.jpg
+  page: https://www.inaturalist.org/photos/180597613
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180597613/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/euryptila-subcinnamomea/1.jpg
+  page: https://www.inaturalist.org/photos/671741536
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671741536/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/euryptila-subcinnamomea/1.jpg
+  page: https://www.inaturalist.org/photos/671741536
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671741536/original.jpg
+- file: images/passeriformes/cisticolidae/euryptila-subcinnamomea/2.jpg
+  page: https://www.inaturalist.org/photos/413765983
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413765983/original.jpeg
+- file: images/passeriformes/cisticolidae/euryptila-subcinnamomea/3.jpg
+  page: https://www.inaturalist.org/photos/284506698
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/284506698/original.jpeg
+- file: images/passeriformes/cisticolidae/euryptila-subcinnamomea/4.jpg
+  page: https://www.inaturalist.org/photos/92971779
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92971779/original.jpeg
+- file: images/passeriformes/cisticolidae/euryptila-subcinnamomea/5.jpg
+  page: https://www.inaturalist.org/photos/413765968
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413765968/original.jpeg
 ---
 
 

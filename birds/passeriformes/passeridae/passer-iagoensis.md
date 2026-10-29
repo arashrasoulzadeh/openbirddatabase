@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-iagoensis/1.jpg
+  page: https://www.inaturalist.org/photos/610381709
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610381709/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-iagoensis/1.jpg
+  page: https://www.inaturalist.org/photos/610381709
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610381709/original.jpg
+- file: images/passeriformes/passeridae/passer-iagoensis/2.jpg
+  page: https://www.inaturalist.org/photos/619543367
+  author: John Lyden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619543367/original.jpg
+- file: images/passeriformes/passeridae/passer-iagoensis/3.jpg
+  page: https://www.inaturalist.org/photos/613744712
+  author: Julius P
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613744712/original.jpg
+- file: images/passeriformes/passeridae/passer-iagoensis/4.jpg
+  page: https://www.inaturalist.org/photos/651729082
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651729082/original.jpg
+- file: images/passeriformes/passeridae/passer-iagoensis/5.jpg
+  page: https://www.inaturalist.org/photos/739638442
+  author: Tony KM
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739638442/original.jpg
 ---
 
 

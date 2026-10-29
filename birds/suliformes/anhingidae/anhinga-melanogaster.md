@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/suliformes/anhingidae/anhinga-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/609911250
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609911250/original.jpg
+images:
+- file: images/suliformes/anhingidae/anhinga-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/609911250
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609911250/original.jpg
+- file: images/suliformes/anhingidae/anhinga-melanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/608632211
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608632211/original.jpg
+- file: images/suliformes/anhingidae/anhinga-melanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/608900460
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608900460/original.jpg
+- file: images/suliformes/anhingidae/anhinga-melanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/607116922
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116922/original.jpg
+- file: images/suliformes/anhingidae/anhinga-melanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/608923073
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608923073/original.jpg
 ---
 
 

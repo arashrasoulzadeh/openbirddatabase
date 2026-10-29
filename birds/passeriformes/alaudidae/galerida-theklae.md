@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/galerida-theklae/1.jpg
+  page: https://www.inaturalist.org/photos/605025556
+  author: antoterryn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605025556/original.jpg
+images:
+- file: images/passeriformes/alaudidae/galerida-theklae/1.jpg
+  page: https://www.inaturalist.org/photos/605025556
+  author: antoterryn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605025556/original.jpg
+- file: images/passeriformes/alaudidae/galerida-theklae/2.jpg
+  page: https://www.inaturalist.org/photos/610164278
+  author: serni bams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610164278/original.jpg
+- file: images/passeriformes/alaudidae/galerida-theklae/3.jpg
+  page: https://www.inaturalist.org/photos/606178148
+  author: formicacid
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606178148/original.jpg
+- file: images/passeriformes/alaudidae/galerida-theklae/4.jpg
+  page: https://www.inaturalist.org/photos/612202281
+  author: Gianmaria Bonari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612202281/original.jpg
+- file: images/passeriformes/alaudidae/galerida-theklae/5.jpg
+  page: https://www.inaturalist.org/photos/619421727
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619421727/original.jpg
 ---
 
 

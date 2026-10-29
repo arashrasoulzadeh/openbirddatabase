@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-atrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/608153559
+  author: Ксения Волянская
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608153559/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-atrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/608153559
+  author: Ксения Волянская
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608153559/original.jpg
+- file: images/passeriformes/turdidae/turdus-atrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/609146461
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609146461/original.jpg
+- file: images/passeriformes/turdidae/turdus-atrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/608932419
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608932419/original.jpg
+- file: images/passeriformes/turdidae/turdus-atrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/611885430
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611885430/original.jpg
+- file: images/passeriformes/turdidae/turdus-atrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/612364853
+  author: Дарья Орлова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612364853/original.jpg
 ---
 
 

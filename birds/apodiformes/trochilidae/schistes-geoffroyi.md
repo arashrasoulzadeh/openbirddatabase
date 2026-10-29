@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/schistes-geoffroyi/1.jpg
+  page: https://www.inaturalist.org/photos/394124551
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394124551/original.jpg
+images:
+- file: images/apodiformes/trochilidae/schistes-geoffroyi/1.jpg
+  page: https://www.inaturalist.org/photos/394124551
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394124551/original.jpg
+- file: images/apodiformes/trochilidae/schistes-geoffroyi/2.jpg
+  page: https://www.inaturalist.org/photos/329521005
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329521005/original.jpeg
+- file: images/apodiformes/trochilidae/schistes-geoffroyi/3.jpg
+  page: https://www.inaturalist.org/photos/242578539
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242578539/original.jpg
+- file: images/apodiformes/trochilidae/schistes-geoffroyi/4.jpg
+  page: https://www.inaturalist.org/photos/63969875
+  author: batsoul
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63969875/original.jpg
+- file: images/apodiformes/trochilidae/schistes-geoffroyi/5.jpg
+  page: https://www.inaturalist.org/photos/330428530
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330428530/original.jpeg
 ---
 
 

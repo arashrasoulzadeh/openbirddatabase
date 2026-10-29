@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 29.8
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 241.5
   tail_length_mm: 132.7
   body_mass_g: 535.0
+image:
+  file: images/columbiformes/columbidae/ducula-geelvinkiana/1.jpg
+  page: https://www.inaturalist.org/photos/670833342
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670833342/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-geelvinkiana/1.jpg
+  page: https://www.inaturalist.org/photos/670833342
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670833342/original.jpg
+- file: images/columbiformes/columbidae/ducula-geelvinkiana/2.jpg
+  page: https://www.inaturalist.org/photos/670833343
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670833343/original.jpg
+- file: images/columbiformes/columbidae/ducula-geelvinkiana/3.jpg
+  page: https://www.inaturalist.org/photos/670833346
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670833346/original.jpg
+- file: images/columbiformes/columbidae/ducula-geelvinkiana/4.jpg
+  page: https://www.inaturalist.org/photos/670834997
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670834997/original.jpg
+- file: images/columbiformes/columbidae/ducula-geelvinkiana/5.jpg
+  page: https://www.inaturalist.org/photos/670834998
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670834998/original.jpg
 ---
 
 

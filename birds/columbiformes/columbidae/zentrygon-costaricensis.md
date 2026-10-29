@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/zentrygon-costaricensis/1.jpg
+  page: https://www.inaturalist.org/photos/468073104
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468073104/original.jpeg
+images:
+- file: images/columbiformes/columbidae/zentrygon-costaricensis/1.jpg
+  page: https://www.inaturalist.org/photos/468073104
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468073104/original.jpeg
+- file: images/columbiformes/columbidae/zentrygon-costaricensis/2.jpg
+  page: https://www.inaturalist.org/photos/516422343
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516422343/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-costaricensis/3.jpg
+  page: https://www.inaturalist.org/photos/574215209
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574215209/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-costaricensis/4.jpg
+  page: https://www.inaturalist.org/photos/349885307
+  author: cactusauria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349885307/original.jpg
+- file: images/columbiformes/columbidae/zentrygon-costaricensis/5.jpg
+  page: https://www.inaturalist.org/photos/411937650
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411937650/original.jpeg
 ---
 
 

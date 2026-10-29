@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/apterygiformes/apterygidae/apteryx-rowi/1.jpg
+  page: https://www.inaturalist.org/photos/611418955
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611418955/original.jpg
+images:
+- file: images/apterygiformes/apterygidae/apteryx-rowi/1.jpg
+  page: https://www.inaturalist.org/photos/611418955
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611418955/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-rowi/2.jpg
+  page: https://www.inaturalist.org/photos/470700208
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470700208/original.jpeg
+- file: images/apterygiformes/apterygidae/apteryx-rowi/3.jpg
+  page: https://www.inaturalist.org/photos/8633615
+  author: anna-mac
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8633615/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-rowi/4.jpg
+  page: https://www.inaturalist.org/photos/611418968
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611418968/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-rowi/5.jpg
+  page: https://www.inaturalist.org/photos/470700110
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470700110/original.jpeg
 ---
 
 

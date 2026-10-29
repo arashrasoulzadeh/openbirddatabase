@@ -142,8 +142,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/macroagelaius-imthurni/1.jpg
+  page: https://www.inaturalist.org/photos/617507896
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507896/original.jpg
+images:
+- file: images/passeriformes/icteridae/macroagelaius-imthurni/1.jpg
+  page: https://www.inaturalist.org/photos/617507896
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507896/original.jpg
+- file: images/passeriformes/icteridae/macroagelaius-imthurni/2.jpg
+  page: https://www.inaturalist.org/photos/617312974
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617312974/original.jpg
 ---
 
 

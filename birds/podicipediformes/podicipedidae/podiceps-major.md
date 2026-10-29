@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/podiceps-major/1.jpg
+  page: https://www.inaturalist.org/photos/605781715
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605781715/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/podiceps-major/1.jpg
+  page: https://www.inaturalist.org/photos/605781715
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605781715/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-major/2.jpg
+  page: https://www.inaturalist.org/photos/609369432
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609369432/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-major/3.jpg
+  page: https://www.inaturalist.org/photos/608654699
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608654699/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-major/4.jpg
+  page: https://www.inaturalist.org/photos/607816405
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607816405/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-major/5.jpg
+  page: https://www.inaturalist.org/photos/607971830
+  author: Felipe Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607971830/original.jpg
 ---
 
 

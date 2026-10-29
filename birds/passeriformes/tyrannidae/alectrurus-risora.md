@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/alectrurus-risora/1.jpg
+  page: https://www.inaturalist.org/photos/655660464
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655660464/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/alectrurus-risora/1.jpg
+  page: https://www.inaturalist.org/photos/655660464
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655660464/original.jpg
+- file: images/passeriformes/tyrannidae/alectrurus-risora/2.jpg
+  page: https://www.inaturalist.org/photos/739149917
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739149917/original.jpg
+- file: images/passeriformes/tyrannidae/alectrurus-risora/3.jpg
+  page: https://www.inaturalist.org/photos/745086581
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745086581/original.jpg
+- file: images/passeriformes/tyrannidae/alectrurus-risora/4.jpg
+  page: https://www.inaturalist.org/photos/574400031
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574400031/original.jpg
+- file: images/passeriformes/tyrannidae/alectrurus-risora/5.jpg
+  page: https://www.inaturalist.org/photos/583051358
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583051358/original.jpg
 ---
 
 

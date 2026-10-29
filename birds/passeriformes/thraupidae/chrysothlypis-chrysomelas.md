@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/chrysothlypis-chrysomelas/1.jpg
+  page: https://www.inaturalist.org/photos/654586972
+  author: Sean Krieg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654586972/original.jpg
+images:
+- file: images/passeriformes/thraupidae/chrysothlypis-chrysomelas/1.jpg
+  page: https://www.inaturalist.org/photos/654586972
+  author: Sean Krieg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654586972/original.jpg
+- file: images/passeriformes/thraupidae/chrysothlypis-chrysomelas/2.jpg
+  page: https://www.inaturalist.org/photos/573655470
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573655470/original.jpg
+- file: images/passeriformes/thraupidae/chrysothlypis-chrysomelas/3.jpg
+  page: https://www.inaturalist.org/photos/599486280
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599486280/original.jpg
+- file: images/passeriformes/thraupidae/chrysothlypis-chrysomelas/4.jpg
+  page: https://www.inaturalist.org/photos/610783622
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610783622/original.jpg
+- file: images/passeriformes/thraupidae/chrysothlypis-chrysomelas/5.jpg
+  page: https://www.inaturalist.org/photos/359663881
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359663881/original.jpeg
 ---
 
 

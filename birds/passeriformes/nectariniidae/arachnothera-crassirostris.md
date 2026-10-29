@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/arachnothera-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/457828338
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457828338/original.jpeg
+images:
+- file: images/passeriformes/nectariniidae/arachnothera-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/457828338
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457828338/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/338999583
+  author: nevwright
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338999583/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/218721525
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218721525/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/127614541
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/127614541/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/59949438
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59949438/original.jpg
 ---
 
 

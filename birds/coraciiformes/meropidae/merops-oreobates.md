@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-oreobates/1.jpg
+  page: https://www.inaturalist.org/photos/681335963
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681335963/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-oreobates/1.jpg
+  page: https://www.inaturalist.org/photos/681335963
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681335963/original.jpg
+- file: images/coraciiformes/meropidae/merops-oreobates/2.jpg
+  page: https://www.inaturalist.org/photos/691230071
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691230071/original.jpg
+- file: images/coraciiformes/meropidae/merops-oreobates/3.jpg
+  page: https://www.inaturalist.org/photos/621773917
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621773917/original.jpg
+- file: images/coraciiformes/meropidae/merops-oreobates/4.jpg
+  page: https://www.inaturalist.org/photos/716650714
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650714/original.jpg
+- file: images/coraciiformes/meropidae/merops-oreobates/5.jpg
+  page: https://www.inaturalist.org/photos/664941000
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664941000/original.jpg
 ---
 
 

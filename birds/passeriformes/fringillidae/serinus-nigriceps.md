@@ -142,7 +142,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.3
@@ -150,6 +151,44 @@ morphology:
   wing_length_mm: 75.5
   tail_length_mm: 50.2
   body_mass_g: 15.4
+image:
+  file: images/passeriformes/fringillidae/serinus-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/610018784
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610018784/original.jpg
+images:
+- file: images/passeriformes/fringillidae/serinus-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/610018784
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610018784/original.jpg
+- file: images/passeriformes/fringillidae/serinus-nigriceps/2.jpg
+  page: https://www.inaturalist.org/photos/207305397
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207305397/original.jpg
+- file: images/passeriformes/fringillidae/serinus-nigriceps/3.jpg
+  page: https://www.inaturalist.org/photos/610030603
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610030603/original.jpg
+- file: images/passeriformes/fringillidae/serinus-nigriceps/4.jpg
+  page: https://www.inaturalist.org/photos/610030602
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610030602/original.jpg
+- file: images/passeriformes/fringillidae/serinus-nigriceps/5.jpg
+  page: https://www.inaturalist.org/photos/610030561
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610030561/original.jpg
 ---
 
 

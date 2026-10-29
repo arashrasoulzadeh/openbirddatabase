@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-albicilla/1.jpg
+  page: https://www.inaturalist.org/photos/604660889
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604660889/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-albicilla/1.jpg
+  page: https://www.inaturalist.org/photos/604660889
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604660889/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-albicilla/2.jpg
+  page: https://www.inaturalist.org/photos/604702945
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702945/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-albicilla/3.jpg
+  page: https://www.inaturalist.org/photos/610407546
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610407546/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-albicilla/4.jpg
+  page: https://www.inaturalist.org/photos/607896346
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607896346/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-albicilla/5.jpg
+  page: https://www.inaturalist.org/photos/610302360
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610302360/original.jpg
 ---
 
 

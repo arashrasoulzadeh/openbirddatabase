@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/anabazenops-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/625366197
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625366197/original.jpg
+images:
+- file: images/passeriformes/furnariidae/anabazenops-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/625366197
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625366197/original.jpg
+- file: images/passeriformes/furnariidae/anabazenops-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/693288181
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693288181/original.jpg
+- file: images/passeriformes/furnariidae/anabazenops-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/689636710
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689636710/original.jpg
+- file: images/passeriformes/furnariidae/anabazenops-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/477056888
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477056888/original.jpeg
+- file: images/passeriformes/furnariidae/anabazenops-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/543868817
+  author: claudia_mermelstein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543868817/original.jpg
 ---
 
 

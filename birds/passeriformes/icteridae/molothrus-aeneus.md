@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/icteridae/molothrus-aeneus/1.jpg
+  page: https://www.inaturalist.org/photos/604624223
+  author: Dennis Vollmar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604624223/original.jpg
+images:
+- file: images/passeriformes/icteridae/molothrus-aeneus/1.jpg
+  page: https://www.inaturalist.org/photos/604624223
+  author: Dennis Vollmar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604624223/original.jpg
+- file: images/passeriformes/icteridae/molothrus-aeneus/2.jpg
+  page: https://www.inaturalist.org/photos/605795835
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605795835/original.jpg
+- file: images/passeriformes/icteridae/molothrus-aeneus/3.jpg
+  page: https://www.inaturalist.org/photos/611099978
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611099978/original.jpg
+- file: images/passeriformes/icteridae/molothrus-aeneus/4.jpg
+  page: https://www.inaturalist.org/photos/629865385
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629865385/original.jpg
+- file: images/passeriformes/icteridae/molothrus-aeneus/5.jpg
+  page: https://www.inaturalist.org/photos/614355438
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614355438/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-bartschi/1.jpg
+  page: https://www.inaturalist.org/photos/709391170
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709391170/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-bartschi/1.jpg
+  page: https://www.inaturalist.org/photos/709391170
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709391170/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-bartschi/2.jpg
+  page: https://www.inaturalist.org/photos/354166020
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354166020/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-bartschi/3.jpg
+  page: https://www.inaturalist.org/photos/709391202
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709391202/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-bartschi/4.jpg
+  page: https://www.inaturalist.org/photos/709391230
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709391230/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-bartschi/5.jpg
+  page: https://www.inaturalist.org/photos/709391264
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709391264/original.jpg
 ---
 
 

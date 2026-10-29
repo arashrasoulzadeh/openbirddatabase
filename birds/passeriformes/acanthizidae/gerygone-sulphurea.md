@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/gerygone-sulphurea/1.jpg
+  page: https://www.inaturalist.org/photos/608291839
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608291839/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/gerygone-sulphurea/1.jpg
+  page: https://www.inaturalist.org/photos/608291839
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608291839/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-sulphurea/2.jpg
+  page: https://www.inaturalist.org/photos/610401119
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610401119/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-sulphurea/3.jpg
+  page: https://www.inaturalist.org/photos/613567129
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613567129/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-sulphurea/4.jpg
+  page: https://www.inaturalist.org/photos/618851863
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851863/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-sulphurea/5.jpg
+  page: https://www.inaturalist.org/photos/623037036
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623037036/original.jpg
 ---
 
 

@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-chlorophrys/1.jpg
+  page: https://www.inaturalist.org/photos/623793039
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793039/original.jpg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-chlorophrys/1.jpg
+  page: https://www.inaturalist.org/photos/623793039
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793039/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-chlorophrys/2.jpg
+  page: https://www.inaturalist.org/photos/652842517
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652842517/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-chlorophrys/3.jpg
+  page: https://www.inaturalist.org/photos/591907131
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591907131/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-chlorophrys/4.jpg
+  page: https://www.inaturalist.org/photos/609479015
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609479015/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-chlorophrys/5.jpg
+  page: https://www.inaturalist.org/photos/263758041
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263758041/original.jpg
 ---
 
 

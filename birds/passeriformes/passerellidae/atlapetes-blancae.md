@@ -139,8 +139,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-blancae/1.jpg
+  page: https://www.inaturalist.org/photos/164057939
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164057939/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-blancae/1.jpg
+  page: https://www.inaturalist.org/photos/164057939
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164057939/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-blancae/2.jpg
+  page: https://www.inaturalist.org/photos/53700275
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53700275/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-blancae/3.jpg
+  page: https://www.inaturalist.org/photos/164058401
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164058401/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-barbata/1.jpg
+  page: https://www.inaturalist.org/photos/619430793
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619430793/original.jpg
+images:
+- file: images/galliformes/cracidae/penelope-barbata/1.jpg
+  page: https://www.inaturalist.org/photos/619430793
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619430793/original.jpg
+- file: images/galliformes/cracidae/penelope-barbata/2.jpg
+  page: https://www.inaturalist.org/photos/584636865
+  author: Connor Connolly-Moyls
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584636865/original.jpg
+- file: images/galliformes/cracidae/penelope-barbata/3.jpg
+  page: https://www.inaturalist.org/photos/559087553
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559087553/original.jpg
+- file: images/galliformes/cracidae/penelope-barbata/4.jpg
+  page: https://www.inaturalist.org/photos/323105093
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323105093/original.jpg
+- file: images/galliformes/cracidae/penelope-barbata/5.jpg
+  page: https://www.inaturalist.org/photos/240865356
+  author: Francisco E. Fonturbel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240865356/original.jpg
 ---
 
 

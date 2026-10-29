@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/peucaea-sumichrasti/1.jpg
+  page: https://www.inaturalist.org/photos/480566589
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480566589/original.jpeg
+images:
+- file: images/passeriformes/passerellidae/peucaea-sumichrasti/1.jpg
+  page: https://www.inaturalist.org/photos/480566589
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480566589/original.jpeg
+- file: images/passeriformes/passerellidae/peucaea-sumichrasti/2.jpg
+  page: https://www.inaturalist.org/photos/599019922
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599019922/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-sumichrasti/3.jpg
+  page: https://www.inaturalist.org/photos/262513754
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262513754/original.jpeg
+- file: images/passeriformes/passerellidae/peucaea-sumichrasti/4.jpg
+  page: https://www.inaturalist.org/photos/459757676
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459757676/original.jpg
+- file: images/passeriformes/passerellidae/peucaea-sumichrasti/5.jpg
+  page: https://www.inaturalist.org/photos/69459788
+  author: Blair Dudeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/69459788/original.jpg
 ---
 
 

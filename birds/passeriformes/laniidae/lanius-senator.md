@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/laniidae/lanius-senator/1.jpg
+  page: https://www.inaturalist.org/photos/618389251
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618389251/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-senator/1.jpg
+  page: https://www.inaturalist.org/photos/618389251
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618389251/original.jpg
+- file: images/passeriformes/laniidae/lanius-senator/2.jpg
+  page: https://www.inaturalist.org/photos/625047129
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625047129/original.jpg
+- file: images/passeriformes/laniidae/lanius-senator/3.jpg
+  page: https://www.inaturalist.org/photos/627472390
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627472390/original.jpg
+- file: images/passeriformes/laniidae/lanius-senator/4.jpg
+  page: https://www.inaturalist.org/photos/628559627
+  author: Antón David Pérez Rodríguez
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628559627/original.jpg
+- file: images/passeriformes/laniidae/lanius-senator/5.jpg
+  page: https://www.inaturalist.org/photos/630660457
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630660457/original.jpg
 ---
 
 

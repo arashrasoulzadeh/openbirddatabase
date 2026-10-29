@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/530047163
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530047163/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/530047163
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530047163/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/590586357
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590586357/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/258950330
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258950330/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/334865812
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334865812/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/238237136
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238237136/original.jpeg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campephilus-leucopogon/1.jpg
+  page: https://www.inaturalist.org/photos/613005696
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613005696/original.jpg
+images:
+- file: images/piciformes/picidae/campephilus-leucopogon/1.jpg
+  page: https://www.inaturalist.org/photos/613005696
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613005696/original.jpg
+- file: images/piciformes/picidae/campephilus-leucopogon/2.jpg
+  page: https://www.inaturalist.org/photos/617475419
+  author: Analía Belaus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617475419/original.jpg
+- file: images/piciformes/picidae/campephilus-leucopogon/3.jpg
+  page: https://www.inaturalist.org/photos/621819643
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621819643/original.jpg
+- file: images/piciformes/picidae/campephilus-leucopogon/4.jpg
+  page: https://www.inaturalist.org/photos/637698498
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637698498/original.jpg
+- file: images/piciformes/picidae/campephilus-leucopogon/5.jpg
+  page: https://www.inaturalist.org/photos/639505551
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639505551/original.jpg
 ---
 
 

@@ -133,8 +133,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-salvini/1.jpg
+  page: https://www.inaturalist.org/photos/559551342
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559551342/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-salvini/1.jpg
+  page: https://www.inaturalist.org/photos/559551342
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559551342/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-salvini/2.jpg
+  page: https://www.inaturalist.org/photos/593209657
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593209657/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-salvini/3.jpg
+  page: https://www.inaturalist.org/photos/263764939
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263764939/original.jpeg
+- file: images/passeriformes/tityridae/pachyramphus-salvini/4.jpg
+  page: https://www.inaturalist.org/photos/258468178
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258468178/original.jpeg
+- file: images/passeriformes/tityridae/pachyramphus-salvini/5.jpg
+  page: https://www.inaturalist.org/photos/176636685
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176636685/original.jpg
 ---
 
 

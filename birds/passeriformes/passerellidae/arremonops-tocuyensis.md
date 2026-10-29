@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremonops-tocuyensis/1.jpg
+  page: https://www.inaturalist.org/photos/569160595
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569160595/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremonops-tocuyensis/1.jpg
+  page: https://www.inaturalist.org/photos/569160595
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569160595/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-tocuyensis/2.jpg
+  page: https://www.inaturalist.org/photos/255952572
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255952572/original.jpeg
+- file: images/passeriformes/passerellidae/arremonops-tocuyensis/3.jpg
+  page: https://www.inaturalist.org/photos/268434913
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268434913/original.jpeg
+- file: images/passeriformes/passerellidae/arremonops-tocuyensis/4.jpg
+  page: https://www.inaturalist.org/photos/312941195
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/312941195/original.jpeg
+- file: images/passeriformes/passerellidae/arremonops-tocuyensis/5.jpg
+  page: https://www.inaturalist.org/photos/569160617
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569160617/original.jpg
 ---
 
 

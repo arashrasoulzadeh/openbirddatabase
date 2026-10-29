@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/berenicornis-comatus/1.jpg
+  page: https://www.inaturalist.org/photos/613139977
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613139977/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/berenicornis-comatus/1.jpg
+  page: https://www.inaturalist.org/photos/613139977
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613139977/original.jpg
+- file: images/bucerotiformes/bucerotidae/berenicornis-comatus/2.jpg
+  page: https://www.inaturalist.org/photos/683989620
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683989620/original.jpg
+- file: images/bucerotiformes/bucerotidae/berenicornis-comatus/3.jpg
+  page: https://www.inaturalist.org/photos/687476371
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687476371/original.jpg
+- file: images/bucerotiformes/bucerotidae/berenicornis-comatus/4.jpg
+  page: https://www.inaturalist.org/photos/466332166
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466332166/original.jpeg
+- file: images/bucerotiformes/bucerotidae/berenicornis-comatus/5.jpg
+  page: https://www.inaturalist.org/photos/481037377
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481037377/original.jpg
 ---
 
 

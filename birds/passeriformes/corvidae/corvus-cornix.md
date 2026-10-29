@@ -185,10 +185,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/corvidae/corvus-cornix/1.jpg
+  page: https://www.inaturalist.org/photos/605076137
+  author: Дарья Орлова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605076137/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-cornix/1.jpg
+  page: https://www.inaturalist.org/photos/605076137
+  author: Дарья Орлова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605076137/original.jpg
+- file: images/passeriformes/corvidae/corvus-cornix/2.jpg
+  page: https://www.inaturalist.org/photos/605587823
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605587823/original.jpg
+- file: images/passeriformes/corvidae/corvus-cornix/3.jpg
+  page: https://www.inaturalist.org/photos/605674460
+  author: Шухободская Ольга Владимировна
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605674460/original.jpg
+- file: images/passeriformes/corvidae/corvus-cornix/4.jpg
+  page: https://www.inaturalist.org/photos/604694091
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604694091/original.jpg
+- file: images/passeriformes/corvidae/corvus-cornix/5.jpg
+  page: https://www.inaturalist.org/photos/605367557
+  author: Petro Miroshnyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605367557/original.jpg
 ---
 
 

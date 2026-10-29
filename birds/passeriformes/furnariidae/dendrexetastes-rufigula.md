@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendrexetastes-rufigula/1.jpg
+  page: https://www.inaturalist.org/photos/644837877
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644837877/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendrexetastes-rufigula/1.jpg
+  page: https://www.inaturalist.org/photos/644837877
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644837877/original.jpg
+- file: images/passeriformes/furnariidae/dendrexetastes-rufigula/2.jpg
+  page: https://www.inaturalist.org/photos/720651704
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720651704/original.jpg
+- file: images/passeriformes/furnariidae/dendrexetastes-rufigula/3.jpg
+  page: https://www.inaturalist.org/photos/467056208
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467056208/original.jpg
+- file: images/passeriformes/furnariidae/dendrexetastes-rufigula/4.jpg
+  page: https://www.inaturalist.org/photos/482566891
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482566891/original.png
+- file: images/passeriformes/furnariidae/dendrexetastes-rufigula/5.jpg
+  page: https://www.inaturalist.org/photos/552547049
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552547049/original.jpg
 ---
 
 

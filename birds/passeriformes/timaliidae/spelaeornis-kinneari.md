@@ -130,7 +130,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.1
@@ -138,6 +139,44 @@ morphology:
   wing_length_mm: 49.5
   tail_length_mm: 36.5
   body_mass_g: 11.8
+image:
+  file: images/passeriformes/timaliidae/spelaeornis-kinneari/1.jpg
+  page: https://www.inaturalist.org/photos/350298561
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350298561/original.jpeg
+images:
+- file: images/passeriformes/timaliidae/spelaeornis-kinneari/1.jpg
+  page: https://www.inaturalist.org/photos/350298561
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350298561/original.jpeg
+- file: images/passeriformes/timaliidae/spelaeornis-kinneari/2.jpg
+  page: https://www.inaturalist.org/photos/105897392
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105897392/original.jpeg
+- file: images/passeriformes/timaliidae/spelaeornis-kinneari/3.jpg
+  page: https://www.inaturalist.org/photos/105897509
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105897509/original.jpeg
+- file: images/passeriformes/timaliidae/spelaeornis-kinneari/4.jpg
+  page: https://www.inaturalist.org/photos/105897577
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105897577/original.jpeg
+- file: images/passeriformes/timaliidae/spelaeornis-kinneari/5.jpg
+  page: https://www.inaturalist.org/photos/105897664
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105897664/original.jpeg
 ---
 
 

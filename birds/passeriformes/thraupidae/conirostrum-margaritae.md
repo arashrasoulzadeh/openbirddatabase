@@ -143,10 +143,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/thraupidae/conirostrum-margaritae/1.jpg
+  page: https://www.inaturalist.org/photos/402009073
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402009073/original.jpg
+images:
+- file: images/passeriformes/thraupidae/conirostrum-margaritae/1.jpg
+  page: https://www.inaturalist.org/photos/402009073
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402009073/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-margaritae/2.jpg
+  page: https://www.inaturalist.org/photos/47580425
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/47580425/original.jpeg
+- file: images/passeriformes/thraupidae/conirostrum-margaritae/3.jpg
+  page: https://www.inaturalist.org/photos/610826955
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610826955/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-margaritae/4.jpg
+  page: https://www.inaturalist.org/photos/402011326
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402011326/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-margaritae/5.jpg
+  page: https://www.inaturalist.org/photos/402011330
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402011330/original.jpg
 ---
 
 

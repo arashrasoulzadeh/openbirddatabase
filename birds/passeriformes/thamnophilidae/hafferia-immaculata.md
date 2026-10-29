@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hafferia-immaculata/1.jpg
+  page: https://www.inaturalist.org/photos/652850977
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652850977/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hafferia-immaculata/1.jpg
+  page: https://www.inaturalist.org/photos/652850977
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652850977/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-immaculata/2.jpg
+  page: https://www.inaturalist.org/photos/499976233
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499976233/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-immaculata/3.jpg
+  page: https://www.inaturalist.org/photos/511399428
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511399428/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-immaculata/4.jpg
+  page: https://www.inaturalist.org/photos/652851008
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652851008/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-immaculata/5.jpg
+  page: https://www.inaturalist.org/photos/652850973
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652850973/original.jpg
 ---
 
 

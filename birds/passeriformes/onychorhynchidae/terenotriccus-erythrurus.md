@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/onychorhynchidae/terenotriccus-erythrurus/1.jpg
+  page: https://www.inaturalist.org/photos/609350683
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609350683/original.jpg
+images:
+- file: images/passeriformes/onychorhynchidae/terenotriccus-erythrurus/1.jpg
+  page: https://www.inaturalist.org/photos/609350683
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609350683/original.jpg
+- file: images/passeriformes/onychorhynchidae/terenotriccus-erythrurus/2.jpg
+  page: https://www.inaturalist.org/photos/615510933
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615510933/original.jpg
+- file: images/passeriformes/onychorhynchidae/terenotriccus-erythrurus/3.jpg
+  page: https://www.inaturalist.org/photos/465631697
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465631697/original.jpeg
+- file: images/passeriformes/onychorhynchidae/terenotriccus-erythrurus/4.jpg
+  page: https://www.inaturalist.org/photos/470637233
+  author: TheMongrelKoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470637233/original.jpeg
+- file: images/passeriformes/onychorhynchidae/terenotriccus-erythrurus/5.jpg
+  page: https://www.inaturalist.org/photos/605760524
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605760524/original.jpg
 ---
 
 

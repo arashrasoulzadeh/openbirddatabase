@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/eremalauda-eremodites/1.jpg
+  page: https://www.inaturalist.org/photos/661030406
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030406/original.jpg
+images:
+- file: images/passeriformes/alaudidae/eremalauda-eremodites/1.jpg
+  page: https://www.inaturalist.org/photos/661030406
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030406/original.jpg
+- file: images/passeriformes/alaudidae/eremalauda-eremodites/2.jpg
+  page: https://www.inaturalist.org/photos/639538470
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639538470/original.jpg
+- file: images/passeriformes/alaudidae/eremalauda-eremodites/3.jpg
+  page: https://www.inaturalist.org/photos/476830446
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476830446/original.jpeg
+- file: images/passeriformes/alaudidae/eremalauda-eremodites/4.jpg
+  page: https://www.inaturalist.org/photos/611522872
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611522872/original.jpg
+- file: images/passeriformes/alaudidae/eremalauda-eremodites/5.jpg
+  page: https://www.inaturalist.org/photos/336830508
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336830508/original.jpeg
 ---
 
 

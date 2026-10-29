@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/acridotheres-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/607679748
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607679748/original.jpg
+images:
+- file: images/passeriformes/sturnidae/acridotheres-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/607679748
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607679748/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/621387028
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621387028/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/628082793
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628082793/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/630352571
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630352571/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/628082801
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628082801/original.jpg
 ---
 
 

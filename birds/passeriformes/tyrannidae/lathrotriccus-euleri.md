@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/lathrotriccus-euleri/1.jpg
+  page: https://www.inaturalist.org/photos/607012651
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607012651/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/lathrotriccus-euleri/1.jpg
+  page: https://www.inaturalist.org/photos/607012651
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607012651/original.jpg
+- file: images/passeriformes/tyrannidae/lathrotriccus-euleri/2.jpg
+  page: https://www.inaturalist.org/photos/611673436
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611673436/original.jpg
+- file: images/passeriformes/tyrannidae/lathrotriccus-euleri/3.jpg
+  page: https://www.inaturalist.org/photos/618059814
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059814/original.jpg
+- file: images/passeriformes/tyrannidae/lathrotriccus-euleri/4.jpg
+  page: https://www.inaturalist.org/photos/618828419
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618828419/original.jpg
+- file: images/passeriformes/tyrannidae/lathrotriccus-euleri/5.jpg
+  page: https://www.inaturalist.org/photos/625148767
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625148767/original.jpg
 ---
 
 

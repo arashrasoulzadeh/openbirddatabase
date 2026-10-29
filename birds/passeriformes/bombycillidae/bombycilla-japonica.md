@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/bombycillidae/bombycilla-japonica/1.jpg
+  page: https://www.inaturalist.org/photos/605016570
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605016570/original.jpg
+images:
+- file: images/passeriformes/bombycillidae/bombycilla-japonica/1.jpg
+  page: https://www.inaturalist.org/photos/605016570
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605016570/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-japonica/2.jpg
+  page: https://www.inaturalist.org/photos/618063590
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618063590/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-japonica/3.jpg
+  page: https://www.inaturalist.org/photos/605016569
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605016569/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-japonica/4.jpg
+  page: https://www.inaturalist.org/photos/618063588
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618063588/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-japonica/5.jpg
+  page: https://www.inaturalist.org/photos/618063729
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618063729/original.jpg
 ---
 
 

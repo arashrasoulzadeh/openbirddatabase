@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-nyassae/1.jpg
+  page: https://www.inaturalist.org/photos/470214194
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470214194/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-nyassae/1.jpg
+  page: https://www.inaturalist.org/photos/470214194
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470214194/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nyassae/2.jpg
+  page: https://www.inaturalist.org/photos/1844033
+  author: National Geographic Okavango Wilderness Project
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1844033/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nyassae/3.jpg
+  page: https://www.inaturalist.org/photos/264098892
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264098892/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-nyassae/4.jpg
+  page: http://www.flickr.com/photos/briangratwicke/8325743573/
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226304/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nyassae/5.jpg
+  page: https://www.inaturalist.org/photos/470214195
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470214195/original.jpg
 ---
 
 

@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/burhinidae/burhinus-vermiculatus/1.jpg
+  page: https://www.inaturalist.org/photos/606217439
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606217439/original.jpg
+images:
+- file: images/charadriiformes/burhinidae/burhinus-vermiculatus/1.jpg
+  page: https://www.inaturalist.org/photos/606217439
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606217439/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-vermiculatus/2.jpg
+  page: https://www.inaturalist.org/photos/613962537
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613962537/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-vermiculatus/3.jpg
+  page: https://www.inaturalist.org/photos/626259402
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626259402/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-vermiculatus/4.jpg
+  page: https://www.inaturalist.org/photos/619918029
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619918029/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-vermiculatus/5.jpg
+  page: https://www.inaturalist.org/photos/682493264
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682493264/original.jpg
 ---
 
 

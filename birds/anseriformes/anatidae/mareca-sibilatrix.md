@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/mareca-sibilatrix/1.jpg
+  page: https://www.inaturalist.org/photos/609468442
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609468442/original.jpg
+images:
+- file: images/anseriformes/anatidae/mareca-sibilatrix/1.jpg
+  page: https://www.inaturalist.org/photos/609468442
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609468442/original.jpg
+- file: images/anseriformes/anatidae/mareca-sibilatrix/2.jpg
+  page: https://www.inaturalist.org/photos/608952703
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608952703/original.jpg
+- file: images/anseriformes/anatidae/mareca-sibilatrix/3.jpg
+  page: https://www.inaturalist.org/photos/606970217
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606970217/original.jpg
+- file: images/anseriformes/anatidae/mareca-sibilatrix/4.jpg
+  page: https://www.inaturalist.org/photos/613265303
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613265303/original.jpg
+- file: images/anseriformes/anatidae/mareca-sibilatrix/5.jpg
+  page: https://www.inaturalist.org/photos/615858401
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615858401/original.jpg
 ---
 
 

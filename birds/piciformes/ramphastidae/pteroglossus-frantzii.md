@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/pteroglossus-frantzii/1.jpg
+  page: https://www.inaturalist.org/photos/611768969
+  author: Oliver Power
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611768969/original.jpg
+images:
+- file: images/piciformes/ramphastidae/pteroglossus-frantzii/1.jpg
+  page: https://www.inaturalist.org/photos/611768969
+  author: Oliver Power
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611768969/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-frantzii/2.jpg
+  page: https://www.inaturalist.org/photos/613646819
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613646819/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-frantzii/3.jpg
+  page: https://www.inaturalist.org/photos/614165453
+  author: Jensyn Scott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614165453/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-frantzii/4.jpg
+  page: https://www.inaturalist.org/photos/627528457
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627528457/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-frantzii/5.jpg
+  page: https://www.inaturalist.org/photos/630233760
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630233760/original.jpg
 ---
 
 

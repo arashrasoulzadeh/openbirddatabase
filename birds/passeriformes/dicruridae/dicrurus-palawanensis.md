@@ -130,8 +130,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-palawanensis/1.jpg
+  page: https://www.inaturalist.org/photos/657166948
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657166948/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-palawanensis/1.jpg
+  page: https://www.inaturalist.org/photos/657166948
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657166948/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-palawanensis/2.jpg
+  page: https://www.inaturalist.org/photos/564600857
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564600857/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-palawanensis/3.jpg
+  page: https://www.inaturalist.org/photos/388702042
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388702042/original.jpeg
+- file: images/passeriformes/dicruridae/dicrurus-palawanensis/4.jpg
+  page: https://www.inaturalist.org/photos/469443053
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469443053/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-palawanensis/5.jpg
+  page: https://www.inaturalist.org/photos/244618267
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244618267/original.jpg
 ---
 
 

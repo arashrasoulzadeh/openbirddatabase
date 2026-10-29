@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/psittaciformes/psittaculidae/neophema-pulchella/1.jpg
+  page: https://www.inaturalist.org/photos/476929457
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476929457/original.jpeg
+images:
+- file: images/psittaciformes/psittaculidae/neophema-pulchella/1.jpg
+  page: https://www.inaturalist.org/photos/476929457
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476929457/original.jpeg
+- file: images/psittaciformes/psittaculidae/neophema-pulchella/2.jpg
+  page: https://www.inaturalist.org/photos/492226113
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492226113/original.jpeg
+- file: images/psittaciformes/psittaculidae/neophema-pulchella/3.jpg
+  page: https://www.inaturalist.org/photos/561121655
+  author: Ged Tranter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561121655/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-pulchella/4.jpg
+  page: https://www.inaturalist.org/photos/574631056
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574631056/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-pulchella/5.jpg
+  page: https://www.inaturalist.org/photos/583164505
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583164505/original.jpg
 ---
 
 

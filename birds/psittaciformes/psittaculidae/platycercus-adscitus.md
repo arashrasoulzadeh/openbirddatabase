@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/platycercus-adscitus/1.jpg
+  page: https://www.inaturalist.org/photos/604881327
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604881327/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/platycercus-adscitus/1.jpg
+  page: https://www.inaturalist.org/photos/604881327
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604881327/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-adscitus/2.jpg
+  page: https://www.inaturalist.org/photos/604679046
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604679046/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-adscitus/3.jpg
+  page: https://www.inaturalist.org/photos/608494796
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608494796/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-adscitus/4.jpg
+  page: https://www.inaturalist.org/photos/610634910
+  author: Rolf Lawrenz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610634910/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-adscitus/5.jpg
+  page: https://www.inaturalist.org/photos/614035253
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614035253/original.jpg
 ---
 
 

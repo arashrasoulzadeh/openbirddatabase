@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/hierococcyx-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/606729233
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606729233/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/hierococcyx-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/606729233
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606729233/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/457242474
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457242474/original.jpeg
+- file: images/cuculiformes/cuculidae/hierococcyx-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/606729274
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606729274/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/606729272
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606729272/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/457242824
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457242824/original.jpeg
 ---
 
 

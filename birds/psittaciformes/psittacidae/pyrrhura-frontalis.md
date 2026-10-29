@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/605434034
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434034/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/605434034
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434034/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/609320480
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320480/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/609002643
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609002643/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/612390438
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612390438/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/621906044
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621906044/original.jpg
 ---
 
 

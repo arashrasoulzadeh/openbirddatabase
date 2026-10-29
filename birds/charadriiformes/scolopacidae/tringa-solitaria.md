@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/tringa-solitaria/1.jpg
+  page: https://www.inaturalist.org/photos/607346694
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607346694/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/tringa-solitaria/1.jpg
+  page: https://www.inaturalist.org/photos/607346694
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607346694/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-solitaria/2.jpg
+  page: https://www.inaturalist.org/photos/606027655
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027655/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-solitaria/3.jpg
+  page: https://www.inaturalist.org/photos/610445837
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610445837/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-solitaria/4.jpg
+  page: https://www.inaturalist.org/photos/607549855
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607549855/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-solitaria/5.jpg
+  page: https://www.inaturalist.org/photos/609363792
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363792/original.jpg
 ---
 
 

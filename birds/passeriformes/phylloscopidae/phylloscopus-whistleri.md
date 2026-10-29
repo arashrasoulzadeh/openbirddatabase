@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-whistleri/1.jpg
+  page: https://www.inaturalist.org/photos/636502952
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636502952/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-whistleri/1.jpg
+  page: https://www.inaturalist.org/photos/636502952
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636502952/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-whistleri/2.jpg
+  page: https://www.inaturalist.org/photos/461850150
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461850150/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-whistleri/3.jpg
+  page: https://www.inaturalist.org/photos/543811319
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543811319/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-whistleri/4.jpg
+  page: https://www.inaturalist.org/photos/600616029
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600616029/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-whistleri/5.jpg
+  page: https://www.inaturalist.org/photos/262741977
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262741977/original.jpg
 ---
 
 

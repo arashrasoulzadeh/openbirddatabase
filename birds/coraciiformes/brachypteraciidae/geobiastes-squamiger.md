@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/brachypteraciidae/geobiastes-squamiger/1.jpg
+  page: https://www.inaturalist.org/photos/535962393
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535962393/original.jpg
+images:
+- file: images/coraciiformes/brachypteraciidae/geobiastes-squamiger/1.jpg
+  page: https://www.inaturalist.org/photos/535962393
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535962393/original.jpg
+- file: images/coraciiformes/brachypteraciidae/geobiastes-squamiger/2.jpg
+  page: https://www.inaturalist.org/photos/454716246
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454716246/original.jpg
+- file: images/coraciiformes/brachypteraciidae/geobiastes-squamiger/3.jpg
+  page: https://www.inaturalist.org/photos/455693081
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455693081/original.jpeg
+- file: images/coraciiformes/brachypteraciidae/geobiastes-squamiger/4.jpg
+  page: https://www.inaturalist.org/photos/199990071
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199990071/original.jpeg
+- file: images/coraciiformes/brachypteraciidae/geobiastes-squamiger/5.jpg
+  page: https://www.inaturalist.org/photos/242279038
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242279038/original.jpg
 ---
 
 

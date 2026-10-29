@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/celeus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/618371021
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618371021/original.jpg
+images:
+- file: images/piciformes/picidae/celeus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/618371021
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618371021/original.jpg
+- file: images/piciformes/picidae/celeus-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/467874925
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467874925/original.jpg
+- file: images/piciformes/picidae/celeus-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/396893576
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396893576/original.jpg
+- file: images/piciformes/picidae/celeus-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/426900968
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426900968/original.jpg
+- file: images/piciformes/picidae/celeus-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/448902104
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448902104/original.jpeg
 ---
 
 

@@ -162,8 +162,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-rufigularis/1.jpg
+  page: https://www.inaturalist.org/photos/605722485
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605722485/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-rufigularis/1.jpg
+  page: https://www.inaturalist.org/photos/605722485
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605722485/original.jpg
+- file: images/falconiformes/falconidae/falco-rufigularis/2.jpg
+  page: https://www.inaturalist.org/photos/605642080
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605642080/original.jpg
+- file: images/falconiformes/falconidae/falco-rufigularis/3.jpg
+  page: https://www.inaturalist.org/photos/610561562
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610561562/original.jpg
+- file: images/falconiformes/falconidae/falco-rufigularis/4.jpg
+  page: https://www.inaturalist.org/photos/608363955
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608363955/original.jpg
+- file: images/falconiformes/falconidae/falco-rufigularis/5.jpg
+  page: https://www.inaturalist.org/photos/608252885
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608252885/original.jpg
 ---
 
 

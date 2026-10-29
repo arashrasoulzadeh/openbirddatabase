@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-conspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/738246490
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738246490/original.jpg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-conspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/738246490
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738246490/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-conspicillata/2.jpg
+  page: https://www.inaturalist.org/photos/733730681
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733730681/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-conspicillata/3.jpg
+  page: https://www.inaturalist.org/photos/467923066
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467923066/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-conspicillata/4.jpg
+  page: https://www.inaturalist.org/photos/597769914
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597769914/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-conspicillata/5.jpg
+  page: https://www.inaturalist.org/photos/526630132
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526630132/original.jpg
 ---
 
 

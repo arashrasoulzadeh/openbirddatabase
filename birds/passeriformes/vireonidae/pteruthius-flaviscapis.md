@@ -145,8 +145,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/pteruthius-flaviscapis/1.jpg
+  page: https://www.inaturalist.org/photos/613435238
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435238/original.jpg
+images:
+- file: images/passeriformes/vireonidae/pteruthius-flaviscapis/1.jpg
+  page: https://www.inaturalist.org/photos/613435238
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435238/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-flaviscapis/2.jpg
+  page: https://www.inaturalist.org/photos/618852095
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618852095/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-flaviscapis/3.jpg
+  page: https://www.inaturalist.org/photos/663288248
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663288248/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-flaviscapis/4.jpg
+  page: https://www.inaturalist.org/photos/465844368
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844368/original.jpeg
+- file: images/passeriformes/vireonidae/pteruthius-flaviscapis/5.jpg
+  page: https://www.inaturalist.org/photos/569153241
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569153241/original.jpg
 ---
 
 

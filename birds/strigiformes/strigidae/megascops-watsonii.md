@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-watsonii/1.jpg
+  page: https://www.inaturalist.org/photos/524709809
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524709809/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-watsonii/1.jpg
+  page: https://www.inaturalist.org/photos/524709809
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524709809/original.jpg
+- file: images/strigiformes/strigidae/megascops-watsonii/2.jpg
+  page: https://www.inaturalist.org/photos/348375951
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348375951/original.jpg
+- file: images/strigiformes/strigidae/megascops-watsonii/3.jpg
+  page: https://www.inaturalist.org/photos/467826413
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467826413/original.jpeg
+- file: images/strigiformes/strigidae/megascops-watsonii/4.jpg
+  page: https://www.inaturalist.org/photos/500003066
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500003066/original.jpg
+- file: images/strigiformes/strigidae/megascops-watsonii/5.jpg
+  page: https://www.inaturalist.org/photos/219109992
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219109992/original.jpeg
 ---
 
 

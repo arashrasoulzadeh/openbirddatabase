@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/harpactes-ardens/1.jpg
+  page: https://www.inaturalist.org/photos/628386661
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628386661/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/harpactes-ardens/1.jpg
+  page: https://www.inaturalist.org/photos/628386661
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628386661/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-ardens/2.jpg
+  page: https://www.inaturalist.org/photos/652496105
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652496105/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-ardens/3.jpg
+  page: https://www.inaturalist.org/photos/683316092
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683316092/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-ardens/4.jpg
+  page: https://www.inaturalist.org/photos/600354225
+  author: Matej Otruba
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600354225/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-ardens/5.jpg
+  page: https://www.inaturalist.org/photos/261837914
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837914/original.jpg
 ---
 
 

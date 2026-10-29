@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/calyptomenidae/calyptomena-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/629283941
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629283941/original.jpg
+images:
+- file: images/passeriformes/calyptomenidae/calyptomena-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/629283941
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629283941/original.jpg
+- file: images/passeriformes/calyptomenidae/calyptomena-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/739495509
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495509/original.jpg
+- file: images/passeriformes/calyptomenidae/calyptomena-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/730194244
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730194244/original.jpg
+- file: images/passeriformes/calyptomenidae/calyptomena-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/553700495
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553700495/original.jpg
+- file: images/passeriformes/calyptomenidae/calyptomena-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/389939511
+  author: Roman Sergeychik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/389939511/original.jpg
 ---
 
 

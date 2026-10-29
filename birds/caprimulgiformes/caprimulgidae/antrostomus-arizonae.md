@@ -150,10 +150,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/caprimulgiformes/caprimulgidae/antrostomus-arizonae/1.jpg
+  page: https://www.inaturalist.org/photos/720918624
+  author: Cheng-Te Hsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720918624/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-arizonae/1.jpg
+  page: https://www.inaturalist.org/photos/720918624
+  author: Cheng-Te Hsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720918624/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-arizonae/2.jpg
+  page: https://www.inaturalist.org/photos/588132116
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588132116/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-arizonae/3.jpg
+  page: https://www.inaturalist.org/photos/605838064
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605838064/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-arizonae/4.jpg
+  page: https://www.inaturalist.org/photos/346552034
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346552034/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-arizonae/5.jpg
+  page: https://www.inaturalist.org/photos/417770756
+  author: Court Harding
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417770756/original.jpg
 ---
 
 

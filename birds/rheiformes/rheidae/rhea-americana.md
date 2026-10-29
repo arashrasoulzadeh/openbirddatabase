@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 50
+image:
+  file: images/rheiformes/rheidae/rhea-americana/1.jpg
+  page: https://www.inaturalist.org/photos/605494220
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494220/original.jpg
+images:
+- file: images/rheiformes/rheidae/rhea-americana/1.jpg
+  page: https://www.inaturalist.org/photos/605494220
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494220/original.jpg
+- file: images/rheiformes/rheidae/rhea-americana/2.jpg
+  page: https://www.inaturalist.org/photos/607712478
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607712478/original.jpg
+- file: images/rheiformes/rheidae/rhea-americana/3.jpg
+  page: https://www.inaturalist.org/photos/606014723
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014723/original.jpg
+- file: images/rheiformes/rheidae/rhea-americana/4.jpg
+  page: https://www.inaturalist.org/photos/606430632
+  author: Paula Zermoglio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606430632/original.jpg
+- file: images/rheiformes/rheidae/rhea-americana/5.jpg
+  page: https://www.inaturalist.org/photos/610212075
+  author: Laura Nicola
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610212075/original.jpg
 ---
 
 

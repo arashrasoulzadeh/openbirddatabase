@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-luteolus/1.jpg
+  page: https://www.inaturalist.org/photos/610079906
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610079906/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-luteolus/1.jpg
+  page: https://www.inaturalist.org/photos/610079906
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610079906/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-luteolus/2.jpg
+  page: https://www.inaturalist.org/photos/606092459
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606092459/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-luteolus/3.jpg
+  page: https://www.inaturalist.org/photos/623109952
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623109952/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-luteolus/4.jpg
+  page: https://www.inaturalist.org/photos/615434084
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615434084/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-luteolus/5.jpg
+  page: https://www.inaturalist.org/photos/623802606
+  author: Sameer Kulkarni
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623802606/original.jpg
 ---
 
 

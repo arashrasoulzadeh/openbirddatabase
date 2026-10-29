@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/drymophila-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/605697136
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697136/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/drymophila-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/605697136
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697136/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-ferruginea/2.jpg
+  page: https://www.inaturalist.org/photos/609337690
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609337690/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-ferruginea/3.jpg
+  page: https://www.inaturalist.org/photos/685967701
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685967701/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-ferruginea/4.jpg
+  page: https://www.inaturalist.org/photos/637263368
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637263368/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-ferruginea/5.jpg
+  page: https://www.inaturalist.org/photos/642616035
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642616035/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/chlorospingus-flavigularis/1.jpg
+  page: https://www.inaturalist.org/photos/609212099
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212099/original.jpg
+images:
+- file: images/passeriformes/passerellidae/chlorospingus-flavigularis/1.jpg
+  page: https://www.inaturalist.org/photos/609212099
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212099/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-flavigularis/2.jpg
+  page: https://www.inaturalist.org/photos/623793147
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793147/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-flavigularis/3.jpg
+  page: https://www.inaturalist.org/photos/628198981
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628198981/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-flavigularis/4.jpg
+  page: https://www.inaturalist.org/photos/631003050
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631003050/original.jpg
+- file: images/passeriformes/passerellidae/chlorospingus-flavigularis/5.jpg
+  page: https://www.inaturalist.org/photos/658249462
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658249462/original.jpg
 ---
 
 

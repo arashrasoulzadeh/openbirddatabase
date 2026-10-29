@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/cyanochen-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/610030593
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610030593/original.jpg
+images:
+- file: images/anseriformes/anatidae/cyanochen-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/610030593
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610030593/original.jpg
+- file: images/anseriformes/anatidae/cyanochen-cyanoptera/2.jpg
+  page: https://www.inaturalist.org/photos/207305409
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207305409/original.jpg
+- file: images/anseriformes/anatidae/cyanochen-cyanoptera/3.jpg
+  page: https://www.inaturalist.org/photos/105098591
+  author: Oleg Kosterin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105098591/original.jpg
+- file: images/anseriformes/anatidae/cyanochen-cyanoptera/4.jpg
+  page: https://www.flickr.com/photos/copepodo/8483601880/
+  author: Rafael Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2040770/original.jpg
+- file: images/anseriformes/anatidae/cyanochen-cyanoptera/5.jpg
+  page: https://www.inaturalist.org/photos/29661327
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29661327/original.jpeg
 ---
 
 

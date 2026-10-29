@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/734292610
+  author: Giorgio Zavattoni
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734292610/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/734292610
+  author: Giorgio Zavattoni
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734292610/original.jpg
+- file: images/passeriformes/sittidae/sitta-whiteheadi/2.jpg
+  page: https://www.inaturalist.org/photos/731002604
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731002604/original.jpg
+- file: images/passeriformes/sittidae/sitta-whiteheadi/3.jpg
+  page: https://www.inaturalist.org/photos/742383994
+  author: Fabian Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742383994/original.jpg
+- file: images/passeriformes/sittidae/sitta-whiteheadi/4.jpg
+  page: https://www.inaturalist.org/photos/490270654
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490270654/original.jpeg
+- file: images/passeriformes/sittidae/sitta-whiteheadi/5.jpg
+  page: https://www.inaturalist.org/photos/498915379
+  author: Thomas Barrès
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498915379/original.jpeg
 ---
 
 

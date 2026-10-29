@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/hylopezus-perspicillatus/1.jpg
+  page: https://www.inaturalist.org/photos/613762833
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762833/original.jpg
+images:
+- file: images/passeriformes/grallariidae/hylopezus-perspicillatus/1.jpg
+  page: https://www.inaturalist.org/photos/613762833
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762833/original.jpg
+- file: images/passeriformes/grallariidae/hylopezus-perspicillatus/2.jpg
+  page: https://www.inaturalist.org/photos/615321648
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615321648/original.jpg
+- file: images/passeriformes/grallariidae/hylopezus-perspicillatus/3.jpg
+  page: https://www.inaturalist.org/photos/712362173
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712362173/original.jpg
+- file: images/passeriformes/grallariidae/hylopezus-perspicillatus/4.jpg
+  page: https://www.inaturalist.org/photos/508583473
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508583473/original.jpg
+- file: images/passeriformes/grallariidae/hylopezus-perspicillatus/5.jpg
+  page: https://www.inaturalist.org/photos/575301315
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575301315/original.jpg
 ---
 
 

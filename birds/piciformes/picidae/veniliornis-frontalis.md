@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/634013573
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634013573/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/634013573
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634013573/original.jpg
+- file: images/piciformes/picidae/veniliornis-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/671856367
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671856367/original.jpg
+- file: images/piciformes/picidae/veniliornis-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/477303440
+  author: Martín Acosta Albarracín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477303440/original.jpg
+- file: images/piciformes/picidae/veniliornis-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/401837021
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401837021/original.jpg
+- file: images/piciformes/picidae/veniliornis-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/357351727
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357351727/original.jpeg
 ---
 
 

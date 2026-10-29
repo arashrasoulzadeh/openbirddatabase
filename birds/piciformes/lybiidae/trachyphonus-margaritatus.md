@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/trachyphonus-margaritatus/1.jpg
+  page: https://www.inaturalist.org/photos/617672827
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617672827/original.jpg
+images:
+- file: images/piciformes/lybiidae/trachyphonus-margaritatus/1.jpg
+  page: https://www.inaturalist.org/photos/617672827
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617672827/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-margaritatus/2.jpg
+  page: https://www.inaturalist.org/photos/313188439
+  author: nberhe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313188439/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-margaritatus/3.jpg
+  page: https://www.inaturalist.org/photos/617672828
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617672828/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-margaritatus/4.jpg
+  page: https://www.inaturalist.org/photos/618531596
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618531596/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-margaritatus/5.jpg
+  page: https://www.inaturalist.org/photos/618531597
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618531597/original.jpg
 ---
 
 

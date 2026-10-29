@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-bollii/1.jpg
+  page: https://www.inaturalist.org/photos/466541042
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466541042/original.jpeg
+images:
+- file: images/columbiformes/columbidae/columba-bollii/1.jpg
+  page: https://www.inaturalist.org/photos/466541042
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466541042/original.jpeg
+- file: images/columbiformes/columbidae/columba-bollii/2.jpg
+  page: https://www.inaturalist.org/photos/479106846
+  author: Alison Playle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479106846/original.jpg
+- file: images/columbiformes/columbidae/columba-bollii/3.jpg
+  page: https://www.inaturalist.org/photos/485073754
+  author: thomaslux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485073754/original.jpeg
+- file: images/columbiformes/columbidae/columba-bollii/4.jpg
+  page: https://www.inaturalist.org/photos/612213599
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612213599/original.jpg
+- file: images/columbiformes/columbidae/columba-bollii/5.jpg
+  page: https://www.inaturalist.org/photos/447703104
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447703104/original.jpeg
 ---
 
 

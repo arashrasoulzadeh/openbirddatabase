@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/thinornis-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/469240733
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469240733/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/thinornis-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/469240733
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469240733/original.jpg
+- file: images/charadriiformes/charadriidae/thinornis-novaeseelandiae/2.jpg
+  page: https://www.inaturalist.org/photos/379177009
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/379177009/original.jpeg
+- file: images/charadriiformes/charadriidae/thinornis-novaeseelandiae/3.jpg
+  page: https://www.inaturalist.org/photos/384258132
+  author: Benjamin Lavin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/384258132/original.jpeg
+- file: images/charadriiformes/charadriidae/thinornis-novaeseelandiae/4.jpg
+  page: https://www.inaturalist.org/photos/94584435
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94584435/original.jpeg
+- file: images/charadriiformes/charadriidae/thinornis-novaeseelandiae/5.jpg
+  page: https://www.inaturalist.org/photos/90998148
+  author: rempson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/90998148/original.jpeg
 ---
 
 

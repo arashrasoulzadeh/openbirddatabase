@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/nothoprocta-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/613762500
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762500/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/nothoprocta-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/613762500
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762500/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-ornata/2.jpg
+  page: https://www.inaturalist.org/photos/648767906
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648767906/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-ornata/3.jpg
+  page: https://www.inaturalist.org/photos/467714222
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467714222/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-ornata/4.jpg
+  page: https://www.inaturalist.org/photos/477879242
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477879242/original.jpeg
+- file: images/tinamiformes/tinamidae/nothoprocta-ornata/5.jpg
+  page: https://www.inaturalist.org/photos/490737323
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490737323/original.jpeg
 ---
 
 

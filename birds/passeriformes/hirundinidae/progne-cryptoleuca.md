@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/progne-cryptoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/354490115
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354490115/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/progne-cryptoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/354490115
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354490115/original.jpg
+- file: images/passeriformes/hirundinidae/progne-cryptoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/366182497
+  author: Robin White
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366182497/original.jpg
+- file: images/passeriformes/hirundinidae/progne-cryptoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/30534581
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/30534581/original.jpeg
+- file: images/passeriformes/hirundinidae/progne-cryptoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/104126193
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104126193/original.jpeg
+- file: images/passeriformes/hirundinidae/progne-cryptoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/21575048
+  author: Juan Rafael Rodríguez Razgado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/21575048/original.jpeg
 ---
 
 

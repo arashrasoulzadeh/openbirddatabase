@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/ramsayornis-modestus/1.jpg
+  page: https://www.inaturalist.org/photos/609855567
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609855567/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/ramsayornis-modestus/1.jpg
+  page: https://www.inaturalist.org/photos/609855567
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609855567/original.jpg
+- file: images/passeriformes/meliphagidae/ramsayornis-modestus/2.jpg
+  page: https://www.inaturalist.org/photos/613884329
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613884329/original.jpg
+- file: images/passeriformes/meliphagidae/ramsayornis-modestus/3.jpg
+  page: https://www.inaturalist.org/photos/621997048
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621997048/original.jpg
+- file: images/passeriformes/meliphagidae/ramsayornis-modestus/4.jpg
+  page: https://www.inaturalist.org/photos/705967853
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705967853/original.jpg
+- file: images/passeriformes/meliphagidae/ramsayornis-modestus/5.jpg
+  page: https://www.inaturalist.org/photos/737485889
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737485889/original.jpg
 ---
 
 

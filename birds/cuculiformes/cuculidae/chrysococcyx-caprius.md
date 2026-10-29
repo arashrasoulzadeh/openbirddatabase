@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chrysococcyx-caprius/1.jpg
+  page: https://www.inaturalist.org/photos/642297578
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297578/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chrysococcyx-caprius/1.jpg
+  page: https://www.inaturalist.org/photos/642297578
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297578/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-caprius/2.jpg
+  page: https://www.inaturalist.org/photos/700141339
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700141339/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-caprius/3.jpg
+  page: https://www.inaturalist.org/photos/620543353
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620543353/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-caprius/4.jpg
+  page: https://www.inaturalist.org/photos/622561973
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622561973/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-caprius/5.jpg
+  page: https://www.inaturalist.org/photos/636873940
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873940/original.jpg
 ---
 
 

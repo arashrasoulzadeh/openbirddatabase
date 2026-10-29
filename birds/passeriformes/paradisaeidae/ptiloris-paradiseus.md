@@ -125,7 +125,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 52.7
@@ -135,6 +136,44 @@ morphology:
   body_mass_g: 119.5
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/paradisaeidae/ptiloris-paradiseus/1.jpg
+  page: https://www.inaturalist.org/photos/607845733
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607845733/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/ptiloris-paradiseus/1.jpg
+  page: https://www.inaturalist.org/photos/607845733
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607845733/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-paradiseus/2.jpg
+  page: https://www.inaturalist.org/photos/615414986
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615414986/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-paradiseus/3.jpg
+  page: https://www.inaturalist.org/photos/516878864
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516878864/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-paradiseus/4.jpg
+  page: https://www.inaturalist.org/photos/589591398
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589591398/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-paradiseus/5.jpg
+  page: https://www.inaturalist.org/photos/607845779
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607845779/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/perisoreus-internigrans/1.jpg
+  page: https://www.inaturalist.org/photos/521251981
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521251981/original.jpg
+images:
+- file: images/passeriformes/corvidae/perisoreus-internigrans/1.jpg
+  page: https://www.inaturalist.org/photos/521251981
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521251981/original.jpg
+- file: images/passeriformes/corvidae/perisoreus-internigrans/2.jpg
+  page: https://www.inaturalist.org/photos/409412050
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409412050/original.jpeg
+- file: images/passeriformes/corvidae/perisoreus-internigrans/3.jpg
+  page: https://www.inaturalist.org/photos/347446289
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347446289/original.jpg
+- file: images/passeriformes/corvidae/perisoreus-internigrans/4.jpg
+  page: https://www.inaturalist.org/photos/521251999
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521251999/original.jpg
+- file: images/passeriformes/corvidae/perisoreus-internigrans/5.jpg
+  page: https://www.inaturalist.org/photos/409412076
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409412076/original.jpeg
 ---
 
 

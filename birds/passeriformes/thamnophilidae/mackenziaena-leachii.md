@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/mackenziaena-leachii/1.jpg
+  page: https://www.inaturalist.org/photos/620380685
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620380685/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/mackenziaena-leachii/1.jpg
+  page: https://www.inaturalist.org/photos/620380685
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620380685/original.jpg
+- file: images/passeriformes/thamnophilidae/mackenziaena-leachii/2.jpg
+  page: https://www.inaturalist.org/photos/688682794
+  author: Paulo Mascaretti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688682794/original.jpg
+- file: images/passeriformes/thamnophilidae/mackenziaena-leachii/3.jpg
+  page: https://www.inaturalist.org/photos/587942289
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587942289/original.jpg
+- file: images/passeriformes/thamnophilidae/mackenziaena-leachii/4.jpg
+  page: https://www.inaturalist.org/photos/349048622
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349048622/original.jpeg
+- file: images/passeriformes/thamnophilidae/mackenziaena-leachii/5.jpg
+  page: https://www.inaturalist.org/photos/370155356
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370155356/original.jpeg
 ---
 
 

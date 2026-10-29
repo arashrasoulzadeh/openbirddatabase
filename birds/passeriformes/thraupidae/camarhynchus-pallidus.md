@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 17.1
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 69.0
   tail_length_mm: 40.2
   body_mass_g: 23.1
+image:
+  file: images/passeriformes/thraupidae/camarhynchus-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/528387881
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528387881/original.jpg
+images:
+- file: images/passeriformes/thraupidae/camarhynchus-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/528387881
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528387881/original.jpg
+- file: images/passeriformes/thraupidae/camarhynchus-pallidus/2.jpg
+  page: https://www.inaturalist.org/photos/559440305
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559440305/original.jpg
+- file: images/passeriformes/thraupidae/camarhynchus-pallidus/3.jpg
+  page: https://www.inaturalist.org/photos/350320580
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350320580/original.jpeg
+- file: images/passeriformes/thraupidae/camarhynchus-pallidus/4.jpg
+  page: https://www.flickr.com/photos/99613800@N02/54903821241/
+  author: Chris Kirby-Lambert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600469628/original.jpg
+- file: images/passeriformes/thraupidae/camarhynchus-pallidus/5.jpg
+  page: https://www.inaturalist.org/photos/346870015
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346870015/original.jpeg
 ---
 
 

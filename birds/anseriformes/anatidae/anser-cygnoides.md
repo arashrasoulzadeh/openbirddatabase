@@ -153,7 +153,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 92.7
@@ -168,6 +169,44 @@ reproduction:
   fledging_days: 70
 demography:
   max_longevity_years: 31
+image:
+  file: images/anseriformes/anatidae/anser-cygnoides/1.jpg
+  page: https://www.inaturalist.org/photos/607132372
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607132372/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-cygnoides/1.jpg
+  page: https://www.inaturalist.org/photos/607132372
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607132372/original.jpg
+- file: images/anseriformes/anatidae/anser-cygnoides/2.jpg
+  page: https://www.inaturalist.org/photos/610037108
+  author: Linda Jo Conn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610037108/original.jpg
+- file: images/anseriformes/anatidae/anser-cygnoides/3.jpg
+  page: https://www.inaturalist.org/photos/605767364
+  author: Greghig Jirheg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605767364/original.jpg
+- file: images/anseriformes/anatidae/anser-cygnoides/4.jpg
+  page: https://www.inaturalist.org/photos/610037208
+  author: Linda Jo Conn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610037208/original.jpg
+- file: images/anseriformes/anatidae/anser-cygnoides/5.jpg
+  page: https://www.inaturalist.org/photos/610037474
+  author: Linda Jo Conn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610037474/original.jpg
 ---
 
 

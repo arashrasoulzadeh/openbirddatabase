@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 17.1
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 81.0
   tail_length_mm: 80.4
   body_mass_g: 24.0
+image:
+  file: images/passeriformes/leiothrichidae/actinodura-morrisoniana/1.jpg
+  page: https://www.inaturalist.org/photos/665388455
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665388455/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/actinodura-morrisoniana/1.jpg
+  page: https://www.inaturalist.org/photos/665388455
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665388455/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-morrisoniana/2.jpg
+  page: https://www.inaturalist.org/photos/710220230
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710220230/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-morrisoniana/3.jpg
+  page: https://www.inaturalist.org/photos/462530170
+  author: 曾昱承 Yu-Cheng Zeng
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462530170/original.jpeg
+- file: images/passeriformes/leiothrichidae/actinodura-morrisoniana/4.jpg
+  page: https://www.inaturalist.org/photos/465764476
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465764476/original.jpeg
+- file: images/passeriformes/leiothrichidae/actinodura-morrisoniana/5.jpg
+  page: https://www.inaturalist.org/photos/479536401
+  author: Mike Burnett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479536401/original.jpeg
 ---
 
 

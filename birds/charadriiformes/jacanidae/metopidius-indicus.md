@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/jacanidae/metopidius-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/607907314
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907314/original.jpg
+images:
+- file: images/charadriiformes/jacanidae/metopidius-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/607907314
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907314/original.jpg
+- file: images/charadriiformes/jacanidae/metopidius-indicus/2.jpg
+  page: https://www.inaturalist.org/photos/608916099
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608916099/original.jpg
+- file: images/charadriiformes/jacanidae/metopidius-indicus/3.jpg
+  page: https://www.inaturalist.org/photos/627455299
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627455299/original.jpg
+- file: images/charadriiformes/jacanidae/metopidius-indicus/4.jpg
+  page: https://www.inaturalist.org/photos/607907315
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907315/original.jpg
+- file: images/charadriiformes/jacanidae/metopidius-indicus/5.jpg
+  page: https://www.inaturalist.org/photos/624860798
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624860798/original.jpg
 ---
 
 

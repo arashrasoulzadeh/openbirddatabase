@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/meliphagidae/manorina-flavigula/1.jpg
+  page: https://www.inaturalist.org/photos/606388427
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388427/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/manorina-flavigula/1.jpg
+  page: https://www.inaturalist.org/photos/606388427
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388427/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-flavigula/2.jpg
+  page: https://www.inaturalist.org/photos/665646968
+  author: Timothy Perrett
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665646968/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-flavigula/3.jpg
+  page: https://www.inaturalist.org/photos/614570614
+  author: Riley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614570614/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-flavigula/4.jpg
+  page: https://www.inaturalist.org/photos/615187848
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615187848/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-flavigula/5.jpg
+  page: https://www.inaturalist.org/photos/621088465
+  author: walruswatermelon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621088465/original.jpg
 ---
 
 

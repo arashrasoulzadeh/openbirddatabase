@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/harpactes-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/642871596
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642871596/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/harpactes-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/642871596
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642871596/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-fasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/617206858
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206858/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-fasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/617174118
+  author: citi2024
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617174118/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-fasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/670948660
+  author: rajesh rocky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670948660/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-fasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/627626420
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627626420/original.jpg
 ---
 
 

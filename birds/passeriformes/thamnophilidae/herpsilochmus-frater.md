@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.3
@@ -137,6 +138,44 @@ morphology:
   wing_length_mm: 49.9
   tail_length_mm: 44.6
   body_mass_g: 10.6
+image:
+  file: images/passeriformes/thamnophilidae/herpsilochmus-frater/1.jpg
+  page: https://www.inaturalist.org/photos/618520567
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618520567/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/herpsilochmus-frater/1.jpg
+  page: https://www.inaturalist.org/photos/618520567
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618520567/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-frater/2.jpg
+  page: https://www.inaturalist.org/photos/642014669
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642014669/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-frater/3.jpg
+  page: https://www.inaturalist.org/photos/743298498
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743298498/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-frater/4.jpg
+  page: https://www.inaturalist.org/photos/354004233
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354004233/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-frater/5.jpg
+  page: https://www.inaturalist.org/photos/414496002
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414496002/original.jpg
 ---
 
 

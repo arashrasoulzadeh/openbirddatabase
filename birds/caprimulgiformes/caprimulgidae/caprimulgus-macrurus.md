@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-macrurus/1.jpg
+  page: https://www.inaturalist.org/photos/609434035
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609434035/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-macrurus/1.jpg
+  page: https://www.inaturalist.org/photos/609434035
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609434035/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-macrurus/2.jpg
+  page: https://www.inaturalist.org/photos/627861949
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627861949/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-macrurus/3.jpg
+  page: https://www.inaturalist.org/photos/632472578
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632472578/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-macrurus/4.jpg
+  page: https://www.inaturalist.org/photos/637490143
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637490143/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-macrurus/5.jpg
+  page: https://www.inaturalist.org/photos/689196337
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689196337/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-forficatus/1.jpg
+  page: https://www.inaturalist.org/photos/639158791
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639158791/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-forficatus/1.jpg
+  page: https://www.inaturalist.org/photos/639158791
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639158791/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-forficatus/2.jpg
+  page: https://www.inaturalist.org/photos/689167694
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689167694/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-forficatus/3.jpg
+  page: https://www.inaturalist.org/photos/690101604
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690101604/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-forficatus/4.jpg
+  page: https://www.inaturalist.org/photos/639158663
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639158663/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-forficatus/5.jpg
+  page: https://www.inaturalist.org/photos/639158382
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639158382/original.jpg
 ---
 
 

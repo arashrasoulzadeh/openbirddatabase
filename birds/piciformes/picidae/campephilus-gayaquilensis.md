@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campephilus-gayaquilensis/1.jpg
+  page: https://www.inaturalist.org/photos/620946765
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620946765/original.jpg
+images:
+- file: images/piciformes/picidae/campephilus-gayaquilensis/1.jpg
+  page: https://www.inaturalist.org/photos/620946765
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620946765/original.jpg
+- file: images/piciformes/picidae/campephilus-gayaquilensis/2.jpg
+  page: https://www.inaturalist.org/photos/482776869
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482776869/original.png
+- file: images/piciformes/picidae/campephilus-gayaquilensis/3.jpg
+  page: https://www.inaturalist.org/photos/592371787
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592371787/original.jpg
+- file: images/piciformes/picidae/campephilus-gayaquilensis/4.jpg
+  page: https://www.inaturalist.org/photos/255793661
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255793661/original.jpg
+- file: images/piciformes/picidae/campephilus-gayaquilensis/5.jpg
+  page: https://www.inaturalist.org/photos/323092654
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323092654/original.jpg
 ---
 
 

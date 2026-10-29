@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-lineatum/1.jpg
+  page: https://www.inaturalist.org/photos/609649480
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609649480/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-lineatum/1.jpg
+  page: https://www.inaturalist.org/photos/609649480
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609649480/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-lineatum/2.jpg
+  page: https://www.inaturalist.org/photos/616370815
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616370815/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-lineatum/3.jpg
+  page: https://www.inaturalist.org/photos/641650778
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641650778/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-lineatum/4.jpg
+  page: https://www.inaturalist.org/photos/662011089
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662011089/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-lineatum/5.jpg
+  page: https://www.inaturalist.org/photos/660816130
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660816130/original.jpg
 ---
 
 

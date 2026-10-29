@@ -160,8 +160,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/aratinga-solstitialis/1.jpg
+  page: https://www.inaturalist.org/photos/470377863
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470377863/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/aratinga-solstitialis/1.jpg
+  page: https://www.inaturalist.org/photos/470377863
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470377863/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-solstitialis/2.jpg
+  page: https://www.inaturalist.org/photos/471751367
+  author: Tatiana Strus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471751367/original.jpeg
+- file: images/psittaciformes/psittacidae/aratinga-solstitialis/3.jpg
+  page: https://www.inaturalist.org/photos/595176615
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595176615/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-solstitialis/4.jpg
+  page: https://www.inaturalist.org/photos/350266074
+  author: Utain Pummarin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350266074/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-solstitialis/5.jpg
+  page: https://www.inaturalist.org/photos/352702776
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352702776/original.jpg
 ---
 
 

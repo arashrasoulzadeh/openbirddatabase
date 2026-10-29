@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/halobaena-caerulea/1.jpg
+  page: https://www.inaturalist.org/photos/605116796
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605116796/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/halobaena-caerulea/1.jpg
+  page: https://www.inaturalist.org/photos/605116796
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605116796/original.jpg
+- file: images/procellariiformes/procellariidae/halobaena-caerulea/2.jpg
+  page: https://www.inaturalist.org/photos/614226164
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614226164/original.jpg
+- file: images/procellariiformes/procellariidae/halobaena-caerulea/3.jpg
+  page: https://www.inaturalist.org/photos/699320873
+  author: Arnim Littek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699320873/original.jpg
+- file: images/procellariiformes/procellariidae/halobaena-caerulea/4.jpg
+  page: https://www.inaturalist.org/photos/704957675
+  author: nick_goldwater
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704957675/original.jpg
+- file: images/procellariiformes/procellariidae/halobaena-caerulea/5.jpg
+  page: https://www.inaturalist.org/photos/708766567
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708766567/original.jpg
 ---
 
 

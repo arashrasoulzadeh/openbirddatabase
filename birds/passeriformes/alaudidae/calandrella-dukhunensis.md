@@ -184,8 +184,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/calandrella-dukhunensis/1.jpg
+  page: https://www.inaturalist.org/photos/611494701
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611494701/original.jpg
+images:
+- file: images/passeriformes/alaudidae/calandrella-dukhunensis/1.jpg
+  page: https://www.inaturalist.org/photos/611494701
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611494701/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-dukhunensis/2.jpg
+  page: https://www.inaturalist.org/photos/635624972
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635624972/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-dukhunensis/3.jpg
+  page: https://www.inaturalist.org/photos/662881138
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662881138/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-dukhunensis/4.jpg
+  page: https://www.inaturalist.org/photos/611494794
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611494794/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-dukhunensis/5.jpg
+  page: https://www.inaturalist.org/photos/611494818
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611494818/original.jpg
 ---
 
 

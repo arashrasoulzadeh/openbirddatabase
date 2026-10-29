@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/hirundo-angolensis/1.jpg
+  page: https://www.inaturalist.org/photos/621457057
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621457057/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/hirundo-angolensis/1.jpg
+  page: https://www.inaturalist.org/photos/621457057
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621457057/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-angolensis/2.jpg
+  page: https://www.inaturalist.org/photos/548827723
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548827723/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-angolensis/3.jpg
+  page: https://www.inaturalist.org/photos/560787888
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560787888/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-angolensis/4.jpg
+  page: https://www.inaturalist.org/photos/604397911
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604397911/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-angolensis/5.jpg
+  page: https://www.inaturalist.org/photos/393649626
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393649626/original.jpg
 ---
 
 

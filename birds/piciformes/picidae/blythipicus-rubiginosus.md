@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/blythipicus-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/612615479
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612615479/original.jpg
+images:
+- file: images/piciformes/picidae/blythipicus-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/612615479
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612615479/original.jpg
+- file: images/piciformes/picidae/blythipicus-rubiginosus/2.jpg
+  page: https://www.inaturalist.org/photos/614683592
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614683592/original.jpg
+- file: images/piciformes/picidae/blythipicus-rubiginosus/3.jpg
+  page: https://www.inaturalist.org/photos/634501267
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634501267/original.jpg
+- file: images/piciformes/picidae/blythipicus-rubiginosus/4.jpg
+  page: https://www.inaturalist.org/photos/698368135
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698368135/original.jpg
+- file: images/piciformes/picidae/blythipicus-rubiginosus/5.jpg
+  page: https://www.inaturalist.org/photos/525171799
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525171799/original.jpg
 ---
 
 

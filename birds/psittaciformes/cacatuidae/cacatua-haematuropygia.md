@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-haematuropygia/1.jpg
+  page: https://www.inaturalist.org/photos/375583059
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375583059/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-haematuropygia/1.jpg
+  page: https://www.inaturalist.org/photos/375583059
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375583059/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-haematuropygia/2.jpg
+  page: https://www.inaturalist.org/photos/276218669
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276218669/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-haematuropygia/3.jpg
+  page: https://www.inaturalist.org/photos/44698523
+  author: gery-dupas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/44698523/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-haematuropygia/4.jpg
+  page: https://www.inaturalist.org/photos/276218706
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276218706/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-haematuropygia/5.jpg
+  page: https://www.inaturalist.org/photos/276218730
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276218730/original.jpg
 ---
 
 

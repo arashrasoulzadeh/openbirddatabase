@@ -135,8 +135,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/xanthotis-polygrammus/1.jpg
+  page: https://www.inaturalist.org/photos/337322773
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337322773/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/xanthotis-polygrammus/1.jpg
+  page: https://www.inaturalist.org/photos/337322773
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337322773/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-polygrammus/2.jpg
+  page: https://www.inaturalist.org/photos/337322755
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337322755/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-polygrammus/3.jpg
+  page: https://www.inaturalist.org/photos/337323476
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337323476/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-polygrammus/4.jpg
+  page: https://www.inaturalist.org/photos/337323480
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337323480/original.jpg
 ---
 
 

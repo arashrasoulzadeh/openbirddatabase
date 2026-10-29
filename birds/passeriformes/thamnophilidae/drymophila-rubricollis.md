@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/drymophila-rubricollis/1.jpg
+  page: https://www.inaturalist.org/photos/706186841
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706186841/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/drymophila-rubricollis/1.jpg
+  page: https://www.inaturalist.org/photos/706186841
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706186841/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-rubricollis/2.jpg
+  page: https://www.inaturalist.org/photos/388183117
+  author: Bruno Siqueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388183117/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-rubricollis/3.jpg
+  page: https://www.inaturalist.org/photos/214760226
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/214760226/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-rubricollis/4.jpg
+  page: https://www.inaturalist.org/photos/103993295
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103993295/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-rubricollis/5.jpg
+  page: https://www.inaturalist.org/photos/277975361
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/277975361/original.jpeg
 ---
 
 

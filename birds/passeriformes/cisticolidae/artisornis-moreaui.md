@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/artisornis-moreaui/1.jpg
+  page: https://www.inaturalist.org/photos/586522346
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586522346/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/artisornis-moreaui/1.jpg
+  page: https://www.inaturalist.org/photos/586522346
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586522346/original.jpg
+- file: images/passeriformes/cisticolidae/artisornis-moreaui/2.jpg
+  page: https://www.inaturalist.org/photos/436539450
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436539450/original.jpeg
+- file: images/passeriformes/cisticolidae/artisornis-moreaui/3.jpg
+  page: https://www.inaturalist.org/photos/254029546
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254029546/original.jpeg
+- file: images/passeriformes/cisticolidae/artisornis-moreaui/4.jpg
+  page: https://www.inaturalist.org/photos/586522345
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586522345/original.jpg
+- file: images/passeriformes/cisticolidae/artisornis-moreaui/5.jpg
+  page: https://www.inaturalist.org/photos/586522337
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586522337/original.jpg
 ---
 
 

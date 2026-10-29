@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/galliformes/phasianidae/chrysolophus-amherstiae/1.jpg
+  page: https://www.inaturalist.org/photos/632591947
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632591947/original.jpg
+images:
+- file: images/galliformes/phasianidae/chrysolophus-amherstiae/1.jpg
+  page: https://www.inaturalist.org/photos/632591947
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632591947/original.jpg
+- file: images/galliformes/phasianidae/chrysolophus-amherstiae/2.jpg
+  page: https://www.inaturalist.org/photos/507820624
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507820624/original.jpg
+- file: images/galliformes/phasianidae/chrysolophus-amherstiae/3.jpg
+  page: https://www.inaturalist.org/photos/376649969
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376649969/original.jpeg
+- file: images/galliformes/phasianidae/chrysolophus-amherstiae/4.jpg
+  page: https://www.inaturalist.org/photos/61513084
+  author: xianning
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61513084/original.jpeg
+- file: images/galliformes/phasianidae/chrysolophus-amherstiae/5.jpg
+  page: https://www.inaturalist.org/photos/580879462
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580879462/original.jpg
 ---
 
 

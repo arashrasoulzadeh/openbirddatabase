@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/633425958
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633425958/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/633425958
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633425958/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-simplex/2.jpg
+  page: https://www.inaturalist.org/photos/682489983
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682489983/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-simplex/3.jpg
+  page: https://www.inaturalist.org/photos/605668669
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605668669/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-simplex/4.jpg
+  page: https://www.inaturalist.org/photos/523843696
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523843696/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-simplex/5.jpg
+  page: https://www.inaturalist.org/photos/525472265
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525472265/original.jpg
 ---
 
 

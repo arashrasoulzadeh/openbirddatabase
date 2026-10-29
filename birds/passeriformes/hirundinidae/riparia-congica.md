@@ -130,7 +130,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 8.3
@@ -138,6 +139,26 @@ morphology:
   wing_length_mm: 92.3
   tail_length_mm: 45.0
   body_mass_g: 16.5
+image:
+  file: images/passeriformes/hirundinidae/riparia-congica/1.jpg
+  page: https://www.inaturalist.org/photos/63177370
+  author: Lera Miles
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63177370/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/riparia-congica/1.jpg
+  page: https://www.inaturalist.org/photos/63177370
+  author: Lera Miles
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63177370/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-congica/2.jpg
+  page: https://www.inaturalist.org/photos/63177362
+  author: Lera Miles
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63177362/original.jpg
 ---
 
 

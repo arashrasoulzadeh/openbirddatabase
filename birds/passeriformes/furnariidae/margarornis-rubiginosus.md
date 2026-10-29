@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/margarornis-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/607235363
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607235363/original.jpg
+images:
+- file: images/passeriformes/furnariidae/margarornis-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/607235363
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607235363/original.jpg
+- file: images/passeriformes/furnariidae/margarornis-rubiginosus/2.jpg
+  page: https://www.inaturalist.org/photos/616986066
+  author: Logan J.L. Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616986066/original.jpg
+- file: images/passeriformes/furnariidae/margarornis-rubiginosus/3.jpg
+  page: https://www.inaturalist.org/photos/619140215
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619140215/original.jpg
+- file: images/passeriformes/furnariidae/margarornis-rubiginosus/4.jpg
+  page: https://www.inaturalist.org/photos/631005804
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631005804/original.jpg
+- file: images/passeriformes/furnariidae/margarornis-rubiginosus/5.jpg
+  page: https://www.inaturalist.org/photos/657973498
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657973498/original.jpg
 ---
 
 

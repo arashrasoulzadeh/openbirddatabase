@@ -129,10 +129,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/cranioleuca-henricae/1.jpg
+  page: https://www.inaturalist.org/photos/603050324
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603050324/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cranioleuca-henricae/1.jpg
+  page: https://www.inaturalist.org/photos/603050324
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603050324/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-henricae/2.jpg
+  page: https://www.inaturalist.org/photos/458119897
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458119897/original.jpeg
+- file: images/passeriformes/furnariidae/cranioleuca-henricae/3.jpg
+  page: https://www.inaturalist.org/photos/603051148
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603051148/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-henricae/4.jpg
+  page: https://www.inaturalist.org/photos/603051159
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603051159/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-henricae/5.jpg
+  page: https://www.inaturalist.org/photos/458120245
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458120245/original.jpeg
 ---
 
 

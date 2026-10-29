@@ -130,7 +130,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.8
@@ -138,6 +139,44 @@ morphology:
   wing_length_mm: 89.0
   tail_length_mm: 74.7
   body_mass_g: 36.0
+image:
+  file: images/passeriformes/thraupidae/rauenia-bonariensis/1.jpg
+  page: https://www.inaturalist.org/photos/607783926
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607783926/original.jpg
+images:
+- file: images/passeriformes/thraupidae/rauenia-bonariensis/1.jpg
+  page: https://www.inaturalist.org/photos/607783926
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607783926/original.jpg
+- file: images/passeriformes/thraupidae/rauenia-bonariensis/2.jpg
+  page: https://www.inaturalist.org/photos/606171595
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606171595/original.jpg
+- file: images/passeriformes/thraupidae/rauenia-bonariensis/3.jpg
+  page: https://www.inaturalist.org/photos/611234982
+  author: Lucas Carbone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611234982/original.jpg
+- file: images/passeriformes/thraupidae/rauenia-bonariensis/4.jpg
+  page: https://www.inaturalist.org/photos/613899077
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613899077/original.jpg
+- file: images/passeriformes/thraupidae/rauenia-bonariensis/5.jpg
+  page: https://www.inaturalist.org/photos/616438189
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616438189/original.jpg
 ---
 
 

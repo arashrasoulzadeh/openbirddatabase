@@ -137,8 +137,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/iole-viridescens/1.jpg
+  page: https://www.inaturalist.org/photos/642251447
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642251447/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/iole-viridescens/1.jpg
+  page: https://www.inaturalist.org/photos/642251447
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642251447/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-viridescens/2.jpg
+  page: https://www.inaturalist.org/photos/628490627
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628490627/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-viridescens/3.jpg
+  page: https://www.inaturalist.org/photos/466341635
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466341635/original.jpeg
+- file: images/passeriformes/pycnonotidae/iole-viridescens/4.jpg
+  page: https://www.inaturalist.org/photos/470890874
+  author: Utain Pummarin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470890874/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-viridescens/5.jpg
+  page: https://www.inaturalist.org/photos/379218594
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/379218594/original.jpeg
 ---
 
 

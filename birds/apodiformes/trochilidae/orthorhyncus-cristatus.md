@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/orthorhyncus-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/608794417
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608794417/original.jpg
+images:
+- file: images/apodiformes/trochilidae/orthorhyncus-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/608794417
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608794417/original.jpg
+- file: images/apodiformes/trochilidae/orthorhyncus-cristatus/2.jpg
+  page: https://www.inaturalist.org/photos/609011587
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609011587/original.jpg
+- file: images/apodiformes/trochilidae/orthorhyncus-cristatus/3.jpg
+  page: https://www.inaturalist.org/photos/615284267
+  author: Quentin Groom
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615284267/original.jpg
+- file: images/apodiformes/trochilidae/orthorhyncus-cristatus/4.jpg
+  page: https://www.inaturalist.org/photos/616531826
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616531826/original.jpg
+- file: images/apodiformes/trochilidae/orthorhyncus-cristatus/5.jpg
+  page: https://www.inaturalist.org/photos/616799251
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616799251/original.jpg
 ---
 
 

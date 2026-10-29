@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/strigiformes/strigidae/asio-flammeus/1.jpg
+  page: https://www.inaturalist.org/photos/605451242
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605451242/original.jpg
+images:
+- file: images/strigiformes/strigidae/asio-flammeus/1.jpg
+  page: https://www.inaturalist.org/photos/605451242
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605451242/original.jpg
+- file: images/strigiformes/strigidae/asio-flammeus/2.jpg
+  page: https://www.inaturalist.org/photos/605201600
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605201600/original.jpg
+- file: images/strigiformes/strigidae/asio-flammeus/3.jpg
+  page: https://www.inaturalist.org/photos/606316581
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606316581/original.jpg
+- file: images/strigiformes/strigidae/asio-flammeus/4.jpg
+  page: https://www.inaturalist.org/photos/610661425
+  author: Robin Fokker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610661425/original.jpg
+- file: images/strigiformes/strigidae/asio-flammeus/5.jpg
+  page: https://www.inaturalist.org/photos/610593118
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610593118/original.jpg
 ---
 
 

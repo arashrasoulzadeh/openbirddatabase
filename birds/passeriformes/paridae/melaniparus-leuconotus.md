@@ -151,8 +151,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/melaniparus-leuconotus/1.jpg
+  page: https://www.inaturalist.org/photos/609874505
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609874505/original.jpg
+images:
+- file: images/passeriformes/paridae/melaniparus-leuconotus/1.jpg
+  page: https://www.inaturalist.org/photos/609874505
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609874505/original.jpg
+- file: images/passeriformes/paridae/melaniparus-leuconotus/2.jpg
+  page: https://www.inaturalist.org/photos/207303043
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207303043/original.jpg
+- file: images/passeriformes/paridae/melaniparus-leuconotus/3.jpg
+  page: https://www.inaturalist.org/photos/64106286
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64106286/original.jpg
+- file: images/passeriformes/paridae/melaniparus-leuconotus/4.jpg
+  page: https://www.inaturalist.org/photos/64106284
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64106284/original.jpeg
 ---
 
 

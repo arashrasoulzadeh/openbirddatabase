@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-somalicus/1.jpg
+  page: https://www.inaturalist.org/photos/617585542
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617585542/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-somalicus/1.jpg
+  page: https://www.inaturalist.org/photos/617585542
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617585542/original.jpg
+- file: images/passeriformes/laniidae/lanius-somalicus/2.jpg
+  page: https://www.inaturalist.org/photos/53852796
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53852796/original.jpg
+- file: images/passeriformes/laniidae/lanius-somalicus/3.jpg
+  page: https://www.inaturalist.org/photos/617585547
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617585547/original.jpg
+- file: images/passeriformes/laniidae/lanius-somalicus/4.jpg
+  page: https://www.inaturalist.org/photos/617630023
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617630023/original.jpg
+- file: images/passeriformes/laniidae/lanius-somalicus/5.jpg
+  page: https://www.inaturalist.org/photos/617792764
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617792764/original.jpg
 ---
 
 

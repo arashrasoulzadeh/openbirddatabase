@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/agriornis-lividus/1.jpg
+  page: https://www.inaturalist.org/photos/615388996
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388996/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/agriornis-lividus/1.jpg
+  page: https://www.inaturalist.org/photos/615388996
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388996/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-lividus/2.jpg
+  page: https://www.inaturalist.org/photos/613984535
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613984535/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-lividus/3.jpg
+  page: https://www.inaturalist.org/photos/613578285
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613578285/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-lividus/4.jpg
+  page: https://www.inaturalist.org/photos/625432844
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625432844/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-lividus/5.jpg
+  page: https://www.inaturalist.org/photos/652146225
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652146225/original.jpg
 ---
 
 

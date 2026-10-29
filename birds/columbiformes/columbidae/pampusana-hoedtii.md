@@ -128,8 +128,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/pampusana-hoedtii/1.jpg
+  page: https://www.inaturalist.org/photos/332049540
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332049540/original.jpg
+images:
+- file: images/columbiformes/columbidae/pampusana-hoedtii/1.jpg
+  page: https://www.inaturalist.org/photos/332049540
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332049540/original.jpg
+- file: images/columbiformes/columbidae/pampusana-hoedtii/2.jpg
+  page: https://www.inaturalist.org/photos/337787636
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787636/original.jpeg
+- file: images/columbiformes/columbidae/pampusana-hoedtii/3.jpg
+  page: https://www.inaturalist.org/photos/332050027
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332050027/original.jpg
+- file: images/columbiformes/columbidae/pampusana-hoedtii/4.jpg
+  page: https://www.inaturalist.org/photos/433880810
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433880810/original.jpeg
+- file: images/columbiformes/columbidae/pampusana-hoedtii/5.jpg
+  page: https://www.inaturalist.org/photos/433880820
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433880820/original.jpeg
 ---
 
 

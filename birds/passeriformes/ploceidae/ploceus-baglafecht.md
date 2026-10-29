@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-baglafecht/1.jpg
+  page: https://www.inaturalist.org/photos/613708231
+  author: WaterGoat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613708231/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-baglafecht/1.jpg
+  page: https://www.inaturalist.org/photos/613708231
+  author: WaterGoat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613708231/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-baglafecht/2.jpg
+  page: https://www.inaturalist.org/photos/676951873
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676951873/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-baglafecht/3.jpg
+  page: https://www.inaturalist.org/photos/621774016
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621774016/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-baglafecht/4.jpg
+  page: https://www.inaturalist.org/photos/613708283
+  author: WaterGoat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613708283/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-baglafecht/5.jpg
+  page: https://www.inaturalist.org/photos/613708262
+  author: WaterGoat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613708262/original.jpg
 ---
 
 

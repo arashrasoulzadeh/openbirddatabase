@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/crypturellus-tataupa/1.jpg
+  page: https://www.inaturalist.org/photos/618072385
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618072385/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/crypturellus-tataupa/1.jpg
+  page: https://www.inaturalist.org/photos/618072385
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618072385/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-tataupa/2.jpg
+  page: https://www.inaturalist.org/photos/621909945
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621909945/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-tataupa/3.jpg
+  page: https://www.inaturalist.org/photos/621119204
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621119204/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-tataupa/4.jpg
+  page: https://www.inaturalist.org/photos/641909887
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641909887/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-tataupa/5.jpg
+  page: https://www.inaturalist.org/photos/709995265
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709995265/original.jpg
 ---
 
 

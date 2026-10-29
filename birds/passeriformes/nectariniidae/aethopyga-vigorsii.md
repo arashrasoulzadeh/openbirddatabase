@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-vigorsii/1.jpg
+  page: https://www.inaturalist.org/photos/617959713
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617959713/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-vigorsii/1.jpg
+  page: https://www.inaturalist.org/photos/617959713
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617959713/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-vigorsii/2.jpg
+  page: https://www.inaturalist.org/photos/510655374
+  author: Amit Naik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510655374/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-vigorsii/3.jpg
+  page: https://www.inaturalist.org/photos/518188711
+  author: Amit Naik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518188711/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-vigorsii/4.jpg
+  page: https://www.inaturalist.org/photos/518188792
+  author: Amit Naik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518188792/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-vigorsii/5.jpg
+  page: https://www.inaturalist.org/photos/514986665
+  author: Amit Naik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514986665/original.jpg
 ---
 
 

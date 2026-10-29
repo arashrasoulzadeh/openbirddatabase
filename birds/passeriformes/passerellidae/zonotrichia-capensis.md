@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/passerellidae/zonotrichia-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/604679475
+  author: Insomnia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604679475/original.jpg
+images:
+- file: images/passeriformes/passerellidae/zonotrichia-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/604679475
+  author: Insomnia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604679475/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/605691494
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605691494/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/605107207
+  author: Marcos Severgnini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605107207/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/604540939
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604540939/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/605384868
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605384868/original.jpg
 ---
 
 

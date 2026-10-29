@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/melozone-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/609287181
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609287181/original.jpg
+images:
+- file: images/passeriformes/passerellidae/melozone-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/609287181
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609287181/original.jpg
+- file: images/passeriformes/passerellidae/melozone-occipitalis/2.jpg
+  page: https://www.inaturalist.org/photos/619126769
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619126769/original.jpg
+- file: images/passeriformes/passerellidae/melozone-occipitalis/3.jpg
+  page: https://www.inaturalist.org/photos/623746458
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623746458/original.jpg
+- file: images/passeriformes/passerellidae/melozone-occipitalis/4.jpg
+  page: https://www.inaturalist.org/photos/630759024
+  author: Shawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630759024/original.jpg
+- file: images/passeriformes/passerellidae/melozone-occipitalis/5.jpg
+  page: https://www.inaturalist.org/photos/641819395
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641819395/original.jpg
 ---
 
 

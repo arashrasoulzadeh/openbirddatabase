@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/alectoris-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/614553711
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553711/original.jpg
+images:
+- file: images/galliformes/phasianidae/alectoris-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/614553711
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553711/original.jpg
+- file: images/galliformes/phasianidae/alectoris-melanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/633267508
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633267508/original.jpg
+- file: images/galliformes/phasianidae/alectoris-melanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/624923557
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624923557/original.jpg
+- file: images/galliformes/phasianidae/alectoris-melanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/477854244
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477854244/original.jpeg
+- file: images/galliformes/phasianidae/alectoris-melanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/597753570
+  author: Joey Bom
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597753570/original.jpg
 ---
 
 

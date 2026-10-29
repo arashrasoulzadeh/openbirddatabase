@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ramphiculus-merrilli/1.jpg
+  page: https://www.inaturalist.org/photos/455889345
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455889345/original.jpeg
+images:
+- file: images/columbiformes/columbidae/ramphiculus-merrilli/1.jpg
+  page: https://www.inaturalist.org/photos/455889345
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455889345/original.jpeg
+- file: images/columbiformes/columbidae/ramphiculus-merrilli/2.jpg
+  page: https://www.inaturalist.org/photos/261838229
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261838229/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-merrilli/3.jpg
+  page: https://www.inaturalist.org/photos/304818814
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304818814/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-merrilli/4.jpg
+  page: https://www.inaturalist.org/photos/304818807
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304818807/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-merrilli/5.jpg
+  page: https://www.inaturalist.org/photos/318936826
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318936826/original.jpeg
 ---
 
 

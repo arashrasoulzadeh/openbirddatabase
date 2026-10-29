@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/geospizopsis-plebejus/1.jpg
+  page: https://www.inaturalist.org/photos/610771769
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610771769/original.jpg
+images:
+- file: images/passeriformes/thraupidae/geospizopsis-plebejus/1.jpg
+  page: https://www.inaturalist.org/photos/610771769
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610771769/original.jpg
+- file: images/passeriformes/thraupidae/geospizopsis-plebejus/2.jpg
+  page: https://www.inaturalist.org/photos/616638785
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616638785/original.jpg
+- file: images/passeriformes/thraupidae/geospizopsis-plebejus/3.jpg
+  page: https://www.inaturalist.org/photos/624481376
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624481376/original.jpg
+- file: images/passeriformes/thraupidae/geospizopsis-plebejus/4.jpg
+  page: https://www.inaturalist.org/photos/636820695
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636820695/original.jpg
+- file: images/passeriformes/thraupidae/geospizopsis-plebejus/5.jpg
+  page: https://www.inaturalist.org/photos/659132190
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659132190/original.jpg
 ---
 
 

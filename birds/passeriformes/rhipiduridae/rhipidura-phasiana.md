@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-phasiana/1.jpg
+  page: https://www.inaturalist.org/photos/669398775
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669398775/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-phasiana/1.jpg
+  page: https://www.inaturalist.org/photos/669398775
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669398775/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-phasiana/2.jpg
+  page: https://www.inaturalist.org/photos/552576538
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552576538/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-phasiana/3.jpg
+  page: https://www.inaturalist.org/photos/434688720
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434688720/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-phasiana/4.jpg
+  page: https://www.inaturalist.org/photos/341530612
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341530612/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-phasiana/5.jpg
+  page: https://www.inaturalist.org/photos/44662497
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/44662497/original.jpg
 ---
 
 

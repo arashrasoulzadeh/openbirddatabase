@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/schistochlamys-melanopis/1.jpg
+  page: https://www.inaturalist.org/photos/607257197
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607257197/original.jpg
+images:
+- file: images/passeriformes/thraupidae/schistochlamys-melanopis/1.jpg
+  page: https://www.inaturalist.org/photos/607257197
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607257197/original.jpg
+- file: images/passeriformes/thraupidae/schistochlamys-melanopis/2.jpg
+  page: https://www.inaturalist.org/photos/623788317
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623788317/original.jpg
+- file: images/passeriformes/thraupidae/schistochlamys-melanopis/3.jpg
+  page: https://www.inaturalist.org/photos/723601257
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723601257/original.jpg
+- file: images/passeriformes/thraupidae/schistochlamys-melanopis/4.jpg
+  page: https://www.inaturalist.org/photos/733308663
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733308663/original.jpg
+- file: images/passeriformes/thraupidae/schistochlamys-melanopis/5.jpg
+  page: https://www.inaturalist.org/photos/733410086
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733410086/original.jpg
 ---
 
 

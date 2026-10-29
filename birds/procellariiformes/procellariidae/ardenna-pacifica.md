@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/ardenna-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/612727722
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612727722/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/ardenna-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/612727722
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612727722/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-pacifica/2.jpg
+  page: https://www.inaturalist.org/photos/612727760
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612727760/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-pacifica/3.jpg
+  page: https://www.inaturalist.org/photos/612727757
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612727757/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-pacifica/4.jpg
+  page: https://www.inaturalist.org/photos/612727768
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612727768/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-pacifica/5.jpg
+  page: https://www.inaturalist.org/photos/612727788
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612727788/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/phoeniculidae/phoeniculus-damarensis/1.jpg
+  page: https://www.inaturalist.org/photos/350206038
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350206038/original.jpeg
+images:
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-damarensis/1.jpg
+  page: https://www.inaturalist.org/photos/350206038
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350206038/original.jpeg
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-damarensis/2.jpg
+  page: https://www.inaturalist.org/photos/527815699
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527815699/original.jpg
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-damarensis/3.jpg
+  page: https://www.inaturalist.org/photos/116429597
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116429597/original.jpeg
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-damarensis/4.jpg
+  page: https://www.inaturalist.org/photos/350205974
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350205974/original.jpeg
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-damarensis/5.jpg
+  page: https://www.inaturalist.org/photos/527815725
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527815725/original.jpg
 ---
 
 

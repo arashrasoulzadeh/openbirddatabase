@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/598959451
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598959451/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/598959451
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598959451/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-madagascariensis/2.jpg
+  page: https://www.inaturalist.org/photos/443911812
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443911812/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-madagascariensis/3.jpg
+  page: https://www.inaturalist.org/photos/452742173
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452742173/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-madagascariensis/4.jpg
+  page: https://www.inaturalist.org/photos/455735671
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455735671/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-madagascariensis/5.jpg
+  page: https://www.inaturalist.org/photos/463678828
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463678828/original.jpg
 ---
 
 

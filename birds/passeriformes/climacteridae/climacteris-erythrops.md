@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/climacteridae/climacteris-erythrops/1.jpg
+  page: https://www.inaturalist.org/photos/609409497
+  author: Lukas Krug
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609409497/original.jpg
+images:
+- file: images/passeriformes/climacteridae/climacteris-erythrops/1.jpg
+  page: https://www.inaturalist.org/photos/609409497
+  author: Lukas Krug
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609409497/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-erythrops/2.jpg
+  page: https://www.inaturalist.org/photos/643141709
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643141709/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-erythrops/3.jpg
+  page: https://www.inaturalist.org/photos/691972134
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691972134/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-erythrops/4.jpg
+  page: https://www.inaturalist.org/photos/718379056
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718379056/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-erythrops/5.jpg
+  page: https://www.inaturalist.org/photos/716512372
+  author: John Cull
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716512372/original.jpg
 ---
 
 

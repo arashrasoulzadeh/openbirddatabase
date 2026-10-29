@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/micropsitta-geelvinkiana/1.jpg
+  page: https://www.inaturalist.org/photos/671417099
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671417099/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/micropsitta-geelvinkiana/1.jpg
+  page: https://www.inaturalist.org/photos/671417099
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671417099/original.jpg
+- file: images/psittaciformes/psittaculidae/micropsitta-geelvinkiana/2.jpg
+  page: https://www.inaturalist.org/photos/615435447
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615435447/original.jpg
+- file: images/psittaciformes/psittaculidae/micropsitta-geelvinkiana/3.jpg
+  page: https://www.inaturalist.org/photos/671417072
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671417072/original.jpg
+- file: images/psittaciformes/psittaculidae/micropsitta-geelvinkiana/4.jpg
+  page: https://www.inaturalist.org/photos/671417112
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671417112/original.jpg
+- file: images/psittaciformes/psittaculidae/micropsitta-geelvinkiana/5.jpg
+  page: https://www.inaturalist.org/photos/671417122
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671417122/original.jpg
 ---
 
 

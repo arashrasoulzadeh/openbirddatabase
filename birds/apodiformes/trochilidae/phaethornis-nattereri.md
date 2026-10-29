@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-nattereri/1.jpg
+  page: https://www.inaturalist.org/photos/740161917
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740161917/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-nattereri/1.jpg
+  page: https://www.inaturalist.org/photos/740161917
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740161917/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-nattereri/2.jpg
+  page: https://www.inaturalist.org/photos/434384693
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434384693/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-nattereri/3.jpg
+  page: https://www.inaturalist.org/photos/740161938
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740161938/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-nattereri/4.jpg
+  page: https://www.inaturalist.org/photos/434384790
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434384790/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-nattereri/5.jpg
+  page: https://www.inaturalist.org/photos/434384699
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434384699/original.jpeg
 ---
 
 

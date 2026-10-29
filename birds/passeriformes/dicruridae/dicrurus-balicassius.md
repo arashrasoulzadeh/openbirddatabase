@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-balicassius/1.jpg
+  page: https://www.inaturalist.org/photos/638252143
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638252143/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-balicassius/1.jpg
+  page: https://www.inaturalist.org/photos/638252143
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638252143/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-balicassius/2.jpg
+  page: https://www.inaturalist.org/photos/647887528
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647887528/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-balicassius/3.jpg
+  page: https://www.inaturalist.org/photos/644191796
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644191796/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-balicassius/4.jpg
+  page: https://www.inaturalist.org/photos/456310484
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456310484/original.jpeg
+- file: images/passeriformes/dicruridae/dicrurus-balicassius/5.jpg
+  page: https://www.inaturalist.org/photos/644191936
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644191936/original.jpg
 ---
 
 

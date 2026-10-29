@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/suthora-alphonsiana/1.jpg
+  page: https://www.inaturalist.org/photos/534302603
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534302603/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/suthora-alphonsiana/1.jpg
+  page: https://www.inaturalist.org/photos/534302603
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534302603/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-alphonsiana/2.jpg
+  page: https://www.inaturalist.org/photos/387751385
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387751385/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-alphonsiana/3.jpg
+  page: https://www.inaturalist.org/photos/409581949
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409581949/original.jpeg
+- file: images/passeriformes/paradoxornithidae/suthora-alphonsiana/4.jpg
+  page: https://www.inaturalist.org/photos/534302623
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534302623/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-alphonsiana/5.jpg
+  page: https://www.inaturalist.org/photos/534302616
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534302616/original.jpg
 ---
 
 

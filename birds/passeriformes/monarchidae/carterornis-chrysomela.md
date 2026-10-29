@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/carterornis-chrysomela/1.jpg
+  page: https://www.inaturalist.org/photos/711277428
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711277428/original.jpg
+images:
+- file: images/passeriformes/monarchidae/carterornis-chrysomela/1.jpg
+  page: https://www.inaturalist.org/photos/711277428
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711277428/original.jpg
+- file: images/passeriformes/monarchidae/carterornis-chrysomela/2.jpg
+  page: https://www.inaturalist.org/photos/565772573
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565772573/original.jpg
+- file: images/passeriformes/monarchidae/carterornis-chrysomela/3.jpg
+  page: https://www.inaturalist.org/photos/618869589
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618869589/original.jpg
+- file: images/passeriformes/monarchidae/carterornis-chrysomela/4.jpg
+  page: https://www.inaturalist.org/photos/337323027
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337323027/original.jpg
+- file: images/passeriformes/monarchidae/carterornis-chrysomela/5.jpg
+  page: https://www.inaturalist.org/photos/225200990
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225200990/original.jpg
 ---
 
 

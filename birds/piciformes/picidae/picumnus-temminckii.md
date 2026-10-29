@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/604543231
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543231/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/604543231
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543231/original.jpg
+- file: images/piciformes/picidae/picumnus-temminckii/2.jpg
+  page: https://www.inaturalist.org/photos/609332201
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609332201/original.jpg
+- file: images/piciformes/picidae/picumnus-temminckii/3.jpg
+  page: https://www.inaturalist.org/photos/610488767
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610488767/original.jpg
+- file: images/piciformes/picidae/picumnus-temminckii/4.jpg
+  page: https://www.inaturalist.org/photos/612764206
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612764206/original.jpg
+- file: images/piciformes/picidae/picumnus-temminckii/5.jpg
+  page: https://www.inaturalist.org/photos/615809958
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615809958/original.jpg
 ---
 
 

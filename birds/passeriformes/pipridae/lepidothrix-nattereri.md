@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/lepidothrix-nattereri/1.jpg
+  page: https://www.inaturalist.org/photos/591680549
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591680549/original.jpg
+images:
+- file: images/passeriformes/pipridae/lepidothrix-nattereri/1.jpg
+  page: https://www.inaturalist.org/photos/591680549
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591680549/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-nattereri/2.jpg
+  page: https://www.inaturalist.org/photos/611253501
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611253501/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-nattereri/3.jpg
+  page: https://www.inaturalist.org/photos/380586942
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380586942/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-nattereri/4.jpg
+  page: https://www.inaturalist.org/photos/428478237
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428478237/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-nattereri/5.jpg
+  page: https://www.inaturalist.org/photos/439996556
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439996556/original.jpg
 ---
 
 

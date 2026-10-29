@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/drymornis-bridgesii/1.jpg
+  page: https://www.inaturalist.org/photos/607784664
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784664/original.jpg
+images:
+- file: images/passeriformes/furnariidae/drymornis-bridgesii/1.jpg
+  page: https://www.inaturalist.org/photos/607784664
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784664/original.jpg
+- file: images/passeriformes/furnariidae/drymornis-bridgesii/2.jpg
+  page: https://www.inaturalist.org/photos/635441701
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635441701/original.jpg
+- file: images/passeriformes/furnariidae/drymornis-bridgesii/3.jpg
+  page: https://www.inaturalist.org/photos/628628500
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628628500/original.jpg
+- file: images/passeriformes/furnariidae/drymornis-bridgesii/4.jpg
+  page: https://www.inaturalist.org/photos/628571962
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628571962/original.jpg
+- file: images/passeriformes/furnariidae/drymornis-bridgesii/5.jpg
+  page: https://www.inaturalist.org/photos/637736373
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637736373/original.jpg
 ---
 
 

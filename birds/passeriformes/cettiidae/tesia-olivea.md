@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/tesia-olivea/1.jpg
+  page: https://www.inaturalist.org/photos/623840613
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623840613/original.jpg
+images:
+- file: images/passeriformes/cettiidae/tesia-olivea/1.jpg
+  page: https://www.inaturalist.org/photos/623840613
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623840613/original.jpg
+- file: images/passeriformes/cettiidae/tesia-olivea/2.jpg
+  page: https://www.inaturalist.org/photos/468022549
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468022549/original.jpeg
+- file: images/passeriformes/cettiidae/tesia-olivea/3.jpg
+  page: https://www.inaturalist.org/photos/263761339
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263761339/original.jpeg
+- file: images/passeriformes/cettiidae/tesia-olivea/4.jpg
+  page: https://www.inaturalist.org/photos/230135578
+  author: Thompson Hyggen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230135578/original.jpg
+- file: images/passeriformes/cettiidae/tesia-olivea/5.jpg
+  page: https://www.inaturalist.org/photos/94316928
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94316928/original.jpeg
 ---
 
 

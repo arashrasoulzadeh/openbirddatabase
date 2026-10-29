@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/prionops-caniceps/1.jpg
+  page: https://www.inaturalist.org/photos/351063138
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063138/original.png
+images:
+- file: images/passeriformes/vangidae/prionops-caniceps/1.jpg
+  page: https://www.inaturalist.org/photos/351063138
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063138/original.png
+- file: images/passeriformes/vangidae/prionops-caniceps/2.jpg
+  page: https://www.inaturalist.org/photos/344850563
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344850563/original.jpeg
+- file: images/passeriformes/vangidae/prionops-caniceps/3.jpg
+  page: https://www.inaturalist.org/photos/173706080
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173706080/original.jpg
+- file: images/passeriformes/vangidae/prionops-caniceps/4.jpg
+  page: https://www.inaturalist.org/photos/180715603
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180715603/original.jpg
+- file: images/passeriformes/vangidae/prionops-caniceps/5.jpg
+  page: https://www.inaturalist.org/photos/106654036
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106654036/original.jpg
 ---
 
 

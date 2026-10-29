@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/procellariiformes/procellariidae/pachyptila-turtur/1.jpg
+  page: https://www.inaturalist.org/photos/605243243
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243243/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pachyptila-turtur/1.jpg
+  page: https://www.inaturalist.org/photos/605243243
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243243/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-turtur/2.jpg
+  page: https://www.inaturalist.org/photos/610612493
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610612493/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-turtur/3.jpg
+  page: https://www.inaturalist.org/photos/610579717
+  author: Arnim Littek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610579717/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-turtur/4.jpg
+  page: https://www.inaturalist.org/photos/614979564
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614979564/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-turtur/5.jpg
+  page: https://www.inaturalist.org/photos/625188044
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625188044/original.jpg
 ---
 
 

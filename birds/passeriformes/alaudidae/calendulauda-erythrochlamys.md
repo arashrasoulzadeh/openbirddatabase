@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/calendulauda-erythrochlamys/1.jpg
+  page: https://www.inaturalist.org/photos/521954009
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521954009/original.jpg
+images:
+- file: images/passeriformes/alaudidae/calendulauda-erythrochlamys/1.jpg
+  page: https://www.inaturalist.org/photos/521954009
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521954009/original.jpg
+- file: images/passeriformes/alaudidae/calendulauda-erythrochlamys/2.jpg
+  page: https://www.inaturalist.org/photos/598781138
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598781138/original.jpg
+- file: images/passeriformes/alaudidae/calendulauda-erythrochlamys/3.jpg
+  page: https://www.inaturalist.org/photos/411497938
+  author: Jonas Kraft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411497938/original.jpg
+- file: images/passeriformes/alaudidae/calendulauda-erythrochlamys/4.jpg
+  page: https://www.inaturalist.org/photos/588339061
+  author: Maurice Hoffmann
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588339061/original.jpg
+- file: images/passeriformes/alaudidae/calendulauda-erythrochlamys/5.jpg
+  page: https://www.inaturalist.org/photos/319124672
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/319124672/original.jpeg
 ---
 
 

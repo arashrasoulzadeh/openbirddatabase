@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/anseriformes/anatidae/netta-rufina/1.jpg
+  page: https://www.inaturalist.org/photos/604790668
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604790668/original.jpg
+images:
+- file: images/anseriformes/anatidae/netta-rufina/1.jpg
+  page: https://www.inaturalist.org/photos/604790668
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604790668/original.jpg
+- file: images/anseriformes/anatidae/netta-rufina/2.jpg
+  page: https://www.inaturalist.org/photos/610168626
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610168626/original.jpg
+- file: images/anseriformes/anatidae/netta-rufina/3.jpg
+  page: https://www.inaturalist.org/photos/609198965
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609198965/original.jpg
+- file: images/anseriformes/anatidae/netta-rufina/4.jpg
+  page: https://www.inaturalist.org/photos/606233070
+  author: Marcello Manara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606233070/original.jpg
+- file: images/anseriformes/anatidae/netta-rufina/5.jpg
+  page: https://www.inaturalist.org/photos/606918974
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606918974/original.jpg
 ---
 
 

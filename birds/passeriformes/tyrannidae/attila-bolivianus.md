@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/attila-bolivianus/1.jpg
+  page: https://www.inaturalist.org/photos/704885390
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704885390/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/attila-bolivianus/1.jpg
+  page: https://www.inaturalist.org/photos/704885390
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704885390/original.jpg
+- file: images/passeriformes/tyrannidae/attila-bolivianus/2.jpg
+  page: https://www.inaturalist.org/photos/588424230
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588424230/original.jpg
+- file: images/passeriformes/tyrannidae/attila-bolivianus/3.jpg
+  page: https://www.inaturalist.org/photos/605956352
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605956352/original.jpg
+- file: images/passeriformes/tyrannidae/attila-bolivianus/4.jpg
+  page: https://www.inaturalist.org/photos/424591783
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424591783/original.jpg
+- file: images/passeriformes/tyrannidae/attila-bolivianus/5.jpg
+  page: https://www.inaturalist.org/photos/288300213
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288300213/original.jpeg
 ---
 
 

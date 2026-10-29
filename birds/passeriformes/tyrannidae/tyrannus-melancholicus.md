@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-melancholicus/1.jpg
+  page: https://www.inaturalist.org/photos/605188440
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605188440/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-melancholicus/1.jpg
+  page: https://www.inaturalist.org/photos/605188440
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605188440/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-melancholicus/2.jpg
+  page: https://www.inaturalist.org/photos/605691513
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605691513/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-melancholicus/3.jpg
+  page: https://www.inaturalist.org/photos/605356700
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356700/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-melancholicus/4.jpg
+  page: https://www.inaturalist.org/photos/604540967
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604540967/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-melancholicus/5.jpg
+  page: https://www.inaturalist.org/photos/605729559
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729559/original.jpg
 ---
 
 

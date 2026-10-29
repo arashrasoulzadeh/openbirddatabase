@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-nobilis/1.jpg
+  page: https://www.inaturalist.org/photos/236794251
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236794251/original.jpeg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-nobilis/1.jpg
+  page: https://www.inaturalist.org/photos/236794251
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236794251/original.jpeg
+- file: images/charadriiformes/scolopacidae/gallinago-nobilis/2.jpg
+  page: https://www.inaturalist.org/photos/17068922
+  author: Sergio Hernando Álvarez Garnica
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17068922/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-nobilis/3.jpg
+  page: https://www.inaturalist.org/photos/107119101
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107119101/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-nobilis/4.jpg
+  page: https://www.inaturalist.org/photos/236794313
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236794313/original.jpeg
+- file: images/charadriiformes/scolopacidae/gallinago-nobilis/5.jpg
+  page: https://www.inaturalist.org/photos/236794360
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236794360/original.jpeg
 ---
 
 

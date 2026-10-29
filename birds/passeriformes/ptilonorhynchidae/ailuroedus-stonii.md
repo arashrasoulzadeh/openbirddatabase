@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptilonorhynchidae/ailuroedus-stonii/1.jpg
+  page: https://www.inaturalist.org/photos/82238720
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82238720/original.jpg
+images:
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-stonii/1.jpg
+  page: https://www.inaturalist.org/photos/82238720
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82238720/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-stonii/2.jpg
+  page: https://www.inaturalist.org/photos/82238692
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82238692/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-stonii/3.jpg
+  page: https://www.inaturalist.org/photos/82238732
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82238732/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-stonii/4.jpg
+  page: https://www.inaturalist.org/photos/82238752
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82238752/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-stonii/5.jpg
+  page: https://www.inaturalist.org/photos/82238767
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82238767/original.jpg
 ---
 
 

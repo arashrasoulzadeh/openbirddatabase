@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-kirkii/1.jpg
+  page: https://www.inaturalist.org/photos/617507850
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507850/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-kirkii/1.jpg
+  page: https://www.inaturalist.org/photos/617507850
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507850/original.jpg
+- file: images/piciformes/picidae/veniliornis-kirkii/2.jpg
+  page: https://www.inaturalist.org/photos/618520584
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618520584/original.jpg
+- file: images/piciformes/picidae/veniliornis-kirkii/3.jpg
+  page: https://www.inaturalist.org/photos/675727868
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675727868/original.jpg
+- file: images/piciformes/picidae/veniliornis-kirkii/4.jpg
+  page: https://www.inaturalist.org/photos/696570427
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696570427/original.jpg
+- file: images/piciformes/picidae/veniliornis-kirkii/5.jpg
+  page: https://www.inaturalist.org/photos/699606538
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699606538/original.jpg
 ---
 
 

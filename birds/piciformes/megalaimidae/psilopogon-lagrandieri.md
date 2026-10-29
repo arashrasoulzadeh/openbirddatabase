@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 43.1
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 132.4
   tail_length_mm: 85.2
   body_mass_g: 93.0
+image:
+  file: images/piciformes/megalaimidae/psilopogon-lagrandieri/1.jpg
+  page: https://www.inaturalist.org/photos/396715162
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396715162/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-lagrandieri/1.jpg
+  page: https://www.inaturalist.org/photos/396715162
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396715162/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-lagrandieri/2.jpg
+  page: https://www.inaturalist.org/photos/80656014
+  author: bigayon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/80656014/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-lagrandieri/3.jpg
+  page: https://www.inaturalist.org/photos/64607684
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64607684/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-lagrandieri/4.jpg
+  page: https://www.inaturalist.org/photos/396715164
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396715164/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-lagrandieri/5.jpg
+  page: https://www.inaturalist.org/photos/64607669
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64607669/original.jpg
 ---
 
 

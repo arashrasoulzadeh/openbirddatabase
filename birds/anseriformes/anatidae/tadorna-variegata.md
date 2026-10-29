@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/anseriformes/anatidae/tadorna-variegata/1.jpg
+  page: https://www.inaturalist.org/photos/605542959
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605542959/original.jpg
+images:
+- file: images/anseriformes/anatidae/tadorna-variegata/1.jpg
+  page: https://www.inaturalist.org/photos/605542959
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605542959/original.jpg
+- file: images/anseriformes/anatidae/tadorna-variegata/2.jpg
+  page: https://www.inaturalist.org/photos/604984402
+  author: peresol
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604984402/original.jpg
+- file: images/anseriformes/anatidae/tadorna-variegata/3.jpg
+  page: https://www.inaturalist.org/photos/604665764
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604665764/original.jpg
+- file: images/anseriformes/anatidae/tadorna-variegata/4.jpg
+  page: https://www.inaturalist.org/photos/607769651
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607769651/original.jpg
+- file: images/anseriformes/anatidae/tadorna-variegata/5.jpg
+  page: https://www.inaturalist.org/photos/607039500
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607039500/original.jpg
 ---
 
 

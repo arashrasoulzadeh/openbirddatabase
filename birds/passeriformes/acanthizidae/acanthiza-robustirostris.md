@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/acanthiza-robustirostris/1.jpg
+  page: https://www.inaturalist.org/photos/449547437
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449547437/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthiza-robustirostris/1.jpg
+  page: https://www.inaturalist.org/photos/449547437
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449547437/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-robustirostris/2.jpg
+  page: https://www.inaturalist.org/photos/225447687
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225447687/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-robustirostris/3.jpg
+  page: https://www.inaturalist.org/photos/336165765
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336165765/original.jpeg
+- file: images/passeriformes/acanthizidae/acanthiza-robustirostris/4.jpg
+  page: https://www.inaturalist.org/photos/439333490
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333490/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-robustirostris/5.jpg
+  page: https://www.inaturalist.org/photos/225447668
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225447668/original.jpg
 ---
 
 

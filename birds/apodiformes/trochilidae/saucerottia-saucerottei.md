@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/saucerottia-saucerottei/1.jpg
+  page: https://www.inaturalist.org/photos/612974195
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612974195/original.jpg
+images:
+- file: images/apodiformes/trochilidae/saucerottia-saucerottei/1.jpg
+  page: https://www.inaturalist.org/photos/612974195
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612974195/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-saucerottei/2.jpg
+  page: https://www.inaturalist.org/photos/612267275
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612267275/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-saucerottei/3.jpg
+  page: https://www.inaturalist.org/photos/617307212
+  author: Catalina Ayala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617307212/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-saucerottei/4.jpg
+  page: https://www.inaturalist.org/photos/623916537
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623916537/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-saucerottei/5.jpg
+  page: https://www.inaturalist.org/photos/652851516
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652851516/original.jpg
 ---
 
 

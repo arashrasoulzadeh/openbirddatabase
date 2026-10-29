@@ -157,8 +157,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/anous-ceruleus/1.jpg
+  page: https://www.inaturalist.org/photos/726221649
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726221649/original.jpg
+images:
+- file: images/charadriiformes/laridae/anous-ceruleus/1.jpg
+  page: https://www.inaturalist.org/photos/726221649
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726221649/original.jpg
+- file: images/charadriiformes/laridae/anous-ceruleus/2.jpg
+  page: https://www.inaturalist.org/photos/27522324
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27522324/original.jpg
+- file: images/charadriiformes/laridae/anous-ceruleus/3.jpg
+  page: https://www.inaturalist.org/photos/358467090
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358467090/original.jpg
+- file: images/charadriiformes/laridae/anous-ceruleus/4.jpg
+  page: https://www.inaturalist.org/photos/724490769
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724490769/original.jpg
 ---
 
 

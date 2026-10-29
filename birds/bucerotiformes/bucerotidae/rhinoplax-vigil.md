@@ -140,8 +140,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/rhinoplax-vigil/1.jpg
+  page: https://www.inaturalist.org/photos/569973955
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569973955/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/rhinoplax-vigil/1.jpg
+  page: https://www.inaturalist.org/photos/569973955
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569973955/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhinoplax-vigil/2.jpg
+  page: https://www.inaturalist.org/photos/230724056
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230724056/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhinoplax-vigil/3.jpg
+  page: https://www.inaturalist.org/photos/546751604
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546751604/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhinoplax-vigil/4.jpg
+  page: https://www.inaturalist.org/photos/546751602
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546751602/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhinoplax-vigil/5.jpg
+  page: https://www.inaturalist.org/photos/546751601
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546751601/original.jpg
 ---
 
 

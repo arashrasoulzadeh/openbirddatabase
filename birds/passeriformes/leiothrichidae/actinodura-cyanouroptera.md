@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.7
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 65.3
   tail_length_mm: 69.7
   body_mass_g: 17.0
+image:
+  file: images/passeriformes/leiothrichidae/actinodura-cyanouroptera/1.jpg
+  page: https://www.inaturalist.org/photos/610128659
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610128659/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/actinodura-cyanouroptera/1.jpg
+  page: https://www.inaturalist.org/photos/610128659
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610128659/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-cyanouroptera/2.jpg
+  page: https://www.inaturalist.org/photos/617114271
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114271/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-cyanouroptera/3.jpg
+  page: https://www.inaturalist.org/photos/615635771
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635771/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-cyanouroptera/4.jpg
+  page: https://www.inaturalist.org/photos/623094208
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623094208/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-cyanouroptera/5.jpg
+  page: https://www.inaturalist.org/photos/626240062
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626240062/original.jpg
 ---
 
 

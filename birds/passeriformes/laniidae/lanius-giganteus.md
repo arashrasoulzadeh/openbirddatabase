@@ -125,8 +125,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-giganteus/1.jpg
+  page: https://www.inaturalist.org/photos/521250038
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521250038/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-giganteus/1.jpg
+  page: https://www.inaturalist.org/photos/521250038
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521250038/original.jpg
+- file: images/passeriformes/laniidae/lanius-giganteus/2.jpg
+  page: https://www.inaturalist.org/photos/567304521
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567304521/original.jpg
+- file: images/passeriformes/laniidae/lanius-giganteus/3.jpg
+  page: https://www.inaturalist.org/photos/347589413
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347589413/original.jpg
+- file: images/passeriformes/laniidae/lanius-giganteus/4.jpg
+  page: https://www.inaturalist.org/photos/567304693
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567304693/original.jpg
+- file: images/passeriformes/laniidae/lanius-giganteus/5.jpg
+  page: https://www.inaturalist.org/photos/567304739
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567304739/original.jpg
 ---
 
 

@@ -142,8 +142,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/683421669
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683421669/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/683421669
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683421669/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-ruficauda/2.jpg
+  page: https://www.inaturalist.org/photos/340258061
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340258061/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-ruficauda/3.jpg
+  page: https://www.inaturalist.org/photos/683422115
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683422115/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-ruficauda/4.jpg
+  page: https://www.inaturalist.org/photos/340258079
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340258079/original.jpeg
 ---
 
 

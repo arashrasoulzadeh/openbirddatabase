@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/corythornis-vintsioides/1.jpg
+  page: https://www.inaturalist.org/photos/661930268
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661930268/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/corythornis-vintsioides/1.jpg
+  page: https://www.inaturalist.org/photos/661930268
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661930268/original.jpg
+- file: images/coraciiformes/alcedinidae/corythornis-vintsioides/2.jpg
+  page: https://www.inaturalist.org/photos/694150673
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694150673/original.jpg
+- file: images/coraciiformes/alcedinidae/corythornis-vintsioides/3.jpg
+  page: https://www.inaturalist.org/photos/691360680
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691360680/original.jpg
+- file: images/coraciiformes/alcedinidae/corythornis-vintsioides/4.jpg
+  page: https://www.inaturalist.org/photos/661930455
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661930455/original.jpg
+- file: images/coraciiformes/alcedinidae/corythornis-vintsioides/5.jpg
+  page: https://www.inaturalist.org/photos/661930713
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661930713/original.jpg
 ---
 
 

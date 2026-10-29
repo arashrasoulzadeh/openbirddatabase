@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/chlorophonia-callophrys/1.jpg
+  page: https://www.inaturalist.org/photos/607242104
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242104/original.jpg
+images:
+- file: images/passeriformes/fringillidae/chlorophonia-callophrys/1.jpg
+  page: https://www.inaturalist.org/photos/607242104
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242104/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-callophrys/2.jpg
+  page: https://www.inaturalist.org/photos/606265190
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606265190/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-callophrys/3.jpg
+  page: https://www.inaturalist.org/photos/623105859
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623105859/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-callophrys/4.jpg
+  page: https://www.inaturalist.org/photos/663650595
+  author: Corey Farwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663650595/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-callophrys/5.jpg
+  page: https://www.inaturalist.org/photos/648876887
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648876887/original.jpg
 ---
 
 

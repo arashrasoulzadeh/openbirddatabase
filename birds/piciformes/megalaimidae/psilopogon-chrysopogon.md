@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-chrysopogon/1.jpg
+  page: https://www.inaturalist.org/photos/664157932
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664157932/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-chrysopogon/1.jpg
+  page: https://www.inaturalist.org/photos/664157932
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664157932/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-chrysopogon/2.jpg
+  page: https://www.inaturalist.org/photos/519730717
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519730717/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-chrysopogon/3.jpg
+  page: https://www.inaturalist.org/photos/537001422
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537001422/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-chrysopogon/4.jpg
+  page: https://www.inaturalist.org/photos/519730733
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519730733/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-chrysopogon/5.jpg
+  page: https://www.inaturalist.org/photos/519730760
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519730760/original.jpg
 ---
 
 

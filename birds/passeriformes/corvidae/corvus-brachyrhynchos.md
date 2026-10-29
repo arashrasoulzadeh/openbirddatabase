@@ -214,10 +214,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/corvidae/corvus-brachyrhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/605349616
+  author: Anne Parsons
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605349616/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-brachyrhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/605349616
+  author: Anne Parsons
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605349616/original.jpg
+- file: images/passeriformes/corvidae/corvus-brachyrhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/604641373
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604641373/original.jpg
+- file: images/passeriformes/corvidae/corvus-brachyrhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/605182594
+  author: Corey Stafford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605182594/original.jpg
+- file: images/passeriformes/corvidae/corvus-brachyrhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/604542450
+  author: Connor Sites-Bowen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604542450/original.jpg
+- file: images/passeriformes/corvidae/corvus-brachyrhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/604483350
+  author: Tyler
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604483350/original.jpg
 ---
 
 

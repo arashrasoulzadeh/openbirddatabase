@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/605696403
+  author: nleiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605696403/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/605696403
+  author: nleiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605696403/original.jpg
+- file: images/accipitriformes/accipitridae/circus-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/608788439
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608788439/original.jpg
+- file: images/accipitriformes/accipitridae/circus-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/613752462
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613752462/original.jpg
+- file: images/accipitriformes/accipitridae/circus-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/618867281
+  author: Maura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618867281/original.jpg
+- file: images/accipitriformes/accipitridae/circus-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/626227825
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626227825/original.jpg
 ---
 
 

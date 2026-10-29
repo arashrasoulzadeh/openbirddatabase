@@ -231,10 +231,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/psittaciformes/psittacidae/pionus-menstruus/1.jpg
+  page: https://www.inaturalist.org/photos/604520991
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604520991/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pionus-menstruus/1.jpg
+  page: https://www.inaturalist.org/photos/604520991
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604520991/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-menstruus/2.jpg
+  page: https://www.inaturalist.org/photos/610014635
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014635/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-menstruus/3.jpg
+  page: https://www.inaturalist.org/photos/609341396
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609341396/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-menstruus/4.jpg
+  page: https://www.inaturalist.org/photos/612378186
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612378186/original.jpg
+- file: images/psittaciformes/psittacidae/pionus-menstruus/5.jpg
+  page: https://www.inaturalist.org/photos/608235985
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608235985/original.jpg
 ---
 
 

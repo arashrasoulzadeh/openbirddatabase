@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/xenopsaris-albinucha/1.jpg
+  page: https://www.inaturalist.org/photos/605494261
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494261/original.jpg
+images:
+- file: images/passeriformes/tityridae/xenopsaris-albinucha/1.jpg
+  page: https://www.inaturalist.org/photos/605494261
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494261/original.jpg
+- file: images/passeriformes/tityridae/xenopsaris-albinucha/2.jpg
+  page: https://www.inaturalist.org/photos/643253177
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643253177/original.jpg
+- file: images/passeriformes/tityridae/xenopsaris-albinucha/3.jpg
+  page: https://www.inaturalist.org/photos/630732626
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630732626/original.jpg
+- file: images/passeriformes/tityridae/xenopsaris-albinucha/4.jpg
+  page: https://www.inaturalist.org/photos/693908131
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693908131/original.jpg
+- file: images/passeriformes/tityridae/xenopsaris-albinucha/5.jpg
+  page: https://www.inaturalist.org/photos/470197461
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470197461/original.jpg
 ---
 
 

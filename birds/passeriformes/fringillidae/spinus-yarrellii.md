@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 10.8
@@ -152,6 +153,20 @@ morphology:
   wing_length_mm: 61.9
   tail_length_mm: 39.0
   body_mass_g: 10.5
+image:
+  file: images/passeriformes/fringillidae/spinus-yarrellii/1.jpg
+  page: https://www.inaturalist.org/photos/258387418
+  author: Matthew Berigan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258387418/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-yarrellii/1.jpg
+  page: https://www.inaturalist.org/photos/258387418
+  author: Matthew Berigan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258387418/original.jpg
 ---
 
 

@@ -127,8 +127,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-camarinensis/1.jpg
+  page: https://www.inaturalist.org/photos/569154762
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569154762/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-camarinensis/1.jpg
+  page: https://www.inaturalist.org/photos/569154762
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569154762/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-camarinensis/2.jpg
+  page: https://www.inaturalist.org/photos/569154761
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569154761/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-camarinensis/3.jpg
+  page: https://www.inaturalist.org/photos/569154763
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569154763/original.jpg
 ---
 
 

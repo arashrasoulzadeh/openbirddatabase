@@ -131,7 +131,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 23.3
@@ -141,6 +142,32 @@ morphology:
   body_mass_g: 62.5
 reproduction:
   clutch_size_mean: 2.9
+image:
+  file: images/passeriformes/turdidae/turdus-mupinensis/1.jpg
+  page: https://www.inaturalist.org/photos/519162338
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519162338/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-mupinensis/1.jpg
+  page: https://www.inaturalist.org/photos/519162338
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519162338/original.jpg
+- file: images/passeriformes/turdidae/turdus-mupinensis/2.jpg
+  page: https://www.inaturalist.org/photos/483039871
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483039871/original.jpg
+- file: images/passeriformes/turdidae/turdus-mupinensis/3.jpg
+  page: https://www.inaturalist.org/photos/519162323
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519162323/original.jpg
 ---
 
 

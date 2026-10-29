@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/inezia-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/739186798
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739186798/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/inezia-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/739186798
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739186798/original.jpg
+- file: images/passeriformes/tyrannidae/inezia-inornata/2.jpg
+  page: https://www.inaturalist.org/photos/743326307
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743326307/original.jpg
+- file: images/passeriformes/tyrannidae/inezia-inornata/3.jpg
+  page: https://www.inaturalist.org/photos/745783147
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745783147/original.jpg
+- file: images/passeriformes/tyrannidae/inezia-inornata/4.jpg
+  page: https://www.inaturalist.org/photos/311563111
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311563111/original.jpeg
+- file: images/passeriformes/tyrannidae/inezia-inornata/5.jpg
+  page: https://www.inaturalist.org/photos/339575870
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339575870/original.jpeg
 ---
 
 

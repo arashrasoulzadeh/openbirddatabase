@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/amblycercus-holosericeus/1.jpg
+  page: https://www.inaturalist.org/photos/607717334
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607717334/original.jpg
+images:
+- file: images/passeriformes/icteridae/amblycercus-holosericeus/1.jpg
+  page: https://www.inaturalist.org/photos/607717334
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607717334/original.jpg
+- file: images/passeriformes/icteridae/amblycercus-holosericeus/2.jpg
+  page: https://www.inaturalist.org/photos/472305843
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472305843/original.jpeg
+- file: images/passeriformes/icteridae/amblycercus-holosericeus/3.jpg
+  page: https://www.flickr.com/photos/cricketsblog/54401902189/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478470259/original.jpg
+- file: images/passeriformes/icteridae/amblycercus-holosericeus/4.jpg
+  page: https://www.inaturalist.org/photos/491696963
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491696963/original.jpeg
+- file: images/passeriformes/icteridae/amblycercus-holosericeus/5.jpg
+  page: https://www.inaturalist.org/photos/598093265
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598093265/original.jpg
 ---
 
 

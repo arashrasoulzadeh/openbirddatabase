@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/tetraogallus-himalayensis/1.jpg
+  page: https://www.inaturalist.org/photos/418526691
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418526691/original.jpg
+images:
+- file: images/galliformes/phasianidae/tetraogallus-himalayensis/1.jpg
+  page: https://www.inaturalist.org/photos/418526691
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418526691/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-himalayensis/2.jpg
+  page: https://www.inaturalist.org/photos/618214717
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618214717/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-himalayensis/3.jpg
+  page: https://www.inaturalist.org/photos/265472283
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265472283/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-himalayensis/4.jpg
+  page: https://www.inaturalist.org/photos/511303990
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511303990/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-himalayensis/5.jpg
+  page: https://www.inaturalist.org/photos/243192941
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243192941/original.jpeg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/ognorhynchus-icterotis/1.jpg
+  page: https://www.inaturalist.org/photos/622961410
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622961410/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/ognorhynchus-icterotis/1.jpg
+  page: https://www.inaturalist.org/photos/622961410
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622961410/original.jpg
+- file: images/psittaciformes/psittacidae/ognorhynchus-icterotis/2.jpg
+  page: https://www.inaturalist.org/photos/652805953
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652805953/original.jpg
+- file: images/psittaciformes/psittacidae/ognorhynchus-icterotis/3.jpg
+  page: https://www.inaturalist.org/photos/718158938
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718158938/original.jpg
+- file: images/psittaciformes/psittacidae/ognorhynchus-icterotis/4.jpg
+  page: https://www.inaturalist.org/photos/469693336
+  author: Reserva Natural Māno Wai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469693336/original.png
+- file: images/psittaciformes/psittacidae/ognorhynchus-icterotis/5.jpg
+  page: https://www.inaturalist.org/photos/489430104
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489430104/original.jpg
 ---
 
 

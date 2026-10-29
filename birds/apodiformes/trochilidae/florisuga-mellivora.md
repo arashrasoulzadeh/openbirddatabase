@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/florisuga-mellivora/1.jpg
+  page: https://www.inaturalist.org/photos/607344823
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607344823/original.jpg
+images:
+- file: images/apodiformes/trochilidae/florisuga-mellivora/1.jpg
+  page: https://www.inaturalist.org/photos/607344823
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607344823/original.jpg
+- file: images/apodiformes/trochilidae/florisuga-mellivora/2.jpg
+  page: https://www.inaturalist.org/photos/609077509
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609077509/original.jpg
+- file: images/apodiformes/trochilidae/florisuga-mellivora/3.jpg
+  page: https://www.inaturalist.org/photos/608024348
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608024348/original.jpg
+- file: images/apodiformes/trochilidae/florisuga-mellivora/4.jpg
+  page: https://www.inaturalist.org/photos/606618368
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606618368/original.jpg
+- file: images/apodiformes/trochilidae/florisuga-mellivora/5.jpg
+  page: https://www.inaturalist.org/photos/608794702
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608794702/original.jpg
 ---
 
 

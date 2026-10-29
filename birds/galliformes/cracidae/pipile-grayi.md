@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/pipile-grayi/1.jpg
+  page: https://www.inaturalist.org/photos/604521009
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604521009/original.jpg
+images:
+- file: images/galliformes/cracidae/pipile-grayi/1.jpg
+  page: https://www.inaturalist.org/photos/604521009
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604521009/original.jpg
+- file: images/galliformes/cracidae/pipile-grayi/2.jpg
+  page: https://www.inaturalist.org/photos/606020839
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606020839/original.jpg
+- file: images/galliformes/cracidae/pipile-grayi/3.jpg
+  page: https://www.inaturalist.org/photos/652714700
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652714700/original.jpg
+- file: images/galliformes/cracidae/pipile-grayi/4.jpg
+  page: https://www.inaturalist.org/photos/684141759
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684141759/original.jpg
+- file: images/galliformes/cracidae/pipile-grayi/5.jpg
+  page: https://www.inaturalist.org/photos/701113231
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701113231/original.jpg
 ---
 
 

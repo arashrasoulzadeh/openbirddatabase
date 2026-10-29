@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/coraciidae/coracias-abyssinicus/1.jpg
+  page: https://www.inaturalist.org/photos/612511031
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612511031/original.jpg
+images:
+- file: images/coraciiformes/coraciidae/coracias-abyssinicus/1.jpg
+  page: https://www.inaturalist.org/photos/612511031
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612511031/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-abyssinicus/2.jpg
+  page: https://www.inaturalist.org/photos/631136307
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631136307/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-abyssinicus/3.jpg
+  page: https://www.inaturalist.org/photos/639763898
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639763898/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-abyssinicus/4.jpg
+  page: https://www.inaturalist.org/photos/612511032
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612511032/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-abyssinicus/5.jpg
+  page: https://www.inaturalist.org/photos/612514646
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612514646/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-reguloides/1.jpg
+  page: https://www.inaturalist.org/photos/719479265
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719479265/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-reguloides/1.jpg
+  page: https://www.inaturalist.org/photos/719479265
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719479265/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-reguloides/2.jpg
+  page: https://www.inaturalist.org/photos/544310454
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544310454/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-reguloides/3.jpg
+  page: https://www.inaturalist.org/photos/572589337
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572589337/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-reguloides/4.jpg
+  page: https://www.inaturalist.org/photos/386383403
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386383403/original.jpeg
+- file: images/passeriformes/phylloscopidae/phylloscopus-reguloides/5.jpg
+  page: https://www.inaturalist.org/photos/601195733
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601195733/original.jpg
 ---
 
 

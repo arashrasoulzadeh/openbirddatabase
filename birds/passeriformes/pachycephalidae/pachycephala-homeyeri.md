@@ -140,8 +140,41 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-homeyeri/1.jpg
+  page: https://www.inaturalist.org/photos/264807744
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264807744/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-homeyeri/1.jpg
+  page: https://www.inaturalist.org/photos/264807744
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264807744/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-homeyeri/2.jpg
+  page: https://www.inaturalist.org/photos/236183093
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236183093/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-homeyeri/3.jpg
+  page: https://www.inaturalist.org/photos/236187972
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236187972/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-homeyeri/4.jpg
+  page: https://www.inaturalist.org/photos/236187995
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236187995/original.jpg
 ---
 
 

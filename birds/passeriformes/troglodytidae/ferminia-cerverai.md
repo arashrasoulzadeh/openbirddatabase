@@ -140,7 +140,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 17.2
@@ -148,6 +149,44 @@ morphology:
   wing_length_mm: 52.0
   tail_length_mm: 62.0
   body_mass_g: 26.0
+image:
+  file: images/passeriformes/troglodytidae/ferminia-cerverai/1.jpg
+  page: https://www.inaturalist.org/photos/625714566
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625714566/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/ferminia-cerverai/1.jpg
+  page: https://www.inaturalist.org/photos/625714566
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625714566/original.jpg
+- file: images/passeriformes/troglodytidae/ferminia-cerverai/2.jpg
+  page: https://www.inaturalist.org/photos/636058229
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636058229/original.jpg
+- file: images/passeriformes/troglodytidae/ferminia-cerverai/3.jpg
+  page: https://www.inaturalist.org/photos/354280134
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354280134/original.jpg
+- file: images/passeriformes/troglodytidae/ferminia-cerverai/4.jpg
+  page: https://www.inaturalist.org/photos/187004990
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187004990/original.jpg
+- file: images/passeriformes/troglodytidae/ferminia-cerverai/5.jpg
+  page: https://www.inaturalist.org/photos/303901337
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303901337/original.jpg
 ---
 
 

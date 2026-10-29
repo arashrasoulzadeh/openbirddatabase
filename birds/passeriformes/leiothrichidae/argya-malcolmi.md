@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/argya-malcolmi/1.jpg
+  page: https://www.inaturalist.org/photos/607680062
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607680062/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/argya-malcolmi/1.jpg
+  page: https://www.inaturalist.org/photos/607680062
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607680062/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-malcolmi/2.jpg
+  page: https://www.inaturalist.org/photos/608612900
+  author: citi2024
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608612900/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-malcolmi/3.jpg
+  page: https://www.inaturalist.org/photos/618388963
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388963/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-malcolmi/4.jpg
+  page: https://www.inaturalist.org/photos/628251745
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628251745/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-malcolmi/5.jpg
+  page: https://www.inaturalist.org/photos/643505882
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643505882/original.jpg
 ---
 
 

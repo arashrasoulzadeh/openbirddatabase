@@ -128,7 +128,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 53.6
@@ -143,6 +144,44 @@ reproduction:
   fledging_days: 44
 demography:
   max_longevity_years: 34
+image:
+  file: images/charadriiformes/stercorariidae/stercorarius-chilensis/1.jpg
+  page: https://www.inaturalist.org/photos/604516776
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604516776/original.jpg
+images:
+- file: images/charadriiformes/stercorariidae/stercorarius-chilensis/1.jpg
+  page: https://www.inaturalist.org/photos/604516776
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604516776/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-chilensis/2.jpg
+  page: https://www.inaturalist.org/photos/608626567
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608626567/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-chilensis/3.jpg
+  page: https://www.inaturalist.org/photos/615792599
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792599/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-chilensis/4.jpg
+  page: https://www.inaturalist.org/photos/618540147
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618540147/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-chilensis/5.jpg
+  page: https://www.inaturalist.org/photos/699558927
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699558927/original.jpg
 ---
 
 

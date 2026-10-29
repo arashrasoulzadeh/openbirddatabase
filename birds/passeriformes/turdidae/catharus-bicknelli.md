@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/turdidae/catharus-bicknelli/1.jpg
+  page: https://www.inaturalist.org/photos/610841938
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610841938/original.jpg
+images:
+- file: images/passeriformes/turdidae/catharus-bicknelli/1.jpg
+  page: https://www.inaturalist.org/photos/610841938
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610841938/original.jpg
+- file: images/passeriformes/turdidae/catharus-bicknelli/2.jpg
+  page: https://www.inaturalist.org/photos/675048692
+  author: Rita Clare
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675048692/original.jpg
+- file: images/passeriformes/turdidae/catharus-bicknelli/3.jpg
+  page: https://www.inaturalist.org/photos/517279207
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517279207/original.jpg
+- file: images/passeriformes/turdidae/catharus-bicknelli/4.jpg
+  page: https://www.inaturalist.org/photos/508980212
+  author: Ryan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508980212/original.jpg
+- file: images/passeriformes/turdidae/catharus-bicknelli/5.jpg
+  page: https://www.inaturalist.org/photos/517453803
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517453803/original.jpg
 ---
 
 

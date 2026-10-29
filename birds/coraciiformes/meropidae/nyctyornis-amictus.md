@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/nyctyornis-amictus/1.jpg
+  page: https://www.inaturalist.org/photos/618330254
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618330254/original.jpg
+images:
+- file: images/coraciiformes/meropidae/nyctyornis-amictus/1.jpg
+  page: https://www.inaturalist.org/photos/618330254
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618330254/original.jpg
+- file: images/coraciiformes/meropidae/nyctyornis-amictus/2.jpg
+  page: https://www.inaturalist.org/photos/655150403
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655150403/original.jpg
+- file: images/coraciiformes/meropidae/nyctyornis-amictus/3.jpg
+  page: https://www.inaturalist.org/photos/627580149
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627580149/original.jpg
+- file: images/coraciiformes/meropidae/nyctyornis-amictus/4.jpg
+  page: https://www.inaturalist.org/photos/627078996
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627078996/original.jpg
+- file: images/coraciiformes/meropidae/nyctyornis-amictus/5.jpg
+  page: https://www.inaturalist.org/photos/679112500
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679112500/original.jpg
 ---
 
 

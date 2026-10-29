@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/passerellidae/ammodramus-savannarum/1.jpg
+  page: https://www.inaturalist.org/photos/624264273
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624264273/original.jpg
+images:
+- file: images/passeriformes/passerellidae/ammodramus-savannarum/1.jpg
+  page: https://www.inaturalist.org/photos/624264273
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624264273/original.jpg
+- file: images/passeriformes/passerellidae/ammodramus-savannarum/2.jpg
+  page: https://www.inaturalist.org/photos/630145962
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630145962/original.jpg
+- file: images/passeriformes/passerellidae/ammodramus-savannarum/3.jpg
+  page: https://www.inaturalist.org/photos/627769451
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627769451/original.jpg
+- file: images/passeriformes/passerellidae/ammodramus-savannarum/4.jpg
+  page: https://www.inaturalist.org/photos/631104495
+  author: jcowles
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631104495/original.jpg
+- file: images/passeriformes/passerellidae/ammodramus-savannarum/5.jpg
+  page: https://www.inaturalist.org/photos/628102400
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628102400/original.jpg
 ---
 
 

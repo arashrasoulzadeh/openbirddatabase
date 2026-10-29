@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/tigrisoma-fasciatum/1.jpg
+  page: https://www.inaturalist.org/photos/613269894
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613269894/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/tigrisoma-fasciatum/1.jpg
+  page: https://www.inaturalist.org/photos/613269894
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613269894/original.jpg
+- file: images/pelecaniformes/ardeidae/tigrisoma-fasciatum/2.jpg
+  page: https://www.inaturalist.org/photos/616389234
+  author: Alan Estumano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616389234/original.jpg
+- file: images/pelecaniformes/ardeidae/tigrisoma-fasciatum/3.jpg
+  page: https://www.inaturalist.org/photos/635834620
+  author: Karen Szafrajda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635834620/original.jpg
+- file: images/pelecaniformes/ardeidae/tigrisoma-fasciatum/4.jpg
+  page: https://www.inaturalist.org/photos/652416808
+  author: Raquel Mondino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652416808/original.jpg
+- file: images/pelecaniformes/ardeidae/tigrisoma-fasciatum/5.jpg
+  page: https://www.inaturalist.org/photos/707822592
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707822592/original.jpg
 ---
 
 

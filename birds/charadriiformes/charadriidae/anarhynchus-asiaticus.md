@@ -159,8 +159,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/charadriiformes/charadriidae/anarhynchus-asiaticus/1.jpg
+  page: https://www.inaturalist.org/photos/609456864
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609456864/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/anarhynchus-asiaticus/1.jpg
+  page: https://www.inaturalist.org/photos/609456864
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609456864/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-asiaticus/2.jpg
+  page: https://www.inaturalist.org/photos/583484112
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583484112/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-asiaticus/3.jpg
+  page: https://www.inaturalist.org/photos/394174618
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394174618/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-asiaticus/4.jpg
+  page: https://www.inaturalist.org/photos/456157726
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456157726/original.jpeg
+- file: images/charadriiformes/charadriidae/anarhynchus-asiaticus/5.jpg
+  page: https://www.inaturalist.org/photos/181167024
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181167024/original.jpg
 ---
 
 

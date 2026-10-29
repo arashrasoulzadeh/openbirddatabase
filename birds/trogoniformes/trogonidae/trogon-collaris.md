@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-collaris/1.jpg
+  page: https://www.inaturalist.org/photos/609248959
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609248959/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-collaris/1.jpg
+  page: https://www.inaturalist.org/photos/609248959
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609248959/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-collaris/2.jpg
+  page: https://www.inaturalist.org/photos/609753298
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609753298/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-collaris/3.jpg
+  page: https://www.inaturalist.org/photos/609845187
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609845187/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-collaris/4.jpg
+  page: https://www.inaturalist.org/photos/613478170
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613478170/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-collaris/5.jpg
+  page: https://www.inaturalist.org/photos/614726371
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614726371/original.jpg
 ---
 
 

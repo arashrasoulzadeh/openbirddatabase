@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/melanopareiidae/melanopareia-maximiliani/1.jpg
+  page: https://www.inaturalist.org/photos/651603863
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651603863/original.jpg
+images:
+- file: images/passeriformes/melanopareiidae/melanopareia-maximiliani/1.jpg
+  page: https://www.inaturalist.org/photos/651603863
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651603863/original.jpg
+- file: images/passeriformes/melanopareiidae/melanopareia-maximiliani/2.jpg
+  page: https://www.inaturalist.org/photos/742736554
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742736554/original.jpg
+- file: images/passeriformes/melanopareiidae/melanopareia-maximiliani/3.jpg
+  page: https://www.inaturalist.org/photos/464813240
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464813240/original.jpg
+- file: images/passeriformes/melanopareiidae/melanopareia-maximiliani/4.jpg
+  page: https://www.inaturalist.org/photos/478808762
+  author: Jose Luis Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478808762/original.jpeg
+- file: images/passeriformes/melanopareiidae/melanopareia-maximiliani/5.jpg
+  page: https://www.inaturalist.org/photos/593226212
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593226212/original.jpg
 ---
 
 

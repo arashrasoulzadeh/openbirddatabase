@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/geositta-poeciloptera/1.jpg
+  page: https://www.inaturalist.org/photos/603460299
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603460299/original.jpg
+images:
+- file: images/passeriformes/furnariidae/geositta-poeciloptera/1.jpg
+  page: https://www.inaturalist.org/photos/603460299
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603460299/original.jpg
+- file: images/passeriformes/furnariidae/geositta-poeciloptera/2.jpg
+  page: https://www.inaturalist.org/photos/254130571
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254130571/original.jpg
+- file: images/passeriformes/furnariidae/geositta-poeciloptera/3.jpg
+  page: https://www.inaturalist.org/photos/626520589
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626520589/original.jpg
+- file: images/passeriformes/furnariidae/geositta-poeciloptera/4.jpg
+  page: https://www.inaturalist.org/photos/577098262
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577098262/original.jpg
+- file: images/passeriformes/furnariidae/geositta-poeciloptera/5.jpg
+  page: https://www.inaturalist.org/photos/603460293
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603460293/original.jpg
 ---
 
 

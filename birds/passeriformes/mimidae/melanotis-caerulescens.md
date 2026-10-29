@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/melanotis-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/606545890
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606545890/original.jpg
+images:
+- file: images/passeriformes/mimidae/melanotis-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/606545890
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606545890/original.jpg
+- file: images/passeriformes/mimidae/melanotis-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/622700563
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622700563/original.jpg
+- file: images/passeriformes/mimidae/melanotis-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/626421710
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626421710/original.jpg
+- file: images/passeriformes/mimidae/melanotis-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/665346941
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665346941/original.jpg
+- file: images/passeriformes/mimidae/melanotis-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/639596535
+  author: Jer Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639596535/original.jpg
 ---
 
 

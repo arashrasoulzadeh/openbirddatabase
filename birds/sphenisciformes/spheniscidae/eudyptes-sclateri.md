@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/sphenisciformes/spheniscidae/eudyptes-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/611069165
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611069165/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/eudyptes-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/611069165
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611069165/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/470445059
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470445059/original.jpeg
+- file: images/sphenisciformes/spheniscidae/eudyptes-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/453405451
+  author: Taylor Davies-Colley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453405451/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/344234049
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344234049/original.png
+- file: images/sphenisciformes/spheniscidae/eudyptes-sclateri/5.jpg
+  page: https://www.inaturalist.org/photos/178305003
+  author: georgiasteel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178305003/original.jpeg
 ---
 
 

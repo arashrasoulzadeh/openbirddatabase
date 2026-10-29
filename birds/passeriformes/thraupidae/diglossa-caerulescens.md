@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/652833839
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652833839/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/652833839
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652833839/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/594687713
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594687713/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/544638647
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544638647/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/599615303
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599615303/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/590186724
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590186724/original.jpg
 ---
 
 

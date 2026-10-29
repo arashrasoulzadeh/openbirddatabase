@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sapayoidae/sapayoa-aenigma/1.jpg
+  page: https://www.inaturalist.org/photos/630927880
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630927880/original.jpg
+images:
+- file: images/passeriformes/sapayoidae/sapayoa-aenigma/1.jpg
+  page: https://www.inaturalist.org/photos/630927880
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630927880/original.jpg
+- file: images/passeriformes/sapayoidae/sapayoa-aenigma/2.jpg
+  page: https://www.inaturalist.org/photos/295513911
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/295513911/original.jpeg
+- file: images/passeriformes/sapayoidae/sapayoa-aenigma/3.jpg
+  page: https://www.inaturalist.org/photos/351654110
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351654110/original.jpg
+- file: images/passeriformes/sapayoidae/sapayoa-aenigma/4.jpg
+  page: https://www.inaturalist.org/photos/351654129
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351654129/original.jpg
+- file: images/passeriformes/sapayoidae/sapayoa-aenigma/5.jpg
+  page: https://www.inaturalist.org/photos/351654142
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351654142/original.jpg
 ---
 
 

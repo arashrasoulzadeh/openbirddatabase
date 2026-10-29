@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/peltops-blainvillii/1.jpg
+  page: https://www.inaturalist.org/photos/618870436
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618870436/original.jpg
+images:
+- file: images/passeriformes/artamidae/peltops-blainvillii/1.jpg
+  page: https://www.inaturalist.org/photos/618870436
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618870436/original.jpg
+- file: images/passeriformes/artamidae/peltops-blainvillii/2.jpg
+  page: https://www.inaturalist.org/photos/611952448
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611952448/original.jpg
+- file: images/passeriformes/artamidae/peltops-blainvillii/3.jpg
+  page: https://www.inaturalist.org/photos/318344679
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318344679/original.jpg
+- file: images/passeriformes/artamidae/peltops-blainvillii/4.jpg
+  page: https://www.inaturalist.org/photos/338070998
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338070998/original.jpg
+- file: images/passeriformes/artamidae/peltops-blainvillii/5.jpg
+  page: https://www.inaturalist.org/photos/225203225
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225203225/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/philodice-mitchellii/1.jpg
+  page: https://www.inaturalist.org/photos/620952970
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620952970/original.jpg
+images:
+- file: images/apodiformes/trochilidae/philodice-mitchellii/1.jpg
+  page: https://www.inaturalist.org/photos/620952970
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620952970/original.jpg
+- file: images/apodiformes/trochilidae/philodice-mitchellii/2.jpg
+  page: https://www.inaturalist.org/photos/612268655
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612268655/original.jpg
+- file: images/apodiformes/trochilidae/philodice-mitchellii/3.jpg
+  page: https://www.inaturalist.org/photos/709705674
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709705674/original.jpg
+- file: images/apodiformes/trochilidae/philodice-mitchellii/4.jpg
+  page: https://www.inaturalist.org/photos/469418995
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469418995/original.jpg
+- file: images/apodiformes/trochilidae/philodice-mitchellii/5.jpg
+  page: https://www.inaturalist.org/photos/489394391
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489394391/original.jpg
 ---
 
 

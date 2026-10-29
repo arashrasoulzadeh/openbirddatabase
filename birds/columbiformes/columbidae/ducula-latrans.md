@@ -135,7 +135,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 35.3
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 230.8
   tail_length_mm: 158.3
   body_mass_g: 365.1
+image:
+  file: images/columbiformes/columbidae/ducula-latrans/1.jpg
+  page: https://www.inaturalist.org/photos/607009889
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607009889/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-latrans/1.jpg
+  page: https://www.inaturalist.org/photos/607009889
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607009889/original.jpg
+- file: images/columbiformes/columbidae/ducula-latrans/2.jpg
+  page: https://www.inaturalist.org/photos/728458583
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458583/original.jpg
+- file: images/columbiformes/columbidae/ducula-latrans/3.jpg
+  page: https://www.inaturalist.org/photos/464047516
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464047516/original.jpeg
+- file: images/columbiformes/columbidae/ducula-latrans/4.jpg
+  page: https://www.inaturalist.org/photos/539758457
+  author: Jay Brasher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539758457/original.jpg
+- file: images/columbiformes/columbidae/ducula-latrans/5.jpg
+  page: https://www.inaturalist.org/photos/347617267
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347617267/original.jpg
 ---
 
 

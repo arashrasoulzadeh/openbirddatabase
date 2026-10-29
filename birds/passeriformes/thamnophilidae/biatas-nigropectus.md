@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/biatas-nigropectus/1.jpg
+  page: https://www.inaturalist.org/photos/641150412
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150412/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/biatas-nigropectus/1.jpg
+  page: https://www.inaturalist.org/photos/641150412
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150412/original.jpg
+- file: images/passeriformes/thamnophilidae/biatas-nigropectus/2.jpg
+  page: https://www.inaturalist.org/photos/740044368
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740044368/original.jpg
+- file: images/passeriformes/thamnophilidae/biatas-nigropectus/3.jpg
+  page: https://www.inaturalist.org/photos/478198177
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478198177/original.jpeg
+- file: images/passeriformes/thamnophilidae/biatas-nigropectus/4.jpg
+  page: https://www.inaturalist.org/photos/426550573
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426550573/original.jpeg
+- file: images/passeriformes/thamnophilidae/biatas-nigropectus/5.jpg
+  page: https://www.inaturalist.org/photos/291285000
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/291285000/original.jpg
 ---
 
 

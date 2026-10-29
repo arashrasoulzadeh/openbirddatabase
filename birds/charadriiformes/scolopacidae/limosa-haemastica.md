@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/limosa-haemastica/1.jpg
+  page: https://www.inaturalist.org/photos/610114750
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610114750/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/limosa-haemastica/1.jpg
+  page: https://www.inaturalist.org/photos/610114750
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610114750/original.jpg
+- file: images/charadriiformes/scolopacidae/limosa-haemastica/2.jpg
+  page: https://www.inaturalist.org/photos/612571032
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612571032/original.jpg
+- file: images/charadriiformes/scolopacidae/limosa-haemastica/3.jpg
+  page: https://www.inaturalist.org/photos/611315789
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611315789/original.jpg
+- file: images/charadriiformes/scolopacidae/limosa-haemastica/4.jpg
+  page: https://www.inaturalist.org/photos/615792213
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792213/original.jpg
+- file: images/charadriiformes/scolopacidae/limosa-haemastica/5.jpg
+  page: https://www.inaturalist.org/photos/625609504
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625609504/original.jpg
 ---
 
 

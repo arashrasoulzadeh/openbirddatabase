@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/coraciiformes/meropidae/merops-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/604706992
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604706992/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/604706992
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604706992/original.jpg
+- file: images/coraciiformes/meropidae/merops-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/604417216
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604417216/original.jpg
+- file: images/coraciiformes/meropidae/merops-ornatus/3.jpg
+  page: https://www.inaturalist.org/photos/606503987
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606503987/original.jpg
+- file: images/coraciiformes/meropidae/merops-ornatus/4.jpg
+  page: https://www.inaturalist.org/photos/608832945
+  author: Jonno Downes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608832945/original.jpg
+- file: images/coraciiformes/meropidae/merops-ornatus/5.jpg
+  page: https://www.inaturalist.org/photos/606118279
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606118279/original.jpg
 ---
 
 

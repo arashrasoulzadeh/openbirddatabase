@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/spizella-atrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/634797065
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634797065/original.jpg
+images:
+- file: images/passeriformes/passerellidae/spizella-atrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/634797065
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634797065/original.jpg
+- file: images/passeriformes/passerellidae/spizella-atrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/651468655
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651468655/original.jpg
+- file: images/passeriformes/passerellidae/spizella-atrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/670462598
+  author: Jer Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670462598/original.jpg
+- file: images/passeriformes/passerellidae/spizella-atrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/652587101
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652587101/original.jpg
+- file: images/passeriformes/passerellidae/spizella-atrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/653864317
+  author: smeckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653864317/original.jpg
 ---
 
 

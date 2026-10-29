@@ -129,8 +129,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/falcunculidae/falcunculus-whitei/1.jpg
+  page: https://www.inaturalist.org/photos/690386783
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690386783/original.jpg
+images:
+- file: images/passeriformes/falcunculidae/falcunculus-whitei/1.jpg
+  page: https://www.inaturalist.org/photos/690386783
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690386783/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-whitei/2.jpg
+  page: https://www.inaturalist.org/photos/676848423
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676848423/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-whitei/3.jpg
+  page: https://www.inaturalist.org/photos/673810281
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673810281/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-whitei/4.jpg
+  page: https://www.inaturalist.org/photos/673809893
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673809893/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-whitei/5.jpg
+  page: https://www.inaturalist.org/photos/673810283
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673810283/original.jpg
 ---
 
 

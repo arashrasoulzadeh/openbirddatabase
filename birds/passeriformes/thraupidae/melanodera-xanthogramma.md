@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/melanodera-xanthogramma/1.jpg
+  page: https://www.inaturalist.org/photos/607807705
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607807705/original.jpg
+images:
+- file: images/passeriformes/thraupidae/melanodera-xanthogramma/1.jpg
+  page: https://www.inaturalist.org/photos/607807705
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607807705/original.jpg
+- file: images/passeriformes/thraupidae/melanodera-xanthogramma/2.jpg
+  page: https://www.inaturalist.org/photos/609141188
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609141188/original.jpg
+- file: images/passeriformes/thraupidae/melanodera-xanthogramma/3.jpg
+  page: https://www.inaturalist.org/photos/609461152
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609461152/original.jpg
+- file: images/passeriformes/thraupidae/melanodera-xanthogramma/4.jpg
+  page: https://www.inaturalist.org/photos/615389078
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615389078/original.jpg
+- file: images/passeriformes/thraupidae/melanodera-xanthogramma/5.jpg
+  page: https://www.inaturalist.org/photos/734143128
+  author: Claudia Gil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734143128/original.jpg
 ---
 
 

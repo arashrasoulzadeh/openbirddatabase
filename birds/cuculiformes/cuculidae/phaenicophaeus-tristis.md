@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/phaenicophaeus-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/609445490
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609445490/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/phaenicophaeus-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/609445490
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609445490/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-tristis/2.jpg
+  page: https://www.inaturalist.org/photos/612102873
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612102873/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-tristis/3.jpg
+  page: https://www.inaturalist.org/photos/614449023
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614449023/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-tristis/4.jpg
+  page: https://www.inaturalist.org/photos/616152024
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152024/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-tristis/5.jpg
+  page: https://www.inaturalist.org/photos/618849551
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849551/original.jpg
 ---
 
 

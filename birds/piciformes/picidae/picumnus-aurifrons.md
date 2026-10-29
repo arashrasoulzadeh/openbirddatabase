@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-aurifrons/1.jpg
+  page: https://www.inaturalist.org/photos/362648069
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362648069/original.jpeg
+images:
+- file: images/piciformes/picidae/picumnus-aurifrons/1.jpg
+  page: https://www.inaturalist.org/photos/362648069
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362648069/original.jpeg
+- file: images/piciformes/picidae/picumnus-aurifrons/2.jpg
+  page: https://www.inaturalist.org/photos/444837396
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444837396/original.jpeg
+- file: images/piciformes/picidae/picumnus-aurifrons/3.jpg
+  page: https://www.inaturalist.org/photos/315090750
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/315090750/original.jpg
+- file: images/piciformes/picidae/picumnus-aurifrons/4.jpg
+  page: https://www.inaturalist.org/photos/338645986
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338645986/original.jpg
+- file: images/piciformes/picidae/picumnus-aurifrons/5.jpg
+  page: https://www.inaturalist.org/photos/602136245
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602136245/original.jpg
 ---
 
 

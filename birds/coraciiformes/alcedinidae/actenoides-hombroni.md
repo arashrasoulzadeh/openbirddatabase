@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/actenoides-hombroni/1.jpg
+  page: https://www.inaturalist.org/photos/270923441
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270923441/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/actenoides-hombroni/1.jpg
+  page: https://www.inaturalist.org/photos/270923441
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270923441/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-hombroni/2.jpg
+  page: https://www.inaturalist.org/photos/270926055
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270926055/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-hombroni/3.jpg
+  page: https://www.inaturalist.org/photos/220580983
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220580983/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-hombroni/4.jpg
+  page: https://www.inaturalist.org/photos/220581004
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220581004/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-hombroni/5.jpg
+  page: https://www.inaturalist.org/photos/220581018
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220581018/original.jpg
 ---
 
 

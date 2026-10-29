@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/actenoides-princeps/1.jpg
+  page: https://www.inaturalist.org/photos/525998341
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525998341/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/actenoides-princeps/1.jpg
+  page: https://www.inaturalist.org/photos/525998341
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525998341/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-princeps/2.jpg
+  page: https://www.inaturalist.org/photos/471299594
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471299594/original.jpeg
+- file: images/coraciiformes/alcedinidae/actenoides-princeps/3.jpg
+  page: https://www.inaturalist.org/photos/242334842
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242334842/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-princeps/4.jpg
+  page: https://www.inaturalist.org/photos/339646924
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339646924/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-princeps/5.jpg
+  page: https://www.inaturalist.org/photos/60419865
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60419865/original.jpeg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/glaucis-aeneus/1.jpg
+  page: https://www.inaturalist.org/photos/616989764
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616989764/original.jpg
+images:
+- file: images/apodiformes/trochilidae/glaucis-aeneus/1.jpg
+  page: https://www.inaturalist.org/photos/616989764
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616989764/original.jpg
+- file: images/apodiformes/trochilidae/glaucis-aeneus/2.jpg
+  page: https://www.inaturalist.org/photos/655912865
+  author: Kaetlyn Mackenzie Sandoval
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655912865/original.jpg
+- file: images/apodiformes/trochilidae/glaucis-aeneus/3.jpg
+  page: https://www.inaturalist.org/photos/667393262
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667393262/original.jpg
+- file: images/apodiformes/trochilidae/glaucis-aeneus/4.jpg
+  page: https://www.inaturalist.org/photos/742230315
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742230315/original.jpg
+- file: images/apodiformes/trochilidae/glaucis-aeneus/5.jpg
+  page: https://www.inaturalist.org/photos/474521325
+  author: Buckelkopfcichlide
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474521325/original.jpeg
 ---
 
 

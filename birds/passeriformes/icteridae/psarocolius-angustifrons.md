@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/psarocolius-angustifrons/1.jpg
+  page: https://www.inaturalist.org/photos/608726315
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608726315/original.jpg
+images:
+- file: images/passeriformes/icteridae/psarocolius-angustifrons/1.jpg
+  page: https://www.inaturalist.org/photos/608726315
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608726315/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-angustifrons/2.jpg
+  page: https://www.inaturalist.org/photos/623091802
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623091802/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-angustifrons/3.jpg
+  page: https://www.inaturalist.org/photos/623189713
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623189713/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-angustifrons/4.jpg
+  page: https://www.inaturalist.org/photos/608631357
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608631357/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-angustifrons/5.jpg
+  page: https://www.inaturalist.org/photos/623752435
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623752435/original.jpg
 ---
 
 

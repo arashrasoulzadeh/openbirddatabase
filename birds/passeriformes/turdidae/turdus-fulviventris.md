@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-fulviventris/1.jpg
+  page: https://www.inaturalist.org/photos/352683741
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352683741/original.jpeg
+images:
+- file: images/passeriformes/turdidae/turdus-fulviventris/1.jpg
+  page: https://www.inaturalist.org/photos/352683741
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352683741/original.jpeg
+- file: images/passeriformes/turdidae/turdus-fulviventris/2.jpg
+  page: https://www.inaturalist.org/photos/457278701
+  author: Benjamin Hidalgo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457278701/original.jpeg
+- file: images/passeriformes/turdidae/turdus-fulviventris/3.jpg
+  page: https://www.inaturalist.org/photos/264294582
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264294582/original.jpeg
+- file: images/passeriformes/turdidae/turdus-fulviventris/4.jpg
+  page: https://www.inaturalist.org/photos/270157027
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270157027/original.jpeg
+- file: images/passeriformes/turdidae/turdus-fulviventris/5.jpg
+  page: https://www.inaturalist.org/photos/655579980
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655579980/original.jpg
 ---
 
 

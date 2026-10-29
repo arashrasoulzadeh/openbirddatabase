@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-castanea/1.jpg
+  page: https://www.inaturalist.org/photos/605020874
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020874/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-castanea/1.jpg
+  page: https://www.inaturalist.org/photos/605020874
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020874/original.jpg
+- file: images/anseriformes/anatidae/anas-castanea/2.jpg
+  page: https://www.inaturalist.org/photos/605472103
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605472103/original.jpg
+- file: images/anseriformes/anatidae/anas-castanea/3.jpg
+  page: https://www.inaturalist.org/photos/610145887
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610145887/original.jpg
+- file: images/anseriformes/anatidae/anas-castanea/4.jpg
+  page: https://www.inaturalist.org/photos/609367940
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609367940/original.jpg
+- file: images/anseriformes/anatidae/anas-castanea/5.jpg
+  page: https://www.inaturalist.org/photos/610316234
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610316234/original.jpg
 ---
 
 

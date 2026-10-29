@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columbina-buckleyi/1.jpg
+  page: https://www.inaturalist.org/photos/727237573
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727237573/original.jpg
+images:
+- file: images/columbiformes/columbidae/columbina-buckleyi/1.jpg
+  page: https://www.inaturalist.org/photos/727237573
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727237573/original.jpg
+- file: images/columbiformes/columbidae/columbina-buckleyi/2.jpg
+  page: https://www.inaturalist.org/photos/727226545
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727226545/original.jpg
+- file: images/columbiformes/columbidae/columbina-buckleyi/3.jpg
+  page: https://www.inaturalist.org/photos/727226645
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727226645/original.jpg
+- file: images/columbiformes/columbidae/columbina-buckleyi/4.jpg
+  page: https://www.inaturalist.org/photos/483696345
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483696345/original.jpeg
+- file: images/columbiformes/columbidae/columbina-buckleyi/5.jpg
+  page: https://www.inaturalist.org/photos/500111554
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500111554/original.jpeg
 ---
 
 

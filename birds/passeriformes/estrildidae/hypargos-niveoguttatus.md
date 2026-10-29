@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/hypargos-niveoguttatus/1.jpg
+  page: https://www.inaturalist.org/photos/583676975
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583676975/original.jpg
+images:
+- file: images/passeriformes/estrildidae/hypargos-niveoguttatus/1.jpg
+  page: https://www.inaturalist.org/photos/583676975
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583676975/original.jpg
+- file: images/passeriformes/estrildidae/hypargos-niveoguttatus/2.jpg
+  page: https://www.inaturalist.org/photos/413456955
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413456955/original.jpeg
+- file: images/passeriformes/estrildidae/hypargos-niveoguttatus/3.jpg
+  page: https://www.inaturalist.org/photos/422523598
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422523598/original.jpeg
+- file: images/passeriformes/estrildidae/hypargos-niveoguttatus/4.jpg
+  page: https://www.inaturalist.org/photos/446500365
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500365/original.jpg
+- file: images/passeriformes/estrildidae/hypargos-niveoguttatus/5.jpg
+  page: https://www.inaturalist.org/photos/441250793
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441250793/original.jpg
 ---
 
 

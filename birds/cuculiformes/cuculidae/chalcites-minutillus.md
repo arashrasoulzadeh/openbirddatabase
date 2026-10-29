@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chalcites-minutillus/1.jpg
+  page: https://www.inaturalist.org/photos/627019486
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627019486/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chalcites-minutillus/1.jpg
+  page: https://www.inaturalist.org/photos/627019486
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627019486/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-minutillus/2.jpg
+  page: https://www.inaturalist.org/photos/682370784
+  author: Suzanne Muzic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682370784/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-minutillus/3.jpg
+  page: https://www.inaturalist.org/photos/705968164
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705968164/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-minutillus/4.jpg
+  page: https://www.inaturalist.org/photos/723927951
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723927951/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-minutillus/5.jpg
+  page: https://www.inaturalist.org/photos/733460128
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733460128/original.jpg
 ---
 
 

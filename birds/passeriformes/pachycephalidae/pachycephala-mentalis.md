@@ -146,8 +146,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/526333930
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333930/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/526333930
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333930/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-mentalis/2.jpg
+  page: https://www.inaturalist.org/photos/416866165
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866165/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-mentalis/3.jpg
+  page: https://www.inaturalist.org/photos/107893566
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107893566/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-mentalis/4.jpg
+  page: https://www.inaturalist.org/photos/526333923
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333923/original.jpg
 ---
 
 

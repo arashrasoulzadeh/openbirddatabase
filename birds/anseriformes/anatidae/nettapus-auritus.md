@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/nettapus-auritus/1.jpg
+  page: https://www.inaturalist.org/photos/659853507
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659853507/original.jpg
+images:
+- file: images/anseriformes/anatidae/nettapus-auritus/1.jpg
+  page: https://www.inaturalist.org/photos/659853507
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659853507/original.jpg
+- file: images/anseriformes/anatidae/nettapus-auritus/2.jpg
+  page: https://www.inaturalist.org/photos/474713979
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474713979/original.jpg
+- file: images/anseriformes/anatidae/nettapus-auritus/3.jpg
+  page: https://www.inaturalist.org/photos/532733900
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532733900/original.jpg
+- file: images/anseriformes/anatidae/nettapus-auritus/4.jpg
+  page: https://www.inaturalist.org/photos/556995283
+  author: Anil Madhavapeddy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556995283/original.jpg
+- file: images/anseriformes/anatidae/nettapus-auritus/5.jpg
+  page: https://www.inaturalist.org/photos/561789673
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561789673/original.jpg
 ---
 
 

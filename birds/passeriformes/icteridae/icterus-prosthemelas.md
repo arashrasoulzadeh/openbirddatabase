@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-prosthemelas/1.jpg
+  page: https://www.inaturalist.org/photos/608359633
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608359633/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-prosthemelas/1.jpg
+  page: https://www.inaturalist.org/photos/608359633
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608359633/original.jpg
+- file: images/passeriformes/icteridae/icterus-prosthemelas/2.jpg
+  page: https://www.inaturalist.org/photos/607722817
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607722817/original.jpg
+- file: images/passeriformes/icteridae/icterus-prosthemelas/3.jpg
+  page: https://www.inaturalist.org/photos/612591553
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612591553/original.jpg
+- file: images/passeriformes/icteridae/icterus-prosthemelas/4.jpg
+  page: https://www.inaturalist.org/photos/617718798
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617718798/original.jpg
+- file: images/passeriformes/icteridae/icterus-prosthemelas/5.jpg
+  page: https://www.inaturalist.org/photos/619144689
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619144689/original.jpg
 ---
 
 

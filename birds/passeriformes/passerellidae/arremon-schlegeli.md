@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-schlegeli/1.jpg
+  page: https://www.inaturalist.org/photos/695432156
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695432156/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-schlegeli/1.jpg
+  page: https://www.inaturalist.org/photos/695432156
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695432156/original.jpg
+- file: images/passeriformes/passerellidae/arremon-schlegeli/2.jpg
+  page: https://www.inaturalist.org/photos/738247903
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738247903/original.jpg
+- file: images/passeriformes/passerellidae/arremon-schlegeli/3.jpg
+  page: https://www.inaturalist.org/photos/468840436
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468840436/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-schlegeli/4.jpg
+  page: https://www.inaturalist.org/photos/472887827
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472887827/original.jpg
+- file: images/passeriformes/passerellidae/arremon-schlegeli/5.jpg
+  page: https://www.inaturalist.org/photos/354255635
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354255635/original.jpeg
 ---
 
 

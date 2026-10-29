@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/regulidae/regulus-ignicapilla/1.jpg
+  page: https://www.inaturalist.org/photos/605106906
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605106906/original.jpg
+images:
+- file: images/passeriformes/regulidae/regulus-ignicapilla/1.jpg
+  page: https://www.inaturalist.org/photos/605106906
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605106906/original.jpg
+- file: images/passeriformes/regulidae/regulus-ignicapilla/2.jpg
+  page: https://www.inaturalist.org/photos/604746468
+  author: Crebassa Jason
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604746468/original.jpg
+- file: images/passeriformes/regulidae/regulus-ignicapilla/3.jpg
+  page: https://www.inaturalist.org/photos/604504375
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604504375/original.jpg
+- file: images/passeriformes/regulidae/regulus-ignicapilla/4.jpg
+  page: https://www.inaturalist.org/photos/605193176
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605193176/original.jpg
+- file: images/passeriformes/regulidae/regulus-ignicapilla/5.jpg
+  page: https://www.inaturalist.org/photos/604457422
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604457422/original.jpg
 ---
 
 

@@ -146,8 +146,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliodoxa-xanthogonys/1.jpg
+  page: https://www.inaturalist.org/photos/617311441
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617311441/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliodoxa-xanthogonys/1.jpg
+  page: https://www.inaturalist.org/photos/617311441
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617311441/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-xanthogonys/2.jpg
+  page: https://www.inaturalist.org/photos/617507809
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507809/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-xanthogonys/3.jpg
+  page: https://www.inaturalist.org/photos/617507831
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507831/original.jpg
 ---
 
 

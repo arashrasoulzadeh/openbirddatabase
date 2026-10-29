@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-humeralis/1.jpg
+  page: https://www.inaturalist.org/photos/723576624
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723576624/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-humeralis/1.jpg
+  page: https://www.inaturalist.org/photos/723576624
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723576624/original.jpg
+- file: images/passeriformes/laniidae/lanius-humeralis/2.jpg
+  page: https://www.inaturalist.org/photos/619322498
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619322498/original.jpg
+- file: images/passeriformes/laniidae/lanius-humeralis/3.jpg
+  page: https://www.inaturalist.org/photos/677470348
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677470348/original.jpg
+- file: images/passeriformes/laniidae/lanius-humeralis/4.jpg
+  page: https://www.inaturalist.org/photos/639812705
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639812705/original.jpg
+- file: images/passeriformes/laniidae/lanius-humeralis/5.jpg
+  page: https://www.inaturalist.org/photos/698688230
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698688230/original.jpg
 ---
 
 

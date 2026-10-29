@@ -142,8 +142,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-corvinus/1.jpg
+  page: https://www.inaturalist.org/photos/628019008
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628019008/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-corvinus/1.jpg
+  page: https://www.inaturalist.org/photos/628019008
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628019008/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-corvinus/2.jpg
+  page: https://www.inaturalist.org/photos/309997282
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309997282/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-corvinus/3.jpg
+  page: https://www.inaturalist.org/photos/81173096
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/81173096/original.jpeg
 ---
 
 

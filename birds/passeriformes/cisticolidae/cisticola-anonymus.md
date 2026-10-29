@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-anonymus/1.jpg
+  page: https://www.inaturalist.org/photos/636873690
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873690/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-anonymus/1.jpg
+  page: https://www.inaturalist.org/photos/636873690
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873690/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-anonymus/2.jpg
+  page: https://www.inaturalist.org/photos/29048867
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29048867/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-anonymus/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistMainlandEG#5718454562333208594
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/88748/original.JPG
+- file: images/passeriformes/cisticolidae/cisticola-anonymus/4.jpg
+  page: https://www.inaturalist.org/photos/636873691
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873691/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-anonymus/5.jpg
+  page: https://www.inaturalist.org/photos/636873949
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873949/original.jpg
 ---
 
 

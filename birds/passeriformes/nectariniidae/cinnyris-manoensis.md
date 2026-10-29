@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-manoensis/1.jpg
+  page: https://www.inaturalist.org/photos/650651206
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650651206/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-manoensis/1.jpg
+  page: https://www.inaturalist.org/photos/650651206
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650651206/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-manoensis/2.jpg
+  page: https://www.inaturalist.org/photos/451382855
+  author: Cosimo Costanzia di Costigliole
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451382855/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-manoensis/3.jpg
+  page: https://www.inaturalist.org/photos/247857986
+  author: Stuart Fraser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247857986/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-manoensis/4.jpg
+  page: https://www.inaturalist.org/photos/61669827
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61669827/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-manoensis/5.jpg
+  page: https://www.inaturalist.org/photos/88383748
+  author: Jonathan Whitaker
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/88383748/original.jpeg
 ---
 
 

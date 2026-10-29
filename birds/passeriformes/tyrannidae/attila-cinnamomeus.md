@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/attila-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/619134330
+  author: anidamk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619134330/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/attila-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/619134330
+  author: anidamk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619134330/original.jpg
+- file: images/passeriformes/tyrannidae/attila-cinnamomeus/2.jpg
+  page: https://www.inaturalist.org/photos/621344286
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621344286/original.jpg
+- file: images/passeriformes/tyrannidae/attila-cinnamomeus/3.jpg
+  page: https://www.inaturalist.org/photos/715450389
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715450389/original.jpg
+- file: images/passeriformes/tyrannidae/attila-cinnamomeus/4.jpg
+  page: https://www.inaturalist.org/photos/467083174
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467083174/original.jpg
+- file: images/passeriformes/tyrannidae/attila-cinnamomeus/5.jpg
+  page: https://www.inaturalist.org/photos/465521118
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465521118/original.jpeg
 ---
 
 

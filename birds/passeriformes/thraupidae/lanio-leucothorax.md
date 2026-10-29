@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/lanio-leucothorax/1.jpg
+  page: https://www.inaturalist.org/photos/618583318
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618583318/original.jpg
+images:
+- file: images/passeriformes/thraupidae/lanio-leucothorax/1.jpg
+  page: https://www.inaturalist.org/photos/618583318
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618583318/original.jpg
+- file: images/passeriformes/thraupidae/lanio-leucothorax/2.jpg
+  page: https://www.inaturalist.org/photos/634705899
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634705899/original.jpg
+- file: images/passeriformes/thraupidae/lanio-leucothorax/3.jpg
+  page: https://www.inaturalist.org/photos/711785073
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711785073/original.jpg
+- file: images/passeriformes/thraupidae/lanio-leucothorax/4.jpg
+  page: https://www.inaturalist.org/photos/530907171
+  author: Stan Rullman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530907171/original.jpg
+- file: images/passeriformes/thraupidae/lanio-leucothorax/5.jpg
+  page: https://www.inaturalist.org/photos/597568207
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597568207/original.jpg
 ---
 
 

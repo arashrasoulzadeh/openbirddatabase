@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/loxipasser-anoxanthus/1.jpg
+  page: https://www.inaturalist.org/photos/354142652
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354142652/original.jpg
+images:
+- file: images/passeriformes/thraupidae/loxipasser-anoxanthus/1.jpg
+  page: https://www.inaturalist.org/photos/354142652
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354142652/original.jpg
+- file: images/passeriformes/thraupidae/loxipasser-anoxanthus/2.jpg
+  page: https://www.inaturalist.org/photos/215554636
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/215554636/original.jpeg
+- file: images/passeriformes/thraupidae/loxipasser-anoxanthus/3.jpg
+  page: https://www.inaturalist.org/photos/28502785
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/28502785/original.jpeg
+- file: images/passeriformes/thraupidae/loxipasser-anoxanthus/4.jpg
+  page: https://www.inaturalist.org/photos/169944263
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/169944263/original.png
+- file: images/passeriformes/thraupidae/loxipasser-anoxanthus/5.jpg
+  page: https://www.inaturalist.org/photos/354698085
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354698085/original.jpg
 ---
 
 

@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/passerellidae/artemisiospiza-belli/1.jpg
+  page: https://www.inaturalist.org/photos/608625609
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608625609/original.jpg
+images:
+- file: images/passeriformes/passerellidae/artemisiospiza-belli/1.jpg
+  page: https://www.inaturalist.org/photos/608625609
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608625609/original.jpg
+- file: images/passeriformes/passerellidae/artemisiospiza-belli/2.jpg
+  page: https://www.inaturalist.org/photos/626610570
+  author: Gregory Wada
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626610570/original.jpg
+- file: images/passeriformes/passerellidae/artemisiospiza-belli/3.jpg
+  page: https://www.inaturalist.org/photos/626565592
+  author: Rachel Allingham
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626565592/original.jpg
+- file: images/passeriformes/passerellidae/artemisiospiza-belli/4.jpg
+  page: https://www.inaturalist.org/photos/631647661
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631647661/original.jpg
+- file: images/passeriformes/passerellidae/artemisiospiza-belli/5.jpg
+  page: https://www.inaturalist.org/photos/641480200
+  author: nerpanura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641480200/original.jpg
 ---
 
 

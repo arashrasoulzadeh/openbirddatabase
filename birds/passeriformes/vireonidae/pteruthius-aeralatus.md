@@ -144,8 +144,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/pteruthius-aeralatus/1.jpg
+  page: https://www.inaturalist.org/photos/609943874
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609943874/original.jpg
+images:
+- file: images/passeriformes/vireonidae/pteruthius-aeralatus/1.jpg
+  page: https://www.inaturalist.org/photos/609943874
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609943874/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-aeralatus/2.jpg
+  page: https://www.inaturalist.org/photos/614357398
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614357398/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-aeralatus/3.jpg
+  page: https://www.inaturalist.org/photos/616554741
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616554741/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-aeralatus/4.jpg
+  page: https://www.inaturalist.org/photos/626848079
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626848079/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-aeralatus/5.jpg
+  page: https://www.inaturalist.org/photos/660817130
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660817130/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-lais/1.jpg
+  page: https://www.inaturalist.org/photos/617720263
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617720263/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-lais/1.jpg
+  page: https://www.inaturalist.org/photos/617720263
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617720263/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lais/2.jpg
+  page: https://www.inaturalist.org/photos/484415621
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484415621/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-lais/3.jpg
+  page: https://www.inaturalist.org/photos/599430122
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599430122/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lais/4.jpg
+  page: https://www.inaturalist.org/photos/446500235
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446500235/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lais/5.jpg
+  page: https://www.inaturalist.org/photos/617720252
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617720252/original.jpg
 ---
 
 

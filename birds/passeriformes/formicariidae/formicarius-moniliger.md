@@ -145,8 +145,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/formicariidae/formicarius-moniliger/1.jpg
+  page: https://www.inaturalist.org/photos/605647738
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605647738/original.jpg
+images:
+- file: images/passeriformes/formicariidae/formicarius-moniliger/1.jpg
+  page: https://www.inaturalist.org/photos/605647738
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605647738/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-moniliger/2.jpg
+  page: https://www.inaturalist.org/photos/708587901
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708587901/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-moniliger/3.jpg
+  page: https://www.inaturalist.org/photos/559900201
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559900201/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-moniliger/4.jpg
+  page: https://www.inaturalist.org/photos/423603369
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423603369/original.jpeg
+- file: images/passeriformes/formicariidae/formicarius-moniliger/5.jpg
+  page: https://www.inaturalist.org/photos/442479099
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442479099/original.jpg
 ---
 
 

@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/meliphagidae/nesoptilotis-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/610639168
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610639168/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/nesoptilotis-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/610639168
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610639168/original.jpg
+- file: images/passeriformes/meliphagidae/nesoptilotis-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/611814470
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611814470/original.jpg
+- file: images/passeriformes/meliphagidae/nesoptilotis-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/618916999
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618916999/original.jpg
+- file: images/passeriformes/meliphagidae/nesoptilotis-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/610639186
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610639186/original.jpg
+- file: images/passeriformes/meliphagidae/nesoptilotis-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/611815504
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611815504/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/perdicula-erythrorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/536517327
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536517327/original.jpg
+images:
+- file: images/galliformes/phasianidae/perdicula-erythrorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/536517327
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536517327/original.jpg
+- file: images/galliformes/phasianidae/perdicula-erythrorhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/552153321
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552153321/original.jpg
+- file: images/galliformes/phasianidae/perdicula-erythrorhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/428507834
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428507834/original.jpeg
+- file: images/galliformes/phasianidae/perdicula-erythrorhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/262065513
+  author: Daniel Cahen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262065513/original.jpeg
+- file: images/galliformes/phasianidae/perdicula-erythrorhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/403198996
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/403198996/original.jpg
 ---
 
 

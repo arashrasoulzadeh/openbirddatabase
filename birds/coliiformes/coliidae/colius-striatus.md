@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/coliiformes/coliidae/colius-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/610579169
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610579169/original.jpg
+images:
+- file: images/coliiformes/coliidae/colius-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/610579169
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610579169/original.jpg
+- file: images/coliiformes/coliidae/colius-striatus/2.jpg
+  page: https://www.inaturalist.org/photos/610677204
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610677204/original.jpg
+- file: images/coliiformes/coliidae/colius-striatus/3.jpg
+  page: https://www.inaturalist.org/photos/610989773
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610989773/original.jpg
+- file: images/coliiformes/coliidae/colius-striatus/4.jpg
+  page: https://www.inaturalist.org/photos/625687795
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625687795/original.jpg
+- file: images/coliiformes/coliidae/colius-striatus/5.jpg
+  page: https://www.inaturalist.org/photos/610361337
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610361337/original.jpg
 ---
 
 

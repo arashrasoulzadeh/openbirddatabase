@@ -143,8 +143,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/oreomystis-bairdi/1.jpg
+  page: https://www.inaturalist.org/photos/142822742
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822742/original.jpeg
+images:
+- file: images/passeriformes/fringillidae/oreomystis-bairdi/1.jpg
+  page: https://www.inaturalist.org/photos/142822742
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822742/original.jpeg
+- file: images/passeriformes/fringillidae/oreomystis-bairdi/2.jpg
+  page: https://www.inaturalist.org/photos/142822762
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822762/original.jpeg
+- file: images/passeriformes/fringillidae/oreomystis-bairdi/3.jpg
+  page: https://www.inaturalist.org/photos/142822778
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822778/original.jpeg
+- file: images/passeriformes/fringillidae/oreomystis-bairdi/4.jpg
+  page: https://www.inaturalist.org/photos/142822796
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822796/original.jpeg
 ---
 
 

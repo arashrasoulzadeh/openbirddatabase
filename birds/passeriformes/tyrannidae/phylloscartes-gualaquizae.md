@@ -135,8 +135,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/phylloscartes-gualaquizae/1.jpg
+  page: https://www.inaturalist.org/photos/386460498
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386460498/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/phylloscartes-gualaquizae/1.jpg
+  page: https://www.inaturalist.org/photos/386460498
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386460498/original.jpg
+- file: images/passeriformes/tyrannidae/phylloscartes-gualaquizae/2.jpg
+  page: https://www.inaturalist.org/photos/157618715
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/157618715/original.jpg
+- file: images/passeriformes/tyrannidae/phylloscartes-gualaquizae/3.jpg
+  page: https://www.inaturalist.org/photos/157619098
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/157619098/original.jpg
 ---
 
 

@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-flavogaster/1.jpg
+  page: https://www.inaturalist.org/photos/610522513
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610522513/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-flavogaster/1.jpg
+  page: https://www.inaturalist.org/photos/610522513
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610522513/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-flavogaster/2.jpg
+  page: https://www.inaturalist.org/photos/611093057
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611093057/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-flavogaster/3.jpg
+  page: https://www.inaturalist.org/photos/617486880
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617486880/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-flavogaster/4.jpg
+  page: https://www.inaturalist.org/photos/610659947
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610659947/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-flavogaster/5.jpg
+  page: https://www.inaturalist.org/photos/615087227
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615087227/original.jpg
 ---
 
 

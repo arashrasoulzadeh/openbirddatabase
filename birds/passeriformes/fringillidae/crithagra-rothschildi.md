@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-rothschildi/1.jpg
+  page: https://www.inaturalist.org/photos/556032260
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556032260/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-rothschildi/1.jpg
+  page: https://www.inaturalist.org/photos/556032260
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556032260/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-rothschildi/2.jpg
+  page: https://www.inaturalist.org/photos/605851971
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605851971/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-rothschildi/3.jpg
+  page: https://www.inaturalist.org/photos/457194586
+  author: Hopeland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457194586/original.jpeg
+- file: images/passeriformes/fringillidae/crithagra-rothschildi/4.jpg
+  page: https://www.inaturalist.org/photos/260922812
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260922812/original.jpeg
+- file: images/passeriformes/fringillidae/crithagra-rothschildi/5.jpg
+  page: https://www.inaturalist.org/photos/336830486
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336830486/original.jpeg
 ---
 
 

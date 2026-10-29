@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/sittidae/sitta-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/608653255
+  author: Anne P
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608653255/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/608653255
+  author: Anne P
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608653255/original.jpg
+- file: images/passeriformes/sittidae/sitta-pusilla/2.jpg
+  page: https://www.inaturalist.org/photos/609318960
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609318960/original.jpg
+- file: images/passeriformes/sittidae/sitta-pusilla/3.jpg
+  page: https://www.inaturalist.org/photos/610554480
+  author: Linda Watson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610554480/original.jpg
+- file: images/passeriformes/sittidae/sitta-pusilla/4.jpg
+  page: https://www.inaturalist.org/photos/611059632
+  author: northerly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611059632/original.jpg
+- file: images/passeriformes/sittidae/sitta-pusilla/5.jpg
+  page: https://www.inaturalist.org/photos/608311955
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608311955/original.jpg
 ---
 
 

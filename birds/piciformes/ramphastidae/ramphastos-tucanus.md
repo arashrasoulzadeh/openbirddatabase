@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/ramphastos-tucanus/1.jpg
+  page: https://www.inaturalist.org/photos/612370877
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612370877/original.jpg
+images:
+- file: images/piciformes/ramphastidae/ramphastos-tucanus/1.jpg
+  page: https://www.inaturalist.org/photos/612370877
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612370877/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-tucanus/2.jpg
+  page: https://www.inaturalist.org/photos/611816292
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611816292/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-tucanus/3.jpg
+  page: https://www.inaturalist.org/photos/650138137
+  author: Nelson Atencio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650138137/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-tucanus/4.jpg
+  page: https://www.inaturalist.org/photos/671305867
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671305867/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-tucanus/5.jpg
+  page: https://www.inaturalist.org/photos/703325075
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703325075/original.jpg
 ---
 
 

@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 13.7
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 66.4
   tail_length_mm: 47.9
   body_mass_g: 15.6
+image:
+  file: images/passeriformes/thraupidae/haplospiza-rustica/1.jpg
+  page: https://www.inaturalist.org/photos/617229185
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617229185/original.jpg
+images:
+- file: images/passeriformes/thraupidae/haplospiza-rustica/1.jpg
+  page: https://www.inaturalist.org/photos/617229185
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617229185/original.jpg
+- file: images/passeriformes/thraupidae/haplospiza-rustica/2.jpg
+  page: https://www.inaturalist.org/photos/352616771
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352616771/original.jpeg
+- file: images/passeriformes/thraupidae/haplospiza-rustica/3.jpg
+  page: https://www.inaturalist.org/photos/330762810
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330762810/original.jpeg
+- file: images/passeriformes/thraupidae/haplospiza-rustica/4.jpg
+  page: https://www.inaturalist.org/photos/196361030
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196361030/original.jpg
+- file: images/passeriformes/thraupidae/haplospiza-rustica/5.jpg
+  page: https://www.inaturalist.org/photos/224134650
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224134650/original.jpg
 ---
 
 

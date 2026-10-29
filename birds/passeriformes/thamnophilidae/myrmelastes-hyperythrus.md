@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmelastes-hyperythrus/1.jpg
+  page: https://www.inaturalist.org/photos/612983003
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612983003/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmelastes-hyperythrus/1.jpg
+  page: https://www.inaturalist.org/photos/612983003
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612983003/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmelastes-hyperythrus/2.jpg
+  page: https://www.inaturalist.org/photos/622143410
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622143410/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmelastes-hyperythrus/3.jpg
+  page: https://www.inaturalist.org/photos/713857304
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713857304/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmelastes-hyperythrus/4.jpg
+  page: https://www.inaturalist.org/photos/553038185
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553038185/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmelastes-hyperythrus/5.jpg
+  page: https://www.inaturalist.org/photos/426760582
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426760582/original.jpg
 ---
 
 

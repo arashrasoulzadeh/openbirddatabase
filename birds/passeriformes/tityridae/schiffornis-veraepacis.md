@@ -159,8 +159,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/schiffornis-veraepacis/1.jpg
+  page: https://www.inaturalist.org/photos/610844232
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610844232/original.jpg
+images:
+- file: images/passeriformes/tityridae/schiffornis-veraepacis/1.jpg
+  page: https://www.inaturalist.org/photos/610844232
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610844232/original.jpg
+- file: images/passeriformes/tityridae/schiffornis-veraepacis/2.jpg
+  page: https://www.inaturalist.org/photos/622235638
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622235638/original.jpg
+- file: images/passeriformes/tityridae/schiffornis-veraepacis/3.jpg
+  page: https://www.inaturalist.org/photos/642186188
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642186188/original.jpg
+- file: images/passeriformes/tityridae/schiffornis-veraepacis/4.jpg
+  page: https://www.inaturalist.org/photos/712352509
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712352509/original.jpg
+- file: images/passeriformes/tityridae/schiffornis-veraepacis/5.jpg
+  page: https://www.inaturalist.org/photos/736142969
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736142969/original.jpg
 ---
 
 

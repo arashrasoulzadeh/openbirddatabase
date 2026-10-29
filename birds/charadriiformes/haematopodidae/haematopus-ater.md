@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-ater/1.jpg
+  page: https://www.inaturalist.org/photos/605211068
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605211068/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-ater/1.jpg
+  page: https://www.inaturalist.org/photos/605211068
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605211068/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-ater/2.jpg
+  page: https://www.inaturalist.org/photos/608430569
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608430569/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-ater/3.jpg
+  page: https://www.inaturalist.org/photos/609576191
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576191/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-ater/4.jpg
+  page: https://www.inaturalist.org/photos/606697721
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606697721/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-ater/5.jpg
+  page: https://www.inaturalist.org/photos/615388485
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388485/original.jpg
 ---
 
 

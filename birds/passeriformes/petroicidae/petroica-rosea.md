@@ -147,10 +147,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/petroicidae/petroica-rosea/1.jpg
+  page: https://www.inaturalist.org/photos/615996769
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615996769/original.jpg
+images:
+- file: images/passeriformes/petroicidae/petroica-rosea/1.jpg
+  page: https://www.inaturalist.org/photos/615996769
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615996769/original.jpg
+- file: images/passeriformes/petroicidae/petroica-rosea/2.jpg
+  page: https://www.inaturalist.org/photos/643542814
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643542814/original.jpg
+- file: images/passeriformes/petroicidae/petroica-rosea/3.jpg
+  page: https://www.inaturalist.org/photos/641297816
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641297816/original.jpg
+- file: images/passeriformes/petroicidae/petroica-rosea/4.jpg
+  page: https://www.inaturalist.org/photos/659969245
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659969245/original.jpg
+- file: images/passeriformes/petroicidae/petroica-rosea/5.jpg
+  page: https://www.inaturalist.org/photos/658244734
+  author: Richard Dimon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658244734/original.jpg
 ---
 
 

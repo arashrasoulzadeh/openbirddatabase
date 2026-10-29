@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/lophotriccus-galeatus/1.jpg
+  page: https://www.inaturalist.org/photos/467093750
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467093750/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/lophotriccus-galeatus/1.jpg
+  page: https://www.inaturalist.org/photos/467093750
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467093750/original.jpg
+- file: images/passeriformes/tyrannidae/lophotriccus-galeatus/2.jpg
+  page: https://www.inaturalist.org/photos/475816980
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475816980/original.jpg
+- file: images/passeriformes/tyrannidae/lophotriccus-galeatus/3.jpg
+  page: https://www.inaturalist.org/photos/456589234
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456589234/original.jpeg
+- file: images/passeriformes/tyrannidae/lophotriccus-galeatus/4.jpg
+  page: https://www.inaturalist.org/photos/338437059
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338437059/original.jpg
+- file: images/passeriformes/tyrannidae/lophotriccus-galeatus/5.jpg
+  page: https://www.inaturalist.org/photos/252438557
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252438557/original.jpg
 ---
 
 

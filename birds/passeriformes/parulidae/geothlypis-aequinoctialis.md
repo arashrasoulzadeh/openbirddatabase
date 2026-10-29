@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/geothlypis-aequinoctialis/1.jpg
+  page: https://www.inaturalist.org/photos/715055863
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715055863/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-aequinoctialis/1.jpg
+  page: https://www.inaturalist.org/photos/715055863
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715055863/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-aequinoctialis/2.jpg
+  page: https://www.inaturalist.org/photos/478747537
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478747537/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-aequinoctialis/3.jpg
+  page: https://www.flickr.com/photos/cricketsblog/53534113424/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351878508/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-aequinoctialis/4.jpg
+  page: https://www.inaturalist.org/photos/361045586
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361045586/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-aequinoctialis/5.jpg
+  page: https://www.inaturalist.org/photos/394790430
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394790430/original.jpg
 ---
 
 

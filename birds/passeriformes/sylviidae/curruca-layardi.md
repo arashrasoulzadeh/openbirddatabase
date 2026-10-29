@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-layardi/1.jpg
+  page: https://www.inaturalist.org/photos/613421415
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613421415/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-layardi/1.jpg
+  page: https://www.inaturalist.org/photos/613421415
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613421415/original.jpg
+- file: images/passeriformes/sylviidae/curruca-layardi/2.jpg
+  page: https://www.inaturalist.org/photos/714417178
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714417178/original.jpg
+- file: images/passeriformes/sylviidae/curruca-layardi/3.jpg
+  page: https://www.inaturalist.org/photos/537554403
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537554403/original.jpg
+- file: images/passeriformes/sylviidae/curruca-layardi/4.jpg
+  page: https://www.inaturalist.org/photos/413766034
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413766034/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-layardi/5.jpg
+  page: https://www.inaturalist.org/photos/412833797
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412833797/original.jpeg
 ---
 
 

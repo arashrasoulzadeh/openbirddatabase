@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/pseudoseisura-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/605418992
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605418992/original.jpg
+images:
+- file: images/passeriformes/furnariidae/pseudoseisura-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/605418992
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605418992/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/612667551
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612667551/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/625232443
+  author: Alan Valentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625232443/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/630929218
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630929218/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/678989287
+  author: Breno Figueiredo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678989287/original.jpg
 ---
 
 

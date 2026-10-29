@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/nannopterum-auritum/1.jpg
+  page: https://www.inaturalist.org/photos/604875204
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604875204/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/nannopterum-auritum/1.jpg
+  page: https://www.inaturalist.org/photos/604875204
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604875204/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-auritum/2.jpg
+  page: https://www.inaturalist.org/photos/605213341
+  author: Brent Cox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605213341/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-auritum/3.jpg
+  page: https://www.inaturalist.org/photos/604928576
+  author: Jacob Moyer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604928576/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-auritum/4.jpg
+  page: https://www.inaturalist.org/photos/605663801
+  author: Peter Chen 2.0
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605663801/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-auritum/5.jpg
+  page: https://www.inaturalist.org/photos/604944674
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604944674/original.jpg
 ---
 
 

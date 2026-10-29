@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/psittaciformes/psittaculidae/prosopeia-personata/1.jpg
+  page: https://www.inaturalist.org/photos/727457093
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727457093/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/prosopeia-personata/1.jpg
+  page: https://www.inaturalist.org/photos/727457093
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727457093/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-personata/2.jpg
+  page: https://www.inaturalist.org/photos/550330123
+  author: Mark O'Brien
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550330123/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-personata/3.jpg
+  page: https://www.inaturalist.org/photos/604280301
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604280301/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-personata/4.jpg
+  page: https://www.inaturalist.org/photos/329944716
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329944716/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-personata/5.jpg
+  page: https://www.inaturalist.org/photos/341734836
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341734836/original.jpeg
 ---
 
 

@@ -128,8 +128,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-ochracea/1.jpg
+  page: https://www.inaturalist.org/photos/735288807
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735288807/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-ochracea/1.jpg
+  page: https://www.inaturalist.org/photos/735288807
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735288807/original.jpg
+- file: images/strigiformes/strigidae/ninox-ochracea/2.jpg
+  page: https://www.inaturalist.org/photos/715513208
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715513208/original.jpg
+- file: images/strigiformes/strigidae/ninox-ochracea/3.jpg
+  page: https://www.inaturalist.org/photos/416519268
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416519268/original.jpeg
+- file: images/strigiformes/strigidae/ninox-ochracea/4.jpg
+  page: https://www.inaturalist.org/photos/311191661
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311191661/original.jpg
+- file: images/strigiformes/strigidae/ninox-ochracea/5.jpg
+  page: https://www.inaturalist.org/photos/318825433
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318825433/original.jpeg
 ---
 
 

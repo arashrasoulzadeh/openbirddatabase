@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-hauxwelli/1.jpg
+  page: https://www.inaturalist.org/photos/351112984
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351112984/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-hauxwelli/1.jpg
+  page: https://www.inaturalist.org/photos/351112984
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351112984/original.jpg
+- file: images/passeriformes/turdidae/turdus-hauxwelli/2.jpg
+  page: https://www.inaturalist.org/photos/424586720
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424586720/original.jpeg
+- file: images/passeriformes/turdidae/turdus-hauxwelli/3.jpg
+  page: https://www.inaturalist.org/photos/333988996
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333988996/original.jpeg
+- file: images/passeriformes/turdidae/turdus-hauxwelli/4.jpg
+  page: https://www.inaturalist.org/photos/429480013
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429480013/original.jpg
+- file: images/passeriformes/turdidae/turdus-hauxwelli/5.jpg
+  page: https://www.inaturalist.org/photos/220779791
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220779791/original.jpeg
 ---
 
 

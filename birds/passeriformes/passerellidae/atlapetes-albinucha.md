@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-albinucha/1.jpg
+  page: https://www.inaturalist.org/photos/612268743
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612268743/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-albinucha/1.jpg
+  page: https://www.inaturalist.org/photos/612268743
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612268743/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-albinucha/2.jpg
+  page: https://www.inaturalist.org/photos/615808199
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615808199/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-albinucha/3.jpg
+  page: https://www.inaturalist.org/photos/619126784
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619126784/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-albinucha/4.jpg
+  page: https://www.inaturalist.org/photos/631004742
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631004742/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-albinucha/5.jpg
+  page: https://www.inaturalist.org/photos/647429588
+  author: Aaron Liston
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647429588/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/piaya-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/398455014
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398455014/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/piaya-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/398455014
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398455014/original.jpg
+- file: images/cuculiformes/cuculidae/piaya-melanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/468108710
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468108710/original.jpeg
+- file: images/cuculiformes/cuculidae/piaya-melanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/275955764
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/275955764/original.jpeg
+- file: images/cuculiformes/cuculidae/piaya-melanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/179339344
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179339344/original.jpeg
+- file: images/cuculiformes/cuculidae/piaya-melanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/236844339
+  author: Etienne Falquet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236844339/original.jpeg
 ---
 
 

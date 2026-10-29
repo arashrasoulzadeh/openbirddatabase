@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lampornis-viridipallens/1.jpg
+  page: https://www.inaturalist.org/photos/722863840
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722863840/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lampornis-viridipallens/1.jpg
+  page: https://www.inaturalist.org/photos/722863840
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722863840/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-viridipallens/2.jpg
+  page: https://www.inaturalist.org/photos/466276803
+  author: Chris Wyse
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466276803/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-viridipallens/3.jpg
+  page: https://www.inaturalist.org/photos/475172187
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475172187/original.jpeg
+- file: images/apodiformes/trochilidae/lampornis-viridipallens/4.jpg
+  page: https://www.inaturalist.org/photos/593644673
+  author: Janne Teivonen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593644673/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-viridipallens/5.jpg
+  page: https://www.inaturalist.org/photos/346863296
+  author: Sobeida Morales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346863296/original.jpeg
 ---
 
 

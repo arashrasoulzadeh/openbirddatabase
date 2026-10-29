@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-brunneus/1.jpg
+  page: https://www.inaturalist.org/photos/607450379
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607450379/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-brunneus/1.jpg
+  page: https://www.inaturalist.org/photos/607450379
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607450379/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-brunneus/2.jpg
+  page: https://www.inaturalist.org/photos/616738688
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738688/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-brunneus/3.jpg
+  page: https://www.inaturalist.org/photos/618847898
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618847898/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-brunneus/4.jpg
+  page: https://www.inaturalist.org/photos/613148029
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613148029/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-brunneus/5.jpg
+  page: https://www.inaturalist.org/photos/741654159
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741654159/original.jpg
 ---
 
 

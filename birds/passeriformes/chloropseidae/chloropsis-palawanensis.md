@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-palawanensis/1.jpg
+  page: https://www.inaturalist.org/photos/469443127
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469443127/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-palawanensis/1.jpg
+  page: https://www.inaturalist.org/photos/469443127
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469443127/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-palawanensis/2.jpg
+  page: https://www.inaturalist.org/photos/502698772
+  author: Jannis Ackermann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502698772/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-palawanensis/3.jpg
+  page: https://www.inaturalist.org/photos/388688044
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388688044/original.jpeg
+- file: images/passeriformes/chloropseidae/chloropsis-palawanensis/4.jpg
+  page: https://www.inaturalist.org/photos/276470544
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470544/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-palawanensis/5.jpg
+  page: https://www.inaturalist.org/photos/339660286
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339660286/original.jpg
 ---
 
 

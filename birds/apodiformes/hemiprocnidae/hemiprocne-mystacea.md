@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/hemiprocnidae/hemiprocne-mystacea/1.jpg
+  page: https://www.inaturalist.org/photos/625309704
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625309704/original.jpg
+images:
+- file: images/apodiformes/hemiprocnidae/hemiprocne-mystacea/1.jpg
+  page: https://www.inaturalist.org/photos/625309704
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625309704/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-mystacea/2.jpg
+  page: https://www.inaturalist.org/photos/708225266
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708225266/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-mystacea/3.jpg
+  page: https://www.inaturalist.org/photos/713028407
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713028407/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-mystacea/4.jpg
+  page: https://www.inaturalist.org/photos/526332795
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526332795/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-mystacea/5.jpg
+  page: https://www.inaturalist.org/photos/550662506
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550662506/original.jpg
 ---
 
 

@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/stenostiridae/elminia-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/638923905
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638923905/original.jpg
+images:
+- file: images/passeriformes/stenostiridae/elminia-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/638923905
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638923905/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-longicauda/2.jpg
+  page: https://www.inaturalist.org/photos/537411541
+  author: a_virginian
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537411541/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-longicauda/3.jpg
+  page: https://www.inaturalist.org/photos/550396172
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550396172/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-longicauda/4.jpg
+  page: https://www.inaturalist.org/photos/600400904
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600400904/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-longicauda/5.jpg
+  page: https://www.inaturalist.org/photos/349804414
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349804414/original.jpeg
 ---
 
 

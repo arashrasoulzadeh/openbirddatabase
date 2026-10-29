@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-leucomela/1.jpg
+  page: https://www.inaturalist.org/photos/608087098
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608087098/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-leucomela/1.jpg
+  page: https://www.inaturalist.org/photos/608087098
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608087098/original.jpg
+- file: images/columbiformes/columbidae/columba-leucomela/2.jpg
+  page: https://www.inaturalist.org/photos/615857655
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615857655/original.jpg
+- file: images/columbiformes/columbidae/columba-leucomela/3.jpg
+  page: https://www.inaturalist.org/photos/615307300
+  author: c_knut_lord
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615307300/original.jpg
+- file: images/columbiformes/columbidae/columba-leucomela/4.jpg
+  page: https://www.inaturalist.org/photos/617684111
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617684111/original.jpg
+- file: images/columbiformes/columbidae/columba-leucomela/5.jpg
+  page: https://www.inaturalist.org/photos/608087217
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608087217/original.jpg
 ---
 
 

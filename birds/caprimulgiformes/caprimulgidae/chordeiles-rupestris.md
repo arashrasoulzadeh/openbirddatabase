@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/chordeiles-rupestris/1.jpg
+  page: https://www.inaturalist.org/photos/612995422
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612995422/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-rupestris/1.jpg
+  page: https://www.inaturalist.org/photos/612995422
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612995422/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-rupestris/2.jpg
+  page: https://www.inaturalist.org/photos/537081955
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537081955/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-rupestris/3.jpg
+  page: https://www.inaturalist.org/photos/599258645
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599258645/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-rupestris/4.jpg
+  page: https://www.inaturalist.org/photos/604051944
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604051944/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-rupestris/5.jpg
+  page: https://www.inaturalist.org/photos/355943850
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355943850/original.jpeg
 ---
 
 

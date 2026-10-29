@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/columbiformes/columbidae/caloenas-nicobarica/1.jpg
+  page: https://www.inaturalist.org/photos/628598807
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628598807/original.jpg
+images:
+- file: images/columbiformes/columbidae/caloenas-nicobarica/1.jpg
+  page: https://www.inaturalist.org/photos/628598807
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628598807/original.jpg
+- file: images/columbiformes/columbidae/caloenas-nicobarica/2.jpg
+  page: https://www.inaturalist.org/photos/713572282
+  author: Evan Williams
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713572282/original.jpg
+- file: images/columbiformes/columbidae/caloenas-nicobarica/3.jpg
+  page: https://www.inaturalist.org/photos/582199517
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582199517/original.jpg
+- file: images/columbiformes/columbidae/caloenas-nicobarica/4.jpg
+  page: https://www.inaturalist.org/photos/673880217
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673880217/original.jpg
+- file: images/columbiformes/columbidae/caloenas-nicobarica/5.jpg
+  page: https://www.inaturalist.org/photos/443723572
+  author: Logan Lucas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443723572/original.jpeg
 ---
 
 

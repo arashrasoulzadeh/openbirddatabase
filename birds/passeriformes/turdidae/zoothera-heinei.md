@@ -145,10 +145,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 1
+image:
+  file: images/passeriformes/turdidae/zoothera-heinei/1.jpg
+  page: https://www.inaturalist.org/photos/604985623
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604985623/original.jpg
+images:
+- file: images/passeriformes/turdidae/zoothera-heinei/1.jpg
+  page: https://www.inaturalist.org/photos/604985623
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604985623/original.jpg
+- file: images/passeriformes/turdidae/zoothera-heinei/2.jpg
+  page: https://www.inaturalist.org/photos/615593526
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615593526/original.jpg
+- file: images/passeriformes/turdidae/zoothera-heinei/3.jpg
+  page: https://www.inaturalist.org/photos/619407252
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619407252/original.jpg
+- file: images/passeriformes/turdidae/zoothera-heinei/4.jpg
+  page: https://www.inaturalist.org/photos/708271834
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708271834/original.jpg
+- file: images/passeriformes/turdidae/zoothera-heinei/5.jpg
+  page: https://www.inaturalist.org/photos/470914694
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470914694/original.jpg
 ---
 
 

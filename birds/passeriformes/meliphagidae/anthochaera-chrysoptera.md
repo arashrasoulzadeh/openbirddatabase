@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/meliphagidae/anthochaera-chrysoptera/1.jpg
+  page: https://www.inaturalist.org/photos/607849210
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607849210/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/anthochaera-chrysoptera/1.jpg
+  page: https://www.inaturalist.org/photos/607849210
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607849210/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-chrysoptera/2.jpg
+  page: https://www.inaturalist.org/photos/606115888
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606115888/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-chrysoptera/3.jpg
+  page: https://www.inaturalist.org/photos/606580802
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606580802/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-chrysoptera/4.jpg
+  page: https://www.inaturalist.org/photos/608336108
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608336108/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-chrysoptera/5.jpg
+  page: https://www.inaturalist.org/photos/607794409
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607794409/original.jpg
 ---
 
 

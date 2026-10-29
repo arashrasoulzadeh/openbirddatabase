@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 18.0
@@ -132,6 +133,26 @@ morphology:
   wing_length_mm: 81.6
   tail_length_mm: 41.6
   body_mass_g: 24.5
+image:
+  file: images/piciformes/picidae/yungipicus-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/708265144
+  author: Richard David Bea Dy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708265144/original.jpg
+images:
+- file: images/piciformes/picidae/yungipicus-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/708265144
+  author: Richard David Bea Dy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708265144/original.jpg
+- file: images/piciformes/picidae/yungipicus-maculatus/2.jpg
+  page: https://www.inaturalist.org/photos/708265168
+  author: Richard David Bea Dy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708265168/original.jpg
 ---
 
 

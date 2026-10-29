@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/accipitriformes/accipitridae/aquila-rapax/1.jpg
+  page: https://www.inaturalist.org/photos/606834929
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606834929/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aquila-rapax/1.jpg
+  page: https://www.inaturalist.org/photos/606834929
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606834929/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-rapax/2.jpg
+  page: https://www.inaturalist.org/photos/609456685
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609456685/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-rapax/3.jpg
+  page: https://www.inaturalist.org/photos/611836794
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611836794/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-rapax/4.jpg
+  page: https://www.inaturalist.org/photos/618971147
+  author: Gabriel Brachetti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618971147/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-rapax/5.jpg
+  page: https://www.inaturalist.org/photos/610392692
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610392692/original.jpg
 ---
 
 

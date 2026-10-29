@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-regina/1.jpg
+  page: https://www.inaturalist.org/photos/606320067
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606320067/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-regina/1.jpg
+  page: https://www.inaturalist.org/photos/606320067
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606320067/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-regina/2.jpg
+  page: https://www.inaturalist.org/photos/661227096
+  author: Ged Tranter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661227096/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-regina/3.jpg
+  page: https://www.inaturalist.org/photos/616561388
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616561388/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-regina/4.jpg
+  page: https://www.inaturalist.org/photos/629068450
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629068450/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-regina/5.jpg
+  page: https://www.inaturalist.org/photos/708829320
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708829320/original.jpg
 ---
 
 

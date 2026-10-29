@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/malimbus-malimbicus/1.jpg
+  page: https://www.inaturalist.org/photos/477846682
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477846682/original.jpg
+images:
+- file: images/passeriformes/ploceidae/malimbus-malimbicus/1.jpg
+  page: https://www.inaturalist.org/photos/477846682
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477846682/original.jpg
+- file: images/passeriformes/ploceidae/malimbus-malimbicus/2.jpg
+  page: https://www.inaturalist.org/photos/394131870
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394131870/original.jpg
+- file: images/passeriformes/ploceidae/malimbus-malimbicus/3.jpg
+  page: https://www.inaturalist.org/photos/345046740
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345046740/original.jpeg
+- file: images/passeriformes/ploceidae/malimbus-malimbicus/4.jpg
+  page: https://www.inaturalist.org/photos/106013306
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106013306/original.jpg
+- file: images/passeriformes/ploceidae/malimbus-malimbicus/5.jpg
+  page: https://www.inaturalist.org/photos/477846664
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477846664/original.jpg
 ---
 
 

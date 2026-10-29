@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/pellorneum-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/584627709
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584627709/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/pellorneum-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/584627709
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584627709/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/596880662
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596880662/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-bicolor/3.jpg
+  page: https://www.inaturalist.org/photos/346624500
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346624500/original.jpeg
+- file: images/passeriformes/pellorneidae/pellorneum-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/230042783
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230042783/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-bicolor/5.jpg
+  page: https://www.inaturalist.org/photos/114832868
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114832868/original.jpeg
 ---
 
 

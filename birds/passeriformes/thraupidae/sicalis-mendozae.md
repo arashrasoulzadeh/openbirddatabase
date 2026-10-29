@@ -134,8 +134,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sicalis-mendozae/1.jpg
+  page: https://www.inaturalist.org/photos/579573656
+  author: Francisco Liguori
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579573656/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sicalis-mendozae/1.jpg
+  page: https://www.inaturalist.org/photos/579573656
+  author: Francisco Liguori
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579573656/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-mendozae/2.jpg
+  page: https://www.inaturalist.org/photos/337362311
+  author: Guillermo Debandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337362311/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-mendozae/3.jpg
+  page: https://www.inaturalist.org/photos/249693228
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249693228/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-mendozae/4.jpg
+  page: https://www.inaturalist.org/photos/339321757
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339321757/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-mendozae/5.jpg
+  page: https://www.inaturalist.org/photos/233954937
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233954937/original.jpg
 ---
 
 

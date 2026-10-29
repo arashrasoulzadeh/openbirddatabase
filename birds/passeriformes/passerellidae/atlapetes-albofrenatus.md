@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-albofrenatus/1.jpg
+  page: https://www.inaturalist.org/photos/586455110
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586455110/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-albofrenatus/1.jpg
+  page: https://www.inaturalist.org/photos/586455110
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586455110/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-albofrenatus/2.jpg
+  page: https://www.inaturalist.org/photos/489328578
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489328578/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-albofrenatus/3.jpg
+  page: https://www.inaturalist.org/photos/504038915
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504038915/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-albofrenatus/4.jpg
+  page: https://www.inaturalist.org/photos/361094685
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361094685/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-albofrenatus/5.jpg
+  page: https://www.inaturalist.org/photos/454680466
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454680466/original.jpeg
 ---
 
 

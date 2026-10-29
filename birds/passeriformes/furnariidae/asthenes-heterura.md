@@ -141,10 +141,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/asthenes-heterura/1.jpg
+  page: https://www.inaturalist.org/photos/449670679
+  author: Arne Holgersson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449670679/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-heterura/1.jpg
+  page: https://www.inaturalist.org/photos/449670679
+  author: Arne Holgersson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449670679/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-heterura/2.jpg
+  page: https://www.inaturalist.org/photos/339334006
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339334006/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-heterura/3.jpg
+  page: https://www.inaturalist.org/photos/339333964
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339333964/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-heterura/4.jpg
+  page: https://www.inaturalist.org/photos/339333972
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339333972/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-heterura/5.jpg
+  page: https://www.inaturalist.org/photos/339334024
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339334024/original.jpeg
 ---
 
 

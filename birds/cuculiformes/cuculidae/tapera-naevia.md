@@ -159,8 +159,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/tapera-naevia/1.jpg
+  page: https://www.inaturalist.org/photos/612709300
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612709300/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/tapera-naevia/1.jpg
+  page: https://www.inaturalist.org/photos/612709300
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612709300/original.jpg
+- file: images/cuculiformes/cuculidae/tapera-naevia/2.jpg
+  page: https://www.inaturalist.org/photos/611240771
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611240771/original.jpg
+- file: images/cuculiformes/cuculidae/tapera-naevia/3.jpg
+  page: https://www.inaturalist.org/photos/616499529
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616499529/original.jpg
+- file: images/cuculiformes/cuculidae/tapera-naevia/4.jpg
+  page: https://www.inaturalist.org/photos/619293521
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619293521/original.jpg
+- file: images/cuculiformes/cuculidae/tapera-naevia/5.jpg
+  page: https://www.inaturalist.org/photos/631620878
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631620878/original.jpg
 ---
 
 

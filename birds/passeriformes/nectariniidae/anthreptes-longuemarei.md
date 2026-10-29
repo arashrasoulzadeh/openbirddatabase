@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/anthreptes-longuemarei/1.jpg
+  page: https://www.inaturalist.org/photos/473353313
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473353313/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/anthreptes-longuemarei/1.jpg
+  page: https://www.inaturalist.org/photos/473353313
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473353313/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-longuemarei/2.jpg
+  page: https://www.inaturalist.org/photos/294929435
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/294929435/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-longuemarei/3.jpg
+  page: https://www.inaturalist.org/photos/238067513
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238067513/original.jpeg
+- file: images/passeriformes/nectariniidae/anthreptes-longuemarei/4.jpg
+  page: https://www.inaturalist.org/photos/34795193
+  author: Michiel de Groot
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/34795193/original.jpeg
+- file: images/passeriformes/nectariniidae/anthreptes-longuemarei/5.jpg
+  page: https://www.inaturalist.org/photos/473353328
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473353328/original.jpg
 ---
 
 

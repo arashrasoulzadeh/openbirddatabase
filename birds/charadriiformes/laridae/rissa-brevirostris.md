@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/charadriiformes/laridae/rissa-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/686458852
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686458852/original.jpg
+images:
+- file: images/charadriiformes/laridae/rissa-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/686458852
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686458852/original.jpg
+- file: images/charadriiformes/laridae/rissa-brevirostris/2.jpg
+  page: https://www.inaturalist.org/photos/685368686
+  author: Константин Шатилов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685368686/original.jpg
+- file: images/charadriiformes/laridae/rissa-brevirostris/3.jpg
+  page: https://www.inaturalist.org/photos/713602628
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713602628/original.jpg
+- file: images/charadriiformes/laridae/rissa-brevirostris/4.jpg
+  page: https://www.inaturalist.org/photos/721681744
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721681744/original.jpg
+- file: images/charadriiformes/laridae/rissa-brevirostris/5.jpg
+  page: https://www.inaturalist.org/photos/732224600
+  author: patrickc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732224600/original.jpg
 ---
 
 

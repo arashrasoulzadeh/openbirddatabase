@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/aquila-africana/1.jpg
+  page: https://www.inaturalist.org/photos/640582794
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640582794/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aquila-africana/1.jpg
+  page: https://www.inaturalist.org/photos/640582794
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640582794/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-africana/2.jpg
+  page: https://www.inaturalist.org/photos/473812875
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473812875/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-africana/3.jpg
+  page: https://www.inaturalist.org/photos/180730190
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180730190/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-africana/4.jpg
+  page: https://www.inaturalist.org/photos/640582811
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640582811/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-africana/5.jpg
+  page: https://www.inaturalist.org/photos/476162801
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476162801/original.jpg
 ---
 
 

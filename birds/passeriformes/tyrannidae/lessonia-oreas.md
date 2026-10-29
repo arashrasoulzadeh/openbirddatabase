@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/lessonia-oreas/1.jpg
+  page: https://www.inaturalist.org/photos/649320184
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649320184/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/lessonia-oreas/1.jpg
+  page: https://www.inaturalist.org/photos/649320184
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649320184/original.jpg
+- file: images/passeriformes/tyrannidae/lessonia-oreas/2.jpg
+  page: https://www.inaturalist.org/photos/498817388
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498817388/original.jpg
+- file: images/passeriformes/tyrannidae/lessonia-oreas/3.jpg
+  page: https://www.inaturalist.org/photos/491351305
+  author: Lucas Carbone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491351305/original.jpeg
+- file: images/passeriformes/tyrannidae/lessonia-oreas/4.jpg
+  page: https://www.inaturalist.org/photos/496771530
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496771530/original.jpeg
+- file: images/passeriformes/tyrannidae/lessonia-oreas/5.jpg
+  page: https://www.inaturalist.org/photos/541000562
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541000562/original.jpg
 ---
 
 

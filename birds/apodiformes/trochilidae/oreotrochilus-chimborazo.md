@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/oreotrochilus-chimborazo/1.jpg
+  page: https://www.inaturalist.org/photos/685656545
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685656545/original.jpg
+images:
+- file: images/apodiformes/trochilidae/oreotrochilus-chimborazo/1.jpg
+  page: https://www.inaturalist.org/photos/685656545
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685656545/original.jpg
+- file: images/apodiformes/trochilidae/oreotrochilus-chimborazo/2.jpg
+  page: https://www.inaturalist.org/photos/462963778
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462963778/original.jpg
+- file: images/apodiformes/trochilidae/oreotrochilus-chimborazo/3.jpg
+  page: https://www.inaturalist.org/photos/558778835
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558778835/original.jpg
+- file: images/apodiformes/trochilidae/oreotrochilus-chimborazo/4.jpg
+  page: https://www.inaturalist.org/photos/578430169
+  author: Jason Hill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578430169/original.jpg
+- file: images/apodiformes/trochilidae/oreotrochilus-chimborazo/5.jpg
+  page: https://www.inaturalist.org/photos/349605532
+  author: Mirko Schoenitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349605532/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/syrrhaptes-tibetanus/1.jpg
+  page: https://www.inaturalist.org/photos/418805697
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418805697/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/syrrhaptes-tibetanus/1.jpg
+  page: https://www.inaturalist.org/photos/418805697
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418805697/original.jpg
+- file: images/pterocliformes/pteroclidae/syrrhaptes-tibetanus/2.jpg
+  page: https://www.inaturalist.org/photos/367800706
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800706/original.jpg
+- file: images/pterocliformes/pteroclidae/syrrhaptes-tibetanus/3.jpg
+  page: https://www.inaturalist.org/photos/418805691
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418805691/original.jpg
+- file: images/pterocliformes/pteroclidae/syrrhaptes-tibetanus/4.jpg
+  page: https://www.inaturalist.org/photos/418805681
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418805681/original.jpg
+- file: images/pterocliformes/pteroclidae/syrrhaptes-tibetanus/5.jpg
+  page: https://www.inaturalist.org/photos/418805669
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418805669/original.jpg
 ---
 
 

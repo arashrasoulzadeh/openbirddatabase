@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/capito-squamatus/1.jpg
+  page: https://www.inaturalist.org/photos/609214198
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609214198/original.jpg
+images:
+- file: images/piciformes/capitonidae/capito-squamatus/1.jpg
+  page: https://www.inaturalist.org/photos/609214198
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609214198/original.jpg
+- file: images/piciformes/capitonidae/capito-squamatus/2.jpg
+  page: https://www.inaturalist.org/photos/355765136
+  author: Niko Ioannidis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355765136/original.jpeg
+- file: images/piciformes/capitonidae/capito-squamatus/3.jpg
+  page: https://www.inaturalist.org/photos/172523064
+  author: Skjold Søndergaard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172523064/original.jpg
+- file: images/piciformes/capitonidae/capito-squamatus/4.jpg
+  page: https://www.inaturalist.org/photos/104823115
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104823115/original.jpeg
+- file: images/piciformes/capitonidae/capito-squamatus/5.jpg
+  page: https://www.inaturalist.org/photos/10430552
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/10430552/original.jpg
 ---
 
 

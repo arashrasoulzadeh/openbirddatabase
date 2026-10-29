@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/catharus-gracilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/607295215
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607295215/original.jpg
+images:
+- file: images/passeriformes/turdidae/catharus-gracilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/607295215
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607295215/original.jpg
+- file: images/passeriformes/turdidae/catharus-gracilirostris/2.jpg
+  page: https://www.inaturalist.org/photos/614258249
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614258249/original.jpg
+- file: images/passeriformes/turdidae/catharus-gracilirostris/3.jpg
+  page: https://www.inaturalist.org/photos/621259592
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621259592/original.jpg
+- file: images/passeriformes/turdidae/catharus-gracilirostris/4.jpg
+  page: https://www.inaturalist.org/photos/635251443
+  author: Karen Szafrajda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635251443/original.jpg
+- file: images/passeriformes/turdidae/catharus-gracilirostris/5.jpg
+  page: https://www.inaturalist.org/photos/657966461
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657966461/original.jpg
 ---
 
 

@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/anseriformes/anatidae/anas-crecca/1.jpg
+  page: https://www.inaturalist.org/photos/605105407
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605105407/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-crecca/1.jpg
+  page: https://www.inaturalist.org/photos/605105407
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605105407/original.jpg
+- file: images/anseriformes/anatidae/anas-crecca/2.jpg
+  page: https://www.inaturalist.org/photos/604595889
+  author: Sylvain Montagner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604595889/original.jpg
+- file: images/anseriformes/anatidae/anas-crecca/3.jpg
+  page: https://www.inaturalist.org/photos/605090622
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090622/original.jpg
+- file: images/anseriformes/anatidae/anas-crecca/4.jpg
+  page: https://www.inaturalist.org/photos/605453457
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605453457/original.jpg
+- file: images/anseriformes/anatidae/anas-crecca/5.jpg
+  page: https://www.inaturalist.org/photos/605622653
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605622653/original.jpg
 ---
 
 

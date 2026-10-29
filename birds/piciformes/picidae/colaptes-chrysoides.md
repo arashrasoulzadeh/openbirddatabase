@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/piciformes/picidae/colaptes-chrysoides/1.jpg
+  page: https://www.inaturalist.org/photos/610283298
+  author: Craig Martin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610283298/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-chrysoides/1.jpg
+  page: https://www.inaturalist.org/photos/610283298
+  author: Craig Martin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610283298/original.jpg
+- file: images/piciformes/picidae/colaptes-chrysoides/2.jpg
+  page: https://www.inaturalist.org/photos/641057887
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641057887/original.jpg
+- file: images/piciformes/picidae/colaptes-chrysoides/3.jpg
+  page: https://www.inaturalist.org/photos/614382272
+  author: k7hpn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614382272/original.jpg
+- file: images/piciformes/picidae/colaptes-chrysoides/4.jpg
+  page: https://www.inaturalist.org/photos/614391156
+  author: Trey Philips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614391156/original.jpg
+- file: images/piciformes/picidae/colaptes-chrysoides/5.jpg
+  page: https://www.inaturalist.org/photos/620319526
+  author: Wyatt Sibilia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620319526/original.jpg
 ---
 
 

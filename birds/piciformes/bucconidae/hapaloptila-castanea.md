@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/hapaloptila-castanea/1.jpg
+  page: https://www.inaturalist.org/photos/164219676
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164219676/original.jpeg
+images:
+- file: images/piciformes/bucconidae/hapaloptila-castanea/1.jpg
+  page: https://www.inaturalist.org/photos/164219676
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164219676/original.jpeg
+- file: images/piciformes/bucconidae/hapaloptila-castanea/2.jpg
+  page: https://www.inaturalist.org/photos/175508152
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175508152/original.jpg
+- file: images/piciformes/bucconidae/hapaloptila-castanea/3.jpg
+  page: https://www.inaturalist.org/photos/15050877
+  author: Daniel van der Post
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/15050877/original.jpeg
+- file: images/piciformes/bucconidae/hapaloptila-castanea/4.jpg
+  page: https://www.inaturalist.org/photos/164219687
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164219687/original.jpeg
+- file: images/piciformes/bucconidae/hapaloptila-castanea/5.jpg
+  page: https://www.inaturalist.org/photos/164219705
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164219705/original.jpeg
 ---
 
 

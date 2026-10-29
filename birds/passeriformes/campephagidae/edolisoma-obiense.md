@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/edolisoma-obiense/1.jpg
+  page: https://www.inaturalist.org/photos/631158620
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631158620/original.jpg
+images:
+- file: images/passeriformes/campephagidae/edolisoma-obiense/1.jpg
+  page: https://www.inaturalist.org/photos/631158620
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631158620/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-obiense/2.jpg
+  page: https://www.inaturalist.org/photos/697491272
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697491272/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-obiense/3.jpg
+  page: https://www.inaturalist.org/photos/468525022
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468525022/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-obiense/4.jpg
+  page: https://www.inaturalist.org/photos/525399837
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525399837/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-obiense/5.jpg
+  page: https://www.inaturalist.org/photos/582483489
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582483489/original.jpg
 ---
 
 

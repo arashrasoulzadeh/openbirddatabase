@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/serpophaga-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/610880137
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610880137/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/serpophaga-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/610880137
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610880137/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/612728072
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612728072/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/611880506
+  author: Henrry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611880506/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/617257416
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617257416/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/621305541
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621305541/original.jpg
 ---
 
 

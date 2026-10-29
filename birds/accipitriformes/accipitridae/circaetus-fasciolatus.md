@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circaetus-fasciolatus/1.jpg
+  page: https://www.inaturalist.org/photos/532470262
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532470262/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circaetus-fasciolatus/1.jpg
+  page: https://www.inaturalist.org/photos/532470262
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532470262/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-fasciolatus/2.jpg
+  page: https://www.inaturalist.org/photos/586474396
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586474396/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-fasciolatus/3.jpg
+  page: https://www.inaturalist.org/photos/421965370
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/421965370/original.jpeg
+- file: images/accipitriformes/accipitridae/circaetus-fasciolatus/4.jpg
+  page: https://www.inaturalist.org/photos/610732881
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610732881/original.jpg
+- file: images/accipitriformes/accipitridae/circaetus-fasciolatus/5.jpg
+  page: https://www.inaturalist.org/photos/477131898
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477131898/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myioborus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/607293886
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607293886/original.jpg
+images:
+- file: images/passeriformes/parulidae/myioborus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/607293886
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607293886/original.jpg
+- file: images/passeriformes/parulidae/myioborus-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/614718114
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614718114/original.jpg
+- file: images/passeriformes/parulidae/myioborus-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/619110456
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619110456/original.jpg
+- file: images/passeriformes/parulidae/myioborus-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/623770660
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623770660/original.jpg
+- file: images/passeriformes/parulidae/myioborus-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/621305430
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621305430/original.jpg
 ---
 
 

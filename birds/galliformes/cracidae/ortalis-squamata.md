@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-squamata/1.jpg
+  page: https://www.inaturalist.org/photos/604541094
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541094/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-squamata/1.jpg
+  page: https://www.inaturalist.org/photos/604541094
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541094/original.jpg
+- file: images/galliformes/cracidae/ortalis-squamata/2.jpg
+  page: https://www.inaturalist.org/photos/607876020
+  author: Pedro T. Terres
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607876020/original.jpg
+- file: images/galliformes/cracidae/ortalis-squamata/3.jpg
+  page: https://www.inaturalist.org/photos/619257469
+  author: Aleksey
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619257469/original.jpg
+- file: images/galliformes/cracidae/ortalis-squamata/4.jpg
+  page: https://www.inaturalist.org/photos/618677552
+  author: André Ambrozio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618677552/original.jpg
+- file: images/galliformes/cracidae/ortalis-squamata/5.jpg
+  page: https://www.inaturalist.org/photos/631328349
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631328349/original.jpg
 ---
 
 

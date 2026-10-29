@@ -167,10 +167,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/muscicapidae/copsychus-malabaricus/1.jpg
+  page: https://www.inaturalist.org/photos/609402267
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609402267/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/copsychus-malabaricus/1.jpg
+  page: https://www.inaturalist.org/photos/609402267
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609402267/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-malabaricus/2.jpg
+  page: https://www.inaturalist.org/photos/606819971
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606819971/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-malabaricus/3.jpg
+  page: https://www.inaturalist.org/photos/609187854
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609187854/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-malabaricus/4.jpg
+  page: https://www.inaturalist.org/photos/608757930
+  author: Neal Kelso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608757930/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-malabaricus/5.jpg
+  page: https://www.inaturalist.org/photos/610190986
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610190986/original.jpg
 ---
 
 

@@ -199,8 +199,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-pleschanka/1.jpg
+  page: https://www.inaturalist.org/photos/634398385
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634398385/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-pleschanka/1.jpg
+  page: https://www.inaturalist.org/photos/634398385
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634398385/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-pleschanka/2.jpg
+  page: https://www.inaturalist.org/photos/684098130
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684098130/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-pleschanka/3.jpg
+  page: https://www.inaturalist.org/photos/641949030
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641949030/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-pleschanka/4.jpg
+  page: https://www.inaturalist.org/photos/638445226
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638445226/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-pleschanka/5.jpg
+  page: https://www.inaturalist.org/photos/641730328
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641730328/original.jpg
 ---
 
 

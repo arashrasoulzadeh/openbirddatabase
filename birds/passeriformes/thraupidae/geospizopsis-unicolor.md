@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/geospizopsis-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/616638806
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616638806/original.jpg
+images:
+- file: images/passeriformes/thraupidae/geospizopsis-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/616638806
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616638806/original.jpg
+- file: images/passeriformes/thraupidae/geospizopsis-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/636820192
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636820192/original.jpg
+- file: images/passeriformes/thraupidae/geospizopsis-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/616638790
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616638790/original.jpg
+- file: images/passeriformes/thraupidae/geospizopsis-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/639865049
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639865049/original.jpg
+- file: images/passeriformes/thraupidae/geospizopsis-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/639865051
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639865051/original.jpg
 ---
 
 

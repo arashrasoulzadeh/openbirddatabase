@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/rhynchocyclus-fulvipectus/1.jpg
+  page: https://www.inaturalist.org/photos/488808696
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488808696/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/rhynchocyclus-fulvipectus/1.jpg
+  page: https://www.inaturalist.org/photos/488808696
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488808696/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-fulvipectus/2.jpg
+  page: https://www.inaturalist.org/photos/528097374
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528097374/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-fulvipectus/3.jpg
+  page: https://www.inaturalist.org/photos/265779433
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265779433/original.jpeg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-fulvipectus/4.jpg
+  page: https://www.inaturalist.org/photos/216156180
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/216156180/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-fulvipectus/5.jpg
+  page: https://www.inaturalist.org/photos/488808673
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488808673/original.jpg
 ---
 
 

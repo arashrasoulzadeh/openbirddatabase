@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/heterotetrax-rueppelii/1.jpg
+  page: https://www.inaturalist.org/photos/646586533
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646586533/original.jpg
+images:
+- file: images/otidiformes/otididae/heterotetrax-rueppelii/1.jpg
+  page: https://www.inaturalist.org/photos/646586533
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646586533/original.jpg
+- file: images/otidiformes/otididae/heterotetrax-rueppelii/2.jpg
+  page: https://www.inaturalist.org/photos/653733823
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653733823/original.jpg
+- file: images/otidiformes/otididae/heterotetrax-rueppelii/3.jpg
+  page: https://www.inaturalist.org/photos/663810203
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663810203/original.jpg
+- file: images/otidiformes/otididae/heterotetrax-rueppelii/4.jpg
+  page: https://www.inaturalist.org/photos/662693686
+  author: Tamir Gershberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662693686/original.jpg
+- file: images/otidiformes/otididae/heterotetrax-rueppelii/5.jpg
+  page: https://www.inaturalist.org/photos/646586631
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646586631/original.jpg
 ---
 
 

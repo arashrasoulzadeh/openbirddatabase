@@ -175,10 +175,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/estrildidae/lonchura-punctulata/1.jpg
+  page: https://www.inaturalist.org/photos/605182666
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605182666/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-punctulata/1.jpg
+  page: https://www.inaturalist.org/photos/605182666
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605182666/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-punctulata/2.jpg
+  page: https://www.inaturalist.org/photos/604680643
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604680643/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-punctulata/3.jpg
+  page: https://www.inaturalist.org/photos/609213555
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609213555/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-punctulata/4.jpg
+  page: https://www.inaturalist.org/photos/610079890
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610079890/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-punctulata/5.jpg
+  page: https://www.inaturalist.org/photos/609903157
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609903157/original.jpg
 ---
 
 

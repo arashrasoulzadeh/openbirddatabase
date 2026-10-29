@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/vireonidae/vireo-huttoni/1.jpg
+  page: https://www.inaturalist.org/photos/608206657
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608206657/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-huttoni/1.jpg
+  page: https://www.inaturalist.org/photos/608206657
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608206657/original.jpg
+- file: images/passeriformes/vireonidae/vireo-huttoni/2.jpg
+  page: https://www.inaturalist.org/photos/611992335
+  author: Zack Abbey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611992335/original.jpg
+- file: images/passeriformes/vireonidae/vireo-huttoni/3.jpg
+  page: https://www.inaturalist.org/photos/610860536
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610860536/original.jpg
+- file: images/passeriformes/vireonidae/vireo-huttoni/4.jpg
+  page: https://www.inaturalist.org/photos/610170658
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610170658/original.jpg
+- file: images/passeriformes/vireonidae/vireo-huttoni/5.jpg
+  page: https://www.inaturalist.org/photos/616464871
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616464871/original.jpg
 ---
 
 

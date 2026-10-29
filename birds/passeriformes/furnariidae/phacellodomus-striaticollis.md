@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/phacellodomus-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/605491983
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491983/original.jpg
+images:
+- file: images/passeriformes/furnariidae/phacellodomus-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/605491983
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491983/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-striaticollis/2.jpg
+  page: https://www.inaturalist.org/photos/605524476
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605524476/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-striaticollis/3.jpg
+  page: https://www.inaturalist.org/photos/605807146
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605807146/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-striaticollis/4.jpg
+  page: https://www.inaturalist.org/photos/609361799
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609361799/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-striaticollis/5.jpg
+  page: https://www.inaturalist.org/photos/611793918
+  author: Museo CN del depto San Cristobal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611793918/original.jpg
 ---
 
 

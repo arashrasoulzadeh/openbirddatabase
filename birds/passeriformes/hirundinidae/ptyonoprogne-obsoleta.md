@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/ptyonoprogne-obsoleta/1.jpg
+  page: https://www.inaturalist.org/photos/614553691
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553691/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/ptyonoprogne-obsoleta/1.jpg
+  page: https://www.inaturalist.org/photos/614553691
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553691/original.jpg
+- file: images/passeriformes/hirundinidae/ptyonoprogne-obsoleta/2.jpg
+  page: https://www.inaturalist.org/photos/619889977
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619889977/original.jpg
+- file: images/passeriformes/hirundinidae/ptyonoprogne-obsoleta/3.jpg
+  page: https://www.inaturalist.org/photos/616654993
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616654993/original.jpg
+- file: images/passeriformes/hirundinidae/ptyonoprogne-obsoleta/4.jpg
+  page: https://www.inaturalist.org/photos/627464632
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627464632/original.jpg
+- file: images/passeriformes/hirundinidae/ptyonoprogne-obsoleta/5.jpg
+  page: https://www.inaturalist.org/photos/659001968
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659001968/original.jpg
 ---
 
 

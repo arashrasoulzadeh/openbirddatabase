@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/thraupidae/cyanerpes-caeruleus/1.jpg
+  page: https://www.inaturalist.org/photos/618368514
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618368514/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cyanerpes-caeruleus/1.jpg
+  page: https://www.inaturalist.org/photos/618368514
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618368514/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-caeruleus/2.jpg
+  page: https://www.inaturalist.org/photos/627771313
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627771313/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-caeruleus/3.jpg
+  page: https://www.inaturalist.org/photos/464120973
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464120973/original.jpeg
+- file: images/passeriformes/thraupidae/cyanerpes-caeruleus/4.jpg
+  page: https://www.inaturalist.org/photos/467755718
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467755718/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-caeruleus/5.jpg
+  page: https://www.inaturalist.org/photos/620150472
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620150472/original.jpg
 ---
 
 

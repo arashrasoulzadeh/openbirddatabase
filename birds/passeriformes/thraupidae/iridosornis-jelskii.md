@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/iridosornis-jelskii/1.jpg
+  page: https://www.inaturalist.org/photos/252643510
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252643510/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/iridosornis-jelskii/1.jpg
+  page: https://www.inaturalist.org/photos/252643510
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252643510/original.jpeg
+- file: images/passeriformes/thraupidae/iridosornis-jelskii/2.jpg
+  page: https://www.inaturalist.org/photos/338070388
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338070388/original.jpeg
+- file: images/passeriformes/thraupidae/iridosornis-jelskii/3.jpg
+  page: https://www.inaturalist.org/photos/352532079
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352532079/original.jpeg
+- file: images/passeriformes/thraupidae/iridosornis-jelskii/4.jpg
+  page: https://www.inaturalist.org/photos/338070379
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338070379/original.jpeg
+- file: images/passeriformes/thraupidae/iridosornis-jelskii/5.jpg
+  page: https://www.inaturalist.org/photos/338070369
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338070369/original.jpeg
 ---
 
 

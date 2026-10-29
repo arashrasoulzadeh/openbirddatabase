@@ -189,10 +189,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/turdidae/turdus-philomelos/1.jpg
+  page: https://www.inaturalist.org/photos/605705512
+  author: Phil James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605705512/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-philomelos/1.jpg
+  page: https://www.inaturalist.org/photos/605705512
+  author: Phil James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605705512/original.jpg
+- file: images/passeriformes/turdidae/turdus-philomelos/2.jpg
+  page: https://www.inaturalist.org/photos/605024685
+  author: Istvan Sipos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605024685/original.jpg
+- file: images/passeriformes/turdidae/turdus-philomelos/3.jpg
+  page: https://www.inaturalist.org/photos/605607127
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605607127/original.jpg
+- file: images/passeriformes/turdidae/turdus-philomelos/4.jpg
+  page: https://www.inaturalist.org/photos/604917642
+  author: Scott
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604917642/original.jpg
+- file: images/passeriformes/turdidae/turdus-philomelos/5.jpg
+  page: https://www.inaturalist.org/photos/605486838
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605486838/original.jpg
 ---
 
 

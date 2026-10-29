@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/andigena-nigrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/462705043
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462705043/original.jpeg
+images:
+- file: images/piciformes/ramphastidae/andigena-nigrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/462705043
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462705043/original.jpeg
+- file: images/piciformes/ramphastidae/andigena-nigrirostris/2.jpg
+  page: https://www.inaturalist.org/photos/468474261
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468474261/original.jpg
+- file: images/piciformes/ramphastidae/andigena-nigrirostris/3.jpg
+  page: https://www.inaturalist.org/photos/489348009
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489348009/original.jpg
+- file: images/piciformes/ramphastidae/andigena-nigrirostris/4.jpg
+  page: https://www.inaturalist.org/photos/475872970
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475872970/original.jpg
+- file: images/piciformes/ramphastidae/andigena-nigrirostris/5.jpg
+  page: https://www.inaturalist.org/photos/530087110
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530087110/original.jpg
 ---
 
 

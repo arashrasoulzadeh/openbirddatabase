@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/mino-dumontii/1.jpg
+  page: https://www.inaturalist.org/photos/712957344
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712957344/original.jpg
+images:
+- file: images/passeriformes/sturnidae/mino-dumontii/1.jpg
+  page: https://www.inaturalist.org/photos/712957344
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712957344/original.jpg
+- file: images/passeriformes/sturnidae/mino-dumontii/2.jpg
+  page: https://www.inaturalist.org/photos/564585978
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564585978/original.jpg
+- file: images/passeriformes/sturnidae/mino-dumontii/3.jpg
+  page: https://www.inaturalist.org/photos/568132726
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568132726/original.jpg
+- file: images/passeriformes/sturnidae/mino-dumontii/4.jpg
+  page: https://www.inaturalist.org/photos/577444763
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577444763/original.jpg
+- file: images/passeriformes/sturnidae/mino-dumontii/5.jpg
+  page: https://www.inaturalist.org/photos/616261373
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616261373/original.jpg
 ---
 
 

@@ -149,10 +149,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/psittaciformes/psittacidae/ara-rubrogenys/1.jpg
+  page: https://www.inaturalist.org/photos/625383268
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625383268/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/ara-rubrogenys/1.jpg
+  page: https://www.inaturalist.org/photos/625383268
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625383268/original.jpg
+- file: images/psittaciformes/psittacidae/ara-rubrogenys/2.jpg
+  page: https://www.inaturalist.org/photos/582858917
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582858917/original.jpg
+- file: images/psittaciformes/psittacidae/ara-rubrogenys/3.jpg
+  page: https://www.inaturalist.org/photos/358316093
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358316093/original.jpeg
+- file: images/psittaciformes/psittacidae/ara-rubrogenys/4.jpg
+  page: https://www.inaturalist.org/photos/218113781
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218113781/original.jpg
+- file: images/psittaciformes/psittacidae/ara-rubrogenys/5.jpg
+  page: https://www.inaturalist.org/photos/233948730
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233948730/original.jpeg
 ---
 
 

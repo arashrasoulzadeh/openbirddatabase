@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/embernagra-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/669874220
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669874220/original.jpg
+images:
+- file: images/passeriformes/thraupidae/embernagra-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/669874220
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669874220/original.jpg
+- file: images/passeriformes/thraupidae/embernagra-longicauda/2.jpg
+  page: https://www.inaturalist.org/photos/470780949
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470780949/original.jpeg
+- file: images/passeriformes/thraupidae/embernagra-longicauda/3.jpg
+  page: https://www.inaturalist.org/photos/352231131
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352231131/original.jpeg
+- file: images/passeriformes/thraupidae/embernagra-longicauda/4.jpg
+  page: https://www.inaturalist.org/photos/463679933
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463679933/original.jpg
+- file: images/passeriformes/thraupidae/embernagra-longicauda/5.jpg
+  page: https://www.inaturalist.org/photos/343005920
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343005920/original.jpeg
 ---
 
 

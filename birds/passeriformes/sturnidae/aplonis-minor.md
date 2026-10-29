@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/aplonis-minor/1.jpg
+  page: https://www.inaturalist.org/photos/683326979
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683326979/original.jpg
+images:
+- file: images/passeriformes/sturnidae/aplonis-minor/1.jpg
+  page: https://www.inaturalist.org/photos/683326979
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683326979/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-minor/2.jpg
+  page: https://www.inaturalist.org/photos/464114179
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464114179/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-minor/3.jpg
+  page: https://www.inaturalist.org/photos/590684390
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590684390/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-minor/4.jpg
+  page: https://www.inaturalist.org/photos/447237265
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447237265/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-minor/5.jpg
+  page: https://www.inaturalist.org/photos/271802277
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/271802277/original.jpeg
 ---
 
 

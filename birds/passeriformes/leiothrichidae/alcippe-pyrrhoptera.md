@@ -135,7 +135,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.7
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 62.2
   tail_length_mm: 64.8
   body_mass_g: 16.3
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-pyrrhoptera/1.jpg
+  page: https://www.inaturalist.org/photos/613435222
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435222/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-pyrrhoptera/1.jpg
+  page: https://www.inaturalist.org/photos/613435222
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435222/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-pyrrhoptera/2.jpg
+  page: https://www.inaturalist.org/photos/464516558
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464516558/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-pyrrhoptera/3.jpg
+  page: https://www.inaturalist.org/photos/598562623
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598562623/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-pyrrhoptera/4.jpg
+  page: https://www.inaturalist.org/photos/407673287
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407673287/original.jpeg
+- file: images/passeriformes/leiothrichidae/alcippe-pyrrhoptera/5.jpg
+  page: https://www.inaturalist.org/photos/263257809
+  author: Tony King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263257809/original.jpg
 ---
 
 

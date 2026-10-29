@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/creurgops-dentatus/1.jpg
+  page: https://www.inaturalist.org/photos/252470418
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252470418/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/creurgops-dentatus/1.jpg
+  page: https://www.inaturalist.org/photos/252470418
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252470418/original.jpeg
+- file: images/passeriformes/thraupidae/creurgops-dentatus/2.jpg
+  page: https://www.inaturalist.org/photos/255013039
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255013039/original.jpeg
+- file: images/passeriformes/thraupidae/creurgops-dentatus/3.jpg
+  page: https://www.inaturalist.org/photos/326941415
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326941415/original.jpeg
+- file: images/passeriformes/thraupidae/creurgops-dentatus/4.jpg
+  page: https://www.inaturalist.org/photos/326642997
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326642997/original.jpeg
+- file: images/passeriformes/thraupidae/creurgops-dentatus/5.jpg
+  page: https://www.inaturalist.org/photos/326642991
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326642991/original.jpeg
 ---
 
 

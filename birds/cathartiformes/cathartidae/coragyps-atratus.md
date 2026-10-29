@@ -175,10 +175,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/cathartiformes/cathartidae/coragyps-atratus/1.jpg
+  page: https://www.inaturalist.org/photos/605372421
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605372421/original.jpg
+images:
+- file: images/cathartiformes/cathartidae/coragyps-atratus/1.jpg
+  page: https://www.inaturalist.org/photos/605372421
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605372421/original.jpg
+- file: images/cathartiformes/cathartidae/coragyps-atratus/2.jpg
+  page: https://www.inaturalist.org/photos/605536596
+  author: nasua
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605536596/original.jpg
+- file: images/cathartiformes/cathartidae/coragyps-atratus/3.jpg
+  page: https://www.inaturalist.org/photos/605475522
+  author: John Thomlinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605475522/original.jpg
+- file: images/cathartiformes/cathartidae/coragyps-atratus/4.jpg
+  page: https://www.inaturalist.org/photos/604547219
+  author: mattmsa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604547219/original.jpg
+- file: images/cathartiformes/cathartidae/coragyps-atratus/5.jpg
+  page: https://www.inaturalist.org/photos/605675421
+  author: Noland Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605675421/original.jpg
 ---
 
 

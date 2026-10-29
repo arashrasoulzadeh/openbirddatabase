@@ -136,7 +136,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.0
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 84.8
   tail_length_mm: 33.8
   body_mass_g: 34.0
+image:
+  file: images/psittaciformes/psittaculidae/loriculus-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/636343108
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636343108/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/loriculus-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/636343108
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636343108/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-pusillus/2.jpg
+  page: https://www.inaturalist.org/photos/262300866
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262300866/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-pusillus/3.jpg
+  page: https://www.inaturalist.org/photos/313034065
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313034065/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-pusillus/4.jpg
+  page: https://www.inaturalist.org/photos/103434711
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103434711/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-pusillus/5.jpg
+  page: https://www.inaturalist.org/photos/60368755
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60368755/original.jpeg
 ---
 
 

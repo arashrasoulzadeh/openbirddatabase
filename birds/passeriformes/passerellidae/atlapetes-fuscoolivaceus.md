@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-fuscoolivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/611971100
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611971100/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-fuscoolivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/611971100
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611971100/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-fuscoolivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/196914095
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196914095/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-fuscoolivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/6482331
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/6482331/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-fuscoolivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/11422197
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/11422197/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-fuscoolivaceus/5.jpg
+  page: https://www.inaturalist.org/photos/12791163
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12791163/original.jpeg
 ---
 
 

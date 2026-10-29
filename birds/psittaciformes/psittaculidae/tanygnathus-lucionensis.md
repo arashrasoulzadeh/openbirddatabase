@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/tanygnathus-lucionensis/1.jpg
+  page: https://www.inaturalist.org/photos/611860671
+  author: Gao Lezhe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611860671/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/tanygnathus-lucionensis/1.jpg
+  page: https://www.inaturalist.org/photos/611860671
+  author: Gao Lezhe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611860671/original.jpg
+- file: images/psittaciformes/psittaculidae/tanygnathus-lucionensis/2.jpg
+  page: https://www.inaturalist.org/photos/523048070
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523048070/original.jpg
+- file: images/psittaciformes/psittaculidae/tanygnathus-lucionensis/3.jpg
+  page: https://www.inaturalist.org/photos/563234079
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563234079/original.jpg
+- file: images/psittaciformes/psittaculidae/tanygnathus-lucionensis/4.jpg
+  page: https://www.inaturalist.org/photos/582728054
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582728054/original.jpg
+- file: images/psittaciformes/psittaculidae/tanygnathus-lucionensis/5.jpg
+  page: https://www.inaturalist.org/photos/611860862
+  author: Gao Lezhe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611860862/original.jpg
 ---
 
 

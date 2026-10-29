@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/speculanas-specularis/1.jpg
+  page: https://www.inaturalist.org/photos/656489838
+  author: Duban Espinoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656489838/original.jpg
+images:
+- file: images/anseriformes/anatidae/speculanas-specularis/1.jpg
+  page: https://www.inaturalist.org/photos/656489838
+  author: Duban Espinoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656489838/original.jpg
+- file: images/anseriformes/anatidae/speculanas-specularis/2.jpg
+  page: https://www.inaturalist.org/photos/730599755
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730599755/original.jpg
+- file: images/anseriformes/anatidae/speculanas-specularis/3.jpg
+  page: https://www.inaturalist.org/photos/461555206
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461555206/original.jpeg
+- file: images/anseriformes/anatidae/speculanas-specularis/4.jpg
+  page: https://www.inaturalist.org/photos/468029871
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468029871/original.jpeg
+- file: images/anseriformes/anatidae/speculanas-specularis/5.jpg
+  page: https://www.inaturalist.org/photos/569363426
+  author: Eric Schmidt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569363426/original.jpg
 ---
 
 

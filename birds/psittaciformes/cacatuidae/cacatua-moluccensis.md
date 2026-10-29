@@ -155,10 +155,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 66
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-moluccensis/1.jpg
+  page: https://www.inaturalist.org/photos/615644775
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615644775/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-moluccensis/1.jpg
+  page: https://www.inaturalist.org/photos/615644775
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615644775/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-moluccensis/2.jpg
+  page: https://www.inaturalist.org/photos/631705733
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631705733/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-moluccensis/3.jpg
+  page: https://www.inaturalist.org/photos/667024505
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667024505/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-moluccensis/4.jpg
+  page: https://www.inaturalist.org/photos/482596525
+  author: Alexander Wentworth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482596525/original.jpeg
+- file: images/psittaciformes/cacatuidae/cacatua-moluccensis/5.jpg
+  page: https://www.inaturalist.org/photos/364955131
+  author: Grze Swis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364955131/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-barbatus/1.jpg
+  page: https://www.inaturalist.org/photos/609212623
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212623/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-barbatus/1.jpg
+  page: https://www.inaturalist.org/photos/609212623
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212623/original.jpg
+- file: images/passeriformes/fringillidae/spinus-barbatus/2.jpg
+  page: https://www.inaturalist.org/photos/608151332
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608151332/original.jpg
+- file: images/passeriformes/fringillidae/spinus-barbatus/3.jpg
+  page: https://www.inaturalist.org/photos/607192885
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607192885/original.jpg
+- file: images/passeriformes/fringillidae/spinus-barbatus/4.jpg
+  page: https://www.inaturalist.org/photos/608910001
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608910001/original.jpg
+- file: images/passeriformes/fringillidae/spinus-barbatus/5.jpg
+  page: https://www.inaturalist.org/photos/612988017
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612988017/original.jpg
 ---
 
 

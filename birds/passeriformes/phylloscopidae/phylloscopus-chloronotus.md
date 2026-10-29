@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-chloronotus/1.jpg
+  page: https://www.inaturalist.org/photos/621668370
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621668370/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-chloronotus/1.jpg
+  page: https://www.inaturalist.org/photos/621668370
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621668370/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-chloronotus/2.jpg
+  page: https://www.inaturalist.org/photos/417573935
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417573935/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-chloronotus/3.jpg
+  page: https://www.inaturalist.org/photos/370520161
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370520161/original.jpeg
+- file: images/passeriformes/phylloscopidae/phylloscopus-chloronotus/4.jpg
+  page: https://www.inaturalist.org/photos/600736248
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600736248/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-chloronotus/5.jpg
+  page: https://www.inaturalist.org/photos/445991094
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445991094/original.jpeg
 ---
 
 

@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 3
+image:
+  file: images/caprimulgiformes/caprimulgidae/phalaenoptilus-nuttallii/1.jpg
+  page: https://www.inaturalist.org/photos/617850516
+  author: brookesullivan3131
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617850516/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/phalaenoptilus-nuttallii/1.jpg
+  page: https://www.inaturalist.org/photos/617850516
+  author: brookesullivan3131
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617850516/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/phalaenoptilus-nuttallii/2.jpg
+  page: https://www.inaturalist.org/photos/619445273
+  author: Jon Eilers
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619445273/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/phalaenoptilus-nuttallii/3.jpg
+  page: https://www.inaturalist.org/photos/623116805
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623116805/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/phalaenoptilus-nuttallii/4.jpg
+  page: https://www.inaturalist.org/photos/636717965
+  author: k7hpn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636717965/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/phalaenoptilus-nuttallii/5.jpg
+  page: https://www.inaturalist.org/photos/639655679
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639655679/original.jpg
 ---
 
 

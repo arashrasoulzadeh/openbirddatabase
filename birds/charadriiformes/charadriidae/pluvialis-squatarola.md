@@ -205,10 +205,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/charadriiformes/charadriidae/pluvialis-squatarola/1.jpg
+  page: https://www.inaturalist.org/photos/605749091
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605749091/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/pluvialis-squatarola/1.jpg
+  page: https://www.inaturalist.org/photos/605749091
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605749091/original.jpg
+- file: images/charadriiformes/charadriidae/pluvialis-squatarola/2.jpg
+  page: https://www.inaturalist.org/photos/605577486
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605577486/original.jpg
+- file: images/charadriiformes/charadriidae/pluvialis-squatarola/3.jpg
+  page: https://www.inaturalist.org/photos/605005801
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605005801/original.jpg
+- file: images/charadriiformes/charadriidae/pluvialis-squatarola/4.jpg
+  page: https://www.inaturalist.org/photos/604488682
+  author: Anna L
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604488682/original.jpg
+- file: images/charadriiformes/charadriidae/pluvialis-squatarola/5.jpg
+  page: https://www.inaturalist.org/photos/604470911
+  author: Richard Shirky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604470911/original.jpg
 ---
 
 

@@ -152,8 +152,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-souzae/1.jpg
+  page: https://www.inaturalist.org/photos/444306412
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444306412/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-souzae/1.jpg
+  page: https://www.inaturalist.org/photos/444306412
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444306412/original.jpg
+- file: images/passeriformes/laniidae/lanius-souzae/2.jpg
+  page: https://www.inaturalist.org/photos/479465135
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479465135/original.jpg
+- file: images/passeriformes/laniidae/lanius-souzae/3.jpg
+  page: https://www.inaturalist.org/photos/349152810
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349152810/original.jpeg
+- file: images/passeriformes/laniidae/lanius-souzae/4.jpg
+  page: https://www.inaturalist.org/photos/52822642
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52822642/original.jpg
 ---
 
 

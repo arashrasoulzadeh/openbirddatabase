@@ -193,8 +193,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-parva/1.jpg
+  page: https://www.inaturalist.org/photos/612089548
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612089548/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-parva/1.jpg
+  page: https://www.inaturalist.org/photos/612089548
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612089548/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-parva/2.jpg
+  page: https://www.inaturalist.org/photos/616088431
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616088431/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-parva/3.jpg
+  page: https://www.inaturalist.org/photos/622356448
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356448/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-parva/4.jpg
+  page: https://www.inaturalist.org/photos/619489475
+  author: Corey Farwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619489475/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-parva/5.jpg
+  page: https://www.inaturalist.org/photos/675690235
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675690235/original.jpg
 ---
 
 

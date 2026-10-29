@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-eximius/1.jpg
+  page: https://www.inaturalist.org/photos/353841752
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353841752/original.png
+images:
+- file: images/passeriformes/cisticolidae/cisticola-eximius/1.jpg
+  page: https://www.inaturalist.org/photos/353841752
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353841752/original.png
+- file: images/passeriformes/cisticolidae/cisticola-eximius/2.jpg
+  page: https://www.inaturalist.org/photos/208744756
+  author: liam1294
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/208744756/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-eximius/3.jpg
+  page: https://www.inaturalist.org/photos/181148110
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181148110/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-eximius/4.jpg
+  page: https://www.inaturalist.org/photos/353841622
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353841622/original.png
+- file: images/passeriformes/cisticolidae/cisticola-eximius/5.jpg
+  page: https://www.inaturalist.org/photos/353841650
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353841650/original.png
 ---
 
 

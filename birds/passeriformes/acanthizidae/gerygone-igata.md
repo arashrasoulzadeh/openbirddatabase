@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/gerygone-igata/1.jpg
+  page: https://www.inaturalist.org/photos/605259432
+  author: Phoebe Zeller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259432/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/gerygone-igata/1.jpg
+  page: https://www.inaturalist.org/photos/605259432
+  author: Phoebe Zeller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259432/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-igata/2.jpg
+  page: https://www.inaturalist.org/photos/609411426
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609411426/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-igata/3.jpg
+  page: https://www.inaturalist.org/photos/606554906
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606554906/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-igata/4.jpg
+  page: https://www.inaturalist.org/photos/606081769
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606081769/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-igata/5.jpg
+  page: https://www.inaturalist.org/photos/608830616
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608830616/original.jpg
 ---
 
 

@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-fucata/1.jpg
+  page: https://www.inaturalist.org/photos/645910692
+  author: bko
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645910692/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-fucata/1.jpg
+  page: https://www.inaturalist.org/photos/645910692
+  author: bko
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645910692/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-fucata/2.jpg
+  page: https://www.inaturalist.org/photos/622488874
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622488874/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-fucata/3.jpg
+  page: https://www.inaturalist.org/photos/633407992
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633407992/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-fucata/4.jpg
+  page: https://www.inaturalist.org/photos/668867958
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668867958/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-fucata/5.jpg
+  page: https://www.inaturalist.org/photos/622488609
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622488609/original.jpg
 ---
 
 

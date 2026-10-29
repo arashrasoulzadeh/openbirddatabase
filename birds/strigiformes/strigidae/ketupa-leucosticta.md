@@ -130,8 +130,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/strigiformes/strigidae/ketupa-leucosticta/1.jpg
+  page: https://www.inaturalist.org/photos/662447243
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662447243/original.jpg
+images:
+- file: images/strigiformes/strigidae/ketupa-leucosticta/1.jpg
+  page: https://www.inaturalist.org/photos/662447243
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662447243/original.jpg
+- file: images/strigiformes/strigidae/ketupa-leucosticta/2.jpg
+  page: https://www.inaturalist.org/photos/555220311
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555220311/original.jpg
+- file: images/strigiformes/strigidae/ketupa-leucosticta/3.jpg
+  page: https://www.inaturalist.org/photos/367220004
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367220004/original.jpeg
+- file: images/strigiformes/strigidae/ketupa-leucosticta/4.jpg
+  page: https://www.inaturalist.org/photos/254873660
+  author: Tony King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254873660/original.jpeg
+- file: images/strigiformes/strigidae/ketupa-leucosticta/5.jpg
+  page: https://www.inaturalist.org/photos/180723095
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180723095/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-angolensis/1.jpg
+  page: https://www.inaturalist.org/photos/721084122
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721084122/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-angolensis/1.jpg
+  page: https://www.inaturalist.org/photos/721084122
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721084122/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-angolensis/2.jpg
+  page: https://www.inaturalist.org/photos/444650477
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444650477/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-angolensis/3.jpg
+  page: https://www.inaturalist.org/photos/458461405
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458461405/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-angolensis/4.jpg
+  page: https://www.inaturalist.org/photos/475695167
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475695167/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-angolensis/5.jpg
+  page: https://www.inaturalist.org/photos/50826339
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50826339/original.jpg
 ---
 
 

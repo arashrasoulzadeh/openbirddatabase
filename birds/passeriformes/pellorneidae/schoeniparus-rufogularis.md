@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/schoeniparus-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/614262056
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614262056/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/schoeniparus-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/614262056
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614262056/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-rufogularis/2.jpg
+  page: https://www.inaturalist.org/photos/396670075
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396670075/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-rufogularis/3.jpg
+  page: https://www.inaturalist.org/photos/546755173
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546755173/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-rufogularis/4.jpg
+  page: https://www.inaturalist.org/photos/547341256
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547341256/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-rufogularis/5.jpg
+  page: https://www.inaturalist.org/photos/614262065
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614262065/original.jpg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-choliba/1.jpg
+  page: https://www.inaturalist.org/photos/604900891
+  author: Cajá-manga
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604900891/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-choliba/1.jpg
+  page: https://www.inaturalist.org/photos/604900891
+  author: Cajá-manga
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604900891/original.jpg
+- file: images/strigiformes/strigidae/megascops-choliba/2.jpg
+  page: https://www.inaturalist.org/photos/605073029
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605073029/original.jpg
+- file: images/strigiformes/strigidae/megascops-choliba/3.jpg
+  page: https://www.inaturalist.org/photos/607820333
+  author: karuquebec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607820333/original.jpg
+- file: images/strigiformes/strigidae/megascops-choliba/4.jpg
+  page: https://www.inaturalist.org/photos/611110769
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611110769/original.jpg
+- file: images/strigiformes/strigidae/megascops-choliba/5.jpg
+  page: https://www.inaturalist.org/photos/611964879
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611964879/original.jpg
 ---
 
 

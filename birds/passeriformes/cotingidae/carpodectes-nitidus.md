@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/carpodectes-nitidus/1.jpg
+  page: https://www.inaturalist.org/photos/606194441
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606194441/original.jpg
+images:
+- file: images/passeriformes/cotingidae/carpodectes-nitidus/1.jpg
+  page: https://www.inaturalist.org/photos/606194441
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606194441/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-nitidus/2.jpg
+  page: https://www.inaturalist.org/photos/634709038
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634709038/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-nitidus/3.jpg
+  page: https://www.inaturalist.org/photos/636789112
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636789112/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-nitidus/4.jpg
+  page: https://www.inaturalist.org/photos/742193498
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742193498/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-nitidus/5.jpg
+  page: https://www.inaturalist.org/photos/480985849
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480985849/original.jpeg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-leucogastra/1.jpg
+  page: https://www.inaturalist.org/photos/714122507
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714122507/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-leucogastra/1.jpg
+  page: https://www.inaturalist.org/photos/714122507
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714122507/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-leucogastra/2.jpg
+  page: https://www.inaturalist.org/photos/549368587
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549368587/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-leucogastra/3.jpg
+  page: https://www.inaturalist.org/photos/573416236
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573416236/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-leucogastra/4.jpg
+  page: https://www.inaturalist.org/photos/577444829
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577444829/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-leucogastra/5.jpg
+  page: https://www.inaturalist.org/photos/714122521
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714122521/original.jpg
 ---
 
 

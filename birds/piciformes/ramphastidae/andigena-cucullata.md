@@ -135,8 +135,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/andigena-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/587194363
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194363/original.jpg
+images:
+- file: images/piciformes/ramphastidae/andigena-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/587194363
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194363/original.jpg
+- file: images/piciformes/ramphastidae/andigena-cucullata/2.jpg
+  page: https://www.inaturalist.org/photos/96027927
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96027927/original.jpeg
+- file: images/piciformes/ramphastidae/andigena-cucullata/3.jpg
+  page: https://www.inaturalist.org/photos/587194362
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194362/original.jpg
+- file: images/piciformes/ramphastidae/andigena-cucullata/4.jpg
+  page: https://www.inaturalist.org/photos/96027912
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/96027912/original.jpeg
 ---
 
 

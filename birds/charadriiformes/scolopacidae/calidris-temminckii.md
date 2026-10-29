@@ -199,10 +199,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/charadriiformes/scolopacidae/calidris-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/606856819
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606856819/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/606856819
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606856819/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-temminckii/2.jpg
+  page: https://www.inaturalist.org/photos/605840627
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605840627/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-temminckii/3.jpg
+  page: https://www.inaturalist.org/photos/616761566
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761566/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-temminckii/4.jpg
+  page: https://www.inaturalist.org/photos/619541738
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619541738/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-temminckii/5.jpg
+  page: https://www.inaturalist.org/photos/624573178
+  author: Nicolás Tamargo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624573178/original.jpg
 ---
 
 

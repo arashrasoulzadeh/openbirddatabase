@@ -150,7 +150,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 37.0
@@ -158,6 +159,20 @@ morphology:
   wing_length_mm: 214.9
   tail_length_mm: 81.6
   body_mass_g: 333.0
+image:
+  file: images/psittaciformes/psittacidae/psittacus-timneh/1.jpg
+  page: http://www.flickr.com/photos/55368994@N06/7141599081
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/111215/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/psittacus-timneh/1.jpg
+  page: http://www.flickr.com/photos/55368994@N06/7141599081
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/111215/original.jpg
 ---
 
 

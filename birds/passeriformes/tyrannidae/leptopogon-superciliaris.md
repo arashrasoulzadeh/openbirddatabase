@@ -149,8 +149,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/leptopogon-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/652843100
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652843100/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/leptopogon-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/652843100
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652843100/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/719215031
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719215031/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/464381688
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464381688/original.jpeg
+- file: images/passeriformes/tyrannidae/leptopogon-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/463195612
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463195612/original.jpeg
+- file: images/passeriformes/tyrannidae/leptopogon-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/484294879
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484294879/original.jpg
 ---
 
 

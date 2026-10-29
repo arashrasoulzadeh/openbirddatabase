@@ -200,10 +200,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/passeridae/passer-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/604959732
+  author: FUKUDA Kazuhito 福田一人
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604959732/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/604959732
+  author: FUKUDA Kazuhito 福田一人
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604959732/original.jpg
+- file: images/passeriformes/passeridae/passer-montanus/2.jpg
+  page: https://www.inaturalist.org/photos/604822496
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604822496/original.jpg
+- file: images/passeriformes/passeridae/passer-montanus/3.jpg
+  page: https://www.inaturalist.org/photos/605447216
+  author: Михаил Языков
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605447216/original.jpg
+- file: images/passeriformes/passeridae/passer-montanus/4.jpg
+  page: https://www.inaturalist.org/photos/605637738
+  author: Вячеслав Шуплецов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605637738/original.jpg
+- file: images/passeriformes/passeridae/passer-montanus/5.jpg
+  page: https://www.inaturalist.org/photos/605674916
+  author: Шухободская Ольга Владимировна
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605674916/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/634783613
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634783613/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/634783613
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634783613/original.jpg
+- file: images/passeriformes/turdidae/turdus-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/518682525
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518682525/original.jpg
+- file: images/passeriformes/turdidae/turdus-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/362204233
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362204233/original.jpeg
+- file: images/passeriformes/turdidae/turdus-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/601314941
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601314941/original.jpg
+- file: images/passeriformes/turdidae/turdus-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/264782709
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264782709/original.jpg
 ---
 
 

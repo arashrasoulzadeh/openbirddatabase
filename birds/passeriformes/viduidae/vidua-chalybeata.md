@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/viduidae/vidua-chalybeata/1.jpg
+  page: https://www.inaturalist.org/photos/612786535
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612786535/original.jpg
+images:
+- file: images/passeriformes/viduidae/vidua-chalybeata/1.jpg
+  page: https://www.inaturalist.org/photos/612786535
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612786535/original.jpg
+- file: images/passeriformes/viduidae/vidua-chalybeata/2.jpg
+  page: https://www.inaturalist.org/photos/649083382
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649083382/original.jpg
+- file: images/passeriformes/viduidae/vidua-chalybeata/3.jpg
+  page: https://www.inaturalist.org/photos/621690291
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621690291/original.jpg
+- file: images/passeriformes/viduidae/vidua-chalybeata/4.jpg
+  page: https://www.inaturalist.org/photos/662364817
+  author: George
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662364817/original.jpg
+- file: images/passeriformes/viduidae/vidua-chalybeata/5.jpg
+  page: https://www.inaturalist.org/photos/700428558
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700428558/original.jpg
 ---
 
 

@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/parulidae/parkesia-motacilla/1.jpg
+  page: https://www.inaturalist.org/photos/605679772
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605679772/original.jpg
+images:
+- file: images/passeriformes/parulidae/parkesia-motacilla/1.jpg
+  page: https://www.inaturalist.org/photos/605679772
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605679772/original.jpg
+- file: images/passeriformes/parulidae/parkesia-motacilla/2.jpg
+  page: https://www.inaturalist.org/photos/609846972
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609846972/original.jpg
+- file: images/passeriformes/parulidae/parkesia-motacilla/3.jpg
+  page: https://www.inaturalist.org/photos/611573203
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611573203/original.jpg
+- file: images/passeriformes/parulidae/parkesia-motacilla/4.jpg
+  page: https://www.inaturalist.org/photos/606177198
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606177198/original.jpg
+- file: images/passeriformes/parulidae/parkesia-motacilla/5.jpg
+  page: https://www.inaturalist.org/photos/614975295
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975295/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/primolius-couloni/1.jpg
+  page: https://www.inaturalist.org/photos/626303814
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626303814/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/primolius-couloni/1.jpg
+  page: https://www.inaturalist.org/photos/626303814
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626303814/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-couloni/2.jpg
+  page: https://www.inaturalist.org/photos/475451878
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475451878/original.jpeg
+- file: images/psittaciformes/psittacidae/primolius-couloni/3.jpg
+  page: https://www.inaturalist.org/photos/169674408
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/169674408/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-couloni/4.jpg
+  page: https://www.inaturalist.org/photos/113229941
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113229941/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-couloni/5.jpg
+  page: https://www.inaturalist.org/photos/17426951
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17426951/original.jpeg
 ---
 
 

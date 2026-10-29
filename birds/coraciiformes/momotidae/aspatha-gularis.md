@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/momotidae/aspatha-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/611586213
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611586213/original.jpg
+images:
+- file: images/coraciiformes/momotidae/aspatha-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/611586213
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611586213/original.jpg
+- file: images/coraciiformes/momotidae/aspatha-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/616779714
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616779714/original.jpg
+- file: images/coraciiformes/momotidae/aspatha-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/639751445
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639751445/original.jpg
+- file: images/coraciiformes/momotidae/aspatha-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/476628506
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476628506/original.jpeg
+- file: images/coraciiformes/momotidae/aspatha-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/488102703
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488102703/original.jpeg
 ---
 
 

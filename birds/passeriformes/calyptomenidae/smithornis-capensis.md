@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/calyptomenidae/smithornis-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/601649371
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601649371/original.jpg
+images:
+- file: images/passeriformes/calyptomenidae/smithornis-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/601649371
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601649371/original.jpg
+- file: images/passeriformes/calyptomenidae/smithornis-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/607284028
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607284028/original.jpg
+- file: images/passeriformes/calyptomenidae/smithornis-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/457463305
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457463305/original.jpg
+- file: images/passeriformes/calyptomenidae/smithornis-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/473064482
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473064482/original.jpg
+- file: images/passeriformes/calyptomenidae/smithornis-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/60109831
+  author: Ameet Mandavia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60109831/original.jpeg
 ---
 
 

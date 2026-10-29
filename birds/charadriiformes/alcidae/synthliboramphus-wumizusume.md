@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/charadriiformes/alcidae/synthliboramphus-wumizusume/1.jpg
+  page: https://www.inaturalist.org/photos/102491628
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102491628/original.jpeg
+images:
+- file: images/charadriiformes/alcidae/synthliboramphus-wumizusume/1.jpg
+  page: https://www.inaturalist.org/photos/102491628
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102491628/original.jpeg
+- file: images/charadriiformes/alcidae/synthliboramphus-wumizusume/2.jpg
+  page: https://www.inaturalist.org/photos/102491632
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102491632/original.jpeg
+- file: images/charadriiformes/alcidae/synthliboramphus-wumizusume/3.jpg
+  page: https://www.inaturalist.org/photos/102491640
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102491640/original.jpeg
+- file: images/charadriiformes/alcidae/synthliboramphus-wumizusume/4.jpg
+  page: https://www.inaturalist.org/photos/102491647
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102491647/original.jpeg
+- file: images/charadriiformes/alcidae/synthliboramphus-wumizusume/5.jpg
+  page: https://www.inaturalist.org/photos/102491652
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102491652/original.jpeg
 ---
 
 

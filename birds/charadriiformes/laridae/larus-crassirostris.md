@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/larus-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/609788693
+  author: camicami
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609788693/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/609788693
+  author: camicami
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609788693/original.jpg
+- file: images/charadriiformes/laridae/larus-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/612689667
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612689667/original.jpg
+- file: images/charadriiformes/laridae/larus-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/617151700
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617151700/original.jpg
+- file: images/charadriiformes/laridae/larus-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/612689669
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612689669/original.jpg
+- file: images/charadriiformes/laridae/larus-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/612689668
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612689668/original.jpg
 ---
 
 

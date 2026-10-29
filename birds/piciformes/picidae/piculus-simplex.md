@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/piculus-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/608361799
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608361799/original.jpg
+images:
+- file: images/piciformes/picidae/piculus-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/608361799
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608361799/original.jpg
+- file: images/piciformes/picidae/piculus-simplex/2.jpg
+  page: https://www.inaturalist.org/photos/616722462
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616722462/original.jpg
+- file: images/piciformes/picidae/piculus-simplex/3.jpg
+  page: https://www.inaturalist.org/photos/620031447
+  author: Jacek Pietruszewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620031447/original.jpg
+- file: images/piciformes/picidae/piculus-simplex/4.jpg
+  page: https://www.inaturalist.org/photos/622499267
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622499267/original.jpg
+- file: images/piciformes/picidae/piculus-simplex/5.jpg
+  page: https://www.inaturalist.org/photos/634706460
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634706460/original.jpg
 ---
 
 

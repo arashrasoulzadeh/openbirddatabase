@@ -161,8 +161,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/egretta-eulophotes/1.jpg
+  page: https://www.inaturalist.org/photos/616761436
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761436/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/egretta-eulophotes/1.jpg
+  page: https://www.inaturalist.org/photos/616761436
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761436/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-eulophotes/2.jpg
+  page: https://www.inaturalist.org/photos/620817014
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620817014/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-eulophotes/3.jpg
+  page: https://www.inaturalist.org/photos/626362909
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626362909/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-eulophotes/4.jpg
+  page: https://www.inaturalist.org/photos/637593083
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637593083/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-eulophotes/5.jpg
+  page: https://www.inaturalist.org/photos/696219595
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696219595/original.jpg
 ---
 
 

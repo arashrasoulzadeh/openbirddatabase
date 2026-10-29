@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/recurvirostridae/recurvirostra-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/607696795
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607696795/original.jpg
+images:
+- file: images/charadriiformes/recurvirostridae/recurvirostra-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/607696795
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607696795/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/617674549
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617674549/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/620421688
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620421688/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/696217930
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696217930/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/727820958
+  author: Em Lamond
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727820958/original.jpg
 ---
 
 

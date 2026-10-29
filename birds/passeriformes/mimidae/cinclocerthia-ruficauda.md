@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/cinclocerthia-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/630037856
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630037856/original.jpg
+images:
+- file: images/passeriformes/mimidae/cinclocerthia-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/630037856
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630037856/original.jpg
+- file: images/passeriformes/mimidae/cinclocerthia-ruficauda/2.jpg
+  page: https://www.inaturalist.org/photos/473781505
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473781505/original.jpeg
+- file: images/passeriformes/mimidae/cinclocerthia-ruficauda/3.jpg
+  page: https://www.inaturalist.org/photos/394421476
+  author: Fish and Dive
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394421476/original.jpeg
+- file: images/passeriformes/mimidae/cinclocerthia-ruficauda/4.jpg
+  page: https://www.inaturalist.org/photos/473779991
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473779991/original.jpeg
+- file: images/passeriformes/mimidae/cinclocerthia-ruficauda/5.jpg
+  page: https://www.inaturalist.org/photos/473781277
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473781277/original.jpeg
 ---
 
 

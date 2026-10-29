@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/neophema-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/651296344
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651296344/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/neophema-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/651296344
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651296344/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/707752081
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707752081/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/716485524
+  author: Scott Bazely
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716485524/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/651296348
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651296348/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/651296439
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651296439/original.jpg
 ---
 
 

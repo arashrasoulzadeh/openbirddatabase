@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/bubo-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/615161889
+  author: Theo Busschau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615161889/original.jpg
+images:
+- file: images/strigiformes/strigidae/bubo-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/615161889
+  author: Theo Busschau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615161889/original.jpg
+- file: images/strigiformes/strigidae/bubo-cinerascens/2.jpg
+  page: https://www.inaturalist.org/photos/631119951
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631119951/original.jpg
+- file: images/strigiformes/strigidae/bubo-cinerascens/3.jpg
+  page: https://www.inaturalist.org/photos/719173129
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719173129/original.jpg
+- file: images/strigiformes/strigidae/bubo-cinerascens/4.jpg
+  page: https://www.inaturalist.org/photos/472287581
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472287581/original.jpg
+- file: images/strigiformes/strigidae/bubo-cinerascens/5.jpg
+  page: https://www.inaturalist.org/photos/607608607
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607608607/original.jpg
 ---
 
 

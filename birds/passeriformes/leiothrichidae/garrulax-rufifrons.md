@@ -131,7 +131,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 26.9
@@ -139,6 +140,38 @@ morphology:
   wing_length_mm: 130.8
   tail_length_mm: 126.0
   body_mass_g: 101.5
+image:
+  file: images/passeriformes/leiothrichidae/garrulax-rufifrons/1.jpg
+  page: https://www.inaturalist.org/photos/313034603
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313034603/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/garrulax-rufifrons/1.jpg
+  page: https://www.inaturalist.org/photos/313034603
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313034603/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-rufifrons/2.jpg
+  page: https://www.inaturalist.org/photos/313034743
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313034743/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-rufifrons/3.jpg
+  page: https://www.inaturalist.org/photos/313034741
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313034741/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-rufifrons/4.jpg
+  page: https://www.inaturalist.org/photos/313034786
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313034786/original.jpeg
 ---
 
 

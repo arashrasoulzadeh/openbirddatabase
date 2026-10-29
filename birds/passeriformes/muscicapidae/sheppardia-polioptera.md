@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/sheppardia-polioptera/1.jpg
+  page: https://www.inaturalist.org/photos/592186066
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592186066/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/sheppardia-polioptera/1.jpg
+  page: https://www.inaturalist.org/photos/592186066
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592186066/original.jpg
+- file: images/passeriformes/muscicapidae/sheppardia-polioptera/2.jpg
+  page: https://www.inaturalist.org/photos/607284287
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607284287/original.jpg
+- file: images/passeriformes/muscicapidae/sheppardia-polioptera/3.jpg
+  page: https://picasaweb.google.com/112678111612962172808/Kenya2009#5386324150699030098
+  author: Doug Macaulay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5957695/original.jpeg
+- file: images/passeriformes/muscicapidae/sheppardia-polioptera/4.jpg
+  page: https://www.inaturalist.org/photos/592186074
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592186074/original.jpg
+- file: images/passeriformes/muscicapidae/sheppardia-polioptera/5.jpg
+  page: https://www.inaturalist.org/photos/607284296
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607284296/original.jpg
 ---
 
 

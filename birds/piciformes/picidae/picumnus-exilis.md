@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-exilis/1.jpg
+  page: https://www.inaturalist.org/photos/719103606
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719103606/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-exilis/1.jpg
+  page: https://www.inaturalist.org/photos/719103606
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719103606/original.jpg
+- file: images/piciformes/picidae/picumnus-exilis/2.jpg
+  page: https://www.inaturalist.org/photos/465414102
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465414102/original.jpeg
+- file: images/piciformes/picidae/picumnus-exilis/3.jpg
+  page: https://www.inaturalist.org/photos/475001238
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475001238/original.jpeg
+- file: images/piciformes/picidae/picumnus-exilis/4.jpg
+  page: https://www.inaturalist.org/photos/499242097
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499242097/original.jpg
+- file: images/piciformes/picidae/picumnus-exilis/5.jpg
+  page: https://www.inaturalist.org/photos/603320970
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603320970/original.jpg
 ---
 
 

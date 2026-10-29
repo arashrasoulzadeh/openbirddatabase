@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-scirpaceus/1.jpg
+  page: https://www.inaturalist.org/photos/727503085
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727503085/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-scirpaceus/1.jpg
+  page: https://www.inaturalist.org/photos/727503085
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727503085/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-scirpaceus/2.jpg
+  page: https://www.inaturalist.org/photos/636678236
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636678236/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-scirpaceus/3.jpg
+  page: https://www.inaturalist.org/photos/635183545
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635183545/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-scirpaceus/4.jpg
+  page: https://www.inaturalist.org/photos/637253808
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637253808/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-scirpaceus/5.jpg
+  page: https://www.inaturalist.org/photos/647654004
+  author: euqirneto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647654004/original.jpg
 ---
 
 

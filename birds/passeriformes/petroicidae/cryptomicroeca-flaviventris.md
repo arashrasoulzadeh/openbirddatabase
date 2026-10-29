@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/petroicidae/cryptomicroeca-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/586257539
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586257539/original.jpg
+images:
+- file: images/passeriformes/petroicidae/cryptomicroeca-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/586257539
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586257539/original.jpg
+- file: images/passeriformes/petroicidae/cryptomicroeca-flaviventris/2.jpg
+  page: https://www.inaturalist.org/photos/33484571
+  author: Lennart Hudel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/33484571/original.jpeg
+- file: images/passeriformes/petroicidae/cryptomicroeca-flaviventris/3.jpg
+  page: https://www.inaturalist.org/photos/54217203
+  author: naturewatchwidow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/54217203/original.jpeg
+- file: images/passeriformes/petroicidae/cryptomicroeca-flaviventris/4.jpg
+  page: https://www.inaturalist.org/photos/1006861
+  author: Pierre Tellier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1006861/original.JPG
+- file: images/passeriformes/petroicidae/cryptomicroeca-flaviventris/5.jpg
+  page: https://www.inaturalist.org/photos/1006862
+  author: Pierre Tellier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1006862/original.JPG
 ---
 
 

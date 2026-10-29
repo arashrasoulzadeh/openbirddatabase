@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-jacksoni/1.jpg
+  page: https://www.inaturalist.org/photos/608554329
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608554329/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-jacksoni/1.jpg
+  page: https://www.inaturalist.org/photos/608554329
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608554329/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-jacksoni/2.jpg
+  page: https://www.inaturalist.org/photos/638030501
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638030501/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-jacksoni/3.jpg
+  page: https://www.inaturalist.org/photos/664943508
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664943508/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-jacksoni/4.jpg
+  page: https://www.inaturalist.org/photos/670310798
+  author: grass_0
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670310798/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-jacksoni/5.jpg
+  page: https://www.inaturalist.org/photos/717796208
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717796208/original.jpg
 ---
 
 

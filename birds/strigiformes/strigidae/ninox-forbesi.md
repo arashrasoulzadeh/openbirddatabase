@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 26.1
@@ -136,6 +137,32 @@ morphology:
   wing_length_mm: 193.6
   tail_length_mm: 113.4
   body_mass_g: 210.0
+image:
+  file: images/strigiformes/strigidae/ninox-forbesi/1.jpg
+  page: https://www.inaturalist.org/photos/332150409
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332150409/original.jpeg
+images:
+- file: images/strigiformes/strigidae/ninox-forbesi/1.jpg
+  page: https://www.inaturalist.org/photos/332150409
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332150409/original.jpeg
+- file: images/strigiformes/strigidae/ninox-forbesi/2.jpg
+  page: https://www.inaturalist.org/photos/337787495
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787495/original.jpeg
+- file: images/strigiformes/strigidae/ninox-forbesi/3.jpg
+  page: https://www.inaturalist.org/photos/332150518
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332150518/original.jpeg
 ---
 
 

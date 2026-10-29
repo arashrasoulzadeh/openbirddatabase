@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/acanthizidae/pycnoptilus-floccosus/1.jpg
+  page: https://www.inaturalist.org/photos/475242691
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475242691/original.jpeg
+images:
+- file: images/passeriformes/acanthizidae/pycnoptilus-floccosus/1.jpg
+  page: https://www.inaturalist.org/photos/475242691
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475242691/original.jpeg
+- file: images/passeriformes/acanthizidae/pycnoptilus-floccosus/2.jpg
+  page: https://www.inaturalist.org/photos/446468178
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446468178/original.jpg
+- file: images/passeriformes/acanthizidae/pycnoptilus-floccosus/3.jpg
+  page: https://www.inaturalist.org/photos/339539325
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339539325/original.jpg
+- file: images/passeriformes/acanthizidae/pycnoptilus-floccosus/4.jpg
+  page: https://www.inaturalist.org/photos/447971288
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447971288/original.jpeg
+- file: images/passeriformes/acanthizidae/pycnoptilus-floccosus/5.jpg
+  page: https://www.inaturalist.org/photos/1366021
+  author: Ken-ichi Ueda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1366021/original.jpg
 ---
 
 

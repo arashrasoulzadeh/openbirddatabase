@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/ictinaetus-malaiensis/1.jpg
+  page: https://www.inaturalist.org/photos/610341639
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610341639/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/ictinaetus-malaiensis/1.jpg
+  page: https://www.inaturalist.org/photos/610341639
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610341639/original.jpg
+- file: images/accipitriformes/accipitridae/ictinaetus-malaiensis/2.jpg
+  page: https://www.inaturalist.org/photos/609171960
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609171960/original.jpg
+- file: images/accipitriformes/accipitridae/ictinaetus-malaiensis/3.jpg
+  page: https://www.inaturalist.org/photos/606869834
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606869834/original.jpg
+- file: images/accipitriformes/accipitridae/ictinaetus-malaiensis/4.jpg
+  page: https://www.inaturalist.org/photos/612405892
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612405892/original.jpg
+- file: images/accipitriformes/accipitridae/ictinaetus-malaiensis/5.jpg
+  page: https://www.inaturalist.org/photos/612673103
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612673103/original.jpg
 ---
 
 

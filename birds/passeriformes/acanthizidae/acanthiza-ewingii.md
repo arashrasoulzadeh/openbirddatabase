@@ -145,10 +145,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/acanthizidae/acanthiza-ewingii/1.jpg
+  page: https://www.inaturalist.org/photos/624003328
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624003328/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthiza-ewingii/1.jpg
+  page: https://www.inaturalist.org/photos/624003328
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624003328/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-ewingii/2.jpg
+  page: https://www.inaturalist.org/photos/740135528
+  author: Peter Shanks
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740135528/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-ewingii/3.jpg
+  page: https://www.inaturalist.org/photos/472835018
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472835018/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-ewingii/4.jpg
+  page: https://www.inaturalist.org/photos/476144361
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476144361/original.jpeg
+- file: images/passeriformes/acanthizidae/acanthiza-ewingii/5.jpg
+  page: https://www.inaturalist.org/photos/624003316
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624003316/original.jpg
 ---
 
 

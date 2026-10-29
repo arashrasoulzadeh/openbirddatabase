@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mionectes-macconnelli/1.jpg
+  page: https://www.inaturalist.org/photos/617294118
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617294118/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/mionectes-macconnelli/1.jpg
+  page: https://www.inaturalist.org/photos/617294118
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617294118/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-macconnelli/2.jpg
+  page: https://www.inaturalist.org/photos/467510510
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467510510/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-macconnelli/3.jpg
+  page: https://www.inaturalist.org/photos/474212334
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474212334/original.jpeg
+- file: images/passeriformes/tyrannidae/mionectes-macconnelli/4.jpg
+  page: https://www.inaturalist.org/photos/329420409
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329420409/original.jpeg
+- file: images/passeriformes/tyrannidae/mionectes-macconnelli/5.jpg
+  page: https://www.inaturalist.org/photos/177636891
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177636891/original.jpeg
 ---
 
 

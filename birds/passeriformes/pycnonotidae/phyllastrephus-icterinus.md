@@ -162,8 +162,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/phyllastrephus-icterinus/1.jpg
+  page: https://www.inaturalist.org/photos/225196965
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225196965/original.jpeg
+images:
+- file: images/passeriformes/pycnonotidae/phyllastrephus-icterinus/1.jpg
+  page: https://www.inaturalist.org/photos/225196965
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225196965/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-icterinus/2.jpg
+  page: https://www.inaturalist.org/photos/225196993
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225196993/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-icterinus/3.jpg
+  page: https://www.inaturalist.org/photos/225197030
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225197030/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-icterinus/4.jpg
+  page: https://www.inaturalist.org/photos/225197055
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225197055/original.jpeg
 ---
 
 

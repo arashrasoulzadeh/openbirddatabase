@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/alaudidae/eremophila-alpestris/1.jpg
+  page: https://www.inaturalist.org/photos/605521436
+  author: Wyatt Sibilia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605521436/original.jpg
+images:
+- file: images/passeriformes/alaudidae/eremophila-alpestris/1.jpg
+  page: https://www.inaturalist.org/photos/605521436
+  author: Wyatt Sibilia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605521436/original.jpg
+- file: images/passeriformes/alaudidae/eremophila-alpestris/2.jpg
+  page: https://www.inaturalist.org/photos/604694168
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604694168/original.jpg
+- file: images/passeriformes/alaudidae/eremophila-alpestris/3.jpg
+  page: https://www.inaturalist.org/photos/604478444
+  author: Вячеслав Юсупов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604478444/original.jpg
+- file: images/passeriformes/alaudidae/eremophila-alpestris/4.jpg
+  page: https://www.inaturalist.org/photos/605651905
+  author: Martyn Drabik-Hamshare
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605651905/original.jpg
+- file: images/passeriformes/alaudidae/eremophila-alpestris/5.jpg
+  page: https://www.inaturalist.org/photos/605521450
+  author: Wyatt Sibilia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605521450/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chlorostilbon-gibsoni/1.jpg
+  page: https://www.inaturalist.org/photos/699257777
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699257777/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chlorostilbon-gibsoni/1.jpg
+  page: https://www.inaturalist.org/photos/699257777
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699257777/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-gibsoni/2.jpg
+  page: https://www.inaturalist.org/photos/448013163
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448013163/original.jpeg
+- file: images/apodiformes/trochilidae/chlorostilbon-gibsoni/3.jpg
+  page: https://www.inaturalist.org/photos/655396361
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655396361/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-gibsoni/4.jpg
+  page: https://www.inaturalist.org/photos/63825043
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63825043/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-gibsoni/5.jpg
+  page: https://www.inaturalist.org/photos/1618571
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1618571/original.jpg
 ---
 
 

@@ -133,7 +133,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 29.4
@@ -141,6 +142,44 @@ morphology:
   wing_length_mm: 110.6
   tail_length_mm: 68.2
   body_mass_g: 81.5
+image:
+  file: images/piciformes/picidae/chloropicus-xantholophus/1.jpg
+  page: https://www.inaturalist.org/photos/565271724
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565271724/original.jpg
+images:
+- file: images/piciformes/picidae/chloropicus-xantholophus/1.jpg
+  page: https://www.inaturalist.org/photos/565271724
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565271724/original.jpg
+- file: images/piciformes/picidae/chloropicus-xantholophus/2.jpg
+  page: https://www.inaturalist.org/photos/393648915
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393648915/original.jpg
+- file: images/piciformes/picidae/chloropicus-xantholophus/3.jpg
+  page: https://www.inaturalist.org/photos/257849710
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257849710/original.jpeg
+- file: images/piciformes/picidae/chloropicus-xantholophus/4.jpg
+  page: https://www.inaturalist.org/photos/106013588
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106013588/original.jpg
+- file: images/piciformes/picidae/chloropicus-xantholophus/5.jpg
+  page: https://www.inaturalist.org/photos/565271726
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565271726/original.jpg
 ---
 
 

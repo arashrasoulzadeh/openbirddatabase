@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/cantorchilus-guarayanus/1.jpg
+  page: https://www.inaturalist.org/photos/581024212
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581024212/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cantorchilus-guarayanus/1.jpg
+  page: https://www.inaturalist.org/photos/581024212
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581024212/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-guarayanus/2.jpg
+  page: https://www.inaturalist.org/photos/204190397
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/204190397/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-guarayanus/3.jpg
+  page: https://www.inaturalist.org/photos/213985129
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/213985129/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-guarayanus/4.jpg
+  page: https://www.inaturalist.org/photos/469984562
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469984562/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-guarayanus/5.jpg
+  page: https://www.inaturalist.org/photos/22293958
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/22293958/original.jpeg
 ---
 
 

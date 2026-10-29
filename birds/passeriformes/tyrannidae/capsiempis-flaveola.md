@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/capsiempis-flaveola/1.jpg
+  page: https://www.inaturalist.org/photos/605730256
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730256/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/capsiempis-flaveola/1.jpg
+  page: https://www.inaturalist.org/photos/605730256
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730256/original.jpg
+- file: images/passeriformes/tyrannidae/capsiempis-flaveola/2.jpg
+  page: https://www.inaturalist.org/photos/607263399
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607263399/original.jpg
+- file: images/passeriformes/tyrannidae/capsiempis-flaveola/3.jpg
+  page: https://www.inaturalist.org/photos/612046840
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612046840/original.jpg
+- file: images/passeriformes/tyrannidae/capsiempis-flaveola/4.jpg
+  page: https://www.inaturalist.org/photos/618546003
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618546003/original.jpg
+- file: images/passeriformes/tyrannidae/capsiempis-flaveola/5.jpg
+  page: https://www.inaturalist.org/photos/664098599
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664098599/original.jpg
 ---
 
 

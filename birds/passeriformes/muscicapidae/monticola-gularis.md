@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/631347760
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631347760/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/631347760
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631347760/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/632590987
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632590987/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/744124597
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744124597/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/488666728
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488666728/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/519772233
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519772233/original.jpg
 ---
 
 

@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-pacificus/1.jpg
+  page: https://www.inaturalist.org/photos/608801787
+  author: Andrew Still
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608801787/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-pacificus/1.jpg
+  page: https://www.inaturalist.org/photos/608801787
+  author: Andrew Still
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608801787/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-pacificus/2.jpg
+  page: https://www.inaturalist.org/photos/611030423
+  author: Emerson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611030423/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-pacificus/3.jpg
+  page: https://www.inaturalist.org/photos/610203292
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610203292/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-pacificus/4.jpg
+  page: https://www.inaturalist.org/photos/607193382
+  author: zorthesosen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607193382/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-pacificus/5.jpg
+  page: https://www.inaturalist.org/photos/609766992
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609766992/original.jpg
 ---
 
 

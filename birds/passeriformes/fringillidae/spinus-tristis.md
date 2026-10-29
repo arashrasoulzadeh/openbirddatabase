@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/fringillidae/spinus-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/604609167
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604609167/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/604609167
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604609167/original.jpg
+- file: images/passeriformes/fringillidae/spinus-tristis/2.jpg
+  page: https://www.inaturalist.org/photos/604492503
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604492503/original.jpg
+- file: images/passeriformes/fringillidae/spinus-tristis/3.jpg
+  page: https://www.inaturalist.org/photos/605715873
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605715873/original.jpg
+- file: images/passeriformes/fringillidae/spinus-tristis/4.jpg
+  page: https://www.inaturalist.org/photos/604877387
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604877387/original.jpg
+- file: images/passeriformes/fringillidae/spinus-tristis/5.jpg
+  page: https://www.inaturalist.org/photos/605128479
+  author: Alan Prather
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605128479/original.jpg
 ---
 
 

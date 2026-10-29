@@ -153,8 +153,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eulampis-jugularis/1.jpg
+  page: https://www.inaturalist.org/photos/609077005
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609077005/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eulampis-jugularis/1.jpg
+  page: https://www.inaturalist.org/photos/609077005
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609077005/original.jpg
+- file: images/apodiformes/trochilidae/eulampis-jugularis/2.jpg
+  page: https://www.inaturalist.org/photos/610419602
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610419602/original.jpg
+- file: images/apodiformes/trochilidae/eulampis-jugularis/3.jpg
+  page: https://www.inaturalist.org/photos/616513720
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616513720/original.jpg
+- file: images/apodiformes/trochilidae/eulampis-jugularis/4.jpg
+  page: https://www.inaturalist.org/photos/617920520
+  author: jimsox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617920520/original.jpg
+- file: images/apodiformes/trochilidae/eulampis-jugularis/5.jpg
+  page: https://www.inaturalist.org/photos/616351470
+  author: Quentin Groom
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616351470/original.jpg
 ---
 
 

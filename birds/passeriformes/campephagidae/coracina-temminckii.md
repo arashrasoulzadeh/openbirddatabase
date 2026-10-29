@@ -129,8 +129,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/309569058
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309569058/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/309569058
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309569058/original.jpg
+- file: images/passeriformes/campephagidae/coracina-temminckii/2.jpg
+  page: https://www.inaturalist.org/photos/232639329
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232639329/original.jpeg
+- file: images/passeriformes/campephagidae/coracina-temminckii/3.jpg
+  page: https://www.inaturalist.org/photos/242152573
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242152573/original.jpg
+- file: images/passeriformes/campephagidae/coracina-temminckii/4.jpg
+  page: https://www.inaturalist.org/photos/107803766
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107803766/original.jpg
+- file: images/passeriformes/campephagidae/coracina-temminckii/5.jpg
+  page: https://www.inaturalist.org/photos/64408771
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408771/original.jpg
 ---
 
 

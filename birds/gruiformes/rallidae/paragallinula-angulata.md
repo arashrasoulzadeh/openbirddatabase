@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/paragallinula-angulata/1.jpg
+  page: https://www.inaturalist.org/photos/471201193
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471201193/original.jpeg
+images:
+- file: images/gruiformes/rallidae/paragallinula-angulata/1.jpg
+  page: https://www.inaturalist.org/photos/471201193
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471201193/original.jpeg
+- file: images/gruiformes/rallidae/paragallinula-angulata/2.jpg
+  page: https://www.inaturalist.org/photos/505410014
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505410014/original.jpg
+- file: images/gruiformes/rallidae/paragallinula-angulata/3.jpg
+  page: https://www.inaturalist.org/photos/517715867
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517715867/original.jpg
+- file: images/gruiformes/rallidae/paragallinula-angulata/4.jpg
+  page: https://www.inaturalist.org/photos/563574264
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563574264/original.jpg
+- file: images/gruiformes/rallidae/paragallinula-angulata/5.jpg
+  page: https://www.inaturalist.org/photos/356966249
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356966249/original.jpg
 ---
 
 

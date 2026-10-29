@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/alectoris-graeca/1.jpg
+  page: https://www.inaturalist.org/photos/628982792
+  author: Adam Leigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628982792/original.jpg
+images:
+- file: images/galliformes/phasianidae/alectoris-graeca/1.jpg
+  page: https://www.inaturalist.org/photos/628982792
+  author: Adam Leigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628982792/original.jpg
+- file: images/galliformes/phasianidae/alectoris-graeca/2.jpg
+  page: https://www.inaturalist.org/photos/664389817
+  author: Šimun Aščić
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664389817/original.jpg
+- file: images/galliformes/phasianidae/alectoris-graeca/3.jpg
+  page: https://www.inaturalist.org/photos/684716076
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684716076/original.jpg
+- file: images/galliformes/phasianidae/alectoris-graeca/4.jpg
+  page: https://www.inaturalist.org/photos/696998865
+  author: Riccardo Riva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696998865/original.jpg
+- file: images/galliformes/phasianidae/alectoris-graeca/5.jpg
+  page: https://www.inaturalist.org/photos/728380432
+  author: Leonardo Rapisarda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728380432/original.jpg
 ---
 
 

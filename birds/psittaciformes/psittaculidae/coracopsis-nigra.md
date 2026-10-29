@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/psittaciformes/psittaculidae/coracopsis-nigra/1.jpg
+  page: https://www.inaturalist.org/photos/690444241
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690444241/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/coracopsis-nigra/1.jpg
+  page: https://www.inaturalist.org/photos/690444241
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690444241/original.jpg
+- file: images/psittaciformes/psittaculidae/coracopsis-nigra/2.jpg
+  page: https://www.inaturalist.org/photos/444567337
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444567337/original.jpeg
+- file: images/psittaciformes/psittaculidae/coracopsis-nigra/3.jpg
+  page: https://www.inaturalist.org/photos/452962399
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452962399/original.jpg
+- file: images/psittaciformes/psittaculidae/coracopsis-nigra/4.jpg
+  page: https://www.inaturalist.org/photos/444543730
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444543730/original.jpeg
+- file: images/psittaciformes/psittaculidae/coracopsis-nigra/5.jpg
+  page: https://www.inaturalist.org/photos/455467904
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455467904/original.jpeg
 ---
 
 

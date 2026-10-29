@@ -144,8 +144,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/microcerculus-philomela/1.jpg
+  page: https://www.inaturalist.org/photos/634707817
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634707817/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/microcerculus-philomela/1.jpg
+  page: https://www.inaturalist.org/photos/634707817
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634707817/original.jpg
+- file: images/passeriformes/troglodytidae/microcerculus-philomela/2.jpg
+  page: https://www.inaturalist.org/photos/356035150
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356035150/original.jpeg
+- file: images/passeriformes/troglodytidae/microcerculus-philomela/3.jpg
+  page: https://www.inaturalist.org/photos/634707818
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634707818/original.jpg
+- file: images/passeriformes/troglodytidae/microcerculus-philomela/4.jpg
+  page: https://www.inaturalist.org/photos/634707819
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634707819/original.jpg
+- file: images/passeriformes/troglodytidae/microcerculus-philomela/5.jpg
+  page: https://www.inaturalist.org/photos/634707778
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634707778/original.jpg
 ---
 
 

@@ -140,10 +140,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/asthenes-maculicauda/1.jpg
+  page: https://www.inaturalist.org/photos/651673726
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651673726/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-maculicauda/1.jpg
+  page: https://www.inaturalist.org/photos/651673726
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651673726/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-maculicauda/2.jpg
+  page: https://www.inaturalist.org/photos/721987463
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721987463/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-maculicauda/3.jpg
+  page: https://www.inaturalist.org/photos/490651353
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490651353/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-maculicauda/4.jpg
+  page: https://www.inaturalist.org/photos/338399789
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338399789/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-maculicauda/5.jpg
+  page: https://www.inaturalist.org/photos/231048710
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231048710/original.jpg
 ---
 
 

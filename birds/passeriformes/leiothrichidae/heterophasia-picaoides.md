@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/heterophasia-picaoides/1.jpg
+  page: https://www.inaturalist.org/photos/629579802
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579802/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/heterophasia-picaoides/1.jpg
+  page: https://www.inaturalist.org/photos/629579802
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579802/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-picaoides/2.jpg
+  page: https://www.inaturalist.org/photos/722452343
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722452343/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-picaoides/3.jpg
+  page: https://www.inaturalist.org/photos/703297097
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703297097/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-picaoides/4.jpg
+  page: https://www.inaturalist.org/photos/468780563
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468780563/original.jpeg
+- file: images/passeriformes/leiothrichidae/heterophasia-picaoides/5.jpg
+  page: https://www.inaturalist.org/photos/479296553
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479296553/original.jpeg
 ---
 
 

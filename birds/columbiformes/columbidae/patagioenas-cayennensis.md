@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/patagioenas-cayennensis/1.jpg
+  page: https://www.inaturalist.org/photos/605480868
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605480868/original.jpg
+images:
+- file: images/columbiformes/columbidae/patagioenas-cayennensis/1.jpg
+  page: https://www.inaturalist.org/photos/605480868
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605480868/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-cayennensis/2.jpg
+  page: https://www.inaturalist.org/photos/606893729
+  author: Louis Imbeau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606893729/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-cayennensis/3.jpg
+  page: https://www.inaturalist.org/photos/609567642
+  author: Tom Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609567642/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-cayennensis/4.jpg
+  page: https://www.inaturalist.org/photos/610014662
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014662/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-cayennensis/5.jpg
+  page: https://www.inaturalist.org/photos/607488584
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607488584/original.jpg
 ---
 
 

@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/gruiformes/rallidae/porphyrio-hochstetteri/1.jpg
+  page: https://www.inaturalist.org/photos/611550109
+  author: Damon H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611550109/original.jpg
+images:
+- file: images/gruiformes/rallidae/porphyrio-hochstetteri/1.jpg
+  page: https://www.inaturalist.org/photos/611550109
+  author: Damon H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611550109/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-hochstetteri/2.jpg
+  page: https://www.inaturalist.org/photos/616069749
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616069749/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-hochstetteri/3.jpg
+  page: https://www.inaturalist.org/photos/614065828
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614065828/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-hochstetteri/4.jpg
+  page: https://www.inaturalist.org/photos/619773213
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619773213/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-hochstetteri/5.jpg
+  page: https://www.inaturalist.org/photos/619394218
+  author: Colin Meurk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619394218/original.jpg
 ---
 
 

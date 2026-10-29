@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cossypha-natalensis/1.jpg
+  page: https://www.inaturalist.org/photos/620890010
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620890010/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cossypha-natalensis/1.jpg
+  page: https://www.inaturalist.org/photos/620890010
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620890010/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-natalensis/2.jpg
+  page: https://www.inaturalist.org/photos/691938851
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691938851/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-natalensis/3.jpg
+  page: https://www.inaturalist.org/photos/734315326
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734315326/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-natalensis/4.jpg
+  page: https://www.inaturalist.org/photos/678161179
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678161179/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-natalensis/5.jpg
+  page: https://www.inaturalist.org/photos/734315314
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734315314/original.jpg
 ---
 
 

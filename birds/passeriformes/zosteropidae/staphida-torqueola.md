@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/staphida-torqueola/1.jpg
+  page: https://www.inaturalist.org/photos/614356209
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614356209/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/staphida-torqueola/1.jpg
+  page: https://www.inaturalist.org/photos/614356209
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614356209/original.jpg
+- file: images/passeriformes/zosteropidae/staphida-torqueola/2.jpg
+  page: https://www.inaturalist.org/photos/612710168
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612710168/original.jpg
+- file: images/passeriformes/zosteropidae/staphida-torqueola/3.jpg
+  page: https://www.inaturalist.org/photos/630358480
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630358480/original.jpg
+- file: images/passeriformes/zosteropidae/staphida-torqueola/4.jpg
+  page: https://www.inaturalist.org/photos/677569301
+  author: Gajananan Niranjanan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677569301/original.jpg
+- file: images/passeriformes/zosteropidae/staphida-torqueola/5.jpg
+  page: https://www.inaturalist.org/photos/614356236
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614356236/original.jpg
 ---
 
 

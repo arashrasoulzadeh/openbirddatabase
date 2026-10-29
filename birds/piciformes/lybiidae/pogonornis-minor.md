@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/pogonornis-minor/1.jpg
+  page: https://www.inaturalist.org/photos/322256721
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322256721/original.jpg
+images:
+- file: images/piciformes/lybiidae/pogonornis-minor/1.jpg
+  page: https://www.inaturalist.org/photos/322256721
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322256721/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-minor/2.jpg
+  page: https://www.inaturalist.org/photos/479168677
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479168677/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-minor/3.jpg
+  page: https://www.inaturalist.org/photos/338528570
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338528570/original.jpeg
+- file: images/piciformes/lybiidae/pogonornis-minor/4.jpg
+  page: https://www.inaturalist.org/photos/322256737
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322256737/original.jpg
+- file: images/piciformes/lybiidae/pogonornis-minor/5.jpg
+  page: https://www.inaturalist.org/photos/322256764
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322256764/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaricula-nana/1.jpg
+  page: https://www.inaturalist.org/photos/612477374
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477374/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaricula-nana/1.jpg
+  page: https://www.inaturalist.org/photos/612477374
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477374/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-nana/2.jpg
+  page: https://www.inaturalist.org/photos/652808963
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808963/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-nana/3.jpg
+  page: https://www.inaturalist.org/photos/469366950
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469366950/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-nana/4.jpg
+  page: https://www.inaturalist.org/photos/528113163
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528113163/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-nana/5.jpg
+  page: https://www.inaturalist.org/photos/465620419
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465620419/original.jpg
 ---
 
 

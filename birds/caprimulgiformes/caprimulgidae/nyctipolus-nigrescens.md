@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/nyctipolus-nigrescens/1.jpg
+  page: https://www.inaturalist.org/photos/724113638
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724113638/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-nigrescens/1.jpg
+  page: https://www.inaturalist.org/photos/724113638
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724113638/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-nigrescens/2.jpg
+  page: https://www.inaturalist.org/photos/464120952
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464120952/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-nigrescens/3.jpg
+  page: https://www.inaturalist.org/photos/465340423
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465340423/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-nigrescens/4.jpg
+  page: https://www.inaturalist.org/photos/385740524
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385740524/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-nigrescens/5.jpg
+  page: https://www.inaturalist.org/photos/461275597
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461275597/original.jpg
 ---
 
 

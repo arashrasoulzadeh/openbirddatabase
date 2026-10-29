@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/colaptes-auricularis/1.jpg
+  page: https://www.inaturalist.org/photos/606753608
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606753608/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-auricularis/1.jpg
+  page: https://www.inaturalist.org/photos/606753608
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606753608/original.jpg
+- file: images/piciformes/picidae/colaptes-auricularis/2.jpg
+  page: https://www.inaturalist.org/photos/657760761
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657760761/original.jpg
+- file: images/piciformes/picidae/colaptes-auricularis/3.jpg
+  page: https://www.inaturalist.org/photos/464059046
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464059046/original.jpg
+- file: images/piciformes/picidae/colaptes-auricularis/4.jpg
+  page: https://www.inaturalist.org/photos/485008977
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485008977/original.jpg
+- file: images/piciformes/picidae/colaptes-auricularis/5.jpg
+  page: https://www.inaturalist.org/photos/610309427
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610309427/original.jpg
 ---
 
 

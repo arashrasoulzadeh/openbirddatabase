@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/napothera-malacoptila/1.jpg
+  page: https://www.inaturalist.org/photos/395651442
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651442/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/napothera-malacoptila/1.jpg
+  page: https://www.inaturalist.org/photos/395651442
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651442/original.jpg
+- file: images/passeriformes/pellorneidae/napothera-malacoptila/2.jpg
+  page: https://www.inaturalist.org/photos/94293261
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94293261/original.jpeg
+- file: images/passeriformes/pellorneidae/napothera-malacoptila/3.jpg
+  page: https://www.inaturalist.org/photos/395651432
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651432/original.jpg
+- file: images/passeriformes/pellorneidae/napothera-malacoptila/4.jpg
+  page: https://www.inaturalist.org/photos/94293266
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94293266/original.jpeg
+- file: images/passeriformes/pellorneidae/napothera-malacoptila/5.jpg
+  page: https://www.inaturalist.org/photos/94293316
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94293316/original.jpeg
 ---
 
 

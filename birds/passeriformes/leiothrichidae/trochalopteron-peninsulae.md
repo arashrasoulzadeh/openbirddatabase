@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-peninsulae/1.jpg
+  page: https://www.inaturalist.org/photos/629579876
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579876/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-peninsulae/1.jpg
+  page: https://www.inaturalist.org/photos/629579876
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579876/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-peninsulae/2.jpg
+  page: https://www.inaturalist.org/photos/722452372
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722452372/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-peninsulae/3.jpg
+  page: https://www.inaturalist.org/photos/450277405
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450277405/original.jpeg
+- file: images/passeriformes/leiothrichidae/trochalopteron-peninsulae/4.jpg
+  page: https://www.inaturalist.org/photos/443357114
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443357114/original.png
+- file: images/passeriformes/leiothrichidae/trochalopteron-peninsulae/5.jpg
+  page: https://www.inaturalist.org/photos/467573162
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467573162/original.jpeg
 ---
 
 

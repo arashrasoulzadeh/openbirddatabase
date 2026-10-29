@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/urosticte-benjamini/1.jpg
+  page: https://www.inaturalist.org/photos/608025222
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608025222/original.jpg
+images:
+- file: images/apodiformes/trochilidae/urosticte-benjamini/1.jpg
+  page: https://www.inaturalist.org/photos/608025222
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608025222/original.jpg
+- file: images/apodiformes/trochilidae/urosticte-benjamini/2.jpg
+  page: https://www.inaturalist.org/photos/620952476
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620952476/original.jpg
+- file: images/apodiformes/trochilidae/urosticte-benjamini/3.jpg
+  page: https://www.inaturalist.org/photos/609327154
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609327154/original.jpg
+- file: images/apodiformes/trochilidae/urosticte-benjamini/4.jpg
+  page: https://www.inaturalist.org/photos/687356847
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687356847/original.jpg
+- file: images/apodiformes/trochilidae/urosticte-benjamini/5.jpg
+  page: https://www.inaturalist.org/photos/623084673
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623084673/original.jpg
 ---
 
 

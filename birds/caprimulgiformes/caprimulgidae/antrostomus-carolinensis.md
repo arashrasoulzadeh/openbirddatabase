@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/caprimulgiformes/caprimulgidae/antrostomus-carolinensis/1.jpg
+  page: https://www.inaturalist.org/photos/613549730
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613549730/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-carolinensis/1.jpg
+  page: https://www.inaturalist.org/photos/613549730
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613549730/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-carolinensis/2.jpg
+  page: https://www.inaturalist.org/photos/613970250
+  author: Barbara Kay
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613970250/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-carolinensis/3.jpg
+  page: https://www.inaturalist.org/photos/631626781
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631626781/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-carolinensis/4.jpg
+  page: https://www.inaturalist.org/photos/634853118
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634853118/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-carolinensis/5.jpg
+  page: https://www.inaturalist.org/photos/634574496
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634574496/original.jpg
 ---
 
 

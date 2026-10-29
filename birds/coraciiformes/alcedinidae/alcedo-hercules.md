@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/alcedo-hercules/1.jpg
+  page: https://www.inaturalist.org/photos/347291593
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347291593/original.jpeg
+images:
+- file: images/coraciiformes/alcedinidae/alcedo-hercules/1.jpg
+  page: https://www.inaturalist.org/photos/347291593
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347291593/original.jpeg
+- file: images/coraciiformes/alcedinidae/alcedo-hercules/2.jpg
+  page: https://www.inaturalist.org/photos/581905970
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581905970/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-hercules/3.jpg
+  page: https://www.inaturalist.org/photos/105776757
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105776757/original.jpeg
+- file: images/coraciiformes/alcedinidae/alcedo-hercules/4.jpg
+  page: https://www.inaturalist.org/photos/105776886
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105776886/original.jpeg
+- file: images/coraciiformes/alcedinidae/alcedo-hercules/5.jpg
+  page: https://www.inaturalist.org/photos/105776891
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105776891/original.jpeg
 ---
 
 

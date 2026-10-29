@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.3
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 68.8
   tail_length_mm: 77.5
   body_mass_g: 10.8
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-erythropygius/1.jpg
+  page: https://www.inaturalist.org/photos/720184284
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720184284/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-erythropygius/1.jpg
+  page: https://www.inaturalist.org/photos/720184284
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720184284/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-erythropygius/2.jpg
+  page: https://www.inaturalist.org/photos/552151474
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552151474/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-erythropygius/3.jpg
+  page: https://www.inaturalist.org/photos/470594003
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470594003/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-erythropygius/4.jpg
+  page: https://www.inaturalist.org/photos/405880481
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/405880481/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-erythropygius/5.jpg
+  page: https://www.inaturalist.org/photos/245820879
+  author: Parth Kansara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245820879/original.jpg
 ---
 
 

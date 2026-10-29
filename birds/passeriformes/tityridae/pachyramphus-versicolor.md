@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/608657358
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608657358/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/608657358
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608657358/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/614717846
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717846/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/691128214
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691128214/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/562759208
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562759208/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/572129772
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572129772/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/celeus-castaneus/1.jpg
+  page: https://www.inaturalist.org/photos/605427892
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605427892/original.jpg
+images:
+- file: images/piciformes/picidae/celeus-castaneus/1.jpg
+  page: https://www.inaturalist.org/photos/605427892
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605427892/original.jpg
+- file: images/piciformes/picidae/celeus-castaneus/2.jpg
+  page: https://www.inaturalist.org/photos/605825626
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605825626/original.jpg
+- file: images/piciformes/picidae/celeus-castaneus/3.jpg
+  page: https://www.inaturalist.org/photos/623076348
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623076348/original.jpg
+- file: images/piciformes/picidae/celeus-castaneus/4.jpg
+  page: https://www.inaturalist.org/photos/615850788
+  author: Phoenix M.S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615850788/original.jpg
+- file: images/piciformes/picidae/celeus-castaneus/5.jpg
+  page: https://www.inaturalist.org/photos/636371436
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636371436/original.jpg
 ---
 
 

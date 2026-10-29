@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-sanctaecatarinae/1.jpg
+  page: https://www.inaturalist.org/photos/641154559
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641154559/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-sanctaecatarinae/1.jpg
+  page: https://www.inaturalist.org/photos/641154559
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641154559/original.jpg
+- file: images/strigiformes/strigidae/megascops-sanctaecatarinae/2.jpg
+  page: https://www.inaturalist.org/photos/677181750
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677181750/original.jpg
+- file: images/strigiformes/strigidae/megascops-sanctaecatarinae/3.jpg
+  page: https://www.inaturalist.org/photos/712267881
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712267881/original.jpg
+- file: images/strigiformes/strigidae/megascops-sanctaecatarinae/4.jpg
+  page: https://www.inaturalist.org/photos/469880186
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469880186/original.jpeg
+- file: images/strigiformes/strigidae/megascops-sanctaecatarinae/5.jpg
+  page: https://www.inaturalist.org/photos/477136804
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477136804/original.jpeg
 ---
 
 

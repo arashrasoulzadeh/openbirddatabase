@@ -185,8 +185,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/apus-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/614231481
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231481/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/614231481
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231481/original.jpg
+- file: images/apodiformes/apodidae/apus-pallidus/2.jpg
+  page: https://www.inaturalist.org/photos/622199887
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622199887/original.jpg
+- file: images/apodiformes/apodidae/apus-pallidus/3.jpg
+  page: https://www.inaturalist.org/photos/631057756
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631057756/original.jpg
+- file: images/apodiformes/apodidae/apus-pallidus/4.jpg
+  page: https://www.inaturalist.org/photos/616656576
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616656576/original.jpg
+- file: images/apodiformes/apodidae/apus-pallidus/5.jpg
+  page: https://www.inaturalist.org/photos/626153956
+  author: bogsuckers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626153956/original.jpg
 ---
 
 

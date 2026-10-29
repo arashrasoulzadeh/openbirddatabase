@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/accipitriformes/accipitridae/circus-hudsonius/1.jpg
+  page: https://www.inaturalist.org/photos/604662513
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662513/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-hudsonius/1.jpg
+  page: https://www.inaturalist.org/photos/604662513
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662513/original.jpg
+- file: images/accipitriformes/accipitridae/circus-hudsonius/2.jpg
+  page: https://www.inaturalist.org/photos/605206905
+  author: Daryl Nolan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605206905/original.jpg
+- file: images/accipitriformes/accipitridae/circus-hudsonius/3.jpg
+  page: https://www.inaturalist.org/photos/605360335
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360335/original.jpg
+- file: images/accipitriformes/accipitridae/circus-hudsonius/4.jpg
+  page: https://www.inaturalist.org/photos/605463782
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463782/original.jpg
+- file: images/accipitriformes/accipitridae/circus-hudsonius/5.jpg
+  page: https://www.inaturalist.org/photos/604658654
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604658654/original.jpg
 ---
 
 

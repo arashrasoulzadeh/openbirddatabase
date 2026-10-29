@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-hardyi/1.jpg
+  page: https://www.inaturalist.org/photos/468161686
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468161686/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-hardyi/1.jpg
+  page: https://www.inaturalist.org/photos/468161686
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468161686/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-hardyi/2.jpg
+  page: https://www.inaturalist.org/photos/510413206
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510413206/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-hardyi/3.jpg
+  page: https://www.inaturalist.org/photos/563659960
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563659960/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-hardyi/4.jpg
+  page: https://www.inaturalist.org/photos/591889153
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591889153/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-hardyi/5.jpg
+  page: https://www.inaturalist.org/photos/443918531
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443918531/original.jpeg
 ---
 
 

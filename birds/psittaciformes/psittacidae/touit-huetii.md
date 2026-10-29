@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/touit-huetii/1.jpg
+  page: https://www.inaturalist.org/photos/614865064
+  author: Márcia Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614865064/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/touit-huetii/1.jpg
+  page: https://www.inaturalist.org/photos/614865064
+  author: Márcia Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614865064/original.jpg
+- file: images/psittaciformes/psittacidae/touit-huetii/2.jpg
+  page: https://www.inaturalist.org/photos/591888503
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591888503/original.jpg
+- file: images/psittaciformes/psittacidae/touit-huetii/3.jpg
+  page: https://www.inaturalist.org/photos/333564764
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333564764/original.jpeg
+- file: images/psittaciformes/psittacidae/touit-huetii/4.jpg
+  page: https://www.inaturalist.org/photos/194975301
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/194975301/original.jpg
+- file: images/psittaciformes/psittacidae/touit-huetii/5.jpg
+  page: https://www.inaturalist.org/photos/591888501
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591888501/original.jpg
 ---
 
 

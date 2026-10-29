@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/coccopygia-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/613963924
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613963924/original.jpg
+images:
+- file: images/passeriformes/estrildidae/coccopygia-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/613963924
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613963924/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-melanotis/2.jpg
+  page: https://www.inaturalist.org/photos/616086996
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616086996/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-melanotis/3.jpg
+  page: https://www.inaturalist.org/photos/614737285
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614737285/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-melanotis/4.jpg
+  page: https://www.inaturalist.org/photos/661953754
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661953754/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-melanotis/5.jpg
+  page: https://www.inaturalist.org/photos/616087010
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616087010/original.jpg
 ---
 
 

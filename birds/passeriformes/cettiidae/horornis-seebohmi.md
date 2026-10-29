@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/horornis-seebohmi/1.jpg
+  page: https://www.inaturalist.org/photos/344618684
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344618684/original.jpeg
+images:
+- file: images/passeriformes/cettiidae/horornis-seebohmi/1.jpg
+  page: https://www.inaturalist.org/photos/344618684
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344618684/original.jpeg
+- file: images/passeriformes/cettiidae/horornis-seebohmi/2.jpg
+  page: https://www.inaturalist.org/photos/344618686
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344618686/original.jpeg
+- file: images/passeriformes/cettiidae/horornis-seebohmi/3.jpg
+  page: https://www.inaturalist.org/photos/251409110
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251409110/original.jpg
+- file: images/passeriformes/cettiidae/horornis-seebohmi/4.jpg
+  page: https://www.inaturalist.org/photos/251409118
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251409118/original.jpg
+- file: images/passeriformes/cettiidae/horornis-seebohmi/5.jpg
+  page: https://www.inaturalist.org/photos/251409123
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251409123/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-thompsoni/1.jpg
+  page: https://www.inaturalist.org/photos/630740156
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630740156/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-thompsoni/1.jpg
+  page: https://www.inaturalist.org/photos/630740156
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630740156/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-thompsoni/2.jpg
+  page: https://www.inaturalist.org/photos/346354570
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346354570/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-thompsoni/3.jpg
+  page: https://www.inaturalist.org/photos/268499200
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268499200/original.jpeg
+- file: images/passeriformes/pycnonotidae/hypsipetes-thompsoni/4.jpg
+  page: https://www.inaturalist.org/photos/344729312
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344729312/original.jpeg
+- file: images/passeriformes/pycnonotidae/hypsipetes-thompsoni/5.jpg
+  page: https://www.inaturalist.org/photos/104703402
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104703402/original.jpeg
 ---
 
 

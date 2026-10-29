@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/pachysylvia-semibrunnea/1.jpg
+  page: https://www.inaturalist.org/photos/467141702
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467141702/original.jpeg
+images:
+- file: images/passeriformes/vireonidae/pachysylvia-semibrunnea/1.jpg
+  page: https://www.inaturalist.org/photos/467141702
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467141702/original.jpeg
+- file: images/passeriformes/vireonidae/pachysylvia-semibrunnea/2.jpg
+  page: https://www.inaturalist.org/photos/499972011
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499972011/original.jpg
+- file: images/passeriformes/vireonidae/pachysylvia-semibrunnea/3.jpg
+  page: https://www.inaturalist.org/photos/530087955
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530087955/original.jpg
+- file: images/passeriformes/vireonidae/pachysylvia-semibrunnea/4.jpg
+  page: https://www.inaturalist.org/photos/592101804
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592101804/original.jpg
+- file: images/passeriformes/vireonidae/pachysylvia-semibrunnea/5.jpg
+  page: https://www.inaturalist.org/photos/597789845
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597789845/original.jpg
 ---
 
 

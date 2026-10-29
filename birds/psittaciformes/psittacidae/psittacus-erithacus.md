@@ -247,10 +247,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 50
+image:
+  file: images/psittaciformes/psittacidae/psittacus-erithacus/1.jpg
+  page: https://www.inaturalist.org/photos/616750742
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616750742/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/psittacus-erithacus/1.jpg
+  page: https://www.inaturalist.org/photos/616750742
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616750742/original.jpg
+- file: images/psittaciformes/psittacidae/psittacus-erithacus/2.jpg
+  page: https://www.inaturalist.org/photos/636873869
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873869/original.jpg
+- file: images/psittaciformes/psittacidae/psittacus-erithacus/3.jpg
+  page: https://www.inaturalist.org/photos/682941542
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682941542/original.jpg
+- file: images/psittaciformes/psittacidae/psittacus-erithacus/4.jpg
+  page: https://www.inaturalist.org/photos/469543124
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469543124/original.jpg
+- file: images/psittaciformes/psittacidae/psittacus-erithacus/5.jpg
+  page: https://www.inaturalist.org/photos/480797090
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480797090/original.jpeg
 ---
 
 

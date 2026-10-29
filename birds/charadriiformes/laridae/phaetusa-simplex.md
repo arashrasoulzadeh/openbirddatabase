@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/phaetusa-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/605673954
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605673954/original.jpg
+images:
+- file: images/charadriiformes/laridae/phaetusa-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/605673954
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605673954/original.jpg
+- file: images/charadriiformes/laridae/phaetusa-simplex/2.jpg
+  page: https://www.inaturalist.org/photos/608279030
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608279030/original.jpg
+- file: images/charadriiformes/laridae/phaetusa-simplex/3.jpg
+  page: https://www.inaturalist.org/photos/607345635
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607345635/original.jpg
+- file: images/charadriiformes/laridae/phaetusa-simplex/4.jpg
+  page: https://www.inaturalist.org/photos/605940656
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605940656/original.jpg
+- file: images/charadriiformes/laridae/phaetusa-simplex/5.jpg
+  page: https://www.inaturalist.org/photos/610534632
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610534632/original.jpg
 ---
 
 

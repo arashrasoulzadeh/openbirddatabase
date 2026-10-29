@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-ruficapilla/1.jpg
+  page: https://www.inaturalist.org/photos/610853538
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610853538/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-ruficapilla/1.jpg
+  page: https://www.inaturalist.org/photos/610853538
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610853538/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-ruficapilla/2.jpg
+  page: https://www.inaturalist.org/photos/607253715
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607253715/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-ruficapilla/3.jpg
+  page: https://www.inaturalist.org/photos/612467009
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612467009/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-ruficapilla/4.jpg
+  page: https://www.inaturalist.org/photos/636674219
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636674219/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-ruficapilla/5.jpg
+  page: https://www.inaturalist.org/photos/637663559
+  author: Andrés Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637663559/original.jpg
 ---
 
 

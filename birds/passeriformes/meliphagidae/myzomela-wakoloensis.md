@@ -139,8 +139,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/myzomela-wakoloensis/1.jpg
+  page: https://www.inaturalist.org/photos/247563359
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247563359/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-wakoloensis/1.jpg
+  page: https://www.inaturalist.org/photos/247563359
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247563359/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-wakoloensis/2.jpg
+  page: https://www.inaturalist.org/photos/416866095
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866095/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-wakoloensis/3.jpg
+  page: https://www.inaturalist.org/photos/416849440
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416849440/original.jpeg
+- file: images/passeriformes/meliphagidae/myzomela-wakoloensis/4.jpg
+  page: https://www.inaturalist.org/photos/440527678
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527678/original.jpeg
+- file: images/passeriformes/meliphagidae/myzomela-wakoloensis/5.jpg
+  page: https://www.inaturalist.org/photos/440527691
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527691/original.jpeg
 ---
 
 

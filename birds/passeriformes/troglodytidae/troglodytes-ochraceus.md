@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-ochraceus/1.jpg
+  page: https://www.inaturalist.org/photos/623751036
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623751036/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-ochraceus/1.jpg
+  page: https://www.inaturalist.org/photos/623751036
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623751036/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-ochraceus/2.jpg
+  page: https://www.inaturalist.org/photos/631005514
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631005514/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-ochraceus/3.jpg
+  page: https://www.inaturalist.org/photos/706975537
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706975537/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-ochraceus/4.jpg
+  page: https://www.inaturalist.org/photos/719114068
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719114068/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-ochraceus/5.jpg
+  page: https://www.inaturalist.org/photos/553866429
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553866429/original.jpg
 ---
 
 

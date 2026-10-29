@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/touit-surdus/1.jpg
+  page: https://www.inaturalist.org/photos/554407535
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554407535/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/touit-surdus/1.jpg
+  page: https://www.inaturalist.org/photos/554407535
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554407535/original.jpg
+- file: images/psittaciformes/psittacidae/touit-surdus/2.jpg
+  page: https://www.inaturalist.org/photos/240597793
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240597793/original.jpg
+- file: images/psittaciformes/psittacidae/touit-surdus/3.jpg
+  page: https://www.inaturalist.org/photos/455392793
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455392793/original.jpg
+- file: images/psittaciformes/psittacidae/touit-surdus/4.jpg
+  page: https://www.inaturalist.org/photos/249273380
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249273380/original.jpg
+- file: images/psittaciformes/psittacidae/touit-surdus/5.jpg
+  page: https://www.inaturalist.org/photos/249273385
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249273385/original.jpg
 ---
 
 

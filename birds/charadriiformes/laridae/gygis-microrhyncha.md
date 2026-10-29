@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/gygis-microrhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/608577157
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608577157/original.jpg
+images:
+- file: images/charadriiformes/laridae/gygis-microrhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/608577157
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608577157/original.jpg
+- file: images/charadriiformes/laridae/gygis-microrhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/608981413
+  author: Neal Kelso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608981413/original.jpg
+- file: images/charadriiformes/laridae/gygis-microrhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/611245769
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611245769/original.jpg
+- file: images/charadriiformes/laridae/gygis-microrhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/611136291
+  author: Gabriel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136291/original.jpg
+- file: images/charadriiformes/laridae/gygis-microrhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/607047046
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607047046/original.jpg
 ---
 
 

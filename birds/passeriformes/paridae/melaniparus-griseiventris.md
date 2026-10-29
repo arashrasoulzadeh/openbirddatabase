@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/melaniparus-griseiventris/1.jpg
+  page: https://www.inaturalist.org/photos/444650528
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444650528/original.jpg
+images:
+- file: images/passeriformes/paridae/melaniparus-griseiventris/1.jpg
+  page: https://www.inaturalist.org/photos/444650528
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444650528/original.jpg
+- file: images/passeriformes/paridae/melaniparus-griseiventris/2.jpg
+  page: https://www.inaturalist.org/photos/280268881
+  author: Cosimo Costanzia di Costigliole
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/280268881/original.jpg
+- file: images/passeriformes/paridae/melaniparus-griseiventris/3.jpg
+  page: https://www.inaturalist.org/photos/479465136
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479465136/original.jpg
+- file: images/passeriformes/paridae/melaniparus-griseiventris/4.jpg
+  page: https://www.inaturalist.org/photos/337883097
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337883097/original.jpg
+- file: images/passeriformes/paridae/melaniparus-griseiventris/5.jpg
+  page: https://www.inaturalist.org/photos/265024572
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265024572/original.jpeg
 ---
 
 

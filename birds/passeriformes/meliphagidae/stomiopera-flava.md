@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/stomiopera-flava/1.jpg
+  page: https://www.inaturalist.org/photos/604886611
+  author: Jane C Frost
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604886611/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/stomiopera-flava/1.jpg
+  page: https://www.inaturalist.org/photos/604886611
+  author: Jane C Frost
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604886611/original.jpg
+- file: images/passeriformes/meliphagidae/stomiopera-flava/2.jpg
+  page: https://www.inaturalist.org/photos/620499938
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620499938/original.jpg
+- file: images/passeriformes/meliphagidae/stomiopera-flava/3.jpg
+  page: https://www.inaturalist.org/photos/705891940
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705891940/original.jpg
+- file: images/passeriformes/meliphagidae/stomiopera-flava/4.jpg
+  page: https://www.inaturalist.org/photos/604886636
+  author: Jane C Frost
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604886636/original.jpg
+- file: images/passeriformes/meliphagidae/stomiopera-flava/5.jpg
+  page: https://www.inaturalist.org/photos/621999247
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621999247/original.jpg
 ---
 
 

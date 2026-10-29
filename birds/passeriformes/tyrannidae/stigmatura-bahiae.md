@@ -126,8 +126,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/stigmatura-bahiae/1.jpg
+  page: https://www.inaturalist.org/photos/607529148
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529148/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/stigmatura-bahiae/1.jpg
+  page: https://www.inaturalist.org/photos/607529148
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529148/original.jpg
+- file: images/passeriformes/tyrannidae/stigmatura-bahiae/2.jpg
+  page: https://www.inaturalist.org/photos/362998123
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362998123/original.jpeg
+- file: images/passeriformes/tyrannidae/stigmatura-bahiae/3.jpg
+  page: https://www.inaturalist.org/photos/30430278
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/30430278/original.jpg
+- file: images/passeriformes/tyrannidae/stigmatura-bahiae/4.jpg
+  page: https://www.inaturalist.org/photos/511665814
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511665814/original.jpg
+- file: images/passeriformes/tyrannidae/stigmatura-bahiae/5.jpg
+  page: https://www.inaturalist.org/photos/551565952
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551565952/original.jpg
 ---
 
 

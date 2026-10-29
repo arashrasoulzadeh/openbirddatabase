@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anser-canagicus/1.jpg
+  page: https://www.inaturalist.org/photos/678913719
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678913719/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-canagicus/1.jpg
+  page: https://www.inaturalist.org/photos/678913719
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678913719/original.jpg
+- file: images/anseriformes/anatidae/anser-canagicus/2.jpg
+  page: https://www.inaturalist.org/photos/462117072
+  author: Tammy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462117072/original.jpeg
+- file: images/anseriformes/anatidae/anser-canagicus/3.jpg
+  page: https://www.inaturalist.org/photos/514846257
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514846257/original.jpg
+- file: images/anseriformes/anatidae/anser-canagicus/4.jpg
+  page: https://www.inaturalist.org/photos/738976340
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738976340/original.jpg
+- file: images/anseriformes/anatidae/anser-canagicus/5.jpg
+  page: https://www.inaturalist.org/photos/462117082
+  author: Tammy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462117082/original.jpeg
 ---
 
 

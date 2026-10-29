@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/piciformes/ramphastidae/ramphastos-toco/1.jpg
+  page: https://www.inaturalist.org/photos/606015138
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606015138/original.jpg
+images:
+- file: images/piciformes/ramphastidae/ramphastos-toco/1.jpg
+  page: https://www.inaturalist.org/photos/606015138
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606015138/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-toco/2.jpg
+  page: https://www.inaturalist.org/photos/609320759
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320759/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-toco/3.jpg
+  page: https://www.inaturalist.org/photos/621908474
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621908474/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-toco/4.jpg
+  page: https://www.inaturalist.org/photos/653707107
+  author: Nelson Atencio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653707107/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-toco/5.jpg
+  page: https://www.inaturalist.org/photos/677266479
+  author: Guilherme Saito
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677266479/original.jpg
 ---
 
 

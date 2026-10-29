@@ -142,10 +142,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/charadriiformes/laridae/larus-pacificus/1.jpg
+  page: https://www.inaturalist.org/photos/607693433
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607693433/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-pacificus/1.jpg
+  page: https://www.inaturalist.org/photos/607693433
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607693433/original.jpg
+- file: images/charadriiformes/laridae/larus-pacificus/2.jpg
+  page: https://www.inaturalist.org/photos/607693451
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607693451/original.jpg
+- file: images/charadriiformes/laridae/larus-pacificus/3.jpg
+  page: https://www.inaturalist.org/photos/607693454
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607693454/original.jpg
+- file: images/charadriiformes/laridae/larus-pacificus/4.jpg
+  page: https://www.inaturalist.org/photos/607693456
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607693456/original.jpg
+- file: images/charadriiformes/laridae/larus-pacificus/5.jpg
+  page: https://www.inaturalist.org/photos/607693464
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607693464/original.jpg
 ---
 
 

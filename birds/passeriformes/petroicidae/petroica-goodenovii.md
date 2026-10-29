@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/petroicidae/petroica-goodenovii/1.jpg
+  page: https://www.inaturalist.org/photos/617712900
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712900/original.jpg
+images:
+- file: images/passeriformes/petroicidae/petroica-goodenovii/1.jpg
+  page: https://www.inaturalist.org/photos/617712900
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712900/original.jpg
+- file: images/passeriformes/petroicidae/petroica-goodenovii/2.jpg
+  page: https://www.inaturalist.org/photos/623822303
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623822303/original.jpg
+- file: images/passeriformes/petroicidae/petroica-goodenovii/3.jpg
+  page: https://www.inaturalist.org/photos/617712880
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712880/original.jpg
+- file: images/passeriformes/petroicidae/petroica-goodenovii/4.jpg
+  page: https://www.inaturalist.org/photos/617712878
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712878/original.jpg
+- file: images/passeriformes/petroicidae/petroica-goodenovii/5.jpg
+  page: https://www.inaturalist.org/photos/617712879
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712879/original.jpg
 ---
 
 

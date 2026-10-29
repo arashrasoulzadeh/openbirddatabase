@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/cnemoscopus-rubrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/594784365
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594784365/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cnemoscopus-rubrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/594784365
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594784365/original.jpg
+- file: images/passeriformes/thraupidae/cnemoscopus-rubrirostris/2.jpg
+  page: https://www.inaturalist.org/photos/482705071
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482705071/original.png
+- file: images/passeriformes/thraupidae/cnemoscopus-rubrirostris/3.jpg
+  page: https://www.inaturalist.org/photos/592256984
+  author: Florencia Grattarola
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592256984/original.jpg
+- file: images/passeriformes/thraupidae/cnemoscopus-rubrirostris/4.jpg
+  page: https://www.inaturalist.org/photos/352051421
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352051421/original.jpeg
+- file: images/passeriformes/thraupidae/cnemoscopus-rubrirostris/5.jpg
+  page: https://www.inaturalist.org/photos/465620460
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465620460/original.jpg
 ---
 
 

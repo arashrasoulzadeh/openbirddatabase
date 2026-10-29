@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/iodopleura-isabellae/1.jpg
+  page: https://www.inaturalist.org/photos/522680810
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522680810/original.jpg
+images:
+- file: images/passeriformes/tityridae/iodopleura-isabellae/1.jpg
+  page: https://www.inaturalist.org/photos/522680810
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522680810/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-isabellae/2.jpg
+  page: https://www.inaturalist.org/photos/620846203
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620846203/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-isabellae/3.jpg
+  page: https://www.inaturalist.org/photos/362088641
+  author: Bill Levine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362088641/original.jpeg
+- file: images/passeriformes/tityridae/iodopleura-isabellae/4.jpg
+  page: https://www.inaturalist.org/photos/385713709
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385713709/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-isabellae/5.jpg
+  page: https://www.inaturalist.org/photos/396294266
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396294266/original.jpg
 ---
 
 

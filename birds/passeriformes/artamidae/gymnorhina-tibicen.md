@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/passeriformes/artamidae/gymnorhina-tibicen/1.jpg
+  page: https://www.inaturalist.org/photos/604881545
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604881545/original.jpg
+images:
+- file: images/passeriformes/artamidae/gymnorhina-tibicen/1.jpg
+  page: https://www.inaturalist.org/photos/604881545
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604881545/original.jpg
+- file: images/passeriformes/artamidae/gymnorhina-tibicen/2.jpg
+  page: https://www.inaturalist.org/photos/604430121
+  author: Rosalie Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604430121/original.jpg
+- file: images/passeriformes/artamidae/gymnorhina-tibicen/3.jpg
+  page: https://www.inaturalist.org/photos/605595864
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605595864/original.jpg
+- file: images/passeriformes/artamidae/gymnorhina-tibicen/4.jpg
+  page: https://www.inaturalist.org/photos/604667088
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604667088/original.jpg
+- file: images/passeriformes/artamidae/gymnorhina-tibicen/5.jpg
+  page: https://www.inaturalist.org/photos/604323333
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604323333/original.jpg
 ---
 
 

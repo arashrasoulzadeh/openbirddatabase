@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/strigopidae/strigops-habroptilus/1.jpg
+  page: https://www.inaturalist.org/photos/633026513
+  author: Heidi Meudt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633026513/original.jpg
+images:
+- file: images/psittaciformes/strigopidae/strigops-habroptilus/1.jpg
+  page: https://www.inaturalist.org/photos/633026513
+  author: Heidi Meudt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633026513/original.jpg
+- file: images/psittaciformes/strigopidae/strigops-habroptilus/2.jpg
+  page: https://www.inaturalist.org/photos/714280843
+  author: Taylor Davies-Colley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714280843/original.jpg
+- file: images/psittaciformes/strigopidae/strigops-habroptilus/3.jpg
+  page: https://www.inaturalist.org/photos/547804259
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547804259/original.jpg
+- file: images/psittaciformes/strigopidae/strigops-habroptilus/4.jpg
+  page: https://www.inaturalist.org/photos/412477110
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412477110/original.jpg
+- file: images/psittaciformes/strigopidae/strigops-habroptilus/5.jpg
+  page: https://www.inaturalist.org/photos/154022742
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/154022742/original.jpg
 ---
 
 

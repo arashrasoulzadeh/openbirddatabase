@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 41
+image:
+  file: images/sphenisciformes/spheniscidae/pygoscelis-papua/1.jpg
+  page: https://www.inaturalist.org/photos/605665215
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665215/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/pygoscelis-papua/1.jpg
+  page: https://www.inaturalist.org/photos/605665215
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665215/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-papua/2.jpg
+  page: https://www.inaturalist.org/photos/606096980
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606096980/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-papua/3.jpg
+  page: https://www.inaturalist.org/photos/605665205
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665205/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-papua/4.jpg
+  page: https://www.inaturalist.org/photos/605664980
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605664980/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-papua/5.jpg
+  page: https://www.inaturalist.org/photos/605665358
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665358/original.jpg
 ---
 
 

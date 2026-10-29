@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/creagrus-furcatus/1.jpg
+  page: https://www.inaturalist.org/photos/610110228
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610110228/original.jpg
+images:
+- file: images/charadriiformes/laridae/creagrus-furcatus/1.jpg
+  page: https://www.inaturalist.org/photos/610110228
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610110228/original.jpg
+- file: images/charadriiformes/laridae/creagrus-furcatus/2.jpg
+  page: https://www.inaturalist.org/photos/639500105
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639500105/original.jpg
+- file: images/charadriiformes/laridae/creagrus-furcatus/3.jpg
+  page: https://www.inaturalist.org/photos/610110233
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610110233/original.jpg
+- file: images/charadriiformes/laridae/creagrus-furcatus/4.jpg
+  page: https://www.inaturalist.org/photos/610576907
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610576907/original.jpg
+- file: images/charadriiformes/laridae/creagrus-furcatus/5.jpg
+  page: https://www.inaturalist.org/photos/610576922
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610576922/original.jpg
 ---
 
 

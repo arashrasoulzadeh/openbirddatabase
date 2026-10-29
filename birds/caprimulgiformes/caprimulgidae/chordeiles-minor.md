@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/caprimulgiformes/caprimulgidae/chordeiles-minor/1.jpg
+  page: https://www.inaturalist.org/photos/649666918
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649666918/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-minor/1.jpg
+  page: https://www.inaturalist.org/photos/649666918
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649666918/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-minor/2.jpg
+  page: https://www.inaturalist.org/photos/654445909
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654445909/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-minor/3.jpg
+  page: https://www.inaturalist.org/photos/656963961
+  author: Salem De La Luna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656963961/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-minor/4.jpg
+  page: https://www.inaturalist.org/photos/644413142
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644413142/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-minor/5.jpg
+  page: https://www.inaturalist.org/photos/653932854
+  author: Brent Cox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653932854/original.jpg
 ---
 
 

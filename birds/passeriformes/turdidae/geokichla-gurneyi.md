@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-gurneyi/1.jpg
+  page: https://www.inaturalist.org/photos/619276945
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619276945/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-gurneyi/1.jpg
+  page: https://www.inaturalist.org/photos/619276945
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619276945/original.jpg
+- file: images/passeriformes/turdidae/geokichla-gurneyi/2.jpg
+  page: https://www.inaturalist.org/photos/475926722
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475926722/original.jpg
+- file: images/passeriformes/turdidae/geokichla-gurneyi/3.jpg
+  page: https://www.inaturalist.org/photos/340945781
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340945781/original.jpg
+- file: images/passeriformes/turdidae/geokichla-gurneyi/4.jpg
+  page: https://www.inaturalist.org/photos/172372867
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172372867/original.jpeg
+- file: images/passeriformes/turdidae/geokichla-gurneyi/5.jpg
+  page: https://www.inaturalist.org/photos/200279101
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/200279101/original.jpg
 ---
 
 

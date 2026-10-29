@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/malurus-alboscapulatus/1.jpg
+  page: https://www.inaturalist.org/photos/712683080
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712683080/original.jpg
+images:
+- file: images/passeriformes/maluridae/malurus-alboscapulatus/1.jpg
+  page: https://www.inaturalist.org/photos/712683080
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712683080/original.jpg
+- file: images/passeriformes/maluridae/malurus-alboscapulatus/2.jpg
+  page: https://www.inaturalist.org/photos/544904685
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544904685/original.jpg
+- file: images/passeriformes/maluridae/malurus-alboscapulatus/3.jpg
+  page: https://www.inaturalist.org/photos/569379041
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569379041/original.jpg
+- file: images/passeriformes/maluridae/malurus-alboscapulatus/4.jpg
+  page: https://www.inaturalist.org/photos/571992920
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571992920/original.jpg
+- file: images/passeriformes/maluridae/malurus-alboscapulatus/5.jpg
+  page: https://www.inaturalist.org/photos/671882783
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671882783/original.jpg
 ---
 
 

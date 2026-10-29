@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/machlolophus-aplonotus/1.jpg
+  page: https://www.inaturalist.org/photos/615986857
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986857/original.jpg
+images:
+- file: images/passeriformes/paridae/machlolophus-aplonotus/1.jpg
+  page: https://www.inaturalist.org/photos/615986857
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986857/original.jpg
+- file: images/passeriformes/paridae/machlolophus-aplonotus/2.jpg
+  page: https://www.inaturalist.org/photos/616354183
+  author: Chandu Bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616354183/original.jpg
+- file: images/passeriformes/paridae/machlolophus-aplonotus/3.jpg
+  page: https://www.inaturalist.org/photos/617207157
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207157/original.jpg
+- file: images/passeriformes/paridae/machlolophus-aplonotus/4.jpg
+  page: https://www.inaturalist.org/photos/674615157
+  author: Swarochi Tathagath
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674615157/original.jpg
+- file: images/passeriformes/paridae/machlolophus-aplonotus/5.jpg
+  page: https://www.inaturalist.org/photos/490218137
+  author: stli_
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490218137/original.jpeg
 ---
 
 

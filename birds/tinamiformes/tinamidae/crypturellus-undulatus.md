@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/crypturellus-undulatus/1.jpg
+  page: https://www.inaturalist.org/photos/684473271
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684473271/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/crypturellus-undulatus/1.jpg
+  page: https://www.inaturalist.org/photos/684473271
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684473271/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-undulatus/2.jpg
+  page: https://www.inaturalist.org/photos/699881996
+  author: Christian Ledergerber
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699881996/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-undulatus/3.jpg
+  page: https://www.inaturalist.org/photos/734723288
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734723288/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-undulatus/4.jpg
+  page: https://www.inaturalist.org/photos/742953592
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742953592/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-undulatus/5.jpg
+  page: https://www.inaturalist.org/photos/532764737
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532764737/original.jpg
 ---
 
 

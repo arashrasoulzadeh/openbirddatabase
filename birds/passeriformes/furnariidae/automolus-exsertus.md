@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/automolus-exsertus/1.jpg
+  page: https://www.inaturalist.org/photos/631781764
+  author: Julia Pupko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631781764/original.jpg
+images:
+- file: images/passeriformes/furnariidae/automolus-exsertus/1.jpg
+  page: https://www.inaturalist.org/photos/631781764
+  author: Julia Pupko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631781764/original.jpg
+- file: images/passeriformes/furnariidae/automolus-exsertus/2.jpg
+  page: https://www.inaturalist.org/photos/742017537
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742017537/original.jpg
+- file: images/passeriformes/furnariidae/automolus-exsertus/3.jpg
+  page: https://www.inaturalist.org/photos/355233653
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355233653/original.jpeg
+- file: images/passeriformes/furnariidae/automolus-exsertus/4.jpg
+  page: https://www.inaturalist.org/photos/179791074
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179791074/original.jpg
+- file: images/passeriformes/furnariidae/automolus-exsertus/5.jpg
+  page: https://www.inaturalist.org/photos/731739060
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731739060/original.jpg
 ---
 
 

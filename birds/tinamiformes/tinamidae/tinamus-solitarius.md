@@ -150,10 +150,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/tinamiformes/tinamidae/tinamus-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/618074656
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618074656/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/tinamus-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/618074656
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618074656/original.jpg
+- file: images/tinamiformes/tinamidae/tinamus-solitarius/2.jpg
+  page: https://www.inaturalist.org/photos/695886985
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695886985/original.jpg
+- file: images/tinamiformes/tinamidae/tinamus-solitarius/3.jpg
+  page: https://www.inaturalist.org/photos/738233966
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738233966/original.jpg
+- file: images/tinamiformes/tinamidae/tinamus-solitarius/4.jpg
+  page: https://www.inaturalist.org/photos/469388577
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469388577/original.jpeg
+- file: images/tinamiformes/tinamidae/tinamus-solitarius/5.jpg
+  page: https://www.inaturalist.org/photos/468912855
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468912855/original.jpg
 ---
 
 

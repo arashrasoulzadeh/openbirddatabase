@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/eremomela-scotops/1.jpg
+  page: https://www.inaturalist.org/photos/467558988
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467558988/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/eremomela-scotops/1.jpg
+  page: https://www.inaturalist.org/photos/467558988
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467558988/original.jpg
+- file: images/passeriformes/cisticolidae/eremomela-scotops/2.jpg
+  page: https://www.inaturalist.org/photos/473619921
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473619921/original.jpeg
+- file: images/passeriformes/cisticolidae/eremomela-scotops/3.jpg
+  page: https://www.inaturalist.org/photos/537601573
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537601573/original.jpg
+- file: images/passeriformes/cisticolidae/eremomela-scotops/4.jpg
+  page: https://www.inaturalist.org/photos/603067842
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603067842/original.jpg
+- file: images/passeriformes/cisticolidae/eremomela-scotops/5.jpg
+  page: https://www.inaturalist.org/photos/417142219
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417142219/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-capistratus/1.jpg
+  page: https://www.inaturalist.org/photos/604609868
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604609868/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-capistratus/1.jpg
+  page: https://www.inaturalist.org/photos/604609868
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604609868/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-capistratus/2.jpg
+  page: https://www.inaturalist.org/photos/611116704
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611116704/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-capistratus/3.jpg
+  page: https://www.inaturalist.org/photos/613646809
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613646809/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-capistratus/4.jpg
+  page: https://www.inaturalist.org/photos/615794640
+  author: kclarksdnhmorg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615794640/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-capistratus/5.jpg
+  page: https://www.inaturalist.org/photos/616375696
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616375696/original.jpg
 ---
 
 

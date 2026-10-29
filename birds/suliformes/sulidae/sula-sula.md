@@ -210,10 +210,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/suliformes/sulidae/sula-sula/1.jpg
+  page: https://www.inaturalist.org/photos/604669303
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604669303/original.jpg
+images:
+- file: images/suliformes/sulidae/sula-sula/1.jpg
+  page: https://www.inaturalist.org/photos/604669303
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604669303/original.jpg
+- file: images/suliformes/sulidae/sula-sula/2.jpg
+  page: https://www.inaturalist.org/photos/610103487
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610103487/original.jpg
+- file: images/suliformes/sulidae/sula-sula/3.jpg
+  page: https://www.inaturalist.org/photos/607010199
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607010199/original.jpg
+- file: images/suliformes/sulidae/sula-sula/4.jpg
+  page: https://www.inaturalist.org/photos/610412060
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610412060/original.jpg
+- file: images/suliformes/sulidae/sula-sula/5.jpg
+  page: https://www.inaturalist.org/photos/609354442
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609354442/original.jpg
 ---
 
 

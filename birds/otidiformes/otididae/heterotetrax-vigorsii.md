@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/heterotetrax-vigorsii/1.jpg
+  page: https://www.inaturalist.org/photos/610990290
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610990290/original.jpg
+images:
+- file: images/otidiformes/otididae/heterotetrax-vigorsii/1.jpg
+  page: https://www.inaturalist.org/photos/610990290
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610990290/original.jpg
+- file: images/otidiformes/otididae/heterotetrax-vigorsii/2.jpg
+  page: https://www.inaturalist.org/photos/711897400
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711897400/original.jpg
+- file: images/otidiformes/otididae/heterotetrax-vigorsii/3.jpg
+  page: https://www.inaturalist.org/photos/474088394
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474088394/original.jpeg
+- file: images/otidiformes/otididae/heterotetrax-vigorsii/4.jpg
+  page: https://www.inaturalist.org/photos/537555956
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537555956/original.jpg
+- file: images/otidiformes/otididae/heterotetrax-vigorsii/5.jpg
+  page: https://www.inaturalist.org/photos/581789571
+  author: Stefan Curth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581789571/original.jpg
 ---
 
 

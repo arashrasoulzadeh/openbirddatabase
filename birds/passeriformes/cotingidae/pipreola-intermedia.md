@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/pipreola-intermedia/1.jpg
+  page: https://www.inaturalist.org/photos/727040870
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727040870/original.jpg
+images:
+- file: images/passeriformes/cotingidae/pipreola-intermedia/1.jpg
+  page: https://www.inaturalist.org/photos/727040870
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727040870/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-intermedia/2.jpg
+  page: https://www.inaturalist.org/photos/341915777
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341915777/original.jpeg
+- file: images/passeriformes/cotingidae/pipreola-intermedia/3.jpg
+  page: https://www.inaturalist.org/photos/226562229
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226562229/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-intermedia/4.jpg
+  page: https://www.inaturalist.org/photos/242647280
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242647280/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-intermedia/5.jpg
+  page: https://www.inaturalist.org/photos/242758568
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242758568/original.jpeg
 ---
 
 

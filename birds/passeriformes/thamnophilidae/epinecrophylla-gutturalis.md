@@ -147,8 +147,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/epinecrophylla-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/609901531
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609901531/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/epinecrophylla-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/609901531
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609901531/original.jpg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-gutturalis/2.jpg
+  page: https://www.inaturalist.org/photos/338451173
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338451173/original.jpg
 ---
 
 

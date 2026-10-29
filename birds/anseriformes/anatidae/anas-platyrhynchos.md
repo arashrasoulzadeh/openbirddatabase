@@ -231,10 +231,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/anseriformes/anatidae/anas-platyrhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/604899400
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899400/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-platyrhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/604899400
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899400/original.jpg
+- file: images/anseriformes/anatidae/anas-platyrhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/605151505
+  author: Jeff Davis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605151505/original.jpg
+- file: images/anseriformes/anatidae/anas-platyrhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/604626483
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604626483/original.jpg
+- file: images/anseriformes/anatidae/anas-platyrhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/604616363
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604616363/original.jpg
+- file: images/anseriformes/anatidae/anas-platyrhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/604796179
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604796179/original.jpg
 ---
 
 

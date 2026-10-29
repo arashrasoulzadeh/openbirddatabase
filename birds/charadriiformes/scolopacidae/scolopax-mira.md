@@ -144,10 +144,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/charadriiformes/scolopacidae/scolopax-mira/1.jpg
+  page: https://www.inaturalist.org/photos/693541745
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693541745/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/scolopax-mira/1.jpg
+  page: https://www.inaturalist.org/photos/693541745
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693541745/original.jpg
+- file: images/charadriiformes/scolopacidae/scolopax-mira/2.jpg
+  page: https://www.inaturalist.org/photos/725746796
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725746796/original.jpg
+- file: images/charadriiformes/scolopacidae/scolopax-mira/3.jpg
+  page: https://www.inaturalist.org/photos/712522544
+  author: unipon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712522544/original.jpg
+- file: images/charadriiformes/scolopacidae/scolopax-mira/4.jpg
+  page: https://www.inaturalist.org/photos/563493640
+  author: Jonghyun Park
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563493640/original.jpg
+- file: images/charadriiformes/scolopacidae/scolopax-mira/5.jpg
+  page: https://www.inaturalist.org/photos/725746755
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725746755/original.jpg
 ---
 
 

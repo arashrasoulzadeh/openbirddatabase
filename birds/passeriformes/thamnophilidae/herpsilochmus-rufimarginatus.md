@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/herpsilochmus-rufimarginatus/1.jpg
+  page: https://www.inaturalist.org/photos/604541071
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541071/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/herpsilochmus-rufimarginatus/1.jpg
+  page: https://www.inaturalist.org/photos/604541071
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541071/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-rufimarginatus/2.jpg
+  page: https://www.inaturalist.org/photos/615339692
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615339692/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-rufimarginatus/3.jpg
+  page: https://www.inaturalist.org/photos/650118243
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650118243/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-rufimarginatus/4.jpg
+  page: https://www.inaturalist.org/photos/686163443
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686163443/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-rufimarginatus/5.jpg
+  page: https://www.inaturalist.org/photos/710612962
+  author: Guilherme Saito
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710612962/original.jpg
 ---
 
 

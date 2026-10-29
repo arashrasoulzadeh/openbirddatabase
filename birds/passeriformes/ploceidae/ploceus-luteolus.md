@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-luteolus/1.jpg
+  page: https://www.inaturalist.org/photos/612446622
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612446622/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-luteolus/1.jpg
+  page: https://www.inaturalist.org/photos/612446622
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612446622/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-luteolus/2.jpg
+  page: https://www.inaturalist.org/photos/619227218
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619227218/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-luteolus/3.jpg
+  page: https://www.inaturalist.org/photos/687966215
+  author: greenline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687966215/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-luteolus/4.jpg
+  page: https://www.inaturalist.org/photos/474525202
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474525202/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-luteolus/5.jpg
+  page: https://www.inaturalist.org/photos/567129968
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567129968/original.jpg
 ---
 
 

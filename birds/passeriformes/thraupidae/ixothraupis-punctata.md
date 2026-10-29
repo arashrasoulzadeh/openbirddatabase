@@ -132,7 +132,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 12.3
@@ -140,6 +141,44 @@ morphology:
   wing_length_mm: 61.9
   tail_length_mm: 45.7
   body_mass_g: 15.0
+image:
+  file: images/passeriformes/thraupidae/ixothraupis-punctata/1.jpg
+  page: https://www.inaturalist.org/photos/467529684
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467529684/original.jpg
+images:
+- file: images/passeriformes/thraupidae/ixothraupis-punctata/1.jpg
+  page: https://www.inaturalist.org/photos/467529684
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467529684/original.jpg
+- file: images/passeriformes/thraupidae/ixothraupis-punctata/2.jpg
+  page: https://www.inaturalist.org/photos/499980844
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499980844/original.jpeg
+- file: images/passeriformes/thraupidae/ixothraupis-punctata/3.jpg
+  page: https://www.inaturalist.org/photos/559583091
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559583091/original.jpg
+- file: images/passeriformes/thraupidae/ixothraupis-punctata/4.jpg
+  page: https://www.inaturalist.org/photos/562800908
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562800908/original.jpg
+- file: images/passeriformes/thraupidae/ixothraupis-punctata/5.jpg
+  page: https://www.inaturalist.org/photos/360157080
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360157080/original.jpeg
 ---
 
 

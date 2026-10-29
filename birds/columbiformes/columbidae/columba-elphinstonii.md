@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-elphinstonii/1.jpg
+  page: https://www.inaturalist.org/photos/649377033
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649377033/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-elphinstonii/1.jpg
+  page: https://www.inaturalist.org/photos/649377033
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649377033/original.jpg
+- file: images/columbiformes/columbidae/columba-elphinstonii/2.jpg
+  page: https://www.inaturalist.org/photos/462652177
+  author: Siya ul haque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462652177/original.jpeg
+- file: images/columbiformes/columbidae/columba-elphinstonii/3.jpg
+  page: https://www.inaturalist.org/photos/430084937
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/430084937/original.jpg
+- file: images/columbiformes/columbidae/columba-elphinstonii/4.jpg
+  page: https://www.inaturalist.org/photos/404558743
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404558743/original.jpg
+- file: images/columbiformes/columbidae/columba-elphinstonii/5.jpg
+  page: https://www.inaturalist.org/photos/127134869
+  author: Viral joshi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/127134869/original.jpeg
 ---
 
 

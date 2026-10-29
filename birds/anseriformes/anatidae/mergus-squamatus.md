@@ -154,8 +154,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/mergus-squamatus/1.jpg
+  page: https://www.inaturalist.org/photos/605353180
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605353180/original.jpg
+images:
+- file: images/anseriformes/anatidae/mergus-squamatus/1.jpg
+  page: https://www.inaturalist.org/photos/605353180
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605353180/original.jpg
+- file: images/anseriformes/anatidae/mergus-squamatus/2.jpg
+  page: https://www.inaturalist.org/photos/621134978
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621134978/original.jpg
+- file: images/anseriformes/anatidae/mergus-squamatus/3.jpg
+  page: https://www.inaturalist.org/photos/616600842
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616600842/original.jpg
+- file: images/anseriformes/anatidae/mergus-squamatus/4.jpg
+  page: https://www.inaturalist.org/photos/522138030
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522138030/original.jpg
+- file: images/anseriformes/anatidae/mergus-squamatus/5.jpg
+  page: https://www.inaturalist.org/photos/605353160
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605353160/original.jpg
 ---
 
 

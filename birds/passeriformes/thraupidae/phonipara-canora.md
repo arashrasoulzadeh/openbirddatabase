@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/phonipara-canora/1.jpg
+  page: https://www.inaturalist.org/photos/606718487
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606718487/original.jpg
+images:
+- file: images/passeriformes/thraupidae/phonipara-canora/1.jpg
+  page: https://www.inaturalist.org/photos/606718487
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606718487/original.jpg
+- file: images/passeriformes/thraupidae/phonipara-canora/2.jpg
+  page: https://www.inaturalist.org/photos/347111342
+  author: Robin White
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347111342/original.jpg
+- file: images/passeriformes/thraupidae/phonipara-canora/3.jpg
+  page: https://www.inaturalist.org/photos/354103001
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354103001/original.jpg
+- file: images/passeriformes/thraupidae/phonipara-canora/4.jpg
+  page: https://www.inaturalist.org/photos/419529266
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419529266/original.jpeg
+- file: images/passeriformes/thraupidae/phonipara-canora/5.jpg
+  page: https://www.inaturalist.org/photos/253373674
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253373674/original.jpg
 ---
 
 

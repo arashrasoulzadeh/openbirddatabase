@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dryocopus-javensis/1.jpg
+  page: https://www.inaturalist.org/photos/617207319
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207319/original.jpg
+images:
+- file: images/piciformes/picidae/dryocopus-javensis/1.jpg
+  page: https://www.inaturalist.org/photos/617207319
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207319/original.jpg
+- file: images/piciformes/picidae/dryocopus-javensis/2.jpg
+  page: https://www.inaturalist.org/photos/624035261
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624035261/original.jpg
+- file: images/piciformes/picidae/dryocopus-javensis/3.jpg
+  page: https://www.inaturalist.org/photos/646001850
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646001850/original.jpg
+- file: images/piciformes/picidae/dryocopus-javensis/4.jpg
+  page: https://www.inaturalist.org/photos/510901607
+  author: Navaneeth Sini George
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510901607/original.jpg
+- file: images/piciformes/picidae/dryocopus-javensis/5.jpg
+  page: https://www.inaturalist.org/photos/551284618
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551284618/original.jpg
 ---
 
 

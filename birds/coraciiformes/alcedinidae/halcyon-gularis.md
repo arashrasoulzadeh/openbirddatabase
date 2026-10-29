@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/halcyon-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/638252225
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638252225/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/halcyon-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/638252225
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638252225/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/647880322
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647880322/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/651325031
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651325031/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/683429294
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683429294/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/684130530
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684130530/original.jpg
 ---
 
 

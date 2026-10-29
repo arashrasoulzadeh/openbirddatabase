@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/dysithamnus-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/235350804
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/235350804/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/dysithamnus-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/235350804
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/235350804/original.jpeg
+- file: images/passeriformes/thamnophilidae/dysithamnus-occidentalis/2.jpg
+  page: https://www.inaturalist.org/photos/235350839
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/235350839/original.jpeg
+- file: images/passeriformes/thamnophilidae/dysithamnus-occidentalis/3.jpg
+  page: https://www.inaturalist.org/photos/235350756
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/235350756/original.jpeg
+- file: images/passeriformes/thamnophilidae/dysithamnus-occidentalis/4.jpg
+  page: https://www.inaturalist.org/photos/235350779
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/235350779/original.jpeg
+- file: images/passeriformes/thamnophilidae/dysithamnus-occidentalis/5.jpg
+  page: https://www.inaturalist.org/photos/235350877
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/235350877/original.jpeg
 ---
 
 

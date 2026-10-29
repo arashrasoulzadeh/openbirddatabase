@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-regius/1.jpg
+  page: https://www.inaturalist.org/photos/622518845
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622518845/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-regius/1.jpg
+  page: https://www.inaturalist.org/photos/622518845
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622518845/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-regius/2.jpg
+  page: https://www.inaturalist.org/photos/550585704
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550585704/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-regius/3.jpg
+  page: https://www.inaturalist.org/photos/602486330
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602486330/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-regius/4.jpg
+  page: https://www.inaturalist.org/photos/660336510
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660336510/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-regius/5.jpg
+  page: https://www.inaturalist.org/photos/380712272
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380712272/original.jpg
 ---
 
 

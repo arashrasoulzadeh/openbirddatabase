@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/procellariiformes/procellariidae/thalassoica-antarctica/1.jpg
+  page: https://www.inaturalist.org/photos/614228428
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614228428/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/thalassoica-antarctica/1.jpg
+  page: https://www.inaturalist.org/photos/614228428
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614228428/original.jpg
+- file: images/procellariiformes/procellariidae/thalassoica-antarctica/2.jpg
+  page: https://www.inaturalist.org/photos/464865153
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464865153/original.jpg
+- file: images/procellariiformes/procellariidae/thalassoica-antarctica/3.jpg
+  page: https://www.inaturalist.org/photos/464853779
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464853779/original.jpeg
+- file: images/procellariiformes/procellariidae/thalassoica-antarctica/4.jpg
+  page: https://www.inaturalist.org/photos/612585839
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612585839/original.jpg
+- file: images/procellariiformes/procellariidae/thalassoica-antarctica/5.jpg
+  page: https://www.inaturalist.org/photos/358381921
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358381921/original.jpg
 ---
 
 

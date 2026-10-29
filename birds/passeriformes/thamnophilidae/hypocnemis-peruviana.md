@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hypocnemis-peruviana/1.jpg
+  page: https://www.inaturalist.org/photos/731220787
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731220787/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hypocnemis-peruviana/1.jpg
+  page: https://www.inaturalist.org/photos/731220787
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731220787/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemis-peruviana/2.jpg
+  page: https://www.inaturalist.org/photos/475743064
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475743064/original.jpeg
+- file: images/passeriformes/thamnophilidae/hypocnemis-peruviana/3.jpg
+  page: https://www.inaturalist.org/photos/608294213
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608294213/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemis-peruviana/4.jpg
+  page: https://www.inaturalist.org/photos/252473015
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252473015/original.jpeg
+- file: images/passeriformes/thamnophilidae/hypocnemis-peruviana/5.jpg
+  page: https://www.inaturalist.org/photos/254956391
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254956391/original.jpeg
 ---
 
 

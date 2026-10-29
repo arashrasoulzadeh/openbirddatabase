@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-magentae/1.jpg
+  page: https://www.inaturalist.org/photos/602928094
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602928094/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-magentae/1.jpg
+  page: https://www.inaturalist.org/photos/602928094
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602928094/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-magentae/2.jpg
+  page: https://www.inaturalist.org/photos/463733395
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463733395/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-magentae/3.jpg
+  page: https://www.inaturalist.org/photos/385097482
+  author: Mark Fraser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385097482/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-magentae/4.jpg
+  page: https://www.inaturalist.org/photos/1251791
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1251791/original.
+- file: images/procellariiformes/procellariidae/pterodroma-magentae/5.jpg
+  page: https://www.inaturalist.org/photos/603062347
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603062347/original.jpg
 ---
 
 

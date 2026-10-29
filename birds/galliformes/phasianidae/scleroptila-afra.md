@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/scleroptila-afra/1.jpg
+  page: https://www.inaturalist.org/photos/650677001
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650677001/original.jpg
+images:
+- file: images/galliformes/phasianidae/scleroptila-afra/1.jpg
+  page: https://www.inaturalist.org/photos/650677001
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650677001/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-afra/2.jpg
+  page: https://www.inaturalist.org/photos/653024231
+  author: Klaus Wehrlin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653024231/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-afra/3.jpg
+  page: https://www.inaturalist.org/photos/714417118
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714417118/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-afra/4.jpg
+  page: https://www.inaturalist.org/photos/730496277
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730496277/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-afra/5.jpg
+  page: https://www.inaturalist.org/photos/586565170
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586565170/original.jpg
 ---
 
 

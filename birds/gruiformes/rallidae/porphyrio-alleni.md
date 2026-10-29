@@ -187,8 +187,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/porphyrio-alleni/1.jpg
+  page: https://www.inaturalist.org/photos/620509541
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620509541/original.jpg
+images:
+- file: images/gruiformes/rallidae/porphyrio-alleni/1.jpg
+  page: https://www.inaturalist.org/photos/620509541
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620509541/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-alleni/2.jpg
+  page: https://www.inaturalist.org/photos/636873917
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873917/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-alleni/3.jpg
+  page: https://www.inaturalist.org/photos/466323911
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466323911/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-alleni/4.jpg
+  page: https://www.inaturalist.org/photos/474714079
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474714079/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-alleni/5.jpg
+  page: https://www.inaturalist.org/photos/619864411
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619864411/original.jpg
 ---
 
 

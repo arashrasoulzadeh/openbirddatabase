@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/galloperdix-bicalcarata/1.jpg
+  page: https://www.inaturalist.org/photos/469009335
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469009335/original.jpg
+images:
+- file: images/galliformes/phasianidae/galloperdix-bicalcarata/1.jpg
+  page: https://www.inaturalist.org/photos/469009335
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469009335/original.jpg
+- file: images/galliformes/phasianidae/galloperdix-bicalcarata/2.jpg
+  page: https://www.inaturalist.org/photos/452163452
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452163452/original.jpeg
+- file: images/galliformes/phasianidae/galloperdix-bicalcarata/3.jpg
+  page: https://www.inaturalist.org/photos/264216917
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264216917/original.jpg
+- file: images/galliformes/phasianidae/galloperdix-bicalcarata/4.jpg
+  page: https://www.inaturalist.org/photos/469009339
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469009339/original.jpg
+- file: images/galliformes/phasianidae/galloperdix-bicalcarata/5.jpg
+  page: https://www.inaturalist.org/photos/469009346
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469009346/original.jpg
 ---
 
 

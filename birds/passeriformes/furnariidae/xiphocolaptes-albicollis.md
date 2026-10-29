@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/xiphocolaptes-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/607243291
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243291/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xiphocolaptes-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/607243291
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243291/original.jpg
+- file: images/passeriformes/furnariidae/xiphocolaptes-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/607273198
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273198/original.jpg
+- file: images/passeriformes/furnariidae/xiphocolaptes-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/645063521
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645063521/original.jpg
+- file: images/passeriformes/furnariidae/xiphocolaptes-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/669794781
+  author: Sebastián Fornés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669794781/original.jpg
+- file: images/passeriformes/furnariidae/xiphocolaptes-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/693704678
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693704678/original.jpg
 ---
 
 

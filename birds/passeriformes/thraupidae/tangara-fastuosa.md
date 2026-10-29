@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-fastuosa/1.jpg
+  page: https://www.inaturalist.org/photos/619426159
+  author: Alan Valentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619426159/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-fastuosa/1.jpg
+  page: https://www.inaturalist.org/photos/619426159
+  author: Alan Valentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619426159/original.jpg
+- file: images/passeriformes/thraupidae/tangara-fastuosa/2.jpg
+  page: https://www.inaturalist.org/photos/467203466
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467203466/original.jpeg
+- file: images/passeriformes/thraupidae/tangara-fastuosa/3.jpg
+  page: https://www.inaturalist.org/photos/462935380
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462935380/original.jpg
+- file: images/passeriformes/thraupidae/tangara-fastuosa/4.jpg
+  page: https://www.inaturalist.org/photos/240604363
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240604363/original.jpg
+- file: images/passeriformes/thraupidae/tangara-fastuosa/5.jpg
+  page: https://www.inaturalist.org/photos/619426177
+  author: Alan Valentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619426177/original.jpg
 ---
 
 

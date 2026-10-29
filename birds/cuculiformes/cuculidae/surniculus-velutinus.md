@@ -138,8 +138,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/surniculus-velutinus/1.jpg
+  page: https://www.inaturalist.org/photos/181196714
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181196714/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/surniculus-velutinus/1.jpg
+  page: https://www.inaturalist.org/photos/181196714
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181196714/original.jpg
+- file: images/cuculiformes/cuculidae/surniculus-velutinus/2.jpg
+  page: https://www.inaturalist.org/photos/220581629
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220581629/original.jpg
+- file: images/cuculiformes/cuculidae/surniculus-velutinus/3.jpg
+  page: https://www.inaturalist.org/photos/232307236
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232307236/original.jpg
+- file: images/cuculiformes/cuculidae/surniculus-velutinus/4.jpg
+  page: https://www.inaturalist.org/photos/232307253
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232307253/original.jpg
 ---
 
 

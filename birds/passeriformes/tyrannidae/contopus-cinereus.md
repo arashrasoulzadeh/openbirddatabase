@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/contopus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/611575878
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611575878/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/contopus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/611575878
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611575878/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/617060692
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617060692/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/619419818
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619419818/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/670707425
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670707425/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/645073161
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645073161/original.jpg
 ---
 
 

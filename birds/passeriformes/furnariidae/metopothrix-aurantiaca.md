@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/metopothrix-aurantiaca/1.jpg
+  page: https://www.inaturalist.org/photos/484571266
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484571266/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/metopothrix-aurantiaca/1.jpg
+  page: https://www.inaturalist.org/photos/484571266
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484571266/original.jpeg
+- file: images/passeriformes/furnariidae/metopothrix-aurantiaca/2.jpg
+  page: https://www.inaturalist.org/photos/556636232
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556636232/original.jpg
+- file: images/passeriformes/furnariidae/metopothrix-aurantiaca/3.jpg
+  page: https://www.inaturalist.org/photos/611291485
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611291485/original.jpg
+- file: images/passeriformes/furnariidae/metopothrix-aurantiaca/4.jpg
+  page: https://www.inaturalist.org/photos/352970934
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352970934/original.jpeg
+- file: images/passeriformes/furnariidae/metopothrix-aurantiaca/5.jpg
+  page: https://www.inaturalist.org/photos/394658551
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394658551/original.jpg
 ---
 
 

@@ -142,10 +142,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/coraciiformes/momotidae/momotus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/604812178
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604812178/original.jpg
+images:
+- file: images/coraciiformes/momotidae/momotus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/604812178
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604812178/original.jpg
+- file: images/coraciiformes/momotidae/momotus-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/619030887
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619030887/original.jpg
+- file: images/coraciiformes/momotidae/momotus-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/616933753
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616933753/original.jpg
+- file: images/coraciiformes/momotidae/momotus-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/617979799
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617979799/original.jpg
+- file: images/coraciiformes/momotidae/momotus-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/620396773
+  author: Giovana A. Valencia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620396773/original.jpg
 ---
 
 

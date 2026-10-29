@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-nigroventris/1.jpg
+  page: https://www.inaturalist.org/photos/610114268
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610114268/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-nigroventris/1.jpg
+  page: https://www.inaturalist.org/photos/610114268
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610114268/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-nigroventris/2.jpg
+  page: https://www.inaturalist.org/photos/534250282
+  author: Paco Cardenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534250282/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-nigroventris/3.jpg
+  page: https://www.inaturalist.org/photos/355736462
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355736462/original.jpeg
+- file: images/passeriformes/ploceidae/euplectes-nigroventris/4.jpg
+  page: https://www.inaturalist.org/photos/377724051
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/377724051/original.jpeg
+- file: images/passeriformes/ploceidae/euplectes-nigroventris/5.jpg
+  page: https://www.inaturalist.org/photos/469376767
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469376767/original.jpg
 ---
 
 

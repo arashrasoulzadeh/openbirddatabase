@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/pelecaniformes/threskiornithidae/nipponia-nippon/1.jpg
+  page: https://www.inaturalist.org/photos/522331200
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522331200/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/nipponia-nippon/1.jpg
+  page: https://www.inaturalist.org/photos/522331200
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522331200/original.jpg
+- file: images/pelecaniformes/threskiornithidae/nipponia-nippon/2.jpg
+  page: https://www.inaturalist.org/photos/524339497
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524339497/original.jpg
+- file: images/pelecaniformes/threskiornithidae/nipponia-nippon/3.jpg
+  page: https://www.inaturalist.org/photos/365038502
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365038502/original.jpeg
+- file: images/pelecaniformes/threskiornithidae/nipponia-nippon/4.jpg
+  page: https://www.inaturalist.org/photos/524339506
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524339506/original.jpg
+- file: images/pelecaniformes/threskiornithidae/nipponia-nippon/5.jpg
+  page: https://www.inaturalist.org/photos/524339541
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524339541/original.jpg
 ---
 
 

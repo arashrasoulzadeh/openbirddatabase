@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geotrygon-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/469426558
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469426558/original.jpeg
+images:
+- file: images/columbiformes/columbidae/geotrygon-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/469426558
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469426558/original.jpeg
+- file: images/columbiformes/columbidae/geotrygon-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/354511503
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354511503/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/336724583
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336724583/original.jpeg
+- file: images/columbiformes/columbidae/geotrygon-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/177196324
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177196324/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/354511595
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354511595/original.jpg
 ---
 
 

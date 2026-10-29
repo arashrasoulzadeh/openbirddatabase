@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-grillii/1.jpg
+  page: https://www.inaturalist.org/photos/620243600
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620243600/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-grillii/1.jpg
+  page: https://www.inaturalist.org/photos/620243600
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620243600/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-grillii/2.jpg
+  page: https://www.inaturalist.org/photos/592772964
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592772964/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-grillii/3.jpg
+  page: https://www.inaturalist.org/photos/599681928
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599681928/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-grillii/4.jpg
+  page: https://www.inaturalist.org/photos/476849202
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476849202/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-grillii/5.jpg
+  page: https://www.inaturalist.org/photos/180336537
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180336537/original.jpg
 ---
 
 

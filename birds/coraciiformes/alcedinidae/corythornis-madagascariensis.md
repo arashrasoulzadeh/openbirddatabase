@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/corythornis-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/472101962
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472101962/original.jpeg
+images:
+- file: images/coraciiformes/alcedinidae/corythornis-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/472101962
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472101962/original.jpeg
+- file: images/coraciiformes/alcedinidae/corythornis-madagascariensis/2.jpg
+  page: https://www.inaturalist.org/photos/535749083
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535749083/original.jpg
+- file: images/coraciiformes/alcedinidae/corythornis-madagascariensis/3.jpg
+  page: https://www.inaturalist.org/photos/603634665
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603634665/original.jpg
+- file: images/coraciiformes/alcedinidae/corythornis-madagascariensis/4.jpg
+  page: https://www.inaturalist.org/photos/446004960
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446004960/original.jpeg
+- file: images/coraciiformes/alcedinidae/corythornis-madagascariensis/5.jpg
+  page: https://www.inaturalist.org/photos/455468163
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455468163/original.jpeg
 ---
 
 

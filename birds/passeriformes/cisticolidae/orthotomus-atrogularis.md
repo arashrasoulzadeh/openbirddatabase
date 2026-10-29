@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/orthotomus-atrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/607896750
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607896750/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/orthotomus-atrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/607896750
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607896750/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-atrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/608898245
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608898245/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-atrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/613908556
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613908556/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-atrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/610403720
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610403720/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-atrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/717080363
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717080363/original.jpg
 ---
 
 

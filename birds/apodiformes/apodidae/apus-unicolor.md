@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/apus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/622624200
+  author: Frank Sengpiel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622624200/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/622624200
+  author: Frank Sengpiel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622624200/original.jpg
+- file: images/apodiformes/apodidae/apus-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/636419162
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636419162/original.jpg
+- file: images/apodiformes/apodidae/apus-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/708461895
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708461895/original.jpg
+- file: images/apodiformes/apodidae/apus-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/732415955
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732415955/original.jpg
+- file: images/apodiformes/apodidae/apus-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/523413337
+  author: famkoe
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523413337/original.jpg
 ---
 
 

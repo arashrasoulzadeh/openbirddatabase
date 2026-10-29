@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/platyrinchus-leucoryphus/1.jpg
+  page: https://www.inaturalist.org/photos/641039056
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641039056/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/platyrinchus-leucoryphus/1.jpg
+  page: https://www.inaturalist.org/photos/641039056
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641039056/original.jpg
+- file: images/passeriformes/tyrannidae/platyrinchus-leucoryphus/2.jpg
+  page: https://www.inaturalist.org/photos/505648736
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505648736/original.jpg
+- file: images/passeriformes/tyrannidae/platyrinchus-leucoryphus/3.jpg
+  page: https://www.inaturalist.org/photos/456157706
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456157706/original.jpeg
+- file: images/passeriformes/tyrannidae/platyrinchus-leucoryphus/4.jpg
+  page: https://www.inaturalist.org/photos/641042640
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641042640/original.jpg
+- file: images/passeriformes/tyrannidae/platyrinchus-leucoryphus/5.jpg
+  page: https://www.inaturalist.org/photos/456157295
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456157295/original.jpeg
 ---
 
 

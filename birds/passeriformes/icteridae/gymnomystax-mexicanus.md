@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/gymnomystax-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/605142208
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605142208/original.jpg
+images:
+- file: images/passeriformes/icteridae/gymnomystax-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/605142208
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605142208/original.jpg
+- file: images/passeriformes/icteridae/gymnomystax-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/615490629
+  author: Fabrizio Migliore
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615490629/original.jpg
+- file: images/passeriformes/icteridae/gymnomystax-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/619333252
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333252/original.jpg
+- file: images/passeriformes/icteridae/gymnomystax-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/620424927
+  author: Stan Rullman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620424927/original.jpg
+- file: images/passeriformes/icteridae/gymnomystax-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/624827128
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624827128/original.jpg
 ---
 
 

@@ -132,8 +132,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/aethomyias-arfakianus/1.jpg
+  page: https://www.inaturalist.org/photos/623846903
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623846903/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/aethomyias-arfakianus/1.jpg
+  page: https://www.inaturalist.org/photos/623846903
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623846903/original.jpg
+- file: images/passeriformes/acanthizidae/aethomyias-arfakianus/2.jpg
+  page: https://www.inaturalist.org/photos/623846865
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623846865/original.jpg
+- file: images/passeriformes/acanthizidae/aethomyias-arfakianus/3.jpg
+  page: https://www.inaturalist.org/photos/623846836
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623846836/original.jpg
+- file: images/passeriformes/acanthizidae/aethomyias-arfakianus/4.jpg
+  page: https://www.inaturalist.org/photos/623846843
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623846843/original.jpg
+- file: images/passeriformes/acanthizidae/aethomyias-arfakianus/5.jpg
+  page: https://www.inaturalist.org/photos/623846882
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623846882/original.jpg
 ---
 
 

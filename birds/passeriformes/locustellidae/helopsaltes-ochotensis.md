@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/helopsaltes-ochotensis/1.jpg
+  page: https://www.inaturalist.org/photos/678881343
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678881343/original.jpg
+images:
+- file: images/passeriformes/locustellidae/helopsaltes-ochotensis/1.jpg
+  page: https://www.inaturalist.org/photos/678881343
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678881343/original.jpg
+- file: images/passeriformes/locustellidae/helopsaltes-ochotensis/2.jpg
+  page: https://www.inaturalist.org/photos/685241059
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685241059/original.jpg
+- file: images/passeriformes/locustellidae/helopsaltes-ochotensis/3.jpg
+  page: https://www.inaturalist.org/photos/685985242
+  author: Константин Шатилов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685985242/original.jpg
+- file: images/passeriformes/locustellidae/helopsaltes-ochotensis/4.jpg
+  page: https://www.inaturalist.org/photos/688611695
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688611695/original.jpg
+- file: images/passeriformes/locustellidae/helopsaltes-ochotensis/5.jpg
+  page: https://www.inaturalist.org/photos/691930912
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691930912/original.jpg
 ---
 
 

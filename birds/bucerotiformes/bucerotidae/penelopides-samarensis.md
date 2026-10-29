@@ -138,8 +138,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/penelopides-samarensis/1.jpg
+  page: https://www.inaturalist.org/photos/652496304
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652496304/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/penelopides-samarensis/1.jpg
+  page: https://www.inaturalist.org/photos/652496304
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652496304/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-samarensis/2.jpg
+  page: https://www.inaturalist.org/photos/683296029
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683296029/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-samarensis/3.jpg
+  page: https://www.inaturalist.org/photos/211853175
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211853175/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-samarensis/4.jpg
+  page: https://www.inaturalist.org/photos/724571482
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724571482/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-samarensis/5.jpg
+  page: https://www.inaturalist.org/photos/683295837
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683295837/original.jpg
 ---
 
 

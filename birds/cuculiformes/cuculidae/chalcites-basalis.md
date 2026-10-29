@@ -146,8 +146,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chalcites-basalis/1.jpg
+  page: https://www.inaturalist.org/photos/607686974
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607686974/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chalcites-basalis/1.jpg
+  page: https://www.inaturalist.org/photos/607686974
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607686974/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-basalis/2.jpg
+  page: https://www.inaturalist.org/photos/726912693
+  author: Connor Margetts
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726912693/original.jpg
 ---
 
 

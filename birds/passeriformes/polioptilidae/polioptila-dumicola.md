@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/polioptilidae/polioptila-dumicola/1.jpg
+  page: https://www.inaturalist.org/photos/605553016
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605553016/original.jpg
+images:
+- file: images/passeriformes/polioptilidae/polioptila-dumicola/1.jpg
+  page: https://www.inaturalist.org/photos/605553016
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605553016/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-dumicola/2.jpg
+  page: https://www.inaturalist.org/photos/609104781
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609104781/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-dumicola/3.jpg
+  page: https://www.inaturalist.org/photos/610219354
+  author: Matias Cabezas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610219354/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-dumicola/4.jpg
+  page: https://www.inaturalist.org/photos/612390722
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612390722/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-dumicola/5.jpg
+  page: https://www.inaturalist.org/photos/614352517
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614352517/original.jpg
 ---
 
 

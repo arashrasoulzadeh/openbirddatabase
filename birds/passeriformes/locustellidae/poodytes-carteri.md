@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/poodytes-carteri/1.jpg
+  page: https://www.inaturalist.org/photos/720115241
+  author: Paul Coddington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720115241/original.jpg
+images:
+- file: images/passeriformes/locustellidae/poodytes-carteri/1.jpg
+  page: https://www.inaturalist.org/photos/720115241
+  author: Paul Coddington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720115241/original.jpg
+- file: images/passeriformes/locustellidae/poodytes-carteri/2.jpg
+  page: https://www.inaturalist.org/photos/745731533
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745731533/original.jpg
+- file: images/passeriformes/locustellidae/poodytes-carteri/3.jpg
+  page: https://www.inaturalist.org/photos/175597039
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175597039/original.jpeg
+- file: images/passeriformes/locustellidae/poodytes-carteri/4.jpg
+  page: https://www.inaturalist.org/photos/323777073
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323777073/original.jpeg
+- file: images/passeriformes/locustellidae/poodytes-carteri/5.jpg
+  page: https://www.inaturalist.org/photos/745733564
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745733564/original.jpg
 ---
 
 

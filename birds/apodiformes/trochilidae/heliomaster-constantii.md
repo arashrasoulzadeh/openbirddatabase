@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliomaster-constantii/1.jpg
+  page: https://www.inaturalist.org/photos/606747665
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606747665/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliomaster-constantii/1.jpg
+  page: https://www.inaturalist.org/photos/606747665
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606747665/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-constantii/2.jpg
+  page: https://www.inaturalist.org/photos/611509097
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611509097/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-constantii/3.jpg
+  page: https://www.inaturalist.org/photos/617292257
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617292257/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-constantii/4.jpg
+  page: https://www.inaturalist.org/photos/619900273
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619900273/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-constantii/5.jpg
+  page: https://www.inaturalist.org/photos/665347388
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665347388/original.jpg
 ---
 
 

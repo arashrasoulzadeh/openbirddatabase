@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.9
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 72.4
   tail_length_mm: 70.0
   body_mass_g: 23.0
+image:
+  file: images/passeriformes/fringillidae/carpodacus-verreauxii/1.jpg
+  page: https://www.inaturalist.org/photos/521354713
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521354713/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-verreauxii/1.jpg
+  page: https://www.inaturalist.org/photos/521354713
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521354713/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-verreauxii/2.jpg
+  page: https://www.inaturalist.org/photos/538018541
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538018541/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-verreauxii/3.jpg
+  page: https://www.inaturalist.org/photos/514055353
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514055353/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-verreauxii/4.jpg
+  page: https://www.inaturalist.org/photos/435673763
+  author: Patrick McKenzie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435673763/original.jpeg
+- file: images/passeriformes/fringillidae/carpodacus-verreauxii/5.jpg
+  page: https://www.inaturalist.org/photos/536980384
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536980384/original.jpg
 ---
 
 

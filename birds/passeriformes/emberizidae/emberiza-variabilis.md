@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-variabilis/1.jpg
+  page: https://www.inaturalist.org/photos/655848977
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655848977/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-variabilis/1.jpg
+  page: https://www.inaturalist.org/photos/655848977
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655848977/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-variabilis/2.jpg
+  page: https://www.inaturalist.org/photos/678834910
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678834910/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-variabilis/3.jpg
+  page: https://www.inaturalist.org/photos/726216610
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726216610/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-variabilis/4.jpg
+  page: https://www.inaturalist.org/photos/687019029
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687019029/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-variabilis/5.jpg
+  page: https://www.inaturalist.org/photos/479235813
+  author: Daniel J. Layton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479235813/original.jpg
 ---
 
 

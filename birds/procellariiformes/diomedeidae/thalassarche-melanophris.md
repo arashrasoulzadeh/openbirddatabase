@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 44
+image:
+  file: images/procellariiformes/diomedeidae/thalassarche-melanophris/1.jpg
+  page: https://www.inaturalist.org/photos/605474417
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474417/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/thalassarche-melanophris/1.jpg
+  page: https://www.inaturalist.org/photos/605474417
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474417/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-melanophris/2.jpg
+  page: https://www.inaturalist.org/photos/612320795
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612320795/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-melanophris/3.jpg
+  page: https://www.inaturalist.org/photos/615792784
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792784/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-melanophris/4.jpg
+  page: https://www.inaturalist.org/photos/617686614
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617686614/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-melanophris/5.jpg
+  page: https://www.inaturalist.org/photos/605474760
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474760/original.jpg
 ---
 
 

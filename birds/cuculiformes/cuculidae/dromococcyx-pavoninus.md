@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/dromococcyx-pavoninus/1.jpg
+  page: https://www.inaturalist.org/photos/652840375
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652840375/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/dromococcyx-pavoninus/1.jpg
+  page: https://www.inaturalist.org/photos/652840375
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652840375/original.jpg
+- file: images/cuculiformes/cuculidae/dromococcyx-pavoninus/2.jpg
+  page: https://www.inaturalist.org/photos/725787543
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725787543/original.jpg
+- file: images/cuculiformes/cuculidae/dromococcyx-pavoninus/3.jpg
+  page: https://www.inaturalist.org/photos/742585120
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742585120/original.jpg
+- file: images/cuculiformes/cuculidae/dromococcyx-pavoninus/4.jpg
+  page: https://www.inaturalist.org/photos/523954160
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523954160/original.jpg
+- file: images/cuculiformes/cuculidae/dromococcyx-pavoninus/5.jpg
+  page: https://www.inaturalist.org/photos/503527693
+  author: Isadora Müller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503527693/original.jpeg
 ---
 
 

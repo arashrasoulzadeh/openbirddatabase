@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/furnarius-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/604750198
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604750198/original.jpg
+images:
+- file: images/passeriformes/furnariidae/furnarius-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/604750198
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604750198/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-rufus/2.jpg
+  page: https://www.inaturalist.org/photos/605144374
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144374/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-rufus/3.jpg
+  page: https://www.inaturalist.org/photos/605525162
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605525162/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-rufus/4.jpg
+  page: https://www.inaturalist.org/photos/605689633
+  author: Paulo C. O. Cunha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605689633/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-rufus/5.jpg
+  page: https://www.inaturalist.org/photos/605541840
+  author: Miguel Grageda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605541840/original.jpg
 ---
 
 

@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/procellariiformes/procellariidae/procellaria-parkinsoni/1.jpg
+  page: https://www.inaturalist.org/photos/614968190
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614968190/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/procellaria-parkinsoni/1.jpg
+  page: https://www.inaturalist.org/photos/614968190
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614968190/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-parkinsoni/2.jpg
+  page: https://www.inaturalist.org/photos/626066654
+  author: Phil
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626066654/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-parkinsoni/3.jpg
+  page: https://www.inaturalist.org/photos/657733135
+  author: Angus Campbell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657733135/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-parkinsoni/4.jpg
+  page: https://www.inaturalist.org/photos/469252983
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469252983/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-parkinsoni/5.jpg
+  page: https://www.inaturalist.org/photos/599675064
+  author: nick_goldwater
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599675064/original.jpg
 ---
 
 

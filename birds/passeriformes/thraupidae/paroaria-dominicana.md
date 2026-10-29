@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/paroaria-dominicana/1.jpg
+  page: https://www.inaturalist.org/photos/610448044
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610448044/original.jpg
+images:
+- file: images/passeriformes/thraupidae/paroaria-dominicana/1.jpg
+  page: https://www.inaturalist.org/photos/610448044
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610448044/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-dominicana/2.jpg
+  page: https://www.inaturalist.org/photos/610944510
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610944510/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-dominicana/3.jpg
+  page: https://www.inaturalist.org/photos/607498893
+  author: Lucas Rodrigues
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607498893/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-dominicana/4.jpg
+  page: https://www.inaturalist.org/photos/610218672
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610218672/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-dominicana/5.jpg
+  page: https://www.inaturalist.org/photos/607529278
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529278/original.jpg
 ---
 
 

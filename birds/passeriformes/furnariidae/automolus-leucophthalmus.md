@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/automolus-leucophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/607243255
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243255/original.jpg
+images:
+- file: images/passeriformes/furnariidae/automolus-leucophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/607243255
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243255/original.jpg
+- file: images/passeriformes/furnariidae/automolus-leucophthalmus/2.jpg
+  page: https://www.inaturalist.org/photos/720333540
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720333540/original.jpg
+- file: images/passeriformes/furnariidae/automolus-leucophthalmus/3.jpg
+  page: https://www.inaturalist.org/photos/686371996
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686371996/original.jpg
+- file: images/passeriformes/furnariidae/automolus-leucophthalmus/4.jpg
+  page: https://www.inaturalist.org/photos/693656927
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693656927/original.jpg
+- file: images/passeriformes/furnariidae/automolus-leucophthalmus/5.jpg
+  page: https://www.inaturalist.org/photos/681612301
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681612301/original.jpg
 ---
 
 

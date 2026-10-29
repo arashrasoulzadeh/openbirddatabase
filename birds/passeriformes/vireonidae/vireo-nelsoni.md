@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireo-nelsoni/1.jpg
+  page: https://www.inaturalist.org/photos/665343831
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343831/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-nelsoni/1.jpg
+  page: https://www.inaturalist.org/photos/665343831
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343831/original.jpg
+- file: images/passeriformes/vireonidae/vireo-nelsoni/2.jpg
+  page: https://www.inaturalist.org/photos/598143014
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598143014/original.jpg
+- file: images/passeriformes/vireonidae/vireo-nelsoni/3.jpg
+  page: https://www.inaturalist.org/photos/463478415
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463478415/original.jpg
+- file: images/passeriformes/vireonidae/vireo-nelsoni/4.jpg
+  page: https://www.inaturalist.org/photos/665343863
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343863/original.jpg
+- file: images/passeriformes/vireonidae/vireo-nelsoni/5.jpg
+  page: https://www.inaturalist.org/photos/665343867
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343867/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lonchura-caniceps/1.jpg
+  page: https://www.inaturalist.org/photos/573695926
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573695926/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-caniceps/1.jpg
+  page: https://www.inaturalist.org/photos/573695926
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573695926/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-caniceps/2.jpg
+  page: https://www.inaturalist.org/photos/611944316
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611944316/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-caniceps/3.jpg
+  page: https://www.inaturalist.org/photos/224947169
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224947169/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-caniceps/4.jpg
+  page: https://www.inaturalist.org/photos/338032965
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338032965/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-caniceps/5.jpg
+  page: https://www.inaturalist.org/photos/573695929
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573695929/original.jpg
 ---
 
 

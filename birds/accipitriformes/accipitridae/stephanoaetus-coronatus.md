@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/accipitriformes/accipitridae/stephanoaetus-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/611017048
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611017048/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/stephanoaetus-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/611017048
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611017048/original.jpg
+- file: images/accipitriformes/accipitridae/stephanoaetus-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/624179066
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624179066/original.jpg
+- file: images/accipitriformes/accipitridae/stephanoaetus-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/621414905
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621414905/original.jpg
+- file: images/accipitriformes/accipitridae/stephanoaetus-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/657839353
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657839353/original.jpg
+- file: images/accipitriformes/accipitridae/stephanoaetus-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/668231306
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668231306/original.jpg
 ---
 
 

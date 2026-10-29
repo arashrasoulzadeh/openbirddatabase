@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/catamenia-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/621887327
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621887327/original.jpg
+images:
+- file: images/passeriformes/thraupidae/catamenia-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/621887327
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621887327/original.jpg
+- file: images/passeriformes/thraupidae/catamenia-inornata/2.jpg
+  page: https://www.inaturalist.org/photos/696911920
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696911920/original.jpg
+- file: images/passeriformes/thraupidae/catamenia-inornata/3.jpg
+  page: https://www.inaturalist.org/photos/699675043
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699675043/original.jpg
+- file: images/passeriformes/thraupidae/catamenia-inornata/4.jpg
+  page: https://www.inaturalist.org/photos/722757644
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722757644/original.jpg
+- file: images/passeriformes/thraupidae/catamenia-inornata/5.jpg
+  page: https://www.inaturalist.org/photos/502923532
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502923532/original.jpg
 ---
 
 

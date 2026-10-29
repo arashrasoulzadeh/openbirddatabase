@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/platyrinchus-platyrhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/386542766
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386542766/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/platyrinchus-platyrhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/386542766
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386542766/original.jpg
+- file: images/passeriformes/tyrannidae/platyrinchus-platyrhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/424600110
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424600110/original.jpeg
+- file: images/passeriformes/tyrannidae/platyrinchus-platyrhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/245511993
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245511993/original.jpeg
+- file: images/passeriformes/tyrannidae/platyrinchus-platyrhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/26767630
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26767630/original.jpeg
+- file: images/passeriformes/tyrannidae/platyrinchus-platyrhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/26767635
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26767635/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/setophaga-angelae/1.jpg
+  page: https://www.inaturalist.org/photos/653311217
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653311217/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-angelae/1.jpg
+  page: https://www.inaturalist.org/photos/653311217
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653311217/original.jpg
+- file: images/passeriformes/parulidae/setophaga-angelae/2.jpg
+  page: https://www.inaturalist.org/photos/476070262
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476070262/original.jpg
+- file: images/passeriformes/parulidae/setophaga-angelae/3.jpg
+  page: https://www.inaturalist.org/photos/366230368
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366230368/original.jpg
+- file: images/passeriformes/parulidae/setophaga-angelae/4.jpg
+  page: https://www.inaturalist.org/photos/177764281
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177764281/original.jpg
+- file: images/passeriformes/parulidae/setophaga-angelae/5.jpg
+  page: https://www.inaturalist.org/photos/548932028
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548932028/original.jpg
 ---
 
 

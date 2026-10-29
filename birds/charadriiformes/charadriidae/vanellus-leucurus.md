@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/614231649
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231649/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/614231649
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231649/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-leucurus/2.jpg
+  page: https://www.inaturalist.org/photos/690569416
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690569416/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-leucurus/3.jpg
+  page: https://www.inaturalist.org/photos/680247642
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680247642/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-leucurus/4.jpg
+  page: https://www.inaturalist.org/photos/730962072
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730962072/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-leucurus/5.jpg
+  page: https://www.inaturalist.org/photos/690569415
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690569415/original.jpg
 ---
 
 

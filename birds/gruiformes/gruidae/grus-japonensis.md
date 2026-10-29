@@ -157,10 +157,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/gruiformes/gruidae/grus-japonensis/1.jpg
+  page: https://www.inaturalist.org/photos/609433374
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609433374/original.jpg
+images:
+- file: images/gruiformes/gruidae/grus-japonensis/1.jpg
+  page: https://www.inaturalist.org/photos/609433374
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609433374/original.jpg
+- file: images/gruiformes/gruidae/grus-japonensis/2.jpg
+  page: https://www.inaturalist.org/photos/624353224
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624353224/original.jpg
+- file: images/gruiformes/gruidae/grus-japonensis/3.jpg
+  page: https://www.inaturalist.org/photos/624353187
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624353187/original.jpg
+- file: images/gruiformes/gruidae/grus-japonensis/4.jpg
+  page: https://www.inaturalist.org/photos/624353176
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624353176/original.jpg
+- file: images/gruiformes/gruidae/grus-japonensis/5.jpg
+  page: https://www.inaturalist.org/photos/624353162
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624353162/original.jpg
 ---
 
 

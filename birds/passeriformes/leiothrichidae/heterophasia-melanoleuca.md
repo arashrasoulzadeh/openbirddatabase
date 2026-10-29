@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/heterophasia-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/609690671
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609690671/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/heterophasia-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/609690671
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609690671/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-melanoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/623567016
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623567016/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-melanoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/668911884
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668911884/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-melanoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/469022456
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469022456/original.jpeg
+- file: images/passeriformes/leiothrichidae/heterophasia-melanoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/351229487
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351229487/original.jpeg
 ---
 
 

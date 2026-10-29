@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/haplophaedia-aureliae/1.jpg
+  page: https://www.inaturalist.org/photos/623084499
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623084499/original.jpg
+images:
+- file: images/apodiformes/trochilidae/haplophaedia-aureliae/1.jpg
+  page: https://www.inaturalist.org/photos/623084499
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623084499/original.jpg
+- file: images/apodiformes/trochilidae/haplophaedia-aureliae/2.jpg
+  page: https://www.inaturalist.org/photos/652839373
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652839373/original.jpg
+- file: images/apodiformes/trochilidae/haplophaedia-aureliae/3.jpg
+  page: https://www.inaturalist.org/photos/719926567
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719926567/original.jpg
+- file: images/apodiformes/trochilidae/haplophaedia-aureliae/4.jpg
+  page: https://www.inaturalist.org/photos/466975093
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466975093/original.jpeg
+- file: images/apodiformes/trochilidae/haplophaedia-aureliae/5.jpg
+  page: https://www.inaturalist.org/photos/471800209
+  author: Arne Holgersson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471800209/original.jpg
 ---
 
 

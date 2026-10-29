@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmoderus-ferrugineus/1.jpg
+  page: https://www.inaturalist.org/photos/612353354
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612353354/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmoderus-ferrugineus/1.jpg
+  page: https://www.inaturalist.org/photos/612353354
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612353354/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoderus-ferrugineus/2.jpg
+  page: https://www.inaturalist.org/photos/67658682
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/67658682/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmoderus-ferrugineus/3.jpg
+  page: https://www.inaturalist.org/photos/394244053
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394244053/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoderus-ferrugineus/4.jpg
+  page: https://www.inaturalist.org/photos/107978862
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107978862/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoderus-ferrugineus/5.jpg
+  page: https://www.inaturalist.org/photos/612353362
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612353362/original.jpg
 ---
 
 

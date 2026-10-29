@@ -138,7 +138,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 47.4
@@ -148,6 +149,44 @@ morphology:
   body_mass_g: 569.3
 reproduction:
   clutch_size_mean: 3.0
+image:
+  file: images/charadriiformes/laridae/chroicocephalus-brunnicephalus/1.jpg
+  page: https://www.inaturalist.org/photos/604699992
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699992/original.jpg
+images:
+- file: images/charadriiformes/laridae/chroicocephalus-brunnicephalus/1.jpg
+  page: https://www.inaturalist.org/photos/604699992
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699992/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-brunnicephalus/2.jpg
+  page: https://www.inaturalist.org/photos/609930397
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930397/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-brunnicephalus/3.jpg
+  page: https://www.inaturalist.org/photos/616776072
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616776072/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-brunnicephalus/4.jpg
+  page: https://www.inaturalist.org/photos/620817429
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620817429/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-brunnicephalus/5.jpg
+  page: https://www.inaturalist.org/photos/612684507
+  author: Swarochi Tathagath
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612684507/original.jpg
 ---
 
 

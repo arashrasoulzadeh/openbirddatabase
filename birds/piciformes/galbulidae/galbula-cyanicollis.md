@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/galbula-cyanicollis/1.jpg
+  page: https://www.inaturalist.org/photos/732547096
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732547096/original.jpg
+images:
+- file: images/piciformes/galbulidae/galbula-cyanicollis/1.jpg
+  page: https://www.inaturalist.org/photos/732547096
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732547096/original.jpg
+- file: images/piciformes/galbulidae/galbula-cyanicollis/2.jpg
+  page: https://www.inaturalist.org/photos/528097500
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528097500/original.jpg
+- file: images/piciformes/galbulidae/galbula-cyanicollis/3.jpg
+  page: https://www.inaturalist.org/photos/563905654
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563905654/original.jpg
+- file: images/piciformes/galbulidae/galbula-cyanicollis/4.jpg
+  page: https://www.inaturalist.org/photos/608178404
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608178404/original.jpg
+- file: images/piciformes/galbulidae/galbula-cyanicollis/5.jpg
+  page: https://www.inaturalist.org/photos/426760571
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426760571/original.jpg
 ---
 
 

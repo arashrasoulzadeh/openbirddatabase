@@ -140,7 +140,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 23.1
@@ -150,6 +151,44 @@ morphology:
   body_mass_g: 65.4
 reproduction:
   clutch_size_mean: 4.0
+image:
+  file: images/passeriformes/laniidae/corvinella-corvina/1.jpg
+  page: https://www.inaturalist.org/photos/612788825
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612788825/original.jpg
+images:
+- file: images/passeriformes/laniidae/corvinella-corvina/1.jpg
+  page: https://www.inaturalist.org/photos/612788825
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612788825/original.jpg
+- file: images/passeriformes/laniidae/corvinella-corvina/2.jpg
+  page: https://www.inaturalist.org/photos/620308751
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620308751/original.jpg
+- file: images/passeriformes/laniidae/corvinella-corvina/3.jpg
+  page: https://www.inaturalist.org/photos/665293923
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665293923/original.jpg
+- file: images/passeriformes/laniidae/corvinella-corvina/4.jpg
+  page: https://www.inaturalist.org/photos/470323725
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470323725/original.jpg
+- file: images/passeriformes/laniidae/corvinella-corvina/5.jpg
+  page: https://www.inaturalist.org/photos/612789030
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612789030/original.jpg
 ---
 
 

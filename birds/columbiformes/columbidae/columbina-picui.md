@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columbina-picui/1.jpg
+  page: https://www.inaturalist.org/photos/605691463
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605691463/original.jpg
+images:
+- file: images/columbiformes/columbidae/columbina-picui/1.jpg
+  page: https://www.inaturalist.org/photos/605691463
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605691463/original.jpg
+- file: images/columbiformes/columbidae/columbina-picui/2.jpg
+  page: https://www.inaturalist.org/photos/605434641
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434641/original.jpg
+- file: images/columbiformes/columbidae/columbina-picui/3.jpg
+  page: https://www.inaturalist.org/photos/609369771
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609369771/original.jpg
+- file: images/columbiformes/columbidae/columbina-picui/4.jpg
+  page: https://www.inaturalist.org/photos/606156933
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606156933/original.jpg
+- file: images/columbiformes/columbidae/columbina-picui/5.jpg
+  page: https://www.inaturalist.org/photos/609185920
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609185920/original.jpg
 ---
 
 

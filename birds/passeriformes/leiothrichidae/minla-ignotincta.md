@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/minla-ignotincta/1.jpg
+  page: https://www.inaturalist.org/photos/618378839
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618378839/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/minla-ignotincta/1.jpg
+  page: https://www.inaturalist.org/photos/618378839
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618378839/original.jpg
+- file: images/passeriformes/leiothrichidae/minla-ignotincta/2.jpg
+  page: https://www.inaturalist.org/photos/655183927
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655183927/original.jpg
+- file: images/passeriformes/leiothrichidae/minla-ignotincta/3.jpg
+  page: https://www.inaturalist.org/photos/479296968
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479296968/original.jpeg
+- file: images/passeriformes/leiothrichidae/minla-ignotincta/4.jpg
+  page: https://www.inaturalist.org/photos/499647028
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499647028/original.jpeg
+- file: images/passeriformes/leiothrichidae/minla-ignotincta/5.jpg
+  page: https://www.inaturalist.org/photos/518652776
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518652776/original.jpg
 ---
 
 

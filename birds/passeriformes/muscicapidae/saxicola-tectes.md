@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/muscicapidae/saxicola-tectes/1.jpg
+  page: https://www.inaturalist.org/photos/683178891
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683178891/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/saxicola-tectes/1.jpg
+  page: https://www.inaturalist.org/photos/683178891
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683178891/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-tectes/2.jpg
+  page: https://www.inaturalist.org/photos/463578787
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463578787/original.jpeg
+- file: images/passeriformes/muscicapidae/saxicola-tectes/3.jpg
+  page: https://www.inaturalist.org/photos/683178751
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683178751/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-tectes/4.jpg
+  page: https://www.inaturalist.org/photos/683178788
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683178788/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-tectes/5.jpg
+  page: https://www.inaturalist.org/photos/683178846
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683178846/original.jpg
 ---
 
 

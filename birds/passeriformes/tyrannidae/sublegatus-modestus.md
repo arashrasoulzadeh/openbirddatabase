@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/sublegatus-modestus/1.jpg
+  page: https://www.inaturalist.org/photos/612365280
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612365280/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/sublegatus-modestus/1.jpg
+  page: https://www.inaturalist.org/photos/612365280
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612365280/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-modestus/2.jpg
+  page: https://www.inaturalist.org/photos/625100025
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625100025/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-modestus/3.jpg
+  page: https://www.inaturalist.org/photos/639404059
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639404059/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-modestus/4.jpg
+  page: https://www.inaturalist.org/photos/635744270
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635744270/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-modestus/5.jpg
+  page: https://www.inaturalist.org/photos/648940564
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648940564/original.jpg
 ---
 
 

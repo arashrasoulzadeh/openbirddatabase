@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/tigrisoma-lineatum/1.jpg
+  page: https://www.inaturalist.org/photos/605178158
+  author: noelia medina
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605178158/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/tigrisoma-lineatum/1.jpg
+  page: https://www.inaturalist.org/photos/605178158
+  author: noelia medina
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605178158/original.jpg
+- file: images/pelecaniformes/ardeidae/tigrisoma-lineatum/2.jpg
+  page: https://www.inaturalist.org/photos/608528893
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608528893/original.jpg
+- file: images/pelecaniformes/ardeidae/tigrisoma-lineatum/3.jpg
+  page: https://www.inaturalist.org/photos/609710045
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609710045/original.jpg
+- file: images/pelecaniformes/ardeidae/tigrisoma-lineatum/4.jpg
+  page: https://www.inaturalist.org/photos/612370650
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612370650/original.jpg
+- file: images/pelecaniformes/ardeidae/tigrisoma-lineatum/5.jpg
+  page: https://www.inaturalist.org/photos/611875429
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611875429/original.jpg
 ---
 
 

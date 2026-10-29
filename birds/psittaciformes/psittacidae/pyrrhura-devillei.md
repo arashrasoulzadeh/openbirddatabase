@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-devillei/1.jpg
+  page: https://www.inaturalist.org/photos/655048291
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655048291/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-devillei/1.jpg
+  page: https://www.inaturalist.org/photos/655048291
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655048291/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-devillei/2.jpg
+  page: https://www.inaturalist.org/photos/684202264
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684202264/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-devillei/3.jpg
+  page: https://www.inaturalist.org/photos/462932456
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462932456/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-devillei/4.jpg
+  page: https://www.inaturalist.org/photos/434120965
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434120965/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-devillei/5.jpg
+  page: https://www.inaturalist.org/photos/263145510
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263145510/original.jpg
 ---
 
 

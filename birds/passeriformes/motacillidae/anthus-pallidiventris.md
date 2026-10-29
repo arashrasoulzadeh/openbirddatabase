@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 17.1
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 93.0
   tail_length_mm: 68.1
   body_mass_g: 31.0
+image:
+  file: images/passeriformes/motacillidae/anthus-pallidiventris/1.jpg
+  page: https://www.inaturalist.org/photos/337398794
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337398794/original.jpeg
+images:
+- file: images/passeriformes/motacillidae/anthus-pallidiventris/1.jpg
+  page: https://www.inaturalist.org/photos/337398794
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337398794/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-pallidiventris/2.jpg
+  page: https://picasaweb.google.com/116916927065934112165/GabonBiodiversity#5823088784608787410
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228315/original.JPG
+- file: images/passeriformes/motacillidae/anthus-pallidiventris/3.jpg
+  page: https://www.inaturalist.org/photos/106012066
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106012066/original.jpg
+- file: images/passeriformes/motacillidae/anthus-pallidiventris/4.jpg
+  page: https://www.inaturalist.org/photos/153995526
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153995526/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-pallidiventris/5.jpg
+  page: https://www.inaturalist.org/photos/337398796
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337398796/original.jpeg
 ---
 
 

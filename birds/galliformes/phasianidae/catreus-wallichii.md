@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/catreus-wallichii/1.jpg
+  page: https://www.inaturalist.org/photos/624116900
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624116900/original.jpg
+images:
+- file: images/galliformes/phasianidae/catreus-wallichii/1.jpg
+  page: https://www.inaturalist.org/photos/624116900
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624116900/original.jpg
+- file: images/galliformes/phasianidae/catreus-wallichii/2.jpg
+  page: https://www.inaturalist.org/photos/184026883
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184026883/original.jpeg
+- file: images/galliformes/phasianidae/catreus-wallichii/3.jpg
+  page: https://www.inaturalist.org/photos/97119826
+  author: Chayant Gonsalves
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97119826/original.jpeg
+- file: images/galliformes/phasianidae/catreus-wallichii/4.jpg
+  page: https://www.inaturalist.org/photos/105140380
+  author: Viral joshi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105140380/original.jpg
+- file: images/galliformes/phasianidae/catreus-wallichii/5.jpg
+  page: https://www.inaturalist.org/photos/626640296
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626640296/original.jpg
 ---
 
 

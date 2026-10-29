@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/anairetes-alpinus/1.jpg
+  page: https://www.inaturalist.org/photos/557406229
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557406229/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/anairetes-alpinus/1.jpg
+  page: https://www.inaturalist.org/photos/557406229
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557406229/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-alpinus/2.jpg
+  page: https://www.inaturalist.org/photos/339732669
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339732669/original.jpeg
+- file: images/passeriformes/tyrannidae/anairetes-alpinus/3.jpg
+  page: https://www.inaturalist.org/photos/113307311
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113307311/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-alpinus/4.jpg
+  page: https://www.inaturalist.org/photos/634296228
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634296228/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-alpinus/5.jpg
+  page: https://www.inaturalist.org/photos/557406231
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557406231/original.jpg
 ---
 
 

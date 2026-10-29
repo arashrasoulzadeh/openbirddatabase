@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/primolius-auricollis/1.jpg
+  page: https://www.inaturalist.org/photos/652751552
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652751552/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/primolius-auricollis/1.jpg
+  page: https://www.inaturalist.org/photos/652751552
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652751552/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-auricollis/2.jpg
+  page: https://www.inaturalist.org/photos/667243306
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667243306/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-auricollis/3.jpg
+  page: https://www.inaturalist.org/photos/684185519
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684185519/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-auricollis/4.jpg
+  page: https://www.inaturalist.org/photos/701648857
+  author: Christian Ledergerber
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701648857/original.jpg
+- file: images/psittaciformes/psittacidae/primolius-auricollis/5.jpg
+  page: https://www.inaturalist.org/photos/701114818
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701114818/original.jpg
 ---
 
 

@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/ptilostomus-afer/1.jpg
+  page: https://www.inaturalist.org/photos/637463355
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637463355/original.jpg
+images:
+- file: images/passeriformes/corvidae/ptilostomus-afer/1.jpg
+  page: https://www.inaturalist.org/photos/637463355
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637463355/original.jpg
+- file: images/passeriformes/corvidae/ptilostomus-afer/2.jpg
+  page: https://www.inaturalist.org/photos/723305882
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723305882/original.jpg
+- file: images/passeriformes/corvidae/ptilostomus-afer/3.jpg
+  page: https://www.inaturalist.org/photos/462289043
+  author: Viken
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462289043/original.jpeg
+- file: images/passeriformes/corvidae/ptilostomus-afer/4.jpg
+  page: https://www.inaturalist.org/photos/469355273
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469355273/original.jpeg
+- file: images/passeriformes/corvidae/ptilostomus-afer/5.jpg
+  page: https://www.inaturalist.org/photos/723304944
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723304944/original.jpg
 ---
 
 

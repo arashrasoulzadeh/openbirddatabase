@@ -149,8 +149,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/megapodiidae/megapodius-nicobariensis/1.jpg
+  page: https://www.inaturalist.org/photos/550794559
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550794559/original.jpg
+images:
+- file: images/galliformes/megapodiidae/megapodius-nicobariensis/1.jpg
+  page: https://www.inaturalist.org/photos/550794559
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550794559/original.jpg
+- file: images/galliformes/megapodiidae/megapodius-nicobariensis/2.jpg
+  page: https://www.inaturalist.org/photos/550794601
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550794601/original.jpg
+- file: images/galliformes/megapodiidae/megapodius-nicobariensis/3.jpg
+  page: https://www.inaturalist.org/photos/550794558
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550794558/original.jpg
+- file: images/galliformes/megapodiidae/megapodius-nicobariensis/4.jpg
+  page: https://www.inaturalist.org/photos/550794585
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550794585/original.jpg
+- file: images/galliformes/megapodiidae/megapodius-nicobariensis/5.jpg
+  page: https://www.inaturalist.org/photos/550794590
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550794590/original.jpg
 ---
 
 

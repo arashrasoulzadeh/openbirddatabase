@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/harpactes-wardi/1.jpg
+  page: https://www.inaturalist.org/photos/387591260
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387591260/original.jpeg
+images:
+- file: images/trogoniformes/trogonidae/harpactes-wardi/1.jpg
+  page: https://www.inaturalist.org/photos/387591260
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387591260/original.jpeg
+- file: images/trogoniformes/trogonidae/harpactes-wardi/2.jpg
+  page: https://www.inaturalist.org/photos/94294216
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94294216/original.jpeg
+- file: images/trogoniformes/trogonidae/harpactes-wardi/3.jpg
+  page: https://www.inaturalist.org/photos/395651415
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651415/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-wardi/4.jpg
+  page: https://www.inaturalist.org/photos/92033267
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92033267/original.jpeg
+- file: images/trogoniformes/trogonidae/harpactes-wardi/5.jpg
+  page: https://www.inaturalist.org/photos/94294223
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94294223/original.jpeg
 ---
 
 

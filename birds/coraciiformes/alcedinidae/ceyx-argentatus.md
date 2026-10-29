@@ -135,8 +135,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ceyx-argentatus/1.jpg
+  page: https://www.inaturalist.org/photos/29237134
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29237134/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceyx-argentatus/1.jpg
+  page: https://www.inaturalist.org/photos/29237134
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29237134/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-argentatus/2.jpg
+  page: https://www.inaturalist.org/photos/410633510
+  author: Wouter Beukema
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410633510/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hemixos-castanonotus/1.jpg
+  page: https://www.inaturalist.org/photos/608569924
+  author: 王天明
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608569924/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hemixos-castanonotus/1.jpg
+  page: https://www.inaturalist.org/photos/608569924
+  author: 王天明
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608569924/original.jpg
+- file: images/passeriformes/pycnonotidae/hemixos-castanonotus/2.jpg
+  page: https://www.inaturalist.org/photos/609874837
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609874837/original.jpg
+- file: images/passeriformes/pycnonotidae/hemixos-castanonotus/3.jpg
+  page: https://www.inaturalist.org/photos/617087987
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617087987/original.jpg
+- file: images/passeriformes/pycnonotidae/hemixos-castanonotus/4.jpg
+  page: https://www.inaturalist.org/photos/623089423
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089423/original.jpg
+- file: images/passeriformes/pycnonotidae/hemixos-castanonotus/5.jpg
+  page: https://www.inaturalist.org/photos/612709729
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612709729/original.jpg
 ---
 
 

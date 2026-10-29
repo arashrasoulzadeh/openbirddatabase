@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 26.5
@@ -137,6 +138,44 @@ morphology:
   wing_length_mm: 65.0
   tail_length_mm: 56.2
   body_mass_g: 25.0
+image:
+  file: images/piciformes/bucconidae/bucco-macrodactylus/1.jpg
+  page: https://www.inaturalist.org/photos/621631854
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621631854/original.jpg
+images:
+- file: images/piciformes/bucconidae/bucco-macrodactylus/1.jpg
+  page: https://www.inaturalist.org/photos/621631854
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621631854/original.jpg
+- file: images/piciformes/bucconidae/bucco-macrodactylus/2.jpg
+  page: https://www.inaturalist.org/photos/480648298
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480648298/original.jpeg
+- file: images/piciformes/bucconidae/bucco-macrodactylus/3.jpg
+  page: https://www.inaturalist.org/photos/591636958
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636958/original.jpg
+- file: images/piciformes/bucconidae/bucco-macrodactylus/4.jpg
+  page: https://www.inaturalist.org/photos/396348119
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396348119/original.jpg
+- file: images/piciformes/bucconidae/bucco-macrodactylus/5.jpg
+  page: https://www.inaturalist.org/photos/424597869
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424597869/original.jpeg
 ---
 
 

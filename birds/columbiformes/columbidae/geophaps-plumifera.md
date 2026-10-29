@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geophaps-plumifera/1.jpg
+  page: https://www.inaturalist.org/photos/636439518
+  author: Claire Brandenburger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636439518/original.jpg
+images:
+- file: images/columbiformes/columbidae/geophaps-plumifera/1.jpg
+  page: https://www.inaturalist.org/photos/636439518
+  author: Claire Brandenburger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636439518/original.jpg
+- file: images/columbiformes/columbidae/geophaps-plumifera/2.jpg
+  page: https://www.inaturalist.org/photos/666256700
+  author: Timothy Perrett
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666256700/original.jpg
+- file: images/columbiformes/columbidae/geophaps-plumifera/3.jpg
+  page: https://www.inaturalist.org/photos/702618382
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702618382/original.jpg
+- file: images/columbiformes/columbidae/geophaps-plumifera/4.jpg
+  page: https://www.inaturalist.org/photos/636439580
+  author: Claire Brandenburger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636439580/original.jpg
+- file: images/columbiformes/columbidae/geophaps-plumifera/5.jpg
+  page: https://www.inaturalist.org/photos/702618409
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702618409/original.jpg
 ---
 
 

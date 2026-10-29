@@ -129,7 +129,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 11.5
@@ -139,6 +140,44 @@ morphology:
   body_mass_g: 14.9
 reproduction:
   clutch_size_mean: 4.2
+image:
+  file: images/passeriformes/hirundinidae/tachycineta-leucopyga/1.jpg
+  page: https://www.inaturalist.org/photos/608032838
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608032838/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/tachycineta-leucopyga/1.jpg
+  page: https://www.inaturalist.org/photos/608032838
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608032838/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-leucopyga/2.jpg
+  page: https://www.inaturalist.org/photos/606969668
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606969668/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-leucopyga/3.jpg
+  page: https://www.inaturalist.org/photos/609426113
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609426113/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-leucopyga/4.jpg
+  page: https://www.inaturalist.org/photos/605977668
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605977668/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-leucopyga/5.jpg
+  page: https://www.inaturalist.org/photos/615855094
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615855094/original.jpg
 ---
 
 

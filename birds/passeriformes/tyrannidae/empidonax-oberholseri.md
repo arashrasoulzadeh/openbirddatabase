@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/tyrannidae/empidonax-oberholseri/1.jpg
+  page: https://www.inaturalist.org/photos/620699458
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620699458/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonax-oberholseri/1.jpg
+  page: https://www.inaturalist.org/photos/620699458
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620699458/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-oberholseri/2.jpg
+  page: https://www.inaturalist.org/photos/675113773
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675113773/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-oberholseri/3.jpg
+  page: https://www.inaturalist.org/photos/673518826
+  author: Sam Kieschnick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673518826/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-oberholseri/4.jpg
+  page: https://www.inaturalist.org/photos/686907477
+  author: Syd Cannings
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686907477/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-oberholseri/5.jpg
+  page: https://www.inaturalist.org/photos/673133933
+  author: Brynn Fricke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673133933/original.jpg
 ---
 
 

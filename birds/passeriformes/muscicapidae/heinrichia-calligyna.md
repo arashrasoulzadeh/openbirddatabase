@@ -125,8 +125,29 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/heinrichia-calligyna/1.jpg
+  page: https://www.inaturalist.org/photos/593168458
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593168458/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/heinrichia-calligyna/1.jpg
+  page: https://www.inaturalist.org/photos/593168458
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593168458/original.jpg
+- file: images/passeriformes/muscicapidae/heinrichia-calligyna/2.jpg
+  page: https://www.inaturalist.org/photos/672005196
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672005196/original.jpg
 ---
 
 

@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/strigiformes/strigidae/otus-lettia/1.jpg
+  page: https://www.inaturalist.org/photos/740791787
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740791787/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-lettia/1.jpg
+  page: https://www.inaturalist.org/photos/740791787
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740791787/original.jpg
+- file: images/strigiformes/strigidae/otus-lettia/2.jpg
+  page: https://www.inaturalist.org/photos/606633469
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606633469/original.jpg
+- file: images/strigiformes/strigidae/otus-lettia/3.jpg
+  page: https://www.inaturalist.org/photos/608151726
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608151726/original.jpg
+- file: images/strigiformes/strigidae/otus-lettia/4.jpg
+  page: https://www.inaturalist.org/photos/610384515
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610384515/original.jpg
+- file: images/strigiformes/strigidae/otus-lettia/5.jpg
+  page: https://www.inaturalist.org/photos/604989017
+  author: Yi-fan翊凡
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604989017/original.jpg
 ---
 
 

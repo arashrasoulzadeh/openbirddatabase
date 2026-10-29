@@ -137,8 +137,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/fringilla-spodiogenys/1.jpg
+  page: https://www.inaturalist.org/photos/618093348
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618093348/original.jpg
+images:
+- file: images/passeriformes/fringillidae/fringilla-spodiogenys/1.jpg
+  page: https://www.inaturalist.org/photos/618093348
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618093348/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-spodiogenys/2.jpg
+  page: https://www.inaturalist.org/photos/619764602
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619764602/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-spodiogenys/3.jpg
+  page: https://www.inaturalist.org/photos/623958352
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623958352/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-spodiogenys/4.jpg
+  page: https://www.inaturalist.org/photos/622199909
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622199909/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-spodiogenys/5.jpg
+  page: https://www.inaturalist.org/photos/625377190
+  author: Johnny C
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625377190/original.jpg
 ---
 
 

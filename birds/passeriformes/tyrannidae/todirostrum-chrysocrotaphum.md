@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/todirostrum-chrysocrotaphum/1.jpg
+  page: https://www.inaturalist.org/photos/626393787
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626393787/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/todirostrum-chrysocrotaphum/1.jpg
+  page: https://www.inaturalist.org/photos/626393787
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626393787/original.jpg
+- file: images/passeriformes/tyrannidae/todirostrum-chrysocrotaphum/2.jpg
+  page: https://www.inaturalist.org/photos/569427691
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569427691/original.jpg
+- file: images/passeriformes/tyrannidae/todirostrum-chrysocrotaphum/3.jpg
+  page: https://www.inaturalist.org/photos/563445959
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563445959/original.jpg
+- file: images/passeriformes/tyrannidae/todirostrum-chrysocrotaphum/4.jpg
+  page: https://www.inaturalist.org/photos/345618309
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345618309/original.jpeg
+- file: images/passeriformes/tyrannidae/todirostrum-chrysocrotaphum/5.jpg
+  page: https://www.inaturalist.org/photos/360855876
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360855876/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/pelargopsis-amauroptera/1.jpg
+  page: https://www.inaturalist.org/photos/634008099
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634008099/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/pelargopsis-amauroptera/1.jpg
+  page: https://www.inaturalist.org/photos/634008099
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634008099/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-amauroptera/2.jpg
+  page: https://www.inaturalist.org/photos/600191211
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600191211/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-amauroptera/3.jpg
+  page: https://www.inaturalist.org/photos/411731200
+  author: Gajananan Niranjanan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411731200/original.jpeg
+- file: images/coraciiformes/alcedinidae/pelargopsis-amauroptera/4.jpg
+  page: https://www.inaturalist.org/photos/445098219
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445098219/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-amauroptera/5.jpg
+  page: https://www.inaturalist.org/photos/634008143
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634008143/original.jpg
 ---
 
 

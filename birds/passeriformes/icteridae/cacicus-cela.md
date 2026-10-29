@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/cacicus-cela/1.jpg
+  page: https://www.inaturalist.org/photos/608793593
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608793593/original.jpg
+images:
+- file: images/passeriformes/icteridae/cacicus-cela/1.jpg
+  page: https://www.inaturalist.org/photos/608793593
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608793593/original.jpg
+- file: images/passeriformes/icteridae/cacicus-cela/2.jpg
+  page: https://www.inaturalist.org/photos/608524787
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608524787/original.jpg
+- file: images/passeriformes/icteridae/cacicus-cela/3.jpg
+  page: https://www.inaturalist.org/photos/612370811
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612370811/original.jpg
+- file: images/passeriformes/icteridae/cacicus-cela/4.jpg
+  page: https://www.inaturalist.org/photos/611971862
+  author: Silvia Ten
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611971862/original.jpg
+- file: images/passeriformes/icteridae/cacicus-cela/5.jpg
+  page: https://www.inaturalist.org/photos/622802604
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622802604/original.jpg
 ---
 
 

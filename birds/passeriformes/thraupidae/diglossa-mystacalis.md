@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/624354126
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624354126/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/624354126
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624354126/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-mystacalis/2.jpg
+  page: https://www.inaturalist.org/photos/724738884
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724738884/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-mystacalis/3.jpg
+  page: https://www.inaturalist.org/photos/562746889
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562746889/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-mystacalis/4.jpg
+  page: https://www.inaturalist.org/photos/587194522
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194522/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-mystacalis/5.jpg
+  page: https://www.inaturalist.org/photos/456058683
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456058683/original.jpg
 ---
 
 

@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 23.7
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 192.2
   tail_length_mm: 129.0
   body_mass_g: 308.5
+image:
+  file: images/columbiformes/columbidae/columba-torringtoniae/1.jpg
+  page: https://www.inaturalist.org/photos/618707122
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618707122/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-torringtoniae/1.jpg
+  page: https://www.inaturalist.org/photos/618707122
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618707122/original.jpg
+- file: images/columbiformes/columbidae/columba-torringtoniae/2.jpg
+  page: https://www.inaturalist.org/photos/468467556
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468467556/original.jpg
+- file: images/columbiformes/columbidae/columba-torringtoniae/3.jpg
+  page: https://www.inaturalist.org/photos/258748577
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258748577/original.jpg
+- file: images/columbiformes/columbidae/columba-torringtoniae/4.jpg
+  page: https://www.inaturalist.org/photos/329282118
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329282118/original.jpg
+- file: images/columbiformes/columbidae/columba-torringtoniae/5.jpg
+  page: https://www.inaturalist.org/photos/385140172
+  author: Akshay
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385140172/original.jpeg
 ---
 
 

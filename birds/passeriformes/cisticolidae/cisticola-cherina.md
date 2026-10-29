@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-cherina/1.jpg
+  page: https://www.inaturalist.org/photos/644824158
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644824158/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-cherina/1.jpg
+  page: https://www.inaturalist.org/photos/644824158
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644824158/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-cherina/2.jpg
+  page: https://www.inaturalist.org/photos/452979755
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452979755/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-cherina/3.jpg
+  page: https://www.inaturalist.org/photos/446287156
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446287156/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-cherina/4.jpg
+  page: https://www.inaturalist.org/photos/252238598
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252238598/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-cherina/5.jpg
+  page: https://www.inaturalist.org/photos/339647640
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339647640/original.jpeg
 ---
 
 

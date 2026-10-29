@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/falconiformes/falconidae/falco-rupicolus/1.jpg
+  page: https://www.inaturalist.org/photos/608408129
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608408129/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-rupicolus/1.jpg
+  page: https://www.inaturalist.org/photos/608408129
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608408129/original.jpg
+- file: images/falconiformes/falconidae/falco-rupicolus/2.jpg
+  page: https://www.inaturalist.org/photos/616337795
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616337795/original.jpg
+- file: images/falconiformes/falconidae/falco-rupicolus/3.jpg
+  page: https://www.inaturalist.org/photos/616604597
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616604597/original.jpg
+- file: images/falconiformes/falconidae/falco-rupicolus/4.jpg
+  page: https://www.inaturalist.org/photos/626603339
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626603339/original.jpg
+- file: images/falconiformes/falconidae/falco-rupicolus/5.jpg
+  page: https://www.inaturalist.org/photos/608408672
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608408672/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-hardwickii/1.jpg
+  page: https://www.inaturalist.org/photos/610120001
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610120001/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-hardwickii/1.jpg
+  page: https://www.inaturalist.org/photos/610120001
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610120001/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-hardwickii/2.jpg
+  page: https://www.inaturalist.org/photos/614709633
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709633/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-hardwickii/3.jpg
+  page: https://www.inaturalist.org/photos/617088279
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617088279/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-hardwickii/4.jpg
+  page: https://www.inaturalist.org/photos/623089650
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089650/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-hardwickii/5.jpg
+  page: https://www.inaturalist.org/photos/616546936
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616546936/original.jpg
 ---
 
 

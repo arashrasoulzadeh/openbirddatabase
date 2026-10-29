@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/leptopogon-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/586455140
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586455140/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/leptopogon-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/586455140
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586455140/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-rufipectus/2.jpg
+  page: https://www.inaturalist.org/photos/591324184
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324184/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-rufipectus/3.jpg
+  page: https://www.inaturalist.org/photos/347741517
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347741517/original.jpeg
+- file: images/passeriformes/tyrannidae/leptopogon-rufipectus/4.jpg
+  page: https://www.inaturalist.org/photos/465780801
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465780801/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-rufipectus/5.jpg
+  page: https://www.inaturalist.org/photos/353082359
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353082359/original.jpeg
 ---
 
 

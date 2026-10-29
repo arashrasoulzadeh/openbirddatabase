@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zeledoniidae/zeledonia-coronata/1.jpg
+  page: https://www.inaturalist.org/photos/608513431
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608513431/original.jpg
+images:
+- file: images/passeriformes/zeledoniidae/zeledonia-coronata/1.jpg
+  page: https://www.inaturalist.org/photos/608513431
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608513431/original.jpg
+- file: images/passeriformes/zeledoniidae/zeledonia-coronata/2.jpg
+  page: https://www.inaturalist.org/photos/419857388
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419857388/original.jpeg
+- file: images/passeriformes/zeledoniidae/zeledonia-coronata/3.jpg
+  page: https://www.inaturalist.org/photos/458893930
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458893930/original.jpg
+- file: images/passeriformes/zeledoniidae/zeledonia-coronata/4.jpg
+  page: https://www.inaturalist.org/photos/294579867
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/294579867/original.jpg
+- file: images/passeriformes/zeledoniidae/zeledonia-coronata/5.jpg
+  page: https://www.inaturalist.org/photos/342552269
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342552269/original.jpg
 ---
 
 

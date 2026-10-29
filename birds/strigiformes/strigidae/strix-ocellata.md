@@ -139,8 +139,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/strix-ocellata/1.jpg
+  page: https://www.inaturalist.org/photos/630127560
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630127560/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-ocellata/1.jpg
+  page: https://www.inaturalist.org/photos/630127560
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630127560/original.jpg
+- file: images/strigiformes/strigidae/strix-ocellata/2.jpg
+  page: https://www.inaturalist.org/photos/552154976
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552154976/original.jpg
+- file: images/strigiformes/strigidae/strix-ocellata/3.jpg
+  page: https://www.inaturalist.org/photos/354924676
+  author: Sameer Kulkarni
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354924676/original.jpeg
+- file: images/strigiformes/strigidae/strix-ocellata/4.jpg
+  page: https://www.inaturalist.org/photos/552154979
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552154979/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coccyzus-rufigularis/1.jpg
+  page: https://www.inaturalist.org/photos/590278112
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590278112/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coccyzus-rufigularis/1.jpg
+  page: https://www.inaturalist.org/photos/590278112
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590278112/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-rufigularis/2.jpg
+  page: https://www.inaturalist.org/photos/604001714
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604001714/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-rufigularis/3.jpg
+  page: https://www.inaturalist.org/photos/343636658
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343636658/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-rufigularis/4.jpg
+  page: https://www.inaturalist.org/photos/120631171
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120631171/original.jpeg
+- file: images/cuculiformes/cuculidae/coccyzus-rufigularis/5.jpg
+  page: https://www.inaturalist.org/photos/1199518
+  author: ssaarlas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1199518/original.jpg
 ---
 
 

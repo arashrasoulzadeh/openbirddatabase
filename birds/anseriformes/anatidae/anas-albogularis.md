@@ -152,10 +152,37 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/anseriformes/anatidae/anas-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/338546347
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338546347/original.jpeg
+images:
+- file: images/anseriformes/anatidae/anas-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/338546347
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338546347/original.jpeg
+- file: images/anseriformes/anatidae/anas-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/168202148
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/168202148/original.jpg
+- file: images/anseriformes/anatidae/anas-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/338546329
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338546329/original.jpeg
 ---
 
 

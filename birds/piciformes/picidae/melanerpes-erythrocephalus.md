@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/piciformes/picidae/melanerpes-erythrocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/605464070
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605464070/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-erythrocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/605464070
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605464070/original.jpg
+- file: images/piciformes/picidae/melanerpes-erythrocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/605702883
+  author: Mark Connolly
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605702883/original.jpg
+- file: images/piciformes/picidae/melanerpes-erythrocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/605271763
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605271763/original.jpg
+- file: images/piciformes/picidae/melanerpes-erythrocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/605101169
+  author: deefinder200 - Adam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605101169/original.jpg
+- file: images/piciformes/picidae/melanerpes-erythrocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/604628427
+  author: Chris Stahl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604628427/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/phoenicurus-schisticeps/1.jpg
+  page: https://www.inaturalist.org/photos/621618094
+  author: Matt Benjamin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621618094/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/phoenicurus-schisticeps/1.jpg
+  page: https://www.inaturalist.org/photos/621618094
+  author: Matt Benjamin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621618094/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-schisticeps/2.jpg
+  page: https://www.inaturalist.org/photos/521762419
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762419/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-schisticeps/3.jpg
+  page: https://www.inaturalist.org/photos/523856286
+  author: Paul Bernstorff Ehrman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523856286/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-schisticeps/4.jpg
+  page: https://www.inaturalist.org/photos/521762409
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762409/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-schisticeps/5.jpg
+  page: https://www.inaturalist.org/photos/523856326
+  author: Paul Bernstorff Ehrman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523856326/original.jpg
 ---
 
 

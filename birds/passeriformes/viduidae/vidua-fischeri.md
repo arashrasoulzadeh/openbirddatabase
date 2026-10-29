@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/viduidae/vidua-fischeri/1.jpg
+  page: https://www.inaturalist.org/photos/469535476
+  author: Polina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469535476/original.jpg
+images:
+- file: images/passeriformes/viduidae/vidua-fischeri/1.jpg
+  page: https://www.inaturalist.org/photos/469535476
+  author: Polina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469535476/original.jpg
+- file: images/passeriformes/viduidae/vidua-fischeri/2.jpg
+  page: https://www.inaturalist.org/photos/502112322
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502112322/original.jpeg
+- file: images/passeriformes/viduidae/vidua-fischeri/3.jpg
+  page: https://www.inaturalist.org/photos/504646840
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504646840/original.jpg
+- file: images/passeriformes/viduidae/vidua-fischeri/4.jpg
+  page: https://www.inaturalist.org/photos/478223740
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478223740/original.jpg
+- file: images/passeriformes/viduidae/vidua-fischeri/5.jpg
+  page: https://www.inaturalist.org/photos/190419366
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190419366/original.jpeg
 ---
 
 

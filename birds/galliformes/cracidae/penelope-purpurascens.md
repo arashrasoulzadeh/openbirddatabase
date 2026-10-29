@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-purpurascens/1.jpg
+  page: https://www.inaturalist.org/photos/608617254
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608617254/original.jpg
+images:
+- file: images/galliformes/cracidae/penelope-purpurascens/1.jpg
+  page: https://www.inaturalist.org/photos/608617254
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608617254/original.jpg
+- file: images/galliformes/cracidae/penelope-purpurascens/2.jpg
+  page: https://www.inaturalist.org/photos/607080649
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607080649/original.jpg
+- file: images/galliformes/cracidae/penelope-purpurascens/3.jpg
+  page: https://www.inaturalist.org/photos/606261919
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606261919/original.jpg
+- file: images/galliformes/cracidae/penelope-purpurascens/4.jpg
+  page: https://www.inaturalist.org/photos/610503162
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503162/original.jpg
+- file: images/galliformes/cracidae/penelope-purpurascens/5.jpg
+  page: https://www.inaturalist.org/photos/608313892
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608313892/original.jpg
 ---
 
 

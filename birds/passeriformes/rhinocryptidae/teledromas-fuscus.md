@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/teledromas-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/628874592
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628874592/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/teledromas-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/628874592
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628874592/original.jpg
+- file: images/passeriformes/rhinocryptidae/teledromas-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/637947511
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637947511/original.jpg
+- file: images/passeriformes/rhinocryptidae/teledromas-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/572363251
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572363251/original.jpg
+- file: images/passeriformes/rhinocryptidae/teledromas-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/350770828
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350770828/original.jpeg
+- file: images/passeriformes/rhinocryptidae/teledromas-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/259599592
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259599592/original.jpg
 ---
 
 

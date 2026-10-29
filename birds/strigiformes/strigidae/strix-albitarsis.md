@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 32.1
@@ -136,6 +137,44 @@ morphology:
   wing_length_mm: 263.6
   tail_length_mm: 143.4
   body_mass_g: 307.5
+image:
+  file: images/strigiformes/strigidae/strix-albitarsis/1.jpg
+  page: https://www.inaturalist.org/photos/652808120
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808120/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-albitarsis/1.jpg
+  page: https://www.inaturalist.org/photos/652808120
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808120/original.jpg
+- file: images/strigiformes/strigidae/strix-albitarsis/2.jpg
+  page: https://www.inaturalist.org/photos/586459623
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586459623/original.jpg
+- file: images/strigiformes/strigidae/strix-albitarsis/3.jpg
+  page: https://www.inaturalist.org/photos/347359584
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347359584/original.jpeg
+- file: images/strigiformes/strigidae/strix-albitarsis/4.jpg
+  page: https://www.inaturalist.org/photos/353696857
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353696857/original.jpg
+- file: images/strigiformes/strigidae/strix-albitarsis/5.jpg
+  page: https://www.inaturalist.org/photos/313452417
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313452417/original.jpeg
 ---
 
 

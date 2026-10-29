@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/cecropis-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/721154824
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721154824/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/cecropis-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/721154824
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721154824/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-senegalensis/2.jpg
+  page: https://www.inaturalist.org/photos/597707089
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597707089/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-senegalensis/3.jpg
+  page: https://www.inaturalist.org/photos/481472935
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481472935/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-senegalensis/4.jpg
+  page: https://www.inaturalist.org/photos/503332780
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503332780/original.jpeg
+- file: images/passeriformes/hirundinidae/cecropis-senegalensis/5.jpg
+  page: https://www.inaturalist.org/photos/513949354
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513949354/original.jpg
 ---
 
 

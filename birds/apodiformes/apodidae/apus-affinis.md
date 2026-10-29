@@ -185,8 +185,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/apus-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/607732055
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607732055/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/607732055
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607732055/original.jpg
+- file: images/apodiformes/apodidae/apus-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/619595111
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619595111/original.jpg
+- file: images/apodiformes/apodidae/apus-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/619196348
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619196348/original.jpg
+- file: images/apodiformes/apodidae/apus-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/626144110
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626144110/original.jpg
+- file: images/apodiformes/apodidae/apus-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/617149723
+  author: citi2024
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617149723/original.jpg
 ---
 
 

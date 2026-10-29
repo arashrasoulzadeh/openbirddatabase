@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-cassini/1.jpg
+  page: https://www.inaturalist.org/photos/724114948
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724114948/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-cassini/1.jpg
+  page: https://www.inaturalist.org/photos/724114948
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724114948/original.jpg
+- file: images/piciformes/picidae/veniliornis-cassini/2.jpg
+  page: https://www.inaturalist.org/photos/466902864
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466902864/original.jpg
+- file: images/piciformes/picidae/veniliornis-cassini/3.jpg
+  page: https://www.inaturalist.org/photos/609545838
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609545838/original.jpg
+- file: images/piciformes/picidae/veniliornis-cassini/4.jpg
+  page: https://www.inaturalist.org/photos/468108686
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468108686/original.jpeg
+- file: images/piciformes/picidae/veniliornis-cassini/5.jpg
+  page: https://www.inaturalist.org/photos/463387301
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463387301/original.jpeg
 ---
 
 

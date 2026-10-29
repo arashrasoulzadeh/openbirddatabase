@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/saxicola-ferreus/1.jpg
+  page: https://www.inaturalist.org/photos/609527028
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609527028/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/saxicola-ferreus/1.jpg
+  page: https://www.inaturalist.org/photos/609527028
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609527028/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-ferreus/2.jpg
+  page: https://www.inaturalist.org/photos/613904376
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613904376/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-ferreus/3.jpg
+  page: https://www.inaturalist.org/photos/620821780
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620821780/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-ferreus/4.jpg
+  page: https://www.inaturalist.org/photos/627900366
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627900366/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-ferreus/5.jpg
+  page: https://www.inaturalist.org/photos/625595698
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625595698/original.jpg
 ---
 
 

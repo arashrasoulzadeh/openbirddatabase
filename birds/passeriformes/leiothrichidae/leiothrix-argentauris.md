@@ -161,10 +161,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/leiothrichidae/leiothrix-argentauris/1.jpg
+  page: https://www.inaturalist.org/photos/611389723
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611389723/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/leiothrix-argentauris/1.jpg
+  page: https://www.inaturalist.org/photos/611389723
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611389723/original.jpg
+- file: images/passeriformes/leiothrichidae/leiothrix-argentauris/2.jpg
+  page: https://www.inaturalist.org/photos/617375604
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617375604/original.jpg
+- file: images/passeriformes/leiothrichidae/leiothrix-argentauris/3.jpg
+  page: https://www.inaturalist.org/photos/624736539
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624736539/original.jpg
+- file: images/passeriformes/leiothrichidae/leiothrix-argentauris/4.jpg
+  page: https://www.inaturalist.org/photos/629579845
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579845/original.jpg
+- file: images/passeriformes/leiothrichidae/leiothrix-argentauris/5.jpg
+  page: https://www.inaturalist.org/photos/628130629
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628130629/original.jpg
 ---
 
 

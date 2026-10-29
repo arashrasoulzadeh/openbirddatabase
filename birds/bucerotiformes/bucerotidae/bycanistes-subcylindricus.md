@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/bucerotiformes/bucerotidae/bycanistes-subcylindricus/1.jpg
+  page: https://www.inaturalist.org/photos/676516214
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676516214/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/bycanistes-subcylindricus/1.jpg
+  page: https://www.inaturalist.org/photos/676516214
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676516214/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-subcylindricus/2.jpg
+  page: https://www.inaturalist.org/photos/678390763
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678390763/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-subcylindricus/3.jpg
+  page: https://www.inaturalist.org/photos/715972930
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715972930/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-subcylindricus/4.jpg
+  page: https://www.inaturalist.org/photos/548774687
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548774687/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-subcylindricus/5.jpg
+  page: https://www.inaturalist.org/photos/560666990
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560666990/original.jpg
 ---
 
 

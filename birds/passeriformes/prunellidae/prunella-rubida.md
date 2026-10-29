@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/prunellidae/prunella-rubida/1.jpg
+  page: https://www.inaturalist.org/photos/616099922
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616099922/original.jpg
+images:
+- file: images/passeriformes/prunellidae/prunella-rubida/1.jpg
+  page: https://www.inaturalist.org/photos/616099922
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616099922/original.jpg
+- file: images/passeriformes/prunellidae/prunella-rubida/2.jpg
+  page: https://www.inaturalist.org/photos/617604028
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617604028/original.jpg
+- file: images/passeriformes/prunellidae/prunella-rubida/3.jpg
+  page: https://www.inaturalist.org/photos/674496568
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674496568/original.jpg
+- file: images/passeriformes/prunellidae/prunella-rubida/4.jpg
+  page: https://www.inaturalist.org/photos/726216596
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726216596/original.jpg
+- file: images/passeriformes/prunellidae/prunella-rubida/5.jpg
+  page: https://www.inaturalist.org/photos/678230935
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678230935/original.jpg
 ---
 
 

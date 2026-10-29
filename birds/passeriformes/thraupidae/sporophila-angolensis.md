@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-angolensis/1.jpg
+  page: https://www.inaturalist.org/photos/607252729
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607252729/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-angolensis/1.jpg
+  page: https://www.inaturalist.org/photos/607252729
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607252729/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-angolensis/2.jpg
+  page: https://www.inaturalist.org/photos/621070131
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621070131/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-angolensis/3.jpg
+  page: https://www.inaturalist.org/photos/712316669
+  author: Alex Fernando
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712316669/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-angolensis/4.jpg
+  page: https://www.inaturalist.org/photos/667134509
+  author: the_adventure_hunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667134509/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-angolensis/5.jpg
+  page: https://www.inaturalist.org/photos/699430671
+  author: Christian Ledergerber
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699430671/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/limnoctites-rectirostris/1.jpg
+  page: https://www.inaturalist.org/photos/612886191
+  author: Mati Mántaras
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612886191/original.jpg
+images:
+- file: images/passeriformes/furnariidae/limnoctites-rectirostris/1.jpg
+  page: https://www.inaturalist.org/photos/612886191
+  author: Mati Mántaras
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612886191/original.jpg
+- file: images/passeriformes/furnariidae/limnoctites-rectirostris/2.jpg
+  page: https://www.inaturalist.org/photos/615943046
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615943046/original.jpg
+- file: images/passeriformes/furnariidae/limnoctites-rectirostris/3.jpg
+  page: https://www.inaturalist.org/photos/682050149
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682050149/original.jpg
+- file: images/passeriformes/furnariidae/limnoctites-rectirostris/4.jpg
+  page: https://www.inaturalist.org/photos/347670263
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347670263/original.jpeg
+- file: images/passeriformes/furnariidae/limnoctites-rectirostris/5.jpg
+  page: https://www.inaturalist.org/photos/398411186
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398411186/original.jpeg
 ---
 
 

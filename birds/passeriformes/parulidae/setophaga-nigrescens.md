@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/setophaga-nigrescens/1.jpg
+  page: https://www.inaturalist.org/photos/609756799
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609756799/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-nigrescens/1.jpg
+  page: https://www.inaturalist.org/photos/609756799
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609756799/original.jpg
+- file: images/passeriformes/parulidae/setophaga-nigrescens/2.jpg
+  page: https://www.inaturalist.org/photos/609279391
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609279391/original.jpg
+- file: images/passeriformes/parulidae/setophaga-nigrescens/3.jpg
+  page: https://www.inaturalist.org/photos/606546225
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606546225/original.jpg
+- file: images/passeriformes/parulidae/setophaga-nigrescens/4.jpg
+  page: https://www.inaturalist.org/photos/611294910
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611294910/original.jpg
+- file: images/passeriformes/parulidae/setophaga-nigrescens/5.jpg
+  page: https://www.inaturalist.org/photos/613561248
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613561248/original.jpg
 ---
 
 

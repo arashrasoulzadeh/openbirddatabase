@@ -154,8 +154,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/calyptocichla-serinus/1.jpg
+  page: https://www.inaturalist.org/photos/350926373
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350926373/original.png
+images:
+- file: images/passeriformes/pycnonotidae/calyptocichla-serinus/1.jpg
+  page: https://www.inaturalist.org/photos/350926373
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350926373/original.png
+- file: images/passeriformes/pycnonotidae/calyptocichla-serinus/2.jpg
+  page: https://www.inaturalist.org/photos/106652745
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106652745/original.jpg
 ---
 
 

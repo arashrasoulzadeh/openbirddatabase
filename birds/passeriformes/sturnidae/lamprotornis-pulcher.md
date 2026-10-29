@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-pulcher/1.jpg
+  page: https://www.inaturalist.org/photos/475872640
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475872640/original.jpeg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-pulcher/1.jpg
+  page: https://www.inaturalist.org/photos/475872640
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475872640/original.jpeg
+- file: images/passeriformes/sturnidae/lamprotornis-pulcher/2.jpg
+  page: https://www.inaturalist.org/photos/478353843
+  author: Demian Hiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478353843/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-pulcher/3.jpg
+  page: https://www.inaturalist.org/photos/474524964
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474524964/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-pulcher/4.jpg
+  page: https://www.inaturalist.org/photos/353841805
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353841805/original.png
+- file: images/passeriformes/sturnidae/lamprotornis-pulcher/5.jpg
+  page: https://www.inaturalist.org/photos/474524956
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474524956/original.jpg
 ---
 
 

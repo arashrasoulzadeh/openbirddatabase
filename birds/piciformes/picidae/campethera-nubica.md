@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campethera-nubica/1.jpg
+  page: https://www.inaturalist.org/photos/716628335
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716628335/original.jpg
+images:
+- file: images/piciformes/picidae/campethera-nubica/1.jpg
+  page: https://www.inaturalist.org/photos/716628335
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716628335/original.jpg
+- file: images/piciformes/picidae/campethera-nubica/2.jpg
+  page: https://www.inaturalist.org/photos/706342596
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706342596/original.jpg
+- file: images/piciformes/picidae/campethera-nubica/3.jpg
+  page: https://www.inaturalist.org/photos/721686355
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721686355/original.jpg
+- file: images/piciformes/picidae/campethera-nubica/4.jpg
+  page: https://www.inaturalist.org/photos/721441916
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721441916/original.jpg
+- file: images/piciformes/picidae/campethera-nubica/5.jpg
+  page: https://www.inaturalist.org/photos/479384195
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479384195/original.jpg
 ---
 
 

@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/icteridae/icterus-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/619445987
+  author: Reanne ("Bean") Dunn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619445987/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/619445987
+  author: Reanne ("Bean") Dunn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619445987/original.jpg
+- file: images/passeriformes/icteridae/icterus-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/616193815
+  author: kclarksdnhmorg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616193815/original.jpg
+- file: images/passeriformes/icteridae/icterus-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/620674745
+  author: Rancho Los Ángeles
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620674745/original.jpg
+- file: images/passeriformes/icteridae/icterus-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/627421292
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627421292/original.jpg
+- file: images/passeriformes/icteridae/icterus-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/634026914
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634026914/original.jpg
 ---
 
 

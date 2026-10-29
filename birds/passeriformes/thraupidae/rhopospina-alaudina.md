@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.7
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 75.1
   tail_length_mm: 55.9
   body_mass_g: 23.9
+image:
+  file: images/passeriformes/thraupidae/rhopospina-alaudina/1.jpg
+  page: https://www.inaturalist.org/photos/605332335
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605332335/original.jpg
+images:
+- file: images/passeriformes/thraupidae/rhopospina-alaudina/1.jpg
+  page: https://www.inaturalist.org/photos/605332335
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605332335/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-alaudina/2.jpg
+  page: https://www.inaturalist.org/photos/605211015
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605211015/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-alaudina/3.jpg
+  page: https://www.inaturalist.org/photos/610272543
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610272543/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-alaudina/4.jpg
+  page: https://www.inaturalist.org/photos/621666488
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621666488/original.jpg
+- file: images/passeriformes/thraupidae/rhopospina-alaudina/5.jpg
+  page: https://www.inaturalist.org/photos/641440153
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641440153/original.jpg
 ---
 
 

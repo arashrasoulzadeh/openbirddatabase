@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-chrysogaster/1.jpg
+  page: https://www.inaturalist.org/photos/327435798
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327435798/original.jpeg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-chrysogaster/1.jpg
+  page: https://www.inaturalist.org/photos/327435798
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327435798/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-chrysogaster/2.jpg
+  page: https://www.inaturalist.org/photos/327435817
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327435817/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-chrysogaster/3.jpg
+  page: https://www.inaturalist.org/photos/327435820
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327435820/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-chrysogaster/4.jpg
+  page: https://www.inaturalist.org/photos/336283581
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336283581/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-chrysogaster/5.jpg
+  page: https://www.inaturalist.org/photos/336283580
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336283580/original.jpeg
 ---
 
 

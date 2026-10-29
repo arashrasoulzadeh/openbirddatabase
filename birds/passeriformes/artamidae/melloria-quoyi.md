@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/melloria-quoyi/1.jpg
+  page: https://www.inaturalist.org/photos/604613654
+  author: Suzanne Muzic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604613654/original.jpg
+images:
+- file: images/passeriformes/artamidae/melloria-quoyi/1.jpg
+  page: https://www.inaturalist.org/photos/604613654
+  author: Suzanne Muzic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604613654/original.jpg
+- file: images/passeriformes/artamidae/melloria-quoyi/2.jpg
+  page: https://www.inaturalist.org/photos/609204531
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609204531/original.jpg
+- file: images/passeriformes/artamidae/melloria-quoyi/3.jpg
+  page: https://www.inaturalist.org/photos/653420591
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653420591/original.jpg
+- file: images/passeriformes/artamidae/melloria-quoyi/4.jpg
+  page: https://www.inaturalist.org/photos/696151522
+  author: Ian Dickie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696151522/original.jpg
+- file: images/passeriformes/artamidae/melloria-quoyi/5.jpg
+  page: https://www.inaturalist.org/photos/604613984
+  author: Suzanne Muzic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604613984/original.jpg
 ---
 
 

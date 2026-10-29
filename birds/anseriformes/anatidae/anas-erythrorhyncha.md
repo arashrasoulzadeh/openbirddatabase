@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-erythrorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/610149529
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610149529/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-erythrorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/610149529
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610149529/original.jpg
+- file: images/anseriformes/anatidae/anas-erythrorhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/612696664
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612696664/original.jpg
+- file: images/anseriformes/anatidae/anas-erythrorhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/613372156
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613372156/original.jpg
+- file: images/anseriformes/anatidae/anas-erythrorhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/631032689
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631032689/original.jpg
+- file: images/anseriformes/anatidae/anas-erythrorhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/616086754
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616086754/original.jpg
 ---
 
 

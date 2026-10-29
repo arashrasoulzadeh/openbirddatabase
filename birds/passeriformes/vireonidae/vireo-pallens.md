@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireo-pallens/1.jpg
+  page: https://www.inaturalist.org/photos/612640299
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612640299/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-pallens/1.jpg
+  page: https://www.inaturalist.org/photos/612640299
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612640299/original.jpg
+- file: images/passeriformes/vireonidae/vireo-pallens/2.jpg
+  page: https://www.inaturalist.org/photos/628631578
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628631578/original.jpg
+- file: images/passeriformes/vireonidae/vireo-pallens/3.jpg
+  page: https://www.inaturalist.org/photos/639199926
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639199926/original.jpg
+- file: images/passeriformes/vireonidae/vireo-pallens/4.jpg
+  page: https://www.inaturalist.org/photos/671594138
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671594138/original.jpg
+- file: images/passeriformes/vireonidae/vireo-pallens/5.jpg
+  page: https://www.inaturalist.org/photos/707949384
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707949384/original.jpg
 ---
 
 

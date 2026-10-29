@@ -135,10 +135,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/strigiformes/strigidae/otus-mentawi/1.jpg
+  page: https://www.inaturalist.org/photos/435396681
+  author: Paul Carter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435396681/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-mentawi/1.jpg
+  page: https://www.inaturalist.org/photos/435396681
+  author: Paul Carter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435396681/original.jpg
+- file: images/strigiformes/strigidae/otus-mentawi/2.jpg
+  page: https://www.inaturalist.org/photos/724578112
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724578112/original.jpg
+- file: images/strigiformes/strigidae/otus-mentawi/3.jpg
+  page: https://www.inaturalist.org/photos/724578113
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724578113/original.jpg
+- file: images/strigiformes/strigidae/otus-mentawi/4.jpg
+  page: https://www.inaturalist.org/photos/724578087
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724578087/original.jpg
 ---
 
 

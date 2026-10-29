@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/dasycrotapha-plateni/1.jpg
+  page: https://www.inaturalist.org/photos/501202675
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501202675/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/dasycrotapha-plateni/1.jpg
+  page: https://www.inaturalist.org/photos/501202675
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501202675/original.jpg
+- file: images/passeriformes/zosteropidae/dasycrotapha-plateni/2.jpg
+  page: https://www.inaturalist.org/photos/270924251
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924251/original.jpg
+- file: images/passeriformes/zosteropidae/dasycrotapha-plateni/3.jpg
+  page: https://www.inaturalist.org/photos/270924266
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924266/original.jpg
+- file: images/passeriformes/zosteropidae/dasycrotapha-plateni/4.jpg
+  page: https://www.inaturalist.org/photos/270924281
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924281/original.jpg
+- file: images/passeriformes/zosteropidae/dasycrotapha-plateni/5.jpg
+  page: https://www.inaturalist.org/photos/270924297
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924297/original.jpg
 ---
 
 

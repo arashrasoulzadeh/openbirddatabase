@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/thinocoridae/thinocorus-orbignyianus/1.jpg
+  page: https://www.inaturalist.org/photos/609142927
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609142927/original.jpg
+images:
+- file: images/charadriiformes/thinocoridae/thinocorus-orbignyianus/1.jpg
+  page: https://www.inaturalist.org/photos/609142927
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609142927/original.jpg
+- file: images/charadriiformes/thinocoridae/thinocorus-orbignyianus/2.jpg
+  page: https://www.inaturalist.org/photos/610491188
+  author: Cesar Ormazabal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610491188/original.jpg
+- file: images/charadriiformes/thinocoridae/thinocorus-orbignyianus/3.jpg
+  page: https://www.inaturalist.org/photos/651809176
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651809176/original.jpg
+- file: images/charadriiformes/thinocoridae/thinocorus-orbignyianus/4.jpg
+  page: https://www.inaturalist.org/photos/467714251
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467714251/original.jpg
+- file: images/charadriiformes/thinocoridae/thinocorus-orbignyianus/5.jpg
+  page: https://www.inaturalist.org/photos/541939575
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541939575/original.jpg
 ---
 
 

@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/accipitriformes/accipitridae/hieraaetus-wahlbergi/1.jpg
+  page: https://www.inaturalist.org/photos/606387971
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606387971/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/hieraaetus-wahlbergi/1.jpg
+  page: https://www.inaturalist.org/photos/606387971
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606387971/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-wahlbergi/2.jpg
+  page: https://www.inaturalist.org/photos/610489086
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610489086/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-wahlbergi/3.jpg
+  page: https://www.inaturalist.org/photos/610945661
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610945661/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-wahlbergi/4.jpg
+  page: https://www.inaturalist.org/photos/612771739
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771739/original.jpg
+- file: images/accipitriformes/accipitridae/hieraaetus-wahlbergi/5.jpg
+  page: https://www.inaturalist.org/photos/650459504
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650459504/original.jpg
 ---
 
 

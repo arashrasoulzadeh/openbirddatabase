@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-jacquacu/1.jpg
+  page: https://www.inaturalist.org/photos/652472647
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652472647/original.jpg
+images:
+- file: images/galliformes/cracidae/penelope-jacquacu/1.jpg
+  page: https://www.inaturalist.org/photos/652472647
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652472647/original.jpg
+- file: images/galliformes/cracidae/penelope-jacquacu/2.jpg
+  page: https://www.inaturalist.org/photos/725389824
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725389824/original.jpg
+- file: images/galliformes/cracidae/penelope-jacquacu/3.jpg
+  page: https://www.inaturalist.org/photos/469833402
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469833402/original.jpg
+- file: images/galliformes/cracidae/penelope-jacquacu/4.jpg
+  page: https://www.inaturalist.org/photos/482471878
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482471878/original.jpeg
+- file: images/galliformes/cracidae/penelope-jacquacu/5.jpg
+  page: https://www.inaturalist.org/photos/582181384
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582181384/original.jpg
 ---
 
 

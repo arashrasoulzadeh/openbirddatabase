@@ -200,8 +200,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-deserti/1.jpg
+  page: https://www.inaturalist.org/photos/614231520
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231520/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-deserti/1.jpg
+  page: https://www.inaturalist.org/photos/614231520
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231520/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-deserti/2.jpg
+  page: https://www.inaturalist.org/photos/653882282
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653882282/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-deserti/3.jpg
+  page: https://www.inaturalist.org/photos/620425209
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620425209/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-deserti/4.jpg
+  page: https://www.inaturalist.org/photos/622844822
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622844822/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-deserti/5.jpg
+  page: https://www.inaturalist.org/photos/633267672
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633267672/original.jpg
 ---
 
 

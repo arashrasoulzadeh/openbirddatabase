@@ -150,7 +150,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.0
@@ -158,6 +159,44 @@ morphology:
   wing_length_mm: 54.0
   tail_length_mm: 57.2
   body_mass_g: 8.7
+image:
+  file: images/passeriformes/sylviidae/curruca-deserti/1.jpg
+  page: https://www.inaturalist.org/photos/625009013
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625009013/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-deserti/1.jpg
+  page: https://www.inaturalist.org/photos/625009013
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625009013/original.jpg
+- file: images/passeriformes/sylviidae/curruca-deserti/2.jpg
+  page: https://www.inaturalist.org/photos/621339338
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621339338/original.jpg
+- file: images/passeriformes/sylviidae/curruca-deserti/3.jpg
+  page: https://www.inaturalist.org/photos/465597413
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465597413/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-deserti/4.jpg
+  page: https://www.inaturalist.org/photos/488859105
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488859105/original.jpg
+- file: images/passeriformes/sylviidae/curruca-deserti/5.jpg
+  page: https://www.inaturalist.org/photos/507742406
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507742406/original.jpg
 ---
 
 

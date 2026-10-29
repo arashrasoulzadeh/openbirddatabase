@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/galliformes/megapodiidae/alectura-lathami/1.jpg
+  page: https://www.inaturalist.org/photos/604999101
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604999101/original.jpg
+images:
+- file: images/galliformes/megapodiidae/alectura-lathami/1.jpg
+  page: https://www.inaturalist.org/photos/604999101
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604999101/original.jpg
+- file: images/galliformes/megapodiidae/alectura-lathami/2.jpg
+  page: https://www.inaturalist.org/photos/604680160
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604680160/original.jpg
+- file: images/galliformes/megapodiidae/alectura-lathami/3.jpg
+  page: https://www.inaturalist.org/photos/605304320
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605304320/original.jpg
+- file: images/galliformes/megapodiidae/alectura-lathami/4.jpg
+  page: https://www.inaturalist.org/photos/608239372
+  author: dieterhochuli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608239372/original.jpg
+- file: images/galliformes/megapodiidae/alectura-lathami/5.jpg
+  page: https://www.inaturalist.org/photos/607406237
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607406237/original.jpg
 ---
 
 

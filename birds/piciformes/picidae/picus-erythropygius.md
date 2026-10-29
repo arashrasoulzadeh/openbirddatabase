@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picus-erythropygius/1.jpg
+  page: https://www.inaturalist.org/photos/615465519
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615465519/original.jpg
+images:
+- file: images/piciformes/picidae/picus-erythropygius/1.jpg
+  page: https://www.inaturalist.org/photos/615465519
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615465519/original.jpg
+- file: images/piciformes/picidae/picus-erythropygius/2.jpg
+  page: https://www.inaturalist.org/photos/631793467
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631793467/original.jpg
+- file: images/piciformes/picidae/picus-erythropygius/3.jpg
+  page: https://www.inaturalist.org/photos/544478581
+  author: Tim Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544478581/original.jpg
+- file: images/piciformes/picidae/picus-erythropygius/4.jpg
+  page: https://www.inaturalist.org/photos/351740595
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351740595/original.jpeg
+- file: images/piciformes/picidae/picus-erythropygius/5.jpg
+  page: https://www.inaturalist.org/photos/388474733
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388474733/original.jpg
 ---
 
 

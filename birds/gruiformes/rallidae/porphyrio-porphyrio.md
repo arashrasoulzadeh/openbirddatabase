@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/gruiformes/rallidae/porphyrio-porphyrio/1.jpg
+  page: https://www.inaturalist.org/photos/604895401
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895401/original.jpg
+images:
+- file: images/gruiformes/rallidae/porphyrio-porphyrio/1.jpg
+  page: https://www.inaturalist.org/photos/604895401
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895401/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-porphyrio/2.jpg
+  page: https://www.inaturalist.org/photos/604732785
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604732785/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-porphyrio/3.jpg
+  page: https://www.inaturalist.org/photos/604699348
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699348/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-porphyrio/4.jpg
+  page: https://www.inaturalist.org/photos/607116747
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116747/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-porphyrio/5.jpg
+  page: https://www.inaturalist.org/photos/608378467
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608378467/original.jpg
 ---
 
 

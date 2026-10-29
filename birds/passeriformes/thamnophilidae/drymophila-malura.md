@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/drymophila-malura/1.jpg
+  page: https://www.inaturalist.org/photos/620380682
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620380682/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/drymophila-malura/1.jpg
+  page: https://www.inaturalist.org/photos/620380682
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620380682/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-malura/2.jpg
+  page: https://www.inaturalist.org/photos/348554754
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348554754/original.jpeg
+- file: images/passeriformes/thamnophilidae/drymophila-malura/3.jpg
+  page: https://www.inaturalist.org/photos/450048188
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450048188/original.jpeg
+- file: images/passeriformes/thamnophilidae/drymophila-malura/4.jpg
+  page: https://www.inaturalist.org/photos/244790708
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244790708/original.jpeg
+- file: images/passeriformes/thamnophilidae/drymophila-malura/5.jpg
+  page: https://www.inaturalist.org/photos/278513833
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/278513833/original.jpg
 ---
 
 

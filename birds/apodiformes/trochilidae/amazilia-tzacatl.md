@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/apodiformes/trochilidae/amazilia-tzacatl/1.jpg
+  page: https://www.inaturalist.org/photos/605482581
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605482581/original.jpg
+images:
+- file: images/apodiformes/trochilidae/amazilia-tzacatl/1.jpg
+  page: https://www.inaturalist.org/photos/605482581
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605482581/original.jpg
+- file: images/apodiformes/trochilidae/amazilia-tzacatl/2.jpg
+  page: https://www.inaturalist.org/photos/604700532
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604700532/original.jpg
+- file: images/apodiformes/trochilidae/amazilia-tzacatl/3.jpg
+  page: https://www.inaturalist.org/photos/605677510
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605677510/original.jpg
+- file: images/apodiformes/trochilidae/amazilia-tzacatl/4.jpg
+  page: https://www.inaturalist.org/photos/605141154
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605141154/original.jpg
+- file: images/apodiformes/trochilidae/amazilia-tzacatl/5.jpg
+  page: https://www.inaturalist.org/photos/607675604
+  author: Oliver Power
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607675604/original.jpg
 ---
 
 

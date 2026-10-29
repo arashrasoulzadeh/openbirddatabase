@@ -163,8 +163,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/tetrax-tetrax/1.jpg
+  page: https://www.inaturalist.org/photos/609736111
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609736111/original.jpg
+images:
+- file: images/otidiformes/otididae/tetrax-tetrax/1.jpg
+  page: https://www.inaturalist.org/photos/609736111
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609736111/original.jpg
+- file: images/otidiformes/otididae/tetrax-tetrax/2.jpg
+  page: https://www.inaturalist.org/photos/619871196
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619871196/original.jpg
+- file: images/otidiformes/otididae/tetrax-tetrax/3.jpg
+  page: https://www.inaturalist.org/photos/622900427
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622900427/original.jpg
 ---
 
 

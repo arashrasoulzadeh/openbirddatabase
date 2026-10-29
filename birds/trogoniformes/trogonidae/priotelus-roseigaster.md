@@ -126,7 +126,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 18.1
@@ -134,6 +135,44 @@ morphology:
   wing_length_mm: 132.5
   tail_length_mm: 156.2
   body_mass_g: 74.2
+image:
+  file: images/trogoniformes/trogonidae/priotelus-roseigaster/1.jpg
+  page: https://www.inaturalist.org/photos/610842529
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842529/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/priotelus-roseigaster/1.jpg
+  page: https://www.inaturalist.org/photos/610842529
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842529/original.jpg
+- file: images/trogoniformes/trogonidae/priotelus-roseigaster/2.jpg
+  page: https://www.inaturalist.org/photos/475114523
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475114523/original.jpg
+- file: images/trogoniformes/trogonidae/priotelus-roseigaster/3.jpg
+  page: https://www.inaturalist.org/photos/590277642
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590277642/original.jpg
+- file: images/trogoniformes/trogonidae/priotelus-roseigaster/4.jpg
+  page: https://www.inaturalist.org/photos/257052309
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257052309/original.jpeg
+- file: images/trogoniformes/trogonidae/priotelus-roseigaster/5.jpg
+  page: https://www.inaturalist.org/photos/343559788
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343559788/original.jpg
 ---
 
 

@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-subtilis/1.jpg
+  page: https://www.inaturalist.org/photos/252655185
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252655185/original.jpeg
+images:
+- file: images/piciformes/picidae/picumnus-subtilis/1.jpg
+  page: https://www.inaturalist.org/photos/252655185
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252655185/original.jpeg
+- file: images/piciformes/picidae/picumnus-subtilis/2.jpg
+  page: https://www.inaturalist.org/photos/254246231
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254246231/original.jpg
+- file: images/piciformes/picidae/picumnus-subtilis/3.jpg
+  page: https://www.inaturalist.org/photos/332666997
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332666997/original.jpeg
+- file: images/piciformes/picidae/picumnus-subtilis/4.jpg
+  page: https://www.inaturalist.org/photos/242579152
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242579152/original.jpg
+- file: images/piciformes/picidae/picumnus-subtilis/5.jpg
+  page: https://www.inaturalist.org/photos/169670517
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/169670517/original.jpg
 ---
 
 

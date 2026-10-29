@@ -204,10 +204,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/falconiformes/falconidae/falco-tinnunculus/1.jpg
+  page: https://www.inaturalist.org/photos/605360891
+  author: François Dunoyer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360891/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-tinnunculus/1.jpg
+  page: https://www.inaturalist.org/photos/605360891
+  author: François Dunoyer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360891/original.jpg
+- file: images/falconiformes/falconidae/falco-tinnunculus/2.jpg
+  page: https://www.inaturalist.org/photos/604891933
+  author: Pete Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604891933/original.jpg
+- file: images/falconiformes/falconidae/falco-tinnunculus/3.jpg
+  page: https://www.inaturalist.org/photos/605309591
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605309591/original.jpg
+- file: images/falconiformes/falconidae/falco-tinnunculus/4.jpg
+  page: https://www.inaturalist.org/photos/605671290
+  author: Martin Scheidleder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605671290/original.jpg
+- file: images/falconiformes/falconidae/falco-tinnunculus/5.jpg
+  page: https://www.inaturalist.org/photos/605367541
+  author: Bernd De Bosscher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605367541/original.jpg
 ---
 
 

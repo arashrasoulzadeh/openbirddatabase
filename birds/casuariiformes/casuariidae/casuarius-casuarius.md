@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/casuariiformes/casuariidae/casuarius-casuarius/1.jpg
+  page: https://www.inaturalist.org/photos/608125446
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608125446/original.jpg
+images:
+- file: images/casuariiformes/casuariidae/casuarius-casuarius/1.jpg
+  page: https://www.inaturalist.org/photos/608125446
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608125446/original.jpg
+- file: images/casuariiformes/casuariidae/casuarius-casuarius/2.jpg
+  page: https://www.inaturalist.org/photos/613349784
+  author: Jane C Frost
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613349784/original.jpg
+- file: images/casuariiformes/casuariidae/casuarius-casuarius/3.jpg
+  page: https://www.inaturalist.org/photos/631309374
+  author: Ian Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631309374/original.jpg
+- file: images/casuariiformes/casuariidae/casuarius-casuarius/4.jpg
+  page: https://www.inaturalist.org/photos/634871115
+  author: Luke Lythgoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634871115/original.jpg
+- file: images/casuariiformes/casuariidae/casuarius-casuarius/5.jpg
+  page: https://www.inaturalist.org/photos/637546171
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637546171/original.jpg
 ---
 
 

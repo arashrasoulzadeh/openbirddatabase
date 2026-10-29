@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/eudromia-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/246891450
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246891450/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/eudromia-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/246891450
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246891450/original.jpg
+- file: images/tinamiformes/tinamidae/eudromia-formosa/2.jpg
+  page: https://www.inaturalist.org/photos/31639582
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/31639582/original.jpeg
+- file: images/tinamiformes/tinamidae/eudromia-formosa/3.jpg
+  page: https://www.inaturalist.org/photos/246891836
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246891836/original.jpg
+- file: images/tinamiformes/tinamidae/eudromia-formosa/4.jpg
+  page: https://www.inaturalist.org/photos/246891854
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246891854/original.jpg
+- file: images/tinamiformes/tinamidae/eudromia-formosa/5.jpg
+  page: https://www.inaturalist.org/photos/243519709
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243519709/original.jpg
 ---
 
 

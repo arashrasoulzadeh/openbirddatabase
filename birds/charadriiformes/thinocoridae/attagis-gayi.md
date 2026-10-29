@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/thinocoridae/attagis-gayi/1.jpg
+  page: https://www.inaturalist.org/photos/686482508
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686482508/original.jpg
+images:
+- file: images/charadriiformes/thinocoridae/attagis-gayi/1.jpg
+  page: https://www.inaturalist.org/photos/686482508
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686482508/original.jpg
+- file: images/charadriiformes/thinocoridae/attagis-gayi/2.jpg
+  page: https://www.inaturalist.org/photos/482471875
+  author: E Santos Ortega
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482471875/original.jpg
+- file: images/charadriiformes/thinocoridae/attagis-gayi/3.jpg
+  page: https://www.inaturalist.org/photos/491223656
+  author: Lucas Carbone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491223656/original.jpeg
+- file: images/charadriiformes/thinocoridae/attagis-gayi/4.jpg
+  page: https://www.inaturalist.org/photos/495207510
+  author: SebaArosZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495207510/original.jpeg
+- file: images/charadriiformes/thinocoridae/attagis-gayi/5.jpg
+  page: https://www.inaturalist.org/photos/496752217
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496752217/original.jpeg
 ---
 
 

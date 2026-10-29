@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/melaniparus-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/586270519
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586270519/original.jpg
+images:
+- file: images/passeriformes/paridae/melaniparus-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/586270519
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586270519/original.jpg
+- file: images/passeriformes/paridae/melaniparus-rufiventris/2.jpg
+  page: https://www.inaturalist.org/photos/441329459
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441329459/original.jpg
+- file: images/passeriformes/paridae/melaniparus-rufiventris/3.jpg
+  page: https://www.inaturalist.org/photos/476900795
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476900795/original.jpg
+- file: images/passeriformes/paridae/melaniparus-rufiventris/4.jpg
+  page: https://www.inaturalist.org/photos/586270523
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586270523/original.jpg
+- file: images/passeriformes/paridae/melaniparus-rufiventris/5.jpg
+  page: https://www.inaturalist.org/photos/586270531
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586270531/original.jpg
 ---
 
 

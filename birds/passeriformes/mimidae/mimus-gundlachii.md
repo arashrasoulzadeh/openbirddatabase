@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-gundlachii/1.jpg
+  page: https://www.inaturalist.org/photos/608011304
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608011304/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-gundlachii/1.jpg
+  page: https://www.inaturalist.org/photos/608011304
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608011304/original.jpg
+- file: images/passeriformes/mimidae/mimus-gundlachii/2.jpg
+  page: https://www.inaturalist.org/photos/617464164
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617464164/original.jpg
+- file: images/passeriformes/mimidae/mimus-gundlachii/3.jpg
+  page: https://www.inaturalist.org/photos/469424356
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469424356/original.jpeg
+- file: images/passeriformes/mimidae/mimus-gundlachii/4.jpg
+  page: https://www.inaturalist.org/photos/354748216
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354748216/original.jpg
+- file: images/passeriformes/mimidae/mimus-gundlachii/5.jpg
+  page: https://www.inaturalist.org/photos/260466691
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260466691/original.jpeg
 ---
 
 

@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-buchanani/1.jpg
+  page: https://www.inaturalist.org/photos/627462813
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627462813/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-buchanani/1.jpg
+  page: https://www.inaturalist.org/photos/627462813
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627462813/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-buchanani/2.jpg
+  page: https://www.inaturalist.org/photos/694308390
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694308390/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-buchanani/3.jpg
+  page: https://www.inaturalist.org/photos/517135608
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517135608/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-buchanani/4.jpg
+  page: https://www.inaturalist.org/photos/507192858
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507192858/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-buchanani/5.jpg
+  page: https://www.inaturalist.org/photos/502631815
+  author: kirinzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502631815/original.jpeg
 ---
 
 

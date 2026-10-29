@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/falconiformes/falconidae/falco-berigora/1.jpg
+  page: https://www.inaturalist.org/photos/605592011
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605592011/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-berigora/1.jpg
+  page: https://www.inaturalist.org/photos/605592011
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605592011/original.jpg
+- file: images/falconiformes/falconidae/falco-berigora/2.jpg
+  page: https://www.inaturalist.org/photos/609433596
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609433596/original.jpg
+- file: images/falconiformes/falconidae/falco-berigora/3.jpg
+  page: https://www.inaturalist.org/photos/608321347
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608321347/original.jpg
+- file: images/falconiformes/falconidae/falco-berigora/4.jpg
+  page: https://www.inaturalist.org/photos/608771928
+  author: c_knut_lord
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608771928/original.jpg
+- file: images/falconiformes/falconidae/falco-berigora/5.jpg
+  page: https://www.inaturalist.org/photos/608882426
+  author: Mike Youdale
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608882426/original.jpg
 ---
 
 

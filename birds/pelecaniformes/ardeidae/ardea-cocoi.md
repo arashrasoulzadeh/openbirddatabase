@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/pelecaniformes/ardeidae/ardea-cocoi/1.jpg
+  page: https://www.inaturalist.org/photos/605552859
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605552859/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-cocoi/1.jpg
+  page: https://www.inaturalist.org/photos/605552859
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605552859/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-cocoi/2.jpg
+  page: https://www.inaturalist.org/photos/606014963
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014963/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-cocoi/3.jpg
+  page: https://www.inaturalist.org/photos/610510179
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510179/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-cocoi/4.jpg
+  page: https://www.inaturalist.org/photos/611641007
+  author: Thomaz Ricardo Favreto Sinani
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611641007/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-cocoi/5.jpg
+  page: https://www.inaturalist.org/photos/610422799
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610422799/original.jpg
 ---
 
 

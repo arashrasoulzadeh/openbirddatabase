@@ -136,8 +136,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eupherusa-poliocerca/1.jpg
+  page: https://www.inaturalist.org/photos/513181705
+  author: Andre Sebastian
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513181705/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eupherusa-poliocerca/1.jpg
+  page: https://www.inaturalist.org/photos/513181705
+  author: Andre Sebastian
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513181705/original.jpg
+- file: images/apodiformes/trochilidae/eupherusa-poliocerca/2.jpg
+  page: https://www.inaturalist.org/photos/278571641
+  author: Andre Sebastian
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/278571641/original.jpeg
 ---
 
 

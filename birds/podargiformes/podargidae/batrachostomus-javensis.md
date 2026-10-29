@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/batrachostomus-javensis/1.jpg
+  page: https://www.inaturalist.org/photos/627846537
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627846537/original.jpg
+images:
+- file: images/podargiformes/podargidae/batrachostomus-javensis/1.jpg
+  page: https://www.inaturalist.org/photos/627846537
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627846537/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-javensis/2.jpg
+  page: https://www.inaturalist.org/photos/221111337
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/221111337/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-javensis/3.jpg
+  page: https://www.facebook.com/photo.php?fbid=10218483196489348&set=a.10206190014447480&type=3
+  author: Panji Gusti Akbar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70456905/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-javensis/4.jpg
+  page: https://www.inaturalist.org/photos/129065476
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129065476/original.jpeg
+- file: images/podargiformes/podargidae/batrachostomus-javensis/5.jpg
+  page: https://www.inaturalist.org/photos/103166247
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103166247/original.jpeg
 ---
 
 

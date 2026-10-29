@@ -134,8 +134,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/conopophagidae/pittasoma-rufopileatum/1.jpg
+  page: https://www.inaturalist.org/photos/27501820
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27501820/original.jpeg
+images:
+- file: images/passeriformes/conopophagidae/pittasoma-rufopileatum/1.jpg
+  page: https://www.inaturalist.org/photos/27501820
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27501820/original.jpeg
+- file: images/passeriformes/conopophagidae/pittasoma-rufopileatum/2.jpg
+  page: https://www.inaturalist.org/photos/29285512
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29285512/original.jpg
 ---
 
 

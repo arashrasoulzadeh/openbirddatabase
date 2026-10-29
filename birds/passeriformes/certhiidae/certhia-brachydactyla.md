@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/certhiidae/certhia-brachydactyla/1.jpg
+  page: https://www.inaturalist.org/photos/605081341
+  author: Andrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605081341/original.jpg
+images:
+- file: images/passeriformes/certhiidae/certhia-brachydactyla/1.jpg
+  page: https://www.inaturalist.org/photos/605081341
+  author: Andrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605081341/original.jpg
+- file: images/passeriformes/certhiidae/certhia-brachydactyla/2.jpg
+  page: https://www.inaturalist.org/photos/604568834
+  author: S. Menéndez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604568834/original.jpg
+- file: images/passeriformes/certhiidae/certhia-brachydactyla/3.jpg
+  page: https://www.inaturalist.org/photos/608382245
+  author: Matthieu Trotignon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608382245/original.jpg
+- file: images/passeriformes/certhiidae/certhia-brachydactyla/4.jpg
+  page: https://www.inaturalist.org/photos/607211228
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607211228/original.jpg
+- file: images/passeriformes/certhiidae/certhia-brachydactyla/5.jpg
+  page: https://www.inaturalist.org/photos/606134449
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606134449/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/pinarochroa-sordida/1.jpg
+  page: https://www.inaturalist.org/photos/599559165
+  author: danielarah
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599559165/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/pinarochroa-sordida/1.jpg
+  page: https://www.inaturalist.org/photos/599559165
+  author: danielarah
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599559165/original.jpg
+- file: images/passeriformes/muscicapidae/pinarochroa-sordida/2.jpg
+  page: https://www.inaturalist.org/photos/605289920
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605289920/original.jpg
+- file: images/passeriformes/muscicapidae/pinarochroa-sordida/3.jpg
+  page: https://www.inaturalist.org/photos/610095382
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610095382/original.jpg
+- file: images/passeriformes/muscicapidae/pinarochroa-sordida/4.jpg
+  page: https://www.inaturalist.org/photos/610030578
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610030578/original.jpg
+- file: images/passeriformes/muscicapidae/pinarochroa-sordida/5.jpg
+  page: https://www.inaturalist.org/photos/610018831
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610018831/original.jpg
 ---
 
 

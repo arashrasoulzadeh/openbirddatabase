@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/spatula-rhynchotis/1.jpg
+  page: https://www.inaturalist.org/photos/605286355
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286355/original.jpg
+images:
+- file: images/anseriformes/anatidae/spatula-rhynchotis/1.jpg
+  page: https://www.inaturalist.org/photos/605286355
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286355/original.jpg
+- file: images/anseriformes/anatidae/spatula-rhynchotis/2.jpg
+  page: https://www.inaturalist.org/photos/612613940
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612613940/original.jpg
+- file: images/anseriformes/anatidae/spatula-rhynchotis/3.jpg
+  page: https://www.inaturalist.org/photos/614940734
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614940734/original.jpg
+- file: images/anseriformes/anatidae/spatula-rhynchotis/4.jpg
+  page: https://www.inaturalist.org/photos/614039328
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614039328/original.jpg
+- file: images/anseriformes/anatidae/spatula-rhynchotis/5.jpg
+  page: https://www.inaturalist.org/photos/605286350
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286350/original.jpg
 ---
 
 

@@ -239,10 +239,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/passeriformes/passeridae/passer-domesticus/1.jpg
+  page: https://www.inaturalist.org/photos/605171665
+  author: Chris Stahl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605171665/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-domesticus/1.jpg
+  page: https://www.inaturalist.org/photos/605171665
+  author: Chris Stahl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605171665/original.jpg
+- file: images/passeriformes/passeridae/passer-domesticus/2.jpg
+  page: https://www.inaturalist.org/photos/605075252
+  author: ANGEL MARCOS LUENGO BELLO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605075252/original.jpg
+- file: images/passeriformes/passeridae/passer-domesticus/3.jpg
+  page: https://www.inaturalist.org/photos/605395678
+  author: Jana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605395678/original.jpg
+- file: images/passeriformes/passeridae/passer-domesticus/4.jpg
+  page: https://www.inaturalist.org/photos/604520857
+  author: Юрий Данилевский (Yuriy Danilevsky)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604520857/original.jpg
+- file: images/passeriformes/passeridae/passer-domesticus/5.jpg
+  page: https://www.inaturalist.org/photos/604590985
+  author: Liren Varghese
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604590985/original.jpg
 ---
 
 

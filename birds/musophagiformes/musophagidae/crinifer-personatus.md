@@ -126,8 +126,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/musophagiformes/musophagidae/crinifer-personatus/1.jpg
+  page: https://www.inaturalist.org/photos/634633606
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634633606/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/crinifer-personatus/1.jpg
+  page: https://www.inaturalist.org/photos/634633606
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634633606/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-personatus/2.jpg
+  page: https://www.inaturalist.org/photos/619601793
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619601793/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-personatus/3.jpg
+  page: https://www.inaturalist.org/photos/684113591
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684113591/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-personatus/4.jpg
+  page: https://www.inaturalist.org/photos/639049929
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639049929/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-personatus/5.jpg
+  page: https://www.inaturalist.org/photos/709420726
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709420726/original.jpg
 ---
 
 

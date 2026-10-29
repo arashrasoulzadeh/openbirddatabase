@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/saltator-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/616531860
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616531860/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/616531860
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616531860/original.jpg
+- file: images/passeriformes/thraupidae/saltator-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/620056110
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620056110/original.jpg
+- file: images/passeriformes/thraupidae/saltator-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/630032821
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630032821/original.jpg
+- file: images/passeriformes/thraupidae/saltator-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/636554437
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636554437/original.jpg
+- file: images/passeriformes/thraupidae/saltator-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/465441458
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465441458/original.jpeg
 ---
 
 

@@ -208,8 +208,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-saxatilis/1.jpg
+  page: https://www.inaturalist.org/photos/618149312
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618149312/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-saxatilis/1.jpg
+  page: https://www.inaturalist.org/photos/618149312
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618149312/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-saxatilis/2.jpg
+  page: https://www.inaturalist.org/photos/692893426
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692893426/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-saxatilis/3.jpg
+  page: https://www.inaturalist.org/photos/656540247
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656540247/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-saxatilis/4.jpg
+  page: https://www.inaturalist.org/photos/670294201
+  author: Rafael Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670294201/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-saxatilis/5.jpg
+  page: https://www.inaturalist.org/photos/668345301
+  author: Thomas Barrès
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668345301/original.jpg
 ---
 
 

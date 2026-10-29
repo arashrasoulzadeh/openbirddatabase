@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/iole-propinqua/1.jpg
+  page: https://www.inaturalist.org/photos/609187884
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609187884/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/iole-propinqua/1.jpg
+  page: https://www.inaturalist.org/photos/609187884
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609187884/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-propinqua/2.jpg
+  page: https://www.inaturalist.org/photos/614281473
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614281473/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-propinqua/3.jpg
+  page: https://www.inaturalist.org/photos/623863933
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623863933/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-propinqua/4.jpg
+  page: https://www.inaturalist.org/photos/464452953
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464452953/original.jpeg
+- file: images/passeriformes/pycnonotidae/iole-propinqua/5.jpg
+  page: https://www.inaturalist.org/photos/467573725
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467573725/original.jpeg
 ---
 
 

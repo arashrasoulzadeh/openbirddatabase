@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-sagrae/1.jpg
+  page: https://www.inaturalist.org/photos/611497615
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611497615/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-sagrae/1.jpg
+  page: https://www.inaturalist.org/photos/611497615
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611497615/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-sagrae/2.jpg
+  page: https://www.inaturalist.org/photos/617117193
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617117193/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-sagrae/3.jpg
+  page: https://www.inaturalist.org/photos/618514732
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618514732/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-sagrae/4.jpg
+  page: https://www.inaturalist.org/photos/621272695
+  author: Tommy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621272695/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-sagrae/5.jpg
+  page: https://www.inaturalist.org/photos/635654271
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635654271/original.jpg
 ---
 
 

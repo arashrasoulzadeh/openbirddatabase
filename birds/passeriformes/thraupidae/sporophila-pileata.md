@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/478421710
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478421710/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/sporophila-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/478421710
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478421710/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-pileata/2.jpg
+  page: https://www.inaturalist.org/photos/597711255
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597711255/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-pileata/3.jpg
+  page: https://www.inaturalist.org/photos/347550549
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347550549/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-pileata/4.jpg
+  page: https://www.inaturalist.org/photos/348451910
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348451910/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-pileata/5.jpg
+  page: https://www.inaturalist.org/photos/471105651
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471105651/original.jpeg
 ---
 
 

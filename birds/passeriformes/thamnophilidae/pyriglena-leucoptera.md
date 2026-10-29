@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/pyriglena-leucoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605729855
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729855/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/pyriglena-leucoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605729855
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729855/original.jpg
+- file: images/passeriformes/thamnophilidae/pyriglena-leucoptera/2.jpg
+  page: https://www.inaturalist.org/photos/607243324
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243324/original.jpg
+- file: images/passeriformes/thamnophilidae/pyriglena-leucoptera/3.jpg
+  page: https://www.inaturalist.org/photos/609930859
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930859/original.jpg
+- file: images/passeriformes/thamnophilidae/pyriglena-leucoptera/4.jpg
+  page: https://www.inaturalist.org/photos/611671264
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611671264/original.jpg
+- file: images/passeriformes/thamnophilidae/pyriglena-leucoptera/5.jpg
+  page: https://www.inaturalist.org/photos/615809960
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615809960/original.jpg
 ---
 
 

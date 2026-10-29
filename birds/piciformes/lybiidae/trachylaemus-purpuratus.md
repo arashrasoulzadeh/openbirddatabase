@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/trachylaemus-purpuratus/1.jpg
+  page: https://www.inaturalist.org/photos/656285846
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656285846/original.jpg
+images:
+- file: images/piciformes/lybiidae/trachylaemus-purpuratus/1.jpg
+  page: https://www.inaturalist.org/photos/656285846
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656285846/original.jpg
+- file: images/piciformes/lybiidae/trachylaemus-purpuratus/2.jpg
+  page: https://www.inaturalist.org/photos/380713032
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380713032/original.jpg
+- file: images/piciformes/lybiidae/trachylaemus-purpuratus/3.jpg
+  page: https://www.inaturalist.org/photos/257851488
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257851488/original.jpeg
+- file: images/piciformes/lybiidae/trachylaemus-purpuratus/4.jpg
+  page: https://picasaweb.google.com/112678111612962172808/Kenya2009#5386325567640778306
+  author: Doug Macaulay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5957684/original.jpeg
+- file: images/piciformes/lybiidae/trachylaemus-purpuratus/5.jpg
+  page: https://www.inaturalist.org/photos/656285851
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656285851/original.jpg
 ---
 
 

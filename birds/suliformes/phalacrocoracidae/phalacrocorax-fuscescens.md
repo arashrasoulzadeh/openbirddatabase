@@ -147,10 +147,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 42
+image:
+  file: images/suliformes/phalacrocoracidae/phalacrocorax-fuscescens/1.jpg
+  page: https://www.inaturalist.org/photos/605369342
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605369342/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-fuscescens/1.jpg
+  page: https://www.inaturalist.org/photos/605369342
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605369342/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-fuscescens/2.jpg
+  page: https://www.inaturalist.org/photos/611319619
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611319619/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-fuscescens/3.jpg
+  page: https://www.inaturalist.org/photos/613572158
+  author: julie burgher
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613572158/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-fuscescens/4.jpg
+  page: https://www.inaturalist.org/photos/617642454
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617642454/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-fuscescens/5.jpg
+  page: https://www.inaturalist.org/photos/622829138
+  author: Luke Lythgoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622829138/original.jpg
 ---
 
 

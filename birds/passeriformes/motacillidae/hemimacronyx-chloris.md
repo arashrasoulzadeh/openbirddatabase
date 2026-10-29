@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/hemimacronyx-chloris/1.jpg
+  page: https://www.inaturalist.org/photos/172571799
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172571799/original.jpeg
+images:
+- file: images/passeriformes/motacillidae/hemimacronyx-chloris/1.jpg
+  page: https://www.inaturalist.org/photos/172571799
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172571799/original.jpeg
+- file: images/passeriformes/motacillidae/hemimacronyx-chloris/2.jpg
+  page: https://www.inaturalist.org/photos/15853990
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/15853990/original.jpg
+- file: images/passeriformes/motacillidae/hemimacronyx-chloris/3.jpg
+  page: https://www.inaturalist.org/photos/199855402
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199855402/original.jpg
+- file: images/passeriformes/motacillidae/hemimacronyx-chloris/4.jpg
+  page: https://www.inaturalist.org/photos/93104507
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/93104507/original.jpeg
+- file: images/passeriformes/motacillidae/hemimacronyx-chloris/5.jpg
+  page: https://www.inaturalist.org/photos/102424669
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102424669/original.jpg
 ---
 
 

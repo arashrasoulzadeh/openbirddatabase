@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/passeriformes/corvidae/aphelocoma-wollweberi/1.jpg
+  page: https://www.inaturalist.org/photos/608230307
+  author: EJ Burns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608230307/original.jpg
+images:
+- file: images/passeriformes/corvidae/aphelocoma-wollweberi/1.jpg
+  page: https://www.inaturalist.org/photos/608230307
+  author: EJ Burns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608230307/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-wollweberi/2.jpg
+  page: https://www.inaturalist.org/photos/606238217
+  author: Masked Lynx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606238217/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-wollweberi/3.jpg
+  page: https://www.inaturalist.org/photos/611271262
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611271262/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-wollweberi/4.jpg
+  page: https://www.inaturalist.org/photos/611536967
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611536967/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-wollweberi/5.jpg
+  page: https://www.inaturalist.org/photos/615332929
+  author: Anders Hastings
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615332929/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-penicillatus/1.jpg
+  page: https://www.inaturalist.org/photos/618688720
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618688720/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-penicillatus/1.jpg
+  page: https://www.inaturalist.org/photos/618688720
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618688720/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-penicillatus/2.jpg
+  page: https://www.inaturalist.org/photos/465711584
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465711584/original.jpeg
+- file: images/passeriformes/pycnonotidae/pycnonotus-penicillatus/3.jpg
+  page: https://www.inaturalist.org/photos/468467903
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468467903/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-penicillatus/4.jpg
+  page: https://www.inaturalist.org/photos/474269823
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474269823/original.jpeg
+- file: images/passeriformes/pycnonotidae/pycnonotus-penicillatus/5.jpg
+  page: https://www.inaturalist.org/photos/483419411
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483419411/original.jpeg
 ---
 
 

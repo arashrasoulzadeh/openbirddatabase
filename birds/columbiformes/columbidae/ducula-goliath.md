@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-goliath/1.jpg
+  page: https://www.inaturalist.org/photos/720552449
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720552449/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-goliath/1.jpg
+  page: https://www.inaturalist.org/photos/720552449
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720552449/original.jpg
+- file: images/columbiformes/columbidae/ducula-goliath/2.jpg
+  page: https://www.inaturalist.org/photos/586532201
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586532201/original.jpg
+- file: images/columbiformes/columbidae/ducula-goliath/3.jpg
+  page: https://www.inaturalist.org/photos/599685158
+  author: Chuck Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599685158/original.jpg
+- file: images/columbiformes/columbidae/ducula-goliath/4.jpg
+  page: https://www.inaturalist.org/photos/348561302
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348561302/original.jpg
+- file: images/columbiformes/columbidae/ducula-goliath/5.jpg
+  page: https://www.inaturalist.org/photos/355209869
+  author: rainerburkard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355209869/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/621502447
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621502447/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/621502447
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621502447/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-fasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/475681516
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475681516/original.jpeg
+- file: images/passeriformes/troglodytidae/campylorhynchus-fasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/559554517
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559554517/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-fasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/461937063
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461937063/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-fasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/457965236
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457965236/original.jpg
 ---
 
 

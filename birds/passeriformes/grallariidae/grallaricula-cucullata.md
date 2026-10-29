@@ -134,8 +134,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaricula-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/611987329
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611987329/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaricula-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/611987329
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611987329/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-cucullata/2.jpg
+  page: https://www.inaturalist.org/photos/360695022
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360695022/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-cucullata/3.jpg
+  page: https://www.inaturalist.org/photos/202371720
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202371720/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-cucullata/4.jpg
+  page: https://www.inaturalist.org/photos/202371910
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202371910/original.jpeg
 ---
 
 

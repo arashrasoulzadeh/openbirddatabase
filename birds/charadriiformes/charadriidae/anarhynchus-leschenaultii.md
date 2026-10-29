@@ -169,8 +169,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/charadriiformes/charadriidae/anarhynchus-leschenaultii/1.jpg
+  page: https://www.inaturalist.org/photos/604453715
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604453715/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/anarhynchus-leschenaultii/1.jpg
+  page: https://www.inaturalist.org/photos/604453715
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604453715/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-leschenaultii/2.jpg
+  page: https://www.inaturalist.org/photos/611365222
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611365222/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-leschenaultii/3.jpg
+  page: https://www.inaturalist.org/photos/616761754
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761754/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-leschenaultii/4.jpg
+  page: https://www.inaturalist.org/photos/617210281
+  author: Arne Holgersson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617210281/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-leschenaultii/5.jpg
+  page: https://www.inaturalist.org/photos/620817265
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620817265/original.jpg
 ---
 
 

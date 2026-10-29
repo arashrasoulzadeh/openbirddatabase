@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/chalcomitra-rubescens/1.jpg
+  page: https://www.inaturalist.org/photos/592152985
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592152985/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/chalcomitra-rubescens/1.jpg
+  page: https://www.inaturalist.org/photos/592152985
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592152985/original.jpg
+- file: images/passeriformes/nectariniidae/chalcomitra-rubescens/2.jpg
+  page: https://www.inaturalist.org/photos/393648784
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393648784/original.jpg
+- file: images/passeriformes/nectariniidae/chalcomitra-rubescens/3.jpg
+  page: https://www.inaturalist.org/photos/48699062
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/48699062/original.jpeg
+- file: images/passeriformes/nectariniidae/chalcomitra-rubescens/4.jpg
+  page: https://www.inaturalist.org/photos/5678288
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5678288/original.jpeg
+- file: images/passeriformes/nectariniidae/chalcomitra-rubescens/5.jpg
+  page: https://www.inaturalist.org/photos/592152997
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592152997/original.jpg
 ---
 
 

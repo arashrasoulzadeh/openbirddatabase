@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremonops-chloronotus/1.jpg
+  page: https://www.inaturalist.org/photos/672113766
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672113766/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremonops-chloronotus/1.jpg
+  page: https://www.inaturalist.org/photos/672113766
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672113766/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-chloronotus/2.jpg
+  page: https://www.inaturalist.org/photos/746165696
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/746165696/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-chloronotus/3.jpg
+  page: https://www.inaturalist.org/photos/441800226
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441800226/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-chloronotus/4.jpg
+  page: https://www.inaturalist.org/photos/253091134
+  author: Zygy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253091134/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-chloronotus/5.jpg
+  page: https://www.inaturalist.org/photos/264872437
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264872437/original.jpeg
 ---
 
 

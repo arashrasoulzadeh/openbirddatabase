@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eriocnemis-derbyi/1.jpg
+  page: https://www.inaturalist.org/photos/502995430
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502995430/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eriocnemis-derbyi/1.jpg
+  page: https://www.inaturalist.org/photos/502995430
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502995430/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-derbyi/2.jpg
+  page: https://www.inaturalist.org/photos/611331488
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611331488/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-derbyi/3.jpg
+  page: https://www.inaturalist.org/photos/255796188
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255796188/original.jpeg
+- file: images/apodiformes/trochilidae/eriocnemis-derbyi/4.jpg
+  page: https://www.inaturalist.org/photos/181703858
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181703858/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-derbyi/5.jpg
+  page: https://www.inaturalist.org/photos/63831428
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63831428/original.jpg
 ---
 
 

@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-exustus/1.jpg
+  page: https://www.inaturalist.org/photos/615497822
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615497822/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-exustus/1.jpg
+  page: https://www.inaturalist.org/photos/615497822
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615497822/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-exustus/2.jpg
+  page: https://www.inaturalist.org/photos/702241460
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702241460/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-exustus/3.jpg
+  page: https://www.inaturalist.org/photos/711322083
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711322083/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-exustus/4.jpg
+  page: https://www.inaturalist.org/photos/714904708
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714904708/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-exustus/5.jpg
+  page: https://www.inaturalist.org/photos/702241466
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702241466/original.jpg
 ---
 
 

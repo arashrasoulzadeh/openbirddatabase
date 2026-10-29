@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 20.5
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 115.7
   tail_length_mm: 86.8
   body_mass_g: 66.6
+image:
+  file: images/passeriformes/muscicapidae/myophonus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/614933997
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933997/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myophonus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/614933997
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933997/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-melanurus/2.jpg
+  page: https://www.inaturalist.org/photos/618851727
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851727/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-melanurus/3.jpg
+  page: https://www.inaturalist.org/photos/409723686
+  author: Thomas Gyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409723686/original.jpeg
+- file: images/passeriformes/muscicapidae/myophonus-melanurus/4.jpg
+  page: https://www.inaturalist.org/photos/27276592
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27276592/original.jpeg
+- file: images/passeriformes/muscicapidae/myophonus-melanurus/5.jpg
+  page: https://www.inaturalist.org/photos/618851725
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851725/original.jpg
 ---
 
 

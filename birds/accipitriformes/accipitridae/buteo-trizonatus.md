@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-trizonatus/1.jpg
+  page: https://www.inaturalist.org/photos/625687607
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625687607/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-trizonatus/1.jpg
+  page: https://www.inaturalist.org/photos/625687607
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625687607/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-trizonatus/2.jpg
+  page: https://www.inaturalist.org/photos/626400612
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626400612/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-trizonatus/3.jpg
+  page: https://www.inaturalist.org/photos/651194251
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651194251/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-trizonatus/4.jpg
+  page: https://www.inaturalist.org/photos/691429661
+  author: Burgert Jordaan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691429661/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-trizonatus/5.jpg
+  page: https://www.inaturalist.org/photos/461864016
+  author: Dan Mendelowitz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461864016/original.jpg
 ---
 
 

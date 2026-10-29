@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-rarotongensis/1.jpg
+  page: https://www.inaturalist.org/photos/703157109
+  author: Jake Osborne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703157109/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-rarotongensis/1.jpg
+  page: https://www.inaturalist.org/photos/703157109
+  author: Jake Osborne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703157109/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-rarotongensis/2.jpg
+  page: https://www.inaturalist.org/photos/345700362
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345700362/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-rarotongensis/3.jpg
+  page: https://www.inaturalist.org/photos/439067563
+  author: Samuel Brown
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439067563/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-rarotongensis/4.jpg
+  page: https://www.inaturalist.org/photos/13238534
+  author: Geoff Shuetrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13238534/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-rarotongensis/5.jpg
+  page: https://www.inaturalist.org/photos/109931378
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109931378/original.jpg
 ---
 
 

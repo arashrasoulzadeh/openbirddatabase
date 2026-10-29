@@ -201,10 +201,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/passeriformes/fringillidae/carduelis-carduelis/1.jpg
+  page: https://www.inaturalist.org/photos/604482384
+  author: Milan Chytrý
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604482384/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carduelis-carduelis/1.jpg
+  page: https://www.inaturalist.org/photos/604482384
+  author: Milan Chytrý
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604482384/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-carduelis/2.jpg
+  page: https://www.inaturalist.org/photos/604832277
+  author: Шухободская Ольга Владимировна
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604832277/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-carduelis/3.jpg
+  page: https://www.inaturalist.org/photos/604775287
+  author: Albert Rainbow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604775287/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-carduelis/4.jpg
+  page: https://www.inaturalist.org/photos/605061653
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605061653/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-carduelis/5.jpg
+  page: https://www.inaturalist.org/photos/605386190
+  author: Becky Hamilton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605386190/original.jpg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/aegolius-harrisii/1.jpg
+  page: https://www.inaturalist.org/photos/614205174
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205174/original.jpg
+images:
+- file: images/strigiformes/strigidae/aegolius-harrisii/1.jpg
+  page: https://www.inaturalist.org/photos/614205174
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205174/original.jpg
+- file: images/strigiformes/strigidae/aegolius-harrisii/2.jpg
+  page: https://www.inaturalist.org/photos/719320437
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719320437/original.jpg
+- file: images/strigiformes/strigidae/aegolius-harrisii/3.jpg
+  page: https://www.inaturalist.org/photos/514868228
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514868228/original.jpg
+- file: images/strigiformes/strigidae/aegolius-harrisii/4.jpg
+  page: https://www.inaturalist.org/photos/582396518
+  author: Lourdes Mariel Quarin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582396518/original.jpg
+- file: images/strigiformes/strigidae/aegolius-harrisii/5.jpg
+  page: https://www.inaturalist.org/photos/602031064
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602031064/original.jpg
 ---
 
 

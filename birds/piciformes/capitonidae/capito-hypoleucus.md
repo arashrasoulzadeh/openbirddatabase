@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/capito-hypoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/497763123
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497763123/original.jpg
+images:
+- file: images/piciformes/capitonidae/capito-hypoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/497763123
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497763123/original.jpg
+- file: images/piciformes/capitonidae/capito-hypoleucus/2.jpg
+  page: https://www.inaturalist.org/photos/484006423
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484006423/original.jpg
+- file: images/piciformes/capitonidae/capito-hypoleucus/3.jpg
+  page: https://www.inaturalist.org/photos/352404477
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352404477/original.jpeg
+- file: images/piciformes/capitonidae/capito-hypoleucus/4.jpg
+  page: https://www.inaturalist.org/photos/277427759
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/277427759/original.jpeg
+- file: images/piciformes/capitonidae/capito-hypoleucus/5.jpg
+  page: https://www.inaturalist.org/photos/506268344
+  author: Esteban Villa Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506268344/original.jpg
 ---
 
 

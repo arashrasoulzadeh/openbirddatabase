@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/611673757
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611673757/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/611673757
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611673757/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/612903831
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612903831/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/740543642
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740543642/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/686074990
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686074990/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/641038997
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641038997/original.jpg
 ---
 
 

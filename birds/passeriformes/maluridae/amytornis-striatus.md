@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/amytornis-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/595058894
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595058894/original.jpg
+images:
+- file: images/passeriformes/maluridae/amytornis-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/595058894
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595058894/original.jpg
+- file: images/passeriformes/maluridae/amytornis-striatus/2.jpg
+  page: https://www.inaturalist.org/photos/346067407
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346067407/original.jpg
+- file: images/passeriformes/maluridae/amytornis-striatus/3.jpg
+  page: https://www.inaturalist.org/photos/447214705
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447214705/original.jpg
+- file: images/passeriformes/maluridae/amytornis-striatus/4.jpg
+  page: https://www.inaturalist.org/photos/452311316
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452311316/original.jpeg
+- file: images/passeriformes/maluridae/amytornis-striatus/5.jpg
+  page: https://www.inaturalist.org/photos/267759847
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267759847/original.jpg
 ---
 
 

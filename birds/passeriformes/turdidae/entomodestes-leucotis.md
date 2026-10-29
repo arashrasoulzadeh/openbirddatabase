@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/entomodestes-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/429732382
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429732382/original.jpeg
+images:
+- file: images/passeriformes/turdidae/entomodestes-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/429732382
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429732382/original.jpeg
+- file: images/passeriformes/turdidae/entomodestes-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/341975080
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341975080/original.jpeg
+- file: images/passeriformes/turdidae/entomodestes-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/326643638
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326643638/original.jpeg
+- file: images/passeriformes/turdidae/entomodestes-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/231584159
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231584159/original.jpg
+- file: images/passeriformes/turdidae/entomodestes-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/341975124
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341975124/original.jpeg
 ---
 
 

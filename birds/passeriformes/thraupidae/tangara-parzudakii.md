@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-parzudakii/1.jpg
+  page: https://www.inaturalist.org/photos/610572659
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610572659/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-parzudakii/1.jpg
+  page: https://www.inaturalist.org/photos/610572659
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610572659/original.jpg
+- file: images/passeriformes/thraupidae/tangara-parzudakii/2.jpg
+  page: https://www.inaturalist.org/photos/606867503
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606867503/original.jpg
+- file: images/passeriformes/thraupidae/tangara-parzudakii/3.jpg
+  page: https://www.inaturalist.org/photos/687359790
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687359790/original.jpg
+- file: images/passeriformes/thraupidae/tangara-parzudakii/4.jpg
+  page: https://www.inaturalist.org/photos/626230159
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626230159/original.jpg
+- file: images/passeriformes/thraupidae/tangara-parzudakii/5.jpg
+  page: https://www.inaturalist.org/photos/610572684
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610572684/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/heterophasia-capistrata/1.jpg
+  page: https://www.inaturalist.org/photos/617769236
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617769236/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/heterophasia-capistrata/1.jpg
+  page: https://www.inaturalist.org/photos/617769236
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617769236/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-capistrata/2.jpg
+  page: https://www.inaturalist.org/photos/616554943
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616554943/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-capistrata/3.jpg
+  page: https://www.inaturalist.org/photos/616370585
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616370585/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-capistrata/4.jpg
+  page: https://www.inaturalist.org/photos/660817345
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660817345/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-capistrata/5.jpg
+  page: https://www.inaturalist.org/photos/617769443
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617769443/original.jpg
 ---
 
 

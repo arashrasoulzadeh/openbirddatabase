@@ -143,7 +143,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.1
@@ -151,6 +152,44 @@ morphology:
   wing_length_mm: 49.2
   tail_length_mm: 49.8
   body_mass_g: 7.0
+image:
+  file: images/passeriformes/timaliidae/spelaeornis-troglodytoides/1.jpg
+  page: https://www.inaturalist.org/photos/17340679
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17340679/original.jpg
+images:
+- file: images/passeriformes/timaliidae/spelaeornis-troglodytoides/1.jpg
+  page: https://www.inaturalist.org/photos/17340679
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17340679/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-troglodytoides/2.jpg
+  page: https://www.inaturalist.org/photos/94294944
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94294944/original.jpeg
+- file: images/passeriformes/timaliidae/spelaeornis-troglodytoides/3.jpg
+  page: https://www.inaturalist.org/photos/94294951
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94294951/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-troglodytoides/4.jpg
+  page: https://www.inaturalist.org/photos/94294962
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94294962/original.jpeg
+- file: images/passeriformes/timaliidae/spelaeornis-troglodytoides/5.jpg
+  page: https://www.inaturalist.org/photos/94294987
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94294987/original.jpeg
 ---
 
 

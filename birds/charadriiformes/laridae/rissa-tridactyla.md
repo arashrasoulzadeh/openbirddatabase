@@ -171,10 +171,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/charadriiformes/laridae/rissa-tridactyla/1.jpg
+  page: https://www.inaturalist.org/photos/604859009
+  author: uxbridgebirder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604859009/original.jpg
+images:
+- file: images/charadriiformes/laridae/rissa-tridactyla/1.jpg
+  page: https://www.inaturalist.org/photos/604859009
+  author: uxbridgebirder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604859009/original.jpg
+- file: images/charadriiformes/laridae/rissa-tridactyla/2.jpg
+  page: https://www.inaturalist.org/photos/607476712
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607476712/original.jpg
+- file: images/charadriiformes/laridae/rissa-tridactyla/3.jpg
+  page: https://www.inaturalist.org/photos/609492373
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609492373/original.jpg
+- file: images/charadriiformes/laridae/rissa-tridactyla/4.jpg
+  page: https://www.inaturalist.org/photos/628840866
+  author: Fred Derks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628840866/original.jpg
+- file: images/charadriiformes/laridae/rissa-tridactyla/5.jpg
+  page: https://www.inaturalist.org/photos/613988872
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613988872/original.jpg
 ---
 
 

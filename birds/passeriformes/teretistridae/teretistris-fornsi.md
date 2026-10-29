@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/teretistridae/teretistris-fornsi/1.jpg
+  page: https://www.inaturalist.org/photos/612761165
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612761165/original.jpg
+images:
+- file: images/passeriformes/teretistridae/teretistris-fornsi/1.jpg
+  page: https://www.inaturalist.org/photos/612761165
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612761165/original.jpg
+- file: images/passeriformes/teretistridae/teretistris-fornsi/2.jpg
+  page: https://www.inaturalist.org/photos/635127152
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635127152/original.jpg
+- file: images/passeriformes/teretistridae/teretistris-fornsi/3.jpg
+  page: https://www.inaturalist.org/photos/347163579
+  author: Robin White
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347163579/original.jpg
+- file: images/passeriformes/teretistridae/teretistris-fornsi/4.jpg
+  page: https://www.inaturalist.org/photos/354572710
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354572710/original.jpg
+- file: images/passeriformes/teretistridae/teretistris-fornsi/5.jpg
+  page: https://www.inaturalist.org/photos/419521776
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419521776/original.jpeg
 ---
 
 

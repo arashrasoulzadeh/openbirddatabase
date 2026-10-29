@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/arizelocichla-masukuensis/1.jpg
+  page: https://www.inaturalist.org/photos/582617491
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582617491/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/arizelocichla-masukuensis/1.jpg
+  page: https://www.inaturalist.org/photos/582617491
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582617491/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-masukuensis/2.jpg
+  page: https://www.inaturalist.org/photos/393648472
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393648472/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-masukuensis/3.jpg
+  page: https://www.inaturalist.org/photos/471001388
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471001388/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-masukuensis/4.jpg
+  page: https://www.inaturalist.org/photos/472861324
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472861324/original.jpg
+- file: images/passeriformes/pycnonotidae/arizelocichla-masukuensis/5.jpg
+  page: https://www.inaturalist.org/photos/177444466
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177444466/original.jpeg
 ---
 
 

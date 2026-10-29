@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/odontophorus-melanonotus/1.jpg
+  page: https://www.inaturalist.org/photos/469755046
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469755046/original.jpeg
+images:
+- file: images/galliformes/odontophoridae/odontophorus-melanonotus/1.jpg
+  page: https://www.inaturalist.org/photos/469755046
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469755046/original.jpeg
+- file: images/galliformes/odontophoridae/odontophorus-melanonotus/2.jpg
+  page: https://www.inaturalist.org/photos/592106041
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592106041/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-melanonotus/3.jpg
+  page: https://www.inaturalist.org/photos/339612081
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339612081/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-melanonotus/4.jpg
+  page: https://www.inaturalist.org/photos/476853647
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476853647/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-melanonotus/5.jpg
+  page: https://www.inaturalist.org/photos/188187795
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188187795/original.png
 ---
 
 

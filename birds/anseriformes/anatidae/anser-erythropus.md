@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/anseriformes/anatidae/anser-erythropus/1.jpg
+  page: https://www.inaturalist.org/photos/606153440
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606153440/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-erythropus/1.jpg
+  page: https://www.inaturalist.org/photos/606153440
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606153440/original.jpg
+- file: images/anseriformes/anatidae/anser-erythropus/2.jpg
+  page: https://www.inaturalist.org/photos/616297116
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616297116/original.jpg
+- file: images/anseriformes/anatidae/anser-erythropus/3.jpg
+  page: https://www.inaturalist.org/photos/471191031
+  author: Dr. Sven Gippner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471191031/original.jpg
+- file: images/anseriformes/anatidae/anser-erythropus/4.jpg
+  page: https://www.flickr.com/photos/99613800@N02/54323081330/
+  author: Chris Kirby-Lambert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602796784/original.jpg
+- file: images/anseriformes/anatidae/anser-erythropus/5.jpg
+  page: https://www.inaturalist.org/photos/476295218
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476295218/original.jpg
 ---
 
 

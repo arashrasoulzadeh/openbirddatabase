@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-aurantiirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610251493
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610251493/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-aurantiirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610251493
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610251493/original.jpg
+- file: images/passeriformes/passerellidae/arremon-aurantiirostris/2.jpg
+  page: https://www.inaturalist.org/photos/606872901
+  author: Mark Valen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606872901/original.jpg
+- file: images/passeriformes/passerellidae/arremon-aurantiirostris/3.jpg
+  page: https://www.inaturalist.org/photos/608381412
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608381412/original.jpg
+- file: images/passeriformes/passerellidae/arremon-aurantiirostris/4.jpg
+  page: https://www.inaturalist.org/photos/611100124
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611100124/original.jpg
+- file: images/passeriformes/passerellidae/arremon-aurantiirostris/5.jpg
+  page: https://www.inaturalist.org/photos/616992899
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616992899/original.jpg
 ---
 
 

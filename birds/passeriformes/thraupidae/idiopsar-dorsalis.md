@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.8
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 98.5
   tail_length_mm: 65.3
   body_mass_g: 38.1
+image:
+  file: images/passeriformes/thraupidae/idiopsar-dorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/616638811
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616638811/original.jpg
+images:
+- file: images/passeriformes/thraupidae/idiopsar-dorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/616638811
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616638811/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-dorsalis/2.jpg
+  page: https://www.inaturalist.org/photos/629421000
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629421000/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-dorsalis/3.jpg
+  page: https://www.inaturalist.org/photos/650325578
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650325578/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-dorsalis/4.jpg
+  page: https://www.inaturalist.org/photos/556423681
+  author: Peter T. Rühr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556423681/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-dorsalis/5.jpg
+  page: https://www.inaturalist.org/photos/569772956
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569772956/original.jpg
 ---
 
 

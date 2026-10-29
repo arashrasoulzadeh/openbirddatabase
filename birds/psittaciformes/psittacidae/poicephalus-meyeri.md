@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/psittaciformes/psittacidae/poicephalus-meyeri/1.jpg
+  page: https://www.inaturalist.org/photos/700156448
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700156448/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/poicephalus-meyeri/1.jpg
+  page: https://www.inaturalist.org/photos/700156448
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700156448/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-meyeri/2.jpg
+  page: https://www.inaturalist.org/photos/721562155
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721562155/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-meyeri/3.jpg
+  page: https://www.inaturalist.org/photos/718535982
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718535982/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-meyeri/4.jpg
+  page: https://www.inaturalist.org/photos/479254180
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479254180/original.jpeg
+- file: images/psittaciformes/psittacidae/poicephalus-meyeri/5.jpg
+  page: https://www.inaturalist.org/photos/700157497
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700157497/original.jpg
 ---
 
 

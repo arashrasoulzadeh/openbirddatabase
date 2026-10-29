@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 47
+image:
+  file: images/procellariiformes/procellariidae/macronectes-giganteus/1.jpg
+  page: https://www.inaturalist.org/photos/605477912
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605477912/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/macronectes-giganteus/1.jpg
+  page: https://www.inaturalist.org/photos/605477912
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605477912/original.jpg
+- file: images/procellariiformes/procellariidae/macronectes-giganteus/2.jpg
+  page: https://www.inaturalist.org/photos/608628047
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608628047/original.jpg
+- file: images/procellariiformes/procellariidae/macronectes-giganteus/3.jpg
+  page: https://www.inaturalist.org/photos/604803954
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604803954/original.jpg
+- file: images/procellariiformes/procellariidae/macronectes-giganteus/4.jpg
+  page: https://www.inaturalist.org/photos/604803939
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604803939/original.jpg
+- file: images/procellariiformes/procellariidae/macronectes-giganteus/5.jpg
+  page: https://www.inaturalist.org/photos/604803942
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604803942/original.jpg
 ---
 
 

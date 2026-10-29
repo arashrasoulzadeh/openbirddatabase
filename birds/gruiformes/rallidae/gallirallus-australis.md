@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/gruiformes/rallidae/gallirallus-australis/1.jpg
+  page: https://www.inaturalist.org/photos/608550463
+  author: Sean Clifford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608550463/original.jpg
+images:
+- file: images/gruiformes/rallidae/gallirallus-australis/1.jpg
+  page: https://www.inaturalist.org/photos/608550463
+  author: Sean Clifford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608550463/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-australis/2.jpg
+  page: https://www.inaturalist.org/photos/609393128
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609393128/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-australis/3.jpg
+  page: https://www.inaturalist.org/photos/610021069
+  author: Ian Dickie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610021069/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-australis/4.jpg
+  page: https://www.inaturalist.org/photos/609639464
+  author: Tommy Forrest
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609639464/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-australis/5.jpg
+  page: https://www.inaturalist.org/photos/608698501
+  author: Hannah Rogers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608698501/original.jpg
 ---
 
 

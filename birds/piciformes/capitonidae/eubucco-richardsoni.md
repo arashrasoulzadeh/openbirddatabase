@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/eubucco-richardsoni/1.jpg
+  page: https://www.inaturalist.org/photos/563453877
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563453877/original.jpg
+images:
+- file: images/piciformes/capitonidae/eubucco-richardsoni/1.jpg
+  page: https://www.inaturalist.org/photos/563453877
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563453877/original.jpg
+- file: images/piciformes/capitonidae/eubucco-richardsoni/2.jpg
+  page: https://www.inaturalist.org/photos/591917007
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591917007/original.jpg
+- file: images/piciformes/capitonidae/eubucco-richardsoni/3.jpg
+  page: https://www.inaturalist.org/photos/603508928
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603508928/original.jpg
+- file: images/piciformes/capitonidae/eubucco-richardsoni/4.jpg
+  page: https://www.inaturalist.org/photos/610464755
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610464755/original.jpg
+- file: images/piciformes/capitonidae/eubucco-richardsoni/5.jpg
+  page: https://www.inaturalist.org/photos/424655198
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424655198/original.jpg
 ---
 
 

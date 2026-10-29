@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/geranospiza-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/607005937
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607005937/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/geranospiza-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/607005937
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607005937/original.jpg
+- file: images/accipitriformes/accipitridae/geranospiza-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/605124949
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605124949/original.jpg
+- file: images/accipitriformes/accipitridae/geranospiza-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/613164992
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613164992/original.jpg
+- file: images/accipitriformes/accipitridae/geranospiza-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/612540447
+  author: Chloe Evans
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612540447/original.jpg
+- file: images/accipitriformes/accipitridae/geranospiza-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/617233281
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617233281/original.jpg
 ---
 
 

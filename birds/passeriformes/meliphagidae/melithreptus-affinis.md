@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/meliphagidae/melithreptus-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/611318637
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611318637/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/melithreptus-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/611318637
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611318637/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/611854538
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611854538/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/740139961
+  author: Peter Shanks
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740139961/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/461856398
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461856398/original.jpeg
+- file: images/passeriformes/meliphagidae/melithreptus-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/480335540
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480335540/original.jpeg
 ---
 
 

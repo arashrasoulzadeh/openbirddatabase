@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eriocnemis-cupreoventris/1.jpg
+  page: https://www.inaturalist.org/photos/613434984
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613434984/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eriocnemis-cupreoventris/1.jpg
+  page: https://www.inaturalist.org/photos/613434984
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613434984/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-cupreoventris/2.jpg
+  page: https://www.inaturalist.org/photos/361096713
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361096713/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-cupreoventris/3.jpg
+  page: https://www.inaturalist.org/photos/416007599
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416007599/original.jpeg
+- file: images/apodiformes/trochilidae/eriocnemis-cupreoventris/4.jpg
+  page: https://www.inaturalist.org/photos/2996741
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2996741/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-cupreoventris/5.jpg
+  page: https://www.inaturalist.org/photos/416007631
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416007631/original.jpeg
 ---
 
 

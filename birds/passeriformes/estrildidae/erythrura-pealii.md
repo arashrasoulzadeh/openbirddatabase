@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/erythrura-pealii/1.jpg
+  page: https://www.inaturalist.org/photos/718973776
+  author: Laura Fernández Winzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718973776/original.jpg
+images:
+- file: images/passeriformes/estrildidae/erythrura-pealii/1.jpg
+  page: https://www.inaturalist.org/photos/718973776
+  author: Laura Fernández Winzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718973776/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-pealii/2.jpg
+  page: https://www.inaturalist.org/photos/721033918
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721033918/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-pealii/3.jpg
+  page: https://www.inaturalist.org/photos/482225504
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482225504/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-pealii/4.jpg
+  page: https://www.inaturalist.org/photos/519010040
+  author: Matthew Lincoln
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519010040/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-pealii/5.jpg
+  page: https://www.inaturalist.org/photos/718973779
+  author: Laura Fernández Winzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718973779/original.jpg
 ---
 
 

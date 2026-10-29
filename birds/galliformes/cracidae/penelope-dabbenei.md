@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-dabbenei/1.jpg
+  page: https://www.inaturalist.org/photos/648418551
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648418551/original.jpg
+images:
+- file: images/galliformes/cracidae/penelope-dabbenei/1.jpg
+  page: https://www.inaturalist.org/photos/648418551
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648418551/original.jpg
+- file: images/galliformes/cracidae/penelope-dabbenei/2.jpg
+  page: https://www.inaturalist.org/photos/208863795
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/208863795/original.jpg
+- file: images/galliformes/cracidae/penelope-dabbenei/3.jpg
+  page: https://www.inaturalist.org/photos/238165531
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238165531/original.jpeg
+- file: images/galliformes/cracidae/penelope-dabbenei/4.jpg
+  page: https://www.inaturalist.org/photos/30794057
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/30794057/original.jpeg
+- file: images/galliformes/cracidae/penelope-dabbenei/5.jpg
+  page: https://www.inaturalist.org/photos/94158720
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94158720/original.jpeg
 ---
 
 

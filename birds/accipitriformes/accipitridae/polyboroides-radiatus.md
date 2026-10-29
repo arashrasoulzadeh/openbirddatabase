@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/polyboroides-radiatus/1.jpg
+  page: https://www.inaturalist.org/photos/394832090
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394832090/original.jpeg
+images:
+- file: images/accipitriformes/accipitridae/polyboroides-radiatus/1.jpg
+  page: https://www.inaturalist.org/photos/394832090
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394832090/original.jpeg
+- file: images/accipitriformes/accipitridae/polyboroides-radiatus/2.jpg
+  page: https://www.inaturalist.org/photos/446028161
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446028161/original.jpeg
+- file: images/accipitriformes/accipitridae/polyboroides-radiatus/3.jpg
+  page: https://www.inaturalist.org/photos/453284149
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453284149/original.jpg
+- file: images/accipitriformes/accipitridae/polyboroides-radiatus/4.jpg
+  page: https://www.inaturalist.org/photos/455477719
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455477719/original.jpeg
+- file: images/accipitriformes/accipitridae/polyboroides-radiatus/5.jpg
+  page: https://www.inaturalist.org/photos/463678908
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463678908/original.jpg
 ---
 
 

@@ -127,7 +127,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 17.3
@@ -137,6 +138,44 @@ morphology:
   body_mass_g: 31.6
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/thraupidae/thraupis-glaucocolpa/1.jpg
+  page: https://www.inaturalist.org/photos/698984901
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698984901/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thraupis-glaucocolpa/1.jpg
+  page: https://www.inaturalist.org/photos/698984901
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698984901/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-glaucocolpa/2.jpg
+  page: https://www.inaturalist.org/photos/597042829
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597042829/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-glaucocolpa/3.jpg
+  page: https://www.inaturalist.org/photos/474281932
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474281932/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-glaucocolpa/4.jpg
+  page: https://www.inaturalist.org/photos/526081637
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526081637/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-glaucocolpa/5.jpg
+  page: https://www.inaturalist.org/photos/569159823
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569159823/original.jpg
 ---
 
 

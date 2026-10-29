@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/patagona-gigas/1.jpg
+  page: https://www.inaturalist.org/photos/605210762
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210762/original.jpg
+images:
+- file: images/apodiformes/trochilidae/patagona-gigas/1.jpg
+  page: https://www.inaturalist.org/photos/605210762
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210762/original.jpg
+- file: images/apodiformes/trochilidae/patagona-gigas/2.jpg
+  page: https://www.inaturalist.org/photos/617932731
+  author: Alfredo F. Fuentes Claros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617932731/original.jpg
+- file: images/apodiformes/trochilidae/patagona-gigas/3.jpg
+  page: https://www.inaturalist.org/photos/617635915
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617635915/original.jpg
+- file: images/apodiformes/trochilidae/patagona-gigas/4.jpg
+  page: https://www.inaturalist.org/photos/625213026
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625213026/original.jpg
+- file: images/apodiformes/trochilidae/patagona-gigas/5.jpg
+  page: https://www.inaturalist.org/photos/623903563
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623903563/original.jpg
 ---
 
 

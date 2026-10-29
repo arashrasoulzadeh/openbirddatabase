@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/ampeliceps-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/612096386
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612096386/original.jpg
+images:
+- file: images/passeriformes/sturnidae/ampeliceps-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/612096386
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612096386/original.jpg
+- file: images/passeriformes/sturnidae/ampeliceps-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/623745034
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623745034/original.jpg
+- file: images/passeriformes/sturnidae/ampeliceps-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/724540842
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724540842/original.jpg
+- file: images/passeriformes/sturnidae/ampeliceps-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/631778707
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631778707/original.jpg
+- file: images/passeriformes/sturnidae/ampeliceps-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/628495092
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628495092/original.jpg
 ---
 
 

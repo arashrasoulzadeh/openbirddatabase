@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 21.2
@@ -143,6 +144,32 @@ morphology:
   wing_length_mm: 95.5
   tail_length_mm: 72.0
   body_mass_g: 45.1
+image:
+  file: images/passeriformes/motacillidae/macronyx-grimwoodi/1.jpg
+  page: https://www.inaturalist.org/photos/483121753
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121753/original.jpg
+images:
+- file: images/passeriformes/motacillidae/macronyx-grimwoodi/1.jpg
+  page: https://www.inaturalist.org/photos/483121753
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121753/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-grimwoodi/2.jpg
+  page: https://www.inaturalist.org/photos/483121542
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121542/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-grimwoodi/3.jpg
+  page: https://www.inaturalist.org/photos/483173076
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483173076/original.jpg
 ---
 
 

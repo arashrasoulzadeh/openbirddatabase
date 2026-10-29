@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/synoicus-ypsilophorus/1.jpg
+  page: https://www.inaturalist.org/photos/605312507
+  author: Sofia Zvolanek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605312507/original.jpg
+images:
+- file: images/galliformes/phasianidae/synoicus-ypsilophorus/1.jpg
+  page: https://www.inaturalist.org/photos/605312507
+  author: Sofia Zvolanek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605312507/original.jpg
+- file: images/galliformes/phasianidae/synoicus-ypsilophorus/2.jpg
+  page: https://www.inaturalist.org/photos/606329739
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606329739/original.jpg
+- file: images/galliformes/phasianidae/synoicus-ypsilophorus/3.jpg
+  page: https://www.inaturalist.org/photos/615194263
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615194263/original.jpg
+- file: images/galliformes/phasianidae/synoicus-ypsilophorus/4.jpg
+  page: https://www.inaturalist.org/photos/614086053
+  author: Charlotte Sutton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614086053/original.jpg
+- file: images/galliformes/phasianidae/synoicus-ypsilophorus/5.jpg
+  page: https://www.inaturalist.org/photos/612919224
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612919224/original.jpg
 ---
 
 

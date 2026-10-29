@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/phoenicurus-erythrogastrus/1.jpg
+  page: https://www.inaturalist.org/photos/628721318
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628721318/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/phoenicurus-erythrogastrus/1.jpg
+  page: https://www.inaturalist.org/photos/628721318
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628721318/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-erythrogastrus/2.jpg
+  page: https://www.inaturalist.org/photos/693384340
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693384340/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-erythrogastrus/3.jpg
+  page: https://www.inaturalist.org/photos/689583099
+  author: Андрей
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689583099/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-erythrogastrus/4.jpg
+  page: https://www.inaturalist.org/photos/702312238
+  author: condorr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702312238/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-erythrogastrus/5.jpg
+  page: https://www.inaturalist.org/photos/627948866
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627948866/original.jpg
 ---
 
 

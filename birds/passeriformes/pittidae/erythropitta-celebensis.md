@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/erythropitta-celebensis/1.jpg
+  page: https://www.inaturalist.org/photos/618059479
+  author: oliswell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059479/original.jpg
+images:
+- file: images/passeriformes/pittidae/erythropitta-celebensis/1.jpg
+  page: https://www.inaturalist.org/photos/618059479
+  author: oliswell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059479/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-celebensis/2.jpg
+  page: https://www.inaturalist.org/photos/618386127
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618386127/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-celebensis/3.jpg
+  page: https://www.inaturalist.org/photos/657161247
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657161247/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-celebensis/4.jpg
+  page: https://www.inaturalist.org/photos/679187618
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679187618/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-celebensis/5.jpg
+  page: https://www.inaturalist.org/photos/710067679
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710067679/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-coronulatus/1.jpg
+  page: https://www.inaturalist.org/photos/618526501
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618526501/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-coronulatus/1.jpg
+  page: https://www.inaturalist.org/photos/618526501
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618526501/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-coronulatus/2.jpg
+  page: https://www.inaturalist.org/photos/618526562
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618526562/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-coronulatus/3.jpg
+  page: https://www.inaturalist.org/photos/618526527
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618526527/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-coronulatus/4.jpg
+  page: https://www.inaturalist.org/photos/618526557
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618526557/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-coronulatus/5.jpg
+  page: https://www.inaturalist.org/photos/618526582
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618526582/original.jpg
 ---
 
 

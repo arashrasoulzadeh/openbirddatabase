@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-chrysotis/1.jpg
+  page: https://www.inaturalist.org/photos/559034992
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559034992/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-chrysotis/1.jpg
+  page: https://www.inaturalist.org/photos/559034992
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559034992/original.jpg
+- file: images/passeriformes/thraupidae/tangara-chrysotis/2.jpg
+  page: https://www.inaturalist.org/photos/611813452
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611813452/original.jpg
+- file: images/passeriformes/thraupidae/tangara-chrysotis/3.jpg
+  page: https://www.inaturalist.org/photos/457278632
+  author: Benjamin Hidalgo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457278632/original.jpeg
+- file: images/passeriformes/thraupidae/tangara-chrysotis/4.jpg
+  page: https://www.inaturalist.org/photos/265758358
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265758358/original.jpeg
+- file: images/passeriformes/thraupidae/tangara-chrysotis/5.jpg
+  page: https://www.inaturalist.org/photos/333988937
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333988937/original.jpeg
 ---
 
 

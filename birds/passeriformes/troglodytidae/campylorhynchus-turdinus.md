@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-turdinus/1.jpg
+  page: https://www.inaturalist.org/photos/606014644
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014644/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-turdinus/1.jpg
+  page: https://www.inaturalist.org/photos/606014644
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014644/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-turdinus/2.jpg
+  page: https://www.inaturalist.org/photos/631097903
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631097903/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-turdinus/3.jpg
+  page: https://www.inaturalist.org/photos/652851295
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652851295/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-turdinus/4.jpg
+  page: https://www.inaturalist.org/photos/622709275
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622709275/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-turdinus/5.jpg
+  page: https://www.inaturalist.org/photos/650312715
+  author: Raquel Mondino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650312715/original.jpg
 ---
 
 

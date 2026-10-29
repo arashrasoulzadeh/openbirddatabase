@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-mesochrysa/1.jpg
+  page: https://www.inaturalist.org/photos/499980796
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499980796/original.jpeg
+images:
+- file: images/passeriformes/fringillidae/euphonia-mesochrysa/1.jpg
+  page: https://www.inaturalist.org/photos/499980796
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499980796/original.jpeg
+- file: images/passeriformes/fringillidae/euphonia-mesochrysa/2.jpg
+  page: https://www.inaturalist.org/photos/613198661
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613198661/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-mesochrysa/3.jpg
+  page: https://www.inaturalist.org/photos/351117065
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351117065/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-mesochrysa/4.jpg
+  page: https://www.inaturalist.org/photos/352445169
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352445169/original.jpeg
+- file: images/passeriformes/fringillidae/euphonia-mesochrysa/5.jpg
+  page: https://www.inaturalist.org/photos/624048566
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624048566/original.jpg
 ---
 
 

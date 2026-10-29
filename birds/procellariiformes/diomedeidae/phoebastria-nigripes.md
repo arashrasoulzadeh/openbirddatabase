@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 42
+image:
+  file: images/procellariiformes/diomedeidae/phoebastria-nigripes/1.jpg
+  page: https://www.inaturalist.org/photos/608839109
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608839109/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/phoebastria-nigripes/1.jpg
+  page: https://www.inaturalist.org/photos/608839109
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608839109/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-nigripes/2.jpg
+  page: https://www.inaturalist.org/photos/618699075
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618699075/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-nigripes/3.jpg
+  page: https://www.inaturalist.org/photos/633989158
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633989158/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-nigripes/4.jpg
+  page: https://www.inaturalist.org/photos/646140142
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646140142/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-nigripes/5.jpg
+  page: https://www.inaturalist.org/photos/608839117
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608839117/original.jpg
 ---
 
 

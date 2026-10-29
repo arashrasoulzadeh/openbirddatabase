@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/podiceps-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/610879218
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610879218/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/podiceps-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/610879218
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610879218/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-occipitalis/2.jpg
+  page: https://www.inaturalist.org/photos/611493900
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611493900/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-occipitalis/3.jpg
+  page: https://www.inaturalist.org/photos/615860126
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615860126/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-occipitalis/4.jpg
+  page: https://www.inaturalist.org/photos/655117953
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655117953/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-occipitalis/5.jpg
+  page: https://www.inaturalist.org/photos/626038859
+  author: Max Alejandro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626038859/original.jpg
 ---
 
 

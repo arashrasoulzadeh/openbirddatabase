@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/myzomela-rosenbergii/1.jpg
+  page: https://www.inaturalist.org/photos/701631853
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701631853/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-rosenbergii/1.jpg
+  page: https://www.inaturalist.org/photos/701631853
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701631853/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-rosenbergii/2.jpg
+  page: https://www.inaturalist.org/photos/562685552
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562685552/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-rosenbergii/3.jpg
+  page: https://www.inaturalist.org/photos/624314756
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624314756/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-rosenbergii/4.jpg
+  page: https://www.inaturalist.org/photos/335270466
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335270466/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-rosenbergii/5.jpg
+  page: https://www.inaturalist.org/photos/701631867
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701631867/original.jpg
 ---
 
 

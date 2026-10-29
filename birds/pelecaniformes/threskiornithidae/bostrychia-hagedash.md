@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/pelecaniformes/threskiornithidae/bostrychia-hagedash/1.jpg
+  page: https://www.inaturalist.org/photos/610663193
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610663193/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/bostrychia-hagedash/1.jpg
+  page: https://www.inaturalist.org/photos/610663193
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610663193/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-hagedash/2.jpg
+  page: https://www.inaturalist.org/photos/610182065
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610182065/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-hagedash/3.jpg
+  page: https://www.inaturalist.org/photos/612199791
+  author: Dave Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612199791/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-hagedash/4.jpg
+  page: https://www.inaturalist.org/photos/613940485
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613940485/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-hagedash/5.jpg
+  page: https://www.inaturalist.org/photos/609276228
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609276228/original.jpg
 ---
 
 

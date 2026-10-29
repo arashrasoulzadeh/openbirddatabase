@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardea-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/608868008
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608868008/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/608868008
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608868008/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-melanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/608637732
+  author: Muhammad Uzair Davids
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608637732/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-melanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/608225077
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608225077/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-melanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/611644742
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611644742/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-melanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/612513903
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612513903/original.jpg
 ---
 
 

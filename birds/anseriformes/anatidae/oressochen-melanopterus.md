@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 40.7
@@ -137,6 +138,44 @@ morphology:
   wing_length_mm: 431.7
   tail_length_mm: 137.3
   body_mass_g: 2037.0
+image:
+  file: images/anseriformes/anatidae/oressochen-melanopterus/1.jpg
+  page: https://www.inaturalist.org/photos/608914114
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608914114/original.jpg
+images:
+- file: images/anseriformes/anatidae/oressochen-melanopterus/1.jpg
+  page: https://www.inaturalist.org/photos/608914114
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608914114/original.jpg
+- file: images/anseriformes/anatidae/oressochen-melanopterus/2.jpg
+  page: https://www.inaturalist.org/photos/609675558
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609675558/original.jpg
+- file: images/anseriformes/anatidae/oressochen-melanopterus/3.jpg
+  page: https://www.inaturalist.org/photos/626501291
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626501291/original.jpg
+- file: images/anseriformes/anatidae/oressochen-melanopterus/4.jpg
+  page: https://www.inaturalist.org/photos/613757269
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613757269/original.jpg
+- file: images/anseriformes/anatidae/oressochen-melanopterus/5.jpg
+  page: https://www.inaturalist.org/photos/619020829
+  author: Elliot Greiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619020829/original.jpg
 ---
 
 

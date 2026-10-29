@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/leucochloris-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/607272428
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272428/original.jpg
+images:
+- file: images/apodiformes/trochilidae/leucochloris-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/607272428
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272428/original.jpg
+- file: images/apodiformes/trochilidae/leucochloris-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/607744628
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607744628/original.jpg
+- file: images/apodiformes/trochilidae/leucochloris-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/607351953
+  author: Agustina Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607351953/original.jpg
+- file: images/apodiformes/trochilidae/leucochloris-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/611019391
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611019391/original.jpg
+- file: images/apodiformes/trochilidae/leucochloris-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/612009653
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612009653/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-brasiliensis/1.jpg
+  page: https://www.inaturalist.org/photos/642609451
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642609451/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-brasiliensis/1.jpg
+  page: https://www.inaturalist.org/photos/642609451
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642609451/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-brasiliensis/2.jpg
+  page: https://www.inaturalist.org/photos/694262415
+  author: Guilherme Saito
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694262415/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-brasiliensis/3.jpg
+  page: https://www.inaturalist.org/photos/321306951
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/321306951/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-brasiliensis/4.jpg
+  page: https://www.inaturalist.org/photos/417781833
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417781833/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-brasiliensis/5.jpg
+  page: https://www.inaturalist.org/photos/693059687
+  author: Guilherme Saito
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693059687/original.jpg
 ---
 
 

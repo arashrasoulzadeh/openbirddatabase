@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rallina-eurizonoides/1.jpg
+  page: https://www.inaturalist.org/photos/611175281
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611175281/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallina-eurizonoides/1.jpg
+  page: https://www.inaturalist.org/photos/611175281
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611175281/original.jpg
+- file: images/gruiformes/rallidae/rallina-eurizonoides/2.jpg
+  page: https://www.inaturalist.org/photos/612977344
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612977344/original.jpg
+- file: images/gruiformes/rallidae/rallina-eurizonoides/3.jpg
+  page: https://www.inaturalist.org/photos/617424646
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617424646/original.jpg
+- file: images/gruiformes/rallidae/rallina-eurizonoides/4.jpg
+  page: https://www.inaturalist.org/photos/728019404
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728019404/original.jpg
+- file: images/gruiformes/rallidae/rallina-eurizonoides/5.jpg
+  page: https://www.inaturalist.org/photos/464387824
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464387824/original.jpeg
 ---
 
 

@@ -143,10 +143,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/monarchidae/arses-kaupi/1.jpg
+  page: https://www.inaturalist.org/photos/705990806
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705990806/original.jpg
+images:
+- file: images/passeriformes/monarchidae/arses-kaupi/1.jpg
+  page: https://www.inaturalist.org/photos/705990806
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705990806/original.jpg
+- file: images/passeriformes/monarchidae/arses-kaupi/2.jpg
+  page: https://www.inaturalist.org/photos/479116339
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479116339/original.jpg
+- file: images/passeriformes/monarchidae/arses-kaupi/3.jpg
+  page: https://www.inaturalist.org/photos/606844695
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606844695/original.jpg
+- file: images/passeriformes/monarchidae/arses-kaupi/4.jpg
+  page: https://www.inaturalist.org/photos/517777351
+  author: Brecht Verstraete
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517777351/original.jpg
+- file: images/passeriformes/monarchidae/arses-kaupi/5.jpg
+  page: https://www.inaturalist.org/photos/538974861
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538974861/original.jpg
 ---
 
 

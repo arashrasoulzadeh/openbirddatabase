@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/poecile-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/513334288
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513334288/original.jpg
+images:
+- file: images/passeriformes/paridae/poecile-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/513334288
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513334288/original.jpg
+- file: images/passeriformes/paridae/poecile-superciliosus/2.jpg
+  page: https://www.inaturalist.org/photos/409576753
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409576753/original.jpeg
+- file: images/passeriformes/paridae/poecile-superciliosus/3.jpg
+  page: https://www.inaturalist.org/photos/347590792
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347590792/original.jpg
+- file: images/passeriformes/paridae/poecile-superciliosus/4.jpg
+  page: https://www.inaturalist.org/photos/367800877
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800877/original.jpeg
+- file: images/passeriformes/paridae/poecile-superciliosus/5.jpg
+  page: https://www.inaturalist.org/photos/409576777
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409576777/original.jpg
 ---
 
 

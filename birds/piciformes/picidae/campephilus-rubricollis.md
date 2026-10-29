@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campephilus-rubricollis/1.jpg
+  page: https://www.inaturalist.org/photos/617327357
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327357/original.jpg
+images:
+- file: images/piciformes/picidae/campephilus-rubricollis/1.jpg
+  page: https://www.inaturalist.org/photos/617327357
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327357/original.jpg
+- file: images/piciformes/picidae/campephilus-rubricollis/2.jpg
+  page: https://www.inaturalist.org/photos/620797968
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620797968/original.jpg
+- file: images/piciformes/picidae/campephilus-rubricollis/3.jpg
+  page: https://www.inaturalist.org/photos/674195612
+  author: Daniel Nicholson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674195612/original.jpg
+- file: images/piciformes/picidae/campephilus-rubricollis/4.jpg
+  page: https://www.inaturalist.org/photos/679968965
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679968965/original.jpg
+- file: images/piciformes/picidae/campephilus-rubricollis/5.jpg
+  page: https://www.inaturalist.org/photos/737920190
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737920190/original.jpg
 ---
 
 

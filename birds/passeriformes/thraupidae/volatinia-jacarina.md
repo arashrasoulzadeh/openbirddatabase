@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/volatinia-jacarina/1.jpg
+  page: https://www.inaturalist.org/photos/605729606
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729606/original.jpg
+images:
+- file: images/passeriformes/thraupidae/volatinia-jacarina/1.jpg
+  page: https://www.inaturalist.org/photos/605729606
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729606/original.jpg
+- file: images/passeriformes/thraupidae/volatinia-jacarina/2.jpg
+  page: https://www.inaturalist.org/photos/610853202
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610853202/original.jpg
+- file: images/passeriformes/thraupidae/volatinia-jacarina/3.jpg
+  page: https://www.inaturalist.org/photos/609028388
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609028388/original.jpg
+- file: images/passeriformes/thraupidae/volatinia-jacarina/4.jpg
+  page: https://www.inaturalist.org/photos/610943872
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610943872/original.jpg
+- file: images/passeriformes/thraupidae/volatinia-jacarina/5.jpg
+  page: https://www.inaturalist.org/photos/606797645
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606797645/original.jpg
 ---
 
 

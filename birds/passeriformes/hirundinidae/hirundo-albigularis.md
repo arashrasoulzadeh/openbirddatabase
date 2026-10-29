@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/hirundo-albigularis/1.jpg
+  page: https://www.inaturalist.org/photos/609996590
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609996590/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/hirundo-albigularis/1.jpg
+  page: https://www.inaturalist.org/photos/609996590
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609996590/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-albigularis/2.jpg
+  page: https://www.inaturalist.org/photos/606379926
+  author: Haneef Tayob
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606379926/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-albigularis/3.jpg
+  page: https://www.inaturalist.org/photos/610361185
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610361185/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-albigularis/4.jpg
+  page: https://www.inaturalist.org/photos/607192070
+  author: Kisha Langeveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607192070/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-albigularis/5.jpg
+  page: https://www.inaturalist.org/photos/612197202
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612197202/original.jpg
 ---
 
 

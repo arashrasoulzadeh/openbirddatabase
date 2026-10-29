@@ -136,7 +136,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.9
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 86.2
   tail_length_mm: 93.8
   body_mass_g: 30.0
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-bimaculatus/1.jpg
+  page: https://www.inaturalist.org/photos/667051681
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667051681/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-bimaculatus/1.jpg
+  page: https://www.inaturalist.org/photos/667051681
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667051681/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-bimaculatus/2.jpg
+  page: https://www.inaturalist.org/photos/569152566
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569152566/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-bimaculatus/3.jpg
+  page: https://www.inaturalist.org/photos/572694696
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572694696/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-bimaculatus/4.jpg
+  page: https://www.inaturalist.org/photos/600061695
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600061695/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-bimaculatus/5.jpg
+  page: https://www.inaturalist.org/photos/603269929
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603269929/original.jpg
 ---
 
 

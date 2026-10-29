@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/parulidae/setophaga-striata/1.jpg
+  page: https://www.inaturalist.org/photos/604606801
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606801/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-striata/1.jpg
+  page: https://www.inaturalist.org/photos/604606801
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606801/original.jpg
+- file: images/passeriformes/parulidae/setophaga-striata/2.jpg
+  page: https://www.inaturalist.org/photos/617447472
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617447472/original.jpg
+- file: images/passeriformes/parulidae/setophaga-striata/3.jpg
+  page: https://www.inaturalist.org/photos/641455052
+  author: Pete Grannis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641455052/original.jpg
+- file: images/passeriformes/parulidae/setophaga-striata/4.jpg
+  page: https://www.inaturalist.org/photos/645546338
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645546338/original.jpg
+- file: images/passeriformes/parulidae/setophaga-striata/5.jpg
+  page: https://www.inaturalist.org/photos/639897642
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639897642/original.jpg
 ---
 
 

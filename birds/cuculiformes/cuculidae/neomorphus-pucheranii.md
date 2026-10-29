@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/neomorphus-pucheranii/1.jpg
+  page: https://www.inaturalist.org/photos/523112658
+  author: Whaldener Endo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523112658/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/neomorphus-pucheranii/1.jpg
+  page: https://www.inaturalist.org/photos/523112658
+  author: Whaldener Endo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523112658/original.jpg
+- file: images/cuculiformes/cuculidae/neomorphus-pucheranii/2.jpg
+  page: https://www.inaturalist.org/photos/523116936
+  author: Whaldener Endo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523116936/original.jpg
+- file: images/cuculiformes/cuculidae/neomorphus-pucheranii/3.jpg
+  page: https://www.inaturalist.org/photos/523117500
+  author: Whaldener Endo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523117500/original.jpg
+- file: images/cuculiformes/cuculidae/neomorphus-pucheranii/4.jpg
+  page: https://www.inaturalist.org/photos/523118068
+  author: Whaldener Endo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523118068/original.jpg
+- file: images/cuculiformes/cuculidae/neomorphus-pucheranii/5.jpg
+  page: https://www.inaturalist.org/photos/523118584
+  author: Whaldener Endo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523118584/original.jpg
 ---
 
 

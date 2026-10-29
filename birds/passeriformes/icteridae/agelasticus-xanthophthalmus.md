@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/agelasticus-xanthophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/562887718
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562887718/original.jpg
+images:
+- file: images/passeriformes/icteridae/agelasticus-xanthophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/562887718
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562887718/original.jpg
+- file: images/passeriformes/icteridae/agelasticus-xanthophthalmus/2.jpg
+  page: https://www.inaturalist.org/photos/330541633
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330541633/original.jpeg
+- file: images/passeriformes/icteridae/agelasticus-xanthophthalmus/3.jpg
+  page: https://www.inaturalist.org/photos/240860634
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240860634/original.jpg
+- file: images/passeriformes/icteridae/agelasticus-xanthophthalmus/4.jpg
+  page: https://www.inaturalist.org/photos/244403115
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244403115/original.jpg
+- file: images/passeriformes/icteridae/agelasticus-xanthophthalmus/5.jpg
+  page: https://www.inaturalist.org/photos/562887724
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562887724/original.jpg
 ---
 
 

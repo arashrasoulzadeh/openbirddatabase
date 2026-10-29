@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-punctulata/1.jpg
+  page: https://www.inaturalist.org/photos/693305462
+  author: Geoff Shuetrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693305462/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-punctulata/1.jpg
+  page: https://www.inaturalist.org/photos/693305462
+  author: Geoff Shuetrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693305462/original.jpg
+- file: images/strigiformes/strigidae/ninox-punctulata/2.jpg
+  page: https://www.inaturalist.org/photos/526014902
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014902/original.jpg
+- file: images/strigiformes/strigidae/ninox-punctulata/3.jpg
+  page: https://www.inaturalist.org/photos/308631765
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/308631765/original.jpg
+- file: images/strigiformes/strigidae/ninox-punctulata/4.jpg
+  page: https://www.inaturalist.org/photos/229093292
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/229093292/original.jpeg
+- file: images/strigiformes/strigidae/ninox-punctulata/5.jpg
+  page: https://www.inaturalist.org/photos/107806049
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107806049/original.jpg
 ---
 
 

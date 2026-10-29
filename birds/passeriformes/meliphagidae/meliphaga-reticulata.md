@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 22.2
@@ -133,6 +134,38 @@ morphology:
   wing_length_mm: 75.8
   tail_length_mm: 68.9
   body_mass_g: 23.6
+image:
+  file: images/passeriformes/meliphagidae/meliphaga-reticulata/1.jpg
+  page: https://www.inaturalist.org/photos/590128922
+  author: andreytkachev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590128922/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/meliphaga-reticulata/1.jpg
+  page: https://www.inaturalist.org/photos/590128922
+  author: andreytkachev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590128922/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-reticulata/2.jpg
+  page: https://www.inaturalist.org/photos/360230396
+  author: manuelquiroga1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360230396/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-reticulata/3.jpg
+  page: https://www.inaturalist.org/photos/590128923
+  author: andreytkachev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590128923/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-reticulata/4.jpg
+  page: https://www.inaturalist.org/photos/590128925
+  author: andreytkachev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590128925/original.jpg
 ---
 
 

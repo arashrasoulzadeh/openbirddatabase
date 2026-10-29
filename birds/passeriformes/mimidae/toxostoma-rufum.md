@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/mimidae/toxostoma-rufum/1.jpg
+  page: https://www.inaturalist.org/photos/604606453
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606453/original.jpg
+images:
+- file: images/passeriformes/mimidae/toxostoma-rufum/1.jpg
+  page: https://www.inaturalist.org/photos/604606453
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606453/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-rufum/2.jpg
+  page: https://www.inaturalist.org/photos/605162495
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162495/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-rufum/3.jpg
+  page: https://www.inaturalist.org/photos/610965064
+  author: Anne P
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610965064/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-rufum/4.jpg
+  page: https://www.inaturalist.org/photos/611001140
+  author: hr_dragonfly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611001140/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-rufum/5.jpg
+  page: https://www.inaturalist.org/photos/608827084
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608827084/original.jpg
 ---
 
 

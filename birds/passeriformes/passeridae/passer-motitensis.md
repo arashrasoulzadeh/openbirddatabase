@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-motitensis/1.jpg
+  page: https://www.inaturalist.org/photos/611837361
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611837361/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-motitensis/1.jpg
+  page: https://www.inaturalist.org/photos/611837361
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611837361/original.jpg
+- file: images/passeriformes/passeridae/passer-motitensis/2.jpg
+  page: https://www.inaturalist.org/photos/652140633
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652140633/original.jpg
+- file: images/passeriformes/passeridae/passer-motitensis/3.jpg
+  page: https://www.inaturalist.org/photos/472220129
+  author: Petra Holland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472220129/original.jpeg
+- file: images/passeriformes/passeridae/passer-motitensis/4.jpg
+  page: https://www.inaturalist.org/photos/583948271
+  author: Stefan Curth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583948271/original.jpg
+- file: images/passeriformes/passeridae/passer-motitensis/5.jpg
+  page: https://www.inaturalist.org/photos/434371885
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434371885/original.jpeg
 ---
 
 

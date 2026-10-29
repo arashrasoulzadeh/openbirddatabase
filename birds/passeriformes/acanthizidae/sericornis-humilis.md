@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/sericornis-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/608592312
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608592312/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/sericornis-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/608592312
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608592312/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-humilis/2.jpg
+  page: https://www.inaturalist.org/photos/713621740
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713621740/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-humilis/3.jpg
+  page: https://www.inaturalist.org/photos/735328515
+  author: Alex Day
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735328515/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-humilis/4.jpg
+  page: https://www.inaturalist.org/photos/742592243
+  author: bukoba_steve
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742592243/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-humilis/5.jpg
+  page: https://www.inaturalist.org/photos/713621762
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713621762/original.jpg
 ---
 
 

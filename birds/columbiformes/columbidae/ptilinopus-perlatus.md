@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-perlatus/1.jpg
+  page: https://www.inaturalist.org/photos/698709385
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698709385/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-perlatus/1.jpg
+  page: https://www.inaturalist.org/photos/698709385
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698709385/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-perlatus/2.jpg
+  page: https://www.inaturalist.org/photos/547966245
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547966245/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-perlatus/3.jpg
+  page: https://www.inaturalist.org/photos/566196760
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566196760/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-perlatus/4.jpg
+  page: https://www.inaturalist.org/photos/566657115
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566657115/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-perlatus/5.jpg
+  page: https://www.inaturalist.org/photos/611944895
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611944895/original.jpg
 ---
 
 

@@ -155,8 +155,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/psittinus-cyanurus/1.jpg
+  page: https://www.inaturalist.org/photos/674520574
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674520574/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittinus-cyanurus/1.jpg
+  page: https://www.inaturalist.org/photos/674520574
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674520574/original.jpg
+- file: images/psittaciformes/psittaculidae/psittinus-cyanurus/2.jpg
+  page: https://www.inaturalist.org/photos/81769457
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/81769457/original.jpeg
+- file: images/psittaciformes/psittaculidae/psittinus-cyanurus/3.jpg
+  page: https://www.inaturalist.org/photos/674520605
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674520605/original.jpg
 ---
 
 

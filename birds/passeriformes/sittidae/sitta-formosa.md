@@ -139,8 +139,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/365336590
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365336590/original.jpeg
+images:
+- file: images/passeriformes/sittidae/sitta-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/365336590
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365336590/original.jpeg
+- file: images/passeriformes/sittidae/sitta-formosa/2.jpg
+  page: https://www.inaturalist.org/photos/425092627
+  author: Tandin Wangdi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/425092627/original.jpg
+- file: images/passeriformes/sittidae/sitta-formosa/3.jpg
+  page: https://www.inaturalist.org/photos/395651239
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651239/original.jpg
+- file: images/passeriformes/sittidae/sitta-formosa/4.jpg
+  page: https://www.inaturalist.org/photos/46589597
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/46589597/original.jpeg
+- file: images/passeriformes/sittidae/sitta-formosa/5.jpg
+  page: https://www.inaturalist.org/photos/547343666
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547343666/original.jpg
 ---
 
 

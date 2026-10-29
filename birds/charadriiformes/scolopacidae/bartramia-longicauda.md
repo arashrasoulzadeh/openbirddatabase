@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/charadriiformes/scolopacidae/bartramia-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/605526670
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605526670/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/bartramia-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/605526670
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605526670/original.jpg
+- file: images/charadriiformes/scolopacidae/bartramia-longicauda/2.jpg
+  page: https://www.inaturalist.org/photos/610699037
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610699037/original.jpg
+- file: images/charadriiformes/scolopacidae/bartramia-longicauda/3.jpg
+  page: https://www.inaturalist.org/photos/627779922
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627779922/original.jpg
+- file: images/charadriiformes/scolopacidae/bartramia-longicauda/4.jpg
+  page: https://www.inaturalist.org/photos/632424637
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632424637/original.jpg
+- file: images/charadriiformes/scolopacidae/bartramia-longicauda/5.jpg
+  page: https://www.inaturalist.org/photos/633231700
+  author: Brent Cox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633231700/original.jpg
 ---
 
 

@@ -215,10 +215,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/passeriformes/fringillidae/serinus-canaria/1.jpg
+  page: https://www.inaturalist.org/photos/607666709
+  author: Vítor Jorge
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607666709/original.jpg
+images:
+- file: images/passeriformes/fringillidae/serinus-canaria/1.jpg
+  page: https://www.inaturalist.org/photos/607666709
+  author: Vítor Jorge
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607666709/original.jpg
+- file: images/passeriformes/fringillidae/serinus-canaria/2.jpg
+  page: https://www.inaturalist.org/photos/606672114
+  author: Vesa M
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606672114/original.jpg
+- file: images/passeriformes/fringillidae/serinus-canaria/3.jpg
+  page: https://www.inaturalist.org/photos/611413203
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611413203/original.jpg
+- file: images/passeriformes/fringillidae/serinus-canaria/4.jpg
+  page: https://www.inaturalist.org/photos/616005379
+  author: Roy Lowry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616005379/original.jpg
+- file: images/passeriformes/fringillidae/serinus-canaria/5.jpg
+  page: https://www.inaturalist.org/photos/617846217
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617846217/original.jpg
 ---
 
 

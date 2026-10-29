@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/gymnocichla-nudiceps/1.jpg
+  page: https://www.inaturalist.org/photos/617562649
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617562649/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/gymnocichla-nudiceps/1.jpg
+  page: https://www.inaturalist.org/photos/617562649
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617562649/original.jpg
+- file: images/passeriformes/thamnophilidae/gymnocichla-nudiceps/2.jpg
+  page: https://www.inaturalist.org/photos/630928439
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630928439/original.jpg
+- file: images/passeriformes/thamnophilidae/gymnocichla-nudiceps/3.jpg
+  page: https://www.inaturalist.org/photos/463016680
+  author: EDMILSON FERNANDO JARQUIN LOPEZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463016680/original.jpeg
+- file: images/passeriformes/thamnophilidae/gymnocichla-nudiceps/4.jpg
+  page: https://www.inaturalist.org/photos/562131148
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562131148/original.jpg
+- file: images/passeriformes/thamnophilidae/gymnocichla-nudiceps/5.jpg
+  page: https://www.inaturalist.org/photos/532677856
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532677856/original.jpg
 ---
 
 

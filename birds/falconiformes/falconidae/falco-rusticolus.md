@@ -171,10 +171,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/falconiformes/falconidae/falco-rusticolus/1.jpg
+  page: https://www.inaturalist.org/photos/699649469
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699649469/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-rusticolus/1.jpg
+  page: https://www.inaturalist.org/photos/699649469
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699649469/original.jpg
+- file: images/falconiformes/falconidae/falco-rusticolus/2.jpg
+  page: https://www.inaturalist.org/photos/712781971
+  author: Charlie Thomas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712781971/original.jpg
+- file: images/falconiformes/falconidae/falco-rusticolus/3.jpg
+  page: https://www.inaturalist.org/photos/717475056
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717475056/original.jpg
+- file: images/falconiformes/falconidae/falco-rusticolus/4.jpg
+  page: https://www.inaturalist.org/photos/726450978
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726450978/original.jpg
+- file: images/falconiformes/falconidae/falco-rusticolus/5.jpg
+  page: https://www.inaturalist.org/photos/498914348
+  author: Diego González Dopico
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498914348/original.jpg
 ---
 
 

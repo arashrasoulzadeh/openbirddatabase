@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/knipolegus-lophotes/1.jpg
+  page: https://www.inaturalist.org/photos/605729558
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729558/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/knipolegus-lophotes/1.jpg
+  page: https://www.inaturalist.org/photos/605729558
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729558/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-lophotes/2.jpg
+  page: https://www.inaturalist.org/photos/615003991
+  author: Reuber Brandão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615003991/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-lophotes/3.jpg
+  page: https://www.inaturalist.org/photos/618672670
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618672670/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-lophotes/4.jpg
+  page: https://www.inaturalist.org/photos/625386156
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625386156/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-lophotes/5.jpg
+  page: https://www.inaturalist.org/photos/632609563
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632609563/original.jpg
 ---
 
 

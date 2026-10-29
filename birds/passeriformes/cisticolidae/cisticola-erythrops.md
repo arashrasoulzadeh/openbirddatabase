@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-erythrops/1.jpg
+  page: https://www.inaturalist.org/photos/480776726
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480776726/original.jpeg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-erythrops/1.jpg
+  page: https://www.inaturalist.org/photos/480776726
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480776726/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-erythrops/2.jpg
+  page: https://www.inaturalist.org/photos/503163853
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503163853/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-erythrops/3.jpg
+  page: https://www.inaturalist.org/photos/555585511
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555585511/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-erythrops/4.jpg
+  page: https://www.inaturalist.org/photos/565286342
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565286342/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-erythrops/5.jpg
+  page: https://www.inaturalist.org/photos/350627648
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350627648/original.jpeg
 ---
 
 

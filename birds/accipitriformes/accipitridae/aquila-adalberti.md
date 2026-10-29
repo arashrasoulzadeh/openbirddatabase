@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 44
+image:
+  file: images/accipitriformes/accipitridae/aquila-adalberti/1.jpg
+  page: https://www.inaturalist.org/photos/605150186
+  author: Cristina Villaverde
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605150186/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aquila-adalberti/1.jpg
+  page: https://www.inaturalist.org/photos/605150186
+  author: Cristina Villaverde
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605150186/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-adalberti/2.jpg
+  page: https://www.inaturalist.org/photos/606995310
+  author: Vasco Henrique Oliveira Fonseca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606995310/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-adalberti/3.jpg
+  page: https://www.inaturalist.org/photos/612144295
+  author: antoterryn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612144295/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-adalberti/4.jpg
+  page: https://www.inaturalist.org/photos/617778988
+  author: frangp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617778988/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-adalberti/5.jpg
+  page: https://www.inaturalist.org/photos/619871211
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619871211/original.jpg
 ---
 
 

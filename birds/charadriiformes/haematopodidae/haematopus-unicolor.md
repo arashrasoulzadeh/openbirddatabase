@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/604438850
+  author: Isabelle Soccioi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604438850/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/604438850
+  author: Isabelle Soccioi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604438850/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/608283906
+  author: Arnim Littek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608283906/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/607876078
+  author: jack12347
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607876078/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/609173350
+  author: Jenny Saito
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609173350/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/606526988
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606526988/original.jpg
 ---
 
 

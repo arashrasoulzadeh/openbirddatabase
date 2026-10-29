@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/psittaciformes/psittacidae/diopsittaca-nobilis/1.jpg
+  page: https://www.inaturalist.org/photos/611954691
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611954691/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/diopsittaca-nobilis/1.jpg
+  page: https://www.inaturalist.org/photos/611954691
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611954691/original.jpg
+- file: images/psittaciformes/psittacidae/diopsittaca-nobilis/2.jpg
+  page: https://www.inaturalist.org/photos/622468200
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622468200/original.jpg
+- file: images/psittaciformes/psittacidae/diopsittaca-nobilis/3.jpg
+  page: https://www.inaturalist.org/photos/629980270
+  author: Eli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629980270/original.jpg
+- file: images/psittaciformes/psittacidae/diopsittaca-nobilis/4.jpg
+  page: https://www.inaturalist.org/photos/631610843
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631610843/original.jpg
+- file: images/psittaciformes/psittacidae/diopsittaca-nobilis/5.jpg
+  page: https://www.inaturalist.org/photos/614301221
+  author: Vítor Guimarães
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614301221/original.jpg
 ---
 
 

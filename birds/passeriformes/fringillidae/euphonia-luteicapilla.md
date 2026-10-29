@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-luteicapilla/1.jpg
+  page: https://www.inaturalist.org/photos/634776926
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634776926/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-luteicapilla/1.jpg
+  page: https://www.inaturalist.org/photos/634776926
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634776926/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-luteicapilla/2.jpg
+  page: https://www.inaturalist.org/photos/616499510
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616499510/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-luteicapilla/3.jpg
+  page: https://www.inaturalist.org/photos/619130214
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619130214/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-luteicapilla/4.jpg
+  page: https://www.inaturalist.org/photos/624939614
+  author: Francis Pérez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624939614/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-luteicapilla/5.jpg
+  page: https://www.inaturalist.org/photos/659405674
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659405674/original.jpg
 ---
 
 

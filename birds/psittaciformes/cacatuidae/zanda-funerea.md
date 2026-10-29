@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/cacatuidae/zanda-funerea/1.jpg
+  page: https://www.inaturalist.org/photos/604749788
+  author: Rosalie Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604749788/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/zanda-funerea/1.jpg
+  page: https://www.inaturalist.org/photos/604749788
+  author: Rosalie Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604749788/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-funerea/2.jpg
+  page: https://www.inaturalist.org/photos/609858581
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609858581/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-funerea/3.jpg
+  page: https://www.inaturalist.org/photos/607397726
+  author: Heath Hunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607397726/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-funerea/4.jpg
+  page: https://www.inaturalist.org/photos/607408305
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607408305/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-funerea/5.jpg
+  page: https://www.inaturalist.org/photos/608023287
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608023287/original.jpg
 ---
 
 

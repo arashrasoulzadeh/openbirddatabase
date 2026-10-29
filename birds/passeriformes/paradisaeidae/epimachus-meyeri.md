@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradisaeidae/epimachus-meyeri/1.jpg
+  page: https://www.inaturalist.org/photos/699784514
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699784514/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/epimachus-meyeri/1.jpg
+  page: https://www.inaturalist.org/photos/699784514
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699784514/original.jpg
+- file: images/passeriformes/paradisaeidae/epimachus-meyeri/2.jpg
+  page: https://www.inaturalist.org/photos/556024803
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556024803/original.jpg
+- file: images/passeriformes/paradisaeidae/epimachus-meyeri/3.jpg
+  page: https://www.inaturalist.org/photos/571766435
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571766435/original.jpg
+- file: images/passeriformes/paradisaeidae/epimachus-meyeri/4.jpg
+  page: https://www.inaturalist.org/photos/578592276
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578592276/original.jpg
+- file: images/passeriformes/paradisaeidae/epimachus-meyeri/5.jpg
+  page: https://www.inaturalist.org/photos/226590476
+  author: Frances Oliver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226590476/original.jpg
 ---
 
 

@@ -153,8 +153,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/622532430
+  author: Rosie Yacoub
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622532430/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/622532430
+  author: Rosie Yacoub
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622532430/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-magnirostris/2.jpg
+  page: https://www.inaturalist.org/photos/630220687
+  author: lclair1344
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630220687/original.jpg
 ---
 
 

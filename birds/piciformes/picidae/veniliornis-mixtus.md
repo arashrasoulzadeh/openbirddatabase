@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-mixtus/1.jpg
+  page: https://www.inaturalist.org/photos/609931129
+  author: Lucia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609931129/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-mixtus/1.jpg
+  page: https://www.inaturalist.org/photos/609931129
+  author: Lucia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609931129/original.jpg
+- file: images/piciformes/picidae/veniliornis-mixtus/2.jpg
+  page: https://www.inaturalist.org/photos/610716132
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610716132/original.jpg
+- file: images/piciformes/picidae/veniliornis-mixtus/3.jpg
+  page: https://www.inaturalist.org/photos/618897699
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618897699/original.jpg
+- file: images/piciformes/picidae/veniliornis-mixtus/4.jpg
+  page: https://www.inaturalist.org/photos/616970750
+  author: Lucila Trussi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616970750/original.jpg
+- file: images/piciformes/picidae/veniliornis-mixtus/5.jpg
+  page: https://www.inaturalist.org/photos/616802958
+  author: Naelin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616802958/original.jpg
 ---
 
 

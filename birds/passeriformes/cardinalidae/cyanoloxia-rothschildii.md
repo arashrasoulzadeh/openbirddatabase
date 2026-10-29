@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/cyanoloxia-rothschildii/1.jpg
+  page: https://www.inaturalist.org/photos/712533424
+  author: Emily Ali Mollo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712533424/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/cyanoloxia-rothschildii/1.jpg
+  page: https://www.inaturalist.org/photos/712533424
+  author: Emily Ali Mollo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712533424/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-rothschildii/2.jpg
+  page: https://www.inaturalist.org/photos/608460560
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608460560/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-rothschildii/3.jpg
+  page: https://www.inaturalist.org/photos/314810958
+  author: Gonzalo Ganda Álvarez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314810958/original.jpeg
+- file: images/passeriformes/cardinalidae/cyanoloxia-rothschildii/4.jpg
+  page: https://www.inaturalist.org/photos/429863032
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429863032/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-rothschildii/5.jpg
+  page: https://www.inaturalist.org/photos/9003890
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9003890/original.jpeg
 ---
 
 

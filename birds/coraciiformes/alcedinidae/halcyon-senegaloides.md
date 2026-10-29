@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/halcyon-senegaloides/1.jpg
+  page: https://www.inaturalist.org/photos/620808346
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620808346/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/halcyon-senegaloides/1.jpg
+  page: https://www.inaturalist.org/photos/620808346
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620808346/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-senegaloides/2.jpg
+  page: https://www.inaturalist.org/photos/706625404
+  author: Andreas De Beer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706625404/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-senegaloides/3.jpg
+  page: https://www.inaturalist.org/photos/581939741
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581939741/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-senegaloides/4.jpg
+  page: https://www.inaturalist.org/photos/593619639
+  author: Nicole Kearney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593619639/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-senegaloides/5.jpg
+  page: https://www.inaturalist.org/photos/610732740
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610732740/original.jpg
 ---
 
 

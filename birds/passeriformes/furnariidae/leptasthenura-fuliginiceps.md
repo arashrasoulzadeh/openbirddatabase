@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/leptasthenura-fuliginiceps/1.jpg
+  page: https://www.inaturalist.org/photos/621887007
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621887007/original.jpg
+images:
+- file: images/passeriformes/furnariidae/leptasthenura-fuliginiceps/1.jpg
+  page: https://www.inaturalist.org/photos/621887007
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621887007/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-fuliginiceps/2.jpg
+  page: https://www.inaturalist.org/photos/651544456
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651544456/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-fuliginiceps/3.jpg
+  page: https://www.inaturalist.org/photos/659627355
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659627355/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-fuliginiceps/4.jpg
+  page: https://www.inaturalist.org/photos/742187870
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742187870/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-fuliginiceps/5.jpg
+  page: https://www.inaturalist.org/photos/466858948
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466858948/original.jpg
 ---
 
 

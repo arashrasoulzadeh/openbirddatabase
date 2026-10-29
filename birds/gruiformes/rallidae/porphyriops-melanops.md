@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/porphyriops-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/606506770
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606506770/original.jpg
+images:
+- file: images/gruiformes/rallidae/porphyriops-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/606506770
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606506770/original.jpg
+- file: images/gruiformes/rallidae/porphyriops-melanops/2.jpg
+  page: https://www.inaturalist.org/photos/609362194
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609362194/original.jpg
+- file: images/gruiformes/rallidae/porphyriops-melanops/3.jpg
+  page: https://www.inaturalist.org/photos/614620009
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614620009/original.jpg
+- file: images/gruiformes/rallidae/porphyriops-melanops/4.jpg
+  page: https://www.inaturalist.org/photos/619962734
+  author: Rocío Esmeralda Pose
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619962734/original.jpg
+- file: images/gruiformes/rallidae/porphyriops-melanops/5.jpg
+  page: https://www.inaturalist.org/photos/634966828
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634966828/original.jpg
 ---
 
 

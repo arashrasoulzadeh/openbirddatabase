@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/musophagiformes/musophagidae/tauraco-livingstonii/1.jpg
+  page: https://www.inaturalist.org/photos/578052248
+  author: Maurice Hoffmann
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578052248/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-livingstonii/1.jpg
+  page: https://www.inaturalist.org/photos/578052248
+  author: Maurice Hoffmann
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578052248/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-livingstonii/2.jpg
+  page: https://www.inaturalist.org/photos/584159638
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584159638/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-livingstonii/3.jpg
+  page: https://www.inaturalist.org/photos/440724397
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440724397/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-livingstonii/4.jpg
+  page: https://www.inaturalist.org/photos/443795591
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443795591/original.jpeg
+- file: images/musophagiformes/musophagidae/tauraco-livingstonii/5.jpg
+  page: https://www.inaturalist.org/photos/305925649
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305925649/original.jpeg
 ---
 
 

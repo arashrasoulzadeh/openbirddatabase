@@ -134,7 +134,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.0
@@ -144,6 +145,20 @@ morphology:
   body_mass_g: 11.0
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/platysteiridae/platysteira-blissetti/1.jpg
+  page: https://www.inaturalist.org/photos/351245723
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351245723/original.png
+images:
+- file: images/passeriformes/platysteiridae/platysteira-blissetti/1.jpg
+  page: https://www.inaturalist.org/photos/351245723
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351245723/original.png
 ---
 
 

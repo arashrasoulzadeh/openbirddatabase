@@ -131,7 +131,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 152.2
@@ -139,6 +140,32 @@ morphology:
   wing_length_mm: 538.2
   tail_length_mm: 193.2
   body_mass_g: 4663.0
+image:
+  file: images/gruiformes/gruidae/antigone-vipio/1.jpg
+  page: https://www.inaturalist.org/photos/679273111
+  author: Поляков Александр
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679273111/original.jpg
+images:
+- file: images/gruiformes/gruidae/antigone-vipio/1.jpg
+  page: https://www.inaturalist.org/photos/679273111
+  author: Поляков Александр
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679273111/original.jpg
+- file: images/gruiformes/gruidae/antigone-vipio/2.jpg
+  page: https://www.inaturalist.org/photos/681425231
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681425231/original.jpg
+- file: images/gruiformes/gruidae/antigone-vipio/3.jpg
+  page: https://www.inaturalist.org/photos/692050239
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692050239/original.jpg
 ---
 
 

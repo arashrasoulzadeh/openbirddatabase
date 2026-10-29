@@ -131,8 +131,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/corvidae/coloeus-dauuricus/1.jpg
+  page: https://www.inaturalist.org/photos/604486438
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604486438/original.jpg
+images:
+- file: images/passeriformes/corvidae/coloeus-dauuricus/1.jpg
+  page: https://www.inaturalist.org/photos/604486438
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604486438/original.jpg
+- file: images/passeriformes/corvidae/coloeus-dauuricus/2.jpg
+  page: https://www.inaturalist.org/photos/635476777
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635476777/original.jpg
+- file: images/passeriformes/corvidae/coloeus-dauuricus/3.jpg
+  page: https://www.inaturalist.org/photos/679270826
+  author: Поляков Александр
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679270826/original.jpg
+- file: images/passeriformes/corvidae/coloeus-dauuricus/4.jpg
+  page: https://www.inaturalist.org/photos/687126220
+  author: Николай Гнездилов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687126220/original.jpg
+- file: images/passeriformes/corvidae/coloeus-dauuricus/5.jpg
+  page: https://www.inaturalist.org/photos/604486468
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604486468/original.jpg
 ---
 
 

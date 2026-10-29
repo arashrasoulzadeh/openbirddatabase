@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/anseriformes/anatidae/anas-bahamensis/1.jpg
+  page: https://www.inaturalist.org/photos/610574789
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574789/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-bahamensis/1.jpg
+  page: https://www.inaturalist.org/photos/610574789
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574789/original.jpg
+- file: images/anseriformes/anatidae/anas-bahamensis/2.jpg
+  page: https://www.inaturalist.org/photos/606810542
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606810542/original.jpg
+- file: images/anseriformes/anatidae/anas-bahamensis/3.jpg
+  page: https://www.inaturalist.org/photos/611687902
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611687902/original.jpg
+- file: images/anseriformes/anatidae/anas-bahamensis/4.jpg
+  page: https://www.inaturalist.org/photos/611318506
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611318506/original.jpg
+- file: images/anseriformes/anatidae/anas-bahamensis/5.jpg
+  page: https://www.inaturalist.org/photos/611486946
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611486946/original.jpg
 ---
 
 

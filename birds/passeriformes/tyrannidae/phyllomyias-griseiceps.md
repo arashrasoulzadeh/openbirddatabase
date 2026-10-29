@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/phyllomyias-griseiceps/1.jpg
+  page: https://www.inaturalist.org/photos/617290395
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617290395/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/phyllomyias-griseiceps/1.jpg
+  page: https://www.inaturalist.org/photos/617290395
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617290395/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-griseiceps/2.jpg
+  page: https://www.inaturalist.org/photos/532677427
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532677427/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-griseiceps/3.jpg
+  page: https://www.inaturalist.org/photos/506018430
+  author: Esteban Villa Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506018430/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-griseiceps/4.jpg
+  page: https://www.inaturalist.org/photos/465795534
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465795534/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-griseiceps/5.jpg
+  page: https://www.inaturalist.org/photos/285809336
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285809336/original.jpeg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sphenopsis-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/625833388
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625833388/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sphenopsis-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/625833388
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625833388/original.jpg
+- file: images/passeriformes/thraupidae/sphenopsis-melanotis/2.jpg
+  page: https://www.inaturalist.org/photos/489348021
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489348021/original.jpg
+- file: images/passeriformes/thraupidae/sphenopsis-melanotis/3.jpg
+  page: https://www.inaturalist.org/photos/532561603
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532561603/original.jpg
+- file: images/passeriformes/thraupidae/sphenopsis-melanotis/4.jpg
+  page: https://www.inaturalist.org/photos/617223383
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617223383/original.jpg
+- file: images/passeriformes/thraupidae/sphenopsis-melanotis/5.jpg
+  page: https://www.inaturalist.org/photos/361090685
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361090685/original.jpg
 ---
 
 

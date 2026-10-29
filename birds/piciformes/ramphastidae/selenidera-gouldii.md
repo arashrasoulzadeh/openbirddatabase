@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/selenidera-gouldii/1.jpg
+  page: https://www.inaturalist.org/photos/524710102
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524710102/original.jpg
+images:
+- file: images/piciformes/ramphastidae/selenidera-gouldii/1.jpg
+  page: https://www.inaturalist.org/photos/524710102
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524710102/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-gouldii/2.jpg
+  page: https://www.inaturalist.org/photos/361058719
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361058719/original.jpeg
+- file: images/piciformes/ramphastidae/selenidera-gouldii/3.jpg
+  page: https://www.inaturalist.org/photos/402072794
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402072794/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-gouldii/4.jpg
+  page: https://www.inaturalist.org/photos/443550904
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443550904/original.jpeg
+- file: images/piciformes/ramphastidae/selenidera-gouldii/5.jpg
+  page: https://www.inaturalist.org/photos/464737435
+  author: Salomão Janderson Ferreira Bispo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464737435/original.jpg
 ---
 
 

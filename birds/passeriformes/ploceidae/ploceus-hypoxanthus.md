@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-hypoxanthus/1.jpg
+  page: https://www.inaturalist.org/photos/621700942
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621700942/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-hypoxanthus/1.jpg
+  page: https://www.inaturalist.org/photos/621700942
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621700942/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-hypoxanthus/2.jpg
+  page: https://www.inaturalist.org/photos/621720434
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621720434/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-hypoxanthus/3.jpg
+  page: https://www.inaturalist.org/photos/630476414
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630476414/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-hypoxanthus/4.jpg
+  page: https://www.inaturalist.org/photos/621701686
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621701686/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-hypoxanthus/5.jpg
+  page: https://www.inaturalist.org/photos/621701929
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621701929/original.jpg
 ---
 
 

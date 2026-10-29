@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/hydrornis-baudii/1.jpg
+  page: https://www.inaturalist.org/photos/619390711
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619390711/original.jpg
+images:
+- file: images/passeriformes/pittidae/hydrornis-baudii/1.jpg
+  page: https://www.inaturalist.org/photos/619390711
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619390711/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-baudii/2.jpg
+  page: https://www.inaturalist.org/photos/577287873
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577287873/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-baudii/3.jpg
+  page: https://www.inaturalist.org/photos/455380240
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455380240/original.jpeg
+- file: images/passeriformes/pittidae/hydrornis-baudii/4.jpg
+  page: https://www.inaturalist.org/photos/251927694
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251927694/original.jpeg
+- file: images/passeriformes/pittidae/hydrornis-baudii/5.jpg
+  page: https://www.inaturalist.org/photos/183422082
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/183422082/original.jpg
 ---
 
 

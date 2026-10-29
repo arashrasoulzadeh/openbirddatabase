@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/tricholestes-criniger/1.jpg
+  page: https://www.inaturalist.org/photos/606878584
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606878584/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/tricholestes-criniger/1.jpg
+  page: https://www.inaturalist.org/photos/606878584
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606878584/original.jpg
+- file: images/passeriformes/pycnonotidae/tricholestes-criniger/2.jpg
+  page: https://www.inaturalist.org/photos/571653362
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571653362/original.jpg
+- file: images/passeriformes/pycnonotidae/tricholestes-criniger/3.jpg
+  page: https://www.inaturalist.org/photos/606878532
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606878532/original.jpg
+- file: images/passeriformes/pycnonotidae/tricholestes-criniger/4.jpg
+  page: https://www.inaturalist.org/photos/682472793
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682472793/original.jpg
+- file: images/passeriformes/pycnonotidae/tricholestes-criniger/5.jpg
+  page: https://www.inaturalist.org/photos/571363117
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571363117/original.jpg
 ---
 
 

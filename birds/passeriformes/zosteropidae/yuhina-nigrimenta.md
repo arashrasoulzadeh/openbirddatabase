@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/yuhina-nigrimenta/1.jpg
+  page: https://www.inaturalist.org/photos/616554861
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616554861/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/yuhina-nigrimenta/1.jpg
+  page: https://www.inaturalist.org/photos/616554861
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616554861/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-nigrimenta/2.jpg
+  page: https://www.inaturalist.org/photos/471315567
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471315567/original.jpeg
+- file: images/passeriformes/zosteropidae/yuhina-nigrimenta/3.jpg
+  page: https://www.inaturalist.org/photos/481784284
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481784284/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-nigrimenta/4.jpg
+  page: https://www.inaturalist.org/photos/518670424
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518670424/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-nigrimenta/5.jpg
+  page: https://www.inaturalist.org/photos/568077876
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568077876/original.jpg
 ---
 
 

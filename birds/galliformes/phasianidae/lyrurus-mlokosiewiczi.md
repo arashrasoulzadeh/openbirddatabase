@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lyrurus-mlokosiewiczi/1.jpg
+  page: https://www.inaturalist.org/photos/693402224
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693402224/original.jpg
+images:
+- file: images/galliformes/phasianidae/lyrurus-mlokosiewiczi/1.jpg
+  page: https://www.inaturalist.org/photos/693402224
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693402224/original.jpg
+- file: images/galliformes/phasianidae/lyrurus-mlokosiewiczi/2.jpg
+  page: https://www.inaturalist.org/photos/692964383
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692964383/original.jpg
+- file: images/galliformes/phasianidae/lyrurus-mlokosiewiczi/3.jpg
+  page: https://www.inaturalist.org/photos/553025823
+  author: GD
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553025823/original.jpg
+- file: images/galliformes/phasianidae/lyrurus-mlokosiewiczi/4.jpg
+  page: https://www.inaturalist.org/photos/59719024
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59719024/original.jpeg
+- file: images/galliformes/phasianidae/lyrurus-mlokosiewiczi/5.jpg
+  page: https://www.inaturalist.org/photos/104723198
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104723198/original.jpeg
 ---
 
 

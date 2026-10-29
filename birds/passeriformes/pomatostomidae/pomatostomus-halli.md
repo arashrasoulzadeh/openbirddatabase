@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pomatostomidae/pomatostomus-halli/1.jpg
+  page: https://www.inaturalist.org/photos/737212230
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737212230/original.jpg
+images:
+- file: images/passeriformes/pomatostomidae/pomatostomus-halli/1.jpg
+  page: https://www.inaturalist.org/photos/737212230
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737212230/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-halli/2.jpg
+  page: https://www.inaturalist.org/photos/743570030
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743570030/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-halli/3.jpg
+  page: https://www.inaturalist.org/photos/589151465
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589151465/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-halli/4.jpg
+  page: https://www.inaturalist.org/photos/378843214
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378843214/original.jpg
+- file: images/passeriformes/pomatostomidae/pomatostomus-halli/5.jpg
+  page: https://www.inaturalist.org/photos/743581426
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743581426/original.jpg
 ---
 
 

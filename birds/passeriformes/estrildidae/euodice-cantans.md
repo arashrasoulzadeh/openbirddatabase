@@ -173,10 +173,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/estrildidae/euodice-cantans/1.jpg
+  page: https://www.inaturalist.org/photos/614231578
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231578/original.jpg
+images:
+- file: images/passeriformes/estrildidae/euodice-cantans/1.jpg
+  page: https://www.inaturalist.org/photos/614231578
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231578/original.jpg
+- file: images/passeriformes/estrildidae/euodice-cantans/2.jpg
+  page: https://www.inaturalist.org/photos/716700678
+  author: Philipp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716700678/original.jpg
+- file: images/passeriformes/estrildidae/euodice-cantans/3.jpg
+  page: https://www.inaturalist.org/photos/619887421
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619887421/original.jpg
+- file: images/passeriformes/estrildidae/euodice-cantans/4.jpg
+  page: https://www.inaturalist.org/photos/631934114
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631934114/original.jpg
+- file: images/passeriformes/estrildidae/euodice-cantans/5.jpg
+  page: https://www.inaturalist.org/photos/623313247
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623313247/original.jpg
 ---
 
 

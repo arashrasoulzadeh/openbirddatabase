@@ -140,7 +140,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 34.0
@@ -150,6 +151,20 @@ morphology:
   body_mass_g: 403.3
 demography:
   max_longevity_years: 34
+image:
+  file: images/strigiformes/tytonidae/tyto-deroepstorffi/1.jpg
+  page: https://www.inaturalist.org/photos/338551362
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338551362/original.jpeg
+images:
+- file: images/strigiformes/tytonidae/tyto-deroepstorffi/1.jpg
+  page: https://www.inaturalist.org/photos/338551362
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338551362/original.jpeg
 ---
 
 

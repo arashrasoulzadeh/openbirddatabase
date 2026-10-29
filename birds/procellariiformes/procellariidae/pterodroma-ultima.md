@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-ultima/1.jpg
+  page: https://www.inaturalist.org/photos/644477610
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644477610/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-ultima/1.jpg
+  page: https://www.inaturalist.org/photos/644477610
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644477610/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-ultima/2.jpg
+  page: https://www.inaturalist.org/photos/649030974
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649030974/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-ultima/3.jpg
+  page: https://www.inaturalist.org/photos/651049188
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651049188/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-ultima/4.jpg
+  page: https://www.inaturalist.org/photos/670520995
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670520995/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-ultima/5.jpg
+  page: https://www.inaturalist.org/photos/242377029
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242377029/original.jpeg
 ---
 
 

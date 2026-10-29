@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/phlegopsis-nigromaculata/1.jpg
+  page: https://www.inaturalist.org/photos/402012718
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402012718/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/phlegopsis-nigromaculata/1.jpg
+  page: https://www.inaturalist.org/photos/402012718
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402012718/original.jpg
+- file: images/passeriformes/thamnophilidae/phlegopsis-nigromaculata/2.jpg
+  page: https://www.inaturalist.org/photos/424652610
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424652610/original.jpeg
+- file: images/passeriformes/thamnophilidae/phlegopsis-nigromaculata/3.jpg
+  page: https://www.inaturalist.org/photos/267962619
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267962619/original.jpeg
+- file: images/passeriformes/thamnophilidae/phlegopsis-nigromaculata/4.jpg
+  page: https://www.inaturalist.org/photos/298111613
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298111613/original.jpg
+- file: images/passeriformes/thamnophilidae/phlegopsis-nigromaculata/5.jpg
+  page: https://www.inaturalist.org/photos/50788510
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50788510/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/cypseloides-senex/1.jpg
+  page: https://www.inaturalist.org/photos/735144429
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735144429/original.jpg
+images:
+- file: images/apodiformes/apodidae/cypseloides-senex/1.jpg
+  page: https://www.inaturalist.org/photos/735144429
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735144429/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-senex/2.jpg
+  page: https://www.inaturalist.org/photos/509701602
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509701602/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-senex/3.jpg
+  page: https://www.inaturalist.org/photos/524133419
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524133419/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-senex/4.jpg
+  page: https://www.inaturalist.org/photos/538227597
+  author: Martín Acosta Albarracín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538227597/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-senex/5.jpg
+  page: https://www.inaturalist.org/photos/558072144
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558072144/original.jpg
 ---
 
 

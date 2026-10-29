@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-consanguineus/1.jpg
+  page: https://www.inaturalist.org/photos/616152163
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152163/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-consanguineus/1.jpg
+  page: https://www.inaturalist.org/photos/616152163
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152163/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-consanguineus/2.jpg
+  page: https://www.inaturalist.org/photos/629579822
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579822/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-consanguineus/3.jpg
+  page: https://www.inaturalist.org/photos/534979428
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534979428/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-consanguineus/4.jpg
+  page: https://www.inaturalist.org/photos/593936724
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593936724/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-consanguineus/5.jpg
+  page: https://www.inaturalist.org/photos/587747026
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587747026/original.jpg
 ---
 
 

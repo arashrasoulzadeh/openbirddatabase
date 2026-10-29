@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sterna-acuticauda/1.jpg
+  page: https://www.inaturalist.org/photos/623126903
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623126903/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-acuticauda/1.jpg
+  page: https://www.inaturalist.org/photos/623126903
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623126903/original.jpg
+- file: images/charadriiformes/laridae/sterna-acuticauda/2.jpg
+  page: https://www.inaturalist.org/photos/260890293
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260890293/original.jpg
+- file: images/charadriiformes/laridae/sterna-acuticauda/3.jpg
+  page: https://www.inaturalist.org/photos/53052116
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53052116/original.jpeg
+- file: images/charadriiformes/laridae/sterna-acuticauda/4.jpg
+  page: https://www.inaturalist.org/photos/41026833
+  author: Vijay Vanaparthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/41026833/original.jpg
+- file: images/charadriiformes/laridae/sterna-acuticauda/5.jpg
+  page: https://www.inaturalist.org/photos/112332056
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/112332056/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-chrysochloros/1.jpg
+  page: https://www.inaturalist.org/photos/610238902
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610238902/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-chrysochloros/1.jpg
+  page: https://www.inaturalist.org/photos/610238902
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610238902/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-chrysochloros/2.jpg
+  page: https://www.inaturalist.org/photos/606512971
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606512971/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-chrysochloros/3.jpg
+  page: https://www.inaturalist.org/photos/611082790
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611082790/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-chrysochloros/4.jpg
+  page: https://www.inaturalist.org/photos/613763308
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613763308/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-chrysochloros/5.jpg
+  page: https://www.inaturalist.org/photos/612897277
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612897277/original.jpg
 ---
 
 

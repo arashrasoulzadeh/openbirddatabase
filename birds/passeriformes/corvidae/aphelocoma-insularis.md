@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/corvidae/aphelocoma-insularis/1.jpg
+  page: https://www.inaturalist.org/photos/735244524
+  author: Matt Berger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735244524/original.jpg
+images:
+- file: images/passeriformes/corvidae/aphelocoma-insularis/1.jpg
+  page: https://www.inaturalist.org/photos/735244524
+  author: Matt Berger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735244524/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-insularis/2.jpg
+  page: https://www.inaturalist.org/photos/629460340
+  author: Ben Sims
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629460340/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-insularis/3.jpg
+  page: https://www.inaturalist.org/photos/631419022
+  author: Jess Mullins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631419022/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-insularis/4.jpg
+  page: https://www.inaturalist.org/photos/658367276
+  author: Newt Wheeler
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658367276/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-insularis/5.jpg
+  page: https://www.inaturalist.org/photos/686584917
+  author: mel letterman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686584917/original.jpg
 ---
 
 

@@ -236,10 +236,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/passeriformes/muscicapidae/erithacus-rubecula/1.jpg
+  page: https://www.inaturalist.org/photos/604735137
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604735137/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/erithacus-rubecula/1.jpg
+  page: https://www.inaturalist.org/photos/604735137
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604735137/original.jpg
+- file: images/passeriformes/muscicapidae/erithacus-rubecula/2.jpg
+  page: https://www.inaturalist.org/photos/604867203
+  author: Susan Marley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604867203/original.jpg
+- file: images/passeriformes/muscicapidae/erithacus-rubecula/3.jpg
+  page: https://www.inaturalist.org/photos/605417588
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417588/original.jpg
+- file: images/passeriformes/muscicapidae/erithacus-rubecula/4.jpg
+  page: https://www.inaturalist.org/photos/605616738
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605616738/original.jpg
+- file: images/passeriformes/muscicapidae/erithacus-rubecula/5.jpg
+  page: https://www.inaturalist.org/photos/604457652
+  author: Becky Hamilton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604457652/original.jpg
 ---
 
 

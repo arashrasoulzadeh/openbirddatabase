@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/loxigilla-noctis/1.jpg
+  page: https://www.inaturalist.org/photos/607425481
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607425481/original.jpg
+images:
+- file: images/passeriformes/thraupidae/loxigilla-noctis/1.jpg
+  page: https://www.inaturalist.org/photos/607425481
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607425481/original.jpg
+- file: images/passeriformes/thraupidae/loxigilla-noctis/2.jpg
+  page: https://www.inaturalist.org/photos/608465856
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608465856/original.jpg
+- file: images/passeriformes/thraupidae/loxigilla-noctis/3.jpg
+  page: https://www.inaturalist.org/photos/615117288
+  author: Quentin Groom
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615117288/original.jpg
+- file: images/passeriformes/thraupidae/loxigilla-noctis/4.jpg
+  page: https://www.inaturalist.org/photos/607425544
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607425544/original.jpg
+- file: images/passeriformes/thraupidae/loxigilla-noctis/5.jpg
+  page: https://www.inaturalist.org/photos/609065385
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609065385/original.jpg
 ---
 
 

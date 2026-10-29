@@ -131,8 +131,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-siquijorensis/1.jpg
+  page: https://www.inaturalist.org/photos/264806245
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264806245/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-siquijorensis/1.jpg
+  page: https://www.inaturalist.org/photos/264806245
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264806245/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-siquijorensis/2.jpg
+  page: https://www.inaturalist.org/photos/264806268
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264806268/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-siquijorensis/3.jpg
+  page: https://www.inaturalist.org/photos/198782384
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782384/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-siquijorensis/4.jpg
+  page: https://www.inaturalist.org/photos/198782399
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782399/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-siquijorensis/5.jpg
+  page: https://www.inaturalist.org/photos/198782416
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782416/original.jpg
 ---
 
 

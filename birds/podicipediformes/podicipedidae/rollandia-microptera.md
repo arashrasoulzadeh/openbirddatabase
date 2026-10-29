@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/rollandia-microptera/1.jpg
+  page: https://www.inaturalist.org/photos/676386260
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676386260/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/rollandia-microptera/1.jpg
+  page: https://www.inaturalist.org/photos/676386260
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676386260/original.jpg
+- file: images/podicipediformes/podicipedidae/rollandia-microptera/2.jpg
+  page: https://www.inaturalist.org/photos/564168956
+  author: Lio Torrez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564168956/original.jpg
+- file: images/podicipediformes/podicipedidae/rollandia-microptera/3.jpg
+  page: https://www.inaturalist.org/photos/473975324
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473975324/original.jpeg
+- file: images/podicipediformes/podicipedidae/rollandia-microptera/4.jpg
+  page: https://www.inaturalist.org/photos/537569359
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537569359/original.jpg
+- file: images/podicipediformes/podicipedidae/rollandia-microptera/5.jpg
+  page: https://www.inaturalist.org/photos/602750943
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602750943/original.jpg
 ---
 
 

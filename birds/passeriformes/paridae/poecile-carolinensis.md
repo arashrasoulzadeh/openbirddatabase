@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/paridae/poecile-carolinensis/1.jpg
+  page: https://www.inaturalist.org/photos/605633185
+  author: Shannon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605633185/original.jpg
+images:
+- file: images/passeriformes/paridae/poecile-carolinensis/1.jpg
+  page: https://www.inaturalist.org/photos/605633185
+  author: Shannon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605633185/original.jpg
+- file: images/passeriformes/paridae/poecile-carolinensis/2.jpg
+  page: https://www.inaturalist.org/photos/605352619
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605352619/original.jpg
+- file: images/passeriformes/paridae/poecile-carolinensis/3.jpg
+  page: https://www.inaturalist.org/photos/605475553
+  author: John Thomlinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605475553/original.jpg
+- file: images/passeriformes/paridae/poecile-carolinensis/4.jpg
+  page: https://www.inaturalist.org/photos/604858415
+  author: Sam Kieschnick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604858415/original.jpg
+- file: images/passeriformes/paridae/poecile-carolinensis/5.jpg
+  page: https://www.inaturalist.org/photos/605463882
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463882/original.jpg
 ---
 
 

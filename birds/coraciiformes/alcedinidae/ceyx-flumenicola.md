@@ -139,8 +139,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ceyx-flumenicola/1.jpg
+  page: https://www.inaturalist.org/photos/652607579
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652607579/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceyx-flumenicola/1.jpg
+  page: https://www.inaturalist.org/photos/652607579
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652607579/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-flumenicola/2.jpg
+  page: https://www.inaturalist.org/photos/490414257
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490414257/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-flumenicola/3.jpg
+  page: https://www.inaturalist.org/photos/263836919
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263836919/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-flumenicola/4.jpg
+  page: https://www.inaturalist.org/photos/490414217
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490414217/original.jpg
 ---
 
 

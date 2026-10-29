@@ -141,8 +141,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/surniculus-musschenbroeki/1.jpg
+  page: https://www.inaturalist.org/photos/574972576
+  author: Z.Ali Akbar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574972576/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/surniculus-musschenbroeki/1.jpg
+  page: https://www.inaturalist.org/photos/574972576
+  author: Z.Ali Akbar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574972576/original.jpg
+- file: images/cuculiformes/cuculidae/surniculus-musschenbroeki/2.jpg
+  page: https://www.inaturalist.org/photos/380476216
+  author: Jesse Long
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380476216/original.jpg
 ---
 
 

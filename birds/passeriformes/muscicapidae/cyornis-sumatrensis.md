@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-sumatrensis/1.jpg
+  page: https://www.inaturalist.org/photos/608191654
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608191654/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-sumatrensis/1.jpg
+  page: https://www.inaturalist.org/photos/608191654
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608191654/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-sumatrensis/2.jpg
+  page: https://www.inaturalist.org/photos/609151022
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609151022/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-sumatrensis/3.jpg
+  page: https://www.inaturalist.org/photos/610599326
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610599326/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-sumatrensis/4.jpg
+  page: https://www.inaturalist.org/photos/608898384
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608898384/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-sumatrensis/5.jpg
+  page: https://www.inaturalist.org/photos/611664937
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611664937/original.jpg
 ---
 
 

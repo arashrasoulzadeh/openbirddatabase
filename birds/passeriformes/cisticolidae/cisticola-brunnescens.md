@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-brunnescens/1.jpg
+  page: https://www.inaturalist.org/photos/684116755
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684116755/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-brunnescens/1.jpg
+  page: https://www.inaturalist.org/photos/684116755
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684116755/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-brunnescens/2.jpg
+  page: https://www.inaturalist.org/photos/659401749
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659401749/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-brunnescens/3.jpg
+  page: https://www.inaturalist.org/photos/513576328
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513576328/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-brunnescens/4.jpg
+  page: https://www.inaturalist.org/photos/465776512
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465776512/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-brunnescens/5.jpg
+  page: https://www.inaturalist.org/photos/255840250
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255840250/original.jpeg
 ---
 
 

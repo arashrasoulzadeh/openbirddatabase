@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scelorchilus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605210887
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210887/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scelorchilus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605210887
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210887/original.jpg
+- file: images/passeriformes/rhinocryptidae/scelorchilus-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/685416134
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685416134/original.jpg
+- file: images/passeriformes/rhinocryptidae/scelorchilus-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/644335651
+  author: Daniel Nuñez Michea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644335651/original.jpg
+- file: images/passeriformes/rhinocryptidae/scelorchilus-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/527826964
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527826964/original.jpg
+- file: images/passeriformes/rhinocryptidae/scelorchilus-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/715908208
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715908208/original.jpg
 ---
 
 

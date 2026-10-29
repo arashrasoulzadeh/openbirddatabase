@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/neomixis-tenella/1.jpg
+  page: https://www.inaturalist.org/photos/691299581
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691299581/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/neomixis-tenella/1.jpg
+  page: https://www.inaturalist.org/photos/691299581
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691299581/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-tenella/2.jpg
+  page: https://www.inaturalist.org/photos/565547778
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565547778/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-tenella/3.jpg
+  page: https://www.inaturalist.org/photos/551750896
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551750896/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-tenella/4.jpg
+  page: https://www.inaturalist.org/photos/452253035
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452253035/original.jpg
+- file: images/passeriformes/cisticolidae/neomixis-tenella/5.jpg
+  page: https://www.inaturalist.org/photos/444544386
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444544386/original.jpeg
 ---
 
 

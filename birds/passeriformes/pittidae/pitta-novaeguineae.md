@@ -137,8 +137,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/pitta-novaeguineae/1.jpg
+  page: https://www.inaturalist.org/photos/610157967
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610157967/original.jpg
+images:
+- file: images/passeriformes/pittidae/pitta-novaeguineae/1.jpg
+  page: https://www.inaturalist.org/photos/610157967
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610157967/original.jpg
+- file: images/passeriformes/pittidae/pitta-novaeguineae/2.jpg
+  page: https://www.inaturalist.org/photos/586737189
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586737189/original.jpg
+- file: images/passeriformes/pittidae/pitta-novaeguineae/3.jpg
+  page: https://www.inaturalist.org/photos/618376271
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618376271/original.jpg
+- file: images/passeriformes/pittidae/pitta-novaeguineae/4.jpg
+  page: https://www.inaturalist.org/photos/586737341
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586737341/original.jpg
+- file: images/passeriformes/pittidae/pitta-novaeguineae/5.jpg
+  page: https://www.inaturalist.org/photos/586737302
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586737302/original.jpg
 ---
 
 

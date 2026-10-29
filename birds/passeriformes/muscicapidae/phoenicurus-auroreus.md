@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/phoenicurus-auroreus/1.jpg
+  page: https://www.inaturalist.org/photos/604944456
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604944456/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/phoenicurus-auroreus/1.jpg
+  page: https://www.inaturalist.org/photos/604944456
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604944456/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-auroreus/2.jpg
+  page: https://www.inaturalist.org/photos/604442878
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604442878/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-auroreus/3.jpg
+  page: https://www.inaturalist.org/photos/605626530
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605626530/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-auroreus/4.jpg
+  page: https://www.inaturalist.org/photos/604395514
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604395514/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-auroreus/5.jpg
+  page: https://www.inaturalist.org/photos/606609214
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606609214/original.jpg
 ---
 
 

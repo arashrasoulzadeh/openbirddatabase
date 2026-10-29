@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/passerellidae/passerculus-sandwichensis/1.jpg
+  page: https://www.inaturalist.org/photos/605379337
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605379337/original.jpg
+images:
+- file: images/passeriformes/passerellidae/passerculus-sandwichensis/1.jpg
+  page: https://www.inaturalist.org/photos/605379337
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605379337/original.jpg
+- file: images/passeriformes/passerellidae/passerculus-sandwichensis/2.jpg
+  page: https://www.inaturalist.org/photos/605463737
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463737/original.jpg
+- file: images/passeriformes/passerellidae/passerculus-sandwichensis/3.jpg
+  page: https://www.inaturalist.org/photos/605161585
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605161585/original.jpg
+- file: images/passeriformes/passerellidae/passerculus-sandwichensis/4.jpg
+  page: https://www.inaturalist.org/photos/605383347
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383347/original.jpg
+- file: images/passeriformes/passerellidae/passerculus-sandwichensis/5.jpg
+  page: https://www.inaturalist.org/photos/605514781
+  author: CH Hemphill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605514781/original.jpg
 ---
 
 

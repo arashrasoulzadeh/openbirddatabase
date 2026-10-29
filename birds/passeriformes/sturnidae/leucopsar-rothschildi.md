@@ -148,10 +148,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/passeriformes/sturnidae/leucopsar-rothschildi/1.jpg
+  page: https://www.inaturalist.org/photos/636342293
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636342293/original.jpg
+images:
+- file: images/passeriformes/sturnidae/leucopsar-rothschildi/1.jpg
+  page: https://www.inaturalist.org/photos/636342293
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636342293/original.jpg
+- file: images/passeriformes/sturnidae/leucopsar-rothschildi/2.jpg
+  page: https://www.inaturalist.org/photos/642757217
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642757217/original.jpg
+- file: images/passeriformes/sturnidae/leucopsar-rothschildi/3.jpg
+  page: https://www.inaturalist.org/photos/498113462
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498113462/original.jpg
+- file: images/passeriformes/sturnidae/leucopsar-rothschildi/4.jpg
+  page: https://www.flickr.com/photos/berniedup/54621576532/
+  author: Bernard DUPONT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528952221/original.jpg
+- file: images/passeriformes/sturnidae/leucopsar-rothschildi/5.jpg
+  page: https://www.inaturalist.org/photos/543120915
+  author: Adam Mark Lucas-Krol
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543120915/original.jpg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/formicariidae/formicarius-analis/1.jpg
+  page: https://www.inaturalist.org/photos/616963455
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616963455/original.jpg
+images:
+- file: images/passeriformes/formicariidae/formicarius-analis/1.jpg
+  page: https://www.inaturalist.org/photos/616963455
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616963455/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-analis/2.jpg
+  page: https://www.inaturalist.org/photos/570729080
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570729080/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-analis/3.jpg
+  page: https://www.inaturalist.org/photos/582574573
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582574573/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-analis/4.jpg
+  page: https://www.inaturalist.org/photos/591636971
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636971/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-analis/5.jpg
+  page: https://www.inaturalist.org/photos/603815340
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603815340/original.jpg
 ---
 
 

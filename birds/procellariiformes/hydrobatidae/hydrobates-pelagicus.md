@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-pelagicus/1.jpg
+  page: https://www.inaturalist.org/photos/659031874
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659031874/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-pelagicus/1.jpg
+  page: https://www.inaturalist.org/photos/659031874
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659031874/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-pelagicus/2.jpg
+  page: https://www.inaturalist.org/photos/668890182
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668890182/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-pelagicus/3.jpg
+  page: https://www.inaturalist.org/photos/692124494
+  author: Steven Fyffe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692124494/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-pelagicus/4.jpg
+  page: https://www.inaturalist.org/photos/676176405
+  author: Oscar Hazell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676176405/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-pelagicus/5.jpg
+  page: https://www.inaturalist.org/photos/702665519
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702665519/original.jpg
 ---
 
 

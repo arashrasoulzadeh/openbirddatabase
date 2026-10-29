@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/rhynchocyclus-pacificus/1.jpg
+  page: https://www.inaturalist.org/photos/461437532
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461437532/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/rhynchocyclus-pacificus/1.jpg
+  page: https://www.inaturalist.org/photos/461437532
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461437532/original.jpeg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-pacificus/2.jpg
+  page: https://www.inaturalist.org/photos/474662173
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474662173/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-pacificus/3.jpg
+  page: https://www.inaturalist.org/photos/351653902
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351653902/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-pacificus/4.jpg
+  page: https://www.inaturalist.org/photos/104821082
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104821082/original.jpeg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-pacificus/5.jpg
+  page: https://www.inaturalist.org/photos/474662198
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474662198/original.jpg
 ---
 
 

@@ -135,7 +135,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 36.6
@@ -145,6 +146,44 @@ morphology:
   body_mass_g: 457.9
 reproduction:
   clutch_size_mean: 1.4
+image:
+  file: images/strigiformes/strigidae/strix-nigrolineata/1.jpg
+  page: https://www.inaturalist.org/photos/606763888
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606763888/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-nigrolineata/1.jpg
+  page: https://www.inaturalist.org/photos/606763888
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606763888/original.jpg
+- file: images/strigiformes/strigidae/strix-nigrolineata/2.jpg
+  page: https://www.inaturalist.org/photos/606792637
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606792637/original.jpg
+- file: images/strigiformes/strigidae/strix-nigrolineata/3.jpg
+  page: https://www.inaturalist.org/photos/606783729
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606783729/original.jpg
+- file: images/strigiformes/strigidae/strix-nigrolineata/4.jpg
+  page: https://www.inaturalist.org/photos/625730244
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625730244/original.jpg
+- file: images/strigiformes/strigidae/strix-nigrolineata/5.jpg
+  page: https://www.inaturalist.org/photos/615321848
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615321848/original.jpg
 ---
 
 

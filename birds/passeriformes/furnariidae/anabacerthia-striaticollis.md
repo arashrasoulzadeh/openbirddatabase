@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/anabacerthia-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/601332540
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601332540/original.jpg
+images:
+- file: images/passeriformes/furnariidae/anabacerthia-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/601332540
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601332540/original.jpg
+- file: images/passeriformes/furnariidae/anabacerthia-striaticollis/2.jpg
+  page: https://www.inaturalist.org/photos/497096386
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497096386/original.jpeg
+- file: images/passeriformes/furnariidae/anabacerthia-striaticollis/3.jpg
+  page: https://www.inaturalist.org/photos/591313695
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591313695/original.jpg
+- file: images/passeriformes/furnariidae/anabacerthia-striaticollis/4.jpg
+  page: https://www.inaturalist.org/photos/454906622
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454906622/original.jpeg
+- file: images/passeriformes/furnariidae/anabacerthia-striaticollis/5.jpg
+  page: https://www.inaturalist.org/photos/255933752
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255933752/original.jpeg
 ---
 
 

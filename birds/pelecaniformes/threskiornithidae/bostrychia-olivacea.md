@@ -146,8 +146,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/threskiornithidae/bostrychia-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/664842270
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664842270/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/bostrychia-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/664842270
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664842270/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-olivacea/2.jpg
+  page: https://www.inaturalist.org/photos/465929680
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465929680/original.jpeg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-olivacea/3.jpg
+  page: https://www.inaturalist.org/photos/664842274
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664842274/original.jpg
+- file: images/pelecaniformes/threskiornithidae/bostrychia-olivacea/4.jpg
+  page: https://www.inaturalist.org/photos/465929687
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465929687/original.jpeg
 ---
 
 

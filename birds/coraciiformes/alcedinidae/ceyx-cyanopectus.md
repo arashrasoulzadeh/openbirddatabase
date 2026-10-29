@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ceyx-cyanopectus/1.jpg
+  page: https://www.inaturalist.org/photos/627276287
+  author: J. H.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627276287/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceyx-cyanopectus/1.jpg
+  page: https://www.inaturalist.org/photos/627276287
+  author: J. H.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627276287/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-cyanopectus/2.jpg
+  page: https://www.inaturalist.org/photos/638251962
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638251962/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-cyanopectus/3.jpg
+  page: https://www.inaturalist.org/photos/37295765
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/37295765/original.jpeg
+- file: images/coraciiformes/alcedinidae/ceyx-cyanopectus/4.jpg
+  page: https://www.inaturalist.org/photos/627276302
+  author: J. H.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627276302/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-cyanopectus/5.jpg
+  page: https://www.inaturalist.org/photos/627276328
+  author: J. H.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627276328/original.jpg
 ---
 
 

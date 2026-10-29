@@ -144,8 +144,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/opisthoprora-euryptera/1.jpg
+  page: https://www.inaturalist.org/photos/476873713
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476873713/original.jpg
+images:
+- file: images/apodiformes/trochilidae/opisthoprora-euryptera/1.jpg
+  page: https://www.inaturalist.org/photos/476873713
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476873713/original.jpg
+- file: images/apodiformes/trochilidae/opisthoprora-euryptera/2.jpg
+  page: https://www.inaturalist.org/photos/10329140
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/10329140/original.jpeg
+- file: images/apodiformes/trochilidae/opisthoprora-euryptera/3.jpg
+  page: https://www.inaturalist.org/photos/476875010
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476875010/original.jpg
+- file: images/apodiformes/trochilidae/opisthoprora-euryptera/4.jpg
+  page: https://www.inaturalist.org/photos/10329158
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/10329158/original.jpeg
 ---
 
 

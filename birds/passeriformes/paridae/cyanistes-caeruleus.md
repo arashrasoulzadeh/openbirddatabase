@@ -235,10 +235,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/paridae/cyanistes-caeruleus/1.jpg
+  page: https://www.inaturalist.org/photos/605616752
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605616752/original.jpg
+images:
+- file: images/passeriformes/paridae/cyanistes-caeruleus/1.jpg
+  page: https://www.inaturalist.org/photos/605616752
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605616752/original.jpg
+- file: images/passeriformes/paridae/cyanistes-caeruleus/2.jpg
+  page: https://www.inaturalist.org/photos/604694146
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604694146/original.jpg
+- file: images/passeriformes/paridae/cyanistes-caeruleus/3.jpg
+  page: https://www.inaturalist.org/photos/604568786
+  author: S. Menéndez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604568786/original.jpg
+- file: images/passeriformes/paridae/cyanistes-caeruleus/4.jpg
+  page: https://www.inaturalist.org/photos/605316506
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605316506/original.jpg
+- file: images/passeriformes/paridae/cyanistes-caeruleus/5.jpg
+  page: https://www.inaturalist.org/photos/604459175
+  author: Sara Scorey
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604459175/original.jpg
 ---
 
 

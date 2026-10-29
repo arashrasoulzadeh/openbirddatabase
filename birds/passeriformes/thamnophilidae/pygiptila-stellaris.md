@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/pygiptila-stellaris/1.jpg
+  page: https://www.inaturalist.org/photos/511149721
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511149721/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/pygiptila-stellaris/1.jpg
+  page: https://www.inaturalist.org/photos/511149721
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511149721/original.jpg
+- file: images/passeriformes/thamnophilidae/pygiptila-stellaris/2.jpg
+  page: https://www.inaturalist.org/photos/351247287
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351247287/original.jpeg
+- file: images/passeriformes/thamnophilidae/pygiptila-stellaris/3.jpg
+  page: https://www.inaturalist.org/photos/441955786
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441955786/original.jpg
+- file: images/passeriformes/thamnophilidae/pygiptila-stellaris/4.jpg
+  page: https://www.inaturalist.org/photos/417879388
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417879388/original.jpg
+- file: images/passeriformes/thamnophilidae/pygiptila-stellaris/5.jpg
+  page: https://www.inaturalist.org/photos/351247291
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351247291/original.jpeg
 ---
 
 

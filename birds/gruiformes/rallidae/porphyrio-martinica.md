@@ -150,7 +150,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 30.6
@@ -158,6 +159,44 @@ morphology:
   wing_length_mm: 174.4
   tail_length_mm: 72.8
   body_mass_g: 235.1
+image:
+  file: images/gruiformes/rallidae/porphyrio-martinica/1.jpg
+  page: https://www.inaturalist.org/photos/604643649
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604643649/original.jpg
+images:
+- file: images/gruiformes/rallidae/porphyrio-martinica/1.jpg
+  page: https://www.inaturalist.org/photos/604643649
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604643649/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-martinica/2.jpg
+  page: https://www.inaturalist.org/photos/605567132
+  author: James Rogers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605567132/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-martinica/3.jpg
+  page: https://www.inaturalist.org/photos/605356719
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356719/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-martinica/4.jpg
+  page: https://www.inaturalist.org/photos/604559832
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604559832/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-martinica/5.jpg
+  page: https://www.inaturalist.org/photos/605730258
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730258/original.jpg
 ---
 
 

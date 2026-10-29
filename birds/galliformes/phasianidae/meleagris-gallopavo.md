@@ -208,10 +208,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/galliformes/phasianidae/meleagris-gallopavo/1.jpg
+  page: https://www.inaturalist.org/photos/605067215
+  author: Laura Mae
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605067215/original.jpg
+images:
+- file: images/galliformes/phasianidae/meleagris-gallopavo/1.jpg
+  page: https://www.inaturalist.org/photos/605067215
+  author: Laura Mae
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605067215/original.jpg
+- file: images/galliformes/phasianidae/meleagris-gallopavo/2.jpg
+  page: https://www.inaturalist.org/photos/605459639
+  author: Andrew Murray
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605459639/original.jpg
+- file: images/galliformes/phasianidae/meleagris-gallopavo/3.jpg
+  page: https://www.inaturalist.org/photos/604582832
+  author: aross0805
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604582832/original.jpg
+- file: images/galliformes/phasianidae/meleagris-gallopavo/4.jpg
+  page: https://www.inaturalist.org/photos/604605215
+  author: Alan Jeon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604605215/original.jpg
+- file: images/galliformes/phasianidae/meleagris-gallopavo/5.jpg
+  page: https://www.inaturalist.org/photos/604529732
+  author: Phoenix M.S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604529732/original.jpg
 ---
 
 

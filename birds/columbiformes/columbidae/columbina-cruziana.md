@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columbina-cruziana/1.jpg
+  page: https://www.inaturalist.org/photos/610530564
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610530564/original.jpg
+images:
+- file: images/columbiformes/columbidae/columbina-cruziana/1.jpg
+  page: https://www.inaturalist.org/photos/610530564
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610530564/original.jpg
+- file: images/columbiformes/columbidae/columbina-cruziana/2.jpg
+  page: https://www.inaturalist.org/photos/611429695
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611429695/original.jpg
+- file: images/columbiformes/columbidae/columbina-cruziana/3.jpg
+  page: https://www.inaturalist.org/photos/613214872
+  author: Antonio W. Salas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613214872/original.jpg
+- file: images/columbiformes/columbidae/columbina-cruziana/4.jpg
+  page: https://www.inaturalist.org/photos/607682739
+  author: Ellky Arteta Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607682739/original.jpg
+- file: images/columbiformes/columbidae/columbina-cruziana/5.jpg
+  page: https://www.inaturalist.org/photos/624627260
+  author: Elliot Greiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624627260/original.jpg
 ---
 
 

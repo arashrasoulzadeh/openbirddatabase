@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phaenicophilidae/microligea-palustris/1.jpg
+  page: https://www.inaturalist.org/photos/610842077
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842077/original.jpg
+images:
+- file: images/passeriformes/phaenicophilidae/microligea-palustris/1.jpg
+  page: https://www.inaturalist.org/photos/610842077
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842077/original.jpg
+- file: images/passeriformes/phaenicophilidae/microligea-palustris/2.jpg
+  page: https://www.inaturalist.org/photos/607518277
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518277/original.jpg
+- file: images/passeriformes/phaenicophilidae/microligea-palustris/3.jpg
+  page: https://www.inaturalist.org/photos/475113534
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475113534/original.jpg
+- file: images/passeriformes/phaenicophilidae/microligea-palustris/4.jpg
+  page: https://www.inaturalist.org/photos/589872131
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589872131/original.jpg
+- file: images/passeriformes/phaenicophilidae/microligea-palustris/5.jpg
+  page: https://www.inaturalist.org/photos/590533374
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590533374/original.jpg
 ---
 
 

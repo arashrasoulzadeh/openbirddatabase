@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/trachyphonus-darnaudii/1.jpg
+  page: https://www.inaturalist.org/photos/684012429
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684012429/original.jpg
+images:
+- file: images/piciformes/lybiidae/trachyphonus-darnaudii/1.jpg
+  page: https://www.inaturalist.org/photos/684012429
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684012429/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-darnaudii/2.jpg
+  page: https://www.inaturalist.org/photos/661838603
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661838603/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-darnaudii/3.jpg
+  page: https://www.inaturalist.org/photos/684737484
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684737484/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-darnaudii/4.jpg
+  page: https://www.inaturalist.org/photos/722475090
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722475090/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-darnaudii/5.jpg
+  page: https://www.inaturalist.org/photos/721444162
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721444162/original.jpg
 ---
 
 

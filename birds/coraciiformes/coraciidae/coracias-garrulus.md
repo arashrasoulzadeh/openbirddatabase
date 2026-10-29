@@ -207,10 +207,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/coraciiformes/coraciidae/coracias-garrulus/1.jpg
+  page: https://www.inaturalist.org/photos/607146168
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607146168/original.jpg
+images:
+- file: images/coraciiformes/coraciidae/coracias-garrulus/1.jpg
+  page: https://www.inaturalist.org/photos/607146168
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607146168/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-garrulus/2.jpg
+  page: https://www.inaturalist.org/photos/610775459
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610775459/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-garrulus/3.jpg
+  page: https://www.inaturalist.org/photos/620509762
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620509762/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-garrulus/4.jpg
+  page: https://www.inaturalist.org/photos/624181026
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624181026/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-garrulus/5.jpg
+  page: https://www.inaturalist.org/photos/650454959
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650454959/original.jpg
 ---
 
 

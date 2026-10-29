@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/campephagidae/lalage-leucomela/1.jpg
+  page: https://www.inaturalist.org/photos/609363513
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363513/original.jpg
+images:
+- file: images/passeriformes/campephagidae/lalage-leucomela/1.jpg
+  page: https://www.inaturalist.org/photos/609363513
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363513/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucomela/2.jpg
+  page: https://www.inaturalist.org/photos/606117358
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606117358/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucomela/3.jpg
+  page: https://www.inaturalist.org/photos/610113965
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610113965/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucomela/4.jpg
+  page: https://www.inaturalist.org/photos/625272869
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625272869/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucomela/5.jpg
+  page: https://www.inaturalist.org/photos/652002404
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652002404/original.jpg
 ---
 
 

@@ -137,7 +137,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.1
@@ -145,6 +146,38 @@ morphology:
   wing_length_mm: 57.3
   tail_length_mm: 61.6
   body_mass_g: 13.2
+image:
+  file: images/passeriformes/paradoxornithidae/fulvetta-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/519289050
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519289050/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/fulvetta-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/519289050
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519289050/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-striaticollis/2.jpg
+  page: https://www.inaturalist.org/photos/409412728
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409412728/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-striaticollis/3.jpg
+  page: https://www.inaturalist.org/photos/409412761
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409412761/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-striaticollis/4.jpg
+  page: https://www.inaturalist.org/photos/409412794
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409412794/original.jpeg
 ---
 
 

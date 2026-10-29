@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/604740677
+  author: Jen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604740677/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/604740677
+  author: Jen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604740677/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/604400378
+  author: haemanthus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604400378/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/606551858
+  author: stauntonlamb1
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606551858/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/611416466
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611416466/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/615673220
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615673220/original.jpg
 ---
 
 

@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coccycua-minuta/1.jpg
+  page: https://www.inaturalist.org/photos/617561601
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617561601/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coccycua-minuta/1.jpg
+  page: https://www.inaturalist.org/photos/617561601
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617561601/original.jpg
+- file: images/cuculiformes/cuculidae/coccycua-minuta/2.jpg
+  page: https://www.inaturalist.org/photos/711095004
+  author: Julie B.
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711095004/original.jpg
+- file: images/cuculiformes/cuculidae/coccycua-minuta/3.jpg
+  page: https://www.inaturalist.org/photos/724116408
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724116408/original.jpg
+- file: images/cuculiformes/cuculidae/coccycua-minuta/4.jpg
+  page: https://www.inaturalist.org/photos/741884960
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741884960/original.jpg
+- file: images/cuculiformes/cuculidae/coccycua-minuta/5.jpg
+  page: https://www.inaturalist.org/photos/466180687
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466180687/original.jpg
 ---
 
 

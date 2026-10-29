@@ -181,8 +181,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-agricola/1.jpg
+  page: https://www.inaturalist.org/photos/616071238
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616071238/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-agricola/1.jpg
+  page: https://www.inaturalist.org/photos/616071238
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616071238/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-agricola/2.jpg
+  page: https://www.inaturalist.org/photos/625933086
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625933086/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-agricola/3.jpg
+  page: https://www.inaturalist.org/photos/659532802
+  author: Дарья Орлова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659532802/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-agricola/4.jpg
+  page: https://www.inaturalist.org/photos/662609999
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662609999/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-agricola/5.jpg
+  page: https://www.inaturalist.org/photos/665757228
+  author: Ксения Волянская
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665757228/original.jpg
 ---
 
 

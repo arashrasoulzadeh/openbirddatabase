@@ -135,7 +135,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.9
@@ -143,6 +144,26 @@ morphology:
   wing_length_mm: 53.5
   tail_length_mm: 52.2
   body_mass_g: 10.8
+image:
+  file: images/passeriformes/locustellidae/locustella-kashmirensis/1.jpg
+  page: https://www.inaturalist.org/photos/337784684
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784684/original.jpeg
+images:
+- file: images/passeriformes/locustellidae/locustella-kashmirensis/1.jpg
+  page: https://www.inaturalist.org/photos/337784684
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784684/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-kashmirensis/2.jpg
+  page: https://www.inaturalist.org/photos/337784661
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784661/original.jpeg
 ---
 
 

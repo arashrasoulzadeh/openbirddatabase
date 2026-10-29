@@ -144,7 +144,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.2
@@ -159,6 +160,44 @@ reproduction:
   clutch_size_mean: 2.0
   broods_per_year: 2
   fledging_days: 18
+image:
+  file: images/passeriformes/thraupidae/thraupis-episcopus/1.jpg
+  page: https://www.inaturalist.org/photos/605062684
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605062684/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thraupis-episcopus/1.jpg
+  page: https://www.inaturalist.org/photos/605062684
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605062684/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-episcopus/2.jpg
+  page: https://www.inaturalist.org/photos/610012647
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012647/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-episcopus/3.jpg
+  page: https://www.inaturalist.org/photos/610496586
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610496586/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-episcopus/4.jpg
+  page: https://www.inaturalist.org/photos/609349172
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609349172/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-episcopus/5.jpg
+  page: https://www.inaturalist.org/photos/608213514
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608213514/original.jpg
 ---
 
 

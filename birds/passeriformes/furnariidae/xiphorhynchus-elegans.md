@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/xiphorhynchus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/351775625
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351775625/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xiphorhynchus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/351775625
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351775625/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/402012689
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402012689/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/334609878
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334609878/original.jpeg
+- file: images/passeriformes/furnariidae/xiphorhynchus-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/64455557
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64455557/original.jpeg
+- file: images/passeriformes/furnariidae/xiphorhynchus-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/26764030
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26764030/original.jpeg
 ---
 
 

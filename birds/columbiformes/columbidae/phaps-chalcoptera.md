@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/columbiformes/columbidae/phaps-chalcoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605378247
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605378247/original.jpg
+images:
+- file: images/columbiformes/columbidae/phaps-chalcoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605378247
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605378247/original.jpg
+- file: images/columbiformes/columbidae/phaps-chalcoptera/2.jpg
+  page: https://www.inaturalist.org/photos/605745257
+  author: Ian Rainbow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605745257/original.jpg
+- file: images/columbiformes/columbidae/phaps-chalcoptera/3.jpg
+  page: https://www.inaturalist.org/photos/605473127
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605473127/original.jpg
+- file: images/columbiformes/columbidae/phaps-chalcoptera/4.jpg
+  page: https://www.inaturalist.org/photos/604440585
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604440585/original.jpg
+- file: images/columbiformes/columbidae/phaps-chalcoptera/5.jpg
+  page: https://www.inaturalist.org/photos/609435178
+  author: John Cull
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609435178/original.jpg
 ---
 
 

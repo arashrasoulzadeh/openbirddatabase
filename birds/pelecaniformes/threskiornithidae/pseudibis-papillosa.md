@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/pelecaniformes/threskiornithidae/pseudibis-papillosa/1.jpg
+  page: https://www.inaturalist.org/photos/605259609
+  author: haemanthus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259609/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/pseudibis-papillosa/1.jpg
+  page: https://www.inaturalist.org/photos/605259609
+  author: haemanthus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259609/original.jpg
+- file: images/pelecaniformes/threskiornithidae/pseudibis-papillosa/2.jpg
+  page: https://www.inaturalist.org/photos/608845826
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608845826/original.jpg
+- file: images/pelecaniformes/threskiornithidae/pseudibis-papillosa/3.jpg
+  page: https://www.inaturalist.org/photos/622355738
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622355738/original.jpg
+- file: images/pelecaniformes/threskiornithidae/pseudibis-papillosa/4.jpg
+  page: https://www.inaturalist.org/photos/616404733
+  author: mks334
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616404733/original.jpg
+- file: images/pelecaniformes/threskiornithidae/pseudibis-papillosa/5.jpg
+  page: https://www.inaturalist.org/photos/605259610
+  author: haemanthus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259610/original.jpg
 ---
 
 

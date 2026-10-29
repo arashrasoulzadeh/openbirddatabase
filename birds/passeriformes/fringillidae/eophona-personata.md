@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/eophona-personata/1.jpg
+  page: https://www.inaturalist.org/photos/607671481
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607671481/original.jpg
+images:
+- file: images/passeriformes/fringillidae/eophona-personata/1.jpg
+  page: https://www.inaturalist.org/photos/607671481
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607671481/original.jpg
+- file: images/passeriformes/fringillidae/eophona-personata/2.jpg
+  page: https://www.inaturalist.org/photos/616099886
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616099886/original.jpg
+- file: images/passeriformes/fringillidae/eophona-personata/3.jpg
+  page: https://www.inaturalist.org/photos/645909795
+  author: bko
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645909795/original.jpg
+- file: images/passeriformes/fringillidae/eophona-personata/4.jpg
+  page: https://www.inaturalist.org/photos/624829712
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624829712/original.jpg
+- file: images/passeriformes/fringillidae/eophona-personata/5.jpg
+  page: https://www.inaturalist.org/photos/625276782
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625276782/original.jpg
 ---
 
 

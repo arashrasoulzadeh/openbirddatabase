@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/spiziapteryx-circumcincta/1.jpg
+  page: https://www.inaturalist.org/photos/628251858
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628251858/original.jpg
+images:
+- file: images/falconiformes/falconidae/spiziapteryx-circumcincta/1.jpg
+  page: https://www.inaturalist.org/photos/628251858
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628251858/original.jpg
+- file: images/falconiformes/falconidae/spiziapteryx-circumcincta/2.jpg
+  page: https://www.inaturalist.org/photos/481683700
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481683700/original.jpeg
+- file: images/falconiformes/falconidae/spiziapteryx-circumcincta/3.jpg
+  page: https://www.inaturalist.org/photos/524535182
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524535182/original.jpg
+- file: images/falconiformes/falconidae/spiziapteryx-circumcincta/4.jpg
+  page: https://www.inaturalist.org/photos/554638000
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554638000/original.jpg
+- file: images/falconiformes/falconidae/spiziapteryx-circumcincta/5.jpg
+  page: https://www.inaturalist.org/photos/582726873
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582726873/original.jpg
 ---
 
 

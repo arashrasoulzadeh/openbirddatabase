@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-cypriaca/1.jpg
+  page: https://www.inaturalist.org/photos/662615539
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662615539/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-cypriaca/1.jpg
+  page: https://www.inaturalist.org/photos/662615539
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662615539/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-cypriaca/2.jpg
+  page: https://www.inaturalist.org/photos/483932520
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483932520/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-cypriaca/3.jpg
+  page: https://www.inaturalist.org/photos/484455608
+  author: Rex Leung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484455608/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-cypriaca/4.jpg
+  page: https://www.inaturalist.org/photos/511569309
+  author: Katerina Kalogerini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511569309/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-cypriaca/5.jpg
+  page: https://www.inaturalist.org/photos/588659285
+  author: Marios Thoma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588659285/original.jpg
 ---
 
 

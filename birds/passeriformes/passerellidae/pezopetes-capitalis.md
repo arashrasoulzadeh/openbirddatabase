@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/pezopetes-capitalis/1.jpg
+  page: https://www.inaturalist.org/photos/607242014
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242014/original.jpg
+images:
+- file: images/passeriformes/passerellidae/pezopetes-capitalis/1.jpg
+  page: https://www.inaturalist.org/photos/607242014
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242014/original.jpg
+- file: images/passeriformes/passerellidae/pezopetes-capitalis/2.jpg
+  page: https://www.inaturalist.org/photos/621259593
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621259593/original.jpg
+- file: images/passeriformes/passerellidae/pezopetes-capitalis/3.jpg
+  page: https://www.inaturalist.org/photos/621080903
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621080903/original.jpg
+- file: images/passeriformes/passerellidae/pezopetes-capitalis/4.jpg
+  page: https://www.inaturalist.org/photos/657981693
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657981693/original.jpg
+- file: images/passeriformes/passerellidae/pezopetes-capitalis/5.jpg
+  page: https://www.inaturalist.org/photos/718723738
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718723738/original.jpg
 ---
 
 

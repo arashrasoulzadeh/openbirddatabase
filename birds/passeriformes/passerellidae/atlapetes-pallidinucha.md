@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-pallidinucha/1.jpg
+  page: https://www.inaturalist.org/photos/612917787
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612917787/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-pallidinucha/1.jpg
+  page: https://www.inaturalist.org/photos/612917787
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612917787/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-pallidinucha/2.jpg
+  page: https://www.inaturalist.org/photos/653358114
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653358114/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-pallidinucha/3.jpg
+  page: https://www.inaturalist.org/photos/468813974
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468813974/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-pallidinucha/4.jpg
+  page: https://www.inaturalist.org/photos/502923599
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502923599/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-pallidinucha/5.jpg
+  page: https://www.inaturalist.org/photos/476149830
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476149830/original.jpg
 ---
 
 

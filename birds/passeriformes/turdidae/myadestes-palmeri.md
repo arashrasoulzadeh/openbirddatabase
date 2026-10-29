@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/myadestes-palmeri/1.jpg
+  page: https://www.inaturalist.org/photos/686958714
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686958714/original.jpg
+images:
+- file: images/passeriformes/turdidae/myadestes-palmeri/1.jpg
+  page: https://www.inaturalist.org/photos/686958714
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686958714/original.jpg
+- file: images/passeriformes/turdidae/myadestes-palmeri/2.jpg
+  page: https://www.inaturalist.org/photos/301188350
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/301188350/original.jpeg
+- file: images/passeriformes/turdidae/myadestes-palmeri/3.jpg
+  page: https://www.inaturalist.org/photos/249759956
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249759956/original.jpeg
+- file: images/passeriformes/turdidae/myadestes-palmeri/4.jpg
+  page: https://www.inaturalist.org/photos/142822938
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822938/original.jpeg
+- file: images/passeriformes/turdidae/myadestes-palmeri/5.jpg
+  page: https://www.inaturalist.org/photos/686958792
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686958792/original.jpg
 ---
 
 

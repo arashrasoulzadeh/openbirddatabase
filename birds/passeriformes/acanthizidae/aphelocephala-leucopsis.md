@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/acanthizidae/aphelocephala-leucopsis/1.jpg
+  page: https://www.inaturalist.org/photos/617712219
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712219/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/aphelocephala-leucopsis/1.jpg
+  page: https://www.inaturalist.org/photos/617712219
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712219/original.jpg
+- file: images/passeriformes/acanthizidae/aphelocephala-leucopsis/2.jpg
+  page: https://www.inaturalist.org/photos/622749078
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622749078/original.jpg
+- file: images/passeriformes/acanthizidae/aphelocephala-leucopsis/3.jpg
+  page: https://www.inaturalist.org/photos/670008039
+  author: Malcolm Snelgrove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670008039/original.jpg
+- file: images/passeriformes/acanthizidae/aphelocephala-leucopsis/4.jpg
+  page: https://www.inaturalist.org/photos/698313966
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698313966/original.jpg
+- file: images/passeriformes/acanthizidae/aphelocephala-leucopsis/5.jpg
+  page: https://www.inaturalist.org/photos/617712220
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712220/original.jpg
 ---
 
 

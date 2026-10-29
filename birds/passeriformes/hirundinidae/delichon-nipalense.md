@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/delichon-nipalense/1.jpg
+  page: https://www.inaturalist.org/photos/386200247
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386200247/original.jpeg
+images:
+- file: images/passeriformes/hirundinidae/delichon-nipalense/1.jpg
+  page: https://www.inaturalist.org/photos/386200247
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386200247/original.jpeg
+- file: images/passeriformes/hirundinidae/delichon-nipalense/2.jpg
+  page: https://www.inaturalist.org/photos/601307789
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601307789/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-nipalense/3.jpg
+  page: https://www.inaturalist.org/photos/306030950
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/306030950/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-nipalense/4.jpg
+  page: https://www.inaturalist.org/photos/386200255
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386200255/original.jpeg
+- file: images/passeriformes/hirundinidae/delichon-nipalense/5.jpg
+  page: https://www.inaturalist.org/photos/601307775
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601307775/original.jpg
 ---
 
 

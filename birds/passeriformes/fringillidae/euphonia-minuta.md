@@ -158,8 +158,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-minuta/1.jpg
+  page: https://www.inaturalist.org/photos/615830504
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615830504/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-minuta/1.jpg
+  page: https://www.inaturalist.org/photos/615830504
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615830504/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-minuta/2.jpg
+  page: https://www.inaturalist.org/photos/621824493
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621824493/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-minuta/3.jpg
+  page: https://www.inaturalist.org/photos/658249876
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658249876/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-minuta/4.jpg
+  page: https://www.inaturalist.org/photos/729283998
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729283998/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-minuta/5.jpg
+  page: https://www.inaturalist.org/photos/742192637
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742192637/original.jpg
 ---
 
 

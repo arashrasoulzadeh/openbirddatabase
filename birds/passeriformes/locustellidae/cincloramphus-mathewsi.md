@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/cincloramphus-mathewsi/1.jpg
+  page: https://www.inaturalist.org/photos/635532652
+  author: Claudia Schipp
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635532652/original.jpg
+images:
+- file: images/passeriformes/locustellidae/cincloramphus-mathewsi/1.jpg
+  page: https://www.inaturalist.org/photos/635532652
+  author: Claudia Schipp
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635532652/original.jpg
+- file: images/passeriformes/locustellidae/cincloramphus-mathewsi/2.jpg
+  page: https://www.inaturalist.org/photos/665506989
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665506989/original.jpg
+- file: images/passeriformes/locustellidae/cincloramphus-mathewsi/3.jpg
+  page: https://www.inaturalist.org/photos/675841048
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675841048/original.jpg
+- file: images/passeriformes/locustellidae/cincloramphus-mathewsi/4.jpg
+  page: https://www.inaturalist.org/photos/682474061
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682474061/original.jpg
+- file: images/passeriformes/locustellidae/cincloramphus-mathewsi/5.jpg
+  page: https://www.inaturalist.org/photos/698264108
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698264108/original.jpg
 ---
 
 

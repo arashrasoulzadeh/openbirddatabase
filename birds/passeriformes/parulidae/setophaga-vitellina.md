@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/setophaga-vitellina/1.jpg
+  page: https://www.inaturalist.org/photos/510228152
+  author: Kathryn Curtis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510228152/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-vitellina/1.jpg
+  page: https://www.inaturalist.org/photos/510228152
+  author: Kathryn Curtis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510228152/original.jpg
+- file: images/passeriformes/parulidae/setophaga-vitellina/2.jpg
+  page: https://www.inaturalist.org/photos/356205737
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356205737/original.jpg
+- file: images/passeriformes/parulidae/setophaga-vitellina/3.jpg
+  page: https://www.inaturalist.org/photos/422002201
+  author: Bill Michalek
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422002201/original.jpeg
+- file: images/passeriformes/parulidae/setophaga-vitellina/4.jpg
+  page: https://www.inaturalist.org/photos/197813393
+  author: caymanmatt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/197813393/original.jpg
+- file: images/passeriformes/parulidae/setophaga-vitellina/5.jpg
+  page: https://www.inaturalist.org/photos/414219526
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414219526/original.jpg
 ---
 
 

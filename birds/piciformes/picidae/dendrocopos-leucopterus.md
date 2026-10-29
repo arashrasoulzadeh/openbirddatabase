@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendrocopos-leucopterus/1.jpg
+  page: https://www.inaturalist.org/photos/609648423
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609648423/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-leucopterus/1.jpg
+  page: https://www.inaturalist.org/photos/609648423
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609648423/original.jpg
+- file: images/piciformes/picidae/dendrocopos-leucopterus/2.jpg
+  page: https://www.inaturalist.org/photos/493781971
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493781971/original.jpeg
+- file: images/piciformes/picidae/dendrocopos-leucopterus/3.jpg
+  page: https://www.inaturalist.org/photos/508796586
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508796586/original.jpg
+- file: images/piciformes/picidae/dendrocopos-leucopterus/4.jpg
+  page: https://www.inaturalist.org/photos/518087799
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518087799/original.jpg
+- file: images/piciformes/picidae/dendrocopos-leucopterus/5.jpg
+  page: https://www.inaturalist.org/photos/609648444
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609648444/original.jpg
 ---
 
 

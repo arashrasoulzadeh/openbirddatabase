@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 38
+image:
+  file: images/anseriformes/anatidae/somateria-mollissima/1.jpg
+  page: https://www.inaturalist.org/photos/605710243
+  author: Matt Pelikan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605710243/original.jpg
+images:
+- file: images/anseriformes/anatidae/somateria-mollissima/1.jpg
+  page: https://www.inaturalist.org/photos/605710243
+  author: Matt Pelikan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605710243/original.jpg
+- file: images/anseriformes/anatidae/somateria-mollissima/2.jpg
+  page: https://www.inaturalist.org/photos/605050804
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605050804/original.jpg
+- file: images/anseriformes/anatidae/somateria-mollissima/3.jpg
+  page: https://www.inaturalist.org/photos/607761098
+  author: Kevin Lynch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607761098/original.jpg
+- file: images/anseriformes/anatidae/somateria-mollissima/4.jpg
+  page: https://www.inaturalist.org/photos/610050722
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610050722/original.jpg
+- file: images/anseriformes/anatidae/somateria-mollissima/5.jpg
+  page: https://www.inaturalist.org/photos/610708424
+  author: Robbie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610708424/original.jpg
 ---
 
 

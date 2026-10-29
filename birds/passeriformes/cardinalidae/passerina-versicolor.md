@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/passerina-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/606529851
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606529851/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/passerina-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/606529851
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606529851/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/618570595
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618570595/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/651713106
+  author: nasua
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651713106/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/618570592
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618570592/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/618570617
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618570617/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/larus-atlanticus/1.jpg
+  page: https://www.inaturalist.org/photos/669758546
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669758546/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-atlanticus/1.jpg
+  page: https://www.inaturalist.org/photos/669758546
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669758546/original.jpg
+- file: images/charadriiformes/laridae/larus-atlanticus/2.jpg
+  page: https://www.inaturalist.org/photos/655051966
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655051966/original.jpg
+- file: images/charadriiformes/laridae/larus-atlanticus/3.jpg
+  page: https://www.inaturalist.org/photos/691144172
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691144172/original.jpg
+- file: images/charadriiformes/laridae/larus-atlanticus/4.jpg
+  page: https://www.inaturalist.org/photos/713999431
+  author: RAP
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713999431/original.jpg
+- file: images/charadriiformes/laridae/larus-atlanticus/5.jpg
+  page: https://www.inaturalist.org/photos/744277710
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744277710/original.jpg
 ---
 
 

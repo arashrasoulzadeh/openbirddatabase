@@ -122,7 +122,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.2
@@ -130,6 +131,44 @@ morphology:
   wing_length_mm: 106.3
   tail_length_mm: 75.0
   body_mass_g: 25.1
+image:
+  file: images/passeriformes/tyrannidae/neoxolmis-salinarum/1.jpg
+  page: https://www.inaturalist.org/photos/467186494
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467186494/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/neoxolmis-salinarum/1.jpg
+  page: https://www.inaturalist.org/photos/467186494
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467186494/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-salinarum/2.jpg
+  page: https://www.inaturalist.org/photos/567516178
+  author: Jose Luis Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567516178/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-salinarum/3.jpg
+  page: https://www.inaturalist.org/photos/434974776
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434974776/original.jpeg
+- file: images/passeriformes/tyrannidae/neoxolmis-salinarum/4.jpg
+  page: https://www.inaturalist.org/photos/456856902
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456856902/original.jpeg
+- file: images/passeriformes/tyrannidae/neoxolmis-salinarum/5.jpg
+  page: https://www.inaturalist.org/photos/248284491
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248284491/original.jpeg
 ---
 
 

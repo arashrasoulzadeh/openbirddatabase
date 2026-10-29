@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 31
+image:
+  file: images/ciconiiformes/ciconiidae/leptoptilos-javanicus/1.jpg
+  page: https://www.inaturalist.org/photos/608630365
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608630365/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/leptoptilos-javanicus/1.jpg
+  page: https://www.inaturalist.org/photos/608630365
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608630365/original.jpg
+- file: images/ciconiiformes/ciconiidae/leptoptilos-javanicus/2.jpg
+  page: https://www.inaturalist.org/photos/612081460
+  author: Jenny Saito
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612081460/original.jpg
+- file: images/ciconiiformes/ciconiidae/leptoptilos-javanicus/3.jpg
+  page: https://www.inaturalist.org/photos/693301078
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693301078/original.jpg
+- file: images/ciconiiformes/ciconiidae/leptoptilos-javanicus/4.jpg
+  page: https://www.inaturalist.org/photos/619510651
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619510651/original.jpg
+- file: images/ciconiiformes/ciconiidae/leptoptilos-javanicus/5.jpg
+  page: https://www.inaturalist.org/photos/624497312
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624497312/original.jpg
 ---
 
 

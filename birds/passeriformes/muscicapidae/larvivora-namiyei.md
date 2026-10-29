@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/larvivora-namiyei/1.jpg
+  page: https://www.inaturalist.org/photos/725741621
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725741621/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/larvivora-namiyei/1.jpg
+  page: https://www.inaturalist.org/photos/725741621
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725741621/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-namiyei/2.jpg
+  page: https://www.inaturalist.org/photos/703685514
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703685514/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-namiyei/3.jpg
+  page: https://www.inaturalist.org/photos/427060762
+  author: Maaike Verschueren
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427060762/original.jpeg
+- file: images/passeriformes/muscicapidae/larvivora-namiyei/4.jpg
+  page: https://www.inaturalist.org/photos/433533725
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433533725/original.jpeg
+- file: images/passeriformes/muscicapidae/larvivora-namiyei/5.jpg
+  page: https://www.inaturalist.org/photos/460604015
+  author: りなべる
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460604015/original.jpg
 ---
 
 

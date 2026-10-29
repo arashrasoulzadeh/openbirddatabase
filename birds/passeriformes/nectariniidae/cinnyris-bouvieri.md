@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-bouvieri/1.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5722161016528636386
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91977/original.JPG
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-bouvieri/1.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5722161016528636386
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91977/original.JPG
+- file: images/passeriformes/nectariniidae/cinnyris-bouvieri/2.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5722161019972867618
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91978/original.JPG
+- file: images/passeriformes/nectariniidae/cinnyris-bouvieri/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5722161022825394290
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91979/original.JPG
+- file: images/passeriformes/nectariniidae/cinnyris-bouvieri/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5722161030774143746
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91980/original.JPG
+- file: images/passeriformes/nectariniidae/cinnyris-bouvieri/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5722161039721052018
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91981/original.JPG
 ---
 
 

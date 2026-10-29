@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/jacamaralcyon-tridactyla/1.jpg
+  page: https://www.inaturalist.org/photos/709810888
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709810888/original.jpg
+images:
+- file: images/piciformes/galbulidae/jacamaralcyon-tridactyla/1.jpg
+  page: https://www.inaturalist.org/photos/709810888
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709810888/original.jpg
+- file: images/piciformes/galbulidae/jacamaralcyon-tridactyla/2.jpg
+  page: https://www.inaturalist.org/photos/740042866
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740042866/original.jpg
+- file: images/piciformes/galbulidae/jacamaralcyon-tridactyla/3.jpg
+  page: https://www.inaturalist.org/photos/588821396
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588821396/original.jpg
+- file: images/piciformes/galbulidae/jacamaralcyon-tridactyla/4.jpg
+  page: https://www.inaturalist.org/photos/364038415
+  author: Davidson Moreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364038415/original.jpg
+- file: images/piciformes/galbulidae/jacamaralcyon-tridactyla/5.jpg
+  page: https://www.inaturalist.org/photos/322737752
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322737752/original.jpg
 ---
 
 

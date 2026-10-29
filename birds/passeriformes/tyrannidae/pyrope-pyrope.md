@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 23.6
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 107.0
   tail_length_mm: 84.4
   body_mass_g: 35.3
+image:
+  file: images/passeriformes/tyrannidae/pyrope-pyrope/1.jpg
+  page: https://www.inaturalist.org/photos/608028447
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608028447/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pyrope-pyrope/1.jpg
+  page: https://www.inaturalist.org/photos/608028447
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608028447/original.jpg
+- file: images/passeriformes/tyrannidae/pyrope-pyrope/2.jpg
+  page: https://www.inaturalist.org/photos/613213918
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613213918/original.jpg
+- file: images/passeriformes/tyrannidae/pyrope-pyrope/3.jpg
+  page: https://www.inaturalist.org/photos/615388997
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388997/original.jpg
+- file: images/passeriformes/tyrannidae/pyrope-pyrope/4.jpg
+  page: https://www.inaturalist.org/photos/616244267
+  author: Fernando Pérez Peralta
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616244267/original.jpg
+- file: images/passeriformes/tyrannidae/pyrope-pyrope/5.jpg
+  page: https://www.inaturalist.org/photos/617313826
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617313826/original.jpg
 ---
 
 

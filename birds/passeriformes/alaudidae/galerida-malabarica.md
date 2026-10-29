@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/galerida-malabarica/1.jpg
+  page: https://www.inaturalist.org/photos/643318336
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643318336/original.jpg
+images:
+- file: images/passeriformes/alaudidae/galerida-malabarica/1.jpg
+  page: https://www.inaturalist.org/photos/643318336
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643318336/original.jpg
+- file: images/passeriformes/alaudidae/galerida-malabarica/2.jpg
+  page: https://www.inaturalist.org/photos/502844138
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502844138/original.jpeg
+- file: images/passeriformes/alaudidae/galerida-malabarica/3.jpg
+  page: https://www.inaturalist.org/photos/552153700
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552153700/original.jpg
+- file: images/passeriformes/alaudidae/galerida-malabarica/4.jpg
+  page: https://www.inaturalist.org/photos/599541685
+  author: Aryan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599541685/original.jpg
+- file: images/passeriformes/alaudidae/galerida-malabarica/5.jpg
+  page: https://www.inaturalist.org/photos/423646437
+  author: Sindhu Haridas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423646437/original.jpeg
 ---
 
 

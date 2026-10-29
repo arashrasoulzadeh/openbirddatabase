@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sicalis-raimondii/1.jpg
+  page: https://www.inaturalist.org/photos/468972659
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468972659/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/sicalis-raimondii/1.jpg
+  page: https://www.inaturalist.org/photos/468972659
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468972659/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-raimondii/2.jpg
+  page: https://www.inaturalist.org/photos/536324167
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536324167/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-raimondii/3.jpg
+  page: https://www.inaturalist.org/photos/546024191
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546024191/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-raimondii/4.jpg
+  page: https://www.inaturalist.org/photos/248662825
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248662825/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-raimondii/5.jpg
+  page: https://www.inaturalist.org/photos/546024160
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546024160/original.jpg
 ---
 
 

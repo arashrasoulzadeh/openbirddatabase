@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/liocichla-ripponi/1.jpg
+  page: https://www.inaturalist.org/photos/613059215
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613059215/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/liocichla-ripponi/1.jpg
+  page: https://www.inaturalist.org/photos/613059215
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613059215/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-ripponi/2.jpg
+  page: https://www.inaturalist.org/photos/630735185
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630735185/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-ripponi/3.jpg
+  page: https://www.inaturalist.org/photos/469022132
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469022132/original.jpeg
+- file: images/passeriformes/leiothrichidae/liocichla-ripponi/4.jpg
+  page: https://www.inaturalist.org/photos/479296012
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479296012/original.jpeg
+- file: images/passeriformes/leiothrichidae/liocichla-ripponi/5.jpg
+  page: https://www.inaturalist.org/photos/510843447
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510843447/original.jpg
 ---
 
 

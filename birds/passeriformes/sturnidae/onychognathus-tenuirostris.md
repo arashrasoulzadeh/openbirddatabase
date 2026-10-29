@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/onychognathus-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605532856
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605532856/original.jpg
+images:
+- file: images/passeriformes/sturnidae/onychognathus-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605532856
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605532856/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-tenuirostris/2.jpg
+  page: https://www.inaturalist.org/photos/472861210
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472861210/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-tenuirostris/3.jpg
+  page: https://www.inaturalist.org/photos/318751390
+  author: Jared Lincenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318751390/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-tenuirostris/4.jpg
+  page: https://www.inaturalist.org/photos/190378495
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190378495/original.jpeg
+- file: images/passeriformes/sturnidae/onychognathus-tenuirostris/5.jpg
+  page: https://www.inaturalist.org/photos/63010391
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63010391/original.jpeg
 ---
 
 

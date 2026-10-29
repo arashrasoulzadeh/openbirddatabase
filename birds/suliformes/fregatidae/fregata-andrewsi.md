@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/suliformes/fregatidae/fregata-andrewsi/1.jpg
+  page: https://www.inaturalist.org/photos/619777364
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619777364/original.jpg
+images:
+- file: images/suliformes/fregatidae/fregata-andrewsi/1.jpg
+  page: https://www.inaturalist.org/photos/619777364
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619777364/original.jpg
+- file: images/suliformes/fregatidae/fregata-andrewsi/2.jpg
+  page: https://www.inaturalist.org/photos/636891838
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636891838/original.jpg
+- file: images/suliformes/fregatidae/fregata-andrewsi/3.jpg
+  page: https://www.inaturalist.org/photos/738732486
+  author: abidanimallover
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738732486/original.jpg
+- file: images/suliformes/fregatidae/fregata-andrewsi/4.jpg
+  page: https://www.inaturalist.org/photos/352339919
+  author: Fajar Alfitrian
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352339919/original.jpeg
+- file: images/suliformes/fregatidae/fregata-andrewsi/5.jpg
+  page: https://www.inaturalist.org/photos/408880877
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/408880877/original.jpeg
 ---
 
 

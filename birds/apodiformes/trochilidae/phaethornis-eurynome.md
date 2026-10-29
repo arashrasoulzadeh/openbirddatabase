@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-eurynome/1.jpg
+  page: https://www.inaturalist.org/photos/609321452
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321452/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-eurynome/1.jpg
+  page: https://www.inaturalist.org/photos/609321452
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321452/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-eurynome/2.jpg
+  page: https://www.inaturalist.org/photos/607243287
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243287/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-eurynome/3.jpg
+  page: https://www.inaturalist.org/photos/609930794
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930794/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-eurynome/4.jpg
+  page: https://www.inaturalist.org/photos/720333429
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720333429/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-eurynome/5.jpg
+  page: https://www.inaturalist.org/photos/648757054
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648757054/original.jpg
 ---
 
 

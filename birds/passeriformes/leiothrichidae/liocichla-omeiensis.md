@@ -142,7 +142,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.8
@@ -150,6 +151,26 @@ morphology:
   wing_length_mm: 75.1
   tail_length_mm: 82.2
   body_mass_g: 40.4
+image:
+  file: images/passeriformes/leiothrichidae/liocichla-omeiensis/1.jpg
+  page: https://www.inaturalist.org/photos/376664232
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376664232/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/liocichla-omeiensis/1.jpg
+  page: https://www.inaturalist.org/photos/376664232
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376664232/original.jpeg
+- file: images/passeriformes/leiothrichidae/liocichla-omeiensis/2.jpg
+  page: https://www.inaturalist.org/photos/519709588
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519709588/original.jpg
 ---
 
 

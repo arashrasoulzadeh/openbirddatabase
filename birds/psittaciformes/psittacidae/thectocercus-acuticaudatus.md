@@ -135,7 +135,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 31.9
@@ -147,6 +148,44 @@ reproduction:
   clutch_size_mean: 2.0
 demography:
   max_longevity_years: 31
+image:
+  file: images/psittaciformes/psittacidae/thectocercus-acuticaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/607788116
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607788116/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/thectocercus-acuticaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/607788116
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607788116/original.jpg
+- file: images/psittaciformes/psittacidae/thectocercus-acuticaudatus/2.jpg
+  page: https://www.inaturalist.org/photos/611379970
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611379970/original.jpg
+- file: images/psittaciformes/psittacidae/thectocercus-acuticaudatus/3.jpg
+  page: https://www.inaturalist.org/photos/616001911
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616001911/original.jpg
+- file: images/psittaciformes/psittacidae/thectocercus-acuticaudatus/4.jpg
+  page: https://www.inaturalist.org/photos/616954030
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616954030/original.jpg
+- file: images/psittaciformes/psittacidae/thectocercus-acuticaudatus/5.jpg
+  page: https://www.inaturalist.org/photos/619114082
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619114082/original.jpg
 ---
 
 

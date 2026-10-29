@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/stephanoxis-lalandi/1.jpg
+  page: https://www.inaturalist.org/photos/678650570
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678650570/original.jpg
+images:
+- file: images/apodiformes/trochilidae/stephanoxis-lalandi/1.jpg
+  page: https://www.inaturalist.org/photos/678650570
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678650570/original.jpg
+- file: images/apodiformes/trochilidae/stephanoxis-lalandi/2.jpg
+  page: https://www.inaturalist.org/photos/682293682
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682293682/original.jpg
+- file: images/apodiformes/trochilidae/stephanoxis-lalandi/3.jpg
+  page: https://www.inaturalist.org/photos/545016001
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545016001/original.jpg
+- file: images/apodiformes/trochilidae/stephanoxis-lalandi/4.jpg
+  page: https://www.inaturalist.org/photos/587879632
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587879632/original.jpg
+- file: images/apodiformes/trochilidae/stephanoxis-lalandi/5.jpg
+  page: https://www.inaturalist.org/photos/426316758
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426316758/original.jpeg
 ---
 
 

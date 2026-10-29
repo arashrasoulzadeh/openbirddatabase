@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-splendidus/1.jpg
+  page: https://www.inaturalist.org/photos/723569220
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723569220/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-splendidus/1.jpg
+  page: https://www.inaturalist.org/photos/723569220
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723569220/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-splendidus/2.jpg
+  page: https://www.inaturalist.org/photos/469693288
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469693288/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-splendidus/3.jpg
+  page: https://www.inaturalist.org/photos/475939147
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475939147/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-splendidus/4.jpg
+  page: https://www.inaturalist.org/photos/506372836
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506372836/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-splendidus/5.jpg
+  page: https://www.inaturalist.org/photos/601104435
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601104435/original.jpg
 ---
 
 

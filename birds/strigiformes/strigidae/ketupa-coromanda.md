@@ -123,8 +123,47 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/strigiformes/strigidae/ketupa-coromanda/1.jpg
+  page: https://www.inaturalist.org/photos/618750568
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618750568/original.jpg
+images:
+- file: images/strigiformes/strigidae/ketupa-coromanda/1.jpg
+  page: https://www.inaturalist.org/photos/618750568
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618750568/original.jpg
+- file: images/strigiformes/strigidae/ketupa-coromanda/2.jpg
+  page: https://www.inaturalist.org/photos/623797224
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623797224/original.jpg
+- file: images/strigiformes/strigidae/ketupa-coromanda/3.jpg
+  page: https://www.inaturalist.org/photos/626031550
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626031550/original.jpg
+- file: images/strigiformes/strigidae/ketupa-coromanda/4.jpg
+  page: https://www.inaturalist.org/photos/256935407
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256935407/original.jpeg
+- file: images/strigiformes/strigidae/ketupa-coromanda/5.jpg
+  page: https://www.inaturalist.org/photos/261623113
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261623113/original.jpg
 ---
 
 

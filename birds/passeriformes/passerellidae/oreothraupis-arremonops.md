@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/oreothraupis-arremonops/1.jpg
+  page: https://www.inaturalist.org/photos/622993767
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622993767/original.jpg
+images:
+- file: images/passeriformes/passerellidae/oreothraupis-arremonops/1.jpg
+  page: https://www.inaturalist.org/photos/622993767
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622993767/original.jpg
+- file: images/passeriformes/passerellidae/oreothraupis-arremonops/2.jpg
+  page: https://www.inaturalist.org/photos/530087263
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530087263/original.jpg
+- file: images/passeriformes/passerellidae/oreothraupis-arremonops/3.jpg
+  page: https://www.inaturalist.org/photos/225461303
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225461303/original.jpeg
+- file: images/passeriformes/passerellidae/oreothraupis-arremonops/4.jpg
+  page: https://www.inaturalist.org/photos/234384526
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/234384526/original.jpeg
+- file: images/passeriformes/passerellidae/oreothraupis-arremonops/5.jpg
+  page: https://www.inaturalist.org/photos/249898579
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249898579/original.jpeg
 ---
 
 

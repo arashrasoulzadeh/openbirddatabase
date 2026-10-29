@@ -175,10 +175,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 33
+image:
+  file: images/phaethontiformes/phaethontidae/phaethon-rubricauda/1.jpg
+  page: https://www.inaturalist.org/photos/609354752
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609354752/original.jpg
+images:
+- file: images/phaethontiformes/phaethontidae/phaethon-rubricauda/1.jpg
+  page: https://www.inaturalist.org/photos/609354752
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609354752/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-rubricauda/2.jpg
+  page: https://www.inaturalist.org/photos/619786744
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619786744/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-rubricauda/3.jpg
+  page: https://www.inaturalist.org/photos/644781192
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644781192/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-rubricauda/4.jpg
+  page: https://www.inaturalist.org/photos/608841342
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608841342/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-rubricauda/5.jpg
+  page: https://www.inaturalist.org/photos/608841362
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608841362/original.jpg
 ---
 
 

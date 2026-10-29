@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-guttata/1.jpg
+  page: https://www.inaturalist.org/photos/657166858
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657166858/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-guttata/1.jpg
+  page: https://www.inaturalist.org/photos/657166858
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657166858/original.jpg
+- file: images/passeriformes/turdidae/geokichla-guttata/2.jpg
+  page: https://www.inaturalist.org/photos/734315401
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734315401/original.jpg
+- file: images/passeriformes/turdidae/geokichla-guttata/3.jpg
+  page: https://www.inaturalist.org/photos/674648368
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674648368/original.jpg
+- file: images/passeriformes/turdidae/geokichla-guttata/4.jpg
+  page: https://www.inaturalist.org/photos/610732722
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610732722/original.jpg
+- file: images/passeriformes/turdidae/geokichla-guttata/5.jpg
+  page: https://www.inaturalist.org/photos/274933482
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/274933482/original.jpeg
 ---
 
 

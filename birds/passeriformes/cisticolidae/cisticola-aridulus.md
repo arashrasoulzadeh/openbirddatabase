@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-aridulus/1.jpg
+  page: https://www.inaturalist.org/photos/619523753
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619523753/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-aridulus/1.jpg
+  page: https://www.inaturalist.org/photos/619523753
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619523753/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-aridulus/2.jpg
+  page: https://www.inaturalist.org/photos/678580287
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678580287/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-aridulus/3.jpg
+  page: https://www.inaturalist.org/photos/586250134
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586250134/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-aridulus/4.jpg
+  page: https://www.inaturalist.org/photos/460434818
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460434818/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-aridulus/5.jpg
+  page: https://www.inaturalist.org/photos/347740721
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347740721/original.jpeg
 ---
 
 

@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/calicalicus-rufocarpalis/1.jpg
+  page: https://www.inaturalist.org/photos/453721924
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453721924/original.jpg
+images:
+- file: images/passeriformes/vangidae/calicalicus-rufocarpalis/1.jpg
+  page: https://www.inaturalist.org/photos/453721924
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453721924/original.jpg
+- file: images/passeriformes/vangidae/calicalicus-rufocarpalis/2.jpg
+  page: https://www.inaturalist.org/photos/341299659
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341299659/original.jpeg
+- file: images/passeriformes/vangidae/calicalicus-rufocarpalis/3.jpg
+  page: https://www.inaturalist.org/photos/244452276
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244452276/original.jpg
+- file: images/passeriformes/vangidae/calicalicus-rufocarpalis/4.jpg
+  page: https://www.inaturalist.org/photos/54109226
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/54109226/original.jpg
+- file: images/passeriformes/vangidae/calicalicus-rufocarpalis/5.jpg
+  page: https://www.inaturalist.org/photos/182130140
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182130140/original.jpg
 ---
 
 

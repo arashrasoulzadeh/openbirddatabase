@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/468572545
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468572545/original.jpeg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/468572545
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468572545/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/551725411
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551725411/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/638119468
+  author: marius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638119468/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-olivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/243960324
+  author: Jacek Pietruszewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243960324/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-olivaceus/5.jpg
+  page: https://www.inaturalist.org/photos/245666067
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245666067/original.jpeg
 ---
 
 

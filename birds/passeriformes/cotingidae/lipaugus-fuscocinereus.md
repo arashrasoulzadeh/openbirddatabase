@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/lipaugus-fuscocinereus/1.jpg
+  page: https://www.inaturalist.org/photos/489388186
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489388186/original.jpg
+images:
+- file: images/passeriformes/cotingidae/lipaugus-fuscocinereus/1.jpg
+  page: https://www.inaturalist.org/photos/489388186
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489388186/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-fuscocinereus/2.jpg
+  page: https://www.inaturalist.org/photos/498361277
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498361277/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-fuscocinereus/3.jpg
+  page: https://www.inaturalist.org/photos/479128728
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479128728/original.jpeg
+- file: images/passeriformes/cotingidae/lipaugus-fuscocinereus/4.jpg
+  page: https://www.inaturalist.org/photos/259578668
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259578668/original.jpeg
+- file: images/passeriformes/cotingidae/lipaugus-fuscocinereus/5.jpg
+  page: https://www.inaturalist.org/photos/179288783
+  author: My-Lan Le
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179288783/original.jpeg
 ---
 
 

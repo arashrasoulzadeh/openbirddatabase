@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/spiloptila-clamans/1.jpg
+  page: https://www.inaturalist.org/photos/661030356
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030356/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/spiloptila-clamans/1.jpg
+  page: https://www.inaturalist.org/photos/661030356
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030356/original.jpg
+- file: images/passeriformes/cisticolidae/spiloptila-clamans/2.jpg
+  page: https://www.inaturalist.org/photos/475850303
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475850303/original.jpeg
+- file: images/passeriformes/cisticolidae/spiloptila-clamans/3.jpg
+  page: https://www.inaturalist.org/photos/477856397
+  author: Demian Hiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477856397/original.jpg
+- file: images/passeriformes/cisticolidae/spiloptila-clamans/4.jpg
+  page: https://www.inaturalist.org/photos/590961263
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590961263/original.jpg
+- file: images/passeriformes/cisticolidae/spiloptila-clamans/5.jpg
+  page: https://www.inaturalist.org/photos/341779871
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341779871/original.jpg
 ---
 
 

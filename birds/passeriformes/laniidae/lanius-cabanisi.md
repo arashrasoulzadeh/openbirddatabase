@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/716611951
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716611951/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/716611951
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716611951/original.jpg
+- file: images/passeriformes/laniidae/lanius-cabanisi/2.jpg
+  page: https://www.inaturalist.org/photos/701149647
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701149647/original.jpg
+- file: images/passeriformes/laniidae/lanius-cabanisi/3.jpg
+  page: https://www.inaturalist.org/photos/717775618
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717775618/original.jpg
+- file: images/passeriformes/laniidae/lanius-cabanisi/4.jpg
+  page: https://www.inaturalist.org/photos/722907247
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722907247/original.jpg
+- file: images/passeriformes/laniidae/lanius-cabanisi/5.jpg
+  page: https://www.inaturalist.org/photos/716611952
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716611952/original.jpg
 ---
 
 

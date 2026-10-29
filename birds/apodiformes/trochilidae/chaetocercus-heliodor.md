@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chaetocercus-heliodor/1.jpg
+  page: https://www.inaturalist.org/photos/609932469
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609932469/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chaetocercus-heliodor/1.jpg
+  page: https://www.inaturalist.org/photos/609932469
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609932469/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-heliodor/2.jpg
+  page: https://www.inaturalist.org/photos/394124537
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394124537/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-heliodor/3.jpg
+  page: https://www.inaturalist.org/photos/264013247
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264013247/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-heliodor/4.jpg
+  page: https://www.inaturalist.org/photos/260007507
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260007507/original.jpeg
+- file: images/apodiformes/trochilidae/chaetocercus-heliodor/5.jpg
+  page: https://www.inaturalist.org/photos/586421853
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586421853/original.jpg
 ---
 
 

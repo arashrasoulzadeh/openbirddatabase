@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.7
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 62.8
   tail_length_mm: 54.8
   body_mass_g: 12.2
+image:
+  file: images/passeriformes/vireonidae/vireo-hypochryseus/1.jpg
+  page: https://www.inaturalist.org/photos/606750561
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606750561/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-hypochryseus/1.jpg
+  page: https://www.inaturalist.org/photos/606750561
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606750561/original.jpg
+- file: images/passeriformes/vireonidae/vireo-hypochryseus/2.jpg
+  page: https://www.inaturalist.org/photos/616116329
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616116329/original.jpg
+- file: images/passeriformes/vireonidae/vireo-hypochryseus/3.jpg
+  page: https://www.inaturalist.org/photos/627594960
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627594960/original.jpg
+- file: images/passeriformes/vireonidae/vireo-hypochryseus/4.jpg
+  page: https://www.inaturalist.org/photos/638860792
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638860792/original.jpg
+- file: images/passeriformes/vireonidae/vireo-hypochryseus/5.jpg
+  page: https://www.inaturalist.org/photos/631223185
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631223185/original.jpg
 ---
 
 

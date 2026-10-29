@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/bolbopsittacus-lunulatus/1.jpg
+  page: https://www.inaturalist.org/photos/493781883
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493781883/original.jpeg
+images:
+- file: images/psittaciformes/psittaculidae/bolbopsittacus-lunulatus/1.jpg
+  page: https://www.inaturalist.org/photos/493781883
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493781883/original.jpeg
+- file: images/psittaciformes/psittaculidae/bolbopsittacus-lunulatus/2.jpg
+  page: https://www.inaturalist.org/photos/270923580
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270923580/original.jpg
+- file: images/psittaciformes/psittaculidae/bolbopsittacus-lunulatus/3.jpg
+  page: https://www.inaturalist.org/photos/373542524
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373542524/original.jpg
+- file: images/psittaciformes/psittaculidae/bolbopsittacus-lunulatus/4.jpg
+  page: https://www.inaturalist.org/photos/373621901
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373621901/original.jpg
+- file: images/psittaciformes/psittaculidae/bolbopsittacus-lunulatus/5.jpg
+  page: https://www.inaturalist.org/photos/304819256
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304819256/original.jpg
 ---
 
 

@@ -176,10 +176,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/charadriiformes/burhinidae/burhinus-oedicnemus/1.jpg
+  page: https://www.inaturalist.org/photos/610994527
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610994527/original.jpg
+images:
+- file: images/charadriiformes/burhinidae/burhinus-oedicnemus/1.jpg
+  page: https://www.inaturalist.org/photos/610994527
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610994527/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-oedicnemus/2.jpg
+  page: https://www.inaturalist.org/photos/611415477
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611415477/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-oedicnemus/3.jpg
+  page: https://www.inaturalist.org/photos/616753475
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616753475/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-oedicnemus/4.jpg
+  page: https://www.inaturalist.org/photos/619772549
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619772549/original.jpg
+- file: images/charadriiformes/burhinidae/burhinus-oedicnemus/5.jpg
+  page: https://www.inaturalist.org/photos/624563615
+  author: Nicolás Tamargo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624563615/original.jpg
 ---
 
 

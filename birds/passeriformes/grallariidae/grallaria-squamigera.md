@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-squamigera/1.jpg
+  page: https://www.inaturalist.org/photos/610573683
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610573683/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-squamigera/1.jpg
+  page: https://www.inaturalist.org/photos/610573683
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610573683/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-squamigera/2.jpg
+  page: https://www.inaturalist.org/photos/554365982
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554365982/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-squamigera/3.jpg
+  page: https://www.inaturalist.org/photos/485341832
+  author: Russell Parsons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485341832/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-squamigera/4.jpg
+  page: https://www.inaturalist.org/photos/320655811
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320655811/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-squamigera/5.jpg
+  page: https://www.inaturalist.org/photos/164219522
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164219522/original.jpeg
 ---
 
 

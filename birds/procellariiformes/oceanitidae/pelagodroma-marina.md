@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/procellariiformes/oceanitidae/pelagodroma-marina/1.jpg
+  page: https://www.inaturalist.org/photos/614961883
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614961883/original.jpg
+images:
+- file: images/procellariiformes/oceanitidae/pelagodroma-marina/1.jpg
+  page: https://www.inaturalist.org/photos/614961883
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614961883/original.jpg
+- file: images/procellariiformes/oceanitidae/pelagodroma-marina/2.jpg
+  page: https://www.inaturalist.org/photos/625216984
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625216984/original.jpg
+- file: images/procellariiformes/oceanitidae/pelagodroma-marina/3.jpg
+  page: https://www.inaturalist.org/photos/629901312
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629901312/original.jpg
+- file: images/procellariiformes/oceanitidae/pelagodroma-marina/4.jpg
+  page: https://www.inaturalist.org/photos/638068508
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638068508/original.jpg
+- file: images/procellariiformes/oceanitidae/pelagodroma-marina/5.jpg
+  page: https://www.inaturalist.org/photos/654367156
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367156/original.jpg
 ---
 
 

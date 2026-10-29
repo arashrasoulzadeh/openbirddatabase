@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/psittaciformes/psittacidae/forpus-xanthops/1.jpg
+  page: https://www.inaturalist.org/photos/622146892
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622146892/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/forpus-xanthops/1.jpg
+  page: https://www.inaturalist.org/photos/622146892
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622146892/original.jpg
+- file: images/psittaciformes/psittacidae/forpus-xanthops/2.jpg
+  page: https://www.inaturalist.org/photos/730001266
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730001266/original.jpg
+- file: images/psittaciformes/psittacidae/forpus-xanthops/3.jpg
+  page: https://www.inaturalist.org/photos/475681456
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475681456/original.jpeg
+- file: images/psittaciformes/psittacidae/forpus-xanthops/4.jpg
+  page: https://www.inaturalist.org/photos/552109193
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552109193/original.jpg
+- file: images/psittaciformes/psittacidae/forpus-xanthops/5.jpg
+  page: https://www.inaturalist.org/photos/375522220
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375522220/original.jpeg
 ---
 
 

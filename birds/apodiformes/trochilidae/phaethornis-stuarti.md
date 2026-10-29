@@ -146,8 +146,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-stuarti/1.jpg
+  page: https://www.inaturalist.org/photos/331381911
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331381911/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-stuarti/1.jpg
+  page: https://www.inaturalist.org/photos/331381911
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331381911/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-stuarti/2.jpg
+  page: https://www.inaturalist.org/photos/159156924
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/159156924/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-stuarti/3.jpg
+  page: https://www.inaturalist.org/photos/331381931
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331381931/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-stuarti/4.jpg
+  page: https://www.inaturalist.org/photos/331381933
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331381933/original.jpeg
 ---
 
 

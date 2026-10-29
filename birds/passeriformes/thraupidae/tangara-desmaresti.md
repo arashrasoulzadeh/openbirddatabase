@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-desmaresti/1.jpg
+  page: https://www.inaturalist.org/photos/609321134
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321134/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-desmaresti/1.jpg
+  page: https://www.inaturalist.org/photos/609321134
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321134/original.jpg
+- file: images/passeriformes/thraupidae/tangara-desmaresti/2.jpg
+  page: https://www.inaturalist.org/photos/617454952
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617454952/original.jpg
+- file: images/passeriformes/thraupidae/tangara-desmaresti/3.jpg
+  page: https://www.inaturalist.org/photos/620380784
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620380784/original.jpg
+- file: images/passeriformes/thraupidae/tangara-desmaresti/4.jpg
+  page: https://www.inaturalist.org/photos/633176955
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633176955/original.jpg
+- file: images/passeriformes/thraupidae/tangara-desmaresti/5.jpg
+  page: https://www.inaturalist.org/photos/645710377
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645710377/original.jpg
 ---
 
 

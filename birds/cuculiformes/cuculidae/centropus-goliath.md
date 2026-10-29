@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-goliath/1.jpg
+  page: https://www.inaturalist.org/photos/708798828
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708798828/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-goliath/1.jpg
+  page: https://www.inaturalist.org/photos/708798828
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708798828/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-goliath/2.jpg
+  page: https://www.inaturalist.org/photos/526333968
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333968/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-goliath/3.jpg
+  page: https://www.inaturalist.org/photos/313070562
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313070562/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-goliath/4.jpg
+  page: https://www.inaturalist.org/photos/107893512
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107893512/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-goliath/5.jpg
+  page: https://www.inaturalist.org/photos/710675924
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710675924/original.jpg
 ---
 
 

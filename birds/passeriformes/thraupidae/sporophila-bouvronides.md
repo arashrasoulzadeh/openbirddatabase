@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-bouvronides/1.jpg
+  page: https://www.inaturalist.org/photos/612370854
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612370854/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-bouvronides/1.jpg
+  page: https://www.inaturalist.org/photos/612370854
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612370854/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-bouvronides/2.jpg
+  page: https://www.inaturalist.org/photos/618752028
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618752028/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-bouvronides/3.jpg
+  page: https://www.inaturalist.org/photos/518101216
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518101216/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-bouvronides/4.jpg
+  page: https://www.inaturalist.org/photos/569160379
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569160379/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-bouvronides/5.jpg
+  page: https://www.inaturalist.org/photos/351652746
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351652746/original.jpg
 ---
 
 

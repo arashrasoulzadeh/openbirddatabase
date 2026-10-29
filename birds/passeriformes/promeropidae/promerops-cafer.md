@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/promeropidae/promerops-cafer/1.jpg
+  page: https://www.inaturalist.org/photos/610614007
+  author: William Keenan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610614007/original.jpg
+images:
+- file: images/passeriformes/promeropidae/promerops-cafer/1.jpg
+  page: https://www.inaturalist.org/photos/610614007
+  author: William Keenan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610614007/original.jpg
+- file: images/passeriformes/promeropidae/promerops-cafer/2.jpg
+  page: https://www.inaturalist.org/photos/607189849
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607189849/original.jpg
+- file: images/passeriformes/promeropidae/promerops-cafer/3.jpg
+  page: https://www.inaturalist.org/photos/606402864
+  author: Kisha Langeveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606402864/original.jpg
+- file: images/passeriformes/promeropidae/promerops-cafer/4.jpg
+  page: https://www.inaturalist.org/photos/610989147
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610989147/original.jpg
+- file: images/passeriformes/promeropidae/promerops-cafer/5.jpg
+  page: https://www.inaturalist.org/photos/612186470
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612186470/original.jpg
 ---
 
 

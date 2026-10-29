@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/piciformes/picidae/colaptes-auratus/1.jpg
+  page: https://www.inaturalist.org/photos/605207055
+  author: Daryl Nolan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605207055/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-auratus/1.jpg
+  page: https://www.inaturalist.org/photos/605207055
+  author: Daryl Nolan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605207055/original.jpg
+- file: images/piciformes/picidae/colaptes-auratus/2.jpg
+  page: https://www.inaturalist.org/photos/604656927
+  author: Steve Young
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604656927/original.jpg
+- file: images/piciformes/picidae/colaptes-auratus/3.jpg
+  page: https://www.inaturalist.org/photos/605561965
+  author: Joshua Zupan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605561965/original.jpg
+- file: images/piciformes/picidae/colaptes-auratus/4.jpg
+  page: https://www.inaturalist.org/photos/605096118
+  author: Jared Tholen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605096118/original.jpg
+- file: images/piciformes/picidae/colaptes-auratus/5.jpg
+  page: https://www.inaturalist.org/photos/605363230
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605363230/original.jpg
 ---
 
 

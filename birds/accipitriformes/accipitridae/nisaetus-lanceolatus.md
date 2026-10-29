@@ -129,8 +129,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/nisaetus-lanceolatus/1.jpg
+  page: https://www.inaturalist.org/photos/526015272
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526015272/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/nisaetus-lanceolatus/1.jpg
+  page: https://www.inaturalist.org/photos/526015272
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526015272/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-lanceolatus/2.jpg
+  page: https://www.inaturalist.org/photos/471160746
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471160746/original.jpeg
+- file: images/accipitriformes/accipitridae/nisaetus-lanceolatus/3.jpg
+  page: https://www.inaturalist.org/photos/312019338
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/312019338/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-lanceolatus/4.jpg
+  page: https://www.inaturalist.org/photos/338295289
+  author: Steven Soltesz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338295289/original.jpeg
+- file: images/accipitriformes/accipitridae/nisaetus-lanceolatus/5.jpg
+  page: https://www.inaturalist.org/photos/229675928
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/229675928/original.jpeg
 ---
 
 

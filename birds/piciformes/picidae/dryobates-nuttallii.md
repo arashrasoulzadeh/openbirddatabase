@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dryobates-nuttallii/1.jpg
+  page: https://www.inaturalist.org/photos/605288337
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605288337/original.jpg
+images:
+- file: images/piciformes/picidae/dryobates-nuttallii/1.jpg
+  page: https://www.inaturalist.org/photos/605288337
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605288337/original.jpg
+- file: images/piciformes/picidae/dryobates-nuttallii/2.jpg
+  page: https://www.inaturalist.org/photos/610080375
+  author: Bennett Grappone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610080375/original.jpg
+- file: images/piciformes/picidae/dryobates-nuttallii/3.jpg
+  page: https://www.inaturalist.org/photos/607484750
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607484750/original.jpg
+- file: images/piciformes/picidae/dryobates-nuttallii/4.jpg
+  page: https://www.inaturalist.org/photos/607003161
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607003161/original.jpg
+- file: images/piciformes/picidae/dryobates-nuttallii/5.jpg
+  page: https://www.inaturalist.org/photos/607300892
+  author: Aniket Murarka
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607300892/original.jpg
 ---
 
 

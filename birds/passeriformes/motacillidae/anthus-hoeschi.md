@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/motacillidae/anthus-hoeschi/1.jpg
+  page: https://www.inaturalist.org/photos/357667053
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357667053/original.jpeg
+images:
+- file: images/passeriformes/motacillidae/anthus-hoeschi/1.jpg
+  page: https://www.inaturalist.org/photos/357667053
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357667053/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-hoeschi/2.jpg
+  page: https://www.inaturalist.org/photos/15855332
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/15855332/original.jpg
+- file: images/passeriformes/motacillidae/anthus-hoeschi/3.jpg
+  page: https://www.inaturalist.org/photos/200356445
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/200356445/original.jpg
+- file: images/passeriformes/motacillidae/anthus-hoeschi/4.jpg
+  page: https://www.inaturalist.org/photos/93099664
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/93099664/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-hoeschi/5.jpg
+  page: https://www.inaturalist.org/photos/357667033
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357667033/original.jpeg
 ---
 
 

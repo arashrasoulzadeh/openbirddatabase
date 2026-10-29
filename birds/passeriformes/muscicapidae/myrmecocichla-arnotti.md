@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/myrmecocichla-arnotti/1.jpg
+  page: https://www.inaturalist.org/photos/623256089
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623256089/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myrmecocichla-arnotti/1.jpg
+  page: https://www.inaturalist.org/photos/623256089
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623256089/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-arnotti/2.jpg
+  page: https://www.inaturalist.org/photos/553275686
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553275686/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-arnotti/3.jpg
+  page: https://www.inaturalist.org/photos/585167282
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585167282/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-arnotti/4.jpg
+  page: https://www.inaturalist.org/photos/587841532
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587841532/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-arnotti/5.jpg
+  page: https://www.inaturalist.org/photos/643512019
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643512019/original.jpg
 ---
 
 

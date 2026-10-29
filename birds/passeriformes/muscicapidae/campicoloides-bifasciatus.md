@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/campicoloides-bifasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/617720615
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617720615/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/campicoloides-bifasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/617720615
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617720615/original.jpg
+- file: images/passeriformes/muscicapidae/campicoloides-bifasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/627206863
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627206863/original.jpg
+- file: images/passeriformes/muscicapidae/campicoloides-bifasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/484415606
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484415606/original.jpeg
+- file: images/passeriformes/muscicapidae/campicoloides-bifasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/530122265
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530122265/original.jpg
+- file: images/passeriformes/muscicapidae/campicoloides-bifasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/627206980
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627206980/original.jpg
 ---
 
 

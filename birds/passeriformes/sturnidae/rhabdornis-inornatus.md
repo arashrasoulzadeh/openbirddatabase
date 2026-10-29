@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/rhabdornis-inornatus/1.jpg
+  page: https://www.inaturalist.org/photos/628387254
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628387254/original.jpg
+images:
+- file: images/passeriformes/sturnidae/rhabdornis-inornatus/1.jpg
+  page: https://www.inaturalist.org/photos/628387254
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628387254/original.jpg
+- file: images/passeriformes/sturnidae/rhabdornis-inornatus/2.jpg
+  page: https://www.inaturalist.org/photos/267306612
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267306612/original.jpg
+- file: images/passeriformes/sturnidae/rhabdornis-inornatus/3.jpg
+  page: https://www.inaturalist.org/photos/628387261
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628387261/original.jpg
+- file: images/passeriformes/sturnidae/rhabdornis-inornatus/4.jpg
+  page: https://www.inaturalist.org/photos/218399746
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218399746/original.jpg
+- file: images/passeriformes/sturnidae/rhabdornis-inornatus/5.jpg
+  page: https://www.inaturalist.org/photos/218400704
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218400704/original.jpg
 ---
 
 

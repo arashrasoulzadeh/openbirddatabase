@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-chrysopterum/1.jpg
+  page: https://www.inaturalist.org/photos/721131494
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721131494/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-chrysopterum/1.jpg
+  page: https://www.inaturalist.org/photos/721131494
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721131494/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-chrysopterum/2.jpg
+  page: https://www.inaturalist.org/photos/479298026
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479298026/original.jpeg
+- file: images/passeriformes/leiothrichidae/trochalopteron-chrysopterum/3.jpg
+  page: https://www.inaturalist.org/photos/514439957
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514439957/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-chrysopterum/4.jpg
+  page: https://www.inaturalist.org/photos/63645010
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63645010/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-chrysopterum/5.jpg
+  page: https://www.inaturalist.org/photos/721131496
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721131496/original.jpg
 ---
 
 

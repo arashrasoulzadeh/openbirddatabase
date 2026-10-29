@@ -147,10 +147,49 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/procellariiformes/procellariidae/bulweria-fallax/1.jpg
+  page: https://www.inaturalist.org/photos/636199055
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636199055/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/bulweria-fallax/1.jpg
+  page: https://www.inaturalist.org/photos/636199055
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636199055/original.jpg
+- file: images/procellariiformes/procellariidae/bulweria-fallax/2.jpg
+  page: https://www.inaturalist.org/photos/300734565
+  author: Shaunak Modi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/300734565/original.jpg
+- file: images/procellariiformes/procellariidae/bulweria-fallax/3.jpg
+  page: https://www.inaturalist.org/photos/2537078
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2537078/original.JPG
+- file: images/procellariiformes/procellariidae/bulweria-fallax/4.jpg
+  page: https://www.inaturalist.org/photos/92253454
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92253454/original.jpg
+- file: images/procellariiformes/procellariidae/bulweria-fallax/5.jpg
+  page: https://www.inaturalist.org/photos/636199054
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636199054/original.jpg
 ---
 
 

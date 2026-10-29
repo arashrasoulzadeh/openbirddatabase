@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterornis-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/618611735
+  author: Gajananan Niranjanan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618611735/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterornis-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/618611735
+  author: Gajananan Niranjanan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618611735/original.jpg
+- file: images/passeriformes/zosteropidae/zosterornis-whiteheadi/2.jpg
+  page: https://www.inaturalist.org/photos/344618702
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344618702/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterornis-whiteheadi/3.jpg
+  page: https://www.inaturalist.org/photos/201482367
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/201482367/original.jpg
+- file: images/passeriformes/zosteropidae/zosterornis-whiteheadi/4.jpg
+  page: https://www.inaturalist.org/photos/201482653
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/201482653/original.jpg
+- file: images/passeriformes/zosteropidae/zosterornis-whiteheadi/5.jpg
+  page: https://www.inaturalist.org/photos/206924060
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/206924060/original.jpg
 ---
 
 

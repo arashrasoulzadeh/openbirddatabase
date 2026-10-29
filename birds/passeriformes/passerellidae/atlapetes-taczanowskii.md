@@ -133,8 +133,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-taczanowskii/1.jpg
+  page: https://www.inaturalist.org/photos/612903768
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612903768/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-taczanowskii/1.jpg
+  page: https://www.inaturalist.org/photos/612903768
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612903768/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-taczanowskii/2.jpg
+  page: https://www.inaturalist.org/photos/622971247
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622971247/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-taczanowskii/3.jpg
+  page: https://www.inaturalist.org/photos/637419514
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637419514/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-taczanowskii/4.jpg
+  page: https://www.inaturalist.org/photos/689933572
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689933572/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-taczanowskii/5.jpg
+  page: https://www.inaturalist.org/photos/719335383
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719335383/original.jpg
 ---
 
 

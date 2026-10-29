@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-lichtensteinii/1.jpg
+  page: https://www.inaturalist.org/photos/616905842
+  author: Mehdi Chetibi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616905842/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-lichtensteinii/1.jpg
+  page: https://www.inaturalist.org/photos/616905842
+  author: Mehdi Chetibi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616905842/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-lichtensteinii/2.jpg
+  page: https://www.inaturalist.org/photos/617480980
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617480980/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-lichtensteinii/3.jpg
+  page: https://www.inaturalist.org/photos/631935731
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631935731/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-lichtensteinii/4.jpg
+  page: https://www.inaturalist.org/photos/585120748
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585120748/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-lichtensteinii/5.jpg
+  page: https://www.inaturalist.org/photos/612147911
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612147911/original.jpg
 ---
 
 

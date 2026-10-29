@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/melanocharitidae/toxorhamphus-novaeguineae/1.jpg
+  page: https://www.inaturalist.org/photos/572655714
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572655714/original.jpg
+images:
+- file: images/passeriformes/melanocharitidae/toxorhamphus-novaeguineae/1.jpg
+  page: https://www.inaturalist.org/photos/572655714
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572655714/original.jpg
+- file: images/passeriformes/melanocharitidae/toxorhamphus-novaeguineae/2.jpg
+  page: https://www.inaturalist.org/photos/597656400
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597656400/original.jpg
+- file: images/passeriformes/melanocharitidae/toxorhamphus-novaeguineae/3.jpg
+  page: https://www.inaturalist.org/photos/690096329
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690096329/original.jpg
+- file: images/passeriformes/melanocharitidae/toxorhamphus-novaeguineae/4.jpg
+  page: https://www.inaturalist.org/photos/314862156
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314862156/original.jpg
+- file: images/passeriformes/melanocharitidae/toxorhamphus-novaeguineae/5.jpg
+  page: https://www.inaturalist.org/photos/572655728
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572655728/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/machaeropterus-regulus/1.jpg
+  page: https://www.inaturalist.org/photos/502037829
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502037829/original.jpeg
+images:
+- file: images/passeriformes/pipridae/machaeropterus-regulus/1.jpg
+  page: https://www.inaturalist.org/photos/502037829
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502037829/original.jpeg
+- file: images/passeriformes/pipridae/machaeropterus-regulus/2.jpg
+  page: https://www.inaturalist.org/photos/532942525
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532942525/original.jpg
+- file: images/passeriformes/pipridae/machaeropterus-regulus/3.jpg
+  page: https://www.inaturalist.org/photos/532543733
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532543733/original.jpg
+- file: images/passeriformes/pipridae/machaeropterus-regulus/4.jpg
+  page: https://www.inaturalist.org/photos/363764924
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363764924/original.jpeg
+- file: images/passeriformes/pipridae/machaeropterus-regulus/5.jpg
+  page: https://www.inaturalist.org/photos/415854571
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/415854571/original.jpg
 ---
 
 

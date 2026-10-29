@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/chersomanes-albofasciata/1.jpg
+  page: https://www.inaturalist.org/photos/609666566
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609666566/original.jpg
+images:
+- file: images/passeriformes/alaudidae/chersomanes-albofasciata/1.jpg
+  page: https://www.inaturalist.org/photos/609666566
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609666566/original.jpg
+- file: images/passeriformes/alaudidae/chersomanes-albofasciata/2.jpg
+  page: https://www.inaturalist.org/photos/716222461
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716222461/original.jpg
+- file: images/passeriformes/alaudidae/chersomanes-albofasciata/3.jpg
+  page: https://www.inaturalist.org/photos/729373540
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729373540/original.jpg
+- file: images/passeriformes/alaudidae/chersomanes-albofasciata/4.jpg
+  page: https://www.inaturalist.org/photos/537555965
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537555965/original.jpg
+- file: images/passeriformes/alaudidae/chersomanes-albofasciata/5.jpg
+  page: https://www.inaturalist.org/photos/609666585
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609666585/original.jpg
 ---
 
 

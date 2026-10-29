@@ -135,7 +135,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 17.6
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 78.5
   tail_length_mm: 77.8
   body_mass_g: 22.7
+image:
+  file: images/passeriformes/motacillidae/motacilla-samveasnae/1.jpg
+  page: https://www.inaturalist.org/photos/283743697
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283743697/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-samveasnae/1.jpg
+  page: https://www.inaturalist.org/photos/283743697
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283743697/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-samveasnae/2.jpg
+  page: https://www.inaturalist.org/photos/547423533
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547423533/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-samveasnae/3.jpg
+  page: https://www.inaturalist.org/photos/283743708
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283743708/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-samveasnae/4.jpg
+  page: https://www.inaturalist.org/photos/283743740
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283743740/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-samveasnae/5.jpg
+  page: https://www.inaturalist.org/photos/283743753
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283743753/original.jpg
 ---
 
 

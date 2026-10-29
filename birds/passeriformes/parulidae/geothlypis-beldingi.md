@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/geothlypis-beldingi/1.jpg
+  page: https://www.inaturalist.org/photos/469944642
+  author: Bill Levine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469944642/original.jpeg
+images:
+- file: images/passeriformes/parulidae/geothlypis-beldingi/1.jpg
+  page: https://www.inaturalist.org/photos/469944642
+  author: Bill Levine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469944642/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-beldingi/2.jpg
+  page: https://www.inaturalist.org/photos/477240059
+  author: MarvalPhotography19
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477240059/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-beldingi/3.jpg
+  page: https://www.inaturalist.org/photos/476334158
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476334158/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-beldingi/4.jpg
+  page: https://www.inaturalist.org/photos/476334143
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476334143/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-beldingi/5.jpg
+  page: https://www.inaturalist.org/photos/476334179
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476334179/original.jpeg
 ---
 
 

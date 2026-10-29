@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/nothoprocta-perdicaria/1.jpg
+  page: https://www.inaturalist.org/photos/620763565
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620763565/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/nothoprocta-perdicaria/1.jpg
+  page: https://www.inaturalist.org/photos/620763565
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620763565/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-perdicaria/2.jpg
+  page: https://www.inaturalist.org/photos/676721898
+  author: Duban Espinoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676721898/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-perdicaria/3.jpg
+  page: https://www.inaturalist.org/photos/685362920
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685362920/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-perdicaria/4.jpg
+  page: https://www.inaturalist.org/photos/480409377
+  author: nitsuga74
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480409377/original.jpg
+- file: images/tinamiformes/tinamidae/nothoprocta-perdicaria/5.jpg
+  page: https://www.inaturalist.org/photos/498596562
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498596562/original.jpg
 ---
 
 

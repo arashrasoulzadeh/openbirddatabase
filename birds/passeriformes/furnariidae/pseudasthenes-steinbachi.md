@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/pseudasthenes-steinbachi/1.jpg
+  page: https://www.inaturalist.org/photos/618422819
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618422819/original.jpg
+images:
+- file: images/passeriformes/furnariidae/pseudasthenes-steinbachi/1.jpg
+  page: https://www.inaturalist.org/photos/618422819
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618422819/original.jpg
+- file: images/passeriformes/furnariidae/pseudasthenes-steinbachi/2.jpg
+  page: https://www.inaturalist.org/photos/602755131
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602755131/original.jpg
+- file: images/passeriformes/furnariidae/pseudasthenes-steinbachi/3.jpg
+  page: https://www.inaturalist.org/photos/452619503
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452619503/original.jpg
+- file: images/passeriformes/furnariidae/pseudasthenes-steinbachi/4.jpg
+  page: https://www.inaturalist.org/photos/259599695
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259599695/original.jpg
+- file: images/passeriformes/furnariidae/pseudasthenes-steinbachi/5.jpg
+  page: https://www.inaturalist.org/photos/258692955
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258692955/original.jpg
 ---
 
 

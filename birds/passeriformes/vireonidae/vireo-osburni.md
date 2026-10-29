@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireo-osburni/1.jpg
+  page: https://www.inaturalist.org/photos/469772318
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469772318/original.jpeg
+images:
+- file: images/passeriformes/vireonidae/vireo-osburni/1.jpg
+  page: https://www.inaturalist.org/photos/469772318
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469772318/original.jpeg
+- file: images/passeriformes/vireonidae/vireo-osburni/2.jpg
+  page: https://www.inaturalist.org/photos/353750857
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353750857/original.jpg
+- file: images/passeriformes/vireonidae/vireo-osburni/3.jpg
+  page: https://www.inaturalist.org/photos/176988568
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176988568/original.jpg
+- file: images/passeriformes/vireonidae/vireo-osburni/4.jpg
+  page: https://www.inaturalist.org/photos/353750866
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353750866/original.jpg
+- file: images/passeriformes/vireonidae/vireo-osburni/5.jpg
+  page: https://www.inaturalist.org/photos/353750868
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353750868/original.jpg
 ---
 
 

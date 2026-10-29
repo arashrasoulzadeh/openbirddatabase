@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-derbiana/1.jpg
+  page: https://www.inaturalist.org/photos/640758036
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640758036/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-derbiana/1.jpg
+  page: https://www.inaturalist.org/photos/640758036
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640758036/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-derbiana/2.jpg
+  page: https://www.inaturalist.org/photos/529161903
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529161903/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-derbiana/3.jpg
+  page: https://www.inaturalist.org/photos/550252764
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550252764/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-derbiana/4.jpg
+  page: https://www.inaturalist.org/photos/580468424
+  author: Charlie Farrell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580468424/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-derbiana/5.jpg
+  page: https://www.inaturalist.org/photos/367800489
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800489/original.jpg
 ---
 
 

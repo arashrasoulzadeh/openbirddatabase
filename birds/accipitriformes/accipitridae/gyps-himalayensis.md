@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/gyps-himalayensis/1.jpg
+  page: https://www.inaturalist.org/photos/609684585
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684585/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/gyps-himalayensis/1.jpg
+  page: https://www.inaturalist.org/photos/609684585
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684585/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-himalayensis/2.jpg
+  page: https://www.inaturalist.org/photos/617109723
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617109723/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-himalayensis/3.jpg
+  page: https://www.inaturalist.org/photos/627273321
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627273321/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-himalayensis/4.jpg
+  page: https://www.inaturalist.org/photos/626644436
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626644436/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-himalayensis/5.jpg
+  page: https://www.inaturalist.org/photos/609684586
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684586/original.jpg
 ---
 
 

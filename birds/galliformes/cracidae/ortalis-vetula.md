@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/galliformes/cracidae/ortalis-vetula/1.jpg
+  page: https://www.inaturalist.org/photos/605553371
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605553371/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-vetula/1.jpg
+  page: https://www.inaturalist.org/photos/605553371
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605553371/original.jpg
+- file: images/galliformes/cracidae/ortalis-vetula/2.jpg
+  page: https://www.inaturalist.org/photos/606628559
+  author: Frédérique
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606628559/original.jpg
+- file: images/galliformes/cracidae/ortalis-vetula/3.jpg
+  page: https://www.inaturalist.org/photos/610511700
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610511700/original.jpg
+- file: images/galliformes/cracidae/ortalis-vetula/4.jpg
+  page: https://www.inaturalist.org/photos/607721276
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607721276/original.jpg
+- file: images/galliformes/cracidae/ortalis-vetula/5.jpg
+  page: https://www.inaturalist.org/photos/610266878
+  author: Luc Wyn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610266878/original.jpg
 ---
 
 

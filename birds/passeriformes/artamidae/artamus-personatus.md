@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/artamus-personatus/1.jpg
+  page: https://www.inaturalist.org/photos/745293918
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745293918/original.jpg
+images:
+- file: images/passeriformes/artamidae/artamus-personatus/1.jpg
+  page: https://www.inaturalist.org/photos/745293918
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745293918/original.jpg
+- file: images/passeriformes/artamidae/artamus-personatus/2.jpg
+  page: https://www.inaturalist.org/photos/470439737
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470439737/original.jpeg
+- file: images/passeriformes/artamidae/artamus-personatus/3.jpg
+  page: https://www.inaturalist.org/photos/745293916
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745293916/original.jpg
+- file: images/passeriformes/artamidae/artamus-personatus/4.jpg
+  page: https://www.inaturalist.org/photos/745293905
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745293905/original.jpg
+- file: images/passeriformes/artamidae/artamus-personatus/5.jpg
+  page: https://www.inaturalist.org/photos/745293896
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745293896/original.jpg
 ---
 
 

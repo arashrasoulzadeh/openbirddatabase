@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/leioptila-annectens/1.jpg
+  page: https://www.inaturalist.org/photos/612585341
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612585341/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/leioptila-annectens/1.jpg
+  page: https://www.inaturalist.org/photos/612585341
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612585341/original.jpg
+- file: images/passeriformes/leiothrichidae/leioptila-annectens/2.jpg
+  page: https://www.inaturalist.org/photos/626238501
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626238501/original.jpg
+- file: images/passeriformes/leiothrichidae/leioptila-annectens/3.jpg
+  page: https://www.inaturalist.org/photos/468222798
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468222798/original.jpeg
+- file: images/passeriformes/leiothrichidae/leioptila-annectens/4.jpg
+  page: https://www.inaturalist.org/photos/522674323
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522674323/original.jpg
+- file: images/passeriformes/leiothrichidae/leioptila-annectens/5.jpg
+  page: https://www.inaturalist.org/photos/358956351
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358956351/original.jpeg
 ---
 
 

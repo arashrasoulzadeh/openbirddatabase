@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/poecilotriccus-fumifrons/1.jpg
+  page: https://www.inaturalist.org/photos/635412293
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635412293/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/poecilotriccus-fumifrons/1.jpg
+  page: https://www.inaturalist.org/photos/635412293
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635412293/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-fumifrons/2.jpg
+  page: https://www.inaturalist.org/photos/423535426
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423535426/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-fumifrons/3.jpg
+  page: https://www.inaturalist.org/photos/442519609
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442519609/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-fumifrons/4.jpg
+  page: https://www.inaturalist.org/photos/423535469
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423535469/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-fumifrons/5.jpg
+  page: https://www.inaturalist.org/photos/420881387
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420881387/original.jpeg
 ---
 
 

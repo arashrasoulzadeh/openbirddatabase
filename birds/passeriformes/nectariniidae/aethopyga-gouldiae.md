@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-gouldiae/1.jpg
+  page: https://www.inaturalist.org/photos/609943855
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609943855/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-gouldiae/1.jpg
+  page: https://www.inaturalist.org/photos/609943855
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609943855/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-gouldiae/2.jpg
+  page: https://www.inaturalist.org/photos/625594970
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625594970/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-gouldiae/3.jpg
+  page: https://www.inaturalist.org/photos/631323843
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631323843/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-gouldiae/4.jpg
+  page: https://www.inaturalist.org/photos/625360180
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625360180/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-gouldiae/5.jpg
+  page: https://www.inaturalist.org/photos/683164226
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683164226/original.jpg
 ---
 
 

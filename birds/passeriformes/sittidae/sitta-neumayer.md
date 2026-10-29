@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/sittidae/sitta-neumayer/1.jpg
+  page: https://www.inaturalist.org/photos/635482128
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635482128/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-neumayer/1.jpg
+  page: https://www.inaturalist.org/photos/635482128
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635482128/original.jpg
+- file: images/passeriformes/sittidae/sitta-neumayer/2.jpg
+  page: https://www.inaturalist.org/photos/651603980
+  author: Robin Fokker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651603980/original.jpg
+- file: images/passeriformes/sittidae/sitta-neumayer/3.jpg
+  page: https://www.inaturalist.org/photos/690064143
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690064143/original.jpg
+- file: images/passeriformes/sittidae/sitta-neumayer/4.jpg
+  page: https://www.flickr.com/photos/womullan/55259194639/
+  author: wil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659179885/original.jpg
+- file: images/passeriformes/sittidae/sitta-neumayer/5.jpg
+  page: https://www.inaturalist.org/photos/692951300
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692951300/original.jpg
 ---
 
 

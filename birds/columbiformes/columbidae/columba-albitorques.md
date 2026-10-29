@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-albitorques/1.jpg
+  page: https://www.inaturalist.org/photos/605113172
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605113172/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-albitorques/1.jpg
+  page: https://www.inaturalist.org/photos/605113172
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605113172/original.jpg
+- file: images/columbiformes/columbidae/columba-albitorques/2.jpg
+  page: https://www.inaturalist.org/photos/62983546
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62983546/original.jpg
+- file: images/columbiformes/columbidae/columba-albitorques/3.jpg
+  page: https://www.inaturalist.org/photos/13346279
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13346279/original.jpg
+- file: images/columbiformes/columbidae/columba-albitorques/4.jpg
+  page: https://www.inaturalist.org/photos/67539579
+  author: Brian Henderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/67539579/original.jpg
+- file: images/columbiformes/columbidae/columba-albitorques/5.jpg
+  page: https://www.inaturalist.org/photos/339536750
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339536750/original.jpg
 ---
 
 

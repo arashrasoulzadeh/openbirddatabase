@@ -139,8 +139,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platylophidae/platylophus-galericulatus/1.jpg
+  page: https://www.inaturalist.org/photos/605889850
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605889850/original.jpg
+images:
+- file: images/passeriformes/platylophidae/platylophus-galericulatus/1.jpg
+  page: https://www.inaturalist.org/photos/605889850
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605889850/original.jpg
+- file: images/passeriformes/platylophidae/platylophus-galericulatus/2.jpg
+  page: https://www.inaturalist.org/photos/547323763
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547323763/original.jpg
+- file: images/passeriformes/platylophidae/platylophus-galericulatus/3.jpg
+  page: https://www.inaturalist.org/photos/584298805
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584298805/original.jpg
+- file: images/passeriformes/platylophidae/platylophus-galericulatus/4.jpg
+  page: https://www.inaturalist.org/photos/547323759
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547323759/original.jpg
+- file: images/passeriformes/platylophidae/platylophus-galericulatus/5.jpg
+  page: https://www.inaturalist.org/photos/547323762
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547323762/original.jpg
 ---
 
 

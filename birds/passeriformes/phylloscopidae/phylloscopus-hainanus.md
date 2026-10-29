@@ -136,7 +136,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.1
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 51.5
   tail_length_mm: 38.6
   body_mass_g: 9.5
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-hainanus/1.jpg
+  page: https://www.inaturalist.org/photos/614709643
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709643/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-hainanus/1.jpg
+  page: https://www.inaturalist.org/photos/614709643
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709643/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-hainanus/2.jpg
+  page: https://www.inaturalist.org/photos/390189449
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390189449/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-hainanus/3.jpg
+  page: https://www.inaturalist.org/photos/38157096
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/38157096/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-hainanus/4.jpg
+  page: https://www.inaturalist.org/photos/614709638
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709638/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-hainanus/5.jpg
+  page: https://www.inaturalist.org/photos/614709641
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709641/original.jpg
 ---
 
 

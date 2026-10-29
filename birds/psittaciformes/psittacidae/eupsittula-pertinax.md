@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/eupsittula-pertinax/1.jpg
+  page: https://www.inaturalist.org/photos/605660316
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605660316/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/eupsittula-pertinax/1.jpg
+  page: https://www.inaturalist.org/photos/605660316
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605660316/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-pertinax/2.jpg
+  page: https://www.inaturalist.org/photos/607946073
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607946073/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-pertinax/3.jpg
+  page: https://www.inaturalist.org/photos/610014657
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014657/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-pertinax/4.jpg
+  page: https://www.inaturalist.org/photos/612531449
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612531449/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-pertinax/5.jpg
+  page: https://www.inaturalist.org/photos/617327408
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327408/original.jpg
 ---
 
 

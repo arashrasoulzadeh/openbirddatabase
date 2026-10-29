@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/apodiformes/trochilidae/calypte-costae/1.jpg
+  page: https://www.inaturalist.org/photos/608075350
+  author: k7hpn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608075350/original.jpg
+images:
+- file: images/apodiformes/trochilidae/calypte-costae/1.jpg
+  page: https://www.inaturalist.org/photos/608075350
+  author: k7hpn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608075350/original.jpg
+- file: images/apodiformes/trochilidae/calypte-costae/2.jpg
+  page: https://www.inaturalist.org/photos/608983165
+  author: Eric Klug
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608983165/original.jpg
+- file: images/apodiformes/trochilidae/calypte-costae/3.jpg
+  page: https://www.inaturalist.org/photos/606517933
+  author: Ian McFaul
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606517933/original.jpg
+- file: images/apodiformes/trochilidae/calypte-costae/4.jpg
+  page: https://www.inaturalist.org/photos/607562480
+  author: Katrina Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607562480/original.jpg
+- file: images/apodiformes/trochilidae/calypte-costae/5.jpg
+  page: https://www.inaturalist.org/photos/607075792
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607075792/original.jpg
 ---
 
 

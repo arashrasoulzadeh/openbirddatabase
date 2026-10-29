@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/pyrgilauda-davidiana/1.jpg
+  page: https://www.inaturalist.org/photos/707799754
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707799754/original.jpg
+images:
+- file: images/passeriformes/passeridae/pyrgilauda-davidiana/1.jpg
+  page: https://www.inaturalist.org/photos/707799754
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707799754/original.jpg
+- file: images/passeriformes/passeridae/pyrgilauda-davidiana/2.jpg
+  page: https://www.inaturalist.org/photos/711660966
+  author: Louise Moon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711660966/original.jpg
+- file: images/passeriformes/passeridae/pyrgilauda-davidiana/3.jpg
+  page: https://www.inaturalist.org/photos/463098436
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463098436/original.jpg
+- file: images/passeriformes/passeridae/pyrgilauda-davidiana/4.jpg
+  page: https://www.inaturalist.org/photos/521781175
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521781175/original.jpg
+- file: images/passeriformes/passeridae/pyrgilauda-davidiana/5.jpg
+  page: https://www.inaturalist.org/photos/528640979
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528640979/original.jpg
 ---
 
 

@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 18.0
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 91.0
   tail_length_mm: 67.8
   body_mass_g: 24.3
+image:
+  file: images/passeriformes/campephagidae/lalage-leucopygialis/1.jpg
+  page: https://www.inaturalist.org/photos/735290374
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735290374/original.jpg
+images:
+- file: images/passeriformes/campephagidae/lalage-leucopygialis/1.jpg
+  page: https://www.inaturalist.org/photos/735290374
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735290374/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucopygialis/2.jpg
+  page: https://www.inaturalist.org/photos/471158742
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471158742/original.jpeg
+- file: images/passeriformes/campephagidae/lalage-leucopygialis/3.jpg
+  page: https://www.inaturalist.org/photos/241559120
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241559120/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucopygialis/4.jpg
+  page: https://www.inaturalist.org/photos/339643051
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339643051/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucopygialis/5.jpg
+  page: https://www.inaturalist.org/photos/735290386
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735290386/original.jpg
 ---
 
 

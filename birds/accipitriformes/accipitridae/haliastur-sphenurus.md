@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/accipitriformes/accipitridae/haliastur-sphenurus/1.jpg
+  page: https://www.inaturalist.org/photos/608336068
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608336068/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/haliastur-sphenurus/1.jpg
+  page: https://www.inaturalist.org/photos/608336068
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608336068/original.jpg
+- file: images/accipitriformes/accipitridae/haliastur-sphenurus/2.jpg
+  page: https://www.inaturalist.org/photos/606579956
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606579956/original.jpg
+- file: images/accipitriformes/accipitridae/haliastur-sphenurus/3.jpg
+  page: https://www.inaturalist.org/photos/606579978
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606579978/original.jpg
+- file: images/accipitriformes/accipitridae/haliastur-sphenurus/4.jpg
+  page: https://www.inaturalist.org/photos/612630546
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612630546/original.jpg
+- file: images/accipitriformes/accipitridae/haliastur-sphenurus/5.jpg
+  page: https://www.inaturalist.org/photos/612630604
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612630604/original.jpg
 ---
 
 

@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/463203535
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463203535/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/463203535
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463203535/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/466859537
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466859537/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/572362365
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572362365/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/600056597
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600056597/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/602755265
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602755265/original.jpg
 ---
 
 

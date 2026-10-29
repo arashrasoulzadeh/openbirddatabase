@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/thinornis-cucullatus/1.jpg
+  page: https://www.inaturalist.org/photos/605369366
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605369366/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/thinornis-cucullatus/1.jpg
+  page: https://www.inaturalist.org/photos/605369366
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605369366/original.jpg
+- file: images/charadriiformes/charadriidae/thinornis-cucullatus/2.jpg
+  page: https://www.inaturalist.org/photos/608884885
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608884885/original.jpg
+- file: images/charadriiformes/charadriidae/thinornis-cucullatus/3.jpg
+  page: https://www.inaturalist.org/photos/608563712
+  author: Alex Stuart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608563712/original.jpg
+- file: images/charadriiformes/charadriidae/thinornis-cucullatus/4.jpg
+  page: https://www.inaturalist.org/photos/614242659
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614242659/original.jpg
+- file: images/charadriiformes/charadriidae/thinornis-cucullatus/5.jpg
+  page: https://www.inaturalist.org/photos/608884908
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608884908/original.jpg
 ---
 
 

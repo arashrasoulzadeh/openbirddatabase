@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/charadriiformes/recurvirostridae/recurvirostra-americana/1.jpg
+  page: https://www.inaturalist.org/photos/605122440
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605122440/original.jpg
+images:
+- file: images/charadriiformes/recurvirostridae/recurvirostra-americana/1.jpg
+  page: https://www.inaturalist.org/photos/605122440
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605122440/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-americana/2.jpg
+  page: https://www.inaturalist.org/photos/605181387
+  author: Corey Stafford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605181387/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-americana/3.jpg
+  page: https://www.inaturalist.org/photos/608924752
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608924752/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-americana/4.jpg
+  page: https://www.inaturalist.org/photos/609323881
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609323881/original.jpg
+- file: images/charadriiformes/recurvirostridae/recurvirostra-americana/5.jpg
+  page: https://www.inaturalist.org/photos/606979217
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606979217/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/phegornis-mitchellii/1.jpg
+  page: https://www.inaturalist.org/photos/625015670
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625015670/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/phegornis-mitchellii/1.jpg
+  page: https://www.inaturalist.org/photos/625015670
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625015670/original.jpg
+- file: images/charadriiformes/charadriidae/phegornis-mitchellii/2.jpg
+  page: https://www.inaturalist.org/photos/649865956
+  author: Aira Francisca Faúndez Fallau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649865956/original.jpg
+- file: images/charadriiformes/charadriidae/phegornis-mitchellii/3.jpg
+  page: https://www.inaturalist.org/photos/489577051
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489577051/original.jpg
+- file: images/charadriiformes/charadriidae/phegornis-mitchellii/4.jpg
+  page: https://www.inaturalist.org/photos/495207693
+  author: SebaArosZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495207693/original.jpeg
+- file: images/charadriiformes/charadriidae/phegornis-mitchellii/5.jpg
+  page: https://www.inaturalist.org/photos/540966053
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540966053/original.jpg
 ---
 
 

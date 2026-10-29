@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 30.8
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 143.8
   tail_length_mm: 90.2
   body_mass_g: 89.7
+image:
+  file: images/passeriformes/muscicapidae/myophonus-borneensis/1.jpg
+  page: https://www.inaturalist.org/photos/687441543
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687441543/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myophonus-borneensis/1.jpg
+  page: https://www.inaturalist.org/photos/687441543
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687441543/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-borneensis/2.jpg
+  page: https://www.inaturalist.org/photos/473359545
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473359545/original.jpeg
+- file: images/passeriformes/muscicapidae/myophonus-borneensis/3.jpg
+  page: https://www.inaturalist.org/photos/570368833
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570368833/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-borneensis/4.jpg
+  page: https://www.inaturalist.org/photos/580807446
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580807446/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-borneensis/5.jpg
+  page: https://www.inaturalist.org/photos/484077196
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484077196/original.jpeg
 ---
 
 

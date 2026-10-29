@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/609451740
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609451740/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/609451740
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609451740/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-rufiventris/2.jpg
+  page: https://www.inaturalist.org/photos/721145580
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721145580/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-rufiventris/3.jpg
+  page: https://www.inaturalist.org/photos/669624456
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669624456/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-rufiventris/4.jpg
+  page: https://www.inaturalist.org/photos/468015241
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468015241/original.jpeg
+- file: images/passeriformes/muscicapidae/monticola-rufiventris/5.jpg
+  page: https://www.inaturalist.org/photos/612585275
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612585275/original.jpg
 ---
 
 

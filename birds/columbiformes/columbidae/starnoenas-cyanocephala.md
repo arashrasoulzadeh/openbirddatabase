@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/starnoenas-cyanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/627667326
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627667326/original.jpg
+images:
+- file: images/columbiformes/columbidae/starnoenas-cyanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/627667326
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627667326/original.jpg
+- file: images/columbiformes/columbidae/starnoenas-cyanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/636428865
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636428865/original.jpg
+- file: images/columbiformes/columbidae/starnoenas-cyanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/601780664
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601780664/original.jpg
+- file: images/columbiformes/columbidae/starnoenas-cyanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/610230731
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610230731/original.jpg
+- file: images/columbiformes/columbidae/starnoenas-cyanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/354230708
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354230708/original.jpg
 ---
 
 

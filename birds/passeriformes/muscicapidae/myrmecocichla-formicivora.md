@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/myrmecocichla-formicivora/1.jpg
+  page: https://www.inaturalist.org/photos/609457179
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609457179/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myrmecocichla-formicivora/1.jpg
+  page: https://www.inaturalist.org/photos/609457179
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609457179/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-formicivora/2.jpg
+  page: https://www.inaturalist.org/photos/618069026
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618069026/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-formicivora/3.jpg
+  page: https://www.inaturalist.org/photos/621659890
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621659890/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-formicivora/4.jpg
+  page: https://www.inaturalist.org/photos/638485984
+  author: Ricus Nel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638485984/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-formicivora/5.jpg
+  page: https://www.inaturalist.org/photos/653723400
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653723400/original.jpg
 ---
 
 

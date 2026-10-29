@@ -132,7 +132,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 9.4
@@ -140,6 +141,44 @@ morphology:
   wing_length_mm: 64.2
   tail_length_mm: 37.8
   body_mass_g: 14.0
+image:
+  file: images/passeriformes/fringillidae/chlorophonia-cyanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/700467550
+  author: Guilherme Saito
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700467550/original.jpg
+images:
+- file: images/passeriformes/fringillidae/chlorophonia-cyanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/700467550
+  author: Guilherme Saito
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700467550/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-cyanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/708041401
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708041401/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-cyanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/727045416
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727045416/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-cyanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/723544782
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723544782/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-cyanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/722769255
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722769255/original.jpg
 ---
 
 

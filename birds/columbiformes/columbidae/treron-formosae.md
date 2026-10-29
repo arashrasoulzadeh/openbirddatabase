@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-formosae/1.jpg
+  page: https://www.inaturalist.org/photos/665874762
+  author: Ellyne Geurts
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665874762/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-formosae/1.jpg
+  page: https://www.inaturalist.org/photos/665874762
+  author: Ellyne Geurts
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665874762/original.jpg
+- file: images/columbiformes/columbidae/treron-formosae/2.jpg
+  page: https://www.inaturalist.org/photos/726168937
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726168937/original.jpg
+- file: images/columbiformes/columbidae/treron-formosae/3.jpg
+  page: https://www.inaturalist.org/photos/691066347
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691066347/original.jpg
+- file: images/columbiformes/columbidae/treron-formosae/4.jpg
+  page: https://www.inaturalist.org/photos/721121011
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721121011/original.jpg
+- file: images/columbiformes/columbidae/treron-formosae/5.jpg
+  page: https://www.inaturalist.org/photos/512391532
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512391532/original.jpg
 ---
 
 

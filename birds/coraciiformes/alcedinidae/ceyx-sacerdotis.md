@@ -130,8 +130,29 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ceyx-sacerdotis/1.jpg
+  page: https://www.inaturalist.org/photos/334849299
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334849299/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceyx-sacerdotis/1.jpg
+  page: https://www.inaturalist.org/photos/334849299
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334849299/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-sacerdotis/2.jpg
+  page: https://www.inaturalist.org/photos/334851172
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334851172/original.jpg
 ---
 
 

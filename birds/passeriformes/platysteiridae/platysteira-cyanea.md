@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/platysteira-cyanea/1.jpg
+  page: https://www.inaturalist.org/photos/637976267
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637976267/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/platysteira-cyanea/1.jpg
+  page: https://www.inaturalist.org/photos/637976267
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637976267/original.jpg
+- file: images/passeriformes/platysteiridae/platysteira-cyanea/2.jpg
+  page: https://www.inaturalist.org/photos/479348083
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479348083/original.jpg
+- file: images/passeriformes/platysteiridae/platysteira-cyanea/3.jpg
+  page: https://www.inaturalist.org/photos/637976266
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637976266/original.jpg
+- file: images/passeriformes/platysteiridae/platysteira-cyanea/4.jpg
+  page: https://www.inaturalist.org/photos/479348074
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479348074/original.jpg
+- file: images/passeriformes/platysteiridae/platysteira-cyanea/5.jpg
+  page: https://www.inaturalist.org/photos/607830031
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607830031/original.jpg
 ---
 
 

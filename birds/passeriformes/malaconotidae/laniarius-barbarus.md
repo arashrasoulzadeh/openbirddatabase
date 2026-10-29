@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/laniarius-barbarus/1.jpg
+  page: https://www.inaturalist.org/photos/612431887
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612431887/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/laniarius-barbarus/1.jpg
+  page: https://www.inaturalist.org/photos/612431887
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612431887/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-barbarus/2.jpg
+  page: https://www.inaturalist.org/photos/470323245
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470323245/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-barbarus/3.jpg
+  page: https://www.inaturalist.org/photos/472540175
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472540175/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-barbarus/4.jpg
+  page: https://www.inaturalist.org/photos/607370156
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607370156/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-barbarus/5.jpg
+  page: https://www.inaturalist.org/photos/612453677
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612453677/original.jpg
 ---
 
 

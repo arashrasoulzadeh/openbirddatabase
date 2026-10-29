@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chrysococcyx-xanthorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/615421913
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615421913/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chrysococcyx-xanthorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/615421913
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615421913/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-xanthorhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/628490595
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628490595/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-xanthorhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/695641063
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695641063/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-xanthorhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/737653713
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737653713/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-xanthorhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/468220842
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468220842/original.jpeg
 ---
 
 

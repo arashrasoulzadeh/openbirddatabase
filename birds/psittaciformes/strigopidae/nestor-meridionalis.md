@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/strigopidae/nestor-meridionalis/1.jpg
+  page: https://www.inaturalist.org/photos/605005837
+  author: prosperosity
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605005837/original.jpg
+images:
+- file: images/psittaciformes/strigopidae/nestor-meridionalis/1.jpg
+  page: https://www.inaturalist.org/photos/605005837
+  author: prosperosity
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605005837/original.jpg
+- file: images/psittaciformes/strigopidae/nestor-meridionalis/2.jpg
+  page: https://www.inaturalist.org/photos/610084698
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084698/original.jpg
+- file: images/psittaciformes/strigopidae/nestor-meridionalis/3.jpg
+  page: https://www.inaturalist.org/photos/610556996
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610556996/original.jpg
+- file: images/psittaciformes/strigopidae/nestor-meridionalis/4.jpg
+  page: https://www.inaturalist.org/photos/609392418
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609392418/original.jpg
+- file: images/psittaciformes/strigopidae/nestor-meridionalis/5.jpg
+  page: https://www.inaturalist.org/photos/609114912
+  author: Christopher Hynes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609114912/original.jpg
 ---
 
 

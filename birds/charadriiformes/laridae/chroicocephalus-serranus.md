@@ -129,7 +129,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 41.9
@@ -139,6 +140,44 @@ morphology:
   body_mass_g: 478.0
 reproduction:
   clutch_size_mean: 2.4
+image:
+  file: images/charadriiformes/laridae/chroicocephalus-serranus/1.jpg
+  page: https://www.inaturalist.org/photos/605385486
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605385486/original.jpg
+images:
+- file: images/charadriiformes/laridae/chroicocephalus-serranus/1.jpg
+  page: https://www.inaturalist.org/photos/605385486
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605385486/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-serranus/2.jpg
+  page: https://www.inaturalist.org/photos/609674067
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609674067/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-serranus/3.jpg
+  page: https://www.inaturalist.org/photos/609998134
+  author: Cesar Ormazabal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609998134/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-serranus/4.jpg
+  page: https://www.inaturalist.org/photos/613578857
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613578857/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-serranus/5.jpg
+  page: https://www.inaturalist.org/photos/613757916
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613757916/original.jpg
 ---
 
 

@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/pelecaniformes/threskiornithidae/eudocimus-albus/1.jpg
+  page: https://www.inaturalist.org/photos/605090493
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090493/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/eudocimus-albus/1.jpg
+  page: https://www.inaturalist.org/photos/605090493
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090493/original.jpg
+- file: images/pelecaniformes/threskiornithidae/eudocimus-albus/2.jpg
+  page: https://www.inaturalist.org/photos/605721570
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605721570/original.jpg
+- file: images/pelecaniformes/threskiornithidae/eudocimus-albus/3.jpg
+  page: https://www.inaturalist.org/photos/604961974
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604961974/original.jpg
+- file: images/pelecaniformes/threskiornithidae/eudocimus-albus/4.jpg
+  page: https://www.inaturalist.org/photos/605148259
+  author: Brandon Corder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605148259/original.jpg
+- file: images/pelecaniformes/threskiornithidae/eudocimus-albus/5.jpg
+  page: https://www.inaturalist.org/photos/605209917
+  author: sudomir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605209917/original.jpg
 ---
 
 

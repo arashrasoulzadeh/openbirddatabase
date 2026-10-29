@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/lampropsar-tanagrinus/1.jpg
+  page: https://www.inaturalist.org/photos/588423940
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588423940/original.jpg
+images:
+- file: images/passeriformes/icteridae/lampropsar-tanagrinus/1.jpg
+  page: https://www.inaturalist.org/photos/588423940
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588423940/original.jpg
+- file: images/passeriformes/icteridae/lampropsar-tanagrinus/2.jpg
+  page: https://www.inaturalist.org/photos/604883915
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604883915/original.jpg
+- file: images/passeriformes/icteridae/lampropsar-tanagrinus/3.jpg
+  page: https://www.inaturalist.org/photos/426775681
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775681/original.jpg
+- file: images/passeriformes/icteridae/lampropsar-tanagrinus/4.jpg
+  page: https://www.inaturalist.org/photos/298224216
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298224216/original.jpg
+- file: images/passeriformes/icteridae/lampropsar-tanagrinus/5.jpg
+  page: https://www.inaturalist.org/photos/246381760
+  author: Thiago Bicudo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246381760/original.jpg
 ---
 
 

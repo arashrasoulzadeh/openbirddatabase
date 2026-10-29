@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-ortoni/1.jpg
+  page: https://www.inaturalist.org/photos/255458530
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255458530/original.jpeg
+images:
+- file: images/galliformes/cracidae/penelope-ortoni/1.jpg
+  page: https://www.inaturalist.org/photos/255458530
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255458530/original.jpeg
+- file: images/galliformes/cracidae/penelope-ortoni/2.jpg
+  page: https://www.inaturalist.org/photos/294997457
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/294997457/original.jpeg
+- file: images/galliformes/cracidae/penelope-ortoni/3.jpg
+  page: https://www.inaturalist.org/photos/59907295
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59907295/original.jpeg
+- file: images/galliformes/cracidae/penelope-ortoni/4.jpg
+  page: https://www.inaturalist.org/photos/104824422
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104824422/original.jpeg
+- file: images/galliformes/cracidae/penelope-ortoni/5.jpg
+  page: https://www.inaturalist.org/photos/255458543
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255458543/original.jpeg
 ---
 
 

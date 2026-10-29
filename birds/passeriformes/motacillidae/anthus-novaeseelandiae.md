@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/motacillidae/anthus-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/605272049
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605272049/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/605272049
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605272049/original.jpg
+- file: images/passeriformes/motacillidae/anthus-novaeseelandiae/2.jpg
+  page: https://www.inaturalist.org/photos/606031076
+  author: Squid Wizard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606031076/original.jpg
+- file: images/passeriformes/motacillidae/anthus-novaeseelandiae/3.jpg
+  page: https://www.inaturalist.org/photos/607369016
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607369016/original.jpg
+- file: images/passeriformes/motacillidae/anthus-novaeseelandiae/4.jpg
+  page: https://www.inaturalist.org/photos/606983456
+  author: Hannah Rogers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606983456/original.jpg
+- file: images/passeriformes/motacillidae/anthus-novaeseelandiae/5.jpg
+  page: https://www.inaturalist.org/photos/607633086
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607633086/original.jpg
 ---
 
 

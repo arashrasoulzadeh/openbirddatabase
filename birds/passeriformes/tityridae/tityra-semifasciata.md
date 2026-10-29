@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/tityra-semifasciata/1.jpg
+  page: https://www.inaturalist.org/photos/607080559
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607080559/original.jpg
+images:
+- file: images/passeriformes/tityridae/tityra-semifasciata/1.jpg
+  page: https://www.inaturalist.org/photos/607080559
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607080559/original.jpg
+- file: images/passeriformes/tityridae/tityra-semifasciata/2.jpg
+  page: https://www.inaturalist.org/photos/609097013
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609097013/original.jpg
+- file: images/passeriformes/tityridae/tityra-semifasciata/3.jpg
+  page: https://www.inaturalist.org/photos/609287149
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609287149/original.jpg
+- file: images/passeriformes/tityridae/tityra-semifasciata/4.jpg
+  page: https://www.inaturalist.org/photos/612568637
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612568637/original.jpg
+- file: images/passeriformes/tityridae/tityra-semifasciata/5.jpg
+  page: https://www.inaturalist.org/photos/610325495
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610325495/original.jpg
 ---
 
 

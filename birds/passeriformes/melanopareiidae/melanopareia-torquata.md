@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/melanopareiidae/melanopareia-torquata/1.jpg
+  page: https://www.inaturalist.org/photos/746149063
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/746149063/original.jpg
+images:
+- file: images/passeriformes/melanopareiidae/melanopareia-torquata/1.jpg
+  page: https://www.inaturalist.org/photos/746149063
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/746149063/original.jpg
+- file: images/passeriformes/melanopareiidae/melanopareia-torquata/2.jpg
+  page: https://www.inaturalist.org/photos/603633410
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603633410/original.jpg
+- file: images/passeriformes/melanopareiidae/melanopareia-torquata/3.jpg
+  page: https://www.inaturalist.org/photos/349177280
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349177280/original.jpg
+- file: images/passeriformes/melanopareiidae/melanopareia-torquata/4.jpg
+  page: https://www.inaturalist.org/photos/350080985
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350080985/original.jpeg
+- file: images/passeriformes/melanopareiidae/melanopareia-torquata/5.jpg
+  page: https://www.inaturalist.org/photos/471621378
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471621378/original.jpg
 ---
 
 

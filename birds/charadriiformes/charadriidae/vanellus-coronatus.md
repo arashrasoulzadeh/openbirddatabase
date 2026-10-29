@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/608226416
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608226416/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/608226416
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608226416/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/607154580
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607154580/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/614954929
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614954929/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/642297655
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297655/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/614949916
+  author: Adele SL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614949916/original.jpg
 ---
 
 

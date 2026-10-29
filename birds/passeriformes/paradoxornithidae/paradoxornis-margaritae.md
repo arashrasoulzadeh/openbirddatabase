@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 15.3
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 82.0
   tail_length_mm: 81.0
   body_mass_g: 29.0
+image:
+  file: images/passeriformes/paradoxornithidae/paradoxornis-margaritae/1.jpg
+  page: https://www.inaturalist.org/photos/388768988
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388768988/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/paradoxornis-margaritae/1.jpg
+  page: https://www.inaturalist.org/photos/388768988
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388768988/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-margaritae/2.jpg
+  page: https://www.inaturalist.org/photos/385766345
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766345/original.jpeg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-margaritae/3.jpg
+  page: https://www.inaturalist.org/photos/105772229
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105772229/original.jpeg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-margaritae/4.jpg
+  page: https://www.inaturalist.org/photos/81354165
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/81354165/original.jpeg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-margaritae/5.jpg
+  page: https://www.inaturalist.org/photos/385766359
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766359/original.jpeg
 ---
 
 

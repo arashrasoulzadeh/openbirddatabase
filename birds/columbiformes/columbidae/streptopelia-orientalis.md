@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/streptopelia-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/604908158
+  author: IMORI MIHO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604908158/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/604908158
+  author: IMORI MIHO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604908158/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-orientalis/2.jpg
+  page: https://www.inaturalist.org/photos/604942950
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604942950/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-orientalis/3.jpg
+  page: https://www.inaturalist.org/photos/604959512
+  author: FUKUDA Kazuhito 福田一人
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604959512/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-orientalis/4.jpg
+  page: https://www.inaturalist.org/photos/605417627
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417627/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-orientalis/5.jpg
+  page: https://www.inaturalist.org/photos/609040409
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609040409/original.jpg
 ---
 
 

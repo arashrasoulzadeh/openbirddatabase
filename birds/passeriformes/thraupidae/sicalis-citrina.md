@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sicalis-citrina/1.jpg
+  page: https://www.inaturalist.org/photos/703115790
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703115790/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sicalis-citrina/1.jpg
+  page: https://www.inaturalist.org/photos/703115790
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703115790/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-citrina/2.jpg
+  page: https://www.inaturalist.org/photos/664072819
+  author: Celso Henrique Varela Rios
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664072819/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-citrina/3.jpg
+  page: https://www.inaturalist.org/photos/497711128
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497711128/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-citrina/4.jpg
+  page: https://www.inaturalist.org/photos/348556940
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348556940/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-citrina/5.jpg
+  page: https://www.inaturalist.org/photos/430058015
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/430058015/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/ramphastos-dicolorus/1.jpg
+  page: https://www.inaturalist.org/photos/605144497
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144497/original.jpg
+images:
+- file: images/piciformes/ramphastidae/ramphastos-dicolorus/1.jpg
+  page: https://www.inaturalist.org/photos/605144497
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144497/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-dicolorus/2.jpg
+  page: https://www.inaturalist.org/photos/610838544
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610838544/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-dicolorus/3.jpg
+  page: https://www.inaturalist.org/photos/607191906
+  author: Cajá-manga
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607191906/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-dicolorus/4.jpg
+  page: https://www.inaturalist.org/photos/612390144
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612390144/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-dicolorus/5.jpg
+  page: https://www.inaturalist.org/photos/629986670
+  author: Eli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629986670/original.jpg
 ---
 
 

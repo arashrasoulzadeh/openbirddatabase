@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 50
+image:
+  file: images/procellariiformes/diomedeidae/diomedea-exulans/1.jpg
+  page: https://www.inaturalist.org/photos/609984468
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609984468/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/diomedea-exulans/1.jpg
+  page: https://www.inaturalist.org/photos/609984468
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609984468/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-exulans/2.jpg
+  page: https://www.inaturalist.org/photos/625175740
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625175740/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-exulans/3.jpg
+  page: https://www.inaturalist.org/photos/471358572
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471358572/original.jpeg
+- file: images/procellariiformes/diomedeidae/diomedea-exulans/4.jpg
+  page: https://www.inaturalist.org/photos/475074818
+  author: Emily Turteltaub Nelson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475074818/original.jpeg
+- file: images/procellariiformes/diomedeidae/diomedea-exulans/5.jpg
+  page: https://www.inaturalist.org/photos/609984455
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609984455/original.jpg
 ---
 
 

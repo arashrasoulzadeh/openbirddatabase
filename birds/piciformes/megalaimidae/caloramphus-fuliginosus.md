@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/caloramphus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/682436171
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682436171/original.jpg
+images:
+- file: images/piciformes/megalaimidae/caloramphus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/682436171
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682436171/original.jpg
+- file: images/piciformes/megalaimidae/caloramphus-fuliginosus/2.jpg
+  page: https://www.inaturalist.org/photos/713760714
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713760714/original.jpg
+- file: images/piciformes/megalaimidae/caloramphus-fuliginosus/3.jpg
+  page: https://www.inaturalist.org/photos/720600855
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720600855/original.jpg
+- file: images/piciformes/megalaimidae/caloramphus-fuliginosus/4.jpg
+  page: https://www.inaturalist.org/photos/724470725
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724470725/original.jpg
+- file: images/piciformes/megalaimidae/caloramphus-fuliginosus/5.jpg
+  page: https://www.inaturalist.org/photos/524108773
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524108773/original.jpg
 ---
 
 

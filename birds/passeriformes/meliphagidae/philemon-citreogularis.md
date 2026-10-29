@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/meliphagidae/philemon-citreogularis/1.jpg
+  page: https://www.inaturalist.org/photos/604973348
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604973348/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/philemon-citreogularis/1.jpg
+  page: https://www.inaturalist.org/photos/604973348
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604973348/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-citreogularis/2.jpg
+  page: https://www.inaturalist.org/photos/604655791
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604655791/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-citreogularis/3.jpg
+  page: https://www.inaturalist.org/photos/608542788
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608542788/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-citreogularis/4.jpg
+  page: https://www.inaturalist.org/photos/609792776
+  author: Mark Kriedemann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609792776/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-citreogularis/5.jpg
+  page: https://www.inaturalist.org/photos/611169956
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611169956/original.jpg
 ---
 
 

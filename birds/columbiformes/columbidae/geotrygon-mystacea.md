@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geotrygon-mystacea/1.jpg
+  page: https://www.inaturalist.org/photos/632956730
+  author: Don Loarie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632956730/original.jpg
+images:
+- file: images/columbiformes/columbidae/geotrygon-mystacea/1.jpg
+  page: https://www.inaturalist.org/photos/632956730
+  author: Don Loarie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632956730/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-mystacea/2.jpg
+  page: https://www.inaturalist.org/photos/462029071
+  author: Jack Byrley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462029071/original.jpeg
+- file: images/columbiformes/columbidae/geotrygon-mystacea/3.jpg
+  page: https://www.inaturalist.org/photos/476710851
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476710851/original.jpeg
+- file: images/columbiformes/columbidae/geotrygon-mystacea/4.jpg
+  page: https://www.inaturalist.org/photos/348749436
+  author: Tom and T Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348749436/original.jpeg
+- file: images/columbiformes/columbidae/geotrygon-mystacea/5.jpg
+  page: https://www.inaturalist.org/photos/448286437
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448286437/original.jpg
 ---
 
 

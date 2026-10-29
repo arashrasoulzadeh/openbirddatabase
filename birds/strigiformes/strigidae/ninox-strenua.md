@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-strenua/1.jpg
+  page: https://www.inaturalist.org/photos/605593483
+  author: Ian Rainbow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605593483/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-strenua/1.jpg
+  page: https://www.inaturalist.org/photos/605593483
+  author: Ian Rainbow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605593483/original.jpg
+- file: images/strigiformes/strigidae/ninox-strenua/2.jpg
+  page: https://www.inaturalist.org/photos/609667592
+  author: prossington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609667592/original.jpg
+- file: images/strigiformes/strigidae/ninox-strenua/3.jpg
+  page: https://www.inaturalist.org/photos/610056441
+  author: Daniel Stephan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610056441/original.jpg
+- file: images/strigiformes/strigidae/ninox-strenua/4.jpg
+  page: https://www.inaturalist.org/photos/605882448
+  author: Tim Keighley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605882448/original.jpg
+- file: images/strigiformes/strigidae/ninox-strenua/5.jpg
+  page: https://www.inaturalist.org/photos/610669467
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610669467/original.jpg
 ---
 
 

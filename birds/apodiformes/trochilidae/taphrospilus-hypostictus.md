@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/taphrospilus-hypostictus/1.jpg
+  page: https://www.inaturalist.org/photos/608945353
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608945353/original.jpg
+images:
+- file: images/apodiformes/trochilidae/taphrospilus-hypostictus/1.jpg
+  page: https://www.inaturalist.org/photos/608945353
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608945353/original.jpg
+- file: images/apodiformes/trochilidae/taphrospilus-hypostictus/2.jpg
+  page: https://www.inaturalist.org/photos/681254173
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681254173/original.jpg
+- file: images/apodiformes/trochilidae/taphrospilus-hypostictus/3.jpg
+  page: https://www.inaturalist.org/photos/681651580
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681651580/original.jpg
+- file: images/apodiformes/trochilidae/taphrospilus-hypostictus/4.jpg
+  page: https://www.inaturalist.org/photos/729179401
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729179401/original.jpg
+- file: images/apodiformes/trochilidae/taphrospilus-hypostictus/5.jpg
+  page: https://www.inaturalist.org/photos/552119140
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552119140/original.jpg
 ---
 
 

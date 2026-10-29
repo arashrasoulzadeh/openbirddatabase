@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-lepida/1.jpg
+  page: https://www.inaturalist.org/photos/616448930
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616448930/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-lepida/1.jpg
+  page: https://www.inaturalist.org/photos/616448930
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616448930/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-lepida/2.jpg
+  page: https://www.inaturalist.org/photos/718044577
+  author: Theo Busschau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718044577/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-lepida/3.jpg
+  page: https://www.inaturalist.org/photos/468788601
+  author: Eduardo Luis Beltrocco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468788601/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-lepida/4.jpg
+  page: https://www.inaturalist.org/photos/616448934
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616448934/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-lepida/5.jpg
+  page: https://www.inaturalist.org/photos/616659837
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616659837/original.jpg
 ---
 
 

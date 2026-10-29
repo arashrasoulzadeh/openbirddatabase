@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/drepanis-coccinea/1.jpg
+  page: https://www.inaturalist.org/photos/606812314
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606812314/original.jpg
+images:
+- file: images/passeriformes/fringillidae/drepanis-coccinea/1.jpg
+  page: https://www.inaturalist.org/photos/606812314
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606812314/original.jpg
+- file: images/passeriformes/fringillidae/drepanis-coccinea/2.jpg
+  page: https://www.inaturalist.org/photos/623029864
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623029864/original.jpg
+- file: images/passeriformes/fringillidae/drepanis-coccinea/3.jpg
+  page: https://www.inaturalist.org/photos/606812349
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606812349/original.jpg
+- file: images/passeriformes/fringillidae/drepanis-coccinea/4.jpg
+  page: https://www.inaturalist.org/photos/606812376
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606812376/original.jpg
+- file: images/passeriformes/fringillidae/drepanis-coccinea/5.jpg
+  page: https://www.inaturalist.org/photos/606812394
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606812394/original.jpg
 ---
 
 

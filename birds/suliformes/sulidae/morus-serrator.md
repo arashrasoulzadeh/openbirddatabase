@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 33
+image:
+  file: images/suliformes/sulidae/morus-serrator/1.jpg
+  page: https://www.inaturalist.org/photos/604984072
+  author: peresol
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604984072/original.jpg
+images:
+- file: images/suliformes/sulidae/morus-serrator/1.jpg
+  page: https://www.inaturalist.org/photos/604984072
+  author: peresol
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604984072/original.jpg
+- file: images/suliformes/sulidae/morus-serrator/2.jpg
+  page: https://www.inaturalist.org/photos/605242722
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605242722/original.jpg
+- file: images/suliformes/sulidae/morus-serrator/3.jpg
+  page: https://www.inaturalist.org/photos/604913749
+  author: chrystal1914
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604913749/original.jpg
+- file: images/suliformes/sulidae/morus-serrator/4.jpg
+  page: https://www.inaturalist.org/photos/607570238
+  author: Scott
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607570238/original.jpg
+- file: images/suliformes/sulidae/morus-serrator/5.jpg
+  page: https://www.inaturalist.org/photos/611171639
+  author: Isabelle Soccioi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611171639/original.jpg
 ---
 
 

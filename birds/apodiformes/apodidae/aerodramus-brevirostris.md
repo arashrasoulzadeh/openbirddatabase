@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/718410624
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718410624/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/718410624
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718410624/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-brevirostris/2.jpg
+  page: https://www.inaturalist.org/photos/626021737
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626021737/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-brevirostris/3.jpg
+  page: https://www.inaturalist.org/photos/636585580
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636585580/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-brevirostris/4.jpg
+  page: https://www.inaturalist.org/photos/342216889
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342216889/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-brevirostris/5.jpg
+  page: https://www.inaturalist.org/photos/229121912
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/229121912/original.jpg
 ---
 
 

@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/meliphagidae/manorina-melanophrys/1.jpg
+  page: https://www.inaturalist.org/photos/606243011
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606243011/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/manorina-melanophrys/1.jpg
+  page: https://www.inaturalist.org/photos/606243011
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606243011/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanophrys/2.jpg
+  page: https://www.inaturalist.org/photos/615663363
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615663363/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanophrys/3.jpg
+  page: https://www.inaturalist.org/photos/617157088
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617157088/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanophrys/4.jpg
+  page: https://www.inaturalist.org/photos/629902487
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629902487/original.jpg
+- file: images/passeriformes/meliphagidae/manorina-melanophrys/5.jpg
+  page: https://www.inaturalist.org/photos/626900990
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626900990/original.jpg
 ---
 
 

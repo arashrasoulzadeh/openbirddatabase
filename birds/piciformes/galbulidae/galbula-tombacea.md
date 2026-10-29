@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/galbula-tombacea/1.jpg
+  page: https://www.inaturalist.org/photos/611229752
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611229752/original.jpg
+images:
+- file: images/piciformes/galbulidae/galbula-tombacea/1.jpg
+  page: https://www.inaturalist.org/photos/611229752
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611229752/original.jpg
+- file: images/piciformes/galbulidae/galbula-tombacea/2.jpg
+  page: https://www.inaturalist.org/photos/347185334
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347185334/original.jpeg
+- file: images/piciformes/galbulidae/galbula-tombacea/3.jpg
+  page: https://www.inaturalist.org/photos/361084722
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361084722/original.jpg
+- file: images/piciformes/galbulidae/galbula-tombacea/4.jpg
+  page: https://www.inaturalist.org/photos/426757482
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426757482/original.jpg
+- file: images/piciformes/galbulidae/galbula-tombacea/5.jpg
+  page: https://www.inaturalist.org/photos/187834803
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187834803/original.png
 ---
 
 

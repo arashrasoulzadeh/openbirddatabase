@@ -136,7 +136,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.8
@@ -144,6 +145,20 @@ morphology:
   wing_length_mm: 71.1
   tail_length_mm: 89.9
   body_mass_g: 15.0
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-opistherythra/1.jpg
+  page: https://www.inaturalist.org/photos/337787652
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787652/original.jpeg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-opistherythra/1.jpg
+  page: https://www.inaturalist.org/photos/337787652
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787652/original.jpeg
 ---
 
 

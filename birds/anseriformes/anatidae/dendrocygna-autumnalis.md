@@ -173,10 +173,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/anseriformes/anatidae/dendrocygna-autumnalis/1.jpg
+  page: https://www.inaturalist.org/photos/604937786
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604937786/original.jpg
+images:
+- file: images/anseriformes/anatidae/dendrocygna-autumnalis/1.jpg
+  page: https://www.inaturalist.org/photos/604937786
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604937786/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-autumnalis/2.jpg
+  page: https://www.inaturalist.org/photos/604682572
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604682572/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-autumnalis/3.jpg
+  page: https://www.inaturalist.org/photos/605095271
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605095271/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-autumnalis/4.jpg
+  page: https://www.inaturalist.org/photos/605187985
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605187985/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-autumnalis/5.jpg
+  page: https://www.inaturalist.org/photos/604965727
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604965727/original.jpg
 ---
 
 

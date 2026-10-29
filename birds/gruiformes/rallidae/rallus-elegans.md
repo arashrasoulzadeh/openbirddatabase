@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rallus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/609507600
+  author: Grant Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609507600/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/609507600
+  author: Grant Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609507600/original.jpg
+- file: images/gruiformes/rallidae/rallus-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/610295209
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610295209/original.jpg
+- file: images/gruiformes/rallidae/rallus-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/648993847
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648993847/original.jpg
+- file: images/gruiformes/rallidae/rallus-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/684037983
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684037983/original.jpg
+- file: images/gruiformes/rallidae/rallus-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/672348984
+  author: Martyn Drabik-Hamshare
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672348984/original.jpg
 ---
 
 

@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-griseipectus/1.jpg
+  page: https://www.inaturalist.org/photos/528098428
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528098428/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-griseipectus/1.jpg
+  page: https://www.inaturalist.org/photos/528098428
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528098428/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-griseipectus/2.jpg
+  page: https://www.inaturalist.org/photos/445377150
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445377150/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-griseipectus/3.jpg
+  page: https://www.inaturalist.org/photos/240597780
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240597780/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-griseipectus/4.jpg
+  page: https://www.inaturalist.org/photos/50794834
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50794834/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-griseipectus/5.jpg
+  page: https://www.inaturalist.org/photos/8848558
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8848558/original.jpeg
 ---
 
 

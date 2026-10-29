@@ -182,8 +182,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-cupreus/1.jpg
+  page: https://www.inaturalist.org/photos/619343335
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619343335/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-cupreus/1.jpg
+  page: https://www.inaturalist.org/photos/619343335
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619343335/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-cupreus/2.jpg
+  page: https://www.inaturalist.org/photos/479347717
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479347717/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-cupreus/3.jpg
+  page: https://www.inaturalist.org/photos/480880368
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480880368/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-cupreus/4.jpg
+  page: https://www.inaturalist.org/photos/504017130
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504017130/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-cupreus/5.jpg
+  page: https://www.inaturalist.org/photos/565193864
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565193864/original.jpg
 ---
 
 

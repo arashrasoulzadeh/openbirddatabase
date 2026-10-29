@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/tytonidae/tyto-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/624155333
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624155333/original.jpg
+images:
+- file: images/strigiformes/tytonidae/tyto-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/624155333
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624155333/original.jpg
+- file: images/strigiformes/tytonidae/tyto-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/669949071
+  author: Scott W. Gavins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669949071/original.jpg
+- file: images/strigiformes/tytonidae/tyto-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/624155376
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624155376/original.jpg
+- file: images/strigiformes/tytonidae/tyto-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/669949081
+  author: Scott W. Gavins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669949081/original.jpg
+- file: images/strigiformes/tytonidae/tyto-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/669949079
+  author: Scott W. Gavins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669949079/original.jpg
 ---
 
 

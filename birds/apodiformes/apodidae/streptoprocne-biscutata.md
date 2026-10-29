@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/streptoprocne-biscutata/1.jpg
+  page: https://www.inaturalist.org/photos/586981586
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586981586/original.jpg
+images:
+- file: images/apodiformes/apodidae/streptoprocne-biscutata/1.jpg
+  page: https://www.inaturalist.org/photos/586981586
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586981586/original.jpg
+- file: images/apodiformes/apodidae/streptoprocne-biscutata/2.jpg
+  page: https://www.inaturalist.org/photos/423014169
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423014169/original.jpeg
+- file: images/apodiformes/apodidae/streptoprocne-biscutata/3.jpg
+  page: https://www.inaturalist.org/photos/438709766
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438709766/original.jpeg
+- file: images/apodiformes/apodidae/streptoprocne-biscutata/4.jpg
+  page: https://www.inaturalist.org/photos/444265089
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444265089/original.jpg
+- file: images/apodiformes/apodidae/streptoprocne-biscutata/5.jpg
+  page: https://www.inaturalist.org/photos/125602090
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/125602090/original.jpg
 ---
 
 

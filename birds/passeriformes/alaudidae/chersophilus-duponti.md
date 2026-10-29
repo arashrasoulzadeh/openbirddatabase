@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/chersophilus-duponti/1.jpg
+  page: https://www.inaturalist.org/photos/690778085
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690778085/original.jpg
+images:
+- file: images/passeriformes/alaudidae/chersophilus-duponti/1.jpg
+  page: https://www.inaturalist.org/photos/690778085
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690778085/original.jpg
+- file: images/passeriformes/alaudidae/chersophilus-duponti/2.jpg
+  page: https://www.inaturalist.org/photos/724033010
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724033010/original.jpg
+- file: images/passeriformes/alaudidae/chersophilus-duponti/3.jpg
+  page: https://www.inaturalist.org/photos/466104415
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466104415/original.jpeg
+- file: images/passeriformes/alaudidae/chersophilus-duponti/4.jpg
+  page: https://www.inaturalist.org/photos/471835756
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471835756/original.jpg
+- file: images/passeriformes/alaudidae/chersophilus-duponti/5.jpg
+  page: https://www.inaturalist.org/photos/245478069
+  author: Olivier Morel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245478069/original.jpeg
 ---
 
 

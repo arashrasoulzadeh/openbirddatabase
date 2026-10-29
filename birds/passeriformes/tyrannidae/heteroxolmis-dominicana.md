@@ -126,7 +126,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.1
@@ -136,6 +137,44 @@ morphology:
   body_mass_g: 42.8
 reproduction:
   clutch_size_mean: 3.5
+image:
+  file: images/passeriformes/tyrannidae/heteroxolmis-dominicana/1.jpg
+  page: https://www.inaturalist.org/photos/610011736
+  author: Mateo Peña
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610011736/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/heteroxolmis-dominicana/1.jpg
+  page: https://www.inaturalist.org/photos/610011736
+  author: Mateo Peña
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610011736/original.jpg
+- file: images/passeriformes/tyrannidae/heteroxolmis-dominicana/2.jpg
+  page: https://www.inaturalist.org/photos/647208115
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647208115/original.jpg
+- file: images/passeriformes/tyrannidae/heteroxolmis-dominicana/3.jpg
+  page: https://www.inaturalist.org/photos/469381966
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469381966/original.jpeg
+- file: images/passeriformes/tyrannidae/heteroxolmis-dominicana/4.jpg
+  page: https://www.inaturalist.org/photos/574662774
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574662774/original.jpg
+- file: images/passeriformes/tyrannidae/heteroxolmis-dominicana/5.jpg
+  page: https://www.inaturalist.org/photos/600988495
+  author: Francisco Liguori
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600988495/original.jpg
 ---
 
 

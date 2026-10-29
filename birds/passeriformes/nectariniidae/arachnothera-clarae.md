@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/arachnothera-clarae/1.jpg
+  page: https://www.inaturalist.org/photos/340257708
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257708/original.jpeg
+images:
+- file: images/passeriformes/nectariniidae/arachnothera-clarae/1.jpg
+  page: https://www.inaturalist.org/photos/340257708
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257708/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-clarae/2.jpg
+  page: https://www.inaturalist.org/photos/340257739
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257739/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-clarae/3.jpg
+  page: https://www.inaturalist.org/photos/340257730
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257730/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-clarae/4.jpg
+  page: https://www.inaturalist.org/photos/340257760
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257760/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-clarae/5.jpg
+  page: https://www.inaturalist.org/photos/340257745
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257745/original.jpeg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/grandala-coelicolor/1.jpg
+  page: https://www.inaturalist.org/photos/660816253
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660816253/original.jpg
+images:
+- file: images/passeriformes/turdidae/grandala-coelicolor/1.jpg
+  page: https://www.inaturalist.org/photos/660816253
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660816253/original.jpg
+- file: images/passeriformes/turdidae/grandala-coelicolor/2.jpg
+  page: https://www.inaturalist.org/photos/522378277
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522378277/original.jpg
+- file: images/passeriformes/turdidae/grandala-coelicolor/3.jpg
+  page: https://www.inaturalist.org/photos/267527953
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267527953/original.jpg
+- file: images/passeriformes/turdidae/grandala-coelicolor/4.jpg
+  page: https://www.inaturalist.org/photos/483046978
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483046978/original.jpg
+- file: images/passeriformes/turdidae/grandala-coelicolor/5.jpg
+  page: https://www.inaturalist.org/photos/660816252
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660816252/original.jpg
 ---
 
 

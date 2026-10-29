@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/nyctibiiformes/nyctibiidae/nyctibius-aethereus/1.jpg
+  page: https://www.inaturalist.org/photos/496038624
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496038624/original.jpeg
+images:
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-aethereus/1.jpg
+  page: https://www.inaturalist.org/photos/496038624
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496038624/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-aethereus/2.jpg
+  page: https://www.inaturalist.org/photos/448883060
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448883060/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-aethereus/3.jpg
+  page: https://www.inaturalist.org/photos/206201801
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/206201801/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-aethereus/4.jpg
+  page: https://www.inaturalist.org/photos/255509779
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255509779/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-aethereus/5.jpg
+  page: https://www.inaturalist.org/photos/113248802
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113248802/original.jpg
 ---
 
 

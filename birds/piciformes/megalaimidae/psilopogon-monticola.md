@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-monticola/1.jpg
+  page: https://www.inaturalist.org/photos/593944147
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593944147/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-monticola/1.jpg
+  page: https://www.inaturalist.org/photos/593944147
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593944147/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-monticola/2.jpg
+  page: https://www.inaturalist.org/photos/267027759
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267027759/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-monticola/3.jpg
+  page: https://www.inaturalist.org/photos/115020968
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/115020968/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-monticola/4.jpg
+  page: https://www.inaturalist.org/photos/595806020
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595806020/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-monticola/5.jpg
+  page: https://www.inaturalist.org/photos/267027757
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267027757/original.jpeg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/laniarius-atrococcineus/1.jpg
+  page: https://www.inaturalist.org/photos/611837066
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611837066/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/laniarius-atrococcineus/1.jpg
+  page: https://www.inaturalist.org/photos/611837066
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611837066/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-atrococcineus/2.jpg
+  page: https://www.inaturalist.org/photos/618041647
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618041647/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-atrococcineus/3.jpg
+  page: https://www.inaturalist.org/photos/726369919
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726369919/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-atrococcineus/4.jpg
+  page: https://www.inaturalist.org/photos/657054741
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657054741/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-atrococcineus/5.jpg
+  page: https://www.inaturalist.org/photos/665570640
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665570640/original.jpg
 ---
 
 

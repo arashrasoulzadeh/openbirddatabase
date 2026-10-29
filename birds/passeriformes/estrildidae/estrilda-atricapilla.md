@@ -155,8 +155,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/estrilda-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/660376905
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660376905/original.jpg
+images:
+- file: images/passeriformes/estrildidae/estrilda-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/660376905
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660376905/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-atricapilla/2.jpg
+  page: https://www.inaturalist.org/photos/480796027
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480796027/original.jpeg
+- file: images/passeriformes/estrildidae/estrilda-atricapilla/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistCameroon2012#5719207933808040162
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/89860/original.JPG
+- file: images/passeriformes/estrildidae/estrilda-atricapilla/4.jpg
+  page: https://www.inaturalist.org/photos/660376873
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660376873/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-atricapilla/5.jpg
+  page: https://www.inaturalist.org/photos/660376902
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660376902/original.jpg
 ---
 
 

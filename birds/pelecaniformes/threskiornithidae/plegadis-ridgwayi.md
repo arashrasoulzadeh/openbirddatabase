@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/pelecaniformes/threskiornithidae/plegadis-ridgwayi/1.jpg
+  page: https://www.inaturalist.org/photos/614404511
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614404511/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/plegadis-ridgwayi/1.jpg
+  page: https://www.inaturalist.org/photos/614404511
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614404511/original.jpg
+- file: images/pelecaniformes/threskiornithidae/plegadis-ridgwayi/2.jpg
+  page: https://www.inaturalist.org/photos/634334007
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634334007/original.jpg
+- file: images/pelecaniformes/threskiornithidae/plegadis-ridgwayi/3.jpg
+  page: https://www.inaturalist.org/photos/619333352
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333352/original.jpg
+- file: images/pelecaniformes/threskiornithidae/plegadis-ridgwayi/4.jpg
+  page: https://www.inaturalist.org/photos/617977180
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617977180/original.jpg
+- file: images/pelecaniformes/threskiornithidae/plegadis-ridgwayi/5.jpg
+  page: https://www.inaturalist.org/photos/623013964
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623013964/original.jpg
 ---
 
 

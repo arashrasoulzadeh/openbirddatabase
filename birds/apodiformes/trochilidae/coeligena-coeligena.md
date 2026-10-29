@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-coeligena/1.jpg
+  page: https://www.inaturalist.org/photos/622970985
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622970985/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-coeligena/1.jpg
+  page: https://www.inaturalist.org/photos/622970985
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622970985/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-coeligena/2.jpg
+  page: https://www.inaturalist.org/photos/652804928
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652804928/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-coeligena/3.jpg
+  page: https://www.inaturalist.org/photos/719320092
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719320092/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-coeligena/4.jpg
+  page: https://www.inaturalist.org/photos/719925822
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719925822/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-coeligena/5.jpg
+  page: https://www.inaturalist.org/photos/467127852
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467127852/original.jpeg
 ---
 
 

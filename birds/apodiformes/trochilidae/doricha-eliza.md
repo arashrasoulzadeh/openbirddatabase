@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/doricha-eliza/1.jpg
+  page: https://www.inaturalist.org/photos/621350303
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621350303/original.jpg
+images:
+- file: images/apodiformes/trochilidae/doricha-eliza/1.jpg
+  page: https://www.inaturalist.org/photos/621350303
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621350303/original.jpg
+- file: images/apodiformes/trochilidae/doricha-eliza/2.jpg
+  page: https://www.inaturalist.org/photos/611808343
+  author: Thompson Hyggen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611808343/original.jpg
+- file: images/apodiformes/trochilidae/doricha-eliza/3.jpg
+  page: https://www.inaturalist.org/photos/488592773
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488592773/original.jpg
+- file: images/apodiformes/trochilidae/doricha-eliza/4.jpg
+  page: https://www.inaturalist.org/photos/526951112
+  author: Diego Puc Estrada
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526951112/original.jpg
+- file: images/apodiformes/trochilidae/doricha-eliza/5.jpg
+  page: https://www.inaturalist.org/photos/621349523
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621349523/original.jpg
 ---
 
 

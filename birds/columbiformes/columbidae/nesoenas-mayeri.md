@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/nesoenas-mayeri/1.jpg
+  page: https://www.inaturalist.org/photos/524330773
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524330773/original.jpg
+images:
+- file: images/columbiformes/columbidae/nesoenas-mayeri/1.jpg
+  page: https://www.inaturalist.org/photos/524330773
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524330773/original.jpg
+- file: images/columbiformes/columbidae/nesoenas-mayeri/2.jpg
+  page: https://www.inaturalist.org/photos/432017571
+  author: Matthew Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/432017571/original.jpg
+- file: images/columbiformes/columbidae/nesoenas-mayeri/3.jpg
+  page: https://www.inaturalist.org/photos/450083249
+  author: Mike Musgrave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450083249/original.jpeg
+- file: images/columbiformes/columbidae/nesoenas-mayeri/4.jpg
+  page: https://www.inaturalist.org/photos/263082875
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263082875/original.jpeg
+- file: images/columbiformes/columbidae/nesoenas-mayeri/5.jpg
+  page: https://www.inaturalist.org/photos/291642161
+  author: Charly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/291642161/original.jpeg
 ---
 
 

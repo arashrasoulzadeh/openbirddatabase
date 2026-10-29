@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/605482186
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605482186/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/605482186
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605482186/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/609248901
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609248901/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/611802310
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611802310/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/624543786
+  author: Guillaume Hoffmann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624543786/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/637764680
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637764680/original.jpg
 ---
 
 

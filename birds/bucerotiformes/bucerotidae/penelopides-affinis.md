@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/penelopides-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/628387320
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628387320/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/penelopides-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/628387320
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628387320/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/270923604
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270923604/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/628387331
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628387331/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/270923623
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270923623/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/270925312
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925312/original.jpg
 ---
 
 

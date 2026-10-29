@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/698120825
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698120825/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/698120825
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698120825/original.jpg
+- file: images/passeriformes/corvidae/corvus-tristis/2.jpg
+  page: https://www.inaturalist.org/photos/618377002
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618377002/original.jpg
+- file: images/passeriformes/corvidae/corvus-tristis/3.jpg
+  page: https://www.inaturalist.org/photos/458037579
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458037579/original.jpg
+- file: images/passeriformes/corvidae/corvus-tristis/4.jpg
+  page: https://www.inaturalist.org/photos/337013339
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337013339/original.jpg
+- file: images/passeriformes/corvidae/corvus-tristis/5.jpg
+  page: https://www.inaturalist.org/photos/698120826
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698120826/original.jpg
 ---
 
 

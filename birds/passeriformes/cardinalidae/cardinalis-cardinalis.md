@@ -202,10 +202,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/passeriformes/cardinalidae/cardinalis-cardinalis/1.jpg
+  page: https://www.inaturalist.org/photos/605459667
+  author: Andrew Murray
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605459667/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/cardinalis-cardinalis/1.jpg
+  page: https://www.inaturalist.org/photos/605459667
+  author: Andrew Murray
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605459667/original.jpg
+- file: images/passeriformes/cardinalidae/cardinalis-cardinalis/2.jpg
+  page: https://www.inaturalist.org/photos/604823092
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604823092/original.jpg
+- file: images/passeriformes/cardinalidae/cardinalis-cardinalis/3.jpg
+  page: https://www.inaturalist.org/photos/605363129
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605363129/original.jpg
+- file: images/passeriformes/cardinalidae/cardinalis-cardinalis/4.jpg
+  page: https://www.inaturalist.org/photos/605115957
+  author: Suanne Pyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605115957/original.jpg
+- file: images/passeriformes/cardinalidae/cardinalis-cardinalis/5.jpg
+  page: https://www.inaturalist.org/photos/604902070
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604902070/original.jpg
 ---
 
 

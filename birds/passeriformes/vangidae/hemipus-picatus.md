@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/hemipus-picatus/1.jpg
+  page: https://www.inaturalist.org/photos/610690677
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610690677/original.jpg
+images:
+- file: images/passeriformes/vangidae/hemipus-picatus/1.jpg
+  page: https://www.inaturalist.org/photos/610690677
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610690677/original.jpg
+- file: images/passeriformes/vangidae/hemipus-picatus/2.jpg
+  page: https://www.inaturalist.org/photos/611669582
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611669582/original.jpg
+- file: images/passeriformes/vangidae/hemipus-picatus/3.jpg
+  page: https://www.inaturalist.org/photos/617770514
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617770514/original.jpg
+- file: images/passeriformes/vangidae/hemipus-picatus/4.jpg
+  page: https://www.inaturalist.org/photos/616269841
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616269841/original.jpg
+- file: images/passeriformes/vangidae/hemipus-picatus/5.jpg
+  page: https://www.inaturalist.org/photos/617207624
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207624/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardeola-idae/1.jpg
+  page: https://www.inaturalist.org/photos/489437638
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489437638/original.jpeg
+images:
+- file: images/pelecaniformes/ardeidae/ardeola-idae/1.jpg
+  page: https://www.inaturalist.org/photos/489437638
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489437638/original.jpeg
+- file: images/pelecaniformes/ardeidae/ardeola-idae/2.jpg
+  page: https://www.inaturalist.org/photos/528670040
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528670040/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-idae/3.jpg
+  page: https://www.inaturalist.org/photos/442267325
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442267325/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-idae/4.jpg
+  page: https://www.inaturalist.org/photos/451068980
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451068980/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-idae/5.jpg
+  page: https://www.inaturalist.org/photos/444303502
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444303502/original.jpeg
 ---
 
 

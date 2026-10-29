@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/micromonacha-lanceolata/1.jpg
+  page: https://www.inaturalist.org/photos/634340793
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634340793/original.jpg
+images:
+- file: images/piciformes/bucconidae/micromonacha-lanceolata/1.jpg
+  page: https://www.inaturalist.org/photos/634340793
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634340793/original.jpg
+- file: images/piciformes/bucconidae/micromonacha-lanceolata/2.jpg
+  page: https://www.inaturalist.org/photos/605180542
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180542/original.jpg
+- file: images/piciformes/bucconidae/micromonacha-lanceolata/3.jpg
+  page: https://www.inaturalist.org/photos/351112591
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351112591/original.jpg
+- file: images/piciformes/bucconidae/micromonacha-lanceolata/4.jpg
+  page: https://www.inaturalist.org/photos/351654001
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351654001/original.jpg
+- file: images/piciformes/bucconidae/micromonacha-lanceolata/5.jpg
+  page: https://www.inaturalist.org/photos/395504893
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395504893/original.jpg
 ---
 
 

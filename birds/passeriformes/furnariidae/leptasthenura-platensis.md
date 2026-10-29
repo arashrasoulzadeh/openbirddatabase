@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/leptasthenura-platensis/1.jpg
+  page: https://www.inaturalist.org/photos/605494050
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494050/original.jpg
+images:
+- file: images/passeriformes/furnariidae/leptasthenura-platensis/1.jpg
+  page: https://www.inaturalist.org/photos/605494050
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494050/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-platensis/2.jpg
+  page: https://www.inaturalist.org/photos/683871441
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683871441/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-platensis/3.jpg
+  page: https://www.inaturalist.org/photos/692069393
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692069393/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-platensis/4.jpg
+  page: https://www.inaturalist.org/photos/683871448
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683871448/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-platensis/5.jpg
+  page: https://www.inaturalist.org/photos/692069474
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692069474/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cacomantis-passerinus/1.jpg
+  page: https://www.inaturalist.org/photos/623241401
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623241401/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cacomantis-passerinus/1.jpg
+  page: https://www.inaturalist.org/photos/623241401
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623241401/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-passerinus/2.jpg
+  page: https://www.inaturalist.org/photos/694362573
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694362573/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-passerinus/3.jpg
+  page: https://www.inaturalist.org/photos/617225162
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617225162/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-passerinus/4.jpg
+  page: https://www.inaturalist.org/photos/621356202
+  author: Siya ul haque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621356202/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-passerinus/5.jpg
+  page: https://www.inaturalist.org/photos/633552796
+  author: Aryan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633552796/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-vassorii/1.jpg
+  page: https://www.inaturalist.org/photos/703776934
+  author: Sandino Guerrero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703776934/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-vassorii/1.jpg
+  page: https://www.inaturalist.org/photos/703776934
+  author: Sandino Guerrero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703776934/original.jpg
+- file: images/passeriformes/thraupidae/tangara-vassorii/2.jpg
+  page: https://www.inaturalist.org/photos/724740114
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724740114/original.jpg
+- file: images/passeriformes/thraupidae/tangara-vassorii/3.jpg
+  page: https://www.inaturalist.org/photos/489431096
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489431096/original.jpg
+- file: images/passeriformes/thraupidae/tangara-vassorii/4.jpg
+  page: https://www.inaturalist.org/photos/521546176
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521546176/original.jpg
+- file: images/passeriformes/thraupidae/tangara-vassorii/5.jpg
+  page: https://www.inaturalist.org/photos/476144783
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476144783/original.jpg
 ---
 
 

@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/bias-musicus/1.jpg
+  page: https://www.inaturalist.org/photos/616754317
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616754317/original.jpg
+images:
+- file: images/passeriformes/vangidae/bias-musicus/1.jpg
+  page: https://www.inaturalist.org/photos/616754317
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616754317/original.jpg
+- file: images/passeriformes/vangidae/bias-musicus/2.jpg
+  page: https://www.inaturalist.org/photos/723772327
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723772327/original.jpg
+- file: images/passeriformes/vangidae/bias-musicus/3.jpg
+  page: https://www.inaturalist.org/photos/558306802
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558306802/original.jpg
+- file: images/passeriformes/vangidae/bias-musicus/4.jpg
+  page: https://www.inaturalist.org/photos/564266606
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564266606/original.jpg
+- file: images/passeriformes/vangidae/bias-musicus/5.jpg
+  page: https://www.inaturalist.org/photos/394135516
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394135516/original.jpg
 ---
 
 

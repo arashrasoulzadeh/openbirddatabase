@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/stelgidillas-gracilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/716310378
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716310378/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/stelgidillas-gracilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/716310378
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716310378/original.jpg
+- file: images/passeriformes/pycnonotidae/stelgidillas-gracilirostris/2.jpg
+  page: https://www.inaturalist.org/photos/562554008
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562554008/original.jpg
+- file: images/passeriformes/pycnonotidae/stelgidillas-gracilirostris/3.jpg
+  page: https://www.inaturalist.org/photos/601155691
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601155691/original.jpg
+- file: images/passeriformes/pycnonotidae/stelgidillas-gracilirostris/4.jpg
+  page: https://www.inaturalist.org/photos/353553436
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353553436/original.png
+- file: images/passeriformes/pycnonotidae/stelgidillas-gracilirostris/5.jpg
+  page: https://www.inaturalist.org/photos/257428206
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257428206/original.jpeg
 ---
 
 

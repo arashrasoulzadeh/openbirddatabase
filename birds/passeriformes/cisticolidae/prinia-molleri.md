@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-molleri/1.jpg
+  page: https://www.inaturalist.org/photos/468646692
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468646692/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-molleri/1.jpg
+  page: https://www.inaturalist.org/photos/468646692
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468646692/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-molleri/2.jpg
+  page: https://www.inaturalist.org/photos/560067620
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560067620/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-molleri/3.jpg
+  page: https://www.inaturalist.org/photos/555655801
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555655801/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-molleri/4.jpg
+  page: https://www.inaturalist.org/photos/212202713
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/212202713/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-molleri/5.jpg
+  page: https://www.inaturalist.org/photos/65405721
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/65405721/original.jpeg
 ---
 
 

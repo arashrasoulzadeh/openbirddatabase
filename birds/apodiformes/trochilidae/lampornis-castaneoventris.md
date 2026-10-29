@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lampornis-castaneoventris/1.jpg
+  page: https://www.inaturalist.org/photos/610095544
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610095544/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lampornis-castaneoventris/1.jpg
+  page: https://www.inaturalist.org/photos/610095544
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610095544/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-castaneoventris/2.jpg
+  page: https://www.inaturalist.org/photos/611243416
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611243416/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-castaneoventris/3.jpg
+  page: https://www.inaturalist.org/photos/613437349
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613437349/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-castaneoventris/4.jpg
+  page: https://www.inaturalist.org/photos/607233576
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607233576/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-castaneoventris/5.jpg
+  page: https://www.inaturalist.org/photos/617278220
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617278220/original.jpg
 ---
 
 

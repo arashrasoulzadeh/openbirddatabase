@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campephilus-robustus/1.jpg
+  page: https://www.inaturalist.org/photos/612762489
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612762489/original.jpg
+images:
+- file: images/piciformes/picidae/campephilus-robustus/1.jpg
+  page: https://www.inaturalist.org/photos/612762489
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612762489/original.jpg
+- file: images/piciformes/picidae/campephilus-robustus/2.jpg
+  page: https://www.inaturalist.org/photos/620227531
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620227531/original.jpg
+- file: images/piciformes/picidae/campephilus-robustus/3.jpg
+  page: https://www.inaturalist.org/photos/645063572
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645063572/original.jpg
+- file: images/piciformes/picidae/campephilus-robustus/4.jpg
+  page: https://www.inaturalist.org/photos/641987183
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641987183/original.jpg
+- file: images/piciformes/picidae/campephilus-robustus/5.jpg
+  page: https://www.inaturalist.org/photos/659364764
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659364764/original.jpg
 ---
 
 

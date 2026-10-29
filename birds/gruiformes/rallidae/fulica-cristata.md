@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/gruiformes/rallidae/fulica-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/608869551
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608869551/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/608869551
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608869551/original.jpg
+- file: images/gruiformes/rallidae/fulica-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/606863909
+  author: Glynn Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606863909/original.jpg
+- file: images/gruiformes/rallidae/fulica-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/610445209
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610445209/original.jpg
+- file: images/gruiformes/rallidae/fulica-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/618781963
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618781963/original.jpg
+- file: images/gruiformes/rallidae/fulica-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/624174383
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624174383/original.jpg
 ---
 
 

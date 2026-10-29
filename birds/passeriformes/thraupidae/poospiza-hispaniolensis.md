@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/poospiza-hispaniolensis/1.jpg
+  page: https://www.inaturalist.org/photos/628707947
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628707947/original.jpg
+images:
+- file: images/passeriformes/thraupidae/poospiza-hispaniolensis/1.jpg
+  page: https://www.inaturalist.org/photos/628707947
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628707947/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-hispaniolensis/2.jpg
+  page: https://www.inaturalist.org/photos/621610504
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621610504/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-hispaniolensis/3.jpg
+  page: https://www.inaturalist.org/photos/498303146
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498303146/original.jpeg
+- file: images/passeriformes/thraupidae/poospiza-hispaniolensis/4.jpg
+  page: https://www.inaturalist.org/photos/510937067
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510937067/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-hispaniolensis/5.jpg
+  page: https://www.inaturalist.org/photos/539929466
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539929466/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/heterophasia-auricularis/1.jpg
+  page: https://www.inaturalist.org/photos/614070936
+  author: Yung-Lun Lin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614070936/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/heterophasia-auricularis/1.jpg
+  page: https://www.inaturalist.org/photos/614070936
+  author: Yung-Lun Lin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614070936/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-auricularis/2.jpg
+  page: https://www.inaturalist.org/photos/617101026
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617101026/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-auricularis/3.jpg
+  page: https://www.inaturalist.org/photos/624882294
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624882294/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-auricularis/4.jpg
+  page: https://www.inaturalist.org/photos/635164594
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635164594/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-auricularis/5.jpg
+  page: https://www.inaturalist.org/photos/642419949
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642419949/original.jpg
 ---
 
 

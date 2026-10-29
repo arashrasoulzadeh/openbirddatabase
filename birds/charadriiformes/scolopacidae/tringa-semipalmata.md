@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/charadriiformes/scolopacidae/tringa-semipalmata/1.jpg
+  page: https://www.inaturalist.org/photos/605360474
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360474/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/tringa-semipalmata/1.jpg
+  page: https://www.inaturalist.org/photos/605360474
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360474/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-semipalmata/2.jpg
+  page: https://www.inaturalist.org/photos/604592840
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604592840/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-semipalmata/3.jpg
+  page: https://www.inaturalist.org/photos/604490821
+  author: mike_cove
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604490821/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-semipalmata/4.jpg
+  page: https://www.inaturalist.org/photos/605440635
+  author: Jackie T
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605440635/original.jpg
+- file: images/charadriiformes/scolopacidae/tringa-semipalmata/5.jpg
+  page: https://www.inaturalist.org/photos/605639991
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605639991/original.jpg
 ---
 
 

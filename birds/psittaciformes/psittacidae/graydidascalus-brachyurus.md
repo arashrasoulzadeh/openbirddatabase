@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/psittaciformes/psittacidae/graydidascalus-brachyurus/1.jpg
+  page: https://www.inaturalist.org/photos/612558262
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612558262/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/graydidascalus-brachyurus/1.jpg
+  page: https://www.inaturalist.org/photos/612558262
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612558262/original.jpg
+- file: images/psittaciformes/psittacidae/graydidascalus-brachyurus/2.jpg
+  page: https://www.inaturalist.org/photos/680008232
+  author: Siddarth Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680008232/original.jpg
+- file: images/psittaciformes/psittacidae/graydidascalus-brachyurus/3.jpg
+  page: https://www.inaturalist.org/photos/590818461
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590818461/original.jpg
+- file: images/psittaciformes/psittacidae/graydidascalus-brachyurus/4.jpg
+  page: https://www.inaturalist.org/photos/352103837
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352103837/original.jpeg
+- file: images/psittaciformes/psittacidae/graydidascalus-brachyurus/5.jpg
+  page: https://www.inaturalist.org/photos/431159759
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431159759/original.jpg
 ---
 
 

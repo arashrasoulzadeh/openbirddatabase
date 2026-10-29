@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-laudabilis/1.jpg
+  page: https://www.inaturalist.org/photos/616513728
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616513728/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-laudabilis/1.jpg
+  page: https://www.inaturalist.org/photos/616513728
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616513728/original.jpg
+- file: images/passeriformes/icteridae/icterus-laudabilis/2.jpg
+  page: https://www.inaturalist.org/photos/621880884
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621880884/original.jpg
+- file: images/passeriformes/icteridae/icterus-laudabilis/3.jpg
+  page: https://www.inaturalist.org/photos/630037177
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630037177/original.jpg
+- file: images/passeriformes/icteridae/icterus-laudabilis/4.jpg
+  page: https://www.inaturalist.org/photos/368697130
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368697130/original.jpg
+- file: images/passeriformes/icteridae/icterus-laudabilis/5.jpg
+  page: https://www.inaturalist.org/photos/197405423
+  author: Stephanie Tran
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/197405423/original.jpeg
 ---
 
 

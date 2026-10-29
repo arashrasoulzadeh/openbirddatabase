@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/falconiformes/falconidae/falco-cherrug/1.jpg
+  page: https://www.inaturalist.org/photos/607717024
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607717024/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-cherrug/1.jpg
+  page: https://www.inaturalist.org/photos/607717024
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607717024/original.jpg
+- file: images/falconiformes/falconidae/falco-cherrug/2.jpg
+  page: https://www.inaturalist.org/photos/635523772
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635523772/original.jpg
+- file: images/falconiformes/falconidae/falco-cherrug/3.jpg
+  page: https://www.inaturalist.org/photos/687112823
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687112823/original.jpg
+- file: images/falconiformes/falconidae/falco-cherrug/4.jpg
+  page: https://www.inaturalist.org/photos/610108165
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610108165/original.jpg
+- file: images/falconiformes/falconidae/falco-cherrug/5.jpg
+  page: https://www.inaturalist.org/photos/607702119
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607702119/original.jpg
 ---
 
 

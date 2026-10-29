@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/lipaugus-lanioides/1.jpg
+  page: https://www.inaturalist.org/photos/665985027
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665985027/original.jpg
+images:
+- file: images/passeriformes/cotingidae/lipaugus-lanioides/1.jpg
+  page: https://www.inaturalist.org/photos/665985027
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665985027/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-lanioides/2.jpg
+  page: https://www.inaturalist.org/photos/476999526
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476999526/original.jpeg
+- file: images/passeriformes/cotingidae/lipaugus-lanioides/3.jpg
+  page: https://www.inaturalist.org/photos/417123298
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417123298/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-lanioides/4.jpg
+  page: https://www.inaturalist.org/photos/450672857
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450672857/original.jpeg
+- file: images/passeriformes/cotingidae/lipaugus-lanioides/5.jpg
+  page: https://www.inaturalist.org/photos/366400033
+  author: Bruno Siqueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366400033/original.jpeg
 ---
 
 

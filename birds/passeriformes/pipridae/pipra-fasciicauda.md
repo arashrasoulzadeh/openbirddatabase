@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/pipra-fasciicauda/1.jpg
+  page: https://www.inaturalist.org/photos/612525146
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612525146/original.jpg
+images:
+- file: images/passeriformes/pipridae/pipra-fasciicauda/1.jpg
+  page: https://www.inaturalist.org/photos/612525146
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612525146/original.jpg
+- file: images/passeriformes/pipridae/pipra-fasciicauda/2.jpg
+  page: https://www.inaturalist.org/photos/636152717
+  author: Brunno Thadeu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636152717/original.jpg
+- file: images/passeriformes/pipridae/pipra-fasciicauda/3.jpg
+  page: https://www.inaturalist.org/photos/684210712
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684210712/original.jpg
+- file: images/passeriformes/pipridae/pipra-fasciicauda/4.jpg
+  page: https://www.inaturalist.org/photos/728284460
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728284460/original.jpg
+- file: images/passeriformes/pipridae/pipra-fasciicauda/5.jpg
+  page: https://www.inaturalist.org/photos/746203622
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/746203622/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiotriccus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/609248340
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609248340/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiotriccus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/609248340
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609248340/original.jpg
+- file: images/passeriformes/tyrannidae/myiotriccus-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/608660224
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608660224/original.jpg
+- file: images/passeriformes/tyrannidae/myiotriccus-ornatus/3.jpg
+  page: https://www.inaturalist.org/photos/623079108
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623079108/original.jpg
+- file: images/passeriformes/tyrannidae/myiotriccus-ornatus/4.jpg
+  page: https://www.inaturalist.org/photos/682850382
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682850382/original.jpg
+- file: images/passeriformes/tyrannidae/myiotriccus-ornatus/5.jpg
+  page: https://www.inaturalist.org/photos/652842501
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652842501/original.jpg
 ---
 
 

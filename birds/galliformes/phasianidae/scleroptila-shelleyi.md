@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/scleroptila-shelleyi/1.jpg
+  page: https://www.inaturalist.org/photos/720067471
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720067471/original.jpg
+images:
+- file: images/galliformes/phasianidae/scleroptila-shelleyi/1.jpg
+  page: https://www.inaturalist.org/photos/720067471
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720067471/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-shelleyi/2.jpg
+  page: https://www.inaturalist.org/photos/734443043
+  author: Malte Krömer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734443043/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-shelleyi/3.jpg
+  page: https://www.inaturalist.org/photos/744311151
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744311151/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-shelleyi/4.jpg
+  page: https://www.inaturalist.org/photos/568507147
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568507147/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-shelleyi/5.jpg
+  page: https://www.inaturalist.org/photos/396232201
+  author: Eugene Nugent
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396232201/original.jpg
 ---
 
 

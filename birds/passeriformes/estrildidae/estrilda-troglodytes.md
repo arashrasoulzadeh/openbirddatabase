@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/estrilda-troglodytes/1.jpg
+  page: https://www.inaturalist.org/photos/612454589
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612454589/original.jpg
+images:
+- file: images/passeriformes/estrildidae/estrilda-troglodytes/1.jpg
+  page: https://www.inaturalist.org/photos/612454589
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612454589/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-troglodytes/2.jpg
+  page: https://www.inaturalist.org/photos/472287527
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472287527/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-troglodytes/3.jpg
+  page: https://www.inaturalist.org/photos/562861711
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562861711/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-troglodytes/4.jpg
+  page: https://www.inaturalist.org/photos/612454587
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612454587/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-troglodytes/5.jpg
+  page: https://www.inaturalist.org/photos/612454588
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612454588/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/rhinoptilus-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/616442764
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616442764/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/rhinoptilus-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/616442764
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616442764/original.jpg
+- file: images/charadriiformes/glareolidae/rhinoptilus-cinctus/2.jpg
+  page: https://www.inaturalist.org/photos/628143196
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628143196/original.jpg
+- file: images/charadriiformes/glareolidae/rhinoptilus-cinctus/3.jpg
+  page: https://www.inaturalist.org/photos/719173063
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719173063/original.jpg
+- file: images/charadriiformes/glareolidae/rhinoptilus-cinctus/4.jpg
+  page: https://www.inaturalist.org/photos/513044058
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513044058/original.jpg
+- file: images/charadriiformes/glareolidae/rhinoptilus-cinctus/5.jpg
+  page: https://www.inaturalist.org/photos/584869810
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584869810/original.jpg
 ---
 
 

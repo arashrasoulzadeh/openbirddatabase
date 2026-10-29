@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-sharpei/1.jpg
+  page: https://www.inaturalist.org/photos/479819454
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479819454/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/monticola-sharpei/1.jpg
+  page: https://www.inaturalist.org/photos/479819454
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479819454/original.jpeg
+- file: images/passeriformes/muscicapidae/monticola-sharpei/2.jpg
+  page: https://www.inaturalist.org/photos/395319181
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395319181/original.jpeg
+- file: images/passeriformes/muscicapidae/monticola-sharpei/3.jpg
+  page: https://www.inaturalist.org/photos/446783062
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446783062/original.jpeg
+- file: images/passeriformes/muscicapidae/monticola-sharpei/4.jpg
+  page: https://www.inaturalist.org/photos/455468671
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455468671/original.jpeg
+- file: images/passeriformes/muscicapidae/monticola-sharpei/5.jpg
+  page: https://www.inaturalist.org/photos/454704144
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454704144/original.jpg
 ---
 
 

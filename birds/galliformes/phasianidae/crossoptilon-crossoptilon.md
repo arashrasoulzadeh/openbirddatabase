@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/crossoptilon-crossoptilon/1.jpg
+  page: https://www.inaturalist.org/photos/633024349
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633024349/original.jpg
+images:
+- file: images/galliformes/phasianidae/crossoptilon-crossoptilon/1.jpg
+  page: https://www.inaturalist.org/photos/633024349
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633024349/original.jpg
+- file: images/galliformes/phasianidae/crossoptilon-crossoptilon/2.jpg
+  page: https://www.inaturalist.org/photos/662422347
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662422347/original.jpg
+- file: images/galliformes/phasianidae/crossoptilon-crossoptilon/3.jpg
+  page: https://www.inaturalist.org/photos/521762204
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762204/original.jpg
+- file: images/galliformes/phasianidae/crossoptilon-crossoptilon/4.jpg
+  page: https://www.inaturalist.org/photos/244053605
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244053605/original.jpg
+- file: images/galliformes/phasianidae/crossoptilon-crossoptilon/5.jpg
+  page: https://www.inaturalist.org/photos/409354727
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409354727/original.jpeg
 ---
 
 

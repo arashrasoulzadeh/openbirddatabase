@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/troglodytidae/cantorchilus-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/624279407
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624279407/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cantorchilus-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/624279407
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624279407/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/704884914
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704884914/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/723600900
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723600900/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/740119242
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740119242/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/465054701
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465054701/original.jpeg
 ---
 
 

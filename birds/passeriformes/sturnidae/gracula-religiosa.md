@@ -162,8 +162,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/gracula-religiosa/1.jpg
+  page: https://www.inaturalist.org/photos/610675188
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675188/original.jpg
+images:
+- file: images/passeriformes/sturnidae/gracula-religiosa/1.jpg
+  page: https://www.inaturalist.org/photos/610675188
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675188/original.jpg
+- file: images/passeriformes/sturnidae/gracula-religiosa/2.jpg
+  page: https://www.inaturalist.org/photos/612368082
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612368082/original.jpg
+- file: images/passeriformes/sturnidae/gracula-religiosa/3.jpg
+  page: https://www.inaturalist.org/photos/616738655
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738655/original.jpg
+- file: images/passeriformes/sturnidae/gracula-religiosa/4.jpg
+  page: https://www.inaturalist.org/photos/724016887
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724016887/original.jpg
+- file: images/passeriformes/sturnidae/gracula-religiosa/5.jpg
+  page: https://www.inaturalist.org/photos/624798741
+  author: snowglobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624798741/original.jpg
 ---
 
 

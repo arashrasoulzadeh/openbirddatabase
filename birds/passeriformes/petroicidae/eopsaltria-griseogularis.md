@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/petroicidae/eopsaltria-griseogularis/1.jpg
+  page: https://www.inaturalist.org/photos/710812761
+  author: Scott Bazely
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710812761/original.jpg
+images:
+- file: images/passeriformes/petroicidae/eopsaltria-griseogularis/1.jpg
+  page: https://www.inaturalist.org/photos/710812761
+  author: Scott Bazely
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710812761/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-griseogularis/2.jpg
+  page: https://www.inaturalist.org/photos/680938441
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680938441/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-griseogularis/3.jpg
+  page: https://www.inaturalist.org/photos/497951886
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497951886/original.jpeg
+- file: images/passeriformes/petroicidae/eopsaltria-griseogularis/4.jpg
+  page: https://www.inaturalist.org/photos/546188572
+  author: Ruth Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546188572/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-griseogularis/5.jpg
+  page: https://www.inaturalist.org/photos/569341038
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569341038/original.jpg
 ---
 
 

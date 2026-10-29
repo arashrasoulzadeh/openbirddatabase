@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/terpsiphone-rufiventer/1.jpg
+  page: https://www.inaturalist.org/photos/472246389
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472246389/original.jpg
+images:
+- file: images/passeriformes/monarchidae/terpsiphone-rufiventer/1.jpg
+  page: https://www.inaturalist.org/photos/472246389
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472246389/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-rufiventer/2.jpg
+  page: https://www.inaturalist.org/photos/582356082
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582356082/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-rufiventer/3.jpg
+  page: https://www.inaturalist.org/photos/553134908
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553134908/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-rufiventer/4.jpg
+  page: https://www.inaturalist.org/photos/565271698
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565271698/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-rufiventer/5.jpg
+  page: https://www.inaturalist.org/photos/347944196
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347944196/original.jpeg
 ---
 
 

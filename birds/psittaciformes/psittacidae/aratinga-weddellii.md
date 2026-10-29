@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/aratinga-weddellii/1.jpg
+  page: https://www.inaturalist.org/photos/604522057
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604522057/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/aratinga-weddellii/1.jpg
+  page: https://www.inaturalist.org/photos/604522057
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604522057/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-weddellii/2.jpg
+  page: https://www.inaturalist.org/photos/607264793
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607264793/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-weddellii/3.jpg
+  page: https://www.inaturalist.org/photos/646583151
+  author: Silvia Ten
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646583151/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-weddellii/4.jpg
+  page: https://www.inaturalist.org/photos/681609436
+  author: Siddarth Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681609436/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-weddellii/5.jpg
+  page: https://www.inaturalist.org/photos/717123324
+  author: Sandra Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717123324/original.jpg
 ---
 
 

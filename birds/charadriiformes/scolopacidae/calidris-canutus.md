@@ -183,10 +183,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/charadriiformes/scolopacidae/calidris-canutus/1.jpg
+  page: https://www.inaturalist.org/photos/607558289
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607558289/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-canutus/1.jpg
+  page: https://www.inaturalist.org/photos/607558289
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607558289/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-canutus/2.jpg
+  page: https://www.inaturalist.org/photos/609952811
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609952811/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-canutus/3.jpg
+  page: https://www.inaturalist.org/photos/609091778
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609091778/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-canutus/4.jpg
+  page: https://www.inaturalist.org/photos/612630260
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612630260/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-canutus/5.jpg
+  page: https://www.inaturalist.org/photos/616761826
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761826/original.jpg
 ---
 
 

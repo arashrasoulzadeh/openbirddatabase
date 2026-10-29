@@ -144,8 +144,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-ludovicensis/1.jpg
+  page: https://www.inaturalist.org/photos/581517977
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581517977/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-ludovicensis/1.jpg
+  page: https://www.inaturalist.org/photos/581517977
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581517977/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-ludovicensis/2.jpg
+  page: https://www.inaturalist.org/photos/52622088
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52622088/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-ludovicensis/3.jpg
+  page: https://www.inaturalist.org/photos/581517996
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581517996/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-ludovicensis/4.jpg
+  page: https://www.inaturalist.org/photos/581518014
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581518014/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-ludovicensis/5.jpg
+  page: https://www.inaturalist.org/photos/581518037
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581518037/original.jpg
 ---
 
 

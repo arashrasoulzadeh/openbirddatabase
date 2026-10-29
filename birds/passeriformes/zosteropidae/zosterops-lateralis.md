@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/passeriformes/zosteropidae/zosterops-lateralis/1.jpg
+  page: https://www.inaturalist.org/photos/604377574
+  author: Jon Sullivan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604377574/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-lateralis/1.jpg
+  page: https://www.inaturalist.org/photos/604377574
+  author: Jon Sullivan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604377574/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-lateralis/2.jpg
+  page: https://www.inaturalist.org/photos/605271230
+  author: Squid Wizard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605271230/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-lateralis/3.jpg
+  page: https://www.inaturalist.org/photos/607794609
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607794609/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-lateralis/4.jpg
+  page: https://www.inaturalist.org/photos/606119253
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606119253/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-lateralis/5.jpg
+  page: https://www.inaturalist.org/photos/608320259
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608320259/original.jpg
 ---
 
 

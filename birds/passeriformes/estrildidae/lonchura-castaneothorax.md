@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lonchura-castaneothorax/1.jpg
+  page: https://www.inaturalist.org/photos/608349974
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608349974/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-castaneothorax/1.jpg
+  page: https://www.inaturalist.org/photos/608349974
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608349974/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-castaneothorax/2.jpg
+  page: https://www.inaturalist.org/photos/610146079
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146079/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-castaneothorax/3.jpg
+  page: https://www.inaturalist.org/photos/611027228
+  author: Richard Blake
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611027228/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-castaneothorax/4.jpg
+  page: https://www.inaturalist.org/photos/611244801
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611244801/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-castaneothorax/5.jpg
+  page: https://www.inaturalist.org/photos/712439502
+  author: Natasha Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712439502/original.jpg
 ---
 
 

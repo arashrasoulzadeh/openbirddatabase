@@ -138,8 +138,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/zoothera-andromedae/1.jpg
+  page: https://www.inaturalist.org/photos/716610882
+  author: sans_ismail101
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716610882/original.jpg
+images:
+- file: images/passeriformes/turdidae/zoothera-andromedae/1.jpg
+  page: https://www.inaturalist.org/photos/716610882
+  author: sans_ismail101
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716610882/original.jpg
+- file: images/passeriformes/turdidae/zoothera-andromedae/2.jpg
+  page: https://www.inaturalist.org/photos/738313327
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738313327/original.jpg
+- file: images/passeriformes/turdidae/zoothera-andromedae/3.jpg
+  page: https://www.inaturalist.org/photos/251288672
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251288672/original.jpeg
+- file: images/passeriformes/turdidae/zoothera-andromedae/4.jpg
+  page: https://www.inaturalist.org/photos/221165730
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/221165730/original.jpg
+- file: images/passeriformes/turdidae/zoothera-andromedae/5.jpg
+  page: https://www.inaturalist.org/photos/716610949
+  author: sans_ismail101
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716610949/original.jpg
 ---
 
 

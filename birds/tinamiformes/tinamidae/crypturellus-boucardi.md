@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/crypturellus-boucardi/1.jpg
+  page: https://www.inaturalist.org/photos/176516122
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176516122/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/crypturellus-boucardi/1.jpg
+  page: https://www.inaturalist.org/photos/176516122
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176516122/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-boucardi/2.jpg
+  page: https://www.inaturalist.org/photos/382400405
+  author: Jorge Ramírez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382400405/original.jpeg
+- file: images/tinamiformes/tinamidae/crypturellus-boucardi/3.jpg
+  page: https://www.inaturalist.org/photos/111498204
+  author: Yves Bas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/111498204/original.jpeg
+- file: images/tinamiformes/tinamidae/crypturellus-boucardi/4.jpg
+  page: https://www.inaturalist.org/photos/176516081
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176516081/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-boucardi/5.jpg
+  page: https://www.inaturalist.org/photos/176516099
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176516099/original.jpg
 ---
 
 

@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/macrosphenidae/sylvietta-brachyura/1.jpg
+  page: https://www.inaturalist.org/photos/473353223
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473353223/original.jpg
+images:
+- file: images/passeriformes/macrosphenidae/sylvietta-brachyura/1.jpg
+  page: https://www.inaturalist.org/photos/473353223
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473353223/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-brachyura/2.jpg
+  page: https://www.inaturalist.org/photos/475633362
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475633362/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-brachyura/3.jpg
+  page: https://www.inaturalist.org/photos/548872199
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548872199/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-brachyura/4.jpg
+  page: https://www.inaturalist.org/photos/590930859
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590930859/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-brachyura/5.jpg
+  page: https://www.inaturalist.org/photos/585228911
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585228911/original.jpg
 ---
 
 

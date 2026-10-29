@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/passeriformes/turdidae/turdus-maximus/1.jpg
+  page: https://www.inaturalist.org/photos/640653368
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640653368/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-maximus/1.jpg
+  page: https://www.inaturalist.org/photos/640653368
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640653368/original.jpg
+- file: images/passeriformes/turdidae/turdus-maximus/2.jpg
+  page: https://www.inaturalist.org/photos/601199646
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601199646/original.jpg
+- file: images/passeriformes/turdidae/turdus-maximus/3.jpg
+  page: https://www.inaturalist.org/photos/49431274
+  author: Karen (with occasional help from Mike)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49431274/original.png
+- file: images/passeriformes/turdidae/turdus-maximus/4.jpg
+  page: https://www.inaturalist.org/photos/367800188
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800188/original.jpg
+- file: images/passeriformes/turdidae/turdus-maximus/5.jpg
+  page: https://www.inaturalist.org/photos/94309954
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94309954/original.jpeg
 ---
 
 

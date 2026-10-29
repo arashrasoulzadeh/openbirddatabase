@@ -150,8 +150,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/hymenolaimus-malacorhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/604436744
+  author: joseal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604436744/original.jpg
+images:
+- file: images/anseriformes/anatidae/hymenolaimus-malacorhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/604436744
+  author: joseal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604436744/original.jpg
+- file: images/anseriformes/anatidae/hymenolaimus-malacorhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/609819130
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609819130/original.jpg
+- file: images/anseriformes/anatidae/hymenolaimus-malacorhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/614883427
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614883427/original.jpg
+- file: images/anseriformes/anatidae/hymenolaimus-malacorhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/619143451
+  author: Damon H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619143451/original.jpg
+- file: images/anseriformes/anatidae/hymenolaimus-malacorhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/627956799
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627956799/original.jpg
 ---
 
 

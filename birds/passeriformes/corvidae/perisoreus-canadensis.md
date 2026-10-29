@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/passeriformes/corvidae/perisoreus-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/605737390
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605737390/original.jpg
+images:
+- file: images/passeriformes/corvidae/perisoreus-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/605737390
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605737390/original.jpg
+- file: images/passeriformes/corvidae/perisoreus-canadensis/2.jpg
+  page: https://www.inaturalist.org/photos/610968355
+  author: deefinder200 - Adam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610968355/original.jpg
+- file: images/passeriformes/corvidae/perisoreus-canadensis/3.jpg
+  page: https://www.inaturalist.org/photos/606648969
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606648969/original.jpg
+- file: images/passeriformes/corvidae/perisoreus-canadensis/4.jpg
+  page: https://www.inaturalist.org/photos/610447474
+  author: Victor Hooper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610447474/original.jpg
+- file: images/passeriformes/corvidae/perisoreus-canadensis/5.jpg
+  page: https://www.inaturalist.org/photos/609367755
+  author: Connor McInerney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609367755/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-megalotis/1.jpg
+  page: https://www.inaturalist.org/photos/687676889
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687676889/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-megalotis/1.jpg
+  page: https://www.inaturalist.org/photos/687676889
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687676889/original.jpg
+- file: images/strigiformes/strigidae/otus-megalotis/2.jpg
+  page: https://www.inaturalist.org/photos/55664017
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/55664017/original.jpg
+- file: images/strigiformes/strigidae/otus-megalotis/3.jpg
+  page: https://www.inaturalist.org/photos/687676936
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687676936/original.jpg
+- file: images/strigiformes/strigidae/otus-megalotis/4.jpg
+  page: https://www.inaturalist.org/photos/687676918
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687676918/original.jpg
+- file: images/strigiformes/strigidae/otus-megalotis/5.jpg
+  page: https://www.inaturalist.org/photos/687676940
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687676940/original.jpg
 ---
 
 

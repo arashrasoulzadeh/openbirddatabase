@@ -134,8 +134,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/rhegmatorhina-gymnops/1.jpg
+  page: https://www.inaturalist.org/photos/227381673
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227381673/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-gymnops/1.jpg
+  page: https://www.inaturalist.org/photos/227381673
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227381673/original.jpg
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-gymnops/2.jpg
+  page: https://www.inaturalist.org/photos/418583643
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418583643/original.jpg
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-gymnops/3.jpg
+  page: https://www.inaturalist.org/photos/609823247
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609823247/original.jpg
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-gymnops/4.jpg
+  page: https://www.inaturalist.org/photos/226262826
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226262826/original.jpg
 ---
 
 

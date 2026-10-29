@@ -158,8 +158,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/tunchiornis-ochraceiceps/1.jpg
+  page: https://www.inaturalist.org/photos/634708100
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634708100/original.jpg
+images:
+- file: images/passeriformes/vireonidae/tunchiornis-ochraceiceps/1.jpg
+  page: https://www.inaturalist.org/photos/634708100
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634708100/original.jpg
+- file: images/passeriformes/vireonidae/tunchiornis-ochraceiceps/2.jpg
+  page: https://www.inaturalist.org/photos/583278564
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583278564/original.jpg
+- file: images/passeriformes/vireonidae/tunchiornis-ochraceiceps/3.jpg
+  page: https://www.inaturalist.org/photos/412705683
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412705683/original.jpeg
+- file: images/passeriformes/vireonidae/tunchiornis-ochraceiceps/4.jpg
+  page: https://www.inaturalist.org/photos/416276333
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416276333/original.jpg
+- file: images/passeriformes/vireonidae/tunchiornis-ochraceiceps/5.jpg
+  page: https://www.inaturalist.org/photos/416341925
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416341925/original.jpg
 ---
 
 

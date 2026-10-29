@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardeola-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/734469890
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734469890/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardeola-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/734469890
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734469890/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-rufiventris/2.jpg
+  page: https://www.inaturalist.org/photos/722043395
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722043395/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-rufiventris/3.jpg
+  page: https://www.inaturalist.org/photos/510283028
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510283028/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-rufiventris/4.jpg
+  page: https://www.inaturalist.org/photos/562582452
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562582452/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-rufiventris/5.jpg
+  page: https://www.inaturalist.org/photos/569479609
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569479609/original.jpg
 ---
 
 

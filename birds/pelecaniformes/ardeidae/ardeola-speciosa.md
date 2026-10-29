@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardeola-speciosa/1.jpg
+  page: https://www.inaturalist.org/photos/613567233
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613567233/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardeola-speciosa/1.jpg
+  page: https://www.inaturalist.org/photos/613567233
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613567233/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-speciosa/2.jpg
+  page: https://www.inaturalist.org/photos/618851779
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851779/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-speciosa/3.jpg
+  page: https://www.inaturalist.org/photos/621836856
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621836856/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-speciosa/4.jpg
+  page: https://www.inaturalist.org/photos/617606088
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617606088/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-speciosa/5.jpg
+  page: https://www.inaturalist.org/photos/619483640
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619483640/original.jpg
 ---
 
 

@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/monarcha-frater/1.jpg
+  page: https://www.inaturalist.org/photos/714111703
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714111703/original.jpg
+images:
+- file: images/passeriformes/monarchidae/monarcha-frater/1.jpg
+  page: https://www.inaturalist.org/photos/714111703
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714111703/original.jpg
+- file: images/passeriformes/monarchidae/monarcha-frater/2.jpg
+  page: https://www.inaturalist.org/photos/244018779
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244018779/original.jpg
+- file: images/passeriformes/monarchidae/monarcha-frater/3.jpg
+  page: https://www.inaturalist.org/photos/438826767
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438826767/original.jpeg
+- file: images/passeriformes/monarchidae/monarcha-frater/4.jpg
+  page: https://www.inaturalist.org/photos/714111683
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714111683/original.jpg
+- file: images/passeriformes/monarchidae/monarcha-frater/5.jpg
+  page: https://www.inaturalist.org/photos/438827257
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438827257/original.jpeg
 ---
 
 

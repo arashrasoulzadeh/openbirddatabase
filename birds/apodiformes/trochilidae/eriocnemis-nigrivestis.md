@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eriocnemis-nigrivestis/1.jpg
+  page: https://www.inaturalist.org/photos/611148176
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611148176/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eriocnemis-nigrivestis/1.jpg
+  page: https://www.inaturalist.org/photos/611148176
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611148176/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-nigrivestis/2.jpg
+  page: https://www.inaturalist.org/photos/598558647
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598558647/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-nigrivestis/3.jpg
+  page: https://www.inaturalist.org/photos/611148182
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611148182/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-nigrivestis/4.jpg
+  page: https://www.inaturalist.org/photos/598558648
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598558648/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-nigrivestis/5.jpg
+  page: https://www.inaturalist.org/photos/598558678
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598558678/original.jpg
 ---
 
 

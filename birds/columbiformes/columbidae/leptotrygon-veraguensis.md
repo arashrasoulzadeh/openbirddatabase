@@ -139,8 +139,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/leptotrygon-veraguensis/1.jpg
+  page: https://www.inaturalist.org/photos/590290790
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590290790/original.jpg
+images:
+- file: images/columbiformes/columbidae/leptotrygon-veraguensis/1.jpg
+  page: https://www.inaturalist.org/photos/590290790
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590290790/original.jpg
+- file: images/columbiformes/columbidae/leptotrygon-veraguensis/2.jpg
+  page: https://www.inaturalist.org/photos/410372877
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410372877/original.jpeg
+- file: images/columbiformes/columbidae/leptotrygon-veraguensis/3.jpg
+  page: https://www.inaturalist.org/photos/458357554
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458357554/original.jpg
+- file: images/columbiformes/columbidae/leptotrygon-veraguensis/4.jpg
+  page: https://www.inaturalist.org/photos/254734638
+  author: Bio.Mundi18
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254734638/original.jpg
+- file: images/columbiformes/columbidae/leptotrygon-veraguensis/5.jpg
+  page: https://www.inaturalist.org/photos/103043656
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103043656/original.jpeg
 ---
 
 

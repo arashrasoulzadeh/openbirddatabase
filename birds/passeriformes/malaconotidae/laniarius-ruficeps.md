@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/laniarius-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/611830282
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611830282/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/laniarius-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/611830282
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611830282/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/607781219
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607781219/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/177769534
+  author: Brian Henderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177769534/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/611830290
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611830290/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/611830303
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611830303/original.jpg
 ---
 
 

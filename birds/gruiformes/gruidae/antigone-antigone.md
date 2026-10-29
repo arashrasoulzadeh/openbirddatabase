@@ -131,7 +131,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 176.2
@@ -139,6 +140,44 @@ morphology:
   wing_length_mm: 597.5
   tail_length_mm: 238.2
   body_mass_g: 5916.2
+image:
+  file: images/gruiformes/gruidae/antigone-antigone/1.jpg
+  page: https://www.inaturalist.org/photos/623797423
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623797423/original.jpg
+images:
+- file: images/gruiformes/gruidae/antigone-antigone/1.jpg
+  page: https://www.inaturalist.org/photos/623797423
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623797423/original.jpg
+- file: images/gruiformes/gruidae/antigone-antigone/2.jpg
+  page: https://www.inaturalist.org/photos/624709994
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624709994/original.jpg
+- file: images/gruiformes/gruidae/antigone-antigone/3.jpg
+  page: https://www.inaturalist.org/photos/632131830
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632131830/original.jpg
+- file: images/gruiformes/gruidae/antigone-antigone/4.jpg
+  page: https://www.inaturalist.org/photos/623797457
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623797457/original.jpg
+- file: images/gruiformes/gruidae/antigone-antigone/5.jpg
+  page: https://www.inaturalist.org/photos/623797463
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623797463/original.jpg
 ---
 
 

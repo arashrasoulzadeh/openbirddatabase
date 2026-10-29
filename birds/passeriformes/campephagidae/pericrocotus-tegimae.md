@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-tegimae/1.jpg
+  page: https://www.inaturalist.org/photos/610678392
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610678392/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-tegimae/1.jpg
+  page: https://www.inaturalist.org/photos/610678392
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610678392/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-tegimae/2.jpg
+  page: https://www.inaturalist.org/photos/617646035
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617646035/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-tegimae/3.jpg
+  page: https://www.inaturalist.org/photos/619125526
+  author: Corey Farwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619125526/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-tegimae/4.jpg
+  page: https://www.inaturalist.org/photos/624559637
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624559637/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-tegimae/5.jpg
+  page: https://www.inaturalist.org/photos/725741474
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725741474/original.jpg
 ---
 
 

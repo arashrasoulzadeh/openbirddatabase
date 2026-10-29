@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/pheucticus-tibialis/1.jpg
+  page: https://www.inaturalist.org/photos/478436276
+  author: Laura Liedtke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478436276/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/pheucticus-tibialis/1.jpg
+  page: https://www.inaturalist.org/photos/478436276
+  author: Laura Liedtke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478436276/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-tibialis/2.jpg
+  page: https://www.inaturalist.org/photos/440621945
+  author: STEVEN PEREZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440621945/original.jpeg
+- file: images/passeriformes/cardinalidae/pheucticus-tibialis/3.jpg
+  page: https://www.inaturalist.org/photos/361139817
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361139817/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-tibialis/4.jpg
+  page: https://www.inaturalist.org/photos/360904145
+  author: Joseph Greco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360904145/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-tibialis/5.jpg
+  page: https://www.inaturalist.org/photos/368170943
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368170943/original.jpeg
 ---
 
 

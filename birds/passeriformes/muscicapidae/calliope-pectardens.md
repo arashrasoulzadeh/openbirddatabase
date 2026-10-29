@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/calliope-pectardens/1.jpg
+  page: https://www.inaturalist.org/photos/409437898
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409437898/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/calliope-pectardens/1.jpg
+  page: https://www.inaturalist.org/photos/409437898
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409437898/original.jpeg
+- file: images/passeriformes/muscicapidae/calliope-pectardens/2.jpg
+  page: https://www.inaturalist.org/photos/547329141
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547329141/original.jpg
+- file: images/passeriformes/muscicapidae/calliope-pectardens/3.jpg
+  page: https://www.inaturalist.org/photos/132843395
+  author: Natthaphat Chotjuckdikul
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/132843395/original.jpg
+- file: images/passeriformes/muscicapidae/calliope-pectardens/4.jpg
+  page: https://www.inaturalist.org/photos/409437912
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409437912/original.jpeg
+- file: images/passeriformes/muscicapidae/calliope-pectardens/5.jpg
+  page: https://www.inaturalist.org/photos/409159856
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409159856/original.jpeg
 ---
 
 

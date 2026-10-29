@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/acanthizidae/smicrornis-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/619809450
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619809450/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/smicrornis-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/619809450
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619809450/original.jpg
+- file: images/passeriformes/acanthizidae/smicrornis-brevirostris/2.jpg
+  page: https://www.inaturalist.org/photos/622748907
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748907/original.jpg
+- file: images/passeriformes/acanthizidae/smicrornis-brevirostris/3.jpg
+  page: https://www.inaturalist.org/photos/635179577
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635179577/original.jpg
+- file: images/passeriformes/acanthizidae/smicrornis-brevirostris/4.jpg
+  page: https://www.inaturalist.org/photos/634622940
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634622940/original.jpg
+- file: images/passeriformes/acanthizidae/smicrornis-brevirostris/5.jpg
+  page: https://www.inaturalist.org/photos/635179692
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635179692/original.jpg
 ---
 
 

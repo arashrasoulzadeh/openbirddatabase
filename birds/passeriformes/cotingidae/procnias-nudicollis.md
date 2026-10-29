@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/procnias-nudicollis/1.jpg
+  page: https://www.inaturalist.org/photos/607273854
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273854/original.jpg
+images:
+- file: images/passeriformes/cotingidae/procnias-nudicollis/1.jpg
+  page: https://www.inaturalist.org/photos/607273854
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273854/original.jpg
+- file: images/passeriformes/cotingidae/procnias-nudicollis/2.jpg
+  page: https://www.inaturalist.org/photos/609929747
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609929747/original.jpg
+- file: images/passeriformes/cotingidae/procnias-nudicollis/3.jpg
+  page: https://www.inaturalist.org/photos/612763748
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612763748/original.jpg
+- file: images/passeriformes/cotingidae/procnias-nudicollis/4.jpg
+  page: https://www.inaturalist.org/photos/641150169
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150169/original.jpg
+- file: images/passeriformes/cotingidae/procnias-nudicollis/5.jpg
+  page: https://www.inaturalist.org/photos/712322956
+  author: Alex Fernando
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712322956/original.jpg
 ---
 
 

@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/gymnoris-dentata/1.jpg
+  page: https://www.inaturalist.org/photos/606315704
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606315704/original.jpg
+images:
+- file: images/passeriformes/passeridae/gymnoris-dentata/1.jpg
+  page: https://www.inaturalist.org/photos/606315704
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606315704/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-dentata/2.jpg
+  page: https://www.inaturalist.org/photos/459051752
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459051752/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-dentata/3.jpg
+  page: https://www.inaturalist.org/photos/260045088
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260045088/original.jpeg
+- file: images/passeriformes/passeridae/gymnoris-dentata/4.jpg
+  page: https://www.inaturalist.org/photos/606315709
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606315709/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-dentata/5.jpg
+  page: https://www.inaturalist.org/photos/606315718
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606315718/original.jpg
 ---
 
 

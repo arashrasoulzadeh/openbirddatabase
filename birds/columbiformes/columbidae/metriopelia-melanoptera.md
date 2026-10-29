@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/metriopelia-melanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605912783
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605912783/original.jpg
+images:
+- file: images/columbiformes/columbidae/metriopelia-melanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605912783
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605912783/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-melanoptera/2.jpg
+  page: https://www.inaturalist.org/photos/609665893
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609665893/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-melanoptera/3.jpg
+  page: https://www.inaturalist.org/photos/606271305
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606271305/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-melanoptera/4.jpg
+  page: https://www.inaturalist.org/photos/610490388
+  author: Cesar Ormazabal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610490388/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-melanoptera/5.jpg
+  page: https://www.inaturalist.org/photos/621887377
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621887377/original.jpg
 ---
 
 

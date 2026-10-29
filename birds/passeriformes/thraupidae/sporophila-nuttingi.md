@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-nuttingi/1.jpg
+  page: https://www.inaturalist.org/photos/616231742
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616231742/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-nuttingi/1.jpg
+  page: https://www.inaturalist.org/photos/616231742
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616231742/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-nuttingi/2.jpg
+  page: https://www.inaturalist.org/photos/667479482
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667479482/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-nuttingi/3.jpg
+  page: https://www.inaturalist.org/photos/490909585
+  author: EDMILSON FERNANDO JARQUIN LOPEZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490909585/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-nuttingi/4.jpg
+  page: https://www.inaturalist.org/photos/599149373
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599149373/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-nuttingi/5.jpg
+  page: https://www.inaturalist.org/photos/347248516
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347248516/original.jpg
 ---
 
 

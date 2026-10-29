@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cariamiformes/cariamidae/cariama-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/606015000
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606015000/original.jpg
+images:
+- file: images/cariamiformes/cariamidae/cariama-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/606015000
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606015000/original.jpg
+- file: images/cariamiformes/cariamidae/cariama-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/726159847
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726159847/original.jpg
+- file: images/cariamiformes/cariamidae/cariama-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/612769534
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612769534/original.jpg
+- file: images/cariamiformes/cariamidae/cariama-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/612839984
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612839984/original.jpg
+- file: images/cariamiformes/cariamidae/cariama-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/614205285
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205285/original.jpg
 ---
 
 

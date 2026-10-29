@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-subhimachalus/1.jpg
+  page: https://www.inaturalist.org/photos/663270023
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663270023/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-subhimachalus/1.jpg
+  page: https://www.inaturalist.org/photos/663270023
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663270023/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-subhimachalus/2.jpg
+  page: https://www.inaturalist.org/photos/508271753
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508271753/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-subhimachalus/3.jpg
+  page: https://www.inaturalist.org/photos/521762268
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762268/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-subhimachalus/4.jpg
+  page: https://www.inaturalist.org/photos/603792152
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603792152/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-subhimachalus/5.jpg
+  page: https://www.inaturalist.org/photos/364453213
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364453213/original.jpeg
 ---
 
 

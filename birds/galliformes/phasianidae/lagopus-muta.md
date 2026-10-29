@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/galliformes/phasianidae/lagopus-muta/1.jpg
+  page: https://www.inaturalist.org/photos/615508777
+  author: Marina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615508777/original.jpg
+images:
+- file: images/galliformes/phasianidae/lagopus-muta/1.jpg
+  page: https://www.inaturalist.org/photos/615508777
+  author: Marina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615508777/original.jpg
+- file: images/galliformes/phasianidae/lagopus-muta/2.jpg
+  page: https://www.inaturalist.org/photos/628607264
+  author: Riccardo Riva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628607264/original.jpg
+- file: images/galliformes/phasianidae/lagopus-muta/3.jpg
+  page: https://www.inaturalist.org/photos/686039222
+  author: franzi :p
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686039222/original.jpg
+- file: images/galliformes/phasianidae/lagopus-muta/4.jpg
+  page: https://www.inaturalist.org/photos/645080688
+  author: Sam Bellamy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645080688/original.jpg
+- file: images/galliformes/phasianidae/lagopus-muta/5.jpg
+  page: https://www.inaturalist.org/photos/653482067
+  author: David Paterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653482067/original.jpg
 ---
 
 

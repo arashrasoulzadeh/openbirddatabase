@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/ceuthmochares-australis/1.jpg
+  page: https://www.inaturalist.org/photos/734315857
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734315857/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/ceuthmochares-australis/1.jpg
+  page: https://www.inaturalist.org/photos/734315857
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734315857/original.jpg
+- file: images/cuculiformes/cuculidae/ceuthmochares-australis/2.jpg
+  page: https://www.inaturalist.org/photos/586902335
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586902335/original.jpg
+- file: images/cuculiformes/cuculidae/ceuthmochares-australis/3.jpg
+  page: https://www.inaturalist.org/photos/441689552
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441689552/original.jpeg
+- file: images/cuculiformes/cuculidae/ceuthmochares-australis/4.jpg
+  page: https://www.inaturalist.org/photos/447875131
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447875131/original.jpg
+- file: images/cuculiformes/cuculidae/ceuthmochares-australis/5.jpg
+  page: https://www.inaturalist.org/photos/301782379
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/301782379/original.jpeg
 ---
 
 

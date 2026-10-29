@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 162.2
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 572.5
   tail_length_mm: 223.8
   body_mass_g: 6222.8
+image:
+  file: images/gruiformes/gruidae/antigone-rubicunda/1.jpg
+  page: https://www.inaturalist.org/photos/615192290
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615192290/original.jpg
+images:
+- file: images/gruiformes/gruidae/antigone-rubicunda/1.jpg
+  page: https://www.inaturalist.org/photos/615192290
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615192290/original.jpg
+- file: images/gruiformes/gruidae/antigone-rubicunda/2.jpg
+  page: https://www.inaturalist.org/photos/615613847
+  author: Michael McBain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615613847/original.jpg
+- file: images/gruiformes/gruidae/antigone-rubicunda/3.jpg
+  page: https://www.inaturalist.org/photos/617427264
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617427264/original.jpg
+- file: images/gruiformes/gruidae/antigone-rubicunda/4.jpg
+  page: https://www.inaturalist.org/photos/743068592
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743068592/original.jpg
+- file: images/gruiformes/gruidae/antigone-rubicunda/5.jpg
+  page: https://www.inaturalist.org/photos/624842074
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624842074/original.jpg
 ---
 
 

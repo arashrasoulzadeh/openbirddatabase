@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/parulidae/leiothlypis-luciae/1.jpg
+  page: https://www.inaturalist.org/photos/606529629
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606529629/original.jpg
+images:
+- file: images/passeriformes/parulidae/leiothlypis-luciae/1.jpg
+  page: https://www.inaturalist.org/photos/606529629
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606529629/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-luciae/2.jpg
+  page: https://www.inaturalist.org/photos/608731816
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608731816/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-luciae/3.jpg
+  page: https://www.inaturalist.org/photos/625520907
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625520907/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-luciae/4.jpg
+  page: https://www.inaturalist.org/photos/629731214
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629731214/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-luciae/5.jpg
+  page: https://www.inaturalist.org/photos/631653294
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631653294/original.jpg
 ---
 
 

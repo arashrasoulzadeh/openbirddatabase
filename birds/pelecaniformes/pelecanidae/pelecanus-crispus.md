@@ -176,10 +176,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 35
+image:
+  file: images/pelecaniformes/pelecanidae/pelecanus-crispus/1.jpg
+  page: https://www.inaturalist.org/photos/605172378
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605172378/original.jpg
+images:
+- file: images/pelecaniformes/pelecanidae/pelecanus-crispus/1.jpg
+  page: https://www.inaturalist.org/photos/605172378
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605172378/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-crispus/2.jpg
+  page: https://www.inaturalist.org/photos/604751823
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604751823/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-crispus/3.jpg
+  page: https://www.inaturalist.org/photos/615674722
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674722/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-crispus/4.jpg
+  page: https://www.inaturalist.org/photos/612893991
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612893991/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-crispus/5.jpg
+  page: https://www.inaturalist.org/photos/605172376
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605172376/original.jpg
 ---
 
 

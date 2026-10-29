@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/eudromias-morinellus/1.jpg
+  page: https://www.inaturalist.org/photos/625714216
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625714216/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/eudromias-morinellus/1.jpg
+  page: https://www.inaturalist.org/photos/625714216
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625714216/original.jpg
+- file: images/charadriiformes/charadriidae/eudromias-morinellus/2.jpg
+  page: https://www.inaturalist.org/photos/635109384
+  author: Yann Geshors
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635109384/original.jpg
+- file: images/charadriiformes/charadriidae/eudromias-morinellus/3.jpg
+  page: https://www.inaturalist.org/photos/648095673
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648095673/original.jpg
+- file: images/charadriiformes/charadriidae/eudromias-morinellus/4.jpg
+  page: https://www.inaturalist.org/photos/650735230
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650735230/original.jpg
+- file: images/charadriiformes/charadriidae/eudromias-morinellus/5.jpg
+  page: https://www.inaturalist.org/photos/653833062
+  author: Oscar Hazell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653833062/original.jpg
 ---
 
 

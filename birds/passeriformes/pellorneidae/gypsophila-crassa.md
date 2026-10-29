@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/gypsophila-crassa/1.jpg
+  page: https://www.inaturalist.org/photos/685780293
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685780293/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/gypsophila-crassa/1.jpg
+  page: https://www.inaturalist.org/photos/685780293
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685780293/original.jpg
+- file: images/passeriformes/pellorneidae/gypsophila-crassa/2.jpg
+  page: https://www.inaturalist.org/photos/599786804
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599786804/original.jpg
+- file: images/passeriformes/pellorneidae/gypsophila-crassa/3.jpg
+  page: https://www.inaturalist.org/photos/452645036
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452645036/original.jpeg
+- file: images/passeriformes/pellorneidae/gypsophila-crassa/4.jpg
+  page: https://www.inaturalist.org/photos/186214358
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186214358/original.jpeg
+- file: images/passeriformes/pellorneidae/gypsophila-crassa/5.jpg
+  page: https://www.inaturalist.org/photos/59949169
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59949169/original.jpg
 ---
 
 

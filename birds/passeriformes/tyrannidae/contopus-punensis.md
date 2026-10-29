@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/contopus-punensis/1.jpg
+  page: https://www.inaturalist.org/photos/345156900
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345156900/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/contopus-punensis/1.jpg
+  page: https://www.inaturalist.org/photos/345156900
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345156900/original.jpeg
+- file: images/passeriformes/tyrannidae/contopus-punensis/2.jpg
+  page: https://www.inaturalist.org/photos/456192904
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456192904/original.jpeg
+- file: images/passeriformes/tyrannidae/contopus-punensis/3.jpg
+  page: https://www.inaturalist.org/photos/174498243
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174498243/original.jpeg
+- file: images/passeriformes/tyrannidae/contopus-punensis/4.jpg
+  page: https://www.inaturalist.org/photos/12870013
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12870013/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-punensis/5.jpg
+  page: https://www.inaturalist.org/photos/456192910
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456192910/original.jpeg
 ---
 
 

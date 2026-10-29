@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 39
+image:
+  file: images/pelecaniformes/threskiornithidae/threskiornis-spinicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605001817
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605001817/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/threskiornis-spinicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605001817
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605001817/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-spinicollis/2.jpg
+  page: https://www.inaturalist.org/photos/605268306
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605268306/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-spinicollis/3.jpg
+  page: https://www.inaturalist.org/photos/608848400
+  author: Ellen Rykers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608848400/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-spinicollis/4.jpg
+  page: https://www.inaturalist.org/photos/610145904
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610145904/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-spinicollis/5.jpg
+  page: https://www.inaturalist.org/photos/607126466
+  author: ttsquid
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607126466/original.jpg
 ---
 
 

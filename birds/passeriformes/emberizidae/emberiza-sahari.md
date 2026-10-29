@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-sahari/1.jpg
+  page: https://www.inaturalist.org/photos/607442106
+  author: North Ross
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607442106/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-sahari/1.jpg
+  page: https://www.inaturalist.org/photos/607442106
+  author: North Ross
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607442106/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-sahari/2.jpg
+  page: https://www.inaturalist.org/photos/606179047
+  author: formicacid
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606179047/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-sahari/3.jpg
+  page: https://www.inaturalist.org/photos/611625112
+  author: serni bams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611625112/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-sahari/4.jpg
+  page: https://www.inaturalist.org/photos/610785248
+  author: Gianmaria Bonari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610785248/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-sahari/5.jpg
+  page: https://www.inaturalist.org/photos/619469614
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619469614/original.jpg
 ---
 
 

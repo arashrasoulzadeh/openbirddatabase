@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/pogoniulus-atroflavus/1.jpg
+  page: https://www.inaturalist.org/photos/656285921
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656285921/original.jpg
+images:
+- file: images/piciformes/lybiidae/pogoniulus-atroflavus/1.jpg
+  page: https://www.inaturalist.org/photos/656285921
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656285921/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-atroflavus/2.jpg
+  page: https://www.inaturalist.org/photos/394131955
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394131955/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-atroflavus/3.jpg
+  page: https://www.inaturalist.org/photos/180635481
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180635481/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-atroflavus/4.jpg
+  page: https://www.inaturalist.org/photos/656285925
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656285925/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-atroflavus/5.jpg
+  page: https://www.inaturalist.org/photos/394131953
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394131953/original.jpg
 ---
 
 

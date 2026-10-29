@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/furnarius-figulus/1.jpg
+  page: https://www.inaturalist.org/photos/605729694
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729694/original.jpg
+images:
+- file: images/passeriformes/furnariidae/furnarius-figulus/1.jpg
+  page: https://www.inaturalist.org/photos/605729694
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729694/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-figulus/2.jpg
+  page: https://www.inaturalist.org/photos/612370845
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612370845/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-figulus/3.jpg
+  page: https://www.inaturalist.org/photos/613942801
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613942801/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-figulus/4.jpg
+  page: https://www.inaturalist.org/photos/620987335
+  author: David Dias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620987335/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-figulus/5.jpg
+  page: https://www.inaturalist.org/photos/642636318
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642636318/original.jpg
 ---
 
 

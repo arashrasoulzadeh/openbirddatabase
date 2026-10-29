@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/spodiopsar-cineraceus/1.jpg
+  page: https://www.inaturalist.org/photos/604701297
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604701297/original.jpg
+images:
+- file: images/passeriformes/sturnidae/spodiopsar-cineraceus/1.jpg
+  page: https://www.inaturalist.org/photos/604701297
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604701297/original.jpg
+- file: images/passeriformes/sturnidae/spodiopsar-cineraceus/2.jpg
+  page: https://www.inaturalist.org/photos/604945598
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604945598/original.jpg
+- file: images/passeriformes/sturnidae/spodiopsar-cineraceus/3.jpg
+  page: https://www.inaturalist.org/photos/610897959
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610897959/original.jpg
+- file: images/passeriformes/sturnidae/spodiopsar-cineraceus/4.jpg
+  page: https://www.inaturalist.org/photos/605844004
+  author: Se Lena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605844004/original.jpg
+- file: images/passeriformes/sturnidae/spodiopsar-cineraceus/5.jpg
+  page: https://www.inaturalist.org/photos/610391694
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610391694/original.jpg
 ---
 
 

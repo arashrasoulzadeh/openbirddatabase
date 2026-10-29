@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-thenca/1.jpg
+  page: https://www.inaturalist.org/photos/605657911
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657911/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-thenca/1.jpg
+  page: https://www.inaturalist.org/photos/605657911
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657911/original.jpg
+- file: images/passeriformes/mimidae/mimus-thenca/2.jpg
+  page: https://www.inaturalist.org/photos/607781756
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607781756/original.jpg
+- file: images/passeriformes/mimidae/mimus-thenca/3.jpg
+  page: https://www.inaturalist.org/photos/653625255
+  author: Rodrigo Castillo Tapia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653625255/original.jpg
+- file: images/passeriformes/mimidae/mimus-thenca/4.jpg
+  page: https://www.inaturalist.org/photos/613275650
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613275650/original.jpg
+- file: images/passeriformes/mimidae/mimus-thenca/5.jpg
+  page: https://www.inaturalist.org/photos/615074888
+  author: Max Alejandro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615074888/original.jpg
 ---
 
 

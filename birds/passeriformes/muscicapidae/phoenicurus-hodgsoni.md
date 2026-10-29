@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/phoenicurus-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/635098225
+  author: Tarun Meena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635098225/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/phoenicurus-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/635098225
+  author: Tarun Meena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635098225/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-hodgsoni/2.jpg
+  page: https://www.inaturalist.org/photos/469301820
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469301820/original.jpeg
+- file: images/passeriformes/muscicapidae/phoenicurus-hodgsoni/3.jpg
+  page: https://www.inaturalist.org/photos/603812041
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603812041/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-hodgsoni/4.jpg
+  page: https://www.inaturalist.org/photos/469301818
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469301818/original.jpeg
+- file: images/passeriformes/muscicapidae/phoenicurus-hodgsoni/5.jpg
+  page: https://www.inaturalist.org/photos/469301832
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469301832/original.jpeg
 ---
 
 

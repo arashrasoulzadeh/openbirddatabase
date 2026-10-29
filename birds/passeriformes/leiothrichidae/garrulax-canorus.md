@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/garrulax-canorus/1.jpg
+  page: https://www.inaturalist.org/photos/607671577
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607671577/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/garrulax-canorus/1.jpg
+  page: https://www.inaturalist.org/photos/607671577
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607671577/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-canorus/2.jpg
+  page: https://www.inaturalist.org/photos/609877775
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609877775/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-canorus/3.jpg
+  page: https://www.inaturalist.org/photos/607101966
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607101966/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-canorus/4.jpg
+  page: https://www.inaturalist.org/photos/605861681
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605861681/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-canorus/5.jpg
+  page: https://www.inaturalist.org/photos/612038973
+  author: Satoshi Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612038973/original.jpg
 ---
 
 

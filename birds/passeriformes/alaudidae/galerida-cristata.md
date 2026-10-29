@@ -204,10 +204,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/alaudidae/galerida-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/605165616
+  author: Дмитрий Еременко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165616/original.jpg
+images:
+- file: images/passeriformes/alaudidae/galerida-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/605165616
+  author: Дмитрий Еременко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165616/original.jpg
+- file: images/passeriformes/alaudidae/galerida-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/605323327
+  author: lalaia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605323327/original.jpg
+- file: images/passeriformes/alaudidae/galerida-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/605417525
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417525/original.jpg
+- file: images/passeriformes/alaudidae/galerida-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/604694181
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604694181/original.jpg
+- file: images/passeriformes/alaudidae/galerida-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/606603011
+  author: Stanislav Murashkin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606603011/original.jpg
 ---
 
 

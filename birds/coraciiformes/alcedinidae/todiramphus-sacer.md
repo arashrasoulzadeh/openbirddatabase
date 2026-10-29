@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-sacer/1.jpg
+  page: https://www.inaturalist.org/photos/607393717
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607393717/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-sacer/1.jpg
+  page: https://www.inaturalist.org/photos/607393717
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607393717/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sacer/2.jpg
+  page: https://www.inaturalist.org/photos/694370142
+  author: Rick Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694370142/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sacer/3.jpg
+  page: https://www.inaturalist.org/photos/727592885
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727592885/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sacer/4.jpg
+  page: https://www.inaturalist.org/photos/464047501
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464047501/original.jpeg
+- file: images/coraciiformes/alcedinidae/todiramphus-sacer/5.jpg
+  page: https://www.inaturalist.org/photos/515025960
+  author: Matthew Lincoln
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515025960/original.jpg
 ---
 
 

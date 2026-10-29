@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-innominatus/1.jpg
+  page: https://www.inaturalist.org/photos/611768431
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611768431/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-innominatus/1.jpg
+  page: https://www.inaturalist.org/photos/611768431
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611768431/original.jpg
+- file: images/piciformes/picidae/picumnus-innominatus/2.jpg
+  page: https://www.inaturalist.org/photos/617109956
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617109956/original.jpg
+- file: images/piciformes/picidae/picumnus-innominatus/3.jpg
+  page: https://www.inaturalist.org/photos/618360343
+  author: David Addis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618360343/original.jpg
+- file: images/piciformes/picidae/picumnus-innominatus/4.jpg
+  page: https://www.inaturalist.org/photos/625675602
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625675602/original.jpg
+- file: images/piciformes/picidae/picumnus-innominatus/5.jpg
+  page: https://www.inaturalist.org/photos/636116580
+  author: Pranav Chandra Bose
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636116580/original.jpg
 ---
 
 

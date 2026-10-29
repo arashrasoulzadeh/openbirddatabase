@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/cantorchilus-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/617952160
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952160/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cantorchilus-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/617952160
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952160/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-thoracicus/2.jpg
+  page: https://www.inaturalist.org/photos/618583297
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618583297/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-thoracicus/3.jpg
+  page: https://www.inaturalist.org/photos/636028858
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636028858/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-thoracicus/4.jpg
+  page: https://www.inaturalist.org/photos/713270390
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713270390/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-thoracicus/5.jpg
+  page: https://www.inaturalist.org/photos/724437852
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724437852/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/zavattariornis-stresemanni/1.jpg
+  page: https://www.inaturalist.org/photos/611838043
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611838043/original.jpg
+images:
+- file: images/passeriformes/corvidae/zavattariornis-stresemanni/1.jpg
+  page: https://www.inaturalist.org/photos/611838043
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611838043/original.jpg
+- file: images/passeriformes/corvidae/zavattariornis-stresemanni/2.jpg
+  page: https://www.inaturalist.org/photos/181621969
+  author: Brian Henderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181621969/original.jpg
+- file: images/passeriformes/corvidae/zavattariornis-stresemanni/3.jpg
+  page: https://www.flickr.com/photos/copepodo/8483624228/
+  author: Rafael Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1629732/original.jpg
+- file: images/passeriformes/corvidae/zavattariornis-stresemanni/4.jpg
+  page: https://www.inaturalist.org/photos/29523367
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29523367/original.jpeg
+- file: images/passeriformes/corvidae/zavattariornis-stresemanni/5.jpg
+  page: https://www.inaturalist.org/photos/611838032
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611838032/original.jpg
 ---
 
 

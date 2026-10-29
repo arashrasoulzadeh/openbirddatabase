@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/apalis-thoracica/1.jpg
+  page: https://www.inaturalist.org/photos/608227478
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608227478/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/apalis-thoracica/1.jpg
+  page: https://www.inaturalist.org/photos/608227478
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608227478/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-thoracica/2.jpg
+  page: https://www.inaturalist.org/photos/626720716
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626720716/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-thoracica/3.jpg
+  page: https://www.inaturalist.org/photos/635105404
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635105404/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-thoracica/4.jpg
+  page: https://www.inaturalist.org/photos/651190369
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651190369/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-thoracica/5.jpg
+  page: https://www.inaturalist.org/photos/658455567
+  author: brianvds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658455567/original.jpg
 ---
 
 

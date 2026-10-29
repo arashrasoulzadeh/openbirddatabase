@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-schoenobaenus/1.jpg
+  page: https://www.inaturalist.org/photos/627477209
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627477209/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-schoenobaenus/1.jpg
+  page: https://www.inaturalist.org/photos/627477209
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627477209/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-schoenobaenus/2.jpg
+  page: https://www.inaturalist.org/photos/637253467
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637253467/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-schoenobaenus/3.jpg
+  page: https://www.inaturalist.org/photos/636985478
+  author: Richard Shirky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636985478/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-schoenobaenus/4.jpg
+  page: https://www.inaturalist.org/photos/636678456
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636678456/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-schoenobaenus/5.jpg
+  page: https://www.inaturalist.org/photos/634737081
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634737081/original.jpg
 ---
 
 

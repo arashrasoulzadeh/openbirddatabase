@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-pucherani/1.jpg
+  page: https://www.inaturalist.org/photos/606873001
+  author: Mark Valen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606873001/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-pucherani/1.jpg
+  page: https://www.inaturalist.org/photos/606873001
+  author: Mark Valen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606873001/original.jpg
+- file: images/piciformes/picidae/melanerpes-pucherani/2.jpg
+  page: https://www.inaturalist.org/photos/606620233
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606620233/original.jpg
+- file: images/piciformes/picidae/melanerpes-pucherani/3.jpg
+  page: https://www.inaturalist.org/photos/606283211
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606283211/original.jpg
+- file: images/piciformes/picidae/melanerpes-pucherani/4.jpg
+  page: https://www.inaturalist.org/photos/608199434
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608199434/original.jpg
+- file: images/piciformes/picidae/melanerpes-pucherani/5.jpg
+  page: https://www.inaturalist.org/photos/606618411
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606618411/original.jpg
 ---
 
 

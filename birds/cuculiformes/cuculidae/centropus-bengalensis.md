@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-bengalensis/1.jpg
+  page: https://www.inaturalist.org/photos/613583348
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613583348/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-bengalensis/1.jpg
+  page: https://www.inaturalist.org/photos/613583348
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613583348/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-bengalensis/2.jpg
+  page: https://www.inaturalist.org/photos/618849665
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849665/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-bengalensis/3.jpg
+  page: https://www.inaturalist.org/photos/612920353
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612920353/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-bengalensis/4.jpg
+  page: https://www.inaturalist.org/photos/627861102
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627861102/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-bengalensis/5.jpg
+  page: https://www.inaturalist.org/photos/720596886
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720596886/original.jpg
 ---
 
 

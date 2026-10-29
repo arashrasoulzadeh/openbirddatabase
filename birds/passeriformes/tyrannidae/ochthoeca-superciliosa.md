@@ -131,8 +131,41 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ochthoeca-superciliosa/1.jpg
+  page: https://www.inaturalist.org/photos/78463677
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78463677/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/ochthoeca-superciliosa/1.jpg
+  page: https://www.inaturalist.org/photos/78463677
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78463677/original.jpeg
+- file: images/passeriformes/tyrannidae/ochthoeca-superciliosa/2.jpg
+  page: https://www.inaturalist.org/photos/78464559
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78464559/original.jpeg
+- file: images/passeriformes/tyrannidae/ochthoeca-superciliosa/3.jpg
+  page: https://www.inaturalist.org/photos/78471644
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78471644/original.jpeg
+- file: images/passeriformes/tyrannidae/ochthoeca-superciliosa/4.jpg
+  page: https://www.inaturalist.org/photos/80983587
+  author: Luis Ángel Niño Barreat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/80983587/original.jpeg
 ---
 
 

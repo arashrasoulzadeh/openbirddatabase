@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-strepera/1.jpg
+  page: https://www.inaturalist.org/photos/609586402
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609586402/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-strepera/1.jpg
+  page: https://www.inaturalist.org/photos/609586402
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609586402/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-strepera/2.jpg
+  page: https://www.inaturalist.org/photos/591395982
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591395982/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-strepera/3.jpg
+  page: https://www.inaturalist.org/photos/444600114
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444600114/original.jpeg
+- file: images/passeriformes/tyrannidae/elaenia-strepera/4.jpg
+  page: https://www.inaturalist.org/photos/348152120
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348152120/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-strepera/5.jpg
+  page: https://www.inaturalist.org/photos/237585143
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237585143/original.jpeg
 ---
 
 

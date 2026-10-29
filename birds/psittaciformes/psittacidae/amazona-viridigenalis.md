@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-viridigenalis/1.jpg
+  page: https://www.inaturalist.org/photos/605287415
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605287415/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-viridigenalis/1.jpg
+  page: https://www.inaturalist.org/photos/605287415
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605287415/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-viridigenalis/2.jpg
+  page: https://www.inaturalist.org/photos/605409896
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605409896/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-viridigenalis/3.jpg
+  page: https://www.inaturalist.org/photos/605287434
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605287434/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-viridigenalis/4.jpg
+  page: https://www.inaturalist.org/photos/605409897
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605409897/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-viridigenalis/5.jpg
+  page: https://www.inaturalist.org/photos/605409895
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605409895/original.jpg
 ---
 
 

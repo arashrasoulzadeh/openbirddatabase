@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/ianthocincla-ocellata/1.jpg
+  page: https://www.inaturalist.org/photos/487054586
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054586/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/ianthocincla-ocellata/1.jpg
+  page: https://www.inaturalist.org/photos/487054586
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054586/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-ocellata/2.jpg
+  page: https://www.inaturalist.org/photos/512687961
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512687961/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-ocellata/3.jpg
+  page: https://www.inaturalist.org/photos/603812238
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603812238/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-ocellata/4.jpg
+  page: https://www.inaturalist.org/photos/360496701
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360496701/original.jpeg
+- file: images/passeriformes/leiothrichidae/ianthocincla-ocellata/5.jpg
+  page: https://www.inaturalist.org/photos/377258969
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/377258969/original.jpg
 ---
 
 

@@ -183,10 +183,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/accipitriformes/pandionidae/pandion-haliaetus/1.jpg
+  page: https://www.inaturalist.org/photos/605010452
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605010452/original.jpg
+images:
+- file: images/accipitriformes/pandionidae/pandion-haliaetus/1.jpg
+  page: https://www.inaturalist.org/photos/605010452
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605010452/original.jpg
+- file: images/accipitriformes/pandionidae/pandion-haliaetus/2.jpg
+  page: https://www.inaturalist.org/photos/605090262
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090262/original.jpg
+- file: images/accipitriformes/pandionidae/pandion-haliaetus/3.jpg
+  page: https://www.inaturalist.org/photos/604626481
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604626481/original.jpg
+- file: images/accipitriformes/pandionidae/pandion-haliaetus/4.jpg
+  page: https://www.inaturalist.org/photos/605198914
+  author: Corey Stafford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605198914/original.jpg
+- file: images/accipitriformes/pandionidae/pandion-haliaetus/5.jpg
+  page: https://www.inaturalist.org/photos/604658554
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604658554/original.jpg
 ---
 
 

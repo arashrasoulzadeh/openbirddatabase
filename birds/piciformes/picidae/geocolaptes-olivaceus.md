@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/geocolaptes-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/624553613
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624553613/original.jpg
+images:
+- file: images/piciformes/picidae/geocolaptes-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/624553613
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624553613/original.jpg
+- file: images/piciformes/picidae/geocolaptes-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/626977893
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626977893/original.jpg
+- file: images/piciformes/picidae/geocolaptes-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/680213942
+  author: Martjie Fia Fourie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680213942/original.jpg
+- file: images/piciformes/picidae/geocolaptes-olivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/710272209
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710272209/original.jpg
+- file: images/piciformes/picidae/geocolaptes-olivaceus/5.jpg
+  page: https://www.inaturalist.org/photos/596021737
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596021737/original.jpg
 ---
 
 

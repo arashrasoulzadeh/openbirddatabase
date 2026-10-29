@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/oncostoma-cinereigulare/1.jpg
+  page: https://www.inaturalist.org/photos/605677501
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605677501/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/oncostoma-cinereigulare/1.jpg
+  page: https://www.inaturalist.org/photos/605677501
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605677501/original.jpg
+- file: images/passeriformes/tyrannidae/oncostoma-cinereigulare/2.jpg
+  page: https://www.inaturalist.org/photos/667543006
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667543006/original.jpg
+- file: images/passeriformes/tyrannidae/oncostoma-cinereigulare/3.jpg
+  page: https://www.inaturalist.org/photos/675770682
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675770682/original.jpg
+- file: images/passeriformes/tyrannidae/oncostoma-cinereigulare/4.jpg
+  page: https://www.inaturalist.org/photos/596576555
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596576555/original.jpg
+- file: images/passeriformes/tyrannidae/oncostoma-cinereigulare/5.jpg
+  page: https://www.inaturalist.org/photos/605839647
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605839647/original.jpg
 ---
 
 

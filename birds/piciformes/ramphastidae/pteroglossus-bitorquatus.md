@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/pteroglossus-bitorquatus/1.jpg
+  page: https://www.inaturalist.org/photos/733361363
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733361363/original.jpg
+images:
+- file: images/piciformes/ramphastidae/pteroglossus-bitorquatus/1.jpg
+  page: https://www.inaturalist.org/photos/733361363
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733361363/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-bitorquatus/2.jpg
+  page: https://www.inaturalist.org/photos/385713736
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385713736/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-bitorquatus/3.jpg
+  page: https://www.inaturalist.org/photos/440276237
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440276237/original.jpeg
+- file: images/piciformes/ramphastidae/pteroglossus-bitorquatus/4.jpg
+  page: https://www.inaturalist.org/photos/228278903
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228278903/original.jpeg
+- file: images/piciformes/ramphastidae/pteroglossus-bitorquatus/5.jpg
+  page: https://www.inaturalist.org/photos/49062241
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49062241/original.jpeg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-brunneicauda/1.jpg
+  page: https://www.inaturalist.org/photos/679112301
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679112301/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-brunneicauda/1.jpg
+  page: https://www.inaturalist.org/photos/679112301
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679112301/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-brunneicauda/2.jpg
+  page: https://www.inaturalist.org/photos/572077387
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077387/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-brunneicauda/3.jpg
+  page: https://www.inaturalist.org/photos/595805977
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595805977/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-brunneicauda/4.jpg
+  page: https://www.inaturalist.org/photos/455294596
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455294596/original.jpeg
+- file: images/passeriformes/leiothrichidae/alcippe-brunneicauda/5.jpg
+  page: https://www.inaturalist.org/photos/171248915
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/171248915/original.jpeg
 ---
 
 

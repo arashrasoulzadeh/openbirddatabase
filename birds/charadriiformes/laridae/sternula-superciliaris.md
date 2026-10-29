@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sternula-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/605117190
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605117190/original.jpg
+images:
+- file: images/charadriiformes/laridae/sternula-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/605117190
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605117190/original.jpg
+- file: images/charadriiformes/laridae/sternula-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/684452921
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684452921/original.jpg
+- file: images/charadriiformes/laridae/sternula-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/701180648
+  author: Christian Ledergerber
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701180648/original.jpg
+- file: images/charadriiformes/laridae/sternula-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/715877765
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715877765/original.jpg
+- file: images/charadriiformes/laridae/sternula-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/736279254
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736279254/original.jpg
 ---
 
 

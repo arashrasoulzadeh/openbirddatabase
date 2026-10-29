@@ -132,7 +132,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.5
@@ -140,6 +141,44 @@ morphology:
   wing_length_mm: 66.2
   tail_length_mm: 47.2
   body_mass_g: 11.4
+image:
+  file: images/passeriformes/nectariniidae/kurochkinegramma-hypogrammicum/1.jpg
+  page: https://www.inaturalist.org/photos/619388144
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619388144/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/kurochkinegramma-hypogrammicum/1.jpg
+  page: https://www.inaturalist.org/photos/619388144
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619388144/original.jpg
+- file: images/passeriformes/nectariniidae/kurochkinegramma-hypogrammicum/2.jpg
+  page: https://www.inaturalist.org/photos/482111601
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482111601/original.jpg
+- file: images/passeriformes/nectariniidae/kurochkinegramma-hypogrammicum/3.jpg
+  page: https://www.inaturalist.org/photos/525702102
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525702102/original.jpg
+- file: images/passeriformes/nectariniidae/kurochkinegramma-hypogrammicum/4.jpg
+  page: https://www.inaturalist.org/photos/585994559
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585994559/original.jpg
+- file: images/passeriformes/nectariniidae/kurochkinegramma-hypogrammicum/5.jpg
+  page: https://www.inaturalist.org/photos/598466729
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598466729/original.jpg
 ---
 
 

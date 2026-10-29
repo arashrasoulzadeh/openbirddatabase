@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/megaloprepia-magnifica/1.jpg
+  page: https://www.inaturalist.org/photos/607843974
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607843974/original.jpg
+images:
+- file: images/columbiformes/columbidae/megaloprepia-magnifica/1.jpg
+  page: https://www.inaturalist.org/photos/607843974
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607843974/original.jpg
+- file: images/columbiformes/columbidae/megaloprepia-magnifica/2.jpg
+  page: https://www.inaturalist.org/photos/616554292
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616554292/original.jpg
+- file: images/columbiformes/columbidae/megaloprepia-magnifica/3.jpg
+  page: https://www.inaturalist.org/photos/639938496
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639938496/original.jpg
+- file: images/columbiformes/columbidae/megaloprepia-magnifica/4.jpg
+  page: https://www.inaturalist.org/photos/639435900
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639435900/original.jpg
+- file: images/columbiformes/columbidae/megaloprepia-magnifica/5.jpg
+  page: https://www.inaturalist.org/photos/664847541
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664847541/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-ignicauda/1.jpg
+  page: https://www.inaturalist.org/photos/612948050
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612948050/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-ignicauda/1.jpg
+  page: https://www.inaturalist.org/photos/612948050
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612948050/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-ignicauda/2.jpg
+  page: https://www.inaturalist.org/photos/721144873
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721144873/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-ignicauda/3.jpg
+  page: https://www.inaturalist.org/photos/513429447
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513429447/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-ignicauda/4.jpg
+  page: https://www.inaturalist.org/photos/538017742
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538017742/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-ignicauda/5.jpg
+  page: https://www.inaturalist.org/photos/365338241
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365338241/original.jpeg
 ---
 
 

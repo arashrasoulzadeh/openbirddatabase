@@ -154,8 +154,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/viduidae/vidua-paradisaea/1.jpg
+  page: https://www.inaturalist.org/photos/618008840
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618008840/original.jpg
+images:
+- file: images/passeriformes/viduidae/vidua-paradisaea/1.jpg
+  page: https://www.inaturalist.org/photos/618008840
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618008840/original.jpg
+- file: images/passeriformes/viduidae/vidua-paradisaea/2.jpg
+  page: https://www.inaturalist.org/photos/621788690
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621788690/original.jpg
+- file: images/passeriformes/viduidae/vidua-paradisaea/3.jpg
+  page: https://www.inaturalist.org/photos/621788688
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621788688/original.jpg
+- file: images/passeriformes/viduidae/vidua-paradisaea/4.jpg
+  page: https://www.inaturalist.org/photos/621788701
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621788701/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-chalybea/1.jpg
+  page: https://www.inaturalist.org/photos/645237332
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645237332/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-chalybea/1.jpg
+  page: https://www.inaturalist.org/photos/645237332
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645237332/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chalybea/2.jpg
+  page: https://www.inaturalist.org/photos/641153481
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641153481/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chalybea/3.jpg
+  page: https://www.inaturalist.org/photos/711577699
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711577699/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chalybea/4.jpg
+  page: https://www.inaturalist.org/photos/477357201
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477357201/original.jpeg
+- file: images/passeriformes/fringillidae/euphonia-chalybea/5.jpg
+  page: https://www.inaturalist.org/photos/543018726
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543018726/original.jpg
 ---
 
 

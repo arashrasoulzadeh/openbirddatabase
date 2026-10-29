@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptiliogonatidae/phainopepla-nitens/1.jpg
+  page: https://www.inaturalist.org/photos/605478881
+  author: Malena Lacque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478881/original.jpg
+images:
+- file: images/passeriformes/ptiliogonatidae/phainopepla-nitens/1.jpg
+  page: https://www.inaturalist.org/photos/605478881
+  author: Malena Lacque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478881/original.jpg
+- file: images/passeriformes/ptiliogonatidae/phainopepla-nitens/2.jpg
+  page: https://www.inaturalist.org/photos/604648795
+  author: lightbed
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604648795/original.jpg
+- file: images/passeriformes/ptiliogonatidae/phainopepla-nitens/3.jpg
+  page: https://www.inaturalist.org/photos/610467198
+  author: Augusto Olmos Mercado
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610467198/original.jpg
+- file: images/passeriformes/ptiliogonatidae/phainopepla-nitens/4.jpg
+  page: https://www.inaturalist.org/photos/610544119
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610544119/original.jpg
+- file: images/passeriformes/ptiliogonatidae/phainopepla-nitens/5.jpg
+  page: https://www.inaturalist.org/photos/608773046
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608773046/original.jpg
 ---
 
 

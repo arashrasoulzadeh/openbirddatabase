@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-phasianella/1.jpg
+  page: https://www.inaturalist.org/photos/604986592
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604986592/original.jpg
+images:
+- file: images/columbiformes/columbidae/macropygia-phasianella/1.jpg
+  page: https://www.inaturalist.org/photos/604986592
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604986592/original.jpg
+- file: images/columbiformes/columbidae/macropygia-phasianella/2.jpg
+  page: https://www.inaturalist.org/photos/610908019
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610908019/original.jpg
+- file: images/columbiformes/columbidae/macropygia-phasianella/3.jpg
+  page: https://www.inaturalist.org/photos/605821771
+  author: maxark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605821771/original.jpg
+- file: images/columbiformes/columbidae/macropygia-phasianella/4.jpg
+  page: https://www.inaturalist.org/photos/611997096
+  author: Coen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611997096/original.jpg
+- file: images/columbiformes/columbidae/macropygia-phasianella/5.jpg
+  page: https://www.inaturalist.org/photos/743061502
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743061502/original.jpg
 ---
 
 

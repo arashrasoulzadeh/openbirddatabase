@@ -140,8 +140,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/sarothruridae/rallicula-forbesi/1.jpg
+  page: https://www.inaturalist.org/photos/571216442
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571216442/original.jpg
+images:
+- file: images/gruiformes/sarothruridae/rallicula-forbesi/1.jpg
+  page: https://www.inaturalist.org/photos/571216442
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571216442/original.jpg
+- file: images/gruiformes/sarothruridae/rallicula-forbesi/2.jpg
+  page: https://www.inaturalist.org/photos/571216460
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571216460/original.jpg
 ---
 
 

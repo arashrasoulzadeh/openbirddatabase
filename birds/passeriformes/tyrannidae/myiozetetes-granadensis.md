@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiozetetes-granadensis/1.jpg
+  page: https://www.inaturalist.org/photos/604699751
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699751/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiozetetes-granadensis/1.jpg
+  page: https://www.inaturalist.org/photos/604699751
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699751/original.jpg
+- file: images/passeriformes/tyrannidae/myiozetetes-granadensis/2.jpg
+  page: https://www.inaturalist.org/photos/611554554
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611554554/original.jpg
+- file: images/passeriformes/tyrannidae/myiozetetes-granadensis/3.jpg
+  page: https://www.inaturalist.org/photos/614528624
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614528624/original.jpg
+- file: images/passeriformes/tyrannidae/myiozetetes-granadensis/4.jpg
+  page: https://www.inaturalist.org/photos/617561549
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617561549/original.jpg
+- file: images/passeriformes/tyrannidae/myiozetetes-granadensis/5.jpg
+  page: https://www.inaturalist.org/photos/622614893
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622614893/original.jpg
 ---
 
 

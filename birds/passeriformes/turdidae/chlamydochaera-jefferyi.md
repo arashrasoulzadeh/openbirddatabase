@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/chlamydochaera-jefferyi/1.jpg
+  page: https://www.inaturalist.org/photos/593985868
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593985868/original.jpg
+images:
+- file: images/passeriformes/turdidae/chlamydochaera-jefferyi/1.jpg
+  page: https://www.inaturalist.org/photos/593985868
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593985868/original.jpg
+- file: images/passeriformes/turdidae/chlamydochaera-jefferyi/2.jpg
+  page: https://www.inaturalist.org/photos/582715536
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582715536/original.jpg
+- file: images/passeriformes/turdidae/chlamydochaera-jefferyi/3.jpg
+  page: https://www.inaturalist.org/photos/452896099
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452896099/original.jpeg
+- file: images/passeriformes/turdidae/chlamydochaera-jefferyi/4.jpg
+  page: https://www.inaturalist.org/photos/443131759
+  author: Megan Crewe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443131759/original.jpeg
+- file: images/passeriformes/turdidae/chlamydochaera-jefferyi/5.jpg
+  page: https://www.inaturalist.org/photos/221186694
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/221186694/original.jpg
 ---
 
 

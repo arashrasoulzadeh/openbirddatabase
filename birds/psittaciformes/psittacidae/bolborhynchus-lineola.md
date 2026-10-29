@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/bolborhynchus-lineola/1.jpg
+  page: https://www.inaturalist.org/photos/350271684
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350271684/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/bolborhynchus-lineola/1.jpg
+  page: https://www.inaturalist.org/photos/350271684
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350271684/original.jpg
+- file: images/psittaciformes/psittacidae/bolborhynchus-lineola/2.jpg
+  page: https://www.inaturalist.org/photos/355917447
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355917447/original.jpg
+- file: images/psittaciformes/psittacidae/bolborhynchus-lineola/3.jpg
+  page: https://www.inaturalist.org/photos/414765698
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414765698/original.jpg
+- file: images/psittaciformes/psittacidae/bolborhynchus-lineola/4.jpg
+  page: https://www.inaturalist.org/photos/263199631
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263199631/original.png
+- file: images/psittaciformes/psittacidae/bolborhynchus-lineola/5.jpg
+  page: https://www.inaturalist.org/photos/355917452
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355917452/original.jpg
 ---
 
 

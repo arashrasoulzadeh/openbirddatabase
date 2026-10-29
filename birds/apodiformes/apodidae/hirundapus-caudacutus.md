@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/hirundapus-caudacutus/1.jpg
+  page: https://www.inaturalist.org/photos/609429682
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609429682/original.jpg
+images:
+- file: images/apodiformes/apodidae/hirundapus-caudacutus/1.jpg
+  page: https://www.inaturalist.org/photos/609429682
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609429682/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-caudacutus/2.jpg
+  page: https://www.inaturalist.org/photos/742064484
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742064484/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-caudacutus/3.jpg
+  page: https://www.inaturalist.org/photos/625568435
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625568435/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-caudacutus/4.jpg
+  page: https://www.inaturalist.org/photos/626839415
+  author: Rosie Steinberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626839415/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-caudacutus/5.jpg
+  page: https://www.inaturalist.org/photos/609429693
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609429693/original.jpg
 ---
 
 

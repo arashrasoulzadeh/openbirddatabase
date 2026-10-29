@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/phoenicircus-carnifex/1.jpg
+  page: https://www.inaturalist.org/photos/467510486
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467510486/original.jpg
+images:
+- file: images/passeriformes/cotingidae/phoenicircus-carnifex/1.jpg
+  page: https://www.inaturalist.org/photos/467510486
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467510486/original.jpg
+- file: images/passeriformes/cotingidae/phoenicircus-carnifex/2.jpg
+  page: https://www.inaturalist.org/photos/467858195
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467858195/original.jpeg
+- file: images/passeriformes/cotingidae/phoenicircus-carnifex/3.jpg
+  page: https://www.inaturalist.org/photos/463765920
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463765920/original.jpeg
+- file: images/passeriformes/cotingidae/phoenicircus-carnifex/4.jpg
+  page: https://www.inaturalist.org/photos/29365028
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29365028/original.jpg
+- file: images/passeriformes/cotingidae/phoenicircus-carnifex/5.jpg
+  page: https://www.inaturalist.org/photos/610045401
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610045401/original.jpg
 ---
 
 

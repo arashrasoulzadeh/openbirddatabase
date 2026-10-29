@@ -126,7 +126,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.0
@@ -134,6 +135,44 @@ morphology:
   wing_length_mm: 90.5
   tail_length_mm: 66.2
   body_mass_g: 39.0
+image:
+  file: images/passeriformes/cardinalidae/chlorothraupis-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/633531847
+  author: Cameron Eckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633531847/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/chlorothraupis-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/633531847
+  author: Cameron Eckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633531847/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-olivacea/2.jpg
+  page: https://www.inaturalist.org/photos/633531864
+  author: Cameron Eckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633531864/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-olivacea/3.jpg
+  page: https://www.inaturalist.org/photos/633531869
+  author: Cameron Eckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633531869/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-olivacea/4.jpg
+  page: https://www.inaturalist.org/photos/633531884
+  author: Cameron Eckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633531884/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-olivacea/5.jpg
+  page: https://www.inaturalist.org/photos/633531903
+  author: Cameron Eckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633531903/original.jpg
 ---
 
 

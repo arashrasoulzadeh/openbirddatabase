@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/acanthornis-magna/1.jpg
+  page: https://www.inaturalist.org/photos/597018209
+  author: Erik Schiff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597018209/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthornis-magna/1.jpg
+  page: https://www.inaturalist.org/photos/597018209
+  author: Erik Schiff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597018209/original.jpg
+- file: images/passeriformes/acanthizidae/acanthornis-magna/2.jpg
+  page: https://www.inaturalist.org/photos/449566618
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449566618/original.jpg
+- file: images/passeriformes/acanthizidae/acanthornis-magna/3.jpg
+  page: https://www.inaturalist.org/photos/448557368
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448557368/original.jpg
+- file: images/passeriformes/acanthizidae/acanthornis-magna/4.jpg
+  page: https://www.inaturalist.org/photos/457794829
+  author: Melissa Doherty
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457794829/original.jpeg
+- file: images/passeriformes/acanthizidae/acanthornis-magna/5.jpg
+  page: https://www.inaturalist.org/photos/490457821
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490457821/original.jpeg
 ---
 
 

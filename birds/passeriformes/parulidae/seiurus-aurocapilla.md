@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/parulidae/seiurus-aurocapilla/1.jpg
+  page: https://www.inaturalist.org/photos/605549847
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605549847/original.jpg
+images:
+- file: images/passeriformes/parulidae/seiurus-aurocapilla/1.jpg
+  page: https://www.inaturalist.org/photos/605549847
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605549847/original.jpg
+- file: images/passeriformes/parulidae/seiurus-aurocapilla/2.jpg
+  page: https://www.inaturalist.org/photos/605434607
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434607/original.jpg
+- file: images/passeriformes/parulidae/seiurus-aurocapilla/3.jpg
+  page: https://www.inaturalist.org/photos/607500439
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607500439/original.jpg
+- file: images/passeriformes/parulidae/seiurus-aurocapilla/4.jpg
+  page: https://www.inaturalist.org/photos/607716270
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607716270/original.jpg
+- file: images/passeriformes/parulidae/seiurus-aurocapilla/5.jpg
+  page: https://www.inaturalist.org/photos/607517834
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607517834/original.jpg
 ---
 
 

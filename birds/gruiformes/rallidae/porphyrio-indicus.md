@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/porphyrio-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/669068676
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669068676/original.jpg
+images:
+- file: images/gruiformes/rallidae/porphyrio-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/669068676
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669068676/original.jpg
+- file: images/gruiformes/rallidae/porphyrio-indicus/2.jpg
+  page: https://www.inaturalist.org/photos/320954567
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320954567/original.jpeg
+- file: images/gruiformes/rallidae/porphyrio-indicus/3.jpg
+  page: https://www.inaturalist.org/photos/352514388
+  author: Fajar Alfitrian
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352514388/original.jpeg
+- file: images/gruiformes/rallidae/porphyrio-indicus/4.jpg
+  page: https://www.inaturalist.org/photos/80950732
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/80950732/original.jpeg
+- file: images/gruiformes/rallidae/porphyrio-indicus/5.jpg
+  page: https://www.inaturalist.org/photos/313771235
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313771235/original.jpeg
 ---
 
 

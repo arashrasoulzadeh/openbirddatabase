@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/calcariidae/plectrophenax-nivalis/1.jpg
+  page: https://www.inaturalist.org/photos/605468624
+  author: Simon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605468624/original.jpg
+images:
+- file: images/passeriformes/calcariidae/plectrophenax-nivalis/1.jpg
+  page: https://www.inaturalist.org/photos/605468624
+  author: Simon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605468624/original.jpg
+- file: images/passeriformes/calcariidae/plectrophenax-nivalis/2.jpg
+  page: https://www.inaturalist.org/photos/605218855
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605218855/original.jpg
+- file: images/passeriformes/calcariidae/plectrophenax-nivalis/3.jpg
+  page: https://www.inaturalist.org/photos/605061501
+  author: L. Westerlund
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605061501/original.jpg
+- file: images/passeriformes/calcariidae/plectrophenax-nivalis/4.jpg
+  page: https://www.inaturalist.org/photos/605397621
+  author: Diego González Dopico
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605397621/original.jpg
+- file: images/passeriformes/calcariidae/plectrophenax-nivalis/5.jpg
+  page: https://www.inaturalist.org/photos/605080714
+  author: Нурхайдарова Татьяна
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605080714/original.jpg
 ---
 
 

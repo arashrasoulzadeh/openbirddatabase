@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-koepckeae/1.jpg
+  page: https://www.inaturalist.org/photos/433721000
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433721000/original.jpeg
+images:
+- file: images/strigiformes/strigidae/megascops-koepckeae/1.jpg
+  page: https://www.inaturalist.org/photos/433721000
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433721000/original.jpeg
+- file: images/strigiformes/strigidae/megascops-koepckeae/2.jpg
+  page: https://www.inaturalist.org/photos/339753327
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339753327/original.jpeg
+- file: images/strigiformes/strigidae/megascops-koepckeae/3.jpg
+  page: https://www.inaturalist.org/photos/233140142
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233140142/original.jpg
+- file: images/strigiformes/strigidae/megascops-koepckeae/4.jpg
+  page: https://www.inaturalist.org/photos/433721387
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433721387/original.jpeg
+- file: images/strigiformes/strigidae/megascops-koepckeae/5.jpg
+  page: https://www.inaturalist.org/photos/433721417
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433721417/original.jpeg
 ---
 
 

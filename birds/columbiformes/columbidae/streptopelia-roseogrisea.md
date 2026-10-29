@@ -183,10 +183,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/columbiformes/columbidae/streptopelia-roseogrisea/1.jpg
+  page: https://www.inaturalist.org/photos/610856049
+  author: T. Hammer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610856049/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-roseogrisea/1.jpg
+  page: https://www.inaturalist.org/photos/610856049
+  author: T. Hammer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610856049/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-roseogrisea/2.jpg
+  page: https://www.inaturalist.org/photos/606031807
+  author: Squid Wizard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606031807/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-roseogrisea/3.jpg
+  page: https://www.inaturalist.org/photos/613825043
+  author: Nic Charlton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613825043/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-roseogrisea/4.jpg
+  page: https://www.inaturalist.org/photos/647531101
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647531101/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-roseogrisea/5.jpg
+  page: https://www.inaturalist.org/photos/646069805
+  author: russelljsmith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646069805/original.jpg
 ---
 
 

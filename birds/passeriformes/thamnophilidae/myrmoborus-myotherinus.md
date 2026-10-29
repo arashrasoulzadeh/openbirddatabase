@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmoborus-myotherinus/1.jpg
+  page: https://www.inaturalist.org/photos/683601214
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683601214/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmoborus-myotherinus/1.jpg
+  page: https://www.inaturalist.org/photos/683601214
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683601214/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-myotherinus/2.jpg
+  page: https://www.inaturalist.org/photos/734668241
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734668241/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-myotherinus/3.jpg
+  page: https://www.inaturalist.org/photos/477264101
+  author: Roland Kays
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477264101/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmoborus-myotherinus/4.jpg
+  page: https://www.inaturalist.org/photos/347185226
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347185226/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmoborus-myotherinus/5.jpg
+  page: https://www.inaturalist.org/photos/351593566
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351593566/original.jpeg
 ---
 
 

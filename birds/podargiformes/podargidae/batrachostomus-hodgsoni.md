@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/batrachostomus-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/623365183
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623365183/original.jpg
+images:
+- file: images/podargiformes/podargidae/batrachostomus-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/623365183
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623365183/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-hodgsoni/2.jpg
+  page: https://www.inaturalist.org/photos/529728557
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529728557/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-hodgsoni/3.jpg
+  page: https://www.inaturalist.org/photos/384678216
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/384678216/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-hodgsoni/4.jpg
+  page: https://www.inaturalist.org/photos/392592004
+  author: Norman Kuring
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392592004/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-hodgsoni/5.jpg
+  page: https://www.inaturalist.org/photos/119656933
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/119656933/original.jpeg
 ---
 
 

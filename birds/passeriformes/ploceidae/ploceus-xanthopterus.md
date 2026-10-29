@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-xanthopterus/1.jpg
+  page: https://www.inaturalist.org/photos/473330518
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473330518/original.jpeg
+images:
+- file: images/passeriformes/ploceidae/ploceus-xanthopterus/1.jpg
+  page: https://www.inaturalist.org/photos/473330518
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473330518/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-xanthopterus/2.jpg
+  page: https://www.inaturalist.org/photos/570668462
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570668462/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-xanthopterus/3.jpg
+  page: https://www.inaturalist.org/photos/612386422
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612386422/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-xanthopterus/4.jpg
+  page: https://www.inaturalist.org/photos/582566488
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582566488/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-xanthopterus/5.jpg
+  page: https://www.inaturalist.org/photos/412305292
+  author: Jonas Kraft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412305292/original.jpg
 ---
 
 

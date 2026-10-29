@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/argya-caudata/1.jpg
+  page: https://www.inaturalist.org/photos/618388884
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388884/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/argya-caudata/1.jpg
+  page: https://www.inaturalist.org/photos/618388884
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388884/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-caudata/2.jpg
+  page: https://www.inaturalist.org/photos/698646808
+  author: stli_
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698646808/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-caudata/3.jpg
+  page: https://www.inaturalist.org/photos/739908678
+  author: Nisarg Sankhala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739908678/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-caudata/4.jpg
+  page: https://www.inaturalist.org/photos/487241172
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487241172/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-caudata/5.jpg
+  page: https://www.inaturalist.org/photos/618388882
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388882/original.jpg
 ---
 
 

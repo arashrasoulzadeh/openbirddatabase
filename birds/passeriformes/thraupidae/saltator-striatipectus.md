@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/saltator-striatipectus/1.jpg
+  page: https://www.inaturalist.org/photos/604898926
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604898926/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-striatipectus/1.jpg
+  page: https://www.inaturalist.org/photos/604898926
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604898926/original.jpg
+- file: images/passeriformes/thraupidae/saltator-striatipectus/2.jpg
+  page: https://www.inaturalist.org/photos/609751187
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609751187/original.jpg
+- file: images/passeriformes/thraupidae/saltator-striatipectus/3.jpg
+  page: https://www.inaturalist.org/photos/612399585
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612399585/original.jpg
+- file: images/passeriformes/thraupidae/saltator-striatipectus/4.jpg
+  page: https://www.inaturalist.org/photos/612487639
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612487639/original.jpg
+- file: images/passeriformes/thraupidae/saltator-striatipectus/5.jpg
+  page: https://www.inaturalist.org/photos/614560104
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614560104/original.jpg
 ---
 
 

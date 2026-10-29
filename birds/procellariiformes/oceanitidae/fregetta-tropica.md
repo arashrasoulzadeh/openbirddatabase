@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/oceanitidae/fregetta-tropica/1.jpg
+  page: https://www.inaturalist.org/photos/605478416
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478416/original.jpg
+images:
+- file: images/procellariiformes/oceanitidae/fregetta-tropica/1.jpg
+  page: https://www.inaturalist.org/photos/605478416
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478416/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-tropica/2.jpg
+  page: https://www.inaturalist.org/photos/463793653
+  author: Julia Palmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463793653/original.jpeg
+- file: images/procellariiformes/oceanitidae/fregetta-tropica/3.jpg
+  page: https://www.inaturalist.org/photos/471358491
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471358491/original.jpeg
+- file: images/procellariiformes/oceanitidae/fregetta-tropica/4.jpg
+  page: https://www.inaturalist.org/photos/508859070
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508859070/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-tropica/5.jpg
+  page: https://www.inaturalist.org/photos/471426990
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471426990/original.jpeg
 ---
 
 

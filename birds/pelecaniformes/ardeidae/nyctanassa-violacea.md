@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/pelecaniformes/ardeidae/nyctanassa-violacea/1.jpg
+  page: https://www.inaturalist.org/photos/604902438
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604902438/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/nyctanassa-violacea/1.jpg
+  page: https://www.inaturalist.org/photos/604902438
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604902438/original.jpg
+- file: images/pelecaniformes/ardeidae/nyctanassa-violacea/2.jpg
+  page: https://www.inaturalist.org/photos/604825357
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604825357/original.jpg
+- file: images/pelecaniformes/ardeidae/nyctanassa-violacea/3.jpg
+  page: https://www.inaturalist.org/photos/604902339
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604902339/original.jpg
+- file: images/pelecaniformes/ardeidae/nyctanassa-violacea/4.jpg
+  page: https://www.inaturalist.org/photos/604981171
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604981171/original.jpg
+- file: images/pelecaniformes/ardeidae/nyctanassa-violacea/5.jpg
+  page: https://www.inaturalist.org/photos/605566011
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605566011/original.jpg
 ---
 
 

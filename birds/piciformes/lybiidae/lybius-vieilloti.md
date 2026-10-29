@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/lybius-vieilloti/1.jpg
+  page: https://www.inaturalist.org/photos/475629777
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475629777/original.jpg
+images:
+- file: images/piciformes/lybiidae/lybius-vieilloti/1.jpg
+  page: https://www.inaturalist.org/photos/475629777
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475629777/original.jpg
+- file: images/piciformes/lybiidae/lybius-vieilloti/2.jpg
+  page: https://www.inaturalist.org/photos/474525172
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474525172/original.jpg
+- file: images/piciformes/lybiidae/lybius-vieilloti/3.jpg
+  page: https://www.inaturalist.org/photos/348223059
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348223059/original.jpeg
+- file: images/piciformes/lybiidae/lybius-vieilloti/4.jpg
+  page: https://www.inaturalist.org/photos/350802096
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350802096/original.png
+- file: images/piciformes/lybiidae/lybius-vieilloti/5.jpg
+  page: https://www.inaturalist.org/photos/365656023
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365656023/original.jpg
 ---
 
 

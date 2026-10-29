@@ -148,8 +148,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/certhiidae/certhia-manipurensis/1.jpg
+  page: https://www.inaturalist.org/photos/611136648
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136648/original.jpg
+images:
+- file: images/passeriformes/certhiidae/certhia-manipurensis/1.jpg
+  page: https://www.inaturalist.org/photos/611136648
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136648/original.jpg
+- file: images/passeriformes/certhiidae/certhia-manipurensis/2.jpg
+  page: https://www.inaturalist.org/photos/722403776
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403776/original.jpg
+- file: images/passeriformes/certhiidae/certhia-manipurensis/3.jpg
+  page: https://www.inaturalist.org/photos/468222395
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468222395/original.jpeg
+- file: images/passeriformes/certhiidae/certhia-manipurensis/4.jpg
+  page: https://www.inaturalist.org/photos/385766775
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766775/original.jpeg
+- file: images/passeriformes/certhiidae/certhia-manipurensis/5.jpg
+  page: https://www.inaturalist.org/photos/640872945
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640872945/original.jpg
 ---
 
 

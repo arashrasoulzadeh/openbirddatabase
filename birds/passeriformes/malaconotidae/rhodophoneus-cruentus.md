@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/rhodophoneus-cruentus/1.jpg
+  page: https://www.inaturalist.org/photos/722026005
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722026005/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/rhodophoneus-cruentus/1.jpg
+  page: https://www.inaturalist.org/photos/722026005
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722026005/original.jpg
+- file: images/passeriformes/malaconotidae/rhodophoneus-cruentus/2.jpg
+  page: https://www.inaturalist.org/photos/479383728
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479383728/original.jpeg
+- file: images/passeriformes/malaconotidae/rhodophoneus-cruentus/3.jpg
+  page: https://www.inaturalist.org/photos/486271910
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486271910/original.jpeg
+- file: images/passeriformes/malaconotidae/rhodophoneus-cruentus/4.jpg
+  page: https://www.inaturalist.org/photos/585120121
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585120121/original.jpg
+- file: images/passeriformes/malaconotidae/rhodophoneus-cruentus/5.jpg
+  page: https://www.inaturalist.org/photos/589247076
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589247076/original.jpg
 ---
 
 

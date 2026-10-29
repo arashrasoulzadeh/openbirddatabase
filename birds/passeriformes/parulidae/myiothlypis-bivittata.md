@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-bivittata/1.jpg
+  page: https://www.inaturalist.org/photos/608671325
+  author: Luis Martin Stivanello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608671325/original.jpg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-bivittata/1.jpg
+  page: https://www.inaturalist.org/photos/608671325
+  author: Luis Martin Stivanello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608671325/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-bivittata/2.jpg
+  page: https://www.inaturalist.org/photos/654230685
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654230685/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-bivittata/3.jpg
+  page: https://www.inaturalist.org/photos/617518218
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617518218/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-bivittata/4.jpg
+  page: https://www.inaturalist.org/photos/702986658
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702986658/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-bivittata/5.jpg
+  page: https://www.inaturalist.org/photos/534833351
+  author: Gaspar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534833351/original.jpg
 ---
 
 

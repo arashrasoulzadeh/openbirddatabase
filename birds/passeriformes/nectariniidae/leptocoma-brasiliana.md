@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/leptocoma-brasiliana/1.jpg
+  page: https://www.inaturalist.org/photos/717078704
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717078704/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/leptocoma-brasiliana/1.jpg
+  page: https://www.inaturalist.org/photos/717078704
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717078704/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-brasiliana/2.jpg
+  page: https://www.inaturalist.org/photos/674530907
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674530907/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-brasiliana/3.jpg
+  page: https://www.inaturalist.org/photos/461190217
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461190217/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-brasiliana/4.jpg
+  page: https://www.inaturalist.org/photos/717078741
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717078741/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-brasiliana/5.jpg
+  page: https://www.inaturalist.org/photos/717078766
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717078766/original.jpg
 ---
 
 

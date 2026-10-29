@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/melierax-poliopterus/1.jpg
+  page: https://www.inaturalist.org/photos/677483214
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677483214/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/melierax-poliopterus/1.jpg
+  page: https://www.inaturalist.org/photos/677483214
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677483214/original.jpg
+- file: images/accipitriformes/accipitridae/melierax-poliopterus/2.jpg
+  page: https://www.inaturalist.org/photos/620734312
+  author: WaterGoat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620734312/original.jpg
+- file: images/accipitriformes/accipitridae/melierax-poliopterus/3.jpg
+  page: https://www.inaturalist.org/photos/671847398
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671847398/original.jpg
+- file: images/accipitriformes/accipitridae/melierax-poliopterus/4.jpg
+  page: https://www.inaturalist.org/photos/678047915
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678047915/original.jpg
+- file: images/accipitriformes/accipitridae/melierax-poliopterus/5.jpg
+  page: https://www.inaturalist.org/photos/678048182
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678048182/original.jpg
 ---
 
 

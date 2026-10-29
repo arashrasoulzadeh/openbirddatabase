@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/zapornia-paykullii/1.jpg
+  page: https://www.inaturalist.org/photos/580779357
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580779357/original.jpg
+images:
+- file: images/gruiformes/rallidae/zapornia-paykullii/1.jpg
+  page: https://www.inaturalist.org/photos/580779357
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580779357/original.jpg
+- file: images/gruiformes/rallidae/zapornia-paykullii/2.jpg
+  page: https://www.inaturalist.org/photos/395616012
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395616012/original.jpg
+- file: images/gruiformes/rallidae/zapornia-paykullii/3.jpg
+  page: https://www.inaturalist.org/photos/439381656
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439381656/original.jpg
+- file: images/gruiformes/rallidae/zapornia-paykullii/4.jpg
+  page: https://www.inaturalist.org/photos/441245004
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441245004/original.jpeg
+- file: images/gruiformes/rallidae/zapornia-paykullii/5.jpg
+  page: https://www.inaturalist.org/photos/301219271
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/301219271/original.jpg
 ---
 
 

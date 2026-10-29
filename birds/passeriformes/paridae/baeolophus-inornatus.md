@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/paridae/baeolophus-inornatus/1.jpg
+  page: https://www.inaturalist.org/photos/604823160
+  author: Joshua Zupan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604823160/original.jpg
+images:
+- file: images/passeriformes/paridae/baeolophus-inornatus/1.jpg
+  page: https://www.inaturalist.org/photos/604823160
+  author: Joshua Zupan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604823160/original.jpg
+- file: images/passeriformes/paridae/baeolophus-inornatus/2.jpg
+  page: https://www.inaturalist.org/photos/607484914
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607484914/original.jpg
+- file: images/passeriformes/paridae/baeolophus-inornatus/3.jpg
+  page: https://www.inaturalist.org/photos/608379066
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608379066/original.jpg
+- file: images/passeriformes/paridae/baeolophus-inornatus/4.jpg
+  page: https://www.inaturalist.org/photos/607601275
+  author: J. Roe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607601275/original.jpg
+- file: images/passeriformes/paridae/baeolophus-inornatus/5.jpg
+  page: https://www.inaturalist.org/photos/607484933
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607484933/original.jpg
 ---
 
 

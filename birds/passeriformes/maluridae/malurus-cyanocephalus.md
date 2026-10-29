@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/malurus-cyanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/588477414
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588477414/original.jpg
+images:
+- file: images/passeriformes/maluridae/malurus-cyanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/588477414
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588477414/original.jpg
+- file: images/passeriformes/maluridae/malurus-cyanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/618528005
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618528005/original.jpg
+- file: images/passeriformes/maluridae/malurus-cyanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/618527953
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618527953/original.jpg
+- file: images/passeriformes/maluridae/malurus-cyanocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/618527943
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618527943/original.jpg
+- file: images/passeriformes/maluridae/malurus-cyanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/618527972
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618527972/original.jpg
 ---
 
 

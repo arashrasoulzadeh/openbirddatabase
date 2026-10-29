@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/anthornis-melanura/1.jpg
+  page: https://www.inaturalist.org/photos/604378047
+  author: Jon Sullivan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604378047/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/anthornis-melanura/1.jpg
+  page: https://www.inaturalist.org/photos/604378047
+  author: Jon Sullivan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604378047/original.jpg
+- file: images/passeriformes/meliphagidae/anthornis-melanura/2.jpg
+  page: https://www.inaturalist.org/photos/605533141
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605533141/original.jpg
+- file: images/passeriformes/meliphagidae/anthornis-melanura/3.jpg
+  page: https://www.inaturalist.org/photos/610556934
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610556934/original.jpg
+- file: images/passeriformes/meliphagidae/anthornis-melanura/4.jpg
+  page: https://www.inaturalist.org/photos/607876291
+  author: Peter Hancock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607876291/original.jpg
+- file: images/passeriformes/meliphagidae/anthornis-melanura/5.jpg
+  page: https://www.inaturalist.org/photos/609805482
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609805482/original.jpg
 ---
 
 

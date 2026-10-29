@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 25.8
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 89.7
   tail_length_mm: 55.2
   body_mass_g: 49.0
+image:
+  file: images/passeriformes/furnariidae/furnarius-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/618756850
+  author: Susan Blayney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618756850/original.jpg
+images:
+- file: images/passeriformes/furnariidae/furnarius-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/618756850
+  author: Susan Blayney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618756850/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/699893682
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699893682/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/469318142
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469318142/original.jpeg
+- file: images/passeriformes/furnariidae/furnarius-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/470516829
+  author: Stari Plativky
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470516829/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/597525547
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597525547/original.jpg
 ---
 
 

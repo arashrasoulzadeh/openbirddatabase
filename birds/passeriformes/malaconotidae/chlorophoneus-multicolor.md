@@ -152,8 +152,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/chlorophoneus-multicolor/1.jpg
+  page: https://www.inaturalist.org/photos/594574833
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594574833/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/chlorophoneus-multicolor/1.jpg
+  page: https://www.inaturalist.org/photos/594574833
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594574833/original.jpg
+- file: images/passeriformes/malaconotidae/chlorophoneus-multicolor/2.jpg
+  page: https://www.inaturalist.org/photos/588165565
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588165565/original.jpg
+- file: images/passeriformes/malaconotidae/chlorophoneus-multicolor/3.jpg
+  page: https://www.inaturalist.org/photos/181198824
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181198824/original.jpg
 ---
 
 

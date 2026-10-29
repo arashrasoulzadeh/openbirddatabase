@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/strix-hadorami/1.jpg
+  page: https://www.inaturalist.org/photos/611431119
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611431119/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-hadorami/1.jpg
+  page: https://www.inaturalist.org/photos/611431119
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611431119/original.jpg
+- file: images/strigiformes/strigidae/strix-hadorami/2.jpg
+  page: https://www.inaturalist.org/photos/611431086
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611431086/original.jpg
+- file: images/strigiformes/strigidae/strix-hadorami/3.jpg
+  page: https://www.inaturalist.org/photos/611431099
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611431099/original.jpg
+- file: images/strigiformes/strigidae/strix-hadorami/4.jpg
+  page: https://www.inaturalist.org/photos/611431125
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611431125/original.jpg
+- file: images/strigiformes/strigidae/strix-hadorami/5.jpg
+  page: https://www.inaturalist.org/photos/611431123
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611431123/original.jpg
 ---
 
 

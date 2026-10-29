@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/sublegatus-obscurior/1.jpg
+  page: https://www.inaturalist.org/photos/402007263
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402007263/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/sublegatus-obscurior/1.jpg
+  page: https://www.inaturalist.org/photos/402007263
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402007263/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-obscurior/2.jpg
+  page: https://www.inaturalist.org/photos/444779474
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444779474/original.jpeg
+- file: images/passeriformes/tyrannidae/sublegatus-obscurior/3.jpg
+  page: https://www.inaturalist.org/photos/249262416
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249262416/original.jpeg
+- file: images/passeriformes/tyrannidae/sublegatus-obscurior/4.jpg
+  page: https://www.inaturalist.org/photos/402011883
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402011883/original.jpg
+- file: images/passeriformes/tyrannidae/sublegatus-obscurior/5.jpg
+  page: https://www.inaturalist.org/photos/402011890
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402011890/original.jpg
 ---
 
 

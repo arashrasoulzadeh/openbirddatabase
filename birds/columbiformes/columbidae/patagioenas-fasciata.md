@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/columbiformes/columbidae/patagioenas-fasciata/1.jpg
+  page: https://www.inaturalist.org/photos/605411906
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605411906/original.jpg
+images:
+- file: images/columbiformes/columbidae/patagioenas-fasciata/1.jpg
+  page: https://www.inaturalist.org/photos/605411906
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605411906/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-fasciata/2.jpg
+  page: https://www.inaturalist.org/photos/608212534
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608212534/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-fasciata/3.jpg
+  page: https://www.inaturalist.org/photos/607051227
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607051227/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-fasciata/4.jpg
+  page: https://www.inaturalist.org/photos/610102058
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610102058/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-fasciata/5.jpg
+  page: https://www.inaturalist.org/photos/609081607
+  author: davidbroadland
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609081607/original.jpg
 ---
 
 

@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anser-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/610200731
+  author: tobijw
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610200731/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/610200731
+  author: tobijw
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610200731/original.jpg
+- file: images/anseriformes/anatidae/anser-indicus/2.jpg
+  page: https://www.inaturalist.org/photos/612203987
+  author: Juan C. Espinosa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612203987/original.jpg
+- file: images/anseriformes/anatidae/anser-indicus/3.jpg
+  page: https://www.inaturalist.org/photos/612783879
+  author: nbasargin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612783879/original.jpg
+- file: images/anseriformes/anatidae/anser-indicus/4.jpg
+  page: https://www.inaturalist.org/photos/709462647
+  author: Modest_Reindeer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709462647/original.jpg
+- file: images/anseriformes/anatidae/anser-indicus/5.jpg
+  page: https://www.inaturalist.org/photos/613394358
+  author: Charly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613394358/original.jpg
 ---
 
 

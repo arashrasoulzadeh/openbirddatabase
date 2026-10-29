@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/ardenna-grisea/1.jpg
+  page: https://www.inaturalist.org/photos/604516690
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604516690/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/ardenna-grisea/1.jpg
+  page: https://www.inaturalist.org/photos/604516690
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604516690/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-grisea/2.jpg
+  page: https://www.inaturalist.org/photos/609128774
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609128774/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-grisea/3.jpg
+  page: https://www.inaturalist.org/photos/615298014
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615298014/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-grisea/4.jpg
+  page: https://www.inaturalist.org/photos/615734539
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615734539/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-grisea/5.jpg
+  page: https://www.inaturalist.org/photos/618303446
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618303446/original.jpg
 ---
 
 

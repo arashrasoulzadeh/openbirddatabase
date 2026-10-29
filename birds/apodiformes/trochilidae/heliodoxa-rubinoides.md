@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliodoxa-rubinoides/1.jpg
+  page: https://www.inaturalist.org/photos/620949026
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620949026/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliodoxa-rubinoides/1.jpg
+  page: https://www.inaturalist.org/photos/620949026
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620949026/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-rubinoides/2.jpg
+  page: https://www.inaturalist.org/photos/612267403
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612267403/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-rubinoides/3.jpg
+  page: https://www.inaturalist.org/photos/608218477
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608218477/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-rubinoides/4.jpg
+  page: https://www.inaturalist.org/photos/609819238
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609819238/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-rubinoides/5.jpg
+  page: https://www.inaturalist.org/photos/619534166
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619534166/original.jpg
 ---
 
 

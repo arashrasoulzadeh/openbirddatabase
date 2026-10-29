@@ -124,8 +124,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/apodiformes/trochilidae/ramosomyia-violiceps/1.jpg
+  page: https://www.inaturalist.org/photos/611537867
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611537867/original.jpg
+images:
+- file: images/apodiformes/trochilidae/ramosomyia-violiceps/1.jpg
+  page: https://www.inaturalist.org/photos/611537867
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611537867/original.jpg
+- file: images/apodiformes/trochilidae/ramosomyia-violiceps/2.jpg
+  page: https://www.inaturalist.org/photos/654448975
+  author: PRAC Guadalajara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654448975/original.jpg
+- file: images/apodiformes/trochilidae/ramosomyia-violiceps/3.jpg
+  page: https://www.inaturalist.org/photos/711769379
+  author: Bruno Frías Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711769379/original.jpg
+- file: images/apodiformes/trochilidae/ramosomyia-violiceps/4.jpg
+  page: https://www.inaturalist.org/photos/612724821
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612724821/original.jpg
+- file: images/apodiformes/trochilidae/ramosomyia-violiceps/5.jpg
+  page: https://www.inaturalist.org/photos/613197431
+  author: Carlos Martínez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613197431/original.jpg
 ---
 
 

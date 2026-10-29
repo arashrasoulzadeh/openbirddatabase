@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-cayanus/1.jpg
+  page: https://www.inaturalist.org/photos/723601178
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723601178/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-cayanus/1.jpg
+  page: https://www.inaturalist.org/photos/723601178
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723601178/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cayanus/2.jpg
+  page: https://www.inaturalist.org/photos/468159434
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468159434/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cayanus/3.jpg
+  page: https://www.inaturalist.org/photos/608717570
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608717570/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cayanus/4.jpg
+  page: https://www.inaturalist.org/photos/424599056
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424599056/original.jpeg
+- file: images/passeriformes/corvidae/cyanocorax-cayanus/5.jpg
+  page: https://www.inaturalist.org/photos/338440893
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338440893/original.jpg
 ---
 
 

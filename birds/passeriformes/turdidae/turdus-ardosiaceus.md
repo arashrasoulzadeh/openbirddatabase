@@ -141,8 +141,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-ardosiaceus/1.jpg
+  page: https://www.inaturalist.org/photos/607518298
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518298/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-ardosiaceus/1.jpg
+  page: https://www.inaturalist.org/photos/607518298
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518298/original.jpg
+- file: images/passeriformes/turdidae/turdus-ardosiaceus/2.jpg
+  page: https://www.inaturalist.org/photos/611072121
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611072121/original.jpg
+- file: images/passeriformes/turdidae/turdus-ardosiaceus/3.jpg
+  page: https://www.inaturalist.org/photos/614975273
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975273/original.jpg
+- file: images/passeriformes/turdidae/turdus-ardosiaceus/4.jpg
+  page: https://www.inaturalist.org/photos/616800568
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616800568/original.jpg
+- file: images/passeriformes/turdidae/turdus-ardosiaceus/5.jpg
+  page: https://www.inaturalist.org/photos/622466947
+  author: prodewald
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622466947/original.jpg
 ---
 
 

@@ -155,8 +155,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-rufinucha/1.jpg
+  page: https://www.inaturalist.org/photos/706242548
+  author: Alberto Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706242548/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-rufinucha/1.jpg
+  page: https://www.inaturalist.org/photos/706242548
+  author: Alberto Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706242548/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-rufinucha/2.jpg
+  page: https://www.inaturalist.org/photos/478201250
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478201250/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-rufinucha/3.jpg
+  page: https://www.inaturalist.org/photos/369209272
+  author: Alexis López Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369209272/original.jpeg
+- file: images/passeriformes/troglodytidae/campylorhynchus-rufinucha/4.jpg
+  page: https://www.inaturalist.org/photos/478201224
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478201224/original.jpg
 ---
 
 

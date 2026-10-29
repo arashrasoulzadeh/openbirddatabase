@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/ramphocelus-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/608729284
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608729284/original.jpg
+images:
+- file: images/passeriformes/thraupidae/ramphocelus-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/608729284
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608729284/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-nigrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/713350716
+  author: Andrew J. Crawford
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713350716/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-nigrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/731197935
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731197935/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-nigrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/482569077
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482569077/original.png
+- file: images/passeriformes/thraupidae/ramphocelus-nigrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/523869426
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523869426/original.jpg
 ---
 
 

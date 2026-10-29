@@ -184,8 +184,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/612456400
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456400/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/612456400
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456400/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-senegalensis/2.jpg
+  page: https://www.inaturalist.org/photos/638923847
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638923847/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-senegalensis/3.jpg
+  page: https://www.inaturalist.org/photos/612456375
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456375/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-senegalensis/4.jpg
+  page: https://www.inaturalist.org/photos/612456403
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456403/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-senegalensis/5.jpg
+  page: https://www.inaturalist.org/photos/612456402
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456402/original.jpg
 ---
 
 

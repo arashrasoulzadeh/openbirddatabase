@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/saltator-maximus/1.jpg
+  page: https://www.inaturalist.org/photos/610171906
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610171906/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-maximus/1.jpg
+  page: https://www.inaturalist.org/photos/610171906
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610171906/original.jpg
+- file: images/passeriformes/thraupidae/saltator-maximus/2.jpg
+  page: https://www.inaturalist.org/photos/606283716
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606283716/original.jpg
+- file: images/passeriformes/thraupidae/saltator-maximus/3.jpg
+  page: https://www.inaturalist.org/photos/610503284
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503284/original.jpg
+- file: images/passeriformes/thraupidae/saltator-maximus/4.jpg
+  page: https://www.inaturalist.org/photos/606915950
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606915950/original.jpg
+- file: images/passeriformes/thraupidae/saltator-maximus/5.jpg
+  page: https://www.inaturalist.org/photos/609751133
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609751133/original.jpg
 ---
 
 

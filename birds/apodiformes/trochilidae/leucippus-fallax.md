@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/leucippus-fallax/1.jpg
+  page: https://www.inaturalist.org/photos/691547589
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691547589/original.jpg
+images:
+- file: images/apodiformes/trochilidae/leucippus-fallax/1.jpg
+  page: https://www.inaturalist.org/photos/691547589
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691547589/original.jpg
+- file: images/apodiformes/trochilidae/leucippus-fallax/2.jpg
+  page: https://www.inaturalist.org/photos/698952958
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698952958/original.jpg
+- file: images/apodiformes/trochilidae/leucippus-fallax/3.jpg
+  page: https://www.inaturalist.org/photos/268176749
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268176749/original.jpeg
+- file: images/apodiformes/trochilidae/leucippus-fallax/4.jpg
+  page: https://www.inaturalist.org/photos/312452840
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/312452840/original.jpeg
+- file: images/apodiformes/trochilidae/leucippus-fallax/5.jpg
+  page: https://www.inaturalist.org/photos/405182999
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/405182999/original.jpeg
 ---
 
 

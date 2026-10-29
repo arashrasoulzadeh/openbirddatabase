@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/charadriiformes/laridae/onychoprion-lunatus/1.jpg
+  page: https://www.inaturalist.org/photos/700960594
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700960594/original.jpg
+images:
+- file: images/charadriiformes/laridae/onychoprion-lunatus/1.jpg
+  page: https://www.inaturalist.org/photos/700960594
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700960594/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-lunatus/2.jpg
+  page: https://www.inaturalist.org/photos/730396339
+  author: Hugh Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730396339/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-lunatus/3.jpg
+  page: https://www.inaturalist.org/photos/322369817
+  author: Samuel Brown
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322369817/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-lunatus/4.jpg
+  page: https://www.inaturalist.org/photos/334599788
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334599788/original.jpg
+- file: images/charadriiformes/laridae/onychoprion-lunatus/5.jpg
+  page: https://www.inaturalist.org/photos/395655309
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395655309/original.jpg
 ---
 
 

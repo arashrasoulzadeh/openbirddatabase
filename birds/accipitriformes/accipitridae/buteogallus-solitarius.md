@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteogallus-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/490596461
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490596461/original.jpeg
+images:
+- file: images/accipitriformes/accipitridae/buteogallus-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/490596461
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490596461/original.jpeg
+- file: images/accipitriformes/accipitridae/buteogallus-solitarius/2.jpg
+  page: https://www.inaturalist.org/photos/356691261
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356691261/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-solitarius/3.jpg
+  page: https://www.inaturalist.org/photos/342404446
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342404446/original.jpeg
+- file: images/accipitriformes/accipitridae/buteogallus-solitarius/4.jpg
+  page: https://www.inaturalist.org/photos/336111171
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336111171/original.jpeg
+- file: images/accipitriformes/accipitridae/buteogallus-solitarius/5.jpg
+  page: https://www.inaturalist.org/photos/23839644
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/23839644/original.jpeg
 ---
 
 

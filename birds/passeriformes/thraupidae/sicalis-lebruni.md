@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sicalis-lebruni/1.jpg
+  page: https://www.inaturalist.org/photos/615388424
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388424/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sicalis-lebruni/1.jpg
+  page: https://www.inaturalist.org/photos/615388424
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388424/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-lebruni/2.jpg
+  page: https://www.inaturalist.org/photos/744278292
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744278292/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-lebruni/3.jpg
+  page: https://www.inaturalist.org/photos/469053782
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469053782/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-lebruni/4.jpg
+  page: https://www.inaturalist.org/photos/385122467
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385122467/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-lebruni/5.jpg
+  page: https://www.inaturalist.org/photos/252716702
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252716702/original.jpg
 ---
 
 

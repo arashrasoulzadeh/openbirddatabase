@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/thinocoridae/attagis-malouinus/1.jpg
+  page: https://www.inaturalist.org/photos/667391686
+  author: Sofia Larrandart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667391686/original.jpg
+images:
+- file: images/charadriiformes/thinocoridae/attagis-malouinus/1.jpg
+  page: https://www.inaturalist.org/photos/667391686
+  author: Sofia Larrandart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667391686/original.jpg
+- file: images/charadriiformes/thinocoridae/attagis-malouinus/2.jpg
+  page: https://www.inaturalist.org/photos/649765492
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649765492/original.jpg
+- file: images/charadriiformes/thinocoridae/attagis-malouinus/3.jpg
+  page: https://www.inaturalist.org/photos/467116084
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467116084/original.jpeg
+- file: images/charadriiformes/thinocoridae/attagis-malouinus/4.jpg
+  page: https://www.inaturalist.org/photos/598123942
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598123942/original.jpg
+- file: images/charadriiformes/thinocoridae/attagis-malouinus/5.jpg
+  page: https://www.inaturalist.org/photos/265934033
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265934033/original.jpg
 ---
 
 

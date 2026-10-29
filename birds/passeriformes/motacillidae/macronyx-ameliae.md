@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/macronyx-ameliae/1.jpg
+  page: https://www.inaturalist.org/photos/682508600
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682508600/original.jpg
+images:
+- file: images/passeriformes/motacillidae/macronyx-ameliae/1.jpg
+  page: https://www.inaturalist.org/photos/682508600
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682508600/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-ameliae/2.jpg
+  page: https://www.inaturalist.org/photos/513580701
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513580701/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-ameliae/3.jpg
+  page: https://www.inaturalist.org/photos/579692996
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579692996/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-ameliae/4.jpg
+  page: https://www.inaturalist.org/photos/255848403
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255848403/original.jpeg
+- file: images/passeriformes/motacillidae/macronyx-ameliae/5.jpg
+  page: https://www.inaturalist.org/photos/252169803
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252169803/original.jpeg
 ---
 
 

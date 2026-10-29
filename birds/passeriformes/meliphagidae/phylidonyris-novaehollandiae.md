@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/passeriformes/meliphagidae/phylidonyris-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/610313013
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610313013/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/phylidonyris-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/610313013
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610313013/original.jpg
+- file: images/passeriformes/meliphagidae/phylidonyris-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/608792224
+  author: Cobi Calyx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608792224/original.jpg
+- file: images/passeriformes/meliphagidae/phylidonyris-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/608792283
+  author: Cobi Calyx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608792283/original.jpg
+- file: images/passeriformes/meliphagidae/phylidonyris-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/608790870
+  author: Cobi Calyx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608790870/original.jpg
+- file: images/passeriformes/meliphagidae/phylidonyris-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/608790907
+  author: Cobi Calyx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608790907/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-bojeri/1.jpg
+  page: https://www.inaturalist.org/photos/522782240
+  author: Mark Wagner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522782240/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-bojeri/1.jpg
+  page: https://www.inaturalist.org/photos/522782240
+  author: Mark Wagner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522782240/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bojeri/2.jpg
+  page: https://www.inaturalist.org/photos/534249580
+  author: Paco Cardenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534249580/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bojeri/3.jpg
+  page: https://www.inaturalist.org/photos/356849678
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356849678/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-bojeri/4.jpg
+  page: https://www.inaturalist.org/photos/402218866
+  author: Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402218866/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-bojeri/5.jpg
+  page: https://www.inaturalist.org/photos/467891141
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467891141/original.jpeg
 ---
 
 

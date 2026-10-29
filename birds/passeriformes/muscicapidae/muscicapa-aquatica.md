@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/muscicapa-aquatica/1.jpg
+  page: https://www.inaturalist.org/photos/619342431
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619342431/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/muscicapa-aquatica/1.jpg
+  page: https://www.inaturalist.org/photos/619342431
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619342431/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-aquatica/2.jpg
+  page: https://www.inaturalist.org/photos/677819974
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677819974/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-aquatica/3.jpg
+  page: https://www.inaturalist.org/photos/524975670
+  author: abotto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524975670/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-aquatica/4.jpg
+  page: https://www.inaturalist.org/photos/518149183
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518149183/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-aquatica/5.jpg
+  page: https://www.inaturalist.org/photos/549060583
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549060583/original.jpg
 ---
 
 

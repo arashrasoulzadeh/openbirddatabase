@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/hypnelus-bicinctus/1.jpg
+  page: https://www.inaturalist.org/photos/64709584
+  author: batsoul
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64709584/original.jpg
+images:
+- file: images/piciformes/bucconidae/hypnelus-bicinctus/1.jpg
+  page: https://www.inaturalist.org/photos/64709584
+  author: batsoul
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64709584/original.jpg
+- file: images/piciformes/bucconidae/hypnelus-bicinctus/2.jpg
+  page: https://www.inaturalist.org/photos/26455047
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26455047/original.jpeg
+- file: images/piciformes/bucconidae/hypnelus-bicinctus/3.jpg
+  page: https://www.inaturalist.org/photos/77193179
+  author: Juan Manuel Cardona Granda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/77193179/original.jpg
+- file: images/piciformes/bucconidae/hypnelus-bicinctus/4.jpg
+  page: https://www.inaturalist.org/photos/26455089
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26455089/original.jpeg
+- file: images/piciformes/bucconidae/hypnelus-bicinctus/5.jpg
+  page: https://www.inaturalist.org/photos/26447096
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26447096/original.jpeg
 ---
 
 

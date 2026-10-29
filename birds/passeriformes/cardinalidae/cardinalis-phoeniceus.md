@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/cardinalis-phoeniceus/1.jpg
+  page: https://www.inaturalist.org/photos/689440753
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689440753/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/cardinalis-phoeniceus/1.jpg
+  page: https://www.inaturalist.org/photos/689440753
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689440753/original.jpg
+- file: images/passeriformes/cardinalidae/cardinalis-phoeniceus/2.jpg
+  page: https://www.inaturalist.org/photos/698983858
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698983858/original.jpg
+- file: images/passeriformes/cardinalidae/cardinalis-phoeniceus/3.jpg
+  page: https://www.inaturalist.org/photos/739536099
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739536099/original.jpg
+- file: images/passeriformes/cardinalidae/cardinalis-phoeniceus/4.jpg
+  page: https://www.inaturalist.org/photos/468950890
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468950890/original.jpeg
+- file: images/passeriformes/cardinalidae/cardinalis-phoeniceus/5.jpg
+  page: https://www.inaturalist.org/photos/589850715
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589850715/original.jpg
 ---
 
 

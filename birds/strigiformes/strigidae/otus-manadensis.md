@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-manadensis/1.jpg
+  page: https://www.inaturalist.org/photos/715414079
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715414079/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-manadensis/1.jpg
+  page: https://www.inaturalist.org/photos/715414079
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715414079/original.jpg
+- file: images/strigiformes/strigidae/otus-manadensis/2.jpg
+  page: https://www.inaturalist.org/photos/526013660
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526013660/original.jpg
+- file: images/strigiformes/strigidae/otus-manadensis/3.jpg
+  page: https://www.inaturalist.org/photos/471132147
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471132147/original.jpeg
+- file: images/strigiformes/strigidae/otus-manadensis/4.jpg
+  page: https://www.inaturalist.org/photos/349641105
+  author: libby hepburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349641105/original.jpg
+- file: images/strigiformes/strigidae/otus-manadensis/5.jpg
+  page: https://www.inaturalist.org/photos/241918836
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241918836/original.jpg
 ---
 
 

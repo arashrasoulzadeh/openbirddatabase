@@ -142,7 +142,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 22.2
@@ -152,6 +153,44 @@ morphology:
   body_mass_g: 43.8
 reproduction:
   clutch_size_mean: 2.4
+image:
+  file: images/passeriformes/pycnonotidae/phyllastrephus-scandens/1.jpg
+  page: https://www.inaturalist.org/photos/345046567
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345046567/original.jpeg
+images:
+- file: images/passeriformes/pycnonotidae/phyllastrephus-scandens/1.jpg
+  page: https://www.inaturalist.org/photos/345046567
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345046567/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-scandens/2.jpg
+  page: https://www.inaturalist.org/photos/95545615
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95545615/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-scandens/3.jpg
+  page: https://www.inaturalist.org/photos/345046557
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345046557/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-scandens/4.jpg
+  page: https://www.inaturalist.org/photos/345046574
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345046574/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-scandens/5.jpg
+  page: https://www.inaturalist.org/photos/95545645
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95545645/original.jpeg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/myiopsitta-luchsi/1.jpg
+  page: https://www.inaturalist.org/photos/605737108
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605737108/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/myiopsitta-luchsi/1.jpg
+  page: https://www.inaturalist.org/photos/605737108
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605737108/original.jpg
+- file: images/psittaciformes/psittacidae/myiopsitta-luchsi/2.jpg
+  page: https://www.inaturalist.org/photos/605083510
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083510/original.jpg
+- file: images/psittaciformes/psittacidae/myiopsitta-luchsi/3.jpg
+  page: https://www.inaturalist.org/photos/605551522
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605551522/original.jpg
+- file: images/psittaciformes/psittacidae/myiopsitta-luchsi/4.jpg
+  page: https://www.inaturalist.org/photos/604568925
+  author: S. Menéndez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604568925/original.jpg
+- file: images/psittaciformes/psittacidae/myiopsitta-luchsi/5.jpg
+  page: https://www.inaturalist.org/photos/605626603
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605626603/original.jpg
 ---
 
 

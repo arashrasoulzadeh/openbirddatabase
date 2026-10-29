@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-castanotus/1.jpg
+  page: https://www.inaturalist.org/photos/673812567
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673812567/original.jpg
+images:
+- file: images/charadriiformes/turnicidae/turnix-castanotus/1.jpg
+  page: https://www.inaturalist.org/photos/673812567
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673812567/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-castanotus/2.jpg
+  page: https://www.inaturalist.org/photos/401988861
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401988861/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-castanotus/3.jpg
+  page: https://www.inaturalist.org/photos/175564394
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175564394/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-castanotus/4.jpg
+  page: https://www.inaturalist.org/photos/197131321
+  author: coenobita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/197131321/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-castanotus/5.jpg
+  page: https://www.inaturalist.org/photos/673813492
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673813492/original.jpg
 ---
 
 

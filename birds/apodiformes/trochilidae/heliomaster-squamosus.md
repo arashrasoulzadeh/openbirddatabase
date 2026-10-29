@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliomaster-squamosus/1.jpg
+  page: https://www.inaturalist.org/photos/607006543
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607006543/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliomaster-squamosus/1.jpg
+  page: https://www.inaturalist.org/photos/607006543
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607006543/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-squamosus/2.jpg
+  page: https://www.inaturalist.org/photos/611258414
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611258414/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-squamosus/3.jpg
+  page: https://www.inaturalist.org/photos/676184313
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676184313/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-squamosus/4.jpg
+  page: https://www.inaturalist.org/photos/672765469
+  author: the_adventure_hunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672765469/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-squamosus/5.jpg
+  page: https://www.inaturalist.org/photos/685416534
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685416534/original.jpg
 ---
 
 

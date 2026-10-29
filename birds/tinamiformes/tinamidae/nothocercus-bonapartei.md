@@ -154,8 +154,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/nothocercus-bonapartei/1.jpg
+  page: https://www.inaturalist.org/photos/412034207
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412034207/original.jpeg
+images:
+- file: images/tinamiformes/tinamidae/nothocercus-bonapartei/1.jpg
+  page: https://www.inaturalist.org/photos/412034207
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412034207/original.jpeg
+- file: images/tinamiformes/tinamidae/nothocercus-bonapartei/2.jpg
+  page: https://www.inaturalist.org/photos/308063331
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/308063331/original.jpeg
+- file: images/tinamiformes/tinamidae/nothocercus-bonapartei/3.jpg
+  page: https://www.inaturalist.org/photos/728228269
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728228269/original.jpg
+- file: images/tinamiformes/tinamidae/nothocercus-bonapartei/4.jpg
+  page: https://www.inaturalist.org/photos/308063344
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/308063344/original.jpeg
 ---
 
 

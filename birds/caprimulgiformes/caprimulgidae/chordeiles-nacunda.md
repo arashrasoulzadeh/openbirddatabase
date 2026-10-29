@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/chordeiles-nacunda/1.jpg
+  page: https://www.inaturalist.org/photos/606027795
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027795/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-nacunda/1.jpg
+  page: https://www.inaturalist.org/photos/606027795
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027795/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-nacunda/2.jpg
+  page: https://www.inaturalist.org/photos/607672727
+  author: Rony Ristow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607672727/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-nacunda/3.jpg
+  page: https://www.inaturalist.org/photos/698866325
+  author: Christian Ledergerber
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698866325/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-nacunda/4.jpg
+  page: https://www.inaturalist.org/photos/728724880
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728724880/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/chordeiles-nacunda/5.jpg
+  page: https://www.inaturalist.org/photos/729091963
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729091963/original.jpg
 ---
 
 

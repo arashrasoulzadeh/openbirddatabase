@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/eremopterix-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/694452837
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694452837/original.jpg
+images:
+- file: images/passeriformes/alaudidae/eremopterix-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/694452837
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694452837/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-griseus/2.jpg
+  page: https://www.inaturalist.org/photos/621969306
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621969306/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-griseus/3.jpg
+  page: https://www.inaturalist.org/photos/627104545
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627104545/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-griseus/4.jpg
+  page: https://www.inaturalist.org/photos/632529493
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632529493/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-griseus/5.jpg
+  page: https://www.inaturalist.org/photos/643394641
+  author: Ravuri Krishna Chaitanya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643394641/original.jpg
 ---
 
 

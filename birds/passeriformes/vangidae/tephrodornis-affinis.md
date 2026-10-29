@@ -141,10 +141,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/vangidae/tephrodornis-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/622827257
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622827257/original.jpg
+images:
+- file: images/passeriformes/vangidae/tephrodornis-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/622827257
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622827257/original.jpg
+- file: images/passeriformes/vangidae/tephrodornis-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/617218852
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617218852/original.jpg
+- file: images/passeriformes/vangidae/tephrodornis-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/738246461
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738246461/original.jpg
+- file: images/passeriformes/vangidae/tephrodornis-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/465538509
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465538509/original.jpeg
+- file: images/passeriformes/vangidae/tephrodornis-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/468615792
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468615792/original.jpg
 ---
 
 

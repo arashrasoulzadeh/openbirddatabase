@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/campylorhamphus-trochilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/642687117
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642687117/original.jpg
+images:
+- file: images/passeriformes/furnariidae/campylorhamphus-trochilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/642687117
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642687117/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-trochilirostris/2.jpg
+  page: https://www.inaturalist.org/photos/617561682
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617561682/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-trochilirostris/3.jpg
+  page: https://www.inaturalist.org/photos/637750871
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637750871/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-trochilirostris/4.jpg
+  page: https://www.inaturalist.org/photos/671391234
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671391234/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-trochilirostris/5.jpg
+  page: https://www.inaturalist.org/photos/728683445
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728683445/original.jpg
 ---
 
 

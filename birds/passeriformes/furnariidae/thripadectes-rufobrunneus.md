@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/thripadectes-rufobrunneus/1.jpg
+  page: https://www.inaturalist.org/photos/555844519
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555844519/original.jpg
+images:
+- file: images/passeriformes/furnariidae/thripadectes-rufobrunneus/1.jpg
+  page: https://www.inaturalist.org/photos/555844519
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555844519/original.jpg
+- file: images/passeriformes/furnariidae/thripadectes-rufobrunneus/2.jpg
+  page: https://www.inaturalist.org/photos/267247304
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267247304/original.jpeg
+- file: images/passeriformes/furnariidae/thripadectes-rufobrunneus/3.jpg
+  page: https://www.inaturalist.org/photos/331313810
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331313810/original.jpeg
+- file: images/passeriformes/furnariidae/thripadectes-rufobrunneus/4.jpg
+  page: https://www.inaturalist.org/photos/179003793
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179003793/original.jpg
+- file: images/passeriformes/furnariidae/thripadectes-rufobrunneus/5.jpg
+  page: https://www.inaturalist.org/photos/189308965
+  author: anasacuta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/189308965/original.jpeg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/certhilauda-subcoronata/1.jpg
+  page: https://www.inaturalist.org/photos/641793238
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641793238/original.jpg
+images:
+- file: images/passeriformes/alaudidae/certhilauda-subcoronata/1.jpg
+  page: https://www.inaturalist.org/photos/641793238
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641793238/original.jpg
+- file: images/passeriformes/alaudidae/certhilauda-subcoronata/2.jpg
+  page: https://www.inaturalist.org/photos/712505907
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712505907/original.jpg
+- file: images/passeriformes/alaudidae/certhilauda-subcoronata/3.jpg
+  page: https://www.inaturalist.org/photos/743678201
+  author: Wynand Uys
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743678201/original.jpg
+- file: images/passeriformes/alaudidae/certhilauda-subcoronata/4.jpg
+  page: https://www.inaturalist.org/photos/595841053
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595841053/original.jpg
+- file: images/passeriformes/alaudidae/certhilauda-subcoronata/5.jpg
+  page: https://www.inaturalist.org/photos/537541884
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537541884/original.jpg
 ---
 
 

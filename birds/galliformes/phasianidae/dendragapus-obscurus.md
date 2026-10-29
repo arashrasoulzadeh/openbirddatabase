@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/galliformes/phasianidae/dendragapus-obscurus/1.jpg
+  page: https://www.inaturalist.org/photos/611824233
+  author: Jeli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611824233/original.jpg
+images:
+- file: images/galliformes/phasianidae/dendragapus-obscurus/1.jpg
+  page: https://www.inaturalist.org/photos/611824233
+  author: Jeli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611824233/original.jpg
+- file: images/galliformes/phasianidae/dendragapus-obscurus/2.jpg
+  page: https://www.inaturalist.org/photos/616259666
+  author: Chen Liang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616259666/original.jpg
+- file: images/galliformes/phasianidae/dendragapus-obscurus/3.jpg
+  page: https://www.inaturalist.org/photos/627915282
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627915282/original.jpg
+- file: images/galliformes/phasianidae/dendragapus-obscurus/4.jpg
+  page: https://www.inaturalist.org/photos/628718161
+  author: Laura Steadman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628718161/original.jpg
+- file: images/galliformes/phasianidae/dendragapus-obscurus/5.jpg
+  page: https://www.inaturalist.org/photos/642180901
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642180901/original.jpg
 ---
 
 

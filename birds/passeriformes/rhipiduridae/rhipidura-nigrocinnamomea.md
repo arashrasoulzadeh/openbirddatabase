@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-nigrocinnamomea/1.jpg
+  page: https://www.inaturalist.org/photos/458609727
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609727/original.jpeg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-nigrocinnamomea/1.jpg
+  page: https://www.inaturalist.org/photos/458609727
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609727/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-nigrocinnamomea/2.jpg
+  page: https://www.inaturalist.org/photos/267295614
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295614/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nigrocinnamomea/3.jpg
+  page: https://www.inaturalist.org/photos/458609734
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609734/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-nigrocinnamomea/4.jpg
+  page: https://www.inaturalist.org/photos/458609744
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609744/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-nigrocinnamomea/5.jpg
+  page: https://www.inaturalist.org/photos/458609752
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609752/original.jpeg
 ---
 
 

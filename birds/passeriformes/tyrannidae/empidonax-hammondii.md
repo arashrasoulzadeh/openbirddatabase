@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/tyrannidae/empidonax-hammondii/1.jpg
+  page: https://www.inaturalist.org/photos/628151905
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628151905/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonax-hammondii/1.jpg
+  page: https://www.inaturalist.org/photos/628151905
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628151905/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-hammondii/2.jpg
+  page: https://www.inaturalist.org/photos/665345893
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665345893/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-hammondii/3.jpg
+  page: https://www.inaturalist.org/photos/650589861
+  author: Chris Conard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650589861/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-hammondii/4.jpg
+  page: https://www.inaturalist.org/photos/649007148
+  author: k7hpn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649007148/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-hammondii/5.jpg
+  page: https://www.inaturalist.org/photos/653842598
+  author: Bob Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653842598/original.jpg
 ---
 
 

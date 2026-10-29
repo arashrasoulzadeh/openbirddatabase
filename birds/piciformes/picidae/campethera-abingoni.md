@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campethera-abingoni/1.jpg
+  page: https://www.inaturalist.org/photos/611849492
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611849492/original.jpg
+images:
+- file: images/piciformes/picidae/campethera-abingoni/1.jpg
+  page: https://www.inaturalist.org/photos/611849492
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611849492/original.jpg
+- file: images/piciformes/picidae/campethera-abingoni/2.jpg
+  page: https://www.inaturalist.org/photos/623247995
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623247995/original.jpg
+- file: images/piciformes/picidae/campethera-abingoni/3.jpg
+  page: https://www.inaturalist.org/photos/650419524
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650419524/original.jpg
+- file: images/piciformes/picidae/campethera-abingoni/4.jpg
+  page: https://www.inaturalist.org/photos/611849498
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611849498/original.jpg
+- file: images/piciformes/picidae/campethera-abingoni/5.jpg
+  page: https://www.inaturalist.org/photos/611849512
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611849512/original.jpg
 ---
 
 

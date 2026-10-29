@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 42
+image:
+  file: images/charadriiformes/alcidae/alca-torda/1.jpg
+  page: https://www.inaturalist.org/photos/609341258
+  author: Melanie Gaddy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609341258/original.jpg
+images:
+- file: images/charadriiformes/alcidae/alca-torda/1.jpg
+  page: https://www.inaturalist.org/photos/609341258
+  author: Melanie Gaddy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609341258/original.jpg
+- file: images/charadriiformes/alcidae/alca-torda/2.jpg
+  page: https://www.inaturalist.org/photos/608944457
+  author: Jake McCumber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608944457/original.jpg
+- file: images/charadriiformes/alcidae/alca-torda/3.jpg
+  page: https://www.inaturalist.org/photos/607172507
+  author: Hubert Sztyler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607172507/original.jpg
+- file: images/charadriiformes/alcidae/alca-torda/4.jpg
+  page: https://www.inaturalist.org/photos/607760935
+  author: Kevin Lynch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607760935/original.jpg
+- file: images/charadriiformes/alcidae/alca-torda/5.jpg
+  page: https://www.inaturalist.org/photos/607476814
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607476814/original.jpg
 ---
 
 

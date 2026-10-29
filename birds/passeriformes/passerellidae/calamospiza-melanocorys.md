@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/passerellidae/calamospiza-melanocorys/1.jpg
+  page: https://www.inaturalist.org/photos/610031347
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610031347/original.jpg
+images:
+- file: images/passeriformes/passerellidae/calamospiza-melanocorys/1.jpg
+  page: https://www.inaturalist.org/photos/610031347
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610031347/original.jpg
+- file: images/passeriformes/passerellidae/calamospiza-melanocorys/2.jpg
+  page: https://www.inaturalist.org/photos/612041762
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612041762/original.jpg
+- file: images/passeriformes/passerellidae/calamospiza-melanocorys/3.jpg
+  page: https://www.inaturalist.org/photos/613324362
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613324362/original.jpg
+- file: images/passeriformes/passerellidae/calamospiza-melanocorys/4.jpg
+  page: https://www.inaturalist.org/photos/613531305
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613531305/original.jpg
+- file: images/passeriformes/passerellidae/calamospiza-melanocorys/5.jpg
+  page: https://www.inaturalist.org/photos/651061045
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651061045/original.jpg
 ---
 
 

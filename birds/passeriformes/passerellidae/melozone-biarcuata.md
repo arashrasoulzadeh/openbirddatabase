@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/melozone-biarcuata/1.jpg
+  page: https://www.inaturalist.org/photos/476627762
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476627762/original.jpeg
+images:
+- file: images/passeriformes/passerellidae/melozone-biarcuata/1.jpg
+  page: https://www.inaturalist.org/photos/476627762
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476627762/original.jpeg
+- file: images/passeriformes/passerellidae/melozone-biarcuata/2.jpg
+  page: https://www.inaturalist.org/photos/485312242
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485312242/original.jpeg
+- file: images/passeriformes/passerellidae/melozone-biarcuata/3.jpg
+  page: https://www.inaturalist.org/photos/264206142
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264206142/original.png
+- file: images/passeriformes/passerellidae/melozone-biarcuata/4.jpg
+  page: https://www.inaturalist.org/photos/314913112
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314913112/original.jpg
+- file: images/passeriformes/passerellidae/melozone-biarcuata/5.jpg
+  page: https://www.inaturalist.org/photos/308364488
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/308364488/original.jpeg
 ---
 
 

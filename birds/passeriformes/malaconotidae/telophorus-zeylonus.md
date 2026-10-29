@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/telophorus-zeylonus/1.jpg
+  page: https://www.inaturalist.org/photos/608228325
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228325/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/telophorus-zeylonus/1.jpg
+  page: https://www.inaturalist.org/photos/608228325
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228325/original.jpg
+- file: images/passeriformes/malaconotidae/telophorus-zeylonus/2.jpg
+  page: https://www.inaturalist.org/photos/613421220
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613421220/original.jpg
+- file: images/passeriformes/malaconotidae/telophorus-zeylonus/3.jpg
+  page: https://www.inaturalist.org/photos/612925491
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612925491/original.jpg
+- file: images/passeriformes/malaconotidae/telophorus-zeylonus/4.jpg
+  page: https://www.inaturalist.org/photos/624575081
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624575081/original.jpg
+- file: images/passeriformes/malaconotidae/telophorus-zeylonus/5.jpg
+  page: https://www.inaturalist.org/photos/630295960
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630295960/original.jpg
 ---
 
 

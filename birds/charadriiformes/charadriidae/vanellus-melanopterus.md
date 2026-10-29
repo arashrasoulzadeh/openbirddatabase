@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-melanopterus/1.jpg
+  page: https://www.inaturalist.org/photos/696881892
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696881892/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-melanopterus/1.jpg
+  page: https://www.inaturalist.org/photos/696881892
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696881892/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-melanopterus/2.jpg
+  page: https://www.inaturalist.org/photos/716133211
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716133211/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-melanopterus/3.jpg
+  page: https://www.inaturalist.org/photos/722065206
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722065206/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-melanopterus/4.jpg
+  page: https://www.inaturalist.org/photos/719704178
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719704178/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-melanopterus/5.jpg
+  page: https://www.inaturalist.org/photos/493899320
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493899320/original.jpeg
 ---
 
 

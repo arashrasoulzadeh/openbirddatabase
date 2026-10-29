@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/parulidae/setophaga-virens/1.jpg
+  page: https://www.inaturalist.org/photos/609211754
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609211754/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-virens/1.jpg
+  page: https://www.inaturalist.org/photos/609211754
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609211754/original.jpg
+- file: images/passeriformes/parulidae/setophaga-virens/2.jpg
+  page: https://www.inaturalist.org/photos/606159812
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606159812/original.jpg
+- file: images/passeriformes/parulidae/setophaga-virens/3.jpg
+  page: https://www.inaturalist.org/photos/606261829
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606261829/original.jpg
+- file: images/passeriformes/parulidae/setophaga-virens/4.jpg
+  page: https://www.inaturalist.org/photos/607061041
+  author: Lucas Kaminski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607061041/original.jpg
+- file: images/passeriformes/parulidae/setophaga-virens/5.jpg
+  page: https://www.inaturalist.org/photos/608719311
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608719311/original.jpg
 ---
 
 

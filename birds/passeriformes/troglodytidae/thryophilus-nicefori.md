@@ -128,8 +128,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/thryophilus-nicefori/1.jpg
+  page: https://www.inaturalist.org/photos/285807928
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285807928/original.jpeg
+images:
+- file: images/passeriformes/troglodytidae/thryophilus-nicefori/1.jpg
+  page: https://www.inaturalist.org/photos/285807928
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285807928/original.jpeg
+- file: images/passeriformes/troglodytidae/thryophilus-nicefori/2.jpg
+  page: https://www.inaturalist.org/photos/285807969
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285807969/original.jpeg
+- file: images/passeriformes/troglodytidae/thryophilus-nicefori/3.jpg
+  page: https://www.inaturalist.org/photos/285808014
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285808014/original.jpeg
+- file: images/passeriformes/troglodytidae/thryophilus-nicefori/4.jpg
+  page: https://www.inaturalist.org/photos/285808059
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285808059/original.jpeg
+- file: images/passeriformes/troglodytidae/thryophilus-nicefori/5.jpg
+  page: https://www.inaturalist.org/photos/285808096
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285808096/original.jpeg
 ---
 
 

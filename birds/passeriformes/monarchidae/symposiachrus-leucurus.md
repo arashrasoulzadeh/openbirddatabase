@@ -131,8 +131,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/symposiachrus-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/416850686
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416850686/original.jpg
+images:
+- file: images/passeriformes/monarchidae/symposiachrus-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/416850686
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416850686/original.jpg
+- file: images/passeriformes/monarchidae/symposiachrus-leucurus/2.jpg
+  page: https://www.inaturalist.org/photos/440527506
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527506/original.jpeg
+- file: images/passeriformes/monarchidae/symposiachrus-leucurus/3.jpg
+  page: https://www.inaturalist.org/photos/440527507
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527507/original.jpeg
+- file: images/passeriformes/monarchidae/symposiachrus-leucurus/4.jpg
+  page: https://www.inaturalist.org/photos/440527562
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527562/original.jpeg
 ---
 
 

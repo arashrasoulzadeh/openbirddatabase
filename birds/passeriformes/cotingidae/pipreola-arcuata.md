@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/pipreola-arcuata/1.jpg
+  page: https://www.inaturalist.org/photos/625157617
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625157617/original.jpg
+images:
+- file: images/passeriformes/cotingidae/pipreola-arcuata/1.jpg
+  page: https://www.inaturalist.org/photos/625157617
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625157617/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-arcuata/2.jpg
+  page: https://www.inaturalist.org/photos/652823074
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652823074/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-arcuata/3.jpg
+  page: https://www.inaturalist.org/photos/725790586
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725790586/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-arcuata/4.jpg
+  page: https://www.inaturalist.org/photos/724738467
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724738467/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-arcuata/5.jpg
+  page: https://www.inaturalist.org/photos/489337232
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489337232/original.jpg
 ---
 
 

@@ -141,8 +141,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/antrostomus-ekmani/1.jpg
+  page: https://www.inaturalist.org/photos/590277440
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590277440/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-ekmani/1.jpg
+  page: https://www.inaturalist.org/photos/590277440
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590277440/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-ekmani/2.jpg
+  page: https://www.inaturalist.org/photos/604323143
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604323143/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-ekmani/3.jpg
+  page: https://www.inaturalist.org/photos/390241090
+  author: Esteban Pelaez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390241090/original.jpeg
 ---
 
 

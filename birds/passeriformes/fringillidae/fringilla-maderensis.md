@@ -123,8 +123,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/fringilla-maderensis/1.jpg
+  page: https://www.inaturalist.org/photos/612665532
+  author: Paweł Sadkowski
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612665532/original.jpg
+images:
+- file: images/passeriformes/fringillidae/fringilla-maderensis/1.jpg
+  page: https://www.inaturalist.org/photos/612665532
+  author: Paweł Sadkowski
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612665532/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-maderensis/2.jpg
+  page: https://www.inaturalist.org/photos/615801938
+  author: Peter Gabler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615801938/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-maderensis/3.jpg
+  page: https://www.inaturalist.org/photos/615794449
+  author: K.P.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615794449/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-maderensis/4.jpg
+  page: https://www.inaturalist.org/photos/615562226
+  author: Albert Harsieber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615562226/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-maderensis/5.jpg
+  page: https://www.inaturalist.org/photos/615050137
+  author: t_ylem
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615050137/original.jpg
 ---
 
 

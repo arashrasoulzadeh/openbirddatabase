@@ -182,8 +182,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/pitangus-sulphuratus/1.jpg
+  page: https://www.inaturalist.org/photos/604606426
+  author: Zygy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606426/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pitangus-sulphuratus/1.jpg
+  page: https://www.inaturalist.org/photos/604606426
+  author: Zygy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606426/original.jpg
+- file: images/passeriformes/tyrannidae/pitangus-sulphuratus/2.jpg
+  page: https://www.inaturalist.org/photos/604779824
+  author: Steven Smethurst
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604779824/original.jpg
+- file: images/passeriformes/tyrannidae/pitangus-sulphuratus/3.jpg
+  page: https://www.inaturalist.org/photos/604593313
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604593313/original.jpg
+- file: images/passeriformes/tyrannidae/pitangus-sulphuratus/4.jpg
+  page: https://www.inaturalist.org/photos/605144875
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144875/original.jpg
+- file: images/passeriformes/tyrannidae/pitangus-sulphuratus/5.jpg
+  page: https://www.inaturalist.org/photos/605659687
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659687/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pachyptila-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/475010732
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475010732/original.jpeg
+images:
+- file: images/procellariiformes/procellariidae/pachyptila-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/475010732
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475010732/original.jpeg
+- file: images/procellariiformes/procellariidae/pachyptila-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/344177207
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344177207/original.png
+- file: images/procellariiformes/procellariidae/pachyptila-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/388138455
+  author: Mark Fraser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388138455/original.jpeg
+- file: images/procellariiformes/procellariidae/pachyptila-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/475010730
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475010730/original.jpeg
+- file: images/procellariiformes/procellariidae/pachyptila-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/475013240
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475013240/original.jpeg
 ---
 
 

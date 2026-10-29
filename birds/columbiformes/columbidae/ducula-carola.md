@@ -137,8 +137,41 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-carola/1.jpg
+  page: https://www.inaturalist.org/photos/181197605
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181197605/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-carola/1.jpg
+  page: https://www.inaturalist.org/photos/181197605
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181197605/original.jpg
+- file: images/columbiformes/columbidae/ducula-carola/2.jpg
+  page: https://www.inaturalist.org/photos/181197626
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181197626/original.jpg
+- file: images/columbiformes/columbidae/ducula-carola/3.jpg
+  page: https://www.inaturalist.org/photos/181196993
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181196993/original.jpg
+- file: images/columbiformes/columbidae/ducula-carola/4.jpg
+  page: https://www.inaturalist.org/photos/220581900
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220581900/original.jpg
 ---
 
 

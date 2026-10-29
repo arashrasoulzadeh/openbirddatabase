@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/estrildidae/lagonosticta-senegala/1.jpg
+  page: https://www.inaturalist.org/photos/612447483
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612447483/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lagonosticta-senegala/1.jpg
+  page: https://www.inaturalist.org/photos/612447483
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612447483/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-senegala/2.jpg
+  page: https://www.inaturalist.org/photos/614247279
+  author: Benjamin Fredlund
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614247279/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-senegala/3.jpg
+  page: https://www.inaturalist.org/photos/619878626
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619878626/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-senegala/4.jpg
+  page: https://www.inaturalist.org/photos/612438628
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612438628/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-senegala/5.jpg
+  page: https://www.inaturalist.org/photos/612438623
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612438623/original.jpg
 ---
 
 

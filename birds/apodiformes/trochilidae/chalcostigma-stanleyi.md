@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chalcostigma-stanleyi/1.jpg
+  page: https://www.inaturalist.org/photos/483881207
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483881207/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/chalcostigma-stanleyi/1.jpg
+  page: https://www.inaturalist.org/photos/483881207
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483881207/original.jpeg
+- file: images/apodiformes/trochilidae/chalcostigma-stanleyi/2.jpg
+  page: https://www.inaturalist.org/photos/552061004
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552061004/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-stanleyi/3.jpg
+  page: https://www.inaturalist.org/photos/558778844
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558778844/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-stanleyi/4.jpg
+  page: https://www.inaturalist.org/photos/323112606
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323112606/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-stanleyi/5.jpg
+  page: https://www.inaturalist.org/photos/339732537
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339732537/original.jpeg
 ---
 
 

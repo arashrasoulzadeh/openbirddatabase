@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/accipitriformes/accipitridae/gypohierax-angolensis/1.jpg
+  page: https://www.inaturalist.org/photos/617466403
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617466403/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/gypohierax-angolensis/1.jpg
+  page: https://www.inaturalist.org/photos/617466403
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617466403/original.jpg
+- file: images/accipitriformes/accipitridae/gypohierax-angolensis/2.jpg
+  page: https://www.inaturalist.org/photos/615183579
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615183579/original.jpg
+- file: images/accipitriformes/accipitridae/gypohierax-angolensis/3.jpg
+  page: https://www.inaturalist.org/photos/631142382
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631142382/original.jpg
+- file: images/accipitriformes/accipitridae/gypohierax-angolensis/4.jpg
+  page: https://www.inaturalist.org/photos/656225482
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656225482/original.jpg
+- file: images/accipitriformes/accipitridae/gypohierax-angolensis/5.jpg
+  page: https://www.inaturalist.org/photos/617466415
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617466415/original.jpg
 ---
 
 

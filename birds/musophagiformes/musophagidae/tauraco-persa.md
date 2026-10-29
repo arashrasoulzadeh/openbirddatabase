@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/musophagiformes/musophagidae/tauraco-persa/1.jpg
+  page: https://www.inaturalist.org/photos/620289601
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620289601/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-persa/1.jpg
+  page: https://www.inaturalist.org/photos/620289601
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620289601/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-persa/2.jpg
+  page: https://www.inaturalist.org/photos/656285810
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656285810/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-persa/3.jpg
+  page: https://www.inaturalist.org/photos/477848402
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848402/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-persa/4.jpg
+  page: https://www.inaturalist.org/photos/353542221
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353542221/original.png
+- file: images/musophagiformes/musophagidae/tauraco-persa/5.jpg
+  page: https://www.inaturalist.org/photos/364011536
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364011536/original.jpg
 ---
 
 

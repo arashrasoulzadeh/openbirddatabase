@@ -139,7 +139,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.9
@@ -147,6 +148,44 @@ morphology:
   wing_length_mm: 53.2
   tail_length_mm: 15.0
   body_mass_g: 20.9
+image:
+  file: images/passeriformes/pnoepygidae/pnoepyga-formosana/1.jpg
+  page: https://www.inaturalist.org/photos/402498022
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402498022/original.jpeg
+images:
+- file: images/passeriformes/pnoepygidae/pnoepyga-formosana/1.jpg
+  page: https://www.inaturalist.org/photos/402498022
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402498022/original.jpeg
+- file: images/passeriformes/pnoepygidae/pnoepyga-formosana/2.jpg
+  page: https://www.inaturalist.org/photos/251682216
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251682216/original.png
+- file: images/passeriformes/pnoepygidae/pnoepyga-formosana/3.jpg
+  page: https://www.inaturalist.org/photos/47821448
+  author: Iain Robson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/47821448/original.jpg
+- file: images/passeriformes/pnoepygidae/pnoepyga-formosana/4.jpg
+  page: https://www.inaturalist.org/photos/40827201
+  author: Tatsutomo Chin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/40827201/original.jpg
+- file: images/passeriformes/pnoepygidae/pnoepyga-formosana/5.jpg
+  page: https://www.inaturalist.org/photos/402497673
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402497673/original.jpeg
 ---
 
 

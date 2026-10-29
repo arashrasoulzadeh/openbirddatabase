@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/cracticus-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/697490954
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697490954/original.jpg
+images:
+- file: images/passeriformes/artamidae/cracticus-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/697490954
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697490954/original.jpg
+- file: images/passeriformes/artamidae/cracticus-mentalis/2.jpg
+  page: https://www.inaturalist.org/photos/611950998
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611950998/original.jpg
+- file: images/passeriformes/artamidae/cracticus-mentalis/3.jpg
+  page: https://www.inaturalist.org/photos/195629632
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195629632/original.jpeg
+- file: images/passeriformes/artamidae/cracticus-mentalis/4.jpg
+  page: https://www.inaturalist.org/photos/243752114
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243752114/original.jpg
+- file: images/passeriformes/artamidae/cracticus-mentalis/5.jpg
+  page: https://www.inaturalist.org/photos/51886838
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/51886838/original.jpg
 ---
 
 

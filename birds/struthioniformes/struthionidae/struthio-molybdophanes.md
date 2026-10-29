@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 50
+image:
+  file: images/struthioniformes/struthionidae/struthio-molybdophanes/1.jpg
+  page: https://www.inaturalist.org/photos/692580182
+  author: Carlos Santana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692580182/original.jpg
+images:
+- file: images/struthioniformes/struthionidae/struthio-molybdophanes/1.jpg
+  page: https://www.inaturalist.org/photos/692580182
+  author: Carlos Santana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692580182/original.jpg
+- file: images/struthioniformes/struthionidae/struthio-molybdophanes/2.jpg
+  page: https://www.inaturalist.org/photos/722026821
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722026821/original.jpg
+- file: images/struthioniformes/struthionidae/struthio-molybdophanes/3.jpg
+  page: https://www.inaturalist.org/photos/721440103
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721440103/original.jpg
+- file: images/struthioniformes/struthionidae/struthio-molybdophanes/4.jpg
+  page: https://www.inaturalist.org/photos/585230241
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585230241/original.jpg
+- file: images/struthioniformes/struthionidae/struthio-molybdophanes/5.jpg
+  page: https://www.inaturalist.org/photos/692583710
+  author: Carlos Santana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692583710/original.jpg
 ---
 
 

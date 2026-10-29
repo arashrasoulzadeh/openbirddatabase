@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/aplopelia-larvata/1.jpg
+  page: https://www.inaturalist.org/photos/621118845
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621118845/original.jpg
+images:
+- file: images/columbiformes/columbidae/aplopelia-larvata/1.jpg
+  page: https://www.inaturalist.org/photos/621118845
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621118845/original.jpg
+- file: images/columbiformes/columbidae/aplopelia-larvata/2.jpg
+  page: https://www.inaturalist.org/photos/630403453
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630403453/original.jpg
+- file: images/columbiformes/columbidae/aplopelia-larvata/3.jpg
+  page: https://www.inaturalist.org/photos/657170069
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657170069/original.jpg
+- file: images/columbiformes/columbidae/aplopelia-larvata/4.jpg
+  page: https://www.inaturalist.org/photos/674706916
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674706916/original.jpg
+- file: images/columbiformes/columbidae/aplopelia-larvata/5.jpg
+  page: https://www.inaturalist.org/photos/733948212
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733948212/original.jpg
 ---
 
 

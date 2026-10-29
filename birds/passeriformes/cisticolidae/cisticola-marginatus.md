@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-marginatus/1.jpg
+  page: https://www.inaturalist.org/photos/619038663
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619038663/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-marginatus/1.jpg
+  page: https://www.inaturalist.org/photos/619038663
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619038663/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-marginatus/2.jpg
+  page: https://www.inaturalist.org/photos/666668310
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666668310/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-marginatus/3.jpg
+  page: https://www.inaturalist.org/photos/467385005
+  author: Michał Żyła
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467385005/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-marginatus/4.jpg
+  page: https://www.inaturalist.org/photos/505835582
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505835582/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-marginatus/5.jpg
+  page: https://www.inaturalist.org/photos/548429484
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548429484/original.jpg
 ---
 
 

@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-forsteni/1.jpg
+  page: https://www.inaturalist.org/photos/721183021
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721183021/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-forsteni/1.jpg
+  page: https://www.inaturalist.org/photos/721183021
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721183021/original.jpg
+- file: images/columbiformes/columbidae/ducula-forsteni/2.jpg
+  page: https://www.inaturalist.org/photos/526014486
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014486/original.jpg
+- file: images/columbiformes/columbidae/ducula-forsteni/3.jpg
+  page: https://www.inaturalist.org/photos/309885712
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309885712/original.jpg
+- file: images/columbiformes/columbidae/ducula-forsteni/4.jpg
+  page: https://www.inaturalist.org/photos/339645163
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339645163/original.jpg
+- file: images/columbiformes/columbidae/ducula-forsteni/5.jpg
+  page: https://www.inaturalist.org/photos/107805755
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107805755/original.jpg
 ---
 
 

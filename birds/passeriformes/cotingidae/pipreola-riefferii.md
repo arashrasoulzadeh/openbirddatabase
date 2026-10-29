@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/pipreola-riefferii/1.jpg
+  page: https://www.inaturalist.org/photos/612468932
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612468932/original.jpg
+images:
+- file: images/passeriformes/cotingidae/pipreola-riefferii/1.jpg
+  page: https://www.inaturalist.org/photos/612468932
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612468932/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-riefferii/2.jpg
+  page: https://www.inaturalist.org/photos/623798963
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623798963/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-riefferii/3.jpg
+  page: https://www.inaturalist.org/photos/652839475
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652839475/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-riefferii/4.jpg
+  page: https://www.inaturalist.org/photos/692331733
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692331733/original.jpg
+- file: images/passeriformes/cotingidae/pipreola-riefferii/5.jpg
+  page: https://www.inaturalist.org/photos/472960310
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472960310/original.jpeg
 ---
 
 

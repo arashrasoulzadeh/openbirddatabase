@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/sphenisciformes/spheniscidae/pygoscelis-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/605744947
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605744947/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/pygoscelis-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/605744947
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605744947/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-antarcticus/2.jpg
+  page: https://www.inaturalist.org/photos/605744982
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605744982/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-antarcticus/3.jpg
+  page: https://www.inaturalist.org/photos/606178405
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606178405/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-antarcticus/4.jpg
+  page: https://www.inaturalist.org/photos/608146397
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608146397/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-antarcticus/5.jpg
+  page: https://www.inaturalist.org/photos/608146398
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608146398/original.jpg
 ---
 
 

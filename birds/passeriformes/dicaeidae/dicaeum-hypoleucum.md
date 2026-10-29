@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-hypoleucum/1.jpg
+  page: https://www.inaturalist.org/photos/270915047
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270915047/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-hypoleucum/1.jpg
+  page: https://www.inaturalist.org/photos/270915047
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270915047/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-hypoleucum/2.jpg
+  page: https://www.inaturalist.org/photos/396823811
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396823811/original.jpeg
+- file: images/passeriformes/dicaeidae/dicaeum-hypoleucum/3.jpg
+  page: https://www.inaturalist.org/photos/302397178
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/302397178/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-hypoleucum/4.jpg
+  page: https://www.inaturalist.org/photos/302397187
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/302397187/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-hypoleucum/5.jpg
+  page: https://www.inaturalist.org/photos/318936664
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318936664/original.jpeg
 ---
 
 

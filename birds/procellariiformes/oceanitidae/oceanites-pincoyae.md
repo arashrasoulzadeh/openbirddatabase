@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/oceanitidae/oceanites-pincoyae/1.jpg
+  page: https://www.inaturalist.org/photos/481953508
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481953508/original.jpg
+images:
+- file: images/procellariiformes/oceanitidae/oceanites-pincoyae/1.jpg
+  page: https://www.inaturalist.org/photos/481953508
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481953508/original.jpg
+- file: images/procellariiformes/oceanitidae/oceanites-pincoyae/2.jpg
+  page: https://www.inaturalist.org/photos/365966283
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365966283/original.jpeg
+- file: images/procellariiformes/oceanitidae/oceanites-pincoyae/3.jpg
+  page: https://www.inaturalist.org/photos/369447882
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369447882/original.jpg
+- file: images/procellariiformes/oceanitidae/oceanites-pincoyae/4.jpg
+  page: https://www.inaturalist.org/photos/458256762
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458256762/original.jpeg
+- file: images/procellariiformes/oceanitidae/oceanites-pincoyae/5.jpg
+  page: https://www.inaturalist.org/photos/481953521
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481953521/original.jpg
 ---
 
 

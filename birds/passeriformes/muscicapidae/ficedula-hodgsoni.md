@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/469022378
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469022378/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/469022378
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469022378/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-hodgsoni/2.jpg
+  page: https://www.inaturalist.org/photos/450460619
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450460619/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-hodgsoni/3.jpg
+  page: https://www.inaturalist.org/photos/534795586
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534795586/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-hodgsoni/4.jpg
+  page: https://www.inaturalist.org/photos/547345784
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547345784/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-hodgsoni/5.jpg
+  page: https://www.inaturalist.org/photos/114831453
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114831453/original.jpeg
 ---
 
 

@@ -124,8 +124,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/thraupidae/idiopsar-speculifer/1.jpg
+  page: https://www.inaturalist.org/photos/641088079
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641088079/original.jpg
+images:
+- file: images/passeriformes/thraupidae/idiopsar-speculifer/1.jpg
+  page: https://www.inaturalist.org/photos/641088079
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641088079/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-speculifer/2.jpg
+  page: https://www.inaturalist.org/photos/717408847
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717408847/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-speculifer/3.jpg
+  page: https://www.inaturalist.org/photos/730676395
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730676395/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-speculifer/4.jpg
+  page: https://www.inaturalist.org/photos/555748105
+  author: Connor Connolly-Moyls
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555748105/original.jpg
+- file: images/passeriformes/thraupidae/idiopsar-speculifer/5.jpg
+  page: https://www.inaturalist.org/photos/528340944
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528340944/original.jpg
 ---
 
 

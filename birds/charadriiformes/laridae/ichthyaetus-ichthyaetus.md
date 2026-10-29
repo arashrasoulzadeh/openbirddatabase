@@ -161,7 +161,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 73.0
@@ -175,6 +176,44 @@ reproduction:
   incubation_days: 26
 demography:
   max_longevity_years: 9
+image:
+  file: images/charadriiformes/laridae/ichthyaetus-ichthyaetus/1.jpg
+  page: https://www.inaturalist.org/photos/610966273
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610966273/original.jpg
+images:
+- file: images/charadriiformes/laridae/ichthyaetus-ichthyaetus/1.jpg
+  page: https://www.inaturalist.org/photos/610966273
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610966273/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-ichthyaetus/2.jpg
+  page: https://www.inaturalist.org/photos/607946709
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607946709/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-ichthyaetus/3.jpg
+  page: https://www.inaturalist.org/photos/638967785
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638967785/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-ichthyaetus/4.jpg
+  page: https://www.inaturalist.org/photos/610966341
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610966341/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-ichthyaetus/5.jpg
+  page: https://www.inaturalist.org/photos/610966343
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610966343/original.jpg
 ---
 
 

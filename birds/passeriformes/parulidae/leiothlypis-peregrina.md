@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/parulidae/leiothlypis-peregrina/1.jpg
+  page: https://www.inaturalist.org/photos/605657876
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657876/original.jpg
+images:
+- file: images/passeriformes/parulidae/leiothlypis-peregrina/1.jpg
+  page: https://www.inaturalist.org/photos/605657876
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657876/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-peregrina/2.jpg
+  page: https://www.inaturalist.org/photos/605187450
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605187450/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-peregrina/3.jpg
+  page: https://www.inaturalist.org/photos/610503125
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503125/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-peregrina/4.jpg
+  page: https://www.inaturalist.org/photos/608766402
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608766402/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-peregrina/5.jpg
+  page: https://www.inaturalist.org/photos/609774632
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609774632/original.jpg
 ---
 
 

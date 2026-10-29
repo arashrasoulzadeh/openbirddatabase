@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/chaetorhynchus-papuensis/1.jpg
+  page: https://www.inaturalist.org/photos/625525006
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625525006/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/chaetorhynchus-papuensis/1.jpg
+  page: https://www.inaturalist.org/photos/625525006
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625525006/original.jpg
+- file: images/passeriformes/rhipiduridae/chaetorhynchus-papuensis/2.jpg
+  page: https://www.inaturalist.org/photos/82240365
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82240365/original.jpg
+- file: images/passeriformes/rhipiduridae/chaetorhynchus-papuensis/3.jpg
+  page: https://www.inaturalist.org/photos/625525009
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625525009/original.jpg
+- file: images/passeriformes/rhipiduridae/chaetorhynchus-papuensis/4.jpg
+  page: https://www.inaturalist.org/photos/625525053
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625525053/original.jpg
+- file: images/passeriformes/rhipiduridae/chaetorhynchus-papuensis/5.jpg
+  page: https://www.inaturalist.org/photos/625524940
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625524940/original.jpg
 ---
 
 

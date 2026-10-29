@@ -141,8 +141,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/charmosyna-stellae/1.jpg
+  page: https://www.inaturalist.org/photos/559405683
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559405683/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/charmosyna-stellae/1.jpg
+  page: https://www.inaturalist.org/photos/559405683
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559405683/original.jpg
+- file: images/psittaciformes/psittaculidae/charmosyna-stellae/2.jpg
+  page: https://www.inaturalist.org/photos/571156304
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571156304/original.jpg
+- file: images/psittaciformes/psittaculidae/charmosyna-stellae/3.jpg
+  page: https://www.inaturalist.org/photos/578588879
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578588879/original.jpg
+- file: images/psittaciformes/psittaculidae/charmosyna-stellae/4.jpg
+  page: https://www.inaturalist.org/photos/571156308
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571156308/original.jpg
 ---
 
 

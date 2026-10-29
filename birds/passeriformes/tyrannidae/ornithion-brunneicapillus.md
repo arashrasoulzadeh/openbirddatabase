@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ornithion-brunneicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/614515825
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515825/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/ornithion-brunneicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/614515825
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515825/original.jpg
+- file: images/passeriformes/tyrannidae/ornithion-brunneicapillus/2.jpg
+  page: https://www.inaturalist.org/photos/742229566
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742229566/original.jpg
+- file: images/passeriformes/tyrannidae/ornithion-brunneicapillus/3.jpg
+  page: https://www.inaturalist.org/photos/569167151
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569167151/original.jpg
+- file: images/passeriformes/tyrannidae/ornithion-brunneicapillus/4.jpg
+  page: https://www.inaturalist.org/photos/574164404
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574164404/original.jpg
+- file: images/passeriformes/tyrannidae/ornithion-brunneicapillus/5.jpg
+  page: https://www.inaturalist.org/photos/592365691
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592365691/original.jpg
 ---
 
 

@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/acropternis-orthonyx/1.jpg
+  page: https://www.inaturalist.org/photos/652811510
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652811510/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/acropternis-orthonyx/1.jpg
+  page: https://www.inaturalist.org/photos/652811510
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652811510/original.jpg
+- file: images/passeriformes/rhinocryptidae/acropternis-orthonyx/2.jpg
+  page: https://www.inaturalist.org/photos/255796895
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255796895/original.jpeg
+- file: images/passeriformes/rhinocryptidae/acropternis-orthonyx/3.jpg
+  page: https://www.inaturalist.org/photos/257815666
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257815666/original.jpeg
+- file: images/passeriformes/rhinocryptidae/acropternis-orthonyx/4.jpg
+  page: https://www.inaturalist.org/photos/348509924
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348509924/original.jpeg
+- file: images/passeriformes/rhinocryptidae/acropternis-orthonyx/5.jpg
+  page: https://www.inaturalist.org/photos/240594796
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240594796/original.jpeg
 ---
 
 

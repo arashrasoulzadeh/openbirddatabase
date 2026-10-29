@@ -145,8 +145,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/rostratulidae/rostratula-australis/1.jpg
+  page: https://www.inaturalist.org/photos/606617307
+  author: Mike Youdale
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606617307/original.jpg
+images:
+- file: images/charadriiformes/rostratulidae/rostratula-australis/1.jpg
+  page: https://www.inaturalist.org/photos/606617307
+  author: Mike Youdale
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606617307/original.jpg
+- file: images/charadriiformes/rostratulidae/rostratula-australis/2.jpg
+  page: https://www.inaturalist.org/photos/468376967
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468376967/original.jpeg
+- file: images/charadriiformes/rostratulidae/rostratula-australis/3.jpg
+  page: https://www.inaturalist.org/photos/473265799
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473265799/original.jpg
+- file: images/charadriiformes/rostratulidae/rostratula-australis/4.jpg
+  page: https://www.inaturalist.org/photos/585911036
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585911036/original.jpg
+- file: images/charadriiformes/rostratulidae/rostratula-australis/5.jpg
+  page: https://www.inaturalist.org/photos/601708858
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601708858/original.jpg
 ---
 
 

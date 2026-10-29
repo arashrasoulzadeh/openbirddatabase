@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/riparia-paludicola/1.jpg
+  page: https://www.inaturalist.org/photos/608868024
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608868024/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/riparia-paludicola/1.jpg
+  page: https://www.inaturalist.org/photos/608868024
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608868024/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-paludicola/2.jpg
+  page: https://www.inaturalist.org/photos/609996653
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609996653/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-paludicola/3.jpg
+  page: https://www.inaturalist.org/photos/626144100
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626144100/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-paludicola/4.jpg
+  page: https://www.inaturalist.org/photos/716639397
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716639397/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-paludicola/5.jpg
+  page: https://www.inaturalist.org/photos/655943327
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655943327/original.jpg
 ---
 
 

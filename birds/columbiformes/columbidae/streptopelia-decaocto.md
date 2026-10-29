@@ -192,10 +192,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/columbiformes/columbidae/streptopelia-decaocto/1.jpg
+  page: https://www.inaturalist.org/photos/604849295
+  author: Petr Harant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604849295/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-decaocto/1.jpg
+  page: https://www.inaturalist.org/photos/604849295
+  author: Petr Harant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604849295/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-decaocto/2.jpg
+  page: https://www.inaturalist.org/photos/605325817
+  author: gab_1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605325817/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-decaocto/3.jpg
+  page: https://www.inaturalist.org/photos/605663261
+  author: Adam F
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605663261/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-decaocto/4.jpg
+  page: https://www.inaturalist.org/photos/605647887
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605647887/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-decaocto/5.jpg
+  page: https://www.inaturalist.org/photos/605604824
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605604824/original.jpg
 ---
 
 

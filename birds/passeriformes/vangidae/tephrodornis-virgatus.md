@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/tephrodornis-virgatus/1.jpg
+  page: https://www.inaturalist.org/photos/728830718
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728830718/original.jpg
+images:
+- file: images/passeriformes/vangidae/tephrodornis-virgatus/1.jpg
+  page: https://www.inaturalist.org/photos/728830718
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728830718/original.jpg
+- file: images/passeriformes/vangidae/tephrodornis-virgatus/2.jpg
+  page: https://www.inaturalist.org/photos/618066858
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618066858/original.jpg
+- file: images/passeriformes/vangidae/tephrodornis-virgatus/3.jpg
+  page: https://www.inaturalist.org/photos/631308186
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631308186/original.jpg
+- file: images/passeriformes/vangidae/tephrodornis-virgatus/4.jpg
+  page: https://www.inaturalist.org/photos/698904351
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698904351/original.jpg
+- file: images/passeriformes/vangidae/tephrodornis-virgatus/5.jpg
+  page: https://www.inaturalist.org/photos/461111047
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461111047/original.jpeg
 ---
 
 

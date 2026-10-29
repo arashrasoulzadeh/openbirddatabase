@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/copsychus-albospecularis/1.jpg
+  page: https://www.inaturalist.org/photos/636132902
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636132902/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/copsychus-albospecularis/1.jpg
+  page: https://www.inaturalist.org/photos/636132902
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636132902/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-albospecularis/2.jpg
+  page: https://www.inaturalist.org/photos/690444315
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690444315/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-albospecularis/3.jpg
+  page: https://www.inaturalist.org/photos/474706646
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474706646/original.jpeg
+- file: images/passeriformes/muscicapidae/copsychus-albospecularis/4.jpg
+  page: https://www.inaturalist.org/photos/690758812
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690758812/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-albospecularis/5.jpg
+  page: https://www.inaturalist.org/photos/474323754
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474323754/original.jpeg
 ---
 
 

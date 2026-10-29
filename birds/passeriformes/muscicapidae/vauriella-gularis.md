@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/vauriella-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/685853395
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685853395/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/vauriella-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/685853395
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685853395/original.jpg
+- file: images/passeriformes/muscicapidae/vauriella-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/588352205
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588352205/original.jpg
+- file: images/passeriformes/muscicapidae/vauriella-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/452597558
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452597558/original.jpeg
+- file: images/passeriformes/muscicapidae/vauriella-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/296278498
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296278498/original.jpg
+- file: images/passeriformes/muscicapidae/vauriella-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/685781080
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685781080/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-cyanophrys/1.jpg
+  page: https://www.inaturalist.org/photos/631112066
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631112066/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-cyanophrys/1.jpg
+  page: https://www.inaturalist.org/photos/631112066
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631112066/original.jpg
+- file: images/coraciiformes/meropidae/merops-cyanophrys/2.jpg
+  page: https://www.inaturalist.org/photos/616451681
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616451681/original.jpg
+- file: images/coraciiformes/meropidae/merops-cyanophrys/3.jpg
+  page: https://www.inaturalist.org/photos/622837073
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622837073/original.jpg
+- file: images/coraciiformes/meropidae/merops-cyanophrys/4.jpg
+  page: https://www.inaturalist.org/photos/680265208
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680265208/original.jpg
+- file: images/coraciiformes/meropidae/merops-cyanophrys/5.jpg
+  page: https://www.inaturalist.org/photos/693388734
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693388734/original.jpg
 ---
 
 

@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/apodiformes/apodidae/aerodramus-terraereginae/1.jpg
+  page: https://www.inaturalist.org/photos/705967842
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705967842/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-terraereginae/1.jpg
+  page: https://www.inaturalist.org/photos/705967842
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705967842/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-terraereginae/2.jpg
+  page: https://www.inaturalist.org/photos/699976586
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699976586/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-terraereginae/3.jpg
+  page: https://www.inaturalist.org/photos/702136481
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702136481/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-terraereginae/4.jpg
+  page: https://www.inaturalist.org/photos/705881402
+  author: Jonathan Curley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705881402/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-terraereginae/5.jpg
+  page: https://www.inaturalist.org/photos/486665032
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486665032/original.jpg
 ---
 
 

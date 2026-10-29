@@ -141,10 +141,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/xiphorhynchus-ocellatus/1.jpg
+  page: https://www.inaturalist.org/photos/581455295
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581455295/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xiphorhynchus-ocellatus/1.jpg
+  page: https://www.inaturalist.org/photos/581455295
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581455295/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-ocellatus/2.jpg
+  page: https://www.inaturalist.org/photos/426775664
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775664/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-ocellatus/3.jpg
+  page: https://www.inaturalist.org/photos/176931083
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176931083/original.jpeg
+- file: images/passeriformes/furnariidae/xiphorhynchus-ocellatus/4.jpg
+  page: https://www.inaturalist.org/photos/231584146
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231584146/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-ocellatus/5.jpg
+  page: https://www.inaturalist.org/photos/176931170
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176931170/original.jpeg
 ---
 
 

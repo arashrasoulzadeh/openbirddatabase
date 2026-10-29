@@ -131,8 +131,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/amaurospiza-aequatorialis/1.jpg
+  page: https://www.inaturalist.org/photos/375765910
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375765910/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/amaurospiza-aequatorialis/1.jpg
+  page: https://www.inaturalist.org/photos/375765910
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375765910/original.jpg
+- file: images/passeriformes/cardinalidae/amaurospiza-aequatorialis/2.jpg
+  page: https://www.inaturalist.org/photos/375765969
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375765969/original.jpg
+- file: images/passeriformes/cardinalidae/amaurospiza-aequatorialis/3.jpg
+  page: https://www.inaturalist.org/photos/375765904
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375765904/original.jpg
+- file: images/passeriformes/cardinalidae/amaurospiza-aequatorialis/4.jpg
+  page: https://www.inaturalist.org/photos/375765951
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375765951/original.jpg
+- file: images/passeriformes/cardinalidae/amaurospiza-aequatorialis/5.jpg
+  page: https://www.inaturalist.org/photos/375765958
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375765958/original.jpg
 ---
 
 

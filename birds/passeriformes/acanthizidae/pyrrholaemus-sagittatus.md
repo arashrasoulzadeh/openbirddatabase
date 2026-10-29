@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/pyrrholaemus-sagittatus/1.jpg
+  page: https://www.inaturalist.org/photos/654091829
+  author: Sam Westbrook
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654091829/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/pyrrholaemus-sagittatus/1.jpg
+  page: https://www.inaturalist.org/photos/654091829
+  author: Sam Westbrook
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654091829/original.jpg
+- file: images/passeriformes/acanthizidae/pyrrholaemus-sagittatus/2.jpg
+  page: https://www.inaturalist.org/photos/672454136
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672454136/original.jpg
+- file: images/passeriformes/acanthizidae/pyrrholaemus-sagittatus/3.jpg
+  page: https://www.inaturalist.org/photos/721716569
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721716569/original.jpg
+- file: images/passeriformes/acanthizidae/pyrrholaemus-sagittatus/4.jpg
+  page: https://www.inaturalist.org/photos/721629954
+  author: Liam southwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721629954/original.jpg
+- file: images/passeriformes/acanthizidae/pyrrholaemus-sagittatus/5.jpg
+  page: https://www.inaturalist.org/photos/738196860
+  author: Shelomi Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738196860/original.jpg
 ---
 
 

@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-weynsi/1.jpg
+  page: https://www.inaturalist.org/photos/562122474
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562122474/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-weynsi/1.jpg
+  page: https://www.inaturalist.org/photos/562122474
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562122474/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-weynsi/2.jpg
+  page: https://www.inaturalist.org/photos/257771736
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257771736/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-weynsi/3.jpg
+  page: https://www.inaturalist.org/photos/48507420
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/48507420/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-weynsi/4.jpg
+  page: https://www.inaturalist.org/photos/562134512
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562134512/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-weynsi/5.jpg
+  page: https://www.inaturalist.org/photos/562134515
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562134515/original.jpg
 ---
 
 

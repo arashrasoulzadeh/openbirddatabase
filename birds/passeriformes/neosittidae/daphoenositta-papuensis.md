@@ -142,8 +142,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/neosittidae/daphoenositta-papuensis/1.jpg
+  page: https://www.inaturalist.org/photos/699839207
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839207/original.jpg
+images:
+- file: images/passeriformes/neosittidae/daphoenositta-papuensis/1.jpg
+  page: https://www.inaturalist.org/photos/699839207
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839207/original.jpg
+- file: images/passeriformes/neosittidae/daphoenositta-papuensis/2.jpg
+  page: https://www.inaturalist.org/photos/699839206
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839206/original.jpg
+- file: images/passeriformes/neosittidae/daphoenositta-papuensis/3.jpg
+  page: https://www.inaturalist.org/photos/699839218
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839218/original.jpg
+- file: images/passeriformes/neosittidae/daphoenositta-papuensis/4.jpg
+  page: https://www.inaturalist.org/photos/699839235
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839235/original.jpg
+- file: images/passeriformes/neosittidae/daphoenositta-papuensis/5.jpg
+  page: https://www.inaturalist.org/photos/699839237
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839237/original.jpg
 ---
 
 

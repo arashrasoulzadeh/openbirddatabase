@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/sturnella-lilianae/1.jpg
+  page: https://www.inaturalist.org/photos/607756138
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607756138/original.jpg
+images:
+- file: images/passeriformes/icteridae/sturnella-lilianae/1.jpg
+  page: https://www.inaturalist.org/photos/607756138
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607756138/original.jpg
+- file: images/passeriformes/icteridae/sturnella-lilianae/2.jpg
+  page: https://www.inaturalist.org/photos/641593768
+  author: Hydrocycler (Elizabeth Dougherty)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641593768/original.jpg
+- file: images/passeriformes/icteridae/sturnella-lilianae/3.jpg
+  page: https://www.inaturalist.org/photos/635038114
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635038114/original.jpg
+- file: images/passeriformes/icteridae/sturnella-lilianae/4.jpg
+  page: https://www.inaturalist.org/photos/650466838
+  author: Carlos Martínez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650466838/original.jpg
+- file: images/passeriformes/icteridae/sturnella-lilianae/5.jpg
+  page: https://www.inaturalist.org/photos/660910579
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660910579/original.jpg
 ---
 
 

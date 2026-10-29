@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/594613889
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613889/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/594613889
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613889/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-insignis/2.jpg
+  page: https://www.inaturalist.org/photos/592264042
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592264042/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-insignis/3.jpg
+  page: https://www.inaturalist.org/photos/465929700
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465929700/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-insignis/4.jpg
+  page: https://www.inaturalist.org/photos/447748168
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447748168/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-insignis/5.jpg
+  page: https://www.inaturalist.org/photos/158901821
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158901821/original.jpeg
 ---
 
 

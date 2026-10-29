@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/acanthizidae/acanthiza-uropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/698305282
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698305282/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthiza-uropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/698305282
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698305282/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-uropygialis/2.jpg
+  page: https://www.inaturalist.org/photos/713632210
+  author: julie burgher
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713632210/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-uropygialis/3.jpg
+  page: https://www.inaturalist.org/photos/698305291
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698305291/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-uropygialis/4.jpg
+  page: https://www.inaturalist.org/photos/698305245
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698305245/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-uropygialis/5.jpg
+  page: https://www.inaturalist.org/photos/698305235
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698305235/original.jpg
 ---
 
 

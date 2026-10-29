@@ -148,8 +148,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-brachyurus/1.jpg
+  page: https://www.inaturalist.org/photos/473591051
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473591051/original.jpeg
+images:
+- file: images/passeriformes/motacillidae/anthus-brachyurus/1.jpg
+  page: https://www.inaturalist.org/photos/473591051
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473591051/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-brachyurus/2.jpg
+  page: https://www.inaturalist.org/photos/473591042
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473591042/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-brachyurus/3.jpg
+  page: https://www.inaturalist.org/photos/473591037
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473591037/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-brachyurus/4.jpg
+  page: https://www.inaturalist.org/photos/473591030
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473591030/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ramphotrigon-megacephalum/1.jpg
+  page: https://www.inaturalist.org/photos/605433974
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433974/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/ramphotrigon-megacephalum/1.jpg
+  page: https://www.inaturalist.org/photos/605433974
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433974/original.jpg
+- file: images/passeriformes/tyrannidae/ramphotrigon-megacephalum/2.jpg
+  page: https://www.inaturalist.org/photos/641150708
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150708/original.jpg
+- file: images/passeriformes/tyrannidae/ramphotrigon-megacephalum/3.jpg
+  page: https://www.inaturalist.org/photos/672628447
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672628447/original.jpg
+- file: images/passeriformes/tyrannidae/ramphotrigon-megacephalum/4.jpg
+  page: https://www.inaturalist.org/photos/476743501
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476743501/original.jpeg
+- file: images/passeriformes/tyrannidae/ramphotrigon-megacephalum/5.jpg
+  page: https://www.inaturalist.org/photos/520567980
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520567980/original.jpg
 ---
 
 

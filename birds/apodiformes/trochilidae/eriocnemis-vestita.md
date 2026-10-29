@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eriocnemis-vestita/1.jpg
+  page: https://www.inaturalist.org/photos/615882915
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615882915/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eriocnemis-vestita/1.jpg
+  page: https://www.inaturalist.org/photos/615882915
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615882915/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-vestita/2.jpg
+  page: https://www.inaturalist.org/photos/654979270
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654979270/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-vestita/3.jpg
+  page: https://www.inaturalist.org/photos/698071668
+  author: Yannick Pochon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698071668/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-vestita/4.jpg
+  page: https://www.inaturalist.org/photos/724734579
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724734579/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-vestita/5.jpg
+  page: https://www.inaturalist.org/photos/595064616
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595064616/original.jpg
 ---
 
 

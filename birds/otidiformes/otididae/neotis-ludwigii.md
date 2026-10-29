@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/neotis-ludwigii/1.jpg
+  page: https://www.inaturalist.org/photos/609667237
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609667237/original.jpg
+images:
+- file: images/otidiformes/otididae/neotis-ludwigii/1.jpg
+  page: https://www.inaturalist.org/photos/609667237
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609667237/original.jpg
+- file: images/otidiformes/otididae/neotis-ludwigii/2.jpg
+  page: https://www.inaturalist.org/photos/615695717
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615695717/original.jpg
+- file: images/otidiformes/otididae/neotis-ludwigii/3.jpg
+  page: https://www.inaturalist.org/photos/629920330
+  author: Peter Uetz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629920330/original.jpg
+- file: images/otidiformes/otididae/neotis-ludwigii/4.jpg
+  page: https://www.inaturalist.org/photos/711886151
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711886151/original.jpg
+- file: images/otidiformes/otididae/neotis-ludwigii/5.jpg
+  page: https://www.inaturalist.org/photos/742664054
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742664054/original.jpg
 ---
 
 

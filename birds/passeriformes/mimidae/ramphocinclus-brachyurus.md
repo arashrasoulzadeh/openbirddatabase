@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/ramphocinclus-brachyurus/1.jpg
+  page: https://www.inaturalist.org/photos/609208228
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609208228/original.jpg
+images:
+- file: images/passeriformes/mimidae/ramphocinclus-brachyurus/1.jpg
+  page: https://www.inaturalist.org/photos/609208228
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609208228/original.jpg
+- file: images/passeriformes/mimidae/ramphocinclus-brachyurus/2.jpg
+  page: https://www.inaturalist.org/photos/620071101
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620071101/original.jpg
+- file: images/passeriformes/mimidae/ramphocinclus-brachyurus/3.jpg
+  page: https://www.inaturalist.org/photos/352040024
+  author: Frances Oliver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352040024/original.jpg
+- file: images/passeriformes/mimidae/ramphocinclus-brachyurus/4.jpg
+  page: https://www.inaturalist.org/photos/210403257
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/210403257/original.jpg
+- file: images/passeriformes/mimidae/ramphocinclus-brachyurus/5.jpg
+  page: https://www.inaturalist.org/photos/2988171
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2988171/original.JPG
 ---
 
 

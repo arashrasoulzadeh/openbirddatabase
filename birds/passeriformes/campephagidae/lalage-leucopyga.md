@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/lalage-leucopyga/1.jpg
+  page: https://www.inaturalist.org/photos/720573525
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720573525/original.jpg
+images:
+- file: images/passeriformes/campephagidae/lalage-leucopyga/1.jpg
+  page: https://www.inaturalist.org/photos/720573525
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720573525/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucopyga/2.jpg
+  page: https://www.inaturalist.org/photos/550813566
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550813566/original.jpg
+- file: images/passeriformes/campephagidae/lalage-leucopyga/3.jpg
+  page: https://www.inaturalist.org/photos/35509214
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/35509214/original.jpeg
+- file: images/passeriformes/campephagidae/lalage-leucopyga/4.jpg
+  page: https://www.inaturalist.org/photos/1006876
+  author: Pierre Tellier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1006876/original.JPG
+- file: images/passeriformes/campephagidae/lalage-leucopyga/5.jpg
+  page: https://www.inaturalist.org/photos/720573578
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720573578/original.jpg
 ---
 
 

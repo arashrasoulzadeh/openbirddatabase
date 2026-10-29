@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-patagonicus/1.jpg
+  page: https://www.inaturalist.org/photos/610993175
+  author: Lauren L.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610993175/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-patagonicus/1.jpg
+  page: https://www.inaturalist.org/photos/610993175
+  author: Lauren L.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610993175/original.jpg
+- file: images/passeriformes/mimidae/mimus-patagonicus/2.jpg
+  page: https://www.inaturalist.org/photos/611714957
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611714957/original.jpg
+- file: images/passeriformes/mimidae/mimus-patagonicus/3.jpg
+  page: https://www.inaturalist.org/photos/615364015
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615364015/original.jpg
+- file: images/passeriformes/mimidae/mimus-patagonicus/4.jpg
+  page: https://www.inaturalist.org/photos/629225160
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629225160/original.jpg
+- file: images/passeriformes/mimidae/mimus-patagonicus/5.jpg
+  page: https://www.inaturalist.org/photos/631371856
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631371856/original.jpg
 ---
 
 

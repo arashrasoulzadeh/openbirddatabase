@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.4
@@ -137,6 +138,44 @@ morphology:
   wing_length_mm: 74.3
   tail_length_mm: 69.6
   body_mass_g: 25.6
+image:
+  file: images/passeriformes/parulidae/euthlypis-lachrymosa/1.jpg
+  page: https://www.inaturalist.org/photos/609219914
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609219914/original.jpg
+images:
+- file: images/passeriformes/parulidae/euthlypis-lachrymosa/1.jpg
+  page: https://www.inaturalist.org/photos/609219914
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609219914/original.jpg
+- file: images/passeriformes/parulidae/euthlypis-lachrymosa/2.jpg
+  page: https://www.inaturalist.org/photos/611798630
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611798630/original.jpg
+- file: images/passeriformes/parulidae/euthlypis-lachrymosa/3.jpg
+  page: https://www.inaturalist.org/photos/617024498
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617024498/original.jpg
+- file: images/passeriformes/parulidae/euthlypis-lachrymosa/4.jpg
+  page: https://www.inaturalist.org/photos/630997283
+  author: Pavel Daniel Gutiérrez Gurgúa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630997283/original.jpg
+- file: images/passeriformes/parulidae/euthlypis-lachrymosa/5.jpg
+  page: https://www.inaturalist.org/photos/726955210
+  author: Sofía Gutiérrez Zamarripa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726955210/original.jpg
 ---
 
 

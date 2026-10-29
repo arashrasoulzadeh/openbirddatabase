@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/passeriformes/artamidae/strepera-fuliginosa/1.jpg
+  page: https://www.inaturalist.org/photos/610128650
+  author: naturewatchwidow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610128650/original.jpg
+images:
+- file: images/passeriformes/artamidae/strepera-fuliginosa/1.jpg
+  page: https://www.inaturalist.org/photos/610128650
+  author: naturewatchwidow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610128650/original.jpg
+- file: images/passeriformes/artamidae/strepera-fuliginosa/2.jpg
+  page: https://www.inaturalist.org/photos/608515861
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608515861/original.jpg
+- file: images/passeriformes/artamidae/strepera-fuliginosa/3.jpg
+  page: https://www.inaturalist.org/photos/608225049
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608225049/original.jpg
+- file: images/passeriformes/artamidae/strepera-fuliginosa/4.jpg
+  page: https://www.inaturalist.org/photos/614215204
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614215204/original.jpg
+- file: images/passeriformes/artamidae/strepera-fuliginosa/5.jpg
+  page: https://www.inaturalist.org/photos/624855083
+  author: Geoff Shuetrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624855083/original.jpg
 ---
 
 

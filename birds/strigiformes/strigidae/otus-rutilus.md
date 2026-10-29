@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-rutilus/1.jpg
+  page: https://www.inaturalist.org/photos/671115394
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671115394/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-rutilus/1.jpg
+  page: https://www.inaturalist.org/photos/671115394
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671115394/original.jpg
+- file: images/strigiformes/strigidae/otus-rutilus/2.jpg
+  page: https://www.inaturalist.org/photos/690782888
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690782888/original.jpg
+- file: images/strigiformes/strigidae/otus-rutilus/3.jpg
+  page: https://www.inaturalist.org/photos/533335440
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533335440/original.jpg
+- file: images/strigiformes/strigidae/otus-rutilus/4.jpg
+  page: https://www.inaturalist.org/photos/598960532
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598960532/original.jpg
+- file: images/strigiformes/strigidae/otus-rutilus/5.jpg
+  page: https://www.inaturalist.org/photos/393772749
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393772749/original.jpeg
 ---
 
 

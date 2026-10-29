@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/xiphidiopicus-percussus/1.jpg
+  page: https://www.inaturalist.org/photos/617117235
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617117235/original.jpg
+images:
+- file: images/piciformes/picidae/xiphidiopicus-percussus/1.jpg
+  page: https://www.inaturalist.org/photos/617117235
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617117235/original.jpg
+- file: images/piciformes/picidae/xiphidiopicus-percussus/2.jpg
+  page: https://www.inaturalist.org/photos/625524316
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625524316/original.jpg
+- file: images/piciformes/picidae/xiphidiopicus-percussus/3.jpg
+  page: https://www.inaturalist.org/photos/613704871
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613704871/original.jpg
+- file: images/piciformes/picidae/xiphidiopicus-percussus/4.jpg
+  page: https://www.inaturalist.org/photos/636579187
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636579187/original.jpg
+- file: images/piciformes/picidae/xiphidiopicus-percussus/5.jpg
+  page: https://www.inaturalist.org/photos/606718550
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606718550/original.jpg
 ---
 
 

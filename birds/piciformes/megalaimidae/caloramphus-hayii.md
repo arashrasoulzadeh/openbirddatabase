@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/caloramphus-hayii/1.jpg
+  page: https://www.inaturalist.org/photos/606878646
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606878646/original.jpg
+images:
+- file: images/piciformes/megalaimidae/caloramphus-hayii/1.jpg
+  page: https://www.inaturalist.org/photos/606878646
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606878646/original.jpg
+- file: images/piciformes/megalaimidae/caloramphus-hayii/2.jpg
+  page: https://www.inaturalist.org/photos/626428726
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428726/original.jpg
+- file: images/piciformes/megalaimidae/caloramphus-hayii/3.jpg
+  page: https://www.inaturalist.org/photos/624173440
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624173440/original.jpg
+- file: images/piciformes/megalaimidae/caloramphus-hayii/4.jpg
+  page: https://www.inaturalist.org/photos/530321914
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530321914/original.jpg
+- file: images/piciformes/megalaimidae/caloramphus-hayii/5.jpg
+  page: https://www.inaturalist.org/photos/552737911
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552737911/original.jpg
 ---
 
 

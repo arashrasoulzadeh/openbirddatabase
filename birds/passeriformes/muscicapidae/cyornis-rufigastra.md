@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/muscicapidae/cyornis-rufigastra/1.jpg
+  page: https://www.inaturalist.org/photos/647477044
+  author: Joan Evangelista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647477044/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-rufigastra/1.jpg
+  page: https://www.inaturalist.org/photos/647477044
+  author: Joan Evangelista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647477044/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-rufigastra/2.jpg
+  page: https://www.inaturalist.org/photos/671550025
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671550025/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-rufigastra/3.jpg
+  page: https://www.inaturalist.org/photos/679344915
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679344915/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-rufigastra/4.jpg
+  page: https://www.inaturalist.org/photos/478992572
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478992572/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-rufigastra/5.jpg
+  page: https://www.inaturalist.org/photos/563205195
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563205195/original.jpg
 ---
 
 

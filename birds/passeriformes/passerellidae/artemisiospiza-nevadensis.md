@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/passerellidae/artemisiospiza-nevadensis/1.jpg
+  page: https://www.inaturalist.org/photos/633629532
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633629532/original.jpg
+images:
+- file: images/passeriformes/passerellidae/artemisiospiza-nevadensis/1.jpg
+  page: https://www.inaturalist.org/photos/633629532
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633629532/original.jpg
+- file: images/passeriformes/passerellidae/artemisiospiza-nevadensis/2.jpg
+  page: https://www.inaturalist.org/photos/641918523
+  author: redcrocuta7
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641918523/original.jpg
+- file: images/passeriformes/passerellidae/artemisiospiza-nevadensis/3.jpg
+  page: https://www.inaturalist.org/photos/712252501
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712252501/original.jpg
+- file: images/passeriformes/passerellidae/artemisiospiza-nevadensis/4.jpg
+  page: https://www.inaturalist.org/photos/701294222
+  author: Hannah K. Maielua
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701294222/original.jpg
+- file: images/passeriformes/passerellidae/artemisiospiza-nevadensis/5.jpg
+  page: https://www.inaturalist.org/photos/633629534
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633629534/original.jpg
 ---
 
 

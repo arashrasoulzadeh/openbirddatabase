@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/thryophilus-rufalbus/1.jpg
+  page: https://www.inaturalist.org/photos/623746261
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623746261/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/thryophilus-rufalbus/1.jpg
+  page: https://www.inaturalist.org/photos/623746261
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623746261/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-rufalbus/2.jpg
+  page: https://www.inaturalist.org/photos/648181669
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648181669/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-rufalbus/3.jpg
+  page: https://www.inaturalist.org/photos/659038748
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659038748/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-rufalbus/4.jpg
+  page: https://www.inaturalist.org/photos/704276516
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704276516/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-rufalbus/5.jpg
+  page: https://www.inaturalist.org/photos/742192262
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742192262/original.jpg
 ---
 
 

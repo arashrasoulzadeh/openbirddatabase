@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-flaviceps/1.jpg
+  page: https://www.inaturalist.org/photos/503128495
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503128495/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-flaviceps/1.jpg
+  page: https://www.inaturalist.org/photos/503128495
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503128495/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-flaviceps/2.jpg
+  page: https://www.inaturalist.org/photos/532561670
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532561670/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-flaviceps/3.jpg
+  page: https://www.inaturalist.org/photos/230658719
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230658719/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-flaviceps/4.jpg
+  page: https://www.inaturalist.org/photos/63960835
+  author: batsoul
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63960835/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-flaviceps/5.jpg
+  page: https://www.flickr.com/photos/12278268@N08/36374662814/
+  author: Luis G. Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12608513/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/mirafra-passerina/1.jpg
+  page: https://www.inaturalist.org/photos/599727280
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599727280/original.jpg
+images:
+- file: images/passeriformes/alaudidae/mirafra-passerina/1.jpg
+  page: https://www.inaturalist.org/photos/599727280
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599727280/original.jpg
+- file: images/passeriformes/alaudidae/mirafra-passerina/2.jpg
+  page: https://www.inaturalist.org/photos/622056933
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622056933/original.jpg
+- file: images/passeriformes/alaudidae/mirafra-passerina/3.jpg
+  page: https://www.inaturalist.org/photos/455820949
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455820949/original.jpg
+- file: images/passeriformes/alaudidae/mirafra-passerina/4.jpg
+  page: https://www.inaturalist.org/photos/348094963
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348094963/original.jpeg
+- file: images/passeriformes/alaudidae/mirafra-passerina/5.jpg
+  page: https://www.inaturalist.org/photos/345003815
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345003815/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-buchanani/1.jpg
+  page: https://www.inaturalist.org/photos/283950918
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283950918/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-buchanani/1.jpg
+  page: https://www.inaturalist.org/photos/283950918
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283950918/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-buchanani/2.jpg
+  page: https://www.inaturalist.org/photos/337784714
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784714/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-buchanani/3.jpg
+  page: https://www.inaturalist.org/photos/236702342
+  author: Parth Kansara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236702342/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-buchanani/4.jpg
+  page: https://www.inaturalist.org/photos/59431257
+  author: Yves Bas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59431257/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-buchanani/5.jpg
+  page: https://www.inaturalist.org/photos/283950908
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283950908/original.jpg
 ---
 
 

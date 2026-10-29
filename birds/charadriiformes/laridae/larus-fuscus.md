@@ -185,10 +185,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 35
+image:
+  file: images/charadriiformes/laridae/larus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/605048846
+  author: Maeve Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605048846/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/605048846
+  author: Maeve Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605048846/original.jpg
+- file: images/charadriiformes/laridae/larus-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/605408509
+  author: Alexis Lours
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605408509/original.jpg
+- file: images/charadriiformes/laridae/larus-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/604605486
+  author: Marco Zaccaria Di Fraia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604605486/original.jpg
+- file: images/charadriiformes/laridae/larus-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/604544152
+  author: Matt Pelikan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604544152/original.jpg
+- file: images/charadriiformes/laridae/larus-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/605413488
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605413488/original.jpg
 ---
 
 

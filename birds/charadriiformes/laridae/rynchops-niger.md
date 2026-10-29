@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/charadriiformes/laridae/rynchops-niger/1.jpg
+  page: https://www.inaturalist.org/photos/604798120
+  author: Ben Gruhot
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604798120/original.jpg
+images:
+- file: images/charadriiformes/laridae/rynchops-niger/1.jpg
+  page: https://www.inaturalist.org/photos/604798120
+  author: Ben Gruhot
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604798120/original.jpg
+- file: images/charadriiformes/laridae/rynchops-niger/2.jpg
+  page: https://www.inaturalist.org/photos/604657473
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604657473/original.jpg
+- file: images/charadriiformes/laridae/rynchops-niger/3.jpg
+  page: https://www.inaturalist.org/photos/604588949
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588949/original.jpg
+- file: images/charadriiformes/laridae/rynchops-niger/4.jpg
+  page: https://www.inaturalist.org/photos/609729692
+  author: jthorngren
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609729692/original.jpg
+- file: images/charadriiformes/laridae/rynchops-niger/5.jpg
+  page: https://www.inaturalist.org/photos/609661368
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609661368/original.jpg
 ---
 
 

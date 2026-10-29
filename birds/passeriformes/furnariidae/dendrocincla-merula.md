@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendrocincla-merula/1.jpg
+  page: https://www.inaturalist.org/photos/248876928
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248876928/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/dendrocincla-merula/1.jpg
+  page: https://www.inaturalist.org/photos/248876928
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248876928/original.jpeg
+- file: images/passeriformes/furnariidae/dendrocincla-merula/2.jpg
+  page: https://www.inaturalist.org/photos/50347393
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50347393/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-merula/3.jpg
+  page: https://www.inaturalist.org/photos/418892769
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418892769/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-merula/4.jpg
+  page: https://www.inaturalist.org/photos/26402286
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26402286/original.jpeg
+- file: images/passeriformes/furnariidae/dendrocincla-merula/5.jpg
+  page: https://www.inaturalist.org/photos/248876932
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248876932/original.jpeg
 ---
 
 

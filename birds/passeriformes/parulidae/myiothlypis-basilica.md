@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-basilica/1.jpg
+  page: https://www.inaturalist.org/photos/689915233
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689915233/original.jpg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-basilica/1.jpg
+  page: https://www.inaturalist.org/photos/689915233
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689915233/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-basilica/2.jpg
+  page: https://www.inaturalist.org/photos/696597073
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696597073/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-basilica/3.jpg
+  page: https://www.inaturalist.org/photos/738245238
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738245238/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-basilica/4.jpg
+  page: https://www.inaturalist.org/photos/469717567
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469717567/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-basilica/5.jpg
+  page: https://www.inaturalist.org/photos/477007873
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477007873/original.jpeg
 ---
 
 

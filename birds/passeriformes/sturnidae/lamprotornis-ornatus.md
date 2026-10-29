@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/469693304
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469693304/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/469693304
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469693304/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/9714540
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9714540/original.jpeg
+- file: images/passeriformes/sturnidae/lamprotornis-ornatus/3.jpg
+  page: https://www.inaturalist.org/photos/218064426
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218064426/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-ornatus/4.jpg
+  page: https://www.inaturalist.org/photos/106435168
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106435168/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-ornatus/5.jpg
+  page: https://www.inaturalist.org/photos/218065397
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218065397/original.jpg
 ---
 
 

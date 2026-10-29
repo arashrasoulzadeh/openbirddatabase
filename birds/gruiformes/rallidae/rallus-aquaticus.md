@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/gruiformes/rallidae/rallus-aquaticus/1.jpg
+  page: https://www.inaturalist.org/photos/607263626
+  author: Rhys
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607263626/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallus-aquaticus/1.jpg
+  page: https://www.inaturalist.org/photos/607263626
+  author: Rhys
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607263626/original.jpg
+- file: images/gruiformes/rallidae/rallus-aquaticus/2.jpg
+  page: https://www.inaturalist.org/photos/608955351
+  author: Adam Leigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608955351/original.jpg
+- file: images/gruiformes/rallidae/rallus-aquaticus/3.jpg
+  page: https://www.inaturalist.org/photos/606388070
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388070/original.jpg
+- file: images/gruiformes/rallidae/rallus-aquaticus/4.jpg
+  page: https://www.inaturalist.org/photos/606145392
+  author: Bernd De Bosscher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606145392/original.jpg
+- file: images/gruiformes/rallidae/rallus-aquaticus/5.jpg
+  page: https://www.inaturalist.org/photos/605978497
+  author: Phil James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605978497/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/crypturellus-transfasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/558213092
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558213092/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/crypturellus-transfasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/558213092
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558213092/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-transfasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/255514203
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255514203/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-transfasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/323098176
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323098176/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-transfasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/323098210
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323098210/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-transfasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/323098204
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323098204/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/microspingus-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/618892453
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618892453/original.jpg
+images:
+- file: images/passeriformes/thraupidae/microspingus-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/618892453
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618892453/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-melanoleucus/2.jpg
+  page: https://www.inaturalist.org/photos/630659397
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630659397/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-melanoleucus/3.jpg
+  page: https://www.inaturalist.org/photos/628508149
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628508149/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-melanoleucus/4.jpg
+  page: https://www.inaturalist.org/photos/657196971
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657196971/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-melanoleucus/5.jpg
+  page: https://www.inaturalist.org/photos/660496088
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660496088/original.jpg
 ---
 
 

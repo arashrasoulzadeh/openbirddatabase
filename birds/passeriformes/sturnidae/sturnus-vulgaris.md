@@ -235,10 +235,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/passeriformes/sturnidae/sturnus-vulgaris/1.jpg
+  page: https://www.inaturalist.org/photos/605095157
+  author: Sheila S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605095157/original.jpg
+images:
+- file: images/passeriformes/sturnidae/sturnus-vulgaris/1.jpg
+  page: https://www.inaturalist.org/photos/605095157
+  author: Sheila S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605095157/original.jpg
+- file: images/passeriformes/sturnidae/sturnus-vulgaris/2.jpg
+  page: https://www.inaturalist.org/photos/605165133
+  author: Chris Stahl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165133/original.jpg
+- file: images/passeriformes/sturnidae/sturnus-vulgaris/3.jpg
+  page: https://www.inaturalist.org/photos/605599022
+  author: Andrew Skotnicki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605599022/original.jpg
+- file: images/passeriformes/sturnidae/sturnus-vulgaris/4.jpg
+  page: https://www.inaturalist.org/photos/604749109
+  author: Priya Sandhu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604749109/original.jpg
+- file: images/passeriformes/sturnidae/sturnus-vulgaris/5.jpg
+  page: https://www.inaturalist.org/photos/605542927
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605542927/original.jpg
 ---
 
 

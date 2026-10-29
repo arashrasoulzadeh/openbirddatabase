@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/loxops-caeruleirostris/1.jpg
+  page: https://www.inaturalist.org/photos/686959661
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686959661/original.jpg
+images:
+- file: images/passeriformes/fringillidae/loxops-caeruleirostris/1.jpg
+  page: https://www.inaturalist.org/photos/686959661
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686959661/original.jpg
+- file: images/passeriformes/fringillidae/loxops-caeruleirostris/2.jpg
+  page: https://www.inaturalist.org/photos/142822814
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822814/original.jpeg
+- file: images/passeriformes/fringillidae/loxops-caeruleirostris/3.jpg
+  page: https://www.inaturalist.org/photos/686959700
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686959700/original.jpg
+- file: images/passeriformes/fringillidae/loxops-caeruleirostris/4.jpg
+  page: https://www.inaturalist.org/photos/686959726
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686959726/original.jpg
+- file: images/passeriformes/fringillidae/loxops-caeruleirostris/5.jpg
+  page: https://www.inaturalist.org/photos/686959754
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686959754/original.jpg
 ---
 
 

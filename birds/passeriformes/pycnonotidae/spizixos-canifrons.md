@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/spizixos-canifrons/1.jpg
+  page: https://www.inaturalist.org/photos/612663504
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612663504/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/spizixos-canifrons/1.jpg
+  page: https://www.inaturalist.org/photos/612663504
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612663504/original.jpg
+- file: images/passeriformes/pycnonotidae/spizixos-canifrons/2.jpg
+  page: https://www.inaturalist.org/photos/630735234
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630735234/original.jpg
+- file: images/passeriformes/pycnonotidae/spizixos-canifrons/3.jpg
+  page: https://www.inaturalist.org/photos/722403373
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403373/original.jpg
+- file: images/passeriformes/pycnonotidae/spizixos-canifrons/4.jpg
+  page: https://www.inaturalist.org/photos/683164192
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683164192/original.jpg
+- file: images/passeriformes/pycnonotidae/spizixos-canifrons/5.jpg
+  page: https://www.inaturalist.org/photos/469485460
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469485460/original.jpeg
 ---
 
 

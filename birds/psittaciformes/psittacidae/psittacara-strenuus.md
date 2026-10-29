@@ -145,10 +145,31 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/psittaciformes/psittacidae/psittacara-strenuus/1.jpg
+  page: https://www.inaturalist.org/photos/616551197
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616551197/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/psittacara-strenuus/1.jpg
+  page: https://www.inaturalist.org/photos/616551197
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616551197/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-strenuus/2.jpg
+  page: https://www.inaturalist.org/photos/480922810
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480922810/original.jpeg
 ---
 
 

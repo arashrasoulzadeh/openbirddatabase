@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-northropi/1.jpg
+  page: https://www.inaturalist.org/photos/618505995
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618505995/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-northropi/1.jpg
+  page: https://www.inaturalist.org/photos/618505995
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618505995/original.jpg
+- file: images/passeriformes/icteridae/icterus-northropi/2.jpg
+  page: https://www.inaturalist.org/photos/618511428
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618511428/original.jpg
+- file: images/passeriformes/icteridae/icterus-northropi/3.jpg
+  page: https://www.inaturalist.org/photos/618519164
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618519164/original.jpg
+- file: images/passeriformes/icteridae/icterus-northropi/4.jpg
+  page: https://www.inaturalist.org/photos/618519195
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618519195/original.jpg
+- file: images/passeriformes/icteridae/icterus-northropi/5.jpg
+  page: https://www.inaturalist.org/photos/617739261
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617739261/original.jpg
 ---
 
 

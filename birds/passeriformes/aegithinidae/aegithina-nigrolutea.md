@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/aegithinidae/aegithina-nigrolutea/1.jpg
+  page: https://www.inaturalist.org/photos/607736789
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607736789/original.jpg
+images:
+- file: images/passeriformes/aegithinidae/aegithina-nigrolutea/1.jpg
+  page: https://www.inaturalist.org/photos/607736789
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607736789/original.jpg
+- file: images/passeriformes/aegithinidae/aegithina-nigrolutea/2.jpg
+  page: https://www.inaturalist.org/photos/262966150
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262966150/original.jpg
+- file: images/passeriformes/aegithinidae/aegithina-nigrolutea/3.jpg
+  page: https://www.inaturalist.org/photos/185189712
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/185189712/original.jpg
+- file: images/passeriformes/aegithinidae/aegithina-nigrolutea/4.jpg
+  page: https://www.inaturalist.org/photos/337784679
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784679/original.jpeg
+- file: images/passeriformes/aegithinidae/aegithina-nigrolutea/5.jpg
+  page: https://www.inaturalist.org/photos/554569929
+  author: Parth Kansara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554569929/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/neafrapus-boehmi/1.jpg
+  page: https://www.inaturalist.org/photos/434294261
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434294261/original.jpeg
+images:
+- file: images/apodiformes/apodidae/neafrapus-boehmi/1.jpg
+  page: https://www.inaturalist.org/photos/434294261
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434294261/original.jpeg
+- file: images/apodiformes/apodidae/neafrapus-boehmi/2.jpg
+  page: https://www.inaturalist.org/photos/466446474
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466446474/original.jpeg
+- file: images/apodiformes/apodidae/neafrapus-boehmi/3.jpg
+  page: https://www.inaturalist.org/photos/472038650
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472038650/original.jpg
+- file: images/apodiformes/apodidae/neafrapus-boehmi/4.jpg
+  page: https://www.inaturalist.org/photos/476841183
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476841183/original.jpg
+- file: images/apodiformes/apodidae/neafrapus-boehmi/5.jpg
+  page: https://www.inaturalist.org/photos/167403819
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/167403819/original.jpg
 ---
 
 

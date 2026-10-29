@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-maxima/1.jpg
+  page: https://www.inaturalist.org/photos/745687709
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745687709/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-maxima/1.jpg
+  page: https://www.inaturalist.org/photos/745687709
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745687709/original.jpg
+- file: images/passeriformes/campephagidae/coracina-maxima/2.jpg
+  page: https://www.inaturalist.org/photos/559759374
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559759374/original.jpg
+- file: images/passeriformes/campephagidae/coracina-maxima/3.jpg
+  page: https://www.inaturalist.org/photos/398599730
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398599730/original.jpg
+- file: images/passeriformes/campephagidae/coracina-maxima/4.jpg
+  page: https://www.inaturalist.org/photos/745689319
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745689319/original.jpg
+- file: images/passeriformes/campephagidae/coracina-maxima/5.jpg
+  page: https://www.inaturalist.org/photos/745689359
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745689359/original.jpg
 ---
 
 

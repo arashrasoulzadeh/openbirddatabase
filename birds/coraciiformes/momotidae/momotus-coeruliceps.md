@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/coraciiformes/momotidae/momotus-coeruliceps/1.jpg
+  page: https://www.inaturalist.org/photos/609800547
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609800547/original.jpg
+images:
+- file: images/coraciiformes/momotidae/momotus-coeruliceps/1.jpg
+  page: https://www.inaturalist.org/photos/609800547
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609800547/original.jpg
+- file: images/coraciiformes/momotidae/momotus-coeruliceps/2.jpg
+  page: https://www.inaturalist.org/photos/631154405
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631154405/original.jpg
+- file: images/coraciiformes/momotidae/momotus-coeruliceps/3.jpg
+  page: https://www.inaturalist.org/photos/684406026
+  author: Juan J. Morales-Trejo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684406026/original.jpg
+- file: images/coraciiformes/momotidae/momotus-coeruliceps/4.jpg
+  page: https://www.inaturalist.org/photos/479204048
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479204048/original.jpg
+- file: images/coraciiformes/momotidae/momotus-coeruliceps/5.jpg
+  page: https://www.inaturalist.org/photos/573896752
+  author: Bruno Frías Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573896752/original.jpg
 ---
 
 

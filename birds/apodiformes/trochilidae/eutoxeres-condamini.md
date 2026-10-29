@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eutoxeres-condamini/1.jpg
+  page: https://www.inaturalist.org/photos/729722527
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729722527/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eutoxeres-condamini/1.jpg
+  page: https://www.inaturalist.org/photos/729722527
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729722527/original.jpg
+- file: images/apodiformes/trochilidae/eutoxeres-condamini/2.jpg
+  page: https://www.inaturalist.org/photos/386210598
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386210598/original.jpg
+- file: images/apodiformes/trochilidae/eutoxeres-condamini/3.jpg
+  page: https://www.inaturalist.org/photos/331379223
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331379223/original.jpeg
+- file: images/apodiformes/trochilidae/eutoxeres-condamini/4.jpg
+  page: https://www.inaturalist.org/photos/242578518
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242578518/original.jpg
+- file: images/apodiformes/trochilidae/eutoxeres-condamini/5.jpg
+  page: https://www.inaturalist.org/photos/242759823
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242759823/original.jpeg
 ---
 
 

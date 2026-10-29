@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 10.3
@@ -137,6 +138,44 @@ morphology:
   wing_length_mm: 51.0
   tail_length_mm: 25.6
   body_mass_g: 7.8
+image:
+  file: images/passeriformes/pipridae/lepidothrix-isidorei/1.jpg
+  page: https://www.inaturalist.org/photos/352318325
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352318325/original.jpeg
+images:
+- file: images/passeriformes/pipridae/lepidothrix-isidorei/1.jpg
+  page: https://www.inaturalist.org/photos/352318325
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352318325/original.jpeg
+- file: images/passeriformes/pipridae/lepidothrix-isidorei/2.jpg
+  page: https://www.inaturalist.org/photos/626218859
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626218859/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-isidorei/3.jpg
+  page: https://www.inaturalist.org/photos/485289808
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485289808/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-isidorei/4.jpg
+  page: https://www.inaturalist.org/photos/166437309
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166437309/original.jpeg
+- file: images/passeriformes/pipridae/lepidothrix-isidorei/5.jpg
+  page: https://www.inaturalist.org/photos/352318185
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352318185/original.jpeg
 ---
 
 

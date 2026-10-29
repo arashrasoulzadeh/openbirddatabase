@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 38.8
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 131.5
   tail_length_mm: 167.5
   body_mass_g: 80.5
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-woodi/1.jpg
+  page: https://www.inaturalist.org/photos/721145167
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721145167/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-woodi/1.jpg
+  page: https://www.inaturalist.org/photos/721145167
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721145167/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-woodi/2.jpg
+  page: https://www.inaturalist.org/photos/721145196
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721145196/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-woodi/3.jpg
+  page: https://www.inaturalist.org/photos/721145405
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721145405/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-woodi/4.jpg
+  page: https://www.inaturalist.org/photos/721145422
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721145422/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-woodi/5.jpg
+  page: https://www.inaturalist.org/photos/721145444
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721145444/original.jpg
 ---
 
 

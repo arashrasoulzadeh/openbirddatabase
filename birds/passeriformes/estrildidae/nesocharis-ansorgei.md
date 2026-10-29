@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/nesocharis-ansorgei/1.jpg
+  page: https://www.inaturalist.org/photos/592208479
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592208479/original.jpg
+images:
+- file: images/passeriformes/estrildidae/nesocharis-ansorgei/1.jpg
+  page: https://www.inaturalist.org/photos/592208479
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592208479/original.jpg
+- file: images/passeriformes/estrildidae/nesocharis-ansorgei/2.jpg
+  page: https://www.inaturalist.org/photos/447599472
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447599472/original.jpeg
+- file: images/passeriformes/estrildidae/nesocharis-ansorgei/3.jpg
+  page: https://www.inaturalist.org/photos/304502955
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304502955/original.jpg
+- file: images/passeriformes/estrildidae/nesocharis-ansorgei/4.jpg
+  page: https://www.inaturalist.org/photos/447599477
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447599477/original.jpeg
+- file: images/passeriformes/estrildidae/nesocharis-ansorgei/5.jpg
+  page: https://www.inaturalist.org/photos/447599479
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447599479/original.jpeg
 ---
 
 

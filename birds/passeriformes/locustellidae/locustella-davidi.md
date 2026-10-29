@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/locustella-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/683608999
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683608999/original.jpg
+images:
+- file: images/passeriformes/locustellidae/locustella-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/683608999
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683608999/original.jpg
+- file: images/passeriformes/locustellidae/locustella-davidi/2.jpg
+  page: https://www.inaturalist.org/photos/541189532
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541189532/original.jpg
+- file: images/passeriformes/locustellidae/locustella-davidi/3.jpg
+  page: https://www.inaturalist.org/photos/551372734
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551372734/original.jpg
+- file: images/passeriformes/locustellidae/locustella-davidi/4.jpg
+  page: https://www.inaturalist.org/photos/139909233
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/139909233/original.jpg
+- file: images/passeriformes/locustellidae/locustella-davidi/5.jpg
+  page: https://www.inaturalist.org/photos/86885172
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/86885172/original.jpg
 ---
 
 

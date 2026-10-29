@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/remizidae/anthoscopus-musculus/1.jpg
+  page: https://www.inaturalist.org/photos/722537206
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722537206/original.jpg
+images:
+- file: images/passeriformes/remizidae/anthoscopus-musculus/1.jpg
+  page: https://www.inaturalist.org/photos/722537206
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722537206/original.jpg
+- file: images/passeriformes/remizidae/anthoscopus-musculus/2.jpg
+  page: https://www.inaturalist.org/photos/584915065
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584915065/original.jpg
+- file: images/passeriformes/remizidae/anthoscopus-musculus/3.jpg
+  page: https://www.inaturalist.org/photos/617672750
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617672750/original.jpg
+- file: images/passeriformes/remizidae/anthoscopus-musculus/4.jpg
+  page: https://www.inaturalist.org/photos/443154044
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443154044/original.jpeg
+- file: images/passeriformes/remizidae/anthoscopus-musculus/5.jpg
+  page: https://www.inaturalist.org/photos/722537230
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722537230/original.jpg
 ---
 
 

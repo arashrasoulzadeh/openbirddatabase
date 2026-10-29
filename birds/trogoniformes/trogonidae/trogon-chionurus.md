@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-chionurus/1.jpg
+  page: https://www.inaturalist.org/photos/614515960
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515960/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-chionurus/1.jpg
+  page: https://www.inaturalist.org/photos/614515960
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515960/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-chionurus/2.jpg
+  page: https://www.inaturalist.org/photos/625310753
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625310753/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-chionurus/3.jpg
+  page: https://www.inaturalist.org/photos/635906381
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635906381/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-chionurus/4.jpg
+  page: https://www.inaturalist.org/photos/642204334
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642204334/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-chionurus/5.jpg
+  page: https://www.inaturalist.org/photos/461645331
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461645331/original.jpeg
 ---
 
 

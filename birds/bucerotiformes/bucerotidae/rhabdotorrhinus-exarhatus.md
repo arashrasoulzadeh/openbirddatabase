@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-exarhatus/1.jpg
+  page: https://www.inaturalist.org/photos/715413825
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715413825/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-exarhatus/1.jpg
+  page: https://www.inaturalist.org/photos/715413825
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715413825/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-exarhatus/2.jpg
+  page: https://www.inaturalist.org/photos/544681236
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544681236/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-exarhatus/3.jpg
+  page: https://www.inaturalist.org/photos/231626645
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231626645/original.jpeg
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-exarhatus/4.jpg
+  page: https://www.inaturalist.org/photos/242936139
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242936139/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-exarhatus/5.jpg
+  page: https://www.inaturalist.org/photos/339643060
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339643060/original.jpg
 ---
 
 

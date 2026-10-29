@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/477433529
+  author: Luke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477433529/original.jpeg
+images:
+- file: images/passeriformes/corvidae/corvus-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/477433529
+  author: Luke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477433529/original.jpeg
+- file: images/passeriformes/corvidae/corvus-jamaicensis/2.jpg
+  page: https://www.inaturalist.org/photos/351765967
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351765967/original.jpg
+- file: images/passeriformes/corvidae/corvus-jamaicensis/3.jpg
+  page: https://www.inaturalist.org/photos/354135868
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354135868/original.jpg
+- file: images/passeriformes/corvidae/corvus-jamaicensis/4.jpg
+  page: https://www.inaturalist.org/photos/332766937
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332766937/original.jpg
+- file: images/passeriformes/corvidae/corvus-jamaicensis/5.jpg
+  page: https://www.inaturalist.org/photos/337203889
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337203889/original.jpeg
 ---
 
 

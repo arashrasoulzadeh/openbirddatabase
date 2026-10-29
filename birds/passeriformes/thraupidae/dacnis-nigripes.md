@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/dacnis-nigripes/1.jpg
+  page: https://www.inaturalist.org/photos/639275454
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639275454/original.jpg
+images:
+- file: images/passeriformes/thraupidae/dacnis-nigripes/1.jpg
+  page: https://www.inaturalist.org/photos/639275454
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639275454/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-nigripes/2.jpg
+  page: https://www.inaturalist.org/photos/388183094
+  author: Bruno Siqueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388183094/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-nigripes/3.jpg
+  page: https://www.inaturalist.org/photos/409865179
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409865179/original.jpeg
+- file: images/passeriformes/thraupidae/dacnis-nigripes/4.jpg
+  page: https://www.inaturalist.org/photos/245595945
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245595945/original.jpeg
+- file: images/passeriformes/thraupidae/dacnis-nigripes/5.jpg
+  page: https://www.inaturalist.org/photos/429969236
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429969236/original.jpg
 ---
 
 

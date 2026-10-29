@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/hylacola-cauta/1.jpg
+  page: https://www.inaturalist.org/photos/524320330
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524320330/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/hylacola-cauta/1.jpg
+  page: https://www.inaturalist.org/photos/524320330
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524320330/original.jpg
+- file: images/passeriformes/acanthizidae/hylacola-cauta/2.jpg
+  page: https://www.inaturalist.org/photos/419478588
+  author: julie burgher
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419478588/original.jpg
+- file: images/passeriformes/acanthizidae/hylacola-cauta/3.jpg
+  page: https://www.inaturalist.org/photos/447792164
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447792164/original.jpg
+- file: images/passeriformes/acanthizidae/hylacola-cauta/4.jpg
+  page: https://www.inaturalist.org/photos/454311522
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454311522/original.jpeg
+- file: images/passeriformes/acanthizidae/hylacola-cauta/5.jpg
+  page: https://www.inaturalist.org/photos/264627988
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264627988/original.jpg
 ---
 
 

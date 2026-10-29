@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/pheugopedius-rutilus/1.jpg
+  page: https://www.inaturalist.org/photos/606512214
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606512214/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/pheugopedius-rutilus/1.jpg
+  page: https://www.inaturalist.org/photos/606512214
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606512214/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-rutilus/2.jpg
+  page: https://www.inaturalist.org/photos/610248567
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610248567/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-rutilus/3.jpg
+  page: https://www.inaturalist.org/photos/613507631
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613507631/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-rutilus/4.jpg
+  page: https://www.inaturalist.org/photos/695867860
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695867860/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-rutilus/5.jpg
+  page: https://www.inaturalist.org/photos/470788942
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470788942/original.jpeg
 ---
 
 

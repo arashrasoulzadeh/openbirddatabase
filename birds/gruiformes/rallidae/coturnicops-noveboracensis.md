@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/coturnicops-noveboracensis/1.jpg
+  page: https://www.inaturalist.org/photos/607018343
+  author: Kyle Elshoff
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607018343/original.jpg
+images:
+- file: images/gruiformes/rallidae/coturnicops-noveboracensis/1.jpg
+  page: https://www.inaturalist.org/photos/607018343
+  author: Kyle Elshoff
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607018343/original.jpg
+- file: images/gruiformes/rallidae/coturnicops-noveboracensis/2.jpg
+  page: https://www.inaturalist.org/photos/607031939
+  author: Konshau Duman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607031939/original.jpg
+- file: images/gruiformes/rallidae/coturnicops-noveboracensis/3.jpg
+  page: https://www.inaturalist.org/photos/586296912
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586296912/original.jpg
+- file: images/gruiformes/rallidae/coturnicops-noveboracensis/4.jpg
+  page: https://www.inaturalist.org/photos/447394126
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447394126/original.jpeg
+- file: images/gruiformes/rallidae/coturnicops-noveboracensis/5.jpg
+  page: https://www.inaturalist.org/photos/452604076
+  author: JD Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452604076/original.jpeg
 ---
 
 

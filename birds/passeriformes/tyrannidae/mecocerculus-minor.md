@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mecocerculus-minor/1.jpg
+  page: https://www.inaturalist.org/photos/328766447
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328766447/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/mecocerculus-minor/1.jpg
+  page: https://www.inaturalist.org/photos/328766447
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328766447/original.jpeg
+- file: images/passeriformes/tyrannidae/mecocerculus-minor/2.jpg
+  page: https://www.inaturalist.org/photos/164188996
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164188996/original.jpeg
+- file: images/passeriformes/tyrannidae/mecocerculus-minor/3.jpg
+  page: https://www.inaturalist.org/photos/328766395
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328766395/original.jpeg
+- file: images/passeriformes/tyrannidae/mecocerculus-minor/4.jpg
+  page: https://www.inaturalist.org/photos/328766379
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328766379/original.jpeg
+- file: images/passeriformes/tyrannidae/mecocerculus-minor/5.jpg
+  page: https://www.inaturalist.org/photos/164189005
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164189005/original.jpeg
 ---
 
 

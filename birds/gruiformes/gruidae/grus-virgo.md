@@ -159,7 +159,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 69.9
@@ -174,6 +175,44 @@ reproduction:
   fledging_days: 60
 demography:
   max_longevity_years: 67
+image:
+  file: images/gruiformes/gruidae/grus-virgo/1.jpg
+  page: https://www.inaturalist.org/photos/630876647
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630876647/original.jpg
+images:
+- file: images/gruiformes/gruidae/grus-virgo/1.jpg
+  page: https://www.inaturalist.org/photos/630876647
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630876647/original.jpg
+- file: images/gruiformes/gruidae/grus-virgo/2.jpg
+  page: https://www.inaturalist.org/photos/648246054
+  author: Natalya Ivanova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648246054/original.jpg
+- file: images/gruiformes/gruidae/grus-virgo/3.jpg
+  page: https://www.inaturalist.org/photos/643627501
+  author: Ксения Волянская
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643627501/original.jpg
+- file: images/gruiformes/gruidae/grus-virgo/4.jpg
+  page: https://www.inaturalist.org/photos/630013462
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630013462/original.jpg
+- file: images/gruiformes/gruidae/grus-virgo/5.jpg
+  page: https://www.inaturalist.org/photos/630557800
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630557800/original.jpg
 ---
 
 

@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cercomacroides-tyrannina/1.jpg
+  page: https://www.inaturalist.org/photos/606511519
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606511519/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/cercomacroides-tyrannina/1.jpg
+  page: https://www.inaturalist.org/photos/606511519
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606511519/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacroides-tyrannina/2.jpg
+  page: https://www.inaturalist.org/photos/610241268
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610241268/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacroides-tyrannina/3.jpg
+  page: https://www.inaturalist.org/photos/612204908
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612204908/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacroides-tyrannina/4.jpg
+  page: https://www.inaturalist.org/photos/732740025
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732740025/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacroides-tyrannina/5.jpg
+  page: https://www.inaturalist.org/photos/485240935
+  author: Diego López
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485240935/original.jpg
 ---
 
 

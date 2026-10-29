@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/microstilbon-burmeisteri/1.jpg
+  page: https://www.inaturalist.org/photos/464364915
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464364915/original.jpg
+images:
+- file: images/apodiformes/trochilidae/microstilbon-burmeisteri/1.jpg
+  page: https://www.inaturalist.org/photos/464364915
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464364915/original.jpg
+- file: images/apodiformes/trochilidae/microstilbon-burmeisteri/2.jpg
+  page: https://www.inaturalist.org/photos/490496697
+  author: Mateo Tapia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490496697/original.jpeg
+- file: images/apodiformes/trochilidae/microstilbon-burmeisteri/3.jpg
+  page: https://www.inaturalist.org/photos/502428816
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502428816/original.jpeg
+- file: images/apodiformes/trochilidae/microstilbon-burmeisteri/4.jpg
+  page: https://www.inaturalist.org/photos/355462460
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355462460/original.jpg
+- file: images/apodiformes/trochilidae/microstilbon-burmeisteri/5.jpg
+  page: https://www.inaturalist.org/photos/456139055
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456139055/original.jpeg
 ---
 
 

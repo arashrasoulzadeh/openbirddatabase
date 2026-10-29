@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/francolinus-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/722600980
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722600980/original.jpg
+images:
+- file: images/galliformes/phasianidae/francolinus-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/722600980
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722600980/original.jpg
+- file: images/galliformes/phasianidae/francolinus-pictus/2.jpg
+  page: https://www.inaturalist.org/photos/552155396
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552155396/original.jpg
+- file: images/galliformes/phasianidae/francolinus-pictus/3.jpg
+  page: https://www.inaturalist.org/photos/435782287
+  author: Malaika Mathew Chawla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435782287/original.jpeg
+- file: images/galliformes/phasianidae/francolinus-pictus/4.jpg
+  page: https://www.inaturalist.org/photos/428509758
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428509758/original.jpeg
+- file: images/galliformes/phasianidae/francolinus-pictus/5.jpg
+  page: https://www.inaturalist.org/photos/113689107
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113689107/original.jpeg
 ---
 
 

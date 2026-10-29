@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-imparatus/1.jpg
+  page: https://www.inaturalist.org/photos/706991776
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706991776/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-imparatus/1.jpg
+  page: https://www.inaturalist.org/photos/706991776
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706991776/original.jpg
+- file: images/passeriformes/corvidae/corvus-imparatus/2.jpg
+  page: https://www.inaturalist.org/photos/503392331
+  author: Bruno Frías Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503392331/original.jpg
+- file: images/passeriformes/corvidae/corvus-imparatus/3.jpg
+  page: https://www.inaturalist.org/photos/352861564
+  author: José Francisco Colorado-Dapa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352861564/original.jpeg
+- file: images/passeriformes/corvidae/corvus-imparatus/4.jpg
+  page: https://www.inaturalist.org/photos/257227797
+  author: Tereso Hernández Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257227797/original.jpeg
+- file: images/passeriformes/corvidae/corvus-imparatus/5.jpg
+  page: https://www.inaturalist.org/photos/256048043
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256048043/original.jpeg
 ---
 
 

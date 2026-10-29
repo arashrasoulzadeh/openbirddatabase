@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-seebohmi/1.jpg
+  page: https://www.inaturalist.org/photos/648837854
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648837854/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-seebohmi/1.jpg
+  page: https://www.inaturalist.org/photos/648837854
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648837854/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-seebohmi/2.jpg
+  page: https://www.inaturalist.org/photos/657019440
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657019440/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-seebohmi/3.jpg
+  page: https://www.inaturalist.org/photos/559586662
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559586662/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-seebohmi/4.jpg
+  page: https://www.inaturalist.org/photos/114456340
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114456340/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-seebohmi/5.jpg
+  page: https://www.inaturalist.org/photos/657016997
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657016997/original.jpg
 ---
 
 

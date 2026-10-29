@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/psittaciformes/psittaculidae/vini-australis/1.jpg
+  page: https://www.inaturalist.org/photos/728654370
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728654370/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/vini-australis/1.jpg
+  page: https://www.inaturalist.org/photos/728654370
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728654370/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-australis/2.jpg
+  page: https://www.inaturalist.org/photos/728465754
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728465754/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-australis/3.jpg
+  page: https://www.inaturalist.org/photos/728654350
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728654350/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-australis/4.jpg
+  page: https://www.inaturalist.org/photos/728654361
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728654361/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-australis/5.jpg
+  page: https://www.inaturalist.org/photos/728465825
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728465825/original.jpg
 ---
 
 

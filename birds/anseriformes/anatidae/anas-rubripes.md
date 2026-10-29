@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/anseriformes/anatidae/anas-rubripes/1.jpg
+  page: https://www.inaturalist.org/photos/605222691
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605222691/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-rubripes/1.jpg
+  page: https://www.inaturalist.org/photos/605222691
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605222691/original.jpg
+- file: images/anseriformes/anatidae/anas-rubripes/2.jpg
+  page: https://www.inaturalist.org/photos/605153131
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605153131/original.jpg
+- file: images/anseriformes/anatidae/anas-rubripes/3.jpg
+  page: https://www.inaturalist.org/photos/605228478
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605228478/original.jpg
+- file: images/anseriformes/anatidae/anas-rubripes/4.jpg
+  page: https://www.inaturalist.org/photos/605493651
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605493651/original.jpg
+- file: images/anseriformes/anatidae/anas-rubripes/5.jpg
+  page: https://www.inaturalist.org/photos/605710318
+  author: Quinten Wiegersma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605710318/original.jpg
 ---
 
 

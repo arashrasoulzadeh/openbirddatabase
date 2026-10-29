@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/tetraogallus-caspius/1.jpg
+  page: https://www.inaturalist.org/photos/424115187
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424115187/original.jpeg
+images:
+- file: images/galliformes/phasianidae/tetraogallus-caspius/1.jpg
+  page: https://www.inaturalist.org/photos/424115187
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424115187/original.jpeg
+- file: images/galliformes/phasianidae/tetraogallus-caspius/2.jpg
+  page: https://www.inaturalist.org/photos/431001937
+  author: smeckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431001937/original.png
+- file: images/galliformes/phasianidae/tetraogallus-caspius/3.jpg
+  page: https://www.inaturalist.org/photos/202668985
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202668985/original.jpeg
+- file: images/galliformes/phasianidae/tetraogallus-caspius/4.jpg
+  page: https://www.inaturalist.org/photos/199020352
+  author: موسی مزینانیان Mousa Mazinanian
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199020352/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-caspius/5.jpg
+  page: https://www.inaturalist.org/photos/108791459
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108791459/original.jpg
 ---
 
 

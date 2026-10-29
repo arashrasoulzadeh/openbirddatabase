@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/pogoniulus-leucomystax/1.jpg
+  page: https://www.inaturalist.org/photos/582784131
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582784131/original.jpg
+images:
+- file: images/piciformes/lybiidae/pogoniulus-leucomystax/1.jpg
+  page: https://www.inaturalist.org/photos/582784131
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582784131/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-leucomystax/2.jpg
+  page: https://www.inaturalist.org/photos/610001901
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610001901/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-leucomystax/3.jpg
+  page: https://www.inaturalist.org/photos/475914853
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475914853/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-leucomystax/4.jpg
+  page: https://www.inaturalist.org/photos/582784117
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582784117/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-leucomystax/5.jpg
+  page: https://www.inaturalist.org/photos/610001896
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610001896/original.jpg
 ---
 
 

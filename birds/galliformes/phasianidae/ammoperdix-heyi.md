@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/ammoperdix-heyi/1.jpg
+  page: https://www.inaturalist.org/photos/624923544
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624923544/original.jpg
+images:
+- file: images/galliformes/phasianidae/ammoperdix-heyi/1.jpg
+  page: https://www.inaturalist.org/photos/624923544
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624923544/original.jpg
+- file: images/galliformes/phasianidae/ammoperdix-heyi/2.jpg
+  page: https://www.inaturalist.org/photos/631935415
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631935415/original.jpg
+- file: images/galliformes/phasianidae/ammoperdix-heyi/3.jpg
+  page: https://www.inaturalist.org/photos/489781536
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489781536/original.jpeg
+- file: images/galliformes/phasianidae/ammoperdix-heyi/4.jpg
+  page: https://www.inaturalist.org/photos/512905487
+  author: yelena_antipova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512905487/original.jpg
+- file: images/galliformes/phasianidae/ammoperdix-heyi/5.jpg
+  page: https://www.inaturalist.org/photos/427505469
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427505469/original.jpeg
 ---
 
 

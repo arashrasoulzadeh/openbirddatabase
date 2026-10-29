@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lagopus-scotica/1.jpg
+  page: https://www.inaturalist.org/photos/611675957
+  author: Owen Strickland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611675957/original.jpg
+images:
+- file: images/galliformes/phasianidae/lagopus-scotica/1.jpg
+  page: https://www.inaturalist.org/photos/611675957
+  author: Owen Strickland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611675957/original.jpg
+- file: images/galliformes/phasianidae/lagopus-scotica/2.jpg
+  page: https://www.inaturalist.org/photos/612178841
+  author: Phill Robinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612178841/original.jpg
+- file: images/galliformes/phasianidae/lagopus-scotica/3.jpg
+  page: https://www.inaturalist.org/photos/612546297
+  author: Allison McCabe
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612546297/original.jpg
+- file: images/galliformes/phasianidae/lagopus-scotica/4.jpg
+  page: https://www.inaturalist.org/photos/615460603
+  author: Anna L
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615460603/original.jpg
+- file: images/galliformes/phasianidae/lagopus-scotica/5.jpg
+  page: https://www.inaturalist.org/photos/619550388
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619550388/original.jpg
 ---
 
 

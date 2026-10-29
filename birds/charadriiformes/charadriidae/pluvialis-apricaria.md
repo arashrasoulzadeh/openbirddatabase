@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/charadriiformes/charadriidae/pluvialis-apricaria/1.jpg
+  page: https://www.inaturalist.org/photos/605659795
+  author: Fionn Ó Marcaigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659795/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/pluvialis-apricaria/1.jpg
+  page: https://www.inaturalist.org/photos/605659795
+  author: Fionn Ó Marcaigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659795/original.jpg
+- file: images/charadriiformes/charadriidae/pluvialis-apricaria/2.jpg
+  page: https://www.inaturalist.org/photos/604847435
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604847435/original.jpg
+- file: images/charadriiformes/charadriidae/pluvialis-apricaria/3.jpg
+  page: https://www.inaturalist.org/photos/605742003
+  author: Charlie Farrell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605742003/original.jpg
+- file: images/charadriiformes/charadriidae/pluvialis-apricaria/4.jpg
+  page: https://www.inaturalist.org/photos/605138481
+  author: Holly Hodges
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605138481/original.jpg
+- file: images/charadriiformes/charadriidae/pluvialis-apricaria/5.jpg
+  page: https://www.inaturalist.org/photos/606928518
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606928518/original.jpg
 ---
 
 

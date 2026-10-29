@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-erythronota/1.jpg
+  page: https://www.inaturalist.org/photos/618386119
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618386119/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-erythronota/1.jpg
+  page: https://www.inaturalist.org/photos/618386119
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618386119/original.jpg
+- file: images/passeriformes/turdidae/geokichla-erythronota/2.jpg
+  page: https://www.inaturalist.org/photos/714854707
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714854707/original.jpg
+- file: images/passeriformes/turdidae/geokichla-erythronota/3.jpg
+  page: https://www.inaturalist.org/photos/471304086
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471304086/original.jpeg
+- file: images/passeriformes/turdidae/geokichla-erythronota/4.jpg
+  page: https://www.inaturalist.org/photos/311448183
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311448183/original.jpg
+- file: images/passeriformes/turdidae/geokichla-erythronota/5.jpg
+  page: https://www.inaturalist.org/photos/242591852
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242591852/original.jpeg
 ---
 
 

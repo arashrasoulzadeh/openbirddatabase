@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/uropsalis-segmentata/1.jpg
+  page: https://www.inaturalist.org/photos/137473490
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137473490/original.jpeg
+images:
+- file: images/caprimulgiformes/caprimulgidae/uropsalis-segmentata/1.jpg
+  page: https://www.inaturalist.org/photos/137473490
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137473490/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/uropsalis-segmentata/2.jpg
+  page: https://www.inaturalist.org/photos/441486951
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441486951/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/uropsalis-segmentata/3.jpg
+  page: https://www.inaturalist.org/photos/441486950
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441486950/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/uropsalis-segmentata/4.jpg
+  page: https://www.inaturalist.org/photos/441486905
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441486905/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/uropsalis-segmentata/5.jpg
+  page: https://www.inaturalist.org/photos/441491403
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441491403/original.jpg
 ---
 
 

@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/634615337
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634615337/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/634615337
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634615337/original.jpg
+- file: images/passeriformes/turdidae/turdus-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/642324318
+  author: Сергей
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642324318/original.jpg
+- file: images/passeriformes/turdidae/turdus-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/637489436
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637489436/original.jpg
+- file: images/passeriformes/turdidae/turdus-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/637489446
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637489446/original.jpg
+- file: images/passeriformes/turdidae/turdus-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/637489437
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637489437/original.jpg
 ---
 
 

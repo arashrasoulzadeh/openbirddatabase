@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/myadestes-elisabeth/1.jpg
+  page: https://www.inaturalist.org/photos/613173864
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613173864/original.jpg
+images:
+- file: images/passeriformes/turdidae/myadestes-elisabeth/1.jpg
+  page: https://www.inaturalist.org/photos/613173864
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613173864/original.jpg
+- file: images/passeriformes/turdidae/myadestes-elisabeth/2.jpg
+  page: https://www.inaturalist.org/photos/628534611
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628534611/original.jpg
+- file: images/passeriformes/turdidae/myadestes-elisabeth/3.jpg
+  page: https://www.inaturalist.org/photos/354116142
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354116142/original.jpg
+- file: images/passeriformes/turdidae/myadestes-elisabeth/4.jpg
+  page: https://www.inaturalist.org/photos/259202123
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259202123/original.jpg
+- file: images/passeriformes/turdidae/myadestes-elisabeth/5.jpg
+  page: https://www.inaturalist.org/photos/186678400
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186678400/original.jpg
 ---
 
 

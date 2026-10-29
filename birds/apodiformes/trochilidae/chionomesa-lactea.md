@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chionomesa-lactea/1.jpg
+  page: https://www.inaturalist.org/photos/610218818
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610218818/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chionomesa-lactea/1.jpg
+  page: https://www.inaturalist.org/photos/610218818
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610218818/original.jpg
+- file: images/apodiformes/trochilidae/chionomesa-lactea/2.jpg
+  page: https://www.inaturalist.org/photos/710060363
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710060363/original.jpg
+- file: images/apodiformes/trochilidae/chionomesa-lactea/3.jpg
+  page: https://www.inaturalist.org/photos/621338149
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621338149/original.jpg
+- file: images/apodiformes/trochilidae/chionomesa-lactea/4.jpg
+  page: https://www.inaturalist.org/photos/621744721
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621744721/original.jpg
+- file: images/apodiformes/trochilidae/chionomesa-lactea/5.jpg
+  page: https://www.inaturalist.org/photos/626395119
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626395119/original.jpg
 ---
 
 

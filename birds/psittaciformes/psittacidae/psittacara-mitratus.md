@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/psittacara-mitratus/1.jpg
+  page: https://www.inaturalist.org/photos/608670127
+  author: Luis Martin Stivanello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608670127/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/psittacara-mitratus/1.jpg
+  page: https://www.inaturalist.org/photos/608670127
+  author: Luis Martin Stivanello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608670127/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-mitratus/2.jpg
+  page: https://www.inaturalist.org/photos/652709864
+  author: Nathan Nguyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652709864/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-mitratus/3.jpg
+  page: https://www.inaturalist.org/photos/614403427
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614403427/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-mitratus/4.jpg
+  page: https://www.inaturalist.org/photos/610565564
+  author: Alfredo F. Fuentes Claros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610565564/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-mitratus/5.jpg
+  page: https://www.inaturalist.org/photos/614332447
+  author: Jesse Rorabaugh
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614332447/original.jpg
 ---
 
 

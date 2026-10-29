@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/heteromunia-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/745709014
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745709014/original.jpg
+images:
+- file: images/passeriformes/estrildidae/heteromunia-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/745709014
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745709014/original.jpg
+- file: images/passeriformes/estrildidae/heteromunia-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/176221007
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176221007/original.jpeg
+- file: images/passeriformes/estrildidae/heteromunia-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/338532326
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338532326/original.jpeg
+- file: images/passeriformes/estrildidae/heteromunia-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/114998755
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114998755/original.jpg
+- file: images/passeriformes/estrildidae/heteromunia-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/724526523
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724526523/original.jpg
 ---
 
 

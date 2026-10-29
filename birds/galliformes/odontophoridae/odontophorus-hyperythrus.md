@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/odontophorus-hyperythrus/1.jpg
+  page: https://www.inaturalist.org/photos/622970870
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622970870/original.jpg
+images:
+- file: images/galliformes/odontophoridae/odontophorus-hyperythrus/1.jpg
+  page: https://www.inaturalist.org/photos/622970870
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622970870/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-hyperythrus/2.jpg
+  page: https://www.inaturalist.org/photos/719335401
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719335401/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-hyperythrus/3.jpg
+  page: https://www.inaturalist.org/photos/469412103
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469412103/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-hyperythrus/4.jpg
+  page: https://www.inaturalist.org/photos/474872570
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474872570/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-hyperythrus/5.jpg
+  page: https://www.inaturalist.org/photos/595739749
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595739749/original.jpg
 ---
 
 

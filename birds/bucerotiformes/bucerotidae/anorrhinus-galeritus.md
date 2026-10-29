@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/anorrhinus-galeritus/1.jpg
+  page: https://www.inaturalist.org/photos/605830045
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605830045/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/anorrhinus-galeritus/1.jpg
+  page: https://www.inaturalist.org/photos/605830045
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605830045/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-galeritus/2.jpg
+  page: https://www.inaturalist.org/photos/612375859
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612375859/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-galeritus/3.jpg
+  page: https://www.inaturalist.org/photos/628729070
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628729070/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-galeritus/4.jpg
+  page: https://www.inaturalist.org/photos/688801401
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688801401/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-galeritus/5.jpg
+  page: https://www.inaturalist.org/photos/589013447
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589013447/original.jpg
 ---
 
 

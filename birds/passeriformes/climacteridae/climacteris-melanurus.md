@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/climacteridae/climacteris-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/743206853
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743206853/original.jpg
+images:
+- file: images/passeriformes/climacteridae/climacteris-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/743206853
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743206853/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-melanurus/2.jpg
+  page: https://www.inaturalist.org/photos/175567146
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175567146/original.jpeg
+- file: images/passeriformes/climacteridae/climacteris-melanurus/3.jpg
+  page: https://www.inaturalist.org/photos/340910979
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340910979/original.jpeg
+- file: images/passeriformes/climacteridae/climacteris-melanurus/4.jpg
+  page: https://www.inaturalist.org/photos/78896599
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78896599/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-melanurus/5.jpg
+  page: https://www.inaturalist.org/photos/218779116
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218779116/original.jpg
 ---
 
 

@@ -136,7 +136,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 29.9
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 130.0
   tail_length_mm: 158.2
   body_mass_g: 50.5
+image:
+  file: images/passeriformes/dicruridae/dicrurus-andamanensis/1.jpg
+  page: https://www.inaturalist.org/photos/493514748
+  author: Laura Liedtke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493514748/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-andamanensis/1.jpg
+  page: https://www.inaturalist.org/photos/493514748
+  author: Laura Liedtke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493514748/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-andamanensis/2.jpg
+  page: https://www.inaturalist.org/photos/612415653
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612415653/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-andamanensis/3.jpg
+  page: https://www.inaturalist.org/photos/256094052
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256094052/original.jpeg
+- file: images/passeriformes/dicruridae/dicrurus-andamanensis/4.jpg
+  page: https://www.inaturalist.org/photos/338546202
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338546202/original.jpeg
+- file: images/passeriformes/dicruridae/dicrurus-andamanensis/5.jpg
+  page: https://www.inaturalist.org/photos/168908317
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/168908317/original.jpg
 ---
 
 

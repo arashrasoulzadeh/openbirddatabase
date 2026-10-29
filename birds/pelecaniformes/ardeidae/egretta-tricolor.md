@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/pelecaniformes/ardeidae/egretta-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/604895200
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895200/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/egretta-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/604895200
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895200/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-tricolor/2.jpg
+  page: https://www.inaturalist.org/photos/604788971
+  author: Sheila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604788971/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/605095648
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605095648/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/605660075
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605660075/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/604874649
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604874649/original.jpg
 ---
 
 

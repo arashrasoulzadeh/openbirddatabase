@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendrocincla-tyrannina/1.jpg
+  page: https://www.inaturalist.org/photos/530087502
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530087502/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendrocincla-tyrannina/1.jpg
+  page: https://www.inaturalist.org/photos/530087502
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530087502/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-tyrannina/2.jpg
+  page: https://www.inaturalist.org/photos/592256248
+  author: Florencia Grattarola
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592256248/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-tyrannina/3.jpg
+  page: https://www.inaturalist.org/photos/465618529
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465618529/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-tyrannina/4.jpg
+  page: https://www.inaturalist.org/photos/199234869
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199234869/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-tyrannina/5.jpg
+  page: https://www.inaturalist.org/photos/162692136
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/162692136/original.jpeg
 ---
 
 

@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/procellariiformes/procellariidae/puffinus-bailloni/1.jpg
+  page: https://www.inaturalist.org/photos/644475561
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644475561/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/puffinus-bailloni/1.jpg
+  page: https://www.inaturalist.org/photos/644475561
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644475561/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-bailloni/2.jpg
+  page: https://www.inaturalist.org/photos/683020266
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683020266/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-bailloni/3.jpg
+  page: https://www.inaturalist.org/photos/471338850
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471338850/original.jpeg
+- file: images/procellariiformes/procellariidae/puffinus-bailloni/4.jpg
+  page: https://www.inaturalist.org/photos/476289330
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476289330/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-bailloni/5.jpg
+  page: https://www.inaturalist.org/photos/354151549
+  author: John Hepburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354151549/original.jpeg
 ---
 
 

@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/laniarius-major/1.jpg
+  page: https://www.inaturalist.org/photos/681343687
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681343687/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/laniarius-major/1.jpg
+  page: https://www.inaturalist.org/photos/681343687
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681343687/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-major/2.jpg
+  page: https://www.inaturalist.org/photos/691526391
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691526391/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-major/3.jpg
+  page: https://www.inaturalist.org/photos/716650285
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650285/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-major/4.jpg
+  page: https://www.inaturalist.org/photos/681365729
+  author: Tommy Sandri
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681365729/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-major/5.jpg
+  page: https://www.inaturalist.org/photos/719926418
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719926418/original.jpg
 ---
 
 

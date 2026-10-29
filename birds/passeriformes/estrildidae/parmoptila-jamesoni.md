@@ -140,8 +140,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/parmoptila-jamesoni/1.jpg
+  page: https://www.inaturalist.org/photos/601875048
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601875048/original.jpg
+images:
+- file: images/passeriformes/estrildidae/parmoptila-jamesoni/1.jpg
+  page: https://www.inaturalist.org/photos/601875048
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601875048/original.jpg
+- file: images/passeriformes/estrildidae/parmoptila-jamesoni/2.jpg
+  page: https://www.inaturalist.org/photos/601875065
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601875065/original.jpg
+- file: images/passeriformes/estrildidae/parmoptila-jamesoni/3.jpg
+  page: https://www.inaturalist.org/photos/601875073
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601875073/original.jpg
+- file: images/passeriformes/estrildidae/parmoptila-jamesoni/4.jpg
+  page: https://www.inaturalist.org/photos/601875067
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601875067/original.jpg
+- file: images/passeriformes/estrildidae/parmoptila-jamesoni/5.jpg
+  page: https://www.inaturalist.org/photos/601875074
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601875074/original.jpg
 ---
 
 

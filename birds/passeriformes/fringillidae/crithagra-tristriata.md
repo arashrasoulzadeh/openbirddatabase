@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-tristriata/1.jpg
+  page: https://www.inaturalist.org/photos/667695468
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667695468/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-tristriata/1.jpg
+  page: https://www.inaturalist.org/photos/667695468
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667695468/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-tristriata/2.jpg
+  page: https://www.inaturalist.org/photos/734393410
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734393410/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-tristriata/3.jpg
+  page: https://www.inaturalist.org/photos/605113180
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605113180/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-tristriata/4.jpg
+  page: https://www.inaturalist.org/photos/346180213
+  author: Arabella Willing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346180213/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-tristriata/5.jpg
+  page: https://www.inaturalist.org/photos/358505619
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358505619/original.jpeg
 ---
 
 

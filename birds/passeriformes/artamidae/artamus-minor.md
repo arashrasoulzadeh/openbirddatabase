@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/artamus-minor/1.jpg
+  page: https://www.inaturalist.org/photos/669392174
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669392174/original.jpg
+images:
+- file: images/passeriformes/artamidae/artamus-minor/1.jpg
+  page: https://www.inaturalist.org/photos/669392174
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669392174/original.jpg
+- file: images/passeriformes/artamidae/artamus-minor/2.jpg
+  page: https://www.inaturalist.org/photos/702618442
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702618442/original.jpg
+- file: images/passeriformes/artamidae/artamus-minor/3.jpg
+  page: https://www.inaturalist.org/photos/710770939
+  author: Paul Coddington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710770939/original.jpg
+- file: images/passeriformes/artamidae/artamus-minor/4.jpg
+  page: https://www.inaturalist.org/photos/738488171
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738488171/original.jpg
+- file: images/passeriformes/artamidae/artamus-minor/5.jpg
+  page: https://www.inaturalist.org/photos/745796266
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745796266/original.jpg
 ---
 
 

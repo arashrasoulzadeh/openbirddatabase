@@ -221,10 +221,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 42
+image:
+  file: images/anseriformes/anatidae/branta-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/605726926
+  author: Paul Round
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605726926/original.jpg
+images:
+- file: images/anseriformes/anatidae/branta-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/605726926
+  author: Paul Round
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605726926/original.jpg
+- file: images/anseriformes/anatidae/branta-canadensis/2.jpg
+  page: https://www.inaturalist.org/photos/605463749
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463749/original.jpg
+- file: images/anseriformes/anatidae/branta-canadensis/3.jpg
+  page: https://www.inaturalist.org/photos/605051896
+  author: cwriggy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605051896/original.jpg
+- file: images/anseriformes/anatidae/branta-canadensis/4.jpg
+  page: https://www.inaturalist.org/photos/605048278
+  author: Anne Parsons
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605048278/original.jpg
+- file: images/anseriformes/anatidae/branta-canadensis/5.jpg
+  page: https://www.inaturalist.org/photos/605248233
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605248233/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/querula-purpurata/1.jpg
+  page: https://www.inaturalist.org/photos/610014368
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014368/original.jpg
+images:
+- file: images/passeriformes/cotingidae/querula-purpurata/1.jpg
+  page: https://www.inaturalist.org/photos/610014368
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014368/original.jpg
+- file: images/passeriformes/cotingidae/querula-purpurata/2.jpg
+  page: https://www.inaturalist.org/photos/613763053
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613763053/original.jpg
+- file: images/passeriformes/cotingidae/querula-purpurata/3.jpg
+  page: https://www.inaturalist.org/photos/622387912
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622387912/original.jpg
+- file: images/passeriformes/cotingidae/querula-purpurata/4.jpg
+  page: https://www.inaturalist.org/photos/613464266
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613464266/original.jpg
+- file: images/passeriformes/cotingidae/querula-purpurata/5.jpg
+  page: https://www.inaturalist.org/photos/615321400
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615321400/original.jpg
 ---
 
 

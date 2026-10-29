@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/brachygalba-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/621622564
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621622564/original.jpg
+images:
+- file: images/piciformes/galbulidae/brachygalba-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/621622564
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621622564/original.jpg
+- file: images/piciformes/galbulidae/brachygalba-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/636154396
+  author: Brunno Thadeu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636154396/original.jpg
+- file: images/piciformes/galbulidae/brachygalba-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/520811219
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520811219/original.jpg
+- file: images/piciformes/galbulidae/brachygalba-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/445509388
+  author: payalm
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445509388/original.jpeg
+- file: images/piciformes/galbulidae/brachygalba-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/343820923
+  author: Martin Vallejos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343820923/original.jpg
 ---
 
 

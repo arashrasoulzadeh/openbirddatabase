@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/zosteropidae/zosterops-japonicus/1.jpg
+  page: https://www.inaturalist.org/photos/605581161
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605581161/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-japonicus/1.jpg
+  page: https://www.inaturalist.org/photos/605581161
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605581161/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-japonicus/2.jpg
+  page: https://www.inaturalist.org/photos/604512040
+  author: yajapin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604512040/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-japonicus/3.jpg
+  page: https://www.inaturalist.org/photos/604996918
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604996918/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-japonicus/4.jpg
+  page: https://www.inaturalist.org/photos/610376481
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610376481/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-japonicus/5.jpg
+  page: https://www.inaturalist.org/photos/610681624
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610681624/original.jpg
 ---
 
 

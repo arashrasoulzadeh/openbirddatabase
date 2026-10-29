@@ -256,10 +256,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/falconiformes/falconidae/falco-peregrinus/1.jpg
+  page: https://www.inaturalist.org/photos/605058823
+  author: Jacqueline Raiford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605058823/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-peregrinus/1.jpg
+  page: https://www.inaturalist.org/photos/605058823
+  author: Jacqueline Raiford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605058823/original.jpg
+- file: images/falconiformes/falconidae/falco-peregrinus/2.jpg
+  page: https://www.inaturalist.org/photos/605189327
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605189327/original.jpg
+- file: images/falconiformes/falconidae/falco-peregrinus/3.jpg
+  page: https://www.inaturalist.org/photos/605362350
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605362350/original.jpg
+- file: images/falconiformes/falconidae/falco-peregrinus/4.jpg
+  page: https://www.inaturalist.org/photos/604988966
+  author: Yi-fan翊凡
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604988966/original.jpg
+- file: images/falconiformes/falconidae/falco-peregrinus/5.jpg
+  page: https://www.inaturalist.org/photos/605214271
+  author: Julio Cesar Ruiz García
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605214271/original.jpg
 ---
 
 

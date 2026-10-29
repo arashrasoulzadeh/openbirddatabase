@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/leucocarbo-bougainvilliorum/1.jpg
+  page: https://www.inaturalist.org/photos/619333066
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333066/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/leucocarbo-bougainvilliorum/1.jpg
+  page: https://www.inaturalist.org/photos/619333066
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333066/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-bougainvilliorum/2.jpg
+  page: https://www.inaturalist.org/photos/638395998
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638395998/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-bougainvilliorum/3.jpg
+  page: https://www.inaturalist.org/photos/636546194
+  author: Ellky Arteta Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636546194/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-bougainvilliorum/4.jpg
+  page: https://www.inaturalist.org/photos/669195379
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669195379/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-bougainvilliorum/5.jpg
+  page: https://www.inaturalist.org/photos/678347415
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678347415/original.jpg
 ---
 
 

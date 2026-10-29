@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 20.0
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 83.4
   tail_length_mm: 66.9
   body_mass_g: 25.0
+image:
+  file: images/passeriformes/tyrannidae/conopias-cinchoneti/1.jpg
+  page: https://www.inaturalist.org/photos/652842224
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652842224/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/conopias-cinchoneti/1.jpg
+  page: https://www.inaturalist.org/photos/652842224
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652842224/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-cinchoneti/2.jpg
+  page: https://www.inaturalist.org/photos/489395459
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489395459/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-cinchoneti/3.jpg
+  page: https://www.inaturalist.org/photos/504847702
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504847702/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-cinchoneti/4.jpg
+  page: https://www.inaturalist.org/photos/610753334
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610753334/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-cinchoneti/5.jpg
+  page: https://www.inaturalist.org/photos/349242057
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349242057/original.jpg
 ---
 
 

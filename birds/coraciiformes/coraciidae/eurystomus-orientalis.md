@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/coraciidae/eurystomus-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/604706645
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604706645/original.jpg
+images:
+- file: images/coraciiformes/coraciidae/eurystomus-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/604706645
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604706645/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-orientalis/2.jpg
+  page: https://www.inaturalist.org/photos/604914250
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604914250/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-orientalis/3.jpg
+  page: https://www.inaturalist.org/photos/604986642
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604986642/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-orientalis/4.jpg
+  page: https://www.inaturalist.org/photos/605862188
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605862188/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-orientalis/5.jpg
+  page: https://www.inaturalist.org/photos/610405767
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610405767/original.jpg
 ---
 
 

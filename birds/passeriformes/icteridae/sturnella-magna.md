@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/icteridae/sturnella-magna/1.jpg
+  page: https://www.inaturalist.org/photos/605463666
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463666/original.jpg
+images:
+- file: images/passeriformes/icteridae/sturnella-magna/1.jpg
+  page: https://www.inaturalist.org/photos/605463666
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463666/original.jpg
+- file: images/passeriformes/icteridae/sturnella-magna/2.jpg
+  page: https://www.inaturalist.org/photos/605383497
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383497/original.jpg
+- file: images/passeriformes/icteridae/sturnella-magna/3.jpg
+  page: https://www.inaturalist.org/photos/605252863
+  author: Karen Szafrajda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605252863/original.jpg
+- file: images/passeriformes/icteridae/sturnella-magna/4.jpg
+  page: https://www.inaturalist.org/photos/607550292
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607550292/original.jpg
+- file: images/passeriformes/icteridae/sturnella-magna/5.jpg
+  page: https://www.inaturalist.org/photos/607536686
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607536686/original.jpg
 ---
 
 

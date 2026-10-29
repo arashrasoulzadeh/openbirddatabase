@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/charadriiformes/laridae/larosterna-inca/1.jpg
+  page: https://www.inaturalist.org/photos/606762738
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606762738/original.jpg
+images:
+- file: images/charadriiformes/laridae/larosterna-inca/1.jpg
+  page: https://www.inaturalist.org/photos/606762738
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606762738/original.jpg
+- file: images/charadriiformes/laridae/larosterna-inca/2.jpg
+  page: https://www.inaturalist.org/photos/609664404
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609664404/original.jpg
+- file: images/charadriiformes/laridae/larosterna-inca/3.jpg
+  page: https://www.inaturalist.org/photos/606980025
+  author: anidamk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606980025/original.jpg
+- file: images/charadriiformes/laridae/larosterna-inca/4.jpg
+  page: https://www.inaturalist.org/photos/619333138
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333138/original.jpg
+- file: images/charadriiformes/laridae/larosterna-inca/5.jpg
+  page: https://www.inaturalist.org/photos/614096053
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614096053/original.jpg
 ---
 
 

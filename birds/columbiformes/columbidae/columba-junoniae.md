@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-junoniae/1.jpg
+  page: https://www.inaturalist.org/photos/624554907
+  author: hansi_27p
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624554907/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-junoniae/1.jpg
+  page: https://www.inaturalist.org/photos/624554907
+  author: hansi_27p
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624554907/original.jpg
+- file: images/columbiformes/columbidae/columba-junoniae/2.jpg
+  page: https://www.inaturalist.org/photos/466539287
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466539287/original.jpeg
+- file: images/columbiformes/columbidae/columba-junoniae/3.jpg
+  page: https://www.inaturalist.org/photos/473328025
+  author: Jane Concannon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473328025/original.jpeg
+- file: images/columbiformes/columbidae/columba-junoniae/4.jpg
+  page: https://www.inaturalist.org/photos/604543813
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543813/original.jpg
+- file: images/columbiformes/columbidae/columba-junoniae/5.jpg
+  page: https://www.inaturalist.org/photos/612213873
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612213873/original.jpg
 ---
 
 

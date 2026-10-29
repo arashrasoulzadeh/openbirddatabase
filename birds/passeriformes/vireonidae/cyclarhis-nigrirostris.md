@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/cyclarhis-nigrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/623084426
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623084426/original.jpg
+images:
+- file: images/passeriformes/vireonidae/cyclarhis-nigrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/623084426
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623084426/original.jpg
+- file: images/passeriformes/vireonidae/cyclarhis-nigrirostris/2.jpg
+  page: https://www.inaturalist.org/photos/485394324
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485394324/original.jpg
+- file: images/passeriformes/vireonidae/cyclarhis-nigrirostris/3.jpg
+  page: https://www.inaturalist.org/photos/591907419
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591907419/original.jpg
+- file: images/passeriformes/vireonidae/cyclarhis-nigrirostris/4.jpg
+  page: https://www.inaturalist.org/photos/591736677
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591736677/original.jpg
+- file: images/passeriformes/vireonidae/cyclarhis-nigrirostris/5.jpg
+  page: https://www.inaturalist.org/photos/263753493
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263753493/original.jpeg
 ---
 
 

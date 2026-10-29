@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/aviceda-cuculoides/1.jpg
+  page: https://www.inaturalist.org/photos/616750643
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616750643/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aviceda-cuculoides/1.jpg
+  page: https://www.inaturalist.org/photos/616750643
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616750643/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-cuculoides/2.jpg
+  page: https://www.inaturalist.org/photos/684679141
+  author: Tommy Sandri
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684679141/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-cuculoides/3.jpg
+  page: https://www.inaturalist.org/photos/734469384
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734469384/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-cuculoides/4.jpg
+  page: https://www.inaturalist.org/photos/734442571
+  author: Malte Krömer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734442571/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-cuculoides/5.jpg
+  page: https://www.inaturalist.org/photos/487881238
+  author: Robin Fokker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487881238/original.jpeg
 ---
 
 

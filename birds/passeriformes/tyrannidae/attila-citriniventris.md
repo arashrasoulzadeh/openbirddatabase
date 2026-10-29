@@ -138,8 +138,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/attila-citriniventris/1.jpg
+  page: https://www.inaturalist.org/photos/523686364
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686364/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/attila-citriniventris/1.jpg
+  page: https://www.inaturalist.org/photos/523686364
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686364/original.jpg
+- file: images/passeriformes/tyrannidae/attila-citriniventris/2.jpg
+  page: https://www.inaturalist.org/photos/569470808
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569470808/original.jpg
+- file: images/passeriformes/tyrannidae/attila-citriniventris/3.jpg
+  page: https://www.inaturalist.org/photos/298111035
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298111035/original.jpg
+- file: images/passeriformes/tyrannidae/attila-citriniventris/4.jpg
+  page: https://www.inaturalist.org/photos/160430718
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/160430718/original.jpeg
 ---
 
 

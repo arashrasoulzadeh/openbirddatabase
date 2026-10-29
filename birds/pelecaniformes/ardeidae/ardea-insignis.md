@@ -136,8 +136,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardea-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/713155087
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713155087/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/713155087
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713155087/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-insignis/2.jpg
+  page: https://www.inaturalist.org/photos/603795991
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603795991/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-insignis/3.jpg
+  page: https://www.inaturalist.org/photos/338561170
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338561170/original.jpeg
+- file: images/pelecaniformes/ardeidae/ardea-insignis/4.jpg
+  page: https://www.inaturalist.org/photos/442627976
+  author: Markus Lampinen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442627976/original.jpeg
+- file: images/pelecaniformes/ardeidae/ardea-insignis/5.jpg
+  page: https://www.inaturalist.org/photos/46589668
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/46589668/original.jpeg
 ---
 
 

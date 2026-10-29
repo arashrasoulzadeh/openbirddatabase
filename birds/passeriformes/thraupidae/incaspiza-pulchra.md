@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/incaspiza-pulchra/1.jpg
+  page: https://www.inaturalist.org/photos/539929366
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539929366/original.jpg
+images:
+- file: images/passeriformes/thraupidae/incaspiza-pulchra/1.jpg
+  page: https://www.inaturalist.org/photos/539929366
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539929366/original.jpg
+- file: images/passeriformes/thraupidae/incaspiza-pulchra/2.jpg
+  page: https://www.inaturalist.org/photos/424679524
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424679524/original.jpeg
+- file: images/passeriformes/thraupidae/incaspiza-pulchra/3.jpg
+  page: https://www.inaturalist.org/photos/332820254
+  author: Martin Vallejos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332820254/original.jpg
+- file: images/passeriformes/thraupidae/incaspiza-pulchra/4.jpg
+  page: https://www.inaturalist.org/photos/200898891
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/200898891/original.jpg
+- file: images/passeriformes/thraupidae/incaspiza-pulchra/5.jpg
+  page: https://www.inaturalist.org/photos/16271892
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/16271892/original.jpeg
 ---
 
 

@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/vireonidae/vireo-gracilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/635799470
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635799470/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-gracilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/635799470
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635799470/original.jpg
+- file: images/passeriformes/vireonidae/vireo-gracilirostris/2.jpg
+  page: https://www.inaturalist.org/photos/431160346
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431160346/original.jpg
+- file: images/passeriformes/vireonidae/vireo-gracilirostris/3.jpg
+  page: https://www.inaturalist.org/photos/444891464
+  author: Pedro Alvaro Neves
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444891464/original.jpeg
+- file: images/passeriformes/vireonidae/vireo-gracilirostris/4.jpg
+  page: https://www.inaturalist.org/photos/456328765
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456328765/original.jpg
+- file: images/passeriformes/vireonidae/vireo-gracilirostris/5.jpg
+  page: https://www.inaturalist.org/photos/459332562
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459332562/original.jpeg
 ---
 
 

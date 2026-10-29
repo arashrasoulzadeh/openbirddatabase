@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/pitta-megarhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/634053414
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634053414/original.jpg
+images:
+- file: images/passeriformes/pittidae/pitta-megarhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/634053414
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634053414/original.jpg
+- file: images/passeriformes/pittidae/pitta-megarhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/666158062
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666158062/original.jpg
+- file: images/passeriformes/pittidae/pitta-megarhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/445097117
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445097117/original.jpg
+- file: images/passeriformes/pittidae/pitta-megarhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/257845999
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257845999/original.jpg
+- file: images/passeriformes/pittidae/pitta-megarhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/290435407
+  author: Sevin Dee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/290435407/original.jpg
 ---
 
 

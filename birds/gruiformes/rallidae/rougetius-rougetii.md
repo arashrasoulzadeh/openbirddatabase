@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rougetius-rougetii/1.jpg
+  page: https://www.inaturalist.org/photos/609621778
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609621778/original.jpg
+images:
+- file: images/gruiformes/rallidae/rougetius-rougetii/1.jpg
+  page: https://www.inaturalist.org/photos/609621778
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609621778/original.jpg
+- file: images/gruiformes/rallidae/rougetius-rougetii/2.jpg
+  page: https://www.inaturalist.org/photos/207305301
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207305301/original.jpg
+- file: images/gruiformes/rallidae/rougetius-rougetii/3.jpg
+  page: https://www.inaturalist.org/photos/53899817
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53899817/original.jpg
+- file: images/gruiformes/rallidae/rougetius-rougetii/4.jpg
+  page: https://www.inaturalist.org/photos/610018789
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610018789/original.jpg
+- file: images/gruiformes/rallidae/rougetius-rougetii/5.jpg
+  page: https://www.inaturalist.org/photos/609621722
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609621722/original.jpg
 ---
 
 

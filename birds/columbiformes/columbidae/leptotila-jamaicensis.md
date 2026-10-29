@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/leptotila-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/621345735
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621345735/original.jpg
+images:
+- file: images/columbiformes/columbidae/leptotila-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/621345735
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621345735/original.jpg
+- file: images/columbiformes/columbidae/leptotila-jamaicensis/2.jpg
+  page: https://www.inaturalist.org/photos/690116372
+  author: davidroy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690116372/original.jpg
+- file: images/columbiformes/columbidae/leptotila-jamaicensis/3.jpg
+  page: https://www.inaturalist.org/photos/480509222
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480509222/original.jpg
+- file: images/columbiformes/columbidae/leptotila-jamaicensis/4.jpg
+  page: https://www.inaturalist.org/photos/571442833
+  author: rainerburkard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571442833/original.jpg
+- file: images/columbiformes/columbidae/leptotila-jamaicensis/5.jpg
+  page: https://www.inaturalist.org/photos/355198583
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355198583/original.jpg
 ---
 
 

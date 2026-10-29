@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-pistrinaria/1.jpg
+  page: https://www.inaturalist.org/photos/582199523
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582199523/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-pistrinaria/1.jpg
+  page: https://www.inaturalist.org/photos/582199523
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582199523/original.jpg
+- file: images/columbiformes/columbidae/ducula-pistrinaria/2.jpg
+  page: https://www.inaturalist.org/photos/227558268
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227558268/original.jpg
+- file: images/columbiformes/columbidae/ducula-pistrinaria/3.jpg
+  page: https://www.inaturalist.org/photos/50657893
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50657893/original.jpeg
+- file: images/columbiformes/columbidae/ducula-pistrinaria/4.jpg
+  page: https://www.inaturalist.org/photos/334900179
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334900179/original.jpg
+- file: images/columbiformes/columbidae/ducula-pistrinaria/5.jpg
+  page: https://www.inaturalist.org/photos/334903575
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334903575/original.jpg
 ---
 
 

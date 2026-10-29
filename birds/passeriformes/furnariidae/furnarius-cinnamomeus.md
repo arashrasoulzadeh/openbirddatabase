@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/furnarius-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/605418355
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605418355/original.jpg
+images:
+- file: images/passeriformes/furnariidae/furnarius-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/605418355
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605418355/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-cinnamomeus/2.jpg
+  page: https://www.inaturalist.org/photos/610275679
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610275679/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-cinnamomeus/3.jpg
+  page: https://www.inaturalist.org/photos/609933620
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609933620/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-cinnamomeus/4.jpg
+  page: https://www.inaturalist.org/photos/621611968
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621611968/original.jpg
+- file: images/passeriformes/furnariidae/furnarius-cinnamomeus/5.jpg
+  page: https://www.inaturalist.org/photos/684184964
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684184964/original.jpg
 ---
 
 

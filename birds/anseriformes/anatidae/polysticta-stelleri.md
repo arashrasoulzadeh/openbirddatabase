@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/anseriformes/anatidae/polysticta-stelleri/1.jpg
+  page: https://www.inaturalist.org/photos/619001364
+  author: Борис Георги
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619001364/original.jpg
+images:
+- file: images/anseriformes/anatidae/polysticta-stelleri/1.jpg
+  page: https://www.inaturalist.org/photos/619001364
+  author: Борис Георги
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619001364/original.jpg
+- file: images/anseriformes/anatidae/polysticta-stelleri/2.jpg
+  page: https://www.inaturalist.org/photos/683154557
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683154557/original.jpg
+- file: images/anseriformes/anatidae/polysticta-stelleri/3.jpg
+  page: https://www.inaturalist.org/photos/476272924
+  author: Николай Гнездилов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476272924/original.jpeg
+- file: images/anseriformes/anatidae/polysticta-stelleri/4.jpg
+  page: https://www.inaturalist.org/photos/491825657
+  author: Diego González Dopico
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491825657/original.jpg
+- file: images/anseriformes/anatidae/polysticta-stelleri/5.jpg
+  page: https://www.inaturalist.org/photos/500106660
+  author: Шальнов Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500106660/original.jpg
 ---
 
 

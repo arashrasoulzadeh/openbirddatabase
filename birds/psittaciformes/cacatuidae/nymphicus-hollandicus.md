@@ -230,10 +230,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 35
+image:
+  file: images/psittaciformes/cacatuidae/nymphicus-hollandicus/1.jpg
+  page: https://www.inaturalist.org/photos/609750986
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609750986/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/nymphicus-hollandicus/1.jpg
+  page: https://www.inaturalist.org/photos/609750986
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609750986/original.jpg
+- file: images/psittaciformes/cacatuidae/nymphicus-hollandicus/2.jpg
+  page: https://www.inaturalist.org/photos/613654773
+  author: Sean Haight
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613654773/original.jpg
+- file: images/psittaciformes/cacatuidae/nymphicus-hollandicus/3.jpg
+  page: https://www.inaturalist.org/photos/621583778
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621583778/original.jpg
+- file: images/psittaciformes/cacatuidae/nymphicus-hollandicus/4.jpg
+  page: https://www.inaturalist.org/photos/634100893
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634100893/original.jpg
+- file: images/psittaciformes/cacatuidae/nymphicus-hollandicus/5.jpg
+  page: https://www.inaturalist.org/photos/641382608
+  author: Cristina Olivares Collado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641382608/original.jpg
 ---
 
 

@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-guinea/1.jpg
+  page: https://www.inaturalist.org/photos/610999402
+  author: Glynn Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610999402/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-guinea/1.jpg
+  page: https://www.inaturalist.org/photos/610999402
+  author: Glynn Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610999402/original.jpg
+- file: images/columbiformes/columbidae/columba-guinea/2.jpg
+  page: https://www.inaturalist.org/photos/608180914
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608180914/original.jpg
+- file: images/columbiformes/columbidae/columba-guinea/3.jpg
+  page: https://www.inaturalist.org/photos/608838290
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608838290/original.jpg
+- file: images/columbiformes/columbidae/columba-guinea/4.jpg
+  page: https://www.inaturalist.org/photos/610678005
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610678005/original.jpg
+- file: images/columbiformes/columbidae/columba-guinea/5.jpg
+  page: https://www.inaturalist.org/photos/611219821
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611219821/original.jpg
 ---
 
 

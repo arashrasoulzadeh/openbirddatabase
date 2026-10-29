@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/eubucco-tucinkae/1.jpg
+  page: https://www.inaturalist.org/photos/343461448
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343461448/original.jpeg
+images:
+- file: images/piciformes/capitonidae/eubucco-tucinkae/1.jpg
+  page: https://www.inaturalist.org/photos/343461448
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343461448/original.jpeg
+- file: images/piciformes/capitonidae/eubucco-tucinkae/2.jpg
+  page: https://www.inaturalist.org/photos/331381379
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331381379/original.jpeg
+- file: images/piciformes/capitonidae/eubucco-tucinkae/3.jpg
+  page: https://www.inaturalist.org/photos/240817854
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240817854/original.jpg
+- file: images/piciformes/capitonidae/eubucco-tucinkae/4.jpg
+  page: https://www.inaturalist.org/photos/242761535
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242761535/original.jpeg
+- file: images/piciformes/capitonidae/eubucco-tucinkae/5.jpg
+  page: https://www.inaturalist.org/photos/60689747
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60689747/original.jpg
 ---
 
 

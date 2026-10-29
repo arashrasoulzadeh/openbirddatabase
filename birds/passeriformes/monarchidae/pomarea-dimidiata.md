@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/pomarea-dimidiata/1.jpg
+  page: https://www.inaturalist.org/photos/703159697
+  author: Jake Osborne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703159697/original.jpg
+images:
+- file: images/passeriformes/monarchidae/pomarea-dimidiata/1.jpg
+  page: https://www.inaturalist.org/photos/703159697
+  author: Jake Osborne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703159697/original.jpg
+- file: images/passeriformes/monarchidae/pomarea-dimidiata/2.jpg
+  page: https://www.inaturalist.org/photos/521735161
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521735161/original.jpg
+- file: images/passeriformes/monarchidae/pomarea-dimidiata/3.jpg
+  page: https://www.inaturalist.org/photos/571660310
+  author: nick_goldwater
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571660310/original.jpg
+- file: images/passeriformes/monarchidae/pomarea-dimidiata/4.jpg
+  page: https://www.inaturalist.org/photos/263978228
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263978228/original.jpeg
+- file: images/passeriformes/monarchidae/pomarea-dimidiata/5.jpg
+  page: https://www.inaturalist.org/photos/13239205
+  author: Geoff Shuetrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13239205/original.jpg
 ---
 
 

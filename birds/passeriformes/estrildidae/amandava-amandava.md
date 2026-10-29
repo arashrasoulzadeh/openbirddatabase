@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/amandava-amandava/1.jpg
+  page: https://www.inaturalist.org/photos/605285284
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605285284/original.jpg
+images:
+- file: images/passeriformes/estrildidae/amandava-amandava/1.jpg
+  page: https://www.inaturalist.org/photos/605285284
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605285284/original.jpg
+- file: images/passeriformes/estrildidae/amandava-amandava/2.jpg
+  page: https://www.inaturalist.org/photos/631413753
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631413753/original.jpg
+- file: images/passeriformes/estrildidae/amandava-amandava/3.jpg
+  page: https://www.inaturalist.org/photos/633548511
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633548511/original.jpg
+- file: images/passeriformes/estrildidae/amandava-amandava/4.jpg
+  page: https://www.inaturalist.org/photos/636189762
+  author: Will Cornwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636189762/original.jpg
+- file: images/passeriformes/estrildidae/amandava-amandava/5.jpg
+  page: https://www.inaturalist.org/photos/670116372
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670116372/original.jpg
 ---
 
 

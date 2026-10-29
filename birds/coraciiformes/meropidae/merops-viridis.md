@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/607137070
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137070/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/607137070
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137070/original.jpg
+- file: images/coraciiformes/meropidae/merops-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/610675115
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675115/original.jpg
+- file: images/coraciiformes/meropidae/merops-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/616319205
+  author: Steven Bodzin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616319205/original.jpg
+- file: images/coraciiformes/meropidae/merops-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/618954862
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618954862/original.jpg
+- file: images/coraciiformes/meropidae/merops-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/618950580
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618950580/original.jpg
 ---
 
 

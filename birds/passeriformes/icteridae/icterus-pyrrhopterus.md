@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-pyrrhopterus/1.jpg
+  page: https://www.inaturalist.org/photos/607590292
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607590292/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-pyrrhopterus/1.jpg
+  page: https://www.inaturalist.org/photos/607590292
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607590292/original.jpg
+- file: images/passeriformes/icteridae/icterus-pyrrhopterus/2.jpg
+  page: https://www.inaturalist.org/photos/607820820
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607820820/original.jpg
+- file: images/passeriformes/icteridae/icterus-pyrrhopterus/3.jpg
+  page: https://www.inaturalist.org/photos/609214124
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609214124/original.jpg
+- file: images/passeriformes/icteridae/icterus-pyrrhopterus/4.jpg
+  page: https://www.inaturalist.org/photos/612242651
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612242651/original.jpg
+- file: images/passeriformes/icteridae/icterus-pyrrhopterus/5.jpg
+  page: https://www.inaturalist.org/photos/611690317
+  author: tebobeto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611690317/original.jpg
 ---
 
 

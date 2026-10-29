@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/lochmias-nematura/1.jpg
+  page: https://www.inaturalist.org/photos/605533900
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605533900/original.jpg
+images:
+- file: images/passeriformes/furnariidae/lochmias-nematura/1.jpg
+  page: https://www.inaturalist.org/photos/605533900
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605533900/original.jpg
+- file: images/passeriformes/furnariidae/lochmias-nematura/2.jpg
+  page: https://www.inaturalist.org/photos/612766562
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612766562/original.jpg
+- file: images/passeriformes/furnariidae/lochmias-nematura/3.jpg
+  page: https://www.inaturalist.org/photos/642916475
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642916475/original.jpg
+- file: images/passeriformes/furnariidae/lochmias-nematura/4.jpg
+  page: https://www.inaturalist.org/photos/642330715
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642330715/original.jpg
+- file: images/passeriformes/furnariidae/lochmias-nematura/5.jpg
+  page: https://www.inaturalist.org/photos/644310607
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644310607/original.jpg
 ---
 
 

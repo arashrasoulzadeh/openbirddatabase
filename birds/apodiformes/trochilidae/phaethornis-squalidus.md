@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-squalidus/1.jpg
+  page: https://www.inaturalist.org/photos/686095173
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686095173/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-squalidus/1.jpg
+  page: https://www.inaturalist.org/photos/686095173
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686095173/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-squalidus/2.jpg
+  page: https://www.inaturalist.org/photos/514236898
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514236898/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-squalidus/3.jpg
+  page: https://www.inaturalist.org/photos/605562492
+  author: Paulo C. O. Cunha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605562492/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-squalidus/4.jpg
+  page: https://www.inaturalist.org/photos/240417466
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240417466/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-squalidus/5.jpg
+  page: https://www.inaturalist.org/photos/277816663
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/277816663/original.jpeg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/viduidae/vidua-obtusa/1.jpg
+  page: https://www.inaturalist.org/photos/541851331
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541851331/original.jpg
+images:
+- file: images/passeriformes/viduidae/vidua-obtusa/1.jpg
+  page: https://www.inaturalist.org/photos/541851331
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541851331/original.jpg
+- file: images/passeriformes/viduidae/vidua-obtusa/2.jpg
+  page: https://www.inaturalist.org/photos/205717613
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205717613/original.jpeg
+- file: images/passeriformes/viduidae/vidua-obtusa/3.jpg
+  page: https://www.inaturalist.org/photos/27308955
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27308955/original.jpeg
+- file: images/passeriformes/viduidae/vidua-obtusa/4.jpg
+  page: https://www.inaturalist.org/photos/537601303
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537601303/original.jpg
+- file: images/passeriformes/viduidae/vidua-obtusa/5.jpg
+  page: https://www.inaturalist.org/photos/27308961
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27308961/original.jpeg
 ---
 
 

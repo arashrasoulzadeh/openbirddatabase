@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/geospiza-acutirostris/1.jpg
+  page: https://www.inaturalist.org/photos/608262013
+  author: Alison
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608262013/original.jpg
+images:
+- file: images/passeriformes/thraupidae/geospiza-acutirostris/1.jpg
+  page: https://www.inaturalist.org/photos/608262013
+  author: Alison
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608262013/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-acutirostris/2.jpg
+  page: https://www.inaturalist.org/photos/674477528
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674477528/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-acutirostris/3.jpg
+  page: https://www.inaturalist.org/photos/559083122
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559083122/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-acutirostris/4.jpg
+  page: https://www.inaturalist.org/photos/580373268
+  author: rowan_m
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580373268/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-acutirostris/5.jpg
+  page: https://www.inaturalist.org/photos/452108958
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452108958/original.jpeg
 ---
 
 

@@ -140,8 +140,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/euchrepomis-callinota/1.jpg
+  page: https://www.inaturalist.org/photos/488799931
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488799931/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/euchrepomis-callinota/1.jpg
+  page: https://www.inaturalist.org/photos/488799931
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488799931/original.jpg
+- file: images/passeriformes/thamnophilidae/euchrepomis-callinota/2.jpg
+  page: https://www.inaturalist.org/photos/527296483
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527296483/original.jpg
+- file: images/passeriformes/thamnophilidae/euchrepomis-callinota/3.jpg
+  page: https://www.inaturalist.org/photos/732812759
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732812759/original.jpg
+- file: images/passeriformes/thamnophilidae/euchrepomis-callinota/4.jpg
+  page: https://www.inaturalist.org/photos/115629447
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/115629447/original.jpeg
 ---
 
 

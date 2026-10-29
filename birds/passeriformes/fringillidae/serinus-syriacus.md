@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/fringillidae/serinus-syriacus/1.jpg
+  page: https://www.inaturalist.org/photos/317276912
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/317276912/original.jpg
+images:
+- file: images/passeriformes/fringillidae/serinus-syriacus/1.jpg
+  page: https://www.inaturalist.org/photos/317276912
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/317276912/original.jpg
+- file: images/passeriformes/fringillidae/serinus-syriacus/2.jpg
+  page: https://www.inaturalist.org/photos/371857163
+  author: ramidos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/371857163/original.jpg
+- file: images/passeriformes/fringillidae/serinus-syriacus/3.jpg
+  page: https://www.inaturalist.org/photos/518196650
+  author: Nachman bones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518196650/original.jpg
+- file: images/passeriformes/fringillidae/serinus-syriacus/4.jpg
+  page: https://www.inaturalist.org/photos/93094713
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/93094713/original.jpeg
+- file: images/passeriformes/fringillidae/serinus-syriacus/5.jpg
+  page: https://www.inaturalist.org/photos/518196640
+  author: Nachman bones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518196640/original.jpg
 ---
 
 

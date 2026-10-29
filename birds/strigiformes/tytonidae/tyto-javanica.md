@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/tytonidae/tyto-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/612718490
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612718490/original.jpg
+images:
+- file: images/strigiformes/tytonidae/tyto-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/612718490
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612718490/original.jpg
+- file: images/strigiformes/tytonidae/tyto-javanica/2.jpg
+  page: https://www.inaturalist.org/photos/615535149
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615535149/original.jpg
+- file: images/strigiformes/tytonidae/tyto-javanica/3.jpg
+  page: https://www.inaturalist.org/photos/618849694
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849694/original.jpg
+- file: images/strigiformes/tytonidae/tyto-javanica/4.jpg
+  page: https://www.inaturalist.org/photos/622323125
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622323125/original.gif
+- file: images/strigiformes/tytonidae/tyto-javanica/5.jpg
+  page: https://www.inaturalist.org/photos/607916793
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607916793/original.jpg
 ---
 
 

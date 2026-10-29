@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/momotidae/baryphthengus-martii/1.jpg
+  page: https://www.inaturalist.org/photos/607416325
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607416325/original.jpg
+images:
+- file: images/coraciiformes/momotidae/baryphthengus-martii/1.jpg
+  page: https://www.inaturalist.org/photos/607416325
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607416325/original.jpg
+- file: images/coraciiformes/momotidae/baryphthengus-martii/2.jpg
+  page: https://www.inaturalist.org/photos/613762848
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762848/original.jpg
+- file: images/coraciiformes/momotidae/baryphthengus-martii/3.jpg
+  page: https://www.inaturalist.org/photos/612769642
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612769642/original.jpg
+- file: images/coraciiformes/momotidae/baryphthengus-martii/4.jpg
+  page: https://www.inaturalist.org/photos/615095549
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615095549/original.jpg
+- file: images/coraciiformes/momotidae/baryphthengus-martii/5.jpg
+  page: https://www.inaturalist.org/photos/612769672
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612769672/original.jpg
 ---
 
 

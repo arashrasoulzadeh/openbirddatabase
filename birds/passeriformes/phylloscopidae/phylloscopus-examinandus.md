@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 3
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-examinandus/1.jpg
+  page: https://www.inaturalist.org/photos/683922774
+  author: Константин Шатилов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683922774/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-examinandus/1.jpg
+  page: https://www.inaturalist.org/photos/683922774
+  author: Константин Шатилов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683922774/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-examinandus/2.jpg
+  page: https://www.inaturalist.org/photos/684030691
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684030691/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-examinandus/3.jpg
+  page: https://www.inaturalist.org/photos/527968054
+  author: Валерия Ковалева
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527968054/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-examinandus/4.jpg
+  page: https://www.inaturalist.org/photos/559965906
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559965906/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-examinandus/5.jpg
+  page: https://www.inaturalist.org/photos/466325951
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466325951/original.jpg
 ---
 
 

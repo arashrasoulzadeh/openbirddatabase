@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/suliformes/phalacrocoracidae/phalacrocorax-sulcirostris/1.jpg
+  page: https://www.inaturalist.org/photos/604994860
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604994860/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-sulcirostris/1.jpg
+  page: https://www.inaturalist.org/photos/604994860
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604994860/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-sulcirostris/2.jpg
+  page: https://www.inaturalist.org/photos/605262041
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605262041/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-sulcirostris/3.jpg
+  page: https://www.inaturalist.org/photos/604950430
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604950430/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-sulcirostris/4.jpg
+  page: https://www.inaturalist.org/photos/610146060
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146060/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-sulcirostris/5.jpg
+  page: https://www.inaturalist.org/photos/605262090
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605262090/original.jpg
 ---
 
 

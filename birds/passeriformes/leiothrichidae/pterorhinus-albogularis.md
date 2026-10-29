@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/615635700
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635700/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/615635700
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635700/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/618764471
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618764471/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/635095414
+  author: Tarun Meena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635095414/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/626322503
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626322503/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/637225528
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637225528/original.jpg
 ---
 
 

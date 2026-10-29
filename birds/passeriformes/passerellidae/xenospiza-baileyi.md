@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/xenospiza-baileyi/1.jpg
+  page: https://www.inaturalist.org/photos/632387621
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632387621/original.jpg
+images:
+- file: images/passeriformes/passerellidae/xenospiza-baileyi/1.jpg
+  page: https://www.inaturalist.org/photos/632387621
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632387621/original.jpg
+- file: images/passeriformes/passerellidae/xenospiza-baileyi/2.jpg
+  page: https://www.inaturalist.org/photos/723070774
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723070774/original.jpg
+- file: images/passeriformes/passerellidae/xenospiza-baileyi/3.jpg
+  page: https://www.inaturalist.org/photos/370307381
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370307381/original.jpeg
+- file: images/passeriformes/passerellidae/xenospiza-baileyi/4.jpg
+  page: https://www.inaturalist.org/photos/343173388
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343173388/original.jpeg
+- file: images/passeriformes/passerellidae/xenospiza-baileyi/5.jpg
+  page: https://www.inaturalist.org/photos/163852147
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163852147/original.jpg
 ---
 
 

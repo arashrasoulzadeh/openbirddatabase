@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/basilinna-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/608482095
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608482095/original.jpg
+images:
+- file: images/apodiformes/trochilidae/basilinna-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/608482095
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608482095/original.jpg
+- file: images/apodiformes/trochilidae/basilinna-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/611483288
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611483288/original.jpg
+- file: images/apodiformes/trochilidae/basilinna-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/616466481
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616466481/original.jpg
+- file: images/apodiformes/trochilidae/basilinna-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/616642626
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616642626/original.jpg
+- file: images/apodiformes/trochilidae/basilinna-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/620243491
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620243491/original.jpg
 ---
 
 

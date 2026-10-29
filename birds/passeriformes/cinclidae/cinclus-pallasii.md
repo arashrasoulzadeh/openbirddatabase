@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cinclidae/cinclus-pallasii/1.jpg
+  page: https://www.inaturalist.org/photos/604455090
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604455090/original.jpg
+images:
+- file: images/passeriformes/cinclidae/cinclus-pallasii/1.jpg
+  page: https://www.inaturalist.org/photos/604455090
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604455090/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-pallasii/2.jpg
+  page: https://www.inaturalist.org/photos/610111558
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610111558/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-pallasii/3.jpg
+  page: https://www.inaturalist.org/photos/609645624
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609645624/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-pallasii/4.jpg
+  page: https://www.inaturalist.org/photos/623881062
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623881062/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-pallasii/5.jpg
+  page: https://www.inaturalist.org/photos/613181112
+  author: RX ZHANG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613181112/original.jpg
 ---
 
 

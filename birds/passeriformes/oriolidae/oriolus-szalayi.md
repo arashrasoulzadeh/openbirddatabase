@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-szalayi/1.jpg
+  page: https://www.inaturalist.org/photos/606373537
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606373537/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-szalayi/1.jpg
+  page: https://www.inaturalist.org/photos/606373537
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606373537/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-szalayi/2.jpg
+  page: https://www.inaturalist.org/photos/734251009
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251009/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-szalayi/3.jpg
+  page: https://www.inaturalist.org/photos/698709585
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698709585/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-szalayi/4.jpg
+  page: https://www.inaturalist.org/photos/565767384
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565767384/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-szalayi/5.jpg
+  page: https://www.inaturalist.org/photos/611954974
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611954974/original.jpg
 ---
 
 

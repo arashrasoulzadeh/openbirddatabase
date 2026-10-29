@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/chloephaga-rubidiceps/1.jpg
+  page: https://www.inaturalist.org/photos/617085508
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617085508/original.jpg
+images:
+- file: images/anseriformes/anatidae/chloephaga-rubidiceps/1.jpg
+  page: https://www.inaturalist.org/photos/617085508
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617085508/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-rubidiceps/2.jpg
+  page: https://www.inaturalist.org/photos/697361951
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697361951/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-rubidiceps/3.jpg
+  page: https://www.inaturalist.org/photos/538256090
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538256090/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-rubidiceps/4.jpg
+  page: https://www.inaturalist.org/photos/593143833
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593143833/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-rubidiceps/5.jpg
+  page: https://www.inaturalist.org/photos/595129944
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595129944/original.jpg
 ---
 
 

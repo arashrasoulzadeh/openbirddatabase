@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/petroicidae/petroica-phoenicea/1.jpg
+  page: https://www.inaturalist.org/photos/605020901
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020901/original.jpg
+images:
+- file: images/passeriformes/petroicidae/petroica-phoenicea/1.jpg
+  page: https://www.inaturalist.org/photos/605020901
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020901/original.jpg
+- file: images/passeriformes/petroicidae/petroica-phoenicea/2.jpg
+  page: https://www.inaturalist.org/photos/605240306
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605240306/original.jpg
+- file: images/passeriformes/petroicidae/petroica-phoenicea/3.jpg
+  page: https://www.inaturalist.org/photos/615948651
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615948651/original.jpg
+- file: images/passeriformes/petroicidae/petroica-phoenicea/4.jpg
+  page: https://www.inaturalist.org/photos/617975595
+  author: Petra Holland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617975595/original.jpg
+- file: images/passeriformes/petroicidae/petroica-phoenicea/5.jpg
+  page: https://www.inaturalist.org/photos/623855871
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623855871/original.jpg
 ---
 
 

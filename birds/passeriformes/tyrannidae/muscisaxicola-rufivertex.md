@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-rufivertex/1.jpg
+  page: https://www.inaturalist.org/photos/605913940
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605913940/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-rufivertex/1.jpg
+  page: https://www.inaturalist.org/photos/605913940
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605913940/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-rufivertex/2.jpg
+  page: https://www.inaturalist.org/photos/628801462
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628801462/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-rufivertex/3.jpg
+  page: https://www.inaturalist.org/photos/659132132
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659132132/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-rufivertex/4.jpg
+  page: https://www.flickr.com/photos/womullan/55532371221/
+  author: wil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735520815/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-rufivertex/5.jpg
+  page: https://www.inaturalist.org/photos/462166849
+  author: SebaArosZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462166849/original.jpeg
 ---
 
 

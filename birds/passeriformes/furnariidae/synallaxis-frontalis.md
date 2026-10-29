@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/synallaxis-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/609297210
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609297210/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/609297210
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609297210/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/617453381
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617453381/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/630732607
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630732607/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/649856991
+  author: Naelin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649856991/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/667126370
+  author: the_adventure_hunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667126370/original.jpg
 ---
 
 

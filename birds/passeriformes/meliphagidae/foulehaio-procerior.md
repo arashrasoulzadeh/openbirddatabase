@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/foulehaio-procerior/1.jpg
+  page: https://www.inaturalist.org/photos/727514989
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727514989/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/foulehaio-procerior/1.jpg
+  page: https://www.inaturalist.org/photos/727514989
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727514989/original.jpg
+- file: images/passeriformes/meliphagidae/foulehaio-procerior/2.jpg
+  page: https://www.inaturalist.org/photos/481957981
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481957981/original.jpg
+- file: images/passeriformes/meliphagidae/foulehaio-procerior/3.jpg
+  page: https://www.inaturalist.org/photos/407756349
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407756349/original.jpeg
+- file: images/passeriformes/meliphagidae/foulehaio-procerior/4.jpg
+  page: https://www.inaturalist.org/photos/404869279
+  author: nick_goldwater
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404869279/original.jpg
+- file: images/passeriformes/meliphagidae/foulehaio-procerior/5.jpg
+  page: https://www.inaturalist.org/photos/473347508
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473347508/original.jpg
 ---
 
 

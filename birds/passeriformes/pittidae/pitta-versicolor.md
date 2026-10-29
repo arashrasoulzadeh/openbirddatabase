@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/pittidae/pitta-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/605303861
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303861/original.jpg
+images:
+- file: images/passeriformes/pittidae/pitta-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/605303861
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303861/original.jpg
+- file: images/passeriformes/pittidae/pitta-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/615148584
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615148584/original.jpg
+- file: images/passeriformes/pittidae/pitta-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/617675454
+  author: sambolts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617675454/original.jpg
+- file: images/passeriformes/pittidae/pitta-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/632049945
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632049945/original.jpg
+- file: images/passeriformes/pittidae/pitta-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/637860183
+  author: tallarook
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637860183/original.jpg
 ---
 
 

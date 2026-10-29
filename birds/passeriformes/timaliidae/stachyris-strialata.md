@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/stachyris-strialata/1.jpg
+  page: https://www.inaturalist.org/photos/514698242
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514698242/original.jpg
+images:
+- file: images/passeriformes/timaliidae/stachyris-strialata/1.jpg
+  page: https://www.inaturalist.org/photos/514698242
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514698242/original.jpg
+- file: images/passeriformes/timaliidae/stachyris-strialata/2.jpg
+  page: https://www.inaturalist.org/photos/105862314
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105862314/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-strialata/3.jpg
+  page: https://www.inaturalist.org/photos/546751898
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546751898/original.jpg
+- file: images/passeriformes/timaliidae/stachyris-strialata/4.jpg
+  page: https://www.inaturalist.org/photos/105862328
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105862328/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-strialata/5.jpg
+  page: https://www.inaturalist.org/photos/105862352
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105862352/original.jpeg
 ---
 
 

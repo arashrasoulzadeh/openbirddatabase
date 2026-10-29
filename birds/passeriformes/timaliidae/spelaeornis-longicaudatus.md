@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.4
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 53.0
   tail_length_mm: 45.2
   body_mass_g: 12.0
+image:
+  file: images/passeriformes/timaliidae/spelaeornis-longicaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/417573957
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417573957/original.jpg
+images:
+- file: images/passeriformes/timaliidae/spelaeornis-longicaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/417573957
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417573957/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-longicaudatus/2.jpg
+  page: https://www.inaturalist.org/photos/417573917
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417573917/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-longicaudatus/3.jpg
+  page: https://www.inaturalist.org/photos/417573886
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417573886/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-longicaudatus/4.jpg
+  page: https://www.inaturalist.org/photos/417573876
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417573876/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-longicaudatus/5.jpg
+  page: https://www.inaturalist.org/photos/175688639
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175688639/original.jpg
 ---
 
 

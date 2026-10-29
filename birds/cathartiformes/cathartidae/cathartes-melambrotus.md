@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cathartiformes/cathartidae/cathartes-melambrotus/1.jpg
+  page: https://www.inaturalist.org/photos/613281485
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613281485/original.jpg
+images:
+- file: images/cathartiformes/cathartidae/cathartes-melambrotus/1.jpg
+  page: https://www.inaturalist.org/photos/613281485
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613281485/original.jpg
+- file: images/cathartiformes/cathartidae/cathartes-melambrotus/2.jpg
+  page: https://www.inaturalist.org/photos/617332609
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617332609/original.jpg
+- file: images/cathartiformes/cathartidae/cathartes-melambrotus/3.jpg
+  page: https://www.inaturalist.org/photos/616758770
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616758770/original.jpg
+- file: images/cathartiformes/cathartidae/cathartes-melambrotus/4.jpg
+  page: https://www.inaturalist.org/photos/622143119
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622143119/original.jpg
+- file: images/cathartiformes/cathartidae/cathartes-melambrotus/5.jpg
+  page: https://www.inaturalist.org/photos/625974386
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625974386/original.jpg
 ---
 
 

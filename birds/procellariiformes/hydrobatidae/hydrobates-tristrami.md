@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-tristrami/1.jpg
+  page: https://www.inaturalist.org/photos/186390950
+  author: WATANABE Hitoshi 渡辺仁
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186390950/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-tristrami/1.jpg
+  page: https://www.inaturalist.org/photos/186390950
+  author: WATANABE Hitoshi 渡辺仁
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186390950/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-tristrami/2.jpg
+  page: https://www.inaturalist.org/photos/186390648
+  author: WATANABE Hitoshi 渡辺仁
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186390648/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-tristrami/3.jpg
+  page: https://www.inaturalist.org/photos/186390869
+  author: WATANABE Hitoshi 渡辺仁
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186390869/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-tristrami/4.jpg
+  page: https://www.inaturalist.org/photos/186390335
+  author: WATANABE Hitoshi 渡辺仁
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186390335/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-tristrami/5.jpg
+  page: https://www.inaturalist.org/photos/186390136
+  author: WATANABE Hitoshi 渡辺仁
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186390136/original.jpg
 ---
 
 

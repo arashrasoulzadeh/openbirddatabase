@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-tigrinus/1.jpg
+  page: https://www.inaturalist.org/photos/741654862
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741654862/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-tigrinus/1.jpg
+  page: https://www.inaturalist.org/photos/741654862
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741654862/original.jpg
+- file: images/passeriformes/laniidae/lanius-tigrinus/2.jpg
+  page: https://www.inaturalist.org/photos/624173265
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624173265/original.jpg
+- file: images/passeriformes/laniidae/lanius-tigrinus/3.jpg
+  page: https://www.inaturalist.org/photos/682046928
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682046928/original.jpg
+- file: images/passeriformes/laniidae/lanius-tigrinus/4.jpg
+  page: https://www.inaturalist.org/photos/687623807
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687623807/original.jpg
+- file: images/passeriformes/laniidae/lanius-tigrinus/5.jpg
+  page: https://www.inaturalist.org/photos/624179422
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624179422/original.jpg
 ---
 
 

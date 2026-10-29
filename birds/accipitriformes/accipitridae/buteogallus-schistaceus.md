@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteogallus-schistaceus/1.jpg
+  page: https://www.inaturalist.org/photos/620424779
+  author: Stan Rullman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620424779/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteogallus-schistaceus/1.jpg
+  page: https://www.inaturalist.org/photos/620424779
+  author: Stan Rullman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620424779/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-schistaceus/2.jpg
+  page: https://www.inaturalist.org/photos/627368281
+  author: Brunno Thadeu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627368281/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-schistaceus/3.jpg
+  page: https://www.inaturalist.org/photos/674270812
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674270812/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-schistaceus/4.jpg
+  page: https://www.inaturalist.org/photos/714926384
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714926384/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-schistaceus/5.jpg
+  page: https://www.inaturalist.org/photos/465708511
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465708511/original.jpeg
 ---
 
 

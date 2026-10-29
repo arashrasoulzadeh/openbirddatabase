@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/heterophasia-gracilis/1.jpg
+  page: https://www.inaturalist.org/photos/514549245
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514549245/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/heterophasia-gracilis/1.jpg
+  page: https://www.inaturalist.org/photos/514549245
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514549245/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-gracilis/2.jpg
+  page: https://www.inaturalist.org/photos/548756764
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548756764/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-gracilis/3.jpg
+  page: https://www.inaturalist.org/photos/603841614
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603841614/original.jpg
+- file: images/passeriformes/leiothrichidae/heterophasia-gracilis/4.jpg
+  page: https://www.inaturalist.org/photos/70083280
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70083280/original.jpeg
+- file: images/passeriformes/leiothrichidae/heterophasia-gracilis/5.jpg
+  page: https://www.inaturalist.org/photos/53056402
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53056402/original.jpeg
 ---
 
 

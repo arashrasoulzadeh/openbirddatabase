@@ -134,7 +134,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 22.1
@@ -142,6 +143,38 @@ morphology:
   wing_length_mm: 86.5
   tail_length_mm: 50.2
   body_mass_g: 60.1
+image:
+  file: images/piciformes/lybiidae/lybius-rubrifacies/1.jpg
+  page: https://www.inaturalist.org/photos/253617842
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253617842/original.jpeg
+images:
+- file: images/piciformes/lybiidae/lybius-rubrifacies/1.jpg
+  page: https://www.inaturalist.org/photos/253617842
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253617842/original.jpeg
+- file: images/piciformes/lybiidae/lybius-rubrifacies/2.jpg
+  page: https://www.inaturalist.org/photos/257842976
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257842976/original.jpeg
+- file: images/piciformes/lybiidae/lybius-rubrifacies/3.jpg
+  page: https://www.inaturalist.org/photos/253618205
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253618205/original.jpeg
+- file: images/piciformes/lybiidae/lybius-rubrifacies/4.jpg
+  page: https://www.inaturalist.org/photos/257842996
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257842996/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/knipolegus-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/474005422
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474005422/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/knipolegus-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/474005422
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474005422/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-cabanisi/2.jpg
+  page: https://www.inaturalist.org/photos/583996334
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583996334/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-cabanisi/3.jpg
+  page: https://www.inaturalist.org/photos/602750574
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602750574/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-cabanisi/4.jpg
+  page: https://www.inaturalist.org/photos/396819325
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396819325/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-cabanisi/5.jpg
+  page: https://www.inaturalist.org/photos/432761526
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/432761526/original.jpg
 ---
 
 

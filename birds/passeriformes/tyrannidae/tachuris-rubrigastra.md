@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tachuris-rubrigastra/1.jpg
+  page: https://www.inaturalist.org/photos/608791545
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608791545/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tachuris-rubrigastra/1.jpg
+  page: https://www.inaturalist.org/photos/608791545
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608791545/original.jpg
+- file: images/passeriformes/tyrannidae/tachuris-rubrigastra/2.jpg
+  page: https://www.inaturalist.org/photos/606291013
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606291013/original.jpg
+- file: images/passeriformes/tyrannidae/tachuris-rubrigastra/3.jpg
+  page: https://www.inaturalist.org/photos/612850866
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612850866/original.jpg
+- file: images/passeriformes/tyrannidae/tachuris-rubrigastra/4.jpg
+  page: https://www.inaturalist.org/photos/615855053
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615855053/original.jpg
+- file: images/passeriformes/tyrannidae/tachuris-rubrigastra/5.jpg
+  page: https://www.inaturalist.org/photos/626209774
+  author: Felipe Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626209774/original.jpg
 ---
 
 

@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/zoothera-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/423376403
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423376403/original.jpeg
+images:
+- file: images/passeriformes/turdidae/zoothera-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/423376403
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423376403/original.jpeg
+- file: images/passeriformes/turdidae/zoothera-everetti/2.jpg
+  page: https://www.inaturalist.org/photos/296278254
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296278254/original.jpg
+- file: images/passeriformes/turdidae/zoothera-everetti/3.jpg
+  page: https://www.inaturalist.org/photos/219405732
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219405732/original.jpg
+- file: images/passeriformes/turdidae/zoothera-everetti/4.jpg
+  page: https://www.inaturalist.org/photos/61904381
+  author: Ben Tsai蔡維哲
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61904381/original.jpg
+- file: images/passeriformes/turdidae/zoothera-everetti/5.jpg
+  page: https://www.inaturalist.org/photos/296284630
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296284630/original.jpg
 ---
 
 

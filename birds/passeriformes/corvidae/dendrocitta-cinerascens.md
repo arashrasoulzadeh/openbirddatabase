@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/dendrocitta-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/622268463
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622268463/original.jpg
+images:
+- file: images/passeriformes/corvidae/dendrocitta-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/622268463
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622268463/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-cinerascens/2.jpg
+  page: https://www.inaturalist.org/photos/686364123
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686364123/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-cinerascens/3.jpg
+  page: https://www.inaturalist.org/photos/472440005
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472440005/original.jpeg
+- file: images/passeriformes/corvidae/dendrocitta-cinerascens/4.jpg
+  page: https://www.inaturalist.org/photos/474678744
+  author: Mok Zhuang Yu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474678744/original.jpeg
+- file: images/passeriformes/corvidae/dendrocitta-cinerascens/5.jpg
+  page: https://www.inaturalist.org/photos/473363348
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473363348/original.jpeg
 ---
 
 

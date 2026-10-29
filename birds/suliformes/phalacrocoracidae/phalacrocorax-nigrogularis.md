@@ -145,7 +145,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 73.5
@@ -153,6 +154,44 @@ morphology:
   wing_length_mm: 282.8
   tail_length_mm: 92.0
   body_mass_g: 1560.0
+image:
+  file: images/suliformes/phalacrocoracidae/phalacrocorax-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/717743888
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717743888/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/717743888
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717743888/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-nigrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/727859808
+  author: Manca Alič
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727859808/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-nigrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/471591611
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471591611/original.jpeg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-nigrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/582775589
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582775589/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-nigrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/455062503
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455062503/original.jpg
 ---
 
 

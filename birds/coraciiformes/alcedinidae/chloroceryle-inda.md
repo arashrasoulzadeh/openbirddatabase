@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/chloroceryle-inda/1.jpg
+  page: https://www.inaturalist.org/photos/618701614
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618701614/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/chloroceryle-inda/1.jpg
+  page: https://www.inaturalist.org/photos/618701614
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618701614/original.jpg
+- file: images/coraciiformes/alcedinidae/chloroceryle-inda/2.jpg
+  page: https://www.inaturalist.org/photos/619187044
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619187044/original.jpg
+- file: images/coraciiformes/alcedinidae/chloroceryle-inda/3.jpg
+  page: https://www.inaturalist.org/photos/465644189
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465644189/original.jpeg
+- file: images/coraciiformes/alcedinidae/chloroceryle-inda/4.jpg
+  page: https://www.inaturalist.org/photos/467934657
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467934657/original.jpg
+- file: images/coraciiformes/alcedinidae/chloroceryle-inda/5.jpg
+  page: https://www.inaturalist.org/photos/470861313
+  author: TheMongrelKoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470861313/original.jpeg
 ---
 
 

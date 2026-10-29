@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendrocopos-atratus/1.jpg
+  page: https://www.inaturalist.org/photos/611427589
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611427589/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-atratus/1.jpg
+  page: https://www.inaturalist.org/photos/611427589
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611427589/original.jpg
+- file: images/piciformes/picidae/dendrocopos-atratus/2.jpg
+  page: https://www.inaturalist.org/photos/630735207
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630735207/original.jpg
+- file: images/piciformes/picidae/dendrocopos-atratus/3.jpg
+  page: https://www.inaturalist.org/photos/722403965
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403965/original.jpg
+- file: images/piciformes/picidae/dendrocopos-atratus/4.jpg
+  page: https://www.inaturalist.org/photos/469282713
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469282713/original.jpeg
+- file: images/piciformes/picidae/dendrocopos-atratus/5.jpg
+  page: https://www.inaturalist.org/photos/590817373
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590817373/original.jpg
 ---
 
 

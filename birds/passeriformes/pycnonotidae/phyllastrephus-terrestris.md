@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/phyllastrephus-terrestris/1.jpg
+  page: https://www.inaturalist.org/photos/624178698
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624178698/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/phyllastrephus-terrestris/1.jpg
+  page: https://www.inaturalist.org/photos/624178698
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624178698/original.jpg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-terrestris/2.jpg
+  page: https://www.inaturalist.org/photos/654028841
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654028841/original.jpg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-terrestris/3.jpg
+  page: https://www.inaturalist.org/photos/734315164
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734315164/original.jpg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-terrestris/4.jpg
+  page: https://www.inaturalist.org/photos/462081342
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462081342/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-terrestris/5.jpg
+  page: https://www.inaturalist.org/photos/624178808
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624178808/original.jpg
 ---
 
 

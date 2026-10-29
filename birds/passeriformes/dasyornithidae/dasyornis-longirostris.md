@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dasyornithidae/dasyornis-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/492855439
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492855439/original.jpeg
+images:
+- file: images/passeriformes/dasyornithidae/dasyornis-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/492855439
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492855439/original.jpeg
+- file: images/passeriformes/dasyornithidae/dasyornis-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/513323652
+  author: pimelea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513323652/original.jpg
+- file: images/passeriformes/dasyornithidae/dasyornis-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/430979886
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/430979886/original.jpeg
+- file: images/passeriformes/dasyornithidae/dasyornis-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/437823624
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437823624/original.jpg
+- file: images/passeriformes/dasyornithidae/dasyornis-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/453701811
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453701811/original.jpg
 ---
 
 

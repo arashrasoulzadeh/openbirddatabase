@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/anseriformes/anatidae/melanitta-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/605425755
+  author: Maria Kohanovskaya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605425755/original.jpg
+images:
+- file: images/anseriformes/anatidae/melanitta-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/605425755
+  author: Maria Kohanovskaya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605425755/original.jpg
+- file: images/anseriformes/anatidae/melanitta-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/607647547
+  author: Jannik Stokholm
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607647547/original.jpg
+- file: images/anseriformes/anatidae/melanitta-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/612145186
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612145186/original.jpg
+- file: images/anseriformes/anatidae/melanitta-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/611841904
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611841904/original.jpg
+- file: images/anseriformes/anatidae/melanitta-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/611641274
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611641274/original.jpg
 ---
 
 

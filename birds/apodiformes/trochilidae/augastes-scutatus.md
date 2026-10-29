@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/augastes-scutatus/1.jpg
+  page: https://www.inaturalist.org/photos/470790238
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470790238/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/augastes-scutatus/1.jpg
+  page: https://www.inaturalist.org/photos/470790238
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470790238/original.jpeg
+- file: images/apodiformes/trochilidae/augastes-scutatus/2.jpg
+  page: https://www.inaturalist.org/photos/443250330
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443250330/original.jpeg
+- file: images/apodiformes/trochilidae/augastes-scutatus/3.jpg
+  page: https://www.inaturalist.org/photos/251588228
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251588228/original.jpeg
+- file: images/apodiformes/trochilidae/augastes-scutatus/4.jpg
+  page: https://www.inaturalist.org/photos/257580117
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257580117/original.jpeg
+- file: images/apodiformes/trochilidae/augastes-scutatus/5.jpg
+  page: https://www.inaturalist.org/photos/141436923
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/141436923/original.jpg
 ---
 
 

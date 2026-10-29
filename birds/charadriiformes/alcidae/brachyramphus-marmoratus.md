@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/charadriiformes/alcidae/brachyramphus-marmoratus/1.jpg
+  page: https://www.inaturalist.org/photos/609135164
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609135164/original.jpg
+images:
+- file: images/charadriiformes/alcidae/brachyramphus-marmoratus/1.jpg
+  page: https://www.inaturalist.org/photos/609135164
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609135164/original.jpg
+- file: images/charadriiformes/alcidae/brachyramphus-marmoratus/2.jpg
+  page: https://www.inaturalist.org/photos/606017407
+  author: Mara Christensen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606017407/original.jpg
+- file: images/charadriiformes/alcidae/brachyramphus-marmoratus/3.jpg
+  page: https://www.inaturalist.org/photos/617414733
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617414733/original.jpg
+- file: images/charadriiformes/alcidae/brachyramphus-marmoratus/4.jpg
+  page: https://www.inaturalist.org/photos/623115822
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623115822/original.jpg
+- file: images/charadriiformes/alcidae/brachyramphus-marmoratus/5.jpg
+  page: https://www.inaturalist.org/photos/647254343
+  author: Ben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647254343/original.jpg
 ---
 
 

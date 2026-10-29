@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/formicariidae/chamaeza-campanisona/1.jpg
+  page: https://www.inaturalist.org/photos/605697163
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697163/original.jpg
+images:
+- file: images/passeriformes/formicariidae/chamaeza-campanisona/1.jpg
+  page: https://www.inaturalist.org/photos/605697163
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697163/original.jpg
+- file: images/passeriformes/formicariidae/chamaeza-campanisona/2.jpg
+  page: https://www.inaturalist.org/photos/605914584
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914584/original.jpg
+- file: images/passeriformes/formicariidae/chamaeza-campanisona/3.jpg
+  page: https://www.inaturalist.org/photos/469390019
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469390019/original.jpeg
+- file: images/passeriformes/formicariidae/chamaeza-campanisona/4.jpg
+  page: https://www.inaturalist.org/photos/559575683
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559575683/original.jpg
+- file: images/passeriformes/formicariidae/chamaeza-campanisona/5.jpg
+  page: https://www.inaturalist.org/photos/454758672
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454758672/original.jpg
 ---
 
 

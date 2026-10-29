@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/698210524
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698210524/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/698210524
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698210524/original.jpg
+- file: images/columbiformes/columbidae/ducula-pacifica/2.jpg
+  page: https://www.inaturalist.org/photos/705006211
+  author: Jake Osborne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705006211/original.jpg
+- file: images/columbiformes/columbidae/ducula-pacifica/3.jpg
+  page: https://www.inaturalist.org/photos/728465720
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728465720/original.jpg
+- file: images/columbiformes/columbidae/ducula-pacifica/4.jpg
+  page: https://www.inaturalist.org/photos/491661549
+  author: Leon Perrie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491661549/original.jpeg
+- file: images/columbiformes/columbidae/ducula-pacifica/5.jpg
+  page: https://www.inaturalist.org/photos/534657704
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534657704/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/heterocercus-aurantiivertex/1.jpg
+  page: https://www.inaturalist.org/photos/398623457
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398623457/original.jpg
+images:
+- file: images/passeriformes/pipridae/heterocercus-aurantiivertex/1.jpg
+  page: https://www.inaturalist.org/photos/398623457
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398623457/original.jpg
+- file: images/passeriformes/pipridae/heterocercus-aurantiivertex/2.jpg
+  page: https://www.inaturalist.org/photos/426775742
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775742/original.jpg
+- file: images/passeriformes/pipridae/heterocercus-aurantiivertex/3.jpg
+  page: https://www.inaturalist.org/photos/160797794
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/160797794/original.jpeg
+- file: images/passeriformes/pipridae/heterocercus-aurantiivertex/4.jpg
+  page: https://www.inaturalist.org/photos/158498757
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158498757/original.jpeg
+- file: images/passeriformes/pipridae/heterocercus-aurantiivertex/5.jpg
+  page: https://www.inaturalist.org/photos/398623451
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398623451/original.jpg
 ---
 
 

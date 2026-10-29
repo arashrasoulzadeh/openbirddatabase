@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-myristicivora/1.jpg
+  page: https://www.inaturalist.org/photos/624898665
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624898665/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-myristicivora/1.jpg
+  page: https://www.inaturalist.org/photos/624898665
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624898665/original.jpg
+- file: images/columbiformes/columbidae/ducula-myristicivora/2.jpg
+  page: https://www.inaturalist.org/photos/699099638
+  author: Roger Rittmaster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699099638/original.jpg
+- file: images/columbiformes/columbidae/ducula-myristicivora/3.jpg
+  page: https://www.inaturalist.org/photos/477472767
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477472767/original.jpeg
+- file: images/columbiformes/columbidae/ducula-myristicivora/4.jpg
+  page: https://www.inaturalist.org/photos/563015633
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563015633/original.jpg
+- file: images/columbiformes/columbidae/ducula-myristicivora/5.jpg
+  page: https://www.inaturalist.org/photos/597645739
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597645739/original.jpg
 ---
 
 

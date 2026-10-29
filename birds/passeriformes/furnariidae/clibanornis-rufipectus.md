@@ -131,10 +131,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/clibanornis-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/699823814
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699823814/original.jpg
+images:
+- file: images/passeriformes/furnariidae/clibanornis-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/699823814
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699823814/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-rufipectus/2.jpg
+  page: https://www.inaturalist.org/photos/255939430
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255939430/original.jpeg
+- file: images/passeriformes/furnariidae/clibanornis-rufipectus/3.jpg
+  page: https://www.inaturalist.org/photos/343007640
+  author: Madeleine Claire
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343007640/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-rufipectus/4.jpg
+  page: https://www.inaturalist.org/photos/255939400
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255939400/original.jpeg
+- file: images/passeriformes/furnariidae/clibanornis-rufipectus/5.jpg
+  page: https://www.inaturalist.org/photos/343007644
+  author: Madeleine Claire
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343007644/original.jpg
 ---
 
 

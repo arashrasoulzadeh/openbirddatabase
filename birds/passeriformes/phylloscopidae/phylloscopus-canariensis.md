@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-canariensis/1.jpg
+  page: https://www.inaturalist.org/photos/605581260
+  author: Elias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605581260/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-canariensis/1.jpg
+  page: https://www.inaturalist.org/photos/605581260
+  author: Elias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605581260/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-canariensis/2.jpg
+  page: https://www.inaturalist.org/photos/615766079
+  author: Roy Lowry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615766079/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-canariensis/3.jpg
+  page: https://www.inaturalist.org/photos/617840705
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617840705/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-canariensis/4.jpg
+  page: https://www.inaturalist.org/photos/615835610
+  author: Paul F
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615835610/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-canariensis/5.jpg
+  page: https://www.inaturalist.org/photos/624563109
+  author: hansi_27p
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624563109/original.jpg
 ---
 
 

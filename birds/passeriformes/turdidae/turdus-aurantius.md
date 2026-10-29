@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-aurantius/1.jpg
+  page: https://www.inaturalist.org/photos/469425118
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469425118/original.jpeg
+images:
+- file: images/passeriformes/turdidae/turdus-aurantius/1.jpg
+  page: https://www.inaturalist.org/photos/469425118
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469425118/original.jpeg
+- file: images/passeriformes/turdidae/turdus-aurantius/2.jpg
+  page: https://www.inaturalist.org/photos/353713012
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353713012/original.jpg
+- file: images/passeriformes/turdidae/turdus-aurantius/3.jpg
+  page: https://www.inaturalist.org/photos/361013022
+  author: Lsf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361013022/original.jpg
+- file: images/passeriformes/turdidae/turdus-aurantius/4.jpg
+  page: https://www.inaturalist.org/photos/585673781
+  author: Mark McClelland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585673781/original.jpg
+- file: images/passeriformes/turdidae/turdus-aurantius/5.jpg
+  page: https://www.inaturalist.org/photos/392223171
+  author: Marilyne Busque-Dubois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392223171/original.jpeg
 ---
 
 

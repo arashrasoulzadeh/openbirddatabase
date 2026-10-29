@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-consobrinus/1.jpg
+  page: https://www.inaturalist.org/photos/607135898
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607135898/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-consobrinus/1.jpg
+  page: https://www.inaturalist.org/photos/607135898
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607135898/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-consobrinus/2.jpg
+  page: https://www.inaturalist.org/photos/577568629
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577568629/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-consobrinus/3.jpg
+  page: https://www.inaturalist.org/photos/456345378
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456345378/original.jpeg
+- file: images/passeriformes/oriolidae/oriolus-consobrinus/4.jpg
+  page: https://www.inaturalist.org/photos/276471240
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276471240/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-consobrinus/5.jpg
+  page: https://www.inaturalist.org/photos/247973126
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247973126/original.jpeg
 ---
 
 

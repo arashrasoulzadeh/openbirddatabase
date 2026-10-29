@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/irenidae/irena-cyanogastra/1.jpg
+  page: https://www.inaturalist.org/photos/606729033
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606729033/original.jpg
+images:
+- file: images/passeriformes/irenidae/irena-cyanogastra/1.jpg
+  page: https://www.inaturalist.org/photos/606729033
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606729033/original.jpg
+- file: images/passeriformes/irenidae/irena-cyanogastra/2.jpg
+  page: https://www.inaturalist.org/photos/455975049
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455975049/original.jpeg
+- file: images/passeriformes/irenidae/irena-cyanogastra/3.jpg
+  page: https://www.inaturalist.org/photos/568008858
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568008858/original.jpg
+- file: images/passeriformes/irenidae/irena-cyanogastra/4.jpg
+  page: https://www.inaturalist.org/photos/455975070
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455975070/original.jpeg
+- file: images/passeriformes/irenidae/irena-cyanogastra/5.jpg
+  page: https://www.inaturalist.org/photos/456124128
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456124128/original.jpeg
 ---
 
 

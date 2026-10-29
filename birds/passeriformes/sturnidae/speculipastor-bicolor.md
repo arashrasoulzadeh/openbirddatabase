@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/speculipastor-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/721686727
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721686727/original.jpg
+images:
+- file: images/passeriformes/sturnidae/speculipastor-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/721686727
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721686727/original.jpg
+- file: images/passeriformes/sturnidae/speculipastor-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/610894437
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610894437/original.jpg
+- file: images/passeriformes/sturnidae/speculipastor-bicolor/3.jpg
+  page: https://www.inaturalist.org/photos/608736362
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608736362/original.jpg
+- file: images/passeriformes/sturnidae/speculipastor-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/610894438
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610894438/original.jpg
+- file: images/passeriformes/sturnidae/speculipastor-bicolor/5.jpg
+  page: https://www.inaturalist.org/photos/610894439
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610894439/original.jpg
 ---
 
 

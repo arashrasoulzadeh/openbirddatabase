@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/leucocarbo-campbelli/1.jpg
+  page: https://www.inaturalist.org/photos/463010820
+  author: Julia Palmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463010820/original.jpeg
+images:
+- file: images/suliformes/phalacrocoracidae/leucocarbo-campbelli/1.jpg
+  page: https://www.inaturalist.org/photos/463010820
+  author: Julia Palmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463010820/original.jpeg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-campbelli/2.jpg
+  page: https://www.inaturalist.org/photos/611611590
+  author: Georgina Ngametua
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611611590/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-campbelli/3.jpg
+  page: https://www.inaturalist.org/photos/475999107
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475999107/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-campbelli/4.jpg
+  page: https://www.inaturalist.org/photos/251747567
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251747567/original.png
+- file: images/suliformes/phalacrocoracidae/leucocarbo-campbelli/5.jpg
+  page: https://www.inaturalist.org/photos/175356288
+  author: rempson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175356288/original.jpeg
 ---
 
 

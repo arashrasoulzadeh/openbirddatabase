@@ -137,8 +137,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/zoothera-griseiceps/1.jpg
+  page: https://www.inaturalist.org/photos/626642081
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626642081/original.jpg
+images:
+- file: images/passeriformes/turdidae/zoothera-griseiceps/1.jpg
+  page: https://www.inaturalist.org/photos/626642081
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626642081/original.jpg
+- file: images/passeriformes/turdidae/zoothera-griseiceps/2.jpg
+  page: https://www.inaturalist.org/photos/364950070
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364950070/original.jpeg
+- file: images/passeriformes/turdidae/zoothera-griseiceps/3.jpg
+  page: https://www.inaturalist.org/photos/391110434
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/391110434/original.jpg
+- file: images/passeriformes/turdidae/zoothera-griseiceps/4.jpg
+  page: https://www.inaturalist.org/photos/176962821
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176962821/original.jpeg
+- file: images/passeriformes/turdidae/zoothera-griseiceps/5.jpg
+  page: https://www.inaturalist.org/photos/179242586
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179242586/original.jpeg
 ---
 
 

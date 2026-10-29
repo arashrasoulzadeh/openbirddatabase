@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/falconiformes/falconidae/falco-subniger/1.jpg
+  page: https://www.inaturalist.org/photos/613852736
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613852736/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-subniger/1.jpg
+  page: https://www.inaturalist.org/photos/613852736
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613852736/original.jpg
+- file: images/falconiformes/falconidae/falco-subniger/2.jpg
+  page: https://www.inaturalist.org/photos/622748958
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748958/original.jpg
+- file: images/falconiformes/falconidae/falco-subniger/3.jpg
+  page: https://www.inaturalist.org/photos/744195477
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744195477/original.jpg
+- file: images/falconiformes/falconidae/falco-subniger/4.jpg
+  page: https://www.inaturalist.org/photos/470899539
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470899539/original.jpeg
+- file: images/falconiformes/falconidae/falco-subniger/5.jpg
+  page: https://www.inaturalist.org/photos/613852734
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613852734/original.jpg
 ---
 
 

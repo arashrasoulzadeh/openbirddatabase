@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/nilaus-afer/1.jpg
+  page: https://www.inaturalist.org/photos/617131365
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617131365/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/nilaus-afer/1.jpg
+  page: https://www.inaturalist.org/photos/617131365
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617131365/original.jpg
+- file: images/passeriformes/malaconotidae/nilaus-afer/2.jpg
+  page: https://www.inaturalist.org/photos/677470111
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677470111/original.jpg
+- file: images/passeriformes/malaconotidae/nilaus-afer/3.jpg
+  page: https://www.inaturalist.org/photos/639763859
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639763859/original.jpg
+- file: images/passeriformes/malaconotidae/nilaus-afer/4.jpg
+  page: https://www.inaturalist.org/photos/721176950
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721176950/original.jpg
+- file: images/passeriformes/malaconotidae/nilaus-afer/5.jpg
+  page: https://www.inaturalist.org/photos/719017105
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719017105/original.jpg
 ---
 
 

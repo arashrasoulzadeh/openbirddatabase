@@ -185,8 +185,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/612444905
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612444905/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/612444905
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612444905/original.jpg
+- file: images/passeriformes/passeridae/passer-griseus/2.jpg
+  page: https://www.inaturalist.org/photos/619918697
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619918697/original.jpg
+- file: images/passeriformes/passeridae/passer-griseus/3.jpg
+  page: https://www.inaturalist.org/photos/690368358
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690368358/original.jpg
+- file: images/passeriformes/passeridae/passer-griseus/4.jpg
+  page: https://www.inaturalist.org/photos/640233511
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640233511/original.jpg
+- file: images/passeriformes/passeridae/passer-griseus/5.jpg
+  page: https://www.inaturalist.org/photos/612447509
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612447509/original.jpg
 ---
 
 

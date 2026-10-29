@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/napothera-danjoui/1.jpg
+  page: https://www.inaturalist.org/photos/631331482
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631331482/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/napothera-danjoui/1.jpg
+  page: https://www.inaturalist.org/photos/631331482
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631331482/original.jpg
+- file: images/passeriformes/pellorneidae/napothera-danjoui/2.jpg
+  page: https://www.inaturalist.org/photos/380416562
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380416562/original.jpg
+- file: images/passeriformes/pellorneidae/napothera-danjoui/3.jpg
+  page: https://www.inaturalist.org/photos/385764661
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385764661/original.jpeg
+- file: images/passeriformes/pellorneidae/napothera-danjoui/4.jpg
+  page: https://www.inaturalist.org/photos/339815788
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339815788/original.jpeg
+- file: images/passeriformes/pellorneidae/napothera-danjoui/5.jpg
+  page: https://www.inaturalist.org/photos/380416548
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380416548/original.jpg
 ---
 
 

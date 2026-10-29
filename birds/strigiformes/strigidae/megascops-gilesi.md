@@ -129,8 +129,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-gilesi/1.jpg
+  page: https://www.inaturalist.org/photos/689882950
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689882950/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-gilesi/1.jpg
+  page: https://www.inaturalist.org/photos/689882950
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689882950/original.jpg
+- file: images/strigiformes/strigidae/megascops-gilesi/2.jpg
+  page: https://www.inaturalist.org/photos/738244727
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738244727/original.jpg
+- file: images/strigiformes/strigidae/megascops-gilesi/3.jpg
+  page: https://www.inaturalist.org/photos/600840134
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600840134/original.jpg
+- file: images/strigiformes/strigidae/megascops-gilesi/4.jpg
+  page: https://www.inaturalist.org/photos/419068311
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419068311/original.jpeg
+- file: images/strigiformes/strigidae/megascops-gilesi/5.jpg
+  page: https://www.inaturalist.org/photos/254622558
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254622558/original.jpeg
 ---
 
 

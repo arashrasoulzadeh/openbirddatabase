@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/anairetes-parulus/1.jpg
+  page: https://www.inaturalist.org/photos/605175104
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605175104/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/anairetes-parulus/1.jpg
+  page: https://www.inaturalist.org/photos/605175104
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605175104/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-parulus/2.jpg
+  page: https://www.inaturalist.org/photos/607942105
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607942105/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-parulus/3.jpg
+  page: https://www.inaturalist.org/photos/615792424
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792424/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-parulus/4.jpg
+  page: https://www.inaturalist.org/photos/613886699
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613886699/original.jpg
+- file: images/passeriformes/tyrannidae/anairetes-parulus/5.jpg
+  page: https://www.inaturalist.org/photos/616177890
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616177890/original.jpg
 ---
 
 

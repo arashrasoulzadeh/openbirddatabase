@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dinopium-benghalense/1.jpg
+  page: https://www.inaturalist.org/photos/606085379
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606085379/original.jpg
+images:
+- file: images/piciformes/picidae/dinopium-benghalense/1.jpg
+  page: https://www.inaturalist.org/photos/606085379
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606085379/original.jpg
+- file: images/piciformes/picidae/dinopium-benghalense/2.jpg
+  page: https://www.inaturalist.org/photos/622356882
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356882/original.jpg
+- file: images/piciformes/picidae/dinopium-benghalense/3.jpg
+  page: https://www.inaturalist.org/photos/624120508
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624120508/original.jpg
+- file: images/piciformes/picidae/dinopium-benghalense/4.jpg
+  page: https://www.inaturalist.org/photos/606085388
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606085388/original.jpg
+- file: images/piciformes/picidae/dinopium-benghalense/5.jpg
+  page: https://www.inaturalist.org/photos/622356875
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356875/original.jpg
 ---
 
 

@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/meliphagidae/anthochaera-lunulata/1.jpg
+  page: https://www.inaturalist.org/photos/634619346
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634619346/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/anthochaera-lunulata/1.jpg
+  page: https://www.inaturalist.org/photos/634619346
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634619346/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-lunulata/2.jpg
+  page: https://www.inaturalist.org/photos/619809441
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619809441/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-lunulata/3.jpg
+  page: https://www.inaturalist.org/photos/623501377
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623501377/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-lunulata/4.jpg
+  page: https://www.inaturalist.org/photos/628388637
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628388637/original.jpg
+- file: images/passeriformes/meliphagidae/anthochaera-lunulata/5.jpg
+  page: https://www.inaturalist.org/photos/651292763
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651292763/original.jpg
 ---
 
 

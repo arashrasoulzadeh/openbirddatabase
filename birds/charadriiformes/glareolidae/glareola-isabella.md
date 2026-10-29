@@ -125,8 +125,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/charadriiformes/glareolidae/glareola-isabella/1.jpg
+  page: https://www.inaturalist.org/photos/674498748
+  author: Samuel Brown
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674498748/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/glareola-isabella/1.jpg
+  page: https://www.inaturalist.org/photos/674498748
+  author: Samuel Brown
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674498748/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-isabella/2.jpg
+  page: https://www.inaturalist.org/photos/738699144
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738699144/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-isabella/3.jpg
+  page: https://www.inaturalist.org/photos/745820442
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745820442/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-isabella/4.jpg
+  page: https://www.inaturalist.org/photos/588916116
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588916116/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-isabella/5.jpg
+  page: https://www.inaturalist.org/photos/674498772
+  author: Samuel Brown
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674498772/original.jpg
 ---
 
 

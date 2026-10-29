@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-cochinchinensis/1.jpg
+  page: https://www.inaturalist.org/photos/536363035
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536363035/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-cochinchinensis/1.jpg
+  page: https://www.inaturalist.org/photos/536363035
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536363035/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-cochinchinensis/2.jpg
+  page: https://www.inaturalist.org/photos/288320703
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288320703/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-cochinchinensis/3.jpg
+  page: https://www.inaturalist.org/photos/288320752
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288320752/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-cochinchinensis/4.jpg
+  page: https://www.inaturalist.org/photos/288320650
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288320650/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-cochinchinensis/5.jpg
+  page: https://www.inaturalist.org/photos/80948521
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/80948521/original.jpeg
 ---
 
 

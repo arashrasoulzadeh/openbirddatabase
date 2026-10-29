@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/amytornis-goyderi/1.jpg
+  page: https://www.inaturalist.org/photos/341188833
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341188833/original.jpeg
+images:
+- file: images/passeriformes/maluridae/amytornis-goyderi/1.jpg
+  page: https://www.inaturalist.org/photos/341188833
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341188833/original.jpeg
+- file: images/passeriformes/maluridae/amytornis-goyderi/2.jpg
+  page: https://www.inaturalist.org/photos/123928492
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/123928492/original.jpg
+- file: images/passeriformes/maluridae/amytornis-goyderi/3.jpg
+  page: https://www.inaturalist.org/photos/362450529
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362450529/original.jpg
+- file: images/passeriformes/maluridae/amytornis-goyderi/4.jpg
+  page: https://www.inaturalist.org/photos/341189033
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341189033/original.jpeg
+- file: images/passeriformes/maluridae/amytornis-goyderi/5.jpg
+  page: https://www.inaturalist.org/photos/341189031
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341189031/original.jpeg
 ---
 
 

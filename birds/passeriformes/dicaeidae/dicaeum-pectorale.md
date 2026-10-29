@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-pectorale/1.jpg
+  page: https://www.inaturalist.org/photos/614910751
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910751/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-pectorale/1.jpg
+  page: https://www.inaturalist.org/photos/614910751
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910751/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-pectorale/2.jpg
+  page: https://www.inaturalist.org/photos/563015397
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563015397/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-pectorale/3.jpg
+  page: https://www.inaturalist.org/photos/594917478
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594917478/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-pectorale/4.jpg
+  page: https://www.inaturalist.org/photos/618869977
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618869977/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-pectorale/5.jpg
+  page: https://www.inaturalist.org/photos/319004246
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/319004246/original.jpg
 ---
 
 

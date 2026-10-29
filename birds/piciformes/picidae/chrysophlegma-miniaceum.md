@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/chrysophlegma-miniaceum/1.jpg
+  page: https://www.inaturalist.org/photos/628077035
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077035/original.jpg
+images:
+- file: images/piciformes/picidae/chrysophlegma-miniaceum/1.jpg
+  page: https://www.inaturalist.org/photos/628077035
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077035/original.jpg
+- file: images/piciformes/picidae/chrysophlegma-miniaceum/2.jpg
+  page: https://www.inaturalist.org/photos/633760963
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633760963/original.jpg
+- file: images/piciformes/picidae/chrysophlegma-miniaceum/3.jpg
+  page: https://www.inaturalist.org/photos/619001307
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619001307/original.jpg
+- file: images/piciformes/picidae/chrysophlegma-miniaceum/4.jpg
+  page: https://www.inaturalist.org/photos/631419076
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631419076/original.jpg
+- file: images/piciformes/picidae/chrysophlegma-miniaceum/5.jpg
+  page: https://www.inaturalist.org/photos/633760907
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633760907/original.jpg
 ---
 
 

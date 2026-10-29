@@ -124,8 +124,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/brachypteryx-erythrogyna/1.jpg
+  page: https://www.inaturalist.org/photos/578050075
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578050075/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/brachypteryx-erythrogyna/1.jpg
+  page: https://www.inaturalist.org/photos/578050075
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578050075/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-erythrogyna/2.jpg
+  page: https://www.inaturalist.org/photos/581243273
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581243273/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-erythrogyna/3.jpg
+  page: https://www.inaturalist.org/photos/588354152
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588354152/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-erythrogyna/4.jpg
+  page: https://www.inaturalist.org/photos/296279133
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296279133/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-erythrogyna/5.jpg
+  page: https://www.inaturalist.org/photos/596335973
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596335973/original.jpg
 ---
 
 

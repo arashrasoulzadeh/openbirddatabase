@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/microcarbo-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/618737189
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618737189/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/microcarbo-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/618737189
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618737189/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/624573388
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624573388/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/640909075
+  author: Philipp Hoenle
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640909075/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/687843711
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687843711/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/624573545
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624573545/original.jpg
 ---
 
 

@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/sclerurus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/305882110
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305882110/original.jpg
+images:
+- file: images/passeriformes/furnariidae/sclerurus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/305882110
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305882110/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/342540306
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342540306/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/549056028
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549056028/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/32028113
+  author: Karen (with occasional help from Mike)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/32028113/original.png
+- file: images/passeriformes/furnariidae/sclerurus-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/114880058
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114880058/original.jpeg
 ---
 
 

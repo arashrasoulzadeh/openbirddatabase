@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/mixornis-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/609690900
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609690900/original.jpg
+images:
+- file: images/passeriformes/timaliidae/mixornis-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/609690900
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609690900/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/616738694
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738694/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/728830737
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728830737/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/628740269
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628740269/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/640258904
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640258904/original.jpg
 ---
 
 

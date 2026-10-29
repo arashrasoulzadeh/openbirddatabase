@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/enicurus-borneensis/1.jpg
+  page: https://www.inaturalist.org/photos/685780752
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685780752/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/enicurus-borneensis/1.jpg
+  page: https://www.inaturalist.org/photos/685780752
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685780752/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-borneensis/2.jpg
+  page: https://www.inaturalist.org/photos/474677787
+  author: Mok Zhuang Yu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474677787/original.jpeg
+- file: images/passeriformes/muscicapidae/enicurus-borneensis/3.jpg
+  page: https://www.inaturalist.org/photos/578071980
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578071980/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-borneensis/4.jpg
+  page: https://www.inaturalist.org/photos/423378056
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423378056/original.jpeg
+- file: images/passeriformes/muscicapidae/enicurus-borneensis/5.jpg
+  page: https://www.inaturalist.org/photos/267770985
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267770985/original.png
 ---
 
 

@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/charadriiformes/scolopacidae/limnodromus-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/616376284
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616376284/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/limnodromus-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/616376284
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616376284/original.jpg
+- file: images/charadriiformes/scolopacidae/limnodromus-griseus/2.jpg
+  page: https://www.inaturalist.org/photos/615491942
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615491942/original.jpg
+- file: images/charadriiformes/scolopacidae/limnodromus-griseus/3.jpg
+  page: https://www.inaturalist.org/photos/615893360
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615893360/original.jpg
+- file: images/charadriiformes/scolopacidae/limnodromus-griseus/4.jpg
+  page: https://www.inaturalist.org/photos/618529612
+  author: Emerson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618529612/original.jpg
+- file: images/charadriiformes/scolopacidae/limnodromus-griseus/5.jpg
+  page: https://www.inaturalist.org/photos/619729768
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619729768/original.jpg
 ---
 
 

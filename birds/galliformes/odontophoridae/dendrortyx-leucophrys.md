@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/dendrortyx-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/618610439
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618610439/original.jpg
+images:
+- file: images/galliformes/odontophoridae/dendrortyx-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/618610439
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618610439/original.jpg
+- file: images/galliformes/odontophoridae/dendrortyx-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/615516802
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615516802/original.jpg
+- file: images/galliformes/odontophoridae/dendrortyx-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/621259546
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621259546/original.jpg
+- file: images/galliformes/odontophoridae/dendrortyx-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/599918480
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599918480/original.jpg
+- file: images/galliformes/odontophoridae/dendrortyx-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/601812366
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601812366/original.jpg
 ---
 
 

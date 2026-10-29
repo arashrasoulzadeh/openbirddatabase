@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/fulvetta-danisi/1.jpg
+  page: https://www.inaturalist.org/photos/385411613
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385411613/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/fulvetta-danisi/1.jpg
+  page: https://www.inaturalist.org/photos/385411613
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385411613/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-danisi/2.jpg
+  page: https://www.inaturalist.org/photos/105780178
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105780178/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-danisi/3.jpg
+  page: https://www.inaturalist.org/photos/385411642
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385411642/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-danisi/4.jpg
+  page: https://www.inaturalist.org/photos/385411639
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385411639/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-danisi/5.jpg
+  page: https://www.inaturalist.org/photos/105780183
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105780183/original.jpeg
 ---
 
 

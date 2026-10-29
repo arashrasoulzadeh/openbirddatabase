@@ -128,8 +128,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-panayensis/1.jpg
+  page: https://www.inaturalist.org/photos/633604733
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633604733/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-panayensis/1.jpg
+  page: https://www.inaturalist.org/photos/633604733
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633604733/original.jpg
+- file: images/passeriformes/campephagidae/coracina-panayensis/2.jpg
+  page: https://www.inaturalist.org/photos/598458763
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598458763/original.jpg
+- file: images/passeriformes/campephagidae/coracina-panayensis/3.jpg
+  page: https://www.inaturalist.org/photos/388694143
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388694143/original.jpeg
+- file: images/passeriformes/campephagidae/coracina-panayensis/4.jpg
+  page: https://www.inaturalist.org/photos/456310645
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456310645/original.jpeg
+- file: images/passeriformes/campephagidae/coracina-panayensis/5.jpg
+  page: https://www.inaturalist.org/photos/261948568
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261948568/original.jpg
 ---
 
 

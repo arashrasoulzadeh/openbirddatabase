@@ -189,10 +189,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/gruiformes/rallidae/porzana-porzana/1.jpg
+  page: https://www.inaturalist.org/photos/622472785
+  author: japrak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622472785/original.jpg
+images:
+- file: images/gruiformes/rallidae/porzana-porzana/1.jpg
+  page: https://www.inaturalist.org/photos/622472785
+  author: japrak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622472785/original.jpg
+- file: images/gruiformes/rallidae/porzana-porzana/2.jpg
+  page: https://www.inaturalist.org/photos/622159364
+  author: Leonardo Rapisarda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622159364/original.jpg
+- file: images/gruiformes/rallidae/porzana-porzana/3.jpg
+  page: https://www.inaturalist.org/photos/630071077
+  author: Matteo Martini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630071077/original.jpg
+- file: images/gruiformes/rallidae/porzana-porzana/4.jpg
+  page: https://www.inaturalist.org/photos/628220482
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628220482/original.jpg
+- file: images/gruiformes/rallidae/porzana-porzana/5.jpg
+  page: https://www.inaturalist.org/photos/641391552
+  author: Aubin NORMAND
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641391552/original.jpg
 ---
 
 

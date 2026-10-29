@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-monorhis/1.jpg
+  page: https://www.inaturalist.org/photos/575341347
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575341347/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-monorhis/1.jpg
+  page: https://www.inaturalist.org/photos/575341347
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575341347/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-monorhis/2.jpg
+  page: https://www.inaturalist.org/photos/236471640
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236471640/original.jpeg
+- file: images/procellariiformes/hydrobatidae/hydrobates-monorhis/3.jpg
+  page: https://www.inaturalist.org/photos/249232267
+  author: alexsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249232267/original.jpeg
+- file: images/procellariiformes/hydrobatidae/hydrobates-monorhis/4.jpg
+  page: https://www.inaturalist.org/photos/2537340
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2537340/original.JPG
+- file: images/procellariiformes/hydrobatidae/hydrobates-monorhis/5.jpg
+  page: https://www.inaturalist.org/photos/29295010
+  author: Simon Tonge
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29295010/original.jpeg
 ---
 
 

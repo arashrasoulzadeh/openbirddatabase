@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/xipholena-atropurpurea/1.jpg
+  page: https://www.inaturalist.org/photos/667896108
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667896108/original.jpg
+images:
+- file: images/passeriformes/cotingidae/xipholena-atropurpurea/1.jpg
+  page: https://www.inaturalist.org/photos/667896108
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667896108/original.jpg
+- file: images/passeriformes/cotingidae/xipholena-atropurpurea/2.jpg
+  page: https://www.inaturalist.org/photos/505663205
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505663205/original.jpg
+- file: images/passeriformes/cotingidae/xipholena-atropurpurea/3.jpg
+  page: https://www.inaturalist.org/photos/342399727
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342399727/original.jpeg
+- file: images/passeriformes/cotingidae/xipholena-atropurpurea/4.jpg
+  page: https://www.inaturalist.org/photos/667896101
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667896101/original.jpg
+- file: images/passeriformes/cotingidae/xipholena-atropurpurea/5.jpg
+  page: https://www.inaturalist.org/photos/667896113
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667896113/original.jpg
 ---
 
 

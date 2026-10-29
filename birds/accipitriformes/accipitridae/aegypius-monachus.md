@@ -176,10 +176,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 39
+image:
+  file: images/accipitriformes/accipitridae/aegypius-monachus/1.jpg
+  page: https://www.inaturalist.org/photos/605698033
+  author: Cristina Villaverde
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605698033/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aegypius-monachus/1.jpg
+  page: https://www.inaturalist.org/photos/605698033
+  author: Cristina Villaverde
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605698033/original.jpg
+- file: images/accipitriformes/accipitridae/aegypius-monachus/2.jpg
+  page: https://www.inaturalist.org/photos/609735674
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735674/original.jpg
+- file: images/accipitriformes/accipitridae/aegypius-monachus/3.jpg
+  page: https://www.inaturalist.org/photos/609735700
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735700/original.jpg
+- file: images/accipitriformes/accipitridae/aegypius-monachus/4.jpg
+  page: https://www.inaturalist.org/photos/609735653
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735653/original.jpg
+- file: images/accipitriformes/accipitridae/aegypius-monachus/5.jpg
+  page: https://www.inaturalist.org/photos/609162876
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609162876/original.jpg
 ---
 
 

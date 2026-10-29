@@ -208,10 +208,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/pelecaniformes/ardeidae/egretta-garzetta/1.jpg
+  page: https://www.inaturalist.org/photos/605145002
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605145002/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/egretta-garzetta/1.jpg
+  page: https://www.inaturalist.org/photos/605145002
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605145002/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-garzetta/2.jpg
+  page: https://www.inaturalist.org/photos/604444514
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604444514/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-garzetta/3.jpg
+  page: https://www.inaturalist.org/photos/605193619
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605193619/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-garzetta/4.jpg
+  page: https://www.inaturalist.org/photos/604657917
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604657917/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-garzetta/5.jpg
+  page: https://www.inaturalist.org/photos/605454768
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605454768/original.jpg
 ---
 
 

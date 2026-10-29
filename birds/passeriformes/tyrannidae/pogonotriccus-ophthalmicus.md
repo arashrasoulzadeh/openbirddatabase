@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/pogonotriccus-ophthalmicus/1.jpg
+  page: https://www.inaturalist.org/photos/489395285
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489395285/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pogonotriccus-ophthalmicus/1.jpg
+  page: https://www.inaturalist.org/photos/489395285
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489395285/original.jpg
+- file: images/passeriformes/tyrannidae/pogonotriccus-ophthalmicus/2.jpg
+  page: https://www.inaturalist.org/photos/591324351
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324351/original.jpg
+- file: images/passeriformes/tyrannidae/pogonotriccus-ophthalmicus/3.jpg
+  page: https://www.inaturalist.org/photos/351112624
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351112624/original.jpg
+- file: images/passeriformes/tyrannidae/pogonotriccus-ophthalmicus/4.jpg
+  page: https://www.inaturalist.org/photos/329527294
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329527294/original.jpeg
+- file: images/passeriformes/tyrannidae/pogonotriccus-ophthalmicus/5.jpg
+  page: https://www.inaturalist.org/photos/484959327
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484959327/original.jpg
 ---
 
 

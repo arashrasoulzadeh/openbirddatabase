@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/icteridae/quiscalus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/604624188
+  author: Will Cornwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604624188/original.jpg
+images:
+- file: images/passeriformes/icteridae/quiscalus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/604624188
+  author: Will Cornwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604624188/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/605693676
+  author: Zakqary Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605693676/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/604630583
+  author: Sam Kieschnick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604630583/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/605527927
+  author: antimatterbee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605527927/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/605486761
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605486761/original.jpg
 ---
 
 

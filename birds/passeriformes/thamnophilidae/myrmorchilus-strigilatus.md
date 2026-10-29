@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmorchilus-strigilatus/1.jpg
+  page: https://www.inaturalist.org/photos/617250866
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617250866/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmorchilus-strigilatus/1.jpg
+  page: https://www.inaturalist.org/photos/617250866
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617250866/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmorchilus-strigilatus/2.jpg
+  page: https://www.inaturalist.org/photos/642701369
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642701369/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmorchilus-strigilatus/3.jpg
+  page: https://www.inaturalist.org/photos/665660588
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665660588/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmorchilus-strigilatus/4.jpg
+  page: https://www.inaturalist.org/photos/707904490
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707904490/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmorchilus-strigilatus/5.jpg
+  page: https://www.inaturalist.org/photos/723900122
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723900122/original.jpg
 ---
 
 

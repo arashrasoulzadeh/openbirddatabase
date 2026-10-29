@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-decoratus/1.jpg
+  page: https://www.inaturalist.org/photos/701284151
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701284151/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-decoratus/1.jpg
+  page: https://www.inaturalist.org/photos/701284151
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701284151/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-decoratus/2.jpg
+  page: https://www.inaturalist.org/photos/722537184
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722537184/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-decoratus/3.jpg
+  page: https://www.inaturalist.org/photos/721439974
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721439974/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-decoratus/4.jpg
+  page: https://www.inaturalist.org/photos/469682533
+  author: Polina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469682533/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-decoratus/5.jpg
+  page: https://www.inaturalist.org/photos/480797258
+  author: Maxim Shashkov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480797258/original.jpeg
 ---
 
 

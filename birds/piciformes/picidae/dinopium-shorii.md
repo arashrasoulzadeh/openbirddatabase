@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dinopium-shorii/1.jpg
+  page: https://www.inaturalist.org/photos/254147327
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254147327/original.jpeg
+images:
+- file: images/piciformes/picidae/dinopium-shorii/1.jpg
+  page: https://www.inaturalist.org/photos/254147327
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254147327/original.jpeg
+- file: images/piciformes/picidae/dinopium-shorii/2.jpg
+  page: https://www.inaturalist.org/photos/262360640
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262360640/original.jpg
+- file: images/piciformes/picidae/dinopium-shorii/3.jpg
+  page: https://www.inaturalist.org/photos/256103023
+  author: Nandita Madhu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256103023/original.jpeg
+- file: images/piciformes/picidae/dinopium-shorii/4.jpg
+  page: https://www.inaturalist.org/photos/59429002
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59429002/original.jpeg
+- file: images/piciformes/picidae/dinopium-shorii/5.jpg
+  page: https://www.inaturalist.org/photos/254147357
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254147357/original.jpeg
 ---
 
 

@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 34.7
@@ -148,6 +149,44 @@ morphology:
   body_mass_g: 79.2
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/dicruridae/dicrurus-menagei/1.jpg
+  page: https://www.inaturalist.org/photos/198782777
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782777/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-menagei/1.jpg
+  page: https://www.inaturalist.org/photos/198782777
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782777/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-menagei/2.jpg
+  page: https://www.inaturalist.org/photos/198782792
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782792/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-menagei/3.jpg
+  page: https://www.inaturalist.org/photos/198782801
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782801/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-menagei/4.jpg
+  page: https://www.inaturalist.org/photos/198782820
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782820/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-menagei/5.jpg
+  page: https://www.inaturalist.org/photos/198782831
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198782831/original.jpg
 ---
 
 

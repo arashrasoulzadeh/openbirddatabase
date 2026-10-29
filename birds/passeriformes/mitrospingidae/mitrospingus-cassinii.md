@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mitrospingidae/mitrospingus-cassinii/1.jpg
+  page: https://www.inaturalist.org/photos/609749225
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609749225/original.jpg
+images:
+- file: images/passeriformes/mitrospingidae/mitrospingus-cassinii/1.jpg
+  page: https://www.inaturalist.org/photos/609749225
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609749225/original.jpg
+- file: images/passeriformes/mitrospingidae/mitrospingus-cassinii/2.jpg
+  page: https://www.inaturalist.org/photos/612588302
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612588302/original.jpg
+- file: images/passeriformes/mitrospingidae/mitrospingus-cassinii/3.jpg
+  page: https://www.inaturalist.org/photos/630983270
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630983270/original.jpg
+- file: images/passeriformes/mitrospingidae/mitrospingus-cassinii/4.jpg
+  page: https://www.inaturalist.org/photos/462896918
+  author: Jim Dreier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462896918/original.jpg
+- file: images/passeriformes/mitrospingidae/mitrospingus-cassinii/5.jpg
+  page: https://www.inaturalist.org/photos/477693682
+  author: M. Squire
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477693682/original.jpg
 ---
 
 

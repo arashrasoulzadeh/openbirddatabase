@@ -133,8 +133,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-nigrorum/1.jpg
+  page: https://www.inaturalist.org/photos/267295551
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295551/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-nigrorum/1.jpg
+  page: https://www.inaturalist.org/photos/267295551
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295551/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-nigrorum/2.jpg
+  page: https://www.inaturalist.org/photos/267295563
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295563/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-nigrorum/3.jpg
+  page: https://www.inaturalist.org/photos/276220212
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276220212/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-nigrorum/4.jpg
+  page: https://www.inaturalist.org/photos/228535874
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228535874/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-nigrorum/5.jpg
+  page: https://www.inaturalist.org/photos/228535958
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228535958/original.jpg
 ---
 
 

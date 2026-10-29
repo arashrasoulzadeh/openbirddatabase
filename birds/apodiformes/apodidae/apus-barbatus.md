@@ -156,10 +156,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/apodiformes/apodidae/apus-barbatus/1.jpg
+  page: https://www.inaturalist.org/photos/723605390
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723605390/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-barbatus/1.jpg
+  page: https://www.inaturalist.org/photos/723605390
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723605390/original.jpg
+- file: images/apodiformes/apodidae/apus-barbatus/2.jpg
+  page: https://www.inaturalist.org/photos/497242172
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497242172/original.jpeg
+- file: images/apodiformes/apodidae/apus-barbatus/3.jpg
+  page: https://www.inaturalist.org/photos/448905373
+  author: Alan Manson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448905373/original.jpg
+- file: images/apodiformes/apodidae/apus-barbatus/4.jpg
+  page: https://www.inaturalist.org/photos/497268413
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497268413/original.jpeg
+- file: images/apodiformes/apodidae/apus-barbatus/5.jpg
+  page: https://www.inaturalist.org/photos/497268420
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497268420/original.jpeg
 ---
 
 

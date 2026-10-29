@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-sulfuriventer/1.jpg
+  page: https://www.inaturalist.org/photos/734780557
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734780557/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-sulfuriventer/1.jpg
+  page: https://www.inaturalist.org/photos/734780557
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734780557/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-sulfuriventer/2.jpg
+  page: https://www.inaturalist.org/photos/722331953
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722331953/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-sulfuriventer/3.jpg
+  page: https://www.inaturalist.org/photos/525998396
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525998396/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-sulfuriventer/4.jpg
+  page: https://www.inaturalist.org/photos/471302124
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471302124/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-sulfuriventer/5.jpg
+  page: https://www.inaturalist.org/photos/310486150
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/310486150/original.jpg
 ---
 
 

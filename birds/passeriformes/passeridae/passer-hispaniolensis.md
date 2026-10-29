@@ -190,10 +190,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/passeridae/passer-hispaniolensis/1.jpg
+  page: https://www.inaturalist.org/photos/610277676
+  author: Juan Martínez Reina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610277676/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-hispaniolensis/1.jpg
+  page: https://www.inaturalist.org/photos/610277676
+  author: Juan Martínez Reina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610277676/original.jpg
+- file: images/passeriformes/passeridae/passer-hispaniolensis/2.jpg
+  page: https://www.inaturalist.org/photos/609690499
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609690499/original.jpg
+- file: images/passeriformes/passeridae/passer-hispaniolensis/3.jpg
+  page: https://www.inaturalist.org/photos/608351586
+  author: Mirela
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608351586/original.jpg
+- file: images/passeriformes/passeridae/passer-hispaniolensis/4.jpg
+  page: https://www.inaturalist.org/photos/612381590
+  author: frangp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612381590/original.jpg
+- file: images/passeriformes/passeridae/passer-hispaniolensis/5.jpg
+  page: https://www.inaturalist.org/photos/611384601
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611384601/original.jpg
 ---
 
 

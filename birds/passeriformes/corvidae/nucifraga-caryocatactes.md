@@ -175,10 +175,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/corvidae/nucifraga-caryocatactes/1.jpg
+  page: https://www.inaturalist.org/photos/605588630
+  author: Tatiana Strus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605588630/original.jpg
+images:
+- file: images/passeriformes/corvidae/nucifraga-caryocatactes/1.jpg
+  page: https://www.inaturalist.org/photos/605588630
+  author: Tatiana Strus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605588630/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-caryocatactes/2.jpg
+  page: https://www.inaturalist.org/photos/605657409
+  author: Дарья Орлова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605657409/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-caryocatactes/3.jpg
+  page: https://www.inaturalist.org/photos/606152048
+  author: Георгий Виноградов (Georgy Vinogradov)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606152048/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-caryocatactes/4.jpg
+  page: https://www.inaturalist.org/photos/606393249
+  author: Марина Давлетшина
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606393249/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-caryocatactes/5.jpg
+  page: https://www.inaturalist.org/photos/604731174
+  author: Tatiana Strus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604731174/original.jpg
 ---
 
 

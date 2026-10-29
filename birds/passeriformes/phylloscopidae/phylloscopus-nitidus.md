@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-nitidus/1.jpg
+  page: https://www.inaturalist.org/photos/692951685
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692951685/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-nitidus/1.jpg
+  page: https://www.inaturalist.org/photos/692951685
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692951685/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-nitidus/2.jpg
+  page: https://www.inaturalist.org/photos/693142005
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693142005/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-nitidus/3.jpg
+  page: https://www.inaturalist.org/photos/732817423
+  author: Oscar Hazell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732817423/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-nitidus/4.jpg
+  page: https://www.inaturalist.org/photos/516580333
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516580333/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-nitidus/5.jpg
+  page: https://www.inaturalist.org/photos/474465351
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474465351/original.jpeg
 ---
 
 

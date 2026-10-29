@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/bycanistes-brevis/1.jpg
+  page: https://www.inaturalist.org/photos/610163396
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610163396/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/bycanistes-brevis/1.jpg
+  page: https://www.inaturalist.org/photos/610163396
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610163396/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-brevis/2.jpg
+  page: https://www.inaturalist.org/photos/661404435
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661404435/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-brevis/3.jpg
+  page: https://www.inaturalist.org/photos/477036963
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477036963/original.jpeg
+- file: images/bucerotiformes/bucerotidae/bycanistes-brevis/4.jpg
+  page: https://www.inaturalist.org/photos/610163480
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610163480/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-brevis/5.jpg
+  page: https://www.inaturalist.org/photos/610163528
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610163528/original.jpg
 ---
 
 

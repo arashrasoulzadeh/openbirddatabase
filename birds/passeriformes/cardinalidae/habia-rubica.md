@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/habia-rubica/1.jpg
+  page: https://www.inaturalist.org/photos/610246956
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610246956/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/habia-rubica/1.jpg
+  page: https://www.inaturalist.org/photos/610246956
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610246956/original.jpg
+- file: images/passeriformes/cardinalidae/habia-rubica/2.jpg
+  page: https://www.inaturalist.org/photos/610552564
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610552564/original.jpg
+- file: images/passeriformes/cardinalidae/habia-rubica/3.jpg
+  page: https://www.inaturalist.org/photos/605760536
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605760536/original.jpg
+- file: images/passeriformes/cardinalidae/habia-rubica/4.jpg
+  page: https://www.inaturalist.org/photos/609125705
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609125705/original.jpg
+- file: images/passeriformes/cardinalidae/habia-rubica/5.jpg
+  page: https://www.inaturalist.org/photos/612920088
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612920088/original.jpg
 ---
 
 

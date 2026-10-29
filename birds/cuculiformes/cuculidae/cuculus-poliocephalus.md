@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cuculus-poliocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/510676834
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510676834/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-poliocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/510676834
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510676834/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-poliocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/525984079
+  author: Tandin Wangdi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525984079/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-poliocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/515547575
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515547575/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-poliocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/388214908
+  author: 岸本年郎
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388214908/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-poliocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/470942996
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470942996/original.jpeg
 ---
 
 

@@ -130,7 +130,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 26.7
@@ -140,6 +141,44 @@ morphology:
   body_mass_g: 107.0
 reproduction:
   clutch_size_mean: 2.7
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/619767290
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619767290/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/619767290
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619767290/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-longicauda/2.jpg
+  page: https://www.inaturalist.org/photos/626031535
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626031535/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-longicauda/3.jpg
+  page: https://www.inaturalist.org/photos/637887892
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637887892/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-longicauda/4.jpg
+  page: https://www.inaturalist.org/photos/674529529
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674529529/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-longicauda/5.jpg
+  page: https://www.inaturalist.org/photos/637887876
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637887876/original.jpg
 ---
 
 

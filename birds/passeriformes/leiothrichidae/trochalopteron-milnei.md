@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-milnei/1.jpg
+  page: https://www.inaturalist.org/photos/479297245
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479297245/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-milnei/1.jpg
+  page: https://www.inaturalist.org/photos/479297245
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479297245/original.jpeg
+- file: images/passeriformes/leiothrichidae/trochalopteron-milnei/2.jpg
+  page: https://www.inaturalist.org/photos/507949093
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507949093/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-milnei/3.jpg
+  page: https://www.inaturalist.org/photos/358956145
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358956145/original.jpeg
+- file: images/passeriformes/leiothrichidae/trochalopteron-milnei/4.jpg
+  page: https://www.inaturalist.org/photos/592371738
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592371738/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-milnei/5.jpg
+  page: https://www.inaturalist.org/photos/514437501
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514437501/original.jpg
 ---
 
 

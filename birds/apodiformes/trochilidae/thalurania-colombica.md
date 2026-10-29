@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/thalurania-colombica/1.jpg
+  page: https://www.inaturalist.org/photos/608285964
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608285964/original.jpg
+images:
+- file: images/apodiformes/trochilidae/thalurania-colombica/1.jpg
+  page: https://www.inaturalist.org/photos/608285964
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608285964/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-colombica/2.jpg
+  page: https://www.inaturalist.org/photos/609758576
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609758576/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-colombica/3.jpg
+  page: https://www.inaturalist.org/photos/609440043
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609440043/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-colombica/4.jpg
+  page: https://www.inaturalist.org/photos/612957841
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612957841/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-colombica/5.jpg
+  page: https://www.inaturalist.org/photos/621366584
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621366584/original.jpg
 ---
 
 

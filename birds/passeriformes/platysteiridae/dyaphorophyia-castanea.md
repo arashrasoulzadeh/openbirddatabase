@@ -164,8 +164,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/dyaphorophyia-castanea/1.jpg
+  page: https://www.inaturalist.org/photos/465496451
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465496451/original.jpeg
+images:
+- file: images/passeriformes/platysteiridae/dyaphorophyia-castanea/1.jpg
+  page: https://www.inaturalist.org/photos/465496451
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465496451/original.jpeg
+- file: images/passeriformes/platysteiridae/dyaphorophyia-castanea/2.jpg
+  page: https://www.inaturalist.org/photos/565281654
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565281654/original.jpg
+- file: images/passeriformes/platysteiridae/dyaphorophyia-castanea/3.jpg
+  page: https://www.inaturalist.org/photos/607284015
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607284015/original.jpg
+- file: images/passeriformes/platysteiridae/dyaphorophyia-castanea/4.jpg
+  page: https://www.inaturalist.org/photos/303856372
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303856372/original.jpeg
+- file: images/passeriformes/platysteiridae/dyaphorophyia-castanea/5.jpg
+  page: https://www.inaturalist.org/photos/479762998
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479762998/original.jpg
 ---
 
 

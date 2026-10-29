@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-pallidipes/1.jpg
+  page: https://www.inaturalist.org/photos/617207470
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207470/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-pallidipes/1.jpg
+  page: https://www.inaturalist.org/photos/617207470
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207470/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-pallidipes/2.jpg
+  page: https://www.inaturalist.org/photos/362521683
+  author: Renjith Jacob Mathews
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362521683/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-pallidipes/3.jpg
+  page: https://www.inaturalist.org/photos/403465016
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/403465016/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-pallidipes/4.jpg
+  page: https://www.inaturalist.org/photos/279549989
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279549989/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-pallidipes/5.jpg
+  page: https://www.inaturalist.org/photos/177212486
+  author: Harsha Jayaramaiah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177212486/original.jpeg
 ---
 
 

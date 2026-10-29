@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/galliformes/cracidae/ortalis-leucogastra/1.jpg
+  page: https://www.inaturalist.org/photos/611961611
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611961611/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-leucogastra/1.jpg
+  page: https://www.inaturalist.org/photos/611961611
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611961611/original.jpg
+- file: images/galliformes/cracidae/ortalis-leucogastra/2.jpg
+  page: https://www.inaturalist.org/photos/710150028
+  author: Daniel Pineda Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710150028/original.jpg
+- file: images/galliformes/cracidae/ortalis-leucogastra/3.jpg
+  page: https://www.inaturalist.org/photos/740949746
+  author: Victor Porta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740949746/original.jpg
+- file: images/galliformes/cracidae/ortalis-leucogastra/4.jpg
+  page: https://www.inaturalist.org/photos/475729152
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475729152/original.jpeg
+- file: images/galliformes/cracidae/ortalis-leucogastra/5.jpg
+  page: https://www.inaturalist.org/photos/611961722
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611961722/original.jpg
 ---
 
 

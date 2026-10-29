@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/neosittidae/daphoenositta-chrysoptera/1.jpg
+  page: https://www.inaturalist.org/photos/610242498
+  author: prossington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610242498/original.jpg
+images:
+- file: images/passeriformes/neosittidae/daphoenositta-chrysoptera/1.jpg
+  page: https://www.inaturalist.org/photos/610242498
+  author: prossington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610242498/original.jpg
+- file: images/passeriformes/neosittidae/daphoenositta-chrysoptera/2.jpg
+  page: https://www.inaturalist.org/photos/620825387
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620825387/original.jpg
+- file: images/passeriformes/neosittidae/daphoenositta-chrysoptera/3.jpg
+  page: https://www.inaturalist.org/photos/651905350
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651905350/original.jpg
+- file: images/passeriformes/neosittidae/daphoenositta-chrysoptera/4.jpg
+  page: https://www.inaturalist.org/photos/610242517
+  author: prossington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610242517/original.jpg
+- file: images/passeriformes/neosittidae/daphoenositta-chrysoptera/5.jpg
+  page: https://www.inaturalist.org/photos/610242503
+  author: prossington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610242503/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/selasphorus-scintilla/1.jpg
+  page: https://www.inaturalist.org/photos/620966277
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620966277/original.jpg
+images:
+- file: images/apodiformes/trochilidae/selasphorus-scintilla/1.jpg
+  page: https://www.inaturalist.org/photos/620966277
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620966277/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-scintilla/2.jpg
+  page: https://www.inaturalist.org/photos/635246124
+  author: Karen Szafrajda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635246124/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-scintilla/3.jpg
+  page: https://www.inaturalist.org/photos/716613783
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716613783/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-scintilla/4.jpg
+  page: https://www.inaturalist.org/photos/680561939
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680561939/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-scintilla/5.jpg
+  page: https://www.inaturalist.org/photos/472210183
+  author: STEVEN PEREZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472210183/original.jpeg
 ---
 
 

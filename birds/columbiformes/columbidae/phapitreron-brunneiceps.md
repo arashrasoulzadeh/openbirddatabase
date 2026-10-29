@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/phapitreron-brunneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/269726246
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726246/original.jpg
+images:
+- file: images/columbiformes/columbidae/phapitreron-brunneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/269726246
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726246/original.jpg
+- file: images/columbiformes/columbidae/phapitreron-brunneiceps/2.jpg
+  page: https://www.inaturalist.org/photos/269726257
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726257/original.jpg
+- file: images/columbiformes/columbidae/phapitreron-brunneiceps/3.jpg
+  page: https://www.inaturalist.org/photos/269726267
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726267/original.jpg
+- file: images/columbiformes/columbidae/phapitreron-brunneiceps/4.jpg
+  page: https://www.inaturalist.org/photos/269726277
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726277/original.jpg
+- file: images/columbiformes/columbidae/phapitreron-brunneiceps/5.jpg
+  page: https://www.inaturalist.org/photos/269726284
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726284/original.jpg
 ---
 
 

@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/rostratulidae/nycticryphes-semicollaris/1.jpg
+  page: https://www.inaturalist.org/photos/619639664
+  author: Museo CN del depto San Cristobal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619639664/original.jpg
+images:
+- file: images/charadriiformes/rostratulidae/nycticryphes-semicollaris/1.jpg
+  page: https://www.inaturalist.org/photos/619639664
+  author: Museo CN del depto San Cristobal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619639664/original.jpg
+- file: images/charadriiformes/rostratulidae/nycticryphes-semicollaris/2.jpg
+  page: https://www.inaturalist.org/photos/740383763
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740383763/original.jpg
+- file: images/charadriiformes/rostratulidae/nycticryphes-semicollaris/3.jpg
+  page: https://www.inaturalist.org/photos/364913115
+  author: demianlescano
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364913115/original.jpeg
+- file: images/charadriiformes/rostratulidae/nycticryphes-semicollaris/4.jpg
+  page: https://www.inaturalist.org/photos/429811794
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429811794/original.jpeg
+- file: images/charadriiformes/rostratulidae/nycticryphes-semicollaris/5.jpg
+  page: https://www.inaturalist.org/photos/444642225
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444642225/original.jpg
 ---
 
 

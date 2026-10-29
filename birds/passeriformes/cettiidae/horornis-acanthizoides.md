@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/horornis-acanthizoides/1.jpg
+  page: https://www.inaturalist.org/photos/665388274
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665388274/original.jpg
+images:
+- file: images/passeriformes/cettiidae/horornis-acanthizoides/1.jpg
+  page: https://www.inaturalist.org/photos/665388274
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665388274/original.jpg
+- file: images/passeriformes/cettiidae/horornis-acanthizoides/2.jpg
+  page: https://www.inaturalist.org/photos/696220372
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696220372/original.jpg
+- file: images/passeriformes/cettiidae/horornis-acanthizoides/3.jpg
+  page: https://www.inaturalist.org/photos/698852140
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698852140/original.jpg
+- file: images/passeriformes/cettiidae/horornis-acanthizoides/4.jpg
+  page: https://www.inaturalist.org/photos/692637578
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692637578/original.jpg
+- file: images/passeriformes/cettiidae/horornis-acanthizoides/5.jpg
+  page: https://www.inaturalist.org/photos/723025535
+  author: 如此甚好
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723025535/original.jpg
 ---
 
 

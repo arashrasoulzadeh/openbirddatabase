@@ -191,8 +191,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/cairina-moschata/1.jpg
+  page: https://www.inaturalist.org/photos/605267606
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605267606/original.jpg
+images:
+- file: images/anseriformes/anatidae/cairina-moschata/1.jpg
+  page: https://www.inaturalist.org/photos/605267606
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605267606/original.jpg
+- file: images/anseriformes/anatidae/cairina-moschata/2.jpg
+  page: https://www.inaturalist.org/photos/604491567
+  author: psouthern
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604491567/original.jpg
+- file: images/anseriformes/anatidae/cairina-moschata/3.jpg
+  page: https://www.inaturalist.org/photos/605090566
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090566/original.jpg
+- file: images/anseriformes/anatidae/cairina-moschata/4.jpg
+  page: https://www.inaturalist.org/photos/604680048
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604680048/original.jpg
+- file: images/anseriformes/anatidae/cairina-moschata/5.jpg
+  page: https://www.inaturalist.org/photos/605543223
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605543223/original.jpg
 ---
 
 

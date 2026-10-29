@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-obscurus/1.jpg
+  page: https://www.inaturalist.org/photos/610128732
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610128732/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-obscurus/1.jpg
+  page: https://www.inaturalist.org/photos/610128732
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610128732/original.jpg
+- file: images/passeriformes/turdidae/turdus-obscurus/2.jpg
+  page: https://www.inaturalist.org/photos/614422862
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614422862/original.jpg
+- file: images/passeriformes/turdidae/turdus-obscurus/3.jpg
+  page: https://www.inaturalist.org/photos/614933893
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933893/original.jpg
+- file: images/passeriformes/turdidae/turdus-obscurus/4.jpg
+  page: https://www.inaturalist.org/photos/618851413
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851413/original.jpg
+- file: images/passeriformes/turdidae/turdus-obscurus/5.jpg
+  page: https://www.inaturalist.org/photos/614725274
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614725274/original.jpg
 ---
 
 

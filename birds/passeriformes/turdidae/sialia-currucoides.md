@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/turdidae/sialia-currucoides/1.jpg
+  page: https://www.inaturalist.org/photos/607235500
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607235500/original.jpg
+images:
+- file: images/passeriformes/turdidae/sialia-currucoides/1.jpg
+  page: https://www.inaturalist.org/photos/607235500
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607235500/original.jpg
+- file: images/passeriformes/turdidae/sialia-currucoides/2.jpg
+  page: https://www.inaturalist.org/photos/607830188
+  author: Diana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607830188/original.jpg
+- file: images/passeriformes/turdidae/sialia-currucoides/3.jpg
+  page: https://www.inaturalist.org/photos/607086503
+  author: Wendy McCrady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607086503/original.jpg
+- file: images/passeriformes/turdidae/sialia-currucoides/4.jpg
+  page: https://www.inaturalist.org/photos/608317817
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608317817/original.jpg
+- file: images/passeriformes/turdidae/sialia-currucoides/5.jpg
+  page: https://www.inaturalist.org/photos/610031652
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610031652/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/formicivora-intermedia/1.jpg
+  page: https://www.inaturalist.org/photos/695740007
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695740007/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/formicivora-intermedia/1.jpg
+  page: https://www.inaturalist.org/photos/695740007
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695740007/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-intermedia/2.jpg
+  page: https://www.inaturalist.org/photos/469204635
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469204635/original.jpeg
+- file: images/passeriformes/thamnophilidae/formicivora-intermedia/3.jpg
+  page: https://www.inaturalist.org/photos/585409730
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585409730/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-intermedia/4.jpg
+  page: https://www.inaturalist.org/photos/530044204
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530044204/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-intermedia/5.jpg
+  page: https://www.inaturalist.org/photos/517882131
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517882131/original.jpg
 ---
 
 

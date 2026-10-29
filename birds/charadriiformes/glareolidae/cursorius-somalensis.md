@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/cursorius-somalensis/1.jpg
+  page: https://www.inaturalist.org/photos/402207765
+  author: Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402207765/original.jpeg
+images:
+- file: images/charadriiformes/glareolidae/cursorius-somalensis/1.jpg
+  page: https://www.inaturalist.org/photos/402207765
+  author: Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402207765/original.jpeg
+- file: images/charadriiformes/glareolidae/cursorius-somalensis/2.jpg
+  page: https://www.inaturalist.org/photos/466454053
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466454053/original.jpeg
+- file: images/charadriiformes/glareolidae/cursorius-somalensis/3.jpg
+  page: https://www.inaturalist.org/photos/471775623
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471775623/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-somalensis/4.jpg
+  page: https://www.inaturalist.org/photos/466454050
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466454050/original.jpeg
+- file: images/charadriiformes/glareolidae/cursorius-somalensis/5.jpg
+  page: https://www.inaturalist.org/photos/608905260
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608905260/original.jpg
 ---
 
 

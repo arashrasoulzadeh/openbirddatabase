@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-xanthogaster/1.jpg
+  page: https://www.inaturalist.org/photos/609245508
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609245508/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-xanthogaster/1.jpg
+  page: https://www.inaturalist.org/photos/609245508
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609245508/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-xanthogaster/2.jpg
+  page: https://www.inaturalist.org/photos/610871351
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610871351/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-xanthogaster/3.jpg
+  page: https://www.inaturalist.org/photos/612965202
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612965202/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-xanthogaster/4.jpg
+  page: https://www.inaturalist.org/photos/612267936
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612267936/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-xanthogaster/5.jpg
+  page: https://www.inaturalist.org/photos/608655759
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608655759/original.jpg
 ---
 
 

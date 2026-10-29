@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/hydropsalis-cayennensis/1.jpg
+  page: https://www.inaturalist.org/photos/617452090
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452090/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-cayennensis/1.jpg
+  page: https://www.inaturalist.org/photos/617452090
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452090/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-cayennensis/2.jpg
+  page: https://www.inaturalist.org/photos/703422862
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703422862/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-cayennensis/3.jpg
+  page: https://www.inaturalist.org/photos/506546249
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506546249/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-cayennensis/4.jpg
+  page: https://www.inaturalist.org/photos/533023122
+  author: Cristina Hutchison
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533023122/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-cayennensis/5.jpg
+  page: https://www.inaturalist.org/photos/541602988
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541602988/original.jpg
 ---
 
 

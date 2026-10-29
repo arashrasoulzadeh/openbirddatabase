@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-homochrous/1.jpg
+  page: https://www.inaturalist.org/photos/532685392
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532685392/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-homochrous/1.jpg
+  page: https://www.inaturalist.org/photos/532685392
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532685392/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-homochrous/2.jpg
+  page: https://www.inaturalist.org/photos/559898269
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559898269/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-homochrous/3.jpg
+  page: https://www.inaturalist.org/photos/585556669
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585556669/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-homochrous/4.jpg
+  page: https://www.inaturalist.org/photos/354005014
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354005014/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-homochrous/5.jpg
+  page: https://www.inaturalist.org/photos/104817291
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104817291/original.jpeg
 ---
 
 

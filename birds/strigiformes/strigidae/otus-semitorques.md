@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/strigiformes/strigidae/otus-semitorques/1.jpg
+  page: https://www.inaturalist.org/photos/725741635
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725741635/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-semitorques/1.jpg
+  page: https://www.inaturalist.org/photos/725741635
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725741635/original.jpg
+- file: images/strigiformes/strigidae/otus-semitorques/2.jpg
+  page: https://www.inaturalist.org/photos/723572011
+  author: ykkentr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723572011/original.jpg
+- file: images/strigiformes/strigidae/otus-semitorques/3.jpg
+  page: https://www.inaturalist.org/photos/526015819
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526015819/original.jpg
+- file: images/strigiformes/strigidae/otus-semitorques/4.jpg
+  page: https://www.inaturalist.org/photos/295526567
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/295526567/original.jpg
+- file: images/strigiformes/strigidae/otus-semitorques/5.jpg
+  page: https://www.inaturalist.org/photos/304439804
+  author: Takaaki Hattori
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304439804/original.jpeg
 ---
 
 

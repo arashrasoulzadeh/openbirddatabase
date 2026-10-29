@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-macleayii/1.jpg
+  page: https://www.inaturalist.org/photos/610510288
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510288/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-macleayii/1.jpg
+  page: https://www.inaturalist.org/photos/610510288
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510288/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-macleayii/2.jpg
+  page: https://www.inaturalist.org/photos/605851956
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605851956/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-macleayii/3.jpg
+  page: https://www.inaturalist.org/photos/613846481
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613846481/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-macleayii/4.jpg
+  page: https://www.inaturalist.org/photos/625273811
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625273811/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-macleayii/5.jpg
+  page: https://www.inaturalist.org/photos/624827488
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624827488/original.jpg
 ---
 
 

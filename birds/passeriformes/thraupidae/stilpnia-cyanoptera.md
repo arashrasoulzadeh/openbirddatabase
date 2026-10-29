@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 11.9
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 69.4
   tail_length_mm: 53.0
   body_mass_g: 21.5
+image:
+  file: images/passeriformes/thraupidae/stilpnia-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/617454779
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617454779/original.jpg
+images:
+- file: images/passeriformes/thraupidae/stilpnia-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/617454779
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617454779/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-cyanoptera/2.jpg
+  page: https://www.inaturalist.org/photos/688191599
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688191599/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-cyanoptera/3.jpg
+  page: https://www.inaturalist.org/photos/697517362
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697517362/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-cyanoptera/4.jpg
+  page: https://www.inaturalist.org/photos/738247592
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738247592/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-cyanoptera/5.jpg
+  page: https://www.inaturalist.org/photos/468943095
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468943095/original.jpeg
 ---
 
 

@@ -139,7 +139,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 159.0
@@ -147,6 +148,44 @@ morphology:
   wing_length_mm: 399.8
   tail_length_mm: 262.0
   body_mass_g: 1819.0
+image:
+  file: images/pelecaniformes/threskiornithidae/cercibis-oxycerca/1.jpg
+  page: https://www.inaturalist.org/photos/607947029
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607947029/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/cercibis-oxycerca/1.jpg
+  page: https://www.inaturalist.org/photos/607947029
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607947029/original.jpg
+- file: images/pelecaniformes/threskiornithidae/cercibis-oxycerca/2.jpg
+  page: https://www.inaturalist.org/photos/617286683
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617286683/original.jpg
+- file: images/pelecaniformes/threskiornithidae/cercibis-oxycerca/3.jpg
+  page: https://www.inaturalist.org/photos/464290627
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464290627/original.jpeg
+- file: images/pelecaniformes/threskiornithidae/cercibis-oxycerca/4.jpg
+  page: https://www.inaturalist.org/photos/478345462
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478345462/original.jpg
+- file: images/pelecaniformes/threskiornithidae/cercibis-oxycerca/5.jpg
+  page: https://www.inaturalist.org/photos/109212471
+  author: Andrés Ramírez-Barrera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109212471/original.jpeg
 ---
 
 

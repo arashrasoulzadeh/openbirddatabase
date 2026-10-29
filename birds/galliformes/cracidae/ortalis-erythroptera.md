@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-erythroptera/1.jpg
+  page: https://www.inaturalist.org/photos/706710628
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706710628/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-erythroptera/1.jpg
+  page: https://www.inaturalist.org/photos/706710628
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706710628/original.jpg
+- file: images/galliformes/cracidae/ortalis-erythroptera/2.jpg
+  page: https://www.inaturalist.org/photos/735393509
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735393509/original.jpg
+- file: images/galliformes/cracidae/ortalis-erythroptera/3.jpg
+  page: https://www.inaturalist.org/photos/559074189
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559074189/original.jpg
+- file: images/galliformes/cracidae/ortalis-erythroptera/4.jpg
+  page: https://www.inaturalist.org/photos/598666753
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598666753/original.jpg
+- file: images/galliformes/cracidae/ortalis-erythroptera/5.jpg
+  page: https://www.inaturalist.org/photos/460006669
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460006669/original.jpg
 ---
 
 

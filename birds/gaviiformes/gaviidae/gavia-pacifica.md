@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/gaviiformes/gaviidae/gavia-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/610659086
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610659086/original.jpg
+images:
+- file: images/gaviiformes/gaviidae/gavia-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/610659086
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610659086/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-pacifica/2.jpg
+  page: https://www.inaturalist.org/photos/609341749
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609341749/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-pacifica/3.jpg
+  page: https://www.inaturalist.org/photos/609917948
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609917948/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-pacifica/4.jpg
+  page: https://www.inaturalist.org/photos/609917936
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609917936/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-pacifica/5.jpg
+  page: https://www.inaturalist.org/photos/609917942
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609917942/original.jpg
 ---
 
 

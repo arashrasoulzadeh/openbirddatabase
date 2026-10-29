@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/saltator-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/323100876
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323100876/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/323100876
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323100876/original.jpg
+- file: images/passeriformes/thraupidae/saltator-nigriceps/2.jpg
+  page: https://www.inaturalist.org/photos/333035020
+  author: Martin Vallejos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333035020/original.jpg
+- file: images/passeriformes/thraupidae/saltator-nigriceps/3.jpg
+  page: https://www.inaturalist.org/photos/103073251
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103073251/original.jpeg
+- file: images/passeriformes/thraupidae/saltator-nigriceps/4.jpg
+  page: https://www.inaturalist.org/photos/323100885
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323100885/original.jpg
+- file: images/passeriformes/thraupidae/saltator-nigriceps/5.jpg
+  page: https://www.inaturalist.org/photos/323100911
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323100911/original.jpg
 ---
 
 

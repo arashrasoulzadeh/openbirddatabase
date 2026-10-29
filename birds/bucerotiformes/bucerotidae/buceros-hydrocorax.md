@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/buceros-hydrocorax/1.jpg
+  page: https://www.inaturalist.org/photos/263837273
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837273/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/buceros-hydrocorax/1.jpg
+  page: https://www.inaturalist.org/photos/263837273
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837273/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-hydrocorax/2.jpg
+  page: https://www.inaturalist.org/photos/263837278
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837278/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-hydrocorax/3.jpg
+  page: https://www.inaturalist.org/photos/270925092
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925092/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-hydrocorax/4.jpg
+  page: https://www.inaturalist.org/photos/270925115
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925115/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-hydrocorax/5.jpg
+  page: https://www.inaturalist.org/photos/270925152
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925152/original.jpg
 ---
 
 

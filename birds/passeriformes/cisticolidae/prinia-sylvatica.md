@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-sylvatica/1.jpg
+  page: https://www.inaturalist.org/photos/605926602
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605926602/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-sylvatica/1.jpg
+  page: https://www.inaturalist.org/photos/605926602
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605926602/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-sylvatica/2.jpg
+  page: https://www.inaturalist.org/photos/627272342
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627272342/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-sylvatica/3.jpg
+  page: https://www.inaturalist.org/photos/679618373
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679618373/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-sylvatica/4.jpg
+  page: https://www.inaturalist.org/photos/731482146
+  author: Aryan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731482146/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-sylvatica/5.jpg
+  page: https://www.inaturalist.org/photos/739368960
+  author: apoorva sr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739368960/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/trochilus-polytmus/1.jpg
+  page: https://www.inaturalist.org/photos/466999180
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466999180/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/trochilus-polytmus/1.jpg
+  page: https://www.inaturalist.org/photos/466999180
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466999180/original.jpeg
+- file: images/apodiformes/trochilidae/trochilus-polytmus/2.jpg
+  page: https://www.inaturalist.org/photos/476134468
+  author: Holly McCain
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476134468/original.jpeg
+- file: images/apodiformes/trochilidae/trochilus-polytmus/3.jpg
+  page: https://www.inaturalist.org/photos/563543857
+  author: rainerburkard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563543857/original.jpg
+- file: images/apodiformes/trochilidae/trochilus-polytmus/4.jpg
+  page: https://www.inaturalist.org/photos/353917540
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353917540/original.jpg
+- file: images/apodiformes/trochilidae/trochilus-polytmus/5.jpg
+  page: https://www.inaturalist.org/photos/585673140
+  author: Mark McClelland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585673140/original.jpg
 ---
 
 

@@ -165,7 +165,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 43.4
@@ -180,6 +181,44 @@ reproduction:
   clutch_size_mean: 3.0
   broods_per_year: 1
   fledging_days: 35
+image:
+  file: images/charadriiformes/laridae/chroicocephalus-ridibundus/1.jpg
+  page: https://www.inaturalist.org/photos/605138251
+  author: Andrew Skotnicki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605138251/original.jpg
+images:
+- file: images/charadriiformes/laridae/chroicocephalus-ridibundus/1.jpg
+  page: https://www.inaturalist.org/photos/605138251
+  author: Andrew Skotnicki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605138251/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-ridibundus/2.jpg
+  page: https://www.inaturalist.org/photos/604606003
+  author: Marco Zaccaria Di Fraia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606003/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-ridibundus/3.jpg
+  page: https://www.inaturalist.org/photos/605408508
+  author: Alexis Lours
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605408508/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-ridibundus/4.jpg
+  page: https://www.inaturalist.org/photos/605647193
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605647193/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-ridibundus/5.jpg
+  page: https://www.inaturalist.org/photos/604512933
+  author: Helen Bovill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604512933/original.jpg
 ---
 
 

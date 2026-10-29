@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/erythropitta-ussheri/1.jpg
+  page: https://www.inaturalist.org/photos/620012703
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620012703/original.jpg
+images:
+- file: images/passeriformes/pittidae/erythropitta-ussheri/1.jpg
+  page: https://www.inaturalist.org/photos/620012703
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620012703/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-ussheri/2.jpg
+  page: https://www.inaturalist.org/photos/575062494
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575062494/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-ussheri/3.jpg
+  page: https://www.inaturalist.org/photos/577945468
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577945468/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-ussheri/4.jpg
+  page: https://www.inaturalist.org/photos/597884028
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597884028/original.jpg
+- file: images/passeriformes/pittidae/erythropitta-ussheri/5.jpg
+  page: https://www.inaturalist.org/photos/454749397
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454749397/original.jpeg
 ---
 
 

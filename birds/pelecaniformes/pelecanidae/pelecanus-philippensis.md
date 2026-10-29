@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 31
+image:
+  file: images/pelecaniformes/pelecanidae/pelecanus-philippensis/1.jpg
+  page: https://www.inaturalist.org/photos/611208382
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611208382/original.jpg
+images:
+- file: images/pelecaniformes/pelecanidae/pelecanus-philippensis/1.jpg
+  page: https://www.inaturalist.org/photos/611208382
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611208382/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-philippensis/2.jpg
+  page: https://www.inaturalist.org/photos/615431322
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615431322/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-philippensis/3.jpg
+  page: https://www.inaturalist.org/photos/622322142
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622322142/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-philippensis/4.jpg
+  page: https://www.inaturalist.org/photos/657955184
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657955184/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-philippensis/5.jpg
+  page: https://www.inaturalist.org/photos/704379761
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704379761/original.jpg
 ---
 
 

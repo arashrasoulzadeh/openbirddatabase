@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/motacilla-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/609269775
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609269775/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/609269775
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609269775/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/610677251
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610677251/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/609924666
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609924666/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/610195788
+  author: Justin Schoon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610195788/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/609694928
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609694928/original.jpg
 ---
 
 

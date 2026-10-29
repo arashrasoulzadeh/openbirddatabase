@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/597711236
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597711236/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/597711236
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597711236/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-melanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/347670301
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347670301/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-melanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/448282337
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448282337/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-melanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/176958357
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176958357/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-melanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/597711222
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597711222/original.jpg
 ---
 
 

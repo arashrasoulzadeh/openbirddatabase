@@ -138,8 +138,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/pachysylvia-hypoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/429332946
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429332946/original.jpg
+images:
+- file: images/passeriformes/vireonidae/pachysylvia-hypoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/429332946
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429332946/original.jpg
+- file: images/passeriformes/vireonidae/pachysylvia-hypoxantha/2.jpg
+  page: https://www.inaturalist.org/photos/573555300
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573555300/original.jpg
+- file: images/passeriformes/vireonidae/pachysylvia-hypoxantha/3.jpg
+  page: https://www.inaturalist.org/photos/573693662
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573693662/original.jpg
 ---
 
 

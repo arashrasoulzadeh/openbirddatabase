@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/hirundinidae/progne-subis/1.jpg
+  page: https://www.inaturalist.org/photos/611726947
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611726947/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/progne-subis/1.jpg
+  page: https://www.inaturalist.org/photos/611726947
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611726947/original.jpg
+- file: images/passeriformes/hirundinidae/progne-subis/2.jpg
+  page: https://www.inaturalist.org/photos/614521069
+  author: Dmitry Podobreev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614521069/original.jpg
+- file: images/passeriformes/hirundinidae/progne-subis/3.jpg
+  page: https://www.inaturalist.org/photos/620049350
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620049350/original.jpg
+- file: images/passeriformes/hirundinidae/progne-subis/4.jpg
+  page: https://www.inaturalist.org/photos/620191627
+  author: Larry Jensen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620191627/original.jpg
+- file: images/passeriformes/hirundinidae/progne-subis/5.jpg
+  page: https://www.inaturalist.org/photos/611779191
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611779191/original.jpg
 ---
 
 

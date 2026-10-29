@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/callipepla-douglasii/1.jpg
+  page: https://www.inaturalist.org/photos/609598278
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609598278/original.jpg
+images:
+- file: images/galliformes/odontophoridae/callipepla-douglasii/1.jpg
+  page: https://www.inaturalist.org/photos/609598278
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609598278/original.jpg
+- file: images/galliformes/odontophoridae/callipepla-douglasii/2.jpg
+  page: https://www.inaturalist.org/photos/498798698
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498798698/original.jpeg
+- file: images/galliformes/odontophoridae/callipepla-douglasii/3.jpg
+  page: https://www.inaturalist.org/photos/397801520
+  author: Luis F. Ramírez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/397801520/original.jpeg
+- file: images/galliformes/odontophoridae/callipepla-douglasii/4.jpg
+  page: https://www.inaturalist.org/photos/411558453
+  author: Francisco Farriols Sarabia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411558453/original.jpeg
+- file: images/galliformes/odontophoridae/callipepla-douglasii/5.jpg
+  page: https://www.inaturalist.org/photos/498798755
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498798755/original.jpeg
 ---
 
 

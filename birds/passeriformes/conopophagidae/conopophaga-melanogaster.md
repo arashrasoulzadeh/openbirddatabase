@@ -134,10 +134,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/conopophagidae/conopophaga-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/591680575
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591680575/original.jpg
+images:
+- file: images/passeriformes/conopophagidae/conopophaga-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/591680575
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591680575/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-melanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/402023043
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402023043/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-melanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/402026779
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402026779/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-melanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/402026780
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402026780/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-melanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/402026783
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402026783/original.jpg
 ---
 
 

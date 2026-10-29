@@ -153,8 +153,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/297113871
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/297113871/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/297113871
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/297113871/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-grandis/2.jpg
+  page: https://www.inaturalist.org/photos/336832759
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336832759/original.jpeg
+- file: images/passeriformes/fringillidae/carpodacus-grandis/3.jpg
+  page: https://www.inaturalist.org/photos/336832769
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336832769/original.jpeg
 ---
 
 

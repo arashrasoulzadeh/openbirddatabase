@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/610989838
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610989838/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/610989838
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610989838/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/613900177
+  author: Burgert Jordaan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613900177/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/713639757
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713639757/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/630138054
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630138054/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/627207752
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627207752/original.jpg
 ---
 
 

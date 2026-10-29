@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/megaceryle-torquata/1.jpg
+  page: https://www.inaturalist.org/photos/605356696
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356696/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/megaceryle-torquata/1.jpg
+  page: https://www.inaturalist.org/photos/605356696
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356696/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-torquata/2.jpg
+  page: https://www.inaturalist.org/photos/604903982
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604903982/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-torquata/3.jpg
+  page: https://www.inaturalist.org/photos/605383217
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383217/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-torquata/4.jpg
+  page: https://www.inaturalist.org/photos/605688124
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605688124/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-torquata/5.jpg
+  page: https://www.inaturalist.org/photos/610012724
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012724/original.jpg
 ---
 
 

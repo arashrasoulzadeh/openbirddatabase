@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/alectoris-philbyi/1.jpg
+  page: https://www.inaturalist.org/photos/463359633
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463359633/original.jpeg
+images:
+- file: images/galliformes/phasianidae/alectoris-philbyi/1.jpg
+  page: https://www.inaturalist.org/photos/463359633
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463359633/original.jpeg
+- file: images/galliformes/phasianidae/alectoris-philbyi/2.jpg
+  page: https://www.inaturalist.org/photos/261009386
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261009386/original.jpeg
+- file: images/galliformes/phasianidae/alectoris-philbyi/3.jpg
+  page: https://www.inaturalist.org/photos/463359636
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463359636/original.jpeg
+- file: images/galliformes/phasianidae/alectoris-philbyi/4.jpg
+  page: https://www.inaturalist.org/photos/261009449
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261009449/original.jpeg
+- file: images/galliformes/phasianidae/alectoris-philbyi/5.jpg
+  page: https://www.inaturalist.org/photos/637060371
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637060371/original.jpg
 ---
 
 

@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chrysococcyx-cupreus/1.jpg
+  page: https://www.inaturalist.org/photos/660451822
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660451822/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chrysococcyx-cupreus/1.jpg
+  page: https://www.inaturalist.org/photos/660451822
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660451822/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-cupreus/2.jpg
+  page: https://www.inaturalist.org/photos/469323266
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469323266/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-cupreus/3.jpg
+  page: https://www.inaturalist.org/photos/462498949
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462498949/original.jpeg
+- file: images/cuculiformes/cuculidae/chrysococcyx-cupreus/4.jpg
+  page: https://www.inaturalist.org/photos/477341416
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477341416/original.jpeg
+- file: images/cuculiformes/cuculidae/chrysococcyx-cupreus/5.jpg
+  page: https://www.inaturalist.org/photos/550595560
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550595560/original.jpg
 ---
 
 

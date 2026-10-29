@@ -156,8 +156,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/strix-leptogrammica/1.jpg
+  page: https://www.inaturalist.org/photos/621703032
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621703032/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-leptogrammica/1.jpg
+  page: https://www.inaturalist.org/photos/621703032
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621703032/original.jpg
+- file: images/strigiformes/strigidae/strix-leptogrammica/2.jpg
+  page: https://www.inaturalist.org/photos/607693086
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607693086/original.jpg
+- file: images/strigiformes/strigidae/strix-leptogrammica/3.jpg
+  page: https://www.inaturalist.org/photos/618629609
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618629609/original.jpg
+- file: images/strigiformes/strigidae/strix-leptogrammica/4.jpg
+  page: https://www.inaturalist.org/photos/720529074
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720529074/original.jpg
+- file: images/strigiformes/strigidae/strix-leptogrammica/5.jpg
+  page: https://www.inaturalist.org/photos/631347758
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631347758/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/aphanotriccus-capitalis/1.jpg
+  page: https://www.inaturalist.org/photos/193503373
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/193503373/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/aphanotriccus-capitalis/1.jpg
+  page: https://www.inaturalist.org/photos/193503373
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/193503373/original.jpg
+- file: images/passeriformes/tyrannidae/aphanotriccus-capitalis/2.jpg
+  page: https://www.inaturalist.org/photos/732613046
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732613046/original.jpg
+- file: images/passeriformes/tyrannidae/aphanotriccus-capitalis/3.jpg
+  page: https://www.inaturalist.org/photos/114208138
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114208138/original.jpeg
+- file: images/passeriformes/tyrannidae/aphanotriccus-capitalis/4.jpg
+  page: https://www.inaturalist.org/photos/114208427
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114208427/original.jpeg
+- file: images/passeriformes/tyrannidae/aphanotriccus-capitalis/5.jpg
+  page: https://www.inaturalist.org/photos/27667911
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27667911/original.jpeg
 ---
 
 

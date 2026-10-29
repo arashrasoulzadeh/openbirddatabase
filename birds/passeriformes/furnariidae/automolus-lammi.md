@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/automolus-lammi/1.jpg
+  page: https://www.inaturalist.org/photos/667896823
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667896823/original.jpg
+images:
+- file: images/passeriformes/furnariidae/automolus-lammi/1.jpg
+  page: https://www.inaturalist.org/photos/667896823
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667896823/original.jpg
+- file: images/passeriformes/furnariidae/automolus-lammi/2.jpg
+  page: https://www.inaturalist.org/photos/514785504
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514785504/original.jpg
+- file: images/passeriformes/furnariidae/automolus-lammi/3.jpg
+  page: https://www.inaturalist.org/photos/240604595
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240604595/original.jpg
+- file: images/passeriformes/furnariidae/automolus-lammi/4.jpg
+  page: https://www.inaturalist.org/photos/667896814
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667896814/original.jpg
+- file: images/passeriformes/furnariidae/automolus-lammi/5.jpg
+  page: https://www.inaturalist.org/photos/667896818
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667896818/original.jpg
 ---
 
 

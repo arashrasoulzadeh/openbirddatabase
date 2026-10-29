@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/anseriformes/anatidae/aythya-americana/1.jpg
+  page: https://www.inaturalist.org/photos/605213888
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605213888/original.jpg
+images:
+- file: images/anseriformes/anatidae/aythya-americana/1.jpg
+  page: https://www.inaturalist.org/photos/605213888
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605213888/original.jpg
+- file: images/anseriformes/anatidae/aythya-americana/2.jpg
+  page: https://www.inaturalist.org/photos/608736875
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608736875/original.jpg
+- file: images/anseriformes/anatidae/aythya-americana/3.jpg
+  page: https://www.inaturalist.org/photos/608708977
+  author: wweellll
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608708977/original.jpg
+- file: images/anseriformes/anatidae/aythya-americana/4.jpg
+  page: https://www.inaturalist.org/photos/609366300
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609366300/original.jpg
+- file: images/anseriformes/anatidae/aythya-americana/5.jpg
+  page: https://www.inaturalist.org/photos/608708980
+  author: wweellll
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608708980/original.jpg
 ---
 
 

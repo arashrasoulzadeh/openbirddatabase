@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 43.1
@@ -136,6 +137,44 @@ morphology:
   wing_length_mm: 145.4
   tail_length_mm: 127.4
   body_mass_g: 85.7
+image:
+  file: images/passeriformes/meliphagidae/philemon-fuscicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/484965406
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965406/original.jpeg
+images:
+- file: images/passeriformes/meliphagidae/philemon-fuscicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/484965406
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965406/original.jpeg
+- file: images/passeriformes/meliphagidae/philemon-fuscicapillus/2.jpg
+  page: https://www.inaturalist.org/photos/246520844
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246520844/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-fuscicapillus/3.jpg
+  page: https://www.inaturalist.org/photos/484965072
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965072/original.jpeg
+- file: images/passeriformes/meliphagidae/philemon-fuscicapillus/4.jpg
+  page: https://www.inaturalist.org/photos/484965107
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965107/original.jpeg
+- file: images/passeriformes/meliphagidae/philemon-fuscicapillus/5.jpg
+  page: https://www.inaturalist.org/photos/484965111
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965111/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ornithion-semiflavum/1.jpg
+  page: https://www.inaturalist.org/photos/635766792
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635766792/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/ornithion-semiflavum/1.jpg
+  page: https://www.inaturalist.org/photos/635766792
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635766792/original.jpg
+- file: images/passeriformes/tyrannidae/ornithion-semiflavum/2.jpg
+  page: https://www.inaturalist.org/photos/598832916
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598832916/original.jpg
+- file: images/passeriformes/tyrannidae/ornithion-semiflavum/3.jpg
+  page: https://www.inaturalist.org/photos/363553444
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363553444/original.jpeg
+- file: images/passeriformes/tyrannidae/ornithion-semiflavum/4.jpg
+  page: https://www.inaturalist.org/photos/442479082
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442479082/original.jpg
+- file: images/passeriformes/tyrannidae/ornithion-semiflavum/5.jpg
+  page: https://www.inaturalist.org/photos/311906086
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311906086/original.jpeg
 ---
 
 

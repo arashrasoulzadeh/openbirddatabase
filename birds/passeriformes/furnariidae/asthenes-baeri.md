@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/asthenes-baeri/1.jpg
+  page: https://www.inaturalist.org/photos/605494281
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494281/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-baeri/1.jpg
+  page: https://www.inaturalist.org/photos/605494281
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494281/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-baeri/2.jpg
+  page: https://www.inaturalist.org/photos/615858221
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615858221/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-baeri/3.jpg
+  page: https://www.inaturalist.org/photos/657196945
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657196945/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-baeri/4.jpg
+  page: https://www.inaturalist.org/photos/744482955
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744482955/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-baeri/5.jpg
+  page: https://www.inaturalist.org/photos/462026626
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462026626/original.jpeg
 ---
 
 

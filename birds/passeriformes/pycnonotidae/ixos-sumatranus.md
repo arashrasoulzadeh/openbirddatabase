@@ -122,8 +122,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/ixos-sumatranus/1.jpg
+  page: https://www.inaturalist.org/photos/624181365
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624181365/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/ixos-sumatranus/1.jpg
+  page: https://www.inaturalist.org/photos/624181365
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624181365/original.jpg
+- file: images/passeriformes/pycnonotidae/ixos-sumatranus/2.jpg
+  page: https://www.inaturalist.org/photos/624188248
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624188248/original.jpg
+- file: images/passeriformes/pycnonotidae/ixos-sumatranus/3.jpg
+  page: https://www.inaturalist.org/photos/624188264
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624188264/original.jpg
 ---
 
 

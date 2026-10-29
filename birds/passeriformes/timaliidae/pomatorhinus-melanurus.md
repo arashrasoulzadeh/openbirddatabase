@@ -139,7 +139,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 28.0
@@ -147,6 +148,44 @@ morphology:
   wing_length_mm: 87.8
   tail_length_mm: 88.5
   body_mass_g: 43.0
+image:
+  file: images/passeriformes/timaliidae/pomatorhinus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/618952704
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618952704/original.jpg
+images:
+- file: images/passeriformes/timaliidae/pomatorhinus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/618952704
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618952704/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-melanurus/2.jpg
+  page: https://www.inaturalist.org/photos/650815213
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650815213/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-melanurus/3.jpg
+  page: https://www.inaturalist.org/photos/465707658
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465707658/original.jpeg
+- file: images/passeriformes/timaliidae/pomatorhinus-melanurus/4.jpg
+  page: https://www.inaturalist.org/photos/468459642
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468459642/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-melanurus/5.jpg
+  page: https://www.inaturalist.org/photos/606171107
+  author: Nadezhda Bortnikova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606171107/original.jpg
 ---
 
 

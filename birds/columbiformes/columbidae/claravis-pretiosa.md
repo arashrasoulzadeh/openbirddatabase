@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/claravis-pretiosa/1.jpg
+  page: https://www.inaturalist.org/photos/625732347
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625732347/original.jpg
+images:
+- file: images/columbiformes/columbidae/claravis-pretiosa/1.jpg
+  page: https://www.inaturalist.org/photos/625732347
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625732347/original.jpg
+- file: images/columbiformes/columbidae/claravis-pretiosa/2.jpg
+  page: https://www.inaturalist.org/photos/620189605
+  author: Ricard Busquets Reverte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620189605/original.jpg
+- file: images/columbiformes/columbidae/claravis-pretiosa/3.jpg
+  page: https://www.inaturalist.org/photos/644130368
+  author: Fabian Orozco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644130368/original.jpg
+- file: images/columbiformes/columbidae/claravis-pretiosa/4.jpg
+  page: https://www.inaturalist.org/photos/722184066
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722184066/original.jpg
+- file: images/columbiformes/columbidae/claravis-pretiosa/5.jpg
+  page: https://www.inaturalist.org/photos/729281636
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729281636/original.jpg
 ---
 
 

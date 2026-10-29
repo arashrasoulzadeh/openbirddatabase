@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/musophagiformes/musophagidae/crinifer-piscator/1.jpg
+  page: https://www.inaturalist.org/photos/612455214
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612455214/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/crinifer-piscator/1.jpg
+  page: https://www.inaturalist.org/photos/612455214
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612455214/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-piscator/2.jpg
+  page: https://www.inaturalist.org/photos/620306926
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620306926/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-piscator/3.jpg
+  page: https://www.inaturalist.org/photos/637803044
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637803044/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-piscator/4.jpg
+  page: https://www.inaturalist.org/photos/612455216
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612455216/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-piscator/5.jpg
+  page: https://www.inaturalist.org/photos/612455215
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612455215/original.jpg
 ---
 
 

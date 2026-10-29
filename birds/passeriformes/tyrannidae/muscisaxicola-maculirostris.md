@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-maculirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605914530
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914530/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-maculirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605914530
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914530/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-maculirostris/2.jpg
+  page: https://www.inaturalist.org/photos/617306580
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617306580/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-maculirostris/3.jpg
+  page: https://www.inaturalist.org/photos/616648365
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616648365/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-maculirostris/4.jpg
+  page: https://www.inaturalist.org/photos/630008476
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630008476/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-maculirostris/5.jpg
+  page: https://www.inaturalist.org/photos/629446963
+  author: Franco Arenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629446963/original.jpg
 ---
 
 

@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/fringillidae/carduelis-citrinella/1.jpg
+  page: https://www.inaturalist.org/photos/649086380
+  author: Emil Jantke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649086380/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carduelis-citrinella/1.jpg
+  page: https://www.inaturalist.org/photos/649086380
+  author: Emil Jantke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649086380/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-citrinella/2.jpg
+  page: https://www.inaturalist.org/photos/651957522
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651957522/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-citrinella/3.jpg
+  page: https://www.inaturalist.org/photos/673017738
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673017738/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-citrinella/4.jpg
+  page: https://www.inaturalist.org/photos/701237663
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701237663/original.jpg
+- file: images/passeriformes/fringillidae/carduelis-citrinella/5.jpg
+  page: https://www.inaturalist.org/photos/710187177
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710187177/original.jpg
 ---
 
 

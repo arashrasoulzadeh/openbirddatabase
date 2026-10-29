@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/charadriiformes/glareolidae/glareola-maldivarum/1.jpg
+  page: https://www.inaturalist.org/photos/635356016
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635356016/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/glareola-maldivarum/1.jpg
+  page: https://www.inaturalist.org/photos/635356016
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635356016/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-maldivarum/2.jpg
+  page: https://www.inaturalist.org/photos/622469253
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622469253/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-maldivarum/3.jpg
+  page: https://www.inaturalist.org/photos/631637128
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631637128/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-maldivarum/4.jpg
+  page: https://www.inaturalist.org/photos/630352951
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630352951/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-maldivarum/5.jpg
+  page: https://www.inaturalist.org/photos/632134299
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632134299/original.jpg
 ---
 
 

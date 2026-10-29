@@ -136,8 +136,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/musophagiformes/musophagidae/tauraco-violaceus/1.jpg
+  page: https://www.inaturalist.org/photos/612431922
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612431922/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-violaceus/1.jpg
+  page: https://www.inaturalist.org/photos/612431922
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612431922/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-violaceus/2.jpg
+  page: https://www.inaturalist.org/photos/620289042
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620289042/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-violaceus/3.jpg
+  page: https://www.inaturalist.org/photos/638923871
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638923871/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-violaceus/4.jpg
+  page: https://www.inaturalist.org/photos/472246441
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472246441/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-violaceus/5.jpg
+  page: https://www.inaturalist.org/photos/475633340
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475633340/original.jpg
 ---
 
 

@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.4
@@ -132,6 +133,26 @@ morphology:
   wing_length_mm: 88.4
   tail_length_mm: 68.8
   body_mass_g: 33.6
+image:
+  file: images/psittaciformes/psittaculidae/hypocharmosyna-placentis/1.jpg
+  page: https://www.inaturalist.org/photos/313575627
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313575627/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/hypocharmosyna-placentis/1.jpg
+  page: https://www.inaturalist.org/photos/313575627
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313575627/original.jpg
+- file: images/psittaciformes/psittaculidae/hypocharmosyna-placentis/2.jpg
+  page: https://www.inaturalist.org/photos/313575625
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313575625/original.jpg
 ---
 
 

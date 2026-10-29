@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/ibycter-americanus/1.jpg
+  page: https://www.inaturalist.org/photos/618468959
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618468959/original.jpg
+images:
+- file: images/falconiformes/falconidae/ibycter-americanus/1.jpg
+  page: https://www.inaturalist.org/photos/618468959
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618468959/original.jpg
+- file: images/falconiformes/falconidae/ibycter-americanus/2.jpg
+  page: https://www.inaturalist.org/photos/617056001
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617056001/original.jpg
+- file: images/falconiformes/falconidae/ibycter-americanus/3.jpg
+  page: https://www.inaturalist.org/photos/637759890
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637759890/original.jpg
+- file: images/falconiformes/falconidae/ibycter-americanus/4.jpg
+  page: https://www.inaturalist.org/photos/638905818
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638905818/original.jpg
+- file: images/falconiformes/falconidae/ibycter-americanus/5.jpg
+  page: https://www.inaturalist.org/photos/699849125
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699849125/original.jpg
 ---
 
 

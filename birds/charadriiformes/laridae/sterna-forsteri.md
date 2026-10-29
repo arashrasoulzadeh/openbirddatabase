@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/charadriiformes/laridae/sterna-forsteri/1.jpg
+  page: https://www.inaturalist.org/photos/605733187
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605733187/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-forsteri/1.jpg
+  page: https://www.inaturalist.org/photos/605733187
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605733187/original.jpg
+- file: images/charadriiformes/laridae/sterna-forsteri/2.jpg
+  page: https://www.inaturalist.org/photos/604959460
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604959460/original.jpg
+- file: images/charadriiformes/laridae/sterna-forsteri/3.jpg
+  page: https://www.inaturalist.org/photos/604698158
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604698158/original.jpg
+- file: images/charadriiformes/laridae/sterna-forsteri/4.jpg
+  page: https://www.inaturalist.org/photos/605505425
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605505425/original.jpg
+- file: images/charadriiformes/laridae/sterna-forsteri/5.jpg
+  page: https://www.inaturalist.org/photos/604874162
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604874162/original.jpg
 ---
 
 

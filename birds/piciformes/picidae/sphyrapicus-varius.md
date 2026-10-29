@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/piciformes/picidae/sphyrapicus-varius/1.jpg
+  page: https://www.inaturalist.org/photos/604657200
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604657200/original.jpg
+images:
+- file: images/piciformes/picidae/sphyrapicus-varius/1.jpg
+  page: https://www.inaturalist.org/photos/604657200
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604657200/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-varius/2.jpg
+  page: https://www.inaturalist.org/photos/604581975
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604581975/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-varius/3.jpg
+  page: https://www.inaturalist.org/photos/604784595
+  author: nickajacket
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604784595/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-varius/4.jpg
+  page: https://www.inaturalist.org/photos/604899560
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899560/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-varius/5.jpg
+  page: https://www.inaturalist.org/photos/605673040
+  author: Helen J
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605673040/original.jpg
 ---
 
 

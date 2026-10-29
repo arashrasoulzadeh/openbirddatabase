@@ -134,8 +134,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/accipitriformes/accipitridae/microspizias-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/734209007
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734209007/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/microspizias-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/734209007
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734209007/original.jpg
+- file: images/accipitriformes/accipitridae/microspizias-superciliosus/2.jpg
+  page: https://www.inaturalist.org/photos/523619607
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523619607/original.jpg
+- file: images/accipitriformes/accipitridae/microspizias-superciliosus/3.jpg
+  page: https://www.inaturalist.org/photos/523869370
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523869370/original.jpg
+- file: images/accipitriformes/accipitridae/microspizias-superciliosus/4.jpg
+  page: https://www.inaturalist.org/photos/348383725
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348383725/original.jpg
+- file: images/accipitriformes/accipitridae/microspizias-superciliosus/5.jpg
+  page: https://www.inaturalist.org/photos/467610024
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467610024/original.jpeg
 ---
 
 

@@ -138,8 +138,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/bernieridae/crossleyia-xanthophrys/1.jpg
+  page: https://www.inaturalist.org/photos/295036829
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/295036829/original.jpeg
+images:
+- file: images/passeriformes/bernieridae/crossleyia-xanthophrys/1.jpg
+  page: https://www.inaturalist.org/photos/295036829
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/295036829/original.jpeg
+- file: images/passeriformes/bernieridae/crossleyia-xanthophrys/2.jpg
+  page: https://www.inaturalist.org/photos/2955119
+  author: Nick Block
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2955119/original.JPG
+- file: images/passeriformes/bernieridae/crossleyia-xanthophrys/3.jpg
+  page: https://www.inaturalist.org/photos/2955120
+  author: Nick Block
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2955120/original.JPG
+- file: images/passeriformes/bernieridae/crossleyia-xanthophrys/4.jpg
+  page: https://www.inaturalist.org/photos/2955121
+  author: Nick Block
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2955121/original.JPG
 ---
 
 

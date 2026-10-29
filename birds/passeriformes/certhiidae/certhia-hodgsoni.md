@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/certhiidae/certhia-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/523437510
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523437510/original.jpg
+images:
+- file: images/passeriformes/certhiidae/certhia-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/523437510
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523437510/original.jpg
+- file: images/passeriformes/certhiidae/certhia-hodgsoni/2.jpg
+  page: https://www.inaturalist.org/photos/388417446
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388417446/original.jpeg
+- file: images/passeriformes/certhiidae/certhia-hodgsoni/3.jpg
+  page: https://www.inaturalist.org/photos/391099627
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/391099627/original.jpg
+- file: images/passeriformes/certhiidae/certhia-hodgsoni/4.jpg
+  page: https://www.inaturalist.org/photos/197724231
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/197724231/original.jpg
+- file: images/passeriformes/certhiidae/certhia-hodgsoni/5.jpg
+  page: https://www.inaturalist.org/photos/175577888
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175577888/original.jpg
 ---
 
 

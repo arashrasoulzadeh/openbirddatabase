@@ -153,7 +153,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 24.9
@@ -161,6 +162,44 @@ morphology:
   wing_length_mm: 111.9
   tail_length_mm: 85.6
   body_mass_g: 61.6
+image:
+  file: images/passeriformes/turdidae/turdus-poliocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/531750825
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531750825/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-poliocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/531750825
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531750825/original.jpg
+- file: images/passeriformes/turdidae/turdus-poliocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/251680676
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251680676/original.png
+- file: images/passeriformes/turdidae/turdus-poliocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/39110830
+  author: Tatsutomo Chin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/39110830/original.jpg
+- file: images/passeriformes/turdidae/turdus-poliocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/531751255
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531751255/original.jpg
+- file: images/passeriformes/turdidae/turdus-poliocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/531751250
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531751250/original.jpg
 ---
 
 

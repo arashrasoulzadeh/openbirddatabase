@@ -153,10 +153,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/procellariiformes/diomedeidae/phoebastria-albatrus/1.jpg
+  page: https://www.inaturalist.org/photos/618680179
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680179/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/phoebastria-albatrus/1.jpg
+  page: https://www.inaturalist.org/photos/618680179
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680179/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-albatrus/2.jpg
+  page: https://www.inaturalist.org/photos/684339895
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684339895/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-albatrus/3.jpg
+  page: https://www.inaturalist.org/photos/721098428
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721098428/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-albatrus/4.jpg
+  page: https://www.inaturalist.org/photos/618680207
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618680207/original.jpg
+- file: images/procellariiformes/diomedeidae/phoebastria-albatrus/5.jpg
+  page: https://www.inaturalist.org/photos/618701140
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618701140/original.jpg
 ---
 
 

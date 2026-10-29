@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/monasa-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/562860999
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562860999/original.jpg
+images:
+- file: images/piciformes/bucconidae/monasa-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/562860999
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562860999/original.jpg
+- file: images/piciformes/bucconidae/monasa-flavirostris/2.jpg
+  page: https://www.inaturalist.org/photos/591920775
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591920775/original.jpg
+- file: images/piciformes/bucconidae/monasa-flavirostris/3.jpg
+  page: https://www.inaturalist.org/photos/347185530
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347185530/original.jpeg
+- file: images/piciformes/bucconidae/monasa-flavirostris/4.jpg
+  page: https://www.inaturalist.org/photos/437380794
+  author: Edwin Rivera Millán
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437380794/original.jpeg
+- file: images/piciformes/bucconidae/monasa-flavirostris/5.jpg
+  page: https://www.inaturalist.org/photos/109680259
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109680259/original.jpeg
 ---
 
 

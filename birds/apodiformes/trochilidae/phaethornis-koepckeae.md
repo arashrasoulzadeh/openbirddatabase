@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-koepckeae/1.jpg
+  page: https://www.inaturalist.org/photos/327435191
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327435191/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-koepckeae/1.jpg
+  page: https://www.inaturalist.org/photos/327435191
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327435191/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-koepckeae/2.jpg
+  page: https://www.inaturalist.org/photos/71977730
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/71977730/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-koepckeae/3.jpg
+  page: https://www.inaturalist.org/photos/214853895
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/214853895/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-koepckeae/4.jpg
+  page: https://www.inaturalist.org/photos/71978116
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/71978116/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-koepckeae/5.jpg
+  page: https://www.inaturalist.org/photos/71980641
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/71980641/original.jpeg
 ---
 
 

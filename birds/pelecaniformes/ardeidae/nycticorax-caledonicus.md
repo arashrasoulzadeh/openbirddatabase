@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/nycticorax-caledonicus/1.jpg
+  page: https://www.inaturalist.org/photos/604410834
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604410834/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/nycticorax-caledonicus/1.jpg
+  page: https://www.inaturalist.org/photos/604410834
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604410834/original.jpg
+- file: images/pelecaniformes/ardeidae/nycticorax-caledonicus/2.jpg
+  page: https://www.inaturalist.org/photos/605230079
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605230079/original.jpg
+- file: images/pelecaniformes/ardeidae/nycticorax-caledonicus/3.jpg
+  page: https://www.inaturalist.org/photos/608028527
+  author: Aidan Tsoumbakos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608028527/original.jpg
+- file: images/pelecaniformes/ardeidae/nycticorax-caledonicus/4.jpg
+  page: https://www.inaturalist.org/photos/609409006
+  author: Lukas Krug
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609409006/original.jpg
+- file: images/pelecaniformes/ardeidae/nycticorax-caledonicus/5.jpg
+  page: https://www.inaturalist.org/photos/608858058
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608858058/original.jpg
 ---
 
 

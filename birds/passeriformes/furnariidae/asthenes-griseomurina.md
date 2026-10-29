@@ -140,10 +140,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/asthenes-griseomurina/1.jpg
+  page: https://www.inaturalist.org/photos/558777776
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558777776/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-griseomurina/1.jpg
+  page: https://www.inaturalist.org/photos/558777776
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558777776/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-griseomurina/2.jpg
+  page: https://www.inaturalist.org/photos/446688411
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446688411/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-griseomurina/3.jpg
+  page: https://www.inaturalist.org/photos/136586685
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/136586685/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-griseomurina/4.jpg
+  page: https://www.inaturalist.org/photos/520421020
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520421020/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-griseomurina/5.jpg
+  page: https://www.inaturalist.org/photos/446688413
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446688413/original.jpg
 ---
 
 

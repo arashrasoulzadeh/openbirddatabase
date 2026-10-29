@@ -126,8 +126,23 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/platysteiridae/platysteira-jamesoni/1.jpg
+  page: https://www.inaturalist.org/photos/471002039
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471002039/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/platysteira-jamesoni/1.jpg
+  page: https://www.inaturalist.org/photos/471002039
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471002039/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/coryphistera-alaudina/1.jpg
+  page: https://www.inaturalist.org/photos/605691442
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605691442/original.jpg
+images:
+- file: images/passeriformes/furnariidae/coryphistera-alaudina/1.jpg
+  page: https://www.inaturalist.org/photos/605691442
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605691442/original.jpg
+- file: images/passeriformes/furnariidae/coryphistera-alaudina/2.jpg
+  page: https://www.inaturalist.org/photos/618900144
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618900144/original.jpg
+- file: images/passeriformes/furnariidae/coryphistera-alaudina/3.jpg
+  page: https://www.inaturalist.org/photos/616258036
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616258036/original.jpg
+- file: images/passeriformes/furnariidae/coryphistera-alaudina/4.jpg
+  page: https://www.inaturalist.org/photos/626204891
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626204891/original.jpg
+- file: images/passeriformes/furnariidae/coryphistera-alaudina/5.jpg
+  page: https://www.inaturalist.org/photos/630660001
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630660001/original.jpg
 ---
 
 

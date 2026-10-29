@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chalcites-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/699379167
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379167/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chalcites-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/699379167
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379167/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/579806557
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579806557/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/699379173
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379173/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/705829537
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705829537/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/705829539
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705829539/original.jpg
 ---
 
 

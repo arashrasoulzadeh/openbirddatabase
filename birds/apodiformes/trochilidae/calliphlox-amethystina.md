@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/calliphlox-amethystina/1.jpg
+  page: https://www.inaturalist.org/photos/617524251
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617524251/original.jpg
+images:
+- file: images/apodiformes/trochilidae/calliphlox-amethystina/1.jpg
+  page: https://www.inaturalist.org/photos/617524251
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617524251/original.jpg
+- file: images/apodiformes/trochilidae/calliphlox-amethystina/2.jpg
+  page: https://www.inaturalist.org/photos/704694824
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704694824/original.jpg
+- file: images/apodiformes/trochilidae/calliphlox-amethystina/3.jpg
+  page: https://www.inaturalist.org/photos/656739023
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656739023/original.jpg
+- file: images/apodiformes/trochilidae/calliphlox-amethystina/4.jpg
+  page: https://www.inaturalist.org/photos/697850218
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697850218/original.jpg
+- file: images/apodiformes/trochilidae/calliphlox-amethystina/5.jpg
+  page: https://www.inaturalist.org/photos/461912915
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461912915/original.jpeg
 ---
 
 

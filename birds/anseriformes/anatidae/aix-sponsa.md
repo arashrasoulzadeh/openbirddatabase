@@ -205,10 +205,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/anseriformes/anatidae/aix-sponsa/1.jpg
+  page: https://www.inaturalist.org/photos/605189875
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605189875/original.jpg
+images:
+- file: images/anseriformes/anatidae/aix-sponsa/1.jpg
+  page: https://www.inaturalist.org/photos/605189875
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605189875/original.jpg
+- file: images/anseriformes/anatidae/aix-sponsa/2.jpg
+  page: https://www.inaturalist.org/photos/605117456
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605117456/original.jpg
+- file: images/anseriformes/anatidae/aix-sponsa/3.jpg
+  page: https://www.inaturalist.org/photos/605540092
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605540092/original.jpg
+- file: images/anseriformes/anatidae/aix-sponsa/4.jpg
+  page: https://www.inaturalist.org/photos/605489465
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605489465/original.jpg
+- file: images/anseriformes/anatidae/aix-sponsa/5.jpg
+  page: https://www.inaturalist.org/photos/605489703
+  author: Aden Sommerville
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605489703/original.jpg
 ---
 
 

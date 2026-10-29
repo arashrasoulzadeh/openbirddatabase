@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cinclodes-taczanowskii/1.jpg
+  page: https://www.inaturalist.org/photos/614097571
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614097571/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cinclodes-taczanowskii/1.jpg
+  page: https://www.inaturalist.org/photos/614097571
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614097571/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-taczanowskii/2.jpg
+  page: https://www.inaturalist.org/photos/614224128
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614224128/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-taczanowskii/3.jpg
+  page: https://www.inaturalist.org/photos/533103205
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533103205/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-taczanowskii/4.jpg
+  page: https://www.inaturalist.org/photos/556089956
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556089956/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-taczanowskii/5.jpg
+  page: https://www.inaturalist.org/photos/456197484
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456197484/original.jpeg
 ---
 
 

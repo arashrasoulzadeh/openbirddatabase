@@ -183,8 +183,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/megaceryle-maxima/1.jpg
+  page: https://www.inaturalist.org/photos/606213867
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606213867/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/megaceryle-maxima/1.jpg
+  page: https://www.inaturalist.org/photos/606213867
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606213867/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-maxima/2.jpg
+  page: https://www.inaturalist.org/photos/681364380
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681364380/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-maxima/3.jpg
+  page: https://www.inaturalist.org/photos/631725208
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631725208/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-maxima/4.jpg
+  page: https://www.inaturalist.org/photos/641397831
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641397831/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-maxima/5.jpg
+  page: https://www.inaturalist.org/photos/643906674
+  author: Jonathan Hughes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643906674/original.jpg
 ---
 
 

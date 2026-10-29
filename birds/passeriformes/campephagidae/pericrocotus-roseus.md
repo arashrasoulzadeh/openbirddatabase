@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-roseus/1.jpg
+  page: https://www.inaturalist.org/photos/609452205
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609452205/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-roseus/1.jpg
+  page: https://www.inaturalist.org/photos/609452205
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609452205/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-roseus/2.jpg
+  page: https://www.inaturalist.org/photos/722912806
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722912806/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-roseus/3.jpg
+  page: https://www.inaturalist.org/photos/674615101
+  author: Swarochi Tathagath
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674615101/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-roseus/4.jpg
+  page: https://www.inaturalist.org/photos/465663606
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465663606/original.jpeg
+- file: images/passeriformes/campephagidae/pericrocotus-roseus/5.jpg
+  page: https://www.inaturalist.org/photos/466892261
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466892261/original.jpeg
 ---
 
 

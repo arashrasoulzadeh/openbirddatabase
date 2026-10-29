@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/rhynchocyclus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610561636
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610561636/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/rhynchocyclus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610561636
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610561636/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-brevirostris/2.jpg
+  page: https://www.inaturalist.org/photos/613478219
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613478219/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-brevirostris/3.jpg
+  page: https://www.inaturalist.org/photos/614717607
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717607/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-brevirostris/4.jpg
+  page: https://www.inaturalist.org/photos/623292279
+  author: danpatrick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623292279/original.jpg
+- file: images/passeriformes/tyrannidae/rhynchocyclus-brevirostris/5.jpg
+  page: https://www.inaturalist.org/photos/641066630
+  author: Aaron Liston
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641066630/original.jpg
 ---
 
 

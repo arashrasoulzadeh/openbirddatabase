@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/touit-melanonotus/1.jpg
+  page: https://www.inaturalist.org/photos/482493116
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482493116/original.jpeg
+images:
+- file: images/psittaciformes/psittacidae/touit-melanonotus/1.jpg
+  page: https://www.inaturalist.org/photos/482493116
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482493116/original.jpeg
+- file: images/psittaciformes/psittacidae/touit-melanonotus/2.jpg
+  page: https://www.inaturalist.org/photos/505663426
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505663426/original.jpg
+- file: images/psittaciformes/psittacidae/touit-melanonotus/3.jpg
+  page: https://www.inaturalist.org/photos/482493144
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482493144/original.jpeg
+- file: images/psittaciformes/psittacidae/touit-melanonotus/4.jpg
+  page: https://www.inaturalist.org/photos/482493156
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482493156/original.jpeg
+- file: images/psittaciformes/psittacidae/touit-melanonotus/5.jpg
+  page: https://www.inaturalist.org/photos/482493177
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482493177/original.jpeg
 ---
 
 

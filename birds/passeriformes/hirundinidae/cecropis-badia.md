@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/cecropis-badia/1.jpg
+  page: https://www.inaturalist.org/photos/629579986
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579986/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/cecropis-badia/1.jpg
+  page: https://www.inaturalist.org/photos/629579986
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579986/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-badia/2.jpg
+  page: https://www.inaturalist.org/photos/631245454
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631245454/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-badia/3.jpg
+  page: https://www.inaturalist.org/photos/662891253
+  author: Shane Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662891253/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-badia/4.jpg
+  page: https://www.inaturalist.org/photos/638515892
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638515892/original.jpg
+- file: images/passeriformes/hirundinidae/cecropis-badia/5.jpg
+  page: https://www.inaturalist.org/photos/532857942
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532857942/original.jpg
 ---
 
 

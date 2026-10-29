@@ -143,8 +143,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-virenticeps/1.jpg
+  page: https://www.inaturalist.org/photos/616533362
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616533362/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-virenticeps/1.jpg
+  page: https://www.inaturalist.org/photos/616533362
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616533362/original.jpg
+- file: images/passeriformes/passerellidae/arremon-virenticeps/2.jpg
+  page: https://www.inaturalist.org/photos/723429025
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723429025/original.jpg
+- file: images/passeriformes/passerellidae/arremon-virenticeps/3.jpg
+  page: https://www.inaturalist.org/photos/616533382
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616533382/original.jpg
+- file: images/passeriformes/passerellidae/arremon-virenticeps/4.jpg
+  page: https://www.inaturalist.org/photos/529035229
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529035229/original.jpg
+- file: images/passeriformes/passerellidae/arremon-virenticeps/5.jpg
+  page: https://www.inaturalist.org/photos/529035231
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529035231/original.jpg
 ---
 
 

@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/psittaciformes/psittaculidae/agapornis-pullarius/1.jpg
+  page: https://www.inaturalist.org/photos/469385975
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469385975/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/agapornis-pullarius/1.jpg
+  page: https://www.inaturalist.org/photos/469385975
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469385975/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-pullarius/2.jpg
+  page: https://www.inaturalist.org/photos/549079054
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549079054/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-pullarius/3.jpg
+  page: https://www.inaturalist.org/photos/565194052
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565194052/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-pullarius/4.jpg
+  page: https://www.inaturalist.org/photos/358373124
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358373124/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-pullarius/5.jpg
+  page: https://www.inaturalist.org/photos/257843047
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257843047/original.jpeg
 ---
 
 

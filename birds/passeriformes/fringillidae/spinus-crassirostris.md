@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/584817159
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584817159/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/584817159
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584817159/original.jpg
+- file: images/passeriformes/fringillidae/spinus-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/368000160
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368000160/original.jpg
+- file: images/passeriformes/fringillidae/spinus-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/398469319
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398469319/original.jpeg
+- file: images/passeriformes/fringillidae/spinus-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/433520041
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433520041/original.jpeg
+- file: images/passeriformes/fringillidae/spinus-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/456987379
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456987379/original.jpg
 ---
 
 

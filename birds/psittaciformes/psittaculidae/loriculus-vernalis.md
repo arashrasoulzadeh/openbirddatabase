@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/psittaciformes/psittaculidae/loriculus-vernalis/1.jpg
+  page: https://www.inaturalist.org/photos/617207014
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207014/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/loriculus-vernalis/1.jpg
+  page: https://www.inaturalist.org/photos/617207014
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207014/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-vernalis/2.jpg
+  page: https://www.inaturalist.org/photos/642245285
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642245285/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-vernalis/3.jpg
+  page: https://www.inaturalist.org/photos/670395165
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670395165/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-vernalis/4.jpg
+  page: https://www.inaturalist.org/photos/629991271
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629991271/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-vernalis/5.jpg
+  page: https://www.inaturalist.org/photos/627652101
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627652101/original.jpg
 ---
 
 

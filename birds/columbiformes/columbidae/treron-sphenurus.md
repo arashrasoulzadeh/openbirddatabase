@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-sphenurus/1.jpg
+  page: https://www.inaturalist.org/photos/609188048
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188048/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-sphenurus/1.jpg
+  page: https://www.inaturalist.org/photos/609188048
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188048/original.jpg
+- file: images/columbiformes/columbidae/treron-sphenurus/2.jpg
+  page: https://www.inaturalist.org/photos/628091216
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628091216/original.jpg
+- file: images/columbiformes/columbidae/treron-sphenurus/3.jpg
+  page: https://www.inaturalist.org/photos/630735181
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630735181/original.jpg
+- file: images/columbiformes/columbidae/treron-sphenurus/4.jpg
+  page: https://www.inaturalist.org/photos/642757695
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642757695/original.jpg
+- file: images/columbiformes/columbidae/treron-sphenurus/5.jpg
+  page: https://www.inaturalist.org/photos/674557304
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674557304/original.jpg
 ---
 
 

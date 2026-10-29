@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/metallura-tyrianthina/1.jpg
+  page: https://www.inaturalist.org/photos/621045049
+  author: lchaney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621045049/original.jpg
+images:
+- file: images/apodiformes/trochilidae/metallura-tyrianthina/1.jpg
+  page: https://www.inaturalist.org/photos/621045049
+  author: lchaney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621045049/original.jpg
+- file: images/apodiformes/trochilidae/metallura-tyrianthina/2.jpg
+  page: https://www.inaturalist.org/photos/623058557
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623058557/original.jpg
+- file: images/apodiformes/trochilidae/metallura-tyrianthina/3.jpg
+  page: https://www.inaturalist.org/photos/651843684
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651843684/original.jpg
+- file: images/apodiformes/trochilidae/metallura-tyrianthina/4.jpg
+  page: https://www.inaturalist.org/photos/647884281
+  author: Alejandro Bruno Miranda-Calle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647884281/original.jpg
+- file: images/apodiformes/trochilidae/metallura-tyrianthina/5.jpg
+  page: https://www.inaturalist.org/photos/654977708
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654977708/original.jpg
 ---
 
 

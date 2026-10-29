@@ -156,10 +156,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/ciconiiformes/ciconiidae/ciconia-maguari/1.jpg
+  page: https://www.inaturalist.org/photos/605526182
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605526182/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/ciconia-maguari/1.jpg
+  page: https://www.inaturalist.org/photos/605526182
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605526182/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-maguari/2.jpg
+  page: https://www.inaturalist.org/photos/610954224
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610954224/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-maguari/3.jpg
+  page: https://www.inaturalist.org/photos/610417225
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610417225/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-maguari/4.jpg
+  page: https://www.inaturalist.org/photos/608919582
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608919582/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-maguari/5.jpg
+  page: https://www.inaturalist.org/photos/612258592
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612258592/original.jpg
 ---
 
 

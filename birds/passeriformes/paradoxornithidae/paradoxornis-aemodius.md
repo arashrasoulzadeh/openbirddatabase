@@ -126,8 +126,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/paradoxornithidae/paradoxornis-aemodius/1.jpg
+  page: https://www.inaturalist.org/photos/564944470
+  author: Gary Yong Gee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564944470/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/paradoxornis-aemodius/1.jpg
+  page: https://www.inaturalist.org/photos/564944470
+  author: Gary Yong Gee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564944470/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-aemodius/2.jpg
+  page: https://www.inaturalist.org/photos/523438824
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523438824/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-aemodius/3.jpg
+  page: https://www.inaturalist.org/photos/387908887
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387908887/original.jpeg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-aemodius/4.jpg
+  page: https://www.inaturalist.org/photos/387771623
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387771623/original.jpg
+- file: images/passeriformes/paradoxornithidae/paradoxornis-aemodius/5.jpg
+  page: https://www.inaturalist.org/photos/347262168
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347262168/original.jpg
 ---
 
 

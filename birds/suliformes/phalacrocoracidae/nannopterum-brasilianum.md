@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/nannopterum-brasilianum/1.jpg
+  page: https://www.inaturalist.org/photos/604572163
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604572163/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/nannopterum-brasilianum/1.jpg
+  page: https://www.inaturalist.org/photos/604572163
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604572163/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-brasilianum/2.jpg
+  page: https://www.inaturalist.org/photos/605643224
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605643224/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-brasilianum/3.jpg
+  page: https://www.inaturalist.org/photos/604869326
+  author: Darci
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604869326/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-brasilianum/4.jpg
+  page: https://www.inaturalist.org/photos/605153425
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605153425/original.jpg
+- file: images/suliformes/phalacrocoracidae/nannopterum-brasilianum/5.jpg
+  page: https://www.inaturalist.org/photos/605182871
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605182871/original.jpg
 ---
 
 

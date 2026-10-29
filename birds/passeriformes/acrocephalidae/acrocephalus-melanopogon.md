@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-melanopogon/1.jpg
+  page: https://www.inaturalist.org/photos/612667238
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612667238/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-melanopogon/1.jpg
+  page: https://www.inaturalist.org/photos/612667238
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612667238/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-melanopogon/2.jpg
+  page: https://www.inaturalist.org/photos/635176555
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635176555/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-melanopogon/3.jpg
+  page: https://www.inaturalist.org/photos/662589479
+  author: Anna Molnár
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662589479/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-melanopogon/4.jpg
+  page: https://www.inaturalist.org/photos/743715872
+  author: yelena_antipova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743715872/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-melanopogon/5.jpg
+  page: https://www.inaturalist.org/photos/612667236
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612667236/original.jpg
 ---
 
 

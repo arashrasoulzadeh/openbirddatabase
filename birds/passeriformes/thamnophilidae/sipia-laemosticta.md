@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/sipia-laemosticta/1.jpg
+  page: https://www.inaturalist.org/photos/630756888
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630756888/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/sipia-laemosticta/1.jpg
+  page: https://www.inaturalist.org/photos/630756888
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630756888/original.jpg
+- file: images/passeriformes/thamnophilidae/sipia-laemosticta/2.jpg
+  page: https://www.inaturalist.org/photos/551593844
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551593844/original.jpg
+- file: images/passeriformes/thamnophilidae/sipia-laemosticta/3.jpg
+  page: https://www.inaturalist.org/photos/590291215
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590291215/original.jpg
+- file: images/passeriformes/thamnophilidae/sipia-laemosticta/4.jpg
+  page: https://www.inaturalist.org/photos/599522058
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599522058/original.jpg
+- file: images/passeriformes/thamnophilidae/sipia-laemosticta/5.jpg
+  page: https://www.inaturalist.org/photos/416804354
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416804354/original.jpg
 ---
 
 

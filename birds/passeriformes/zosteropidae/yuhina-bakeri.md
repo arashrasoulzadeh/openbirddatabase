@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/yuhina-bakeri/1.jpg
+  page: https://www.inaturalist.org/photos/642900706
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642900706/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/yuhina-bakeri/1.jpg
+  page: https://www.inaturalist.org/photos/642900706
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642900706/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-bakeri/2.jpg
+  page: https://www.inaturalist.org/photos/305636872
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305636872/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-bakeri/3.jpg
+  page: https://www.inaturalist.org/photos/614631692
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614631692/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-bakeri/4.jpg
+  page: https://www.inaturalist.org/photos/305638967
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305638967/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-bakeri/5.jpg
+  page: https://www.inaturalist.org/photos/305651713
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305651713/original.jpg
 ---
 
 

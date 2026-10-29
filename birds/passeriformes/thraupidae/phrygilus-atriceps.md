@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/phrygilus-atriceps/1.jpg
+  page: https://www.inaturalist.org/photos/609717195
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609717195/original.jpg
+images:
+- file: images/passeriformes/thraupidae/phrygilus-atriceps/1.jpg
+  page: https://www.inaturalist.org/photos/609717195
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609717195/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-atriceps/2.jpg
+  page: https://www.inaturalist.org/photos/608669319
+  author: Luis Martin Stivanello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608669319/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-atriceps/3.jpg
+  page: https://www.inaturalist.org/photos/605331869
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605331869/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-atriceps/4.jpg
+  page: https://www.inaturalist.org/photos/616642105
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616642105/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-atriceps/5.jpg
+  page: https://www.inaturalist.org/photos/628801159
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628801159/original.jpg
 ---
 
 

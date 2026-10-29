@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-vulcanorum/1.jpg
+  page: https://www.inaturalist.org/photos/313036518
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036518/original.jpeg
+images:
+- file: images/apodiformes/apodidae/aerodramus-vulcanorum/1.jpg
+  page: https://www.inaturalist.org/photos/313036518
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036518/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-vulcanorum/2.jpg
+  page: https://www.inaturalist.org/photos/313036558
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036558/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-vulcanorum/3.jpg
+  page: https://www.inaturalist.org/photos/313036557
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036557/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-vulcanorum/4.jpg
+  page: https://www.inaturalist.org/photos/313036559
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036559/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-vulcanorum/5.jpg
+  page: https://www.inaturalist.org/photos/313036599
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036599/original.jpeg
 ---
 
 

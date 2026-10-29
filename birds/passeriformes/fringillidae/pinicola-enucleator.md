@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/fringillidae/pinicola-enucleator/1.jpg
+  page: https://www.inaturalist.org/photos/605742718
+  author: Валерия Ковалева
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605742718/original.jpg
+images:
+- file: images/passeriformes/fringillidae/pinicola-enucleator/1.jpg
+  page: https://www.inaturalist.org/photos/605742718
+  author: Валерия Ковалева
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605742718/original.jpg
+- file: images/passeriformes/fringillidae/pinicola-enucleator/2.jpg
+  page: https://www.inaturalist.org/photos/604830302
+  author: Вячеслав Юсупов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604830302/original.jpg
+- file: images/passeriformes/fringillidae/pinicola-enucleator/3.jpg
+  page: https://www.inaturalist.org/photos/604506364
+  author: kchicoine
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604506364/original.jpg
+- file: images/passeriformes/fringillidae/pinicola-enucleator/4.jpg
+  page: https://www.inaturalist.org/photos/604628173
+  author: lbistritz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604628173/original.jpg
+- file: images/passeriformes/fringillidae/pinicola-enucleator/5.jpg
+  page: https://www.inaturalist.org/photos/605348321
+  author: Вячеслав Шуплецов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605348321/original.jpg
 ---
 
 

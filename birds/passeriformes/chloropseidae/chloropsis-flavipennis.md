@@ -133,8 +133,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-flavipennis/1.jpg
+  page: https://www.inaturalist.org/photos/270925447
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925447/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-flavipennis/1.jpg
+  page: https://www.inaturalist.org/photos/270925447
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925447/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-flavipennis/2.jpg
+  page: https://www.inaturalist.org/photos/270925464
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925464/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-flavipennis/3.jpg
+  page: https://www.inaturalist.org/photos/340257419
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257419/original.jpeg
+- file: images/passeriformes/chloropseidae/chloropsis-flavipennis/4.jpg
+  page: https://www.inaturalist.org/photos/340257426
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257426/original.jpeg
 ---
 
 

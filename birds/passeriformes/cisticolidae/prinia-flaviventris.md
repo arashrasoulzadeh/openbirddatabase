@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/604939259
+  author: Apichart Nakarungutti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604939259/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/604939259
+  author: Apichart Nakarungutti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604939259/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-flaviventris/2.jpg
+  page: https://www.inaturalist.org/photos/610690163
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610690163/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-flaviventris/3.jpg
+  page: https://www.inaturalist.org/photos/614675376
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614675376/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-flaviventris/4.jpg
+  page: https://www.inaturalist.org/photos/616756206
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616756206/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-flaviventris/5.jpg
+  page: https://www.inaturalist.org/photos/618840495
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618840495/original.jpg
 ---
 
 

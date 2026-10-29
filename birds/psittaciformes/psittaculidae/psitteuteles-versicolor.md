@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/psitteuteles-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/694378232
+  author: Roland Muench
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694378232/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psitteuteles-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/694378232
+  author: Roland Muench
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694378232/original.jpg
+- file: images/psittaciformes/psittaculidae/psitteuteles-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/702618184
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702618184/original.jpg
+- file: images/psittaciformes/psittaculidae/psitteuteles-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/715394517
+  author: Lucas Christofides
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715394517/original.jpg
+- file: images/psittaciformes/psittaculidae/psitteuteles-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/726631603
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726631603/original.jpg
+- file: images/psittaciformes/psittaculidae/psitteuteles-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/742692450
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742692450/original.jpg
 ---
 
 

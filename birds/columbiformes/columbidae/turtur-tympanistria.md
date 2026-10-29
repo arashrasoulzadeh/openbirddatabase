@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/turtur-tympanistria/1.jpg
+  page: https://www.inaturalist.org/photos/613963961
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613963961/original.jpg
+images:
+- file: images/columbiformes/columbidae/turtur-tympanistria/1.jpg
+  page: https://www.inaturalist.org/photos/613963961
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613963961/original.jpg
+- file: images/columbiformes/columbidae/turtur-tympanistria/2.jpg
+  page: https://www.inaturalist.org/photos/659452948
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659452948/original.jpg
+- file: images/columbiformes/columbidae/turtur-tympanistria/3.jpg
+  page: https://www.inaturalist.org/photos/657173422
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657173422/original.jpg
+- file: images/columbiformes/columbidae/turtur-tympanistria/4.jpg
+  page: https://www.inaturalist.org/photos/734315588
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734315588/original.jpg
+- file: images/columbiformes/columbidae/turtur-tympanistria/5.jpg
+  page: https://www.inaturalist.org/photos/682687733
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682687733/original.jpg
 ---
 
 

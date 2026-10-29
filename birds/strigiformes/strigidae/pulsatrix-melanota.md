@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/pulsatrix-melanota/1.jpg
+  page: https://www.inaturalist.org/photos/683602451
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683602451/original.jpg
+images:
+- file: images/strigiformes/strigidae/pulsatrix-melanota/1.jpg
+  page: https://www.inaturalist.org/photos/683602451
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683602451/original.jpg
+- file: images/strigiformes/strigidae/pulsatrix-melanota/2.jpg
+  page: https://www.inaturalist.org/photos/474099961
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474099961/original.jpeg
+- file: images/strigiformes/strigidae/pulsatrix-melanota/3.jpg
+  page: https://www.inaturalist.org/photos/489115593
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489115593/original.jpeg
+- file: images/strigiformes/strigidae/pulsatrix-melanota/4.jpg
+  page: https://www.inaturalist.org/photos/589667216
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589667216/original.jpg
+- file: images/strigiformes/strigidae/pulsatrix-melanota/5.jpg
+  page: https://www.inaturalist.org/photos/352327508
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352327508/original.jpeg
 ---
 
 

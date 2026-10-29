@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-phoenicopterus/1.jpg
+  page: https://www.inaturalist.org/photos/608535255
+  author: haemanthus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608535255/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-phoenicopterus/1.jpg
+  page: https://www.inaturalist.org/photos/608535255
+  author: haemanthus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608535255/original.jpg
+- file: images/columbiformes/columbidae/treron-phoenicopterus/2.jpg
+  page: https://www.inaturalist.org/photos/622356604
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356604/original.jpg
+- file: images/columbiformes/columbidae/treron-phoenicopterus/3.jpg
+  page: https://www.inaturalist.org/photos/613183362
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613183362/original.jpg
+- file: images/columbiformes/columbidae/treron-phoenicopterus/4.jpg
+  page: https://www.inaturalist.org/photos/617207588
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207588/original.jpg
+- file: images/columbiformes/columbidae/treron-phoenicopterus/5.jpg
+  page: https://www.inaturalist.org/photos/618855592
+  author: Abhinav Thakur
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618855592/original.jpg
 ---
 
 

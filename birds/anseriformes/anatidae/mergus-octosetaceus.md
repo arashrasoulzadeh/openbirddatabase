@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/mergus-octosetaceus/1.jpg
+  page: https://www.inaturalist.org/photos/325255152
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/325255152/original.jpg
+images:
+- file: images/anseriformes/anatidae/mergus-octosetaceus/1.jpg
+  page: https://www.inaturalist.org/photos/325255152
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/325255152/original.jpg
+- file: images/anseriformes/anatidae/mergus-octosetaceus/2.jpg
+  page: https://www.inaturalist.org/photos/233884870
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233884870/original.jpeg
+- file: images/anseriformes/anatidae/mergus-octosetaceus/3.jpg
+  page: https://www.inaturalist.org/photos/50859334
+  author: Márcia Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50859334/original.jpeg
+- file: images/anseriformes/anatidae/mergus-octosetaceus/4.jpg
+  page: https://www.inaturalist.org/photos/586816877
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586816877/original.jpg
+- file: images/anseriformes/anatidae/mergus-octosetaceus/5.jpg
+  page: https://www.inaturalist.org/photos/242695147
+  author: Lucas Kaminski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242695147/original.jpeg
 ---
 
 

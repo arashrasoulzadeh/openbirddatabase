@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/609887228
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609887228/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/609887228
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609887228/original.jpg
+- file: images/passeriformes/turdidae/turdus-pallidus/2.jpg
+  page: https://www.inaturalist.org/photos/610124251
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610124251/original.jpg
+- file: images/passeriformes/turdidae/turdus-pallidus/3.jpg
+  page: https://www.inaturalist.org/photos/609666041
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609666041/original.jpg
+- file: images/passeriformes/turdidae/turdus-pallidus/4.jpg
+  page: https://www.inaturalist.org/photos/611140681
+  author: FUKUDA Kazuhito 福田一人
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611140681/original.jpg
+- file: images/passeriformes/turdidae/turdus-pallidus/5.jpg
+  page: https://www.inaturalist.org/photos/616088065
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616088065/original.jpg
 ---
 
 

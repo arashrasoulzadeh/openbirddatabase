@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/notharchus-ordii/1.jpg
+  page: https://www.inaturalist.org/photos/613707578
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613707578/original.jpg
+images:
+- file: images/piciformes/bucconidae/notharchus-ordii/1.jpg
+  page: https://www.inaturalist.org/photos/613707578
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613707578/original.jpg
+- file: images/piciformes/bucconidae/notharchus-ordii/2.jpg
+  page: https://www.inaturalist.org/photos/550053820
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550053820/original.jpg
+- file: images/piciformes/bucconidae/notharchus-ordii/3.jpg
+  page: https://www.inaturalist.org/photos/591894980
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591894980/original.jpg
+- file: images/piciformes/bucconidae/notharchus-ordii/4.jpg
+  page: https://www.inaturalist.org/photos/248876900
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248876900/original.jpeg
+- file: images/piciformes/bucconidae/notharchus-ordii/5.jpg
+  page: https://www.inaturalist.org/photos/38012696
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/38012696/original.jpg
 ---
 
 

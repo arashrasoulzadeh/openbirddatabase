@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-pembaensis/1.jpg
+  page: https://www.inaturalist.org/photos/581991382
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581991382/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-pembaensis/1.jpg
+  page: https://www.inaturalist.org/photos/581991382
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581991382/original.jpg
+- file: images/strigiformes/strigidae/otus-pembaensis/2.jpg
+  page: https://www.inaturalist.org/photos/442975067
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442975067/original.jpeg
+- file: images/strigiformes/strigidae/otus-pembaensis/3.jpg
+  page: https://www.inaturalist.org/photos/441030644
+  author: Jonathan Walz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441030644/original.jpeg
+- file: images/strigiformes/strigidae/otus-pembaensis/4.jpg
+  page: https://www.inaturalist.org/photos/346238361
+  author: Emily Herriott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346238361/original.jpeg
+- file: images/strigiformes/strigidae/otus-pembaensis/5.jpg
+  page: https://www.inaturalist.org/photos/471944842
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471944842/original.jpg
 ---
 
 

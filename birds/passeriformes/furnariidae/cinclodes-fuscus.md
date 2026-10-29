@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cinclodes-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/608915489
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608915489/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cinclodes-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/608915489
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608915489/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/612744767
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612744767/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/608298470
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608298470/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/615857498
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615857498/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/631423214
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631423214/original.jpg
 ---
 
 

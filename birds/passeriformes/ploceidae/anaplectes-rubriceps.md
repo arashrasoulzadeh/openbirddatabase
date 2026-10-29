@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/anaplectes-rubriceps/1.jpg
+  page: https://www.inaturalist.org/photos/666843281
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666843281/original.jpg
+images:
+- file: images/passeriformes/ploceidae/anaplectes-rubriceps/1.jpg
+  page: https://www.inaturalist.org/photos/666843281
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666843281/original.jpg
+- file: images/passeriformes/ploceidae/anaplectes-rubriceps/2.jpg
+  page: https://www.inaturalist.org/photos/644768891
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644768891/original.jpg
+- file: images/passeriformes/ploceidae/anaplectes-rubriceps/3.jpg
+  page: https://www.inaturalist.org/photos/644771863
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644771863/original.jpg
+- file: images/passeriformes/ploceidae/anaplectes-rubriceps/4.jpg
+  page: https://www.inaturalist.org/photos/684678870
+  author: Tommy Sandri
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684678870/original.jpg
+- file: images/passeriformes/ploceidae/anaplectes-rubriceps/5.jpg
+  page: https://www.inaturalist.org/photos/722678955
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722678955/original.jpg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/numididae/acryllium-vulturinum/1.jpg
+  page: https://www.inaturalist.org/photos/659284320
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659284320/original.jpg
+images:
+- file: images/galliformes/numididae/acryllium-vulturinum/1.jpg
+  page: https://www.inaturalist.org/photos/659284320
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659284320/original.jpg
+- file: images/galliformes/numididae/acryllium-vulturinum/2.jpg
+  page: https://www.inaturalist.org/photos/704625488
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704625488/original.jpg
+- file: images/galliformes/numididae/acryllium-vulturinum/3.jpg
+  page: https://www.inaturalist.org/photos/690285544
+  author: Carlos Santana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690285544/original.jpg
+- file: images/galliformes/numididae/acryllium-vulturinum/4.jpg
+  page: https://www.inaturalist.org/photos/722412612
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722412612/original.jpg
+- file: images/galliformes/numididae/acryllium-vulturinum/5.jpg
+  page: https://www.inaturalist.org/photos/721443994
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721443994/original.jpg
 ---
 
 

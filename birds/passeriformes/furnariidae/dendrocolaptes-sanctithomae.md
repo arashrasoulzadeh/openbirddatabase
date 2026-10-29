@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendrocolaptes-sanctithomae/1.jpg
+  page: https://www.inaturalist.org/photos/610512211
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610512211/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendrocolaptes-sanctithomae/1.jpg
+  page: https://www.inaturalist.org/photos/610512211
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610512211/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-sanctithomae/2.jpg
+  page: https://www.inaturalist.org/photos/609062643
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609062643/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-sanctithomae/3.jpg
+  page: https://www.inaturalist.org/photos/610816666
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610816666/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-sanctithomae/4.jpg
+  page: https://www.inaturalist.org/photos/614515392
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515392/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-sanctithomae/5.jpg
+  page: https://www.inaturalist.org/photos/616521400
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616521400/original.jpg
 ---
 
 

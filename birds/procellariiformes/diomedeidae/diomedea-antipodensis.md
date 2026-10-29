@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/procellariiformes/diomedeidae/diomedea-antipodensis/1.jpg
+  page: https://www.inaturalist.org/photos/614963614
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614963614/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/diomedea-antipodensis/1.jpg
+  page: https://www.inaturalist.org/photos/614963614
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614963614/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-antipodensis/2.jpg
+  page: https://www.inaturalist.org/photos/615655697
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615655697/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-antipodensis/3.jpg
+  page: https://www.inaturalist.org/photos/625175203
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625175203/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-antipodensis/4.jpg
+  page: https://www.inaturalist.org/photos/626299261
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626299261/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-antipodensis/5.jpg
+  page: https://www.inaturalist.org/photos/681965056
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681965056/original.jpg
 ---
 
 

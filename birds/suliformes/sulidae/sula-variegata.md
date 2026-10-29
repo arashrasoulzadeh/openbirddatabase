@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/sulidae/sula-variegata/1.jpg
+  page: https://www.inaturalist.org/photos/605487350
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487350/original.jpg
+images:
+- file: images/suliformes/sulidae/sula-variegata/1.jpg
+  page: https://www.inaturalist.org/photos/605487350
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487350/original.jpg
+- file: images/suliformes/sulidae/sula-variegata/2.jpg
+  page: https://www.inaturalist.org/photos/609471830
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609471830/original.jpg
+- file: images/suliformes/sulidae/sula-variegata/3.jpg
+  page: https://www.inaturalist.org/photos/631401903
+  author: the natural moment
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631401903/original.jpg
+- file: images/suliformes/sulidae/sula-variegata/4.jpg
+  page: https://www.inaturalist.org/photos/614095994
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614095994/original.jpg
+- file: images/suliformes/sulidae/sula-variegata/5.jpg
+  page: https://www.inaturalist.org/photos/614497418
+  author: Orlando Fuenzalida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614497418/original.jpg
 ---
 
 

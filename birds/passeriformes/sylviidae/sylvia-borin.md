@@ -181,10 +181,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/passeriformes/sylviidae/sylvia-borin/1.jpg
+  page: https://www.inaturalist.org/photos/635162564
+  author: Richard Shirky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635162564/original.jpg
+images:
+- file: images/passeriformes/sylviidae/sylvia-borin/1.jpg
+  page: https://www.inaturalist.org/photos/635162564
+  author: Richard Shirky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635162564/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-borin/2.jpg
+  page: https://www.inaturalist.org/photos/647816454
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647816454/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-borin/3.jpg
+  page: https://www.inaturalist.org/photos/646985881
+  author: Charlotte Forrest-King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646985881/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-borin/4.jpg
+  page: https://www.inaturalist.org/photos/644194901
+  author: Oscar Hazell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644194901/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-borin/5.jpg
+  page: https://www.inaturalist.org/photos/647012876
+  author: Pete Bradshaw
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647012876/original.jpg
 ---
 
 

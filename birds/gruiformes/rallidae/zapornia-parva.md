@@ -199,8 +199,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/zapornia-parva/1.jpg
+  page: https://www.inaturalist.org/photos/639927034
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639927034/original.jpg
+images:
+- file: images/gruiformes/rallidae/zapornia-parva/1.jpg
+  page: https://www.inaturalist.org/photos/639927034
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639927034/original.jpg
+- file: images/gruiformes/rallidae/zapornia-parva/2.jpg
+  page: https://www.inaturalist.org/photos/721902463
+  author: Nikolaus Helmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721902463/original.jpg
+- file: images/gruiformes/rallidae/zapornia-parva/3.jpg
+  page: https://www.inaturalist.org/photos/719536900
+  author: Alexandr Stanislavschi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719536900/original.jpg
+- file: images/gruiformes/rallidae/zapornia-parva/4.jpg
+  page: https://www.inaturalist.org/photos/639927048
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639927048/original.jpg
+- file: images/gruiformes/rallidae/zapornia-parva/5.jpg
+  page: https://www.inaturalist.org/photos/719536906
+  author: Alexandr Stanislavschi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719536906/original.jpg
 ---
 
 

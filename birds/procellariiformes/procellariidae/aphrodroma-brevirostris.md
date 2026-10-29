@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/aphrodroma-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/450191170
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450191170/original.jpeg
+images:
+- file: images/procellariiformes/procellariidae/aphrodroma-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/450191170
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450191170/original.jpeg
+- file: images/procellariiformes/procellariidae/aphrodroma-brevirostris/2.jpg
+  page: https://www.inaturalist.org/photos/455026627
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455026627/original.jpeg
+- file: images/procellariiformes/procellariidae/aphrodroma-brevirostris/3.jpg
+  page: https://www.inaturalist.org/photos/467749870
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467749870/original.jpg
+- file: images/procellariiformes/procellariidae/aphrodroma-brevirostris/4.jpg
+  page: https://www.inaturalist.org/photos/450191182
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450191182/original.jpeg
+- file: images/procellariiformes/procellariidae/aphrodroma-brevirostris/5.jpg
+  page: https://www.inaturalist.org/photos/450191196
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450191196/original.jpeg
 ---
 
 

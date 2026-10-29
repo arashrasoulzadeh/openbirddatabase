@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/hylopezus-auricularis/1.jpg
+  page: https://www.inaturalist.org/photos/243838812
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243838812/original.jpeg
+images:
+- file: images/passeriformes/grallariidae/hylopezus-auricularis/1.jpg
+  page: https://www.inaturalist.org/photos/243838812
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243838812/original.jpeg
+- file: images/passeriformes/grallariidae/hylopezus-auricularis/2.jpg
+  page: https://www.inaturalist.org/photos/243838699
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243838699/original.jpeg
+- file: images/passeriformes/grallariidae/hylopezus-auricularis/3.jpg
+  page: https://www.inaturalist.org/photos/243838712
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243838712/original.jpeg
+- file: images/passeriformes/grallariidae/hylopezus-auricularis/4.jpg
+  page: https://www.inaturalist.org/photos/249079434
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249079434/original.jpeg
+- file: images/passeriformes/grallariidae/hylopezus-auricularis/5.jpg
+  page: https://www.inaturalist.org/photos/69814073
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/69814073/original.jpg
 ---
 
 

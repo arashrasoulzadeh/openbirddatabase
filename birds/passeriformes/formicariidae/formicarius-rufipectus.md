@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/formicariidae/formicarius-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/613425526
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613425526/original.jpg
+images:
+- file: images/passeriformes/formicariidae/formicarius-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/613425526
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613425526/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-rufipectus/2.jpg
+  page: https://www.inaturalist.org/photos/351434853
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351434853/original.jpeg
+- file: images/passeriformes/formicariidae/formicarius-rufipectus/3.jpg
+  page: https://www.inaturalist.org/photos/239360639
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239360639/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-rufipectus/4.jpg
+  page: https://www.inaturalist.org/photos/104813131
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104813131/original.jpeg
+- file: images/passeriformes/formicariidae/formicarius-rufipectus/5.jpg
+  page: https://www.inaturalist.org/photos/10824717
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/10824717/original.jpg
 ---
 
 

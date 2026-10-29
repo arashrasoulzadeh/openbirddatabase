@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/anseriformes/anatidae/oxyura-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/608914753
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608914753/original.jpg
+images:
+- file: images/anseriformes/anatidae/oxyura-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/608914753
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608914753/original.jpg
+- file: images/anseriformes/anatidae/oxyura-ferruginea/2.jpg
+  page: https://www.inaturalist.org/photos/611220515
+  author: Claudio Laura Daza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611220515/original.jpg
+- file: images/anseriformes/anatidae/oxyura-ferruginea/3.jpg
+  page: https://www.inaturalist.org/photos/615388807
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388807/original.jpg
+- file: images/anseriformes/anatidae/oxyura-ferruginea/4.jpg
+  page: https://www.inaturalist.org/photos/612850847
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612850847/original.jpg
+- file: images/anseriformes/anatidae/oxyura-ferruginea/5.jpg
+  page: https://www.inaturalist.org/photos/616182008
+  author: Fernando Pérez Peralta
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616182008/original.jpg
 ---
 
 

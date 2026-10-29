@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 46.1
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 115.5
   tail_length_mm: 96.2
   body_mass_g: 100.0
+image:
+  file: images/gruiformes/rallidae/mustelirallus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605729619
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729619/original.jpg
+images:
+- file: images/gruiformes/rallidae/mustelirallus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605729619
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729619/original.jpg
+- file: images/gruiformes/rallidae/mustelirallus-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/468795487
+  author: Alan Valentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468795487/original.jpg
+- file: images/gruiformes/rallidae/mustelirallus-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/468942462
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468942462/original.jpg
+- file: images/gruiformes/rallidae/mustelirallus-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/491931764
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491931764/original.jpeg
+- file: images/gruiformes/rallidae/mustelirallus-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/502428593
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502428593/original.jpeg
 ---
 
 

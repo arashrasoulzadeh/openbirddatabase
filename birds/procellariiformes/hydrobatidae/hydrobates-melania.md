@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-melania/1.jpg
+  page: https://www.inaturalist.org/photos/622604802
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622604802/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-melania/1.jpg
+  page: https://www.inaturalist.org/photos/622604802
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622604802/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-melania/2.jpg
+  page: https://www.inaturalist.org/photos/669791467
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669791467/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-melania/3.jpg
+  page: https://www.inaturalist.org/photos/670392392
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670392392/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-melania/4.jpg
+  page: https://www.inaturalist.org/photos/678664104
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678664104/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-melania/5.jpg
+  page: https://www.inaturalist.org/photos/697304582
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697304582/original.jpg
 ---
 
 

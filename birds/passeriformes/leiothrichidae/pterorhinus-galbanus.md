@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-galbanus/1.jpg
+  page: https://www.inaturalist.org/photos/722343352
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343352/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-galbanus/1.jpg
+  page: https://www.inaturalist.org/photos/722343352
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343352/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-galbanus/2.jpg
+  page: https://www.inaturalist.org/photos/722343335
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343335/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-galbanus/3.jpg
+  page: https://www.inaturalist.org/photos/722343329
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343329/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-galbanus/4.jpg
+  page: https://www.inaturalist.org/photos/722343319
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343319/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-galbanus/5.jpg
+  page: https://www.inaturalist.org/photos/722343305
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722343305/original.jpg
 ---
 
 

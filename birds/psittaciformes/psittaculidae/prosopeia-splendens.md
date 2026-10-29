@@ -136,10 +136,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/psittaciformes/psittaculidae/prosopeia-splendens/1.jpg
+  page: https://www.inaturalist.org/photos/728449296
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728449296/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/prosopeia-splendens/1.jpg
+  page: https://www.inaturalist.org/photos/728449296
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728449296/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-splendens/2.jpg
+  page: https://www.inaturalist.org/photos/464047529
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464047529/original.jpeg
+- file: images/psittaciformes/psittaculidae/prosopeia-splendens/3.jpg
+  page: https://www.inaturalist.org/photos/451684127
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451684127/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-splendens/4.jpg
+  page: https://www.inaturalist.org/photos/173027593
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173027593/original.jpg
+- file: images/psittaciformes/psittaculidae/prosopeia-splendens/5.jpg
+  page: https://www.inaturalist.org/photos/358463878
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358463878/original.jpg
 ---
 
 

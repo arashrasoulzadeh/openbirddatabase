@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-anthophilus/1.jpg
+  page: https://www.inaturalist.org/photos/625342191
+  author: Diego López
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625342191/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-anthophilus/1.jpg
+  page: https://www.inaturalist.org/photos/625342191
+  author: Diego López
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625342191/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-anthophilus/2.jpg
+  page: https://www.inaturalist.org/photos/642181704
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642181704/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-anthophilus/3.jpg
+  page: https://www.inaturalist.org/photos/675748637
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675748637/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-anthophilus/4.jpg
+  page: https://www.inaturalist.org/photos/710697884
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710697884/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-anthophilus/5.jpg
+  page: https://www.inaturalist.org/photos/471618599
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471618599/original.jpg
 ---
 
 

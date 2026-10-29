@@ -136,7 +136,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 57.1
@@ -151,6 +152,44 @@ reproduction:
   broods_per_year: 1
   incubation_days: 28
   fledging_days: 38
+image:
+  file: images/charadriiformes/laridae/ichthyaetus-audouinii/1.jpg
+  page: https://www.inaturalist.org/photos/611415320
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611415320/original.jpg
+images:
+- file: images/charadriiformes/laridae/ichthyaetus-audouinii/1.jpg
+  page: https://www.inaturalist.org/photos/611415320
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611415320/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-audouinii/2.jpg
+  page: https://www.inaturalist.org/photos/617797437
+  author: Anne Thomson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617797437/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-audouinii/3.jpg
+  page: https://www.inaturalist.org/photos/619465065
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619465065/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-audouinii/4.jpg
+  page: https://www.inaturalist.org/photos/624559088
+  author: Nicolás Tamargo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624559088/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-audouinii/5.jpg
+  page: https://www.inaturalist.org/photos/611415318
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611415318/original.jpg
 ---
 
 

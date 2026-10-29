@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/617325372
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617325372/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/617325372
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617325372/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-rufus/2.jpg
+  page: https://www.inaturalist.org/photos/718968421
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718968421/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-rufus/3.jpg
+  page: https://www.inaturalist.org/photos/738258495
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738258495/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-rufus/4.jpg
+  page: https://www.inaturalist.org/photos/591340883
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591340883/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-rufus/5.jpg
+  page: https://www.inaturalist.org/photos/361057573
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361057573/original.jpeg
 ---
 
 

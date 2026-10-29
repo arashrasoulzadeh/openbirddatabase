@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/pitta-reichenowi/1.jpg
+  page: https://www.inaturalist.org/photos/591492568
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591492568/original.jpg
+images:
+- file: images/passeriformes/pittidae/pitta-reichenowi/1.jpg
+  page: https://www.inaturalist.org/photos/591492568
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591492568/original.jpg
+- file: images/passeriformes/pittidae/pitta-reichenowi/2.jpg
+  page: https://www.inaturalist.org/photos/350153583
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350153583/original.jpeg
+- file: images/passeriformes/pittidae/pitta-reichenowi/3.jpg
+  page: https://www.inaturalist.org/photos/259321299
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259321299/original.jpeg
+- file: images/passeriformes/pittidae/pitta-reichenowi/4.jpg
+  page: https://www.inaturalist.org/photos/311851048
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311851048/original.jpg
+- file: images/passeriformes/pittidae/pitta-reichenowi/5.jpg
+  page: https://www.inaturalist.org/photos/42449236
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/42449236/original.jpeg
 ---
 
 

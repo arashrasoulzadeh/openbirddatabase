@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/pseudocolopteryx-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/607348628
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607348628/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/607348628
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607348628/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-flaviventris/2.jpg
+  page: https://www.inaturalist.org/photos/611500098
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611500098/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-flaviventris/3.jpg
+  page: https://www.inaturalist.org/photos/611454572
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611454572/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-flaviventris/4.jpg
+  page: https://www.inaturalist.org/photos/636322561
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636322561/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-flaviventris/5.jpg
+  page: https://www.inaturalist.org/photos/710595774
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710595774/original.jpg
 ---
 
 

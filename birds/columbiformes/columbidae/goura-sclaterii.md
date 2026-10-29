@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/goura-sclaterii/1.jpg
+  page: https://www.inaturalist.org/photos/708700795
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708700795/original.jpg
+images:
+- file: images/columbiformes/columbidae/goura-sclaterii/1.jpg
+  page: https://www.inaturalist.org/photos/708700795
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708700795/original.jpg
+- file: images/columbiformes/columbidae/goura-sclaterii/2.jpg
+  page: https://www.inaturalist.org/photos/568912808
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568912808/original.jpg
+- file: images/columbiformes/columbidae/goura-sclaterii/3.jpg
+  page: https://www.inaturalist.org/photos/226811475
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226811475/original.jpg
+- file: images/columbiformes/columbidae/goura-sclaterii/4.jpg
+  page: https://www.inaturalist.org/photos/51711779
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/51711779/original.jpeg
+- file: images/columbiformes/columbidae/goura-sclaterii/5.jpg
+  page: https://www.inaturalist.org/photos/337704108
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337704108/original.jpg
 ---
 
 

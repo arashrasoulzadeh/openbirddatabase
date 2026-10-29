@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/pyrrhula-erythrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/626641140
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626641140/original.jpg
+images:
+- file: images/passeriformes/fringillidae/pyrrhula-erythrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/626641140
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626641140/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-erythrocephala/2.jpg
+  page: https://www.inaturalist.org/photos/728844143
+  author: Parul
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728844143/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-erythrocephala/3.jpg
+  page: https://www.inaturalist.org/photos/635090343
+  author: Tarun Meena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635090343/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-erythrocephala/4.jpg
+  page: https://www.inaturalist.org/photos/601317696
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601317696/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-erythrocephala/5.jpg
+  page: https://www.inaturalist.org/photos/289967760
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289967760/original.jpg
 ---
 
 

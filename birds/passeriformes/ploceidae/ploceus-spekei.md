@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-spekei/1.jpg
+  page: https://www.inaturalist.org/photos/716612077
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716612077/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-spekei/1.jpg
+  page: https://www.inaturalist.org/photos/716612077
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716612077/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-spekei/2.jpg
+  page: https://www.inaturalist.org/photos/671842875
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671842875/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-spekei/3.jpg
+  page: https://www.inaturalist.org/photos/469495081
+  author: Polina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469495081/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-spekei/4.jpg
+  page: https://www.inaturalist.org/photos/661231965
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661231965/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-spekei/5.jpg
+  page: https://www.inaturalist.org/photos/601177057
+  author: Hobbyfotowiki
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601177057/original.jpg
 ---
 
 

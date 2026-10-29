@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/cynanthus-forficatus/1.jpg
+  page: https://www.inaturalist.org/photos/617255483
+  author: Alexis Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617255483/original.jpg
+images:
+- file: images/apodiformes/trochilidae/cynanthus-forficatus/1.jpg
+  page: https://www.inaturalist.org/photos/617255483
+  author: Alexis Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617255483/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-forficatus/2.jpg
+  page: https://www.inaturalist.org/photos/595609485
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595609485/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-forficatus/3.jpg
+  page: https://www.inaturalist.org/photos/355393805
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355393805/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-forficatus/4.jpg
+  page: https://www.inaturalist.org/photos/617255524
+  author: Alexis Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617255524/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-forficatus/5.jpg
+  page: https://www.inaturalist.org/photos/617016821
+  author: Alexis Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617016821/original.jpg
 ---
 
 

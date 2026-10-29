@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-fossii/1.jpg
+  page: https://www.inaturalist.org/photos/709660765
+  author: Robert Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709660765/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-fossii/1.jpg
+  page: https://www.inaturalist.org/photos/709660765
+  author: Robert Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709660765/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-fossii/2.jpg
+  page: https://www.inaturalist.org/photos/599951005
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599951005/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-fossii/3.jpg
+  page: https://www.inaturalist.org/photos/385541801
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385541801/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-fossii/4.jpg
+  page: https://www.inaturalist.org/photos/445484361
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445484361/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-fossii/5.jpg
+  page: https://www.inaturalist.org/photos/252117586
+  author: Nick Block
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252117586/original.jpg
 ---
 
 

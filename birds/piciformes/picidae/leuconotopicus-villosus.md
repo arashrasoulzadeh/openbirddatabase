@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/leuconotopicus-villosus/1.jpg
+  page: https://www.inaturalist.org/photos/604831672
+  author: Mandy Hackney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604831672/original.jpg
+images:
+- file: images/piciformes/picidae/leuconotopicus-villosus/1.jpg
+  page: https://www.inaturalist.org/photos/604831672
+  author: Mandy Hackney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604831672/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-villosus/2.jpg
+  page: https://www.inaturalist.org/photos/605179694
+  author: Hunter Hickok
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605179694/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-villosus/3.jpg
+  page: https://www.inaturalist.org/photos/605228520
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605228520/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-villosus/4.jpg
+  page: https://www.inaturalist.org/photos/605369861
+  author: Jeff Davis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605369861/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-villosus/5.jpg
+  page: https://www.inaturalist.org/photos/605113907
+  author: fallriver22
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605113907/original.jpg
 ---
 
 

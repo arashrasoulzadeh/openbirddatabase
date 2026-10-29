@@ -181,10 +181,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/pelecaniformes/ardeidae/egretta-sacra/1.jpg
+  page: https://www.inaturalist.org/photos/605007969
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605007969/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/egretta-sacra/1.jpg
+  page: https://www.inaturalist.org/photos/605007969
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605007969/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-sacra/2.jpg
+  page: https://www.inaturalist.org/photos/604835732
+  author: Cheryl Stinchcomb
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604835732/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-sacra/3.jpg
+  page: https://www.inaturalist.org/photos/609708945
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609708945/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-sacra/4.jpg
+  page: https://www.inaturalist.org/photos/608536748
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608536748/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-sacra/5.jpg
+  page: https://www.inaturalist.org/photos/610084757
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084757/original.jpg
 ---
 
 

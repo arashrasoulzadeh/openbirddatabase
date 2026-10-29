@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/leptotila-rufaxilla/1.jpg
+  page: https://www.inaturalist.org/photos/604520657
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604520657/original.jpg
+images:
+- file: images/columbiformes/columbidae/leptotila-rufaxilla/1.jpg
+  page: https://www.inaturalist.org/photos/604520657
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604520657/original.jpg
+- file: images/columbiformes/columbidae/leptotila-rufaxilla/2.jpg
+  page: https://www.inaturalist.org/photos/612258873
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612258873/original.jpg
+- file: images/columbiformes/columbidae/leptotila-rufaxilla/3.jpg
+  page: https://www.inaturalist.org/photos/618062144
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618062144/original.jpg
+- file: images/columbiformes/columbidae/leptotila-rufaxilla/4.jpg
+  page: https://www.inaturalist.org/photos/621907243
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621907243/original.jpg
+- file: images/columbiformes/columbidae/leptotila-rufaxilla/5.jpg
+  page: https://www.inaturalist.org/photos/607342588
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607342588/original.jpg
 ---
 
 

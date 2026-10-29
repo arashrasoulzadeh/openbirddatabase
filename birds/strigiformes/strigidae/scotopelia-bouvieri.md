@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/scotopelia-bouvieri/1.jpg
+  page: https://www.inaturalist.org/photos/512338907
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512338907/original.jpg
+images:
+- file: images/strigiformes/strigidae/scotopelia-bouvieri/1.jpg
+  page: https://www.inaturalist.org/photos/512338907
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512338907/original.jpg
+- file: images/strigiformes/strigidae/scotopelia-bouvieri/2.jpg
+  page: https://www.inaturalist.org/photos/512338883
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512338883/original.jpg
+- file: images/strigiformes/strigidae/scotopelia-bouvieri/3.jpg
+  page: https://www.inaturalist.org/photos/512351041
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512351041/original.jpg
+- file: images/strigiformes/strigidae/scotopelia-bouvieri/4.jpg
+  page: https://www.inaturalist.org/photos/512351047
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512351047/original.jpg
+- file: images/strigiformes/strigidae/scotopelia-bouvieri/5.jpg
+  page: https://www.inaturalist.org/photos/512351050
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512351050/original.jpg
 ---
 
 

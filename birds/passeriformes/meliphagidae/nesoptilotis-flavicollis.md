@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/nesoptilotis-flavicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605020932
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020932/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/nesoptilotis-flavicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605020932
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020932/original.jpg
+- file: images/passeriformes/meliphagidae/nesoptilotis-flavicollis/2.jpg
+  page: https://www.inaturalist.org/photos/608515554
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608515554/original.jpg
+- file: images/passeriformes/meliphagidae/nesoptilotis-flavicollis/3.jpg
+  page: https://www.inaturalist.org/photos/645984283
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645984283/original.jpg
+- file: images/passeriformes/meliphagidae/nesoptilotis-flavicollis/4.jpg
+  page: https://www.inaturalist.org/photos/726262087
+  author: fungihunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726262087/original.jpg
+- file: images/passeriformes/meliphagidae/nesoptilotis-flavicollis/5.jpg
+  page: https://www.inaturalist.org/photos/605020936
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605020936/original.jpg
 ---
 
 

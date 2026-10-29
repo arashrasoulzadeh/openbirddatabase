@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/fringillidae/leucosticte-arctoa/1.jpg
+  page: https://www.inaturalist.org/photos/629521878
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629521878/original.jpg
+images:
+- file: images/passeriformes/fringillidae/leucosticte-arctoa/1.jpg
+  page: https://www.inaturalist.org/photos/629521878
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629521878/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-arctoa/2.jpg
+  page: https://www.inaturalist.org/photos/564740740
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564740740/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-arctoa/3.jpg
+  page: https://www.inaturalist.org/photos/596134988
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596134988/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-arctoa/4.jpg
+  page: https://www.inaturalist.org/photos/603349436
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603349436/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-arctoa/5.jpg
+  page: https://www.inaturalist.org/photos/605779802
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605779802/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/cacatuidae/zanda-baudinii/1.jpg
+  page: https://www.inaturalist.org/photos/626931706
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626931706/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/zanda-baudinii/1.jpg
+  page: https://www.inaturalist.org/photos/626931706
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626931706/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-baudinii/2.jpg
+  page: https://www.inaturalist.org/photos/651057276
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651057276/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-baudinii/3.jpg
+  page: https://www.inaturalist.org/photos/673162363
+  author: Ruth Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673162363/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-baudinii/4.jpg
+  page: https://www.inaturalist.org/photos/720061589
+  author: Scott Bazely
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720061589/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-baudinii/5.jpg
+  page: https://www.inaturalist.org/photos/626932009
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626932009/original.jpg
 ---
 
 

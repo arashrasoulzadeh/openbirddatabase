@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 38.5
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 158.2
   tail_length_mm: 226.4
   body_mass_g: 170.5
+image:
+  file: images/cuculiformes/cuculidae/dasylophus-cumingi/1.jpg
+  page: https://www.inaturalist.org/photos/381010133
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/381010133/original.jpeg
+images:
+- file: images/cuculiformes/cuculidae/dasylophus-cumingi/1.jpg
+  page: https://www.inaturalist.org/photos/381010133
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/381010133/original.jpeg
+- file: images/cuculiformes/cuculidae/dasylophus-cumingi/2.jpg
+  page: https://www.inaturalist.org/photos/62273146
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62273146/original.jpeg
+- file: images/cuculiformes/cuculidae/dasylophus-cumingi/3.jpg
+  page: https://www.inaturalist.org/photos/381013298
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/381013298/original.jpeg
+- file: images/cuculiformes/cuculidae/dasylophus-cumingi/4.jpg
+  page: https://www.inaturalist.org/photos/381012916
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/381012916/original.jpeg
+- file: images/cuculiformes/cuculidae/dasylophus-cumingi/5.jpg
+  page: https://www.inaturalist.org/photos/392332713
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392332713/original.jpeg
 ---
 
 

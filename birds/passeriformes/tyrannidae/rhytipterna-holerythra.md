@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/rhytipterna-holerythra/1.jpg
+  page: https://www.inaturalist.org/photos/613763302
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613763302/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/rhytipterna-holerythra/1.jpg
+  page: https://www.inaturalist.org/photos/613763302
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613763302/original.jpg
+- file: images/passeriformes/tyrannidae/rhytipterna-holerythra/2.jpg
+  page: https://www.inaturalist.org/photos/636062966
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636062966/original.jpg
+- file: images/passeriformes/tyrannidae/rhytipterna-holerythra/3.jpg
+  page: https://www.inaturalist.org/photos/634707602
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634707602/original.jpg
+- file: images/passeriformes/tyrannidae/rhytipterna-holerythra/4.jpg
+  page: https://www.inaturalist.org/photos/658249784
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658249784/original.jpg
+- file: images/passeriformes/tyrannidae/rhytipterna-holerythra/5.jpg
+  page: https://www.inaturalist.org/photos/414473036
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414473036/original.jpg
 ---
 
 

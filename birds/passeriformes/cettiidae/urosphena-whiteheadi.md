@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/urosphena-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/599786838
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599786838/original.jpg
+images:
+- file: images/passeriformes/cettiidae/urosphena-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/599786838
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599786838/original.jpg
+- file: images/passeriformes/cettiidae/urosphena-whiteheadi/2.jpg
+  page: https://www.inaturalist.org/photos/453395384
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453395384/original.jpeg
+- file: images/passeriformes/cettiidae/urosphena-whiteheadi/3.jpg
+  page: https://www.inaturalist.org/photos/267090828
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267090828/original.jpeg
+- file: images/passeriformes/cettiidae/urosphena-whiteheadi/4.jpg
+  page: https://www.inaturalist.org/photos/296278645
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296278645/original.jpg
+- file: images/passeriformes/cettiidae/urosphena-whiteheadi/5.jpg
+  page: https://www.inaturalist.org/photos/241415797
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241415797/original.jpeg
 ---
 
 

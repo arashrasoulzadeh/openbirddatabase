@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/zebrilus-undulatus/1.jpg
+  page: https://www.inaturalist.org/photos/186654825
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186654825/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/zebrilus-undulatus/1.jpg
+  page: https://www.inaturalist.org/photos/186654825
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186654825/original.jpg
+- file: images/pelecaniformes/ardeidae/zebrilus-undulatus/2.jpg
+  page: https://www.inaturalist.org/photos/160446725
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/160446725/original.jpeg
+- file: images/pelecaniformes/ardeidae/zebrilus-undulatus/3.jpg
+  page: https://www.inaturalist.org/photos/177008495
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177008495/original.jpeg
+- file: images/pelecaniformes/ardeidae/zebrilus-undulatus/4.jpg
+  page: https://www.inaturalist.org/photos/23699767
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/23699767/original.jpeg
+- file: images/pelecaniformes/ardeidae/zebrilus-undulatus/5.jpg
+  page: https://www.inaturalist.org/photos/160446754
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/160446754/original.jpeg
 ---
 
 

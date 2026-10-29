@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/phacellodomus-maculipectus/1.jpg
+  page: https://www.inaturalist.org/photos/574195226
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574195226/original.jpg
+images:
+- file: images/passeriformes/furnariidae/phacellodomus-maculipectus/1.jpg
+  page: https://www.inaturalist.org/photos/574195226
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574195226/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-maculipectus/2.jpg
+  page: https://www.inaturalist.org/photos/586525848
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586525848/original.jpg
+- file: images/passeriformes/furnariidae/phacellodomus-maculipectus/3.jpg
+  page: https://www.inaturalist.org/photos/357352065
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357352065/original.jpeg
+- file: images/passeriformes/furnariidae/phacellodomus-maculipectus/4.jpg
+  page: https://www.inaturalist.org/photos/422441168
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422441168/original.jpeg
+- file: images/passeriformes/furnariidae/phacellodomus-maculipectus/5.jpg
+  page: https://www.inaturalist.org/photos/456129464
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456129464/original.jpeg
 ---
 
 

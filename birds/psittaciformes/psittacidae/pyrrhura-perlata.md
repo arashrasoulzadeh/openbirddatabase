@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-perlata/1.jpg
+  page: https://www.inaturalist.org/photos/524179608
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524179608/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-perlata/1.jpg
+  page: https://www.inaturalist.org/photos/524179608
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524179608/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-perlata/2.jpg
+  page: https://www.inaturalist.org/photos/417814026
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417814026/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-perlata/3.jpg
+  page: https://www.inaturalist.org/photos/460953297
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460953297/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-perlata/4.jpg
+  page: https://www.inaturalist.org/photos/601888937
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601888937/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-perlata/5.jpg
+  page: https://www.inaturalist.org/photos/114026322
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114026322/original.jpg
 ---
 
 

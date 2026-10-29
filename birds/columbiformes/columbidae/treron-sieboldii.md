@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-sieboldii/1.jpg
+  page: https://www.inaturalist.org/photos/742043384
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742043384/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-sieboldii/1.jpg
+  page: https://www.inaturalist.org/photos/742043384
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742043384/original.jpg
+- file: images/columbiformes/columbidae/treron-sieboldii/2.jpg
+  page: https://www.inaturalist.org/photos/630386875
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630386875/original.jpg
+- file: images/columbiformes/columbidae/treron-sieboldii/3.jpg
+  page: https://www.inaturalist.org/photos/633621593
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633621593/original.jpg
+- file: images/columbiformes/columbidae/treron-sieboldii/4.jpg
+  page: https://www.inaturalist.org/photos/635632392
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635632392/original.jpg
+- file: images/columbiformes/columbidae/treron-sieboldii/5.jpg
+  page: https://www.inaturalist.org/photos/640031988
+  author: 張朝翔
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640031988/original.jpg
 ---
 
 

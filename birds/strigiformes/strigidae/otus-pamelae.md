@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-pamelae/1.jpg
+  page: https://www.inaturalist.org/photos/635355840
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635355840/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-pamelae/1.jpg
+  page: https://www.inaturalist.org/photos/635355840
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635355840/original.jpg
+- file: images/strigiformes/strigidae/otus-pamelae/2.jpg
+  page: https://www.inaturalist.org/photos/260922875
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260922875/original.jpeg
+- file: images/strigiformes/strigidae/otus-pamelae/3.jpg
+  page: https://www.inaturalist.org/photos/635355835
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635355835/original.jpg
+- file: images/strigiformes/strigidae/otus-pamelae/4.jpg
+  page: https://www.inaturalist.org/photos/635355837
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635355837/original.jpg
+- file: images/strigiformes/strigidae/otus-pamelae/5.jpg
+  page: https://www.inaturalist.org/photos/116189479
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116189479/original.jpg
 ---
 
 

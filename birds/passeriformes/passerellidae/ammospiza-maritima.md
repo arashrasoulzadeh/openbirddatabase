@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/ammospiza-maritima/1.jpg
+  page: https://www.inaturalist.org/photos/609561163
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609561163/original.jpg
+images:
+- file: images/passeriformes/passerellidae/ammospiza-maritima/1.jpg
+  page: https://www.inaturalist.org/photos/609561163
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609561163/original.jpg
+- file: images/passeriformes/passerellidae/ammospiza-maritima/2.jpg
+  page: https://www.inaturalist.org/photos/614001193
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614001193/original.jpg
+- file: images/passeriformes/passerellidae/ammospiza-maritima/3.jpg
+  page: https://www.inaturalist.org/photos/655864090
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655864090/original.jpg
+- file: images/passeriformes/passerellidae/ammospiza-maritima/4.jpg
+  page: https://www.inaturalist.org/photos/670749644
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670749644/original.jpg
+- file: images/passeriformes/passerellidae/ammospiza-maritima/5.jpg
+  page: https://www.inaturalist.org/photos/671758344
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671758344/original.jpg
 ---
 
 

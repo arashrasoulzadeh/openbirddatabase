@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendrocolaptes-platyrostris/1.jpg
+  page: https://www.inaturalist.org/photos/605697156
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697156/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendrocolaptes-platyrostris/1.jpg
+  page: https://www.inaturalist.org/photos/605697156
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697156/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-platyrostris/2.jpg
+  page: https://www.inaturalist.org/photos/609391676
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609391676/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-platyrostris/3.jpg
+  page: https://www.inaturalist.org/photos/622235449
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622235449/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-platyrostris/4.jpg
+  page: https://www.inaturalist.org/photos/625211156
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625211156/original.jpg
+- file: images/passeriformes/furnariidae/dendrocolaptes-platyrostris/5.jpg
+  page: https://www.inaturalist.org/photos/673012475
+  author: topeuna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673012475/original.jpg
 ---
 
 

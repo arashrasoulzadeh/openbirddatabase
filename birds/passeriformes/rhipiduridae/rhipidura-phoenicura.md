@@ -133,7 +133,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.3
@@ -141,6 +142,44 @@ morphology:
   wing_length_mm: 73.2
   tail_length_mm: 85.2
   body_mass_g: 15.0
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-phoenicura/1.jpg
+  page: https://www.inaturalist.org/photos/613435343
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435343/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-phoenicura/1.jpg
+  page: https://www.inaturalist.org/photos/613435343
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435343/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-phoenicura/2.jpg
+  page: https://www.inaturalist.org/photos/569152704
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569152704/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-phoenicura/3.jpg
+  page: https://www.inaturalist.org/photos/408018627
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/408018627/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-phoenicura/4.jpg
+  page: https://www.inaturalist.org/photos/220915006
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220915006/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-phoenicura/5.jpg
+  page: https://www.inaturalist.org/photos/340158477
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340158477/original.jpeg
 ---
 
 

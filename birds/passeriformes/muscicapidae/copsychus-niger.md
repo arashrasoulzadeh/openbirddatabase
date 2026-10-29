@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/copsychus-niger/1.jpg
+  page: https://www.inaturalist.org/photos/469442478
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442478/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/copsychus-niger/1.jpg
+  page: https://www.inaturalist.org/photos/469442478
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442478/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-niger/2.jpg
+  page: https://www.inaturalist.org/photos/388606823
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388606823/original.jpeg
+- file: images/passeriformes/muscicapidae/copsychus-niger/3.jpg
+  page: https://www.inaturalist.org/photos/276470406
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470406/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-niger/4.jpg
+  page: https://www.inaturalist.org/photos/469442536
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442536/original.jpg
+- file: images/passeriformes/muscicapidae/copsychus-niger/5.jpg
+  page: https://www.inaturalist.org/photos/388699857
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388699857/original.jpeg
 ---
 
 

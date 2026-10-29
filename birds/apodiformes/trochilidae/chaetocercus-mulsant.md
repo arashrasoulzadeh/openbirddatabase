@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chaetocercus-mulsant/1.jpg
+  page: https://www.inaturalist.org/photos/612911787
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612911787/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chaetocercus-mulsant/1.jpg
+  page: https://www.inaturalist.org/photos/612911787
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612911787/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-mulsant/2.jpg
+  page: https://www.inaturalist.org/photos/607822487
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607822487/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-mulsant/3.jpg
+  page: https://www.inaturalist.org/photos/699900369
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699900369/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-mulsant/4.jpg
+  page: https://www.inaturalist.org/photos/623899188
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623899188/original.jpg
+- file: images/apodiformes/trochilidae/chaetocercus-mulsant/5.jpg
+  page: https://www.inaturalist.org/photos/624387357
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624387357/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/coryphospingus-cucullatus/1.jpg
+  page: https://www.inaturalist.org/photos/606967239
+  author: Mario Barroso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606967239/original.jpg
+images:
+- file: images/passeriformes/thraupidae/coryphospingus-cucullatus/1.jpg
+  page: https://www.inaturalist.org/photos/606967239
+  author: Mario Barroso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606967239/original.jpg
+- file: images/passeriformes/thraupidae/coryphospingus-cucullatus/2.jpg
+  page: https://www.inaturalist.org/photos/607784690
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784690/original.jpg
+- file: images/passeriformes/thraupidae/coryphospingus-cucullatus/3.jpg
+  page: https://www.inaturalist.org/photos/607911886
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607911886/original.jpg
+- file: images/passeriformes/thraupidae/coryphospingus-cucullatus/4.jpg
+  page: https://www.inaturalist.org/photos/612390170
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612390170/original.jpg
+- file: images/passeriformes/thraupidae/coryphospingus-cucullatus/5.jpg
+  page: https://www.inaturalist.org/photos/612001053
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612001053/original.jpg
 ---
 
 

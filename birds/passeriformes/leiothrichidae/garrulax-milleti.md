@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/garrulax-milleti/1.jpg
+  page: https://www.inaturalist.org/photos/385766301
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766301/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/garrulax-milleti/1.jpg
+  page: https://www.inaturalist.org/photos/385766301
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766301/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-milleti/2.jpg
+  page: https://www.inaturalist.org/photos/105778668
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778668/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-milleti/3.jpg
+  page: https://www.inaturalist.org/photos/339824297
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339824297/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-milleti/4.jpg
+  page: https://www.inaturalist.org/photos/385766329
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766329/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-milleti/5.jpg
+  page: https://www.inaturalist.org/photos/385766044
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766044/original.jpeg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/pseudasthenes-cactorum/1.jpg
+  page: https://www.inaturalist.org/photos/418497958
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418497958/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/pseudasthenes-cactorum/1.jpg
+  page: https://www.inaturalist.org/photos/418497958
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418497958/original.jpeg
+- file: images/passeriformes/furnariidae/pseudasthenes-cactorum/2.jpg
+  page: https://www.inaturalist.org/photos/456194026
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456194026/original.jpeg
+- file: images/passeriformes/furnariidae/pseudasthenes-cactorum/3.jpg
+  page: https://www.inaturalist.org/photos/331963936
+  author: Martin Vallejos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331963936/original.jpg
+- file: images/passeriformes/furnariidae/pseudasthenes-cactorum/4.jpg
+  page: https://www.inaturalist.org/photos/352530722
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352530722/original.jpeg
+- file: images/passeriformes/furnariidae/pseudasthenes-cactorum/5.jpg
+  page: https://www.inaturalist.org/photos/456194024
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456194024/original.jpeg
 ---
 
 

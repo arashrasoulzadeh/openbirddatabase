@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/hypocryptadius-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/458609715
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609715/original.jpeg
+images:
+- file: images/passeriformes/passeridae/hypocryptadius-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/458609715
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609715/original.jpeg
+- file: images/passeriformes/passeridae/hypocryptadius-cinnamomeus/2.jpg
+  page: https://www.inaturalist.org/photos/269726086
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726086/original.jpg
+- file: images/passeriformes/passeridae/hypocryptadius-cinnamomeus/3.jpg
+  page: https://www.inaturalist.org/photos/269726095
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726095/original.jpg
+- file: images/passeriformes/passeridae/hypocryptadius-cinnamomeus/4.jpg
+  page: https://www.inaturalist.org/photos/220135636
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220135636/original.jpg
+- file: images/passeriformes/passeridae/hypocryptadius-cinnamomeus/5.jpg
+  page: https://www.inaturalist.org/photos/220135669
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220135669/original.jpg
 ---
 
 

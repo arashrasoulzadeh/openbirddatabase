@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-magellanica/1.jpg
+  page: https://www.inaturalist.org/photos/623369426
+  author: Santiago Martín-Bravo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623369426/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-magellanica/1.jpg
+  page: https://www.inaturalist.org/photos/623369426
+  author: Santiago Martín-Bravo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623369426/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-magellanica/2.jpg
+  page: https://www.inaturalist.org/photos/616171156
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616171156/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-magellanica/3.jpg
+  page: https://www.inaturalist.org/photos/619371108
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619371108/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-magellanica/4.jpg
+  page: https://www.inaturalist.org/photos/619041043
+  author: Anabela Plos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619041043/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-magellanica/5.jpg
+  page: https://www.inaturalist.org/photos/641077985
+  author: Duban Espinoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641077985/original.jpg
 ---
 
 

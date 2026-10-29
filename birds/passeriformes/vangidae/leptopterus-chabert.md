@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/leptopterus-chabert/1.jpg
+  page: https://www.inaturalist.org/photos/690102735
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690102735/original.jpg
+images:
+- file: images/passeriformes/vangidae/leptopterus-chabert/1.jpg
+  page: https://www.inaturalist.org/photos/690102735
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690102735/original.jpg
+- file: images/passeriformes/vangidae/leptopterus-chabert/2.jpg
+  page: https://www.inaturalist.org/photos/566172469
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566172469/original.jpg
+- file: images/passeriformes/vangidae/leptopterus-chabert/3.jpg
+  page: https://www.inaturalist.org/photos/580943573
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580943573/original.jpg
+- file: images/passeriformes/vangidae/leptopterus-chabert/4.jpg
+  page: https://www.inaturalist.org/photos/445307075
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445307075/original.jpeg
+- file: images/passeriformes/vangidae/leptopterus-chabert/5.jpg
+  page: https://www.inaturalist.org/photos/691291340
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691291340/original.jpg
 ---
 
 

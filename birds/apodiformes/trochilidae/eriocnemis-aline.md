@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eriocnemis-aline/1.jpg
+  page: https://www.inaturalist.org/photos/350321306
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350321306/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eriocnemis-aline/1.jpg
+  page: https://www.inaturalist.org/photos/350321306
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350321306/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-aline/2.jpg
+  page: https://www.inaturalist.org/photos/266555755
+  author: Ariel Gallego
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266555755/original.jpeg
+- file: images/apodiformes/trochilidae/eriocnemis-aline/3.jpg
+  page: https://www.inaturalist.org/photos/237102180
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237102180/original.jpeg
+- file: images/apodiformes/trochilidae/eriocnemis-aline/4.jpg
+  page: https://www.inaturalist.org/photos/350321305
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350321305/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-aline/5.jpg
+  page: https://www.inaturalist.org/photos/266555772
+  author: Ariel Gallego
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266555772/original.jpeg
 ---
 
 

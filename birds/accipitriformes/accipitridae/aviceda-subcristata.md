@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/aviceda-subcristata/1.jpg
+  page: https://www.inaturalist.org/photos/606588689
+  author: Kaela Lowry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606588689/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aviceda-subcristata/1.jpg
+  page: https://www.inaturalist.org/photos/606588689
+  author: Kaela Lowry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606588689/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-subcristata/2.jpg
+  page: https://www.inaturalist.org/photos/608013763
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608013763/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-subcristata/3.jpg
+  page: https://www.inaturalist.org/photos/608490890
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608490890/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-subcristata/4.jpg
+  page: https://www.inaturalist.org/photos/625309040
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625309040/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-subcristata/5.jpg
+  page: https://www.inaturalist.org/photos/626903814
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626903814/original.jpg
 ---
 
 

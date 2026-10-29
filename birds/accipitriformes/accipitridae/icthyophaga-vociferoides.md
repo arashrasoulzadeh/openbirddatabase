@@ -119,8 +119,47 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/accipitriformes/accipitridae/icthyophaga-vociferoides/1.jpg
+  page: https://www.inaturalist.org/photos/583279051
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583279051/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/icthyophaga-vociferoides/1.jpg
+  page: https://www.inaturalist.org/photos/583279051
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583279051/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-vociferoides/2.jpg
+  page: https://www.inaturalist.org/photos/428941839
+  author: Martina T.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428941839/original.jpeg
+- file: images/accipitriformes/accipitridae/icthyophaga-vociferoides/3.jpg
+  page: https://www.inaturalist.org/photos/452189236
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452189236/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-vociferoides/4.jpg
+  page: https://www.inaturalist.org/photos/444308854
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444308854/original.jpeg
+- file: images/accipitriformes/accipitridae/icthyophaga-vociferoides/5.jpg
+  page: https://www.inaturalist.org/photos/463678667
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463678667/original.jpg
 ---
 
 

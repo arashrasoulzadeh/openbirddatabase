@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-capistrata/1.jpg
+  page: https://www.inaturalist.org/photos/598819199
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598819199/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-capistrata/1.jpg
+  page: https://www.inaturalist.org/photos/598819199
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598819199/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-capistrata/2.jpg
+  page: https://www.inaturalist.org/photos/515435752
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515435752/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-capistrata/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/KinshasaBiodiversity#5994375224885226306
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/746769/original.JPG
+- file: images/passeriformes/fringillidae/crithagra-capistrata/4.jpg
+  page: https://www.inaturalist.org/photos/598818093
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598818093/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-capistrata/5.jpg
+  page: https://www.inaturalist.org/photos/514957930
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514957930/original.jpg
 ---
 
 

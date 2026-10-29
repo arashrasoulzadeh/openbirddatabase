@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campephilus-magellanicus/1.jpg
+  page: https://www.inaturalist.org/photos/610291511
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610291511/original.jpg
+images:
+- file: images/piciformes/picidae/campephilus-magellanicus/1.jpg
+  page: https://www.inaturalist.org/photos/610291511
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610291511/original.jpg
+- file: images/piciformes/picidae/campephilus-magellanicus/2.jpg
+  page: https://www.inaturalist.org/photos/606756769
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606756769/original.jpg
+- file: images/piciformes/picidae/campephilus-magellanicus/3.jpg
+  page: https://www.inaturalist.org/photos/610743499
+  author: nitsuga74
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610743499/original.jpg
+- file: images/piciformes/picidae/campephilus-magellanicus/4.jpg
+  page: https://www.inaturalist.org/photos/610162630
+  author: Karin Klock Barría
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610162630/original.jpg
+- file: images/piciformes/picidae/campephilus-magellanicus/5.jpg
+  page: https://www.inaturalist.org/photos/607192976
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607192976/original.jpg
 ---
 
 

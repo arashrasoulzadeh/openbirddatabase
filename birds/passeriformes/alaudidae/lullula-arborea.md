@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/alaudidae/lullula-arborea/1.jpg
+  page: https://www.inaturalist.org/photos/611455212
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611455212/original.jpg
+images:
+- file: images/passeriformes/alaudidae/lullula-arborea/1.jpg
+  page: https://www.inaturalist.org/photos/611455212
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611455212/original.jpg
+- file: images/passeriformes/alaudidae/lullula-arborea/2.jpg
+  page: https://www.inaturalist.org/photos/617781991
+  author: frangp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617781991/original.jpg
+- file: images/passeriformes/alaudidae/lullula-arborea/3.jpg
+  page: https://www.inaturalist.org/photos/619488093
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619488093/original.jpg
+- file: images/passeriformes/alaudidae/lullula-arborea/4.jpg
+  page: https://www.inaturalist.org/photos/620362764
+  author: Tracy Gould
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620362764/original.jpg
+- file: images/passeriformes/alaudidae/lullula-arborea/5.jpg
+  page: https://www.inaturalist.org/photos/619623725
+  author: Bernd De Bosscher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619623725/original.jpg
 ---
 
 

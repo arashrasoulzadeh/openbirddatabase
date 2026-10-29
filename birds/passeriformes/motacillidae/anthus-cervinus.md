@@ -208,10 +208,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/motacillidae/anthus-cervinus/1.jpg
+  page: https://www.inaturalist.org/photos/608904003
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608904003/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-cervinus/1.jpg
+  page: https://www.inaturalist.org/photos/608904003
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608904003/original.jpg
+- file: images/passeriformes/motacillidae/anthus-cervinus/2.jpg
+  page: https://www.inaturalist.org/photos/611453380
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611453380/original.jpg
+- file: images/passeriformes/motacillidae/anthus-cervinus/3.jpg
+  page: https://www.inaturalist.org/photos/623089698
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089698/original.jpg
+- file: images/passeriformes/motacillidae/anthus-cervinus/4.jpg
+  page: https://www.inaturalist.org/photos/616990131
+  author: Aurelijus Narbutas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616990131/original.jpg
+- file: images/passeriformes/motacillidae/anthus-cervinus/5.jpg
+  page: https://www.inaturalist.org/photos/619889988
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619889988/original.jpg
 ---
 
 

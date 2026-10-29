@@ -143,10 +143,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/strigiformes/strigidae/otus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/276472344
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276472344/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/276472344
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276472344/original.jpg
+- file: images/strigiformes/strigidae/otus-fuliginosus/2.jpg
+  page: https://www.inaturalist.org/photos/339660306
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339660306/original.jpg
+- file: images/strigiformes/strigidae/otus-fuliginosus/3.jpg
+  page: https://www.inaturalist.org/photos/246633433
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246633433/original.jpg
+- file: images/strigiformes/strigidae/otus-fuliginosus/4.jpg
+  page: https://www.inaturalist.org/photos/246633535
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246633535/original.jpg
 ---
 
 

@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.9
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 54.0
   tail_length_mm: 47.3
   body_mass_g: 11.1
+image:
+  file: images/passeriformes/thamnophilidae/herpsilochmus-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/666509089
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666509089/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/666509089
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666509089/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/419765390
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419765390/original.jpg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/434381456
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434381456/original.jpeg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/343175950
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343175950/original.jpeg
+- file: images/passeriformes/thamnophilidae/herpsilochmus-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/246152437
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246152437/original.jpg
 ---
 
 

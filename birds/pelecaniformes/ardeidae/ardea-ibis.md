@@ -177,8 +177,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/pelecaniformes/ardeidae/ardea-ibis/1.jpg
+  page: https://www.inaturalist.org/photos/604894459
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604894459/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-ibis/1.jpg
+  page: https://www.inaturalist.org/photos/604894459
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604894459/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-ibis/2.jpg
+  page: https://www.inaturalist.org/photos/604489149
+  author: Patrick Le Mao
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604489149/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-ibis/3.jpg
+  page: https://www.inaturalist.org/photos/605581675
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605581675/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-ibis/4.jpg
+  page: https://www.inaturalist.org/photos/605561558
+  author: Eugene Eric Kim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605561558/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-ibis/5.jpg
+  page: https://www.inaturalist.org/photos/604590347
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604590347/original.jpg
 ---
 
 

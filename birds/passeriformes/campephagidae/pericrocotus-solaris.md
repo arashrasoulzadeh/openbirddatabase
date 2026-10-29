@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-solaris/1.jpg
+  page: https://www.inaturalist.org/photos/614202579
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614202579/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-solaris/1.jpg
+  page: https://www.inaturalist.org/photos/614202579
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614202579/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-solaris/2.jpg
+  page: https://www.inaturalist.org/photos/615292310
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615292310/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-solaris/3.jpg
+  page: https://www.inaturalist.org/photos/618850821
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618850821/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-solaris/4.jpg
+  page: https://www.inaturalist.org/photos/617100818
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617100818/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-solaris/5.jpg
+  page: https://www.inaturalist.org/photos/617986919
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617986919/original.jpg
 ---
 
 

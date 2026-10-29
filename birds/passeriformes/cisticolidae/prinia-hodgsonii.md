@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-hodgsonii/1.jpg
+  page: https://www.inaturalist.org/photos/609188745
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188745/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-hodgsonii/1.jpg
+  page: https://www.inaturalist.org/photos/609188745
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188745/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-hodgsonii/2.jpg
+  page: https://www.inaturalist.org/photos/623883083
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623883083/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-hodgsonii/3.jpg
+  page: https://www.inaturalist.org/photos/626322614
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626322614/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-hodgsonii/4.jpg
+  page: https://www.inaturalist.org/photos/658075888
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658075888/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-hodgsonii/5.jpg
+  page: https://www.inaturalist.org/photos/662011017
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662011017/original.jpg
 ---
 
 

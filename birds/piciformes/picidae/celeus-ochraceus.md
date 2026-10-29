@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/celeus-ochraceus/1.jpg
+  page: https://www.inaturalist.org/photos/367273014
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367273014/original.jpg
+images:
+- file: images/piciformes/picidae/celeus-ochraceus/1.jpg
+  page: https://www.inaturalist.org/photos/367273014
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367273014/original.jpg
+- file: images/piciformes/picidae/celeus-ochraceus/2.jpg
+  page: https://www.inaturalist.org/photos/436939288
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436939288/original.jpeg
+- file: images/piciformes/picidae/celeus-ochraceus/3.jpg
+  page: https://www.inaturalist.org/photos/451373233
+  author: Reuber Brandão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451373233/original.jpeg
+- file: images/piciformes/picidae/celeus-ochraceus/4.jpg
+  page: https://www.inaturalist.org/photos/331546448
+  author: Salomão Janderson Ferreira Bispo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331546448/original.jpg
+- file: images/piciformes/picidae/celeus-ochraceus/5.jpg
+  page: https://www.inaturalist.org/photos/338415509
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338415509/original.jpeg
 ---
 
 

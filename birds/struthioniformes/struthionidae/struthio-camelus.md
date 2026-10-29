@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 50
+image:
+  file: images/struthioniformes/struthionidae/struthio-camelus/1.jpg
+  page: https://www.inaturalist.org/photos/608150128
+  author: Justin Schoon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608150128/original.jpg
+images:
+- file: images/struthioniformes/struthionidae/struthio-camelus/1.jpg
+  page: https://www.inaturalist.org/photos/608150128
+  author: Justin Schoon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608150128/original.jpg
+- file: images/struthioniformes/struthionidae/struthio-camelus/2.jpg
+  page: https://www.inaturalist.org/photos/608231467
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608231467/original.jpg
+- file: images/struthioniformes/struthionidae/struthio-camelus/3.jpg
+  page: https://www.inaturalist.org/photos/615864311
+  author: serni bams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615864311/original.jpg
+- file: images/struthioniformes/struthionidae/struthio-camelus/4.jpg
+  page: https://www.inaturalist.org/photos/610392812
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610392812/original.jpg
+- file: images/struthioniformes/struthionidae/struthio-camelus/5.jpg
+  page: https://www.inaturalist.org/photos/611226112
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611226112/original.jpg
 ---
 
 

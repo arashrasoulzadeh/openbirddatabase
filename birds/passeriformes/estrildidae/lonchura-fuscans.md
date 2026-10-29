@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lonchura-fuscans/1.jpg
+  page: https://www.inaturalist.org/photos/679111793
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679111793/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-fuscans/1.jpg
+  page: https://www.inaturalist.org/photos/679111793
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679111793/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-fuscans/2.jpg
+  page: https://www.inaturalist.org/photos/682033619
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682033619/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-fuscans/3.jpg
+  page: https://www.inaturalist.org/photos/724470681
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724470681/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-fuscans/4.jpg
+  page: https://www.inaturalist.org/photos/679111822
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679111822/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-fuscans/5.jpg
+  page: https://www.inaturalist.org/photos/724470674
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724470674/original.jpg
 ---
 
 

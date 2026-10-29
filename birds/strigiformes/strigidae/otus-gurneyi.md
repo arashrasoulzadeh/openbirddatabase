@@ -134,8 +134,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-gurneyi/1.jpg
+  page: https://www.inaturalist.org/photos/270924651
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924651/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-gurneyi/1.jpg
+  page: https://www.inaturalist.org/photos/270924651
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924651/original.jpg
+- file: images/strigiformes/strigidae/otus-gurneyi/2.jpg
+  page: https://www.inaturalist.org/photos/270924667
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924667/original.jpg
+- file: images/strigiformes/strigidae/otus-gurneyi/3.jpg
+  page: https://www.inaturalist.org/photos/270924689
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924689/original.jpg
+- file: images/strigiformes/strigidae/otus-gurneyi/4.jpg
+  page: https://www.inaturalist.org/photos/270924713
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270924713/original.jpg
 ---
 
 

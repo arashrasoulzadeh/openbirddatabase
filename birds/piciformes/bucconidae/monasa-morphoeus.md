@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/monasa-morphoeus/1.jpg
+  page: https://www.inaturalist.org/photos/692525080
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692525080/original.jpg
+images:
+- file: images/piciformes/bucconidae/monasa-morphoeus/1.jpg
+  page: https://www.inaturalist.org/photos/692525080
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692525080/original.jpg
+- file: images/piciformes/bucconidae/monasa-morphoeus/2.jpg
+  page: https://www.inaturalist.org/photos/623793176
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793176/original.jpg
+- file: images/piciformes/bucconidae/monasa-morphoeus/3.jpg
+  page: https://www.inaturalist.org/photos/622141717
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622141717/original.jpg
+- file: images/piciformes/bucconidae/monasa-morphoeus/4.jpg
+  page: https://www.inaturalist.org/photos/699034150
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699034150/original.jpg
+- file: images/piciformes/bucconidae/monasa-morphoeus/5.jpg
+  page: https://www.inaturalist.org/photos/744795104
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744795104/original.jpg
 ---
 
 

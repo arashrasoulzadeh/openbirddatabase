@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-longipennis/1.jpg
+  page: https://www.inaturalist.org/photos/418078889
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418078889/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-longipennis/1.jpg
+  page: https://www.inaturalist.org/photos/418078889
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418078889/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-longipennis/2.jpg
+  page: https://www.inaturalist.org/photos/14877209
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/14877209/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmotherula-longipennis/3.jpg
+  page: https://www.inaturalist.org/photos/19928495
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/19928495/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmotherula-longipennis/4.jpg
+  page: https://www.inaturalist.org/photos/11811771
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/11811771/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-longipennis/5.jpg
+  page: https://www.inaturalist.org/photos/26402247
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26402247/original.jpeg
 ---
 
 

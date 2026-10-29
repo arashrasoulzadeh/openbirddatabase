@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/urocissa-erythroryncha/1.jpg
+  page: https://www.inaturalist.org/photos/608639637
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608639637/original.jpg
+images:
+- file: images/passeriformes/corvidae/urocissa-erythroryncha/1.jpg
+  page: https://www.inaturalist.org/photos/608639637
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608639637/original.jpg
+- file: images/passeriformes/corvidae/urocissa-erythroryncha/2.jpg
+  page: https://www.inaturalist.org/photos/614332915
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614332915/original.jpg
+- file: images/passeriformes/corvidae/urocissa-erythroryncha/3.jpg
+  page: https://www.inaturalist.org/photos/617096743
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617096743/original.jpg
+- file: images/passeriformes/corvidae/urocissa-erythroryncha/4.jpg
+  page: https://www.inaturalist.org/photos/609929090
+  author: Kiwi Shen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609929090/original.jpg
+- file: images/passeriformes/corvidae/urocissa-erythroryncha/5.jpg
+  page: https://www.inaturalist.org/photos/623089982
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089982/original.jpg
 ---
 
 

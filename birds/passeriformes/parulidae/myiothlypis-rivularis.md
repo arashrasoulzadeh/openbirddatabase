@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-rivularis/1.jpg
+  page: https://www.inaturalist.org/photos/617327306
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327306/original.jpg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-rivularis/1.jpg
+  page: https://www.inaturalist.org/photos/617327306
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327306/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-rivularis/2.jpg
+  page: https://www.inaturalist.org/photos/686078851
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686078851/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-rivularis/3.jpg
+  page: https://www.inaturalist.org/photos/641150339
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150339/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-rivularis/4.jpg
+  page: https://www.inaturalist.org/photos/659364842
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659364842/original.jpg
+- file: images/passeriformes/parulidae/myiothlypis-rivularis/5.jpg
+  page: https://www.inaturalist.org/photos/675386348
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675386348/original.jpg
 ---
 
 

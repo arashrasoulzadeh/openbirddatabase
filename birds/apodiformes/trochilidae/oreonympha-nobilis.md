@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/oreonympha-nobilis/1.jpg
+  page: https://www.inaturalist.org/photos/470266646
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470266646/original.jpg
+images:
+- file: images/apodiformes/trochilidae/oreonympha-nobilis/1.jpg
+  page: https://www.inaturalist.org/photos/470266646
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470266646/original.jpg
+- file: images/apodiformes/trochilidae/oreonympha-nobilis/2.jpg
+  page: https://www.inaturalist.org/photos/549587726
+  author: caseyhh
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549587726/original.jpg
+- file: images/apodiformes/trochilidae/oreonympha-nobilis/3.jpg
+  page: https://www.inaturalist.org/photos/563783188
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563783188/original.jpg
+- file: images/apodiformes/trochilidae/oreonympha-nobilis/4.jpg
+  page: https://www.inaturalist.org/photos/385316716
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385316716/original.jpeg
+- file: images/apodiformes/trochilidae/oreonympha-nobilis/5.jpg
+  page: https://www.inaturalist.org/photos/423561235
+  author: Andrew Campbell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423561235/original.jpeg
 ---
 
 

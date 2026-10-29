@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/rhynchospiza-dabbenei/1.jpg
+  page: https://www.inaturalist.org/photos/685402995
+  author: Guillermo Debandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685402995/original.jpg
+images:
+- file: images/passeriformes/passerellidae/rhynchospiza-dabbenei/1.jpg
+  page: https://www.inaturalist.org/photos/685402995
+  author: Guillermo Debandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685402995/original.jpg
+- file: images/passeriformes/passerellidae/rhynchospiza-dabbenei/2.jpg
+  page: https://www.inaturalist.org/photos/702945115
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702945115/original.jpg
+- file: images/passeriformes/passerellidae/rhynchospiza-dabbenei/3.jpg
+  page: https://www.inaturalist.org/photos/565265619
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565265619/original.jpg
+- file: images/passeriformes/passerellidae/rhynchospiza-dabbenei/4.jpg
+  page: https://www.inaturalist.org/photos/594842270
+  author: Carla Florencia Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594842270/original.jpg
+- file: images/passeriformes/passerellidae/rhynchospiza-dabbenei/5.jpg
+  page: https://www.inaturalist.org/photos/453179501
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453179501/original.jpeg
 ---
 
 

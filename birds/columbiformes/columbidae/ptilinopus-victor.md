@@ -125,7 +125,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.2
@@ -135,6 +136,44 @@ morphology:
   body_mass_g: 81.0
 reproduction:
   clutch_size_mean: 1.0
+image:
+  file: images/columbiformes/columbidae/ptilinopus-victor/1.jpg
+  page: https://www.inaturalist.org/photos/728672666
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728672666/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-victor/1.jpg
+  page: https://www.inaturalist.org/photos/728672666
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728672666/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-victor/2.jpg
+  page: https://www.inaturalist.org/photos/328101292
+  author: J Straka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328101292/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-victor/3.jpg
+  page: https://www.inaturalist.org/photos/60382667
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60382667/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-victor/4.jpg
+  page: https://www.inaturalist.org/photos/26670763
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26670763/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-victor/5.jpg
+  page: https://www.inaturalist.org/photos/74410173
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/74410173/original.jpg
 ---
 
 

@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/meliphagidae/acanthorhynchus-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/604923327
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604923327/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/acanthorhynchus-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/604923327
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604923327/original.jpg
+- file: images/passeriformes/meliphagidae/acanthorhynchus-tenuirostris/2.jpg
+  page: https://www.inaturalist.org/photos/605304524
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605304524/original.jpg
+- file: images/passeriformes/meliphagidae/acanthorhynchus-tenuirostris/3.jpg
+  page: https://www.inaturalist.org/photos/605859183
+  author: Graham Cleaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605859183/original.jpg
+- file: images/passeriformes/meliphagidae/acanthorhynchus-tenuirostris/4.jpg
+  page: https://www.inaturalist.org/photos/608320824
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608320824/original.jpg
+- file: images/passeriformes/meliphagidae/acanthorhynchus-tenuirostris/5.jpg
+  page: https://www.inaturalist.org/photos/608806757
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608806757/original.jpg
 ---
 
 

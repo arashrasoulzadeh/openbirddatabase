@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-pygmaeus/1.jpg
+  page: https://www.inaturalist.org/photos/614484680
+  author: Alexis Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614484680/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-pygmaeus/1.jpg
+  page: https://www.inaturalist.org/photos/614484680
+  author: Alexis Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614484680/original.jpg
+- file: images/piciformes/picidae/melanerpes-pygmaeus/2.jpg
+  page: https://www.inaturalist.org/photos/630917645
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630917645/original.jpg
+- file: images/piciformes/picidae/melanerpes-pygmaeus/3.jpg
+  page: https://www.inaturalist.org/photos/654544631
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654544631/original.jpg
+- file: images/piciformes/picidae/melanerpes-pygmaeus/4.jpg
+  page: https://www.inaturalist.org/photos/672136148
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672136148/original.jpg
+- file: images/piciformes/picidae/melanerpes-pygmaeus/5.jpg
+  page: https://www.inaturalist.org/photos/704052510
+  author: Giovana A. Valencia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704052510/original.jpg
 ---
 
 

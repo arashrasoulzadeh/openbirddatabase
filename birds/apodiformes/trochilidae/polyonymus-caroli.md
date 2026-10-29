@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/polyonymus-caroli/1.jpg
+  page: https://www.inaturalist.org/photos/648875818
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648875818/original.jpg
+images:
+- file: images/apodiformes/trochilidae/polyonymus-caroli/1.jpg
+  page: https://www.inaturalist.org/photos/648875818
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648875818/original.jpg
+- file: images/apodiformes/trochilidae/polyonymus-caroli/2.jpg
+  page: https://www.inaturalist.org/photos/253552241
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253552241/original.jpeg
+- file: images/apodiformes/trochilidae/polyonymus-caroli/3.jpg
+  page: https://www.inaturalist.org/photos/237522729
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237522729/original.jpeg
+- file: images/apodiformes/trochilidae/polyonymus-caroli/4.jpg
+  page: https://www.inaturalist.org/photos/72845572
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/72845572/original.jpg
+- file: images/apodiformes/trochilidae/polyonymus-caroli/5.jpg
+  page: https://www.inaturalist.org/photos/351971850
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351971850/original.jpeg
 ---
 
 

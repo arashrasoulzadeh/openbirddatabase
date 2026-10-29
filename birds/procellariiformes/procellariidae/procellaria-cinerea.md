@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/procellaria-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/355756216
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355756216/original.jpeg
+images:
+- file: images/procellariiformes/procellariidae/procellaria-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/355756216
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355756216/original.jpeg
+- file: images/procellariiformes/procellariidae/procellaria-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/368052926
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368052926/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/458371312
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458371312/original.jpeg
+- file: images/procellariiformes/procellariidae/procellaria-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/371649709
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/371649709/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/387339052
+  author: Mark Fraser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387339052/original.jpeg
 ---
 
 

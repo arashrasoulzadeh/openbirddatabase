@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-mozambica/1.jpg
+  page: https://www.inaturalist.org/photos/604778995
+  author: rcoliveira84
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604778995/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-mozambica/1.jpg
+  page: https://www.inaturalist.org/photos/604778995
+  author: rcoliveira84
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604778995/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-mozambica/2.jpg
+  page: https://www.inaturalist.org/photos/605285361
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605285361/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-mozambica/3.jpg
+  page: https://www.inaturalist.org/photos/612431775
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612431775/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-mozambica/4.jpg
+  page: https://www.inaturalist.org/photos/617051400
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617051400/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-mozambica/5.jpg
+  page: https://www.inaturalist.org/photos/623089307
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089307/original.jpg
 ---
 
 

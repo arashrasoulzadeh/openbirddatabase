@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/arachnothera-magna/1.jpg
+  page: https://www.inaturalist.org/photos/614232251
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614232251/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/arachnothera-magna/1.jpg
+  page: https://www.inaturalist.org/photos/614232251
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614232251/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-magna/2.jpg
+  page: https://www.inaturalist.org/photos/624381846
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624381846/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-magna/3.jpg
+  page: https://www.inaturalist.org/photos/626239529
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626239529/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-magna/4.jpg
+  page: https://www.inaturalist.org/photos/626428747
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428747/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-magna/5.jpg
+  page: https://www.inaturalist.org/photos/631323307
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631323307/original.jpg
 ---
 
 

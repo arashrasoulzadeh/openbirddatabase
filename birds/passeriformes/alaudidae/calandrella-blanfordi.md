@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/calandrella-blanfordi/1.jpg
+  page: https://www.inaturalist.org/photos/478147484
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478147484/original.jpeg
+images:
+- file: images/passeriformes/alaudidae/calandrella-blanfordi/1.jpg
+  page: https://www.inaturalist.org/photos/478147484
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478147484/original.jpeg
+- file: images/passeriformes/alaudidae/calandrella-blanfordi/2.jpg
+  page: https://www.inaturalist.org/photos/618599065
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618599065/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-blanfordi/3.jpg
+  page: https://www.inaturalist.org/photos/261886486
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261886486/original.jpeg
+- file: images/passeriformes/alaudidae/calandrella-blanfordi/4.jpg
+  page: https://www.inaturalist.org/photos/478147490
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478147490/original.jpeg
+- file: images/passeriformes/alaudidae/calandrella-blanfordi/5.jpg
+  page: https://www.inaturalist.org/photos/478147495
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478147495/original.jpeg
 ---
 
 

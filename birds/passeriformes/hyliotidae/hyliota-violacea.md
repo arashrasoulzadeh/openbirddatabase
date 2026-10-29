@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/hyliotidae/hyliota-violacea/1.jpg
+  page: https://www.inaturalist.org/photos/345232766
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345232766/original.jpeg
+images:
+- file: images/passeriformes/hyliotidae/hyliota-violacea/1.jpg
+  page: https://www.inaturalist.org/photos/345232766
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345232766/original.jpeg
+- file: images/passeriformes/hyliotidae/hyliota-violacea/2.jpg
+  page: https://www.inaturalist.org/photos/345232774
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345232774/original.jpeg
+- file: images/passeriformes/hyliotidae/hyliota-violacea/3.jpg
+  page: https://www.inaturalist.org/photos/345232781
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345232781/original.jpeg
+- file: images/passeriformes/hyliotidae/hyliota-violacea/4.jpg
+  page: https://www.inaturalist.org/photos/345232780
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345232780/original.jpeg
+- file: images/passeriformes/hyliotidae/hyliota-violacea/5.jpg
+  page: https://www.inaturalist.org/photos/344643032
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344643032/original.jpeg
 ---
 
 

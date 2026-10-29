@@ -144,8 +144,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendroplex-kienerii/1.jpg
+  page: https://www.inaturalist.org/photos/427936657
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427936657/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendroplex-kienerii/1.jpg
+  page: https://www.inaturalist.org/photos/427936657
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427936657/original.jpg
+- file: images/passeriformes/furnariidae/dendroplex-kienerii/2.jpg
+  page: https://www.inaturalist.org/photos/614279876
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614279876/original.jpg
+- file: images/passeriformes/furnariidae/dendroplex-kienerii/3.jpg
+  page: https://www.inaturalist.org/photos/600502233
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600502233/original.jpg
 ---
 
 

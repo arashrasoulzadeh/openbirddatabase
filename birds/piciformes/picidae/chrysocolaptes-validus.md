@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/chrysocolaptes-validus/1.jpg
+  page: https://www.inaturalist.org/photos/741654198
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741654198/original.jpg
+images:
+- file: images/piciformes/picidae/chrysocolaptes-validus/1.jpg
+  page: https://www.inaturalist.org/photos/741654198
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741654198/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-validus/2.jpg
+  page: https://www.inaturalist.org/photos/535404362
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535404362/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-validus/3.jpg
+  page: https://www.inaturalist.org/photos/572077726
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077726/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-validus/4.jpg
+  page: https://www.inaturalist.org/photos/591003499
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591003499/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-validus/5.jpg
+  page: https://www.inaturalist.org/photos/362837169
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362837169/original.jpeg
 ---
 
 

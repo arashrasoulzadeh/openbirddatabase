@@ -133,8 +133,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-lucasi/1.jpg
+  page: https://www.inaturalist.org/photos/467789870
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467789870/original.jpeg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-lucasi/1.jpg
+  page: https://www.inaturalist.org/photos/467789870
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467789870/original.jpeg
+- file: images/passeriformes/pycnonotidae/hypsipetes-lucasi/2.jpg
+  page: https://www.inaturalist.org/photos/526333494
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333494/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-lucasi/3.jpg
+  page: https://www.inaturalist.org/photos/583509186
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509186/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-lucasi/4.jpg
+  page: https://www.inaturalist.org/photos/313043270
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313043270/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-lucasi/5.jpg
+  page: https://www.inaturalist.org/photos/246523127
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246523127/original.jpg
 ---
 
 

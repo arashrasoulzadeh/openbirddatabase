@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/accipitriformes/accipitridae/kaupifalco-monogrammicus/1.jpg
+  page: https://www.inaturalist.org/photos/616754664
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616754664/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/kaupifalco-monogrammicus/1.jpg
+  page: https://www.inaturalist.org/photos/616754664
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616754664/original.jpg
+- file: images/accipitriformes/accipitridae/kaupifalco-monogrammicus/2.jpg
+  page: https://www.inaturalist.org/photos/620243953
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620243953/original.jpg
+- file: images/accipitriformes/accipitridae/kaupifalco-monogrammicus/3.jpg
+  page: https://www.inaturalist.org/photos/631147038
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631147038/original.jpg
+- file: images/accipitriformes/accipitridae/kaupifalco-monogrammicus/4.jpg
+  page: https://www.inaturalist.org/photos/637091430
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637091430/original.jpg
+- file: images/accipitriformes/accipitridae/kaupifalco-monogrammicus/5.jpg
+  page: https://www.inaturalist.org/photos/682091287
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682091287/original.jpg
 ---
 
 

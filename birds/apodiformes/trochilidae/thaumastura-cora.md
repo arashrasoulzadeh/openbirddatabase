@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/thaumastura-cora/1.jpg
+  page: https://www.inaturalist.org/photos/610725590
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610725590/original.jpg
+images:
+- file: images/apodiformes/trochilidae/thaumastura-cora/1.jpg
+  page: https://www.inaturalist.org/photos/610725590
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610725590/original.jpg
+- file: images/apodiformes/trochilidae/thaumastura-cora/2.jpg
+  page: https://www.inaturalist.org/photos/614347452
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614347452/original.jpg
+- file: images/apodiformes/trochilidae/thaumastura-cora/3.jpg
+  page: https://www.inaturalist.org/photos/619333594
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333594/original.jpg
+- file: images/apodiformes/trochilidae/thaumastura-cora/4.jpg
+  page: https://www.inaturalist.org/photos/616993296
+  author: Ellky Arteta Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616993296/original.jpg
+- file: images/apodiformes/trochilidae/thaumastura-cora/5.jpg
+  page: https://www.inaturalist.org/photos/657033141
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657033141/original.jpg
 ---
 
 

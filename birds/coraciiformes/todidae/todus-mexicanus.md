@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/coraciiformes/todidae/todus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/611072147
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611072147/original.jpg
+images:
+- file: images/coraciiformes/todidae/todus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/611072147
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611072147/original.jpg
+- file: images/coraciiformes/todidae/todus-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/624040092
+  author: Bonnie Isaac
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624040092/original.jpg
+- file: images/coraciiformes/todidae/todus-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/639299197
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639299197/original.jpg
+- file: images/coraciiformes/todidae/todus-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/643328818
+  author: Ricardo siverio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643328818/original.jpg
+- file: images/coraciiformes/todidae/todus-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/654161461
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654161461/original.jpg
 ---
 
 

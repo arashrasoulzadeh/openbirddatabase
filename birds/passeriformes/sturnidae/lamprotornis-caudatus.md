@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-caudatus/1.jpg
+  page: https://www.inaturalist.org/photos/607759713
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607759713/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-caudatus/1.jpg
+  page: https://www.inaturalist.org/photos/607759713
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607759713/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-caudatus/2.jpg
+  page: https://www.inaturalist.org/photos/612480782
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612480782/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-caudatus/3.jpg
+  page: https://www.inaturalist.org/photos/687954981
+  author: greenline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687954981/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-caudatus/4.jpg
+  page: https://www.inaturalist.org/photos/612480786
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612480786/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-caudatus/5.jpg
+  page: https://www.inaturalist.org/photos/612791035
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612791035/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hafferia-zeledoni/1.jpg
+  page: https://www.inaturalist.org/photos/608659146
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608659146/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hafferia-zeledoni/1.jpg
+  page: https://www.inaturalist.org/photos/608659146
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608659146/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-zeledoni/2.jpg
+  page: https://www.inaturalist.org/photos/630967984
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630967984/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-zeledoni/3.jpg
+  page: https://www.inaturalist.org/photos/482620300
+  author: Buckelkopfcichlide
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482620300/original.jpeg
+- file: images/passeriformes/thamnophilidae/hafferia-zeledoni/4.jpg
+  page: https://www.inaturalist.org/photos/553866235
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553866235/original.jpg
+- file: images/passeriformes/thamnophilidae/hafferia-zeledoni/5.jpg
+  page: https://www.inaturalist.org/photos/608659181
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608659181/original.jpg
 ---
 
 

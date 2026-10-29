@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/anthreptes-seimundi/1.jpg
+  page: https://www.inaturalist.org/photos/351063163
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063163/original.png
+images:
+- file: images/passeriformes/nectariniidae/anthreptes-seimundi/1.jpg
+  page: https://www.inaturalist.org/photos/351063163
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063163/original.png
+- file: images/passeriformes/nectariniidae/anthreptes-seimundi/2.jpg
+  page: https://www.inaturalist.org/photos/248492631
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248492631/original.jpeg
+- file: images/passeriformes/nectariniidae/anthreptes-seimundi/3.jpg
+  page: https://www.inaturalist.org/photos/307043096
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307043096/original.jpeg
+- file: images/passeriformes/nectariniidae/anthreptes-seimundi/4.jpg
+  page: https://www.inaturalist.org/photos/307043065
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307043065/original.jpeg
+- file: images/passeriformes/nectariniidae/anthreptes-seimundi/5.jpg
+  page: https://www.inaturalist.org/photos/307043080
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307043080/original.jpeg
 ---
 
 

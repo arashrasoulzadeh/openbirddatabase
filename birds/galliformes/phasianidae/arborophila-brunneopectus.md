@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/arborophila-brunneopectus/1.jpg
+  page: https://www.inaturalist.org/photos/631336860
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631336860/original.jpg
+images:
+- file: images/galliformes/phasianidae/arborophila-brunneopectus/1.jpg
+  page: https://www.inaturalist.org/photos/631336860
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631336860/original.jpg
+- file: images/galliformes/phasianidae/arborophila-brunneopectus/2.jpg
+  page: https://www.inaturalist.org/photos/643218563
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643218563/original.jpg
+- file: images/galliformes/phasianidae/arborophila-brunneopectus/3.jpg
+  page: https://www.inaturalist.org/photos/639869535
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639869535/original.jpg
+- file: images/galliformes/phasianidae/arborophila-brunneopectus/4.jpg
+  page: https://www.inaturalist.org/photos/628224988
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628224988/original.jpg
+- file: images/galliformes/phasianidae/arborophila-brunneopectus/5.jpg
+  page: https://www.inaturalist.org/photos/705167472
+  author: Thomas Gyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705167472/original.jpg
 ---
 
 

@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/phrygilus-punensis/1.jpg
+  page: https://www.inaturalist.org/photos/624483578
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624483578/original.jpg
+images:
+- file: images/passeriformes/thraupidae/phrygilus-punensis/1.jpg
+  page: https://www.inaturalist.org/photos/624483578
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624483578/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-punensis/2.jpg
+  page: https://www.inaturalist.org/photos/623013892
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623013892/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-punensis/3.jpg
+  page: https://www.inaturalist.org/photos/631498411
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631498411/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-punensis/4.jpg
+  page: https://www.inaturalist.org/photos/727045115
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727045115/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-punensis/5.jpg
+  page: https://www.inaturalist.org/photos/631498417
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631498417/original.jpg
 ---
 
 

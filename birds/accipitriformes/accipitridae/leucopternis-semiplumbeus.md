@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/leucopternis-semiplumbeus/1.jpg
+  page: https://www.inaturalist.org/photos/616963209
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616963209/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/leucopternis-semiplumbeus/1.jpg
+  page: https://www.inaturalist.org/photos/616963209
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616963209/original.jpg
+- file: images/accipitriformes/accipitridae/leucopternis-semiplumbeus/2.jpg
+  page: https://www.inaturalist.org/photos/643261951
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643261951/original.jpg
+- file: images/accipitriformes/accipitridae/leucopternis-semiplumbeus/3.jpg
+  page: https://www.inaturalist.org/photos/742229670
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742229670/original.jpg
+- file: images/accipitriformes/accipitridae/leucopternis-semiplumbeus/4.jpg
+  page: https://www.inaturalist.org/photos/469428658
+  author: Ulrikke Hedegaard
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469428658/original.jpeg
+- file: images/accipitriformes/accipitridae/leucopternis-semiplumbeus/5.jpg
+  page: https://www.inaturalist.org/photos/479282706
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479282706/original.jpeg
 ---
 
 

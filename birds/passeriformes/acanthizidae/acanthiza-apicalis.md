@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/acanthiza-apicalis/1.jpg
+  page: https://www.inaturalist.org/photos/620473572
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473572/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/acanthiza-apicalis/1.jpg
+  page: https://www.inaturalist.org/photos/620473572
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473572/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-apicalis/2.jpg
+  page: https://www.inaturalist.org/photos/624921430
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624921430/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-apicalis/3.jpg
+  page: https://www.inaturalist.org/photos/622748803
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748803/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-apicalis/4.jpg
+  page: https://www.inaturalist.org/photos/650769100
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650769100/original.jpg
+- file: images/passeriformes/acanthizidae/acanthiza-apicalis/5.jpg
+  page: https://www.inaturalist.org/photos/650769520
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650769520/original.jpg
 ---
 
 

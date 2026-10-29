@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/cyanoramphus-malherbi/1.jpg
+  page: https://www.inaturalist.org/photos/613117229
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613117229/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/cyanoramphus-malherbi/1.jpg
+  page: https://www.inaturalist.org/photos/613117229
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613117229/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-malherbi/2.jpg
+  page: https://www.inaturalist.org/photos/617934799
+  author: Chelsea Haley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617934799/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-malherbi/3.jpg
+  page: https://www.inaturalist.org/photos/732835081
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732835081/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-malherbi/4.jpg
+  page: https://www.inaturalist.org/photos/471609940
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471609940/original.jpeg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-malherbi/5.jpg
+  page: https://www.inaturalist.org/photos/595565405
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595565405/original.jpg
 ---
 
 

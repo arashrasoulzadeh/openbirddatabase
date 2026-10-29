@@ -184,10 +184,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/pelecaniformes/threskiornithidae/platalea-leucorodia/1.jpg
+  page: https://www.inaturalist.org/photos/605431149
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605431149/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/platalea-leucorodia/1.jpg
+  page: https://www.inaturalist.org/photos/605431149
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605431149/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-leucorodia/2.jpg
+  page: https://www.inaturalist.org/photos/604810642
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604810642/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-leucorodia/3.jpg
+  page: https://www.inaturalist.org/photos/605749279
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605749279/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-leucorodia/4.jpg
+  page: https://www.inaturalist.org/photos/605385908
+  author: Hugo Caillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605385908/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-leucorodia/5.jpg
+  page: https://www.inaturalist.org/photos/605431170
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605431170/original.jpg
 ---
 
 

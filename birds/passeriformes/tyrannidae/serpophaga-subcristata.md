@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/serpophaga-subcristata/1.jpg
+  page: https://www.inaturalist.org/photos/609201425
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609201425/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/serpophaga-subcristata/1.jpg
+  page: https://www.inaturalist.org/photos/609201425
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609201425/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-subcristata/2.jpg
+  page: https://www.inaturalist.org/photos/606456111
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606456111/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-subcristata/3.jpg
+  page: https://www.inaturalist.org/photos/609071976
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609071976/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-subcristata/4.jpg
+  page: https://www.inaturalist.org/photos/618241528
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618241528/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-subcristata/5.jpg
+  page: https://www.inaturalist.org/photos/703445680
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703445680/original.jpg
 ---
 
 

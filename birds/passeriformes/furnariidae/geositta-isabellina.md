@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/geositta-isabellina/1.jpg
+  page: https://www.inaturalist.org/photos/374954037
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/374954037/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/geositta-isabellina/1.jpg
+  page: https://www.inaturalist.org/photos/374954037
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/374954037/original.jpeg
+- file: images/passeriformes/furnariidae/geositta-isabellina/2.jpg
+  page: https://www.inaturalist.org/photos/357624139
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357624139/original.jpeg
+- file: images/passeriformes/furnariidae/geositta-isabellina/3.jpg
+  page: https://www.inaturalist.org/photos/252329646
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252329646/original.jpeg
+- file: images/passeriformes/furnariidae/geositta-isabellina/4.jpg
+  page: https://www.inaturalist.org/photos/195950200
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195950200/original.jpg
+- file: images/passeriformes/furnariidae/geositta-isabellina/5.jpg
+  page: https://www.inaturalist.org/photos/68247777
+  author: Guillermo Debandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/68247777/original.jpeg
 ---
 
 

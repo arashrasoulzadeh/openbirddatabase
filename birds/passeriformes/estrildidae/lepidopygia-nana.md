@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lepidopygia-nana/1.jpg
+  page: https://www.inaturalist.org/photos/631870858
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631870858/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lepidopygia-nana/1.jpg
+  page: https://www.inaturalist.org/photos/631870858
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631870858/original.jpg
+- file: images/passeriformes/estrildidae/lepidopygia-nana/2.jpg
+  page: https://www.inaturalist.org/photos/693030397
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693030397/original.jpg
+- file: images/passeriformes/estrildidae/lepidopygia-nana/3.jpg
+  page: https://www.inaturalist.org/photos/690443633
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690443633/original.jpg
+- file: images/passeriformes/estrildidae/lepidopygia-nana/4.jpg
+  page: https://www.inaturalist.org/photos/471550634
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471550634/original.jpeg
+- file: images/passeriformes/estrildidae/lepidopygia-nana/5.jpg
+  page: https://www.inaturalist.org/photos/582836178
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582836178/original.jpg
 ---
 
 

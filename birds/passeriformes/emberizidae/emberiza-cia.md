@@ -182,8 +182,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-cia/1.jpg
+  page: https://www.inaturalist.org/photos/604735145
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604735145/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-cia/1.jpg
+  page: https://www.inaturalist.org/photos/604735145
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604735145/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cia/2.jpg
+  page: https://www.inaturalist.org/photos/605917031
+  author: michael_martinez64
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605917031/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cia/3.jpg
+  page: https://www.inaturalist.org/photos/610166673
+  author: Gonzalo Ganda Álvarez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610166673/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cia/4.jpg
+  page: https://www.inaturalist.org/photos/613864837
+  author: luluchouette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613864837/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cia/5.jpg
+  page: https://www.inaturalist.org/photos/615299277
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615299277/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-leucophaeus/1.jpg
+  page: https://www.inaturalist.org/photos/614199852
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614199852/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-leucophaeus/1.jpg
+  page: https://www.inaturalist.org/photos/614199852
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614199852/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-leucophaeus/2.jpg
+  page: https://www.inaturalist.org/photos/635804926
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635804926/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-leucophaeus/3.jpg
+  page: https://www.inaturalist.org/photos/655667047
+  author: Antoine MARNAT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655667047/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-leucophaeus/4.jpg
+  page: https://www.inaturalist.org/photos/488421557
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488421557/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-leucophaeus/5.jpg
+  page: https://www.inaturalist.org/photos/614199850
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614199850/original.jpg
 ---
 
 

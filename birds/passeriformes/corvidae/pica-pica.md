@@ -234,10 +234,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/passeriformes/corvidae/pica-pica/1.jpg
+  page: https://www.inaturalist.org/photos/605084804
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605084804/original.jpg
+images:
+- file: images/passeriformes/corvidae/pica-pica/1.jpg
+  page: https://www.inaturalist.org/photos/605084804
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605084804/original.jpg
+- file: images/passeriformes/corvidae/pica-pica/2.jpg
+  page: https://www.inaturalist.org/photos/605340805
+  author: Andrew Cunnington
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605340805/original.jpg
+- file: images/passeriformes/corvidae/pica-pica/3.jpg
+  page: https://www.inaturalist.org/photos/604621188
+  author: Bethany Milam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604621188/original.jpg
+- file: images/passeriformes/corvidae/pica-pica/4.jpg
+  page: https://www.inaturalist.org/photos/605112673
+  author: Gonzalo Ganda Álvarez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605112673/original.jpg
+- file: images/passeriformes/corvidae/pica-pica/5.jpg
+  page: https://www.inaturalist.org/photos/605344807
+  author: Andrey Polstianoi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605344807/original.jpg
 ---
 
 

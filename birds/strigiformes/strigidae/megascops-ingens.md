@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-ingens/1.jpg
+  page: https://www.inaturalist.org/photos/474212246
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474212246/original.jpeg
+images:
+- file: images/strigiformes/strigidae/megascops-ingens/1.jpg
+  page: https://www.inaturalist.org/photos/474212246
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474212246/original.jpeg
+- file: images/strigiformes/strigidae/megascops-ingens/2.jpg
+  page: https://www.inaturalist.org/photos/499993191
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499993191/original.jpeg
+- file: images/strigiformes/strigidae/megascops-ingens/3.jpg
+  page: https://www.inaturalist.org/photos/539375618
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539375618/original.jpg
+- file: images/strigiformes/strigidae/megascops-ingens/4.jpg
+  page: https://www.inaturalist.org/photos/176747944
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176747944/original.jpeg
+- file: images/strigiformes/strigidae/megascops-ingens/5.jpg
+  page: https://www.inaturalist.org/photos/13010580
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13010580/original.jpg
 ---
 
 

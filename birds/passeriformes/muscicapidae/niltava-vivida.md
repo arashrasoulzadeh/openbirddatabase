@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/niltava-vivida/1.jpg
+  page: https://www.inaturalist.org/photos/612673077
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612673077/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/niltava-vivida/1.jpg
+  page: https://www.inaturalist.org/photos/612673077
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612673077/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-vivida/2.jpg
+  page: https://www.inaturalist.org/photos/635164581
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635164581/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-vivida/3.jpg
+  page: https://www.inaturalist.org/photos/696220433
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696220433/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-vivida/4.jpg
+  page: https://www.inaturalist.org/photos/612673063
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612673063/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-vivida/5.jpg
+  page: https://www.inaturalist.org/photos/624877642
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624877642/original.jpg
 ---
 
 

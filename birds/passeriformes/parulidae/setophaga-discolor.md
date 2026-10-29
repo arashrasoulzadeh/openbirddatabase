@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/parulidae/setophaga-discolor/1.jpg
+  page: https://www.inaturalist.org/photos/604603557
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604603557/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-discolor/1.jpg
+  page: https://www.inaturalist.org/photos/604603557
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604603557/original.jpg
+- file: images/passeriformes/parulidae/setophaga-discolor/2.jpg
+  page: https://www.inaturalist.org/photos/604544989
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604544989/original.jpg
+- file: images/passeriformes/parulidae/setophaga-discolor/3.jpg
+  page: https://www.inaturalist.org/photos/608014058
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608014058/original.jpg
+- file: images/passeriformes/parulidae/setophaga-discolor/4.jpg
+  page: https://www.inaturalist.org/photos/607139317
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607139317/original.jpg
+- file: images/passeriformes/parulidae/setophaga-discolor/5.jpg
+  page: https://www.inaturalist.org/photos/612761828
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612761828/original.jpg
 ---
 
 

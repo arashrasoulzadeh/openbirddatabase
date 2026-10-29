@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/procellaria-westlandica/1.jpg
+  page: https://www.inaturalist.org/photos/615913836
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615913836/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/procellaria-westlandica/1.jpg
+  page: https://www.inaturalist.org/photos/615913836
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615913836/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-westlandica/2.jpg
+  page: https://www.inaturalist.org/photos/626299290
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626299290/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-westlandica/3.jpg
+  page: https://www.inaturalist.org/photos/681952420
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681952420/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-westlandica/4.jpg
+  page: https://www.inaturalist.org/photos/720020907
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720020907/original.jpg
+- file: images/procellariiformes/procellariidae/procellaria-westlandica/5.jpg
+  page: https://www.inaturalist.org/photos/472196621
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472196621/original.jpg
 ---
 
 

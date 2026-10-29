@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/petrophassa-rufipennis/1.jpg
+  page: https://www.inaturalist.org/photos/644528584
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644528584/original.jpg
+images:
+- file: images/columbiformes/columbidae/petrophassa-rufipennis/1.jpg
+  page: https://www.inaturalist.org/photos/644528584
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644528584/original.jpg
+- file: images/columbiformes/columbidae/petrophassa-rufipennis/2.jpg
+  page: https://www.inaturalist.org/photos/739671557
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739671557/original.jpg
+- file: images/columbiformes/columbidae/petrophassa-rufipennis/3.jpg
+  page: https://www.inaturalist.org/photos/439766646
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439766646/original.jpg
+- file: images/columbiformes/columbidae/petrophassa-rufipennis/4.jpg
+  page: https://www.inaturalist.org/photos/558006218
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558006218/original.jpg
+- file: images/columbiformes/columbidae/petrophassa-rufipennis/5.jpg
+  page: https://www.inaturalist.org/photos/340056877
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340056877/original.jpeg
 ---
 
 

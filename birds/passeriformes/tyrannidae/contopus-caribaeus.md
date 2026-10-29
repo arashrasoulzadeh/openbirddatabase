@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/contopus-caribaeus/1.jpg
+  page: https://www.inaturalist.org/photos/617119155
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617119155/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/contopus-caribaeus/1.jpg
+  page: https://www.inaturalist.org/photos/617119155
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617119155/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-caribaeus/2.jpg
+  page: https://www.inaturalist.org/photos/626746995
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626746995/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-caribaeus/3.jpg
+  page: https://www.inaturalist.org/photos/612761059
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612761059/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-caribaeus/4.jpg
+  page: https://www.inaturalist.org/photos/618510513
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618510513/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-caribaeus/5.jpg
+  page: https://www.inaturalist.org/photos/635954538
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635954538/original.jpg
 ---
 
 

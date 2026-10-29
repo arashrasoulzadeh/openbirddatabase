@@ -143,8 +143,29 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-jankowskii/1.jpg
+  page: https://www.inaturalist.org/photos/565726379
+  author: ZhenningLiu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565726379/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-jankowskii/1.jpg
+  page: https://www.inaturalist.org/photos/565726379
+  author: ZhenningLiu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565726379/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-jankowskii/2.jpg
+  page: https://www.inaturalist.org/photos/29001448
+  author: Mikael Bauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29001448/original.jpg
 ---
 
 

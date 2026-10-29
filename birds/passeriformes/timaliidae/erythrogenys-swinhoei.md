@@ -142,7 +142,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 34.3
@@ -150,6 +151,44 @@ morphology:
   wing_length_mm: 96.2
   tail_length_mm: 94.0
   body_mass_g: 58.2
+image:
+  file: images/passeriformes/timaliidae/erythrogenys-swinhoei/1.jpg
+  page: https://www.inaturalist.org/photos/365038185
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365038185/original.jpeg
+images:
+- file: images/passeriformes/timaliidae/erythrogenys-swinhoei/1.jpg
+  page: https://www.inaturalist.org/photos/365038185
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365038185/original.jpeg
+- file: images/passeriformes/timaliidae/erythrogenys-swinhoei/2.jpg
+  page: https://www.inaturalist.org/photos/258619177
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258619177/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-swinhoei/3.jpg
+  page: https://www.inaturalist.org/photos/38387953
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/38387953/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-swinhoei/4.jpg
+  page: https://www.inaturalist.org/photos/258619164
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258619164/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-swinhoei/5.jpg
+  page: https://www.inaturalist.org/photos/370171247
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370171247/original.jpg
 ---
 
 

@@ -180,8 +180,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/terpsiphone-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/608326114
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608326114/original.jpg
+images:
+- file: images/passeriformes/monarchidae/terpsiphone-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/608326114
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608326114/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/610677102
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610677102/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/624180114
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624180114/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/619603410
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619603410/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/633315605
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633315605/original.jpg
 ---
 
 

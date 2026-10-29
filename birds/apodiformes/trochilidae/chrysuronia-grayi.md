@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chrysuronia-grayi/1.jpg
+  page: https://www.inaturalist.org/photos/339725602
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339725602/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/chrysuronia-grayi/1.jpg
+  page: https://www.inaturalist.org/photos/339725602
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339725602/original.jpeg
+- file: images/apodiformes/trochilidae/chrysuronia-grayi/2.jpg
+  page: https://www.inaturalist.org/photos/54548399
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/54548399/original.jpeg
+- file: images/apodiformes/trochilidae/chrysuronia-grayi/3.jpg
+  page: https://www.inaturalist.org/photos/104828515
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104828515/original.jpeg
+- file: images/apodiformes/trochilidae/chrysuronia-grayi/4.jpg
+  page: https://www.inaturalist.org/photos/54548377
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/54548377/original.jpeg
+- file: images/apodiformes/trochilidae/chrysuronia-grayi/5.jpg
+  page: https://www.inaturalist.org/photos/54548362
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/54548362/original.jpeg
 ---
 
 

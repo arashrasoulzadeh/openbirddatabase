@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/stactolaema-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/613634836
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613634836/original.jpg
+images:
+- file: images/piciformes/lybiidae/stactolaema-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/613634836
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613634836/original.jpg
+- file: images/piciformes/lybiidae/stactolaema-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/634716523
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634716523/original.jpg
+- file: images/piciformes/lybiidae/stactolaema-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/619851235
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851235/original.jpg
+- file: images/piciformes/lybiidae/stactolaema-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/619851233
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851233/original.jpg
+- file: images/piciformes/lybiidae/stactolaema-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/619851251
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851251/original.jpg
 ---
 
 

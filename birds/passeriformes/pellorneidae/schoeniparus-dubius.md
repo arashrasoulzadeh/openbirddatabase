@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/schoeniparus-dubius/1.jpg
+  page: https://www.inaturalist.org/photos/722392561
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722392561/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/schoeniparus-dubius/1.jpg
+  page: https://www.inaturalist.org/photos/722392561
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722392561/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-dubius/2.jpg
+  page: https://www.inaturalist.org/photos/479298959
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479298959/original.jpeg
+- file: images/passeriformes/pellorneidae/schoeniparus-dubius/3.jpg
+  page: https://www.inaturalist.org/photos/484426334
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484426334/original.jpeg
+- file: images/passeriformes/pellorneidae/schoeniparus-dubius/4.jpg
+  page: https://www.inaturalist.org/photos/557929554
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557929554/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-dubius/5.jpg
+  page: https://www.inaturalist.org/photos/587705733
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587705733/original.jpg
 ---
 
 

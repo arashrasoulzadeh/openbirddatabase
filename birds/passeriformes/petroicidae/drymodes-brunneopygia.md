@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/petroicidae/drymodes-brunneopygia/1.jpg
+  page: https://www.inaturalist.org/photos/613810082
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613810082/original.jpg
+images:
+- file: images/passeriformes/petroicidae/drymodes-brunneopygia/1.jpg
+  page: https://www.inaturalist.org/photos/613810082
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613810082/original.jpg
+- file: images/passeriformes/petroicidae/drymodes-brunneopygia/2.jpg
+  page: https://www.inaturalist.org/photos/708920547
+  author: Connor Margetts
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708920547/original.jpg
+- file: images/passeriformes/petroicidae/drymodes-brunneopygia/3.jpg
+  page: https://www.inaturalist.org/photos/469840131
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469840131/original.jpeg
+- file: images/passeriformes/petroicidae/drymodes-brunneopygia/4.jpg
+  page: https://www.inaturalist.org/photos/488223748
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488223748/original.jpeg
+- file: images/passeriformes/petroicidae/drymodes-brunneopygia/5.jpg
+  page: https://www.inaturalist.org/photos/483725471
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483725471/original.jpeg
 ---
 
 

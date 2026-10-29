@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/parulidae/setophaga-pinus/1.jpg
+  page: https://www.inaturalist.org/photos/605679335
+  author: Ken Kneidel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605679335/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-pinus/1.jpg
+  page: https://www.inaturalist.org/photos/605679335
+  author: Ken Kneidel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605679335/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pinus/2.jpg
+  page: https://www.inaturalist.org/photos/605363245
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605363245/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pinus/3.jpg
+  page: https://www.inaturalist.org/photos/604874513
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604874513/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pinus/4.jpg
+  page: https://www.inaturalist.org/photos/604837792
+  author: cft
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604837792/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pinus/5.jpg
+  page: https://www.inaturalist.org/photos/604775738
+  author: Anne P
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604775738/original.jpg
 ---
 
 

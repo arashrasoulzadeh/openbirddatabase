@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/charadriiformes/alcidae/uria-lomvia/1.jpg
+  page: https://www.inaturalist.org/photos/606753739
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606753739/original.jpg
+images:
+- file: images/charadriiformes/alcidae/uria-lomvia/1.jpg
+  page: https://www.inaturalist.org/photos/606753739
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606753739/original.jpg
+- file: images/charadriiformes/alcidae/uria-lomvia/2.jpg
+  page: https://www.inaturalist.org/photos/615881083
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615881083/original.jpg
+- file: images/charadriiformes/alcidae/uria-lomvia/3.jpg
+  page: https://www.inaturalist.org/photos/623873984
+  author: Court Harding
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623873984/original.jpg
+- file: images/charadriiformes/alcidae/uria-lomvia/4.jpg
+  page: https://www.inaturalist.org/photos/670715643
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670715643/original.jpg
+- file: images/charadriiformes/alcidae/uria-lomvia/5.jpg
+  page: https://www.inaturalist.org/photos/677426758
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677426758/original.jpg
 ---
 
 

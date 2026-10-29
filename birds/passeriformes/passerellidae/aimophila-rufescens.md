@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/aimophila-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/611798740
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611798740/original.jpg
+images:
+- file: images/passeriformes/passerellidae/aimophila-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/611798740
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611798740/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-rufescens/2.jpg
+  page: https://www.inaturalist.org/photos/617028646
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617028646/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-rufescens/3.jpg
+  page: https://www.inaturalist.org/photos/699963623
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699963623/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-rufescens/4.jpg
+  page: https://www.inaturalist.org/photos/738048435
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738048435/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-rufescens/5.jpg
+  page: https://www.inaturalist.org/photos/742345816
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742345816/original.jpg
 ---
 
 

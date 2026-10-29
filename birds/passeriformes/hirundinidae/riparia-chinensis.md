@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/riparia-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/661158342
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661158342/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/riparia-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/661158342
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661158342/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-chinensis/2.jpg
+  page: https://www.inaturalist.org/photos/687789184
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687789184/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-chinensis/3.jpg
+  page: https://www.inaturalist.org/photos/698584304
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698584304/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-chinensis/4.jpg
+  page: https://www.inaturalist.org/photos/736980882
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736980882/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-chinensis/5.jpg
+  page: https://www.inaturalist.org/photos/465528222
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465528222/original.jpeg
 ---
 
 

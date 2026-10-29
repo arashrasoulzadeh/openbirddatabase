@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/galliformes/phasianidae/alectoris-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/605071069
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605071069/original.jpg
+images:
+- file: images/galliformes/phasianidae/alectoris-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/605071069
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605071069/original.jpg
+- file: images/galliformes/phasianidae/alectoris-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/604516969
+  author: Chris walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604516969/original.jpg
+- file: images/galliformes/phasianidae/alectoris-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/605625275
+  author: Andy Steele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605625275/original.jpg
+- file: images/galliformes/phasianidae/alectoris-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/610684815
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610684815/original.jpg
+- file: images/galliformes/phasianidae/alectoris-rufa/5.jpg
+  page: https://www.inaturalist.org/photos/606883548
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606883548/original.jpg
 ---
 
 

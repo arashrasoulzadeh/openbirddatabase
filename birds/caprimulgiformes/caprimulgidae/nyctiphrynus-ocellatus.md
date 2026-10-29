@@ -152,8 +152,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/nyctiphrynus-ocellatus/1.jpg
+  page: https://www.inaturalist.org/photos/622235805
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622235805/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/nyctiphrynus-ocellatus/1.jpg
+  page: https://www.inaturalist.org/photos/622235805
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622235805/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctiphrynus-ocellatus/2.jpg
+  page: https://www.inaturalist.org/photos/552151116
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552151116/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctiphrynus-ocellatus/3.jpg
+  page: https://www.inaturalist.org/photos/333385023
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333385023/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/nyctiphrynus-ocellatus/4.jpg
+  page: https://www.inaturalist.org/photos/251606601
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251606601/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/nyctiphrynus-ocellatus/5.jpg
+  page: https://www.inaturalist.org/photos/241598568
+  author: Hemminki Johan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241598568/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/automolus-infuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/26763705
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26763705/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/automolus-infuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/26763705
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26763705/original.jpeg
+- file: images/passeriformes/furnariidae/automolus-infuscatus/2.jpg
+  page: https://www.inaturalist.org/photos/158467260
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158467260/original.jpeg
+- file: images/passeriformes/furnariidae/automolus-infuscatus/3.jpg
+  page: https://www.inaturalist.org/photos/26763715
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26763715/original.jpeg
+- file: images/passeriformes/furnariidae/automolus-infuscatus/4.jpg
+  page: https://www.inaturalist.org/photos/26763723
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26763723/original.jpeg
+- file: images/passeriformes/furnariidae/automolus-infuscatus/5.jpg
+  page: https://www.inaturalist.org/photos/26763743
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26763743/original.jpeg
 ---
 
 

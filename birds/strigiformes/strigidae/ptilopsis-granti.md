@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ptilopsis-granti/1.jpg
+  page: https://www.inaturalist.org/photos/739297235
+  author: Karlo Ostojcic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739297235/original.jpg
+images:
+- file: images/strigiformes/strigidae/ptilopsis-granti/1.jpg
+  page: https://www.inaturalist.org/photos/739297235
+  author: Karlo Ostojcic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739297235/original.jpg
+- file: images/strigiformes/strigidae/ptilopsis-granti/2.jpg
+  page: https://www.inaturalist.org/photos/554324558
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554324558/original.jpg
+- file: images/strigiformes/strigidae/ptilopsis-granti/3.jpg
+  page: https://www.inaturalist.org/photos/600246724
+  author: mjones76
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600246724/original.jpg
+- file: images/strigiformes/strigidae/ptilopsis-granti/4.jpg
+  page: https://www.inaturalist.org/photos/351393659
+  author: Francois Wessels
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351393659/original.jpeg
+- file: images/strigiformes/strigidae/ptilopsis-granti/5.jpg
+  page: https://www.inaturalist.org/photos/375620839
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375620839/original.jpg
 ---
 
 

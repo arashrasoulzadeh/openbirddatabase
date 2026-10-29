@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/caloperdix-oculeus/1.jpg
+  page: https://www.inaturalist.org/photos/705167745
+  author: Thomas Gyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705167745/original.jpg
+images:
+- file: images/galliformes/phasianidae/caloperdix-oculeus/1.jpg
+  page: https://www.inaturalist.org/photos/705167745
+  author: Thomas Gyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705167745/original.jpg
+- file: images/galliformes/phasianidae/caloperdix-oculeus/2.jpg
+  page: https://www.inaturalist.org/photos/466547362
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466547362/original.jpeg
+- file: images/galliformes/phasianidae/caloperdix-oculeus/3.jpg
+  page: https://www.inaturalist.org/photos/575001509
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575001509/original.jpg
+- file: images/galliformes/phasianidae/caloperdix-oculeus/4.jpg
+  page: https://www.inaturalist.org/photos/523149001
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523149001/original.jpg
+- file: images/galliformes/phasianidae/caloperdix-oculeus/5.jpg
+  page: https://www.inaturalist.org/photos/445083628
+  author: 許慶棠Ray
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445083628/original.jpeg
 ---
 
 

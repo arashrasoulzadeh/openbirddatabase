@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/syrmaticus-humiae/1.jpg
+  page: https://www.inaturalist.org/photos/609861322
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609861322/original.jpg
+images:
+- file: images/galliformes/phasianidae/syrmaticus-humiae/1.jpg
+  page: https://www.inaturalist.org/photos/609861322
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609861322/original.jpg
+- file: images/galliformes/phasianidae/syrmaticus-humiae/2.jpg
+  page: https://www.inaturalist.org/photos/626416042
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626416042/original.jpg
+- file: images/galliformes/phasianidae/syrmaticus-humiae/3.jpg
+  page: https://www.inaturalist.org/photos/625716786
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625716786/original.jpg
+- file: images/galliformes/phasianidae/syrmaticus-humiae/4.jpg
+  page: https://www.inaturalist.org/photos/468778756
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468778756/original.jpeg
+- file: images/galliformes/phasianidae/syrmaticus-humiae/5.jpg
+  page: https://www.inaturalist.org/photos/528611664
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528611664/original.jpg
 ---
 
 

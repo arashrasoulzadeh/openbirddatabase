@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/phoeniculidae/rhinopomastus-castaneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/552113430
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552113430/original.jpg
+images:
+- file: images/bucerotiformes/phoeniculidae/rhinopomastus-castaneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/552113430
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552113430/original.jpg
+- file: images/bucerotiformes/phoeniculidae/rhinopomastus-castaneiceps/2.jpg
+  page: https://www.inaturalist.org/photos/552113444
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552113444/original.jpg
+- file: images/bucerotiformes/phoeniculidae/rhinopomastus-castaneiceps/3.jpg
+  page: https://www.inaturalist.org/photos/552113455
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552113455/original.jpg
+- file: images/bucerotiformes/phoeniculidae/rhinopomastus-castaneiceps/4.jpg
+  page: https://www.inaturalist.org/photos/557873389
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557873389/original.jpg
+- file: images/bucerotiformes/phoeniculidae/rhinopomastus-castaneiceps/5.jpg
+  page: https://www.inaturalist.org/photos/557873390
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557873390/original.jpg
 ---
 
 

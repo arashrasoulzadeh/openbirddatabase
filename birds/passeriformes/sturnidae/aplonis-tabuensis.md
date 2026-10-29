@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/aplonis-tabuensis/1.jpg
+  page: https://www.inaturalist.org/photos/700408369
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700408369/original.jpg
+images:
+- file: images/passeriformes/sturnidae/aplonis-tabuensis/1.jpg
+  page: https://www.inaturalist.org/photos/700408369
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700408369/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-tabuensis/2.jpg
+  page: https://www.inaturalist.org/photos/728667254
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728667254/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-tabuensis/3.jpg
+  page: https://www.inaturalist.org/photos/354705899
+  author: Shelomi Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354705899/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-tabuensis/4.jpg
+  page: https://www.inaturalist.org/photos/443498090
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443498090/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-tabuensis/5.jpg
+  page: https://www.inaturalist.org/photos/332284830
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332284830/original.jpg
 ---
 
 

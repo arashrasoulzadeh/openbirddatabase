@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/schoeniparus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/644729718
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644729718/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/schoeniparus-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/644729718
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644729718/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/507974367
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507974367/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/364925074
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364925074/original.jpeg
+- file: images/passeriformes/pellorneidae/schoeniparus-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/395651164
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651164/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/207206737
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207206737/original.jpg
 ---
 
 

@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/phoenicurus-erythronotus/1.jpg
+  page: https://www.inaturalist.org/photos/609146439
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609146439/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/phoenicurus-erythronotus/1.jpg
+  page: https://www.inaturalist.org/photos/609146439
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609146439/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-erythronotus/2.jpg
+  page: https://www.inaturalist.org/photos/631097856
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631097856/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-erythronotus/3.jpg
+  page: https://www.inaturalist.org/photos/478997918
+  author: kirinzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478997918/original.jpeg
+- file: images/passeriformes/muscicapidae/phoenicurus-erythronotus/4.jpg
+  page: https://www.inaturalist.org/photos/609146428
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609146428/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-erythronotus/5.jpg
+  page: https://www.inaturalist.org/photos/631097844
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631097844/original.jpg
 ---
 
 

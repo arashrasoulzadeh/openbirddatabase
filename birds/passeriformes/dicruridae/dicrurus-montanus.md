@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/724498225
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724498225/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/724498225
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724498225/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-montanus/2.jpg
+  page: https://www.inaturalist.org/photos/300367226
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/300367226/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-montanus/3.jpg
+  page: https://www.inaturalist.org/photos/309569060
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309569060/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-montanus/4.jpg
+  page: https://www.inaturalist.org/photos/229672426
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/229672426/original.jpeg
+- file: images/passeriformes/dicruridae/dicrurus-montanus/5.jpg
+  page: https://www.inaturalist.org/photos/64408230
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408230/original.jpg
 ---
 
 

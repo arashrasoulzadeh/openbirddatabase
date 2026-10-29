@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/thalasseus-albididorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/716765641
+  author: Philipp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716765641/original.jpg
+images:
+- file: images/charadriiformes/laridae/thalasseus-albididorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/716765641
+  author: Philipp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716765641/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-albididorsalis/2.jpg
+  page: https://www.inaturalist.org/photos/471995525
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471995525/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-albididorsalis/3.jpg
+  page: https://www.inaturalist.org/photos/479222470
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479222470/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-albididorsalis/4.jpg
+  page: https://www.inaturalist.org/photos/482714764
+  author: Demian Hiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482714764/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-albididorsalis/5.jpg
+  page: https://www.inaturalist.org/photos/477014962
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477014962/original.jpeg
 ---
 
 

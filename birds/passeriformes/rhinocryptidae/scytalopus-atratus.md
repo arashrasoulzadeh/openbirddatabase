@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-atratus/1.jpg
+  page: https://www.inaturalist.org/photos/558945596
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558945596/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-atratus/1.jpg
+  page: https://www.inaturalist.org/photos/558945596
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558945596/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-atratus/2.jpg
+  page: https://www.inaturalist.org/photos/625874978
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625874978/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-atratus/3.jpg
+  page: https://www.inaturalist.org/photos/416383423
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416383423/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-atratus/4.jpg
+  page: https://www.inaturalist.org/photos/237335594
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/237335594/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-atratus/5.jpg
+  page: https://www.inaturalist.org/photos/299013903
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/299013903/original.jpg
 ---
 
 

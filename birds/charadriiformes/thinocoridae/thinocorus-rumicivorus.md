@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/thinocoridae/thinocorus-rumicivorus/1.jpg
+  page: https://www.inaturalist.org/photos/615792294
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792294/original.jpg
+images:
+- file: images/charadriiformes/thinocoridae/thinocorus-rumicivorus/1.jpg
+  page: https://www.inaturalist.org/photos/615792294
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792294/original.jpg
+- file: images/charadriiformes/thinocoridae/thinocorus-rumicivorus/2.jpg
+  page: https://www.inaturalist.org/photos/632627794
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632627794/original.jpg
+- file: images/charadriiformes/thinocoridae/thinocorus-rumicivorus/3.jpg
+  page: https://www.inaturalist.org/photos/637516636
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637516636/original.jpg
+- file: images/charadriiformes/thinocoridae/thinocorus-rumicivorus/4.jpg
+  page: https://www.inaturalist.org/photos/719993595
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719993595/original.jpg
+- file: images/charadriiformes/thinocoridae/thinocorus-rumicivorus/5.jpg
+  page: https://www.inaturalist.org/photos/697539357
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697539357/original.jpg
 ---
 
 

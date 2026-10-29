@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/lissotis-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/684007368
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684007368/original.jpg
+images:
+- file: images/otidiformes/otididae/lissotis-melanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/684007368
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684007368/original.jpg
+- file: images/otidiformes/otididae/lissotis-melanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/688490064
+  author: WaterGoat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688490064/original.jpg
+- file: images/otidiformes/otididae/lissotis-melanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/631119949
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631119949/original.jpg
+- file: images/otidiformes/otididae/lissotis-melanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/731808488
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731808488/original.jpg
+- file: images/otidiformes/otididae/lissotis-melanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/722042844
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722042844/original.jpg
 ---
 
 

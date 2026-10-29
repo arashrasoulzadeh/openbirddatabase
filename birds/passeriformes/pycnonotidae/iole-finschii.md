@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/iole-finschii/1.jpg
+  page: https://www.inaturalist.org/photos/572077663
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077663/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/iole-finschii/1.jpg
+  page: https://www.inaturalist.org/photos/572077663
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077663/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-finschii/2.jpg
+  page: https://www.inaturalist.org/photos/114832906
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114832906/original.jpeg
+- file: images/passeriformes/pycnonotidae/iole-finschii/3.jpg
+  page: https://www.inaturalist.org/photos/739268429
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739268429/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-finschii/4.jpg
+  page: https://www.inaturalist.org/photos/547323835
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547323835/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-finschii/5.jpg
+  page: https://www.inaturalist.org/photos/739268468
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739268468/original.jpg
 ---
 
 

@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/clamator-glandarius/1.jpg
+  page: https://www.inaturalist.org/photos/615677936
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615677936/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/clamator-glandarius/1.jpg
+  page: https://www.inaturalist.org/photos/615677936
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615677936/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-glandarius/2.jpg
+  page: https://www.inaturalist.org/photos/619768563
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619768563/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-glandarius/3.jpg
+  page: https://www.inaturalist.org/photos/618940846
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618940846/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-glandarius/4.jpg
+  page: https://www.inaturalist.org/photos/726369558
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726369558/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-glandarius/5.jpg
+  page: https://www.inaturalist.org/photos/615677937
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615677937/original.jpg
 ---
 
 

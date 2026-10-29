@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/corvidae/nucifraga-columbiana/1.jpg
+  page: https://www.inaturalist.org/photos/605180180
+  author: Hunter Hickok
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180180/original.jpg
+images:
+- file: images/passeriformes/corvidae/nucifraga-columbiana/1.jpg
+  page: https://www.inaturalist.org/photos/605180180
+  author: Hunter Hickok
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180180/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-columbiana/2.jpg
+  page: https://www.inaturalist.org/photos/611770284
+  author: scottj800
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611770284/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-columbiana/3.jpg
+  page: https://www.inaturalist.org/photos/611144053
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611144053/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-columbiana/4.jpg
+  page: https://www.inaturalist.org/photos/612249764
+  author: Bailey Duncan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612249764/original.jpg
+- file: images/passeriformes/corvidae/nucifraga-columbiana/5.jpg
+  page: https://www.inaturalist.org/photos/614212632
+  author: Callisto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614212632/original.jpg
 ---
 
 

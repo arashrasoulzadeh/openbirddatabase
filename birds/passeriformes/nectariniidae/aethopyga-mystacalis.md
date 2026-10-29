@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/627860497
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627860497/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/627860497
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627860497/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-mystacalis/2.jpg
+  page: https://www.inaturalist.org/photos/536376193
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536376193/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-mystacalis/3.jpg
+  page: https://www.inaturalist.org/photos/102189
+  author: Firman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102189/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-mystacalis/4.jpg
+  page: https://www.inaturalist.org/photos/627860514
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627860514/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-mystacalis/5.jpg
+  page: https://www.inaturalist.org/photos/627860541
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627860541/original.jpg
 ---
 
 

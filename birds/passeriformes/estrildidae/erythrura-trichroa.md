@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/erythrura-trichroa/1.jpg
+  page: https://www.inaturalist.org/photos/703067938
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067938/original.jpg
+images:
+- file: images/passeriformes/estrildidae/erythrura-trichroa/1.jpg
+  page: https://www.inaturalist.org/photos/703067938
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703067938/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-trichroa/2.jpg
+  page: https://www.inaturalist.org/photos/415950379
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/415950379/original.jpeg
+- file: images/passeriformes/estrildidae/erythrura-trichroa/3.jpg
+  page: https://www.inaturalist.org/photos/115000596
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/115000596/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-trichroa/4.jpg
+  page: https://www.inaturalist.org/photos/336720808
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336720808/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-trichroa/5.jpg
+  page: https://www.inaturalist.org/photos/82239808
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82239808/original.jpg
 ---
 
 

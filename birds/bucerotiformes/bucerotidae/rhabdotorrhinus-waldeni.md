@@ -133,8 +133,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-waldeni/1.jpg
+  page: https://www.inaturalist.org/photos/637888778
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888778/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-waldeni/1.jpg
+  page: https://www.inaturalist.org/photos/637888778
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888778/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-waldeni/2.jpg
+  page: https://www.inaturalist.org/photos/637888740
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888740/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-waldeni/3.jpg
+  page: https://www.inaturalist.org/photos/637888739
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888739/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-waldeni/4.jpg
+  page: https://www.inaturalist.org/photos/637888766
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888766/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhabdotorrhinus-waldeni/5.jpg
+  page: https://www.inaturalist.org/photos/637888776
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888776/original.jpg
 ---
 
 

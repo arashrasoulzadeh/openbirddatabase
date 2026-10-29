@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/petroicidae/eopsaltria-australis/1.jpg
+  page: https://www.inaturalist.org/photos/605303396
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303396/original.jpg
+images:
+- file: images/passeriformes/petroicidae/eopsaltria-australis/1.jpg
+  page: https://www.inaturalist.org/photos/605303396
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303396/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-australis/2.jpg
+  page: https://www.inaturalist.org/photos/605258685
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605258685/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-australis/3.jpg
+  page: https://www.inaturalist.org/photos/610910479
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610910479/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-australis/4.jpg
+  page: https://www.inaturalist.org/photos/607281032
+  author: Dylan Wishart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607281032/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-australis/5.jpg
+  page: https://www.inaturalist.org/photos/609120505
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609120505/original.jpg
 ---
 
 

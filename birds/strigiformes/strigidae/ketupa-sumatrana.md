@@ -123,8 +123,47 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/strigiformes/strigidae/ketupa-sumatrana/1.jpg
+  page: https://www.inaturalist.org/photos/686440895
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686440895/original.jpg
+images:
+- file: images/strigiformes/strigidae/ketupa-sumatrana/1.jpg
+  page: https://www.inaturalist.org/photos/686440895
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686440895/original.jpg
+- file: images/strigiformes/strigidae/ketupa-sumatrana/2.jpg
+  page: https://www.inaturalist.org/photos/721227264
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721227264/original.jpg
+- file: images/strigiformes/strigidae/ketupa-sumatrana/3.jpg
+  page: https://www.inaturalist.org/photos/530373280
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530373280/original.jpg
+- file: images/strigiformes/strigidae/ketupa-sumatrana/4.jpg
+  page: https://www.inaturalist.org/photos/686444110
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686444110/original.jpg
+- file: images/strigiformes/strigidae/ketupa-sumatrana/5.jpg
+  page: https://www.inaturalist.org/photos/686448637
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686448637/original.jpg
 ---
 
 

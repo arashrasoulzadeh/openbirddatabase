@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-rupicola/1.jpg
+  page: https://www.inaturalist.org/photos/521009016
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521009016/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-rupicola/1.jpg
+  page: https://www.inaturalist.org/photos/521009016
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521009016/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-rupicola/2.jpg
+  page: https://www.inaturalist.org/photos/532660220
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532660220/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-rupicola/3.jpg
+  page: https://www.inaturalist.org/photos/424609068
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424609068/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-rupicola/4.jpg
+  page: https://www.inaturalist.org/photos/213041655
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/213041655/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-rupicola/5.jpg
+  page: https://www.inaturalist.org/photos/169666373
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/169666373/original.jpg
 ---
 
 

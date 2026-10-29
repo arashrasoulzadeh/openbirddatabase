@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/eumyias-thalassinus/1.jpg
+  page: https://www.inaturalist.org/photos/608292318
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608292318/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/eumyias-thalassinus/1.jpg
+  page: https://www.inaturalist.org/photos/608292318
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608292318/original.jpg
+- file: images/passeriformes/muscicapidae/eumyias-thalassinus/2.jpg
+  page: https://www.inaturalist.org/photos/609188873
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188873/original.jpg
+- file: images/passeriformes/muscicapidae/eumyias-thalassinus/3.jpg
+  page: https://www.inaturalist.org/photos/610699866
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610699866/original.jpg
+- file: images/passeriformes/muscicapidae/eumyias-thalassinus/4.jpg
+  page: https://www.inaturalist.org/photos/610384488
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610384488/original.jpg
+- file: images/passeriformes/muscicapidae/eumyias-thalassinus/5.jpg
+  page: https://www.inaturalist.org/photos/609707616
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609707616/original.jpg
 ---
 
 

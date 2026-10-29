@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/actenoides-lindsayi/1.jpg
+  page: https://www.inaturalist.org/photos/684138852
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684138852/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/actenoides-lindsayi/1.jpg
+  page: https://www.inaturalist.org/photos/684138852
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684138852/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-lindsayi/2.jpg
+  page: https://www.inaturalist.org/photos/380959077
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380959077/original.jpeg
+- file: images/coraciiformes/alcedinidae/actenoides-lindsayi/3.jpg
+  page: https://www.inaturalist.org/photos/455888362
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455888362/original.jpeg
+- file: images/coraciiformes/alcedinidae/actenoides-lindsayi/4.jpg
+  page: https://www.inaturalist.org/photos/35695600
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/35695600/original.jpeg
+- file: images/coraciiformes/alcedinidae/actenoides-lindsayi/5.jpg
+  page: https://www.inaturalist.org/photos/684138900
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684138900/original.jpg
 ---
 
 

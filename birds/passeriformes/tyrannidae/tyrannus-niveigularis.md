@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-niveigularis/1.jpg
+  page: https://www.inaturalist.org/photos/621908297
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621908297/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-niveigularis/1.jpg
+  page: https://www.inaturalist.org/photos/621908297
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621908297/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-niveigularis/2.jpg
+  page: https://www.inaturalist.org/photos/482840262
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482840262/original.png
+- file: images/passeriformes/tyrannidae/tyrannus-niveigularis/3.jpg
+  page: https://www.inaturalist.org/photos/559551353
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559551353/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-niveigularis/4.jpg
+  page: https://www.inaturalist.org/photos/461918133
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461918133/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-niveigularis/5.jpg
+  page: https://www.inaturalist.org/photos/457520536
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457520536/original.jpg
 ---
 
 

@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/lurocalis-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/351434983
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351434983/original.jpeg
+images:
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/351434983
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351434983/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-rufiventris/2.jpg
+  page: https://www.inaturalist.org/photos/199233597
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199233597/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-rufiventris/3.jpg
+  page: https://www.inaturalist.org/photos/163569816
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163569816/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-rufiventris/4.jpg
+  page: https://www.inaturalist.org/photos/351434990
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351434990/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/lurocalis-rufiventris/5.jpg
+  page: https://www.inaturalist.org/photos/163569821
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163569821/original.jpeg
 ---
 
 

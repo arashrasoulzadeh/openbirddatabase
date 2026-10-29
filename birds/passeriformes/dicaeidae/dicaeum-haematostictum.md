@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-haematostictum/1.jpg
+  page: https://www.inaturalist.org/photos/637888459
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888459/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-haematostictum/1.jpg
+  page: https://www.inaturalist.org/photos/637888459
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888459/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-haematostictum/2.jpg
+  page: https://www.inaturalist.org/photos/644197686
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644197686/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-haematostictum/3.jpg
+  page: https://www.inaturalist.org/photos/644197869
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644197869/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-haematostictum/4.jpg
+  page: https://www.inaturalist.org/photos/643613992
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643613992/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-haematostictum/5.jpg
+  page: https://www.inaturalist.org/photos/209133506
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/209133506/original.jpg
 ---
 
 

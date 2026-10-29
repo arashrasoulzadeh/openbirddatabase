@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-breweri/1.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222257014842172002
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732869/original.JPG
+images:
+- file: images/coraciiformes/meropidae/merops-breweri/1.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222257014842172002
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732869/original.JPG
+- file: images/coraciiformes/meropidae/merops-breweri/2.jpg
+  page: https://www.inaturalist.org/photos/106015164
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106015164/original.jpg
+- file: images/coraciiformes/meropidae/merops-breweri/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222257145600497618
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732870/original.JPG
+- file: images/coraciiformes/meropidae/merops-breweri/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222257353084895042
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732871/original.JPG
+- file: images/coraciiformes/meropidae/merops-breweri/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222251005476771586
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732594/original.JPG
 ---
 
 

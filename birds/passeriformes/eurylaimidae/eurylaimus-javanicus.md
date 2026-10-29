@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/eurylaimidae/eurylaimus-javanicus/1.jpg
+  page: https://www.inaturalist.org/photos/612615638
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612615638/original.jpg
+images:
+- file: images/passeriformes/eurylaimidae/eurylaimus-javanicus/1.jpg
+  page: https://www.inaturalist.org/photos/612615638
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612615638/original.jpg
+- file: images/passeriformes/eurylaimidae/eurylaimus-javanicus/2.jpg
+  page: https://www.inaturalist.org/photos/616239207
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616239207/original.jpg
+- file: images/passeriformes/eurylaimidae/eurylaimus-javanicus/3.jpg
+  page: https://www.inaturalist.org/photos/618416462
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618416462/original.jpg
+- file: images/passeriformes/eurylaimidae/eurylaimus-javanicus/4.jpg
+  page: https://www.inaturalist.org/photos/631597135
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631597135/original.jpg
+- file: images/passeriformes/eurylaimidae/eurylaimus-javanicus/5.jpg
+  page: https://www.inaturalist.org/photos/627601288
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627601288/original.jpg
 ---
 
 

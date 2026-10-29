@@ -149,8 +149,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-jugger/1.jpg
+  page: https://www.inaturalist.org/photos/472532692
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472532692/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-jugger/1.jpg
+  page: https://www.inaturalist.org/photos/472532692
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472532692/original.jpg
+- file: images/falconiformes/falconidae/falco-jugger/2.jpg
+  page: https://www.inaturalist.org/photos/63647219
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63647219/original.jpg
+- file: images/falconiformes/falconidae/falco-jugger/3.jpg
+  page: https://www.inaturalist.org/photos/109141921
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109141921/original.jpg
+- file: images/falconiformes/falconidae/falco-jugger/4.jpg
+  page: https://www.inaturalist.org/photos/63647222
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63647222/original.jpg
 ---
 
 

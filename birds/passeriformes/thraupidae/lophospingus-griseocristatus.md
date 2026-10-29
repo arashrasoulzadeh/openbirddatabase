@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/lophospingus-griseocristatus/1.jpg
+  page: https://www.inaturalist.org/photos/651475937
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651475937/original.jpg
+images:
+- file: images/passeriformes/thraupidae/lophospingus-griseocristatus/1.jpg
+  page: https://www.inaturalist.org/photos/651475937
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651475937/original.jpg
+- file: images/passeriformes/thraupidae/lophospingus-griseocristatus/2.jpg
+  page: https://www.inaturalist.org/photos/582148639
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582148639/original.jpg
+- file: images/passeriformes/thraupidae/lophospingus-griseocristatus/3.jpg
+  page: https://www.inaturalist.org/photos/374889930
+  author: Erick R. Zeballos Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/374889930/original.jpg
+- file: images/passeriformes/thraupidae/lophospingus-griseocristatus/4.jpg
+  page: https://www.inaturalist.org/photos/420895979
+  author: Sol Quipildor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420895979/original.jpeg
+- file: images/passeriformes/thraupidae/lophospingus-griseocristatus/5.jpg
+  page: https://www.inaturalist.org/photos/177254998
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177254998/original.jpeg
 ---
 
 

@@ -128,7 +128,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 39.6
@@ -143,6 +144,44 @@ reproduction:
   broods_per_year: 2
   incubation_days: 24
   fledging_days: 42
+image:
+  file: images/charadriiformes/laridae/chroicocephalus-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/604670970
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604670970/original.jpg
+images:
+- file: images/charadriiformes/laridae/chroicocephalus-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/604670970
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604670970/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/605263119
+  author: Terra Occ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605263119/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/605298864
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605298864/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/604659496
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604659496/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/605240050
+  author: Dan Riskin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605240050/original.jpg
 ---
 
 

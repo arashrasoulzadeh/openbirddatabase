@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/ciconiiformes/ciconiidae/ciconia-abdimii/1.jpg
+  page: https://www.flickr.com/photos/berniedup/55059484476/
+  author: Bernard DUPONT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610683938/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/ciconia-abdimii/1.jpg
+  page: https://www.flickr.com/photos/berniedup/55059484476/
+  author: Bernard DUPONT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610683938/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-abdimii/2.jpg
+  page: https://www.inaturalist.org/photos/682103080
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682103080/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-abdimii/3.jpg
+  page: https://www.inaturalist.org/photos/707943169
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707943169/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-abdimii/4.jpg
+  page: https://www.inaturalist.org/photos/636199606
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636199606/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-abdimii/5.jpg
+  page: https://www.flickr.com/photos/berniedup/55059733179/
+  author: Bernard DUPONT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610684149/original.jpg
 ---
 
 

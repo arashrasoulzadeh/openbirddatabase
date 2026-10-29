@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-cyanopogon/1.jpg
+  page: https://www.inaturalist.org/photos/607116471
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116471/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-cyanopogon/1.jpg
+  page: https://www.inaturalist.org/photos/607116471
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116471/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-cyanopogon/2.jpg
+  page: https://www.inaturalist.org/photos/619767264
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619767264/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-cyanopogon/3.jpg
+  page: https://www.inaturalist.org/photos/474785267
+  author: Joss Carr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474785267/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-cyanopogon/4.jpg
+  page: https://www.inaturalist.org/photos/490922009
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490922009/original.jpeg
+- file: images/passeriformes/chloropseidae/chloropsis-cyanopogon/5.jpg
+  page: https://www.inaturalist.org/photos/525701621
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525701621/original.jpg
 ---
 
 

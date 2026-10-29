@@ -152,8 +152,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-hardwickii/1.jpg
+  page: https://www.inaturalist.org/photos/605368506
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605368506/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-hardwickii/1.jpg
+  page: https://www.inaturalist.org/photos/605368506
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605368506/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-hardwickii/2.jpg
+  page: https://www.inaturalist.org/photos/604410816
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604410816/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-hardwickii/3.jpg
+  page: https://www.inaturalist.org/photos/611836124
+  author: Moss Hepworth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611836124/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-hardwickii/4.jpg
+  page: https://www.inaturalist.org/photos/611836144
+  author: Moss Hepworth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611836144/original.jpg
 ---
 
 

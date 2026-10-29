@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/procellariiformes/diomedeidae/thalassarche-bulleri/1.jpg
+  page: https://www.inaturalist.org/photos/616184083
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616184083/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/thalassarche-bulleri/1.jpg
+  page: https://www.inaturalist.org/photos/616184083
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616184083/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-bulleri/2.jpg
+  page: https://www.inaturalist.org/photos/618303203
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618303203/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-bulleri/3.jpg
+  page: https://www.inaturalist.org/photos/624947142
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624947142/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-bulleri/4.jpg
+  page: https://www.inaturalist.org/photos/629765281
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629765281/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-bulleri/5.jpg
+  page: https://www.inaturalist.org/photos/681959718
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681959718/original.jpg
 ---
 
 

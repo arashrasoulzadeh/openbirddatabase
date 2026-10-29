@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-sagittatus/1.jpg
+  page: https://www.inaturalist.org/photos/643061591
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643061591/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-sagittatus/1.jpg
+  page: https://www.inaturalist.org/photos/643061591
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643061591/original.jpg
+- file: images/strigiformes/strigidae/otus-sagittatus/2.jpg
+  page: https://www.inaturalist.org/photos/466509310
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466509310/original.jpeg
+- file: images/strigiformes/strigidae/otus-sagittatus/3.jpg
+  page: https://www.inaturalist.org/photos/468785992
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468785992/original.jpeg
+- file: images/strigiformes/strigidae/otus-sagittatus/4.jpg
+  page: https://www.inaturalist.org/photos/508662591
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508662591/original.jpg
+- file: images/strigiformes/strigidae/otus-sagittatus/5.jpg
+  page: https://www.inaturalist.org/photos/348970978
+  author: Sevin Dee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348970978/original.jpg
 ---
 
 

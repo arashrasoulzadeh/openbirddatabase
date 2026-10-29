@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/piculus-chrysochloros/1.jpg
+  page: https://www.inaturalist.org/photos/617232730
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617232730/original.jpg
+images:
+- file: images/piciformes/picidae/piculus-chrysochloros/1.jpg
+  page: https://www.inaturalist.org/photos/617232730
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617232730/original.jpg
+- file: images/piciformes/picidae/piculus-chrysochloros/2.jpg
+  page: https://www.inaturalist.org/photos/630258868
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630258868/original.jpg
+- file: images/piciformes/picidae/piculus-chrysochloros/3.jpg
+  page: https://www.inaturalist.org/photos/650302387
+  author: Raquel Mondino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650302387/original.jpg
+- file: images/piciformes/picidae/piculus-chrysochloros/4.jpg
+  page: https://www.inaturalist.org/photos/667989074
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667989074/original.jpg
+- file: images/piciformes/picidae/piculus-chrysochloros/5.jpg
+  page: https://www.inaturalist.org/photos/669495521
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669495521/original.jpg
 ---
 
 

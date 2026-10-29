@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-waltoni/1.jpg
+  page: https://www.inaturalist.org/photos/632592575
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592575/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-waltoni/1.jpg
+  page: https://www.inaturalist.org/photos/632592575
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592575/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-waltoni/2.jpg
+  page: https://www.inaturalist.org/photos/521870205
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521870205/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-waltoni/3.jpg
+  page: https://www.inaturalist.org/photos/301502211
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/301502211/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-waltoni/4.jpg
+  page: https://www.inaturalist.org/photos/367800594
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800594/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-waltoni/5.jpg
+  page: https://www.inaturalist.org/photos/347756027
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347756027/original.jpg
 ---
 
 

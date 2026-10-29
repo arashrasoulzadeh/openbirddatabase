@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-niger/1.jpg
+  page: https://www.inaturalist.org/photos/469771052
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469771052/original.jpeg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-niger/1.jpg
+  page: https://www.inaturalist.org/photos/469771052
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469771052/original.jpeg
+- file: images/passeriformes/tityridae/pachyramphus-niger/2.jpg
+  page: https://www.inaturalist.org/photos/354511478
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354511478/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-niger/3.jpg
+  page: https://www.inaturalist.org/photos/336762622
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336762622/original.jpeg
+- file: images/passeriformes/tityridae/pachyramphus-niger/4.jpg
+  page: https://www.inaturalist.org/photos/177200218
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177200218/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-niger/5.jpg
+  page: https://www.inaturalist.org/photos/215554227
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/215554227/original.jpeg
 ---
 
 

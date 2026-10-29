@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 24.8
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 126.7
   tail_length_mm: 91.1
   body_mass_g: 46.8
+image:
+  file: images/passeriformes/tyrannidae/neoxolmis-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/628479036
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628479036/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/neoxolmis-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/628479036
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628479036/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/638133043
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638133043/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/652974237
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652974237/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/670565340
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670565340/original.jpg
+- file: images/passeriformes/tyrannidae/neoxolmis-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/683871763
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683871763/original.jpg
 ---
 
 

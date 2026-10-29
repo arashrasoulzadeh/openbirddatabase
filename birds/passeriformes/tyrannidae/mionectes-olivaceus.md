@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mionectes-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/624305535
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624305535/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/mionectes-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/624305535
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624305535/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/680394532
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680394532/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/561144122
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561144122/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-olivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/357566329
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357566329/original.jpeg
+- file: images/passeriformes/tyrannidae/mionectes-olivaceus/5.jpg
+  page: https://www.inaturalist.org/photos/416330073
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416330073/original.jpg
 ---
 
 

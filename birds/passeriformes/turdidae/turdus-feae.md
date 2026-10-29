@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-feae/1.jpg
+  page: https://www.inaturalist.org/photos/610129399
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610129399/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-feae/1.jpg
+  page: https://www.inaturalist.org/photos/610129399
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610129399/original.jpg
+- file: images/passeriformes/turdidae/turdus-feae/2.jpg
+  page: https://www.inaturalist.org/photos/182169242
+  author: Sevin Dee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182169242/original.jpg
+- file: images/passeriformes/turdidae/turdus-feae/3.jpg
+  page: https://www.inaturalist.org/photos/104703577
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104703577/original.jpeg
+- file: images/passeriformes/turdidae/turdus-feae/4.jpg
+  page: https://www.inaturalist.org/photos/129255101
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129255101/original.jpg
+- file: images/passeriformes/turdidae/turdus-feae/5.jpg
+  page: https://www.inaturalist.org/photos/182169249
+  author: Sevin Dee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182169249/original.jpg
 ---
 
 

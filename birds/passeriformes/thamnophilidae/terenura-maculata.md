@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/terenura-maculata/1.jpg
+  page: https://www.inaturalist.org/photos/641150479
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150479/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/terenura-maculata/1.jpg
+  page: https://www.inaturalist.org/photos/641150479
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150479/original.jpg
+- file: images/passeriformes/thamnophilidae/terenura-maculata/2.jpg
+  page: https://www.inaturalist.org/photos/697117011
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697117011/original.jpg
+- file: images/passeriformes/thamnophilidae/terenura-maculata/3.jpg
+  page: https://www.inaturalist.org/photos/706185505
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706185505/original.jpg
+- file: images/passeriformes/thamnophilidae/terenura-maculata/4.jpg
+  page: https://www.inaturalist.org/photos/729407346
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729407346/original.jpg
+- file: images/passeriformes/thamnophilidae/terenura-maculata/5.jpg
+  page: https://www.inaturalist.org/photos/738001125
+  author: Alex Fernando
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738001125/original.jpg
 ---
 
 

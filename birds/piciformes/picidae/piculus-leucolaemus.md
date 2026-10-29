@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/piculus-leucolaemus/1.jpg
+  page: https://www.inaturalist.org/photos/444770059
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444770059/original.jpeg
+images:
+- file: images/piciformes/picidae/piculus-leucolaemus/1.jpg
+  page: https://www.inaturalist.org/photos/444770059
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444770059/original.jpeg
+- file: images/piciformes/picidae/piculus-leucolaemus/2.jpg
+  page: https://www.inaturalist.org/photos/385944154
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385944154/original.jpg
+- file: images/piciformes/picidae/piculus-leucolaemus/3.jpg
+  page: https://www.inaturalist.org/photos/321677411
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/321677411/original.jpeg
+- file: images/piciformes/picidae/piculus-leucolaemus/4.jpg
+  page: https://www.inaturalist.org/photos/249079155
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249079155/original.jpeg
+- file: images/piciformes/picidae/piculus-leucolaemus/5.jpg
+  page: https://www.inaturalist.org/photos/147481688
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/147481688/original.jpg
 ---
 
 

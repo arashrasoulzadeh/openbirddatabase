@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lophura-swinhoii/1.jpg
+  page: https://www.inaturalist.org/photos/611400143
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611400143/original.jpg
+images:
+- file: images/galliformes/phasianidae/lophura-swinhoii/1.jpg
+  page: https://www.inaturalist.org/photos/611400143
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611400143/original.jpg
+- file: images/galliformes/phasianidae/lophura-swinhoii/2.jpg
+  page: https://www.inaturalist.org/photos/617101012
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617101012/original.jpg
+- file: images/galliformes/phasianidae/lophura-swinhoii/3.jpg
+  page: https://www.inaturalist.org/photos/617102909
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617102909/original.jpg
+- file: images/galliformes/phasianidae/lophura-swinhoii/4.jpg
+  page: https://www.inaturalist.org/photos/618869595
+  author: jimmy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618869595/original.jpg
+- file: images/galliformes/phasianidae/lophura-swinhoii/5.jpg
+  page: https://www.inaturalist.org/photos/611400148
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611400148/original.jpg
 ---
 
 

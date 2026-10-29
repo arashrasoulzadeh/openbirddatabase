@@ -144,8 +144,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-hoematotis/1.jpg
+  page: https://www.inaturalist.org/photos/346121190
+  author: beto_matheus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346121190/original.jpeg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-hoematotis/1.jpg
+  page: https://www.inaturalist.org/photos/346121190
+  author: beto_matheus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346121190/original.jpeg
+- file: images/psittaciformes/psittacidae/pyrrhura-hoematotis/2.jpg
+  page: https://www.inaturalist.org/photos/399113514
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/399113514/original.jpg
 ---
 
 

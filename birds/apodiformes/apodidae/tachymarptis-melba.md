@@ -193,10 +193,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/apodiformes/apodidae/tachymarptis-melba/1.jpg
+  page: https://www.inaturalist.org/photos/607743865
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607743865/original.jpg
+images:
+- file: images/apodiformes/apodidae/tachymarptis-melba/1.jpg
+  page: https://www.inaturalist.org/photos/607743865
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607743865/original.jpg
+- file: images/apodiformes/apodidae/tachymarptis-melba/2.jpg
+  page: https://www.inaturalist.org/photos/658529974
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658529974/original.jpg
+- file: images/apodiformes/apodidae/tachymarptis-melba/3.jpg
+  page: https://www.inaturalist.org/photos/624570089
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624570089/original.jpg
+- file: images/apodiformes/apodidae/tachymarptis-melba/4.jpg
+  page: https://www.inaturalist.org/photos/625337866
+  author: José Antonio León Mangado
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625337866/original.jpg
+- file: images/apodiformes/apodidae/tachymarptis-melba/5.jpg
+  page: https://www.inaturalist.org/photos/621076035
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621076035/original.jpg
 ---
 
 

@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/edolisoma-schisticeps/1.jpg
+  page: https://www.inaturalist.org/photos/709434671
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709434671/original.jpg
+images:
+- file: images/passeriformes/campephagidae/edolisoma-schisticeps/1.jpg
+  page: https://www.inaturalist.org/photos/709434671
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709434671/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-schisticeps/2.jpg
+  page: https://www.inaturalist.org/photos/618370701
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618370701/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-schisticeps/3.jpg
+  page: https://www.inaturalist.org/photos/239210225
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239210225/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-schisticeps/4.jpg
+  page: https://www.inaturalist.org/photos/336939476
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336939476/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-schisticeps/5.jpg
+  page: https://www.inaturalist.org/photos/709434669
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709434669/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-castanops/1.jpg
+  page: https://www.inaturalist.org/photos/723226726
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723226726/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-castanops/1.jpg
+  page: https://www.inaturalist.org/photos/723226726
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723226726/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-castanops/2.jpg
+  page: https://www.inaturalist.org/photos/589805924
+  author: Haley Gladitsch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589805924/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-castanops/3.jpg
+  page: https://www.inaturalist.org/photos/548429807
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548429807/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-castanops/4.jpg
+  page: https://www.inaturalist.org/photos/560204852
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560204852/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-castanops/5.jpg
+  page: https://www.inaturalist.org/photos/354049352
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354049352/original.jpg
 ---
 
 

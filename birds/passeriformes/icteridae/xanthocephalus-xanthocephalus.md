@@ -154,10 +154,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/icteridae/xanthocephalus-xanthocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/615125118
+  author: Emerson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615125118/original.jpg
+images:
+- file: images/passeriformes/icteridae/xanthocephalus-xanthocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/615125118
+  author: Emerson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615125118/original.jpg
+- file: images/passeriformes/icteridae/xanthocephalus-xanthocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/617911922
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617911922/original.jpg
+- file: images/passeriformes/icteridae/xanthocephalus-xanthocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/615125116
+  author: Emerson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615125116/original.jpg
+- file: images/passeriformes/icteridae/xanthocephalus-xanthocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/615125117
+  author: Emerson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615125117/original.jpg
 ---
 
 

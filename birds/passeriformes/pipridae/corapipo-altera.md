@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/corapipo-altera/1.jpg
+  page: https://www.inaturalist.org/photos/613477790
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613477790/original.jpg
+images:
+- file: images/passeriformes/pipridae/corapipo-altera/1.jpg
+  page: https://www.inaturalist.org/photos/613477790
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613477790/original.jpg
+- file: images/passeriformes/pipridae/corapipo-altera/2.jpg
+  page: https://www.inaturalist.org/photos/622066039
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622066039/original.jpg
+- file: images/passeriformes/pipridae/corapipo-altera/3.jpg
+  page: https://www.inaturalist.org/photos/623057641
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623057641/original.jpg
+- file: images/passeriformes/pipridae/corapipo-altera/4.jpg
+  page: https://www.inaturalist.org/photos/726180662
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726180662/original.jpg
+- file: images/passeriformes/pipridae/corapipo-altera/5.jpg
+  page: https://www.inaturalist.org/photos/463605256
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463605256/original.jpeg
 ---
 
 

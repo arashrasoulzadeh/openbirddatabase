@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/leuconotopicus-borealis/1.jpg
+  page: https://www.inaturalist.org/photos/606281867
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606281867/original.jpg
+images:
+- file: images/piciformes/picidae/leuconotopicus-borealis/1.jpg
+  page: https://www.inaturalist.org/photos/606281867
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606281867/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-borealis/2.jpg
+  page: https://www.inaturalist.org/photos/607313560
+  author: Etienne Falquet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607313560/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-borealis/3.jpg
+  page: https://www.inaturalist.org/photos/613522175
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613522175/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-borealis/4.jpg
+  page: https://www.inaturalist.org/photos/614272304
+  author: Kim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614272304/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-borealis/5.jpg
+  page: https://www.inaturalist.org/photos/616175044
+  author: Mike Tilley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616175044/original.jpg
 ---
 
 

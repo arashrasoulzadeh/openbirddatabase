@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cacomantis-sonneratii/1.jpg
+  page: https://www.inaturalist.org/photos/607896625
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607896625/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cacomantis-sonneratii/1.jpg
+  page: https://www.inaturalist.org/photos/607896625
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607896625/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-sonneratii/2.jpg
+  page: https://www.inaturalist.org/photos/651252619
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651252619/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-sonneratii/3.jpg
+  page: https://www.inaturalist.org/photos/627943013
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627943013/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-sonneratii/4.jpg
+  page: https://www.inaturalist.org/photos/624205989
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624205989/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-sonneratii/5.jpg
+  page: https://www.inaturalist.org/photos/636514838
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636514838/original.jpg
 ---
 
 

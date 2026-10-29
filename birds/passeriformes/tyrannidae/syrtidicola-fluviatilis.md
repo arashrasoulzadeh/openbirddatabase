@@ -124,7 +124,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.0
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 73.5
   tail_length_mm: 50.6
   body_mass_g: 14.7
+image:
+  file: images/passeriformes/tyrannidae/syrtidicola-fluviatilis/1.jpg
+  page: https://www.inaturalist.org/photos/332707012
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332707012/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/syrtidicola-fluviatilis/1.jpg
+  page: https://www.inaturalist.org/photos/332707012
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332707012/original.jpeg
+- file: images/passeriformes/tyrannidae/syrtidicola-fluviatilis/2.jpg
+  page: https://www.inaturalist.org/photos/429189582
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429189582/original.jpg
+- file: images/passeriformes/tyrannidae/syrtidicola-fluviatilis/3.jpg
+  page: https://www.inaturalist.org/photos/211219443
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211219443/original.jpeg
+- file: images/passeriformes/tyrannidae/syrtidicola-fluviatilis/4.jpg
+  page: https://www.inaturalist.org/photos/52844843
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52844843/original.jpg
+- file: images/passeriformes/tyrannidae/syrtidicola-fluviatilis/5.jpg
+  page: https://www.inaturalist.org/photos/332707009
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332707009/original.jpeg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-cuprea/1.jpg
+  page: https://www.inaturalist.org/photos/612571105
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612571105/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-cuprea/1.jpg
+  page: https://www.inaturalist.org/photos/612571105
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612571105/original.jpg
+- file: images/columbiformes/columbidae/ducula-cuprea/2.jpg
+  page: https://www.inaturalist.org/photos/624765769
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624765769/original.jpg
+- file: images/columbiformes/columbidae/ducula-cuprea/3.jpg
+  page: https://www.inaturalist.org/photos/620846672
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620846672/original.jpg
+- file: images/columbiformes/columbidae/ducula-cuprea/4.jpg
+  page: https://www.inaturalist.org/photos/627840171
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627840171/original.jpg
+- file: images/columbiformes/columbidae/ducula-cuprea/5.jpg
+  page: https://www.inaturalist.org/photos/629579807
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629579807/original.jpg
 ---
 
 

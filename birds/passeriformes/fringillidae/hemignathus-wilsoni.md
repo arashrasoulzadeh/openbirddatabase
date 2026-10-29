@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/fringillidae/hemignathus-wilsoni/1.jpg
+  page: https://www.inaturalist.org/photos/606811956
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606811956/original.jpg
+images:
+- file: images/passeriformes/fringillidae/hemignathus-wilsoni/1.jpg
+  page: https://www.inaturalist.org/photos/606811956
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606811956/original.jpg
+- file: images/passeriformes/fringillidae/hemignathus-wilsoni/2.jpg
+  page: https://www.inaturalist.org/photos/623313295
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623313295/original.jpg
+- file: images/passeriformes/fringillidae/hemignathus-wilsoni/3.jpg
+  page: https://www.inaturalist.org/photos/531480048
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531480048/original.jpg
+- file: images/passeriformes/fringillidae/hemignathus-wilsoni/4.jpg
+  page: https://www.inaturalist.org/photos/539500277
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539500277/original.jpg
+- file: images/passeriformes/fringillidae/hemignathus-wilsoni/5.jpg
+  page: https://www.inaturalist.org/photos/460989714
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460989714/original.jpg
 ---
 
 

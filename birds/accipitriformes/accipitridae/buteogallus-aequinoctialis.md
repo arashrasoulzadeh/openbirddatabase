@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteogallus-aequinoctialis/1.jpg
+  page: https://www.inaturalist.org/photos/644817999
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644817999/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteogallus-aequinoctialis/1.jpg
+  page: https://www.inaturalist.org/photos/644817999
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644817999/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-aequinoctialis/2.jpg
+  page: https://www.inaturalist.org/photos/515319509
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515319509/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-aequinoctialis/3.jpg
+  page: https://www.inaturalist.org/photos/464529463
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464529463/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-aequinoctialis/4.jpg
+  page: https://www.inaturalist.org/photos/466317162
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466317162/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-aequinoctialis/5.jpg
+  page: https://www.inaturalist.org/photos/495680524
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495680524/original.jpg
 ---
 
 

@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 74.5
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 235.0
   tail_length_mm: 220.0
   body_mass_g: 383.9
+image:
+  file: images/passeriformes/icteridae/psarocolius-cassini/1.jpg
+  page: https://www.inaturalist.org/photos/618276627
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618276627/original.jpg
+images:
+- file: images/passeriformes/icteridae/psarocolius-cassini/1.jpg
+  page: https://www.inaturalist.org/photos/618276627
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618276627/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-cassini/2.jpg
+  page: https://www.inaturalist.org/photos/623796368
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623796368/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-cassini/3.jpg
+  page: https://www.inaturalist.org/photos/585556584
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585556584/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-cassini/4.jpg
+  page: https://www.inaturalist.org/photos/457495545
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457495545/original.jpeg
+- file: images/passeriformes/icteridae/psarocolius-cassini/5.jpg
+  page: https://www.inaturalist.org/photos/232315629
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232315629/original.jpeg
 ---
 
 

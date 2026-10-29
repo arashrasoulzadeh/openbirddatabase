@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/605248854
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605248854/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/605248854
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605248854/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-simplex/2.jpg
+  page: https://www.inaturalist.org/photos/605142512
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605142512/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-simplex/3.jpg
+  page: https://www.inaturalist.org/photos/609213458
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609213458/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-simplex/4.jpg
+  page: https://www.inaturalist.org/photos/606821133
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606821133/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-simplex/5.jpg
+  page: https://www.inaturalist.org/photos/609256694
+  author: Kathy Fulton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609256694/original.jpg
 ---
 
 

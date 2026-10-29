@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/glycichaera-fallax/1.jpg
+  page: https://www.inaturalist.org/photos/698664287
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698664287/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/glycichaera-fallax/1.jpg
+  page: https://www.inaturalist.org/photos/698664287
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698664287/original.jpg
+- file: images/passeriformes/meliphagidae/glycichaera-fallax/2.jpg
+  page: https://www.inaturalist.org/photos/610302834
+  author: Melissa Doherty
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610302834/original.jpg
+- file: images/passeriformes/meliphagidae/glycichaera-fallax/3.jpg
+  page: https://www.inaturalist.org/photos/733635894
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733635894/original.jpg
+- file: images/passeriformes/meliphagidae/glycichaera-fallax/4.jpg
+  page: https://www.inaturalist.org/photos/332389501
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332389501/original.jpeg
+- file: images/passeriformes/meliphagidae/glycichaera-fallax/5.jpg
+  page: https://www.inaturalist.org/photos/698664262
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698664262/original.jpg
 ---
 
 

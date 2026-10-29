@@ -131,8 +131,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/drymophila-hellmayri/1.jpg
+  page: https://www.inaturalist.org/photos/698446742
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698446742/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/drymophila-hellmayri/1.jpg
+  page: https://www.inaturalist.org/photos/698446742
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698446742/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-hellmayri/2.jpg
+  page: https://www.inaturalist.org/photos/728449500
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728449500/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-hellmayri/3.jpg
+  page: https://www.inaturalist.org/photos/738247535
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738247535/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-hellmayri/4.jpg
+  page: https://www.inaturalist.org/photos/518010498
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518010498/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-hellmayri/5.jpg
+  page: https://www.inaturalist.org/photos/465413218
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465413218/original.jpg
 ---
 
 

@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/paridae/poecile-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/605352464
+  author: Татьяна Фирсова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605352464/original.jpg
+images:
+- file: images/passeriformes/paridae/poecile-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/605352464
+  author: Татьяна Фирсова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605352464/original.jpg
+- file: images/passeriformes/paridae/poecile-montanus/2.jpg
+  page: https://www.inaturalist.org/photos/604694230
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604694230/original.jpg
+- file: images/passeriformes/paridae/poecile-montanus/3.jpg
+  page: https://www.inaturalist.org/photos/605368798
+  author: Дмитрий Кошелев
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605368798/original.jpg
+- file: images/passeriformes/paridae/poecile-montanus/4.jpg
+  page: https://www.inaturalist.org/photos/604756846
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604756846/original.jpg
+- file: images/passeriformes/paridae/poecile-montanus/5.jpg
+  page: https://www.inaturalist.org/photos/605016661
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605016661/original.jpg
 ---
 
 

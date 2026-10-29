@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/abroscopus-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/614709664
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709664/original.jpg
+images:
+- file: images/passeriformes/cettiidae/abroscopus-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/614709664
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709664/original.jpg
+- file: images/passeriformes/cettiidae/abroscopus-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/622837026
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622837026/original.jpg
+- file: images/passeriformes/cettiidae/abroscopus-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/635164526
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635164526/original.jpg
+- file: images/passeriformes/cettiidae/abroscopus-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/701486313
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701486313/original.jpg
+- file: images/passeriformes/cettiidae/abroscopus-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/614709629
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709629/original.jpg
 ---
 
 

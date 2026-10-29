@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/poospiza-baeri/1.jpg
+  page: https://www.inaturalist.org/photos/474005471
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474005471/original.jpg
+images:
+- file: images/passeriformes/thraupidae/poospiza-baeri/1.jpg
+  page: https://www.inaturalist.org/photos/474005471
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474005471/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-baeri/2.jpg
+  page: https://www.inaturalist.org/photos/474614961
+  author: Martín Acosta Albarracín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474614961/original.jpeg
+- file: images/passeriformes/thraupidae/poospiza-baeri/3.jpg
+  page: https://www.inaturalist.org/photos/602696163
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602696163/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-baeri/4.jpg
+  page: https://www.inaturalist.org/photos/574020350
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574020350/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-baeri/5.jpg
+  page: https://www.inaturalist.org/photos/444920372
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444920372/original.jpeg
 ---
 
 

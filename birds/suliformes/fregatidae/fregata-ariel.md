@@ -181,10 +181,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/suliformes/fregatidae/fregata-ariel/1.jpg
+  page: https://www.inaturalist.org/photos/613112495
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613112495/original.jpg
+images:
+- file: images/suliformes/fregatidae/fregata-ariel/1.jpg
+  page: https://www.inaturalist.org/photos/613112495
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613112495/original.jpg
+- file: images/suliformes/fregatidae/fregata-ariel/2.jpg
+  page: https://www.inaturalist.org/photos/616458920
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616458920/original.jpg
+- file: images/suliformes/fregatidae/fregata-ariel/3.jpg
+  page: https://www.inaturalist.org/photos/651119788
+  author: Antoine MARNAT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651119788/original.jpg
+- file: images/suliformes/fregatidae/fregata-ariel/4.jpg
+  page: https://www.inaturalist.org/photos/665989029
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665989029/original.jpg
+- file: images/suliformes/fregatidae/fregata-ariel/5.jpg
+  page: https://www.inaturalist.org/photos/671339140
+  author: Alexander A. Fomichev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671339140/original.jpg
 ---
 
 

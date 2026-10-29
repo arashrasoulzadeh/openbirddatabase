@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cercomacra-nigricans/1.jpg
+  page: https://www.inaturalist.org/photos/615510289
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615510289/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/cercomacra-nigricans/1.jpg
+  page: https://www.inaturalist.org/photos/615510289
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615510289/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-nigricans/2.jpg
+  page: https://www.inaturalist.org/photos/625310995
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625310995/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-nigricans/3.jpg
+  page: https://www.inaturalist.org/photos/652831541
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652831541/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-nigricans/4.jpg
+  page: https://www.inaturalist.org/photos/500105949
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500105949/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-nigricans/5.jpg
+  page: https://www.inaturalist.org/photos/494726670
+  author: Diego López
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/494726670/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-pulchricollis/1.jpg
+  page: https://www.inaturalist.org/photos/619227057
+  author: Weiting Liu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619227057/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-pulchricollis/1.jpg
+  page: https://www.inaturalist.org/photos/619227057
+  author: Weiting Liu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619227057/original.jpg
+- file: images/columbiformes/columbidae/columba-pulchricollis/2.jpg
+  page: https://www.inaturalist.org/photos/620128599
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620128599/original.jpg
+- file: images/columbiformes/columbidae/columba-pulchricollis/3.jpg
+  page: https://www.inaturalist.org/photos/652829610
+  author: Yi-fan翊凡
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652829610/original.jpg
+- file: images/columbiformes/columbidae/columba-pulchricollis/4.jpg
+  page: https://www.inaturalist.org/photos/661373741
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661373741/original.jpg
+- file: images/columbiformes/columbidae/columba-pulchricollis/5.jpg
+  page: https://www.inaturalist.org/photos/461597419
+  author: 槲蕨Miu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461597419/original.jpeg
 ---
 
 

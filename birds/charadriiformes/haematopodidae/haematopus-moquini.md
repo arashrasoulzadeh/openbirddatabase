@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-moquini/1.jpg
+  page: https://www.inaturalist.org/photos/608082999
+  author: Adele SL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608082999/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-moquini/1.jpg
+  page: https://www.inaturalist.org/photos/608082999
+  author: Adele SL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608082999/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-moquini/2.jpg
+  page: https://www.inaturalist.org/photos/610365644
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610365644/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-moquini/3.jpg
+  page: https://www.inaturalist.org/photos/612406045
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612406045/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-moquini/4.jpg
+  page: https://www.inaturalist.org/photos/613372060
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613372060/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-moquini/5.jpg
+  page: https://www.inaturalist.org/photos/618737222
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618737222/original.jpg
 ---
 
 

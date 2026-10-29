@@ -141,8 +141,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-orina/1.jpg
+  page: https://www.inaturalist.org/photos/623802375
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623802375/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-orina/1.jpg
+  page: https://www.inaturalist.org/photos/623802375
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623802375/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-orina/2.jpg
+  page: https://www.inaturalist.org/photos/76602601
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/76602601/original.jpeg
+- file: images/apodiformes/trochilidae/coeligena-orina/3.jpg
+  page: https://www.inaturalist.org/photos/623802397
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623802397/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-orina/4.jpg
+  page: https://www.inaturalist.org/photos/623899321
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623899321/original.jpg
 ---
 
 

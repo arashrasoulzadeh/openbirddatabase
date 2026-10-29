@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/bolborhynchus-ferrugineifrons/1.jpg
+  page: https://www.inaturalist.org/photos/638151295
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638151295/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/bolborhynchus-ferrugineifrons/1.jpg
+  page: https://www.inaturalist.org/photos/638151295
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638151295/original.jpg
+- file: images/psittaciformes/psittacidae/bolborhynchus-ferrugineifrons/2.jpg
+  page: https://www.inaturalist.org/photos/502957005
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502957005/original.jpg
+- file: images/psittaciformes/psittacidae/bolborhynchus-ferrugineifrons/3.jpg
+  page: https://www.inaturalist.org/photos/236769249
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236769249/original.jpeg
+- file: images/psittaciformes/psittacidae/bolborhynchus-ferrugineifrons/4.jpg
+  page: https://www.inaturalist.org/photos/108177573
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108177573/original.jpg
+- file: images/psittaciformes/psittacidae/bolborhynchus-ferrugineifrons/5.jpg
+  page: https://www.inaturalist.org/photos/638151309
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638151309/original.jpg
 ---
 
 

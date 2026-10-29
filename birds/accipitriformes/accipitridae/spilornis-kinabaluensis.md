@@ -134,8 +134,41 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/spilornis-kinabaluensis/1.jpg
+  page: https://www.inaturalist.org/photos/599774046
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599774046/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/spilornis-kinabaluensis/1.jpg
+  page: https://www.inaturalist.org/photos/599774046
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599774046/original.jpg
+- file: images/accipitriformes/accipitridae/spilornis-kinabaluensis/2.jpg
+  page: https://www.inaturalist.org/photos/114275944
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114275944/original.jpeg
+- file: images/accipitriformes/accipitridae/spilornis-kinabaluensis/3.jpg
+  page: https://www.inaturalist.org/photos/114275945
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114275945/original.jpeg
+- file: images/accipitriformes/accipitridae/spilornis-kinabaluensis/4.jpg
+  page: https://www.inaturalist.org/photos/102715095
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102715095/original.jpeg
 ---
 
 

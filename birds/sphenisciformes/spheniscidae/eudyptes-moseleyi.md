@@ -152,8 +152,41 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/sphenisciformes/spheniscidae/eudyptes-moseleyi/1.jpg
+  page: https://www.inaturalist.org/photos/371640408
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/371640408/original.jpeg
+images:
+- file: images/sphenisciformes/spheniscidae/eudyptes-moseleyi/1.jpg
+  page: https://www.inaturalist.org/photos/371640408
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/371640408/original.jpeg
+- file: images/sphenisciformes/spheniscidae/eudyptes-moseleyi/2.jpg
+  page: http://www.flickr.com/photos/19731486@N07/6954251406
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104255/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-moseleyi/3.jpg
+  page: http://www.flickr.com/photos/19731486@N07/7100319137
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104256/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-moseleyi/4.jpg
+  page: http://www.flickr.com/photos/19731486@N07/7100305853
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104259/original.jpg
 ---
 
 

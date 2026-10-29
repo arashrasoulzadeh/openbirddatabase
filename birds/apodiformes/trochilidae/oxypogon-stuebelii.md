@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/oxypogon-stuebelii/1.jpg
+  page: https://www.inaturalist.org/photos/612917238
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612917238/original.jpg
+images:
+- file: images/apodiformes/trochilidae/oxypogon-stuebelii/1.jpg
+  page: https://www.inaturalist.org/photos/612917238
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612917238/original.jpg
+- file: images/apodiformes/trochilidae/oxypogon-stuebelii/2.jpg
+  page: https://www.inaturalist.org/photos/652824379
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652824379/original.jpg
+- file: images/apodiformes/trochilidae/oxypogon-stuebelii/3.jpg
+  page: https://www.inaturalist.org/photos/468805624
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468805624/original.jpg
+- file: images/apodiformes/trochilidae/oxypogon-stuebelii/4.jpg
+  page: https://www.inaturalist.org/photos/489341893
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489341893/original.jpg
+- file: images/apodiformes/trochilidae/oxypogon-stuebelii/5.jpg
+  page: https://www.inaturalist.org/photos/476147683
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476147683/original.jpg
 ---
 
 

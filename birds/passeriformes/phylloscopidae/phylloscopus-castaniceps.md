@@ -159,8 +159,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-castaniceps/1.jpg
+  page: https://www.inaturalist.org/photos/548764974
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548764974/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-castaniceps/1.jpg
+  page: https://www.inaturalist.org/photos/548764974
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548764974/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-castaniceps/2.jpg
+  page: https://www.inaturalist.org/photos/548764947
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548764947/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-castaniceps/3.jpg
+  page: https://www.inaturalist.org/photos/548765052
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548765052/original.jpg
 ---
 
 

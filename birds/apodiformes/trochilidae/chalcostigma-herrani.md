@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chalcostigma-herrani/1.jpg
+  page: https://www.inaturalist.org/photos/652823914
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652823914/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chalcostigma-herrani/1.jpg
+  page: https://www.inaturalist.org/photos/652823914
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652823914/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-herrani/2.jpg
+  page: https://www.inaturalist.org/photos/489344794
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489344794/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-herrani/3.jpg
+  page: https://www.inaturalist.org/photos/476153239
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476153239/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-herrani/4.jpg
+  page: https://www.inaturalist.org/photos/528307663
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528307663/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-herrani/5.jpg
+  page: https://www.inaturalist.org/photos/605469785
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605469785/original.jpg
 ---
 
 

@@ -147,7 +147,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 23.4
@@ -155,6 +156,44 @@ morphology:
   wing_length_mm: 109.7
   tail_length_mm: 80.0
   body_mass_g: 63.2
+image:
+  file: images/passeriformes/furnariidae/cinclodes-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/615792757
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792757/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cinclodes-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/615792757
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792757/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-antarcticus/2.jpg
+  page: https://www.inaturalist.org/photos/612320595
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612320595/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-antarcticus/3.jpg
+  page: https://www.inaturalist.org/photos/634491749
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634491749/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-antarcticus/4.jpg
+  page: https://www.inaturalist.org/photos/484183937
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484183937/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-antarcticus/5.jpg
+  page: https://www.inaturalist.org/photos/595298080
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595298080/original.jpg
 ---
 
 

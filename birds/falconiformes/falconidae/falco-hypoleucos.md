@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-hypoleucos/1.jpg
+  page: https://www.inaturalist.org/photos/745048543
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745048543/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-hypoleucos/1.jpg
+  page: https://www.inaturalist.org/photos/745048543
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745048543/original.jpg
+- file: images/falconiformes/falconidae/falco-hypoleucos/2.jpg
+  page: https://www.inaturalist.org/photos/588921419
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588921419/original.jpg
+- file: images/falconiformes/falconidae/falco-hypoleucos/3.jpg
+  page: https://www.inaturalist.org/photos/175564495
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175564495/original.jpeg
+- file: images/falconiformes/falconidae/falco-hypoleucos/4.jpg
+  page: https://www.inaturalist.org/photos/576780518
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576780518/original.jpg
+- file: images/falconiformes/falconidae/falco-hypoleucos/5.jpg
+  page: https://www.inaturalist.org/photos/360211993
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360211993/original.jpg
 ---
 
 

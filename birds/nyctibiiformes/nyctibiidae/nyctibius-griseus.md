@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/nyctibiiformes/nyctibiidae/nyctibius-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/605073011
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605073011/original.jpg
+images:
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/605073011
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605073011/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-griseus/2.jpg
+  page: https://www.inaturalist.org/photos/610263113
+  author: deboraaye
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610263113/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-griseus/3.jpg
+  page: https://www.inaturalist.org/photos/608385975
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608385975/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-griseus/4.jpg
+  page: https://www.inaturalist.org/photos/612633607
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612633607/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-griseus/5.jpg
+  page: https://www.inaturalist.org/photos/726210205
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726210205/original.jpg
 ---
 
 

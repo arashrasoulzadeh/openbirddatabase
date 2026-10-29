@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptilonorhynchidae/ailuroedus-maculosus/1.jpg
+  page: https://www.inaturalist.org/photos/631308881
+  author: Ian Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631308881/original.jpg
+images:
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-maculosus/1.jpg
+  page: https://www.inaturalist.org/photos/631308881
+  author: Ian Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631308881/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-maculosus/2.jpg
+  page: https://www.inaturalist.org/photos/636918351
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636918351/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-maculosus/3.jpg
+  page: https://www.inaturalist.org/photos/705892166
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705892166/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-maculosus/4.jpg
+  page: https://www.inaturalist.org/photos/696125210
+  author: Ian Dickie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696125210/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/ailuroedus-maculosus/5.jpg
+  page: https://www.inaturalist.org/photos/735824984
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735824984/original.jpg
 ---
 
 

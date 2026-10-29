@@ -136,8 +136,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pachyptila-macgillivrayi/1.jpg
+  page: https://www.inaturalist.org/photos/617322437
+  author: IanLJones
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617322437/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pachyptila-macgillivrayi/1.jpg
+  page: https://www.inaturalist.org/photos/617322437
+  author: IanLJones
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617322437/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-macgillivrayi/2.jpg
+  page: https://www.inaturalist.org/photos/471351161
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351161/original.jpeg
+- file: images/procellariiformes/procellariidae/pachyptila-macgillivrayi/3.jpg
+  page: https://www.inaturalist.org/photos/617322440
+  author: IanLJones
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617322440/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-macgillivrayi/4.jpg
+  page: https://www.inaturalist.org/photos/471351160
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351160/original.jpeg
+- file: images/procellariiformes/procellariidae/pachyptila-macgillivrayi/5.jpg
+  page: https://www.inaturalist.org/photos/471358659
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471358659/original.jpeg
 ---
 
 

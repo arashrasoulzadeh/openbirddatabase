@@ -134,8 +134,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-brunneus/1.jpg
+  page: https://www.inaturalist.org/photos/61809007
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61809007/original.jpeg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-brunneus/1.jpg
+  page: https://www.inaturalist.org/photos/61809007
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61809007/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-brunneus/2.jpg
+  page: https://www.inaturalist.org/photos/61809047
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61809047/original.jpeg
 ---
 
 

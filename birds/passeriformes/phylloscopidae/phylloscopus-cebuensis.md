@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-cebuensis/1.jpg
+  page: https://www.inaturalist.org/photos/196112599
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196112599/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-cebuensis/1.jpg
+  page: https://www.inaturalist.org/photos/196112599
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196112599/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-cebuensis/2.jpg
+  page: https://www.inaturalist.org/photos/196112617
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196112617/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-cebuensis/3.jpg
+  page: https://www.inaturalist.org/photos/208395363
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/208395363/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-cebuensis/4.jpg
+  page: https://www.inaturalist.org/photos/240241446
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240241446/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-cebuensis/5.jpg
+  page: https://www.inaturalist.org/photos/249438363
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249438363/original.jpg
 ---
 
 

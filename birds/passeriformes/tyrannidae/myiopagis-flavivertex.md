@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiopagis-flavivertex/1.jpg
+  page: https://www.inaturalist.org/photos/717877178
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717877178/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiopagis-flavivertex/1.jpg
+  page: https://www.inaturalist.org/photos/717877178
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717877178/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-flavivertex/2.jpg
+  page: https://www.inaturalist.org/photos/338457955
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338457955/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-flavivertex/3.jpg
+  page: https://www.inaturalist.org/photos/609576506
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576506/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-flavivertex/4.jpg
+  page: https://www.inaturalist.org/photos/717877147
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717877147/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-flavivertex/5.jpg
+  page: https://www.inaturalist.org/photos/338464079
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338464079/original.jpg
 ---
 
 

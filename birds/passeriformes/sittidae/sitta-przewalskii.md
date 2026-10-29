@@ -136,7 +136,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 15.3
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 72.2
   tail_length_mm: 42.2
   body_mass_g: 14.8
+image:
+  file: images/passeriformes/sittidae/sitta-przewalskii/1.jpg
+  page: https://www.inaturalist.org/photos/409373923
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409373923/original.jpeg
+images:
+- file: images/passeriformes/sittidae/sitta-przewalskii/1.jpg
+  page: https://www.inaturalist.org/photos/409373923
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409373923/original.jpeg
+- file: images/passeriformes/sittidae/sitta-przewalskii/2.jpg
+  page: https://www.inaturalist.org/photos/409373997
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409373997/original.jpeg
+- file: images/passeriformes/sittidae/sitta-przewalskii/3.jpg
+  page: https://www.inaturalist.org/photos/409373988
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409373988/original.jpeg
+- file: images/passeriformes/sittidae/sitta-przewalskii/4.jpg
+  page: https://www.inaturalist.org/photos/409449490
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409449490/original.jpeg
+- file: images/passeriformes/sittidae/sitta-przewalskii/5.jpg
+  page: https://www.inaturalist.org/photos/409370002
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409370002/original.jpeg
 ---
 
 

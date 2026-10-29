@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/maluridae/stipiturus-malachurus/1.jpg
+  page: https://www.inaturalist.org/photos/608592896
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608592896/original.jpg
+images:
+- file: images/passeriformes/maluridae/stipiturus-malachurus/1.jpg
+  page: https://www.inaturalist.org/photos/608592896
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608592896/original.jpg
+- file: images/passeriformes/maluridae/stipiturus-malachurus/2.jpg
+  page: https://www.inaturalist.org/photos/623540740
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623540740/original.jpg
+- file: images/passeriformes/maluridae/stipiturus-malachurus/3.jpg
+  page: https://www.inaturalist.org/photos/621444785
+  author: Roman Soroka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621444785/original.jpg
+- file: images/passeriformes/maluridae/stipiturus-malachurus/4.jpg
+  page: https://www.inaturalist.org/photos/642667467
+  author: fungihunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642667467/original.jpg
+- file: images/passeriformes/maluridae/stipiturus-malachurus/5.jpg
+  page: https://www.inaturalist.org/photos/700668632
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700668632/original.jpg
 ---
 
 

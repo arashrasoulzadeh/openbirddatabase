@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/passerellidae/spizella-pallida/1.jpg
+  page: https://www.inaturalist.org/photos/609757711
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609757711/original.jpg
+images:
+- file: images/passeriformes/passerellidae/spizella-pallida/1.jpg
+  page: https://www.inaturalist.org/photos/609757711
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609757711/original.jpg
+- file: images/passeriformes/passerellidae/spizella-pallida/2.jpg
+  page: https://www.inaturalist.org/photos/610671114
+  author: Jim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610671114/original.jpg
+- file: images/passeriformes/passerellidae/spizella-pallida/3.jpg
+  page: https://www.inaturalist.org/photos/618174541
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618174541/original.jpg
+- file: images/passeriformes/passerellidae/spizella-pallida/4.jpg
+  page: https://www.inaturalist.org/photos/621151557
+  author: kirk gardner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621151557/original.jpg
+- file: images/passeriformes/passerellidae/spizella-pallida/5.jpg
+  page: https://www.inaturalist.org/photos/717314110
+  author: Jer Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717314110/original.jpg
 ---
 
 

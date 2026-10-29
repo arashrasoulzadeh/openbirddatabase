@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/pseudocolopteryx-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/720734708
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720734708/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/720734708
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720734708/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/697580178
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697580178/original.jpg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/349165118
+  author: Agustina Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349165118/original.jpeg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/363270919
+  author: Eduardo Luis Beltrocco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363270919/original.jpeg
+- file: images/passeriformes/tyrannidae/pseudocolopteryx-sclateri/5.jpg
+  page: https://www.inaturalist.org/photos/410451521
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410451521/original.jpeg
 ---
 
 

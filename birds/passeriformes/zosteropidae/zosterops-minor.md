@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-minor/1.jpg
+  page: https://www.inaturalist.org/photos/575613569
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613569/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-minor/1.jpg
+  page: https://www.inaturalist.org/photos/575613569
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613569/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-minor/2.jpg
+  page: https://www.inaturalist.org/photos/624337668
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624337668/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-minor/3.jpg
+  page: https://www.inaturalist.org/photos/575613571
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613571/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-minor/4.jpg
+  page: https://www.inaturalist.org/photos/575613628
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613628/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-minor/5.jpg
+  page: https://www.inaturalist.org/photos/624337652
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624337652/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/urochroa-leucura/1.jpg
+  page: https://www.inaturalist.org/photos/608937328
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608937328/original.jpg
+images:
+- file: images/apodiformes/trochilidae/urochroa-leucura/1.jpg
+  page: https://www.inaturalist.org/photos/608937328
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608937328/original.jpg
+- file: images/apodiformes/trochilidae/urochroa-leucura/2.jpg
+  page: https://www.inaturalist.org/photos/609940511
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609940511/original.jpg
+- file: images/apodiformes/trochilidae/urochroa-leucura/3.jpg
+  page: https://www.inaturalist.org/photos/352051642
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352051642/original.jpeg
+- file: images/apodiformes/trochilidae/urochroa-leucura/4.jpg
+  page: https://www.inaturalist.org/photos/617596018
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617596018/original.jpg
+- file: images/apodiformes/trochilidae/urochroa-leucura/5.jpg
+  page: https://www.inaturalist.org/photos/352755813
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352755813/original.jpeg
 ---
 
 

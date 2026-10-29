@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/tylas-eduardi/1.jpg
+  page: https://www.inaturalist.org/photos/671115442
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671115442/original.jpg
+images:
+- file: images/passeriformes/vangidae/tylas-eduardi/1.jpg
+  page: https://www.inaturalist.org/photos/671115442
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671115442/original.jpg
+- file: images/passeriformes/vangidae/tylas-eduardi/2.jpg
+  page: https://www.inaturalist.org/photos/537630190
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537630190/original.jpg
+- file: images/passeriformes/vangidae/tylas-eduardi/3.jpg
+  page: https://www.inaturalist.org/photos/455468692
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455468692/original.jpeg
+- file: images/passeriformes/vangidae/tylas-eduardi/4.jpg
+  page: https://www.inaturalist.org/photos/454882848
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454882848/original.jpg
+- file: images/passeriformes/vangidae/tylas-eduardi/5.jpg
+  page: https://www.inaturalist.org/photos/241910511
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241910511/original.jpg
 ---
 
 

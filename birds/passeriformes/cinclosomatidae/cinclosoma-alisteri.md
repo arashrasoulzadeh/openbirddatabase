@@ -133,8 +133,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cinclosomatidae/cinclosoma-alisteri/1.jpg
+  page: https://www.inaturalist.org/photos/560255789
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560255789/original.jpg
+images:
+- file: images/passeriformes/cinclosomatidae/cinclosoma-alisteri/1.jpg
+  page: https://www.inaturalist.org/photos/560255789
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560255789/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-alisteri/2.jpg
+  page: https://www.inaturalist.org/photos/247832681
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247832681/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-alisteri/3.jpg
+  page: https://www.inaturalist.org/photos/560256215
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560256215/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-alisteri/4.jpg
+  page: https://www.inaturalist.org/photos/560256218
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560256218/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-alisteri/5.jpg
+  page: https://www.inaturalist.org/photos/560256233
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560256233/original.jpg
 ---
 
 

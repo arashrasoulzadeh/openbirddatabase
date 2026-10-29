@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-leucops/1.jpg
+  page: https://www.inaturalist.org/photos/617312989
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617312989/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-leucops/1.jpg
+  page: https://www.inaturalist.org/photos/617312989
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617312989/original.jpg
+- file: images/passeriformes/turdidae/turdus-leucops/2.jpg
+  page: https://www.inaturalist.org/photos/352670790
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352670790/original.jpeg
+- file: images/passeriformes/turdidae/turdus-leucops/3.jpg
+  page: https://www.inaturalist.org/photos/267011447
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267011447/original.jpeg
+- file: images/passeriformes/turdidae/turdus-leucops/4.jpg
+  page: https://www.inaturalist.org/photos/72137208
+  author: Álvaro Rivas Godin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/72137208/original.jpeg
+- file: images/passeriformes/turdidae/turdus-leucops/5.jpg
+  page: https://www.inaturalist.org/photos/137475589
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137475589/original.jpeg
 ---
 
 

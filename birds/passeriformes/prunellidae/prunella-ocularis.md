@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/prunellidae/prunella-ocularis/1.jpg
+  page: https://www.inaturalist.org/photos/696805751
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696805751/original.jpg
+images:
+- file: images/passeriformes/prunellidae/prunella-ocularis/1.jpg
+  page: https://www.inaturalist.org/photos/696805751
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696805751/original.jpg
+- file: images/passeriformes/prunellidae/prunella-ocularis/2.jpg
+  page: https://www.inaturalist.org/photos/219380110
+  author: smeckert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219380110/original.png
+- file: images/passeriformes/prunellidae/prunella-ocularis/3.jpg
+  page: https://www.inaturalist.org/photos/117205885
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/117205885/original.jpeg
+- file: images/passeriformes/prunellidae/prunella-ocularis/4.jpg
+  page: https://www.inaturalist.org/photos/371841945
+  author: ramidos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/371841945/original.jpg
+- file: images/passeriformes/prunellidae/prunella-ocularis/5.jpg
+  page: https://www.inaturalist.org/photos/351030783
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351030783/original.jpeg
 ---
 
 

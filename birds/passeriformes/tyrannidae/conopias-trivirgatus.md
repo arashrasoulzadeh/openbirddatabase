@@ -136,8 +136,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/conopias-trivirgatus/1.jpg
+  page: https://www.inaturalist.org/photos/728675318
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728675318/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/conopias-trivirgatus/1.jpg
+  page: https://www.inaturalist.org/photos/728675318
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728675318/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-trivirgatus/2.jpg
+  page: https://www.inaturalist.org/photos/641153507
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641153507/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-trivirgatus/3.jpg
+  page: https://www.inaturalist.org/photos/743439307
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743439307/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-trivirgatus/4.jpg
+  page: https://www.inaturalist.org/photos/417855016
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417855016/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-trivirgatus/5.jpg
+  page: https://www.inaturalist.org/photos/456155922
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456155922/original.jpeg
 ---
 
 

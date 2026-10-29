@@ -117,8 +117,23 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/unknown/sphenopsis-ochracea/1.jpg
+  page: https://www.inaturalist.org/photos/590860775
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590860775/original.jpg
+images:
+- file: images/passeriformes/unknown/sphenopsis-ochracea/1.jpg
+  page: https://www.inaturalist.org/photos/590860775
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590860775/original.jpg
 ---
 
 # Sphenopsis ochracea (nan)

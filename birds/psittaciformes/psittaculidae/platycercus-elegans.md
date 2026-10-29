@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/psittaciformes/psittaculidae/platycercus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/604949056
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604949056/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/platycercus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/604949056
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604949056/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/604400164
+  author: David Wales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604400164/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/605601920
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605601920/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/605284111
+  author: Matthew Lincoln
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605284111/original.jpg
+- file: images/psittaciformes/psittaculidae/platycercus-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/609425117
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609425117/original.jpg
 ---
 
 

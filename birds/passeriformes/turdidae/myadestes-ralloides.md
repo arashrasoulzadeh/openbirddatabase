@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/myadestes-ralloides/1.jpg
+  page: https://www.inaturalist.org/photos/615241127
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615241127/original.jpg
+images:
+- file: images/passeriformes/turdidae/myadestes-ralloides/1.jpg
+  page: https://www.inaturalist.org/photos/615241127
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615241127/original.jpg
+- file: images/passeriformes/turdidae/myadestes-ralloides/2.jpg
+  page: https://www.inaturalist.org/photos/741207297
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741207297/original.jpg
+- file: images/passeriformes/turdidae/myadestes-ralloides/3.jpg
+  page: https://www.inaturalist.org/photos/469410394
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469410394/original.jpg
+- file: images/passeriformes/turdidae/myadestes-ralloides/4.jpg
+  page: https://www.inaturalist.org/photos/489869780
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489869780/original.jpg
+- file: images/passeriformes/turdidae/myadestes-ralloides/5.jpg
+  page: https://www.inaturalist.org/photos/475226217
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475226217/original.jpg
 ---
 
 

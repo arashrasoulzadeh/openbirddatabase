@@ -156,8 +156,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/lyncornis-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/493189591
+  author: Fathurrahman Sidiq
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493189591/original.jpeg
+images:
+- file: images/caprimulgiformes/caprimulgidae/lyncornis-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/493189591
+  author: Fathurrahman Sidiq
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493189591/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/lyncornis-temminckii/2.jpg
+  page: https://www.flickr.com/photos/podoces/16094391918/
+  author: Matt Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/4837737/original.jpg
 ---
 
 

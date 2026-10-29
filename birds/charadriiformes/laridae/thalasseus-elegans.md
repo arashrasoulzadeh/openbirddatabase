@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/charadriiformes/laridae/thalasseus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/609465123
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609465123/original.jpg
+images:
+- file: images/charadriiformes/laridae/thalasseus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/609465123
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609465123/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/612773415
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612773415/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/626548906
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626548906/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/631888431
+  author: the natural moment
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631888431/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/614098945
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614098945/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-mercenarius/1.jpg
+  page: https://www.inaturalist.org/photos/624772585
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624772585/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-mercenarius/1.jpg
+  page: https://www.inaturalist.org/photos/624772585
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624772585/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-mercenarius/2.jpg
+  page: https://www.inaturalist.org/photos/652849460
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652849460/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-mercenarius/3.jpg
+  page: https://www.inaturalist.org/photos/701162504
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701162504/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-mercenarius/4.jpg
+  page: https://www.inaturalist.org/photos/734403674
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734403674/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-mercenarius/5.jpg
+  page: https://www.inaturalist.org/photos/469718124
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469718124/original.jpeg
 ---
 
 

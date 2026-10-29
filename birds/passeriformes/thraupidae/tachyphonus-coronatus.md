@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tachyphonus-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/604541064
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541064/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tachyphonus-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/604541064
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541064/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/605429724
+  author: Michel Pick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605429724/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/610487544
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610487544/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/610944165
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610944165/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/610838672
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610838672/original.jpg
 ---
 
 

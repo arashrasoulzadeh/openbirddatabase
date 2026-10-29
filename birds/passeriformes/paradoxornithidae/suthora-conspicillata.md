@@ -137,8 +137,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/suthora-conspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/347877039
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347877039/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/suthora-conspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/347877039
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347877039/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-conspicillata/2.jpg
+  page: https://www.inaturalist.org/photos/347877112
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347877112/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-conspicillata/3.jpg
+  page: https://www.inaturalist.org/photos/347877312
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347877312/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-conspicillata/4.jpg
+  page: https://www.inaturalist.org/photos/347877387
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347877387/original.jpg
 ---
 
 

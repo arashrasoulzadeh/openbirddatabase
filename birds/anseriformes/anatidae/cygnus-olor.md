@@ -231,10 +231,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/anseriformes/anatidae/cygnus-olor/1.jpg
+  page: https://www.inaturalist.org/photos/605076633
+  author: Mykola Borysenko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605076633/original.jpg
+images:
+- file: images/anseriformes/anatidae/cygnus-olor/1.jpg
+  page: https://www.inaturalist.org/photos/605076633
+  author: Mykola Borysenko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605076633/original.jpg
+- file: images/anseriformes/anatidae/cygnus-olor/2.jpg
+  page: https://www.inaturalist.org/photos/604931973
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604931973/original.jpg
+- file: images/anseriformes/anatidae/cygnus-olor/3.jpg
+  page: https://www.inaturalist.org/photos/605393539
+  author: Samuel Paitreault
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605393539/original.jpg
+- file: images/anseriformes/anatidae/cygnus-olor/4.jpg
+  page: https://www.inaturalist.org/photos/604479781
+  author: Andrew Cunnington
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604479781/original.jpg
+- file: images/anseriformes/anatidae/cygnus-olor/5.jpg
+  page: https://www.inaturalist.org/photos/604540584
+  author: olmagon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604540584/original.jpg
 ---
 
 

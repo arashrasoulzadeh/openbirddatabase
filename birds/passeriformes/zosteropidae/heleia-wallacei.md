@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/heleia-wallacei/1.jpg
+  page: https://www.inaturalist.org/photos/628845005
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628845005/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/heleia-wallacei/1.jpg
+  page: https://www.inaturalist.org/photos/628845005
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628845005/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-wallacei/2.jpg
+  page: https://www.inaturalist.org/photos/459611352
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459611352/original.jpeg
+- file: images/passeriformes/zosteropidae/heleia-wallacei/3.jpg
+  page: https://www.inaturalist.org/photos/466325657
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466325657/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-wallacei/4.jpg
+  page: https://www.inaturalist.org/photos/242795991
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242795991/original.jpeg
+- file: images/passeriformes/zosteropidae/heleia-wallacei/5.jpg
+  page: https://www.inaturalist.org/photos/576393465
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576393465/original.jpg
 ---
 
 

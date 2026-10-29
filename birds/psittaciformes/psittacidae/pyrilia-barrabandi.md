@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrilia-barrabandi/1.jpg
+  page: https://www.inaturalist.org/photos/612714614
+  author: Márcia Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612714614/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrilia-barrabandi/1.jpg
+  page: https://www.inaturalist.org/photos/612714614
+  author: Márcia Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612714614/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-barrabandi/2.jpg
+  page: https://www.inaturalist.org/photos/621068467
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621068467/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-barrabandi/3.jpg
+  page: https://www.inaturalist.org/photos/743279632
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743279632/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-barrabandi/4.jpg
+  page: https://www.inaturalist.org/photos/461906696
+  author: Andrew J. Crawford
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461906696/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-barrabandi/5.jpg
+  page: https://www.inaturalist.org/photos/486538234
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486538234/original.jpeg
 ---
 
 

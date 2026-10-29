@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-araucuan/1.jpg
+  page: https://www.inaturalist.org/photos/608013642
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608013642/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-araucuan/1.jpg
+  page: https://www.inaturalist.org/photos/608013642
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608013642/original.jpg
+- file: images/galliformes/cracidae/ortalis-araucuan/2.jpg
+  page: https://www.inaturalist.org/photos/676569272
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676569272/original.jpg
+- file: images/galliformes/cracidae/ortalis-araucuan/3.jpg
+  page: https://www.inaturalist.org/photos/698077344
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698077344/original.jpg
+- file: images/galliformes/cracidae/ortalis-araucuan/4.jpg
+  page: https://www.inaturalist.org/photos/712093758
+  author: Gabriel Cardoso Fialho
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712093758/original.jpg
+- file: images/galliformes/cracidae/ortalis-araucuan/5.jpg
+  page: https://www.inaturalist.org/photos/726035116
+  author: Lukas O. de Queiros
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726035116/original.jpg
 ---
 
 

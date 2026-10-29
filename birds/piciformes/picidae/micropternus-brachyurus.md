@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/micropternus-brachyurus/1.jpg
+  page: https://www.inaturalist.org/photos/616756226
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616756226/original.jpg
+images:
+- file: images/piciformes/picidae/micropternus-brachyurus/1.jpg
+  page: https://www.inaturalist.org/photos/616756226
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616756226/original.jpg
+- file: images/piciformes/picidae/micropternus-brachyurus/2.jpg
+  page: https://www.inaturalist.org/photos/618840213
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618840213/original.jpg
+- file: images/piciformes/picidae/micropternus-brachyurus/3.jpg
+  page: https://www.inaturalist.org/photos/618066933
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618066933/original.jpg
+- file: images/piciformes/picidae/micropternus-brachyurus/4.jpg
+  page: https://www.inaturalist.org/photos/741654806
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741654806/original.jpg
+- file: images/piciformes/picidae/micropternus-brachyurus/5.jpg
+  page: https://www.inaturalist.org/photos/628490668
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628490668/original.jpg
 ---
 
 

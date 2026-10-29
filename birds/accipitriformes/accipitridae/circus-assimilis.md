@@ -156,8 +156,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circus-assimilis/1.jpg
+  page: https://www.inaturalist.org/photos/658514696
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658514696/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-assimilis/1.jpg
+  page: https://www.inaturalist.org/photos/658514696
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658514696/original.jpg
+- file: images/accipitriformes/accipitridae/circus-assimilis/2.jpg
+  page: https://www.inaturalist.org/photos/674479108
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674479108/original.jpg
+- file: images/accipitriformes/accipitridae/circus-assimilis/3.jpg
+  page: https://www.inaturalist.org/photos/658514708
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658514708/original.jpg
+- file: images/accipitriformes/accipitridae/circus-assimilis/4.jpg
+  page: https://www.inaturalist.org/photos/674479129
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674479129/original.jpg
 ---
 
 

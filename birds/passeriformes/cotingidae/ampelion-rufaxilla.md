@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/ampelion-rufaxilla/1.jpg
+  page: https://www.inaturalist.org/photos/624772083
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624772083/original.jpg
+images:
+- file: images/passeriformes/cotingidae/ampelion-rufaxilla/1.jpg
+  page: https://www.inaturalist.org/photos/624772083
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624772083/original.jpg
+- file: images/passeriformes/cotingidae/ampelion-rufaxilla/2.jpg
+  page: https://www.inaturalist.org/photos/530087158
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530087158/original.jpg
+- file: images/passeriformes/cotingidae/ampelion-rufaxilla/3.jpg
+  page: https://www.inaturalist.org/photos/562818602
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562818602/original.jpg
+- file: images/passeriformes/cotingidae/ampelion-rufaxilla/4.jpg
+  page: https://www.inaturalist.org/photos/349357804
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349357804/original.jpg
+- file: images/passeriformes/cotingidae/ampelion-rufaxilla/5.jpg
+  page: https://www.inaturalist.org/photos/226864688
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226864688/original.jpeg
 ---
 
 

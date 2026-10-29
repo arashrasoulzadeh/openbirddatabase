@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/batis-erlangeri/1.jpg
+  page: https://www.inaturalist.org/photos/612352795
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352795/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/batis-erlangeri/1.jpg
+  page: https://www.inaturalist.org/photos/612352795
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352795/original.jpg
+- file: images/passeriformes/platysteiridae/batis-erlangeri/2.jpg
+  page: https://www.inaturalist.org/photos/442110525
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442110525/original.jpeg
+- file: images/passeriformes/platysteiridae/batis-erlangeri/3.jpg
+  page: https://www.inaturalist.org/photos/43304376
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/43304376/original.jpg
+- file: images/passeriformes/platysteiridae/batis-erlangeri/4.jpg
+  page: https://www.inaturalist.org/photos/4718702
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/4718702/original.jpeg
+- file: images/passeriformes/platysteiridae/batis-erlangeri/5.jpg
+  page: https://www.inaturalist.org/photos/609368539
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609368539/original.jpg
 ---
 
 

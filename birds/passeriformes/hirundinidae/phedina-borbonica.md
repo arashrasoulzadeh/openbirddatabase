@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/phedina-borbonica/1.jpg
+  page: https://www.inaturalist.org/photos/685444667
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685444667/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/phedina-borbonica/1.jpg
+  page: https://www.inaturalist.org/photos/685444667
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685444667/original.jpg
+- file: images/passeriformes/hirundinidae/phedina-borbonica/2.jpg
+  page: https://www.inaturalist.org/photos/464933666
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464933666/original.jpeg
+- file: images/passeriformes/hirundinidae/phedina-borbonica/3.jpg
+  page: https://www.inaturalist.org/photos/551721125
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551721125/original.jpg
+- file: images/passeriformes/hirundinidae/phedina-borbonica/4.jpg
+  page: https://www.inaturalist.org/photos/601960374
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601960374/original.jpg
+- file: images/passeriformes/hirundinidae/phedina-borbonica/5.jpg
+  page: https://www.inaturalist.org/photos/392753181
+  author: Nick Schaller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392753181/original.jpeg
 ---
 
 

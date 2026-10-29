@@ -126,8 +126,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/musophagiformes/musophagidae/crinifer-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/679450003
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679450003/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/crinifer-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/679450003
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679450003/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-leucogaster/2.jpg
+  page: https://www.inaturalist.org/photos/716612759
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716612759/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-leucogaster/3.jpg
+  page: https://www.inaturalist.org/photos/662512953
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662512953/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-leucogaster/4.jpg
+  page: https://www.inaturalist.org/photos/667245939
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667245939/original.jpg
+- file: images/musophagiformes/musophagidae/crinifer-leucogaster/5.jpg
+  page: https://www.inaturalist.org/photos/701779970
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701779970/original.jpg
 ---
 
 

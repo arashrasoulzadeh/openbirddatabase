@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/turdoides-hartlaubii/1.jpg
+  page: https://www.inaturalist.org/photos/567468204
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567468204/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/turdoides-hartlaubii/1.jpg
+  page: https://www.inaturalist.org/photos/567468204
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567468204/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-hartlaubii/2.jpg
+  page: https://www.inaturalist.org/photos/588943506
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588943506/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-hartlaubii/3.jpg
+  page: https://www.inaturalist.org/photos/375308414
+  author: mr_t_explorer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375308414/original.jpeg
+- file: images/passeriformes/leiothrichidae/turdoides-hartlaubii/4.jpg
+  page: https://www.inaturalist.org/photos/377093524
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/377093524/original.jpeg
+- file: images/passeriformes/leiothrichidae/turdoides-hartlaubii/5.jpg
+  page: https://www.inaturalist.org/photos/412313129
+  author: Jonas Kraft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412313129/original.jpg
 ---
 
 

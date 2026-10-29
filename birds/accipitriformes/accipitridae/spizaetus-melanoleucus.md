@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/spizaetus-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/607272770
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272770/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/spizaetus-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/607272770
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272770/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-melanoleucus/2.jpg
+  page: https://www.inaturalist.org/photos/607080511
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607080511/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-melanoleucus/3.jpg
+  page: https://www.inaturalist.org/photos/612764055
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612764055/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-melanoleucus/4.jpg
+  page: https://www.inaturalist.org/photos/609211282
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609211282/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-melanoleucus/5.jpg
+  page: https://www.inaturalist.org/photos/622524088
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622524088/original.jpg
 ---
 
 

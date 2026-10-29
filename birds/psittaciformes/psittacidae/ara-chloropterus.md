@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 50
+image:
+  file: images/psittaciformes/psittacidae/ara-chloropterus/1.jpg
+  page: https://www.inaturalist.org/photos/606014630
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014630/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/ara-chloropterus/1.jpg
+  page: https://www.inaturalist.org/photos/606014630
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014630/original.jpg
+- file: images/psittaciformes/psittacidae/ara-chloropterus/2.jpg
+  page: https://www.inaturalist.org/photos/616773972
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616773972/original.jpg
+- file: images/psittaciformes/psittacidae/ara-chloropterus/3.jpg
+  page: https://www.inaturalist.org/photos/638519634
+  author: Daniel Duarte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638519634/original.jpg
+- file: images/psittaciformes/psittacidae/ara-chloropterus/4.jpg
+  page: https://www.inaturalist.org/photos/650419779
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650419779/original.jpg
+- file: images/psittaciformes/psittacidae/ara-chloropterus/5.jpg
+  page: https://www.inaturalist.org/photos/714274308
+  author: Vinicius Gerolin Ceballos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714274308/original.jpg
 ---
 
 

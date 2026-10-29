@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/ptiloxena-atroviolacea/1.jpg
+  page: https://www.inaturalist.org/photos/612526843
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612526843/original.jpg
+images:
+- file: images/passeriformes/icteridae/ptiloxena-atroviolacea/1.jpg
+  page: https://www.inaturalist.org/photos/612526843
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612526843/original.jpg
+- file: images/passeriformes/icteridae/ptiloxena-atroviolacea/2.jpg
+  page: https://www.inaturalist.org/photos/635154770
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635154770/original.jpg
+- file: images/passeriformes/icteridae/ptiloxena-atroviolacea/3.jpg
+  page: https://www.inaturalist.org/photos/653285014
+  author: Andrea Gobetti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653285014/original.jpg
+- file: images/passeriformes/icteridae/ptiloxena-atroviolacea/4.jpg
+  page: https://www.inaturalist.org/photos/600838596
+  author: Charlie Barber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600838596/original.jpg
+- file: images/passeriformes/icteridae/ptiloxena-atroviolacea/5.jpg
+  page: https://www.inaturalist.org/photos/354014394
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354014394/original.jpeg
 ---
 
 

@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/phaethontiformes/phaethontidae/phaethon-aethereus/1.jpg
+  page: https://www.inaturalist.org/photos/607270942
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607270942/original.jpg
+images:
+- file: images/phaethontiformes/phaethontidae/phaethon-aethereus/1.jpg
+  page: https://www.inaturalist.org/photos/607270942
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607270942/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-aethereus/2.jpg
+  page: https://www.inaturalist.org/photos/610549574
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610549574/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-aethereus/3.jpg
+  page: https://www.inaturalist.org/photos/608683275
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608683275/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-aethereus/4.jpg
+  page: https://www.inaturalist.org/photos/612706465
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612706465/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-aethereus/5.jpg
+  page: https://www.inaturalist.org/photos/615796341
+  author: Quentin Groom
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615796341/original.jpg
 ---
 
 

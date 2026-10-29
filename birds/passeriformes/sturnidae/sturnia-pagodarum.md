@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/sturnia-pagodarum/1.jpg
+  page: https://www.inaturalist.org/photos/604436818
+  author: P Jeganathan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604436818/original.jpg
+images:
+- file: images/passeriformes/sturnidae/sturnia-pagodarum/1.jpg
+  page: https://www.inaturalist.org/photos/604436818
+  author: P Jeganathan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604436818/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-pagodarum/2.jpg
+  page: https://www.inaturalist.org/photos/618388765
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388765/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-pagodarum/3.jpg
+  page: https://www.inaturalist.org/photos/622468910
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622468910/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-pagodarum/4.jpg
+  page: https://www.inaturalist.org/photos/671607897
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671607897/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-pagodarum/5.jpg
+  page: https://www.inaturalist.org/photos/624398001
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624398001/original.jpg
 ---
 
 

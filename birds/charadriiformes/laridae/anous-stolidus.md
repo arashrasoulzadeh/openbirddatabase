@@ -215,10 +215,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/charadriiformes/laridae/anous-stolidus/1.jpg
+  page: https://www.inaturalist.org/photos/611244805
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611244805/original.jpg
+images:
+- file: images/charadriiformes/laridae/anous-stolidus/1.jpg
+  page: https://www.inaturalist.org/photos/611244805
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611244805/original.jpg
+- file: images/charadriiformes/laridae/anous-stolidus/2.jpg
+  page: https://www.inaturalist.org/photos/611037706
+  author: Richard Blake
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611037706/original.jpg
+- file: images/charadriiformes/laridae/anous-stolidus/3.jpg
+  page: https://www.inaturalist.org/photos/614553358
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553358/original.jpg
+- file: images/charadriiformes/laridae/anous-stolidus/4.jpg
+  page: https://www.inaturalist.org/photos/619729876
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619729876/original.jpg
+- file: images/charadriiformes/laridae/anous-stolidus/5.jpg
+  page: https://www.inaturalist.org/photos/621687179
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621687179/original.jpg
 ---
 
 

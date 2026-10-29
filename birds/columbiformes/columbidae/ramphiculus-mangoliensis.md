@@ -125,7 +125,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 23.4
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 158.6
   tail_length_mm: 123.9
   body_mass_g: 142.0
+image:
+  file: images/columbiformes/columbidae/ramphiculus-mangoliensis/1.jpg
+  page: https://www.inaturalist.org/photos/583509292
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509292/original.jpg
+images:
+- file: images/columbiformes/columbidae/ramphiculus-mangoliensis/1.jpg
+  page: https://www.inaturalist.org/photos/583509292
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509292/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-mangoliensis/2.jpg
+  page: https://www.inaturalist.org/photos/583509284
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509284/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-mangoliensis/3.jpg
+  page: https://www.inaturalist.org/photos/435253850
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253850/original.jpeg
+- file: images/columbiformes/columbidae/ramphiculus-mangoliensis/4.jpg
+  page: https://www.inaturalist.org/photos/435253844
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253844/original.jpeg
+- file: images/columbiformes/columbidae/ramphiculus-mangoliensis/5.jpg
+  page: https://www.inaturalist.org/photos/435253888
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253888/original.jpeg
 ---
 
 

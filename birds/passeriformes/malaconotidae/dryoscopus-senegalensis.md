@@ -156,8 +156,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/dryoscopus-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/629159798
+  author: yannapis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629159798/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/dryoscopus-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/629159798
+  author: yannapis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629159798/original.jpg
+- file: images/passeriformes/malaconotidae/dryoscopus-senegalensis/2.jpg
+  page: https://www.inaturalist.org/photos/115181370
+  author: bureaubenjamin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/115181370/original.jpeg
+- file: images/passeriformes/malaconotidae/dryoscopus-senegalensis/3.jpg
+  page: https://www.inaturalist.org/photos/629159926
+  author: yannapis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629159926/original.jpg
 ---
 
 

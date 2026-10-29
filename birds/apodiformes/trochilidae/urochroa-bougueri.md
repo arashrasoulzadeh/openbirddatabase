@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/urochroa-bougueri/1.jpg
+  page: https://www.inaturalist.org/photos/652851558
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652851558/original.jpg
+images:
+- file: images/apodiformes/trochilidae/urochroa-bougueri/1.jpg
+  page: https://www.inaturalist.org/photos/652851558
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652851558/original.jpg
+- file: images/apodiformes/trochilidae/urochroa-bougueri/2.jpg
+  page: https://www.inaturalist.org/photos/462531753
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462531753/original.jpeg
+- file: images/apodiformes/trochilidae/urochroa-bougueri/3.jpg
+  page: https://www.inaturalist.org/photos/527835384
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527835384/original.jpg
+- file: images/apodiformes/trochilidae/urochroa-bougueri/4.jpg
+  page: https://www.inaturalist.org/photos/548460378
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548460378/original.jpg
+- file: images/apodiformes/trochilidae/urochroa-bougueri/5.jpg
+  page: https://www.inaturalist.org/photos/604600822
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604600822/original.jpg
 ---
 
 

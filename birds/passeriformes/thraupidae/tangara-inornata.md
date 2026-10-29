@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/608028730
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608028730/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/608028730
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608028730/original.jpg
+- file: images/passeriformes/thraupidae/tangara-inornata/2.jpg
+  page: https://www.inaturalist.org/photos/612471531
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612471531/original.jpg
+- file: images/passeriformes/thraupidae/tangara-inornata/3.jpg
+  page: https://www.inaturalist.org/photos/611591900
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611591900/original.jpg
+- file: images/passeriformes/thraupidae/tangara-inornata/4.jpg
+  page: https://www.inaturalist.org/photos/633153161
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633153161/original.jpg
+- file: images/passeriformes/thraupidae/tangara-inornata/5.jpg
+  page: https://www.inaturalist.org/photos/612771349
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771349/original.jpg
 ---
 
 

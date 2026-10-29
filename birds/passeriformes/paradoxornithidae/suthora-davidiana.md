@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/suthora-davidiana/1.jpg
+  page: https://www.inaturalist.org/photos/486297269
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486297269/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/suthora-davidiana/1.jpg
+  page: https://www.inaturalist.org/photos/486297269
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486297269/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-davidiana/2.jpg
+  page: https://www.inaturalist.org/photos/507902300
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507902300/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-davidiana/3.jpg
+  page: https://www.inaturalist.org/photos/394663898
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394663898/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-davidiana/4.jpg
+  page: https://www.inaturalist.org/photos/547341284
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547341284/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-davidiana/5.jpg
+  page: https://www.inaturalist.org/photos/486297276
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486297276/original.jpg
 ---
 
 

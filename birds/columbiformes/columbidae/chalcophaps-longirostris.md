@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/chalcophaps-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/615359692
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615359692/original.jpg
+images:
+- file: images/columbiformes/columbidae/chalcophaps-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/615359692
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615359692/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/614080024
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614080024/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/651767255
+  author: Jane C Frost
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651767255/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/660518603
+  author: Peggy Newman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660518603/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/664877936
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664877936/original.jpg
 ---
 
 

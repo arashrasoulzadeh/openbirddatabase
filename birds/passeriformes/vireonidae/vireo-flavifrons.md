@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/vireonidae/vireo-flavifrons/1.jpg
+  page: https://www.inaturalist.org/photos/605579546
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605579546/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-flavifrons/1.jpg
+  page: https://www.inaturalist.org/photos/605579546
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605579546/original.jpg
+- file: images/passeriformes/vireonidae/vireo-flavifrons/2.jpg
+  page: https://www.inaturalist.org/photos/610562409
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610562409/original.jpg
+- file: images/passeriformes/vireonidae/vireo-flavifrons/3.jpg
+  page: https://www.inaturalist.org/photos/611574197
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611574197/original.jpg
+- file: images/passeriformes/vireonidae/vireo-flavifrons/4.jpg
+  page: https://www.inaturalist.org/photos/614717718
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717718/original.jpg
+- file: images/passeriformes/vireonidae/vireo-flavifrons/5.jpg
+  page: https://www.inaturalist.org/photos/617851720
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617851720/original.jpg
 ---
 
 

@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/passerellidae/spizella-breweri/1.jpg
+  page: https://www.inaturalist.org/photos/611984418
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611984418/original.jpg
+images:
+- file: images/passeriformes/passerellidae/spizella-breweri/1.jpg
+  page: https://www.inaturalist.org/photos/611984418
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611984418/original.jpg
+- file: images/passeriformes/passerellidae/spizella-breweri/2.jpg
+  page: https://www.inaturalist.org/photos/627727278
+  author: Katrina Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627727278/original.jpg
+- file: images/passeriformes/passerellidae/spizella-breweri/3.jpg
+  page: https://www.inaturalist.org/photos/631646474
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631646474/original.jpg
+- file: images/passeriformes/passerellidae/spizella-breweri/4.jpg
+  page: https://www.inaturalist.org/photos/641590510
+  author: Hydrocycler (Elizabeth Dougherty)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641590510/original.jpg
+- file: images/passeriformes/passerellidae/spizella-breweri/5.jpg
+  page: https://www.inaturalist.org/photos/680705295
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680705295/original.jpg
 ---
 
 

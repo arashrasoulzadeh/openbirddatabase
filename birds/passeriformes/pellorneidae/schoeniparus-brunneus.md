@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/schoeniparus-brunneus/1.jpg
+  page: https://www.inaturalist.org/photos/627488981
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627488981/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/schoeniparus-brunneus/1.jpg
+  page: https://www.inaturalist.org/photos/627488981
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627488981/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-brunneus/2.jpg
+  page: https://www.inaturalist.org/photos/661983915
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661983915/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-brunneus/3.jpg
+  page: https://www.inaturalist.org/photos/598722919
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598722919/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-brunneus/4.jpg
+  page: https://www.inaturalist.org/photos/591861673
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591861673/original.jpg
+- file: images/passeriformes/pellorneidae/schoeniparus-brunneus/5.jpg
+  page: https://www.inaturalist.org/photos/390270041
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390270041/original.jpg
 ---
 
 

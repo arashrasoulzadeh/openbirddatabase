@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-abyssinicus/1.jpg
+  page: https://www.inaturalist.org/photos/634873969
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634873969/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-abyssinicus/1.jpg
+  page: https://www.inaturalist.org/photos/634873969
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634873969/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-abyssinicus/2.jpg
+  page: https://www.inaturalist.org/photos/478313681
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478313681/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-abyssinicus/3.jpg
+  page: https://www.inaturalist.org/photos/598828474
+  author: Joey Bom
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598828474/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-abyssinicus/4.jpg
+  page: https://www.inaturalist.org/photos/605295656
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605295656/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-abyssinicus/5.jpg
+  page: https://www.inaturalist.org/photos/361016873
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361016873/original.jpeg
 ---
 
 

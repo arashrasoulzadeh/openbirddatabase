@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/granatellus-sallaei/1.jpg
+  page: https://www.inaturalist.org/photos/605423184
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605423184/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/granatellus-sallaei/1.jpg
+  page: https://www.inaturalist.org/photos/605423184
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605423184/original.jpg
+- file: images/passeriformes/cardinalidae/granatellus-sallaei/2.jpg
+  page: https://www.inaturalist.org/photos/610512205
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610512205/original.jpg
+- file: images/passeriformes/cardinalidae/granatellus-sallaei/3.jpg
+  page: https://www.inaturalist.org/photos/477814359
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477814359/original.jpeg
+- file: images/passeriformes/cardinalidae/granatellus-sallaei/4.jpg
+  page: https://www.inaturalist.org/photos/565068722
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565068722/original.jpg
+- file: images/passeriformes/cardinalidae/granatellus-sallaei/5.jpg
+  page: https://www.inaturalist.org/photos/581610531
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581610531/original.jpg
 ---
 
 

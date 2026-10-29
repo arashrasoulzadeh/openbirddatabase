@@ -145,8 +145,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/suthora-fulvifrons/1.jpg
+  page: https://www.inaturalist.org/photos/387772863
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387772863/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/suthora-fulvifrons/1.jpg
+  page: https://www.inaturalist.org/photos/387772863
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387772863/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-fulvifrons/2.jpg
+  page: https://www.inaturalist.org/photos/330499655
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330499655/original.jpeg
+- file: images/passeriformes/paradoxornithidae/suthora-fulvifrons/3.jpg
+  page: https://www.inaturalist.org/photos/330499678
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330499678/original.jpeg
 ---
 
 

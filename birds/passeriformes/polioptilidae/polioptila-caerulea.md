@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/polioptilidae/polioptila-caerulea/1.jpg
+  page: https://www.inaturalist.org/photos/605383428
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383428/original.jpg
+images:
+- file: images/passeriformes/polioptilidae/polioptila-caerulea/1.jpg
+  page: https://www.inaturalist.org/photos/605383428
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383428/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-caerulea/2.jpg
+  page: https://www.inaturalist.org/photos/605778444
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605778444/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-caerulea/3.jpg
+  page: https://www.inaturalist.org/photos/607092304
+  author: Wendy McCrady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607092304/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-caerulea/4.jpg
+  page: https://www.inaturalist.org/photos/608493852
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608493852/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-caerulea/5.jpg
+  page: https://www.inaturalist.org/photos/608713335
+  author: photosynthetic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608713335/original.jpg
 ---
 
 

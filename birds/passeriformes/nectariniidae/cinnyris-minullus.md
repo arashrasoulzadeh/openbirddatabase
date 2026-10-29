@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-minullus/1.jpg
+  page: https://www.inaturalist.org/photos/351063182
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063182/original.png
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-minullus/1.jpg
+  page: https://www.inaturalist.org/photos/351063182
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063182/original.png
+- file: images/passeriformes/nectariniidae/cinnyris-minullus/2.jpg
+  page: https://www.inaturalist.org/photos/63849153
+  author: Chris Quirin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63849153/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-minullus/3.jpg
+  page: https://www.inaturalist.org/photos/180601321
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180601321/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-minullus/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/INaturalistMainlandEG#5718349115893470162
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/88535/original.JPG
+- file: images/passeriformes/nectariniidae/cinnyris-minullus/5.jpg
+  page: https://www.inaturalist.org/photos/351063200
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063200/original.png
 ---
 
 

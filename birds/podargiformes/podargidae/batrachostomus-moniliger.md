@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/batrachostomus-moniliger/1.jpg
+  page: https://www.inaturalist.org/photos/612363867
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612363867/original.jpg
+images:
+- file: images/podargiformes/podargidae/batrachostomus-moniliger/1.jpg
+  page: https://www.inaturalist.org/photos/612363867
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612363867/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-moniliger/2.jpg
+  page: https://www.inaturalist.org/photos/727840904
+  author: bpryor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727840904/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-moniliger/3.jpg
+  page: https://www.inaturalist.org/photos/465713424
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465713424/original.jpeg
+- file: images/podargiformes/podargidae/batrachostomus-moniliger/4.jpg
+  page: https://www.inaturalist.org/photos/469032330
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469032330/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-moniliger/5.jpg
+  page: https://www.inaturalist.org/photos/469272103
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469272103/original.jpeg
 ---
 
 

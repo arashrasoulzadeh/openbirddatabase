@@ -132,8 +132,41 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/ixos-virescens/1.jpg
+  page: https://www.inaturalist.org/photos/288196591
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288196591/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/ixos-virescens/1.jpg
+  page: https://www.inaturalist.org/photos/288196591
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288196591/original.jpg
+- file: images/passeriformes/pycnonotidae/ixos-virescens/2.jpg
+  page: https://www.inaturalist.org/photos/80949211
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/80949211/original.jpeg
+- file: images/passeriformes/pycnonotidae/ixos-virescens/3.jpg
+  page: https://www.inaturalist.org/photos/313036211
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036211/original.jpeg
+- file: images/passeriformes/pycnonotidae/ixos-virescens/4.jpg
+  page: https://www.inaturalist.org/photos/313036245
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036245/original.jpeg
 ---
 
 

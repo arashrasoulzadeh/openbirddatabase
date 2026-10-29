@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-aberrans/1.jpg
+  page: https://www.inaturalist.org/photos/624180455
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624180455/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-aberrans/1.jpg
+  page: https://www.inaturalist.org/photos/624180455
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624180455/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-aberrans/2.jpg
+  page: https://www.inaturalist.org/photos/627628548
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627628548/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-aberrans/3.jpg
+  page: https://www.inaturalist.org/photos/698665146
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698665146/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-aberrans/4.jpg
+  page: https://www.inaturalist.org/photos/497242183
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497242183/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-aberrans/5.jpg
+  page: https://www.inaturalist.org/photos/561765915
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561765915/original.jpg
 ---
 
 

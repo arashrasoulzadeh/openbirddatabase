@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/psittaciformes/psittaculidae/neophema-splendida/1.jpg
+  page: https://www.inaturalist.org/photos/740474415
+  author: George
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740474415/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/neophema-splendida/1.jpg
+  page: https://www.inaturalist.org/photos/740474415
+  author: George
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740474415/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-splendida/2.jpg
+  page: https://www.inaturalist.org/photos/279876166
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279876166/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-splendida/3.jpg
+  page: https://www.inaturalist.org/photos/283698009
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283698009/original.jpeg
+- file: images/psittaciformes/psittaculidae/neophema-splendida/4.jpg
+  page: https://www.inaturalist.org/photos/740474492
+  author: George
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740474492/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-splendida/5.jpg
+  page: https://www.inaturalist.org/photos/283698439
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283698439/original.jpeg
 ---
 
 

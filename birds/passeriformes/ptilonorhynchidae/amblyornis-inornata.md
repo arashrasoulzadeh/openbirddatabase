@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptilonorhynchidae/amblyornis-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/614910773
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910773/original.jpg
+images:
+- file: images/passeriformes/ptilonorhynchidae/amblyornis-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/614910773
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910773/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/amblyornis-inornata/2.jpg
+  page: https://www.inaturalist.org/photos/623814320
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623814320/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/amblyornis-inornata/3.jpg
+  page: https://www.inaturalist.org/photos/340504318
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340504318/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/amblyornis-inornata/4.jpg
+  page: https://www.inaturalist.org/photos/248145815
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248145815/original.jpeg
+- file: images/passeriformes/ptilonorhynchidae/amblyornis-inornata/5.jpg
+  page: https://www.inaturalist.org/photos/615135448
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615135448/original.jpg
 ---
 
 

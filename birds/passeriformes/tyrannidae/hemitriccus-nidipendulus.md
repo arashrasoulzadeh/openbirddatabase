@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-nidipendulus/1.jpg
+  page: https://www.inaturalist.org/photos/649770955
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649770955/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-nidipendulus/1.jpg
+  page: https://www.inaturalist.org/photos/649770955
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649770955/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-nidipendulus/2.jpg
+  page: https://www.inaturalist.org/photos/697119560
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697119560/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-nidipendulus/3.jpg
+  page: https://www.inaturalist.org/photos/695868176
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695868176/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-nidipendulus/4.jpg
+  page: https://www.inaturalist.org/photos/470990617
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470990617/original.jpeg
+- file: images/passeriformes/tyrannidae/hemitriccus-nidipendulus/5.jpg
+  page: https://www.inaturalist.org/photos/492901950
+  author: Susan Blayney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492901950/original.jpeg
 ---
 
 

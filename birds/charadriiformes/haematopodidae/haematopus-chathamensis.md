@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-chathamensis/1.jpg
+  page: https://www.inaturalist.org/photos/608437561
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608437561/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-chathamensis/1.jpg
+  page: https://www.inaturalist.org/photos/608437561
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608437561/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-chathamensis/2.jpg
+  page: https://www.inaturalist.org/photos/554571218
+  author: Tim Park
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554571218/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-chathamensis/3.jpg
+  page: https://www.inaturalist.org/photos/412536263
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412536263/original.jpeg
+- file: images/charadriiformes/haematopodidae/haematopus-chathamensis/4.jpg
+  page: https://www.inaturalist.org/photos/450492728
+  author: rempson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450492728/original.jpeg
+- file: images/charadriiformes/haematopodidae/haematopus-chathamensis/5.jpg
+  page: https://www.inaturalist.org/photos/260015336
+  author: Rick Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260015336/original.jpg
 ---
 
 

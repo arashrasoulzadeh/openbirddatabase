@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/montecincla-fairbanki/1.jpg
+  page: https://www.inaturalist.org/photos/729665506
+  author: Nandita Madhu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729665506/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/montecincla-fairbanki/1.jpg
+  page: https://www.inaturalist.org/photos/729665506
+  author: Nandita Madhu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729665506/original.jpg
+- file: images/passeriformes/leiothrichidae/montecincla-fairbanki/2.jpg
+  page: https://www.inaturalist.org/photos/574540074
+  author: Surya
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574540074/original.jpg
+- file: images/passeriformes/leiothrichidae/montecincla-fairbanki/3.jpg
+  page: https://www.inaturalist.org/photos/722572462
+  author: Navaneeth Sini George
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722572462/original.jpg
+- file: images/passeriformes/leiothrichidae/montecincla-fairbanki/4.jpg
+  page: https://www.inaturalist.org/photos/382428300
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382428300/original.jpeg
+- file: images/passeriformes/leiothrichidae/montecincla-fairbanki/5.jpg
+  page: https://www.inaturalist.org/photos/388578683
+  author: renjus box
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388578683/original.jpeg
 ---
 
 

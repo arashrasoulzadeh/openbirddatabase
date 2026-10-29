@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/passeriformes/turdidae/turdus-iliacus/1.jpg
+  page: https://www.inaturalist.org/photos/605362983
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605362983/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-iliacus/1.jpg
+  page: https://www.inaturalist.org/photos/605362983
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605362983/original.jpg
+- file: images/passeriformes/turdidae/turdus-iliacus/2.jpg
+  page: https://www.inaturalist.org/photos/605417636
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417636/original.jpg
+- file: images/passeriformes/turdidae/turdus-iliacus/3.jpg
+  page: https://www.inaturalist.org/photos/604761867
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604761867/original.jpg
+- file: images/passeriformes/turdidae/turdus-iliacus/4.jpg
+  page: https://www.inaturalist.org/photos/605097763
+  author: Cara Ennis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605097763/original.jpg
+- file: images/passeriformes/turdidae/turdus-iliacus/5.jpg
+  page: https://www.inaturalist.org/photos/604497702
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604497702/original.jpg
 ---
 
 

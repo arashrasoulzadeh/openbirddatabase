@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-poecilorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/683183813
+  author: Hazel Chang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683183813/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-poecilorhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/683183813
+  author: Hazel Chang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683183813/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-poecilorhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/346197642
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346197642/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-poecilorhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/275794291
+  author: Chen Jia Hong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/275794291/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-poecilorhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/120401073
+  author: Yi-fan翊凡
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120401073/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-poecilorhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/39010350
+  author: Tatsutomo Chin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/39010350/original.jpg
 ---
 
 

@@ -237,10 +237,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/paridae/parus-major/1.jpg
+  page: https://www.inaturalist.org/photos/605034372
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605034372/original.jpg
+images:
+- file: images/passeriformes/paridae/parus-major/1.jpg
+  page: https://www.inaturalist.org/photos/605034372
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605034372/original.jpg
+- file: images/passeriformes/paridae/parus-major/2.jpg
+  page: https://www.inaturalist.org/photos/605026753
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605026753/original.jpg
+- file: images/passeriformes/paridae/parus-major/3.jpg
+  page: https://www.inaturalist.org/photos/605654309
+  author: Георгий Виноградов (Georgy Vinogradov)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605654309/original.jpg
+- file: images/passeriformes/paridae/parus-major/4.jpg
+  page: https://www.inaturalist.org/photos/605051149
+  author: Larissa Schatz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605051149/original.jpg
+- file: images/passeriformes/paridae/parus-major/5.jpg
+  page: https://www.inaturalist.org/photos/604477210
+  author: Petr Harant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604477210/original.jpg
 ---
 
 

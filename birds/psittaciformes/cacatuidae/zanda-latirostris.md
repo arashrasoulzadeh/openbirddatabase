@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/cacatuidae/zanda-latirostris/1.jpg
+  page: https://www.inaturalist.org/photos/616268411
+  author: Rob Beattie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616268411/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/zanda-latirostris/1.jpg
+  page: https://www.inaturalist.org/photos/616268411
+  author: Rob Beattie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616268411/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-latirostris/2.jpg
+  page: https://www.inaturalist.org/photos/617719188
+  author: Ariane Roberge
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617719188/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-latirostris/3.jpg
+  page: https://www.inaturalist.org/photos/619809460
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619809460/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-latirostris/4.jpg
+  page: https://www.inaturalist.org/photos/623828484
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623828484/original.jpg
+- file: images/psittaciformes/cacatuidae/zanda-latirostris/5.jpg
+  page: https://www.inaturalist.org/photos/625971622
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625971622/original.jpg
 ---
 
 

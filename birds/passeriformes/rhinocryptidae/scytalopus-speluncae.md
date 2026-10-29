@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-speluncae/1.jpg
+  page: https://www.inaturalist.org/photos/469388506
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469388506/original.jpeg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-speluncae/1.jpg
+  page: https://www.inaturalist.org/photos/469388506
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469388506/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-speluncae/2.jpg
+  page: https://www.inaturalist.org/photos/432129218
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/432129218/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-speluncae/3.jpg
+  page: https://www.inaturalist.org/photos/244790070
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244790070/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-speluncae/4.jpg
+  page: https://www.inaturalist.org/photos/277816644
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/277816644/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-speluncae/5.jpg
+  page: https://www.inaturalist.org/photos/418684465
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418684465/original.jpg
 ---
 
 

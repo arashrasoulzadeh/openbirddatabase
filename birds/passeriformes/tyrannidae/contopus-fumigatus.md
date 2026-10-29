@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/contopus-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/617507815
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507815/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/contopus-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/617507815
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507815/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-fumigatus/2.jpg
+  page: https://www.inaturalist.org/photos/699900379
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699900379/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-fumigatus/3.jpg
+  page: https://www.inaturalist.org/photos/608656294
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608656294/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-fumigatus/4.jpg
+  page: https://www.inaturalist.org/photos/724736641
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724736641/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-fumigatus/5.jpg
+  page: https://www.inaturalist.org/photos/489417032
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489417032/original.jpg
 ---
 
 

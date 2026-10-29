@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/furnariidae/lepidocolaptes-lacrymiger/1.jpg
+  page: https://www.inaturalist.org/photos/612625859
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612625859/original.jpg
+images:
+- file: images/passeriformes/furnariidae/lepidocolaptes-lacrymiger/1.jpg
+  page: https://www.inaturalist.org/photos/612625859
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612625859/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-lacrymiger/2.jpg
+  page: https://www.inaturalist.org/photos/697924960
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697924960/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-lacrymiger/3.jpg
+  page: https://www.inaturalist.org/photos/729179250
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729179250/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-lacrymiger/4.jpg
+  page: https://www.inaturalist.org/photos/741207476
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741207476/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-lacrymiger/5.jpg
+  page: https://www.inaturalist.org/photos/469416904
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469416904/original.jpg
 ---
 
 

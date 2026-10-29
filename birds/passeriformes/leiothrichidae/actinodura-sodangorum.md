@@ -135,8 +135,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/actinodura-sodangorum/1.jpg
+  page: https://www.inaturalist.org/photos/385411624
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385411624/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/actinodura-sodangorum/1.jpg
+  page: https://www.inaturalist.org/photos/385411624
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385411624/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-sodangorum/2.jpg
+  page: https://www.inaturalist.org/photos/105780027
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105780027/original.jpeg
+- file: images/passeriformes/leiothrichidae/actinodura-sodangorum/3.jpg
+  page: https://www.inaturalist.org/photos/385411631
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385411631/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-sodangorum/4.jpg
+  page: https://www.inaturalist.org/photos/105780034
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105780034/original.jpeg
+- file: images/passeriformes/leiothrichidae/actinodura-sodangorum/5.jpg
+  page: https://www.inaturalist.org/photos/105780041
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105780041/original.jpeg
 ---
 
 

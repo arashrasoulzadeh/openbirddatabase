@@ -132,8 +132,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-nilghiriensis/1.jpg
+  page: https://www.inaturalist.org/photos/691327897
+  author: Ashwin Srinivasan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691327897/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-nilghiriensis/1.jpg
+  page: https://www.inaturalist.org/photos/691327897
+  author: Ashwin Srinivasan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691327897/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nilghiriensis/2.jpg
+  page: https://www.inaturalist.org/photos/470532754
+  author: Siya ul haque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470532754/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-nilghiriensis/3.jpg
+  page: https://www.inaturalist.org/photos/722452568
+  author: Navaneeth Sini George
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722452568/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nilghiriensis/4.jpg
+  page: https://www.inaturalist.org/photos/382428229
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382428229/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-nilghiriensis/5.jpg
+  page: https://www.inaturalist.org/photos/388571804
+  author: renjus box
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388571804/original.jpeg
 ---
 
 

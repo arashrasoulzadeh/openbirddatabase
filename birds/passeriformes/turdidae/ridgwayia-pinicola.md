@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/ridgwayia-pinicola/1.jpg
+  page: https://www.inaturalist.org/photos/286054452
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286054452/original.jpeg
+images:
+- file: images/passeriformes/turdidae/ridgwayia-pinicola/1.jpg
+  page: https://www.inaturalist.org/photos/286054452
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286054452/original.jpeg
+- file: images/passeriformes/turdidae/ridgwayia-pinicola/2.jpg
+  page: https://www.inaturalist.org/photos/598411506
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598411506/original.jpg
+- file: images/passeriformes/turdidae/ridgwayia-pinicola/3.jpg
+  page: https://www.inaturalist.org/photos/286034318
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286034318/original.jpeg
+- file: images/passeriformes/turdidae/ridgwayia-pinicola/4.jpg
+  page: https://www.inaturalist.org/photos/286180590
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286180590/original.jpeg
+- file: images/passeriformes/turdidae/ridgwayia-pinicola/5.jpg
+  page: https://www.inaturalist.org/photos/286216480
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286216480/original.jpeg
 ---
 
 

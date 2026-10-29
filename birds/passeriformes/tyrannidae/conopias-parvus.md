@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/conopias-parvus/1.jpg
+  page: https://www.inaturalist.org/photos/619762829
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619762829/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/conopias-parvus/1.jpg
+  page: https://www.inaturalist.org/photos/619762829
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619762829/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-parvus/2.jpg
+  page: https://www.inaturalist.org/photos/468568446
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468568446/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-parvus/3.jpg
+  page: https://www.inaturalist.org/photos/585514695
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585514695/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-parvus/4.jpg
+  page: https://www.inaturalist.org/photos/351656977
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351656977/original.jpg
+- file: images/passeriformes/tyrannidae/conopias-parvus/5.jpg
+  page: https://www.inaturalist.org/photos/350274964
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350274964/original.jpg
 ---
 
 

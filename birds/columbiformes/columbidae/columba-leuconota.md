@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-leuconota/1.jpg
+  page: https://www.inaturalist.org/photos/485061667
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485061667/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-leuconota/1.jpg
+  page: https://www.inaturalist.org/photos/485061667
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485061667/original.jpg
+- file: images/columbiformes/columbidae/columba-leuconota/2.jpg
+  page: https://www.inaturalist.org/photos/519759376
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759376/original.jpg
+- file: images/columbiformes/columbidae/columba-leuconota/3.jpg
+  page: https://www.inaturalist.org/photos/585568043
+  author: V_Nebenfuehr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585568043/original.jpg
+- file: images/columbiformes/columbidae/columba-leuconota/4.jpg
+  page: https://www.inaturalist.org/photos/370514071
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370514071/original.jpeg
+- file: images/columbiformes/columbidae/columba-leuconota/5.jpg
+  page: https://www.inaturalist.org/photos/521762238
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762238/original.jpg
 ---
 
 

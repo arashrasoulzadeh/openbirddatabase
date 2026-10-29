@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hypocnemis-subflava/1.jpg
+  page: https://www.inaturalist.org/photos/497097196
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497097196/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/hypocnemis-subflava/1.jpg
+  page: https://www.inaturalist.org/photos/497097196
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497097196/original.jpeg
+- file: images/passeriformes/thamnophilidae/hypocnemis-subflava/2.jpg
+  page: https://www.inaturalist.org/photos/523686484
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686484/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemis-subflava/3.jpg
+  page: https://www.inaturalist.org/photos/470206230
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470206230/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemis-subflava/4.jpg
+  page: https://www.inaturalist.org/photos/327389874
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327389874/original.jpeg
+- file: images/passeriformes/thamnophilidae/hypocnemis-subflava/5.jpg
+  page: https://www.inaturalist.org/photos/327389860
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327389860/original.jpeg
 ---
 
 

@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/piciformes/picidae/picus-vaillantii/1.jpg
+  page: https://www.inaturalist.org/photos/615050091
+  author: Horatiu Stefanie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615050091/original.jpg
+images:
+- file: images/piciformes/picidae/picus-vaillantii/1.jpg
+  page: https://www.inaturalist.org/photos/615050091
+  author: Horatiu Stefanie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615050091/original.jpg
+- file: images/piciformes/picidae/picus-vaillantii/2.jpg
+  page: https://www.inaturalist.org/photos/619165421
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619165421/original.jpg
+- file: images/piciformes/picidae/picus-vaillantii/3.jpg
+  page: https://www.inaturalist.org/photos/621742462
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621742462/original.jpg
+- file: images/piciformes/picidae/picus-vaillantii/4.jpg
+  page: https://www.inaturalist.org/photos/635144012
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635144012/original.jpg
+- file: images/piciformes/picidae/picus-vaillantii/5.jpg
+  page: https://www.inaturalist.org/photos/667421460
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667421460/original.jpg
 ---
 
 

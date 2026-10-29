@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/colibri-cyanotus/1.jpg
+  page: https://www.inaturalist.org/photos/609220266
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609220266/original.jpg
+images:
+- file: images/apodiformes/trochilidae/colibri-cyanotus/1.jpg
+  page: https://www.inaturalist.org/photos/609220266
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609220266/original.jpg
+- file: images/apodiformes/trochilidae/colibri-cyanotus/2.jpg
+  page: https://www.inaturalist.org/photos/610091189
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610091189/original.jpg
+- file: images/apodiformes/trochilidae/colibri-cyanotus/3.jpg
+  page: https://www.inaturalist.org/photos/606700584
+  author: kristen_276
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606700584/original.jpg
+- file: images/apodiformes/trochilidae/colibri-cyanotus/4.jpg
+  page: https://www.inaturalist.org/photos/612444733
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612444733/original.jpg
+- file: images/apodiformes/trochilidae/colibri-cyanotus/5.jpg
+  page: https://www.inaturalist.org/photos/613427140
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613427140/original.jpg
 ---
 
 

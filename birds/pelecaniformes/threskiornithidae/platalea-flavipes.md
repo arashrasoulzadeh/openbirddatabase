@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/pelecaniformes/threskiornithidae/platalea-flavipes/1.jpg
+  page: https://www.inaturalist.org/photos/605000976
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605000976/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/platalea-flavipes/1.jpg
+  page: https://www.inaturalist.org/photos/605000976
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605000976/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-flavipes/2.jpg
+  page: https://www.inaturalist.org/photos/612418359
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612418359/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-flavipes/3.jpg
+  page: https://www.inaturalist.org/photos/611724121
+  author: Dylan Wishart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611724121/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-flavipes/4.jpg
+  page: https://www.inaturalist.org/photos/612920376
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612920376/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-flavipes/5.jpg
+  page: https://www.inaturalist.org/photos/605001642
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605001642/original.jpg
 ---
 
 

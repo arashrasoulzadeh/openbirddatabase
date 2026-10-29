@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/dacnis-flaviventer/1.jpg
+  page: https://www.inaturalist.org/photos/627380449
+  author: Susan Blayney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627380449/original.jpg
+images:
+- file: images/passeriformes/thraupidae/dacnis-flaviventer/1.jpg
+  page: https://www.inaturalist.org/photos/627380449
+  author: Susan Blayney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627380449/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-flaviventer/2.jpg
+  page: https://www.inaturalist.org/photos/511148285
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511148285/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-flaviventer/3.jpg
+  page: https://www.inaturalist.org/photos/555734216
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555734216/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-flaviventer/4.jpg
+  page: https://www.inaturalist.org/photos/578477177
+  author: Jason Hill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578477177/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-flaviventer/5.jpg
+  page: https://www.inaturalist.org/photos/611672328
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611672328/original.jpg
 ---
 
 

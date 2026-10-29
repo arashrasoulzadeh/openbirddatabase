@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/dromadidae/dromas-ardeola/1.jpg
+  page: https://www.inaturalist.org/photos/614547662
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614547662/original.jpg
+images:
+- file: images/charadriiformes/dromadidae/dromas-ardeola/1.jpg
+  page: https://www.inaturalist.org/photos/614547662
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614547662/original.jpg
+- file: images/charadriiformes/dromadidae/dromas-ardeola/2.jpg
+  page: https://www.inaturalist.org/photos/613421784
+  author: prodewald
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613421784/original.jpg
+- file: images/charadriiformes/dromadidae/dromas-ardeola/3.jpg
+  page: https://www.inaturalist.org/photos/618134856
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618134856/original.jpg
+- file: images/charadriiformes/dromadidae/dromas-ardeola/4.jpg
+  page: https://www.inaturalist.org/photos/644773340
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644773340/original.jpg
+- file: images/charadriiformes/dromadidae/dromas-ardeola/5.jpg
+  page: https://www.inaturalist.org/photos/471719659
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471719659/original.jpg
 ---
 
 

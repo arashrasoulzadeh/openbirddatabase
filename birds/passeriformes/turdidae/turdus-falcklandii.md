@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-falcklandii/1.jpg
+  page: https://www.inaturalist.org/photos/605655853
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605655853/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-falcklandii/1.jpg
+  page: https://www.inaturalist.org/photos/605655853
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605655853/original.jpg
+- file: images/passeriformes/turdidae/turdus-falcklandii/2.jpg
+  page: https://www.inaturalist.org/photos/609672653
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609672653/original.jpg
+- file: images/passeriformes/turdidae/turdus-falcklandii/3.jpg
+  page: https://www.inaturalist.org/photos/606697070
+  author: Francisco E. Fonturbel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606697070/original.jpg
+- file: images/passeriformes/turdidae/turdus-falcklandii/4.jpg
+  page: https://www.inaturalist.org/photos/609788503
+  author: Camila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609788503/original.jpg
+- file: images/passeriformes/turdidae/turdus-falcklandii/5.jpg
+  page: https://www.inaturalist.org/photos/610169270
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610169270/original.jpg
 ---
 
 

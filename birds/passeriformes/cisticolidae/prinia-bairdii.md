@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-bairdii/1.jpg
+  page: https://www.inaturalist.org/photos/601900141
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601900141/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-bairdii/1.jpg
+  page: https://www.inaturalist.org/photos/601900141
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601900141/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-bairdii/2.jpg
+  page: https://www.inaturalist.org/photos/592232567
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592232567/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-bairdii/3.jpg
+  page: https://www.inaturalist.org/photos/447990631
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447990631/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-bairdii/4.jpg
+  page: https://www.inaturalist.org/photos/29057092
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29057092/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-bairdii/5.jpg
+  page: https://www.inaturalist.org/photos/447737597
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447737597/original.jpeg
 ---
 
 

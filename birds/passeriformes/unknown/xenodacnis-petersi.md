@@ -129,8 +129,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/unknown/xenodacnis-petersi/1.jpg
+  page: https://www.inaturalist.org/photos/571115271
+  author: Connor Connolly-Moyls
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571115271/original.jpg
+images:
+- file: images/passeriformes/unknown/xenodacnis-petersi/1.jpg
+  page: https://www.inaturalist.org/photos/571115271
+  author: Connor Connolly-Moyls
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571115271/original.jpg
+- file: images/passeriformes/unknown/xenodacnis-petersi/2.jpg
+  page: https://www.inaturalist.org/photos/558777741
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558777741/original.jpg
+- file: images/passeriformes/unknown/xenodacnis-petersi/3.jpg
+  page: https://www.inaturalist.org/photos/583041785
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583041785/original.jpg
+- file: images/passeriformes/unknown/xenodacnis-petersi/4.jpg
+  page: https://www.inaturalist.org/photos/450683736
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450683736/original.jpeg
+- file: images/passeriformes/unknown/xenodacnis-petersi/5.jpg
+  page: https://www.inaturalist.org/photos/410332570
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410332570/original.jpeg
 ---
 
 # Xenodacnis petersi (توتخوار رگهدار)

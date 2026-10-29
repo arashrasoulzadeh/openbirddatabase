@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/clytorhynchus-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/341737258
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341737258/original.jpeg
+images:
+- file: images/passeriformes/monarchidae/clytorhynchus-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/341737258
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341737258/original.jpeg
+- file: images/passeriformes/monarchidae/clytorhynchus-nigrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/341737260
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341737260/original.jpeg
+- file: images/passeriformes/monarchidae/clytorhynchus-nigrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/341737259
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341737259/original.jpeg
+- file: images/passeriformes/monarchidae/clytorhynchus-nigrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/341737265
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341737265/original.jpeg
+- file: images/passeriformes/monarchidae/clytorhynchus-nigrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/341737266
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341737266/original.jpeg
 ---
 
 

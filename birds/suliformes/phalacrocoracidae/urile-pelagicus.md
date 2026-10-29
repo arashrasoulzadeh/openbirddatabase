@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/urile-pelagicus/1.jpg
+  page: https://www.inaturalist.org/photos/604958752
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604958752/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/urile-pelagicus/1.jpg
+  page: https://www.inaturalist.org/photos/604958752
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604958752/original.jpg
+- file: images/suliformes/phalacrocoracidae/urile-pelagicus/2.jpg
+  page: https://www.inaturalist.org/photos/607284075
+  author: Dominic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607284075/original.jpg
+- file: images/suliformes/phalacrocoracidae/urile-pelagicus/3.jpg
+  page: https://www.inaturalist.org/photos/608203496
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608203496/original.jpg
+- file: images/suliformes/phalacrocoracidae/urile-pelagicus/4.jpg
+  page: https://www.inaturalist.org/photos/607322184
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607322184/original.jpg
+- file: images/suliformes/phalacrocoracidae/urile-pelagicus/5.jpg
+  page: https://www.inaturalist.org/photos/610964205
+  author: Spencer Hurt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610964205/original.jpg
 ---
 
 

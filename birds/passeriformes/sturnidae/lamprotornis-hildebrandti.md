@@ -143,10 +143,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-hildebrandti/1.jpg
+  page: https://www.inaturalist.org/photos/677479803
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677479803/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-hildebrandti/1.jpg
+  page: https://www.inaturalist.org/photos/677479803
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677479803/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-hildebrandti/2.jpg
+  page: https://www.inaturalist.org/photos/716612825
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716612825/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-hildebrandti/3.jpg
+  page: https://www.inaturalist.org/photos/671852763
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671852763/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-hildebrandti/4.jpg
+  page: https://www.inaturalist.org/photos/728248094
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728248094/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-hildebrandti/5.jpg
+  page: https://www.inaturalist.org/photos/718535502
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718535502/original.jpg
 ---
 
 

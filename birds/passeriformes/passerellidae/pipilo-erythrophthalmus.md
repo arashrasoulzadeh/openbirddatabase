@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/passerellidae/pipilo-erythrophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/604900566
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604900566/original.jpg
+images:
+- file: images/passeriformes/passerellidae/pipilo-erythrophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/604900566
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604900566/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-erythrophthalmus/2.jpg
+  page: https://www.inaturalist.org/photos/604556361
+  author: Greg Walker
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604556361/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-erythrophthalmus/3.jpg
+  page: https://www.inaturalist.org/photos/604542784
+  author: M. Whitson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604542784/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-erythrophthalmus/4.jpg
+  page: https://www.inaturalist.org/photos/604876694
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604876694/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-erythrophthalmus/5.jpg
+  page: https://www.inaturalist.org/photos/605120485
+  author: Lindsey G.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605120485/original.jpg
 ---
 
 

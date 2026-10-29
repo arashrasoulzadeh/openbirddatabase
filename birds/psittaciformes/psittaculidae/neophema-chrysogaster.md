@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/neophema-chrysogaster/1.jpg
+  page: https://www.inaturalist.org/photos/664272191
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664272191/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/neophema-chrysogaster/1.jpg
+  page: https://www.inaturalist.org/photos/664272191
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664272191/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-chrysogaster/2.jpg
+  page: https://www.inaturalist.org/photos/693203656
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693203656/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-chrysogaster/3.jpg
+  page: https://www.inaturalist.org/photos/608567167
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608567167/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-chrysogaster/4.jpg
+  page: https://www.inaturalist.org/photos/664272213
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664272213/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-chrysogaster/5.jpg
+  page: https://www.inaturalist.org/photos/608567160
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608567160/original.jpg
 ---
 
 

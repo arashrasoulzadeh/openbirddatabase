@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 35
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-phaeopygia/1.jpg
+  page: https://www.inaturalist.org/photos/639500123
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639500123/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-phaeopygia/1.jpg
+  page: https://www.inaturalist.org/photos/639500123
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639500123/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-phaeopygia/2.jpg
+  page: https://www.inaturalist.org/photos/528432264
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528432264/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-phaeopygia/3.jpg
+  page: https://www.inaturalist.org/photos/349068081
+  author: Mirko Schoenitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349068081/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-phaeopygia/4.jpg
+  page: https://www.inaturalist.org/photos/458961296
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458961296/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-phaeopygia/5.jpg
+  page: https://www.inaturalist.org/photos/639500126
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639500126/original.jpg
 ---
 
 

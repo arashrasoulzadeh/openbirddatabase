@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/sasia-abnormis/1.jpg
+  page: https://www.inaturalist.org/photos/724470643
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724470643/original.jpg
+images:
+- file: images/piciformes/picidae/sasia-abnormis/1.jpg
+  page: https://www.inaturalist.org/photos/724470643
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724470643/original.jpg
+- file: images/piciformes/picidae/sasia-abnormis/2.jpg
+  page: https://www.inaturalist.org/photos/474915825
+  author: Joss Carr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474915825/original.jpg
+- file: images/piciformes/picidae/sasia-abnormis/3.jpg
+  page: https://www.inaturalist.org/photos/525699400
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525699400/original.jpg
+- file: images/piciformes/picidae/sasia-abnormis/4.jpg
+  page: https://www.inaturalist.org/photos/572077702
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077702/original.jpg
+- file: images/piciformes/picidae/sasia-abnormis/5.jpg
+  page: https://www.inaturalist.org/photos/599263912
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599263912/original.jpg
 ---
 
 

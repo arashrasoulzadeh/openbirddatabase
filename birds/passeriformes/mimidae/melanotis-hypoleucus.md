@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/melanotis-hypoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/611585569
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585569/original.jpg
+images:
+- file: images/passeriformes/mimidae/melanotis-hypoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/611585569
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585569/original.jpg
+- file: images/passeriformes/mimidae/melanotis-hypoleucus/2.jpg
+  page: https://www.inaturalist.org/photos/476627797
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476627797/original.jpeg
+- file: images/passeriformes/mimidae/melanotis-hypoleucus/3.jpg
+  page: https://www.inaturalist.org/photos/488100754
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488100754/original.jpeg
+- file: images/passeriformes/mimidae/melanotis-hypoleucus/4.jpg
+  page: https://www.inaturalist.org/photos/600631494
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600631494/original.jpg
+- file: images/passeriformes/mimidae/melanotis-hypoleucus/5.jpg
+  page: https://www.inaturalist.org/photos/348186224
+  author: Sobeida Morales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348186224/original.jpeg
 ---
 
 

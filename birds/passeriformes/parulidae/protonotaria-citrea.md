@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/parulidae/protonotaria-citrea/1.jpg
+  page: https://www.inaturalist.org/photos/607496777
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607496777/original.jpg
+images:
+- file: images/passeriformes/parulidae/protonotaria-citrea/1.jpg
+  page: https://www.inaturalist.org/photos/607496777
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607496777/original.jpg
+- file: images/passeriformes/parulidae/protonotaria-citrea/2.jpg
+  page: https://www.inaturalist.org/photos/610072972
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610072972/original.jpg
+- file: images/passeriformes/parulidae/protonotaria-citrea/3.jpg
+  page: https://www.inaturalist.org/photos/606243013
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606243013/original.jpg
+- file: images/passeriformes/parulidae/protonotaria-citrea/4.jpg
+  page: https://www.inaturalist.org/photos/614651770
+  author: Carlos Ceballos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614651770/original.jpg
+- file: images/passeriformes/parulidae/protonotaria-citrea/5.jpg
+  page: https://www.inaturalist.org/photos/619724996
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619724996/original.jpg
 ---
 
 

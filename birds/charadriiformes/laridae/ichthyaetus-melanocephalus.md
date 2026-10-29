@@ -152,7 +152,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 42.2
@@ -167,6 +168,44 @@ reproduction:
   broods_per_year: 1
   incubation_days: 24
   fledging_days: 38
+image:
+  file: images/charadriiformes/laridae/ichthyaetus-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/605350907
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605350907/original.jpg
+images:
+- file: images/charadriiformes/laridae/ichthyaetus-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/605350907
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605350907/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-melanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/604776518
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604776518/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-melanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/605565564
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605565564/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-melanocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/606892898
+  author: Svend Hansen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606892898/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-melanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/606826196
+  author: Vasco Henrique Oliveira Fonseca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606826196/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/stictonetta-naevosa/1.jpg
+  page: https://www.inaturalist.org/photos/610146450
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146450/original.jpg
+images:
+- file: images/anseriformes/anatidae/stictonetta-naevosa/1.jpg
+  page: https://www.inaturalist.org/photos/610146450
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146450/original.jpg
+- file: images/anseriformes/anatidae/stictonetta-naevosa/2.jpg
+  page: https://www.inaturalist.org/photos/613727570
+  author: SatNavSaysStraightOn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613727570/original.jpg
+- file: images/anseriformes/anatidae/stictonetta-naevosa/3.jpg
+  page: https://www.inaturalist.org/photos/632499421
+  author: jonathon love
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632499421/original.jpg
+- file: images/anseriformes/anatidae/stictonetta-naevosa/4.jpg
+  page: https://www.inaturalist.org/photos/661212699
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661212699/original.jpg
+- file: images/anseriformes/anatidae/stictonetta-naevosa/5.jpg
+  page: https://www.inaturalist.org/photos/610146465
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146465/original.jpg
 ---
 
 

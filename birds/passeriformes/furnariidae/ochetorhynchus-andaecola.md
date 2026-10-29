@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/ochetorhynchus-andaecola/1.jpg
+  page: https://www.inaturalist.org/photos/651543803
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651543803/original.jpg
+images:
+- file: images/passeriformes/furnariidae/ochetorhynchus-andaecola/1.jpg
+  page: https://www.inaturalist.org/photos/651543803
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651543803/original.jpg
+- file: images/passeriformes/furnariidae/ochetorhynchus-andaecola/2.jpg
+  page: https://www.inaturalist.org/photos/743839756
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743839756/original.jpg
+- file: images/passeriformes/furnariidae/ochetorhynchus-andaecola/3.jpg
+  page: https://www.inaturalist.org/photos/490650468
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490650468/original.jpeg
+- file: images/passeriformes/furnariidae/ochetorhynchus-andaecola/4.jpg
+  page: https://www.inaturalist.org/photos/573075883
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573075883/original.jpg
+- file: images/passeriformes/furnariidae/ochetorhynchus-andaecola/5.jpg
+  page: https://www.inaturalist.org/photos/590873348
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590873348/original.jpg
 ---
 
 

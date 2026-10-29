@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/spelaeornis-oatesi/1.jpg
+  page: https://www.inaturalist.org/photos/722403325
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403325/original.jpg
+images:
+- file: images/passeriformes/timaliidae/spelaeornis-oatesi/1.jpg
+  page: https://www.inaturalist.org/photos/722403325
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403325/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-oatesi/2.jpg
+  page: https://www.inaturalist.org/photos/722403340
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403340/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-oatesi/3.jpg
+  page: https://www.inaturalist.org/photos/722403349
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403349/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-oatesi/4.jpg
+  page: https://www.inaturalist.org/photos/722403348
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403348/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-oatesi/5.jpg
+  page: https://www.inaturalist.org/photos/548756440
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548756440/original.jpg
 ---
 
 

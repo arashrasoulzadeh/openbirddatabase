@@ -141,8 +141,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/laterallus-rogersi/1.jpg
+  page: http://www.flickr.com/photos/19731486@N07/7100333775
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104246/original.jpg
+images:
+- file: images/gruiformes/rallidae/laterallus-rogersi/1.jpg
+  page: http://www.flickr.com/photos/19731486@N07/7100333775
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104246/original.jpg
+- file: images/gruiformes/rallidae/laterallus-rogersi/2.jpg
+  page: http://www.flickr.com/photos/19731486@N07/6954264628
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104247/original.jpg
+- file: images/gruiformes/rallidae/laterallus-rogersi/3.jpg
+  page: http://www.flickr.com/photos/19731486@N07/6954262582
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104248/original.jpg
+- file: images/gruiformes/rallidae/laterallus-rogersi/4.jpg
+  page: http://www.flickr.com/photos/19731486@N07/6954261774
+  author: Brian Gratwicke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104249/original.jpg
 ---
 
 

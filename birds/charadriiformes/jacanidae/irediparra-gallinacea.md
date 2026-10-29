@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/jacanidae/irediparra-gallinacea/1.jpg
+  page: https://www.inaturalist.org/photos/604995027
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604995027/original.jpg
+images:
+- file: images/charadriiformes/jacanidae/irediparra-gallinacea/1.jpg
+  page: https://www.inaturalist.org/photos/604995027
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604995027/original.jpg
+- file: images/charadriiformes/jacanidae/irediparra-gallinacea/2.jpg
+  page: https://www.inaturalist.org/photos/605843760
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605843760/original.jpg
+- file: images/charadriiformes/jacanidae/irediparra-gallinacea/3.jpg
+  page: https://www.inaturalist.org/photos/613839972
+  author: dieterhochuli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613839972/original.jpg
+- file: images/charadriiformes/jacanidae/irediparra-gallinacea/4.jpg
+  page: https://www.inaturalist.org/photos/620431498
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620431498/original.jpg
+- file: images/charadriiformes/jacanidae/irediparra-gallinacea/5.jpg
+  page: https://www.inaturalist.org/photos/629102540
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629102540/original.jpg
 ---
 
 

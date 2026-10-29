@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-insularis/1.jpg
+  page: https://www.inaturalist.org/photos/677580705
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677580705/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-insularis/1.jpg
+  page: https://www.inaturalist.org/photos/677580705
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677580705/original.jpg
+- file: images/passeriformes/passeridae/passer-insularis/2.jpg
+  page: https://www.inaturalist.org/photos/336780382
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336780382/original.jpeg
+- file: images/passeriformes/passeridae/passer-insularis/3.jpg
+  page: https://www.inaturalist.org/photos/177673594
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177673594/original.jpg
+- file: images/passeriformes/passeridae/passer-insularis/4.jpg
+  page: https://www.inaturalist.org/photos/88513487
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/88513487/original.jpeg
+- file: images/passeriformes/passeridae/passer-insularis/5.jpg
+  page: https://www.inaturalist.org/photos/677580724
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677580724/original.jpg
 ---
 
 

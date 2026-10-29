@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/kleinothraupis-parodii/1.jpg
+  page: https://www.inaturalist.org/photos/483911957
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483911957/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/kleinothraupis-parodii/1.jpg
+  page: https://www.inaturalist.org/photos/483911957
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483911957/original.jpeg
+- file: images/passeriformes/thraupidae/kleinothraupis-parodii/2.jpg
+  page: https://www.inaturalist.org/photos/339580652
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339580652/original.jpeg
+- file: images/passeriformes/thraupidae/kleinothraupis-parodii/3.jpg
+  page: https://www.inaturalist.org/photos/339580651
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339580651/original.jpeg
+- file: images/passeriformes/thraupidae/kleinothraupis-parodii/4.jpg
+  page: https://www.inaturalist.org/photos/339580653
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339580653/original.jpeg
+- file: images/passeriformes/thraupidae/kleinothraupis-parodii/5.jpg
+  page: https://www.inaturalist.org/photos/339580665
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339580665/original.jpeg
 ---
 
 

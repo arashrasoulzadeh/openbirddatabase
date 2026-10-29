@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geophaps-scripta/1.jpg
+  page: https://www.inaturalist.org/photos/671520478
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671520478/original.jpg
+images:
+- file: images/columbiformes/columbidae/geophaps-scripta/1.jpg
+  page: https://www.inaturalist.org/photos/671520478
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671520478/original.jpg
+- file: images/columbiformes/columbidae/geophaps-scripta/2.jpg
+  page: https://www.inaturalist.org/photos/705892237
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705892237/original.jpg
+- file: images/columbiformes/columbidae/geophaps-scripta/3.jpg
+  page: https://www.inaturalist.org/photos/718749667
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718749667/original.jpg
+- file: images/columbiformes/columbidae/geophaps-scripta/4.jpg
+  page: https://www.inaturalist.org/photos/722726797
+  author: Bethlea Bell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722726797/original.jpg
+- file: images/columbiformes/columbidae/geophaps-scripta/5.jpg
+  page: https://www.inaturalist.org/photos/726180629
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726180629/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/oreopsar-bolivianus/1.jpg
+  page: https://www.inaturalist.org/photos/648981456
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648981456/original.jpg
+images:
+- file: images/passeriformes/icteridae/oreopsar-bolivianus/1.jpg
+  page: https://www.inaturalist.org/photos/648981456
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648981456/original.jpg
+- file: images/passeriformes/icteridae/oreopsar-bolivianus/2.jpg
+  page: https://www.inaturalist.org/photos/494228230
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/494228230/original.jpeg
+- file: images/passeriformes/icteridae/oreopsar-bolivianus/3.jpg
+  page: https://www.inaturalist.org/photos/586528536
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586528536/original.jpg
+- file: images/passeriformes/icteridae/oreopsar-bolivianus/4.jpg
+  page: https://www.inaturalist.org/photos/217570332
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/217570332/original.jpg
+- file: images/passeriformes/icteridae/oreopsar-bolivianus/5.jpg
+  page: https://www.inaturalist.org/photos/233768519
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233768519/original.jpeg
 ---
 
 

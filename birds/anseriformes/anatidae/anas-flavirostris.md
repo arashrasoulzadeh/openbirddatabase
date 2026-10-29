@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605553066
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605553066/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605553066
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605553066/original.jpg
+- file: images/anseriformes/anatidae/anas-flavirostris/2.jpg
+  page: https://www.inaturalist.org/photos/609374299
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609374299/original.jpg
+- file: images/anseriformes/anatidae/anas-flavirostris/3.jpg
+  page: https://www.inaturalist.org/photos/607247281
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607247281/original.jpg
+- file: images/anseriformes/anatidae/anas-flavirostris/4.jpg
+  page: https://www.inaturalist.org/photos/609956157
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609956157/original.jpg
+- file: images/anseriformes/anatidae/anas-flavirostris/5.jpg
+  page: https://www.inaturalist.org/photos/608914716
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608914716/original.jpg
 ---
 
 

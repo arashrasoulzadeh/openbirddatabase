@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lophornis-magnificus/1.jpg
+  page: https://www.inaturalist.org/photos/609320636
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320636/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lophornis-magnificus/1.jpg
+  page: https://www.inaturalist.org/photos/609320636
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320636/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-magnificus/2.jpg
+  page: https://www.inaturalist.org/photos/609930808
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930808/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-magnificus/3.jpg
+  page: https://www.inaturalist.org/photos/713998531
+  author: Jean Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713998531/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-magnificus/4.jpg
+  page: https://www.inaturalist.org/photos/697853243
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697853243/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-magnificus/5.jpg
+  page: https://www.inaturalist.org/photos/475375304
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475375304/original.jpeg
 ---
 
 

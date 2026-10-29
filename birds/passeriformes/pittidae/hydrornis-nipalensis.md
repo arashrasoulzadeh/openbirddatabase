@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/hydrornis-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/617077030
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617077030/original.jpg
+images:
+- file: images/passeriformes/pittidae/hydrornis-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/617077030
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617077030/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-nipalensis/2.jpg
+  page: https://www.inaturalist.org/photos/509859779
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509859779/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-nipalensis/3.jpg
+  page: https://www.inaturalist.org/photos/358956143
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358956143/original.jpeg
+- file: images/passeriformes/pittidae/hydrornis-nipalensis/4.jpg
+  page: https://www.inaturalist.org/photos/534795220
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534795220/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-nipalensis/5.jpg
+  page: https://www.inaturalist.org/photos/91307277
+  author: Yves Bas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91307277/original.jpeg
 ---
 
 

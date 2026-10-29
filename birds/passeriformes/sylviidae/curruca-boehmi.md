@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-boehmi/1.jpg
+  page: https://www.inaturalist.org/photos/721744759
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721744759/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-boehmi/1.jpg
+  page: https://www.inaturalist.org/photos/721744759
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721744759/original.jpg
+- file: images/passeriformes/sylviidae/curruca-boehmi/2.jpg
+  page: https://www.inaturalist.org/photos/585228181
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585228181/original.jpg
+- file: images/passeriformes/sylviidae/curruca-boehmi/3.jpg
+  page: https://www.inaturalist.org/photos/589256381
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589256381/original.jpg
+- file: images/passeriformes/sylviidae/curruca-boehmi/4.jpg
+  page: https://www.inaturalist.org/photos/162945759
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/162945759/original.jpeg
+- file: images/passeriformes/sylviidae/curruca-boehmi/5.jpg
+  page: https://www.inaturalist.org/photos/721744795
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721744795/original.jpg
 ---
 
 

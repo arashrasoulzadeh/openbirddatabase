@@ -132,7 +132,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 25.0
@@ -140,6 +141,32 @@ morphology:
   wing_length_mm: 196.8
   tail_length_mm: 162.2
   body_mass_g: 340.0
+image:
+  file: images/columbiformes/columbidae/turacoena-modesta/1.jpg
+  page: https://www.inaturalist.org/photos/332868786
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332868786/original.jpeg
+images:
+- file: images/columbiformes/columbidae/turacoena-modesta/1.jpg
+  page: https://www.inaturalist.org/photos/332868786
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332868786/original.jpeg
+- file: images/columbiformes/columbidae/turacoena-modesta/2.jpg
+  page: https://www.inaturalist.org/photos/337787582
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787582/original.jpeg
+- file: images/columbiformes/columbidae/turacoena-modesta/3.jpg
+  page: https://www.inaturalist.org/photos/332868415
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332868415/original.jpeg
 ---
 
 

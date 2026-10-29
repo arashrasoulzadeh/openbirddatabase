@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/melidectes-rufocrissalis/1.jpg
+  page: https://www.inaturalist.org/photos/698813460
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813460/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/melidectes-rufocrissalis/1.jpg
+  page: https://www.inaturalist.org/photos/698813460
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813460/original.jpg
+- file: images/passeriformes/meliphagidae/melidectes-rufocrissalis/2.jpg
+  page: https://www.inaturalist.org/photos/335781192
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335781192/original.jpg
+- file: images/passeriformes/meliphagidae/melidectes-rufocrissalis/3.jpg
+  page: https://www.inaturalist.org/photos/698813465
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813465/original.jpg
+- file: images/passeriformes/meliphagidae/melidectes-rufocrissalis/4.jpg
+  page: https://www.inaturalist.org/photos/699379194
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379194/original.jpg
+- file: images/passeriformes/meliphagidae/melidectes-rufocrissalis/5.jpg
+  page: https://www.inaturalist.org/photos/699379196
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379196/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/geospiza-conirostris/1.jpg
+  page: https://www.inaturalist.org/photos/528414120
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528414120/original.jpg
+images:
+- file: images/passeriformes/thraupidae/geospiza-conirostris/1.jpg
+  page: https://www.inaturalist.org/photos/528414120
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528414120/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-conirostris/2.jpg
+  page: https://www.inaturalist.org/photos/611817791
+  author: Melissa Meadows
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611817791/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-conirostris/3.jpg
+  page: https://www.inaturalist.org/photos/458071064
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458071064/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-conirostris/4.jpg
+  page: https://www.inaturalist.org/photos/287558120
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/287558120/original.jpeg
+- file: images/passeriformes/thraupidae/geospiza-conirostris/5.jpg
+  page: https://www.inaturalist.org/photos/126198274
+  author: Juan Carlos Caicedo Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/126198274/original.jpeg
 ---
 
 

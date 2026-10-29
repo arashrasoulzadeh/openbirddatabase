@@ -153,8 +153,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-spodiopygius/1.jpg
+  page: https://www.inaturalist.org/photos/728448865
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728448865/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-spodiopygius/1.jpg
+  page: https://www.inaturalist.org/photos/728448865
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728448865/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-spodiopygius/2.jpg
+  page: https://www.inaturalist.org/photos/361482484
+  author: Shelomi Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361482484/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-spodiopygius/3.jpg
+  page: https://www.inaturalist.org/photos/393062070
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393062070/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-spodiopygius/4.jpg
+  page: https://www.inaturalist.org/photos/434698069
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434698069/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-spodiopygius/5.jpg
+  page: https://www.inaturalist.org/photos/341736446
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341736446/original.jpeg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendropicos-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/555829055
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555829055/original.jpg
+images:
+- file: images/piciformes/picidae/dendropicos-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/555829055
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555829055/original.jpg
+- file: images/piciformes/picidae/dendropicos-lugubris/2.jpg
+  page: https://www.inaturalist.org/photos/345046479
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345046479/original.jpeg
+- file: images/piciformes/picidae/dendropicos-lugubris/3.jpg
+  page: https://www.inaturalist.org/photos/555829052
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555829052/original.jpg
+- file: images/piciformes/picidae/dendropicos-lugubris/4.jpg
+  page: https://www.inaturalist.org/photos/555829143
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555829143/original.jpg
+- file: images/piciformes/picidae/dendropicos-lugubris/5.jpg
+  page: https://www.inaturalist.org/photos/555829145
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555829145/original.jpg
 ---
 
 

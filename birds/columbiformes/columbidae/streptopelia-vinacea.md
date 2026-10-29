@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/streptopelia-vinacea/1.jpg
+  page: https://www.inaturalist.org/photos/613015795
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613015795/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-vinacea/1.jpg
+  page: https://www.inaturalist.org/photos/613015795
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613015795/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-vinacea/2.jpg
+  page: https://www.inaturalist.org/photos/631142447
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631142447/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-vinacea/3.jpg
+  page: https://www.inaturalist.org/photos/637956951
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637956951/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-vinacea/4.jpg
+  page: https://www.inaturalist.org/photos/471408216
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471408216/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-vinacea/5.jpg
+  page: https://www.inaturalist.org/photos/613015812
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613015812/original.jpg
 ---
 
 

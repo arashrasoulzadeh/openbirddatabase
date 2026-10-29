@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/parulidae/cardellina-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/648177637
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648177637/original.jpg
+images:
+- file: images/passeriformes/parulidae/cardellina-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/648177637
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648177637/original.jpg
+- file: images/passeriformes/parulidae/cardellina-canadensis/2.jpg
+  page: https://www.inaturalist.org/photos/652807646
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652807646/original.jpg
+- file: images/passeriformes/parulidae/cardellina-canadensis/3.jpg
+  page: https://www.inaturalist.org/photos/649452870
+  author: Steve Young
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649452870/original.jpg
+- file: images/passeriformes/parulidae/cardellina-canadensis/4.jpg
+  page: https://www.inaturalist.org/photos/657661491
+  author: Daniel Carr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657661491/original.jpg
+- file: images/passeriformes/parulidae/cardellina-canadensis/5.jpg
+  page: https://www.inaturalist.org/photos/657359253
+  author: Ryan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657359253/original.jpg
 ---
 
 

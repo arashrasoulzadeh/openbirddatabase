@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-explorator/1.jpg
+  page: https://www.inaturalist.org/photos/714525547
+  author: Malte Krömer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714525547/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-explorator/1.jpg
+  page: https://www.inaturalist.org/photos/714525547
+  author: Malte Krömer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714525547/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-explorator/2.jpg
+  page: https://www.inaturalist.org/photos/709647267
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709647267/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-explorator/3.jpg
+  page: https://www.inaturalist.org/photos/742519628
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742519628/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-explorator/4.jpg
+  page: https://www.inaturalist.org/photos/513910292
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513910292/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-explorator/5.jpg
+  page: https://www.inaturalist.org/photos/357667013
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357667013/original.jpeg
 ---
 
 

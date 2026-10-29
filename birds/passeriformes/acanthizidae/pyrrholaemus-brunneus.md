@@ -147,10 +147,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/acanthizidae/pyrrholaemus-brunneus/1.jpg
+  page: https://www.inaturalist.org/photos/586859069
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586859069/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/pyrrholaemus-brunneus/1.jpg
+  page: https://www.inaturalist.org/photos/586859069
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586859069/original.jpg
+- file: images/passeriformes/acanthizidae/pyrrholaemus-brunneus/2.jpg
+  page: https://www.inaturalist.org/photos/559605103
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559605103/original.jpg
+- file: images/passeriformes/acanthizidae/pyrrholaemus-brunneus/3.jpg
+  page: https://www.inaturalist.org/photos/560881186
+  author: c_knut_lord
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560881186/original.jpg
+- file: images/passeriformes/acanthizidae/pyrrholaemus-brunneus/4.jpg
+  page: https://www.inaturalist.org/photos/439333506
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333506/original.jpg
+- file: images/passeriformes/acanthizidae/pyrrholaemus-brunneus/5.jpg
+  page: https://www.inaturalist.org/photos/586859112
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586859112/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/lybius-guifsobalito/1.jpg
+  page: https://www.inaturalist.org/photos/548872064
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548872064/original.jpg
+images:
+- file: images/piciformes/lybiidae/lybius-guifsobalito/1.jpg
+  page: https://www.inaturalist.org/photos/548872064
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548872064/original.jpg
+- file: images/piciformes/lybiidae/lybius-guifsobalito/2.jpg
+  page: https://www.inaturalist.org/photos/566650583
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566650583/original.jpg
+- file: images/piciformes/lybiidae/lybius-guifsobalito/3.jpg
+  page: https://www.inaturalist.org/photos/394183230
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394183230/original.jpg
+- file: images/piciformes/lybiidae/lybius-guifsobalito/4.jpg
+  page: https://www.inaturalist.org/photos/442084694
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442084694/original.jpeg
+- file: images/piciformes/lybiidae/lybius-guifsobalito/5.jpg
+  page: https://www.inaturalist.org/photos/219489867
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219489867/original.jpg
 ---
 
 

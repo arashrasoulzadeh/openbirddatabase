@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geotrygon-purpurata/1.jpg
+  page: https://www.inaturalist.org/photos/609212842
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212842/original.jpg
+images:
+- file: images/columbiformes/columbidae/geotrygon-purpurata/1.jpg
+  page: https://www.inaturalist.org/photos/609212842
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212842/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-purpurata/2.jpg
+  page: https://www.inaturalist.org/photos/609212945
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212945/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-purpurata/3.jpg
+  page: https://www.inaturalist.org/photos/609212953
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212953/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-purpurata/4.jpg
+  page: https://www.inaturalist.org/photos/609212981
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212981/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-purpurata/5.jpg
+  page: https://www.inaturalist.org/photos/609212974
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609212974/original.jpg
 ---
 
 

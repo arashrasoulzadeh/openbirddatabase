@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-ramonianus/1.jpg
+  page: https://www.inaturalist.org/photos/539081657
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539081657/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-ramonianus/1.jpg
+  page: https://www.inaturalist.org/photos/539081657
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539081657/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-ramonianus/2.jpg
+  page: https://www.inaturalist.org/photos/611223237
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611223237/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-ramonianus/3.jpg
+  page: https://www.inaturalist.org/photos/396348109
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396348109/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-ramonianus/4.jpg
+  page: https://www.inaturalist.org/photos/436517816
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436517816/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-ramonianus/5.jpg
+  page: https://www.inaturalist.org/photos/213041740
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/213041740/original.jpeg
 ---
 
 

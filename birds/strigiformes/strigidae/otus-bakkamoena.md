@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/strigiformes/strigidae/otus-bakkamoena/1.jpg
+  page: https://www.inaturalist.org/photos/621720218
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621720218/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-bakkamoena/1.jpg
+  page: https://www.inaturalist.org/photos/621720218
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621720218/original.jpg
+- file: images/strigiformes/strigidae/otus-bakkamoena/2.jpg
+  page: https://www.inaturalist.org/photos/688447591
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688447591/original.jpg
+- file: images/strigiformes/strigidae/otus-bakkamoena/3.jpg
+  page: https://www.inaturalist.org/photos/617207526
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207526/original.jpg
+- file: images/strigiformes/strigidae/otus-bakkamoena/4.jpg
+  page: https://www.inaturalist.org/photos/624497581
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624497581/original.jpg
+- file: images/strigiformes/strigidae/otus-bakkamoena/5.jpg
+  page: https://www.inaturalist.org/photos/636907492
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636907492/original.jpg
 ---
 
 

@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/todirostrum-maculatum/1.jpg
+  page: https://www.inaturalist.org/photos/612557891
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612557891/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/todirostrum-maculatum/1.jpg
+  page: https://www.inaturalist.org/photos/612557891
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612557891/original.jpg
+- file: images/passeriformes/tyrannidae/todirostrum-maculatum/2.jpg
+  page: https://www.inaturalist.org/photos/617328934
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617328934/original.jpg
+- file: images/passeriformes/tyrannidae/todirostrum-maculatum/3.jpg
+  page: https://www.inaturalist.org/photos/671319448
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671319448/original.jpg
+- file: images/passeriformes/tyrannidae/todirostrum-maculatum/4.jpg
+  page: https://www.inaturalist.org/photos/718063859
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718063859/original.jpg
+- file: images/passeriformes/tyrannidae/todirostrum-maculatum/5.jpg
+  page: https://www.inaturalist.org/photos/723488702
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723488702/original.jpg
 ---
 
 

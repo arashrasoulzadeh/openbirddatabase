@@ -124,8 +124,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-spatiator/1.jpg
+  page: https://www.inaturalist.org/photos/689587027
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689587027/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-spatiator/1.jpg
+  page: https://www.inaturalist.org/photos/689587027
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689587027/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-spatiator/2.jpg
+  page: https://www.inaturalist.org/photos/526662676
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526662676/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-spatiator/3.jpg
+  page: https://www.inaturalist.org/photos/244564557
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244564557/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-spatiator/4.jpg
+  page: https://www.inaturalist.org/photos/47021321
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/47021321/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-spatiator/5.jpg
+  page: https://www.inaturalist.org/photos/47021303
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/47021303/original.jpg
 ---
 
 

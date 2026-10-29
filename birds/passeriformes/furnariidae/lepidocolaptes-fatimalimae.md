@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/lepidocolaptes-fatimalimae/1.jpg
+  page: https://www.inaturalist.org/photos/591636858
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636858/original.jpg
+images:
+- file: images/passeriformes/furnariidae/lepidocolaptes-fatimalimae/1.jpg
+  page: https://www.inaturalist.org/photos/591636858
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636858/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-fatimalimae/2.jpg
+  page: https://www.inaturalist.org/photos/456584964
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456584964/original.jpeg
+- file: images/passeriformes/furnariidae/lepidocolaptes-fatimalimae/3.jpg
+  page: https://www.inaturalist.org/photos/53257046
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53257046/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-fatimalimae/4.jpg
+  page: https://www.inaturalist.org/photos/591894969
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591894969/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-fatimalimae/5.jpg
+  page: https://www.inaturalist.org/photos/53257049
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53257049/original.jpg
 ---
 
 

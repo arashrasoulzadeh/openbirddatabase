@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-seductus/1.jpg
+  page: https://www.inaturalist.org/photos/693768765
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693768765/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-seductus/1.jpg
+  page: https://www.inaturalist.org/photos/693768765
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693768765/original.jpg
+- file: images/strigiformes/strigidae/megascops-seductus/2.jpg
+  page: https://www.inaturalist.org/photos/243507611
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243507611/original.jpeg
+- file: images/strigiformes/strigidae/megascops-seductus/3.jpg
+  page: https://www.inaturalist.org/photos/575335038
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575335038/original.jpg
+- file: images/strigiformes/strigidae/megascops-seductus/4.jpg
+  page: https://www.inaturalist.org/photos/243507622
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243507622/original.jpeg
+- file: images/strigiformes/strigidae/megascops-seductus/5.jpg
+  page: https://www.inaturalist.org/photos/243507631
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243507631/original.jpeg
 ---
 
 

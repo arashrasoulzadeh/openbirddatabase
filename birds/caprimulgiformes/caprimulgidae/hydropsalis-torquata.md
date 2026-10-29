@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/hydropsalis-torquata/1.jpg
+  page: https://www.inaturalist.org/photos/608003634
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608003634/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-torquata/1.jpg
+  page: https://www.inaturalist.org/photos/608003634
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608003634/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-torquata/2.jpg
+  page: https://www.inaturalist.org/photos/615943139
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615943139/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-torquata/3.jpg
+  page: https://www.inaturalist.org/photos/618062436
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618062436/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-torquata/4.jpg
+  page: https://www.inaturalist.org/photos/629358608
+  author: Gustavo Cattivelli Caruso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629358608/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/hydropsalis-torquata/5.jpg
+  page: https://www.inaturalist.org/photos/648953375
+  author: Naelin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648953375/original.jpg
 ---
 
 

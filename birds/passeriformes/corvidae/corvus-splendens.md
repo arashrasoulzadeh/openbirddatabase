@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/corvidae/corvus-splendens/1.jpg
+  page: https://www.inaturalist.org/photos/605700616
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605700616/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-splendens/1.jpg
+  page: https://www.inaturalist.org/photos/605700616
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605700616/original.jpg
+- file: images/passeriformes/corvidae/corvus-splendens/2.jpg
+  page: https://www.inaturalist.org/photos/604810976
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604810976/original.jpg
+- file: images/passeriformes/corvidae/corvus-splendens/3.jpg
+  page: https://www.inaturalist.org/photos/610119687
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610119687/original.jpg
+- file: images/passeriformes/corvidae/corvus-splendens/4.jpg
+  page: https://www.inaturalist.org/photos/610598205
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610598205/original.jpg
+- file: images/passeriformes/corvidae/corvus-splendens/5.jpg
+  page: https://www.inaturalist.org/photos/610317445
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610317445/original.jpg
 ---
 
 

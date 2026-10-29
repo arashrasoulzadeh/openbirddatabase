@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/charadriiformes/recurvirostridae/himantopus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/604954021
+  author: Steven Smethurst
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604954021/original.jpg
+images:
+- file: images/charadriiformes/recurvirostridae/himantopus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/604954021
+  author: Steven Smethurst
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604954021/original.jpg
+- file: images/charadriiformes/recurvirostridae/himantopus-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/605581826
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605581826/original.jpg
+- file: images/charadriiformes/recurvirostridae/himantopus-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/605095750
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605095750/original.jpg
+- file: images/charadriiformes/recurvirostridae/himantopus-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/605492254
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492254/original.jpg
+- file: images/charadriiformes/recurvirostridae/himantopus-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/604672685
+  author: Jess Mullins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604672685/original.jpg
 ---
 
 

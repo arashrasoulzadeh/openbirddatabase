@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/tychaedon-quadrivirgata/1.jpg
+  page: https://www.inaturalist.org/photos/669323736
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669323736/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/tychaedon-quadrivirgata/1.jpg
+  page: https://www.inaturalist.org/photos/669323736
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669323736/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-quadrivirgata/2.jpg
+  page: https://www.inaturalist.org/photos/679684644
+  author: Bernard DUPONT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679684644/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-quadrivirgata/3.jpg
+  page: https://www.inaturalist.org/photos/721154736
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721154736/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-quadrivirgata/4.jpg
+  page: https://www.inaturalist.org/photos/716102366
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716102366/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-quadrivirgata/5.jpg
+  page: https://www.inaturalist.org/photos/744804082
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744804082/original.jpg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cichladusa-guttata/1.jpg
+  page: https://www.inaturalist.org/photos/677485439
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677485439/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cichladusa-guttata/1.jpg
+  page: https://www.inaturalist.org/photos/677485439
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677485439/original.jpg
+- file: images/passeriformes/muscicapidae/cichladusa-guttata/2.jpg
+  page: https://www.inaturalist.org/photos/662166218
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662166218/original.jpg
+- file: images/passeriformes/muscicapidae/cichladusa-guttata/3.jpg
+  page: https://www.inaturalist.org/photos/684097228
+  author: Tommy Sandri
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684097228/original.jpg
+- file: images/passeriformes/muscicapidae/cichladusa-guttata/4.jpg
+  page: https://www.inaturalist.org/photos/739105802
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739105802/original.jpg
+- file: images/passeriformes/muscicapidae/cichladusa-guttata/5.jpg
+  page: https://www.inaturalist.org/photos/719173956
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719173956/original.jpg
 ---
 
 

@@ -161,10 +161,31 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/otidiformes/otididae/ardeotis-kori/1.jpg
+  page: https://www.inaturalist.org/photos/611837196
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611837196/original.jpg
+images:
+- file: images/otidiformes/otididae/ardeotis-kori/1.jpg
+  page: https://www.inaturalist.org/photos/611837196
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611837196/original.jpg
+- file: images/otidiformes/otididae/ardeotis-kori/2.jpg
+  page: https://www.inaturalist.org/photos/610381864
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610381864/original.jpg
 ---
 
 

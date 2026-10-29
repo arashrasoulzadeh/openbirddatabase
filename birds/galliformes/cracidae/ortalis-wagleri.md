@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-wagleri/1.jpg
+  page: https://www.inaturalist.org/photos/612540494
+  author: memoosborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612540494/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-wagleri/1.jpg
+  page: https://www.inaturalist.org/photos/612540494
+  author: memoosborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612540494/original.jpg
+- file: images/galliformes/cracidae/ortalis-wagleri/2.jpg
+  page: https://www.inaturalist.org/photos/616532284
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616532284/original.jpg
+- file: images/galliformes/cracidae/ortalis-wagleri/3.jpg
+  page: https://www.inaturalist.org/photos/624607495
+  author: Andrew Still
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624607495/original.jpg
+- file: images/galliformes/cracidae/ortalis-wagleri/4.jpg
+  page: https://www.inaturalist.org/photos/660510984
+  author: Francisco Farriols Sarabia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660510984/original.jpg
+- file: images/galliformes/cracidae/ortalis-wagleri/5.jpg
+  page: https://www.inaturalist.org/photos/612546884
+  author: memoosborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612546884/original.jpg
 ---
 
 

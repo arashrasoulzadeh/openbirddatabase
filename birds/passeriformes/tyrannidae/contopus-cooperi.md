@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/tyrannidae/contopus-cooperi/1.jpg
+  page: https://www.inaturalist.org/photos/608913118
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608913118/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/contopus-cooperi/1.jpg
+  page: https://www.inaturalist.org/photos/608913118
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608913118/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-cooperi/2.jpg
+  page: https://www.inaturalist.org/photos/618564321
+  author: Susan Blayney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618564321/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-cooperi/3.jpg
+  page: https://www.inaturalist.org/photos/623002294
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623002294/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-cooperi/4.jpg
+  page: https://www.inaturalist.org/photos/641536011
+  author: Ben Sims
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641536011/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-cooperi/5.jpg
+  page: https://www.inaturalist.org/photos/645934953
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645934953/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/pipile-jacutinga/1.jpg
+  page: https://www.inaturalist.org/photos/609439782
+  author: Gabriel Albelda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609439782/original.jpg
+images:
+- file: images/galliformes/cracidae/pipile-jacutinga/1.jpg
+  page: https://www.inaturalist.org/photos/609439782
+  author: Gabriel Albelda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609439782/original.jpg
+- file: images/galliformes/cracidae/pipile-jacutinga/2.jpg
+  page: https://www.inaturalist.org/photos/607942956
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607942956/original.jpg
+- file: images/galliformes/cracidae/pipile-jacutinga/3.jpg
+  page: https://www.inaturalist.org/photos/691144241
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691144241/original.jpg
+- file: images/galliformes/cracidae/pipile-jacutinga/4.jpg
+  page: https://www.inaturalist.org/photos/719406515
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719406515/original.jpg
+- file: images/galliformes/cracidae/pipile-jacutinga/5.jpg
+  page: https://www.inaturalist.org/photos/728812370
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728812370/original.jpg
 ---
 
 

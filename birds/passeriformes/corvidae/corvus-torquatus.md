@@ -129,7 +129,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 57.0
@@ -139,6 +140,32 @@ morphology:
   body_mass_g: 470.5
 reproduction:
   clutch_size_mean: 3.8
+image:
+  file: images/passeriformes/corvidae/corvus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/617051361
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617051361/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/617051361
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617051361/original.jpg
+- file: images/passeriformes/corvidae/corvus-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/623089242
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089242/original.jpg
+- file: images/passeriformes/corvidae/corvus-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/623090162
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623090162/original.jpg
 ---
 
 

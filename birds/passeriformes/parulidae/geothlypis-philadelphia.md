@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/parulidae/geothlypis-philadelphia/1.jpg
+  page: https://www.inaturalist.org/photos/630063253
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630063253/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-philadelphia/1.jpg
+  page: https://www.inaturalist.org/photos/630063253
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630063253/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-philadelphia/2.jpg
+  page: https://www.inaturalist.org/photos/630496998
+  author: Catalina Ayala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630496998/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-philadelphia/3.jpg
+  page: https://www.inaturalist.org/photos/637759437
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637759437/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-philadelphia/4.jpg
+  page: https://www.inaturalist.org/photos/716896227
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716896227/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-philadelphia/5.jpg
+  page: https://www.inaturalist.org/photos/657357845
+  author: Ryan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657357845/original.jpg
 ---
 
 

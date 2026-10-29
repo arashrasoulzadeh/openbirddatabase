@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/stipiturus-mallee/1.jpg
+  page: https://www.inaturalist.org/photos/469844886
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469844886/original.jpeg
+images:
+- file: images/passeriformes/maluridae/stipiturus-mallee/1.jpg
+  page: https://www.inaturalist.org/photos/469844886
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469844886/original.jpeg
+- file: images/passeriformes/maluridae/stipiturus-mallee/2.jpg
+  page: https://www.inaturalist.org/photos/449876864
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449876864/original.jpeg
+- file: images/passeriformes/maluridae/stipiturus-mallee/3.jpg
+  page: https://www.inaturalist.org/photos/49639905
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49639905/original.jpg
+- file: images/passeriformes/maluridae/stipiturus-mallee/4.jpg
+  page: https://www.inaturalist.org/photos/469844955
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469844955/original.jpeg
+- file: images/passeriformes/maluridae/stipiturus-mallee/5.jpg
+  page: https://www.inaturalist.org/photos/469844949
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469844949/original.jpeg
 ---
 
 

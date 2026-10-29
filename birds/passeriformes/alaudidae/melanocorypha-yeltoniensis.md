@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/melanocorypha-yeltoniensis/1.jpg
+  page: https://www.inaturalist.org/photos/642407788
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642407788/original.jpg
+images:
+- file: images/passeriformes/alaudidae/melanocorypha-yeltoniensis/1.jpg
+  page: https://www.inaturalist.org/photos/642407788
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642407788/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-yeltoniensis/2.jpg
+  page: https://www.inaturalist.org/photos/667723941
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667723941/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-yeltoniensis/3.jpg
+  page: https://www.inaturalist.org/photos/716019943
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716019943/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-yeltoniensis/4.jpg
+  page: https://www.inaturalist.org/photos/642408299
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642408299/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-yeltoniensis/5.jpg
+  page: https://www.inaturalist.org/photos/642415117
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642415117/original.jpg
 ---
 
 

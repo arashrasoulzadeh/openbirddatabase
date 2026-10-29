@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/colluricincla-boweri/1.jpg
+  page: https://www.inaturalist.org/photos/664841613
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664841613/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/colluricincla-boweri/1.jpg
+  page: https://www.inaturalist.org/photos/664841613
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664841613/original.jpg
+- file: images/passeriformes/pachycephalidae/colluricincla-boweri/2.jpg
+  page: https://www.inaturalist.org/photos/735767018
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735767018/original.jpg
+- file: images/passeriformes/pachycephalidae/colluricincla-boweri/3.jpg
+  page: https://www.inaturalist.org/photos/576294265
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576294265/original.jpg
+- file: images/passeriformes/pachycephalidae/colluricincla-boweri/4.jpg
+  page: https://www.inaturalist.org/photos/585455637
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585455637/original.jpg
+- file: images/passeriformes/pachycephalidae/colluricincla-boweri/5.jpg
+  page: https://www.inaturalist.org/photos/612070263
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612070263/original.jpg
 ---
 
 

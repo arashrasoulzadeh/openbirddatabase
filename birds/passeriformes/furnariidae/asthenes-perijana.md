@@ -140,10 +140,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/asthenes-perijana/1.jpg
+  page: https://www.inaturalist.org/photos/265430221
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265430221/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/asthenes-perijana/1.jpg
+  page: https://www.inaturalist.org/photos/265430221
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265430221/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-perijana/2.jpg
+  page: https://www.inaturalist.org/photos/269899034
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269899034/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-perijana/3.jpg
+  page: https://www.inaturalist.org/photos/181601110
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181601110/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-perijana/4.jpg
+  page: https://www.inaturalist.org/photos/407827700
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407827700/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-perijana/5.jpg
+  page: https://www.inaturalist.org/photos/265430227
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265430227/original.jpeg
 ---
 
 

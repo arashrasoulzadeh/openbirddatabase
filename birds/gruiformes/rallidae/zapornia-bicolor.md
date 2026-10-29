@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/zapornia-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/683164141
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683164141/original.jpg
+images:
+- file: images/gruiformes/rallidae/zapornia-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/683164141
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683164141/original.jpg
+- file: images/gruiformes/rallidae/zapornia-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/594350202
+  author: Gary Yong Gee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594350202/original.jpg
+- file: images/gruiformes/rallidae/zapornia-bicolor/3.jpg
+  page: https://www.inaturalist.org/photos/603809859
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603809859/original.jpg
+- file: images/gruiformes/rallidae/zapornia-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/370528404
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370528404/original.jpeg
+- file: images/gruiformes/rallidae/zapornia-bicolor/5.jpg
+  page: https://www.inaturalist.org/photos/374973338
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/374973338/original.jpg
 ---
 
 

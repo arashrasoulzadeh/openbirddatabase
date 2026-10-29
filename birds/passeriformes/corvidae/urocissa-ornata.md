@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/urocissa-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/623571772
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623571772/original.jpg
+images:
+- file: images/passeriformes/corvidae/urocissa-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/623571772
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623571772/original.jpg
+- file: images/passeriformes/corvidae/urocissa-ornata/2.jpg
+  page: https://www.inaturalist.org/photos/633078127
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633078127/original.jpg
+- file: images/passeriformes/corvidae/urocissa-ornata/3.jpg
+  page: https://www.inaturalist.org/photos/617952812
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952812/original.jpg
+- file: images/passeriformes/corvidae/urocissa-ornata/4.jpg
+  page: https://www.inaturalist.org/photos/465711949
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465711949/original.jpeg
+- file: images/passeriformes/corvidae/urocissa-ornata/5.jpg
+  page: https://www.inaturalist.org/photos/468841749
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468841749/original.jpg
 ---
 
 

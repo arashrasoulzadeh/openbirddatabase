@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ptilopsis-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/612456376
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456376/original.jpg
+images:
+- file: images/strigiformes/strigidae/ptilopsis-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/612456376
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612456376/original.jpg
+- file: images/strigiformes/strigidae/ptilopsis-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/719173164
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719173164/original.jpg
+- file: images/strigiformes/strigidae/ptilopsis-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/472287639
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472287639/original.jpg
+- file: images/strigiformes/strigidae/ptilopsis-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/601670740
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601670740/original.jpg
+- file: images/strigiformes/strigidae/ptilopsis-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/584916291
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584916291/original.jpg
 ---
 
 

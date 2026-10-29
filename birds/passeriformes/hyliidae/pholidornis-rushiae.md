@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hyliidae/pholidornis-rushiae/1.jpg
+  page: https://www.inaturalist.org/photos/477844022
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477844022/original.jpg
+images:
+- file: images/passeriformes/hyliidae/pholidornis-rushiae/1.jpg
+  page: https://www.inaturalist.org/photos/477844022
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477844022/original.jpg
+- file: images/passeriformes/hyliidae/pholidornis-rushiae/2.jpg
+  page: https://www.inaturalist.org/photos/351117137
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351117137/original.png
+- file: images/passeriformes/hyliidae/pholidornis-rushiae/3.jpg
+  page: https://www.inaturalist.org/photos/344850694
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344850694/original.jpeg
+- file: images/passeriformes/hyliidae/pholidornis-rushiae/4.jpg
+  page: https://www.inaturalist.org/photos/174925094
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174925094/original.jpg
+- file: images/passeriformes/hyliidae/pholidornis-rushiae/5.jpg
+  page: https://www.inaturalist.org/photos/477844050
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477844050/original.jpg
 ---
 
 

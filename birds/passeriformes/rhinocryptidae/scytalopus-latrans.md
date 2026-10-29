@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-latrans/1.jpg
+  page: https://www.inaturalist.org/photos/361095348
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361095348/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-latrans/1.jpg
+  page: https://www.inaturalist.org/photos/361095348
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361095348/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-latrans/2.jpg
+  page: https://www.inaturalist.org/photos/364937527
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364937527/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-latrans/3.jpg
+  page: https://www.inaturalist.org/photos/361095359
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361095359/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-latrans/4.jpg
+  page: https://www.inaturalist.org/photos/361095358
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361095358/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-latrans/5.jpg
+  page: https://www.inaturalist.org/photos/364937569
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364937569/original.jpeg
 ---
 
 

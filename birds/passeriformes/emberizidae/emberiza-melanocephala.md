@@ -189,10 +189,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/emberizidae/emberiza-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/634126332
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634126332/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/634126332
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634126332/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-melanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/635037605
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635037605/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-melanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/659161837
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659161837/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-melanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/664389592
+  author: Šimun Aščić
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664389592/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-melanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/670158105
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670158105/original.jpg
 ---
 
 

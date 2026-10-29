@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/xiphorhynchus-lachrymosus/1.jpg
+  page: https://www.inaturalist.org/photos/613762658
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762658/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xiphorhynchus-lachrymosus/1.jpg
+  page: https://www.inaturalist.org/photos/613762658
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762658/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-lachrymosus/2.jpg
+  page: https://www.inaturalist.org/photos/615321293
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615321293/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-lachrymosus/3.jpg
+  page: https://www.inaturalist.org/photos/725437261
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725437261/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-lachrymosus/4.jpg
+  page: https://www.inaturalist.org/photos/711785160
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711785160/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-lachrymosus/5.jpg
+  page: https://www.inaturalist.org/photos/733712996
+  author: Vargas Alisson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733712996/original.jpg
 ---
 
 

@@ -135,7 +135,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 20.5
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 92.6
   tail_length_mm: 50.4
   body_mass_g: 59.4
+image:
+  file: images/strigiformes/strigidae/taenioptynx-brodiei/1.jpg
+  page: https://www.inaturalist.org/photos/610366946
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610366946/original.jpg
+images:
+- file: images/strigiformes/strigidae/taenioptynx-brodiei/1.jpg
+  page: https://www.inaturalist.org/photos/610366946
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610366946/original.jpg
+- file: images/strigiformes/strigidae/taenioptynx-brodiei/2.jpg
+  page: https://www.inaturalist.org/photos/620179934
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620179934/original.jpg
+- file: images/strigiformes/strigidae/taenioptynx-brodiei/3.jpg
+  page: https://www.inaturalist.org/photos/621725583
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621725583/original.jpg
+- file: images/strigiformes/strigidae/taenioptynx-brodiei/4.jpg
+  page: https://www.inaturalist.org/photos/625716678
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625716678/original.jpg
+- file: images/strigiformes/strigidae/taenioptynx-brodiei/5.jpg
+  page: https://www.inaturalist.org/photos/722342412
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722342412/original.jpg
 ---
 
 

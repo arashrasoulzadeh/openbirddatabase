@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/lessonia-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/610699200
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610699200/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/lessonia-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/610699200
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610699200/original.jpg
+- file: images/passeriformes/tyrannidae/lessonia-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/610035921
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610035921/original.jpg
+- file: images/passeriformes/tyrannidae/lessonia-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/607204340
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607204340/original.jpg
+- file: images/passeriformes/tyrannidae/lessonia-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/609429464
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609429464/original.jpg
+- file: images/passeriformes/tyrannidae/lessonia-rufa/5.jpg
+  page: https://www.inaturalist.org/photos/612745523
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612745523/original.jpg
 ---
 
 

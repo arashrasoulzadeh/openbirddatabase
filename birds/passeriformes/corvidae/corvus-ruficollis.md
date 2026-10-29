@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/610595397
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610595397/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/610595397
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610595397/original.jpg
+- file: images/passeriformes/corvidae/corvus-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/617181417
+  author: Malcolm Gould
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617181417/original.jpg
+- file: images/passeriformes/corvidae/corvus-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/619889987
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619889987/original.jpg
+- file: images/passeriformes/corvidae/corvus-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/621368216
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621368216/original.jpg
+- file: images/passeriformes/corvidae/corvus-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/624174581
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624174581/original.jpg
 ---
 
 

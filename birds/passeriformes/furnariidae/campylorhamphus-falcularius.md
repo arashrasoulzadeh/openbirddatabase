@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/campylorhamphus-falcularius/1.jpg
+  page: https://www.inaturalist.org/photos/609931198
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609931198/original.jpg
+images:
+- file: images/passeriformes/furnariidae/campylorhamphus-falcularius/1.jpg
+  page: https://www.inaturalist.org/photos/609931198
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609931198/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-falcularius/2.jpg
+  page: https://www.inaturalist.org/photos/714176197
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714176197/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-falcularius/3.jpg
+  page: https://www.inaturalist.org/photos/627316040
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627316040/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-falcularius/4.jpg
+  page: https://www.inaturalist.org/photos/498033184
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498033184/original.jpg
+- file: images/passeriformes/furnariidae/campylorhamphus-falcularius/5.jpg
+  page: https://www.inaturalist.org/photos/503038964
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503038964/original.jpeg
 ---
 
 

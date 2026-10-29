@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/pluvianellidae/pluvianellus-socialis/1.jpg
+  page: https://www.inaturalist.org/photos/669823405
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669823405/original.jpg
+images:
+- file: images/charadriiformes/pluvianellidae/pluvianellus-socialis/1.jpg
+  page: https://www.inaturalist.org/photos/669823405
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669823405/original.jpg
+- file: images/charadriiformes/pluvianellidae/pluvianellus-socialis/2.jpg
+  page: https://www.inaturalist.org/photos/697506516
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697506516/original.jpg
+- file: images/charadriiformes/pluvianellidae/pluvianellus-socialis/3.jpg
+  page: https://www.inaturalist.org/photos/541959420
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541959420/original.jpg
+- file: images/charadriiformes/pluvianellidae/pluvianellus-socialis/4.jpg
+  page: https://www.inaturalist.org/photos/538256239
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538256239/original.jpg
+- file: images/charadriiformes/pluvianellidae/pluvianellus-socialis/5.jpg
+  page: https://www.inaturalist.org/photos/385099401
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385099401/original.jpeg
 ---
 
 

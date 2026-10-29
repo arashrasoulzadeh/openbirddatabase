@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/charadriiformes/laridae/thalasseus-bergii/1.jpg
+  page: https://www.inaturalist.org/photos/604442431
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604442431/original.jpg
+images:
+- file: images/charadriiformes/laridae/thalasseus-bergii/1.jpg
+  page: https://www.inaturalist.org/photos/604442431
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604442431/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-bergii/2.jpg
+  page: https://www.inaturalist.org/photos/609901790
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609901790/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-bergii/3.jpg
+  page: https://www.inaturalist.org/photos/606084011
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606084011/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-bergii/4.jpg
+  page: https://www.inaturalist.org/photos/606089329
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606089329/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-bergii/5.jpg
+  page: https://www.inaturalist.org/photos/607889835
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607889835/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/nystalus-obamai/1.jpg
+  page: https://www.inaturalist.org/photos/511192672
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511192672/original.jpg
+images:
+- file: images/piciformes/bucconidae/nystalus-obamai/1.jpg
+  page: https://www.inaturalist.org/photos/511192672
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511192672/original.jpg
+- file: images/piciformes/bucconidae/nystalus-obamai/2.jpg
+  page: https://www.inaturalist.org/photos/603743165
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603743165/original.jpg
+- file: images/piciformes/bucconidae/nystalus-obamai/3.jpg
+  page: https://www.inaturalist.org/photos/166918771
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166918771/original.jpeg
+- file: images/piciformes/bucconidae/nystalus-obamai/4.jpg
+  page: https://www.inaturalist.org/photos/176563985
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176563985/original.jpg
+- file: images/piciformes/bucconidae/nystalus-obamai/5.jpg
+  page: https://www.inaturalist.org/photos/169675384
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/169675384/original.jpg
 ---
 
 

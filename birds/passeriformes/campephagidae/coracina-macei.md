@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-macei/1.jpg
+  page: https://www.inaturalist.org/photos/624393862
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624393862/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-macei/1.jpg
+  page: https://www.inaturalist.org/photos/624393862
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624393862/original.jpg
+- file: images/passeriformes/campephagidae/coracina-macei/2.jpg
+  page: https://www.inaturalist.org/photos/655475987
+  author: Ahirbudhnyan M
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655475987/original.jpg
+- file: images/passeriformes/campephagidae/coracina-macei/3.jpg
+  page: https://www.inaturalist.org/photos/649567597
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649567597/original.jpg
+- file: images/passeriformes/campephagidae/coracina-macei/4.jpg
+  page: https://www.inaturalist.org/photos/482143900
+  author: danpatrick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482143900/original.jpg
+- file: images/passeriformes/campephagidae/coracina-macei/5.jpg
+  page: https://www.inaturalist.org/photos/517039964
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517039964/original.jpg
 ---
 
 

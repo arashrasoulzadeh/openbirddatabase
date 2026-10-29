@@ -116,7 +116,8 @@ enrichment:
 sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
-last_updated: '2026-10-17'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.9
@@ -124,6 +125,26 @@ morphology:
   wing_length_mm: 86.9
   tail_length_mm: 77.2
   body_mass_g: 37.0
+image:
+  file: images/psittaciformes/psittaculidae/charmosynopsis-toxopei/1.jpg
+  page: https://www.inaturalist.org/photos/709704162
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709704162/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/charmosynopsis-toxopei/1.jpg
+  page: https://www.inaturalist.org/photos/709704162
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709704162/original.jpg
+- file: images/psittaciformes/psittaculidae/charmosynopsis-toxopei/2.jpg
+  page: https://www.inaturalist.org/photos/709704164
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709704164/original.jpg
 ---
 
 

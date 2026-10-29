@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/iodopleura-pipra/1.jpg
+  page: https://www.inaturalist.org/photos/616201191
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201191/original.jpg
+images:
+- file: images/passeriformes/tityridae/iodopleura-pipra/1.jpg
+  page: https://www.inaturalist.org/photos/616201191
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201191/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-pipra/2.jpg
+  page: https://www.inaturalist.org/photos/474999734
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474999734/original.jpeg
+- file: images/passeriformes/tityridae/iodopleura-pipra/3.jpg
+  page: https://www.inaturalist.org/photos/590267103
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590267103/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-pipra/4.jpg
+  page: https://www.inaturalist.org/photos/359584786
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359584786/original.jpg
+- file: images/passeriformes/tityridae/iodopleura-pipra/5.jpg
+  page: https://www.inaturalist.org/photos/453384575
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453384575/original.jpeg
 ---
 
 

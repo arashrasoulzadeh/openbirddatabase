@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-christinae/1.jpg
+  page: https://www.inaturalist.org/photos/609386846
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609386846/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-christinae/1.jpg
+  page: https://www.inaturalist.org/photos/609386846
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609386846/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-christinae/2.jpg
+  page: https://www.inaturalist.org/photos/609190803
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609190803/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-christinae/3.jpg
+  page: https://www.inaturalist.org/photos/606525314
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606525314/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-christinae/4.jpg
+  page: https://www.inaturalist.org/photos/607070968
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607070968/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-christinae/5.jpg
+  page: https://www.inaturalist.org/photos/614273759
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614273759/original.jpg
 ---
 
 

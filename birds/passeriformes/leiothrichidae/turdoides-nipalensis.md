@@ -126,7 +126,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 23.6
@@ -136,6 +137,44 @@ morphology:
   body_mass_g: 61.0
 reproduction:
   clutch_size_mean: 3.5
+image:
+  file: images/passeriformes/leiothrichidae/turdoides-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/296998979
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296998979/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/turdoides-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/296998979
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296998979/original.jpeg
+- file: images/passeriformes/leiothrichidae/turdoides-nipalensis/2.jpg
+  page: https://www.inaturalist.org/photos/372677672
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/372677672/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-nipalensis/3.jpg
+  page: https://www.inaturalist.org/photos/296998993
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296998993/original.jpeg
+- file: images/passeriformes/leiothrichidae/turdoides-nipalensis/4.jpg
+  page: https://www.inaturalist.org/photos/296999075
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296999075/original.jpeg
+- file: images/passeriformes/leiothrichidae/turdoides-nipalensis/5.jpg
+  page: https://www.inaturalist.org/photos/296999092
+  author: Sabarni Sarker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296999092/original.jpeg
 ---
 
 

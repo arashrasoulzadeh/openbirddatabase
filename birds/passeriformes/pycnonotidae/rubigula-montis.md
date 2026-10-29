@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.2
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 79.0
   tail_length_mm: 74.5
   body_mass_g: 29.3
+image:
+  file: images/passeriformes/pycnonotidae/rubigula-montis/1.jpg
+  page: https://www.inaturalist.org/photos/530375935
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530375935/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/rubigula-montis/1.jpg
+  page: https://www.inaturalist.org/photos/530375935
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530375935/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-montis/2.jpg
+  page: https://www.inaturalist.org/photos/593973170
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593973170/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-montis/3.jpg
+  page: https://www.inaturalist.org/photos/484076287
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484076287/original.jpeg
+- file: images/passeriformes/pycnonotidae/rubigula-montis/4.jpg
+  page: https://www.inaturalist.org/photos/289863589
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289863589/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-montis/5.jpg
+  page: https://www.inaturalist.org/photos/226663739
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226663739/original.jpg
 ---
 
 

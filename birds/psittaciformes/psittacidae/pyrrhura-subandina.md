@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-subandina/1.jpg
+  page: https://www.inaturalist.org/photos/706190346
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706190346/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-subandina/1.jpg
+  page: https://www.inaturalist.org/photos/706190346
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706190346/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-subandina/2.jpg
+  page: https://www.inaturalist.org/photos/30063515
+  author: keesgroenendijk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/30063515/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-subandina/3.jpg
+  page: https://www.inaturalist.org/photos/706190328
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706190328/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-subandina/4.jpg
+  page: https://www.inaturalist.org/photos/706190413
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706190413/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-subandina/5.jpg
+  page: https://www.inaturalist.org/photos/706190404
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706190404/original.jpg
 ---
 
 

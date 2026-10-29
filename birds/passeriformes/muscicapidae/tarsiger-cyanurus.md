@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/tarsiger-cyanurus/1.jpg
+  page: https://www.inaturalist.org/photos/605724477
+  author: Shawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605724477/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/tarsiger-cyanurus/1.jpg
+  page: https://www.inaturalist.org/photos/605724477
+  author: Shawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605724477/original.jpg
+- file: images/passeriformes/muscicapidae/tarsiger-cyanurus/2.jpg
+  page: https://www.inaturalist.org/photos/604811148
+  author: kirk gardner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604811148/original.jpg
+- file: images/passeriformes/muscicapidae/tarsiger-cyanurus/3.jpg
+  page: https://www.inaturalist.org/photos/610390753
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610390753/original.jpg
+- file: images/passeriformes/muscicapidae/tarsiger-cyanurus/4.jpg
+  page: https://www.inaturalist.org/photos/610530556
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610530556/original.jpg
+- file: images/passeriformes/muscicapidae/tarsiger-cyanurus/5.jpg
+  page: https://www.inaturalist.org/photos/608293197
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608293197/original.jpg
 ---
 
 

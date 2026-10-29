@@ -195,8 +195,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-juncidis/1.jpg
+  page: https://www.inaturalist.org/photos/605025802
+  author: antoterryn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605025802/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-juncidis/1.jpg
+  page: https://www.inaturalist.org/photos/605025802
+  author: antoterryn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605025802/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-juncidis/2.jpg
+  page: https://www.inaturalist.org/photos/604745345
+  author: Bastien Le Mort
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604745345/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-juncidis/3.jpg
+  page: https://www.inaturalist.org/photos/606418779
+  author: Kisha Langeveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606418779/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-juncidis/4.jpg
+  page: https://www.inaturalist.org/photos/606875194
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606875194/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-juncidis/5.jpg
+  page: https://www.inaturalist.org/photos/610388323
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610388323/original.jpg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/emberizoides-herbicola/1.jpg
+  page: https://www.inaturalist.org/photos/607273323
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273323/original.jpg
+images:
+- file: images/passeriformes/thraupidae/emberizoides-herbicola/1.jpg
+  page: https://www.inaturalist.org/photos/607273323
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273323/original.jpg
+- file: images/passeriformes/thraupidae/emberizoides-herbicola/2.jpg
+  page: https://www.inaturalist.org/photos/612352524
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352524/original.jpg
+- file: images/passeriformes/thraupidae/emberizoides-herbicola/3.jpg
+  page: https://www.inaturalist.org/photos/618399921
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618399921/original.jpg
+- file: images/passeriformes/thraupidae/emberizoides-herbicola/4.jpg
+  page: https://www.inaturalist.org/photos/702912132
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702912132/original.jpg
+- file: images/passeriformes/thraupidae/emberizoides-herbicola/5.jpg
+  page: https://www.inaturalist.org/photos/623907262
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623907262/original.jpg
 ---
 
 

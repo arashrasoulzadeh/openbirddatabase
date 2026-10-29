@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/parulidae/limnothlypis-swainsonii/1.jpg
+  page: https://www.inaturalist.org/photos/636612347
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636612347/original.jpg
+images:
+- file: images/passeriformes/parulidae/limnothlypis-swainsonii/1.jpg
+  page: https://www.inaturalist.org/photos/636612347
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636612347/original.jpg
+- file: images/passeriformes/parulidae/limnothlypis-swainsonii/2.jpg
+  page: https://www.inaturalist.org/photos/637191287
+  author: Brent Cox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637191287/original.jpg
+- file: images/passeriformes/parulidae/limnothlypis-swainsonii/3.jpg
+  page: https://www.inaturalist.org/photos/641166892
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641166892/original.jpg
+- file: images/passeriformes/parulidae/limnothlypis-swainsonii/4.jpg
+  page: https://www.inaturalist.org/photos/651747076
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651747076/original.jpg
+- file: images/passeriformes/parulidae/limnothlypis-swainsonii/5.jpg
+  page: https://www.inaturalist.org/photos/647072206
+  author: Amit Naik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647072206/original.jpg
 ---
 
 

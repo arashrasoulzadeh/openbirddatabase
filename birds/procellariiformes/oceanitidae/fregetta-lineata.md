@@ -121,10 +121,31 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/procellariiformes/oceanitidae/fregetta-lineata/1.jpg
+  page: https://www.inaturalist.org/photos/636401189
+  author: Jacob Crisp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636401189/original.jpg
+images:
+- file: images/procellariiformes/oceanitidae/fregetta-lineata/1.jpg
+  page: https://www.inaturalist.org/photos/636401189
+  author: Jacob Crisp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636401189/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-lineata/2.jpg
+  page: https://www.inaturalist.org/photos/623164910
+  author: Jacob Crisp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623164910/original.jpg
 ---
 
 

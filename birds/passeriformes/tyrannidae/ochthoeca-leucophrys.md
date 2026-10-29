@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ochthoeca-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/621887396
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621887396/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/ochthoeca-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/621887396
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621887396/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/500316226
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500316226/original.jpeg
+- file: images/passeriformes/tyrannidae/ochthoeca-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/602696304
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602696304/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/558256022
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558256022/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/601917032
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601917032/original.jpg
 ---
 
 

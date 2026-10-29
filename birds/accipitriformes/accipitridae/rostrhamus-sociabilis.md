@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/accipitriformes/accipitridae/rostrhamus-sociabilis/1.jpg
+  page: https://www.inaturalist.org/photos/605730215
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730215/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/rostrhamus-sociabilis/1.jpg
+  page: https://www.inaturalist.org/photos/605730215
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730215/original.jpg
+- file: images/accipitriformes/accipitridae/rostrhamus-sociabilis/2.jpg
+  page: https://www.inaturalist.org/photos/605395515
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605395515/original.jpg
+- file: images/accipitriformes/accipitridae/rostrhamus-sociabilis/3.jpg
+  page: https://www.inaturalist.org/photos/605125000
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605125000/original.jpg
+- file: images/accipitriformes/accipitridae/rostrhamus-sociabilis/4.jpg
+  page: https://www.inaturalist.org/photos/605736417
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605736417/original.jpg
+- file: images/accipitriformes/accipitridae/rostrhamus-sociabilis/5.jpg
+  page: https://www.inaturalist.org/photos/610715826
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610715826/original.jpg
 ---
 
 

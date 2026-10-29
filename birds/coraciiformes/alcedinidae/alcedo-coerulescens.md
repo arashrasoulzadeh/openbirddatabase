@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/alcedo-coerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/613567304
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613567304/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/alcedo-coerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/613567304
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613567304/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-coerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/618851769
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851769/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-coerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/636343671
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636343671/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-coerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/643600758
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643600758/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-coerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/498113387
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498113387/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/paludipasser-locustella/1.jpg
+  page: https://www.inaturalist.org/photos/483121453
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121453/original.jpg
+images:
+- file: images/passeriformes/estrildidae/paludipasser-locustella/1.jpg
+  page: https://www.inaturalist.org/photos/483121453
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121453/original.jpg
+- file: images/passeriformes/estrildidae/paludipasser-locustella/2.jpg
+  page: https://www.inaturalist.org/photos/483121475
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121475/original.jpg
+- file: images/passeriformes/estrildidae/paludipasser-locustella/3.jpg
+  page: https://www.inaturalist.org/photos/512664816
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512664816/original.jpg
+- file: images/passeriformes/estrildidae/paludipasser-locustella/4.jpg
+  page: https://www.inaturalist.org/photos/512664807
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512664807/original.jpg
+- file: images/passeriformes/estrildidae/paludipasser-locustella/5.jpg
+  page: https://www.inaturalist.org/photos/512664803
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512664803/original.jpg
 ---
 
 

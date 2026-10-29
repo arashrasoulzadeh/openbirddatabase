@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/phyllomyias-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/609930377
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930377/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/phyllomyias-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/609930377
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930377/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-fasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/645258667
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645258667/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-fasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/719103698
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719103698/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-fasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/669487520
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669487520/original.jpg
+- file: images/passeriformes/tyrannidae/phyllomyias-fasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/674966402
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674966402/original.jpg
 ---
 
 

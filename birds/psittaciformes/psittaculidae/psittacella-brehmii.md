@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/psittacella-brehmii/1.jpg
+  page: https://www.inaturalist.org/photos/705741842
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705741842/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacella-brehmii/1.jpg
+  page: https://www.inaturalist.org/photos/705741842
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705741842/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacella-brehmii/2.jpg
+  page: https://www.inaturalist.org/photos/558251100
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558251100/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacella-brehmii/3.jpg
+  page: https://www.inaturalist.org/photos/571137670
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571137670/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacella-brehmii/4.jpg
+  page: https://www.inaturalist.org/photos/578592290
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578592290/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacella-brehmii/5.jpg
+  page: https://www.inaturalist.org/photos/336068476
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336068476/original.jpg
 ---
 
 

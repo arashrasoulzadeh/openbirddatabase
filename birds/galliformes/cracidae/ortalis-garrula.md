@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-garrula/1.jpg
+  page: https://www.inaturalist.org/photos/699892913
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699892913/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-garrula/1.jpg
+  page: https://www.inaturalist.org/photos/699892913
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699892913/original.jpg
+- file: images/galliformes/cracidae/ortalis-garrula/2.jpg
+  page: https://www.inaturalist.org/photos/739971877
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739971877/original.jpg
+- file: images/galliformes/cracidae/ortalis-garrula/3.jpg
+  page: https://www.inaturalist.org/photos/601967115
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601967115/original.jpg
+- file: images/galliformes/cracidae/ortalis-garrula/4.jpg
+  page: https://www.inaturalist.org/photos/610982171
+  author: danpatrick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610982171/original.jpg
+- file: images/galliformes/cracidae/ortalis-garrula/5.jpg
+  page: https://www.inaturalist.org/photos/465617222
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465617222/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/guira-guira/1.jpg
+  page: https://www.inaturalist.org/photos/605673058
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605673058/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/guira-guira/1.jpg
+  page: https://www.inaturalist.org/photos/605673058
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605673058/original.jpg
+- file: images/cuculiformes/cuculidae/guira-guira/2.jpg
+  page: https://www.inaturalist.org/photos/605736392
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605736392/original.jpg
+- file: images/cuculiformes/cuculidae/guira-guira/3.jpg
+  page: https://www.inaturalist.org/photos/604863869
+  author: Paulo C. O. Cunha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604863869/original.jpg
+- file: images/cuculiformes/cuculidae/guira-guira/4.jpg
+  page: https://www.inaturalist.org/photos/609049403
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609049403/original.jpg
+- file: images/cuculiformes/cuculidae/guira-guira/5.jpg
+  page: https://www.inaturalist.org/photos/610518807
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610518807/original.jpg
 ---
 
 

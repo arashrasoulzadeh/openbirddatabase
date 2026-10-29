@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/accipitriformes/accipitridae/buteo-japonicus/1.jpg
+  page: https://www.inaturalist.org/photos/608835827
+  author: 김재원
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608835827/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-japonicus/1.jpg
+  page: https://www.inaturalist.org/photos/608835827
+  author: 김재원
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608835827/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-japonicus/2.jpg
+  page: https://www.inaturalist.org/photos/609389187
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609389187/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-japonicus/3.jpg
+  page: https://www.inaturalist.org/photos/607425736
+  author: Se Lena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607425736/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-japonicus/4.jpg
+  page: https://www.inaturalist.org/photos/607893836
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607893836/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-japonicus/5.jpg
+  page: https://www.inaturalist.org/photos/605846185
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605846185/original.jpg
 ---
 
 

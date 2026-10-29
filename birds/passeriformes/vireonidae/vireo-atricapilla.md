@@ -150,10 +150,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/vireonidae/vireo-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/628268445
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628268445/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/628268445
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628268445/original.jpg
+- file: images/passeriformes/vireonidae/vireo-atricapilla/2.jpg
+  page: https://www.inaturalist.org/photos/631205156
+  author: Cody Stricker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631205156/original.jpg
+- file: images/passeriformes/vireonidae/vireo-atricapilla/3.jpg
+  page: https://www.inaturalist.org/photos/637650460
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637650460/original.jpg
+- file: images/passeriformes/vireonidae/vireo-atricapilla/4.jpg
+  page: https://www.inaturalist.org/photos/634830137
+  author: Clifton Ladd, C.W.B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634830137/original.jpg
+- file: images/passeriformes/vireonidae/vireo-atricapilla/5.jpg
+  page: https://www.inaturalist.org/photos/646902548
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646902548/original.jpg
 ---
 
 

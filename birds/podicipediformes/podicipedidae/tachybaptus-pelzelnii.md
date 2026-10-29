@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/tachybaptus-pelzelnii/1.jpg
+  page: https://www.inaturalist.org/photos/57516946
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57516946/original.jpeg
+images:
+- file: images/podicipediformes/podicipedidae/tachybaptus-pelzelnii/1.jpg
+  page: https://www.inaturalist.org/photos/57516946
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57516946/original.jpeg
+- file: images/podicipediformes/podicipedidae/tachybaptus-pelzelnii/2.jpg
+  page: https://www.inaturalist.org/photos/712198647
+  author: Fionn Ó Marcaigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712198647/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-pelzelnii/3.jpg
+  page: https://www.inaturalist.org/photos/457222429
+  author: Demian Hiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457222429/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-pelzelnii/4.jpg
+  page: https://www.inaturalist.org/photos/2088939
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2088939/original.JPG
+- file: images/podicipediformes/podicipedidae/tachybaptus-pelzelnii/5.jpg
+  page: https://www.inaturalist.org/photos/3013267
+  author: Nick Block
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/3013267/original.jpg
 ---
 
 

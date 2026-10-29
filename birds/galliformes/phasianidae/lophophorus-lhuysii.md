@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lophophorus-lhuysii/1.jpg
+  page: https://www.inaturalist.org/photos/521762120
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762120/original.jpg
+images:
+- file: images/galliformes/phasianidae/lophophorus-lhuysii/1.jpg
+  page: https://www.inaturalist.org/photos/521762120
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521762120/original.jpg
+- file: images/galliformes/phasianidae/lophophorus-lhuysii/2.jpg
+  page: https://www.inaturalist.org/photos/382012593
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382012593/original.jpg
+- file: images/galliformes/phasianidae/lophophorus-lhuysii/3.jpg
+  page: https://www.inaturalist.org/photos/409372833
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409372833/original.jpg
+- file: images/galliformes/phasianidae/lophophorus-lhuysii/4.jpg
+  page: https://www.inaturalist.org/photos/347232288
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347232288/original.jpg
+- file: images/galliformes/phasianidae/lophophorus-lhuysii/5.jpg
+  page: https://www.inaturalist.org/photos/350420104
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350420104/original.jpg
 ---
 
 

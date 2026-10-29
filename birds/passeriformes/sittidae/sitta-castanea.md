@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-castanea/1.jpg
+  page: https://www.inaturalist.org/photos/617207627
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207627/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-castanea/1.jpg
+  page: https://www.inaturalist.org/photos/617207627
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207627/original.jpg
+- file: images/passeriformes/sittidae/sitta-castanea/2.jpg
+  page: https://www.inaturalist.org/photos/597622664
+  author: Ameet Mandavia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597622664/original.jpg
+- file: images/passeriformes/sittidae/sitta-castanea/3.jpg
+  page: https://www.inaturalist.org/photos/404411856
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404411856/original.jpg
+- file: images/passeriformes/sittidae/sitta-castanea/4.jpg
+  page: https://www.inaturalist.org/photos/246520340
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246520340/original.jpeg
+- file: images/passeriformes/sittidae/sitta-castanea/5.jpg
+  page: https://www.inaturalist.org/photos/148753679
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/148753679/original.jpeg
 ---
 
 

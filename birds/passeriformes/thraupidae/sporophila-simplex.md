@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/620712484
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620712484/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/620712484
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620712484/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-simplex/2.jpg
+  page: https://www.inaturalist.org/photos/369010457
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369010457/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-simplex/3.jpg
+  page: https://www.inaturalist.org/photos/334331717
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334331717/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-simplex/4.jpg
+  page: https://www.inaturalist.org/photos/72066345
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/72066345/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-simplex/5.jpg
+  page: https://www.inaturalist.org/photos/349556128
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349556128/original.jpg
 ---
 
 

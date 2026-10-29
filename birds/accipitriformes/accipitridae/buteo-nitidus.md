@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-nitidus/1.jpg
+  page: https://www.inaturalist.org/photos/604813559
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604813559/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-nitidus/1.jpg
+  page: https://www.inaturalist.org/photos/604813559
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604813559/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-nitidus/2.jpg
+  page: https://www.inaturalist.org/photos/605698587
+  author: Luc Wyn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605698587/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-nitidus/3.jpg
+  page: https://www.inaturalist.org/photos/605175848
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605175848/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-nitidus/4.jpg
+  page: https://www.inaturalist.org/photos/605640090
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605640090/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-nitidus/5.jpg
+  page: https://www.inaturalist.org/photos/605588288
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605588288/original.jpg
 ---
 
 

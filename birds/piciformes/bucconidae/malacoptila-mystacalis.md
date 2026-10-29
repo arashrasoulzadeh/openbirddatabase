@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/malacoptila-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/612411057
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612411057/original.jpg
+images:
+- file: images/piciformes/bucconidae/malacoptila-mystacalis/1.jpg
+  page: https://www.inaturalist.org/photos/612411057
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612411057/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-mystacalis/2.jpg
+  page: https://www.inaturalist.org/photos/652831050
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652831050/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-mystacalis/3.jpg
+  page: https://www.inaturalist.org/photos/463195701
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463195701/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-mystacalis/4.jpg
+  page: https://www.inaturalist.org/photos/468478854
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468478854/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-mystacalis/5.jpg
+  page: https://www.inaturalist.org/photos/499976298
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499976298/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/mino-kreffti/1.jpg
+  page: https://www.inaturalist.org/photos/582263630
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582263630/original.jpg
+images:
+- file: images/passeriformes/sturnidae/mino-kreffti/1.jpg
+  page: https://www.inaturalist.org/photos/582263630
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582263630/original.jpg
+- file: images/passeriformes/sturnidae/mino-kreffti/2.jpg
+  page: https://www.inaturalist.org/photos/227815083
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227815083/original.jpg
+- file: images/passeriformes/sturnidae/mino-kreffti/3.jpg
+  page: https://www.inaturalist.org/photos/334781358
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334781358/original.jpg
+- file: images/passeriformes/sturnidae/mino-kreffti/4.jpg
+  page: https://www.inaturalist.org/photos/227815111
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227815111/original.jpg
+- file: images/passeriformes/sturnidae/mino-kreffti/5.jpg
+  page: https://www.inaturalist.org/photos/227815098
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227815098/original.jpg
 ---
 
 

@@ -144,10 +144,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/meliphagidae/melithreptus-chloropsis/1.jpg
+  page: https://www.inaturalist.org/photos/613527804
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613527804/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/melithreptus-chloropsis/1.jpg
+  page: https://www.inaturalist.org/photos/613527804
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613527804/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-chloropsis/2.jpg
+  page: https://www.inaturalist.org/photos/624924117
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624924117/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-chloropsis/3.jpg
+  page: https://www.inaturalist.org/photos/466529737
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466529737/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-chloropsis/4.jpg
+  page: https://www.inaturalist.org/photos/493343014
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493343014/original.jpeg
+- file: images/passeriformes/meliphagidae/melithreptus-chloropsis/5.jpg
+  page: https://www.inaturalist.org/photos/500881574
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500881574/original.jpeg
 ---
 
 

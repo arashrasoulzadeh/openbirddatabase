@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/aglaeactis-pamela/1.jpg
+  page: https://www.inaturalist.org/photos/587189861
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587189861/original.jpg
+images:
+- file: images/apodiformes/trochilidae/aglaeactis-pamela/1.jpg
+  page: https://www.inaturalist.org/photos/587189861
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587189861/original.jpg
+- file: images/apodiformes/trochilidae/aglaeactis-pamela/2.jpg
+  page: https://www.inaturalist.org/photos/602169863
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602169863/original.jpg
+- file: images/apodiformes/trochilidae/aglaeactis-pamela/3.jpg
+  page: https://www.inaturalist.org/photos/279738172
+  author: Claudio Laura Daza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279738172/original.jpeg
+- file: images/apodiformes/trochilidae/aglaeactis-pamela/4.jpg
+  page: https://www.inaturalist.org/photos/227041850
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227041850/original.jpg
+- file: images/apodiformes/trochilidae/aglaeactis-pamela/5.jpg
+  page: https://www.inaturalist.org/photos/227143139
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227143139/original.jpeg
 ---
 
 

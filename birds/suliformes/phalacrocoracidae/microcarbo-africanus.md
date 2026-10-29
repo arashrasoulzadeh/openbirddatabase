@@ -176,10 +176,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/suliformes/phalacrocoracidae/microcarbo-africanus/1.jpg
+  page: https://www.inaturalist.org/photos/606216578
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216578/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/microcarbo-africanus/1.jpg
+  page: https://www.inaturalist.org/photos/606216578
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216578/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-africanus/2.jpg
+  page: https://www.inaturalist.org/photos/610361273
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610361273/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-africanus/3.jpg
+  page: https://www.inaturalist.org/photos/607857424
+  author: Kate McAlpine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607857424/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-africanus/4.jpg
+  page: https://www.inaturalist.org/photos/607759683
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607759683/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-africanus/5.jpg
+  page: https://www.inaturalist.org/photos/610453866
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610453866/original.jpg
 ---
 
 

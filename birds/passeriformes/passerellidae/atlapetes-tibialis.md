@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.9
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 79.8
   tail_length_mm: 86.0
   body_mass_g: 30.0
+image:
+  file: images/passeriformes/passerellidae/atlapetes-tibialis/1.jpg
+  page: https://www.inaturalist.org/photos/613437867
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613437867/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-tibialis/1.jpg
+  page: https://www.inaturalist.org/photos/613437867
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613437867/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-tibialis/2.jpg
+  page: https://www.inaturalist.org/photos/614726740
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614726740/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-tibialis/3.jpg
+  page: https://www.inaturalist.org/photos/621259553
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621259553/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-tibialis/4.jpg
+  page: https://www.inaturalist.org/photos/621079868
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621079868/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-tibialis/5.jpg
+  page: https://www.inaturalist.org/photos/625534292
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625534292/original.jpg
 ---
 
 

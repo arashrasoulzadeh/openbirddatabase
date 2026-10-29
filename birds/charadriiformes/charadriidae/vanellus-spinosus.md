@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/charadriiformes/charadriidae/vanellus-spinosus/1.jpg
+  page: https://www.inaturalist.org/photos/611061148
+  author: Jon Paul Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611061148/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-spinosus/1.jpg
+  page: https://www.inaturalist.org/photos/611061148
+  author: Jon Paul Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611061148/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-spinosus/2.jpg
+  page: https://www.inaturalist.org/photos/608402345
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608402345/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-spinosus/3.jpg
+  page: https://www.inaturalist.org/photos/612794298
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612794298/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-spinosus/4.jpg
+  page: https://www.inaturalist.org/photos/614231761
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231761/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-spinosus/5.jpg
+  page: https://www.inaturalist.org/photos/611061722
+  author: Jon Paul Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611061722/original.jpg
 ---
 
 

@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/delichon-dasypus/1.jpg
+  page: https://www.inaturalist.org/photos/656563529
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656563529/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/delichon-dasypus/1.jpg
+  page: https://www.inaturalist.org/photos/656563529
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656563529/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-dasypus/2.jpg
+  page: https://www.inaturalist.org/photos/627902345
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627902345/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-dasypus/3.jpg
+  page: https://www.inaturalist.org/photos/620123335
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620123335/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-dasypus/4.jpg
+  page: https://www.inaturalist.org/photos/626284350
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626284350/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-dasypus/5.jpg
+  page: https://www.inaturalist.org/photos/630895977
+  author: RX ZHANG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630895977/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-reichenowi/1.jpg
+  page: https://www.inaturalist.org/photos/622543662
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622543662/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-reichenowi/1.jpg
+  page: https://www.inaturalist.org/photos/622543662
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622543662/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-reichenowi/2.jpg
+  page: https://www.inaturalist.org/photos/716301279
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716301279/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-reichenowi/3.jpg
+  page: https://www.inaturalist.org/photos/550362208
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550362208/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-reichenowi/4.jpg
+  page: https://www.inaturalist.org/photos/380686517
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380686517/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-reichenowi/5.jpg
+  page: https://www.inaturalist.org/photos/297647549
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/297647549/original.jpeg
 ---
 
 

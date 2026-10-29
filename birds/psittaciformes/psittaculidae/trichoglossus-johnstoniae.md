@@ -141,10 +141,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/psittaciformes/psittaculidae/trichoglossus-johnstoniae/1.jpg
+  page: https://www.inaturalist.org/photos/270969776
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969776/original.jpeg
+images:
+- file: images/psittaciformes/psittaculidae/trichoglossus-johnstoniae/1.jpg
+  page: https://www.inaturalist.org/photos/270969776
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969776/original.jpeg
+- file: images/psittaciformes/psittaculidae/trichoglossus-johnstoniae/2.jpg
+  page: https://www.inaturalist.org/photos/270969812
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969812/original.jpg
+- file: images/psittaciformes/psittaculidae/trichoglossus-johnstoniae/3.jpg
+  page: https://www.inaturalist.org/photos/270969828
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969828/original.jpg
+- file: images/psittaciformes/psittaculidae/trichoglossus-johnstoniae/4.jpg
+  page: https://www.inaturalist.org/photos/270969841
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969841/original.jpg
+- file: images/psittaciformes/psittaculidae/trichoglossus-johnstoniae/5.jpg
+  page: https://www.inaturalist.org/photos/218400544
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218400544/original.jpg
 ---
 
 

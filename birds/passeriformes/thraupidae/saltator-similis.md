@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/saltator-similis/1.jpg
+  page: https://www.inaturalist.org/photos/605433955
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433955/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-similis/1.jpg
+  page: https://www.inaturalist.org/photos/605433955
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433955/original.jpg
+- file: images/passeriformes/thraupidae/saltator-similis/2.jpg
+  page: https://www.inaturalist.org/photos/612365727
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612365727/original.jpg
+- file: images/passeriformes/thraupidae/saltator-similis/3.jpg
+  page: https://www.inaturalist.org/photos/626771288
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626771288/original.jpg
+- file: images/passeriformes/thraupidae/saltator-similis/4.jpg
+  page: https://www.inaturalist.org/photos/634542520
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634542520/original.jpg
+- file: images/passeriformes/thraupidae/saltator-similis/5.jpg
+  page: https://www.inaturalist.org/photos/621450983
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621450983/original.jpg
 ---
 
 

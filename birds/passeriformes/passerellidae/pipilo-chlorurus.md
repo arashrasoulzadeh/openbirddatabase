@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/passerellidae/pipilo-chlorurus/1.jpg
+  page: https://www.inaturalist.org/photos/605803640
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605803640/original.jpg
+images:
+- file: images/passeriformes/passerellidae/pipilo-chlorurus/1.jpg
+  page: https://www.inaturalist.org/photos/605803640
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605803640/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-chlorurus/2.jpg
+  page: https://www.inaturalist.org/photos/609084989
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609084989/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-chlorurus/3.jpg
+  page: https://www.inaturalist.org/photos/613668158
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613668158/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-chlorurus/4.jpg
+  page: https://www.inaturalist.org/photos/623785161
+  author: euanmck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623785161/original.jpg
+- file: images/passeriformes/passerellidae/pipilo-chlorurus/5.jpg
+  page: https://www.inaturalist.org/photos/622521496
+  author: Parker James Lloyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622521496/original.jpg
 ---
 
 

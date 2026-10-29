@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/illadopsis-albipectus/1.jpg
+  page: https://www.inaturalist.org/photos/253610311
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253610311/original.jpeg
+images:
+- file: images/passeriformes/pellorneidae/illadopsis-albipectus/1.jpg
+  page: https://www.inaturalist.org/photos/253610311
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253610311/original.jpeg
+- file: images/passeriformes/pellorneidae/illadopsis-albipectus/2.jpg
+  page: https://www.inaturalist.org/photos/253610277
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253610277/original.jpeg
+- file: images/passeriformes/pellorneidae/illadopsis-albipectus/3.jpg
+  page: https://www.inaturalist.org/photos/253610304
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253610304/original.jpeg
+- file: images/passeriformes/pellorneidae/illadopsis-albipectus/4.jpg
+  page: https://www.inaturalist.org/photos/253610286
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253610286/original.jpeg
+- file: images/passeriformes/pellorneidae/illadopsis-albipectus/5.jpg
+  page: https://www.inaturalist.org/photos/253610244
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253610244/original.jpeg
 ---
 
 

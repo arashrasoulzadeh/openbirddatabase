@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/oreopholus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/615300179
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615300179/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/oreopholus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/615300179
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615300179/original.jpg
+- file: images/charadriiformes/charadriidae/oreopholus-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/630084775
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630084775/original.jpg
+- file: images/charadriiformes/charadriidae/oreopholus-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/641281587
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641281587/original.jpg
+- file: images/charadriiformes/charadriidae/oreopholus-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/644471258
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644471258/original.jpg
+- file: images/charadriiformes/charadriidae/oreopholus-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/669235705
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669235705/original.jpg
 ---
 
 

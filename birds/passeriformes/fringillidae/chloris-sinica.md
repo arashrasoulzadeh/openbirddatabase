@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/chloris-sinica/1.jpg
+  page: https://www.inaturalist.org/photos/604707370
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604707370/original.jpg
+images:
+- file: images/passeriformes/fringillidae/chloris-sinica/1.jpg
+  page: https://www.inaturalist.org/photos/604707370
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604707370/original.jpg
+- file: images/passeriformes/fringillidae/chloris-sinica/2.jpg
+  page: https://www.inaturalist.org/photos/604943714
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604943714/original.jpg
+- file: images/passeriformes/fringillidae/chloris-sinica/3.jpg
+  page: https://www.inaturalist.org/photos/610657538
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610657538/original.jpg
+- file: images/passeriformes/fringillidae/chloris-sinica/4.jpg
+  page: https://www.inaturalist.org/photos/605827551
+  author: RX ZHANG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605827551/original.jpg
+- file: images/passeriformes/fringillidae/chloris-sinica/5.jpg
+  page: https://www.inaturalist.org/photos/610123934
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610123934/original.jpg
 ---
 
 

@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/henicopernis-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/698103882
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698103882/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/henicopernis-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/698103882
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698103882/original.jpg
+- file: images/accipitriformes/accipitridae/henicopernis-longicauda/2.jpg
+  page: https://www.inaturalist.org/photos/568105540
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568105540/original.jpg
+- file: images/accipitriformes/accipitridae/henicopernis-longicauda/3.jpg
+  page: https://www.inaturalist.org/photos/624348642
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624348642/original.jpg
+- file: images/accipitriformes/accipitridae/henicopernis-longicauda/4.jpg
+  page: https://www.inaturalist.org/photos/453023159
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453023159/original.jpg
+- file: images/accipitriformes/accipitridae/henicopernis-longicauda/5.jpg
+  page: https://www.inaturalist.org/photos/457195291
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457195291/original.jpg
 ---
 
 

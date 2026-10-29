@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/cardinalidae/piranga-ludoviciana/1.jpg
+  page: https://www.inaturalist.org/photos/608482438
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608482438/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/piranga-ludoviciana/1.jpg
+  page: https://www.inaturalist.org/photos/608482438
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608482438/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-ludoviciana/2.jpg
+  page: https://www.inaturalist.org/photos/608726016
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608726016/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-ludoviciana/3.jpg
+  page: https://www.inaturalist.org/photos/608992280
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608992280/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-ludoviciana/4.jpg
+  page: https://www.inaturalist.org/photos/609120746
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609120746/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-ludoviciana/5.jpg
+  page: https://www.inaturalist.org/photos/609851713
+  author: José Javier Barrios Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609851713/original.jpg
 ---
 
 

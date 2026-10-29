@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-auricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/617348767
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617348767/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-auricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/617348767
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617348767/original.jpg
+- file: images/passeriformes/icteridae/icterus-auricapillus/2.jpg
+  page: https://www.inaturalist.org/photos/618276802
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618276802/original.jpg
+- file: images/passeriformes/icteridae/icterus-auricapillus/3.jpg
+  page: https://www.inaturalist.org/photos/707432704
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707432704/original.jpg
+- file: images/passeriformes/icteridae/icterus-auricapillus/4.jpg
+  page: https://www.inaturalist.org/photos/723350719
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723350719/original.jpg
+- file: images/passeriformes/icteridae/icterus-auricapillus/5.jpg
+  page: https://www.inaturalist.org/photos/738248445
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738248445/original.jpg
 ---
 
 

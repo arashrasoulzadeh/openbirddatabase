@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/nyctibiiformes/nyctibiidae/nyctibius-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/607946598
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607946598/original.jpg
+images:
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/607946598
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607946598/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-grandis/2.jpg
+  page: https://www.inaturalist.org/photos/608235364
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608235364/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-grandis/3.jpg
+  page: https://www.inaturalist.org/photos/608724400
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608724400/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-grandis/4.jpg
+  page: https://www.inaturalist.org/photos/620279270
+  author: Lucas Bernardinelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620279270/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-grandis/5.jpg
+  page: https://www.inaturalist.org/photos/612191581
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612191581/original.jpg
 ---
 
 

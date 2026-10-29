@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 22.0
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 79.2
   tail_length_mm: 65.8
   body_mass_g: 12.0
+image:
+  file: images/passeriformes/timaliidae/stachyris-thoracica/1.jpg
+  page: https://www.inaturalist.org/photos/608362337
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608362337/original.jpg
+images:
+- file: images/passeriformes/timaliidae/stachyris-thoracica/1.jpg
+  page: https://www.inaturalist.org/photos/608362337
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608362337/original.jpg
+- file: images/passeriformes/timaliidae/stachyris-thoracica/2.jpg
+  page: https://www.inaturalist.org/photos/313035071
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313035071/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-thoracica/3.jpg
+  page: https://www.inaturalist.org/photos/313035532
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313035532/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-thoracica/4.jpg
+  page: https://www.inaturalist.org/photos/313035535
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313035535/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-thoracica/5.jpg
+  page: https://www.inaturalist.org/photos/313035578
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313035578/original.jpeg
 ---
 
 

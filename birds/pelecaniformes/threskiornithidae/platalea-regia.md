@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 36
+image:
+  file: images/pelecaniformes/threskiornithidae/platalea-regia/1.jpg
+  page: https://www.inaturalist.org/photos/605606919
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605606919/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/platalea-regia/1.jpg
+  page: https://www.inaturalist.org/photos/605606919
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605606919/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-regia/2.jpg
+  page: https://www.inaturalist.org/photos/605235623
+  author: David Orlovich
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605235623/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-regia/3.jpg
+  page: https://www.inaturalist.org/photos/605590264
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605590264/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-regia/4.jpg
+  page: https://www.inaturalist.org/photos/605256893
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605256893/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-regia/5.jpg
+  page: https://www.inaturalist.org/photos/605000959
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605000959/original.jpg
 ---
 
 

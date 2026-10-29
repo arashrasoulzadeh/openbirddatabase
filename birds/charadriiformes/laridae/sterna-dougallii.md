@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/charadriiformes/laridae/sterna-dougallii/1.jpg
+  page: https://www.inaturalist.org/photos/634162868
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634162868/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-dougallii/1.jpg
+  page: https://www.inaturalist.org/photos/634162868
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634162868/original.jpg
+- file: images/charadriiformes/laridae/sterna-dougallii/2.jpg
+  page: https://www.inaturalist.org/photos/659789540
+  author: Robbie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659789540/original.jpg
+- file: images/charadriiformes/laridae/sterna-dougallii/3.jpg
+  page: https://www.inaturalist.org/photos/666595909
+  author: Jerry Lanfear
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666595909/original.jpg
+- file: images/charadriiformes/laridae/sterna-dougallii/4.jpg
+  page: https://www.inaturalist.org/photos/670884201
+  author: uxbridgebirder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670884201/original.jpg
+- file: images/charadriiformes/laridae/sterna-dougallii/5.jpg
+  page: https://www.inaturalist.org/photos/667223819
+  author: Albert Rainbow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667223819/original.jpg
 ---
 
 

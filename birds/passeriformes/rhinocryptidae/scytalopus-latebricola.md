@@ -135,8 +135,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-latebricola/1.jpg
+  page: https://www.inaturalist.org/photos/699776609
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699776609/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-latebricola/1.jpg
+  page: https://www.inaturalist.org/photos/699776609
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699776609/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-latebricola/2.jpg
+  page: https://www.inaturalist.org/photos/464409024
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464409024/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-latebricola/3.jpg
+  page: https://www.inaturalist.org/photos/42811753
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/42811753/original.jpg
 ---
 
 

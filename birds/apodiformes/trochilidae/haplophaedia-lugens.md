@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/haplophaedia-lugens/1.jpg
+  page: https://www.inaturalist.org/photos/254909373
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254909373/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/haplophaedia-lugens/1.jpg
+  page: https://www.inaturalist.org/photos/254909373
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254909373/original.jpeg
+- file: images/apodiformes/trochilidae/haplophaedia-lugens/2.jpg
+  page: https://www.inaturalist.org/photos/348494673
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348494673/original.jpeg
+- file: images/apodiformes/trochilidae/haplophaedia-lugens/3.jpg
+  page: https://www.inaturalist.org/photos/254909478
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254909478/original.jpeg
+- file: images/apodiformes/trochilidae/haplophaedia-lugens/4.jpg
+  page: https://www.inaturalist.org/photos/254909483
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254909483/original.jpeg
+- file: images/apodiformes/trochilidae/haplophaedia-lugens/5.jpg
+  page: https://www.inaturalist.org/photos/348494674
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348494674/original.jpeg
 ---
 
 

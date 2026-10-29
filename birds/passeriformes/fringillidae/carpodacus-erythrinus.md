@@ -189,10 +189,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/fringillidae/carpodacus-erythrinus/1.jpg
+  page: https://www.inaturalist.org/photos/609188180
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188180/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-erythrinus/1.jpg
+  page: https://www.inaturalist.org/photos/609188180
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188180/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-erythrinus/2.jpg
+  page: https://www.inaturalist.org/photos/649378342
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649378342/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-erythrinus/3.jpg
+  page: https://www.inaturalist.org/photos/614365042
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614365042/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-erythrinus/4.jpg
+  page: https://www.inaturalist.org/photos/616555382
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616555382/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-erythrinus/5.jpg
+  page: https://www.inaturalist.org/photos/620471682
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620471682/original.jpg
 ---
 
 

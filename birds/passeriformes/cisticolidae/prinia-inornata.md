@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/605557878
+  author: 葉淑蓮
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605557878/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/605557878
+  author: 葉淑蓮
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605557878/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-inornata/2.jpg
+  page: https://www.inaturalist.org/photos/607382910
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607382910/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-inornata/3.jpg
+  page: https://www.inaturalist.org/photos/607116890
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116890/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-inornata/4.jpg
+  page: https://www.inaturalist.org/photos/609147750
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609147750/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-inornata/5.jpg
+  page: https://www.inaturalist.org/photos/610257820
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610257820/original.jpg
 ---
 
 

@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/609148068
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609148068/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/609148068
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609148068/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-cinnamomeus/2.jpg
+  page: https://www.inaturalist.org/photos/608189607
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608189607/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-cinnamomeus/3.jpg
+  page: https://www.inaturalist.org/photos/611652628
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611652628/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-cinnamomeus/4.jpg
+  page: https://www.inaturalist.org/photos/618389020
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618389020/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-cinnamomeus/5.jpg
+  page: https://www.inaturalist.org/photos/621819492
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621819492/original.jpg
 ---
 
 

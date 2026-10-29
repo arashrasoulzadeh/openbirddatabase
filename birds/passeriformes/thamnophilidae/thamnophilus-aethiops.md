@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-aethiops/1.jpg
+  page: https://www.inaturalist.org/photos/240597810
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240597810/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-aethiops/1.jpg
+  page: https://www.inaturalist.org/photos/240597810
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240597810/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-aethiops/2.jpg
+  page: https://www.inaturalist.org/photos/26768228
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26768228/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-aethiops/3.jpg
+  page: https://www.inaturalist.org/photos/26768233
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26768233/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-aethiops/4.jpg
+  page: https://www.inaturalist.org/photos/26768234
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26768234/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-aethiops/5.jpg
+  page: https://www.inaturalist.org/photos/26768240
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26768240/original.jpeg
 ---
 
 

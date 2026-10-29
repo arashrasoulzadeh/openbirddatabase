@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/melozone-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/608493765
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608493765/original.jpg
+images:
+- file: images/passeriformes/passerellidae/melozone-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/608493765
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608493765/original.jpg
+- file: images/passeriformes/passerellidae/melozone-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/620711189
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620711189/original.jpg
+- file: images/passeriformes/passerellidae/melozone-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/665346841
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665346841/original.jpg
+- file: images/passeriformes/passerellidae/melozone-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/655968603
+  author: Megan Ralph
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655968603/original.jpg
+- file: images/passeriformes/passerellidae/melozone-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/653312898
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653312898/original.jpg
 ---
 
 

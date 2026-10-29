@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-moesta/1.jpg
+  page: https://www.inaturalist.org/photos/653880517
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653880517/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-moesta/1.jpg
+  page: https://www.inaturalist.org/photos/653880517
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653880517/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-moesta/2.jpg
+  page: https://www.inaturalist.org/photos/620411640
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620411640/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-moesta/3.jpg
+  page: https://www.inaturalist.org/photos/622844741
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622844741/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-moesta/4.jpg
+  page: https://www.inaturalist.org/photos/662879236
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662879236/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-moesta/5.jpg
+  page: https://www.inaturalist.org/photos/464904738
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464904738/original.jpeg
 ---
 
 

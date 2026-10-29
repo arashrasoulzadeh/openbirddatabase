@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/quiscalus-niger/1.jpg
+  page: https://www.inaturalist.org/photos/604927585
+  author: Jess Mullins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604927585/original.jpg
+images:
+- file: images/passeriformes/icteridae/quiscalus-niger/1.jpg
+  page: https://www.inaturalist.org/photos/604927585
+  author: Jess Mullins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604927585/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-niger/2.jpg
+  page: https://www.inaturalist.org/photos/607820388
+  author: Matthew Gerke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607820388/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-niger/3.jpg
+  page: https://www.inaturalist.org/photos/609944265
+  author: Tom
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609944265/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-niger/4.jpg
+  page: https://www.inaturalist.org/photos/607563799
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607563799/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-niger/5.jpg
+  page: https://www.inaturalist.org/photos/607726080
+  author: Emmett Serrano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607726080/original.jpg
 ---
 
 

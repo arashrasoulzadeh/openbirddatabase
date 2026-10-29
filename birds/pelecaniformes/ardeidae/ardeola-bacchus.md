@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardeola-bacchus/1.jpg
+  page: https://www.inaturalist.org/photos/604453903
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604453903/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardeola-bacchus/1.jpg
+  page: https://www.inaturalist.org/photos/604453903
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604453903/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-bacchus/2.jpg
+  page: https://www.inaturalist.org/photos/607359265
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607359265/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-bacchus/3.jpg
+  page: https://www.inaturalist.org/photos/609903161
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609903161/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-bacchus/4.jpg
+  page: https://www.inaturalist.org/photos/607097805
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607097805/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-bacchus/5.jpg
+  page: https://www.inaturalist.org/photos/608900446
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608900446/original.jpg
 ---
 
 

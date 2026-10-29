@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-subrubra/1.jpg
+  page: https://www.inaturalist.org/photos/618692868
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618692868/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-subrubra/1.jpg
+  page: https://www.inaturalist.org/photos/618692868
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618692868/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-subrubra/2.jpg
+  page: https://www.inaturalist.org/photos/468091364
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468091364/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-subrubra/3.jpg
+  page: https://www.inaturalist.org/photos/470258290
+  author: Siya ul haque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470258290/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-subrubra/4.jpg
+  page: https://www.inaturalist.org/photos/480163018
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480163018/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-subrubra/5.jpg
+  page: https://www.inaturalist.org/photos/474208626
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474208626/original.jpeg
 ---
 
 

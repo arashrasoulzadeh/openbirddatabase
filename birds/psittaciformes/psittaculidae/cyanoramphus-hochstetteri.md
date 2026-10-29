@@ -143,10 +143,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/psittaciformes/psittaculidae/cyanoramphus-hochstetteri/1.jpg
+  page: https://www.inaturalist.org/photos/610556345
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610556345/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/cyanoramphus-hochstetteri/1.jpg
+  page: https://www.inaturalist.org/photos/610556345
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610556345/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-hochstetteri/2.jpg
+  page: https://www.inaturalist.org/photos/608830618
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608830618/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-hochstetteri/3.jpg
+  page: https://www.inaturalist.org/photos/618917839
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618917839/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-hochstetteri/4.jpg
+  page: https://www.inaturalist.org/photos/621691817
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621691817/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-hochstetteri/5.jpg
+  page: https://www.inaturalist.org/photos/616181170
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616181170/original.jpg
 ---
 
 

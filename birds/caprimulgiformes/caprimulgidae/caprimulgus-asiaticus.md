@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-asiaticus/1.jpg
+  page: https://www.inaturalist.org/photos/606550922
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606550922/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-asiaticus/1.jpg
+  page: https://www.inaturalist.org/photos/606550922
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606550922/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-asiaticus/2.jpg
+  page: https://www.inaturalist.org/photos/609929351
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609929351/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-asiaticus/3.jpg
+  page: https://www.inaturalist.org/photos/647660628
+  author: Ravuri Krishna Chaitanya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647660628/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-asiaticus/4.jpg
+  page: https://www.inaturalist.org/photos/656635814
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656635814/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-asiaticus/5.jpg
+  page: https://www.inaturalist.org/photos/699840599
+  author: Siva Naturewild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699840599/original.jpg
 ---
 
 

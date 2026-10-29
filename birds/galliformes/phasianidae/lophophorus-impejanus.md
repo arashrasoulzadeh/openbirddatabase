@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/lophophorus-impejanus/1.jpg
+  page: https://www.inaturalist.org/photos/626640722
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626640722/original.jpg
+images:
+- file: images/galliformes/phasianidae/lophophorus-impejanus/1.jpg
+  page: https://www.inaturalist.org/photos/626640722
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626640722/original.jpg
+- file: images/galliformes/phasianidae/lophophorus-impejanus/2.jpg
+  page: https://www.inaturalist.org/photos/626644121
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626644121/original.jpg
+- file: images/galliformes/phasianidae/lophophorus-impejanus/3.jpg
+  page: https://www.inaturalist.org/photos/626644149
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626644149/original.jpg
+- file: images/galliformes/phasianidae/lophophorus-impejanus/4.jpg
+  page: https://www.inaturalist.org/photos/626644178
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626644178/original.jpg
+- file: images/galliformes/phasianidae/lophophorus-impejanus/5.jpg
+  page: https://www.inaturalist.org/photos/626644207
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626644207/original.jpg
 ---
 
 

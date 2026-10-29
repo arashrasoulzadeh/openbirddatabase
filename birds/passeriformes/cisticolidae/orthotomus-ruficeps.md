@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/orthotomus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/608303804
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608303804/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/orthotomus-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/608303804
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608303804/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/608498423
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608498423/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/617175935
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617175935/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/623038792
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623038792/original.jpg
+- file: images/passeriformes/cisticolidae/orthotomus-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/626031110
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626031110/original.jpg
 ---
 
 

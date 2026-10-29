@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/pseudobias-wardi/1.jpg
+  page: https://www.inaturalist.org/photos/454885069
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454885069/original.jpg
+images:
+- file: images/passeriformes/vangidae/pseudobias-wardi/1.jpg
+  page: https://www.inaturalist.org/photos/454885069
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454885069/original.jpg
+- file: images/passeriformes/vangidae/pseudobias-wardi/2.jpg
+  page: https://www.inaturalist.org/photos/447377140
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447377140/original.jpeg
+- file: images/passeriformes/vangidae/pseudobias-wardi/3.jpg
+  page: https://www.inaturalist.org/photos/336846961
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336846961/original.jpeg
+- file: images/passeriformes/vangidae/pseudobias-wardi/4.jpg
+  page: https://www.inaturalist.org/photos/241516314
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241516314/original.jpg
+- file: images/passeriformes/vangidae/pseudobias-wardi/5.jpg
+  page: https://www.inaturalist.org/photos/2397267
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2397267/original.jpg
 ---
 
 

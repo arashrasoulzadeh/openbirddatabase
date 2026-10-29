@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/melaenornis-annamarulae/1.jpg
+  page: https://www.inaturalist.org/photos/568877687
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568877687/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/melaenornis-annamarulae/1.jpg
+  page: https://www.inaturalist.org/photos/568877687
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568877687/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-annamarulae/2.jpg
+  page: https://www.inaturalist.org/photos/219636329
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219636329/original.jpeg
+- file: images/passeriformes/muscicapidae/melaenornis-annamarulae/3.jpg
+  page: https://www.inaturalist.org/photos/181193710
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181193710/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-annamarulae/4.jpg
+  page: https://www.inaturalist.org/photos/568877715
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568877715/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-annamarulae/5.jpg
+  page: https://www.inaturalist.org/photos/568877724
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568877724/original.jpg
 ---
 
 

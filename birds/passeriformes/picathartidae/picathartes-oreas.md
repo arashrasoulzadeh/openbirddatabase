@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/picathartidae/picathartes-oreas/1.jpg
+  page: https://www.inaturalist.org/photos/662436821
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662436821/original.jpg
+images:
+- file: images/passeriformes/picathartidae/picathartes-oreas/1.jpg
+  page: https://www.inaturalist.org/photos/662436821
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662436821/original.jpg
+- file: images/passeriformes/picathartidae/picathartes-oreas/2.jpg
+  page: https://www.inaturalist.org/photos/470067775
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470067775/original.jpg
+- file: images/passeriformes/picathartidae/picathartes-oreas/3.jpg
+  page: https://www.inaturalist.org/photos/662436822
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662436822/original.jpg
+- file: images/passeriformes/picathartidae/picathartes-oreas/4.jpg
+  page: https://www.inaturalist.org/photos/470067781
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470067781/original.jpg
+- file: images/passeriformes/picathartidae/picathartes-oreas/5.jpg
+  page: https://www.inaturalist.org/photos/470067786
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470067786/original.jpg
 ---
 
 

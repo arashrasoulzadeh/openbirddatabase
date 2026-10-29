@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/notiomystidae/notiomystis-cincta/1.jpg
+  page: https://www.inaturalist.org/photos/614911699
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614911699/original.jpg
+images:
+- file: images/passeriformes/notiomystidae/notiomystis-cincta/1.jpg
+  page: https://www.inaturalist.org/photos/614911699
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614911699/original.jpg
+- file: images/passeriformes/notiomystidae/notiomystis-cincta/2.jpg
+  page: https://www.inaturalist.org/photos/614604954
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614604954/original.jpg
+- file: images/passeriformes/notiomystidae/notiomystis-cincta/3.jpg
+  page: https://www.inaturalist.org/photos/618914285
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618914285/original.jpg
+- file: images/passeriformes/notiomystidae/notiomystis-cincta/4.jpg
+  page: https://www.inaturalist.org/photos/619409101
+  author: Colin Meurk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619409101/original.jpg
+- file: images/passeriformes/notiomystidae/notiomystis-cincta/5.jpg
+  page: https://www.inaturalist.org/photos/621935693
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621935693/original.jpg
 ---
 
 

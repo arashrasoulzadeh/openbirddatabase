@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/meliphagidae/meliphaga-lewinii/1.jpg
+  page: https://www.inaturalist.org/photos/604375571
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604375571/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/meliphaga-lewinii/1.jpg
+  page: https://www.inaturalist.org/photos/604375571
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604375571/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-lewinii/2.jpg
+  page: https://www.inaturalist.org/photos/605303192
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303192/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-lewinii/3.jpg
+  page: https://www.inaturalist.org/photos/606097903
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606097903/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-lewinii/4.jpg
+  page: https://www.inaturalist.org/photos/607794683
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607794683/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-lewinii/5.jpg
+  page: https://www.inaturalist.org/photos/610180042
+  author: Scott Warner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610180042/original.jpg
 ---
 
 

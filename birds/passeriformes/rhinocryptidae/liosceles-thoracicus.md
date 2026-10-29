@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/liosceles-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/402012676
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402012676/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/liosceles-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/402012676
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402012676/original.jpg
+- file: images/passeriformes/rhinocryptidae/liosceles-thoracicus/2.jpg
+  page: https://www.inaturalist.org/photos/163318914
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163318914/original.jpeg
+- file: images/passeriformes/rhinocryptidae/liosceles-thoracicus/3.jpg
+  page: https://www.inaturalist.org/photos/158465630
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158465630/original.jpeg
+- file: images/passeriformes/rhinocryptidae/liosceles-thoracicus/4.jpg
+  page: https://www.inaturalist.org/photos/402016522
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402016522/original.jpg
+- file: images/passeriformes/rhinocryptidae/liosceles-thoracicus/5.jpg
+  page: https://www.inaturalist.org/photos/402016523
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402016523/original.jpg
 ---
 
 

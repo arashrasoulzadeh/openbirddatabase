@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/fringillidae/haemorhous-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/604932571
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604932571/original.jpg
+images:
+- file: images/passeriformes/fringillidae/haemorhous-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/604932571
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604932571/original.jpg
+- file: images/passeriformes/fringillidae/haemorhous-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/605117249
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605117249/original.jpg
+- file: images/passeriformes/fringillidae/haemorhous-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/604557944
+  author: Brian R Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604557944/original.jpg
+- file: images/passeriformes/fringillidae/haemorhous-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/604799985
+  author: asiminamacrophylla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604799985/original.jpg
+- file: images/passeriformes/fringillidae/haemorhous-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/604609063
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604609063/original.jpg
 ---
 
 

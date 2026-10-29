@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/amytornis-ballarae/1.jpg
+  page: https://www.inaturalist.org/photos/745691746
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745691746/original.jpg
+images:
+- file: images/passeriformes/maluridae/amytornis-ballarae/1.jpg
+  page: https://www.inaturalist.org/photos/745691746
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745691746/original.jpg
+- file: images/passeriformes/maluridae/amytornis-ballarae/2.jpg
+  page: https://www.inaturalist.org/photos/175596966
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175596966/original.jpeg
+- file: images/passeriformes/maluridae/amytornis-ballarae/3.jpg
+  page: https://www.inaturalist.org/photos/340910131
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340910131/original.jpeg
+- file: images/passeriformes/maluridae/amytornis-ballarae/4.jpg
+  page: https://www.inaturalist.org/photos/77542098
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/77542098/original.jpg
+- file: images/passeriformes/maluridae/amytornis-ballarae/5.jpg
+  page: https://www.inaturalist.org/photos/745691694
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745691694/original.jpg
 ---
 
 

@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/pelecaniformes/threskiornithidae/phimosus-infuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/604851283
+  author: Tiago Lubiana
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604851283/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/phimosus-infuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/604851283
+  author: Tiago Lubiana
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604851283/original.jpg
+- file: images/pelecaniformes/threskiornithidae/phimosus-infuscatus/2.jpg
+  page: https://www.inaturalist.org/photos/604884599
+  author: Darci
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604884599/original.jpg
+- file: images/pelecaniformes/threskiornithidae/phimosus-infuscatus/3.jpg
+  page: https://www.inaturalist.org/photos/604543290
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543290/original.jpg
+- file: images/pelecaniformes/threskiornithidae/phimosus-infuscatus/4.jpg
+  page: https://www.inaturalist.org/photos/604591765
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604591765/original.jpg
+- file: images/pelecaniformes/threskiornithidae/phimosus-infuscatus/5.jpg
+  page: https://www.inaturalist.org/photos/604825895
+  author: Fernando
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604825895/original.jpg
 ---
 
 

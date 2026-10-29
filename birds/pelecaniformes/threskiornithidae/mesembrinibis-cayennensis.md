@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/threskiornithidae/mesembrinibis-cayennensis/1.jpg
+  page: https://www.inaturalist.org/photos/606243251
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606243251/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/mesembrinibis-cayennensis/1.jpg
+  page: https://www.inaturalist.org/photos/606243251
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606243251/original.jpg
+- file: images/pelecaniformes/threskiornithidae/mesembrinibis-cayennensis/2.jpg
+  page: https://www.inaturalist.org/photos/608918423
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608918423/original.jpg
+- file: images/pelecaniformes/threskiornithidae/mesembrinibis-cayennensis/3.jpg
+  page: https://www.inaturalist.org/photos/608799878
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608799878/original.jpg
+- file: images/pelecaniformes/threskiornithidae/mesembrinibis-cayennensis/4.jpg
+  page: https://www.inaturalist.org/photos/609953314
+  author: Dayson Moran
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609953314/original.jpg
+- file: images/pelecaniformes/threskiornithidae/mesembrinibis-cayennensis/5.jpg
+  page: https://www.inaturalist.org/photos/605914369
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914369/original.jpg
 ---
 
 

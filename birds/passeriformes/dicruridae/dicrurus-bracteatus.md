@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/dicruridae/dicrurus-bracteatus/1.jpg
+  page: https://www.inaturalist.org/photos/604981552
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604981552/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-bracteatus/1.jpg
+  page: https://www.inaturalist.org/photos/604981552
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604981552/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-bracteatus/2.jpg
+  page: https://www.inaturalist.org/photos/609363567
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363567/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-bracteatus/3.jpg
+  page: https://www.inaturalist.org/photos/608765619
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608765619/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-bracteatus/4.jpg
+  page: https://www.inaturalist.org/photos/613828580
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613828580/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-bracteatus/5.jpg
+  page: https://www.inaturalist.org/photos/609363021
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363021/original.jpg
 ---
 
 

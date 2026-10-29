@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/pogoniulus-bilineatus/1.jpg
+  page: https://www.inaturalist.org/photos/622119286
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622119286/original.jpg
+images:
+- file: images/piciformes/lybiidae/pogoniulus-bilineatus/1.jpg
+  page: https://www.inaturalist.org/photos/622119286
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622119286/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-bilineatus/2.jpg
+  page: https://www.inaturalist.org/photos/633689603
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633689603/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-bilineatus/3.jpg
+  page: https://www.inaturalist.org/photos/640563614
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640563614/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-bilineatus/4.jpg
+  page: https://www.inaturalist.org/photos/716310786
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716310786/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-bilineatus/5.jpg
+  page: https://www.inaturalist.org/photos/734316356
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734316356/original.jpg
 ---
 
 

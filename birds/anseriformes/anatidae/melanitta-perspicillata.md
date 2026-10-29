@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/anseriformes/anatidae/melanitta-perspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/605513400
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605513400/original.jpg
+images:
+- file: images/anseriformes/anatidae/melanitta-perspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/605513400
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605513400/original.jpg
+- file: images/anseriformes/anatidae/melanitta-perspicillata/2.jpg
+  page: https://www.inaturalist.org/photos/605509581
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605509581/original.jpg
+- file: images/anseriformes/anatidae/melanitta-perspicillata/3.jpg
+  page: https://www.inaturalist.org/photos/605406056
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605406056/original.jpg
+- file: images/anseriformes/anatidae/melanitta-perspicillata/4.jpg
+  page: https://www.inaturalist.org/photos/605509950
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605509950/original.jpg
+- file: images/anseriformes/anatidae/melanitta-perspicillata/5.jpg
+  page: https://www.inaturalist.org/photos/604656544
+  author: funnieanimals
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604656544/original.jpg
 ---
 
 

@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/trachyphonus-erythrocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/610956141
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610956141/original.jpg
+images:
+- file: images/piciformes/lybiidae/trachyphonus-erythrocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/610956141
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610956141/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-erythrocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/670140495
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670140495/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-erythrocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/701207798
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701207798/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-erythrocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/722024151
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722024151/original.jpg
+- file: images/piciformes/lybiidae/trachyphonus-erythrocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/501631364
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501631364/original.jpeg
 ---
 
 

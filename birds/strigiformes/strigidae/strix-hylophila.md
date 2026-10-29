@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/strix-hylophila/1.jpg
+  page: https://www.inaturalist.org/photos/607831230
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607831230/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-hylophila/1.jpg
+  page: https://www.inaturalist.org/photos/607831230
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607831230/original.jpg
+- file: images/strigiformes/strigidae/strix-hylophila/2.jpg
+  page: https://www.inaturalist.org/photos/641154700
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641154700/original.jpg
+- file: images/strigiformes/strigidae/strix-hylophila/3.jpg
+  page: https://www.inaturalist.org/photos/677181746
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677181746/original.jpg
+- file: images/strigiformes/strigidae/strix-hylophila/4.jpg
+  page: https://www.inaturalist.org/photos/469366841
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469366841/original.jpeg
+- file: images/strigiformes/strigidae/strix-hylophila/5.jpg
+  page: https://www.inaturalist.org/photos/477136838
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477136838/original.jpeg
 ---
 
 

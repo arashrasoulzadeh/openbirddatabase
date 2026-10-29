@@ -125,8 +125,47 @@ sources:
 - BIRDBASE 2025
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-graeffii/1.jpg
+  page: https://www.inaturalist.org/photos/607009879
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607009879/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-graeffii/1.jpg
+  page: https://www.inaturalist.org/photos/607009879
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607009879/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-graeffii/2.jpg
+  page: https://www.inaturalist.org/photos/728686246
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728686246/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-graeffii/3.jpg
+  page: https://www.inaturalist.org/photos/341735757
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341735757/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-graeffii/4.jpg
+  page: https://www.inaturalist.org/photos/60382533
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60382533/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-graeffii/5.jpg
+  page: https://www.inaturalist.org/photos/728686243
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728686243/original.jpg
 ---
 
 

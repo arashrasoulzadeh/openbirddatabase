@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/polioptilidae/ramphocaenus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/608764264
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608764264/original.jpg
+images:
+- file: images/passeriformes/polioptilidae/ramphocaenus-melanurus/1.jpg
+  page: https://www.inaturalist.org/photos/608764264
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608764264/original.jpg
+- file: images/passeriformes/polioptilidae/ramphocaenus-melanurus/2.jpg
+  page: https://www.inaturalist.org/photos/611673731
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611673731/original.jpg
+- file: images/passeriformes/polioptilidae/ramphocaenus-melanurus/3.jpg
+  page: https://www.inaturalist.org/photos/620520856
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620520856/original.jpg
+- file: images/passeriformes/polioptilidae/ramphocaenus-melanurus/4.jpg
+  page: https://www.inaturalist.org/photos/614434880
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614434880/original.jpg
+- file: images/passeriformes/polioptilidae/ramphocaenus-melanurus/5.jpg
+  page: https://www.inaturalist.org/photos/622878701
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622878701/original.jpg
 ---
 
 

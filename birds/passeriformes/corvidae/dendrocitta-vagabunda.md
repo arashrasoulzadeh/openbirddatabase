@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/dendrocitta-vagabunda/1.jpg
+  page: https://www.inaturalist.org/photos/609390336
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609390336/original.jpg
+images:
+- file: images/passeriformes/corvidae/dendrocitta-vagabunda/1.jpg
+  page: https://www.inaturalist.org/photos/609390336
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609390336/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-vagabunda/2.jpg
+  page: https://www.inaturalist.org/photos/608898648
+  author: Livson Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608898648/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-vagabunda/3.jpg
+  page: https://www.inaturalist.org/photos/611586994
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611586994/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-vagabunda/4.jpg
+  page: https://www.inaturalist.org/photos/622356508
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356508/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-vagabunda/5.jpg
+  page: https://www.inaturalist.org/photos/609389620
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609389620/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/phytotoma-rutila/1.jpg
+  page: https://www.inaturalist.org/photos/607783729
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607783729/original.jpg
+images:
+- file: images/passeriformes/cotingidae/phytotoma-rutila/1.jpg
+  page: https://www.inaturalist.org/photos/607783729
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607783729/original.jpg
+- file: images/passeriformes/cotingidae/phytotoma-rutila/2.jpg
+  page: https://www.inaturalist.org/photos/625664452
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625664452/original.jpg
+- file: images/passeriformes/cotingidae/phytotoma-rutila/3.jpg
+  page: https://www.inaturalist.org/photos/625558008
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625558008/original.jpg
+- file: images/passeriformes/cotingidae/phytotoma-rutila/4.jpg
+  page: https://www.inaturalist.org/photos/616002810
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616002810/original.jpg
+- file: images/passeriformes/cotingidae/phytotoma-rutila/5.jpg
+  page: https://www.inaturalist.org/photos/623454338
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623454338/original.jpg
 ---
 
 

@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 51
+image:
+  file: images/procellariiformes/procellariidae/puffinus-yelkouan/1.jpg
+  page: https://www.inaturalist.org/photos/605862672
+  author: saydelah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605862672/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/puffinus-yelkouan/1.jpg
+  page: https://www.inaturalist.org/photos/605862672
+  author: saydelah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605862672/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-yelkouan/2.jpg
+  page: https://www.inaturalist.org/photos/620242134
+  author: Paolo Zucca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620242134/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-yelkouan/3.jpg
+  page: https://www.inaturalist.org/photos/605862673
+  author: saydelah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605862673/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-yelkouan/4.jpg
+  page: https://www.inaturalist.org/photos/605862652
+  author: saydelah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605862652/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-yelkouan/5.jpg
+  page: https://www.inaturalist.org/photos/605862653
+  author: saydelah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605862653/original.jpg
 ---
 
 

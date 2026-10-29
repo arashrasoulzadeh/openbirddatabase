@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/meiglyptes-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/626428698
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428698/original.jpg
+images:
+- file: images/piciformes/picidae/meiglyptes-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/626428698
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428698/original.jpg
+- file: images/piciformes/picidae/meiglyptes-tristis/2.jpg
+  page: https://www.inaturalist.org/photos/730198161
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730198161/original.jpg
+- file: images/piciformes/picidae/meiglyptes-tristis/3.jpg
+  page: https://www.inaturalist.org/photos/691197499
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691197499/original.jpg
+- file: images/piciformes/picidae/meiglyptes-tristis/4.jpg
+  page: https://www.inaturalist.org/photos/466518188
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466518188/original.jpeg
+- file: images/piciformes/picidae/meiglyptes-tristis/5.jpg
+  page: https://www.inaturalist.org/photos/525702000
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525702000/original.jpg
 ---
 
 

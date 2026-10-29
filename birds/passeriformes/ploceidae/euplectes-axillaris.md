@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/607146158
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607146158/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/607146158
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607146158/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-axillaris/2.jpg
+  page: https://www.inaturalist.org/photos/618119582
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618119582/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-axillaris/3.jpg
+  page: https://www.inaturalist.org/photos/677476825
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677476825/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-axillaris/4.jpg
+  page: https://www.inaturalist.org/photos/712720797
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712720797/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-axillaris/5.jpg
+  page: https://www.inaturalist.org/photos/727503256
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727503256/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/nesillas-typica/1.jpg
+  page: https://www.inaturalist.org/photos/691359959
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691359959/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/nesillas-typica/1.jpg
+  page: https://www.inaturalist.org/photos/691359959
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691359959/original.jpg
+- file: images/passeriformes/acrocephalidae/nesillas-typica/2.jpg
+  page: https://www.inaturalist.org/photos/472342860
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472342860/original.jpeg
+- file: images/passeriformes/acrocephalidae/nesillas-typica/3.jpg
+  page: https://www.inaturalist.org/photos/580818883
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580818883/original.jpg
+- file: images/passeriformes/acrocephalidae/nesillas-typica/4.jpg
+  page: https://www.inaturalist.org/photos/451124879
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451124879/original.jpg
+- file: images/passeriformes/acrocephalidae/nesillas-typica/5.jpg
+  page: https://www.inaturalist.org/photos/338059116
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338059116/original.jpeg
 ---
 
 

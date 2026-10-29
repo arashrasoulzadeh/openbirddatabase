@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/icteridae/agelaius-phoeniceus/1.jpg
+  page: https://www.inaturalist.org/photos/604895312
+  author: Calinsdad
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895312/original.jpg
+images:
+- file: images/passeriformes/icteridae/agelaius-phoeniceus/1.jpg
+  page: https://www.inaturalist.org/photos/604895312
+  author: Calinsdad
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604895312/original.jpg
+- file: images/passeriformes/icteridae/agelaius-phoeniceus/2.jpg
+  page: https://www.inaturalist.org/photos/605210232
+  author: sudomir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210232/original.jpg
+- file: images/passeriformes/icteridae/agelaius-phoeniceus/3.jpg
+  page: https://www.inaturalist.org/photos/604899886
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899886/original.jpg
+- file: images/passeriformes/icteridae/agelaius-phoeniceus/4.jpg
+  page: https://www.inaturalist.org/photos/605656416
+  author: bfberauer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605656416/original.jpg
+- file: images/passeriformes/icteridae/agelaius-phoeniceus/5.jpg
+  page: https://www.inaturalist.org/photos/605372395
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605372395/original.jpg
 ---
 
 

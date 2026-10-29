@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/piciformes/picidae/dinopium-javanense/1.jpg
+  page: https://www.inaturalist.org/photos/616756264
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616756264/original.jpg
+images:
+- file: images/piciformes/picidae/dinopium-javanense/1.jpg
+  page: https://www.inaturalist.org/photos/616756264
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616756264/original.jpg
+- file: images/piciformes/picidae/dinopium-javanense/2.jpg
+  page: https://www.inaturalist.org/photos/612871331
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612871331/original.jpg
+- file: images/piciformes/picidae/dinopium-javanense/3.jpg
+  page: https://www.inaturalist.org/photos/624380514
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624380514/original.jpg
+- file: images/piciformes/picidae/dinopium-javanense/4.jpg
+  page: https://www.inaturalist.org/photos/634734811
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634734811/original.jpg
+- file: images/piciformes/picidae/dinopium-javanense/5.jpg
+  page: https://www.inaturalist.org/photos/637924755
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637924755/original.jpg
 ---
 
 

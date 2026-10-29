@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/376317742
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376317742/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/376317742
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376317742/original.jpeg
+- file: images/passeriformes/tyrannidae/muscisaxicola-griseus/2.jpg
+  page: https://www.inaturalist.org/photos/281524363
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/281524363/original.jpeg
+- file: images/passeriformes/tyrannidae/muscisaxicola-griseus/3.jpg
+  page: https://www.inaturalist.org/photos/339745808
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339745808/original.jpeg
+- file: images/passeriformes/tyrannidae/muscisaxicola-griseus/4.jpg
+  page: https://www.inaturalist.org/photos/230794579
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230794579/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-griseus/5.jpg
+  page: https://www.inaturalist.org/photos/232603513
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232603513/original.jpg
 ---
 
 

@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/anthreptes-rectirostris/1.jpg
+  page: https://www.inaturalist.org/photos/665525423
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525423/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/anthreptes-rectirostris/1.jpg
+  page: https://www.inaturalist.org/photos/665525423
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525423/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-rectirostris/2.jpg
+  page: https://www.inaturalist.org/photos/477223274
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477223274/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-rectirostris/3.jpg
+  page: https://www.inaturalist.org/photos/353553210
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353553210/original.png
+- file: images/passeriformes/nectariniidae/anthreptes-rectirostris/4.jpg
+  page: https://www.inaturalist.org/photos/257428418
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257428418/original.jpeg
+- file: images/passeriformes/nectariniidae/anthreptes-rectirostris/5.jpg
+  page: https://www.inaturalist.org/photos/665525429
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525429/original.jpg
 ---
 
 

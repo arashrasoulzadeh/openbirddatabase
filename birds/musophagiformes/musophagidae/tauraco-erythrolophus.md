@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/musophagiformes/musophagidae/tauraco-erythrolophus/1.jpg
+  page: https://www.inaturalist.org/photos/581464376
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581464376/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-erythrolophus/1.jpg
+  page: https://www.inaturalist.org/photos/581464376
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581464376/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-erythrolophus/2.jpg
+  page: https://www.inaturalist.org/photos/581434697
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581434697/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-erythrolophus/3.jpg
+  page: https://www.inaturalist.org/photos/581436389
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581436389/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-erythrolophus/4.jpg
+  page: https://www.inaturalist.org/photos/581436413
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581436413/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-erythrolophus/5.jpg
+  page: https://www.inaturalist.org/photos/604618732
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604618732/original.jpg
 ---
 
 

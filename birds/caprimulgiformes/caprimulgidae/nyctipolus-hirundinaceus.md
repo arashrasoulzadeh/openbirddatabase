@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/nyctipolus-hirundinaceus/1.jpg
+  page: https://www.inaturalist.org/photos/628487228
+  author: Salomão Janderson Ferreira Bispo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628487228/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-hirundinaceus/1.jpg
+  page: https://www.inaturalist.org/photos/628487228
+  author: Salomão Janderson Ferreira Bispo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628487228/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-hirundinaceus/2.jpg
+  page: https://www.inaturalist.org/photos/614204978
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614204978/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-hirundinaceus/3.jpg
+  page: https://www.inaturalist.org/photos/630008678
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630008678/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-hirundinaceus/4.jpg
+  page: https://www.inaturalist.org/photos/663888208
+  author: Taize Santos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663888208/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctipolus-hirundinaceus/5.jpg
+  page: https://www.inaturalist.org/photos/448041563
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448041563/original.jpeg
 ---
 
 

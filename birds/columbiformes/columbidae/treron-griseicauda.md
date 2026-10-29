@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-griseicauda/1.jpg
+  page: https://www.inaturalist.org/photos/735290510
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735290510/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-griseicauda/1.jpg
+  page: https://www.inaturalist.org/photos/735290510
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735290510/original.jpg
+- file: images/columbiformes/columbidae/treron-griseicauda/2.jpg
+  page: https://www.inaturalist.org/photos/667040831
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667040831/original.jpg
+- file: images/columbiformes/columbidae/treron-griseicauda/3.jpg
+  page: https://www.inaturalist.org/photos/526014179
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014179/original.jpg
+- file: images/columbiformes/columbidae/treron-griseicauda/4.jpg
+  page: https://www.inaturalist.org/photos/468551880
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468551880/original.jpeg
+- file: images/columbiformes/columbidae/treron-griseicauda/5.jpg
+  page: https://www.inaturalist.org/photos/569149169
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569149169/original.jpg
 ---
 
 

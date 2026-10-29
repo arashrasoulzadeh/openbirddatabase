@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/falconiformes/falconidae/falco-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/607092308
+  author: Wendy McCrady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607092308/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/607092308
+  author: Wendy McCrady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607092308/original.jpg
+- file: images/falconiformes/falconidae/falco-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/606792885
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606792885/original.jpg
+- file: images/falconiformes/falconidae/falco-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/610029555
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610029555/original.jpg
+- file: images/falconiformes/falconidae/falco-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/609213984
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609213984/original.jpg
+- file: images/falconiformes/falconidae/falco-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/607092318
+  author: Wendy McCrady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607092318/original.jpg
 ---
 
 

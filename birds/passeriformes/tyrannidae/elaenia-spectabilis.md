@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-spectabilis/1.jpg
+  page: https://www.inaturalist.org/photos/612352015
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352015/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-spectabilis/1.jpg
+  page: https://www.inaturalist.org/photos/612352015
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352015/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-spectabilis/2.jpg
+  page: https://www.inaturalist.org/photos/608004041
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608004041/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-spectabilis/3.jpg
+  page: https://www.inaturalist.org/photos/630929234
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630929234/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-spectabilis/4.jpg
+  page: https://www.inaturalist.org/photos/689771394
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689771394/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-spectabilis/5.jpg
+  page: https://www.inaturalist.org/photos/727449781
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727449781/original.jpg
 ---
 
 

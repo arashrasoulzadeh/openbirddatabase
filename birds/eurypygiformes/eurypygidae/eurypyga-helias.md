@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/eurypygiformes/eurypygidae/eurypyga-helias/1.jpg
+  page: https://www.inaturalist.org/photos/609097132
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609097132/original.jpg
+images:
+- file: images/eurypygiformes/eurypygidae/eurypyga-helias/1.jpg
+  page: https://www.inaturalist.org/photos/609097132
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609097132/original.jpg
+- file: images/eurypygiformes/eurypygidae/eurypyga-helias/2.jpg
+  page: https://www.inaturalist.org/photos/610012456
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012456/original.jpg
+- file: images/eurypygiformes/eurypygidae/eurypyga-helias/3.jpg
+  page: https://www.inaturalist.org/photos/614887215
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614887215/original.jpg
+- file: images/eurypygiformes/eurypygidae/eurypyga-helias/4.jpg
+  page: https://www.inaturalist.org/photos/612919924
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612919924/original.jpg
+- file: images/eurypygiformes/eurypygidae/eurypyga-helias/5.jpg
+  page: https://www.inaturalist.org/photos/624999481
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624999481/original.jpg
 ---
 
 

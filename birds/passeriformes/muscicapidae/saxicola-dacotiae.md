@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/saxicola-dacotiae/1.jpg
+  page: https://www.inaturalist.org/photos/614482639
+  author: Christian Berg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614482639/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/saxicola-dacotiae/1.jpg
+  page: https://www.inaturalist.org/photos/614482639
+  author: Christian Berg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614482639/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-dacotiae/2.jpg
+  page: https://www.inaturalist.org/photos/569080492
+  author: Josh Hedley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569080492/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-dacotiae/3.jpg
+  page: https://www.inaturalist.org/photos/600783038
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600783038/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-dacotiae/4.jpg
+  page: https://www.inaturalist.org/photos/358339240
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358339240/original.jpeg
+- file: images/passeriformes/muscicapidae/saxicola-dacotiae/5.jpg
+  page: https://www.inaturalist.org/photos/457536930
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457536930/original.jpg
 ---
 
 

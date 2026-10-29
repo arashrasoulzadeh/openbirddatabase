@@ -128,7 +128,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 35.0
@@ -140,6 +141,44 @@ reproduction:
   clutch_size_mean: 3.0
   broods_per_year: 1
   incubation_days: 24
+image:
+  file: images/charadriiformes/laridae/chroicocephalus-philadelphia/1.jpg
+  page: https://www.inaturalist.org/photos/604960141
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604960141/original.jpg
+images:
+- file: images/charadriiformes/laridae/chroicocephalus-philadelphia/1.jpg
+  page: https://www.inaturalist.org/photos/604960141
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604960141/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-philadelphia/2.jpg
+  page: https://www.inaturalist.org/photos/605360894
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360894/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-philadelphia/3.jpg
+  page: https://www.inaturalist.org/photos/605123029
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605123029/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-philadelphia/4.jpg
+  page: https://www.inaturalist.org/photos/606635854
+  author: kirk gardner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606635854/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-philadelphia/5.jpg
+  page: https://www.inaturalist.org/photos/604960138
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604960138/original.jpg
 ---
 
 

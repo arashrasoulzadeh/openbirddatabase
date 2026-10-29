@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-tephronotus/1.jpg
+  page: https://www.inaturalist.org/photos/724502768
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724502768/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-tephronotus/1.jpg
+  page: https://www.inaturalist.org/photos/724502768
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724502768/original.jpg
+- file: images/passeriformes/turdidae/turdus-tephronotus/2.jpg
+  page: https://www.inaturalist.org/photos/711709990
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711709990/original.jpg
+- file: images/passeriformes/turdidae/turdus-tephronotus/3.jpg
+  page: https://www.inaturalist.org/photos/486129270
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486129270/original.jpeg
+- file: images/passeriformes/turdidae/turdus-tephronotus/4.jpg
+  page: https://www.inaturalist.org/photos/611748410
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611748410/original.jpg
+- file: images/passeriformes/turdidae/turdus-tephronotus/5.jpg
+  page: https://www.inaturalist.org/photos/431968297
+  author: Nikhil R R
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431968297/original.jpeg
 ---
 
 

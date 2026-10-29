@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/684473201
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684473201/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-striaticollis/1.jpg
+  page: https://www.inaturalist.org/photos/684473201
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684473201/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-striaticollis/2.jpg
+  page: https://www.inaturalist.org/photos/718604031
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718604031/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-striaticollis/3.jpg
+  page: https://www.inaturalist.org/photos/731004793
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731004793/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-striaticollis/4.jpg
+  page: https://www.inaturalist.org/photos/591071128
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591071128/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-striaticollis/5.jpg
+  page: https://www.inaturalist.org/photos/448484847
+  author: Reuber Brandão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448484847/original.jpeg
 ---
 
 

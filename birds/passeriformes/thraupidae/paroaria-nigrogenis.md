@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/paroaria-nigrogenis/1.jpg
+  page: https://www.inaturalist.org/photos/463598096
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463598096/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/paroaria-nigrogenis/1.jpg
+  page: https://www.inaturalist.org/photos/463598096
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463598096/original.jpeg
+- file: images/passeriformes/thraupidae/paroaria-nigrogenis/2.jpg
+  page: https://www.flickr.com/photos/cricketsblog/53535021670/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351958018/original.jpg
+- file: images/passeriformes/thraupidae/paroaria-nigrogenis/3.jpg
+  page: https://www.inaturalist.org/photos/367648473
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367648473/original.jpeg
+- file: images/passeriformes/thraupidae/paroaria-nigrogenis/4.jpg
+  page: https://www.inaturalist.org/photos/465012786
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465012786/original.jpeg
+- file: images/passeriformes/thraupidae/paroaria-nigrogenis/5.jpg
+  page: https://www.flickr.com/photos/cricketsblog/53534778593/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351958029/original.jpg
 ---
 
 

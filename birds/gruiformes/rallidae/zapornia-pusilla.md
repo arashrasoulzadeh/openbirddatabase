@@ -183,8 +183,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/zapornia-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/608893581
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608893581/original.jpg
+images:
+- file: images/gruiformes/rallidae/zapornia-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/608893581
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608893581/original.jpg
+- file: images/gruiformes/rallidae/zapornia-pusilla/2.jpg
+  page: https://www.inaturalist.org/photos/624175650
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624175650/original.jpg
+- file: images/gruiformes/rallidae/zapornia-pusilla/3.jpg
+  page: https://www.inaturalist.org/photos/631407488
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631407488/original.jpg
+- file: images/gruiformes/rallidae/zapornia-pusilla/4.jpg
+  page: https://www.inaturalist.org/photos/637032326
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637032326/original.jpg
+- file: images/gruiformes/rallidae/zapornia-pusilla/5.jpg
+  page: https://www.inaturalist.org/photos/688297635
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688297635/original.jpg
 ---
 
 

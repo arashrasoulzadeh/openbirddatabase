@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/616152831
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152831/original.jpg
+images:
+- file: images/columbiformes/columbidae/macropygia-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/616152831
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152831/original.jpg
+- file: images/columbiformes/columbidae/macropygia-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/618849187
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849187/original.jpg
+- file: images/columbiformes/columbidae/macropygia-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/525193439
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525193439/original.jpg
+- file: images/columbiformes/columbidae/macropygia-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/532809643
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532809643/original.jpg
+- file: images/columbiformes/columbidae/macropygia-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/553623155
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553623155/original.jpg
 ---
 
 

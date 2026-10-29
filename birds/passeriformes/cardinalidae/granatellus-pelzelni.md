@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/granatellus-pelzelni/1.jpg
+  page: https://www.inaturalist.org/photos/402023060
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402023060/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/granatellus-pelzelni/1.jpg
+  page: https://www.inaturalist.org/photos/402023060
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402023060/original.jpg
+- file: images/passeriformes/cardinalidae/granatellus-pelzelni/2.jpg
+  page: https://www.inaturalist.org/photos/279907993
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279907993/original.jpeg
+- file: images/passeriformes/cardinalidae/granatellus-pelzelni/3.jpg
+  page: https://www.inaturalist.org/photos/602112439
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602112439/original.jpg
+- file: images/passeriformes/cardinalidae/granatellus-pelzelni/4.jpg
+  page: https://www.inaturalist.org/photos/279907970
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279907970/original.jpeg
+- file: images/passeriformes/cardinalidae/granatellus-pelzelni/5.jpg
+  page: https://www.inaturalist.org/photos/279907931
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279907931/original.jpeg
 ---
 
 

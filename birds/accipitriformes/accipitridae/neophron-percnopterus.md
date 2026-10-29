@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 37
+image:
+  file: images/accipitriformes/accipitridae/neophron-percnopterus/1.jpg
+  page: https://www.inaturalist.org/photos/611395447
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611395447/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/neophron-percnopterus/1.jpg
+  page: https://www.inaturalist.org/photos/611395447
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611395447/original.jpg
+- file: images/accipitriformes/accipitridae/neophron-percnopterus/2.jpg
+  page: https://www.inaturalist.org/photos/614148062
+  author: Christian Berg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614148062/original.jpg
+- file: images/accipitriformes/accipitridae/neophron-percnopterus/3.jpg
+  page: https://www.inaturalist.org/photos/614521063
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614521063/original.jpg
+- file: images/accipitriformes/accipitridae/neophron-percnopterus/4.jpg
+  page: https://www.inaturalist.org/photos/613943176
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613943176/original.jpg
+- file: images/accipitriformes/accipitridae/neophron-percnopterus/5.jpg
+  page: https://www.inaturalist.org/photos/616887860
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616887860/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/coraciidae/coracias-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/714838383
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714838383/original.jpg
+images:
+- file: images/coraciiformes/coraciidae/coracias-temminckii/1.jpg
+  page: https://www.inaturalist.org/photos/714838383
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714838383/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-temminckii/2.jpg
+  page: https://www.inaturalist.org/photos/526014901
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014901/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-temminckii/3.jpg
+  page: https://www.inaturalist.org/photos/416526576
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416526576/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-temminckii/4.jpg
+  page: https://www.inaturalist.org/photos/311758061
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311758061/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-temminckii/5.jpg
+  page: https://www.inaturalist.org/photos/243124913
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243124913/original.jpg
 ---
 
 

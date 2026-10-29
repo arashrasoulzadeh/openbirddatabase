@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/icteridae/molothrus-ater/1.jpg
+  page: https://www.inaturalist.org/photos/605383704
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383704/original.jpg
+images:
+- file: images/passeriformes/icteridae/molothrus-ater/1.jpg
+  page: https://www.inaturalist.org/photos/605383704
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383704/original.jpg
+- file: images/passeriformes/icteridae/molothrus-ater/2.jpg
+  page: https://www.inaturalist.org/photos/611001470
+  author: Dominic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611001470/original.jpg
+- file: images/passeriformes/icteridae/molothrus-ater/3.jpg
+  page: https://www.inaturalist.org/photos/607197499
+  author: bfberauer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607197499/original.jpg
+- file: images/passeriformes/icteridae/molothrus-ater/4.jpg
+  page: https://www.inaturalist.org/photos/610680630
+  author: Michael
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610680630/original.jpg
+- file: images/passeriformes/icteridae/molothrus-ater/5.jpg
+  page: https://www.inaturalist.org/photos/609804705
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609804705/original.jpg
 ---
 
 

@@ -140,8 +140,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/doliornis-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/272915158
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/272915158/original.jpg
+images:
+- file: images/passeriformes/cotingidae/doliornis-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/272915158
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/272915158/original.jpg
+- file: images/passeriformes/cotingidae/doliornis-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/352533432
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352533432/original.jpeg
+- file: images/passeriformes/cotingidae/doliornis-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/271450518
+  author: Martin Vallejos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/271450518/original.jpg
+- file: images/passeriformes/cotingidae/doliornis-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/352533395
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352533395/original.jpeg
 ---
 
 

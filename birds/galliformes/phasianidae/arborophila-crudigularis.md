@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/arborophila-crudigularis/1.jpg
+  page: https://www.inaturalist.org/photos/627522204
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627522204/original.jpg
+images:
+- file: images/galliformes/phasianidae/arborophila-crudigularis/1.jpg
+  page: https://www.inaturalist.org/photos/627522204
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627522204/original.jpg
+- file: images/galliformes/phasianidae/arborophila-crudigularis/2.jpg
+  page: https://www.inaturalist.org/photos/665524175
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665524175/original.jpg
+- file: images/galliformes/phasianidae/arborophila-crudigularis/3.jpg
+  page: https://www.inaturalist.org/photos/469467223
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469467223/original.jpeg
+- file: images/galliformes/phasianidae/arborophila-crudigularis/4.jpg
+  page: https://www.inaturalist.org/photos/722940177
+  author: 如此甚好
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722940177/original.jpg
+- file: images/galliformes/phasianidae/arborophila-crudigularis/5.jpg
+  page: https://www.inaturalist.org/photos/454167853
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454167853/original.jpeg
 ---
 
 

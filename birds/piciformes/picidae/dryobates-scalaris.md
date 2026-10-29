@@ -156,8 +156,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dryobates-scalaris/1.jpg
+  page: https://www.inaturalist.org/photos/604819856
+  author: Ethan Wright-Magoon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604819856/original.jpg
+images:
+- file: images/piciformes/picidae/dryobates-scalaris/1.jpg
+  page: https://www.inaturalist.org/photos/604819856
+  author: Ethan Wright-Magoon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604819856/original.jpg
+- file: images/piciformes/picidae/dryobates-scalaris/2.jpg
+  page: https://www.inaturalist.org/photos/606013586
+  author: Rodolfo Salinas Villarreal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606013586/original.jpg
+- file: images/piciformes/picidae/dryobates-scalaris/3.jpg
+  page: https://www.inaturalist.org/photos/608746442
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608746442/original.jpg
+- file: images/piciformes/picidae/dryobates-scalaris/4.jpg
+  page: https://www.inaturalist.org/photos/604819880
+  author: Ethan Wright-Magoon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604819880/original.jpg
 ---
 
 

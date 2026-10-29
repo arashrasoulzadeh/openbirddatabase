@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/oneillornis-salvini/1.jpg
+  page: https://www.inaturalist.org/photos/608317285
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608317285/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/oneillornis-salvini/1.jpg
+  page: https://www.inaturalist.org/photos/608317285
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608317285/original.jpg
+- file: images/passeriformes/thamnophilidae/oneillornis-salvini/2.jpg
+  page: https://www.inaturalist.org/photos/424603480
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424603480/original.jpg
+- file: images/passeriformes/thamnophilidae/oneillornis-salvini/3.jpg
+  page: https://www.inaturalist.org/photos/339032470
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339032470/original.jpeg
+- file: images/passeriformes/thamnophilidae/oneillornis-salvini/4.jpg
+  page: https://www.inaturalist.org/photos/418572977
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418572977/original.jpg
+- file: images/passeriformes/thamnophilidae/oneillornis-salvini/5.jpg
+  page: https://www.inaturalist.org/photos/108674432
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108674432/original.jpg
 ---
 
 

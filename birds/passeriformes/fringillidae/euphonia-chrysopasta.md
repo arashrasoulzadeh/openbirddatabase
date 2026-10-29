@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-chrysopasta/1.jpg
+  page: https://www.inaturalist.org/photos/612493122
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612493122/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-chrysopasta/1.jpg
+  page: https://www.inaturalist.org/photos/612493122
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612493122/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chrysopasta/2.jpg
+  page: https://www.inaturalist.org/photos/716046646
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716046646/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chrysopasta/3.jpg
+  page: https://www.inaturalist.org/photos/732736057
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732736057/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chrysopasta/4.jpg
+  page: https://www.inaturalist.org/photos/486538381
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486538381/original.jpeg
+- file: images/passeriformes/fringillidae/euphonia-chrysopasta/5.jpg
+  page: https://www.inaturalist.org/photos/482668127
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482668127/original.png
 ---
 
 

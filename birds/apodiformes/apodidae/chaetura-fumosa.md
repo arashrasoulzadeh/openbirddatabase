@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/chaetura-fumosa/1.jpg
+  page: https://www.inaturalist.org/photos/410036236
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410036236/original.jpg
+images:
+- file: images/apodiformes/apodidae/chaetura-fumosa/1.jpg
+  page: https://www.inaturalist.org/photos/410036236
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410036236/original.jpg
+- file: images/apodiformes/apodidae/chaetura-fumosa/2.jpg
+  page: https://www.inaturalist.org/photos/267253065
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267253065/original.jpeg
+- file: images/apodiformes/apodidae/chaetura-fumosa/3.jpg
+  page: https://www.inaturalist.org/photos/152961509
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/152961509/original.jpeg
+- file: images/apodiformes/apodidae/chaetura-fumosa/4.jpg
+  page: https://www.inaturalist.org/photos/417845032
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417845032/original.jpg
+- file: images/apodiformes/apodidae/chaetura-fumosa/5.jpg
+  page: https://www.inaturalist.org/photos/417845028
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417845028/original.jpg
 ---
 
 

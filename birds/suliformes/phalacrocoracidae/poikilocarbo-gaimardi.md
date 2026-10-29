@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/poikilocarbo-gaimardi/1.jpg
+  page: https://www.inaturalist.org/photos/607497751
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607497751/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/poikilocarbo-gaimardi/1.jpg
+  page: https://www.inaturalist.org/photos/607497751
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607497751/original.jpg
+- file: images/suliformes/phalacrocoracidae/poikilocarbo-gaimardi/2.jpg
+  page: https://www.inaturalist.org/photos/608429921
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608429921/original.jpg
+- file: images/suliformes/phalacrocoracidae/poikilocarbo-gaimardi/3.jpg
+  page: https://www.inaturalist.org/photos/612810391
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612810391/original.jpg
+- file: images/suliformes/phalacrocoracidae/poikilocarbo-gaimardi/4.jpg
+  page: https://www.inaturalist.org/photos/614096026
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614096026/original.jpg
+- file: images/suliformes/phalacrocoracidae/poikilocarbo-gaimardi/5.jpg
+  page: https://www.inaturalist.org/photos/616443703
+  author: Nutri Gabi Barrera
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616443703/original.jpg
 ---
 
 

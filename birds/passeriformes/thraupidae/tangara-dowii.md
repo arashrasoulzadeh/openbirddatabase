@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-dowii/1.jpg
+  page: https://www.inaturalist.org/photos/620962898
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620962898/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-dowii/1.jpg
+  page: https://www.inaturalist.org/photos/620962898
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620962898/original.jpg
+- file: images/passeriformes/thraupidae/tangara-dowii/2.jpg
+  page: https://www.inaturalist.org/photos/707945028
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707945028/original.jpg
+- file: images/passeriformes/thraupidae/tangara-dowii/3.jpg
+  page: https://www.inaturalist.org/photos/666792576
+  author: Jeanne Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666792576/original.jpg
+- file: images/passeriformes/thraupidae/tangara-dowii/4.jpg
+  page: https://www.inaturalist.org/photos/680388784
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680388784/original.jpg
+- file: images/passeriformes/thraupidae/tangara-dowii/5.jpg
+  page: https://www.inaturalist.org/photos/691127089
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691127089/original.jpg
 ---
 
 

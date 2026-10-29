@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 70
+image:
+  file: images/bucerotiformes/bucerotidae/bucorvus-leadbeateri/1.jpg
+  page: https://www.inaturalist.org/photos/610159460
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610159460/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/bucorvus-leadbeateri/1.jpg
+  page: https://www.inaturalist.org/photos/610159460
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610159460/original.jpg
+- file: images/bucerotiformes/bucerotidae/bucorvus-leadbeateri/2.jpg
+  page: https://www.inaturalist.org/photos/687652052
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687652052/original.jpg
+- file: images/bucerotiformes/bucerotidae/bucorvus-leadbeateri/3.jpg
+  page: https://www.inaturalist.org/photos/672329232
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672329232/original.jpg
+- file: images/bucerotiformes/bucerotidae/bucorvus-leadbeateri/4.jpg
+  page: https://www.inaturalist.org/photos/684104069
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684104069/original.jpg
+- file: images/bucerotiformes/bucerotidae/bucorvus-leadbeateri/5.jpg
+  page: https://www.inaturalist.org/photos/616622022
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616622022/original.jpg
 ---
 
 

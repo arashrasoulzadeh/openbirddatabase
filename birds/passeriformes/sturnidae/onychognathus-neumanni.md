@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 31.6
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 162.7
   tail_length_mm: 178.8
   body_mass_g: 39.8
+image:
+  file: images/passeriformes/sturnidae/onychognathus-neumanni/1.jpg
+  page: https://www.inaturalist.org/photos/658906397
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658906397/original.jpg
+images:
+- file: images/passeriformes/sturnidae/onychognathus-neumanni/1.jpg
+  page: https://www.inaturalist.org/photos/658906397
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658906397/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-neumanni/2.jpg
+  page: https://www.inaturalist.org/photos/294841462
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/294841462/original.jpeg
+- file: images/passeriformes/sturnidae/onychognathus-neumanni/3.jpg
+  page: https://www.inaturalist.org/photos/56474685
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/56474685/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-neumanni/4.jpg
+  page: https://www.inaturalist.org/photos/470274259
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470274259/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-neumanni/5.jpg
+  page: https://www.inaturalist.org/photos/294844238
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/294844238/original.jpeg
 ---
 
 

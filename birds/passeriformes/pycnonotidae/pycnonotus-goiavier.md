@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-goiavier/1.jpg
+  page: https://www.inaturalist.org/photos/605274364
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605274364/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-goiavier/1.jpg
+  page: https://www.inaturalist.org/photos/605274364
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605274364/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-goiavier/2.jpg
+  page: https://www.inaturalist.org/photos/608554419
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608554419/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-goiavier/3.jpg
+  page: https://www.inaturalist.org/photos/609659187
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609659187/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-goiavier/4.jpg
+  page: https://www.inaturalist.org/photos/610145339
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610145339/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-goiavier/5.jpg
+  page: https://www.inaturalist.org/photos/608780259
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608780259/original.jpg
 ---
 
 

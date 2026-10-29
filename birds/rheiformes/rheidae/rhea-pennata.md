@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/rheiformes/rheidae/rhea-pennata/1.jpg
+  page: https://www.inaturalist.org/photos/610985501
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610985501/original.jpg
+images:
+- file: images/rheiformes/rheidae/rhea-pennata/1.jpg
+  page: https://www.inaturalist.org/photos/610985501
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610985501/original.jpg
+- file: images/rheiformes/rheidae/rhea-pennata/2.jpg
+  page: https://www.inaturalist.org/photos/609673789
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609673789/original.jpg
+- file: images/rheiformes/rheidae/rhea-pennata/3.jpg
+  page: https://www.inaturalist.org/photos/606413857
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606413857/original.jpg
+- file: images/rheiformes/rheidae/rhea-pennata/4.jpg
+  page: https://www.inaturalist.org/photos/615364369
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615364369/original.jpg
+- file: images/rheiformes/rheidae/rhea-pennata/5.jpg
+  page: https://www.inaturalist.org/photos/616194453
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616194453/original.jpg
 ---
 
 

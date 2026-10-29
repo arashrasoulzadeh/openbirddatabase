@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/patagioenas-subvinacea/1.jpg
+  page: https://www.inaturalist.org/photos/607290360
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607290360/original.jpg
+images:
+- file: images/columbiformes/columbidae/patagioenas-subvinacea/1.jpg
+  page: https://www.inaturalist.org/photos/607290360
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607290360/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-subvinacea/2.jpg
+  page: https://www.inaturalist.org/photos/623793120
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793120/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-subvinacea/3.jpg
+  page: https://www.inaturalist.org/photos/620977531
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620977531/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-subvinacea/4.jpg
+  page: https://www.inaturalist.org/photos/627768179
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627768179/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-subvinacea/5.jpg
+  page: https://www.inaturalist.org/photos/712222181
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712222181/original.jpg
 ---
 
 

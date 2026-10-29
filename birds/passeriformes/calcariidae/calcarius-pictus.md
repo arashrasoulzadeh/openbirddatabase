@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/calcariidae/calcarius-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/611303936
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611303936/original.jpg
+images:
+- file: images/passeriformes/calcariidae/calcarius-pictus/1.jpg
+  page: https://www.inaturalist.org/photos/611303936
+  author: Nathan May
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611303936/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-pictus/2.jpg
+  page: https://www.inaturalist.org/photos/642998408
+  author: Dani Alba
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642998408/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-pictus/3.jpg
+  page: https://www.inaturalist.org/photos/653313563
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653313563/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-pictus/4.jpg
+  page: https://www.inaturalist.org/photos/738010261
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738010261/original.jpg
+- file: images/passeriformes/calcariidae/calcarius-pictus/5.jpg
+  page: https://www.inaturalist.org/photos/468968825
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468968825/original.jpeg
 ---
 
 

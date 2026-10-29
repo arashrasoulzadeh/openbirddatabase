@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cuculus-lepidus/1.jpg
+  page: https://www.inaturalist.org/photos/685853251
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685853251/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-lepidus/1.jpg
+  page: https://www.inaturalist.org/photos/685853251
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685853251/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-lepidus/2.jpg
+  page: https://www.inaturalist.org/photos/249485656
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249485656/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-lepidus/3.jpg
+  page: https://www.inaturalist.org/photos/80950389
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/80950389/original.jpeg
+- file: images/cuculiformes/cuculidae/cuculus-lepidus/4.jpg
+  page: https://www.inaturalist.org/photos/456891653
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456891653/original.jpeg
+- file: images/cuculiformes/cuculidae/cuculus-lepidus/5.jpg
+  page: https://www.inaturalist.org/photos/244880054
+  author: jimeckert49
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244880054/original.jpg
 ---
 
 

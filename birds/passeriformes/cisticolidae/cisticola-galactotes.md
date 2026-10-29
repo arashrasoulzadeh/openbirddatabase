@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-galactotes/1.jpg
+  page: https://www.inaturalist.org/photos/734308031
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734308031/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-galactotes/1.jpg
+  page: https://www.inaturalist.org/photos/734308031
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734308031/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-galactotes/2.jpg
+  page: https://www.inaturalist.org/photos/404126378
+  author: Nick Schaller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404126378/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-galactotes/3.jpg
+  page: https://www.inaturalist.org/photos/444013294
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444013294/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-galactotes/4.jpg
+  page: https://www.inaturalist.org/photos/441689253
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441689253/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-galactotes/5.jpg
+  page: https://www.inaturalist.org/photos/734308012
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734308012/original.jpg
 ---
 
 

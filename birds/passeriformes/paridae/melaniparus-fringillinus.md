@@ -145,8 +145,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/melaniparus-fringillinus/1.jpg
+  page: https://www.inaturalist.org/photos/486062586
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486062586/original.jpeg
+images:
+- file: images/passeriformes/paridae/melaniparus-fringillinus/1.jpg
+  page: https://www.inaturalist.org/photos/486062586
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486062586/original.jpeg
+- file: images/passeriformes/paridae/melaniparus-fringillinus/2.jpg
+  page: https://www.inaturalist.org/photos/451430486
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451430486/original.jpeg
+- file: images/passeriformes/paridae/melaniparus-fringillinus/3.jpg
+  page: https://www.inaturalist.org/photos/486062580
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486062580/original.jpeg
+- file: images/passeriformes/paridae/melaniparus-fringillinus/4.jpg
+  page: https://www.inaturalist.org/photos/451430497
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451430497/original.jpeg
 ---
 
 

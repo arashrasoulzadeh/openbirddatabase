@@ -204,10 +204,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/hirundinidae/hirundo-rustica/1.jpg
+  page: https://www.inaturalist.org/photos/608111637
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608111637/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/hirundo-rustica/1.jpg
+  page: https://www.inaturalist.org/photos/608111637
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608111637/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-rustica/2.jpg
+  page: https://www.inaturalist.org/photos/609584224
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609584224/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-rustica/3.jpg
+  page: https://www.inaturalist.org/photos/609703579
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609703579/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-rustica/4.jpg
+  page: https://www.inaturalist.org/photos/605872510
+  author: relew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605872510/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-rustica/5.jpg
+  page: https://www.inaturalist.org/photos/608747654
+  author: Simon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608747654/original.jpg
 ---
 
 

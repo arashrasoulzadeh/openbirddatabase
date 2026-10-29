@@ -180,8 +180,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-seebohmi/1.jpg
+  page: https://www.inaturalist.org/photos/613420645
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613420645/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-seebohmi/1.jpg
+  page: https://www.inaturalist.org/photos/613420645
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613420645/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-seebohmi/2.jpg
+  page: https://www.inaturalist.org/photos/619776129
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619776129/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-seebohmi/3.jpg
+  page: https://www.inaturalist.org/photos/625419037
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625419037/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-seebohmi/4.jpg
+  page: https://www.inaturalist.org/photos/684097616
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684097616/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-seebohmi/5.jpg
+  page: https://www.inaturalist.org/photos/623221063
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623221063/original.jpg
 ---
 
 

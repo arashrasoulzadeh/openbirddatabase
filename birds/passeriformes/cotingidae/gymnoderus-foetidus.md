@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/gymnoderus-foetidus/1.jpg
+  page: https://www.inaturalist.org/photos/610014732
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014732/original.jpg
+images:
+- file: images/passeriformes/cotingidae/gymnoderus-foetidus/1.jpg
+  page: https://www.inaturalist.org/photos/610014732
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014732/original.jpg
+- file: images/passeriformes/cotingidae/gymnoderus-foetidus/2.jpg
+  page: https://www.inaturalist.org/photos/612903801
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612903801/original.jpg
+- file: images/passeriformes/cotingidae/gymnoderus-foetidus/3.jpg
+  page: https://www.inaturalist.org/photos/733364299
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733364299/original.jpg
+- file: images/passeriformes/cotingidae/gymnoderus-foetidus/4.jpg
+  page: https://www.inaturalist.org/photos/477693008
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477693008/original.jpeg
+- file: images/passeriformes/cotingidae/gymnoderus-foetidus/5.jpg
+  page: https://www.inaturalist.org/photos/482470160
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482470160/original.png
 ---
 
 

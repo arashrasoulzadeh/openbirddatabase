@@ -142,10 +142,25 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   clutch_size_mean: 1.9
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-macrorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/583509679
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509679/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-macrorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/583509679
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509679/original.jpg
 ---
 
 

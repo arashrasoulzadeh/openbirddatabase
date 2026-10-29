@@ -129,8 +129,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-magna/1.jpg
+  page: https://www.inaturalist.org/photos/332870006
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332870006/original.jpeg
+images:
+- file: images/columbiformes/columbidae/macropygia-magna/1.jpg
+  page: https://www.inaturalist.org/photos/332870006
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332870006/original.jpeg
+- file: images/columbiformes/columbidae/macropygia-magna/2.jpg
+  page: https://www.inaturalist.org/photos/337787591
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787591/original.jpeg
 ---
 
 

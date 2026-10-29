@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-aurifrons/1.jpg
+  page: https://www.inaturalist.org/photos/606926562
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606926562/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-aurifrons/1.jpg
+  page: https://www.inaturalist.org/photos/606926562
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606926562/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-aurifrons/2.jpg
+  page: https://www.inaturalist.org/photos/651255525
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651255525/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-aurifrons/3.jpg
+  page: https://www.inaturalist.org/photos/624034459
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624034459/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-aurifrons/4.jpg
+  page: https://www.inaturalist.org/photos/657979128
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657979128/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-aurifrons/5.jpg
+  page: https://www.inaturalist.org/photos/718410531
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718410531/original.jpg
 ---
 
 

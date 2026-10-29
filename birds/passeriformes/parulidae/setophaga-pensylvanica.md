@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/parulidae/setophaga-pensylvanica/1.jpg
+  page: https://www.inaturalist.org/photos/608313497
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608313497/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-pensylvanica/1.jpg
+  page: https://www.inaturalist.org/photos/608313497
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608313497/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pensylvanica/2.jpg
+  page: https://www.inaturalist.org/photos/610579302
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610579302/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pensylvanica/3.jpg
+  page: https://www.inaturalist.org/photos/609802894
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609802894/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pensylvanica/4.jpg
+  page: https://www.inaturalist.org/photos/610816657
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610816657/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pensylvanica/5.jpg
+  page: https://www.inaturalist.org/photos/609846697
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609846697/original.jpg
 ---
 
 

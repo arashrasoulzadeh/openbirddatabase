@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mionectes-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/605055839
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605055839/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/mionectes-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/605055839
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605055839/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-rufiventris/2.jpg
+  page: https://www.inaturalist.org/photos/612763155
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612763155/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-rufiventris/3.jpg
+  page: https://www.inaturalist.org/photos/618059741
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059741/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-rufiventris/4.jpg
+  page: https://www.inaturalist.org/photos/641150387
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150387/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-rufiventris/5.jpg
+  page: https://www.inaturalist.org/photos/645710691
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645710691/original.jpg
 ---
 
 

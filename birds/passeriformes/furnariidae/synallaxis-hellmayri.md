@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/synallaxis-hellmayri/1.jpg
+  page: https://www.inaturalist.org/photos/642939819
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642939819/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-hellmayri/1.jpg
+  page: https://www.inaturalist.org/photos/642939819
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642939819/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-hellmayri/2.jpg
+  page: https://www.inaturalist.org/photos/717839658
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717839658/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-hellmayri/3.jpg
+  page: https://www.inaturalist.org/photos/416897787
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416897787/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-hellmayri/4.jpg
+  page: https://www.inaturalist.org/photos/428317230
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428317230/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-hellmayri/5.jpg
+  page: https://www.inaturalist.org/photos/29817189
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29817189/original.jpg
 ---
 
 

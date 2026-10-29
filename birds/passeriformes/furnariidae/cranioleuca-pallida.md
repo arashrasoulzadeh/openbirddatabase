@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cranioleuca-pallida/1.jpg
+  page: https://www.inaturalist.org/photos/605729863
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729863/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cranioleuca-pallida/1.jpg
+  page: https://www.inaturalist.org/photos/605729863
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729863/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-pallida/2.jpg
+  page: https://www.inaturalist.org/photos/605144338
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144338/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-pallida/3.jpg
+  page: https://www.inaturalist.org/photos/716724173
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716724173/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-pallida/4.jpg
+  page: https://www.inaturalist.org/photos/639562958
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639562958/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-pallida/5.jpg
+  page: https://www.inaturalist.org/photos/645881007
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645881007/original.jpg
 ---
 
 

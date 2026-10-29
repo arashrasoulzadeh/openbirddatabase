@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/gelochelidon-macrotarsa/1.jpg
+  page: https://www.inaturalist.org/photos/610155830
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610155830/original.jpg
+images:
+- file: images/charadriiformes/laridae/gelochelidon-macrotarsa/1.jpg
+  page: https://www.inaturalist.org/photos/610155830
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610155830/original.jpg
+- file: images/charadriiformes/laridae/gelochelidon-macrotarsa/2.jpg
+  page: https://www.inaturalist.org/photos/620060522
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620060522/original.jpg
+- file: images/charadriiformes/laridae/gelochelidon-macrotarsa/3.jpg
+  page: https://www.inaturalist.org/photos/633042748
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633042748/original.jpg
+- file: images/charadriiformes/laridae/gelochelidon-macrotarsa/4.jpg
+  page: https://www.inaturalist.org/photos/666394710
+  author: Rolf Lawrenz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666394710/original.jpg
+- file: images/charadriiformes/laridae/gelochelidon-macrotarsa/5.jpg
+  page: https://www.inaturalist.org/photos/680141699
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680141699/original.jpg
 ---
 
 

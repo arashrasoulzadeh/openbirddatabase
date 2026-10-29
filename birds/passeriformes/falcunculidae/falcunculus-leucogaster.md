@@ -129,8 +129,29 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/falcunculidae/falcunculus-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/439333861
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333861/original.jpg
+images:
+- file: images/passeriformes/falcunculidae/falcunculus-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/439333861
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333861/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-leucogaster/2.jpg
+  page: https://www.inaturalist.org/photos/249109628
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249109628/original.jpeg
 ---
 
 

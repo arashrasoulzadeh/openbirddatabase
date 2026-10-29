@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/hesperiphona-abeillei/1.jpg
+  page: https://www.inaturalist.org/photos/462369910
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462369910/original.jpeg
+images:
+- file: images/passeriformes/fringillidae/hesperiphona-abeillei/1.jpg
+  page: https://www.inaturalist.org/photos/462369910
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462369910/original.jpeg
+- file: images/passeriformes/fringillidae/hesperiphona-abeillei/2.jpg
+  page: https://www.inaturalist.org/photos/510193750
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510193750/original.jpg
+- file: images/passeriformes/fringillidae/hesperiphona-abeillei/3.jpg
+  page: https://www.inaturalist.org/photos/558669053
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558669053/original.jpg
+- file: images/passeriformes/fringillidae/hesperiphona-abeillei/4.jpg
+  page: https://www.inaturalist.org/photos/601610944
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601610944/original.jpg
+- file: images/passeriformes/fringillidae/hesperiphona-abeillei/5.jpg
+  page: https://www.inaturalist.org/photos/469431366
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469431366/original.jpeg
 ---
 
 

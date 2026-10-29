@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/turtur-chalcospilos/1.jpg
+  page: https://www.inaturalist.org/photos/626259179
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626259179/original.jpg
+images:
+- file: images/columbiformes/columbidae/turtur-chalcospilos/1.jpg
+  page: https://www.inaturalist.org/photos/626259179
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626259179/original.jpg
+- file: images/columbiformes/columbidae/turtur-chalcospilos/2.jpg
+  page: https://www.inaturalist.org/photos/650456928
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650456928/original.jpg
+- file: images/columbiformes/columbidae/turtur-chalcospilos/3.jpg
+  page: https://www.inaturalist.org/photos/623200492
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623200492/original.jpg
+- file: images/columbiformes/columbidae/turtur-chalcospilos/4.jpg
+  page: https://www.inaturalist.org/photos/647818290
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647818290/original.jpg
+- file: images/columbiformes/columbidae/turtur-chalcospilos/5.jpg
+  page: https://www.inaturalist.org/photos/626717284
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626717284/original.jpg
 ---
 
 

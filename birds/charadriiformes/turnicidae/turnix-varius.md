@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-varius/1.jpg
+  page: https://www.inaturalist.org/photos/738667592
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738667592/original.jpg
+images:
+- file: images/charadriiformes/turnicidae/turnix-varius/1.jpg
+  page: https://www.inaturalist.org/photos/738667592
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738667592/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-varius/2.jpg
+  page: https://www.inaturalist.org/photos/693248506
+  author: Millie Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693248506/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-varius/3.jpg
+  page: https://www.inaturalist.org/photos/708267070
+  author: Austen Armstrong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708267070/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-varius/4.jpg
+  page: https://www.inaturalist.org/photos/737588680
+  author: Samuel Brown
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737588680/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-varius/5.jpg
+  page: https://www.inaturalist.org/photos/738667595
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738667595/original.jpg
 ---
 
 

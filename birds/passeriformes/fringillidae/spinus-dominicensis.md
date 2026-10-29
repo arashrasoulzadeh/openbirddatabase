@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-dominicensis/1.jpg
+  page: https://www.inaturalist.org/photos/610842243
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842243/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-dominicensis/1.jpg
+  page: https://www.inaturalist.org/photos/610842243
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842243/original.jpg
+- file: images/passeriformes/fringillidae/spinus-dominicensis/2.jpg
+  page: https://www.inaturalist.org/photos/475292100
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475292100/original.jpg
+- file: images/passeriformes/fringillidae/spinus-dominicensis/3.jpg
+  page: https://www.inaturalist.org/photos/590277533
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590277533/original.jpg
+- file: images/passeriformes/fringillidae/spinus-dominicensis/4.jpg
+  page: https://www.inaturalist.org/photos/589919408
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589919408/original.jpg
+- file: images/passeriformes/fringillidae/spinus-dominicensis/5.jpg
+  page: https://www.inaturalist.org/photos/343025344
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343025344/original.jpg
 ---
 
 

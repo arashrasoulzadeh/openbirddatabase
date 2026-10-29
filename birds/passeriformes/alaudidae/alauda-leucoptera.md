@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/alauda-leucoptera/1.jpg
+  page: https://www.inaturalist.org/photos/615172598
+  author: Jesenia K.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615172598/original.jpg
+images:
+- file: images/passeriformes/alaudidae/alauda-leucoptera/1.jpg
+  page: https://www.inaturalist.org/photos/615172598
+  author: Jesenia K.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615172598/original.jpg
+- file: images/passeriformes/alaudidae/alauda-leucoptera/2.jpg
+  page: https://www.inaturalist.org/photos/716000209
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716000209/original.jpg
+- file: images/passeriformes/alaudidae/alauda-leucoptera/3.jpg
+  page: https://www.inaturalist.org/photos/597667980
+  author: Полина Полежанкина
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597667980/original.jpg
+- file: images/passeriformes/alaudidae/alauda-leucoptera/4.jpg
+  page: https://www.inaturalist.org/photos/357288544
+  author: Вячеслав Юсупов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357288544/original.jpg
+- file: images/passeriformes/alaudidae/alauda-leucoptera/5.jpg
+  page: https://www.inaturalist.org/photos/408149572
+  author: Genriyetta Pulikova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/408149572/original.jpg
 ---
 
 

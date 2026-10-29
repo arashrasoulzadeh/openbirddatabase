@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmophylax-atrothorax/1.jpg
+  page: https://www.inaturalist.org/photos/416524209
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416524209/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmophylax-atrothorax/1.jpg
+  page: https://www.inaturalist.org/photos/416524209
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416524209/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmophylax-atrothorax/2.jpg
+  page: https://www.inaturalist.org/photos/301451654
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/301451654/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmophylax-atrothorax/3.jpg
+  page: https://www.inaturalist.org/photos/275646161
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/275646161/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmophylax-atrothorax/4.jpg
+  page: https://www.inaturalist.org/photos/210223653
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/210223653/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmophylax-atrothorax/5.jpg
+  page: https://www.inaturalist.org/photos/5697487
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5697487/original.jpeg
 ---
 
 

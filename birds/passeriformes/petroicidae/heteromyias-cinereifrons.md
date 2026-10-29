@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/petroicidae/heteromyias-cinereifrons/1.jpg
+  page: https://www.inaturalist.org/photos/613311608
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613311608/original.jpg
+images:
+- file: images/passeriformes/petroicidae/heteromyias-cinereifrons/1.jpg
+  page: https://www.inaturalist.org/photos/613311608
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613311608/original.jpg
+- file: images/passeriformes/petroicidae/heteromyias-cinereifrons/2.jpg
+  page: https://www.inaturalist.org/photos/631310602
+  author: Ian Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631310602/original.jpg
+- file: images/passeriformes/petroicidae/heteromyias-cinereifrons/3.jpg
+  page: https://www.inaturalist.org/photos/637309480
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637309480/original.jpg
+- file: images/passeriformes/petroicidae/heteromyias-cinereifrons/4.jpg
+  page: https://www.inaturalist.org/photos/654661352
+  author: Dave Shenton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654661352/original.jpg
+- file: images/passeriformes/petroicidae/heteromyias-cinereifrons/5.jpg
+  page: https://www.inaturalist.org/photos/665643472
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665643472/original.jpg
 ---
 
 

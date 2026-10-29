@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/stigmatura-budytoides/1.jpg
+  page: https://www.inaturalist.org/photos/616002174
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616002174/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/stigmatura-budytoides/1.jpg
+  page: https://www.inaturalist.org/photos/616002174
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616002174/original.jpg
+- file: images/passeriformes/tyrannidae/stigmatura-budytoides/2.jpg
+  page: https://www.inaturalist.org/photos/631621002
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631621002/original.jpg
+- file: images/passeriformes/tyrannidae/stigmatura-budytoides/3.jpg
+  page: https://www.inaturalist.org/photos/630662330
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630662330/original.jpg
+- file: images/passeriformes/tyrannidae/stigmatura-budytoides/4.jpg
+  page: https://www.inaturalist.org/photos/637711248
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637711248/original.jpg
+- file: images/passeriformes/tyrannidae/stigmatura-budytoides/5.jpg
+  page: https://www.inaturalist.org/photos/640425688
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640425688/original.jpg
 ---
 
 

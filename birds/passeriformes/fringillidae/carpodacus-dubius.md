@@ -143,7 +143,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.5
@@ -151,6 +152,44 @@ morphology:
   wing_length_mm: 84.4
   tail_length_mm: 76.0
   body_mass_g: 31.0
+image:
+  file: images/passeriformes/fringillidae/carpodacus-dubius/1.jpg
+  page: https://www.inaturalist.org/photos/632592418
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592418/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-dubius/1.jpg
+  page: https://www.inaturalist.org/photos/632592418
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592418/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-dubius/2.jpg
+  page: https://www.inaturalist.org/photos/523899856
+  author: Paul Bernstorff Ehrman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523899856/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-dubius/3.jpg
+  page: https://www.inaturalist.org/photos/632592442
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592442/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-dubius/4.jpg
+  page: https://www.inaturalist.org/photos/632592471
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592471/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-dubius/5.jpg
+  page: https://www.inaturalist.org/photos/632592500
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592500/original.jpg
 ---
 
 

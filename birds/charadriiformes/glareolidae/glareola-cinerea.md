@@ -150,8 +150,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/glareola-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/665451287
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665451287/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/glareola-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/665451287
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665451287/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/137467551
+  author: Lucky Okpanachi Atabo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137467551/original.jpeg
+- file: images/charadriiformes/glareolidae/glareola-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/608614367
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608614367/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/665451278
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665451278/original.jpg
 ---
 
 

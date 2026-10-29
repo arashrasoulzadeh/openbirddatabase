@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/pogoniulus-subsulphureus/1.jpg
+  page: https://www.inaturalist.org/photos/562554041
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562554041/original.jpg
+images:
+- file: images/piciformes/lybiidae/pogoniulus-subsulphureus/1.jpg
+  page: https://www.inaturalist.org/photos/562554041
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562554041/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-subsulphureus/2.jpg
+  page: https://www.inaturalist.org/photos/394138697
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394138697/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-subsulphureus/3.jpg
+  page: https://www.inaturalist.org/photos/257430298
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257430298/original.jpeg
+- file: images/piciformes/lybiidae/pogoniulus-subsulphureus/4.jpg
+  page: https://www.inaturalist.org/photos/181158826
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181158826/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-subsulphureus/5.jpg
+  page: https://www.inaturalist.org/photos/562737946
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562737946/original.jpg
 ---
 
 

@@ -165,8 +165,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-narcissina/1.jpg
+  page: https://www.inaturalist.org/photos/636431624
+  author: nayeonyooo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636431624/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-narcissina/1.jpg
+  page: https://www.inaturalist.org/photos/636431624
+  author: nayeonyooo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636431624/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-narcissina/2.jpg
+  page: https://www.inaturalist.org/photos/635082456
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635082456/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-narcissina/3.jpg
+  page: https://www.inaturalist.org/photos/644679554
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644679554/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-narcissina/4.jpg
+  page: https://www.inaturalist.org/photos/644367074
+  author: ITÔ, Hiroki
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644367074/original.jpg
 ---
 
 

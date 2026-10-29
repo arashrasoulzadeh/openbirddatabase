@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-vinacea/1.jpg
+  page: https://www.inaturalist.org/photos/630053706
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630053706/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-vinacea/1.jpg
+  page: https://www.inaturalist.org/photos/630053706
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630053706/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-vinacea/2.jpg
+  page: https://www.inaturalist.org/photos/467853097
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467853097/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-vinacea/3.jpg
+  page: https://www.inaturalist.org/photos/494115850
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/494115850/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-vinacea/4.jpg
+  page: https://www.inaturalist.org/photos/517143104
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517143104/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-vinacea/5.jpg
+  page: https://www.inaturalist.org/photos/520581683
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520581683/original.jpg
 ---
 
 

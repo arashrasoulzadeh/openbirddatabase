@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-aureola/1.jpg
+  page: https://www.inaturalist.org/photos/612414933
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612414933/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-aureola/1.jpg
+  page: https://www.inaturalist.org/photos/612414933
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612414933/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-aureola/2.jpg
+  page: https://www.inaturalist.org/photos/622356394
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356394/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-aureola/3.jpg
+  page: https://www.inaturalist.org/photos/658540951
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658540951/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-aureola/4.jpg
+  page: https://www.inaturalist.org/photos/615892930
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615892930/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-aureola/5.jpg
+  page: https://www.inaturalist.org/photos/676547153
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676547153/original.jpg
 ---
 
 

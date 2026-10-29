@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/hirundinidae/riparia-diluta/1.jpg
+  page: https://www.inaturalist.org/photos/640038155
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640038155/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/riparia-diluta/1.jpg
+  page: https://www.inaturalist.org/photos/640038155
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640038155/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-diluta/2.jpg
+  page: https://www.inaturalist.org/photos/703696818
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703696818/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-diluta/3.jpg
+  page: https://www.inaturalist.org/photos/688919279
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688919279/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-diluta/4.jpg
+  page: https://www.inaturalist.org/photos/511926221
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511926221/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-diluta/5.jpg
+  page: https://www.inaturalist.org/photos/548297595
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548297595/original.jpg
 ---
 
 

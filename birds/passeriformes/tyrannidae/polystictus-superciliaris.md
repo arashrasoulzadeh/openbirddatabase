@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/polystictus-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/705732223
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705732223/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/polystictus-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/705732223
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705732223/original.jpg
+- file: images/passeriformes/tyrannidae/polystictus-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/348556388
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348556388/original.jpeg
+- file: images/passeriformes/tyrannidae/polystictus-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/362440494
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362440494/original.jpeg
+- file: images/passeriformes/tyrannidae/polystictus-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/363243183
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363243183/original.jpeg
+- file: images/passeriformes/tyrannidae/polystictus-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/419994381
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419994381/original.jpeg
 ---
 
 

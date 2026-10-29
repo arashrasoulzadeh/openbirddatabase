@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/neohierax-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/550784373
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550784373/original.jpg
+images:
+- file: images/falconiformes/falconidae/neohierax-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/550784373
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550784373/original.jpg
+- file: images/falconiformes/falconidae/neohierax-insignis/2.jpg
+  page: https://www.inaturalist.org/photos/283753762
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283753762/original.jpg
+- file: images/falconiformes/falconidae/neohierax-insignis/3.jpg
+  page: https://www.inaturalist.org/photos/343487791
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343487791/original.jpeg
+- file: images/falconiformes/falconidae/neohierax-insignis/4.jpg
+  page: https://www.inaturalist.org/photos/105777621
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105777621/original.jpeg
+- file: images/falconiformes/falconidae/neohierax-insignis/5.jpg
+  page: https://www.inaturalist.org/photos/547344778
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547344778/original.jpg
 ---
 
 

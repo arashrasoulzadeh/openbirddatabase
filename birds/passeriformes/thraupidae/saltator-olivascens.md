@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/saltator-olivascens/1.jpg
+  page: https://www.inaturalist.org/photos/616773963
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616773963/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-olivascens/1.jpg
+  page: https://www.inaturalist.org/photos/616773963
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616773963/original.jpg
+- file: images/passeriformes/thraupidae/saltator-olivascens/2.jpg
+  page: https://www.inaturalist.org/photos/614175980
+  author: Catalina Ayala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614175980/original.jpg
+- file: images/passeriformes/thraupidae/saltator-olivascens/3.jpg
+  page: https://www.inaturalist.org/photos/620024537
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620024537/original.jpg
+- file: images/passeriformes/thraupidae/saltator-olivascens/4.jpg
+  page: https://www.inaturalist.org/photos/661433477
+  author: Luis G Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661433477/original.jpg
+- file: images/passeriformes/thraupidae/saltator-olivascens/5.jpg
+  page: https://www.inaturalist.org/photos/675726777
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675726777/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hypocnemoides-maculicauda/1.jpg
+  page: https://www.inaturalist.org/photos/738653255
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738653255/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hypocnemoides-maculicauda/1.jpg
+  page: https://www.inaturalist.org/photos/738653255
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738653255/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemoides-maculicauda/2.jpg
+  page: https://www.inaturalist.org/photos/579417594
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579417594/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemoides-maculicauda/3.jpg
+  page: https://www.inaturalist.org/photos/588424029
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588424029/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemoides-maculicauda/4.jpg
+  page: https://www.inaturalist.org/photos/606058379
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606058379/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemoides-maculicauda/5.jpg
+  page: https://www.inaturalist.org/photos/443601135
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443601135/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/dendrortyx-macroura/1.jpg
+  page: https://www.inaturalist.org/photos/619152357
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619152357/original.jpg
+images:
+- file: images/galliformes/odontophoridae/dendrortyx-macroura/1.jpg
+  page: https://www.inaturalist.org/photos/619152357
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619152357/original.jpg
+- file: images/galliformes/odontophoridae/dendrortyx-macroura/2.jpg
+  page: https://www.inaturalist.org/photos/588124252
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588124252/original.jpg
+- file: images/galliformes/odontophoridae/dendrortyx-macroura/3.jpg
+  page: https://www.inaturalist.org/photos/369975491
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369975491/original.jpeg
+- file: images/galliformes/odontophoridae/dendrortyx-macroura/4.jpg
+  page: https://www.inaturalist.org/photos/463250188
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463250188/original.jpg
+- file: images/galliformes/odontophoridae/dendrortyx-macroura/5.jpg
+  page: https://www.inaturalist.org/photos/259281111
+  author: WildLife Mx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259281111/original.jpg
 ---
 
 

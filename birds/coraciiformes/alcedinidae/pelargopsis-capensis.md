@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/pelargopsis-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/610631662
+  author: Rosanna Dedecius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610631662/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/pelargopsis-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/610631662
+  author: Rosanna Dedecius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610631662/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/608498344
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608498344/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/612474741
+  author: grass_0
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612474741/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/616738503
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738503/original.jpg
+- file: images/coraciiformes/alcedinidae/pelargopsis-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/618848026
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618848026/original.jpg
 ---
 
 

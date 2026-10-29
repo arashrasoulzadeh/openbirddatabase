@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiopagis-cotta/1.jpg
+  page: https://www.inaturalist.org/photos/355617141
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355617141/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiopagis-cotta/1.jpg
+  page: https://www.inaturalist.org/photos/355617141
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355617141/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-cotta/2.jpg
+  page: https://www.inaturalist.org/photos/337665702
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337665702/original.jpeg
+- file: images/passeriformes/tyrannidae/myiopagis-cotta/3.jpg
+  page: https://www.inaturalist.org/photos/177200177
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177200177/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-cotta/4.jpg
+  page: https://www.inaturalist.org/photos/250796072
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250796072/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-cotta/5.jpg
+  page: https://www.inaturalist.org/photos/355617142
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355617142/original.jpg
 ---
 
 

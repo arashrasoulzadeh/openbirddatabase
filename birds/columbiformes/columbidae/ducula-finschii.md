@@ -134,8 +134,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-finschii/1.jpg
+  page: https://www.inaturalist.org/photos/576061446
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576061446/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-finschii/1.jpg
+  page: https://www.inaturalist.org/photos/576061446
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576061446/original.jpg
+- file: images/columbiformes/columbidae/ducula-finschii/2.jpg
+  page: https://www.inaturalist.org/photos/334673969
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334673969/original.jpg
 ---
 
 

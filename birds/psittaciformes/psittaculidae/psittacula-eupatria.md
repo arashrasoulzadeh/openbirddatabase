@@ -146,7 +146,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 37.6
@@ -160,6 +161,44 @@ reproduction:
   clutch_size_mean: 3.2
   incubation_days: 21
   fledging_days: 49
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-eupatria/1.jpg
+  page: https://www.inaturalist.org/photos/610773311
+  author: tobijw
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610773311/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-eupatria/1.jpg
+  page: https://www.inaturalist.org/photos/610773311
+  author: tobijw
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610773311/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-eupatria/2.jpg
+  page: https://www.inaturalist.org/photos/610710909
+  author: Frank Sengpiel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610710909/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-eupatria/3.jpg
+  page: https://www.inaturalist.org/photos/610197468
+  author: Andrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610197468/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-eupatria/4.jpg
+  page: https://www.inaturalist.org/photos/607679425
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607679425/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-eupatria/5.jpg
+  page: https://www.inaturalist.org/photos/612449111
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612449111/original.jpg
 ---
 
 

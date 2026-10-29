@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-ridleyana/1.jpg
+  page: https://www.inaturalist.org/photos/635788637
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635788637/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-ridleyana/1.jpg
+  page: https://www.inaturalist.org/photos/635788637
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635788637/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-ridleyana/2.jpg
+  page: https://www.inaturalist.org/photos/431160396
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431160396/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-ridleyana/3.jpg
+  page: https://www.inaturalist.org/photos/456328795
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456328795/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-ridleyana/4.jpg
+  page: https://www.inaturalist.org/photos/459333139
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459333139/original.jpeg
+- file: images/passeriformes/tyrannidae/elaenia-ridleyana/5.jpg
+  page: https://www.inaturalist.org/photos/305653328
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305653328/original.jpg
 ---
 
 

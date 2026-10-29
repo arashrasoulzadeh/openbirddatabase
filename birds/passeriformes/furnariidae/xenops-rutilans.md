@@ -135,7 +135,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 13.3
@@ -145,6 +146,44 @@ morphology:
   body_mass_g: 11.2
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/furnariidae/xenops-rutilans/1.jpg
+  page: https://www.inaturalist.org/photos/607243252
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243252/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xenops-rutilans/1.jpg
+  page: https://www.inaturalist.org/photos/607243252
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243252/original.jpg
+- file: images/passeriformes/furnariidae/xenops-rutilans/2.jpg
+  page: https://www.inaturalist.org/photos/615810046
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615810046/original.jpg
+- file: images/passeriformes/furnariidae/xenops-rutilans/3.jpg
+  page: https://www.inaturalist.org/photos/616201475
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201475/original.jpg
+- file: images/passeriformes/furnariidae/xenops-rutilans/4.jpg
+  page: https://www.inaturalist.org/photos/618253925
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618253925/original.jpg
+- file: images/passeriformes/furnariidae/xenops-rutilans/5.jpg
+  page: https://www.inaturalist.org/photos/617458951
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617458951/original.jpg
 ---
 
 

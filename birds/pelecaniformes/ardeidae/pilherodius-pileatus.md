@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/pilherodius-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/617327343
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327343/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/pilherodius-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/617327343
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327343/original.jpg
+- file: images/pelecaniformes/ardeidae/pilherodius-pileatus/2.jpg
+  page: https://www.inaturalist.org/photos/616729130
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616729130/original.jpg
+- file: images/pelecaniformes/ardeidae/pilherodius-pileatus/3.jpg
+  page: https://www.inaturalist.org/photos/617502868
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617502868/original.jpg
+- file: images/pelecaniformes/ardeidae/pilherodius-pileatus/4.jpg
+  page: https://www.inaturalist.org/photos/622219543
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622219543/original.jpg
+- file: images/pelecaniformes/ardeidae/pilherodius-pileatus/5.jpg
+  page: https://www.inaturalist.org/photos/629739926
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629739926/original.jpg
 ---
 
 

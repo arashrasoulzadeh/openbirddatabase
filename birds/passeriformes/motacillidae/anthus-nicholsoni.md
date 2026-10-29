@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-nicholsoni/1.jpg
+  page: https://www.inaturalist.org/photos/617720530
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617720530/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-nicholsoni/1.jpg
+  page: https://www.inaturalist.org/photos/617720530
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617720530/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nicholsoni/2.jpg
+  page: https://www.inaturalist.org/photos/627206193
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627206193/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nicholsoni/3.jpg
+  page: https://www.inaturalist.org/photos/641793688
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641793688/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nicholsoni/4.jpg
+  page: https://www.inaturalist.org/photos/710271202
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710271202/original.jpg
+- file: images/passeriformes/motacillidae/anthus-nicholsoni/5.jpg
+  page: https://www.inaturalist.org/photos/484415280
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484415280/original.jpeg
 ---
 
 

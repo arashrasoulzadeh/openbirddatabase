@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/masius-chrysopterus/1.jpg
+  page: https://www.inaturalist.org/photos/652841602
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652841602/original.jpg
+images:
+- file: images/passeriformes/pipridae/masius-chrysopterus/1.jpg
+  page: https://www.inaturalist.org/photos/652841602
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652841602/original.jpg
+- file: images/passeriformes/pipridae/masius-chrysopterus/2.jpg
+  page: https://www.inaturalist.org/photos/497763092
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497763092/original.jpg
+- file: images/passeriformes/pipridae/masius-chrysopterus/3.jpg
+  page: https://www.inaturalist.org/photos/469867567
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469867567/original.jpeg
+- file: images/passeriformes/pipridae/masius-chrysopterus/4.jpg
+  page: https://www.inaturalist.org/photos/350897166
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350897166/original.jpeg
+- file: images/passeriformes/pipridae/masius-chrysopterus/5.jpg
+  page: https://www.inaturalist.org/photos/351360735
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351360735/original.jpg
 ---
 
 

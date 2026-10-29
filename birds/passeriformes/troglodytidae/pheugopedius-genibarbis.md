@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/pheugopedius-genibarbis/1.jpg
+  page: https://www.inaturalist.org/photos/604589698
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604589698/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/pheugopedius-genibarbis/1.jpg
+  page: https://www.inaturalist.org/photos/604589698
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604589698/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-genibarbis/2.jpg
+  page: https://www.inaturalist.org/photos/726590682
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726590682/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-genibarbis/3.jpg
+  page: https://www.inaturalist.org/photos/732348606
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732348606/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-genibarbis/4.jpg
+  page: https://www.inaturalist.org/photos/742836455
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742836455/original.jpg
+- file: images/passeriformes/troglodytidae/pheugopedius-genibarbis/5.jpg
+  page: https://www.inaturalist.org/photos/556194154
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556194154/original.jpg
 ---
 
 

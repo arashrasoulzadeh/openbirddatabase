@@ -120,8 +120,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/apodiformes/trochilidae/ramosomyia-viridifrons/1.jpg
+  page: https://www.inaturalist.org/photos/541431542
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541431542/original.jpg
+images:
+- file: images/apodiformes/trochilidae/ramosomyia-viridifrons/1.jpg
+  page: https://www.inaturalist.org/photos/541431542
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541431542/original.jpg
+- file: images/apodiformes/trochilidae/ramosomyia-viridifrons/2.jpg
+  page: https://www.inaturalist.org/photos/409515614
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409515614/original.jpeg
+- file: images/apodiformes/trochilidae/ramosomyia-viridifrons/3.jpg
+  page: https://www.inaturalist.org/photos/262711681
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262711681/original.jpeg
+- file: images/apodiformes/trochilidae/ramosomyia-viridifrons/4.jpg
+  page: https://www.inaturalist.org/photos/279230898
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279230898/original.jpeg
+- file: images/apodiformes/trochilidae/ramosomyia-viridifrons/5.jpg
+  page: https://www.inaturalist.org/photos/109651398
+  author: Daniel Pineda Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109651398/original.jpg
 ---
 
 

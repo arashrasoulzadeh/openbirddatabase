@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lesbia-victoriae/1.jpg
+  page: https://www.inaturalist.org/photos/686784214
+  author: Andrew J. Crawford
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686784214/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lesbia-victoriae/1.jpg
+  page: https://www.inaturalist.org/photos/686784214
+  author: Andrew J. Crawford
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686784214/original.jpg
+- file: images/apodiformes/trochilidae/lesbia-victoriae/2.jpg
+  page: https://www.inaturalist.org/photos/471185854
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471185854/original.jpeg
+- file: images/apodiformes/trochilidae/lesbia-victoriae/3.jpg
+  page: https://www.inaturalist.org/photos/472404160
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472404160/original.jpeg
+- file: images/apodiformes/trochilidae/lesbia-victoriae/4.jpg
+  page: https://www.inaturalist.org/photos/595064686
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595064686/original.jpg
+- file: images/apodiformes/trochilidae/lesbia-victoriae/5.jpg
+  page: https://www.inaturalist.org/photos/482754939
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482754939/original.png
 ---
 
 

@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-grammiceps/1.jpg
+  page: https://www.inaturalist.org/photos/614933685
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933685/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-grammiceps/1.jpg
+  page: https://www.inaturalist.org/photos/614933685
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933685/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-grammiceps/2.jpg
+  page: https://www.inaturalist.org/photos/618851708
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851708/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-grammiceps/3.jpg
+  page: https://www.inaturalist.org/photos/654475245
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654475245/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-grammiceps/4.jpg
+  page: https://www.inaturalist.org/photos/464516496
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464516496/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-grammiceps/5.jpg
+  page: https://www.inaturalist.org/photos/569152598
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569152598/original.jpg
 ---
 
 

@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-habessinicus/1.jpg
+  page: https://www.inaturalist.org/photos/617672780
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617672780/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-habessinicus/1.jpg
+  page: https://www.inaturalist.org/photos/617672780
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617672780/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-habessinicus/2.jpg
+  page: https://www.inaturalist.org/photos/607300582
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607300582/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-habessinicus/3.jpg
+  page: https://www.inaturalist.org/photos/617403674
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617403674/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-habessinicus/4.jpg
+  page: https://www.inaturalist.org/photos/617403680
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617403680/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-habessinicus/5.jpg
+  page: https://www.inaturalist.org/photos/618470491
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618470491/original.jpg
 ---
 
 

@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/strigiformes/tytonidae/tyto-glaucops/1.jpg
+  page: https://www.inaturalist.org/photos/477278135
+  author: R Grullón Feria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477278135/original.jpeg
+images:
+- file: images/strigiformes/tytonidae/tyto-glaucops/1.jpg
+  page: https://www.inaturalist.org/photos/477278135
+  author: R Grullón Feria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477278135/original.jpeg
+- file: images/strigiformes/tytonidae/tyto-glaucops/2.jpg
+  page: https://www.inaturalist.org/photos/474638879
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474638879/original.jpg
+- file: images/strigiformes/tytonidae/tyto-glaucops/3.jpg
+  page: https://www.inaturalist.org/photos/587965080
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587965080/original.jpg
+- file: images/strigiformes/tytonidae/tyto-glaucops/4.jpg
+  page: https://www.inaturalist.org/photos/271516946
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/271516946/original.jpg
+- file: images/strigiformes/tytonidae/tyto-glaucops/5.jpg
+  page: https://www.inaturalist.org/photos/341579373
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341579373/original.jpg
 ---
 
 

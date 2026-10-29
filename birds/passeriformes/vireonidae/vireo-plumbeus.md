@@ -153,10 +153,37 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/vireonidae/vireo-plumbeus/1.jpg
+  page: https://www.inaturalist.org/photos/659467397
+  author: MarvalPhotography19
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659467397/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-plumbeus/1.jpg
+  page: https://www.inaturalist.org/photos/659467397
+  author: MarvalPhotography19
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659467397/original.jpg
+- file: images/passeriformes/vireonidae/vireo-plumbeus/2.jpg
+  page: https://www.inaturalist.org/photos/653294682
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653294682/original.jpg
+- file: images/passeriformes/vireonidae/vireo-plumbeus/3.jpg
+  page: https://www.inaturalist.org/photos/656084466
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656084466/original.jpg
 ---
 
 

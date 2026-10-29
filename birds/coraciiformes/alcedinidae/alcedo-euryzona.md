@@ -143,7 +143,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 50.5
@@ -151,6 +152,44 @@ morphology:
   wing_length_mm: 82.8
   tail_length_mm: 35.1
   body_mass_g: 43.1
+image:
+  file: images/coraciiformes/alcedinidae/alcedo-euryzona/1.jpg
+  page: https://www.inaturalist.org/photos/572077543
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077543/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/alcedo-euryzona/1.jpg
+  page: https://www.inaturalist.org/photos/572077543
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572077543/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-euryzona/2.jpg
+  page: https://www.inaturalist.org/photos/268411481
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268411481/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-euryzona/3.jpg
+  page: https://www.inaturalist.org/photos/309997025
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309997025/original.jpeg
+- file: images/coraciiformes/alcedinidae/alcedo-euryzona/4.jpg
+  page: https://www.inaturalist.org/photos/546238277
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546238277/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-euryzona/5.jpg
+  page: https://www.inaturalist.org/photos/268411504
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268411504/original.jpg
 ---
 
 

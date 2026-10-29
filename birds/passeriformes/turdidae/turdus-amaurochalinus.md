@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-amaurochalinus/1.jpg
+  page: https://www.inaturalist.org/photos/604549105
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604549105/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-amaurochalinus/1.jpg
+  page: https://www.inaturalist.org/photos/604549105
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604549105/original.jpg
+- file: images/passeriformes/turdidae/turdus-amaurochalinus/2.jpg
+  page: https://www.inaturalist.org/photos/605939259
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605939259/original.jpg
+- file: images/passeriformes/turdidae/turdus-amaurochalinus/3.jpg
+  page: https://www.inaturalist.org/photos/609201737
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609201737/original.jpg
+- file: images/passeriformes/turdidae/turdus-amaurochalinus/4.jpg
+  page: https://www.inaturalist.org/photos/607430148
+  author: Fernando
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607430148/original.jpg
+- file: images/passeriformes/turdidae/turdus-amaurochalinus/5.jpg
+  page: https://www.inaturalist.org/photos/606050369
+  author: Emilio Maillo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606050369/original.jpg
 ---
 
 

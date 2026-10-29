@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/passeridae/petronia-petronia/1.jpg
+  page: https://www.inaturalist.org/photos/607498388
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607498388/original.jpg
+images:
+- file: images/passeriformes/passeridae/petronia-petronia/1.jpg
+  page: https://www.inaturalist.org/photos/607498388
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607498388/original.jpg
+- file: images/passeriformes/passeridae/petronia-petronia/2.jpg
+  page: https://www.inaturalist.org/photos/609690536
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609690536/original.jpg
+- file: images/passeriformes/passeridae/petronia-petronia/3.jpg
+  page: https://www.inaturalist.org/photos/606423749
+  author: euqirneto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606423749/original.jpg
+- file: images/passeriformes/passeridae/petronia-petronia/4.jpg
+  page: https://www.inaturalist.org/photos/608177194
+  author: José Antonio León Mangado
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608177194/original.jpg
+- file: images/passeriformes/passeridae/petronia-petronia/5.jpg
+  page: https://www.inaturalist.org/photos/618061447
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618061447/original.jpg
 ---
 
 

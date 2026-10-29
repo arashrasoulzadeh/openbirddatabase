@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/anthreptes-anchietae/1.jpg
+  page: https://www.inaturalist.org/photos/445036027
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036027/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/anthreptes-anchietae/1.jpg
+  page: https://www.inaturalist.org/photos/445036027
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036027/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-anchietae/2.jpg
+  page: https://www.inaturalist.org/photos/445036029
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036029/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-anchietae/3.jpg
+  page: https://www.inaturalist.org/photos/445036035
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036035/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-anchietae/4.jpg
+  page: https://www.inaturalist.org/photos/445036038
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036038/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-anchietae/5.jpg
+  page: https://www.inaturalist.org/photos/445036041
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036041/original.jpg
 ---
 
 

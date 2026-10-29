@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/conirostrum-tamarugense/1.jpg
+  page: https://www.inaturalist.org/photos/563706932
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563706932/original.jpg
+images:
+- file: images/passeriformes/thraupidae/conirostrum-tamarugense/1.jpg
+  page: https://www.inaturalist.org/photos/563706932
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563706932/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-tamarugense/2.jpg
+  page: https://www.inaturalist.org/photos/456254480
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456254480/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-tamarugense/3.jpg
+  page: https://www.inaturalist.org/photos/248661162
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248661162/original.jpeg
+- file: images/passeriformes/thraupidae/conirostrum-tamarugense/4.jpg
+  page: https://www.inaturalist.org/photos/116531779
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116531779/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-tamarugense/5.jpg
+  page: https://www.inaturalist.org/photos/341227703
+  author: Jorge Herreros de Lartundo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341227703/original.jpg
 ---
 
 

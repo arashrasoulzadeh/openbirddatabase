@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/fringillidae/magumma-parva/1.jpg
+  page: https://www.inaturalist.org/photos/654642898
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654642898/original.jpg
+images:
+- file: images/passeriformes/fringillidae/magumma-parva/1.jpg
+  page: https://www.inaturalist.org/photos/654642898
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654642898/original.jpg
+- file: images/passeriformes/fringillidae/magumma-parva/2.jpg
+  page: https://www.inaturalist.org/photos/513072064
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513072064/original.jpg
+- file: images/passeriformes/fringillidae/magumma-parva/3.jpg
+  page: https://www.inaturalist.org/photos/58898213
+  author: Braden J. Judson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/58898213/original.jpeg
+- file: images/passeriformes/fringillidae/magumma-parva/4.jpg
+  page: https://www.inaturalist.org/photos/142822711
+  author: Loren Cassin Sackett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/142822711/original.jpeg
+- file: images/passeriformes/fringillidae/magumma-parva/5.jpg
+  page: https://www.inaturalist.org/photos/654642938
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654642938/original.jpg
 ---
 
 

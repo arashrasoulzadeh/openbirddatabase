@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/psittaciformes/psittaculidae/agapornis-lilianae/1.jpg
+  page: https://www.inaturalist.org/photos/612931813
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612931813/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/agapornis-lilianae/1.jpg
+  page: https://www.inaturalist.org/photos/612931813
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612931813/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-lilianae/2.jpg
+  page: https://www.inaturalist.org/photos/434293969
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434293969/original.jpeg
+- file: images/psittaciformes/psittaculidae/agapornis-lilianae/3.jpg
+  page: https://www.inaturalist.org/photos/447874960
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447874960/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-lilianae/4.jpg
+  page: https://www.inaturalist.org/photos/449870313
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449870313/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-lilianae/5.jpg
+  page: https://www.inaturalist.org/photos/298799815
+  author: Stan Rullman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298799815/original.jpeg
 ---
 
 

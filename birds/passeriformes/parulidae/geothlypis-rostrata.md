@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/geothlypis-rostrata/1.jpg
+  page: https://www.inaturalist.org/photos/618506411
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618506411/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-rostrata/1.jpg
+  page: https://www.inaturalist.org/photos/618506411
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618506411/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-rostrata/2.jpg
+  page: https://www.inaturalist.org/photos/94120988
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94120988/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-rostrata/3.jpg
+  page: https://www.inaturalist.org/photos/618521208
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618521208/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-rostrata/4.jpg
+  page: https://www.inaturalist.org/photos/94121011
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94121011/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-rostrata/5.jpg
+  page: https://www.inaturalist.org/photos/94121052
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94121052/original.jpeg
 ---
 
 

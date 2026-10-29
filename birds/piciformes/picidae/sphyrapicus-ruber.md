@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/piciformes/picidae/sphyrapicus-ruber/1.jpg
+  page: https://www.inaturalist.org/photos/604575968
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604575968/original.jpg
+images:
+- file: images/piciformes/picidae/sphyrapicus-ruber/1.jpg
+  page: https://www.inaturalist.org/photos/604575968
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604575968/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-ruber/2.jpg
+  page: https://www.inaturalist.org/photos/605497113
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605497113/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-ruber/3.jpg
+  page: https://www.inaturalist.org/photos/605136039
+  author: Connor Sites-Bowen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605136039/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-ruber/4.jpg
+  page: https://www.inaturalist.org/photos/609775181
+  author: Daval Davis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609775181/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-ruber/5.jpg
+  page: https://www.inaturalist.org/photos/608779291
+  author: Andrew Still
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608779291/original.jpg
 ---
 
 

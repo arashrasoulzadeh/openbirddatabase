@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/fringillidae/haemorhous-purpureus/1.jpg
+  page: https://www.inaturalist.org/photos/605162973
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162973/original.jpg
+images:
+- file: images/passeriformes/fringillidae/haemorhous-purpureus/1.jpg
+  page: https://www.inaturalist.org/photos/605162973
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162973/original.jpg
+- file: images/passeriformes/fringillidae/haemorhous-purpureus/2.jpg
+  page: https://www.inaturalist.org/photos/605463835
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463835/original.jpg
+- file: images/passeriformes/fringillidae/haemorhous-purpureus/3.jpg
+  page: https://www.inaturalist.org/photos/605064969
+  author: Karen Saunders
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605064969/original.jpg
+- file: images/passeriformes/fringillidae/haemorhous-purpureus/4.jpg
+  page: https://www.inaturalist.org/photos/605201938
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605201938/original.jpg
+- file: images/passeriformes/fringillidae/haemorhous-purpureus/5.jpg
+  page: https://www.inaturalist.org/photos/604609802
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604609802/original.jpg
 ---
 
 

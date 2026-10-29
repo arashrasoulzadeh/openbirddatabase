@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-cinnamoventris/1.jpg
+  page: https://www.inaturalist.org/photos/615210399
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615210399/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-cinnamoventris/1.jpg
+  page: https://www.inaturalist.org/photos/615210399
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615210399/original.jpg
+- file: images/passeriformes/sittidae/sitta-cinnamoventris/2.jpg
+  page: https://www.inaturalist.org/photos/616555446
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616555446/original.jpg
+- file: images/passeriformes/sittidae/sitta-cinnamoventris/3.jpg
+  page: https://www.inaturalist.org/photos/642887340
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642887340/original.jpg
+- file: images/passeriformes/sittidae/sitta-cinnamoventris/4.jpg
+  page: https://www.inaturalist.org/photos/590743709
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590743709/original.jpg
+- file: images/passeriformes/sittidae/sitta-cinnamoventris/5.jpg
+  page: https://www.inaturalist.org/photos/615635805
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635805/original.jpg
 ---
 
 

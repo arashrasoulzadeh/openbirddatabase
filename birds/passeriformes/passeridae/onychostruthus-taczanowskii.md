@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/onychostruthus-taczanowskii/1.jpg
+  page: https://www.inaturalist.org/photos/711439936
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711439936/original.jpg
+images:
+- file: images/passeriformes/passeridae/onychostruthus-taczanowskii/1.jpg
+  page: https://www.inaturalist.org/photos/711439936
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711439936/original.jpg
+- file: images/passeriformes/passeridae/onychostruthus-taczanowskii/2.jpg
+  page: https://www.inaturalist.org/photos/705146567
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705146567/original.jpg
+- file: images/passeriformes/passeridae/onychostruthus-taczanowskii/3.jpg
+  page: https://www.inaturalist.org/photos/731882554
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731882554/original.jpg
+- file: images/passeriformes/passeridae/onychostruthus-taczanowskii/4.jpg
+  page: https://www.inaturalist.org/photos/601018622
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601018622/original.jpg
+- file: images/passeriformes/passeridae/onychostruthus-taczanowskii/5.jpg
+  page: https://www.inaturalist.org/photos/711439958
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711439958/original.jpg
 ---
 
 

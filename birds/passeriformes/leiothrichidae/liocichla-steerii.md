@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/liocichla-steerii/1.jpg
+  page: https://www.inaturalist.org/photos/614070310
+  author: Yung-Lun Lin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614070310/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/liocichla-steerii/1.jpg
+  page: https://www.inaturalist.org/photos/614070310
+  author: Yung-Lun Lin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614070310/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-steerii/2.jpg
+  page: https://www.inaturalist.org/photos/618311543
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618311543/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-steerii/3.jpg
+  page: https://www.inaturalist.org/photos/636342058
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636342058/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-steerii/4.jpg
+  page: https://www.inaturalist.org/photos/710220325
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710220325/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-steerii/5.jpg
+  page: https://www.inaturalist.org/photos/652070819
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652070819/original.jpg
 ---
 
 

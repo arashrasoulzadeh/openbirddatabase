@@ -140,10 +140,31 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/galliformes/odontophoridae/rhynchortyx-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/523259879
+  author: Marcia Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523259879/original.jpg
+images:
+- file: images/galliformes/odontophoridae/rhynchortyx-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/523259879
+  author: Marcia Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523259879/original.jpg
+- file: images/galliformes/odontophoridae/rhynchortyx-cinctus/2.jpg
+  page: https://www.inaturalist.org/photos/174725165
+  author: Carmelo López Abad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174725165/original.jpeg
 ---
 
 

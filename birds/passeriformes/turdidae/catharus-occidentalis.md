@@ -143,8 +143,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/catharus-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/608482392
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608482392/original.jpg
+images:
+- file: images/passeriformes/turdidae/catharus-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/608482392
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608482392/original.jpg
+- file: images/passeriformes/turdidae/catharus-occidentalis/2.jpg
+  page: https://www.inaturalist.org/photos/616386955
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616386955/original.jpg
+- file: images/passeriformes/turdidae/catharus-occidentalis/3.jpg
+  page: https://www.inaturalist.org/photos/620311422
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620311422/original.jpg
+- file: images/passeriformes/turdidae/catharus-occidentalis/4.jpg
+  page: https://www.inaturalist.org/photos/665343594
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343594/original.jpg
+- file: images/passeriformes/turdidae/catharus-occidentalis/5.jpg
+  page: https://www.inaturalist.org/photos/632396674
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632396674/original.jpg
 ---
 
 

@@ -137,7 +137,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 25.7
@@ -145,6 +146,44 @@ morphology:
   wing_length_mm: 91.5
   tail_length_mm: 93.6
   body_mass_g: 78.8
+image:
+  file: images/passeriformes/leiothrichidae/garrulax-annamensis/1.jpg
+  page: https://www.inaturalist.org/photos/631333179
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631333179/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/garrulax-annamensis/1.jpg
+  page: https://www.inaturalist.org/photos/631333179
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631333179/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-annamensis/2.jpg
+  page: https://www.inaturalist.org/photos/105771895
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105771895/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-annamensis/3.jpg
+  page: https://www.inaturalist.org/photos/339822487
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339822487/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-annamensis/4.jpg
+  page: https://www.inaturalist.org/photos/105771899
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105771899/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-annamensis/5.jpg
+  page: https://www.inaturalist.org/photos/105771907
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105771907/original.jpeg
 ---
 
 

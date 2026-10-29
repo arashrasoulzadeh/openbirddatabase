@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/collocalia-linchi/1.jpg
+  page: https://www.inaturalist.org/photos/605903705
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605903705/original.jpg
+images:
+- file: images/apodiformes/apodidae/collocalia-linchi/1.jpg
+  page: https://www.inaturalist.org/photos/605903705
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605903705/original.jpg
+- file: images/apodiformes/apodidae/collocalia-linchi/2.jpg
+  page: https://www.inaturalist.org/photos/613567097
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613567097/original.jpg
+- file: images/apodiformes/apodidae/collocalia-linchi/3.jpg
+  page: https://www.inaturalist.org/photos/627874281
+  author: abidanimallover
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627874281/original.jpg
+- file: images/apodiformes/apodidae/collocalia-linchi/4.jpg
+  page: https://www.inaturalist.org/photos/663294656
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663294656/original.jpg
+- file: images/apodiformes/apodidae/collocalia-linchi/5.jpg
+  page: https://www.inaturalist.org/photos/473105967
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473105967/original.jpeg
 ---
 
 

@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanolyca-argentigula/1.jpg
+  page: https://www.inaturalist.org/photos/691124511
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691124511/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanolyca-argentigula/1.jpg
+  page: https://www.inaturalist.org/photos/691124511
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691124511/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-argentigula/2.jpg
+  page: https://www.inaturalist.org/photos/350270894
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350270894/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-argentigula/3.jpg
+  page: https://www.inaturalist.org/photos/691124605
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691124605/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-argentigula/4.jpg
+  page: https://www.inaturalist.org/photos/691124706
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691124706/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-argentigula/5.jpg
+  page: https://www.inaturalist.org/photos/350270909
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350270909/original.jpg
 ---
 
 

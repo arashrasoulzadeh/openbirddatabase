@@ -171,10 +171,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/cettiidae/cettia-cetti/1.jpg
+  page: https://www.inaturalist.org/photos/604497058
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604497058/original.jpg
+images:
+- file: images/passeriformes/cettiidae/cettia-cetti/1.jpg
+  page: https://www.inaturalist.org/photos/604497058
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604497058/original.jpg
+- file: images/passeriformes/cettiidae/cettia-cetti/2.jpg
+  page: https://www.inaturalist.org/photos/608723345
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608723345/original.jpg
+- file: images/passeriformes/cettiidae/cettia-cetti/3.jpg
+  page: https://www.inaturalist.org/photos/606004993
+  author: Rhys
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606004993/original.jpg
+- file: images/passeriformes/cettiidae/cettia-cetti/4.jpg
+  page: https://www.inaturalist.org/photos/606386855
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606386855/original.jpg
+- file: images/passeriformes/cettiidae/cettia-cetti/5.jpg
+  page: https://www.inaturalist.org/photos/611773442
+  author: Will Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611773442/original.jpg
 ---
 
 

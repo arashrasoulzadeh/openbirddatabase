@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/polioptilidae/polioptila-bilineata/1.jpg
+  page: https://www.inaturalist.org/photos/607529060
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529060/original.jpg
+images:
+- file: images/passeriformes/polioptilidae/polioptila-bilineata/1.jpg
+  page: https://www.inaturalist.org/photos/607529060
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529060/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-bilineata/2.jpg
+  page: https://www.inaturalist.org/photos/612819001
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612819001/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-bilineata/3.jpg
+  page: https://www.inaturalist.org/photos/617318553
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617318553/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-bilineata/4.jpg
+  page: https://www.inaturalist.org/photos/618071969
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618071969/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-bilineata/5.jpg
+  page: https://www.inaturalist.org/photos/610788167
+  author: Mario Celi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610788167/original.jpg
 ---
 
 

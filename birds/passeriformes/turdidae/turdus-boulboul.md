@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-boulboul/1.jpg
+  page: https://www.inaturalist.org/photos/615635583
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635583/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-boulboul/1.jpg
+  page: https://www.inaturalist.org/photos/615635583
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635583/original.jpg
+- file: images/passeriformes/turdidae/turdus-boulboul/2.jpg
+  page: https://www.inaturalist.org/photos/628130940
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628130940/original.jpg
+- file: images/passeriformes/turdidae/turdus-boulboul/3.jpg
+  page: https://www.inaturalist.org/photos/636498837
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636498837/original.jpg
+- file: images/passeriformes/turdidae/turdus-boulboul/4.jpg
+  page: https://www.inaturalist.org/photos/654609778
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654609778/original.jpg
+- file: images/passeriformes/turdidae/turdus-boulboul/5.jpg
+  page: https://www.inaturalist.org/photos/615635596
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635596/original.jpg
 ---
 
 

@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/parulidae/leiothlypis-virginiae/1.jpg
+  page: https://www.inaturalist.org/photos/630542792
+  author: Court Harding
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630542792/original.jpg
+images:
+- file: images/passeriformes/parulidae/leiothlypis-virginiae/1.jpg
+  page: https://www.inaturalist.org/photos/630542792
+  author: Court Harding
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630542792/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-virginiae/2.jpg
+  page: https://www.inaturalist.org/photos/630272441
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630272441/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-virginiae/3.jpg
+  page: https://www.inaturalist.org/photos/630960135
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630960135/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-virginiae/4.jpg
+  page: https://www.inaturalist.org/photos/631475925
+  author: Andrew Conboy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631475925/original.jpg
+- file: images/passeriformes/parulidae/leiothlypis-virginiae/5.jpg
+  page: https://www.inaturalist.org/photos/631423416
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631423416/original.jpg
 ---
 
 

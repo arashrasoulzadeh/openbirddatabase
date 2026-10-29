@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 1
+image:
+  file: images/passeriformes/paridae/periparus-rufonuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/609146477
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609146477/original.jpg
+images:
+- file: images/passeriformes/paridae/periparus-rufonuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/609146477
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609146477/original.jpg
+- file: images/passeriformes/paridae/periparus-rufonuchalis/2.jpg
+  page: https://www.inaturalist.org/photos/514762012
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514762012/original.jpg
+- file: images/passeriformes/paridae/periparus-rufonuchalis/3.jpg
+  page: https://www.inaturalist.org/photos/346810779
+  author: Alex Mitroff
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346810779/original.jpeg
+- file: images/passeriformes/paridae/periparus-rufonuchalis/4.jpg
+  page: https://www.inaturalist.org/photos/251297961
+  author: Dmitry Ivanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251297961/original.jpg
+- file: images/passeriformes/paridae/periparus-rufonuchalis/5.jpg
+  page: https://www.inaturalist.org/photos/254656715
+  author: ll r Ирина
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254656715/original.jpeg
 ---
 
 

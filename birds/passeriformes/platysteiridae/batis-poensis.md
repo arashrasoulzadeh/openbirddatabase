@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/batis-poensis/1.jpg
+  page: https://www.inaturalist.org/photos/351117141
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351117141/original.png
+images:
+- file: images/passeriformes/platysteiridae/batis-poensis/1.jpg
+  page: https://www.inaturalist.org/photos/351117141
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351117141/original.png
+- file: images/passeriformes/platysteiridae/batis-poensis/2.jpg
+  page: https://www.inaturalist.org/photos/344643093
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344643093/original.jpeg
+- file: images/passeriformes/platysteiridae/batis-poensis/3.jpg
+  page: https://www.inaturalist.org/photos/181197345
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181197345/original.jpg
+- file: images/passeriformes/platysteiridae/batis-poensis/4.jpg
+  page: https://www.inaturalist.org/photos/351063213
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351063213/original.png
+- file: images/passeriformes/platysteiridae/batis-poensis/5.jpg
+  page: https://www.inaturalist.org/photos/351062985
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351062985/original.png
 ---
 
 

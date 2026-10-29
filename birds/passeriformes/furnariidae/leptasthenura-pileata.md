@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/leptasthenura-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/562739569
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562739569/original.jpg
+images:
+- file: images/passeriformes/furnariidae/leptasthenura-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/562739569
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562739569/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-pileata/2.jpg
+  page: https://www.inaturalist.org/photos/465818908
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465818908/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-pileata/3.jpg
+  page: https://www.inaturalist.org/photos/305317308
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305317308/original.jpeg
+- file: images/passeriformes/furnariidae/leptasthenura-pileata/4.jpg
+  page: https://www.inaturalist.org/photos/161416789
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/161416789/original.jpg
+- file: images/passeriformes/furnariidae/leptasthenura-pileata/5.jpg
+  page: https://www.inaturalist.org/photos/316879556
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316879556/original.jpeg
 ---
 
 

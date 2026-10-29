@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/halcyon-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/606349005
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606349005/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/halcyon-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/606349005
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606349005/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-pileata/2.jpg
+  page: https://www.inaturalist.org/photos/610401576
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610401576/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-pileata/3.jpg
+  page: https://www.inaturalist.org/photos/614423107
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614423107/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-pileata/4.jpg
+  page: https://www.inaturalist.org/photos/616775947
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616775947/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-pileata/5.jpg
+  page: https://www.inaturalist.org/photos/619538937
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619538937/original.jpg
 ---
 
 

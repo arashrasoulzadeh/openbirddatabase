@@ -175,10 +175,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/columbiformes/columbidae/chalcophaps-indica/1.jpg
+  page: https://www.inaturalist.org/photos/610631582
+  author: Rosanna Dedecius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610631582/original.jpg
+images:
+- file: images/columbiformes/columbidae/chalcophaps-indica/1.jpg
+  page: https://www.inaturalist.org/photos/610631582
+  author: Rosanna Dedecius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610631582/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-indica/2.jpg
+  page: https://www.inaturalist.org/photos/608789108
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608789108/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-indica/3.jpg
+  page: https://www.inaturalist.org/photos/611662824
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611662824/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-indica/4.jpg
+  page: https://www.inaturalist.org/photos/714275746
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714275746/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-indica/5.jpg
+  page: https://www.inaturalist.org/photos/616271717
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616271717/original.jpg
 ---
 
 

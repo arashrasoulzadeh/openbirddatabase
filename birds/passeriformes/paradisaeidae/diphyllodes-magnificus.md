@@ -127,12 +127,51 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 reproduction:
   clutch_size_mean: 2.0
   incubation_days: 19
   fledging_days: 17
+image:
+  file: images/passeriformes/paradisaeidae/diphyllodes-magnificus/1.jpg
+  page: https://www.inaturalist.org/photos/614713561
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614713561/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/diphyllodes-magnificus/1.jpg
+  page: https://www.inaturalist.org/photos/614713561
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614713561/original.jpg
+- file: images/passeriformes/paradisaeidae/diphyllodes-magnificus/2.jpg
+  page: https://www.inaturalist.org/photos/555563282
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555563282/original.jpg
+- file: images/passeriformes/paradisaeidae/diphyllodes-magnificus/3.jpg
+  page: https://www.inaturalist.org/photos/583254795
+  author: Shawn O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583254795/original.jpg
+- file: images/passeriformes/paradisaeidae/diphyllodes-magnificus/4.jpg
+  page: https://www.inaturalist.org/photos/625526367
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625526367/original.jpg
+- file: images/passeriformes/paradisaeidae/diphyllodes-magnificus/5.jpg
+  page: https://www.inaturalist.org/photos/458035976
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458035976/original.jpg
 ---
 
 

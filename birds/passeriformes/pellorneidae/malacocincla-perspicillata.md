@@ -123,8 +123,35 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/malacocincla-perspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/179807549
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179807549/original.jpeg
+images:
+- file: images/passeriformes/pellorneidae/malacocincla-perspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/179807549
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179807549/original.jpeg
+- file: images/passeriformes/pellorneidae/malacocincla-perspicillata/2.jpg
+  page: https://www.inaturalist.org/photos/179807540
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179807540/original.jpeg
+- file: images/passeriformes/pellorneidae/malacocincla-perspicillata/3.jpg
+  page: https://www.inaturalist.org/photos/179807523
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179807523/original.jpeg
 ---
 
 

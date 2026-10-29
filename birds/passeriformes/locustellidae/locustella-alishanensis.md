@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/locustella-alishanensis/1.jpg
+  page: https://www.inaturalist.org/photos/696220755
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696220755/original.jpg
+images:
+- file: images/passeriformes/locustellidae/locustella-alishanensis/1.jpg
+  page: https://www.inaturalist.org/photos/696220755
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696220755/original.jpg
+- file: images/passeriformes/locustellidae/locustella-alishanensis/2.jpg
+  page: https://www.inaturalist.org/photos/387280195
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387280195/original.png
+- file: images/passeriformes/locustellidae/locustella-alishanensis/3.jpg
+  page: https://www.inaturalist.org/photos/22119541
+  author: Cheng-Te Hsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/22119541/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-alishanensis/4.jpg
+  page: https://www.inaturalist.org/photos/101855527
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/101855527/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-alishanensis/5.jpg
+  page: https://www.inaturalist.org/photos/387280388
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387280388/original.png
 ---
 
 

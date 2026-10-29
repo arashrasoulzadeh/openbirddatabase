@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/tanysiptera-danae/1.jpg
+  page: https://www.inaturalist.org/photos/575613406
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613406/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/tanysiptera-danae/1.jpg
+  page: https://www.inaturalist.org/photos/575613406
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613406/original.jpg
+- file: images/coraciiformes/alcedinidae/tanysiptera-danae/2.jpg
+  page: https://www.inaturalist.org/photos/577444776
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577444776/original.jpg
+- file: images/coraciiformes/alcedinidae/tanysiptera-danae/3.jpg
+  page: https://www.inaturalist.org/photos/611955006
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611955006/original.jpg
+- file: images/coraciiformes/alcedinidae/tanysiptera-danae/4.jpg
+  page: https://www.inaturalist.org/photos/224692530
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224692530/original.jpg
+- file: images/coraciiformes/alcedinidae/tanysiptera-danae/5.jpg
+  page: https://www.inaturalist.org/photos/335090708
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335090708/original.jpg
 ---
 
 

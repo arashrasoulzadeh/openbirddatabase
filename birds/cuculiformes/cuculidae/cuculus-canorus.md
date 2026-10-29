@@ -193,10 +193,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/cuculiformes/cuculidae/cuculus-canorus/1.jpg
+  page: https://www.inaturalist.org/photos/610332875
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610332875/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-canorus/1.jpg
+  page: https://www.inaturalist.org/photos/610332875
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610332875/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-canorus/2.jpg
+  page: https://www.inaturalist.org/photos/619601730
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619601730/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-canorus/3.jpg
+  page: https://www.inaturalist.org/photos/726369559
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726369559/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-canorus/4.jpg
+  page: https://www.inaturalist.org/photos/634253306
+  author: euqirneto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634253306/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-canorus/5.jpg
+  page: https://www.inaturalist.org/photos/635606271
+  author: S. Menéndez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635606271/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/onychognathus-nabouroup/1.jpg
+  page: https://www.inaturalist.org/photos/618715266
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618715266/original.jpg
+images:
+- file: images/passeriformes/sturnidae/onychognathus-nabouroup/1.jpg
+  page: https://www.inaturalist.org/photos/618715266
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618715266/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-nabouroup/2.jpg
+  page: https://www.inaturalist.org/photos/621788796
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621788796/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-nabouroup/3.jpg
+  page: https://www.inaturalist.org/photos/671741627
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671741627/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-nabouroup/4.jpg
+  page: https://www.inaturalist.org/photos/660331620
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660331620/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-nabouroup/5.jpg
+  page: https://www.inaturalist.org/photos/662742464
+  author: Tamir Gershberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662742464/original.jpg
 ---
 
 

@@ -136,7 +136,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 19.8
@@ -146,6 +147,44 @@ morphology:
   body_mass_g: 51.2
 reproduction:
   clutch_size_mean: 4.4
+image:
+  file: images/gruiformes/rallidae/aenigmatolimnas-marginalis/1.jpg
+  page: https://www.inaturalist.org/photos/470209405
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470209405/original.jpg
+images:
+- file: images/gruiformes/rallidae/aenigmatolimnas-marginalis/1.jpg
+  page: https://www.inaturalist.org/photos/470209405
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470209405/original.jpg
+- file: images/gruiformes/rallidae/aenigmatolimnas-marginalis/2.jpg
+  page: https://www.inaturalist.org/photos/398728691
+  author: Nick Schaller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398728691/original.jpeg
+- file: images/gruiformes/rallidae/aenigmatolimnas-marginalis/3.jpg
+  page: https://www.inaturalist.org/photos/461406900
+  author: Stefan Wolmarans
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461406900/original.jpeg
+- file: images/gruiformes/rallidae/aenigmatolimnas-marginalis/4.jpg
+  page: https://www.inaturalist.org/photos/398728748
+  author: Nick Schaller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398728748/original.jpeg
+- file: images/gruiformes/rallidae/aenigmatolimnas-marginalis/5.jpg
+  page: https://www.inaturalist.org/photos/398728792
+  author: Nick Schaller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398728792/original.jpeg
 ---
 
 

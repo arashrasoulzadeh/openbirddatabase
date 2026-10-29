@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/coryphaspiza-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/578169011
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578169011/original.jpg
+images:
+- file: images/passeriformes/thraupidae/coryphaspiza-melanotis/1.jpg
+  page: https://www.inaturalist.org/photos/578169011
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578169011/original.jpg
+- file: images/passeriformes/thraupidae/coryphaspiza-melanotis/2.jpg
+  page: https://www.inaturalist.org/photos/591898286
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591898286/original.jpg
+- file: images/passeriformes/thraupidae/coryphaspiza-melanotis/3.jpg
+  page: https://www.inaturalist.org/photos/603455088
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603455088/original.jpg
+- file: images/passeriformes/thraupidae/coryphaspiza-melanotis/4.jpg
+  page: https://www.inaturalist.org/photos/438703389
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438703389/original.jpeg
+- file: images/passeriformes/thraupidae/coryphaspiza-melanotis/5.jpg
+  page: https://www.inaturalist.org/photos/233661887
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233661887/original.jpeg
 ---
 
 

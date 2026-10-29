@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/cyanicterus-cyanicterus/1.jpg
+  page: https://www.inaturalist.org/photos/468159496
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468159496/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cyanicterus-cyanicterus/1.jpg
+  page: https://www.inaturalist.org/photos/468159496
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468159496/original.jpg
+- file: images/passeriformes/thraupidae/cyanicterus-cyanicterus/2.jpg
+  page: https://www.inaturalist.org/photos/468159502
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468159502/original.jpg
+- file: images/passeriformes/thraupidae/cyanicterus-cyanicterus/3.jpg
+  page: https://www.inaturalist.org/photos/468159489
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468159489/original.jpg
+- file: images/passeriformes/thraupidae/cyanicterus-cyanicterus/4.jpg
+  page: https://www.inaturalist.org/photos/468159490
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468159490/original.jpg
+- file: images/passeriformes/thraupidae/cyanicterus-cyanicterus/5.jpg
+  page: https://www.inaturalist.org/photos/469998522
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469998522/original.jpg
 ---
 
 

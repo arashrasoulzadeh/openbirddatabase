@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/calidris-subminuta/1.jpg
+  page: https://www.inaturalist.org/photos/608903820
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608903820/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-subminuta/1.jpg
+  page: https://www.inaturalist.org/photos/608903820
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608903820/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-subminuta/2.jpg
+  page: https://www.inaturalist.org/photos/616761737
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761737/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-subminuta/3.jpg
+  page: https://www.inaturalist.org/photos/620817125
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620817125/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-subminuta/4.jpg
+  page: https://www.inaturalist.org/photos/617675972
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617675972/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-subminuta/5.jpg
+  page: https://www.inaturalist.org/photos/635037541
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635037541/original.jpg
 ---
 
 

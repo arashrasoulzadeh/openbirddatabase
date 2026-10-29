@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/passerellidae/spizella-wortheni/1.jpg
+  page: https://www.inaturalist.org/photos/341409246
+  author: Pedro Guevara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341409246/original.jpeg
+images:
+- file: images/passeriformes/passerellidae/spizella-wortheni/1.jpg
+  page: https://www.inaturalist.org/photos/341409246
+  author: Pedro Guevara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341409246/original.jpeg
+- file: images/passeriformes/passerellidae/spizella-wortheni/2.jpg
+  page: https://www.inaturalist.org/photos/175071268
+  author: Rocio Reybal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175071268/original.jpeg
+- file: images/passeriformes/passerellidae/spizella-wortheni/3.jpg
+  page: https://www.inaturalist.org/photos/448212975
+  author: Ricardo Jaimes-López
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448212975/original.jpeg
+- file: images/passeriformes/passerellidae/spizella-wortheni/4.jpg
+  page: https://www.inaturalist.org/photos/45825657
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/45825657/original.jpeg
+- file: images/passeriformes/passerellidae/spizella-wortheni/5.jpg
+  page: https://www.inaturalist.org/photos/448212998
+  author: Ricardo Jaimes-López
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448212998/original.jpeg
 ---
 
 

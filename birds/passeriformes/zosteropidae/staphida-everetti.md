@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/staphida-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/621690399
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621690399/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/staphida-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/621690399
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621690399/original.jpg
+- file: images/passeriformes/zosteropidae/staphida-everetti/2.jpg
+  page: https://www.inaturalist.org/photos/679112064
+  author: Óscar Sampedro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679112064/original.jpg
+- file: images/passeriformes/zosteropidae/staphida-everetti/3.jpg
+  page: https://www.inaturalist.org/photos/686446182
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686446182/original.jpg
+- file: images/passeriformes/zosteropidae/staphida-everetti/4.jpg
+  page: https://www.inaturalist.org/photos/717692368
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717692368/original.jpg
+- file: images/passeriformes/zosteropidae/staphida-everetti/5.jpg
+  page: https://www.inaturalist.org/photos/474678480
+  author: Mok Zhuang Yu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474678480/original.jpeg
 ---
 
 

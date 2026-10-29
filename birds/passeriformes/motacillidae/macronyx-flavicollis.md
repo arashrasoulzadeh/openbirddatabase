@@ -139,7 +139,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 17.0
@@ -147,6 +148,44 @@ morphology:
   wing_length_mm: 87.8
   tail_length_mm: 59.6
   body_mass_g: 45.1
+image:
+  file: images/passeriformes/motacillidae/macronyx-flavicollis/1.jpg
+  page: https://www.inaturalist.org/photos/610095384
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610095384/original.jpg
+images:
+- file: images/passeriformes/motacillidae/macronyx-flavicollis/1.jpg
+  page: https://www.inaturalist.org/photos/610095384
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610095384/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-flavicollis/2.jpg
+  page: https://www.inaturalist.org/photos/206771827
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/206771827/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-flavicollis/3.jpg
+  page: https://www.inaturalist.org/photos/609629335
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609629335/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-flavicollis/4.jpg
+  page: https://www.inaturalist.org/photos/609629336
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609629336/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-flavicollis/5.jpg
+  page: https://www.inaturalist.org/photos/609629326
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609629326/original.jpg
 ---
 
 

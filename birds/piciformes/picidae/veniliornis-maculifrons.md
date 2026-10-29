@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-maculifrons/1.jpg
+  page: https://www.inaturalist.org/photos/618059265
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059265/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-maculifrons/1.jpg
+  page: https://www.inaturalist.org/photos/618059265
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059265/original.jpg
+- file: images/piciformes/picidae/veniliornis-maculifrons/2.jpg
+  page: https://www.inaturalist.org/photos/641064307
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641064307/original.jpg
+- file: images/piciformes/picidae/veniliornis-maculifrons/3.jpg
+  page: https://www.inaturalist.org/photos/681730976
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681730976/original.jpg
+- file: images/piciformes/picidae/veniliornis-maculifrons/4.jpg
+  page: https://www.inaturalist.org/photos/498030148
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498030148/original.jpg
+- file: images/piciformes/picidae/veniliornis-maculifrons/5.jpg
+  page: https://www.inaturalist.org/photos/548087888
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548087888/original.jpg
 ---
 
 

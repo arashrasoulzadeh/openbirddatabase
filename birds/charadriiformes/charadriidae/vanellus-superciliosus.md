@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/550403633
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550403633/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/550403633
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550403633/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-superciliosus/2.jpg
+  page: https://www.inaturalist.org/photos/602637487
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602637487/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-superciliosus/3.jpg
+  page: https://www.inaturalist.org/photos/63246734
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63246734/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-superciliosus/4.jpg
+  page: https://www.inaturalist.org/photos/602637491
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602637491/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-superciliosus/5.jpg
+  page: https://www.inaturalist.org/photos/63246738
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63246738/original.jpg
 ---
 
 

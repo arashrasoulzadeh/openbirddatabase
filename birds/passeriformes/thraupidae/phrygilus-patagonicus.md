@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/phrygilus-patagonicus/1.jpg
+  page: https://www.inaturalist.org/photos/607803324
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607803324/original.jpg
+images:
+- file: images/passeriformes/thraupidae/phrygilus-patagonicus/1.jpg
+  page: https://www.inaturalist.org/photos/607803324
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607803324/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-patagonicus/2.jpg
+  page: https://www.inaturalist.org/photos/608169604
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608169604/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-patagonicus/3.jpg
+  page: https://www.inaturalist.org/photos/612810077
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612810077/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-patagonicus/4.jpg
+  page: https://www.inaturalist.org/photos/612424532
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612424532/original.jpg
+- file: images/passeriformes/thraupidae/phrygilus-patagonicus/5.jpg
+  page: https://www.inaturalist.org/photos/608909776
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608909776/original.jpg
 ---
 
 

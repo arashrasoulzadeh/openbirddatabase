@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/bradornis-mariquensis/1.jpg
+  page: https://www.inaturalist.org/photos/617667403
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617667403/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/bradornis-mariquensis/1.jpg
+  page: https://www.inaturalist.org/photos/617667403
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617667403/original.jpg
+- file: images/passeriformes/muscicapidae/bradornis-mariquensis/2.jpg
+  page: https://www.inaturalist.org/photos/622566249
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622566249/original.jpg
+- file: images/passeriformes/muscicapidae/bradornis-mariquensis/3.jpg
+  page: https://www.inaturalist.org/photos/730291853
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730291853/original.jpg
+- file: images/passeriformes/muscicapidae/bradornis-mariquensis/4.jpg
+  page: https://www.inaturalist.org/photos/617147369
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147369/original.jpg
+- file: images/passeriformes/muscicapidae/bradornis-mariquensis/5.jpg
+  page: https://www.inaturalist.org/photos/617147399
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147399/original.jpg
 ---
 
 

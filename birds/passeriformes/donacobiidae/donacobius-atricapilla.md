@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/donacobiidae/donacobius-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/605729723
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729723/original.jpg
+images:
+- file: images/passeriformes/donacobiidae/donacobius-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/605729723
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729723/original.jpg
+- file: images/passeriformes/donacobiidae/donacobius-atricapilla/2.jpg
+  page: https://www.inaturalist.org/photos/609322527
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609322527/original.jpg
+- file: images/passeriformes/donacobiidae/donacobius-atricapilla/3.jpg
+  page: https://www.inaturalist.org/photos/607843503
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607843503/original.jpg
+- file: images/passeriformes/donacobiidae/donacobius-atricapilla/4.jpg
+  page: https://www.inaturalist.org/photos/606026660
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606026660/original.jpg
+- file: images/passeriformes/donacobiidae/donacobius-atricapilla/5.jpg
+  page: https://www.inaturalist.org/photos/612557942
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612557942/original.jpg
 ---
 
 

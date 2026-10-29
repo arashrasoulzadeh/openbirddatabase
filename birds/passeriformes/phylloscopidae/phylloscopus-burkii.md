@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-burkii/1.jpg
+  page: https://www.inaturalist.org/photos/537453238
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537453238/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-burkii/1.jpg
+  page: https://www.inaturalist.org/photos/537453238
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537453238/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-burkii/2.jpg
+  page: https://www.inaturalist.org/photos/195918772
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195918772/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-burkii/3.jpg
+  page: https://www.inaturalist.org/photos/537453258
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537453258/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-burkii/4.jpg
+  page: https://www.inaturalist.org/photos/537453230
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537453230/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-burkii/5.jpg
+  page: https://www.inaturalist.org/photos/537453383
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537453383/original.jpg
 ---
 
 

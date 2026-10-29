@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sterna-vittata/1.jpg
+  page: https://www.inaturalist.org/photos/607902229
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607902229/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-vittata/1.jpg
+  page: https://www.inaturalist.org/photos/607902229
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607902229/original.jpg
+- file: images/charadriiformes/laridae/sterna-vittata/2.jpg
+  page: https://www.inaturalist.org/photos/621961260
+  author: bungelina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621961260/original.jpg
+- file: images/charadriiformes/laridae/sterna-vittata/3.jpg
+  page: https://www.inaturalist.org/photos/607902391
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607902391/original.jpg
+- file: images/charadriiformes/laridae/sterna-vittata/4.jpg
+  page: https://www.inaturalist.org/photos/607212658
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607212658/original.jpg
+- file: images/charadriiformes/laridae/sterna-vittata/5.jpg
+  page: https://www.inaturalist.org/photos/609986211
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609986211/original.jpg
 ---
 
 

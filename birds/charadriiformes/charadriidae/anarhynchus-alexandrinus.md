@@ -167,8 +167,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/charadriiformes/charadriidae/anarhynchus-alexandrinus/1.jpg
+  page: https://www.inaturalist.org/photos/605309191
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605309191/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/anarhynchus-alexandrinus/1.jpg
+  page: https://www.inaturalist.org/photos/605309191
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605309191/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-alexandrinus/2.jpg
+  page: https://www.inaturalist.org/photos/609935889
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609935889/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-alexandrinus/3.jpg
+  page: https://www.inaturalist.org/photos/608173805
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608173805/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-alexandrinus/4.jpg
+  page: https://www.inaturalist.org/photos/606207700
+  author: Andrew Gibson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606207700/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-alexandrinus/5.jpg
+  page: https://www.inaturalist.org/photos/606819786
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606819786/original.jpg
 ---
 
 

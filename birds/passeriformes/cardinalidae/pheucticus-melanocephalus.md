@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/passeriformes/cardinalidae/pheucticus-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/604816143
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604816143/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/pheucticus-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/604816143
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604816143/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-melanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/608726381
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608726381/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-melanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/616463424
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616463424/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-melanocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/616190253
+  author: Alberto Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616190253/original.jpg
+- file: images/passeriformes/cardinalidae/pheucticus-melanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/617982162
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617982162/original.jpg
 ---
 
 

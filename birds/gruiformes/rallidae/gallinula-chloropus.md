@@ -200,10 +200,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/gruiformes/rallidae/gallinula-chloropus/1.jpg
+  page: https://www.inaturalist.org/photos/605080306
+  author: Sheila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605080306/original.jpg
+images:
+- file: images/gruiformes/rallidae/gallinula-chloropus/1.jpg
+  page: https://www.inaturalist.org/photos/605080306
+  author: Sheila
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605080306/original.jpg
+- file: images/gruiformes/rallidae/gallinula-chloropus/2.jpg
+  page: https://www.inaturalist.org/photos/604942888
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604942888/original.jpg
+- file: images/gruiformes/rallidae/gallinula-chloropus/3.jpg
+  page: https://www.inaturalist.org/photos/604901803
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604901803/original.jpg
+- file: images/gruiformes/rallidae/gallinula-chloropus/4.jpg
+  page: https://www.inaturalist.org/photos/604645716
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604645716/original.jpg
+- file: images/gruiformes/rallidae/gallinula-chloropus/5.jpg
+  page: https://www.inaturalist.org/photos/604794839
+  author: Emil Jantke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604794839/original.jpg
 ---
 
 

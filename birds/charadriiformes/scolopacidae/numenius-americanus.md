@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/charadriiformes/scolopacidae/numenius-americanus/1.jpg
+  page: https://www.inaturalist.org/photos/605197801
+  author: graham_coop
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605197801/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/numenius-americanus/1.jpg
+  page: https://www.inaturalist.org/photos/605197801
+  author: graham_coop
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605197801/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-americanus/2.jpg
+  page: https://www.inaturalist.org/photos/605287608
+  author: peter-f
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605287608/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-americanus/3.jpg
+  page: https://www.inaturalist.org/photos/604998474
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604998474/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-americanus/4.jpg
+  page: https://www.inaturalist.org/photos/604886971
+  author: smokeybear33
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604886971/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-americanus/5.jpg
+  page: https://www.inaturalist.org/photos/607753539
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607753539/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/pteruthius-intermedius/1.jpg
+  page: https://www.inaturalist.org/photos/467573779
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467573779/original.jpeg
+images:
+- file: images/passeriformes/vireonidae/pteruthius-intermedius/1.jpg
+  page: https://www.inaturalist.org/photos/467573779
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467573779/original.jpeg
+- file: images/passeriformes/vireonidae/pteruthius-intermedius/2.jpg
+  page: https://www.inaturalist.org/photos/389829801
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/389829801/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-intermedius/3.jpg
+  page: https://www.inaturalist.org/photos/385765887
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385765887/original.jpeg
+- file: images/passeriformes/vireonidae/pteruthius-intermedius/4.jpg
+  page: https://www.inaturalist.org/photos/454891414
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454891414/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-intermedius/5.jpg
+  page: https://www.inaturalist.org/photos/641200344
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641200344/original.jpg
 ---
 
 

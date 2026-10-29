@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/platyrinchus-flavigularis/1.jpg
+  page: https://www.inaturalist.org/photos/166549811
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166549811/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/platyrinchus-flavigularis/1.jpg
+  page: https://www.inaturalist.org/photos/166549811
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166549811/original.jpeg
+- file: images/passeriformes/tyrannidae/platyrinchus-flavigularis/2.jpg
+  page: https://www.inaturalist.org/photos/166549860
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166549860/original.jpeg
+- file: images/passeriformes/tyrannidae/platyrinchus-flavigularis/3.jpg
+  page: https://www.inaturalist.org/photos/166550113
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166550113/original.jpeg
+- file: images/passeriformes/tyrannidae/platyrinchus-flavigularis/4.jpg
+  page: https://www.inaturalist.org/photos/166550280
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166550280/original.jpeg
+- file: images/passeriformes/tyrannidae/platyrinchus-flavigularis/5.jpg
+  page: https://www.inaturalist.org/photos/166550353
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166550353/original.jpeg
 ---
 
 

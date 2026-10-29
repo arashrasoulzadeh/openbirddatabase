@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/aviceda-jerdoni/1.jpg
+  page: https://www.inaturalist.org/photos/718360350
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718360350/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aviceda-jerdoni/1.jpg
+  page: https://www.inaturalist.org/photos/718360350
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718360350/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-jerdoni/2.jpg
+  page: https://www.inaturalist.org/photos/629063524
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629063524/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-jerdoni/3.jpg
+  page: https://www.inaturalist.org/photos/713161051
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713161051/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-jerdoni/4.jpg
+  page: https://www.inaturalist.org/photos/718360363
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718360363/original.jpg
+- file: images/accipitriformes/accipitridae/aviceda-jerdoni/5.jpg
+  page: https://www.inaturalist.org/photos/718360364
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718360364/original.jpg
 ---
 
 

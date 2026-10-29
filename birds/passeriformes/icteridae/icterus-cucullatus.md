@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/icteridae/icterus-cucullatus/1.jpg
+  page: https://www.inaturalist.org/photos/605685306
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605685306/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-cucullatus/1.jpg
+  page: https://www.inaturalist.org/photos/605685306
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605685306/original.jpg
+- file: images/passeriformes/icteridae/icterus-cucullatus/2.jpg
+  page: https://www.inaturalist.org/photos/608397483
+  author: Luc Wyn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608397483/original.jpg
+- file: images/passeriformes/icteridae/icterus-cucullatus/3.jpg
+  page: https://www.inaturalist.org/photos/607197445
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607197445/original.jpg
+- file: images/passeriformes/icteridae/icterus-cucullatus/4.jpg
+  page: https://www.inaturalist.org/photos/612302495
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612302495/original.jpg
+- file: images/passeriformes/icteridae/icterus-cucullatus/5.jpg
+  page: https://www.inaturalist.org/photos/608397490
+  author: Luc Wyn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608397490/original.jpg
 ---
 
 

@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/accipitriformes/accipitridae/buteo-lineatus/1.jpg
+  page: https://www.inaturalist.org/photos/604643467
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604643467/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-lineatus/1.jpg
+  page: https://www.inaturalist.org/photos/604643467
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604643467/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-lineatus/2.jpg
+  page: https://www.inaturalist.org/photos/605712939
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605712939/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-lineatus/3.jpg
+  page: https://www.inaturalist.org/photos/604772169
+  author: Nizar Jibrin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604772169/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-lineatus/4.jpg
+  page: https://www.inaturalist.org/photos/605731326
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605731326/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-lineatus/5.jpg
+  page: https://www.inaturalist.org/photos/605513565
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605513565/original.jpg
 ---
 
 

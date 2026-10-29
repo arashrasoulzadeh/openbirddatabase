@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/pholia-sharpii/1.jpg
+  page: https://www.inaturalist.org/photos/660330767
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660330767/original.jpg
+images:
+- file: images/passeriformes/sturnidae/pholia-sharpii/1.jpg
+  page: https://www.inaturalist.org/photos/660330767
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660330767/original.jpg
+- file: images/passeriformes/sturnidae/pholia-sharpii/2.jpg
+  page: https://www.inaturalist.org/photos/608848437
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608848437/original.jpg
+- file: images/passeriformes/sturnidae/pholia-sharpii/3.jpg
+  page: https://www.inaturalist.org/photos/297647502
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/297647502/original.jpeg
+- file: images/passeriformes/sturnidae/pholia-sharpii/4.jpg
+  page: https://www.inaturalist.org/photos/477672603
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477672603/original.jpg
+- file: images/passeriformes/sturnidae/pholia-sharpii/5.jpg
+  page: https://www.inaturalist.org/photos/215533864
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/215533864/original.jpg
 ---
 
 

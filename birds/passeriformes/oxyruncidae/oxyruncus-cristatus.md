@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oxyruncidae/oxyruncus-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/612477200
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477200/original.jpg
+images:
+- file: images/passeriformes/oxyruncidae/oxyruncus-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/612477200
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477200/original.jpg
+- file: images/passeriformes/oxyruncidae/oxyruncus-cristatus/2.jpg
+  page: https://www.inaturalist.org/photos/728737182
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728737182/original.jpg
+- file: images/passeriformes/oxyruncidae/oxyruncus-cristatus/3.jpg
+  page: https://www.inaturalist.org/photos/622507223
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622507223/original.jpg
+- file: images/passeriformes/oxyruncidae/oxyruncus-cristatus/4.jpg
+  page: https://www.inaturalist.org/photos/641661458
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641661458/original.jpg
+- file: images/passeriformes/oxyruncidae/oxyruncus-cristatus/5.jpg
+  page: https://www.inaturalist.org/photos/641150308
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150308/original.jpg
 ---
 
 

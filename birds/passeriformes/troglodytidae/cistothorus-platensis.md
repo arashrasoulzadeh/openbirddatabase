@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/cistothorus-platensis/1.jpg
+  page: https://www.inaturalist.org/photos/610682002
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610682002/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cistothorus-platensis/1.jpg
+  page: https://www.inaturalist.org/photos/610682002
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610682002/original.jpg
+- file: images/passeriformes/troglodytidae/cistothorus-platensis/2.jpg
+  page: https://www.inaturalist.org/photos/605791341
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605791341/original.jpg
+- file: images/passeriformes/troglodytidae/cistothorus-platensis/3.jpg
+  page: https://www.inaturalist.org/photos/608494518
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608494518/original.jpg
+- file: images/passeriformes/troglodytidae/cistothorus-platensis/4.jpg
+  page: https://www.inaturalist.org/photos/610227298
+  author: ncb1221
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610227298/original.jpg
+- file: images/passeriformes/troglodytidae/cistothorus-platensis/5.jpg
+  page: https://www.inaturalist.org/photos/612899320
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612899320/original.jpg
 ---
 
 

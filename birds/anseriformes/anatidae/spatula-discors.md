@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/spatula-discors/1.jpg
+  page: https://www.inaturalist.org/photos/604702274
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702274/original.jpg
+images:
+- file: images/anseriformes/anatidae/spatula-discors/1.jpg
+  page: https://www.inaturalist.org/photos/604702274
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702274/original.jpg
+- file: images/anseriformes/anatidae/spatula-discors/2.jpg
+  page: https://www.inaturalist.org/photos/604902632
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604902632/original.jpg
+- file: images/anseriformes/anatidae/spatula-discors/3.jpg
+  page: https://www.inaturalist.org/photos/604923936
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604923936/original.jpg
+- file: images/anseriformes/anatidae/spatula-discors/4.jpg
+  page: https://www.inaturalist.org/photos/605096411
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605096411/original.jpg
+- file: images/anseriformes/anatidae/spatula-discors/5.jpg
+  page: https://www.inaturalist.org/photos/604965421
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604965421/original.jpg
 ---
 
 

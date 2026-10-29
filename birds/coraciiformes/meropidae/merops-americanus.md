@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-americanus/1.jpg
+  page: https://www.inaturalist.org/photos/636868568
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636868568/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-americanus/1.jpg
+  page: https://www.inaturalist.org/photos/636868568
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636868568/original.jpg
+- file: images/coraciiformes/meropidae/merops-americanus/2.jpg
+  page: https://www.inaturalist.org/photos/643279261
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643279261/original.jpg
+- file: images/coraciiformes/meropidae/merops-americanus/3.jpg
+  page: https://www.inaturalist.org/photos/636868627
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636868627/original.jpg
+- file: images/coraciiformes/meropidae/merops-americanus/4.jpg
+  page: https://www.inaturalist.org/photos/493753495
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493753495/original.jpeg
+- file: images/coraciiformes/meropidae/merops-americanus/5.jpg
+  page: https://www.inaturalist.org/photos/493753139
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/493753139/original.jpeg
 ---
 
 

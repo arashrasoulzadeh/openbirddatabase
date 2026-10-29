@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/myzomela-nigriventris/1.jpg
+  page: https://www.inaturalist.org/photos/644142516
+  author: melianie_max_and_asker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644142516/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-nigriventris/1.jpg
+  page: https://www.inaturalist.org/photos/644142516
+  author: melianie_max_and_asker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644142516/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-nigriventris/2.jpg
+  page: https://www.inaturalist.org/photos/675071910
+  author: Neal Kelso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675071910/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-nigriventris/3.jpg
+  page: https://www.inaturalist.org/photos/694801218
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694801218/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-nigriventris/4.jpg
+  page: https://www.inaturalist.org/photos/700408694
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700408694/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-nigriventris/5.jpg
+  page: https://www.inaturalist.org/photos/728465499
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728465499/original.jpg
 ---
 
 

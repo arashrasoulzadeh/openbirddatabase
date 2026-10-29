@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-mystacea/1.jpg
+  page: https://www.inaturalist.org/photos/638270194
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638270194/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-mystacea/1.jpg
+  page: https://www.inaturalist.org/photos/638270194
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638270194/original.jpg
+- file: images/passeriformes/sylviidae/curruca-mystacea/2.jpg
+  page: https://www.inaturalist.org/photos/670820860
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670820860/original.jpg
+- file: images/passeriformes/sylviidae/curruca-mystacea/3.jpg
+  page: https://www.inaturalist.org/photos/692980812
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692980812/original.jpg
+- file: images/passeriformes/sylviidae/curruca-mystacea/4.jpg
+  page: https://www.inaturalist.org/photos/731522142
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731522142/original.jpg
+- file: images/passeriformes/sylviidae/curruca-mystacea/5.jpg
+  page: https://www.inaturalist.org/photos/501287803
+  author: Валерия Ковалева
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501287803/original.jpeg
 ---
 
 

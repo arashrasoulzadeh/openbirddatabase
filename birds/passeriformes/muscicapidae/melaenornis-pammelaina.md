@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/melaenornis-pammelaina/1.jpg
+  page: https://www.inaturalist.org/photos/626261359
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626261359/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/melaenornis-pammelaina/1.jpg
+  page: https://www.inaturalist.org/photos/626261359
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626261359/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-pammelaina/2.jpg
+  page: https://www.inaturalist.org/photos/642298293
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642298293/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-pammelaina/3.jpg
+  page: https://www.inaturalist.org/photos/615429943
+  author: Murray Yoko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615429943/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-pammelaina/4.jpg
+  page: https://www.inaturalist.org/photos/622900423
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622900423/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-pammelaina/5.jpg
+  page: https://www.inaturalist.org/photos/646755233
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646755233/original.jpg
 ---
 
 

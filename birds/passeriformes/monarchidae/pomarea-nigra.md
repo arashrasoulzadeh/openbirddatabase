@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/pomarea-nigra/1.jpg
+  page: https://www.inaturalist.org/photos/635804651
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635804651/original.jpg
+images:
+- file: images/passeriformes/monarchidae/pomarea-nigra/1.jpg
+  page: https://www.inaturalist.org/photos/635804651
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635804651/original.jpg
+- file: images/passeriformes/monarchidae/pomarea-nigra/2.jpg
+  page: https://www.inaturalist.org/photos/627377111
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627377111/original.jpg
+- file: images/passeriformes/monarchidae/pomarea-nigra/3.jpg
+  page: https://www.inaturalist.org/photos/635804580
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635804580/original.jpg
+- file: images/passeriformes/monarchidae/pomarea-nigra/4.jpg
+  page: https://www.inaturalist.org/photos/635804643
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635804643/original.jpg
+- file: images/passeriformes/monarchidae/pomarea-nigra/5.jpg
+  page: https://www.inaturalist.org/photos/635804607
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635804607/original.jpg
 ---
 
 

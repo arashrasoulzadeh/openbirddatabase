@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/malacopteron-cinereum/1.jpg
+  page: https://www.inaturalist.org/photos/692552413
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692552413/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/malacopteron-cinereum/1.jpg
+  page: https://www.inaturalist.org/photos/692552413
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692552413/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-cinereum/2.jpg
+  page: https://www.inaturalist.org/photos/396245313
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396245313/original.jpg
+- file: images/passeriformes/pellorneidae/malacopteron-cinereum/3.jpg
+  page: https://www.inaturalist.org/photos/390623036
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390623036/original.jpeg
+- file: images/passeriformes/pellorneidae/malacopteron-cinereum/4.jpg
+  page: https://www.inaturalist.org/photos/455184785
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455184785/original.jpeg
+- file: images/passeriformes/pellorneidae/malacopteron-cinereum/5.jpg
+  page: https://www.inaturalist.org/photos/184448174
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184448174/original.jpg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-westermanni/1.jpg
+  page: https://www.inaturalist.org/photos/608290895
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608290895/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-westermanni/1.jpg
+  page: https://www.inaturalist.org/photos/608290895
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608290895/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-westermanni/2.jpg
+  page: https://www.inaturalist.org/photos/605903703
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605903703/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-westermanni/3.jpg
+  page: https://www.inaturalist.org/photos/613435357
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435357/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-westermanni/4.jpg
+  page: https://www.inaturalist.org/photos/717080440
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717080440/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-westermanni/5.jpg
+  page: https://www.inaturalist.org/photos/623526335
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623526335/original.jpg
 ---
 
 

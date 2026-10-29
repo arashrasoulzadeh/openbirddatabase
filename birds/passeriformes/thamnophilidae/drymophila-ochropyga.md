@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/drymophila-ochropyga/1.jpg
+  page: https://www.inaturalist.org/photos/607273498
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273498/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/drymophila-ochropyga/1.jpg
+  page: https://www.inaturalist.org/photos/607273498
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273498/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-ochropyga/2.jpg
+  page: https://www.inaturalist.org/photos/637263289
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637263289/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-ochropyga/3.jpg
+  page: https://www.inaturalist.org/photos/641150471
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150471/original.jpg
+- file: images/passeriformes/thamnophilidae/drymophila-ochropyga/4.jpg
+  page: https://www.inaturalist.org/photos/465527714
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465527714/original.jpeg
+- file: images/passeriformes/thamnophilidae/drymophila-ochropyga/5.jpg
+  page: https://www.inaturalist.org/photos/478192113
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478192113/original.jpeg
 ---
 
 

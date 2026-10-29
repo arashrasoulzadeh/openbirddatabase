@@ -145,8 +145,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-albogriseus/1.jpg
+  page: https://www.inaturalist.org/photos/351112623
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351112623/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-albogriseus/1.jpg
+  page: https://www.inaturalist.org/photos/351112623
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351112623/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-albogriseus/2.jpg
+  page: https://www.inaturalist.org/photos/357513299
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357513299/original.jpg
 ---
 
 

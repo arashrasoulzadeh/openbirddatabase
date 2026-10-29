@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-malaris/1.jpg
+  page: https://www.inaturalist.org/photos/554935680
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554935680/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-malaris/1.jpg
+  page: https://www.inaturalist.org/photos/554935680
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554935680/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-malaris/2.jpg
+  page: https://www.inaturalist.org/photos/396981084
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396981084/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-malaris/3.jpg
+  page: https://www.inaturalist.org/photos/470554342
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470554342/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-malaris/4.jpg
+  page: https://www.inaturalist.org/photos/328985065
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328985065/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-malaris/5.jpg
+  page: https://www.inaturalist.org/photos/342481883
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342481883/original.jpeg
 ---
 
 

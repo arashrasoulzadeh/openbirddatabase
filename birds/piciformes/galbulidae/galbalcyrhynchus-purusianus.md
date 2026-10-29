@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/galbalcyrhynchus-purusianus/1.jpg
+  page: https://www.inaturalist.org/photos/520831700
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520831700/original.jpg
+images:
+- file: images/piciformes/galbulidae/galbalcyrhynchus-purusianus/1.jpg
+  page: https://www.inaturalist.org/photos/520831700
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520831700/original.jpg
+- file: images/piciformes/galbulidae/galbalcyrhynchus-purusianus/2.jpg
+  page: https://www.inaturalist.org/photos/591919207
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591919207/original.jpg
+- file: images/piciformes/galbulidae/galbalcyrhynchus-purusianus/3.jpg
+  page: https://www.inaturalist.org/photos/423508453
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423508453/original.jpeg
+- file: images/piciformes/galbulidae/galbalcyrhynchus-purusianus/4.jpg
+  page: https://www.inaturalist.org/photos/313842468
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313842468/original.jpg
+- file: images/piciformes/galbulidae/galbalcyrhynchus-purusianus/5.jpg
+  page: https://www.inaturalist.org/photos/177494500
+  author: Roger Rittmaster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177494500/original.jpeg
 ---
 
 

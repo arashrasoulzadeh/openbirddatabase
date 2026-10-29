@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-resplendens/1.jpg
+  page: https://www.inaturalist.org/photos/612916737
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612916737/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-resplendens/1.jpg
+  page: https://www.inaturalist.org/photos/612916737
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612916737/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-resplendens/2.jpg
+  page: https://www.inaturalist.org/photos/613757716
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613757716/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-resplendens/3.jpg
+  page: https://www.inaturalist.org/photos/647527754
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647527754/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-resplendens/4.jpg
+  page: https://www.inaturalist.org/photos/676390428
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676390428/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-resplendens/5.jpg
+  page: https://www.inaturalist.org/photos/712930605
+  author: Zinnia Xu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712930605/original.jpg
 ---
 
 

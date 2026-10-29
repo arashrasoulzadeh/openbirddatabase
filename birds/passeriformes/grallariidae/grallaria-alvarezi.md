@@ -127,8 +127,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-alvarezi/1.jpg
+  page: https://www.inaturalist.org/photos/623898000
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623898000/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-alvarezi/1.jpg
+  page: https://www.inaturalist.org/photos/623898000
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623898000/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-alvarezi/2.jpg
+  page: https://www.inaturalist.org/photos/489431746
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489431746/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-alvarezi/3.jpg
+  page: https://www.inaturalist.org/photos/530086439
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530086439/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-alvarezi/4.jpg
+  page: https://www.inaturalist.org/photos/345733090
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345733090/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-alvarezi/5.jpg
+  page: https://www.inaturalist.org/photos/257815491
+  author: Daniel Mesa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257815491/original.jpeg
 ---
 
 

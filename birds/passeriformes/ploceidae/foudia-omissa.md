@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/foudia-omissa/1.jpg
+  page: https://www.inaturalist.org/photos/691292135
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691292135/original.jpg
+images:
+- file: images/passeriformes/ploceidae/foudia-omissa/1.jpg
+  page: https://www.inaturalist.org/photos/691292135
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691292135/original.jpg
+- file: images/passeriformes/ploceidae/foudia-omissa/2.jpg
+  page: https://www.inaturalist.org/photos/455467933
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455467933/original.jpeg
+- file: images/passeriformes/ploceidae/foudia-omissa/3.jpg
+  page: https://www.inaturalist.org/photos/455064119
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455064119/original.jpg
+- file: images/passeriformes/ploceidae/foudia-omissa/4.jpg
+  page: https://www.inaturalist.org/photos/447609675
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447609675/original.jpeg
+- file: images/passeriformes/ploceidae/foudia-omissa/5.jpg
+  page: https://www.inaturalist.org/photos/691292121
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691292121/original.jpg
 ---
 
 

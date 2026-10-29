@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/hirundo-dimidiata/1.jpg
+  page: https://www.inaturalist.org/photos/608228503
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228503/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/hirundo-dimidiata/1.jpg
+  page: https://www.inaturalist.org/photos/608228503
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228503/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-dimidiata/2.jpg
+  page: https://www.inaturalist.org/photos/612437575
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612437575/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-dimidiata/3.jpg
+  page: https://www.inaturalist.org/photos/616337739
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616337739/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-dimidiata/4.jpg
+  page: https://www.inaturalist.org/photos/624567313
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624567313/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-dimidiata/5.jpg
+  page: https://www.inaturalist.org/photos/623981044
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623981044/original.jpg
 ---
 
 

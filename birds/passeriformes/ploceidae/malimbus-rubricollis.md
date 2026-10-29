@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/malimbus-rubricollis/1.jpg
+  page: https://www.inaturalist.org/photos/477846666
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477846666/original.jpg
+images:
+- file: images/passeriformes/ploceidae/malimbus-rubricollis/1.jpg
+  page: https://www.inaturalist.org/photos/477846666
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477846666/original.jpg
+- file: images/passeriformes/ploceidae/malimbus-rubricollis/2.jpg
+  page: https://www.inaturalist.org/photos/562134575
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562134575/original.jpg
+- file: images/passeriformes/ploceidae/malimbus-rubricollis/3.jpg
+  page: https://www.inaturalist.org/photos/393649202
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393649202/original.jpg
+- file: images/passeriformes/ploceidae/malimbus-rubricollis/4.jpg
+  page: https://www.inaturalist.org/photos/303856223
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303856223/original.jpeg
+- file: images/passeriformes/ploceidae/malimbus-rubricollis/5.jpg
+  page: https://www.inaturalist.org/photos/344850391
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344850391/original.jpeg
 ---
 
 

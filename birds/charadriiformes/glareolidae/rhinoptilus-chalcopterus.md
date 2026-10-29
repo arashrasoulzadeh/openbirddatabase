@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/rhinoptilus-chalcopterus/1.jpg
+  page: https://www.inaturalist.org/photos/730292151
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730292151/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/rhinoptilus-chalcopterus/1.jpg
+  page: https://www.inaturalist.org/photos/730292151
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730292151/original.jpg
+- file: images/charadriiformes/glareolidae/rhinoptilus-chalcopterus/2.jpg
+  page: https://www.inaturalist.org/photos/657283460
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657283460/original.jpg
+- file: images/charadriiformes/glareolidae/rhinoptilus-chalcopterus/3.jpg
+  page: https://www.inaturalist.org/photos/665842668
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665842668/original.jpg
+- file: images/charadriiformes/glareolidae/rhinoptilus-chalcopterus/4.jpg
+  page: https://www.inaturalist.org/photos/504758334
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504758334/original.jpg
+- file: images/charadriiformes/glareolidae/rhinoptilus-chalcopterus/5.jpg
+  page: https://www.inaturalist.org/photos/730292145
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730292145/original.jpg
 ---
 
 

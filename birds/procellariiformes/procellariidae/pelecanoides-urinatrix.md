@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/procellariiformes/procellariidae/pelecanoides-urinatrix/1.jpg
+  page: https://www.inaturalist.org/photos/683084793
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683084793/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pelecanoides-urinatrix/1.jpg
+  page: https://www.inaturalist.org/photos/683084793
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683084793/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-urinatrix/2.jpg
+  page: https://www.inaturalist.org/photos/701354429
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701354429/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-urinatrix/3.jpg
+  page: https://www.inaturalist.org/photos/720020943
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720020943/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-urinatrix/4.jpg
+  page: https://www.inaturalist.org/photos/471351165
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351165/original.jpeg
+- file: images/procellariiformes/procellariidae/pelecanoides-urinatrix/5.jpg
+  page: https://www.inaturalist.org/photos/508862491
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508862491/original.jpg
 ---
 
 

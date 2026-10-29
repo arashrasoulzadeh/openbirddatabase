@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-clathratus/1.jpg
+  page: https://www.inaturalist.org/photos/658052646
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658052646/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-clathratus/1.jpg
+  page: https://www.inaturalist.org/photos/658052646
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658052646/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-clathratus/2.jpg
+  page: https://www.inaturalist.org/photos/439628019
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439628019/original.jpeg
+- file: images/trogoniformes/trogonidae/trogon-clathratus/3.jpg
+  page: https://www.inaturalist.org/photos/209125003
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/209125003/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-clathratus/4.jpg
+  page: https://www.inaturalist.org/photos/30226687
+  author: J Straka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/30226687/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-clathratus/5.jpg
+  page: https://www.inaturalist.org/photos/719214718
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719214718/original.jpg
 ---
 
 

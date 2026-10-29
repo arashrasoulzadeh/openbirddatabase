@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-sonnerati/1.jpg
+  page: https://www.inaturalist.org/photos/619473706
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619473706/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-sonnerati/1.jpg
+  page: https://www.inaturalist.org/photos/619473706
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619473706/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-sonnerati/2.jpg
+  page: https://www.inaturalist.org/photos/638386528
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638386528/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-sonnerati/3.jpg
+  page: https://www.inaturalist.org/photos/650556541
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650556541/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-sonnerati/4.jpg
+  page: https://www.inaturalist.org/photos/660054246
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660054246/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-sonnerati/5.jpg
+  page: https://www.inaturalist.org/photos/686247099
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686247099/original.jpg
 ---
 
 

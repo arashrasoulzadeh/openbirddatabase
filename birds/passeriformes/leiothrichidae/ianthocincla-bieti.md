@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 27.2
@@ -137,6 +138,26 @@ morphology:
   wing_length_mm: 105.5
   tail_length_mm: 127.0
   body_mass_g: 78.6
+image:
+  file: images/passeriformes/leiothrichidae/ianthocincla-bieti/1.jpg
+  page: https://www.inaturalist.org/photos/627320921
+  author: byronswift
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627320921/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/ianthocincla-bieti/1.jpg
+  page: https://www.inaturalist.org/photos/627320921
+  author: byronswift
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627320921/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-bieti/2.jpg
+  page: https://www.inaturalist.org/photos/499781333
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499781333/original.jpeg
 ---
 
 

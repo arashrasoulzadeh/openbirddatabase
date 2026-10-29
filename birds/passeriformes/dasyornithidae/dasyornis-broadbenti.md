@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dasyornithidae/dasyornis-broadbenti/1.jpg
+  page: https://www.inaturalist.org/photos/605368523
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605368523/original.jpg
+images:
+- file: images/passeriformes/dasyornithidae/dasyornis-broadbenti/1.jpg
+  page: https://www.inaturalist.org/photos/605368523
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605368523/original.jpg
+- file: images/passeriformes/dasyornithidae/dasyornis-broadbenti/2.jpg
+  page: https://www.inaturalist.org/photos/741385386
+  author: Melissa Doherty
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741385386/original.jpg
+- file: images/passeriformes/dasyornithidae/dasyornis-broadbenti/3.jpg
+  page: https://www.inaturalist.org/photos/470952925
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470952925/original.jpeg
+- file: images/passeriformes/dasyornithidae/dasyornis-broadbenti/4.jpg
+  page: https://www.inaturalist.org/photos/576312864
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576312864/original.jpg
+- file: images/passeriformes/dasyornithidae/dasyornis-broadbenti/5.jpg
+  page: https://www.inaturalist.org/photos/579572669
+  author: Julia Palmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579572669/original.jpg
 ---
 
 

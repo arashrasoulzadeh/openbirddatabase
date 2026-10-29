@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-couchii/1.jpg
+  page: https://www.inaturalist.org/photos/610070186
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610070186/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-couchii/1.jpg
+  page: https://www.inaturalist.org/photos/610070186
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610070186/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-couchii/2.jpg
+  page: https://www.inaturalist.org/photos/609559678
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609559678/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-couchii/3.jpg
+  page: https://www.inaturalist.org/photos/605913990
+  author: ncb1221
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605913990/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-couchii/4.jpg
+  page: https://www.inaturalist.org/photos/609585746
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609585746/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-couchii/5.jpg
+  page: https://www.inaturalist.org/photos/620039658
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620039658/original.jpg
 ---
 
 

@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/galliformes/cracidae/ortalis-poliocephala/1.jpg
+  page: https://www.inaturalist.org/photos/606747866
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606747866/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-poliocephala/1.jpg
+  page: https://www.inaturalist.org/photos/606747866
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606747866/original.jpg
+- file: images/galliformes/cracidae/ortalis-poliocephala/2.jpg
+  page: https://www.inaturalist.org/photos/605981010
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605981010/original.jpg
+- file: images/galliformes/cracidae/ortalis-poliocephala/3.jpg
+  page: https://www.inaturalist.org/photos/609935718
+  author: Bruce Bailey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609935718/original.jpg
+- file: images/galliformes/cracidae/ortalis-poliocephala/4.jpg
+  page: https://www.inaturalist.org/photos/612755753
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612755753/original.jpg
+- file: images/galliformes/cracidae/ortalis-poliocephala/5.jpg
+  page: https://www.inaturalist.org/photos/627819859
+  author: Drew Baxter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627819859/original.jpg
 ---
 
 

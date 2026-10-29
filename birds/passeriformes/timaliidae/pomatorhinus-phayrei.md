@@ -139,8 +139,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/pomatorhinus-phayrei/1.jpg
+  page: https://www.inaturalist.org/photos/469021996
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469021996/original.jpeg
+images:
+- file: images/passeriformes/timaliidae/pomatorhinus-phayrei/1.jpg
+  page: https://www.inaturalist.org/photos/469021996
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469021996/original.jpeg
+- file: images/passeriformes/timaliidae/pomatorhinus-phayrei/2.jpg
+  page: https://www.inaturalist.org/photos/548287037
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548287037/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-phayrei/3.jpg
+  page: https://www.inaturalist.org/photos/385411622
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385411622/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-phayrei/4.jpg
+  page: https://www.inaturalist.org/photos/358956344
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358956344/original.jpeg
+- file: images/passeriformes/timaliidae/pomatorhinus-phayrei/5.jpg
+  page: https://www.inaturalist.org/photos/590809957
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590809957/original.jpg
 ---
 
 

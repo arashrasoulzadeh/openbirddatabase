@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 3
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-xanthodryas/1.jpg
+  page: https://www.inaturalist.org/photos/528490725
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528490725/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-xanthodryas/1.jpg
+  page: https://www.inaturalist.org/photos/528490725
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528490725/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-xanthodryas/2.jpg
+  page: https://www.inaturalist.org/photos/303806409
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303806409/original.jpeg
+- file: images/passeriformes/phylloscopidae/phylloscopus-xanthodryas/3.jpg
+  page: https://www.inaturalist.org/photos/645903312
+  author: bko
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645903312/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-xanthodryas/4.jpg
+  page: https://www.inaturalist.org/photos/338161531
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338161531/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-xanthodryas/5.jpg
+  page: https://www.inaturalist.org/photos/231649837
+  author: 岸本年郎
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231649837/original.jpg
 ---
 
 

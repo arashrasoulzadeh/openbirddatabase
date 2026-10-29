@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.3
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 64.4
   tail_length_mm: 40.4
   body_mass_g: 19.1
+image:
+  file: images/passeriformes/thraupidae/ixothraupis-rufigula/1.jpg
+  page: https://www.inaturalist.org/photos/608659916
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608659916/original.jpg
+images:
+- file: images/passeriformes/thraupidae/ixothraupis-rufigula/1.jpg
+  page: https://www.inaturalist.org/photos/608659916
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608659916/original.jpg
+- file: images/passeriformes/thraupidae/ixothraupis-rufigula/2.jpg
+  page: https://www.inaturalist.org/photos/630982965
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630982965/original.jpg
+- file: images/passeriformes/thraupidae/ixothraupis-rufigula/3.jpg
+  page: https://www.inaturalist.org/photos/652842995
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652842995/original.jpg
+- file: images/passeriformes/thraupidae/ixothraupis-rufigula/4.jpg
+  page: https://www.inaturalist.org/photos/462578403
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462578403/original.jpeg
+- file: images/passeriformes/thraupidae/ixothraupis-rufigula/5.jpg
+  page: https://www.inaturalist.org/photos/475099090
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475099090/original.jpg
 ---
 
 

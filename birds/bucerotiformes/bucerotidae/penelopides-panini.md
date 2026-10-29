@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/penelopides-panini/1.jpg
+  page: https://www.inaturalist.org/photos/637888676
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888676/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/penelopides-panini/1.jpg
+  page: https://www.inaturalist.org/photos/637888676
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888676/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-panini/2.jpg
+  page: https://www.inaturalist.org/photos/643663024
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643663024/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-panini/3.jpg
+  page: https://www.inaturalist.org/photos/643663286
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643663286/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-panini/4.jpg
+  page: https://www.inaturalist.org/photos/236188556
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236188556/original.jpg
+- file: images/bucerotiformes/bucerotidae/penelopides-panini/5.jpg
+  page: https://www.inaturalist.org/photos/236186429
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236186429/original.jpg
 ---
 
 

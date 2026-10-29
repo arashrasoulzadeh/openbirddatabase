@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/haliaeetus-leucoryphus/1.jpg
+  page: https://www.inaturalist.org/photos/706376907
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706376907/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/haliaeetus-leucoryphus/1.jpg
+  page: https://www.inaturalist.org/photos/706376907
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706376907/original.jpg
+- file: images/accipitriformes/accipitridae/haliaeetus-leucoryphus/2.jpg
+  page: https://www.inaturalist.org/photos/486732823
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486732823/original.jpg
+- file: images/accipitriformes/accipitridae/haliaeetus-leucoryphus/3.jpg
+  page: https://www.inaturalist.org/photos/513280261
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513280261/original.jpg
+- file: images/accipitriformes/accipitridae/haliaeetus-leucoryphus/4.jpg
+  page: https://www.inaturalist.org/photos/603607130
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603607130/original.jpg
+- file: images/accipitriformes/accipitridae/haliaeetus-leucoryphus/5.jpg
+  page: https://www.inaturalist.org/photos/351947863
+  author: P Jeganathan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351947863/original.jpeg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/calyptophilidae/calyptophilus-tertius/1.jpg
+  page: https://www.inaturalist.org/photos/610842089
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842089/original.jpg
+images:
+- file: images/passeriformes/calyptophilidae/calyptophilus-tertius/1.jpg
+  page: https://www.inaturalist.org/photos/610842089
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842089/original.jpg
+- file: images/passeriformes/calyptophilidae/calyptophilus-tertius/2.jpg
+  page: https://www.inaturalist.org/photos/590277062
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590277062/original.jpg
+- file: images/passeriformes/calyptophilidae/calyptophilus-tertius/3.jpg
+  page: https://www.inaturalist.org/photos/290434710
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/290434710/original.jpeg
+- file: images/passeriformes/calyptophilidae/calyptophilus-tertius/4.jpg
+  page: https://www.inaturalist.org/photos/343559820
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343559820/original.jpg
+- file: images/passeriformes/calyptophilidae/calyptophilus-tertius/5.jpg
+  page: https://www.inaturalist.org/photos/290434687
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/290434687/original.jpeg
 ---
 
 

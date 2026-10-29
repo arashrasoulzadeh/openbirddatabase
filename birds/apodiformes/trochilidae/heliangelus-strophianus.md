@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliangelus-strophianus/1.jpg
+  page: https://www.inaturalist.org/photos/612626393
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626393/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliangelus-strophianus/1.jpg
+  page: https://www.inaturalist.org/photos/612626393
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626393/original.jpg
+- file: images/apodiformes/trochilidae/heliangelus-strophianus/2.jpg
+  page: https://www.inaturalist.org/photos/723018206
+  author: Schyler Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723018206/original.jpg
+- file: images/apodiformes/trochilidae/heliangelus-strophianus/3.jpg
+  page: https://www.inaturalist.org/photos/465273953
+  author: Theo Summer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465273953/original.jpeg
+- file: images/apodiformes/trochilidae/heliangelus-strophianus/4.jpg
+  page: https://www.inaturalist.org/photos/548520257
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548520257/original.jpg
+- file: images/apodiformes/trochilidae/heliangelus-strophianus/5.jpg
+  page: https://www.inaturalist.org/photos/528978041
+  author: Melissa Meadows
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528978041/original.jpg
 ---
 
 

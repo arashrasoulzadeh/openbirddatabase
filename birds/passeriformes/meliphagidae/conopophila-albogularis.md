@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/conopophila-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/613388759
+  author: dieterhochuli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613388759/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/conopophila-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/613388759
+  author: dieterhochuli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613388759/original.jpg
+- file: images/passeriformes/meliphagidae/conopophila-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/674491465
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674491465/original.jpg
+- file: images/passeriformes/meliphagidae/conopophila-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/697588340
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697588340/original.jpg
+- file: images/passeriformes/meliphagidae/conopophila-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/740797770
+  author: Janne Teivonen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740797770/original.jpg
+- file: images/passeriformes/meliphagidae/conopophila-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/525883524
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525883524/original.jpg
 ---
 
 

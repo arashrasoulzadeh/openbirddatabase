@@ -149,10 +149,31 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/meliphagidae/lichenostomus-cratitius/1.jpg
+  page: https://www.inaturalist.org/photos/565329758
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565329758/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/lichenostomus-cratitius/1.jpg
+  page: https://www.inaturalist.org/photos/565329758
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565329758/original.jpg
+- file: images/passeriformes/meliphagidae/lichenostomus-cratitius/2.jpg
+  page: https://www.inaturalist.org/photos/565330005
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565330005/original.jpg
 ---
 
 

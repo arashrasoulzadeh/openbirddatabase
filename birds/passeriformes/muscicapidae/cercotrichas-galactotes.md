@@ -202,10 +202,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/muscicapidae/cercotrichas-galactotes/1.jpg
+  page: https://www.inaturalist.org/photos/657163184
+  author: amfstocker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657163184/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cercotrichas-galactotes/1.jpg
+  page: https://www.inaturalist.org/photos/657163184
+  author: amfstocker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657163184/original.jpg
+- file: images/passeriformes/muscicapidae/cercotrichas-galactotes/2.jpg
+  page: https://www.inaturalist.org/photos/667958109
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667958109/original.jpg
+- file: images/passeriformes/muscicapidae/cercotrichas-galactotes/3.jpg
+  page: https://www.inaturalist.org/photos/692980713
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692980713/original.jpg
+- file: images/passeriformes/muscicapidae/cercotrichas-galactotes/4.jpg
+  page: https://www.inaturalist.org/photos/667958144
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667958144/original.jpg
+- file: images/passeriformes/muscicapidae/cercotrichas-galactotes/5.jpg
+  page: https://www.inaturalist.org/photos/693280155
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693280155/original.jpg
 ---
 
 

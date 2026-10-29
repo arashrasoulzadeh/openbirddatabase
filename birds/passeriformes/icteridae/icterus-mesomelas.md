@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-mesomelas/1.jpg
+  page: https://www.inaturalist.org/photos/611575553
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611575553/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-mesomelas/1.jpg
+  page: https://www.inaturalist.org/photos/611575553
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611575553/original.jpg
+- file: images/passeriformes/icteridae/icterus-mesomelas/2.jpg
+  page: https://www.inaturalist.org/photos/617562148
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617562148/original.jpg
+- file: images/passeriformes/icteridae/icterus-mesomelas/3.jpg
+  page: https://www.inaturalist.org/photos/620549446
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620549446/original.jpg
+- file: images/passeriformes/icteridae/icterus-mesomelas/4.jpg
+  page: https://www.inaturalist.org/photos/720727369
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720727369/original.jpg
+- file: images/passeriformes/icteridae/icterus-mesomelas/5.jpg
+  page: https://www.inaturalist.org/photos/740949596
+  author: Raúl A. Ruiz M.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740949596/original.jpg
 ---
 
 

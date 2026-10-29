@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/accipitriformes/accipitridae/buteogallus-gundlachii/1.jpg
+  page: https://www.inaturalist.org/photos/635937021
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635937021/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteogallus-gundlachii/1.jpg
+  page: https://www.inaturalist.org/photos/635937021
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635937021/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-gundlachii/2.jpg
+  page: https://www.inaturalist.org/photos/601737712
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601737712/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-gundlachii/3.jpg
+  page: https://www.inaturalist.org/photos/354283889
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354283889/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-gundlachii/4.jpg
+  page: https://www.inaturalist.org/photos/363279090
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363279090/original.jpeg
+- file: images/accipitriformes/accipitridae/buteogallus-gundlachii/5.jpg
+  page: https://www.inaturalist.org/photos/420486565
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420486565/original.jpeg
 ---
 
 

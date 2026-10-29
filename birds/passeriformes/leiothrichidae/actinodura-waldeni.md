@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.0
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 90.5
   tail_length_mm: 84.6
   body_mass_g: 46.7
+image:
+  file: images/passeriformes/leiothrichidae/actinodura-waldeni/1.jpg
+  page: https://www.inaturalist.org/photos/97545812
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97545812/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/actinodura-waldeni/1.jpg
+  page: https://www.inaturalist.org/photos/97545812
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97545812/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-waldeni/2.jpg
+  page: https://www.inaturalist.org/photos/94312044
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94312044/original.jpeg
+- file: images/passeriformes/leiothrichidae/actinodura-waldeni/3.jpg
+  page: https://www.inaturalist.org/photos/97546020
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97546020/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-waldeni/4.jpg
+  page: https://www.inaturalist.org/photos/97546032
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97546032/original.jpg
+- file: images/passeriformes/leiothrichidae/actinodura-waldeni/5.jpg
+  page: https://www.inaturalist.org/photos/97546056
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97546056/original.jpg
 ---
 
 

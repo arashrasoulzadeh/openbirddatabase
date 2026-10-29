@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/turdidae/ixoreus-naevius/1.jpg
+  page: https://www.inaturalist.org/photos/605498841
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605498841/original.jpg
+images:
+- file: images/passeriformes/turdidae/ixoreus-naevius/1.jpg
+  page: https://www.inaturalist.org/photos/605498841
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605498841/original.jpg
+- file: images/passeriformes/turdidae/ixoreus-naevius/2.jpg
+  page: https://www.inaturalist.org/photos/605513303
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605513303/original.jpg
+- file: images/passeriformes/turdidae/ixoreus-naevius/3.jpg
+  page: https://www.inaturalist.org/photos/604612758
+  author: criminy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604612758/original.jpg
+- file: images/passeriformes/turdidae/ixoreus-naevius/4.jpg
+  page: https://www.inaturalist.org/photos/605537171
+  author: Liam Steele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605537171/original.jpg
+- file: images/passeriformes/turdidae/ixoreus-naevius/5.jpg
+  page: https://www.inaturalist.org/photos/608167982
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608167982/original.jpg
 ---
 
 

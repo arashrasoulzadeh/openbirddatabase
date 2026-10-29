@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/612963081
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612963081/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/612963081
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612963081/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/664301901
+  author: Shane Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664301901/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/390600397
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390600397/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/419898570
+  author: ecovore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419898570/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/451023602
+  author: Fajar Alfitrian
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451023602/original.jpeg
 ---
 
 

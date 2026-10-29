@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/hierococcyx-nisicolor/1.jpg
+  page: https://www.inaturalist.org/photos/591261106
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591261106/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/hierococcyx-nisicolor/1.jpg
+  page: https://www.inaturalist.org/photos/591261106
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591261106/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-nisicolor/2.jpg
+  page: https://www.inaturalist.org/photos/450041598
+  author: Andrew Lai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450041598/original.png
+- file: images/cuculiformes/cuculidae/hierococcyx-nisicolor/3.jpg
+  page: https://www.inaturalist.org/photos/449083659
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449083659/original.jpeg
+- file: images/cuculiformes/cuculidae/hierococcyx-nisicolor/4.jpg
+  page: https://www.inaturalist.org/photos/450989745
+  author: Carman Chew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450989745/original.jpeg
+- file: images/cuculiformes/cuculidae/hierococcyx-nisicolor/5.jpg
+  page: https://www.inaturalist.org/photos/592518972
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592518972/original.jpg
 ---
 
 

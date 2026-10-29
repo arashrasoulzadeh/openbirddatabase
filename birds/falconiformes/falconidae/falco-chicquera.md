@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-chicquera/1.jpg
+  page: https://www.inaturalist.org/photos/615497803
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615497803/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-chicquera/1.jpg
+  page: https://www.inaturalist.org/photos/615497803
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615497803/original.jpg
+- file: images/falconiformes/falconidae/falco-chicquera/2.jpg
+  page: https://www.inaturalist.org/photos/623922273
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623922273/original.jpg
+- file: images/falconiformes/falconidae/falco-chicquera/3.jpg
+  page: https://www.inaturalist.org/photos/703306385
+  author: Samartha S G
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703306385/original.jpg
+- file: images/falconiformes/falconidae/falco-chicquera/4.jpg
+  page: https://www.inaturalist.org/photos/723309852
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723309852/original.jpg
+- file: images/falconiformes/falconidae/falco-chicquera/5.jpg
+  page: https://www.inaturalist.org/photos/462868861
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462868861/original.jpeg
 ---
 
 

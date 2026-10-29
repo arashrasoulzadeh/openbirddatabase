@@ -130,8 +130,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/muscicapidae/leucoptilon-concretum/1.jpg
+  page: https://www.inaturalist.org/photos/361825924
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361825924/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/leucoptilon-concretum/1.jpg
+  page: https://www.inaturalist.org/photos/361825924
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361825924/original.jpeg
+- file: images/passeriformes/muscicapidae/leucoptilon-concretum/2.jpg
+  page: https://www.inaturalist.org/photos/428918076
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428918076/original.jpg
+- file: images/passeriformes/muscicapidae/leucoptilon-concretum/3.jpg
+  page: https://www.inaturalist.org/photos/547345820
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547345820/original.jpg
+- file: images/passeriformes/muscicapidae/leucoptilon-concretum/4.jpg
+  page: https://www.inaturalist.org/photos/358956199
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358956199/original.jpeg
+- file: images/passeriformes/muscicapidae/leucoptilon-concretum/5.jpg
+  page: https://www.inaturalist.org/photos/428918066
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428918066/original.jpg
 ---
 
 

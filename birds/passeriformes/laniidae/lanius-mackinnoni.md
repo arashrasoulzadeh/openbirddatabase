@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-mackinnoni/1.jpg
+  page: https://www.inaturalist.org/photos/640233529
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640233529/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-mackinnoni/1.jpg
+  page: https://www.inaturalist.org/photos/640233529
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640233529/original.jpg
+- file: images/passeriformes/laniidae/lanius-mackinnoni/2.jpg
+  page: https://www.inaturalist.org/photos/548964932
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548964932/original.jpg
+- file: images/passeriformes/laniidae/lanius-mackinnoni/3.jpg
+  page: https://www.inaturalist.org/photos/550349332
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550349332/original.jpg
+- file: images/passeriformes/laniidae/lanius-mackinnoni/4.jpg
+  page: https://www.inaturalist.org/photos/584783347
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584783347/original.jpg
+- file: images/passeriformes/laniidae/lanius-mackinnoni/5.jpg
+  page: https://www.inaturalist.org/photos/587086996
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587086996/original.jpg
 ---
 
 

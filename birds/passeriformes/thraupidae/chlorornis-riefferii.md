@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/chlorornis-riefferii/1.jpg
+  page: https://www.inaturalist.org/photos/622993674
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622993674/original.jpg
+images:
+- file: images/passeriformes/thraupidae/chlorornis-riefferii/1.jpg
+  page: https://www.inaturalist.org/photos/622993674
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622993674/original.jpg
+- file: images/passeriformes/thraupidae/chlorornis-riefferii/2.jpg
+  page: https://www.inaturalist.org/photos/625160373
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625160373/original.jpg
+- file: images/passeriformes/thraupidae/chlorornis-riefferii/3.jpg
+  page: https://www.inaturalist.org/photos/725789035
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725789035/original.jpg
+- file: images/passeriformes/thraupidae/chlorornis-riefferii/4.jpg
+  page: https://www.inaturalist.org/photos/724740505
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724740505/original.jpg
+- file: images/passeriformes/thraupidae/chlorornis-riefferii/5.jpg
+  page: https://www.inaturalist.org/photos/489346989
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489346989/original.jpg
 ---
 
 

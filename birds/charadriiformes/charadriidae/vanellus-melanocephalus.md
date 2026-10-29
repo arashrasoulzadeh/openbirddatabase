@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/610045648
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610045648/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/610045648
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610045648/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-melanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/207305316
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207305316/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-melanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/108956615
+  author: Brian Henderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108956615/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-melanocephalus/4.jpg
+  page: https://www.flickr.com/photos/copepodo/8483580366/
+  author: Rafael Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2072500/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-melanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/53899397
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53899397/original.jpg
 ---
 
 

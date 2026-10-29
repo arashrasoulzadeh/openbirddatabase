@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/anseriformes/anatidae/anser-fabalis/1.jpg
+  page: https://www.inaturalist.org/photos/610650310
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610650310/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-fabalis/1.jpg
+  page: https://www.inaturalist.org/photos/610650310
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610650310/original.jpg
+- file: images/anseriformes/anatidae/anser-fabalis/2.jpg
+  page: https://www.inaturalist.org/photos/612663546
+  author: bigayon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612663546/original.jpg
+- file: images/anseriformes/anatidae/anser-fabalis/3.jpg
+  page: https://www.inaturalist.org/photos/613986908
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613986908/original.jpg
+- file: images/anseriformes/anatidae/anser-fabalis/4.jpg
+  page: https://www.inaturalist.org/photos/613799752
+  author: Erin Springinotic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613799752/original.jpg
+- file: images/anseriformes/anatidae/anser-fabalis/5.jpg
+  page: https://www.inaturalist.org/photos/613993686
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613993686/original.jpg
 ---
 
 

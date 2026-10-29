@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/basileuterus-belli/1.jpg
+  page: https://www.inaturalist.org/photos/607808737
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808737/original.jpg
+images:
+- file: images/passeriformes/parulidae/basileuterus-belli/1.jpg
+  page: https://www.inaturalist.org/photos/607808737
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808737/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-belli/2.jpg
+  page: https://www.inaturalist.org/photos/467500347
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467500347/original.jpeg
+- file: images/passeriformes/parulidae/basileuterus-belli/3.jpg
+  page: https://www.inaturalist.org/photos/476615947
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476615947/original.jpeg
+- file: images/passeriformes/parulidae/basileuterus-belli/4.jpg
+  page: https://www.inaturalist.org/photos/557045777
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557045777/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-belli/5.jpg
+  page: https://www.inaturalist.org/photos/467500343
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467500343/original.jpeg
 ---
 
 

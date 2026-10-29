@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireolanius-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/444770146
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444770146/original.jpeg
+images:
+- file: images/passeriformes/vireonidae/vireolanius-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/444770146
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444770146/original.jpeg
+- file: images/passeriformes/vireonidae/vireolanius-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/443115471
+  author: Asher P Higgins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443115471/original.jpeg
+- file: images/passeriformes/vireonidae/vireolanius-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/255533825
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255533825/original.jpeg
+- file: images/passeriformes/vireonidae/vireolanius-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/468667162
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468667162/original.jpg
+- file: images/passeriformes/vireonidae/vireolanius-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/429298665
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429298665/original.jpg
 ---
 
 

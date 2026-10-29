@@ -149,8 +149,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/certhiidae/certhia-discolor/1.jpg
+  page: https://www.inaturalist.org/photos/369853978
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369853978/original.jpeg
+images:
+- file: images/passeriformes/certhiidae/certhia-discolor/1.jpg
+  page: https://www.inaturalist.org/photos/369853978
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369853978/original.jpeg
+- file: images/passeriformes/certhiidae/certhia-discolor/2.jpg
+  page: https://www.inaturalist.org/photos/289960635
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289960635/original.jpg
+- file: images/passeriformes/certhiidae/certhia-discolor/3.jpg
+  page: https://www.inaturalist.org/photos/196532328
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196532328/original.jpg
+- file: images/passeriformes/certhiidae/certhia-discolor/4.jpg
+  page: https://www.inaturalist.org/photos/207020224
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207020224/original.jpg
+- file: images/passeriformes/certhiidae/certhia-discolor/5.jpg
+  page: https://www.inaturalist.org/photos/364925060
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364925060/original.jpeg
 ---
 
 

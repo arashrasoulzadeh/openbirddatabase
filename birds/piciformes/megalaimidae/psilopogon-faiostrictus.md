@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-faiostrictus/1.jpg
+  page: https://www.inaturalist.org/photos/614291947
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614291947/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-faiostrictus/1.jpg
+  page: https://www.inaturalist.org/photos/614291947
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614291947/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-faiostrictus/2.jpg
+  page: https://www.inaturalist.org/photos/619490587
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619490587/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-faiostrictus/3.jpg
+  page: https://www.inaturalist.org/photos/624379958
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624379958/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-faiostrictus/4.jpg
+  page: https://www.inaturalist.org/photos/625690912
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625690912/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-faiostrictus/5.jpg
+  page: https://www.inaturalist.org/photos/628490810
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628490810/original.jpg
 ---
 
 

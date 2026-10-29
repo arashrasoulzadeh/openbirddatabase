@@ -139,10 +139,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/synallaxis-courseni/1.jpg
+  page: https://www.inaturalist.org/photos/428243913
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428243913/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-courseni/1.jpg
+  page: https://www.inaturalist.org/photos/428243913
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428243913/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-courseni/2.jpg
+  page: https://www.inaturalist.org/photos/341124028
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341124028/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-courseni/3.jpg
+  page: https://www.inaturalist.org/photos/112655422
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/112655422/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-courseni/4.jpg
+  page: https://www.inaturalist.org/photos/428243898
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428243898/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-courseni/5.jpg
+  page: https://www.inaturalist.org/photos/341124093
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341124093/original.jpeg
 ---
 
 

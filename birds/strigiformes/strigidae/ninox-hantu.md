@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-hantu/1.jpg
+  page: https://www.inaturalist.org/photos/718305819
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305819/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-hantu/1.jpg
+  page: https://www.inaturalist.org/photos/718305819
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305819/original.jpg
+- file: images/strigiformes/strigidae/ninox-hantu/2.jpg
+  page: https://www.inaturalist.org/photos/246924186
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246924186/original.jpg
+- file: images/strigiformes/strigidae/ninox-hantu/3.jpg
+  page: https://www.inaturalist.org/photos/718305843
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305843/original.jpg
+- file: images/strigiformes/strigidae/ninox-hantu/4.jpg
+  page: https://www.inaturalist.org/photos/416865880
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416865880/original.jpg
+- file: images/strigiformes/strigidae/ninox-hantu/5.jpg
+  page: https://www.inaturalist.org/photos/416830907
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416830907/original.jpeg
 ---
 
 

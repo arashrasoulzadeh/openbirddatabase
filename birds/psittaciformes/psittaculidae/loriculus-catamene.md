@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.1
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 80.9
   tail_length_mm: 37.5
   body_mass_g: 34.0
+image:
+  file: images/psittaciformes/psittaculidae/loriculus-catamene/1.jpg
+  page: https://www.inaturalist.org/photos/435259864
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435259864/original.jpeg
+images:
+- file: images/psittaciformes/psittaculidae/loriculus-catamene/1.jpg
+  page: https://www.inaturalist.org/photos/435259864
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435259864/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-catamene/2.jpg
+  page: https://www.inaturalist.org/photos/435259902
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435259902/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-catamene/3.jpg
+  page: https://www.inaturalist.org/photos/435259925
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435259925/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-catamene/4.jpg
+  page: https://www.inaturalist.org/photos/435259877
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435259877/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-catamene/5.jpg
+  page: https://www.inaturalist.org/photos/435259905
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435259905/original.jpeg
 ---
 
 

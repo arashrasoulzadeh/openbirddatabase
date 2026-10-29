@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/accipitriformes/accipitridae/buteo-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/621794126
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621794126/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/621794126
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621794126/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-solitarius/2.jpg
+  page: https://www.inaturalist.org/photos/627485408
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627485408/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-solitarius/3.jpg
+  page: https://www.inaturalist.org/photos/462823217
+  author: Emma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462823217/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-solitarius/4.jpg
+  page: https://www.inaturalist.org/photos/468369066
+  author: Tara Severns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468369066/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-solitarius/5.jpg
+  page: https://www.inaturalist.org/photos/510067979
+  author: Robin White
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510067979/original.jpg
 ---
 
 

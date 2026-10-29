@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/charadriiformes/laridae/chlidonias-niger/1.jpg
+  page: https://www.inaturalist.org/photos/609126927
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609126927/original.jpg
+images:
+- file: images/charadriiformes/laridae/chlidonias-niger/1.jpg
+  page: https://www.inaturalist.org/photos/609126927
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609126927/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-niger/2.jpg
+  page: https://www.inaturalist.org/photos/612729216
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612729216/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-niger/3.jpg
+  page: https://www.inaturalist.org/photos/644327725
+  author: harry beaman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644327725/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-niger/4.jpg
+  page: https://www.inaturalist.org/photos/642213632
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642213632/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-niger/5.jpg
+  page: https://www.inaturalist.org/photos/644217804
+  author: Oscar Hazell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644217804/original.jpg
 ---
 
 

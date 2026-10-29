@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/crypturellus-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/627314987
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627314987/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/crypturellus-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/627314987
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627314987/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-obsoletus/2.jpg
+  page: https://www.inaturalist.org/photos/681721078
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681721078/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-obsoletus/3.jpg
+  page: https://www.inaturalist.org/photos/706185565
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706185565/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-obsoletus/4.jpg
+  page: https://www.inaturalist.org/photos/466209896
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466209896/original.jpeg
+- file: images/tinamiformes/tinamidae/crypturellus-obsoletus/5.jpg
+  page: https://www.inaturalist.org/photos/537593598
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537593598/original.jpg
 ---
 
 

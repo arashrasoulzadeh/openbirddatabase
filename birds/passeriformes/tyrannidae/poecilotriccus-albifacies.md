@@ -138,8 +138,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/poecilotriccus-albifacies/1.jpg
+  page: https://www.inaturalist.org/photos/328985581
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328985581/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/poecilotriccus-albifacies/1.jpg
+  page: https://www.inaturalist.org/photos/328985581
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328985581/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-albifacies/2.jpg
+  page: https://www.inaturalist.org/photos/239783240
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239783240/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-albifacies/3.jpg
+  page: https://www.inaturalist.org/photos/328985605
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328985605/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-albifacies/4.jpg
+  page: https://www.inaturalist.org/photos/328985606
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328985606/original.jpeg
 ---
 
 

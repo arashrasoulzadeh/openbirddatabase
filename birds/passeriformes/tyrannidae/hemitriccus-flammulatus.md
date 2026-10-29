@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-flammulatus/1.jpg
+  page: https://www.inaturalist.org/photos/591636950
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636950/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-flammulatus/1.jpg
+  page: https://www.inaturalist.org/photos/591636950
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636950/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-flammulatus/2.jpg
+  page: https://www.inaturalist.org/photos/328276793
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328276793/original.jpeg
+- file: images/passeriformes/tyrannidae/hemitriccus-flammulatus/3.jpg
+  page: https://www.inaturalist.org/photos/591920737
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591920737/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-flammulatus/4.jpg
+  page: https://www.inaturalist.org/photos/328276799
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328276799/original.jpeg
+- file: images/passeriformes/tyrannidae/hemitriccus-flammulatus/5.jpg
+  page: https://www.inaturalist.org/photos/328276785
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328276785/original.jpeg
 ---
 
 

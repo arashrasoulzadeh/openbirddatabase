@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-syrmatophorus/1.jpg
+  page: https://www.inaturalist.org/photos/615240813
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615240813/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-syrmatophorus/1.jpg
+  page: https://www.inaturalist.org/photos/615240813
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615240813/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-syrmatophorus/2.jpg
+  page: https://www.inaturalist.org/photos/718284631
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718284631/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-syrmatophorus/3.jpg
+  page: https://www.inaturalist.org/photos/461484988
+  author: Andrii Khokhlov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461484988/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-syrmatophorus/4.jpg
+  page: https://www.inaturalist.org/photos/474862936
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474862936/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-syrmatophorus/5.jpg
+  page: https://www.inaturalist.org/photos/351360723
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351360723/original.jpg
 ---
 
 

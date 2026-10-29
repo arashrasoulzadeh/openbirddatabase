@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 41
+image:
+  file: images/accipitriformes/accipitridae/pithecophaga-jefferyi/1.jpg
+  page: https://www.inaturalist.org/photos/267306543
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267306543/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/pithecophaga-jefferyi/1.jpg
+  page: https://www.inaturalist.org/photos/267306543
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267306543/original.jpg
+- file: images/accipitriformes/accipitridae/pithecophaga-jefferyi/2.jpg
+  page: https://www.inaturalist.org/photos/410634144
+  author: Wouter Beukema
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410634144/original.jpg
+- file: images/accipitriformes/accipitridae/pithecophaga-jefferyi/3.jpg
+  page: https://www.inaturalist.org/photos/267306548
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267306548/original.jpg
+- file: images/accipitriformes/accipitridae/pithecophaga-jefferyi/4.jpg
+  page: https://www.inaturalist.org/photos/267306557
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267306557/original.jpg
+- file: images/accipitriformes/accipitridae/pithecophaga-jefferyi/5.jpg
+  page: https://www.inaturalist.org/photos/410634157
+  author: Wouter Beukema
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410634157/original.jpg
 ---
 
 

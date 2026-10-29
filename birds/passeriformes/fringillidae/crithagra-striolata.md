@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-striolata/1.jpg
+  page: https://www.inaturalist.org/photos/620237635
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620237635/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-striolata/1.jpg
+  page: https://www.inaturalist.org/photos/620237635
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620237635/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-striolata/2.jpg
+  page: https://www.inaturalist.org/photos/716639418
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716639418/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-striolata/3.jpg
+  page: https://www.inaturalist.org/photos/678251509
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678251509/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-striolata/4.jpg
+  page: https://www.inaturalist.org/photos/714885523
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714885523/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-striolata/5.jpg
+  page: https://www.inaturalist.org/photos/620237731
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620237731/original.jpg
 ---
 
 

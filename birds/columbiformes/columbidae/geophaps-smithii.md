@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geophaps-smithii/1.jpg
+  page: https://www.inaturalist.org/photos/526391994
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526391994/original.jpg
+images:
+- file: images/columbiformes/columbidae/geophaps-smithii/1.jpg
+  page: https://www.inaturalist.org/photos/526391994
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526391994/original.jpg
+- file: images/columbiformes/columbidae/geophaps-smithii/2.jpg
+  page: https://www.inaturalist.org/photos/390058026
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390058026/original.jpeg
+- file: images/columbiformes/columbidae/geophaps-smithii/3.jpg
+  page: https://www.inaturalist.org/photos/457383188
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457383188/original.jpeg
+- file: images/columbiformes/columbidae/geophaps-smithii/4.jpg
+  page: https://www.inaturalist.org/photos/118881733
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/118881733/original.jpg
+- file: images/columbiformes/columbidae/geophaps-smithii/5.jpg
+  page: https://www.inaturalist.org/photos/373873542
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373873542/original.jpg
 ---
 
 

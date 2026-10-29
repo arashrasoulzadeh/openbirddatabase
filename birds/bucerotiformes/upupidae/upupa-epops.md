@@ -224,10 +224,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/bucerotiformes/upupidae/upupa-epops/1.jpg
+  page: https://www.inaturalist.org/photos/605671698
+  author: engagenosey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605671698/original.jpg
+images:
+- file: images/bucerotiformes/upupidae/upupa-epops/1.jpg
+  page: https://www.inaturalist.org/photos/605671698
+  author: engagenosey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605671698/original.jpg
+- file: images/bucerotiformes/upupidae/upupa-epops/2.jpg
+  page: https://www.inaturalist.org/photos/608122310
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608122310/original.jpg
+- file: images/bucerotiformes/upupidae/upupa-epops/3.jpg
+  page: https://www.inaturalist.org/photos/605777769
+  author: Giorgia Mocilnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605777769/original.jpg
+- file: images/bucerotiformes/upupidae/upupa-epops/4.jpg
+  page: https://www.inaturalist.org/photos/610570052
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610570052/original.jpg
+- file: images/bucerotiformes/upupidae/upupa-epops/5.jpg
+  page: https://www.inaturalist.org/photos/609938861
+  author: 木村龍之介
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609938861/original.jpg
 ---
 
 

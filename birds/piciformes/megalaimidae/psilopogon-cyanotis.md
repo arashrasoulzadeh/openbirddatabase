@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-cyanotis/1.jpg
+  page: https://www.inaturalist.org/photos/607116340
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116340/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-cyanotis/1.jpg
+  page: https://www.inaturalist.org/photos/607116340
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116340/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-cyanotis/2.jpg
+  page: https://www.inaturalist.org/photos/616756150
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616756150/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-cyanotis/3.jpg
+  page: https://www.inaturalist.org/photos/617992048
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617992048/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-cyanotis/4.jpg
+  page: https://www.inaturalist.org/photos/624381105
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624381105/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-cyanotis/5.jpg
+  page: https://www.inaturalist.org/photos/642251458
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642251458/original.jpg
 ---
 
 

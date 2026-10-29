@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradisaeidae/seleucidis-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/568912703
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568912703/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/seleucidis-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/568912703
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568912703/original.jpg
+- file: images/passeriformes/paradisaeidae/seleucidis-melanoleucus/2.jpg
+  page: https://www.inaturalist.org/photos/578439645
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578439645/original.jpg
+- file: images/passeriformes/paradisaeidae/seleucidis-melanoleucus/3.jpg
+  page: https://www.inaturalist.org/photos/618366611
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618366611/original.jpg
+- file: images/passeriformes/paradisaeidae/seleucidis-melanoleucus/4.jpg
+  page: https://www.inaturalist.org/photos/315411617
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/315411617/original.jpg
+- file: images/passeriformes/paradisaeidae/seleucidis-melanoleucus/5.jpg
+  page: https://www.inaturalist.org/photos/339188481
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339188481/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/colaptes-atricollis/1.jpg
+  page: https://www.inaturalist.org/photos/718797341
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718797341/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-atricollis/1.jpg
+  page: https://www.inaturalist.org/photos/718797341
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718797341/original.jpg
+- file: images/piciformes/picidae/colaptes-atricollis/2.jpg
+  page: https://www.inaturalist.org/photos/468951971
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468951971/original.jpeg
+- file: images/piciformes/picidae/colaptes-atricollis/3.jpg
+  page: https://www.inaturalist.org/photos/477995699
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477995699/original.jpeg
+- file: images/piciformes/picidae/colaptes-atricollis/4.jpg
+  page: https://www.inaturalist.org/photos/541915608
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541915608/original.jpg
+- file: images/piciformes/picidae/colaptes-atricollis/5.jpg
+  page: https://www.inaturalist.org/photos/457898219
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457898219/original.jpeg
 ---
 
 

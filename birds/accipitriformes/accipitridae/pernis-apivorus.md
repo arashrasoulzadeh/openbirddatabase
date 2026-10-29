@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/accipitriformes/accipitridae/pernis-apivorus/1.jpg
+  page: https://www.inaturalist.org/photos/625931727
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625931727/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/pernis-apivorus/1.jpg
+  page: https://www.inaturalist.org/photos/625931727
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625931727/original.jpg
+- file: images/accipitriformes/accipitridae/pernis-apivorus/2.jpg
+  page: https://www.inaturalist.org/photos/657114205
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657114205/original.jpg
+- file: images/accipitriformes/accipitridae/pernis-apivorus/3.jpg
+  page: https://www.inaturalist.org/photos/652946814
+  author: Diego González Dopico
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652946814/original.jpg
+- file: images/accipitriformes/accipitridae/pernis-apivorus/4.jpg
+  page: https://www.inaturalist.org/photos/658093252
+  author: k
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658093252/original.jpg
+- file: images/accipitriformes/accipitridae/pernis-apivorus/5.jpg
+  page: https://www.inaturalist.org/photos/657127181
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657127181/original.jpg
 ---
 
 

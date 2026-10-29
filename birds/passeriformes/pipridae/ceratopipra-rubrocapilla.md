@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/ceratopipra-rubrocapilla/1.jpg
+  page: https://www.inaturalist.org/photos/622223030
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622223030/original.jpg
+images:
+- file: images/passeriformes/pipridae/ceratopipra-rubrocapilla/1.jpg
+  page: https://www.inaturalist.org/photos/622223030
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622223030/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-rubrocapilla/2.jpg
+  page: https://www.inaturalist.org/photos/672628293
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672628293/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-rubrocapilla/3.jpg
+  page: https://www.inaturalist.org/photos/683536984
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683536984/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-rubrocapilla/4.jpg
+  page: https://www.inaturalist.org/photos/725225677
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725225677/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-rubrocapilla/5.jpg
+  page: https://www.inaturalist.org/photos/732191393
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732191393/original.jpg
 ---
 
 

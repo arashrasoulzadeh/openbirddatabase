@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/nonnula-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/616404348
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616404348/original.jpg
+images:
+- file: images/piciformes/bucconidae/nonnula-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/616404348
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616404348/original.jpg
+- file: images/piciformes/bucconidae/nonnula-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/642114774
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642114774/original.jpg
+- file: images/piciformes/bucconidae/nonnula-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/698019206
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698019206/original.jpg
+- file: images/piciformes/bucconidae/nonnula-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/470887978
+  author: TheMongrelKoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470887978/original.jpeg
+- file: images/piciformes/bucconidae/nonnula-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/497794378
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497794378/original.jpg
 ---
 
 

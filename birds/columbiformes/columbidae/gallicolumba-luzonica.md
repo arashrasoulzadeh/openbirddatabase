@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/gallicolumba-luzonica/1.jpg
+  page: https://www.inaturalist.org/photos/380978877
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380978877/original.jpeg
+images:
+- file: images/columbiformes/columbidae/gallicolumba-luzonica/1.jpg
+  page: https://www.inaturalist.org/photos/380978877
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380978877/original.jpeg
+- file: images/columbiformes/columbidae/gallicolumba-luzonica/2.jpg
+  page: https://www.inaturalist.org/photos/380979416
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380979416/original.jpeg
+- file: images/columbiformes/columbidae/gallicolumba-luzonica/3.jpg
+  page: https://www.inaturalist.org/photos/380978817
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380978817/original.jpeg
+- file: images/columbiformes/columbidae/gallicolumba-luzonica/4.jpg
+  page: https://www.inaturalist.org/photos/380982984
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380982984/original.jpeg
+- file: images/columbiformes/columbidae/gallicolumba-luzonica/5.jpg
+  page: https://www.inaturalist.org/photos/380982204
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380982204/original.jpeg
 ---
 
 

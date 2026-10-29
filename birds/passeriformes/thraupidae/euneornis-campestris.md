@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/euneornis-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/469425612
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469425612/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/euneornis-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/469425612
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469425612/original.jpeg
+- file: images/passeriformes/thraupidae/euneornis-campestris/2.jpg
+  page: https://www.inaturalist.org/photos/353692546
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353692546/original.jpg
+- file: images/passeriformes/thraupidae/euneornis-campestris/3.jpg
+  page: https://www.inaturalist.org/photos/470426028
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470426028/original.jpg
+- file: images/passeriformes/thraupidae/euneornis-campestris/4.jpg
+  page: https://www.inaturalist.org/photos/585672861
+  author: Mark McClelland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585672861/original.jpg
+- file: images/passeriformes/thraupidae/euneornis-campestris/5.jpg
+  page: https://www.inaturalist.org/photos/395396550
+  author: Marilyne Busque-Dubois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395396550/original.jpeg
 ---
 
 

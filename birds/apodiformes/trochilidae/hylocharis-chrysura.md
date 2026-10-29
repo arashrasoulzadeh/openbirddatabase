@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/hylocharis-chrysura/1.jpg
+  page: https://www.inaturalist.org/photos/605626985
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605626985/original.jpg
+images:
+- file: images/apodiformes/trochilidae/hylocharis-chrysura/1.jpg
+  page: https://www.inaturalist.org/photos/605626985
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605626985/original.jpg
+- file: images/apodiformes/trochilidae/hylocharis-chrysura/2.jpg
+  page: https://www.inaturalist.org/photos/606014799
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014799/original.jpg
+- file: images/apodiformes/trochilidae/hylocharis-chrysura/3.jpg
+  page: https://www.inaturalist.org/photos/605780650
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605780650/original.jpg
+- file: images/apodiformes/trochilidae/hylocharis-chrysura/4.jpg
+  page: https://www.inaturalist.org/photos/612408067
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612408067/original.jpg
+- file: images/apodiformes/trochilidae/hylocharis-chrysura/5.jpg
+  page: https://www.inaturalist.org/photos/612333367
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612333367/original.jpg
 ---
 
 

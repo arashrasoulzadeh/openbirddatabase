@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cinclodes-patagonicus/1.jpg
+  page: https://www.inaturalist.org/photos/605912696
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605912696/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cinclodes-patagonicus/1.jpg
+  page: https://www.inaturalist.org/photos/605912696
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605912696/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-patagonicus/2.jpg
+  page: https://www.inaturalist.org/photos/608041554
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608041554/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-patagonicus/3.jpg
+  page: https://www.inaturalist.org/photos/612745017
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612745017/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-patagonicus/4.jpg
+  page: https://www.inaturalist.org/photos/610169201
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610169201/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-patagonicus/5.jpg
+  page: https://www.inaturalist.org/photos/615597892
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615597892/original.jpg
 ---
 
 

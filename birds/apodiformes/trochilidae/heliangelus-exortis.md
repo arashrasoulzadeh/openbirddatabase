@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliangelus-exortis/1.jpg
+  page: https://www.inaturalist.org/photos/612626906
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626906/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliangelus-exortis/1.jpg
+  page: https://www.inaturalist.org/photos/612626906
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626906/original.jpg
+- file: images/apodiformes/trochilidae/heliangelus-exortis/2.jpg
+  page: https://www.inaturalist.org/photos/612726413
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612726413/original.jpg
+- file: images/apodiformes/trochilidae/heliangelus-exortis/3.jpg
+  page: https://www.inaturalist.org/photos/613320183
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613320183/original.jpg
+- file: images/apodiformes/trochilidae/heliangelus-exortis/4.jpg
+  page: https://www.inaturalist.org/photos/622970875
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622970875/original.jpg
+- file: images/apodiformes/trochilidae/heliangelus-exortis/5.jpg
+  page: https://www.inaturalist.org/photos/616792989
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616792989/original.jpg
 ---
 
 

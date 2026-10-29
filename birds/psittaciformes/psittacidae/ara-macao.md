@@ -232,10 +232,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 33
+image:
+  file: images/psittaciformes/psittacidae/ara-macao/1.jpg
+  page: https://www.inaturalist.org/photos/605692191
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605692191/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/ara-macao/1.jpg
+  page: https://www.inaturalist.org/photos/605692191
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605692191/original.jpg
+- file: images/psittaciformes/psittacidae/ara-macao/2.jpg
+  page: https://www.inaturalist.org/photos/604521783
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604521783/original.jpg
+- file: images/psittaciformes/psittacidae/ara-macao/3.jpg
+  page: https://www.inaturalist.org/photos/607345393
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607345393/original.jpg
+- file: images/psittaciformes/psittacidae/ara-macao/4.jpg
+  page: https://www.inaturalist.org/photos/607185358
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607185358/original.jpg
+- file: images/psittaciformes/psittacidae/ara-macao/5.jpg
+  page: https://www.inaturalist.org/photos/609993544
+  author: Tom Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609993544/original.jpg
 ---
 
 

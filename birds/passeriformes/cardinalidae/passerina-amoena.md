@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/cardinalidae/passerina-amoena/1.jpg
+  page: https://www.inaturalist.org/photos/611537881
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611537881/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/passerina-amoena/1.jpg
+  page: https://www.inaturalist.org/photos/611537881
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611537881/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-amoena/2.jpg
+  page: https://www.inaturalist.org/photos/619447675
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619447675/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-amoena/3.jpg
+  page: https://www.inaturalist.org/photos/632828099
+  author: Hydrocycler (Elizabeth Dougherty)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632828099/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-amoena/4.jpg
+  page: https://www.inaturalist.org/photos/611537880
+  author: Steve Woodward
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611537880/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-amoena/5.jpg
+  page: https://www.inaturalist.org/photos/619448440
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619448440/original.jpg
 ---
 
 

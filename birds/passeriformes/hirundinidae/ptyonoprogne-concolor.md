@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/ptyonoprogne-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/607878378
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607878378/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/ptyonoprogne-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/607878378
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607878378/original.jpg
+- file: images/passeriformes/hirundinidae/ptyonoprogne-concolor/2.jpg
+  page: https://www.inaturalist.org/photos/605083421
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083421/original.jpg
+- file: images/passeriformes/hirundinidae/ptyonoprogne-concolor/3.jpg
+  page: https://www.inaturalist.org/photos/613913727
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613913727/original.jpg
+- file: images/passeriformes/hirundinidae/ptyonoprogne-concolor/4.jpg
+  page: https://www.inaturalist.org/photos/651182550
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651182550/original.jpg
+- file: images/passeriformes/hirundinidae/ptyonoprogne-concolor/5.jpg
+  page: https://www.inaturalist.org/photos/630999349
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630999349/original.jpg
 ---
 
 

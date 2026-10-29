@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-explorator/1.jpg
+  page: https://www.inaturalist.org/photos/607002781
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607002781/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-explorator/1.jpg
+  page: https://www.inaturalist.org/photos/607002781
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607002781/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-explorator/2.jpg
+  page: https://www.inaturalist.org/photos/341735695
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341735695/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-explorator/3.jpg
+  page: https://www.inaturalist.org/photos/341735698
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341735698/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-explorator/4.jpg
+  page: https://www.inaturalist.org/photos/341735692
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341735692/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-explorator/5.jpg
+  page: https://www.inaturalist.org/photos/341735694
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341735694/original.jpeg
 ---
 
 

@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 20.9
@@ -137,6 +138,44 @@ morphology:
   wing_length_mm: 92.0
   tail_length_mm: 71.6
   body_mass_g: 24.5
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-kinabaluensis/1.jpg
+  page: https://www.inaturalist.org/photos/593944161
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593944161/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-kinabaluensis/1.jpg
+  page: https://www.inaturalist.org/photos/593944161
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593944161/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-kinabaluensis/2.jpg
+  page: https://www.inaturalist.org/photos/141857991
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/141857991/original.jpeg
+- file: images/passeriformes/chloropseidae/chloropsis-kinabaluensis/3.jpg
+  page: https://www.inaturalist.org/photos/241414574
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241414574/original.jpeg
+- file: images/passeriformes/chloropseidae/chloropsis-kinabaluensis/4.jpg
+  page: https://www.inaturalist.org/photos/182671186
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182671186/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-kinabaluensis/5.jpg
+  page: https://www.inaturalist.org/photos/596694810
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596694810/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-maculosus/1.jpg
+  page: https://www.inaturalist.org/photos/692606007
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692606007/original.jpg
+images:
+- file: images/charadriiformes/turnicidae/turnix-maculosus/1.jpg
+  page: https://www.inaturalist.org/photos/692606007
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692606007/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-maculosus/2.jpg
+  page: https://www.inaturalist.org/photos/706126321
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706126321/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-maculosus/3.jpg
+  page: https://www.inaturalist.org/photos/444994270
+  author: Sam Westbrook
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444994270/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-maculosus/4.jpg
+  page: https://www.inaturalist.org/photos/697994101
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697994101/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-maculosus/5.jpg
+  page: https://www.inaturalist.org/photos/692606051
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692606051/original.jpg
 ---
 
 

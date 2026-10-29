@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-leucopyga/1.jpg
+  page: https://www.inaturalist.org/photos/619444805
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619444805/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-leucopyga/1.jpg
+  page: https://www.inaturalist.org/photos/619444805
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619444805/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-leucopyga/2.jpg
+  page: https://www.inaturalist.org/photos/619890112
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619890112/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-leucopyga/3.jpg
+  page: https://www.inaturalist.org/photos/620425181
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620425181/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-leucopyga/4.jpg
+  page: https://www.inaturalist.org/photos/622574864
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622574864/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-leucopyga/5.jpg
+  page: https://www.inaturalist.org/photos/624923530
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624923530/original.jpg
 ---
 
 

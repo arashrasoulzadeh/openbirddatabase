@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-ireneae/1.jpg
+  page: https://www.inaturalist.org/photos/607556274
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607556274/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-ireneae/1.jpg
+  page: https://www.inaturalist.org/photos/607556274
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607556274/original.jpg
+- file: images/strigiformes/strigidae/otus-ireneae/2.jpg
+  page: https://www.inaturalist.org/photos/199055119
+  author: Elliot Kulakow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199055119/original.jpeg
+- file: images/strigiformes/strigidae/otus-ireneae/3.jpg
+  page: https://www.flickr.com/photos/douglasmacaulay/4062652925/
+  author: Doug Macaulay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/4170591/original.jpg
+- file: images/strigiformes/strigidae/otus-ireneae/4.jpg
+  page: https://www.inaturalist.org/photos/172483989
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172483989/original.jpeg
+- file: images/strigiformes/strigidae/otus-ireneae/5.jpg
+  page: https://www.inaturalist.org/photos/607556309
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607556309/original.jpg
 ---
 
 

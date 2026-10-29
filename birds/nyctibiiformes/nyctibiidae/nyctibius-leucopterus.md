@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/nyctibiiformes/nyctibiidae/nyctibius-leucopterus/1.jpg
+  page: https://www.inaturalist.org/photos/505672945
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505672945/original.jpg
+images:
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-leucopterus/1.jpg
+  page: https://www.inaturalist.org/photos/505672945
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505672945/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-leucopterus/2.jpg
+  page: https://www.inaturalist.org/photos/417464641
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417464641/original.jpg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-leucopterus/3.jpg
+  page: https://www.inaturalist.org/photos/442887403
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442887403/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-leucopterus/4.jpg
+  page: https://www.inaturalist.org/photos/468055463
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468055463/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-leucopterus/5.jpg
+  page: https://www.inaturalist.org/photos/463777511
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463777511/original.jpeg
 ---
 
 

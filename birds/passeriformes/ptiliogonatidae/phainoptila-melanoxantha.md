@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptiliogonatidae/phainoptila-melanoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/623750897
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623750897/original.jpg
+images:
+- file: images/passeriformes/ptiliogonatidae/phainoptila-melanoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/623750897
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623750897/original.jpg
+- file: images/passeriformes/ptiliogonatidae/phainoptila-melanoxantha/2.jpg
+  page: https://www.inaturalist.org/photos/625733642
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625733642/original.jpg
+- file: images/passeriformes/ptiliogonatidae/phainoptila-melanoxantha/3.jpg
+  page: https://www.inaturalist.org/photos/706947537
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706947537/original.jpg
+- file: images/passeriformes/ptiliogonatidae/phainoptila-melanoxantha/4.jpg
+  page: https://www.inaturalist.org/photos/719111908
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719111908/original.jpg
+- file: images/passeriformes/ptiliogonatidae/phainoptila-melanoxantha/5.jpg
+  page: https://www.inaturalist.org/photos/514990988
+  author: My-Lan Le
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514990988/original.jpg
 ---
 
 

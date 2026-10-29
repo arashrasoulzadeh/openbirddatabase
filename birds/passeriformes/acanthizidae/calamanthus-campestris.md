@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/calamanthus-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/668283234
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668283234/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/calamanthus-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/668283234
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668283234/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-campestris/2.jpg
+  page: https://www.inaturalist.org/photos/532408394
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532408394/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-campestris/3.jpg
+  page: https://www.inaturalist.org/photos/559312217
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559312217/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-campestris/4.jpg
+  page: https://www.inaturalist.org/photos/447515782
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447515782/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-campestris/5.jpg
+  page: https://www.inaturalist.org/photos/268157077
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268157077/original.jpg
 ---
 
 

@@ -131,7 +131,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.3
@@ -139,6 +140,44 @@ morphology:
   wing_length_mm: 83.0
   tail_length_mm: 66.0
   body_mass_g: 26.2
+image:
+  file: images/passeriformes/muscicapidae/myiomela-diana/1.jpg
+  page: https://www.inaturalist.org/photos/569153761
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569153761/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myiomela-diana/1.jpg
+  page: https://www.inaturalist.org/photos/569153761
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569153761/original.jpg
+- file: images/passeriformes/muscicapidae/myiomela-diana/2.jpg
+  page: https://www.inaturalist.org/photos/220913618
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220913618/original.jpg
+- file: images/passeriformes/muscicapidae/myiomela-diana/3.jpg
+  page: https://www.inaturalist.org/photos/127945549
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/127945549/original.jpeg
+- file: images/passeriformes/muscicapidae/myiomela-diana/4.jpg
+  page: https://www.inaturalist.org/photos/103163159
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103163159/original.jpeg
+- file: images/passeriformes/muscicapidae/myiomela-diana/5.jpg
+  page: https://www.inaturalist.org/photos/569153788
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569153788/original.jpg
 ---
 
 

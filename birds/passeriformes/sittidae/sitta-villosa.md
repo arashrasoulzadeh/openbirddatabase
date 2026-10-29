@@ -150,8 +150,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-villosa/1.jpg
+  page: https://www.inaturalist.org/photos/608086428
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608086428/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-villosa/1.jpg
+  page: https://www.inaturalist.org/photos/608086428
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608086428/original.jpg
+- file: images/passeriformes/sittidae/sitta-villosa/2.jpg
+  page: https://www.inaturalist.org/photos/568550397
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568550397/original.jpg
+- file: images/passeriformes/sittidae/sitta-villosa/3.jpg
+  page: https://www.inaturalist.org/photos/608086339
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608086339/original.jpg
+- file: images/passeriformes/sittidae/sitta-villosa/4.jpg
+  page: https://www.inaturalist.org/photos/568550398
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568550398/original.jpg
 ---
 
 

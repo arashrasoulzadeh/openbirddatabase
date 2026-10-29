@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmochanes-hemileucus/1.jpg
+  page: https://www.inaturalist.org/photos/426773702
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426773702/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmochanes-hemileucus/1.jpg
+  page: https://www.inaturalist.org/photos/426773702
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426773702/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmochanes-hemileucus/2.jpg
+  page: https://www.inaturalist.org/photos/163407160
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163407160/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmochanes-hemileucus/3.jpg
+  page: https://www.inaturalist.org/photos/62673532
+  author: Dan Riskin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62673532/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmochanes-hemileucus/4.jpg
+  page: https://www.inaturalist.org/photos/610827778
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610827778/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmochanes-hemileucus/5.jpg
+  page: https://www.inaturalist.org/photos/158498473
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158498473/original.jpeg
 ---
 
 

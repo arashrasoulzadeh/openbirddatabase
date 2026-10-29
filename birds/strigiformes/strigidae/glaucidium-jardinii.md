@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-jardinii/1.jpg
+  page: https://www.inaturalist.org/photos/239634342
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239634342/original.jpeg
+images:
+- file: images/strigiformes/strigidae/glaucidium-jardinii/1.jpg
+  page: https://www.inaturalist.org/photos/239634342
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239634342/original.jpeg
+- file: images/strigiformes/strigidae/glaucidium-jardinii/2.jpg
+  page: https://www.inaturalist.org/photos/177529179
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177529179/original.jpeg
+- file: images/strigiformes/strigidae/glaucidium-jardinii/3.jpg
+  page: https://www.inaturalist.org/photos/136595005
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/136595005/original.jpeg
+- file: images/strigiformes/strigidae/glaucidium-jardinii/4.jpg
+  page: https://www.inaturalist.org/photos/591024331
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591024331/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-jardinii/5.jpg
+  page: https://www.inaturalist.org/photos/26299898
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26299898/original.jpeg
 ---
 
 

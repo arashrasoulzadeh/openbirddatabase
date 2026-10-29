@@ -137,8 +137,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-steindachneri/1.jpg
+  page: https://www.inaturalist.org/photos/360686559
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360686559/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-steindachneri/1.jpg
+  page: https://www.inaturalist.org/photos/360686559
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360686559/original.jpg
+- file: images/piciformes/picidae/picumnus-steindachneri/2.jpg
+  page: https://www.inaturalist.org/photos/360686572
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360686572/original.jpg
+- file: images/piciformes/picidae/picumnus-steindachneri/3.jpg
+  page: https://www.inaturalist.org/photos/360686584
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360686584/original.jpg
+- file: images/piciformes/picidae/picumnus-steindachneri/4.jpg
+  page: https://www.inaturalist.org/photos/360686595
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360686595/original.jpg
 ---
 
 

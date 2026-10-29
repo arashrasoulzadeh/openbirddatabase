@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-sanblasianus/1.jpg
+  page: https://www.inaturalist.org/photos/606754619
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606754619/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-sanblasianus/1.jpg
+  page: https://www.inaturalist.org/photos/606754619
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606754619/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-sanblasianus/2.jpg
+  page: https://www.inaturalist.org/photos/614359558
+  author: Drew Baxter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614359558/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-sanblasianus/3.jpg
+  page: https://www.inaturalist.org/photos/622697413
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622697413/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-sanblasianus/4.jpg
+  page: https://www.inaturalist.org/photos/649947179
+  author: Chris Ratzlaff
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649947179/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-sanblasianus/5.jpg
+  page: https://www.inaturalist.org/photos/661222067
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661222067/original.jpg
 ---
 
 

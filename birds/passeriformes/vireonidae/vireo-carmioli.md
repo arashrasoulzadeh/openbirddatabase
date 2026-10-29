@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireo-carmioli/1.jpg
+  page: https://www.inaturalist.org/photos/614731472
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614731472/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-carmioli/1.jpg
+  page: https://www.inaturalist.org/photos/614731472
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614731472/original.jpg
+- file: images/passeriformes/vireonidae/vireo-carmioli/2.jpg
+  page: https://www.inaturalist.org/photos/621305334
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621305334/original.jpg
+- file: images/passeriformes/vireonidae/vireo-carmioli/3.jpg
+  page: https://www.inaturalist.org/photos/622560431
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622560431/original.jpg
+- file: images/passeriformes/vireonidae/vireo-carmioli/4.jpg
+  page: https://www.inaturalist.org/photos/696952811
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696952811/original.jpg
+- file: images/passeriformes/vireonidae/vireo-carmioli/5.jpg
+  page: https://www.inaturalist.org/photos/572129832
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572129832/original.jpg
 ---
 
 

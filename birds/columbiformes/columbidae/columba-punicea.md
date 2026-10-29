@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-punicea/1.jpg
+  page: https://www.inaturalist.org/photos/428917423
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428917423/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-punicea/1.jpg
+  page: https://www.inaturalist.org/photos/428917423
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428917423/original.jpg
+- file: images/columbiformes/columbidae/columba-punicea/2.jpg
+  page: https://www.inaturalist.org/photos/184620487
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184620487/original.jpeg
+- file: images/columbiformes/columbidae/columba-punicea/3.jpg
+  page: https://www.inaturalist.org/photos/187663094
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187663094/original.jpg
+- file: images/columbiformes/columbidae/columba-punicea/4.jpg
+  page: https://www.inaturalist.org/photos/546773760
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546773760/original.jpg
+- file: images/columbiformes/columbidae/columba-punicea/5.jpg
+  page: https://www.inaturalist.org/photos/187663103
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187663103/original.jpg
 ---
 
 

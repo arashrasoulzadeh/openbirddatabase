@@ -168,8 +168,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/649189347
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649189347/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/649189347
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649189347/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/678617303
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678617303/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/709629657
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709629657/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/589460637
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589460637/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-ambiguus/1.jpg
+  page: https://www.inaturalist.org/photos/606237877
+  author: Masked Lynx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606237877/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-ambiguus/1.jpg
+  page: https://www.inaturalist.org/photos/606237877
+  author: Masked Lynx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606237877/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-ambiguus/2.jpg
+  page: https://www.inaturalist.org/photos/618085817
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618085817/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-ambiguus/3.jpg
+  page: https://www.inaturalist.org/photos/622701069
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622701069/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-ambiguus/4.jpg
+  page: https://www.inaturalist.org/photos/606238345
+  author: Masked Lynx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606238345/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-ambiguus/5.jpg
+  page: https://www.inaturalist.org/photos/606238361
+  author: Masked Lynx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606238361/original.jpg
 ---
 
 

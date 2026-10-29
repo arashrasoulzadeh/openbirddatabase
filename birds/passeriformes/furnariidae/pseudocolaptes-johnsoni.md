@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/pseudocolaptes-johnsoni/1.jpg
+  page: https://www.inaturalist.org/photos/608656444
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608656444/original.jpg
+images:
+- file: images/passeriformes/furnariidae/pseudocolaptes-johnsoni/1.jpg
+  page: https://www.inaturalist.org/photos/608656444
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608656444/original.jpg
+- file: images/passeriformes/furnariidae/pseudocolaptes-johnsoni/2.jpg
+  page: https://www.inaturalist.org/photos/591906253
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591906253/original.jpg
+- file: images/passeriformes/furnariidae/pseudocolaptes-johnsoni/3.jpg
+  page: https://www.inaturalist.org/photos/188009077
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188009077/original.png
+- file: images/passeriformes/furnariidae/pseudocolaptes-johnsoni/4.jpg
+  page: https://www.inaturalist.org/photos/217798280
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/217798280/original.jpeg
+- file: images/passeriformes/furnariidae/pseudocolaptes-johnsoni/5.jpg
+  page: https://www.inaturalist.org/photos/235348405
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/235348405/original.jpeg
 ---
 
 

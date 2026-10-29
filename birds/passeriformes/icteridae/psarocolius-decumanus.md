@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/psarocolius-decumanus/1.jpg
+  page: https://www.inaturalist.org/photos/607339129
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607339129/original.jpg
+images:
+- file: images/passeriformes/icteridae/psarocolius-decumanus/1.jpg
+  page: https://www.inaturalist.org/photos/607339129
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607339129/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-decumanus/2.jpg
+  page: https://www.inaturalist.org/photos/608795925
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608795925/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-decumanus/3.jpg
+  page: https://www.inaturalist.org/photos/610256528
+  author: Daniel Duarte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610256528/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-decumanus/4.jpg
+  page: https://www.inaturalist.org/photos/609921514
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609921514/original.jpg
+- file: images/passeriformes/icteridae/psarocolius-decumanus/5.jpg
+  page: https://www.inaturalist.org/photos/609320841
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320841/original.jpg
 ---
 
 

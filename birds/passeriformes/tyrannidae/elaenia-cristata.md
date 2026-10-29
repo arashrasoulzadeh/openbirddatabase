@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/617452063
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452063/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/617452063
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452063/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/668561882
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668561882/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/630474810
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630474810/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/689340556
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689340556/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/525744812
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525744812/original.jpg
 ---
 
 

@@ -122,8 +122,29 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/tytonidae/tyto-aurantia/1.jpg
+  page: https://www.inaturalist.org/photos/582190015
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582190015/original.jpg
+images:
+- file: images/strigiformes/tytonidae/tyto-aurantia/1.jpg
+  page: https://www.inaturalist.org/photos/582190015
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582190015/original.jpg
+- file: images/strigiformes/tytonidae/tyto-aurantia/2.jpg
+  page: https://www.inaturalist.org/photos/227558101
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227558101/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/catharus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/624048943
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624048943/original.jpg
+images:
+- file: images/passeriformes/turdidae/catharus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/624048943
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624048943/original.jpg
+- file: images/passeriformes/turdidae/catharus-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/707352201
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707352201/original.jpg
+- file: images/passeriformes/turdidae/catharus-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/478245145
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478245145/original.jpeg
+- file: images/passeriformes/turdidae/catharus-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/527812024
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527812024/original.jpg
+- file: images/passeriformes/turdidae/catharus-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/560074868
+  author: Curtis Eckerman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560074868/original.jpg
 ---
 
 

@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/capito-aurovirens/1.jpg
+  page: https://www.inaturalist.org/photos/681611564
+  author: Siddarth Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681611564/original.jpg
+images:
+- file: images/piciformes/capitonidae/capito-aurovirens/1.jpg
+  page: https://www.inaturalist.org/photos/681611564
+  author: Siddarth Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681611564/original.jpg
+- file: images/piciformes/capitonidae/capito-aurovirens/2.jpg
+  page: https://www.inaturalist.org/photos/732435830
+  author: Jon Paul Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732435830/original.jpg
+- file: images/piciformes/capitonidae/capito-aurovirens/3.jpg
+  page: https://www.inaturalist.org/photos/482542324
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482542324/original.png
+- file: images/piciformes/capitonidae/capito-aurovirens/4.jpg
+  page: https://www.inaturalist.org/photos/558194277
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558194277/original.jpg
+- file: images/piciformes/capitonidae/capito-aurovirens/5.jpg
+  page: https://www.inaturalist.org/photos/562899928
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562899928/original.jpg
 ---
 
 

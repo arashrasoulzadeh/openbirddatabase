@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/foudia-rubra/1.jpg
+  page: https://www.inaturalist.org/photos/528866183
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528866183/original.jpg
+images:
+- file: images/passeriformes/ploceidae/foudia-rubra/1.jpg
+  page: https://www.inaturalist.org/photos/528866183
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528866183/original.jpg
+- file: images/passeriformes/ploceidae/foudia-rubra/2.jpg
+  page: https://www.inaturalist.org/photos/263083357
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263083357/original.jpeg
+- file: images/passeriformes/ploceidae/foudia-rubra/3.jpg
+  page: https://www.inaturalist.org/photos/183257288
+  author: Wouter Van Landuyt
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/183257288/original.jpeg
+- file: images/passeriformes/ploceidae/foudia-rubra/4.jpg
+  page: https://www.inaturalist.org/photos/181408393
+  author: Adam Mark Lucas-Krol
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181408393/original.jpg
+- file: images/passeriformes/ploceidae/foudia-rubra/5.jpg
+  page: https://www.inaturalist.org/photos/116155958
+  author: Ben
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116155958/original.jpeg
 ---
 
 

@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/troglodytidae/thryothorus-ludovicianus/1.jpg
+  page: https://www.inaturalist.org/photos/605162298
+  author: Conway Hawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162298/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/thryothorus-ludovicianus/1.jpg
+  page: https://www.inaturalist.org/photos/605162298
+  author: Conway Hawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162298/original.jpg
+- file: images/passeriformes/troglodytidae/thryothorus-ludovicianus/2.jpg
+  page: https://www.inaturalist.org/photos/605496575
+  author: shinylatias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605496575/original.jpg
+- file: images/passeriformes/troglodytidae/thryothorus-ludovicianus/3.jpg
+  page: https://www.inaturalist.org/photos/604581794
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604581794/original.jpg
+- file: images/passeriformes/troglodytidae/thryothorus-ludovicianus/4.jpg
+  page: https://www.inaturalist.org/photos/605411177
+  author: Sheila S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605411177/original.jpg
+- file: images/passeriformes/troglodytidae/thryothorus-ludovicianus/5.jpg
+  page: https://www.inaturalist.org/photos/604606672
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604606672/original.jpg
 ---
 
 

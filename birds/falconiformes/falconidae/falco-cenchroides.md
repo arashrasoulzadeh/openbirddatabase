@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-cenchroides/1.jpg
+  page: https://www.inaturalist.org/photos/604667060
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604667060/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-cenchroides/1.jpg
+  page: https://www.inaturalist.org/photos/604667060
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604667060/original.jpg
+- file: images/falconiformes/falconidae/falco-cenchroides/2.jpg
+  page: https://www.inaturalist.org/photos/606139359
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606139359/original.jpg
+- file: images/falconiformes/falconidae/falco-cenchroides/3.jpg
+  page: https://www.inaturalist.org/photos/604665408
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604665408/original.jpg
+- file: images/falconiformes/falconidae/falco-cenchroides/4.jpg
+  page: https://www.inaturalist.org/photos/607696783
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607696783/original.jpg
+- file: images/falconiformes/falconidae/falco-cenchroides/5.jpg
+  page: https://www.inaturalist.org/photos/607692478
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607692478/original.jpg
 ---
 
 

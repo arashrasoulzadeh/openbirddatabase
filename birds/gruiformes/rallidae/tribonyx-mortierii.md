@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/tribonyx-mortierii/1.jpg
+  page: https://www.inaturalist.org/photos/608858142
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608858142/original.jpg
+images:
+- file: images/gruiformes/rallidae/tribonyx-mortierii/1.jpg
+  page: https://www.inaturalist.org/photos/608858142
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608858142/original.jpg
+- file: images/gruiformes/rallidae/tribonyx-mortierii/2.jpg
+  page: https://www.inaturalist.org/photos/608224639
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608224639/original.jpg
+- file: images/gruiformes/rallidae/tribonyx-mortierii/3.jpg
+  page: https://www.inaturalist.org/photos/608762385
+  author: sarah_eucalypt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608762385/original.jpg
+- file: images/gruiformes/rallidae/tribonyx-mortierii/4.jpg
+  page: https://www.inaturalist.org/photos/611398850
+  author: naturewatchwidow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611398850/original.jpg
+- file: images/gruiformes/rallidae/tribonyx-mortierii/5.jpg
+  page: https://www.inaturalist.org/photos/614261258
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614261258/original.jpg
 ---
 
 

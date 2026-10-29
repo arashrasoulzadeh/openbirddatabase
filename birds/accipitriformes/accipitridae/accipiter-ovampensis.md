@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/accipiter-ovampensis/1.jpg
+  page: https://www.inaturalist.org/photos/583486461
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583486461/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/accipiter-ovampensis/1.jpg
+  page: https://www.inaturalist.org/photos/583486461
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583486461/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-ovampensis/2.jpg
+  page: https://www.inaturalist.org/photos/377641165
+  author: Matthew Fainman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/377641165/original.jpeg
+- file: images/accipitriformes/accipitridae/accipiter-ovampensis/3.jpg
+  page: https://www.inaturalist.org/photos/452729381
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452729381/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-ovampensis/4.jpg
+  page: https://www.inaturalist.org/photos/507464776
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507464776/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-ovampensis/5.jpg
+  page: https://www.inaturalist.org/photos/248329310
+  author: bukoba_steve
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248329310/original.jpeg
 ---
 
 

@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/strigiformes/strigidae/micrathene-whitneyi/1.jpg
+  page: https://www.inaturalist.org/photos/626595826
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626595826/original.jpg
+images:
+- file: images/strigiformes/strigidae/micrathene-whitneyi/1.jpg
+  page: https://www.inaturalist.org/photos/626595826
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626595826/original.jpg
+- file: images/strigiformes/strigidae/micrathene-whitneyi/2.jpg
+  page: https://www.inaturalist.org/photos/633633910
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633633910/original.jpg
+- file: images/strigiformes/strigidae/micrathene-whitneyi/3.jpg
+  page: https://www.inaturalist.org/photos/637649792
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637649792/original.jpg
+- file: images/strigiformes/strigidae/micrathene-whitneyi/4.jpg
+  page: https://www.inaturalist.org/photos/649674980
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649674980/original.jpg
+- file: images/strigiformes/strigidae/micrathene-whitneyi/5.jpg
+  page: https://www.inaturalist.org/photos/662612925
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662612925/original.jpg
 ---
 
 

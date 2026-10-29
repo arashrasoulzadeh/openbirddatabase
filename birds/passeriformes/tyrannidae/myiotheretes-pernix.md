@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiotheretes-pernix/1.jpg
+  page: https://www.inaturalist.org/photos/738245992
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738245992/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiotheretes-pernix/1.jpg
+  page: https://www.inaturalist.org/photos/738245992
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738245992/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-pernix/2.jpg
+  page: https://www.inaturalist.org/photos/276150597
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276150597/original.jpeg
+- file: images/passeriformes/tyrannidae/myiotheretes-pernix/3.jpg
+  page: https://www.inaturalist.org/photos/289111346
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289111346/original.jpeg
+- file: images/passeriformes/tyrannidae/myiotheretes-pernix/4.jpg
+  page: https://www.inaturalist.org/photos/42811633
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/42811633/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-pernix/5.jpg
+  page: https://www.inaturalist.org/photos/738246006
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738246006/original.jpg
 ---
 
 

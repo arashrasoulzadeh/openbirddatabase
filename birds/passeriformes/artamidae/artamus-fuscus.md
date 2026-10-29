@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/artamus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/607907327
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907327/original.jpg
+images:
+- file: images/passeriformes/artamidae/artamus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/607907327
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907327/original.jpg
+- file: images/passeriformes/artamidae/artamus-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/607688622
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607688622/original.jpg
+- file: images/passeriformes/artamidae/artamus-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/610516314
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610516314/original.jpg
+- file: images/passeriformes/artamidae/artamus-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/613876283
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613876283/original.jpg
+- file: images/passeriformes/artamidae/artamus-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/614675308
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614675308/original.jpg
 ---
 
 

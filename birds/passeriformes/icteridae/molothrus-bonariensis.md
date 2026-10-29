@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/icteridae/molothrus-bonariensis/1.jpg
+  page: https://www.inaturalist.org/photos/604861574
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604861574/original.jpg
+images:
+- file: images/passeriformes/icteridae/molothrus-bonariensis/1.jpg
+  page: https://www.inaturalist.org/photos/604861574
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604861574/original.jpg
+- file: images/passeriformes/icteridae/molothrus-bonariensis/2.jpg
+  page: https://www.inaturalist.org/photos/605144498
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144498/original.jpg
+- file: images/passeriformes/icteridae/molothrus-bonariensis/3.jpg
+  page: https://www.inaturalist.org/photos/604548967
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604548967/original.jpg
+- file: images/passeriformes/icteridae/molothrus-bonariensis/4.jpg
+  page: https://www.inaturalist.org/photos/607768948
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607768948/original.jpg
+- file: images/passeriformes/icteridae/molothrus-bonariensis/5.jpg
+  page: https://www.inaturalist.org/photos/609970980
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609970980/original.jpg
 ---
 
 

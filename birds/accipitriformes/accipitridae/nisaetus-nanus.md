@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/nisaetus-nanus/1.jpg
+  page: https://www.inaturalist.org/photos/619405471
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619405471/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/nisaetus-nanus/1.jpg
+  page: https://www.inaturalist.org/photos/619405471
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619405471/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-nanus/2.jpg
+  page: https://www.inaturalist.org/photos/628736962
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628736962/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-nanus/3.jpg
+  page: https://www.inaturalist.org/photos/682674703
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682674703/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-nanus/4.jpg
+  page: https://www.inaturalist.org/photos/686903626
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686903626/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-nanus/5.jpg
+  page: https://www.inaturalist.org/photos/619405487
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619405487/original.jpg
 ---
 
 

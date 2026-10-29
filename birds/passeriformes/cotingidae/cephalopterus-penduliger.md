@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/cephalopterus-penduliger/1.jpg
+  page: https://www.inaturalist.org/photos/631004484
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631004484/original.jpg
+images:
+- file: images/passeriformes/cotingidae/cephalopterus-penduliger/1.jpg
+  page: https://www.inaturalist.org/photos/631004484
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631004484/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-penduliger/2.jpg
+  page: https://www.inaturalist.org/photos/559074142
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559074142/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-penduliger/3.jpg
+  page: https://www.inaturalist.org/photos/598666742
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598666742/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-penduliger/4.jpg
+  page: https://www.inaturalist.org/photos/254264110
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254264110/original.jpg
+- file: images/passeriformes/cotingidae/cephalopterus-penduliger/5.jpg
+  page: https://www.inaturalist.org/photos/256144949
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256144949/original.jpeg
 ---
 
 

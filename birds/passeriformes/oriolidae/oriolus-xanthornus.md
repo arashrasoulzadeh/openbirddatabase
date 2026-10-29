@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/passeriformes/oriolidae/oriolus-xanthornus/1.jpg
+  page: https://www.inaturalist.org/photos/608897894
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608897894/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-xanthornus/1.jpg
+  page: https://www.inaturalist.org/photos/608897894
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608897894/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-xanthornus/2.jpg
+  page: https://www.inaturalist.org/photos/612455376
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612455376/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-xanthornus/3.jpg
+  page: https://www.inaturalist.org/photos/650793041
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650793041/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-xanthornus/4.jpg
+  page: https://www.inaturalist.org/photos/717078644
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717078644/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-xanthornus/5.jpg
+  page: https://www.inaturalist.org/photos/615898265
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615898265/original.jpg
 ---
 
 

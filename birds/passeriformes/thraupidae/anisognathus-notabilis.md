@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/anisognathus-notabilis/1.jpg
+  page: https://www.inaturalist.org/photos/608657327
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608657327/original.jpg
+images:
+- file: images/passeriformes/thraupidae/anisognathus-notabilis/1.jpg
+  page: https://www.inaturalist.org/photos/608657327
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608657327/original.jpg
+- file: images/passeriformes/thraupidae/anisognathus-notabilis/2.jpg
+  page: https://www.inaturalist.org/photos/682851051
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682851051/original.jpg
+- file: images/passeriformes/thraupidae/anisognathus-notabilis/3.jpg
+  page: https://www.inaturalist.org/photos/652839305
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652839305/original.jpg
+- file: images/passeriformes/thraupidae/anisognathus-notabilis/4.jpg
+  page: https://www.inaturalist.org/photos/718251874
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718251874/original.jpg
+- file: images/passeriformes/thraupidae/anisognathus-notabilis/5.jpg
+  page: https://www.inaturalist.org/photos/462510243
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462510243/original.jpeg
 ---
 
 

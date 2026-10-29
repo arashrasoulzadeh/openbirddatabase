@@ -149,8 +149,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/apalis-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/657071957
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657071957/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/apalis-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/657071957
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657071957/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-nigriceps/2.jpg
+  page: https://www.inaturalist.org/photos/354775458
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354775458/original.png
+- file: images/passeriformes/cisticolidae/apalis-nigriceps/3.jpg
+  page: https://www.inaturalist.org/photos/657071954
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657071954/original.jpg
 ---
 
 

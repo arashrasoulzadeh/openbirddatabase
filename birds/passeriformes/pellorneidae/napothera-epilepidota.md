@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/napothera-epilepidota/1.jpg
+  page: https://www.inaturalist.org/photos/569153096
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569153096/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/napothera-epilepidota/1.jpg
+  page: https://www.inaturalist.org/photos/569153096
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569153096/original.jpg
+- file: images/passeriformes/pellorneidae/napothera-epilepidota/2.jpg
+  page: https://www.inaturalist.org/photos/361825958
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361825958/original.jpeg
+- file: images/passeriformes/pellorneidae/napothera-epilepidota/3.jpg
+  page: https://www.inaturalist.org/photos/451477088
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451477088/original.jpeg
+- file: images/passeriformes/pellorneidae/napothera-epilepidota/4.jpg
+  page: https://www.inaturalist.org/photos/38148859
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/38148859/original.jpg
+- file: images/passeriformes/pellorneidae/napothera-epilepidota/5.jpg
+  page: https://www.inaturalist.org/photos/241415815
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241415815/original.jpeg
 ---
 
 

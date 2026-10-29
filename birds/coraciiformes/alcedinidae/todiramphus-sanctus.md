@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-sanctus/1.jpg
+  page: https://www.inaturalist.org/photos/605009971
+  author: Timothée Duhamel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605009971/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-sanctus/1.jpg
+  page: https://www.inaturalist.org/photos/605009971
+  author: Timothée Duhamel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605009971/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sanctus/2.jpg
+  page: https://www.inaturalist.org/photos/604999053
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604999053/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sanctus/3.jpg
+  page: https://www.inaturalist.org/photos/605275527
+  author: Jon Sullivan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605275527/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sanctus/4.jpg
+  page: https://www.inaturalist.org/photos/604665864
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604665864/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sanctus/5.jpg
+  page: https://www.inaturalist.org/photos/604399102
+  author: cjba850
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604399102/original.jpg
 ---
 
 

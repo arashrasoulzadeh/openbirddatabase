@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-neglecta/1.jpg
+  page: https://www.inaturalist.org/photos/691220227
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691220227/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-neglecta/1.jpg
+  page: https://www.inaturalist.org/photos/691220227
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691220227/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-neglecta/2.jpg
+  page: https://www.inaturalist.org/photos/368439449
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368439449/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-neglecta/3.jpg
+  page: https://www.inaturalist.org/photos/653924187
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653924187/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-neglecta/4.jpg
+  page: https://www.inaturalist.org/photos/691220235
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691220235/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-neglecta/5.jpg
+  page: https://www.inaturalist.org/photos/653891810
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653891810/original.jpg
 ---
 
 

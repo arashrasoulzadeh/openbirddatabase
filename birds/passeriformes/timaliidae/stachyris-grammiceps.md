@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/stachyris-grammiceps/1.jpg
+  page: https://www.inaturalist.org/photos/465844590
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844590/original.jpeg
+images:
+- file: images/passeriformes/timaliidae/stachyris-grammiceps/1.jpg
+  page: https://www.inaturalist.org/photos/465844590
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844590/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-grammiceps/2.jpg
+  page: https://www.inaturalist.org/photos/465844451
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844451/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-grammiceps/3.jpg
+  page: https://www.inaturalist.org/photos/465844697
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844697/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-grammiceps/4.jpg
+  page: https://www.inaturalist.org/photos/465844751
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844751/original.jpeg
+- file: images/passeriformes/timaliidae/stachyris-grammiceps/5.jpg
+  page: https://www.inaturalist.org/photos/465844878
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844878/original.jpeg
 ---
 
 

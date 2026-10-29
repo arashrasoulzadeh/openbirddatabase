@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/estrildidae/poephila-personata/1.jpg
+  page: https://www.inaturalist.org/photos/665579607
+  author: Roland Muench
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665579607/original.jpg
+images:
+- file: images/passeriformes/estrildidae/poephila-personata/1.jpg
+  page: https://www.inaturalist.org/photos/665579607
+  author: Roland Muench
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665579607/original.jpg
+- file: images/passeriformes/estrildidae/poephila-personata/2.jpg
+  page: https://www.inaturalist.org/photos/688014935
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688014935/original.jpg
+- file: images/passeriformes/estrildidae/poephila-personata/3.jpg
+  page: https://www.inaturalist.org/photos/516630815
+  author: Philwarb
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516630815/original.jpg
+- file: images/passeriformes/estrildidae/poephila-personata/4.jpg
+  page: https://www.inaturalist.org/photos/571716445
+  author: Andrew Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571716445/original.jpg
+- file: images/passeriformes/estrildidae/poephila-personata/5.jpg
+  page: https://www.inaturalist.org/photos/665579779
+  author: Roland Muench
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665579779/original.jpg
 ---
 
 

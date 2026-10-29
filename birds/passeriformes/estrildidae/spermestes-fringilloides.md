@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/spermestes-fringilloides/1.jpg
+  page: https://www.inaturalist.org/photos/682684098
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682684098/original.jpg
+images:
+- file: images/passeriformes/estrildidae/spermestes-fringilloides/1.jpg
+  page: https://www.inaturalist.org/photos/682684098
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682684098/original.jpg
+- file: images/passeriformes/estrildidae/spermestes-fringilloides/2.jpg
+  page: https://www.inaturalist.org/photos/549010635
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549010635/original.jpg
+- file: images/passeriformes/estrildidae/spermestes-fringilloides/3.jpg
+  page: https://www.inaturalist.org/photos/592186129
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592186129/original.jpg
+- file: images/passeriformes/estrildidae/spermestes-fringilloides/4.jpg
+  page: https://www.inaturalist.org/photos/346374481
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346374481/original.jpg
+- file: images/passeriformes/estrildidae/spermestes-fringilloides/5.jpg
+  page: https://www.inaturalist.org/photos/262020102
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262020102/original.jpeg
 ---
 
 

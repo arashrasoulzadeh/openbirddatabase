@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/neomorphus-geoffroyi/1.jpg
+  page: https://www.inaturalist.org/photos/634705502
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634705502/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/neomorphus-geoffroyi/1.jpg
+  page: https://www.inaturalist.org/photos/634705502
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634705502/original.jpg
+- file: images/cuculiformes/cuculidae/neomorphus-geoffroyi/2.jpg
+  page: https://www.inaturalist.org/photos/596153518
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596153518/original.jpg
+- file: images/cuculiformes/cuculidae/neomorphus-geoffroyi/3.jpg
+  page: https://www.inaturalist.org/photos/420344348
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420344348/original.jpeg
+- file: images/cuculiformes/cuculidae/neomorphus-geoffroyi/4.jpg
+  page: https://www.inaturalist.org/photos/437856719
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437856719/original.jpeg
+- file: images/cuculiformes/cuculidae/neomorphus-geoffroyi/5.jpg
+  page: https://www.inaturalist.org/photos/254469632
+  author: Bio.Mundi18
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254469632/original.jpeg
 ---
 
 

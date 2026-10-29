@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sternula-balaenarum/1.jpg
+  page: https://www.inaturalist.org/photos/357663728
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357663728/original.jpeg
+images:
+- file: images/charadriiformes/laridae/sternula-balaenarum/1.jpg
+  page: https://www.inaturalist.org/photos/357663728
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357663728/original.jpeg
+- file: images/charadriiformes/laridae/sternula-balaenarum/2.jpg
+  page: https://www.inaturalist.org/photos/254763297
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254763297/original.jpeg
+- file: images/charadriiformes/laridae/sternula-balaenarum/3.jpg
+  page: https://www.inaturalist.org/photos/521710596
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521710596/original.jpg
+- file: images/charadriiformes/laridae/sternula-balaenarum/4.jpg
+  page: https://www.inaturalist.org/photos/351361619
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351361619/original.jpeg
+- file: images/charadriiformes/laridae/sternula-balaenarum/5.jpg
+  page: https://www.inaturalist.org/photos/180748811
+  author: Manuel R Popp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180748811/original.jpeg
 ---
 
 

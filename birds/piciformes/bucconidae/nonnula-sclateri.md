@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/piciformes/bucconidae/nonnula-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/608405340
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608405340/original.jpg
+images:
+- file: images/piciformes/bucconidae/nonnula-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/608405340
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608405340/original.jpg
+- file: images/piciformes/bucconidae/nonnula-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/436173659
+  author: Frédérique
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436173659/original.jpeg
+- file: images/piciformes/bucconidae/nonnula-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/417640364
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417640364/original.jpg
+- file: images/piciformes/bucconidae/nonnula-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/608427197
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608427197/original.jpg
+- file: images/piciformes/bucconidae/nonnula-sclateri/5.jpg
+  page: https://www.inaturalist.org/photos/608427286
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608427286/original.jpg
 ---
 
 

@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/psittaciformes/psittaculidae/cyanoramphus-auriceps/1.jpg
+  page: https://www.inaturalist.org/photos/608825840
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608825840/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/cyanoramphus-auriceps/1.jpg
+  page: https://www.inaturalist.org/photos/608825840
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608825840/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-auriceps/2.jpg
+  page: https://www.inaturalist.org/photos/611579474
+  author: Tom Beard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611579474/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-auriceps/3.jpg
+  page: https://www.inaturalist.org/photos/611248124
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611248124/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-auriceps/4.jpg
+  page: https://www.inaturalist.org/photos/611829990
+  author: Damon H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611829990/original.jpg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-auriceps/5.jpg
+  page: https://www.inaturalist.org/photos/611523279
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611523279/original.jpg
 ---
 
 

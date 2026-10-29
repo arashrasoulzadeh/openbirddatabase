@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.2
@@ -146,6 +147,38 @@ morphology:
   wing_length_mm: 89.0
   tail_length_mm: 37.5
   body_mass_g: 34.0
+image:
+  file: images/psittaciformes/psittaculidae/loriculus-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/583509304
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509304/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/loriculus-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/583509304
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509304/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/583509341
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509341/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/435261684
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435261684/original.jpeg
+- file: images/psittaciformes/psittaculidae/loriculus-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/435253952
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253952/original.jpeg
 ---
 
 

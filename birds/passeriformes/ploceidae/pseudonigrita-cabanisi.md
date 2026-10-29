@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/pseudonigrita-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/721174449
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721174449/original.jpg
+images:
+- file: images/passeriformes/ploceidae/pseudonigrita-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/721174449
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721174449/original.jpg
+- file: images/passeriformes/ploceidae/pseudonigrita-cabanisi/2.jpg
+  page: https://www.inaturalist.org/photos/721442077
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721442077/original.jpg
+- file: images/passeriformes/ploceidae/pseudonigrita-cabanisi/3.jpg
+  page: https://www.inaturalist.org/photos/585228963
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585228963/original.jpg
+- file: images/passeriformes/ploceidae/pseudonigrita-cabanisi/4.jpg
+  page: https://www.inaturalist.org/photos/611785446
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611785446/original.jpg
+- file: images/passeriformes/ploceidae/pseudonigrita-cabanisi/5.jpg
+  page: https://www.inaturalist.org/photos/190388238
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190388238/original.jpeg
 ---
 
 

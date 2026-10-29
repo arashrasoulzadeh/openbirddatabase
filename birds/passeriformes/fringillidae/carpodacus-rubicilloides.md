@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-rubicilloides/1.jpg
+  page: https://www.inaturalist.org/photos/521869448
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521869448/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-rubicilloides/1.jpg
+  page: https://www.inaturalist.org/photos/521869448
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521869448/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-rubicilloides/2.jpg
+  page: https://www.inaturalist.org/photos/601320801
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601320801/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-rubicilloides/3.jpg
+  page: https://www.inaturalist.org/photos/367800689
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800689/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-rubicilloides/4.jpg
+  page: https://www.inaturalist.org/photos/521869702
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521869702/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-rubicilloides/5.jpg
+  page: https://www.inaturalist.org/photos/521869424
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521869424/original.jpg
 ---
 
 

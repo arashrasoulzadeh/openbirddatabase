@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/threnetes-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/724114519
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724114519/original.jpg
+images:
+- file: images/apodiformes/trochilidae/threnetes-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/724114519
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724114519/original.jpg
+- file: images/apodiformes/trochilidae/threnetes-leucurus/2.jpg
+  page: https://www.inaturalist.org/photos/558930877
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558930877/original.jpg
+- file: images/apodiformes/trochilidae/threnetes-leucurus/3.jpg
+  page: https://www.inaturalist.org/photos/424610623
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424610623/original.jpeg
+- file: images/apodiformes/trochilidae/threnetes-leucurus/4.jpg
+  page: https://www.inaturalist.org/photos/435300454
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435300454/original.jpg
+- file: images/apodiformes/trochilidae/threnetes-leucurus/5.jpg
+  page: https://www.inaturalist.org/photos/457828821
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457828821/original.jpg
 ---
 
 

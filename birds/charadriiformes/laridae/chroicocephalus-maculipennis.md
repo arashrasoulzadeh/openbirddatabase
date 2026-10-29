@@ -129,7 +129,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 41.4
@@ -139,6 +140,44 @@ morphology:
   body_mass_g: 339.0
 reproduction:
   clutch_size_mean: 2.4
+image:
+  file: images/charadriiformes/laridae/chroicocephalus-maculipennis/1.jpg
+  page: https://www.inaturalist.org/photos/604803726
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604803726/original.jpg
+images:
+- file: images/charadriiformes/laridae/chroicocephalus-maculipennis/1.jpg
+  page: https://www.inaturalist.org/photos/604803726
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604803726/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-maculipennis/2.jpg
+  page: https://www.inaturalist.org/photos/609958967
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609958967/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-maculipennis/3.jpg
+  page: https://www.inaturalist.org/photos/608937107
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608937107/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-maculipennis/4.jpg
+  page: https://www.inaturalist.org/photos/608540238
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608540238/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-maculipennis/5.jpg
+  page: https://www.inaturalist.org/photos/610991982
+  author: Lauren L.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610991982/original.jpg
 ---
 
 

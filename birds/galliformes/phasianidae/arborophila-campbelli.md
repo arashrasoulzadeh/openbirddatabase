@@ -143,8 +143,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/arborophila-campbelli/1.jpg
+  page: https://www.inaturalist.org/photos/628077042
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077042/original.jpg
+images:
+- file: images/galliformes/phasianidae/arborophila-campbelli/1.jpg
+  page: https://www.inaturalist.org/photos/628077042
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077042/original.jpg
+- file: images/galliformes/phasianidae/arborophila-campbelli/2.jpg
+  page: https://www.inaturalist.org/photos/588662851
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588662851/original.jpg
+- file: images/galliformes/phasianidae/arborophila-campbelli/3.jpg
+  page: https://www.inaturalist.org/photos/450292622
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450292622/original.jpeg
+- file: images/galliformes/phasianidae/arborophila-campbelli/4.jpg
+  page: https://www.inaturalist.org/photos/226333707
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226333707/original.jpg
+- file: images/galliformes/phasianidae/arborophila-campbelli/5.jpg
+  page: https://www.inaturalist.org/photos/467573187
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467573187/original.jpeg
 ---
 
 

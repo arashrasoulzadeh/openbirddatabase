@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/charadriiformes/scolopacidae/numenius-arquata/1.jpg
+  page: https://www.inaturalist.org/photos/605104230
+  author: u101125
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605104230/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/numenius-arquata/1.jpg
+  page: https://www.inaturalist.org/photos/605104230
+  author: u101125
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605104230/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-arquata/2.jpg
+  page: https://www.inaturalist.org/photos/604487513
+  author: Anna L
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604487513/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-arquata/3.jpg
+  page: https://www.inaturalist.org/photos/605751415
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605751415/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-arquata/4.jpg
+  page: https://www.inaturalist.org/photos/605706933
+  author: Phil James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605706933/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-arquata/5.jpg
+  page: https://www.inaturalist.org/photos/605478644
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478644/original.jpg
 ---
 
 

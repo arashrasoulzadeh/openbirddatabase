@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-nebulosus/1.jpg
+  page: https://www.inaturalist.org/photos/686825826
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686825826/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-nebulosus/1.jpg
+  page: https://www.inaturalist.org/photos/686825826
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686825826/original.jpg
+- file: images/piciformes/picidae/picumnus-nebulosus/2.jpg
+  page: https://www.inaturalist.org/photos/566812459
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566812459/original.jpg
+- file: images/piciformes/picidae/picumnus-nebulosus/3.jpg
+  page: https://www.inaturalist.org/photos/348140275
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348140275/original.jpeg
+- file: images/piciformes/picidae/picumnus-nebulosus/4.jpg
+  page: https://www.inaturalist.org/photos/251758109
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251758109/original.jpeg
+- file: images/piciformes/picidae/picumnus-nebulosus/5.jpg
+  page: https://www.inaturalist.org/photos/293265997
+  author: Agustina Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/293265997/original.jpeg
 ---
 
 

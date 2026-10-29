@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/sylvia-nigricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/461374517
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461374517/original.jpg
+images:
+- file: images/passeriformes/sylviidae/sylvia-nigricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/461374517
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461374517/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-nigricapillus/2.jpg
+  page: https://www.inaturalist.org/photos/304464984
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304464984/original.jpeg
+- file: images/passeriformes/sylviidae/sylvia-nigricapillus/3.jpg
+  page: https://www.inaturalist.org/photos/172571783
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172571783/original.jpeg
+- file: images/passeriformes/sylviidae/sylvia-nigricapillus/4.jpg
+  page: https://www.inaturalist.org/photos/14645914
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/14645914/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-nigricapillus/5.jpg
+  page: https://www.inaturalist.org/photos/475922141
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475922141/original.jpg
 ---
 
 

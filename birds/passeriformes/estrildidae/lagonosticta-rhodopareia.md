@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lagonosticta-rhodopareia/1.jpg
+  page: https://www.inaturalist.org/photos/647833938
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647833938/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lagonosticta-rhodopareia/1.jpg
+  page: https://www.inaturalist.org/photos/647833938
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647833938/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-rhodopareia/2.jpg
+  page: https://www.inaturalist.org/photos/505302711
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505302711/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-rhodopareia/3.jpg
+  page: https://www.inaturalist.org/photos/542169452
+  author: brianvds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542169452/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-rhodopareia/4.jpg
+  page: https://www.inaturalist.org/photos/546214729
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546214729/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-rhodopareia/5.jpg
+  page: https://www.inaturalist.org/photos/547543433
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547543433/original.jpg
 ---
 
 

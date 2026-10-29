@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-dufresniana/1.jpg
+  page: https://www.inaturalist.org/photos/467056168
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467056168/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-dufresniana/1.jpg
+  page: https://www.inaturalist.org/photos/467056168
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467056168/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-dufresniana/2.jpg
+  page: https://www.inaturalist.org/photos/475007000
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475007000/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-dufresniana/3.jpg
+  page: https://www.inaturalist.org/photos/468055440
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468055440/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-dufresniana/4.jpg
+  page: https://www.inaturalist.org/photos/467056169
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467056169/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-dufresniana/5.jpg
+  page: https://www.inaturalist.org/photos/475007017
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475007017/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/coracopsis-barklyi/1.jpg
+  page: https://www.inaturalist.org/photos/691000126
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691000126/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/coracopsis-barklyi/1.jpg
+  page: https://www.inaturalist.org/photos/691000126
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691000126/original.jpg
+- file: images/psittaciformes/psittaculidae/coracopsis-barklyi/2.jpg
+  page: https://www.inaturalist.org/photos/453438181
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453438181/original.jpeg
+- file: images/psittaciformes/psittaculidae/coracopsis-barklyi/3.jpg
+  page: https://www.inaturalist.org/photos/164454154
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164454154/original.jpg
+- file: images/psittaciformes/psittaculidae/coracopsis-barklyi/4.jpg
+  page: https://www.inaturalist.org/photos/77527871
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/77527871/original.jpg
+- file: images/psittaciformes/psittaculidae/coracopsis-barklyi/5.jpg
+  page: https://www.inaturalist.org/photos/691000119
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691000119/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cossypha-semirufa/1.jpg
+  page: https://www.inaturalist.org/photos/676953394
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676953394/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cossypha-semirufa/1.jpg
+  page: https://www.inaturalist.org/photos/676953394
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676953394/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-semirufa/2.jpg
+  page: https://www.inaturalist.org/photos/734393825
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734393825/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-semirufa/3.jpg
+  page: https://www.inaturalist.org/photos/574555624
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574555624/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-semirufa/4.jpg
+  page: https://www.inaturalist.org/photos/605507600
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605507600/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-semirufa/5.jpg
+  page: https://www.inaturalist.org/photos/359493744
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359493744/original.jpeg
 ---
 
 

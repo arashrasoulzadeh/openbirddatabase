@@ -171,10 +171,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/galliformes/phasianidae/francolinus-francolinus/1.jpg
+  page: https://www.inaturalist.org/photos/614107840
+  author: Ken Puliafico
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614107840/original.jpg
+images:
+- file: images/galliformes/phasianidae/francolinus-francolinus/1.jpg
+  page: https://www.inaturalist.org/photos/614107840
+  author: Ken Puliafico
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614107840/original.jpg
+- file: images/galliformes/phasianidae/francolinus-francolinus/2.jpg
+  page: https://www.inaturalist.org/photos/627483928
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627483928/original.jpg
+- file: images/galliformes/phasianidae/francolinus-francolinus/3.jpg
+  page: https://www.inaturalist.org/photos/628357602
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628357602/original.jpg
+- file: images/galliformes/phasianidae/francolinus-francolinus/4.jpg
+  page: https://www.inaturalist.org/photos/671102238
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671102238/original.jpg
+- file: images/galliformes/phasianidae/francolinus-francolinus/5.jpg
+  page: https://www.inaturalist.org/photos/641771198
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641771198/original.jpg
 ---
 
 

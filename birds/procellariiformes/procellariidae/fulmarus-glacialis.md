@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 51
+image:
+  file: images/procellariiformes/procellariidae/fulmarus-glacialis/1.jpg
+  page: https://www.inaturalist.org/photos/609197242
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609197242/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/fulmarus-glacialis/1.jpg
+  page: https://www.inaturalist.org/photos/609197242
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609197242/original.jpg
+- file: images/procellariiformes/procellariidae/fulmarus-glacialis/2.jpg
+  page: https://www.inaturalist.org/photos/609132923
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609132923/original.jpg
+- file: images/procellariiformes/procellariidae/fulmarus-glacialis/3.jpg
+  page: https://www.inaturalist.org/photos/608901769
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608901769/original.jpg
+- file: images/procellariiformes/procellariidae/fulmarus-glacialis/4.jpg
+  page: https://www.inaturalist.org/photos/607548091
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607548091/original.jpg
+- file: images/procellariiformes/procellariidae/fulmarus-glacialis/5.jpg
+  page: https://www.inaturalist.org/photos/615251613
+  author: Oscar Hazell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615251613/original.jpg
 ---
 
 

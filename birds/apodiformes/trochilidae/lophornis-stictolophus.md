@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lophornis-stictolophus/1.jpg
+  page: https://www.inaturalist.org/photos/548637423
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548637423/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lophornis-stictolophus/1.jpg
+  page: https://www.inaturalist.org/photos/548637423
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548637423/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-stictolophus/2.jpg
+  page: https://www.inaturalist.org/photos/394817199
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394817199/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-stictolophus/3.jpg
+  page: https://www.inaturalist.org/photos/548637466
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548637466/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-stictolophus/4.jpg
+  page: https://www.inaturalist.org/photos/548637425
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548637425/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-stictolophus/5.jpg
+  page: https://www.inaturalist.org/photos/548637338
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548637338/original.jpg
 ---
 
 

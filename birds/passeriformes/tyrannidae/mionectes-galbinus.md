@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mionectes-galbinus/1.jpg
+  page: https://www.inaturalist.org/photos/609763346
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609763346/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/mionectes-galbinus/1.jpg
+  page: https://www.inaturalist.org/photos/609763346
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609763346/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-galbinus/2.jpg
+  page: https://www.inaturalist.org/photos/697397869
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697397869/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-galbinus/3.jpg
+  page: https://www.inaturalist.org/photos/600844297
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600844297/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-galbinus/4.jpg
+  page: https://www.inaturalist.org/photos/351112612
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351112612/original.jpg
+- file: images/passeriformes/tyrannidae/mionectes-galbinus/5.jpg
+  page: https://www.inaturalist.org/photos/345909042
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345909042/original.jpeg
 ---
 
 

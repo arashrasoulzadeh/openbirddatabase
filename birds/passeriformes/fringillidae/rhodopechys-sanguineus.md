@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/rhodopechys-sanguineus/1.jpg
+  page: https://www.inaturalist.org/photos/619189107
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619189107/original.jpg
+images:
+- file: images/passeriformes/fringillidae/rhodopechys-sanguineus/1.jpg
+  page: https://www.inaturalist.org/photos/619189107
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619189107/original.jpg
+- file: images/passeriformes/fringillidae/rhodopechys-sanguineus/2.jpg
+  page: https://www.inaturalist.org/photos/621533260
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621533260/original.jpg
+- file: images/passeriformes/fringillidae/rhodopechys-sanguineus/3.jpg
+  page: https://www.inaturalist.org/photos/488692344
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488692344/original.jpeg
+- file: images/passeriformes/fringillidae/rhodopechys-sanguineus/4.jpg
+  page: https://www.inaturalist.org/photos/505637884
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505637884/original.jpg
+- file: images/passeriformes/fringillidae/rhodopechys-sanguineus/5.jpg
+  page: https://www.inaturalist.org/photos/470076102
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470076102/original.jpg
 ---
 
 

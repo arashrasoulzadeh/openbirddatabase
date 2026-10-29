@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/ceblepyris-caesius/1.jpg
+  page: https://www.inaturalist.org/photos/652234702
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652234702/original.jpg
+images:
+- file: images/passeriformes/campephagidae/ceblepyris-caesius/1.jpg
+  page: https://www.inaturalist.org/photos/652234702
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652234702/original.jpg
+- file: images/passeriformes/campephagidae/ceblepyris-caesius/2.jpg
+  page: https://www.inaturalist.org/photos/462499043
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462499043/original.jpeg
+- file: images/passeriformes/campephagidae/ceblepyris-caesius/3.jpg
+  page: https://www.inaturalist.org/photos/476720272
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476720272/original.jpeg
+- file: images/passeriformes/campephagidae/ceblepyris-caesius/4.jpg
+  page: https://www.inaturalist.org/photos/512972069
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512972069/original.jpg
+- file: images/passeriformes/campephagidae/ceblepyris-caesius/5.jpg
+  page: https://www.inaturalist.org/photos/548100466
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548100466/original.jpg
 ---
 
 

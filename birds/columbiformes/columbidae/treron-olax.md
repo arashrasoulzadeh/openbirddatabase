@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-olax/1.jpg
+  page: https://www.inaturalist.org/photos/739495343
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495343/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-olax/1.jpg
+  page: https://www.inaturalist.org/photos/739495343
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495343/original.jpg
+- file: images/columbiformes/columbidae/treron-olax/2.jpg
+  page: https://www.inaturalist.org/photos/624181323
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624181323/original.jpg
+- file: images/columbiformes/columbidae/treron-olax/3.jpg
+  page: https://www.inaturalist.org/photos/682035816
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682035816/original.jpg
+- file: images/columbiformes/columbidae/treron-olax/4.jpg
+  page: https://www.inaturalist.org/photos/739495340
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495340/original.jpg
+- file: images/columbiformes/columbidae/treron-olax/5.jpg
+  page: https://www.inaturalist.org/photos/739495428
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495428/original.jpg
 ---
 
 

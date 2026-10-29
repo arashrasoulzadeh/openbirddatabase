@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/sarothruridae/sarothrura-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/380903946
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380903946/original.jpeg
+images:
+- file: images/gruiformes/sarothruridae/sarothrura-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/380903946
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380903946/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/94813406
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94813406/original.jpg
+- file: images/gruiformes/sarothruridae/sarothrura-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/15913662
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/15913662/original.jpg
+- file: images/gruiformes/sarothruridae/sarothrura-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/74932491
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/74932491/original.jpg
+- file: images/gruiformes/sarothruridae/sarothrura-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/380903980
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380903980/original.jpeg
 ---
 
 

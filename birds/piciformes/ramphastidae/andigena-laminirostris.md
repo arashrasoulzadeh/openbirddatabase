@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/andigena-laminirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610859056
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610859056/original.jpg
+images:
+- file: images/piciformes/ramphastidae/andigena-laminirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610859056
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610859056/original.jpg
+- file: images/piciformes/ramphastidae/andigena-laminirostris/2.jpg
+  page: https://www.inaturalist.org/photos/670692374
+  author: Diego Inclan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670692374/original.jpg
+- file: images/piciformes/ramphastidae/andigena-laminirostris/3.jpg
+  page: https://www.inaturalist.org/photos/709718893
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709718893/original.jpg
+- file: images/piciformes/ramphastidae/andigena-laminirostris/4.jpg
+  page: https://www.inaturalist.org/photos/714681332
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714681332/original.jpg
+- file: images/piciformes/ramphastidae/andigena-laminirostris/5.jpg
+  page: https://www.inaturalist.org/photos/465041809
+  author: Theo Summer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465041809/original.jpeg
 ---
 
 

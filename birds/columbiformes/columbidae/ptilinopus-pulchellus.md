@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-pulchellus/1.jpg
+  page: https://www.inaturalist.org/photos/709303179
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709303179/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-pulchellus/1.jpg
+  page: https://www.inaturalist.org/photos/709303179
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709303179/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-pulchellus/2.jpg
+  page: https://www.inaturalist.org/photos/573147005
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573147005/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-pulchellus/3.jpg
+  page: https://www.inaturalist.org/photos/583299557
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583299557/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-pulchellus/4.jpg
+  page: https://www.inaturalist.org/photos/597656361
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597656361/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-pulchellus/5.jpg
+  page: https://www.inaturalist.org/photos/339503953
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339503953/original.jpg
 ---
 
 

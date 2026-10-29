@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/617407989
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617407989/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/617407989
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617407989/original.jpg
+- file: images/strigiformes/strigidae/otus-senegalensis/2.jpg
+  page: https://www.inaturalist.org/photos/709447353
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709447353/original.jpg
+- file: images/strigiformes/strigidae/otus-senegalensis/3.jpg
+  page: https://www.inaturalist.org/photos/475635327
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475635327/original.jpg
+- file: images/strigiformes/strigidae/otus-senegalensis/4.jpg
+  page: https://www.inaturalist.org/photos/555657669
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555657669/original.jpg
+- file: images/strigiformes/strigidae/otus-senegalensis/5.jpg
+  page: https://www.inaturalist.org/photos/487891654
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487891654/original.jpg
 ---
 
 

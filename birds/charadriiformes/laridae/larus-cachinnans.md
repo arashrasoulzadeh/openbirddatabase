@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/charadriiformes/laridae/larus-cachinnans/1.jpg
+  page: https://www.inaturalist.org/photos/605072439
+  author: Radu Teodoreanu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605072439/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-cachinnans/1.jpg
+  page: https://www.inaturalist.org/photos/605072439
+  author: Radu Teodoreanu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605072439/original.jpg
+- file: images/charadriiformes/laridae/larus-cachinnans/2.jpg
+  page: https://www.inaturalist.org/photos/605642419
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605642419/original.jpg
+- file: images/charadriiformes/laridae/larus-cachinnans/3.jpg
+  page: https://www.inaturalist.org/photos/605965233
+  author: Paolo Zucca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605965233/original.jpg
+- file: images/charadriiformes/laridae/larus-cachinnans/4.jpg
+  page: https://www.inaturalist.org/photos/606878442
+  author: Mykola Borysenko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606878442/original.jpg
+- file: images/charadriiformes/laridae/larus-cachinnans/5.jpg
+  page: https://www.inaturalist.org/photos/610966149
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610966149/original.jpg
 ---
 
 

@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/psittaciformes/psittaculidae/purpureicephalus-spurius/1.jpg
+  page: https://www.inaturalist.org/photos/609830336
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609830336/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/purpureicephalus-spurius/1.jpg
+  page: https://www.inaturalist.org/photos/609830336
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609830336/original.jpg
+- file: images/psittaciformes/psittaculidae/purpureicephalus-spurius/2.jpg
+  page: https://www.inaturalist.org/photos/615462088
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615462088/original.jpg
+- file: images/psittaciformes/psittaculidae/purpureicephalus-spurius/3.jpg
+  page: https://www.inaturalist.org/photos/617960736
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617960736/original.jpg
+- file: images/psittaciformes/psittaculidae/purpureicephalus-spurius/4.jpg
+  page: https://www.inaturalist.org/photos/651792600
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651792600/original.jpg
+- file: images/psittaciformes/psittaculidae/purpureicephalus-spurius/5.jpg
+  page: https://www.inaturalist.org/photos/609830349
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609830349/original.jpg
 ---
 
 

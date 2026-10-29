@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-cooperi/1.jpg
+  page: https://www.inaturalist.org/photos/613183034
+  author: John P
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613183034/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-cooperi/1.jpg
+  page: https://www.inaturalist.org/photos/613183034
+  author: John P
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613183034/original.jpg
+- file: images/strigiformes/strigidae/megascops-cooperi/2.jpg
+  page: https://www.inaturalist.org/photos/732727853
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732727853/original.jpg
+- file: images/strigiformes/strigidae/megascops-cooperi/3.jpg
+  page: https://www.inaturalist.org/photos/469619743
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469619743/original.jpg
+- file: images/strigiformes/strigidae/megascops-cooperi/4.jpg
+  page: https://www.inaturalist.org/photos/597987864
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597987864/original.jpg
+- file: images/strigiformes/strigidae/megascops-cooperi/5.jpg
+  page: https://www.inaturalist.org/photos/491191459
+  author: Barry Cottam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491191459/original.jpeg
 ---
 
 

@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/gymnoris-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/623249055
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623249055/original.jpg
+images:
+- file: images/passeriformes/passeridae/gymnoris-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/623249055
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623249055/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/666435264
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666435264/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/738150975
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738150975/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/711424001
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711424001/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/736052287
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736052287/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/manacus-aurantiacus/1.jpg
+  page: https://www.inaturalist.org/photos/624938832
+  author: Francis Pérez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624938832/original.jpg
+images:
+- file: images/passeriformes/pipridae/manacus-aurantiacus/1.jpg
+  page: https://www.inaturalist.org/photos/624938832
+  author: Francis Pérez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624938832/original.jpg
+- file: images/passeriformes/pipridae/manacus-aurantiacus/2.jpg
+  page: https://www.inaturalist.org/photos/732727676
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732727676/original.jpg
+- file: images/passeriformes/pipridae/manacus-aurantiacus/3.jpg
+  page: https://www.inaturalist.org/photos/656930818
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656930818/original.jpg
+- file: images/passeriformes/pipridae/manacus-aurantiacus/4.jpg
+  page: https://www.inaturalist.org/photos/735167946
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735167946/original.jpg
+- file: images/passeriformes/pipridae/manacus-aurantiacus/5.jpg
+  page: https://www.inaturalist.org/photos/464812987
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464812987/original.jpg
 ---
 
 

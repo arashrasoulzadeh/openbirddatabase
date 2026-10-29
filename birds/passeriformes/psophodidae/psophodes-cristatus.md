@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/psophodidae/psophodes-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/586859668
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586859668/original.jpg
+images:
+- file: images/passeriformes/psophodidae/psophodes-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/586859668
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586859668/original.jpg
+- file: images/passeriformes/psophodidae/psophodes-cristatus/2.jpg
+  page: https://www.inaturalist.org/photos/559697779
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559697779/original.jpg
+- file: images/passeriformes/psophodidae/psophodes-cristatus/3.jpg
+  page: https://www.inaturalist.org/photos/581507251
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581507251/original.jpg
+- file: images/passeriformes/psophodidae/psophodes-cristatus/4.jpg
+  page: https://www.inaturalist.org/photos/359974305
+  author: Will Cornwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359974305/original.jpeg
+- file: images/passeriformes/psophodidae/psophodes-cristatus/5.jpg
+  page: https://www.inaturalist.org/photos/586859731
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586859731/original.jpg
 ---
 
 

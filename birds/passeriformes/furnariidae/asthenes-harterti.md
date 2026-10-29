@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/asthenes-harterti/1.jpg
+  page: https://www.inaturalist.org/photos/587194475
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194475/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-harterti/1.jpg
+  page: https://www.inaturalist.org/photos/587194475
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194475/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-harterti/2.jpg
+  page: https://www.inaturalist.org/photos/216575566
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/216575566/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-harterti/3.jpg
+  page: https://www.inaturalist.org/photos/587194483
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587194483/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-harterti/4.jpg
+  page: https://www.inaturalist.org/photos/587189886
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587189886/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-harterti/5.jpg
+  page: https://www.inaturalist.org/photos/227041839
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227041839/original.jpg
 ---
 
 

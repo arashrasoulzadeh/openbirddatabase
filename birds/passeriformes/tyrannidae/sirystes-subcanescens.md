@@ -136,8 +136,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/sirystes-subcanescens/1.jpg
+  page: https://www.inaturalist.org/photos/463766016
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463766016/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/sirystes-subcanescens/1.jpg
+  page: https://www.inaturalist.org/photos/463766016
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463766016/original.jpeg
+- file: images/passeriformes/tyrannidae/sirystes-subcanescens/2.jpg
+  page: https://www.inaturalist.org/photos/429097561
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429097561/original.jpg
+- file: images/passeriformes/tyrannidae/sirystes-subcanescens/3.jpg
+  page: https://www.inaturalist.org/photos/463768145
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463768145/original.jpeg
+- file: images/passeriformes/tyrannidae/sirystes-subcanescens/4.jpg
+  page: https://www.inaturalist.org/photos/463766021
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463766021/original.jpeg
 ---
 
 

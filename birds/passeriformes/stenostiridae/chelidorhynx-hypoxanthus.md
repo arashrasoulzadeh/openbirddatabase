@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/stenostiridae/chelidorhynx-hypoxanthus/1.jpg
+  page: https://www.inaturalist.org/photos/610954559
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610954559/original.jpg
+images:
+- file: images/passeriformes/stenostiridae/chelidorhynx-hypoxanthus/1.jpg
+  page: https://www.inaturalist.org/photos/610954559
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610954559/original.jpg
+- file: images/passeriformes/stenostiridae/chelidorhynx-hypoxanthus/2.jpg
+  page: https://www.inaturalist.org/photos/616542960
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616542960/original.jpg
+- file: images/passeriformes/stenostiridae/chelidorhynx-hypoxanthus/3.jpg
+  page: https://www.inaturalist.org/photos/721146550
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721146550/original.jpg
+- file: images/passeriformes/stenostiridae/chelidorhynx-hypoxanthus/4.jpg
+  page: https://www.inaturalist.org/photos/634482929
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634482929/original.jpg
+- file: images/passeriformes/stenostiridae/chelidorhynx-hypoxanthus/5.jpg
+  page: https://www.inaturalist.org/photos/468018622
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468018622/original.jpeg
 ---
 
 

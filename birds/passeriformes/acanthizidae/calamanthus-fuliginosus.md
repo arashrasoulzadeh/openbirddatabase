@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/calamanthus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/613852729
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613852729/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/calamanthus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/613852729
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613852729/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-fuliginosus/2.jpg
+  page: https://www.inaturalist.org/photos/617691993
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617691993/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-fuliginosus/3.jpg
+  page: https://www.inaturalist.org/photos/653214698
+  author: fungihunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653214698/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-fuliginosus/4.jpg
+  page: https://www.inaturalist.org/photos/687636718
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687636718/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-fuliginosus/5.jpg
+  page: https://www.inaturalist.org/photos/710181444
+  author: Samuel Garrett
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710181444/original.jpg
 ---
 
 

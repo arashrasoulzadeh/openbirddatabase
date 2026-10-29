@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-argyrotis/1.jpg
+  page: https://www.inaturalist.org/photos/730288877
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730288877/original.jpg
+images:
+- file: images/galliformes/cracidae/penelope-argyrotis/1.jpg
+  page: https://www.inaturalist.org/photos/730288877
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730288877/original.jpg
+- file: images/galliformes/cracidae/penelope-argyrotis/2.jpg
+  page: https://www.inaturalist.org/photos/473493424
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473493424/original.jpeg
+- file: images/galliformes/cracidae/penelope-argyrotis/3.jpg
+  page: https://www.inaturalist.org/photos/597769943
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597769943/original.jpg
+- file: images/galliformes/cracidae/penelope-argyrotis/4.jpg
+  page: https://www.inaturalist.org/photos/468645639
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468645639/original.jpeg
+- file: images/galliformes/cracidae/penelope-argyrotis/5.jpg
+  page: https://www.inaturalist.org/photos/473511144
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473511144/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-chrysauchen/1.jpg
+  page: https://www.inaturalist.org/photos/614255349
+  author: Jensyn Scott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614255349/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-chrysauchen/1.jpg
+  page: https://www.inaturalist.org/photos/614255349
+  author: Jensyn Scott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614255349/original.jpg
+- file: images/piciformes/picidae/melanerpes-chrysauchen/2.jpg
+  page: https://www.inaturalist.org/photos/622962540
+  author: Oliver Power
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622962540/original.jpg
+- file: images/piciformes/picidae/melanerpes-chrysauchen/3.jpg
+  page: https://www.inaturalist.org/photos/720775056
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720775056/original.jpg
+- file: images/piciformes/picidae/melanerpes-chrysauchen/4.jpg
+  page: https://www.inaturalist.org/photos/656937393
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656937393/original.jpg
+- file: images/piciformes/picidae/melanerpes-chrysauchen/5.jpg
+  page: https://www.inaturalist.org/photos/707257047
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707257047/original.jpg
 ---
 
 

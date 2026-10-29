@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/myadestes-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/481016292
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481016292/original.jpg
+images:
+- file: images/passeriformes/turdidae/myadestes-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/481016292
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481016292/original.jpg
+- file: images/passeriformes/turdidae/myadestes-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/351279210
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351279210/original.jpeg
+- file: images/passeriformes/turdidae/myadestes-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/223957720
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223957720/original.jpeg
+- file: images/passeriformes/turdidae/myadestes-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/459752890
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459752890/original.jpg
+- file: images/passeriformes/turdidae/myadestes-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/137714947
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137714947/original.jpg
 ---
 
 

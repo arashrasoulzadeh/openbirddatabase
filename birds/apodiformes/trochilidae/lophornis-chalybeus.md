@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lophornis-chalybeus/1.jpg
+  page: https://www.inaturalist.org/photos/612766977
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612766977/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lophornis-chalybeus/1.jpg
+  page: https://www.inaturalist.org/photos/612766977
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612766977/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-chalybeus/2.jpg
+  page: https://www.inaturalist.org/photos/641150616
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150616/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-chalybeus/3.jpg
+  page: https://www.inaturalist.org/photos/650467949
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650467949/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-chalybeus/4.jpg
+  page: https://www.inaturalist.org/photos/681453941
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681453941/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-chalybeus/5.jpg
+  page: https://www.inaturalist.org/photos/685209400
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685209400/original.jpg
 ---
 
 

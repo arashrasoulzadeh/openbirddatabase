@@ -144,10 +144,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/acanthizidae/gerygone-mouki/1.jpg
+  page: https://www.inaturalist.org/photos/605303675
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303675/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/gerygone-mouki/1.jpg
+  page: https://www.inaturalist.org/photos/605303675
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303675/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-mouki/2.jpg
+  page: https://www.inaturalist.org/photos/613780160
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613780160/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-mouki/3.jpg
+  page: https://www.inaturalist.org/photos/614137171
+  author: Lucas Christofides
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614137171/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-mouki/4.jpg
+  page: https://www.inaturalist.org/photos/615415328
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615415328/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-mouki/5.jpg
+  page: https://www.inaturalist.org/photos/615925489
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615925489/original.jpg
 ---
 
 

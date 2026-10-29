@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/monasa-atra/1.jpg
+  page: https://www.inaturalist.org/photos/612903815
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612903815/original.jpg
+images:
+- file: images/piciformes/bucconidae/monasa-atra/1.jpg
+  page: https://www.inaturalist.org/photos/612903815
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612903815/original.jpg
+- file: images/piciformes/bucconidae/monasa-atra/2.jpg
+  page: https://www.inaturalist.org/photos/617327382
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327382/original.jpg
+- file: images/piciformes/bucconidae/monasa-atra/3.jpg
+  page: https://www.inaturalist.org/photos/612531764
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612531764/original.jpg
+- file: images/piciformes/bucconidae/monasa-atra/4.jpg
+  page: https://www.inaturalist.org/photos/722962163
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722962163/original.jpg
+- file: images/piciformes/bucconidae/monasa-atra/5.jpg
+  page: https://www.inaturalist.org/photos/731013367
+  author: Parque Nacional da Serra do Cipó
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731013367/original.jpg
 ---
 
 

@@ -126,8 +126,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-sulaensis/1.jpg
+  page: https://www.inaturalist.org/photos/583509661
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509661/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-sulaensis/1.jpg
+  page: https://www.inaturalist.org/photos/583509661
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509661/original.jpg
+- file: images/strigiformes/strigidae/otus-sulaensis/2.jpg
+  page: https://www.inaturalist.org/photos/435254144
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435254144/original.jpeg
+- file: images/strigiformes/strigidae/otus-sulaensis/3.jpg
+  page: https://www.inaturalist.org/photos/435254199
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435254199/original.jpeg
+- file: images/strigiformes/strigidae/otus-sulaensis/4.jpg
+  page: https://www.inaturalist.org/photos/435254133
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435254133/original.jpeg
+- file: images/strigiformes/strigidae/otus-sulaensis/5.jpg
+  page: https://www.inaturalist.org/photos/435254111
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435254111/original.jpeg
 ---
 
 

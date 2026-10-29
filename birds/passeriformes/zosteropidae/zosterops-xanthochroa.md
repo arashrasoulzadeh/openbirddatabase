@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-xanthochroa/1.jpg
+  page: https://www.inaturalist.org/photos/720546534
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720546534/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-xanthochroa/1.jpg
+  page: https://www.inaturalist.org/photos/720546534
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720546534/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-xanthochroa/2.jpg
+  page: https://www.inaturalist.org/photos/718351806
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718351806/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-xanthochroa/3.jpg
+  page: https://www.inaturalist.org/photos/585895564
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585895564/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-xanthochroa/4.jpg
+  page: https://www.inaturalist.org/photos/599685087
+  author: Chuck Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599685087/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-xanthochroa/5.jpg
+  page: https://www.inaturalist.org/photos/33486160
+  author: Lennart Hudel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/33486160/original.jpeg
 ---
 
 

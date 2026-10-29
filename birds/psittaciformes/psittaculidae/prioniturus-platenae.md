@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/prioniturus-platenae/1.jpg
+  page: https://www.inaturalist.org/photos/469442580
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442580/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/prioniturus-platenae/1.jpg
+  page: https://www.inaturalist.org/photos/469442580
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442580/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-platenae/2.jpg
+  page: https://www.inaturalist.org/photos/388711014
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388711014/original.jpeg
+- file: images/psittaciformes/psittaculidae/prioniturus-platenae/3.jpg
+  page: https://www.inaturalist.org/photos/246632034
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246632034/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-platenae/4.jpg
+  page: https://www.inaturalist.org/photos/469442591
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442591/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-platenae/5.jpg
+  page: https://www.inaturalist.org/photos/388669087
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388669087/original.jpeg
 ---
 
 

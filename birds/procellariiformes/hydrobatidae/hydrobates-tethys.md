@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-tethys/1.jpg
+  page: https://www.inaturalist.org/photos/610476178
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610476178/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-tethys/1.jpg
+  page: https://www.inaturalist.org/photos/610476178
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610476178/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-tethys/2.jpg
+  page: https://www.inaturalist.org/photos/638071347
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638071347/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-tethys/3.jpg
+  page: https://www.inaturalist.org/photos/744245309
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744245309/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-tethys/4.jpg
+  page: https://www.inaturalist.org/photos/528452544
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528452544/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-tethys/5.jpg
+  page: https://www.inaturalist.org/photos/674487483
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674487483/original.jpg
 ---
 
 

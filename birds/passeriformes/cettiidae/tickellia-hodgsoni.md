@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/tickellia-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/196649401
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196649401/original.jpg
+images:
+- file: images/passeriformes/cettiidae/tickellia-hodgsoni/1.jpg
+  page: https://www.inaturalist.org/photos/196649401
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196649401/original.jpg
+- file: images/passeriformes/cettiidae/tickellia-hodgsoni/2.jpg
+  page: https://www.inaturalist.org/photos/95939538
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95939538/original.jpg
+- file: images/passeriformes/cettiidae/tickellia-hodgsoni/3.jpg
+  page: https://www.inaturalist.org/photos/94296279
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94296279/original.jpeg
+- file: images/passeriformes/cettiidae/tickellia-hodgsoni/4.jpg
+  page: https://www.inaturalist.org/photos/95940059
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95940059/original.jpg
+- file: images/passeriformes/cettiidae/tickellia-hodgsoni/5.jpg
+  page: https://www.inaturalist.org/photos/94296285
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94296285/original.jpeg
 ---
 
 

@@ -138,8 +138,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/conothraupis-mesoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/733070016
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733070016/original.jpg
+images:
+- file: images/passeriformes/thraupidae/conothraupis-mesoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/733070016
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733070016/original.jpg
+- file: images/passeriformes/thraupidae/conothraupis-mesoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/554341500
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554341500/original.jpg
+- file: images/passeriformes/thraupidae/conothraupis-mesoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/429991642
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429991642/original.jpg
+- file: images/passeriformes/thraupidae/conothraupis-mesoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/49062901
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49062901/original.jpeg
 ---
 
 

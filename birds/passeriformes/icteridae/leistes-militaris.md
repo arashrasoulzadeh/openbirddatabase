@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/leistes-militaris/1.jpg
+  page: https://www.inaturalist.org/photos/609546914
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609546914/original.jpg
+images:
+- file: images/passeriformes/icteridae/leistes-militaris/1.jpg
+  page: https://www.inaturalist.org/photos/609546914
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609546914/original.jpg
+- file: images/passeriformes/icteridae/leistes-militaris/2.jpg
+  page: https://www.inaturalist.org/photos/610012511
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012511/original.jpg
+- file: images/passeriformes/icteridae/leistes-militaris/3.jpg
+  page: https://www.inaturalist.org/photos/609093904
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609093904/original.jpg
+- file: images/passeriformes/icteridae/leistes-militaris/4.jpg
+  page: https://www.inaturalist.org/photos/617487234
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617487234/original.jpg
+- file: images/passeriformes/icteridae/leistes-militaris/5.jpg
+  page: https://www.inaturalist.org/photos/614477744
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614477744/original.jpg
 ---
 
 

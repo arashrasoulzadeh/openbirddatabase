@@ -149,8 +149,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-collaria/1.jpg
+  page: https://www.inaturalist.org/photos/469424570
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469424570/original.jpeg
+images:
+- file: images/psittaciformes/psittacidae/amazona-collaria/1.jpg
+  page: https://www.inaturalist.org/photos/469424570
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469424570/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-collaria/2.jpg
+  page: https://www.inaturalist.org/photos/353880824
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353880824/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-collaria/3.jpg
+  page: https://www.inaturalist.org/photos/337677070
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337677070/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-collaria/4.jpg
+  page: https://www.inaturalist.org/photos/470167270
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470167270/original.jpeg
 ---
 
 

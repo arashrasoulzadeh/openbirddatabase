@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/strix-rufipes/1.jpg
+  page: https://www.inaturalist.org/photos/629626657
+  author: Ricardo Barrientos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629626657/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-rufipes/1.jpg
+  page: https://www.inaturalist.org/photos/629626657
+  author: Ricardo Barrientos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629626657/original.jpg
+- file: images/strigiformes/strigidae/strix-rufipes/2.jpg
+  page: https://www.inaturalist.org/photos/665804894
+  author: Fabian EGL
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665804894/original.jpg
+- file: images/strigiformes/strigidae/strix-rufipes/3.jpg
+  page: https://www.inaturalist.org/photos/742947535
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742947535/original.jpg
+- file: images/strigiformes/strigidae/strix-rufipes/4.jpg
+  page: https://www.inaturalist.org/photos/487143697
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487143697/original.jpeg
+- file: images/strigiformes/strigidae/strix-rufipes/5.jpg
+  page: https://www.inaturalist.org/photos/558274725
+  author: Roland Kays
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558274725/original.jpg
 ---
 
 

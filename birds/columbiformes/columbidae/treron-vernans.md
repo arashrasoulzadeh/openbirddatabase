@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-vernans/1.jpg
+  page: https://www.inaturalist.org/photos/608498944
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608498944/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-vernans/1.jpg
+  page: https://www.inaturalist.org/photos/608498944
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608498944/original.jpg
+- file: images/columbiformes/columbidae/treron-vernans/2.jpg
+  page: https://www.inaturalist.org/photos/609659091
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609659091/original.jpg
+- file: images/columbiformes/columbidae/treron-vernans/3.jpg
+  page: https://www.inaturalist.org/photos/607894861
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607894861/original.jpg
+- file: images/columbiformes/columbidae/treron-vernans/4.jpg
+  page: https://www.inaturalist.org/photos/610145297
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610145297/original.jpg
+- file: images/columbiformes/columbidae/treron-vernans/5.jpg
+  page: https://www.inaturalist.org/photos/610396143
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610396143/original.jpg
 ---
 
 

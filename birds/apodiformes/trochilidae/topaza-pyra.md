@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/topaza-pyra/1.jpg
+  page: https://www.inaturalist.org/photos/620917332
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620917332/original.jpg
+images:
+- file: images/apodiformes/trochilidae/topaza-pyra/1.jpg
+  page: https://www.inaturalist.org/photos/620917332
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620917332/original.jpg
+- file: images/apodiformes/trochilidae/topaza-pyra/2.jpg
+  page: https://www.inaturalist.org/photos/523686406
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686406/original.jpg
+- file: images/apodiformes/trochilidae/topaza-pyra/3.jpg
+  page: https://www.inaturalist.org/photos/549588689
+  author: caseyhh
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549588689/original.jpg
+- file: images/apodiformes/trochilidae/topaza-pyra/4.jpg
+  page: https://www.inaturalist.org/photos/396294354
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396294354/original.jpg
+- file: images/apodiformes/trochilidae/topaza-pyra/5.jpg
+  page: https://www.inaturalist.org/photos/158454390
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158454390/original.jpeg
 ---
 
 

@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/cisticolidae/apalis-alticola/1.jpg
+  page: https://www.inaturalist.org/photos/583394115
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583394115/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/apalis-alticola/1.jpg
+  page: https://www.inaturalist.org/photos/583394115
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583394115/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-alticola/2.jpg
+  page: https://www.inaturalist.org/photos/476343146
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476343146/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-alticola/3.jpg
+  page: https://www.inaturalist.org/photos/583700934
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583700934/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-alticola/4.jpg
+  page: https://www.inaturalist.org/photos/583700937
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583700937/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-alticola/5.jpg
+  page: https://www.inaturalist.org/photos/512156425
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/512156425/original.jpg
 ---
 
 

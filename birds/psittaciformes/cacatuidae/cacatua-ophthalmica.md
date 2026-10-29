@@ -143,10 +143,43 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-ophthalmica/1.jpg
+  page: https://www.inaturalist.org/photos/334771259
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334771259/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-ophthalmica/1.jpg
+  page: https://www.inaturalist.org/photos/334771259
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334771259/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-ophthalmica/2.jpg
+  page: https://www.inaturalist.org/photos/334771445
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334771445/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-ophthalmica/3.jpg
+  page: https://www.inaturalist.org/photos/335007671
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335007671/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-ophthalmica/4.jpg
+  page: https://www.inaturalist.org/photos/335009837
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335009837/original.jpg
 ---
 
 

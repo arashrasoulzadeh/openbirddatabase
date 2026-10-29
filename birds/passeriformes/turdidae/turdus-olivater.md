@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-olivater/1.jpg
+  page: https://www.inaturalist.org/photos/703419080
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703419080/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-olivater/1.jpg
+  page: https://www.inaturalist.org/photos/703419080
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703419080/original.jpg
+- file: images/passeriformes/turdidae/turdus-olivater/2.jpg
+  page: https://www.inaturalist.org/photos/469905605
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469905605/original.jpeg
+- file: images/passeriformes/turdidae/turdus-olivater/3.jpg
+  page: https://www.inaturalist.org/photos/477412113
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477412113/original.jpeg
+- file: images/passeriformes/turdidae/turdus-olivater/4.jpg
+  page: https://www.inaturalist.org/photos/601087539
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601087539/original.jpg
+- file: images/passeriformes/turdidae/turdus-olivater/5.jpg
+  page: https://www.inaturalist.org/photos/355301849
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355301849/original.jpeg
 ---
 
 

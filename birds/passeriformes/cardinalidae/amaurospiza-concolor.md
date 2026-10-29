@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/amaurospiza-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/470266024
+  author: Dylan Camacho Guzman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470266024/original.jpeg
+images:
+- file: images/passeriformes/cardinalidae/amaurospiza-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/470266024
+  author: Dylan Camacho Guzman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470266024/original.jpeg
+- file: images/passeriformes/cardinalidae/amaurospiza-concolor/2.jpg
+  page: https://www.inaturalist.org/photos/362657505
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362657505/original.jpeg
+- file: images/passeriformes/cardinalidae/amaurospiza-concolor/3.jpg
+  page: https://www.inaturalist.org/photos/314914855
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314914855/original.jpg
+- file: images/passeriformes/cardinalidae/amaurospiza-concolor/4.jpg
+  page: https://www.inaturalist.org/photos/470266033
+  author: Dylan Camacho Guzman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470266033/original.jpeg
+- file: images/passeriformes/cardinalidae/amaurospiza-concolor/5.jpg
+  page: https://www.inaturalist.org/photos/470266052
+  author: Dylan Camacho Guzman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470266052/original.jpeg
 ---
 
 

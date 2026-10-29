@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/chlorocichla-laetissima/1.jpg
+  page: https://www.inaturalist.org/photos/584776692
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584776692/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/chlorocichla-laetissima/1.jpg
+  page: https://www.inaturalist.org/photos/584776692
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584776692/original.jpg
+- file: images/passeriformes/pycnonotidae/chlorocichla-laetissima/2.jpg
+  page: https://www.inaturalist.org/photos/176766226
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176766226/original.jpeg
+- file: images/passeriformes/pycnonotidae/chlorocichla-laetissima/3.jpg
+  page: https://www.inaturalist.org/photos/6102297
+  author: Doug Macaulay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/6102297/original.jpeg
+- file: images/passeriformes/pycnonotidae/chlorocichla-laetissima/4.jpg
+  page: https://www.inaturalist.org/photos/584776718
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584776718/original.jpg
+- file: images/passeriformes/pycnonotidae/chlorocichla-laetissima/5.jpg
+  page: https://www.inaturalist.org/photos/6102299
+  author: Doug Macaulay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/6102299/original.jpeg
 ---
 
 

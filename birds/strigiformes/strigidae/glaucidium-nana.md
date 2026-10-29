@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-nana/1.jpg
+  page: https://www.inaturalist.org/photos/606216775
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216775/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-nana/1.jpg
+  page: https://www.inaturalist.org/photos/606216775
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216775/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-nana/2.jpg
+  page: https://www.inaturalist.org/photos/611931152
+  author: Jordan Viveros
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611931152/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-nana/3.jpg
+  page: https://www.inaturalist.org/photos/612850823
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612850823/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-nana/4.jpg
+  page: https://www.inaturalist.org/photos/613760462
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613760462/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-nana/5.jpg
+  page: https://www.inaturalist.org/photos/615509257
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615509257/original.jpg
 ---
 
 

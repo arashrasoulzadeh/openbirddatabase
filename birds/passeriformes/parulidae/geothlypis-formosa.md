@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/parulidae/geothlypis-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/605576783
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605576783/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/605576783
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605576783/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-formosa/2.jpg
+  page: https://www.inaturalist.org/photos/614507553
+  author: Phoenix M.S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614507553/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-formosa/3.jpg
+  page: https://www.inaturalist.org/photos/619096594
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619096594/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-formosa/4.jpg
+  page: https://www.inaturalist.org/photos/632971434
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632971434/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-formosa/5.jpg
+  page: https://www.inaturalist.org/photos/636797922
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636797922/original.jpg
 ---
 
 

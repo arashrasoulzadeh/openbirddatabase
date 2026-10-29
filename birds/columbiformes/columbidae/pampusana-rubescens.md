@@ -134,8 +134,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/pampusana-rubescens/1.jpg
+  page: https://www.inaturalist.org/photos/395654852
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395654852/original.jpg
+images:
+- file: images/columbiformes/columbidae/pampusana-rubescens/1.jpg
+  page: https://www.inaturalist.org/photos/395654852
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395654852/original.jpg
+- file: images/columbiformes/columbidae/pampusana-rubescens/2.jpg
+  page: https://www.inaturalist.org/photos/395654859
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395654859/original.jpg
+- file: images/columbiformes/columbidae/pampusana-rubescens/3.jpg
+  page: https://www.inaturalist.org/photos/395654856
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395654856/original.jpg
 ---
 
 

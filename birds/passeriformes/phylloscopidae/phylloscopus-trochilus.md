@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-trochilus/1.jpg
+  page: https://www.inaturalist.org/photos/611854909
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611854909/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochilus/1.jpg
+  page: https://www.inaturalist.org/photos/611854909
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611854909/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochilus/2.jpg
+  page: https://www.inaturalist.org/photos/614186610
+  author: Davide
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614186610/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochilus/3.jpg
+  page: https://www.inaturalist.org/photos/615507065
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615507065/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochilus/4.jpg
+  page: https://www.inaturalist.org/photos/617730434
+  author: Roman Sergeychik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617730434/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochilus/5.jpg
+  page: https://www.inaturalist.org/photos/625156042
+  author: Karsten Ste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625156042/original.jpg
 ---
 
 

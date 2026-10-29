@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/setophaga-plumbea/1.jpg
+  page: https://www.inaturalist.org/photos/473777888
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473777888/original.jpeg
+images:
+- file: images/passeriformes/parulidae/setophaga-plumbea/1.jpg
+  page: https://www.inaturalist.org/photos/473777888
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473777888/original.jpeg
+- file: images/passeriformes/parulidae/setophaga-plumbea/2.jpg
+  page: https://www.inaturalist.org/photos/188204028
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188204028/original.jpeg
+- file: images/passeriformes/parulidae/setophaga-plumbea/3.jpg
+  page: https://www.flickr.com/photos/103441351@N02/14585455634/
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/968761/original.jpg
+- file: images/passeriformes/parulidae/setophaga-plumbea/4.jpg
+  page: https://www.inaturalist.org/photos/98393863
+  author: Yves Bas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/98393863/original.jpg
+- file: images/passeriformes/parulidae/setophaga-plumbea/5.jpg
+  page: https://www.inaturalist.org/photos/242876191
+  author: John Thomlinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242876191/original.jpeg
 ---
 
 

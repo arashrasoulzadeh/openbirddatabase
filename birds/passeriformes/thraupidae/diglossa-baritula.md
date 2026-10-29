@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-baritula/1.jpg
+  page: https://www.inaturalist.org/photos/620297212
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620297212/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-baritula/1.jpg
+  page: https://www.inaturalist.org/photos/620297212
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620297212/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-baritula/2.jpg
+  page: https://www.inaturalist.org/photos/685972410
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685972410/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-baritula/3.jpg
+  page: https://www.inaturalist.org/photos/717292566
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717292566/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-baritula/4.jpg
+  page: https://www.inaturalist.org/photos/739735607
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739735607/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-baritula/5.jpg
+  page: https://www.inaturalist.org/photos/464397025
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464397025/original.jpg
 ---
 
 

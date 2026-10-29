@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/rhodopis-vesper/1.jpg
+  page: https://www.inaturalist.org/photos/616293000
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616293000/original.jpg
+images:
+- file: images/apodiformes/trochilidae/rhodopis-vesper/1.jpg
+  page: https://www.inaturalist.org/photos/616293000
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616293000/original.jpg
+- file: images/apodiformes/trochilidae/rhodopis-vesper/2.jpg
+  page: https://www.inaturalist.org/photos/632884315
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632884315/original.jpg
+- file: images/apodiformes/trochilidae/rhodopis-vesper/3.jpg
+  page: https://www.inaturalist.org/photos/637516635
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637516635/original.jpg
+- file: images/apodiformes/trochilidae/rhodopis-vesper/4.jpg
+  page: https://www.inaturalist.org/photos/655033161
+  author: the natural moment
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655033161/original.jpg
+- file: images/apodiformes/trochilidae/rhodopis-vesper/5.jpg
+  page: https://www.inaturalist.org/photos/662857634
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662857634/original.jpg
 ---
 
 

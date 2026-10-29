@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/selenidera-reinwardtii/1.jpg
+  page: https://www.inaturalist.org/photos/685311886
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685311886/original.jpg
+images:
+- file: images/piciformes/ramphastidae/selenidera-reinwardtii/1.jpg
+  page: https://www.inaturalist.org/photos/685311886
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685311886/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-reinwardtii/2.jpg
+  page: https://www.inaturalist.org/photos/703325078
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703325078/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-reinwardtii/3.jpg
+  page: https://www.inaturalist.org/photos/524663680
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524663680/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-reinwardtii/4.jpg
+  page: https://www.inaturalist.org/photos/621353544
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621353544/original.jpg
+- file: images/piciformes/ramphastidae/selenidera-reinwardtii/5.jpg
+  page: https://www.inaturalist.org/photos/351358178
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351358178/original.jpg
 ---
 
 

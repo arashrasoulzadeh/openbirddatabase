@@ -139,10 +139,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/columbiformes/columbidae/geopelia-maugeus/1.jpg
+  page: https://www.inaturalist.org/photos/662627796
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662627796/original.jpg
+images:
+- file: images/columbiformes/columbidae/geopelia-maugeus/1.jpg
+  page: https://www.inaturalist.org/photos/662627796
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662627796/original.jpg
+- file: images/columbiformes/columbidae/geopelia-maugeus/2.jpg
+  page: https://www.inaturalist.org/photos/686418703
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686418703/original.jpg
+- file: images/columbiformes/columbidae/geopelia-maugeus/3.jpg
+  page: https://www.inaturalist.org/photos/638849684
+  author: wilmotsenaratne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638849684/original.jpg
+- file: images/columbiformes/columbidae/geopelia-maugeus/4.jpg
+  page: https://www.inaturalist.org/photos/414057874
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414057874/original.jpeg
+- file: images/columbiformes/columbidae/geopelia-maugeus/5.jpg
+  page: https://www.inaturalist.org/photos/436162019
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436162019/original.jpg
 ---
 
 

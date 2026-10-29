@@ -120,8 +120,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/motacillidae/anthus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/718303905
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718303905/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/718303905
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718303905/original.jpg
+- file: images/passeriformes/motacillidae/anthus-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/718303910
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718303910/original.jpg
+- file: images/passeriformes/motacillidae/anthus-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/718303981
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718303981/original.jpg
+- file: images/passeriformes/motacillidae/anthus-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/718304035
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718304035/original.jpg
+- file: images/passeriformes/motacillidae/anthus-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/718304075
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718304075/original.jpg
 ---
 
 

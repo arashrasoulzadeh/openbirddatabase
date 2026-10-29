@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 2
+image:
+  file: images/gruiformes/rallidae/laterallus-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/359134618
+  author: JD Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359134618/original.jpeg
+images:
+- file: images/gruiformes/rallidae/laterallus-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/359134618
+  author: JD Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359134618/original.jpeg
+- file: images/gruiformes/rallidae/laterallus-jamaicensis/2.jpg
+  page: https://www.inaturalist.org/photos/436739487
+  author: Rob Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436739487/original.jpeg
+- file: images/gruiformes/rallidae/laterallus-jamaicensis/3.jpg
+  page: https://www.inaturalist.org/photos/467395159
+  author: Nicole
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467395159/original.jpeg
+- file: images/gruiformes/rallidae/laterallus-jamaicensis/4.jpg
+  page: https://www.inaturalist.org/photos/445645025
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445645025/original.jpeg
+- file: images/gruiformes/rallidae/laterallus-jamaicensis/5.jpg
+  page: https://www.inaturalist.org/photos/246159637
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246159637/original.jpg
 ---
 
 

@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/surniculus-dicruroides/1.jpg
+  page: https://www.inaturalist.org/photos/612340882
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612340882/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/surniculus-dicruroides/1.jpg
+  page: https://www.inaturalist.org/photos/612340882
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612340882/original.jpg
+- file: images/cuculiformes/cuculidae/surniculus-dicruroides/2.jpg
+  page: https://www.inaturalist.org/photos/616152214
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152214/original.jpg
+- file: images/cuculiformes/cuculidae/surniculus-dicruroides/3.jpg
+  page: https://www.inaturalist.org/photos/618849194
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849194/original.jpg
+- file: images/cuculiformes/cuculidae/surniculus-dicruroides/4.jpg
+  page: https://www.inaturalist.org/photos/615942654
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615942654/original.jpg
+- file: images/cuculiformes/cuculidae/surniculus-dicruroides/5.jpg
+  page: https://www.inaturalist.org/photos/616973970
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616973970/original.jpg
 ---
 
 

@@ -203,8 +203,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/clanga-clanga/1.jpg
+  page: https://www.inaturalist.org/photos/609171654
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609171654/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/clanga-clanga/1.jpg
+  page: https://www.inaturalist.org/photos/609171654
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609171654/original.jpg
+- file: images/accipitriformes/accipitridae/clanga-clanga/2.jpg
+  page: https://www.inaturalist.org/photos/611495762
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611495762/original.jpg
+- file: images/accipitriformes/accipitridae/clanga-clanga/3.jpg
+  page: https://www.inaturalist.org/photos/613451627
+  author: Benjámin Gábor Balog
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613451627/original.jpg
+- file: images/accipitriformes/accipitridae/clanga-clanga/4.jpg
+  page: https://www.inaturalist.org/photos/613914215
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613914215/original.jpg
+- file: images/accipitriformes/accipitridae/clanga-clanga/5.jpg
+  page: https://www.inaturalist.org/photos/610937566
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610937566/original.jpg
 ---
 
 

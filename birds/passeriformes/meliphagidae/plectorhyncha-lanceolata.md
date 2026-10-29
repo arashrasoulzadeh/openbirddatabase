@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/meliphagidae/plectorhyncha-lanceolata/1.jpg
+  page: https://www.inaturalist.org/photos/606338244
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606338244/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/plectorhyncha-lanceolata/1.jpg
+  page: https://www.inaturalist.org/photos/606338244
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606338244/original.jpg
+- file: images/passeriformes/meliphagidae/plectorhyncha-lanceolata/2.jpg
+  page: https://www.inaturalist.org/photos/607794139
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607794139/original.jpg
+- file: images/passeriformes/meliphagidae/plectorhyncha-lanceolata/3.jpg
+  page: https://www.inaturalist.org/photos/606761246
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606761246/original.jpg
+- file: images/passeriformes/meliphagidae/plectorhyncha-lanceolata/4.jpg
+  page: https://www.inaturalist.org/photos/669333837
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669333837/original.jpg
+- file: images/passeriformes/meliphagidae/plectorhyncha-lanceolata/5.jpg
+  page: https://www.inaturalist.org/photos/675837197
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675837197/original.jpg
 ---
 
 

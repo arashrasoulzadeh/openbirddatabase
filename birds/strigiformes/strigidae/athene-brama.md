@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/athene-brama/1.jpg
+  page: https://www.inaturalist.org/photos/607190155
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607190155/original.jpg
+images:
+- file: images/strigiformes/strigidae/athene-brama/1.jpg
+  page: https://www.inaturalist.org/photos/607190155
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607190155/original.jpg
+- file: images/strigiformes/strigidae/athene-brama/2.jpg
+  page: https://www.inaturalist.org/photos/609146661
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609146661/original.jpg
+- file: images/strigiformes/strigidae/athene-brama/3.jpg
+  page: https://www.inaturalist.org/photos/622356562
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356562/original.jpg
+- file: images/strigiformes/strigidae/athene-brama/4.jpg
+  page: https://www.inaturalist.org/photos/621843434
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621843434/original.jpg
+- file: images/strigiformes/strigidae/athene-brama/5.jpg
+  page: https://www.inaturalist.org/photos/609146882
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609146882/original.jpg
 ---
 
 

@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/psittaciformes/psittacidae/pionites-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/464120891
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464120891/original.jpeg
+images:
+- file: images/psittaciformes/psittacidae/pionites-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/464120891
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464120891/original.jpeg
+- file: images/psittaciformes/psittacidae/pionites-melanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/486538429
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486538429/original.jpeg
+- file: images/psittaciformes/psittacidae/pionites-melanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/482567630
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482567630/original.png
+- file: images/psittaciformes/psittacidae/pionites-melanocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/552785626
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552785626/original.jpg
+- file: images/psittaciformes/psittacidae/pionites-melanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/535649783
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535649783/original.jpg
 ---
 
 

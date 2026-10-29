@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/indicatoridae/indicator-willcocksi/1.jpg
+  page: https://www.inaturalist.org/photos/555846104
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555846104/original.jpg
+images:
+- file: images/piciformes/indicatoridae/indicator-willcocksi/1.jpg
+  page: https://www.inaturalist.org/photos/555846104
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555846104/original.jpg
+- file: images/piciformes/indicatoridae/indicator-willcocksi/2.jpg
+  page: https://www.inaturalist.org/photos/555846110
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555846110/original.jpg
+- file: images/piciformes/indicatoridae/indicator-willcocksi/3.jpg
+  page: https://www.inaturalist.org/photos/555846114
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555846114/original.jpg
+- file: images/piciformes/indicatoridae/indicator-willcocksi/4.jpg
+  page: https://www.inaturalist.org/photos/555846103
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555846103/original.jpg
+- file: images/piciformes/indicatoridae/indicator-willcocksi/5.jpg
+  page: https://www.inaturalist.org/photos/557826223
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557826223/original.jpg
 ---
 
 

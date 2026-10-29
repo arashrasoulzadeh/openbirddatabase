@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/torreornis-inexpectata/1.jpg
+  page: https://www.inaturalist.org/photos/627031165
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627031165/original.jpg
+images:
+- file: images/passeriformes/passerellidae/torreornis-inexpectata/1.jpg
+  page: https://www.inaturalist.org/photos/627031165
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627031165/original.jpg
+- file: images/passeriformes/passerellidae/torreornis-inexpectata/2.jpg
+  page: https://www.inaturalist.org/photos/636403935
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636403935/original.jpg
+- file: images/passeriformes/passerellidae/torreornis-inexpectata/3.jpg
+  page: https://www.inaturalist.org/photos/354676407
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354676407/original.jpg
+- file: images/passeriformes/passerellidae/torreornis-inexpectata/4.jpg
+  page: https://www.inaturalist.org/photos/252706020
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252706020/original.jpg
+- file: images/passeriformes/passerellidae/torreornis-inexpectata/5.jpg
+  page: https://www.inaturalist.org/photos/187005084
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187005084/original.jpg
 ---
 
 

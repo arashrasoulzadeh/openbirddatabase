@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-nigripennis/1.jpg
+  page: https://www.inaturalist.org/photos/632045038
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632045038/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-nigripennis/1.jpg
+  page: https://www.inaturalist.org/photos/632045038
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632045038/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-nigripennis/2.jpg
+  page: https://www.inaturalist.org/photos/734914982
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734914982/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-nigripennis/3.jpg
+  page: https://www.inaturalist.org/photos/504503696
+  author: johanj56
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504503696/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-nigripennis/4.jpg
+  page: https://www.inaturalist.org/photos/601183817
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601183817/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-nigripennis/5.jpg
+  page: https://www.inaturalist.org/photos/609621736
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609621736/original.jpg
 ---
 
 

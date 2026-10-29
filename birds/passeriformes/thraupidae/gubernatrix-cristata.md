@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/gubernatrix-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/715692214
+  author: RAP
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715692214/original.jpg
+images:
+- file: images/passeriformes/thraupidae/gubernatrix-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/715692214
+  author: RAP
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715692214/original.jpg
+- file: images/passeriformes/thraupidae/gubernatrix-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/676824052
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676824052/original.jpg
+- file: images/passeriformes/thraupidae/gubernatrix-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/696538543
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696538543/original.jpg
+- file: images/passeriformes/thraupidae/gubernatrix-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/721531902
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721531902/original.jpg
+- file: images/passeriformes/thraupidae/gubernatrix-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/731053905
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731053905/original.jpg
 ---
 
 

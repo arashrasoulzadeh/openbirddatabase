@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/zosteropidae/zosterops-luteus/1.jpg
+  page: https://www.inaturalist.org/photos/678818878
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678818878/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-luteus/1.jpg
+  page: https://www.inaturalist.org/photos/678818878
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678818878/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-luteus/2.jpg
+  page: https://www.inaturalist.org/photos/680742033
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680742033/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-luteus/3.jpg
+  page: https://www.inaturalist.org/photos/702602573
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702602573/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-luteus/4.jpg
+  page: https://www.inaturalist.org/photos/552576545
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552576545/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-luteus/5.jpg
+  page: https://www.inaturalist.org/photos/562236836
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562236836/original.jpg
 ---
 
 

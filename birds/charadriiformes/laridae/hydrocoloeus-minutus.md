@@ -183,10 +183,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/charadriiformes/laridae/hydrocoloeus-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/610182682
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610182682/original.jpg
+images:
+- file: images/charadriiformes/laridae/hydrocoloeus-minutus/1.jpg
+  page: https://www.inaturalist.org/photos/610182682
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610182682/original.jpg
+- file: images/charadriiformes/laridae/hydrocoloeus-minutus/2.jpg
+  page: https://www.inaturalist.org/photos/608160846
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608160846/original.jpg
+- file: images/charadriiformes/laridae/hydrocoloeus-minutus/3.jpg
+  page: https://www.inaturalist.org/photos/611922330
+  author: Rex Leung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611922330/original.jpg
+- file: images/charadriiformes/laridae/hydrocoloeus-minutus/4.jpg
+  page: https://www.inaturalist.org/photos/613230289
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613230289/original.jpg
+- file: images/charadriiformes/laridae/hydrocoloeus-minutus/5.jpg
+  page: https://www.inaturalist.org/photos/612925318
+  author: Olivier Morel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612925318/original.jpg
 ---
 
 

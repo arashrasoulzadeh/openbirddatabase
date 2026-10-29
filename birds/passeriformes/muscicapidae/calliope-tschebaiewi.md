@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/calliope-tschebaiewi/1.jpg
+  page: https://www.inaturalist.org/photos/519759569
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759569/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/calliope-tschebaiewi/1.jpg
+  page: https://www.inaturalist.org/photos/519759569
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759569/original.jpg
+- file: images/passeriformes/muscicapidae/calliope-tschebaiewi/2.jpg
+  page: https://www.inaturalist.org/photos/616795344
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616795344/original.jpg
+- file: images/passeriformes/muscicapidae/calliope-tschebaiewi/3.jpg
+  page: https://www.inaturalist.org/photos/451791199
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451791199/original.jpg
+- file: images/passeriformes/muscicapidae/calliope-tschebaiewi/4.jpg
+  page: https://www.inaturalist.org/photos/128353319
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/128353319/original.jpg
+- file: images/passeriformes/muscicapidae/calliope-tschebaiewi/5.jpg
+  page: https://www.inaturalist.org/photos/409365527
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409365527/original.jpg
 ---
 
 

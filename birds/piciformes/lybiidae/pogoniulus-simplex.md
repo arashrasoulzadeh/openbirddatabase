@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/pogoniulus-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/469377538
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469377538/original.jpg
+images:
+- file: images/piciformes/lybiidae/pogoniulus-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/469377538
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469377538/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-simplex/2.jpg
+  page: https://www.inaturalist.org/photos/608002184
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608002184/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-simplex/3.jpg
+  page: https://www.inaturalist.org/photos/476861146
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476861146/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-simplex/4.jpg
+  page: https://www.inaturalist.org/photos/608002181
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608002181/original.jpg
+- file: images/piciformes/lybiidae/pogoniulus-simplex/5.jpg
+  page: https://www.inaturalist.org/photos/608002192
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608002192/original.jpg
 ---
 
 

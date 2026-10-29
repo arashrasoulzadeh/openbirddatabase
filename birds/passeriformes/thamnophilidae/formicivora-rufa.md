@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/formicivora-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/607257229
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607257229/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/formicivora-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/607257229
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607257229/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/611955307
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611955307/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/611240792
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611240792/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/705727275
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705727275/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-rufa/5.jpg
+  page: https://www.inaturalist.org/photos/652719494
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652719494/original.jpg
 ---
 
 

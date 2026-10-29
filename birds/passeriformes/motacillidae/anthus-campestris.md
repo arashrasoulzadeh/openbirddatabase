@@ -210,8 +210,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/611415701
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611415701/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/611415701
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611415701/original.jpg
+- file: images/passeriformes/motacillidae/anthus-campestris/2.jpg
+  page: https://www.inaturalist.org/photos/616066644
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616066644/original.jpg
+- file: images/passeriformes/motacillidae/anthus-campestris/3.jpg
+  page: https://www.inaturalist.org/photos/631524094
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631524094/original.jpg
+- file: images/passeriformes/motacillidae/anthus-campestris/4.jpg
+  page: https://www.inaturalist.org/photos/623198159
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623198159/original.jpg
+- file: images/passeriformes/motacillidae/anthus-campestris/5.jpg
+  page: https://www.inaturalist.org/photos/627477659
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627477659/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/phragmacia-substriata/1.jpg
+  page: https://www.inaturalist.org/photos/742773754
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742773754/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/phragmacia-substriata/1.jpg
+  page: https://www.inaturalist.org/photos/742773754
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742773754/original.jpg
+- file: images/passeriformes/cisticolidae/phragmacia-substriata/2.jpg
+  page: https://www.inaturalist.org/photos/496410025
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496410025/original.jpeg
+- file: images/passeriformes/cisticolidae/phragmacia-substriata/3.jpg
+  page: https://www.inaturalist.org/photos/285841180
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285841180/original.jpeg
+- file: images/passeriformes/cisticolidae/phragmacia-substriata/4.jpg
+  page: https://www.inaturalist.org/photos/529343210
+  author: Martyn Drabik-Hamshare
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529343210/original.jpg
+- file: images/passeriformes/cisticolidae/phragmacia-substriata/5.jpg
+  page: https://www.inaturalist.org/photos/92972941
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92972941/original.jpeg
 ---
 
 

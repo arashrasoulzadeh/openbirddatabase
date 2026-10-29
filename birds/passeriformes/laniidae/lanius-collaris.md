@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-collaris/1.jpg
+  page: https://www.inaturalist.org/photos/609272261
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609272261/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-collaris/1.jpg
+  page: https://www.inaturalist.org/photos/609272261
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609272261/original.jpg
+- file: images/passeriformes/laniidae/lanius-collaris/2.jpg
+  page: https://www.inaturalist.org/photos/608228183
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228183/original.jpg
+- file: images/passeriformes/laniidae/lanius-collaris/3.jpg
+  page: https://www.inaturalist.org/photos/607192358
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607192358/original.jpg
+- file: images/passeriformes/laniidae/lanius-collaris/4.jpg
+  page: https://www.inaturalist.org/photos/610696602
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610696602/original.jpg
+- file: images/passeriformes/laniidae/lanius-collaris/5.jpg
+  page: https://www.inaturalist.org/photos/611249401
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611249401/original.jpg
 ---
 
 

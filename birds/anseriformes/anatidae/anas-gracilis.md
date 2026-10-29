@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/anseriformes/anatidae/anas-gracilis/1.jpg
+  page: https://www.inaturalist.org/photos/604654829
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604654829/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-gracilis/1.jpg
+  page: https://www.inaturalist.org/photos/604654829
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604654829/original.jpg
+- file: images/anseriformes/anatidae/anas-gracilis/2.jpg
+  page: https://www.inaturalist.org/photos/605542942
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605542942/original.jpg
+- file: images/anseriformes/anatidae/anas-gracilis/3.jpg
+  page: https://www.inaturalist.org/photos/605271210
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605271210/original.jpg
+- file: images/anseriformes/anatidae/anas-gracilis/4.jpg
+  page: https://www.inaturalist.org/photos/606506739
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606506739/original.jpg
+- file: images/anseriformes/anatidae/anas-gracilis/5.jpg
+  page: https://www.inaturalist.org/photos/610315828
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610315828/original.jpg
 ---
 
 

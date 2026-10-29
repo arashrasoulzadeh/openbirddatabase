@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/argya-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/123145072
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/123145072/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/argya-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/123145072
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/123145072/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/395650942
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395650942/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/94304546
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94304546/original.jpeg
+- file: images/passeriformes/leiothrichidae/argya-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/123145087
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/123145087/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/123145142
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/123145142/original.jpg
 ---
 
 

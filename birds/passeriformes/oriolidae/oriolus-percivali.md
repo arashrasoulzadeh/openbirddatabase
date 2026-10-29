@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-percivali/1.jpg
+  page: https://www.inaturalist.org/photos/601900152
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601900152/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-percivali/1.jpg
+  page: https://www.inaturalist.org/photos/601900152
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601900152/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-percivali/2.jpg
+  page: https://www.inaturalist.org/photos/577298423
+  author: owlice
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577298423/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-percivali/3.jpg
+  page: https://www.inaturalist.org/photos/586067307
+  author: jafrade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586067307/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-percivali/4.jpg
+  page: https://www.inaturalist.org/photos/602207626
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602207626/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-percivali/5.jpg
+  page: https://www.inaturalist.org/photos/602207627
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602207627/original.jpg
 ---
 
 

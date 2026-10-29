@@ -173,8 +173,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/jacanidae/actophilornis-africanus/1.jpg
+  page: https://www.inaturalist.org/photos/606213670
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606213670/original.jpg
+images:
+- file: images/charadriiformes/jacanidae/actophilornis-africanus/1.jpg
+  page: https://www.inaturalist.org/photos/606213670
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606213670/original.jpg
+- file: images/charadriiformes/jacanidae/actophilornis-africanus/2.jpg
+  page: https://www.inaturalist.org/photos/612473572
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612473572/original.jpg
+- file: images/charadriiformes/jacanidae/actophilornis-africanus/3.jpg
+  page: https://www.inaturalist.org/photos/614216729
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614216729/original.jpg
+- file: images/charadriiformes/jacanidae/actophilornis-africanus/4.jpg
+  page: https://www.inaturalist.org/photos/612469452
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612469452/original.jpg
 ---
 
 

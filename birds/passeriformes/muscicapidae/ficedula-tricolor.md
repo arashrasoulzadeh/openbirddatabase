@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/616370637
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616370637/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/616370637
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616370637/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-tricolor/2.jpg
+  page: https://www.inaturalist.org/photos/722403958
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722403958/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/521905191
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521905191/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/599753391
+  author: Abhinav Thakur
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599753391/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/256022165
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256022165/original.jpg
 ---
 
 

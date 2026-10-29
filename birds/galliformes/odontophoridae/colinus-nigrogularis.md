@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/colinus-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/637484884
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637484884/original.jpg
+images:
+- file: images/galliformes/odontophoridae/colinus-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/637484884
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637484884/original.jpg
+- file: images/galliformes/odontophoridae/colinus-nigrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/738074420
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738074420/original.jpg
+- file: images/galliformes/odontophoridae/colinus-nigrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/579617601
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579617601/original.jpg
+- file: images/galliformes/odontophoridae/colinus-nigrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/358695224
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358695224/original.jpg
+- file: images/galliformes/odontophoridae/colinus-nigrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/637484903
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637484903/original.jpg
 ---
 
 

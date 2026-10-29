@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/sphenisciformes/spheniscidae/pygoscelis-adeliae/1.jpg
+  page: https://www.inaturalist.org/photos/605665462
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665462/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/pygoscelis-adeliae/1.jpg
+  page: https://www.inaturalist.org/photos/605665462
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665462/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-adeliae/2.jpg
+  page: https://www.inaturalist.org/photos/605665466
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665466/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-adeliae/3.jpg
+  page: https://www.inaturalist.org/photos/605665459
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665459/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-adeliae/4.jpg
+  page: https://www.inaturalist.org/photos/605665470
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605665470/original.jpg
+- file: images/sphenisciformes/spheniscidae/pygoscelis-adeliae/5.jpg
+  page: https://www.inaturalist.org/photos/610527166
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610527166/original.jpg
 ---
 
 

@@ -133,7 +133,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 15.4
@@ -141,6 +142,26 @@ morphology:
   wing_length_mm: 73.0
   tail_length_mm: 65.5
   body_mass_g: 23.1
+image:
+  file: images/passeriformes/muscicapidae/cyornis-colonus/1.jpg
+  page: https://www.inaturalist.org/photos/583509337
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509337/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-colonus/1.jpg
+  page: https://www.inaturalist.org/photos/583509337
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509337/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-colonus/2.jpg
+  page: https://www.inaturalist.org/photos/435261716
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435261716/original.jpeg
 ---
 
 

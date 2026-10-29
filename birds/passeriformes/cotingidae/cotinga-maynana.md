@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/cotinga-maynana/1.jpg
+  page: https://www.inaturalist.org/photos/709798800
+  author: Zinnia Xu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709798800/original.jpg
+images:
+- file: images/passeriformes/cotingidae/cotinga-maynana/1.jpg
+  page: https://www.inaturalist.org/photos/709798800
+  author: Zinnia Xu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709798800/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-maynana/2.jpg
+  page: https://www.inaturalist.org/photos/477695152
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477695152/original.jpeg
+- file: images/passeriformes/cotingidae/cotinga-maynana/3.jpg
+  page: https://www.inaturalist.org/photos/563676072
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563676072/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-maynana/4.jpg
+  page: https://www.inaturalist.org/photos/604052265
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604052265/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-maynana/5.jpg
+  page: https://www.inaturalist.org/photos/362010107
+  author: Bill Levine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362010107/original.jpeg
 ---
 
 

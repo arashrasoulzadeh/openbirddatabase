@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/leucosticte-nemoricola/1.jpg
+  page: https://www.inaturalist.org/photos/609684423
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684423/original.jpg
+images:
+- file: images/passeriformes/fringillidae/leucosticte-nemoricola/1.jpg
+  page: https://www.inaturalist.org/photos/609684423
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684423/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-nemoricola/2.jpg
+  page: https://www.inaturalist.org/photos/663273163
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663273163/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-nemoricola/3.jpg
+  page: https://www.inaturalist.org/photos/633029620
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633029620/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-nemoricola/4.jpg
+  page: https://www.inaturalist.org/photos/678610467
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678610467/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-nemoricola/5.jpg
+  page: https://www.inaturalist.org/photos/705333824
+  author: Cheongweei Gan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705333824/original.jpg
 ---
 
 

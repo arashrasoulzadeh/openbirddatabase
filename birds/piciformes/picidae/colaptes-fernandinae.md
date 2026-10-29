@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/colaptes-fernandinae/1.jpg
+  page: https://www.inaturalist.org/photos/629156914
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629156914/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-fernandinae/1.jpg
+  page: https://www.inaturalist.org/photos/629156914
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629156914/original.jpg
+- file: images/piciformes/picidae/colaptes-fernandinae/2.jpg
+  page: https://www.inaturalist.org/photos/634300470
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634300470/original.jpg
+- file: images/piciformes/picidae/colaptes-fernandinae/3.jpg
+  page: https://www.inaturalist.org/photos/354230749
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354230749/original.jpg
+- file: images/piciformes/picidae/colaptes-fernandinae/4.jpg
+  page: https://www.inaturalist.org/photos/419885398
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419885398/original.jpeg
+- file: images/piciformes/picidae/colaptes-fernandinae/5.jpg
+  page: https://www.inaturalist.org/photos/252710115
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252710115/original.jpg
 ---
 
 

@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/jacanidae/hydrophasianus-chirurgus/1.jpg
+  page: https://www.inaturalist.org/photos/607150558
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607150558/original.jpg
+images:
+- file: images/charadriiformes/jacanidae/hydrophasianus-chirurgus/1.jpg
+  page: https://www.inaturalist.org/photos/607150558
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607150558/original.jpg
+- file: images/charadriiformes/jacanidae/hydrophasianus-chirurgus/2.jpg
+  page: https://www.inaturalist.org/photos/620207498
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620207498/original.jpg
+- file: images/charadriiformes/jacanidae/hydrophasianus-chirurgus/3.jpg
+  page: https://www.inaturalist.org/photos/623514957
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623514957/original.jpg
+- file: images/charadriiformes/jacanidae/hydrophasianus-chirurgus/4.jpg
+  page: https://www.inaturalist.org/photos/615894181
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615894181/original.jpg
+- file: images/charadriiformes/jacanidae/hydrophasianus-chirurgus/5.jpg
+  page: https://www.inaturalist.org/photos/617702187
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617702187/original.jpg
 ---
 
 

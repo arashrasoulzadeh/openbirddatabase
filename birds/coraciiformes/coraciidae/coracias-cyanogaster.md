@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/coraciidae/coracias-cyanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/612476620
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612476620/original.jpg
+images:
+- file: images/coraciiformes/coraciidae/coracias-cyanogaster/1.jpg
+  page: https://www.inaturalist.org/photos/612476620
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612476620/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-cyanogaster/2.jpg
+  page: https://www.inaturalist.org/photos/631119999
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631119999/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-cyanogaster/3.jpg
+  page: https://www.inaturalist.org/photos/728152949
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728152949/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-cyanogaster/4.jpg
+  page: https://www.inaturalist.org/photos/468419078
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468419078/original.png
+- file: images/coraciiformes/coraciidae/coracias-cyanogaster/5.jpg
+  page: https://www.inaturalist.org/photos/471407835
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471407835/original.jpg
 ---
 
 

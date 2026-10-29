@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/batis-perkeo/1.jpg
+  page: https://www.inaturalist.org/photos/719173007
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719173007/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/batis-perkeo/1.jpg
+  page: https://www.inaturalist.org/photos/719173007
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719173007/original.jpg
+- file: images/passeriformes/platysteiridae/batis-perkeo/2.jpg
+  page: https://www.inaturalist.org/photos/588595786
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588595786/original.jpg
+- file: images/passeriformes/platysteiridae/batis-perkeo/3.jpg
+  page: https://www.inaturalist.org/photos/477949801
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477949801/original.jpg
+- file: images/passeriformes/platysteiridae/batis-perkeo/4.jpg
+  page: https://www.inaturalist.org/photos/610915340
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610915340/original.jpg
+- file: images/passeriformes/platysteiridae/batis-perkeo/5.jpg
+  page: https://www.inaturalist.org/photos/610915338
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610915338/original.jpg
 ---
 
 

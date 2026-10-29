@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/batrachostomus-cornutus/1.jpg
+  page: https://www.inaturalist.org/photos/714919568
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714919568/original.jpg
+images:
+- file: images/podargiformes/podargidae/batrachostomus-cornutus/1.jpg
+  page: https://www.inaturalist.org/photos/714919568
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714919568/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-cornutus/2.jpg
+  page: https://www.inaturalist.org/photos/596673836
+  author: Dan Osipov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596673836/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-cornutus/3.jpg
+  page: https://www.inaturalist.org/photos/226545322
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226545322/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-cornutus/4.jpg
+  page: https://www.inaturalist.org/photos/14395976
+  author: Dan Riskin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/14395976/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-cornutus/5.jpg
+  page: https://www.inaturalist.org/photos/596673844
+  author: Dan Osipov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596673844/original.jpg
 ---
 
 

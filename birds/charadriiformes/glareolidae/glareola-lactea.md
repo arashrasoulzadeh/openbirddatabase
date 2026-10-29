@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/glareola-lactea/1.jpg
+  page: https://www.inaturalist.org/photos/616548473
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616548473/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/glareola-lactea/1.jpg
+  page: https://www.inaturalist.org/photos/616548473
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616548473/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-lactea/2.jpg
+  page: https://www.inaturalist.org/photos/621970535
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621970535/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-lactea/3.jpg
+  page: https://www.inaturalist.org/photos/624204539
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624204539/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-lactea/4.jpg
+  page: https://www.inaturalist.org/photos/621972287
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621972287/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-lactea/5.jpg
+  page: https://www.inaturalist.org/photos/621970731
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621970731/original.jpg
 ---
 
 

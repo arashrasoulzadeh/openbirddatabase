@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/peltohyas-australis/1.jpg
+  page: https://www.inaturalist.org/photos/595048131
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595048131/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/peltohyas-australis/1.jpg
+  page: https://www.inaturalist.org/photos/595048131
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595048131/original.jpg
+- file: images/charadriiformes/charadriidae/peltohyas-australis/2.jpg
+  page: https://www.inaturalist.org/photos/340390181
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340390181/original.jpeg
+- file: images/charadriiformes/charadriidae/peltohyas-australis/3.jpg
+  page: https://www.inaturalist.org/photos/595048181
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595048181/original.jpg
+- file: images/charadriiformes/charadriidae/peltohyas-australis/4.jpg
+  page: https://www.inaturalist.org/photos/595048176
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595048176/original.jpg
+- file: images/charadriiformes/charadriidae/peltohyas-australis/5.jpg
+  page: https://www.inaturalist.org/photos/595048194
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595048194/original.jpg
 ---
 
 

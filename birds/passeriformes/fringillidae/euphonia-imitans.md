@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-imitans/1.jpg
+  page: https://www.inaturalist.org/photos/612728894
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612728894/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-imitans/1.jpg
+  page: https://www.inaturalist.org/photos/612728894
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612728894/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-imitans/2.jpg
+  page: https://www.inaturalist.org/photos/611555078
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611555078/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-imitans/3.jpg
+  page: https://www.inaturalist.org/photos/626651933
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626651933/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-imitans/4.jpg
+  page: https://www.inaturalist.org/photos/719149018
+  author: Luis Ferreira
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719149018/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-imitans/5.jpg
+  page: https://www.inaturalist.org/photos/464418913
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464418913/original.jpeg
 ---
 
 

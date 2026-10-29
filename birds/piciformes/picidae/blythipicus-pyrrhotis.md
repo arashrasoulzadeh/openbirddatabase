@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/blythipicus-pyrrhotis/1.jpg
+  page: https://www.inaturalist.org/photos/614274014
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614274014/original.jpg
+images:
+- file: images/piciformes/picidae/blythipicus-pyrrhotis/1.jpg
+  page: https://www.inaturalist.org/photos/614274014
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614274014/original.jpg
+- file: images/piciformes/picidae/blythipicus-pyrrhotis/2.jpg
+  page: https://www.inaturalist.org/photos/721144690
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721144690/original.jpg
+- file: images/piciformes/picidae/blythipicus-pyrrhotis/3.jpg
+  page: https://www.inaturalist.org/photos/471319293
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471319293/original.jpeg
+- file: images/piciformes/picidae/blythipicus-pyrrhotis/4.jpg
+  page: https://www.inaturalist.org/photos/541796848
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541796848/original.jpg
+- file: images/piciformes/picidae/blythipicus-pyrrhotis/5.jpg
+  page: https://www.inaturalist.org/photos/365199395
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365199395/original.jpeg
 ---
 
 

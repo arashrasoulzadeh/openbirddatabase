@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/chrysocolaptes-lucidus/1.jpg
+  page: https://www.inaturalist.org/photos/651789167
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651789167/original.jpg
+images:
+- file: images/piciformes/picidae/chrysocolaptes-lucidus/1.jpg
+  page: https://www.inaturalist.org/photos/651789167
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651789167/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-lucidus/2.jpg
+  page: https://www.inaturalist.org/photos/458596906
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458596906/original.jpeg
+- file: images/piciformes/picidae/chrysocolaptes-lucidus/3.jpg
+  page: https://www.inaturalist.org/photos/270923457
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270923457/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-lucidus/4.jpg
+  page: https://www.inaturalist.org/photos/651789212
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651789212/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-lucidus/5.jpg
+  page: https://www.inaturalist.org/photos/270923479
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270923479/original.jpg
 ---
 
 

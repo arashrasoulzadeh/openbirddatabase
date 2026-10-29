@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/nystalus-striolatus/1.jpg
+  page: https://www.inaturalist.org/photos/744795091
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744795091/original.jpg
+images:
+- file: images/piciformes/bucconidae/nystalus-striolatus/1.jpg
+  page: https://www.inaturalist.org/photos/744795091
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744795091/original.jpg
+- file: images/piciformes/bucconidae/nystalus-striolatus/2.jpg
+  page: https://www.inaturalist.org/photos/511713666
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511713666/original.jpg
+- file: images/piciformes/bucconidae/nystalus-striolatus/3.jpg
+  page: https://www.inaturalist.org/photos/528096797
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528096797/original.jpg
+- file: images/piciformes/bucconidae/nystalus-striolatus/4.jpg
+  page: https://www.inaturalist.org/photos/591905838
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591905838/original.jpg
+- file: images/piciformes/bucconidae/nystalus-striolatus/5.jpg
+  page: https://www.inaturalist.org/photos/440266164
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440266164/original.jpeg
 ---
 
 

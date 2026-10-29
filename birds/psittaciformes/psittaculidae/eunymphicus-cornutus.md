@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/psittaciformes/psittaculidae/eunymphicus-cornutus/1.jpg
+  page: https://www.inaturalist.org/photos/586256263
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586256263/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/eunymphicus-cornutus/1.jpg
+  page: https://www.inaturalist.org/photos/586256263
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586256263/original.jpg
+- file: images/psittaciformes/psittaculidae/eunymphicus-cornutus/2.jpg
+  page: https://www.inaturalist.org/photos/591538150
+  author: Patrick Lam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591538150/original.jpg
+- file: images/psittaciformes/psittaculidae/eunymphicus-cornutus/3.jpg
+  page: https://www.inaturalist.org/photos/35544997
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/35544997/original.jpeg
+- file: images/psittaciformes/psittaculidae/eunymphicus-cornutus/4.jpg
+  page: https://www.inaturalist.org/photos/1006863
+  author: Pierre Tellier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1006863/original.JPG
+- file: images/psittaciformes/psittaculidae/eunymphicus-cornutus/5.jpg
+  page: https://www.inaturalist.org/photos/35545001
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/35545001/original.jpeg
 ---
 
 

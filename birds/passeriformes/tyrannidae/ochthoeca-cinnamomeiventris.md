@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ochthoeca-cinnamomeiventris/1.jpg
+  page: https://www.inaturalist.org/photos/628198077
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628198077/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/ochthoeca-cinnamomeiventris/1.jpg
+  page: https://www.inaturalist.org/photos/628198077
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628198077/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-cinnamomeiventris/2.jpg
+  page: https://www.inaturalist.org/photos/681286361
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681286361/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-cinnamomeiventris/3.jpg
+  page: https://www.inaturalist.org/photos/468476515
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468476515/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-cinnamomeiventris/4.jpg
+  page: https://www.inaturalist.org/photos/489387928
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489387928/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-cinnamomeiventris/5.jpg
+  page: https://www.inaturalist.org/photos/567072307
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567072307/original.jpg
 ---
 
 

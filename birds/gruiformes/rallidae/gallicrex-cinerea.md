@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/gallicrex-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/635037410
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635037410/original.jpg
+images:
+- file: images/gruiformes/rallidae/gallicrex-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/635037410
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635037410/original.jpg
+- file: images/gruiformes/rallidae/gallicrex-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/461886352
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461886352/original.jpg
+- file: images/gruiformes/rallidae/gallicrex-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/549402376
+  author: renjus box
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549402376/original.jpg
+- file: images/gruiformes/rallidae/gallicrex-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/488212920
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488212920/original.jpg
+- file: images/gruiformes/rallidae/gallicrex-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/461886348
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461886348/original.jpg
 ---
 
 

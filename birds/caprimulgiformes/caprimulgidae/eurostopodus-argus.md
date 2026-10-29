@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/eurostopodus-argus/1.jpg
+  page: https://www.inaturalist.org/photos/745887979
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745887979/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-argus/1.jpg
+  page: https://www.inaturalist.org/photos/745887979
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745887979/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-argus/2.jpg
+  page: https://www.inaturalist.org/photos/745268955
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745268955/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-argus/3.jpg
+  page: https://www.inaturalist.org/photos/474244111
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474244111/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-argus/4.jpg
+  page: https://www.inaturalist.org/photos/745887981
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745887981/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-argus/5.jpg
+  page: https://www.inaturalist.org/photos/745887982
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745887982/original.jpg
 ---
 
 

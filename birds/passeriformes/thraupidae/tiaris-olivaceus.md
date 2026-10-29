@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tiaris-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/610497019
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610497019/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tiaris-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/610497019
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610497019/original.jpg
+- file: images/passeriformes/thraupidae/tiaris-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/611058910
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611058910/original.jpg
+- file: images/passeriformes/thraupidae/tiaris-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/609159600
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609159600/original.jpg
+- file: images/passeriformes/thraupidae/tiaris-olivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/610837952
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610837952/original.jpg
+- file: images/passeriformes/thraupidae/tiaris-olivaceus/5.jpg
+  page: https://www.inaturalist.org/photos/610853203
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610853203/original.jpg
 ---
 
 

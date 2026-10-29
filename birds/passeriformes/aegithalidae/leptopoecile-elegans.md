@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/aegithalidae/leptopoecile-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/514719036
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514719036/original.jpg
+images:
+- file: images/passeriformes/aegithalidae/leptopoecile-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/514719036
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514719036/original.jpg
+- file: images/passeriformes/aegithalidae/leptopoecile-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/519759150
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759150/original.jpg
+- file: images/passeriformes/aegithalidae/leptopoecile-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/409449429
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409449429/original.jpeg
+- file: images/passeriformes/aegithalidae/leptopoecile-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/367800878
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800878/original.jpg
+- file: images/passeriformes/aegithalidae/leptopoecile-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/514719037
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514719037/original.jpg
 ---
 
 

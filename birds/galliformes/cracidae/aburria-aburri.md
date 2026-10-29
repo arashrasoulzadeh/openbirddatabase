@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/aburria-aburri/1.jpg
+  page: https://www.inaturalist.org/photos/652840381
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652840381/original.jpg
+images:
+- file: images/galliformes/cracidae/aburria-aburri/1.jpg
+  page: https://www.inaturalist.org/photos/652840381
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652840381/original.jpg
+- file: images/galliformes/cracidae/aburria-aburri/2.jpg
+  page: https://www.inaturalist.org/photos/497763095
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497763095/original.jpg
+- file: images/galliformes/cracidae/aburria-aburri/3.jpg
+  page: https://www.inaturalist.org/photos/524799170
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524799170/original.jpg
+- file: images/galliformes/cracidae/aburria-aburri/4.jpg
+  page: https://www.inaturalist.org/photos/601030019
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601030019/original.jpg
+- file: images/galliformes/cracidae/aburria-aburri/5.jpg
+  page: https://www.inaturalist.org/photos/350585340
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350585340/original.jpeg
 ---
 
 

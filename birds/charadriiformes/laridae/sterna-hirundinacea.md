@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sterna-hirundinacea/1.jpg
+  page: https://www.inaturalist.org/photos/604509935
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604509935/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-hirundinacea/1.jpg
+  page: https://www.inaturalist.org/photos/604509935
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604509935/original.jpg
+- file: images/charadriiformes/laridae/sterna-hirundinacea/2.jpg
+  page: https://www.inaturalist.org/photos/608435352
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608435352/original.jpg
+- file: images/charadriiformes/laridae/sterna-hirundinacea/3.jpg
+  page: https://www.inaturalist.org/photos/612440661
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612440661/original.jpg
+- file: images/charadriiformes/laridae/sterna-hirundinacea/4.jpg
+  page: https://www.inaturalist.org/photos/615792330
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792330/original.jpg
+- file: images/charadriiformes/laridae/sterna-hirundinacea/5.jpg
+  page: https://www.inaturalist.org/photos/699556210
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699556210/original.jpg
 ---
 
 

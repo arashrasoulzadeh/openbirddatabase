@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/melanodera-melanodera/1.jpg
+  page: https://www.inaturalist.org/photos/589913158
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589913158/original.jpg
+images:
+- file: images/passeriformes/thraupidae/melanodera-melanodera/1.jpg
+  page: https://www.inaturalist.org/photos/589913158
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589913158/original.jpg
+- file: images/passeriformes/thraupidae/melanodera-melanodera/2.jpg
+  page: https://www.inaturalist.org/photos/593159316
+  author: patrickc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593159316/original.jpg
+- file: images/passeriformes/thraupidae/melanodera-melanodera/3.jpg
+  page: https://www.inaturalist.org/photos/594752459
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594752459/original.jpg
+- file: images/passeriformes/thraupidae/melanodera-melanodera/4.jpg
+  page: https://www.inaturalist.org/photos/601113278
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601113278/original.jpg
+- file: images/passeriformes/thraupidae/melanodera-melanodera/5.jpg
+  page: https://www.inaturalist.org/photos/356404475
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356404475/original.jpeg
 ---
 
 

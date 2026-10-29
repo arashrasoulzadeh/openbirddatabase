@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/604543161
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543161/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/604543161
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543161/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/612766793
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612766793/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/645037659
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645037659/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/642872021
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642872021/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/640908841
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640908841/original.jpg
 ---
 
 

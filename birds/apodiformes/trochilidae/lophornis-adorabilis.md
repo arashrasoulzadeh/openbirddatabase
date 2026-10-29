@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lophornis-adorabilis/1.jpg
+  page: https://www.inaturalist.org/photos/619290999
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619290999/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lophornis-adorabilis/1.jpg
+  page: https://www.inaturalist.org/photos/619290999
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619290999/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-adorabilis/2.jpg
+  page: https://www.inaturalist.org/photos/627527753
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627527753/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-adorabilis/3.jpg
+  page: https://www.inaturalist.org/photos/464382870
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464382870/original.jpeg
+- file: images/apodiformes/trochilidae/lophornis-adorabilis/4.jpg
+  page: https://www.inaturalist.org/photos/465631610
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465631610/original.jpeg
+- file: images/apodiformes/trochilidae/lophornis-adorabilis/5.jpg
+  page: https://www.inaturalist.org/photos/488091186
+  author: Adam Sutton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488091186/original.jpg
 ---
 
 

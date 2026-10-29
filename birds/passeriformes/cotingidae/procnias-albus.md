@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/procnias-albus/1.jpg
+  page: https://www.inaturalist.org/photos/617507719
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507719/original.jpg
+images:
+- file: images/passeriformes/cotingidae/procnias-albus/1.jpg
+  page: https://www.inaturalist.org/photos/617507719
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617507719/original.jpg
+- file: images/passeriformes/cotingidae/procnias-albus/2.jpg
+  page: https://www.inaturalist.org/photos/445091036
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445091036/original.jpeg
+- file: images/passeriformes/cotingidae/procnias-albus/3.jpg
+  page: https://www.inaturalist.org/photos/445091037
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445091037/original.jpeg
+- file: images/passeriformes/cotingidae/procnias-albus/4.jpg
+  page: https://www.inaturalist.org/photos/445091039
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445091039/original.jpeg
+- file: images/passeriformes/cotingidae/procnias-albus/5.jpg
+  page: https://www.inaturalist.org/photos/445091066
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445091066/original.jpeg
 ---
 
 

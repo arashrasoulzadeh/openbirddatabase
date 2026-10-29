@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/viduidae/vidua-funerea/1.jpg
+  page: https://www.inaturalist.org/photos/632588412
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632588412/original.jpg
+images:
+- file: images/passeriformes/viduidae/vidua-funerea/1.jpg
+  page: https://www.inaturalist.org/photos/632588412
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632588412/original.jpg
+- file: images/passeriformes/viduidae/vidua-funerea/2.jpg
+  page: https://www.inaturalist.org/photos/621845325
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621845325/original.jpg
+- file: images/passeriformes/viduidae/vidua-funerea/3.jpg
+  page: https://www.inaturalist.org/photos/176369180
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176369180/original.jpeg
+- file: images/passeriformes/viduidae/vidua-funerea/4.jpg
+  page: https://www.inaturalist.org/photos/178809133
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178809133/original.jpg
+- file: images/passeriformes/viduidae/vidua-funerea/5.jpg
+  page: https://www.inaturalist.org/photos/246926729
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246926729/original.jpeg
 ---
 
 

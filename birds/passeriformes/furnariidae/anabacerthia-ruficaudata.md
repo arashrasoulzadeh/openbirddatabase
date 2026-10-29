@@ -143,10 +143,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/anabacerthia-ruficaudata/1.jpg
+  page: https://www.inaturalist.org/photos/361048627
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361048627/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/anabacerthia-ruficaudata/1.jpg
+  page: https://www.inaturalist.org/photos/361048627
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361048627/original.jpeg
+- file: images/passeriformes/furnariidae/anabacerthia-ruficaudata/2.jpg
+  page: https://www.inaturalist.org/photos/386542820
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386542820/original.jpg
+- file: images/passeriformes/furnariidae/anabacerthia-ruficaudata/3.jpg
+  page: https://www.inaturalist.org/photos/11608454
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/11608454/original.jpeg
+- file: images/passeriformes/furnariidae/anabacerthia-ruficaudata/4.jpg
+  page: https://www.inaturalist.org/photos/211271566
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211271566/original.jpeg
 ---
 
 

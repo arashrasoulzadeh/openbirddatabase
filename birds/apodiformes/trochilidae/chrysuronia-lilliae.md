@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chrysuronia-lilliae/1.jpg
+  page: https://www.inaturalist.org/photos/699837498
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699837498/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chrysuronia-lilliae/1.jpg
+  page: https://www.inaturalist.org/photos/699837498
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699837498/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-lilliae/2.jpg
+  page: https://www.inaturalist.org/photos/739984339
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739984339/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-lilliae/3.jpg
+  page: https://www.inaturalist.org/photos/255970554
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255970554/original.jpeg
+- file: images/apodiformes/trochilidae/chrysuronia-lilliae/4.jpg
+  page: https://www.inaturalist.org/photos/266826091
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266826091/original.jpeg
+- file: images/apodiformes/trochilidae/chrysuronia-lilliae/5.jpg
+  page: https://www.inaturalist.org/photos/739984340
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739984340/original.jpg
 ---
 
 

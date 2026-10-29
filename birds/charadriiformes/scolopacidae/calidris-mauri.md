@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/charadriiformes/scolopacidae/calidris-mauri/1.jpg
+  page: https://www.inaturalist.org/photos/605585701
+  author: Chia/Ma'ayan (they/them)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605585701/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-mauri/1.jpg
+  page: https://www.inaturalist.org/photos/605585701
+  author: Chia/Ma'ayan (they/them)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605585701/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-mauri/2.jpg
+  page: https://www.inaturalist.org/photos/604998805
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604998805/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-mauri/3.jpg
+  page: https://www.inaturalist.org/photos/608425350
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608425350/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-mauri/4.jpg
+  page: https://www.inaturalist.org/photos/607560365
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607560365/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-mauri/5.jpg
+  page: https://www.inaturalist.org/photos/606978601
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606978601/original.jpg
 ---
 
 

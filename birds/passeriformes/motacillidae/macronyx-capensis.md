@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/macronyx-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/607094903
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607094903/original.jpg
+images:
+- file: images/passeriformes/motacillidae/macronyx-capensis/1.jpg
+  page: https://www.inaturalist.org/photos/607094903
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607094903/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-capensis/2.jpg
+  page: https://www.inaturalist.org/photos/608228478
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228478/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-capensis/3.jpg
+  page: https://www.inaturalist.org/photos/613962539
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613962539/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-capensis/4.jpg
+  page: https://www.inaturalist.org/photos/625608170
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625608170/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-capensis/5.jpg
+  page: https://www.inaturalist.org/photos/641793316
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641793316/original.jpg
 ---
 
 

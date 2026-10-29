@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/tinamotis-pentlandii/1.jpg
+  page: https://www.inaturalist.org/photos/616638793
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616638793/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/tinamotis-pentlandii/1.jpg
+  page: https://www.inaturalist.org/photos/616638793
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616638793/original.jpg
+- file: images/tinamiformes/tinamidae/tinamotis-pentlandii/2.jpg
+  page: https://www.inaturalist.org/photos/625184016
+  author: Lucas Carbone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625184016/original.jpg
+- file: images/tinamiformes/tinamidae/tinamotis-pentlandii/3.jpg
+  page: https://www.inaturalist.org/photos/702786605
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702786605/original.jpg
+- file: images/tinamiformes/tinamidae/tinamotis-pentlandii/4.jpg
+  page: https://www.inaturalist.org/photos/474445754
+  author: Martín Acosta Albarracín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474445754/original.jpeg
+- file: images/tinamiformes/tinamidae/tinamotis-pentlandii/5.jpg
+  page: https://www.inaturalist.org/photos/496864040
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496864040/original.jpeg
 ---
 
 

@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/alcedo-semitorquata/1.jpg
+  page: https://www.inaturalist.org/photos/613372533
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613372533/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/alcedo-semitorquata/1.jpg
+  page: https://www.inaturalist.org/photos/613372533
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613372533/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-semitorquata/2.jpg
+  page: https://www.inaturalist.org/photos/614547580
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614547580/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-semitorquata/3.jpg
+  page: https://www.inaturalist.org/photos/651210916
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651210916/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-semitorquata/4.jpg
+  page: https://www.inaturalist.org/photos/649987906
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649987906/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-semitorquata/5.jpg
+  page: https://www.inaturalist.org/photos/674614253
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674614253/original.jpg
 ---
 
 

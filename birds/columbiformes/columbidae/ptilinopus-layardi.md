@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.3
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 114.8
   tail_length_mm: 49.0
   body_mass_g: 75.6
+image:
+  file: images/columbiformes/columbidae/ptilinopus-layardi/1.jpg
+  page: https://www.inaturalist.org/photos/728458877
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458877/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-layardi/1.jpg
+  page: https://www.inaturalist.org/photos/728458877
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458877/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-layardi/2.jpg
+  page: https://www.inaturalist.org/photos/451686806
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451686806/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-layardi/3.jpg
+  page: https://www.inaturalist.org/photos/679540361
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679540361/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-layardi/4.jpg
+  page: https://www.inaturalist.org/photos/728458881
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458881/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-layardi/5.jpg
+  page: https://www.inaturalist.org/photos/728458910
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458910/original.jpg
 ---
 
 

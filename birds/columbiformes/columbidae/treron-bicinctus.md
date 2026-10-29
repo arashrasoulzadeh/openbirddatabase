@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-bicinctus/1.jpg
+  page: https://www.inaturalist.org/photos/622348943
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622348943/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-bicinctus/1.jpg
+  page: https://www.inaturalist.org/photos/622348943
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622348943/original.jpg
+- file: images/columbiformes/columbidae/treron-bicinctus/2.jpg
+  page: https://www.inaturalist.org/photos/657945449
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657945449/original.jpg
+- file: images/columbiformes/columbidae/treron-bicinctus/3.jpg
+  page: https://www.inaturalist.org/photos/623759328
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623759328/original.jpg
+- file: images/columbiformes/columbidae/treron-bicinctus/4.jpg
+  page: https://www.inaturalist.org/photos/633772233
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633772233/original.jpg
+- file: images/columbiformes/columbidae/treron-bicinctus/5.jpg
+  page: https://www.inaturalist.org/photos/657950640
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657950640/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-chlorura/1.jpg
+  page: https://www.inaturalist.org/photos/535084542
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535084542/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-chlorura/1.jpg
+  page: https://www.inaturalist.org/photos/535084542
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535084542/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-chlorura/2.jpg
+  page: https://www.inaturalist.org/photos/35169573
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/35169573/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-chlorura/3.jpg
+  page: https://www.inaturalist.org/photos/8888096
+  author: melianie_max_and_asker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8888096/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-chlorura/4.jpg
+  page: https://www.inaturalist.org/photos/535084512
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535084512/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-chlorura/5.jpg
+  page: https://www.inaturalist.org/photos/35169565
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/35169565/original.jpeg
 ---
 
 

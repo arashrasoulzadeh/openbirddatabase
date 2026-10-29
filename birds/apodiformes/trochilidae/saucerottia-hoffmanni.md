@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/saucerottia-hoffmanni/1.jpg
+  page: https://www.inaturalist.org/photos/467334114
+  author: Christine Braaten
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467334114/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/saucerottia-hoffmanni/1.jpg
+  page: https://www.inaturalist.org/photos/467334114
+  author: Christine Braaten
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467334114/original.jpeg
+- file: images/apodiformes/trochilidae/saucerottia-hoffmanni/2.jpg
+  page: https://www.inaturalist.org/photos/484623185
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484623185/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-hoffmanni/3.jpg
+  page: https://www.inaturalist.org/photos/467334133
+  author: Christine Braaten
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467334133/original.jpeg
+- file: images/apodiformes/trochilidae/saucerottia-hoffmanni/4.jpg
+  page: https://www.inaturalist.org/photos/467334146
+  author: Christine Braaten
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467334146/original.jpeg
+- file: images/apodiformes/trochilidae/saucerottia-hoffmanni/5.jpg
+  page: https://www.inaturalist.org/photos/484623241
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484623241/original.jpg
 ---
 
 

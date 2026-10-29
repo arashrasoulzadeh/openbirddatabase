@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-toulou/1.jpg
+  page: https://www.inaturalist.org/photos/644774453
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644774453/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-toulou/1.jpg
+  page: https://www.inaturalist.org/photos/644774453
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644774453/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-toulou/2.jpg
+  page: https://www.inaturalist.org/photos/742714401
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742714401/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-toulou/3.jpg
+  page: https://www.inaturalist.org/photos/579195585
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579195585/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-toulou/4.jpg
+  page: https://www.inaturalist.org/photos/601730282
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601730282/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-toulou/5.jpg
+  page: https://www.inaturalist.org/photos/654733197
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654733197/original.jpg
 ---
 
 

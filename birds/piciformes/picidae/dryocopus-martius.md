@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/piciformes/picidae/dryocopus-martius/1.jpg
+  page: https://www.inaturalist.org/photos/604756034
+  author: Рустам Сафаргалиев
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604756034/original.jpg
+images:
+- file: images/piciformes/picidae/dryocopus-martius/1.jpg
+  page: https://www.inaturalist.org/photos/604756034
+  author: Рустам Сафаргалиев
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604756034/original.jpg
+- file: images/piciformes/picidae/dryocopus-martius/2.jpg
+  page: https://www.inaturalist.org/photos/604746015
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604746015/original.jpg
+- file: images/piciformes/picidae/dryocopus-martius/3.jpg
+  page: https://www.inaturalist.org/photos/604756836
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604756836/original.jpg
+- file: images/piciformes/picidae/dryocopus-martius/4.jpg
+  page: https://www.inaturalist.org/photos/607432726
+  author: Ксения Волянская
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607432726/original.jpg
+- file: images/piciformes/picidae/dryocopus-martius/5.jpg
+  page: https://www.inaturalist.org/photos/605890371
+  author: Дмитрий Кошелев
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605890371/original.jpg
 ---
 
 

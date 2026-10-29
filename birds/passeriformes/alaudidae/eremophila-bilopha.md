@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/eremophila-bilopha/1.jpg
+  page: https://www.inaturalist.org/photos/620411616
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620411616/original.jpg
+images:
+- file: images/passeriformes/alaudidae/eremophila-bilopha/1.jpg
+  page: https://www.inaturalist.org/photos/620411616
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620411616/original.jpg
+- file: images/passeriformes/alaudidae/eremophila-bilopha/2.jpg
+  page: https://www.inaturalist.org/photos/623011330
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623011330/original.jpg
+- file: images/passeriformes/alaudidae/eremophila-bilopha/3.jpg
+  page: https://www.inaturalist.org/photos/464571459
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464571459/original.jpeg
+- file: images/passeriformes/alaudidae/eremophila-bilopha/4.jpg
+  page: https://www.inaturalist.org/photos/470275944
+  author: Demian Hiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470275944/original.jpg
+- file: images/passeriformes/alaudidae/eremophila-bilopha/5.jpg
+  page: https://www.inaturalist.org/photos/475860804
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475860804/original.jpeg
 ---
 
 

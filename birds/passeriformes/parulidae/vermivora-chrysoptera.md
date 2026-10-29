@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/parulidae/vermivora-chrysoptera/1.jpg
+  page: https://www.inaturalist.org/photos/607038586
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607038586/original.jpg
+images:
+- file: images/passeriformes/parulidae/vermivora-chrysoptera/1.jpg
+  page: https://www.inaturalist.org/photos/607038586
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607038586/original.jpg
+- file: images/passeriformes/parulidae/vermivora-chrysoptera/2.jpg
+  page: https://www.inaturalist.org/photos/610816623
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610816623/original.jpg
+- file: images/passeriformes/parulidae/vermivora-chrysoptera/3.jpg
+  page: https://www.inaturalist.org/photos/619096128
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619096128/original.jpg
+- file: images/passeriformes/parulidae/vermivora-chrysoptera/4.jpg
+  page: https://www.inaturalist.org/photos/706187976
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706187976/original.jpg
+- file: images/passeriformes/parulidae/vermivora-chrysoptera/5.jpg
+  page: https://www.inaturalist.org/photos/641666936
+  author: Jackie T
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641666936/original.jpg
 ---
 
 

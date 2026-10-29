@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-colliei/1.jpg
+  page: https://www.inaturalist.org/photos/604568067
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604568067/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-colliei/1.jpg
+  page: https://www.inaturalist.org/photos/604568067
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604568067/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-colliei/2.jpg
+  page: https://www.inaturalist.org/photos/607753436
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607753436/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-colliei/3.jpg
+  page: https://www.inaturalist.org/photos/617293770
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617293770/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-colliei/4.jpg
+  page: https://www.inaturalist.org/photos/622573358
+  author: Tory Bush
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622573358/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-colliei/5.jpg
+  page: https://www.inaturalist.org/photos/637803736
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637803736/original.jpg
 ---
 
 

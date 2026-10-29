@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 46
+image:
+  file: images/suliformes/phalacrocoracidae/phalacrocorax-varius/1.jpg
+  page: https://www.inaturalist.org/photos/605303246
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303246/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-varius/1.jpg
+  page: https://www.inaturalist.org/photos/605303246
+  author: Shaun Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303246/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-varius/2.jpg
+  page: https://www.inaturalist.org/photos/605317929
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605317929/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-varius/3.jpg
+  page: https://www.inaturalist.org/photos/604907725
+  author: prosperosity
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604907725/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-varius/4.jpg
+  page: https://www.inaturalist.org/photos/604999680
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604999680/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-varius/5.jpg
+  page: https://www.inaturalist.org/photos/610647695
+  author: Jenny Saito
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610647695/original.jpg
 ---
 
 

@@ -131,8 +131,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/aethomyias-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/624314017
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624314017/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/aethomyias-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/624314017
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624314017/original.jpg
+- file: images/passeriformes/acanthizidae/aethomyias-rufescens/2.jpg
+  page: https://www.inaturalist.org/photos/624314035
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624314035/original.jpg
+- file: images/passeriformes/acanthizidae/aethomyias-rufescens/3.jpg
+  page: https://www.inaturalist.org/photos/624314025
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624314025/original.jpg
+- file: images/passeriformes/acanthizidae/aethomyias-rufescens/4.jpg
+  page: https://www.inaturalist.org/photos/624313946
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624313946/original.jpg
+- file: images/passeriformes/acanthizidae/aethomyias-rufescens/5.jpg
+  page: https://www.inaturalist.org/photos/624314082
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624314082/original.jpg
 ---
 
 

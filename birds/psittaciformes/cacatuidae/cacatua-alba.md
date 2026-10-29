@@ -152,10 +152,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-alba/1.jpg
+  page: https://www.inaturalist.org/photos/713032866
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713032866/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-alba/1.jpg
+  page: https://www.inaturalist.org/photos/713032866
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713032866/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-alba/2.jpg
+  page: https://www.inaturalist.org/photos/526333285
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333285/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-alba/3.jpg
+  page: https://www.inaturalist.org/photos/388133043
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388133043/original.jpeg
+- file: images/psittaciformes/cacatuidae/cacatua-alba/4.jpg
+  page: https://www.inaturalist.org/photos/312475131
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/312475131/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-alba/5.jpg
+  page: https://www.inaturalist.org/photos/107840246
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107840246/original.jpg
 ---
 
 

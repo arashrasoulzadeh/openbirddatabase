@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 41.7
@@ -143,6 +144,26 @@ morphology:
   wing_length_mm: 436.7
   tail_length_mm: 229.3
   body_mass_g: 1475.1
+image:
+  file: images/accipitriformes/accipitridae/nisaetus-floris/1.jpg
+  page: https://www.inaturalist.org/photos/337787646
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787646/original.jpeg
+images:
+- file: images/accipitriformes/accipitridae/nisaetus-floris/1.jpg
+  page: https://www.inaturalist.org/photos/337787646
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787646/original.jpeg
+- file: images/accipitriformes/accipitridae/nisaetus-floris/2.jpg
+  page: https://www.inaturalist.org/photos/107995540
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107995540/original.jpeg
 ---
 
 

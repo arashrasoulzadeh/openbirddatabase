@@ -204,10 +204,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 38
+image:
+  file: images/pelecaniformes/ardeidae/ardea-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/605086533
+  author: Margherita Ferraiuolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605086533/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/605086533
+  author: Margherita Ferraiuolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605086533/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/605330572
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605330572/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/605193421
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605193421/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/605072257
+  author: Radu Teodoreanu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605072257/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/605357074
+  author: François Dunoyer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605357074/original.jpg
 ---
 
 

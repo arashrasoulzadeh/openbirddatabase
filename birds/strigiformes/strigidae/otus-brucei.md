@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-brucei/1.jpg
+  page: https://www.inaturalist.org/photos/472753537
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472753537/original.jpeg
+images:
+- file: images/strigiformes/strigidae/otus-brucei/1.jpg
+  page: https://www.inaturalist.org/photos/472753537
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472753537/original.jpeg
+- file: images/strigiformes/strigidae/otus-brucei/2.jpg
+  page: https://www.inaturalist.org/photos/509277453
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509277453/original.jpg
+- file: images/strigiformes/strigidae/otus-brucei/3.jpg
+  page: https://www.inaturalist.org/photos/202678531
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202678531/original.jpeg
+- file: images/strigiformes/strigidae/otus-brucei/4.jpg
+  page: https://www.inaturalist.org/photos/90396099
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/90396099/original.jpg
+- file: images/strigiformes/strigidae/otus-brucei/5.jpg
+  page: https://www.inaturalist.org/photos/60591370
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60591370/original.jpeg
 ---
 
 

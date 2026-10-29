@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-spilogaster/1.jpg
+  page: https://www.inaturalist.org/photos/608734802
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608734802/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-spilogaster/1.jpg
+  page: https://www.inaturalist.org/photos/608734802
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608734802/original.jpg
+- file: images/piciformes/picidae/veniliornis-spilogaster/2.jpg
+  page: https://www.inaturalist.org/photos/609337722
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609337722/original.jpg
+- file: images/piciformes/picidae/veniliornis-spilogaster/3.jpg
+  page: https://www.inaturalist.org/photos/621177785
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621177785/original.jpg
+- file: images/piciformes/picidae/veniliornis-spilogaster/4.jpg
+  page: https://www.inaturalist.org/photos/630422608
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630422608/original.jpg
+- file: images/piciformes/picidae/veniliornis-spilogaster/5.jpg
+  page: https://www.inaturalist.org/photos/645404255
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645404255/original.jpg
 ---
 
 

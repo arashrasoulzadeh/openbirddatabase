@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-rufigaster/1.jpg
+  page: https://www.inaturalist.org/photos/565770025
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565770025/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-rufigaster/1.jpg
+  page: https://www.inaturalist.org/photos/565770025
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565770025/original.jpg
+- file: images/columbiformes/columbidae/ducula-rufigaster/2.jpg
+  page: https://www.inaturalist.org/photos/618524619
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618524619/original.jpg
+- file: images/columbiformes/columbidae/ducula-rufigaster/3.jpg
+  page: https://www.inaturalist.org/photos/575614125
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575614125/original.jpg
+- file: images/columbiformes/columbidae/ducula-rufigaster/4.jpg
+  page: https://www.inaturalist.org/photos/575614127
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575614127/original.jpg
+- file: images/columbiformes/columbidae/ducula-rufigaster/5.jpg
+  page: https://www.inaturalist.org/photos/575614146
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575614146/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/uromyias-agilis/1.jpg
+  page: https://www.inaturalist.org/photos/502995175
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502995175/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/uromyias-agilis/1.jpg
+  page: https://www.inaturalist.org/photos/502995175
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502995175/original.jpg
+- file: images/passeriformes/tyrannidae/uromyias-agilis/2.jpg
+  page: https://www.inaturalist.org/photos/420514809
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420514809/original.jpeg
+- file: images/passeriformes/tyrannidae/uromyias-agilis/3.jpg
+  page: https://www.inaturalist.org/photos/626886345
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626886345/original.jpg
+- file: images/passeriformes/tyrannidae/uromyias-agilis/4.jpg
+  page: https://www.inaturalist.org/photos/163587691
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163587691/original.jpeg
+- file: images/passeriformes/tyrannidae/uromyias-agilis/5.jpg
+  page: https://www.inaturalist.org/photos/136586717
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/136586717/original.jpeg
 ---
 
 

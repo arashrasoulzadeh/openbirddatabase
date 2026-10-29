@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/glareola-ocularis/1.jpg
+  page: https://www.inaturalist.org/photos/443981356
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443981356/original.jpeg
+images:
+- file: images/charadriiformes/glareolidae/glareola-ocularis/1.jpg
+  page: https://www.inaturalist.org/photos/443981356
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443981356/original.jpeg
+- file: images/charadriiformes/glareolidae/glareola-ocularis/2.jpg
+  page: https://www.inaturalist.org/photos/452487280
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452487280/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-ocularis/3.jpg
+  page: https://www.inaturalist.org/photos/463678776
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463678776/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-ocularis/4.jpg
+  page: https://www.inaturalist.org/photos/57291717
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57291717/original.jpg
+- file: images/charadriiformes/glareolidae/glareola-ocularis/5.jpg
+  page: https://www.inaturalist.org/photos/443979481
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443979481/original.jpeg
 ---
 
 

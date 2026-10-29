@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/hirundinidae/tachycineta-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/604620266
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604620266/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/tachycineta-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/604620266
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604620266/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/605374420
+  author: Laura Mae
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605374420/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-bicolor/3.jpg
+  page: https://www.inaturalist.org/photos/605470392
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605470392/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/606156619
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606156619/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-bicolor/5.jpg
+  page: https://www.inaturalist.org/photos/608653306
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608653306/original.jpg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/pharomachrus-mocinno/1.jpg
+  page: https://www.inaturalist.org/photos/608428121
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608428121/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/pharomachrus-mocinno/1.jpg
+  page: https://www.inaturalist.org/photos/608428121
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608428121/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-mocinno/2.jpg
+  page: https://www.inaturalist.org/photos/606186005
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606186005/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-mocinno/3.jpg
+  page: https://www.inaturalist.org/photos/606285964
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606285964/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-mocinno/4.jpg
+  page: https://www.inaturalist.org/photos/611942087
+  author: Chao 江星辰
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611942087/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-mocinno/5.jpg
+  page: https://www.inaturalist.org/photos/615481226
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615481226/original.jpg
 ---
 
 

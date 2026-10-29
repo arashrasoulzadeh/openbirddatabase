@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/certhiidae/certhia-familiaris/1.jpg
+  page: https://www.inaturalist.org/photos/605341237
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605341237/original.jpg
+images:
+- file: images/passeriformes/certhiidae/certhia-familiaris/1.jpg
+  page: https://www.inaturalist.org/photos/605341237
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605341237/original.jpg
+- file: images/passeriformes/certhiidae/certhia-familiaris/2.jpg
+  page: https://www.inaturalist.org/photos/605742828
+  author: Charlie Farrell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605742828/original.jpg
+- file: images/passeriformes/certhiidae/certhia-familiaris/3.jpg
+  page: https://www.inaturalist.org/photos/605026702
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605026702/original.jpg
+- file: images/passeriformes/certhiidae/certhia-familiaris/4.jpg
+  page: https://www.inaturalist.org/photos/605674612
+  author: Шухободская Ольга Владимировна
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605674612/original.jpg
+- file: images/passeriformes/certhiidae/certhia-familiaris/5.jpg
+  page: https://www.inaturalist.org/photos/605049885
+  author: k
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605049885/original.jpg
 ---
 
 

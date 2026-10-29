@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-ventralis/1.jpg
+  page: https://www.inaturalist.org/photos/668083901
+  author: nleiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668083901/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-ventralis/1.jpg
+  page: https://www.inaturalist.org/photos/668083901
+  author: nleiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668083901/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-ventralis/2.jpg
+  page: https://www.inaturalist.org/photos/543054925
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543054925/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-ventralis/3.jpg
+  page: https://www.inaturalist.org/photos/184080729
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184080729/original.jpeg
+- file: images/accipitriformes/accipitridae/buteo-ventralis/4.jpg
+  page: https://www.inaturalist.org/photos/222644904
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/222644904/original.jpeg
+- file: images/accipitriformes/accipitridae/buteo-ventralis/5.jpg
+  page: https://www.inaturalist.org/photos/543054880
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543054880/original.jpg
 ---
 
 

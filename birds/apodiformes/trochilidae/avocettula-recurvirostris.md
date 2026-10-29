@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/avocettula-recurvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/591889144
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591889144/original.jpg
+images:
+- file: images/apodiformes/trochilidae/avocettula-recurvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/591889144
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591889144/original.jpg
+- file: images/apodiformes/trochilidae/avocettula-recurvirostris/2.jpg
+  page: https://www.inaturalist.org/photos/445088016
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445088016/original.jpeg
+- file: images/apodiformes/trochilidae/avocettula-recurvirostris/3.jpg
+  page: https://www.inaturalist.org/photos/601884659
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601884659/original.jpg
+- file: images/apodiformes/trochilidae/avocettula-recurvirostris/4.jpg
+  page: https://www.inaturalist.org/photos/401994959
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401994959/original.jpg
+- file: images/apodiformes/trochilidae/avocettula-recurvirostris/5.jpg
+  page: https://www.inaturalist.org/photos/445088018
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445088018/original.jpeg
 ---
 
 

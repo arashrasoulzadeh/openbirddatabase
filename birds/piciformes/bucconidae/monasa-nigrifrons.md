@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/monasa-nigrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/608959395
+  author: Jean Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608959395/original.jpg
+images:
+- file: images/piciformes/bucconidae/monasa-nigrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/608959395
+  author: Jean Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608959395/original.jpg
+- file: images/piciformes/bucconidae/monasa-nigrifrons/2.jpg
+  page: https://www.inaturalist.org/photos/610013257
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610013257/original.jpg
+- file: images/piciformes/bucconidae/monasa-nigrifrons/3.jpg
+  page: https://www.inaturalist.org/photos/612191463
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612191463/original.jpg
+- file: images/piciformes/bucconidae/monasa-nigrifrons/4.jpg
+  page: https://www.inaturalist.org/photos/616915631
+  author: Pedro Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616915631/original.jpg
+- file: images/piciformes/bucconidae/monasa-nigrifrons/5.jpg
+  page: https://www.inaturalist.org/photos/620424745
+  author: Stan Rullman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620424745/original.jpg
 ---
 
 

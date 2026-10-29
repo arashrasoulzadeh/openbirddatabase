@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-moneduloides/1.jpg
+  page: https://www.inaturalist.org/photos/718440887
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718440887/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-moneduloides/1.jpg
+  page: https://www.inaturalist.org/photos/718440887
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718440887/original.jpg
+- file: images/passeriformes/corvidae/corvus-moneduloides/2.jpg
+  page: https://www.inaturalist.org/photos/586262751
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586262751/original.jpg
+- file: images/passeriformes/corvidae/corvus-moneduloides/3.jpg
+  page: https://www.inaturalist.org/photos/40425936
+  author: Lennart Hudel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/40425936/original.jpeg
+- file: images/passeriformes/corvidae/corvus-moneduloides/4.jpg
+  page: https://www.inaturalist.org/photos/718440897
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718440897/original.jpg
+- file: images/passeriformes/corvidae/corvus-moneduloides/5.jpg
+  page: https://www.inaturalist.org/photos/718440927
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718440927/original.jpg
 ---
 
 

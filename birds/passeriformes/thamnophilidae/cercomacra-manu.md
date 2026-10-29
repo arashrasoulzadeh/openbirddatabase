@@ -147,8 +147,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cercomacra-manu/1.jpg
+  page: https://www.inaturalist.org/photos/328983641
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328983641/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/cercomacra-manu/1.jpg
+  page: https://www.inaturalist.org/photos/328983641
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328983641/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacra-manu/2.jpg
+  page: https://www.inaturalist.org/photos/255677206
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255677206/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-manu/3.jpg
+  page: https://www.inaturalist.org/photos/418512127
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418512127/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-manu/4.jpg
+  page: https://www.inaturalist.org/photos/255677192
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255677192/original.jpg
 ---
 
 

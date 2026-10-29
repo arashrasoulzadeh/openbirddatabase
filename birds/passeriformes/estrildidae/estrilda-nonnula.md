@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/estrilda-nonnula/1.jpg
+  page: https://www.inaturalist.org/photos/621457169
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621457169/original.jpg
+images:
+- file: images/passeriformes/estrildidae/estrilda-nonnula/1.jpg
+  page: https://www.inaturalist.org/photos/621457169
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621457169/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-nonnula/2.jpg
+  page: https://www.inaturalist.org/photos/658906320
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658906320/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-nonnula/3.jpg
+  page: https://www.inaturalist.org/photos/678248436
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678248436/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-nonnula/4.jpg
+  page: https://www.inaturalist.org/photos/705627008
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705627008/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-nonnula/5.jpg
+  page: https://www.inaturalist.org/photos/722418438
+  author: Kimberly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722418438/original.jpg
 ---
 
 

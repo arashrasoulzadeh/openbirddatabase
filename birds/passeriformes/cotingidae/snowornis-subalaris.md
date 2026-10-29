@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/snowornis-subalaris/1.jpg
+  page: https://www.inaturalist.org/photos/386460748
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386460748/original.jpg
+images:
+- file: images/passeriformes/cotingidae/snowornis-subalaris/1.jpg
+  page: https://www.inaturalist.org/photos/386460748
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386460748/original.jpg
+- file: images/passeriformes/cotingidae/snowornis-subalaris/2.jpg
+  page: https://www.inaturalist.org/photos/163118121
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163118121/original.jpeg
+- file: images/passeriformes/cotingidae/snowornis-subalaris/3.jpg
+  page: https://www.inaturalist.org/photos/386460719
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386460719/original.jpg
+- file: images/passeriformes/cotingidae/snowornis-subalaris/4.jpg
+  page: https://www.inaturalist.org/photos/163120725
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163120725/original.jpeg
+- file: images/passeriformes/cotingidae/snowornis-subalaris/5.jpg
+  page: https://www.inaturalist.org/photos/163120816
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163120816/original.jpeg
 ---
 
 

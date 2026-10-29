@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/passerellidae/pooecetes-gramineus/1.jpg
+  page: https://www.inaturalist.org/photos/605366991
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605366991/original.jpg
+images:
+- file: images/passeriformes/passerellidae/pooecetes-gramineus/1.jpg
+  page: https://www.inaturalist.org/photos/605366991
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605366991/original.jpg
+- file: images/passeriformes/passerellidae/pooecetes-gramineus/2.jpg
+  page: https://www.inaturalist.org/photos/605514779
+  author: CH Hemphill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605514779/original.jpg
+- file: images/passeriformes/passerellidae/pooecetes-gramineus/3.jpg
+  page: https://www.inaturalist.org/photos/605383652
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383652/original.jpg
+- file: images/passeriformes/passerellidae/pooecetes-gramineus/4.jpg
+  page: https://www.inaturalist.org/photos/610244514
+  author: Stephanie Tran
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610244514/original.jpg
+- file: images/passeriformes/passerellidae/pooecetes-gramineus/5.jpg
+  page: https://www.inaturalist.org/photos/610549990
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610549990/original.jpg
 ---
 
 

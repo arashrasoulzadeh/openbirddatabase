@@ -145,8 +145,23 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/tinamus-osgoodi/1.jpg
+  page: https://www.inaturalist.org/photos/70265010
+  author: Blair Dudeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70265010/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/tinamus-osgoodi/1.jpg
+  page: https://www.inaturalist.org/photos/70265010
+  author: Blair Dudeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70265010/original.jpg
 ---
 
 

@@ -128,7 +128,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.3
@@ -140,6 +141,44 @@ demography:
   max_longevity_years: 12
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/meliphagidae/meliphaga-gracilis/1.jpg
+  page: https://www.inaturalist.org/photos/701226383
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701226383/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/meliphaga-gracilis/1.jpg
+  page: https://www.inaturalist.org/photos/701226383
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701226383/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-gracilis/2.jpg
+  page: https://www.inaturalist.org/photos/710734604
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710734604/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-gracilis/3.jpg
+  page: https://www.inaturalist.org/photos/244005024
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244005024/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-gracilis/4.jpg
+  page: https://www.inaturalist.org/photos/400468628
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/400468628/original.jpeg
+- file: images/passeriformes/meliphagidae/meliphaga-gracilis/5.jpg
+  page: https://www.inaturalist.org/photos/52070776
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52070776/original.jpg
 ---
 
 

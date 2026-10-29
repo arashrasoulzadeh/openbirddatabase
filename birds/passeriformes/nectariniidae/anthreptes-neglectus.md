@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/anthreptes-neglectus/1.jpg
+  page: https://www.inaturalist.org/photos/473817742
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473817742/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/anthreptes-neglectus/1.jpg
+  page: https://www.inaturalist.org/photos/473817742
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473817742/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-neglectus/2.jpg
+  page: https://www.inaturalist.org/photos/476162780
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476162780/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-neglectus/3.jpg
+  page: https://www.inaturalist.org/photos/476162782
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476162782/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-neglectus/4.jpg
+  page: https://www.inaturalist.org/photos/476162783
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476162783/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-neglectus/5.jpg
+  page: https://www.inaturalist.org/photos/476162786
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476162786/original.jpg
 ---
 
 

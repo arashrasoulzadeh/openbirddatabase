@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-sibilatrix/1.jpg
+  page: https://www.inaturalist.org/photos/641244979
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641244979/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-sibilatrix/1.jpg
+  page: https://www.inaturalist.org/photos/641244979
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641244979/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-sibilatrix/2.jpg
+  page: https://www.inaturalist.org/photos/646471630
+  author: Людмила Алимова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646471630/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-sibilatrix/3.jpg
+  page: https://www.inaturalist.org/photos/641844583
+  author: Nik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641844583/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-sibilatrix/4.jpg
+  page: https://www.inaturalist.org/photos/637480737
+  author: Vasileia Sef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637480737/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-sibilatrix/5.jpg
+  page: https://www.inaturalist.org/photos/650194176
+  author: Igor Balashov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650194176/original.jpg
 ---
 
 

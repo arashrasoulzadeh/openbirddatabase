@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/syndactyla-subalaris/1.jpg
+  page: https://www.inaturalist.org/photos/691126625
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691126625/original.jpg
+images:
+- file: images/passeriformes/furnariidae/syndactyla-subalaris/1.jpg
+  page: https://www.inaturalist.org/photos/691126625
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691126625/original.jpg
+- file: images/passeriformes/furnariidae/syndactyla-subalaris/2.jpg
+  page: https://www.inaturalist.org/photos/528905742
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528905742/original.jpg
+- file: images/passeriformes/furnariidae/syndactyla-subalaris/3.jpg
+  page: https://www.inaturalist.org/photos/555844146
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555844146/original.jpg
+- file: images/passeriformes/furnariidae/syndactyla-subalaris/4.jpg
+  page: https://www.inaturalist.org/photos/570578412
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570578412/original.jpg
+- file: images/passeriformes/furnariidae/syndactyla-subalaris/5.jpg
+  page: https://www.inaturalist.org/photos/575274545
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575274545/original.jpg
 ---
 
 

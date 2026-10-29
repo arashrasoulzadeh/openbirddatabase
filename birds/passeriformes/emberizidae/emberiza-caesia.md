@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-caesia/1.jpg
+  page: https://www.inaturalist.org/photos/481229109
+  author: Victor Heng
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481229109/original.jpeg
+images:
+- file: images/passeriformes/emberizidae/emberiza-caesia/1.jpg
+  page: https://www.inaturalist.org/photos/481229109
+  author: Victor Heng
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481229109/original.jpeg
+- file: images/passeriformes/emberizidae/emberiza-caesia/2.jpg
+  page: https://www.inaturalist.org/photos/483932474
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483932474/original.jpeg
+- file: images/passeriformes/emberizidae/emberiza-caesia/3.jpg
+  page: https://www.inaturalist.org/photos/484455662
+  author: Rex Leung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484455662/original.jpeg
+- file: images/passeriformes/emberizidae/emberiza-caesia/4.jpg
+  page: https://www.inaturalist.org/photos/508254083
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508254083/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-caesia/5.jpg
+  page: https://www.inaturalist.org/photos/483932184
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483932184/original.jpeg
 ---
 
 

@@ -190,10 +190,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/muscicapidae/luscinia-megarhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/637539349
+  author: Nico Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637539349/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/luscinia-megarhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/637539349
+  author: Nico Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637539349/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-megarhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/637277374
+  author: uxbridgebirder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637277374/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-megarhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/648623310
+  author: Leon Haag-Fank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648623310/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-megarhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/639657263
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639657263/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-megarhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/641585414
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641585414/original.jpg
 ---
 
 

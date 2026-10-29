@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/passeriformes/prunellidae/prunella-modularis/1.jpg
+  page: https://www.inaturalist.org/photos/605651790
+  author: Gemma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605651790/original.jpg
+images:
+- file: images/passeriformes/prunellidae/prunella-modularis/1.jpg
+  page: https://www.inaturalist.org/photos/605651790
+  author: Gemma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605651790/original.jpg
+- file: images/passeriformes/prunellidae/prunella-modularis/2.jpg
+  page: https://www.inaturalist.org/photos/605086224
+  author: Margherita Ferraiuolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605086224/original.jpg
+- file: images/passeriformes/prunellidae/prunella-modularis/3.jpg
+  page: https://www.inaturalist.org/photos/605391259
+  author: Matthieu Trotignon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605391259/original.jpg
+- file: images/passeriformes/prunellidae/prunella-modularis/4.jpg
+  page: https://www.inaturalist.org/photos/604497458
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604497458/original.jpg
+- file: images/passeriformes/prunellidae/prunella-modularis/5.jpg
+  page: https://www.inaturalist.org/photos/605386174
+  author: Becky Hamilton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605386174/original.jpg
 ---
 
 

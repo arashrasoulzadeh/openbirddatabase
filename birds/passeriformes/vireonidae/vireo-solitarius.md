@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/vireonidae/vireo-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/605383520
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383520/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/605383520
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383520/original.jpg
+- file: images/passeriformes/vireonidae/vireo-solitarius/2.jpg
+  page: https://www.inaturalist.org/photos/604874446
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604874446/original.jpg
+- file: images/passeriformes/vireonidae/vireo-solitarius/3.jpg
+  page: https://www.inaturalist.org/photos/607273560
+  author: Daniel Patterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607273560/original.jpg
+- file: images/passeriformes/vireonidae/vireo-solitarius/4.jpg
+  page: https://www.inaturalist.org/photos/608081689
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608081689/original.jpg
+- file: images/passeriformes/vireonidae/vireo-solitarius/5.jpg
+  page: https://www.inaturalist.org/photos/608725102
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608725102/original.jpg
 ---
 
 

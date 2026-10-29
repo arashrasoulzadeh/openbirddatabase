@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-solstitialis/1.jpg
+  page: https://www.inaturalist.org/photos/612901281
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612901281/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-solstitialis/1.jpg
+  page: https://www.inaturalist.org/photos/612901281
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612901281/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-solstitialis/2.jpg
+  page: https://www.inaturalist.org/photos/654230828
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654230828/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-solstitialis/3.jpg
+  page: https://www.inaturalist.org/photos/652811714
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652811714/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-solstitialis/4.jpg
+  page: https://www.inaturalist.org/photos/708193522
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708193522/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-solstitialis/5.jpg
+  page: https://www.inaturalist.org/photos/727042645
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727042645/original.jpg
 ---
 
 

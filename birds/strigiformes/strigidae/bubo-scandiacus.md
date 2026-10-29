@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/strigiformes/strigidae/bubo-scandiacus/1.jpg
+  page: https://www.inaturalist.org/photos/605144971
+  author: kirk gardner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144971/original.jpg
+images:
+- file: images/strigiformes/strigidae/bubo-scandiacus/1.jpg
+  page: https://www.inaturalist.org/photos/605144971
+  author: kirk gardner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144971/original.jpg
+- file: images/strigiformes/strigidae/bubo-scandiacus/2.jpg
+  page: https://www.inaturalist.org/photos/605404446
+  author: Kevin Achtmeyer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605404446/original.jpg
+- file: images/strigiformes/strigidae/bubo-scandiacus/3.jpg
+  page: https://www.inaturalist.org/photos/605144600
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144600/original.jpg
+- file: images/strigiformes/strigidae/bubo-scandiacus/4.jpg
+  page: https://www.inaturalist.org/photos/605525655
+  author: Hunter Hammil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605525655/original.jpg
+- file: images/strigiformes/strigidae/bubo-scandiacus/5.jpg
+  page: https://www.inaturalist.org/photos/606301920
+  author: Mark Libby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606301920/original.jpg
 ---
 
 

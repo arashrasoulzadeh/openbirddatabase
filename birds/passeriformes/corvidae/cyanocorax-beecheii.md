@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-beecheii/1.jpg
+  page: https://www.inaturalist.org/photos/608505279
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608505279/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-beecheii/1.jpg
+  page: https://www.inaturalist.org/photos/608505279
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608505279/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-beecheii/2.jpg
+  page: https://www.inaturalist.org/photos/477972159
+  author: Francisco Farriols Sarabia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477972159/original.jpeg
+- file: images/passeriformes/corvidae/cyanocorax-beecheii/3.jpg
+  page: https://www.inaturalist.org/photos/364773510
+  author: Oliver Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364773510/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-beecheii/4.jpg
+  page: https://www.inaturalist.org/photos/253516980
+  author: Oscar Gonzalez Diaz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253516980/original.jpeg
+- file: images/passeriformes/corvidae/cyanocorax-beecheii/5.jpg
+  page: https://www.inaturalist.org/photos/464836560
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464836560/original.jpeg
 ---
 
 

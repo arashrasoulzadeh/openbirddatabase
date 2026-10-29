@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/menuridae/menura-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/607290456
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607290456/original.jpg
+images:
+- file: images/passeriformes/menuridae/menura-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/607290456
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607290456/original.jpg
+- file: images/passeriformes/menuridae/menura-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/608822097
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608822097/original.jpg
+- file: images/passeriformes/menuridae/menura-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/611321112
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611321112/original.jpg
+- file: images/passeriformes/menuridae/menura-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/614406280
+  author: Petra Holland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614406280/original.jpg
+- file: images/passeriformes/menuridae/menura-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/615192854
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615192854/original.jpg
 ---
 
 

@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/paradoxornithidae/chamaea-fasciata/1.jpg
+  page: https://www.inaturalist.org/photos/608800834
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608800834/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/chamaea-fasciata/1.jpg
+  page: https://www.inaturalist.org/photos/608800834
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608800834/original.jpg
+- file: images/passeriformes/paradoxornithidae/chamaea-fasciata/2.jpg
+  page: https://www.inaturalist.org/photos/611813208
+  author: Spencer Hurt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611813208/original.jpg
+- file: images/passeriformes/paradoxornithidae/chamaea-fasciata/3.jpg
+  page: https://www.inaturalist.org/photos/613682011
+  author: Zoe Denckla
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613682011/original.jpg
+- file: images/passeriformes/paradoxornithidae/chamaea-fasciata/4.jpg
+  page: https://www.inaturalist.org/photos/614004135
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614004135/original.jpg
+- file: images/passeriformes/paradoxornithidae/chamaea-fasciata/5.jpg
+  page: https://www.inaturalist.org/photos/619967751
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619967751/original.jpg
 ---
 
 

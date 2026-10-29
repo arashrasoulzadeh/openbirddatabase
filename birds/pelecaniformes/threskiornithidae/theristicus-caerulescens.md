@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/threskiornithidae/theristicus-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/605494172
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494172/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/theristicus-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/605494172
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494172/original.jpg
+- file: images/pelecaniformes/threskiornithidae/theristicus-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/606027453
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027453/original.jpg
+- file: images/pelecaniformes/threskiornithidae/theristicus-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/614272127
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614272127/original.jpg
+- file: images/pelecaniformes/threskiornithidae/theristicus-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/628573301
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628573301/original.jpg
+- file: images/pelecaniformes/threskiornithidae/theristicus-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/652854263
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652854263/original.jpg
 ---
 
 

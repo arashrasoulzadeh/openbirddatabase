@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/charadriiformes/charadriidae/charadrius-semipalmatus/1.jpg
+  page: https://www.inaturalist.org/photos/604874201
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604874201/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/charadrius-semipalmatus/1.jpg
+  page: https://www.inaturalist.org/photos/604874201
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604874201/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-semipalmatus/2.jpg
+  page: https://www.inaturalist.org/photos/604588789
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588789/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-semipalmatus/3.jpg
+  page: https://www.inaturalist.org/photos/604657216
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604657216/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-semipalmatus/4.jpg
+  page: https://www.inaturalist.org/photos/609957481
+  author: Dillon LeDoux
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609957481/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-semipalmatus/5.jpg
+  page: https://www.inaturalist.org/photos/609090612
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609090612/original.jpg
 ---
 
 

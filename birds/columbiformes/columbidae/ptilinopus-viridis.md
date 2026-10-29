@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/625308741
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625308741/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/625308741
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625308741/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/477474216
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477474216/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/670824591
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670824591/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/319004245
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/319004245/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/337129265
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337129265/original.jpg
 ---
 
 

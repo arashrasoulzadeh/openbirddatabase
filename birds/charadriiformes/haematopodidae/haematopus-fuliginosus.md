@@ -142,10 +142,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/605369744
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605369744/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/605369744
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605369744/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-fuliginosus/2.jpg
+  page: https://www.inaturalist.org/photos/606505968
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606505968/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-fuliginosus/3.jpg
+  page: https://www.inaturalist.org/photos/608814551
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608814551/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-fuliginosus/4.jpg
+  page: https://www.inaturalist.org/photos/608116502
+  author: Alex Stuart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608116502/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-fuliginosus/5.jpg
+  page: https://www.inaturalist.org/photos/610530288
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610530288/original.jpg
 ---
 
 

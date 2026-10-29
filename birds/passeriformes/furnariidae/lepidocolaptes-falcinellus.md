@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/lepidocolaptes-falcinellus/1.jpg
+  page: https://www.inaturalist.org/photos/612476922
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612476922/original.jpg
+images:
+- file: images/passeriformes/furnariidae/lepidocolaptes-falcinellus/1.jpg
+  page: https://www.inaturalist.org/photos/612476922
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612476922/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-falcinellus/2.jpg
+  page: https://www.inaturalist.org/photos/686800596
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686800596/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-falcinellus/3.jpg
+  page: https://www.inaturalist.org/photos/694664553
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694664553/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-falcinellus/4.jpg
+  page: https://www.inaturalist.org/photos/469368288
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469368288/original.jpeg
+- file: images/passeriformes/furnariidae/lepidocolaptes-falcinellus/5.jpg
+  page: https://www.inaturalist.org/photos/503573520
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503573520/original.jpeg
 ---
 
 

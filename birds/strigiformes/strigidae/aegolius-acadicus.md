@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/strigiformes/strigidae/aegolius-acadicus/1.jpg
+  page: https://www.inaturalist.org/photos/605471111
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605471111/original.jpg
+images:
+- file: images/strigiformes/strigidae/aegolius-acadicus/1.jpg
+  page: https://www.inaturalist.org/photos/605471111
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605471111/original.jpg
+- file: images/strigiformes/strigidae/aegolius-acadicus/2.jpg
+  page: https://www.inaturalist.org/photos/605427916
+  author: becca333
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605427916/original.jpg
+- file: images/strigiformes/strigidae/aegolius-acadicus/3.jpg
+  page: https://www.inaturalist.org/photos/607909673
+  author: Russell Parsons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607909673/original.jpg
+- file: images/strigiformes/strigidae/aegolius-acadicus/4.jpg
+  page: https://www.inaturalist.org/photos/607028104
+  author: Michael, Antoni and Nihat Hinczewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607028104/original.jpg
+- file: images/strigiformes/strigidae/aegolius-acadicus/5.jpg
+  page: https://www.inaturalist.org/photos/613643407
+  author: RangerRocky
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613643407/original.jpg
 ---
 
 

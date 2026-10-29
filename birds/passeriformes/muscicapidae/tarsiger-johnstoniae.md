@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/tarsiger-johnstoniae/1.jpg
+  page: https://www.inaturalist.org/photos/667611102
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667611102/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/tarsiger-johnstoniae/1.jpg
+  page: https://www.inaturalist.org/photos/667611102
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667611102/original.jpg
+- file: images/passeriformes/muscicapidae/tarsiger-johnstoniae/2.jpg
+  page: https://www.inaturalist.org/photos/710220235
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710220235/original.jpg
+- file: images/passeriformes/muscicapidae/tarsiger-johnstoniae/3.jpg
+  page: https://www.inaturalist.org/photos/652071145
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652071145/original.jpg
+- file: images/passeriformes/muscicapidae/tarsiger-johnstoniae/4.jpg
+  page: https://www.inaturalist.org/photos/693179456
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693179456/original.jpg
+- file: images/passeriformes/muscicapidae/tarsiger-johnstoniae/5.jpg
+  page: https://www.inaturalist.org/photos/698373848
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698373848/original.jpg
 ---
 
 

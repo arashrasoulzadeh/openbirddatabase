@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/aceros-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/504273564
+  author: libby hepburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504273564/original.jpeg
+images:
+- file: images/bucerotiformes/bucerotidae/aceros-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/504273564
+  author: libby hepburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504273564/original.jpeg
+- file: images/bucerotiformes/bucerotidae/aceros-nipalensis/2.jpg
+  page: https://www.inaturalist.org/photos/364949842
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364949842/original.jpeg
+- file: images/bucerotiformes/bucerotidae/aceros-nipalensis/3.jpg
+  page: https://www.inaturalist.org/photos/374927126
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/374927126/original.jpg
+- file: images/bucerotiformes/bucerotidae/aceros-nipalensis/4.jpg
+  page: https://www.inaturalist.org/photos/545965160
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545965160/original.jpg
+- file: images/bucerotiformes/bucerotidae/aceros-nipalensis/5.jpg
+  page: https://www.inaturalist.org/photos/217247959
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/217247959/original.jpg
 ---
 
 

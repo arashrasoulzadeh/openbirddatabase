@@ -183,10 +183,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 45
+image:
+  file: images/anseriformes/anatidae/aythya-fuligula/1.jpg
+  page: https://www.inaturalist.org/photos/604805012
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604805012/original.jpg
+images:
+- file: images/anseriformes/anatidae/aythya-fuligula/1.jpg
+  page: https://www.inaturalist.org/photos/604805012
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604805012/original.jpg
+- file: images/anseriformes/anatidae/aythya-fuligula/2.jpg
+  page: https://www.inaturalist.org/photos/604527326
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604527326/original.jpg
+- file: images/anseriformes/anatidae/aythya-fuligula/3.jpg
+  page: https://www.inaturalist.org/photos/605257735
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605257735/original.jpg
+- file: images/anseriformes/anatidae/aythya-fuligula/4.jpg
+  page: https://www.inaturalist.org/photos/605054011
+  author: cwriggy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605054011/original.jpg
+- file: images/anseriformes/anatidae/aythya-fuligula/5.jpg
+  page: https://www.inaturalist.org/photos/605034286
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605034286/original.jpg
 ---
 
 

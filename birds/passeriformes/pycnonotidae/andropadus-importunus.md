@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/andropadus-importunus/1.jpg
+  page: https://www.inaturalist.org/photos/605036255
+  author: rcoliveira84
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605036255/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/andropadus-importunus/1.jpg
+  page: https://www.inaturalist.org/photos/605036255
+  author: rcoliveira84
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605036255/original.jpg
+- file: images/passeriformes/pycnonotidae/andropadus-importunus/2.jpg
+  page: https://www.inaturalist.org/photos/609508076
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609508076/original.jpg
+- file: images/passeriformes/pycnonotidae/andropadus-importunus/3.jpg
+  page: https://www.inaturalist.org/photos/608228141
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228141/original.jpg
+- file: images/passeriformes/pycnonotidae/andropadus-importunus/4.jpg
+  page: https://www.inaturalist.org/photos/609705670
+  author: Glynn Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609705670/original.jpg
+- file: images/passeriformes/pycnonotidae/andropadus-importunus/5.jpg
+  page: https://www.inaturalist.org/photos/612626174
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626174/original.jpg
 ---
 
 

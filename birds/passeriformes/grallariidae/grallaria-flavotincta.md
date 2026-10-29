@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-flavotincta/1.jpg
+  page: https://www.inaturalist.org/photos/591643840
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591643840/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-flavotincta/1.jpg
+  page: https://www.inaturalist.org/photos/591643840
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591643840/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-flavotincta/2.jpg
+  page: https://www.inaturalist.org/photos/351434534
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351434534/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-flavotincta/3.jpg
+  page: https://www.inaturalist.org/photos/617221928
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617221928/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-flavotincta/4.jpg
+  page: https://www.inaturalist.org/photos/263763357
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263763357/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-flavotincta/5.jpg
+  page: https://www.inaturalist.org/photos/469191144
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469191144/original.jpeg
 ---
 
 

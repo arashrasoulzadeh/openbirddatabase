@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/aegotheliformes/aegothelidae/aegotheles-tatei/1.jpg
+  page: https://www.inaturalist.org/photos/709303148
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709303148/original.jpg
+images:
+- file: images/aegotheliformes/aegothelidae/aegotheles-tatei/1.jpg
+  page: https://www.inaturalist.org/photos/709303148
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709303148/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-tatei/2.jpg
+  page: https://www.inaturalist.org/photos/581451561
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581451561/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-tatei/3.jpg
+  page: https://www.inaturalist.org/photos/709303147
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709303147/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-tatei/4.jpg
+  page: https://www.inaturalist.org/photos/709303178
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709303178/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-tatei/5.jpg
+  page: https://www.inaturalist.org/photos/709303145
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709303145/original.jpg
 ---
 
 

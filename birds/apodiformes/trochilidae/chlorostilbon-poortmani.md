@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chlorostilbon-poortmani/1.jpg
+  page: https://www.inaturalist.org/photos/286592772
+  author: Ariel Gallego
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286592772/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/chlorostilbon-poortmani/1.jpg
+  page: https://www.inaturalist.org/photos/286592772
+  author: Ariel Gallego
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/286592772/original.jpeg
+- file: images/apodiformes/trochilidae/chlorostilbon-poortmani/2.jpg
+  page: https://www.inaturalist.org/photos/175171878
+  author: ajott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175171878/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-poortmani/3.jpg
+  page: https://www.inaturalist.org/photos/230112388
+  author: Jonathan Candil Méndez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230112388/original.jpeg
+- file: images/apodiformes/trochilidae/chlorostilbon-poortmani/4.jpg
+  page: https://www.inaturalist.org/photos/171083118
+  author: Manuel Ortiz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/171083118/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-poortmani/5.jpg
+  page: https://www.inaturalist.org/photos/22043357
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/22043357/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/willisornis-poecilinotus/1.jpg
+  page: https://www.inaturalist.org/photos/468384590
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468384590/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/willisornis-poecilinotus/1.jpg
+  page: https://www.inaturalist.org/photos/468384590
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468384590/original.jpg
+- file: images/passeriformes/thamnophilidae/willisornis-poecilinotus/2.jpg
+  page: https://www.inaturalist.org/photos/608319339
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608319339/original.jpg
+- file: images/passeriformes/thamnophilidae/willisornis-poecilinotus/3.jpg
+  page: https://www.inaturalist.org/photos/350718093
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350718093/original.jpeg
+- file: images/passeriformes/thamnophilidae/willisornis-poecilinotus/4.jpg
+  page: https://www.inaturalist.org/photos/424597966
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424597966/original.jpg
+- file: images/passeriformes/thamnophilidae/willisornis-poecilinotus/5.jpg
+  page: https://www.inaturalist.org/photos/269375952
+  author: Alex Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269375952/original.jpeg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/jacamerops-aureus/1.jpg
+  page: https://www.inaturalist.org/photos/612982969
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612982969/original.jpg
+images:
+- file: images/piciformes/galbulidae/jacamerops-aureus/1.jpg
+  page: https://www.inaturalist.org/photos/612982969
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612982969/original.jpg
+- file: images/piciformes/galbulidae/jacamerops-aureus/2.jpg
+  page: https://www.inaturalist.org/photos/618534505
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618534505/original.jpg
+- file: images/piciformes/galbulidae/jacamerops-aureus/3.jpg
+  page: https://www.inaturalist.org/photos/679968883
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679968883/original.jpg
+- file: images/piciformes/galbulidae/jacamerops-aureus/4.jpg
+  page: https://www.inaturalist.org/photos/468756378
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468756378/original.jpg
+- file: images/piciformes/galbulidae/jacamerops-aureus/5.jpg
+  page: https://www.inaturalist.org/photos/578805902
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578805902/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/glaucestrilda-perreini/1.jpg
+  page: https://www.inaturalist.org/photos/717139673
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717139673/original.jpg
+images:
+- file: images/passeriformes/estrildidae/glaucestrilda-perreini/1.jpg
+  page: https://www.inaturalist.org/photos/717139673
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717139673/original.jpg
+- file: images/passeriformes/estrildidae/glaucestrilda-perreini/2.jpg
+  page: https://www.inaturalist.org/photos/722956586
+  author: Heather DeGaetano
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722956586/original.jpg
+- file: images/passeriformes/estrildidae/glaucestrilda-perreini/3.jpg
+  page: https://www.inaturalist.org/photos/473332970
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473332970/original.jpeg
+- file: images/passeriformes/estrildidae/glaucestrilda-perreini/4.jpg
+  page: https://www.inaturalist.org/photos/515720565
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515720565/original.jpg
+- file: images/passeriformes/estrildidae/glaucestrilda-perreini/5.jpg
+  page: https://www.inaturalist.org/photos/406792227
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/406792227/original.jpeg
 ---
 
 

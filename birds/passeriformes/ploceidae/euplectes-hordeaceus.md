@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-hordeaceus/1.jpg
+  page: https://www.inaturalist.org/photos/666893102
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666893102/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-hordeaceus/1.jpg
+  page: https://www.inaturalist.org/photos/666893102
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666893102/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-hordeaceus/2.jpg
+  page: https://www.inaturalist.org/photos/634101326
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634101326/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-hordeaceus/3.jpg
+  page: https://www.inaturalist.org/photos/468639744
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468639744/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-hordeaceus/4.jpg
+  page: https://www.inaturalist.org/photos/602054082
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602054082/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-hordeaceus/5.jpg
+  page: https://www.inaturalist.org/photos/565656573
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565656573/original.jpg
 ---
 
 

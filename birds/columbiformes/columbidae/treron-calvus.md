@@ -183,8 +183,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-calvus/1.jpg
+  page: https://www.inaturalist.org/photos/626259897
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626259897/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-calvus/1.jpg
+  page: https://www.inaturalist.org/photos/626259897
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626259897/original.jpg
+- file: images/columbiformes/columbidae/treron-calvus/2.jpg
+  page: https://www.inaturalist.org/photos/613390844
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613390844/original.jpg
+- file: images/columbiformes/columbidae/treron-calvus/3.jpg
+  page: https://www.inaturalist.org/photos/612976980
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612976980/original.jpg
+- file: images/columbiformes/columbidae/treron-calvus/4.jpg
+  page: https://www.inaturalist.org/photos/623241459
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623241459/original.jpg
+- file: images/columbiformes/columbidae/treron-calvus/5.jpg
+  page: https://www.inaturalist.org/photos/636880549
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636880549/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/dendrocincla-homochroa/1.jpg
+  page: https://www.inaturalist.org/photos/605586078
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605586078/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendrocincla-homochroa/1.jpg
+  page: https://www.inaturalist.org/photos/605586078
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605586078/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-homochroa/2.jpg
+  page: https://www.inaturalist.org/photos/623746354
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623746354/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-homochroa/3.jpg
+  page: https://www.inaturalist.org/photos/664443921
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664443921/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-homochroa/4.jpg
+  page: https://www.inaturalist.org/photos/477496438
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477496438/original.jpeg
+- file: images/passeriformes/furnariidae/dendrocincla-homochroa/5.jpg
+  page: https://www.inaturalist.org/photos/517208549
+  author: Rosalinda Melendrez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517208549/original.jpg
 ---
 
 

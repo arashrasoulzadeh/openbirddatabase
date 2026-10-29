@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 24.0
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 96.0
   tail_length_mm: 72.5
   body_mass_g: 63.5
+image:
+  file: images/piciformes/megalaimidae/psilopogon-auricularis/1.jpg
+  page: https://www.inaturalist.org/photos/463722027
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463722027/original.jpeg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-auricularis/1.jpg
+  page: https://www.inaturalist.org/photos/463722027
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463722027/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-auricularis/2.jpg
+  page: https://www.inaturalist.org/photos/530116208
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530116208/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-auricularis/3.jpg
+  page: https://www.inaturalist.org/photos/380795886
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380795886/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-auricularis/4.jpg
+  page: https://www.inaturalist.org/photos/385764854
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385764854/original.jpeg
+- file: images/piciformes/megalaimidae/psilopogon-auricularis/5.jpg
+  page: https://www.inaturalist.org/photos/105778738
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778738/original.jpeg
 ---
 
 

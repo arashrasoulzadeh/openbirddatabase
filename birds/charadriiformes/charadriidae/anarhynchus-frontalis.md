@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/anarhynchus-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/613133410
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613133410/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/anarhynchus-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/613133410
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613133410/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/614089744
+  author: Bevan Weir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614089744/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/723443366
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723443366/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/744141499
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744141499/original.jpg
+- file: images/charadriiformes/charadriidae/anarhynchus-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/743698125
+  author: Pluto Hooper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743698125/original.jpg
 ---
 
 

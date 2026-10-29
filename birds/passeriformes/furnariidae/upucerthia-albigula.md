@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/upucerthia-albigula/1.jpg
+  page: https://www.inaturalist.org/photos/510937192
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510937192/original.jpg
+images:
+- file: images/passeriformes/furnariidae/upucerthia-albigula/1.jpg
+  page: https://www.inaturalist.org/photos/510937192
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510937192/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-albigula/2.jpg
+  page: https://www.inaturalist.org/photos/456981056
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456981056/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-albigula/3.jpg
+  page: https://www.inaturalist.org/photos/188532263
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188532263/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-albigula/4.jpg
+  page: https://www.inaturalist.org/photos/196540820
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196540820/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-albigula/5.jpg
+  page: https://www.inaturalist.org/photos/470407552
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470407552/original.jpeg
 ---
 
 

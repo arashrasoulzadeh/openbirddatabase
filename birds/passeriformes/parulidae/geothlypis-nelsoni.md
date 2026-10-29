@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/geothlypis-nelsoni/1.jpg
+  page: https://www.inaturalist.org/photos/529063339
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529063339/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-nelsoni/1.jpg
+  page: https://www.inaturalist.org/photos/529063339
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529063339/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-nelsoni/2.jpg
+  page: https://www.inaturalist.org/photos/369975855
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369975855/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-nelsoni/3.jpg
+  page: https://www.inaturalist.org/photos/261464501
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261464501/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-nelsoni/4.jpg
+  page: https://www.inaturalist.org/photos/610760580
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610760580/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-nelsoni/5.jpg
+  page: https://www.inaturalist.org/photos/261453721
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261453721/original.jpeg
 ---
 
 

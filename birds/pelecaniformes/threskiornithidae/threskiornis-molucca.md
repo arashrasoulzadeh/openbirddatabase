@@ -126,7 +126,8 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 161.0
@@ -136,6 +137,44 @@ morphology:
   body_mass_g: 1794.9
 demography:
   max_longevity_years: 33
+image:
+  file: images/pelecaniformes/threskiornithidae/threskiornis-molucca/1.jpg
+  page: https://www.inaturalist.org/photos/605268287
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605268287/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/threskiornis-molucca/1.jpg
+  page: https://www.inaturalist.org/photos/605268287
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605268287/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-molucca/2.jpg
+  page: https://www.inaturalist.org/photos/604999311
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604999311/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-molucca/3.jpg
+  page: https://www.inaturalist.org/photos/604660037
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604660037/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-molucca/4.jpg
+  page: https://www.inaturalist.org/photos/605231047
+  author: David Orlovich
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605231047/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-molucca/5.jpg
+  page: https://www.inaturalist.org/photos/605471784
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605471784/original.jpg
 ---
 
 

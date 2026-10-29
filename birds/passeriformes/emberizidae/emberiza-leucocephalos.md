@@ -190,8 +190,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-leucocephalos/1.jpg
+  page: https://www.inaturalist.org/photos/609162638
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609162638/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-leucocephalos/1.jpg
+  page: https://www.inaturalist.org/photos/609162638
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609162638/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-leucocephalos/2.jpg
+  page: https://www.inaturalist.org/photos/625962223
+  author: Анна Васильченко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625962223/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-leucocephalos/3.jpg
+  page: https://www.inaturalist.org/photos/630462200
+  author: Anton Barbyshev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630462200/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-leucocephalos/4.jpg
+  page: https://www.inaturalist.org/photos/628828378
+  author: Maxim Shashkov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628828378/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-leucocephalos/5.jpg
+  page: https://www.inaturalist.org/photos/636622194
+  author: Fedotova Elena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636622194/original.jpg
 ---
 
 

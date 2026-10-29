@@ -136,10 +136,37 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/procellariiformes/procellariidae/puffinus-heinrothi/1.jpg
+  page: https://www.inaturalist.org/photos/452146803
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452146803/original.jpeg
+images:
+- file: images/procellariiformes/procellariidae/puffinus-heinrothi/1.jpg
+  page: https://www.inaturalist.org/photos/452146803
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452146803/original.jpeg
+- file: images/procellariiformes/procellariidae/puffinus-heinrothi/2.jpg
+  page: https://www.inaturalist.org/photos/435261942
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435261942/original.jpeg
+- file: images/procellariiformes/procellariidae/puffinus-heinrothi/3.jpg
+  page: https://www.inaturalist.org/photos/435261911
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435261911/original.jpeg
 ---
 
 

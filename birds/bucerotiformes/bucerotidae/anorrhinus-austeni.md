@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/anorrhinus-austeni/1.jpg
+  page: https://www.inaturalist.org/photos/629988366
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629988366/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/anorrhinus-austeni/1.jpg
+  page: https://www.inaturalist.org/photos/629988366
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629988366/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-austeni/2.jpg
+  page: https://www.inaturalist.org/photos/382059574
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382059574/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-austeni/3.jpg
+  page: https://www.inaturalist.org/photos/266231698
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266231698/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-austeni/4.jpg
+  page: https://www.inaturalist.org/photos/105389045
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105389045/original.jpeg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-austeni/5.jpg
+  page: https://www.inaturalist.org/photos/46589271
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/46589271/original.jpeg
 ---
 
 

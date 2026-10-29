@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/larus-schistisagus/1.jpg
+  page: https://www.inaturalist.org/photos/607907377
+  author: Russell Parsons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907377/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-schistisagus/1.jpg
+  page: https://www.inaturalist.org/photos/607907377
+  author: Russell Parsons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907377/original.jpg
+- file: images/charadriiformes/laridae/larus-schistisagus/2.jpg
+  page: https://www.inaturalist.org/photos/636223308
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636223308/original.jpg
+- file: images/charadriiformes/laridae/larus-schistisagus/3.jpg
+  page: https://www.inaturalist.org/photos/625404580
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625404580/original.jpg
+- file: images/charadriiformes/laridae/larus-schistisagus/4.jpg
+  page: https://www.inaturalist.org/photos/636223306
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636223306/original.jpg
+- file: images/charadriiformes/laridae/larus-schistisagus/5.jpg
+  page: https://www.inaturalist.org/photos/636223097
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636223097/original.jpg
 ---
 
 

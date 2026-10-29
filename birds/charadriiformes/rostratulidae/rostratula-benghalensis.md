@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/rostratulidae/rostratula-benghalensis/1.jpg
+  page: https://www.inaturalist.org/photos/608845773
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608845773/original.jpg
+images:
+- file: images/charadriiformes/rostratulidae/rostratula-benghalensis/1.jpg
+  page: https://www.inaturalist.org/photos/608845773
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608845773/original.jpg
+- file: images/charadriiformes/rostratulidae/rostratula-benghalensis/2.jpg
+  page: https://www.inaturalist.org/photos/612134676
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612134676/original.jpg
+- file: images/charadriiformes/rostratulidae/rostratula-benghalensis/3.jpg
+  page: https://www.inaturalist.org/photos/622356815
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356815/original.jpg
+- file: images/charadriiformes/rostratulidae/rostratula-benghalensis/4.jpg
+  page: https://www.inaturalist.org/photos/608845780
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608845780/original.jpg
+- file: images/charadriiformes/rostratulidae/rostratula-benghalensis/5.jpg
+  page: https://www.inaturalist.org/photos/622356826
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622356826/original.jpg
 ---
 
 

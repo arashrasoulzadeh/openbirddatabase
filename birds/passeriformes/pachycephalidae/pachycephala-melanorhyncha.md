@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-melanorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/606119032
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606119032/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-melanorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/606119032
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606119032/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-melanorhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/614286294
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614286294/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-melanorhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/633425989
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633425989/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-melanorhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/635773000
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635773000/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-melanorhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/639437035
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639437035/original.jpg
 ---
 
 

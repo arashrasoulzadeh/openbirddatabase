@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/oceanitidae/oceanites-oceanicus/1.jpg
+  page: https://www.inaturalist.org/photos/605932528
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605932528/original.jpg
+images:
+- file: images/procellariiformes/oceanitidae/oceanites-oceanicus/1.jpg
+  page: https://www.inaturalist.org/photos/605932528
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605932528/original.jpg
+- file: images/procellariiformes/oceanitidae/oceanites-oceanicus/2.jpg
+  page: https://www.inaturalist.org/photos/614231341
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231341/original.jpg
+- file: images/procellariiformes/oceanitidae/oceanites-oceanicus/3.jpg
+  page: https://www.inaturalist.org/photos/607901906
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607901906/original.jpg
+- file: images/procellariiformes/oceanitidae/oceanites-oceanicus/4.jpg
+  page: https://www.inaturalist.org/photos/609984968
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609984968/original.jpg
+- file: images/procellariiformes/oceanitidae/oceanites-oceanicus/5.jpg
+  page: https://www.inaturalist.org/photos/609984987
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609984987/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/neafrapus-cassini/1.jpg
+  page: https://www.inaturalist.org/photos/4071451
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/4071451/original.JPG
+images:
+- file: images/apodiformes/apodidae/neafrapus-cassini/1.jpg
+  page: https://www.inaturalist.org/photos/4071451
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/4071451/original.JPG
+- file: images/apodiformes/apodidae/neafrapus-cassini/2.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096533540376072514
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442010/original.JPG
+- file: images/apodiformes/apodidae/neafrapus-cassini/3.jpg
+  page: https://www.inaturalist.org/photos/4071181
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/4071181/original.JPG
+- file: images/apodiformes/apodidae/neafrapus-cassini/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096533557529851298
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442011/original.JPG
+- file: images/apodiformes/apodidae/neafrapus-cassini/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096533551867935218
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1442012/original.JPG
 ---
 
 

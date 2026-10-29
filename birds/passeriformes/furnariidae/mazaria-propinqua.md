@@ -141,10 +141,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/mazaria-propinqua/1.jpg
+  page: https://www.inaturalist.org/photos/428273482
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428273482/original.jpg
+images:
+- file: images/passeriformes/furnariidae/mazaria-propinqua/1.jpg
+  page: https://www.inaturalist.org/photos/428273482
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428273482/original.jpg
+- file: images/passeriformes/furnariidae/mazaria-propinqua/2.jpg
+  page: https://www.inaturalist.org/photos/163406060
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163406060/original.jpeg
+- file: images/passeriformes/furnariidae/mazaria-propinqua/3.jpg
+  page: https://www.inaturalist.org/photos/163406081
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163406081/original.jpeg
+- file: images/passeriformes/furnariidae/mazaria-propinqua/4.jpg
+  page: https://www.inaturalist.org/photos/163406090
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163406090/original.jpeg
+- file: images/passeriformes/furnariidae/mazaria-propinqua/5.jpg
+  page: https://www.inaturalist.org/photos/163406100
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163406100/original.jpeg
 ---
 
 

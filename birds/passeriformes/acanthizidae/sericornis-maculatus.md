@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/sericornis-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/623821370
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623821370/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/sericornis-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/623821370
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623821370/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-maculatus/2.jpg
+  page: https://www.inaturalist.org/photos/624922070
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624922070/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-maculatus/3.jpg
+  page: https://www.inaturalist.org/photos/636377185
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636377185/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-maculatus/4.jpg
+  page: https://www.inaturalist.org/photos/651057695
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651057695/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-maculatus/5.jpg
+  page: https://www.inaturalist.org/photos/623821429
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623821429/original.jpg
 ---
 
 

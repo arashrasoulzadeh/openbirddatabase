@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-vittata/1.jpg
+  page: https://www.inaturalist.org/photos/653315964
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653315964/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-vittata/1.jpg
+  page: https://www.inaturalist.org/photos/653315964
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653315964/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-vittata/2.jpg
+  page: https://www.inaturalist.org/photos/595600133
+  author: Joseph Greco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595600133/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-vittata/3.jpg
+  page: https://www.inaturalist.org/photos/353836030
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353836030/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-vittata/4.jpg
+  page: https://www.inaturalist.org/photos/356010408
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356010408/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-vittata/5.jpg
+  page: https://www.inaturalist.org/photos/356559362
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356559362/original.jpg
 ---
 
 

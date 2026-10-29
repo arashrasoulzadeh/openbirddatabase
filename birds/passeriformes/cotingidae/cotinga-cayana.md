@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/cotinga-cayana/1.jpg
+  page: https://www.inaturalist.org/photos/730255074
+  author: Gary Hollis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730255074/original.jpg
+images:
+- file: images/passeriformes/cotingidae/cotinga-cayana/1.jpg
+  page: https://www.inaturalist.org/photos/730255074
+  author: Gary Hollis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730255074/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-cayana/2.jpg
+  page: https://www.inaturalist.org/photos/467510519
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467510519/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-cayana/3.jpg
+  page: https://www.inaturalist.org/photos/552882017
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552882017/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-cayana/4.jpg
+  page: https://www.inaturalist.org/photos/591890612
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591890612/original.jpg
+- file: images/passeriformes/cotingidae/cotinga-cayana/5.jpg
+  page: https://www.inaturalist.org/photos/349358308
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349358308/original.jpg
 ---
 
 

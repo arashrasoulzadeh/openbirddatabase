@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/charadriiformes/scolopacidae/numenius-tahitiensis/1.jpg
+  page: https://www.inaturalist.org/photos/612352449
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352449/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/numenius-tahitiensis/1.jpg
+  page: https://www.inaturalist.org/photos/612352449
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352449/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-tahitiensis/2.jpg
+  page: https://www.inaturalist.org/photos/631652630
+  author: Mike Burnett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631652630/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-tahitiensis/3.jpg
+  page: https://www.inaturalist.org/photos/612353787
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612353787/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-tahitiensis/4.jpg
+  page: https://www.inaturalist.org/photos/612352704
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352704/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-tahitiensis/5.jpg
+  page: https://www.inaturalist.org/photos/612352479
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612352479/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/pipra-aureola/1.jpg
+  page: https://www.inaturalist.org/photos/714466503
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714466503/original.jpg
+images:
+- file: images/passeriformes/pipridae/pipra-aureola/1.jpg
+  page: https://www.inaturalist.org/photos/714466503
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714466503/original.jpg
+- file: images/passeriformes/pipridae/pipra-aureola/2.jpg
+  page: https://www.inaturalist.org/photos/372951315
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/372951315/original.jpg
+- file: images/passeriformes/pipridae/pipra-aureola/3.jpg
+  page: https://www.inaturalist.org/photos/338437051
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338437051/original.jpg
+- file: images/passeriformes/pipridae/pipra-aureola/4.jpg
+  page: https://www.inaturalist.org/photos/227258018
+  author: Guillaume Delaitre
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227258018/original.jpeg
+- file: images/passeriformes/pipridae/pipra-aureola/5.jpg
+  page: https://www.inaturalist.org/photos/107925452
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107925452/original.jpg
 ---
 
 

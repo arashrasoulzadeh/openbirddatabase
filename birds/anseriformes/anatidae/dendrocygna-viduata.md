@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/anseriformes/anatidae/dendrocygna-viduata/1.jpg
+  page: https://www.inaturalist.org/photos/604807026
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604807026/original.jpg
+images:
+- file: images/anseriformes/anatidae/dendrocygna-viduata/1.jpg
+  page: https://www.inaturalist.org/photos/604807026
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604807026/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-viduata/2.jpg
+  page: https://www.inaturalist.org/photos/605769597
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605769597/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-viduata/3.jpg
+  page: https://www.inaturalist.org/photos/610421809
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610421809/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-viduata/4.jpg
+  page: https://www.inaturalist.org/photos/610948002
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610948002/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-viduata/5.jpg
+  page: https://www.inaturalist.org/photos/608770293
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608770293/original.jpg
 ---
 
 

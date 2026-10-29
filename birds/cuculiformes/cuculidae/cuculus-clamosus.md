@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cuculus-clamosus/1.jpg
+  page: https://www.inaturalist.org/photos/615676834
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615676834/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-clamosus/1.jpg
+  page: https://www.inaturalist.org/photos/615676834
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615676834/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-clamosus/2.jpg
+  page: https://www.inaturalist.org/photos/462488906
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462488906/original.jpeg
+- file: images/cuculiformes/cuculidae/cuculus-clamosus/3.jpg
+  page: https://www.inaturalist.org/photos/604408281
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604408281/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-clamosus/4.jpg
+  page: https://www.inaturalist.org/photos/465848304
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465848304/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-clamosus/5.jpg
+  page: https://www.inaturalist.org/photos/544040388
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544040388/original.jpg
 ---
 
 

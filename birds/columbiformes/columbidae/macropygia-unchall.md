@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-unchall/1.jpg
+  page: https://www.inaturalist.org/photos/616528362
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616528362/original.jpg
+images:
+- file: images/columbiformes/columbidae/macropygia-unchall/1.jpg
+  page: https://www.inaturalist.org/photos/616528362
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616528362/original.jpg
+- file: images/columbiformes/columbidae/macropygia-unchall/2.jpg
+  page: https://www.inaturalist.org/photos/618849169
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849169/original.jpg
+- file: images/columbiformes/columbidae/macropygia-unchall/3.jpg
+  page: https://www.inaturalist.org/photos/626746677
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626746677/original.jpg
+- file: images/columbiformes/columbidae/macropygia-unchall/4.jpg
+  page: https://www.inaturalist.org/photos/562581514
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562581514/original.jpg
+- file: images/columbiformes/columbidae/macropygia-unchall/5.jpg
+  page: https://www.inaturalist.org/photos/529666620
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529666620/original.jpg
 ---
 
 

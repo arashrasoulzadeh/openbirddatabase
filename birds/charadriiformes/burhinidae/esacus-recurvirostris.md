@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/burhinidae/esacus-recurvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/622459003
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622459003/original.jpg
+images:
+- file: images/charadriiformes/burhinidae/esacus-recurvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/622459003
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622459003/original.jpg
+- file: images/charadriiformes/burhinidae/esacus-recurvirostris/2.jpg
+  page: https://www.inaturalist.org/photos/623424554
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623424554/original.jpg
+- file: images/charadriiformes/burhinidae/esacus-recurvirostris/3.jpg
+  page: https://www.inaturalist.org/photos/676936388
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676936388/original.jpg
+- file: images/charadriiformes/burhinidae/esacus-recurvirostris/4.jpg
+  page: https://www.inaturalist.org/photos/724499325
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724499325/original.jpg
+- file: images/charadriiformes/burhinidae/esacus-recurvirostris/5.jpg
+  page: https://www.inaturalist.org/photos/622460702
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622460702/original.jpg
 ---
 
 

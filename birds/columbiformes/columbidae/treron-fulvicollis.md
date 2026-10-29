@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-fulvicollis/1.jpg
+  page: https://www.inaturalist.org/photos/638000578
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638000578/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-fulvicollis/1.jpg
+  page: https://www.inaturalist.org/photos/638000578
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638000578/original.jpg
+- file: images/columbiformes/columbidae/treron-fulvicollis/2.jpg
+  page: https://www.inaturalist.org/photos/630908379
+  author: Dan Osipov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630908379/original.jpg
+- file: images/columbiformes/columbidae/treron-fulvicollis/3.jpg
+  page: https://www.inaturalist.org/photos/588987600
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588987600/original.jpg
+- file: images/columbiformes/columbidae/treron-fulvicollis/4.jpg
+  page: https://www.inaturalist.org/photos/426752643
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426752643/original.jpeg
+- file: images/columbiformes/columbidae/treron-fulvicollis/5.jpg
+  page: https://www.inaturalist.org/photos/638000676
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638000676/original.jpg
 ---
 
 

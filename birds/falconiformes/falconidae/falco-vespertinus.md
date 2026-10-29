@@ -199,10 +199,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/falconiformes/falconidae/falco-vespertinus/1.jpg
+  page: https://www.inaturalist.org/photos/642859758
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642859758/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-vespertinus/1.jpg
+  page: https://www.inaturalist.org/photos/642859758
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642859758/original.jpg
+- file: images/falconiformes/falconidae/falco-vespertinus/2.jpg
+  page: https://www.inaturalist.org/photos/649538539
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649538539/original.jpg
+- file: images/falconiformes/falconidae/falco-vespertinus/3.jpg
+  page: https://www.inaturalist.org/photos/642005425
+  author: Robin Fokker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642005425/original.jpg
+- file: images/falconiformes/falconidae/falco-vespertinus/4.jpg
+  page: https://www.inaturalist.org/photos/653094142
+  author: Vasileia Sef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653094142/original.jpg
+- file: images/falconiformes/falconidae/falco-vespertinus/5.jpg
+  page: https://www.inaturalist.org/photos/641949050
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641949050/original.jpg
 ---
 
 

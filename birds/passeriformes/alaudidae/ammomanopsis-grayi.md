@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/ammomanopsis-grayi/1.jpg
+  page: https://www.inaturalist.org/photos/584499292
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584499292/original.jpg
+images:
+- file: images/passeriformes/alaudidae/ammomanopsis-grayi/1.jpg
+  page: https://www.inaturalist.org/photos/584499292
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584499292/original.jpg
+- file: images/passeriformes/alaudidae/ammomanopsis-grayi/2.jpg
+  page: https://www.inaturalist.org/photos/422656597
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422656597/original.jpeg
+- file: images/passeriformes/alaudidae/ammomanopsis-grayi/3.jpg
+  page: https://www.inaturalist.org/photos/351567051
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351567051/original.jpeg
+- file: images/passeriformes/alaudidae/ammomanopsis-grayi/4.jpg
+  page: https://www.inaturalist.org/photos/522229434
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522229434/original.jpg
+- file: images/passeriformes/alaudidae/ammomanopsis-grayi/5.jpg
+  page: https://www.inaturalist.org/photos/584499540
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584499540/original.jpg
 ---
 
 

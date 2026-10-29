@@ -152,8 +152,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/larvivora-sibilans/1.jpg
+  page: https://www.inaturalist.org/photos/606520655
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606520655/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/larvivora-sibilans/1.jpg
+  page: https://www.inaturalist.org/photos/606520655
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606520655/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-sibilans/2.jpg
+  page: https://www.inaturalist.org/photos/614285086
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614285086/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-sibilans/3.jpg
+  page: https://www.inaturalist.org/photos/617088061
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617088061/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-sibilans/4.jpg
+  page: https://www.inaturalist.org/photos/623089475
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089475/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-sibilans/5.jpg
+  page: https://www.inaturalist.org/photos/622420084
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622420084/original.jpg
 ---
 
 

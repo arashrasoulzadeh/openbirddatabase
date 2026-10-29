@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-oberi/1.jpg
+  page: https://www.inaturalist.org/photos/471490366
+  author: cwensink
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471490366/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-oberi/1.jpg
+  page: https://www.inaturalist.org/photos/471490366
+  author: cwensink
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471490366/original.jpg
+- file: images/passeriformes/icteridae/icterus-oberi/2.jpg
+  page: https://www.inaturalist.org/photos/470079842
+  author: Quentin Groom
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470079842/original.jpeg
+- file: images/passeriformes/icteridae/icterus-oberi/3.jpg
+  page: https://www.inaturalist.org/photos/472033624
+  author: Knox Tant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472033624/original.jpg
+- file: images/passeriformes/icteridae/icterus-oberi/4.jpg
+  page: https://www.inaturalist.org/photos/359388869
+  author: davidroy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359388869/original.jpg
+- file: images/passeriformes/icteridae/icterus-oberi/5.jpg
+  page: https://www.inaturalist.org/photos/470079862
+  author: Quentin Groom
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470079862/original.jpeg
 ---
 
 

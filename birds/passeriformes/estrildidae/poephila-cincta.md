@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/poephila-cincta/1.jpg
+  page: https://www.inaturalist.org/photos/244023794
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244023794/original.jpg
+images:
+- file: images/passeriformes/estrildidae/poephila-cincta/1.jpg
+  page: https://www.inaturalist.org/photos/244023794
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244023794/original.jpg
+- file: images/passeriformes/estrildidae/poephila-cincta/2.jpg
+  page: https://www.inaturalist.org/photos/660343023
+  author: wilmotsenaratne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660343023/original.jpg
+- file: images/passeriformes/estrildidae/poephila-cincta/3.jpg
+  page: https://www.inaturalist.org/photos/51984756
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/51984756/original.jpg
+- file: images/passeriformes/estrildidae/poephila-cincta/4.jpg
+  page: https://www.inaturalist.org/photos/338704577
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338704577/original.jpeg
+- file: images/passeriformes/estrildidae/poephila-cincta/5.jpg
+  page: https://www.inaturalist.org/photos/118388794
+  author: garywwilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/118388794/original.jpg
 ---
 
 

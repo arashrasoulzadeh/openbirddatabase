@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/bycanistes-fistulator/1.jpg
+  page: https://www.inaturalist.org/photos/661193724
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661193724/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/bycanistes-fistulator/1.jpg
+  page: https://www.inaturalist.org/photos/661193724
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661193724/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-fistulator/2.jpg
+  page: https://www.inaturalist.org/photos/480776598
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480776598/original.jpeg
+- file: images/bucerotiformes/bucerotidae/bycanistes-fistulator/3.jpg
+  page: https://www.inaturalist.org/photos/592313071
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592313071/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-fistulator/4.jpg
+  page: https://www.inaturalist.org/photos/352985664
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352985664/original.jpeg
+- file: images/bucerotiformes/bucerotidae/bycanistes-fistulator/5.jpg
+  page: https://www.inaturalist.org/photos/353544525
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353544525/original.png
 ---
 
 

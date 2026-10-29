@@ -151,10 +151,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 50
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-sulphurea/1.jpg
+  page: https://www.inaturalist.org/photos/617051131
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617051131/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-sulphurea/1.jpg
+  page: https://www.inaturalist.org/photos/617051131
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617051131/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-sulphurea/2.jpg
+  page: https://www.inaturalist.org/photos/623088265
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623088265/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-sulphurea/3.jpg
+  page: https://www.inaturalist.org/photos/626328815
+  author: jzfu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626328815/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-sulphurea/4.jpg
+  page: https://www.inaturalist.org/photos/661168924
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661168924/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-sulphurea/5.jpg
+  page: https://www.inaturalist.org/photos/667024503
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667024503/original.jpg
 ---
 
 

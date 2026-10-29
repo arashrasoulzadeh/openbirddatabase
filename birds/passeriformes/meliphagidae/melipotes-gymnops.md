@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/melipotes-gymnops/1.jpg
+  page: https://www.inaturalist.org/photos/623821474
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623821474/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/melipotes-gymnops/1.jpg
+  page: https://www.inaturalist.org/photos/623821474
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623821474/original.jpg
+- file: images/passeriformes/meliphagidae/melipotes-gymnops/2.jpg
+  page: https://www.inaturalist.org/photos/452703224
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452703224/original.jpeg
+- file: images/passeriformes/meliphagidae/melipotes-gymnops/3.jpg
+  page: https://www.inaturalist.org/photos/623821471
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623821471/original.jpg
+- file: images/passeriformes/meliphagidae/melipotes-gymnops/4.jpg
+  page: https://www.inaturalist.org/photos/623846341
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623846341/original.jpg
+- file: images/passeriformes/meliphagidae/melipotes-gymnops/5.jpg
+  page: https://www.inaturalist.org/photos/623846362
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623846362/original.jpg
 ---
 
 

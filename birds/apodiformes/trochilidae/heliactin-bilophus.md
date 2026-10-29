@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliactin-bilophus/1.jpg
+  page: https://www.inaturalist.org/photos/607257195
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607257195/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliactin-bilophus/1.jpg
+  page: https://www.inaturalist.org/photos/607257195
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607257195/original.jpg
+- file: images/apodiformes/trochilidae/heliactin-bilophus/2.jpg
+  page: https://www.inaturalist.org/photos/631562175
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631562175/original.jpg
+- file: images/apodiformes/trochilidae/heliactin-bilophus/3.jpg
+  page: https://www.inaturalist.org/photos/743366446
+  author: Jean Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743366446/original.jpg
+- file: images/apodiformes/trochilidae/heliactin-bilophus/4.jpg
+  page: https://www.inaturalist.org/photos/501637544
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501637544/original.jpeg
+- file: images/apodiformes/trochilidae/heliactin-bilophus/5.jpg
+  page: https://www.inaturalist.org/photos/525744517
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525744517/original.jpg
 ---
 
 

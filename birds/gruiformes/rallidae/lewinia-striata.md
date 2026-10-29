@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/lewinia-striata/1.jpg
+  page: https://www.inaturalist.org/photos/607383146
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607383146/original.jpg
+images:
+- file: images/gruiformes/rallidae/lewinia-striata/1.jpg
+  page: https://www.inaturalist.org/photos/607383146
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607383146/original.jpg
+- file: images/gruiformes/rallidae/lewinia-striata/2.jpg
+  page: https://www.inaturalist.org/photos/621133856
+  author: Redbird Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621133856/original.jpg
+- file: images/gruiformes/rallidae/lewinia-striata/3.jpg
+  page: https://www.inaturalist.org/photos/629571665
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629571665/original.jpg
+- file: images/gruiformes/rallidae/lewinia-striata/4.jpg
+  page: https://www.inaturalist.org/photos/626629149
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626629149/original.jpg
+- file: images/gruiformes/rallidae/lewinia-striata/5.jpg
+  page: https://www.inaturalist.org/photos/638522239
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638522239/original.jpg
 ---
 
 

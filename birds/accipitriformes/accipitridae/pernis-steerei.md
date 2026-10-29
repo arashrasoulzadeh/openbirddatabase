@@ -136,8 +136,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/pernis-steerei/1.jpg
+  page: https://www.inaturalist.org/photos/340257901
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257901/original.jpeg
+images:
+- file: images/accipitriformes/accipitridae/pernis-steerei/1.jpg
+  page: https://www.inaturalist.org/photos/340257901
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257901/original.jpeg
+- file: images/accipitriformes/accipitridae/pernis-steerei/2.jpg
+  page: https://www.inaturalist.org/photos/340257907
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340257907/original.jpeg
+- file: images/accipitriformes/accipitridae/pernis-steerei/3.jpg
+  page: https://www.inaturalist.org/photos/181197330
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181197330/original.jpg
+- file: images/accipitriformes/accipitridae/pernis-steerei/4.jpg
+  page: https://www.inaturalist.org/photos/181196567
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181196567/original.jpg
+- file: images/accipitriformes/accipitridae/pernis-steerei/5.jpg
+  page: https://www.inaturalist.org/photos/232768934
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232768934/original.jpg
 ---
 
 

@@ -233,10 +233,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/psittaciformes/psittacidae/ara-ararauna/1.jpg
+  page: https://www.inaturalist.org/photos/606027609
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027609/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/ara-ararauna/1.jpg
+  page: https://www.inaturalist.org/photos/606027609
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027609/original.jpg
+- file: images/psittaciformes/psittacidae/ara-ararauna/2.jpg
+  page: https://www.inaturalist.org/photos/612783562
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612783562/original.jpg
+- file: images/psittaciformes/psittacidae/ara-ararauna/3.jpg
+  page: https://www.inaturalist.org/photos/612531447
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612531447/original.jpg
+- file: images/psittaciformes/psittacidae/ara-ararauna/4.jpg
+  page: https://www.inaturalist.org/photos/617452068
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452068/original.jpg
+- file: images/psittaciformes/psittacidae/ara-ararauna/5.jpg
+  page: https://www.inaturalist.org/photos/616773964
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616773964/original.jpg
 ---
 
 

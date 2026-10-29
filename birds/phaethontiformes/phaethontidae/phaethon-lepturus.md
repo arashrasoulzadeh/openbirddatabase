@@ -194,8 +194,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/phaethontiformes/phaethontidae/phaethon-lepturus/1.jpg
+  page: https://www.inaturalist.org/photos/610103497
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610103497/original.jpg
+images:
+- file: images/phaethontiformes/phaethontidae/phaethon-lepturus/1.jpg
+  page: https://www.inaturalist.org/photos/610103497
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610103497/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-lepturus/2.jpg
+  page: https://www.inaturalist.org/photos/611622695
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611622695/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-lepturus/3.jpg
+  page: https://www.inaturalist.org/photos/607485509
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607485509/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-lepturus/4.jpg
+  page: https://www.inaturalist.org/photos/615211054
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615211054/original.jpg
+- file: images/phaethontiformes/phaethontidae/phaethon-lepturus/5.jpg
+  page: https://www.inaturalist.org/photos/619786306
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619786306/original.jpg
 ---
 
 

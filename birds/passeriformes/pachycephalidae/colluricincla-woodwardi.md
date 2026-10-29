@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/colluricincla-woodwardi/1.jpg
+  page: https://www.inaturalist.org/photos/336387626
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336387626/original.jpeg
+images:
+- file: images/passeriformes/pachycephalidae/colluricincla-woodwardi/1.jpg
+  page: https://www.inaturalist.org/photos/336387626
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336387626/original.jpeg
+- file: images/passeriformes/pachycephalidae/colluricincla-woodwardi/2.jpg
+  page: https://www.inaturalist.org/photos/200184317
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/200184317/original.jpeg
+- file: images/passeriformes/pachycephalidae/colluricincla-woodwardi/3.jpg
+  page: https://www.inaturalist.org/photos/15458473
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/15458473/original.jpeg
+- file: images/passeriformes/pachycephalidae/colluricincla-woodwardi/4.jpg
+  page: https://www.inaturalist.org/photos/209736620
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/209736620/original.jpg
+- file: images/passeriformes/pachycephalidae/colluricincla-woodwardi/5.jpg
+  page: https://www.inaturalist.org/photos/200184323
+  author: Rod Lowther
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/200184323/original.jpeg
 ---
 
 

@@ -152,8 +152,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-albicilla/1.jpg
+  page: https://www.inaturalist.org/photos/354144938
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354144938/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-albicilla/1.jpg
+  page: https://www.inaturalist.org/photos/354144938
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354144938/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-albicilla/2.jpg
+  page: https://www.inaturalist.org/photos/354464147
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354464147/original.jpg
 ---
 
 

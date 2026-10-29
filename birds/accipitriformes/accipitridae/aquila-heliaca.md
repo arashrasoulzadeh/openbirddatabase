@@ -192,10 +192,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 56
+image:
+  file: images/accipitriformes/accipitridae/aquila-heliaca/1.jpg
+  page: https://www.inaturalist.org/photos/609735657
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735657/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aquila-heliaca/1.jpg
+  page: https://www.inaturalist.org/photos/609735657
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735657/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-heliaca/2.jpg
+  page: https://www.inaturalist.org/photos/606340355
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606340355/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-heliaca/3.jpg
+  page: https://www.inaturalist.org/photos/606874844
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606874844/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-heliaca/4.jpg
+  page: https://www.inaturalist.org/photos/609735664
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735664/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-heliaca/5.jpg
+  page: https://www.inaturalist.org/photos/609735666
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735666/original.jpg
 ---
 
 

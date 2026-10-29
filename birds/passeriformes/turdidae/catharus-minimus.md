@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/turdidae/catharus-minimus/1.jpg
+  page: https://www.inaturalist.org/photos/650721394
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650721394/original.jpg
+images:
+- file: images/passeriformes/turdidae/catharus-minimus/1.jpg
+  page: https://www.inaturalist.org/photos/650721394
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650721394/original.jpg
+- file: images/passeriformes/turdidae/catharus-minimus/2.jpg
+  page: https://www.inaturalist.org/photos/649932275
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649932275/original.jpg
+- file: images/passeriformes/turdidae/catharus-minimus/3.jpg
+  page: https://www.inaturalist.org/photos/664182443
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664182443/original.jpg
+- file: images/passeriformes/turdidae/catharus-minimus/4.jpg
+  page: https://www.inaturalist.org/photos/653288824
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653288824/original.jpg
+- file: images/passeriformes/turdidae/catharus-minimus/5.jpg
+  page: https://www.inaturalist.org/photos/657556952
+  author: Rev. Lee A. Payne, Jr.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657556952/original.jpg
 ---
 
 

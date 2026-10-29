@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-mediocris/1.jpg
+  page: https://www.inaturalist.org/photos/716650169
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650169/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-mediocris/1.jpg
+  page: https://www.inaturalist.org/photos/716650169
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650169/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-mediocris/2.jpg
+  page: https://www.inaturalist.org/photos/584950652
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584950652/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-mediocris/3.jpg
+  page: https://www.inaturalist.org/photos/402142322
+  author: Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402142322/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-mediocris/4.jpg
+  page: https://www.inaturalist.org/photos/391507364
+  author: Foss Williams
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/391507364/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-mediocris/5.jpg
+  page: https://www.inaturalist.org/photos/716650171
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650171/original.jpg
 ---
 
 

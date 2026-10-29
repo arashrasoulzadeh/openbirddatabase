@@ -132,8 +132,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/609576093
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576093/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/609576093
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576093/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/351311507
+  author: Franco Arenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351311507/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/355292829
+  author: SebaArosZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355292829/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/440452672
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440452672/original.jpeg
+- file: images/passeriformes/rhinocryptidae/scytalopus-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/457571719
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457571719/original.jpg
 ---
 
 

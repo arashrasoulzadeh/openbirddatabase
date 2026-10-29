@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.0
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 62.1
   tail_length_mm: 54.0
   body_mass_g: 13.0
+image:
+  file: images/passeriformes/thraupidae/loriotus-luctuosus/1.jpg
+  page: https://www.inaturalist.org/photos/608227276
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608227276/original.jpg
+images:
+- file: images/passeriformes/thraupidae/loriotus-luctuosus/1.jpg
+  page: https://www.inaturalist.org/photos/608227276
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608227276/original.jpg
+- file: images/passeriformes/thraupidae/loriotus-luctuosus/2.jpg
+  page: https://www.inaturalist.org/photos/607496859
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607496859/original.jpg
+- file: images/passeriformes/thraupidae/loriotus-luctuosus/3.jpg
+  page: https://www.inaturalist.org/photos/609076865
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609076865/original.jpg
+- file: images/passeriformes/thraupidae/loriotus-luctuosus/4.jpg
+  page: https://www.inaturalist.org/photos/612204163
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612204163/original.jpg
+- file: images/passeriformes/thraupidae/loriotus-luctuosus/5.jpg
+  page: https://www.inaturalist.org/photos/614192844
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614192844/original.jpg
 ---
 
 

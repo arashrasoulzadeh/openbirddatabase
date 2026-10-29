@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradisaeidae/manucodia-ater/1.jpg
+  page: https://www.inaturalist.org/photos/615424924
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615424924/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/manucodia-ater/1.jpg
+  page: https://www.inaturalist.org/photos/615424924
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615424924/original.jpg
+- file: images/passeriformes/paradisaeidae/manucodia-ater/2.jpg
+  page: https://www.inaturalist.org/photos/697491090
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697491090/original.jpg
+- file: images/passeriformes/paradisaeidae/manucodia-ater/3.jpg
+  page: https://www.inaturalist.org/photos/462016461
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462016461/original.jpg
+- file: images/passeriformes/paradisaeidae/manucodia-ater/4.jpg
+  page: https://www.inaturalist.org/photos/568105541
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568105541/original.jpg
+- file: images/passeriformes/paradisaeidae/manucodia-ater/5.jpg
+  page: https://www.inaturalist.org/photos/594621465
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594621465/original.jpg
 ---
 
 

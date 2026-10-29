@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-gustavi/1.jpg
+  page: https://www.inaturalist.org/photos/685826632
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685826632/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-gustavi/1.jpg
+  page: https://www.inaturalist.org/photos/685826632
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685826632/original.jpg
+- file: images/passeriformes/motacillidae/anthus-gustavi/2.jpg
+  page: https://www.inaturalist.org/photos/685414567
+  author: Константин Шатилов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685414567/original.jpg
+- file: images/passeriformes/motacillidae/anthus-gustavi/3.jpg
+  page: https://www.inaturalist.org/photos/726945212
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726945212/original.jpg
+- file: images/passeriformes/motacillidae/anthus-gustavi/4.jpg
+  page: https://www.inaturalist.org/photos/737387205
+  author: Thompson Hyggen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737387205/original.jpg
+- file: images/passeriformes/motacillidae/anthus-gustavi/5.jpg
+  page: https://www.inaturalist.org/photos/507274152
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507274152/original.jpg
 ---
 
 

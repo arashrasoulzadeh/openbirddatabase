@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ptilinopus-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/699534101
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699534101/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/699534101
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699534101/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-cinctus/2.jpg
+  page: https://www.inaturalist.org/photos/577607042
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577607042/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-cinctus/3.jpg
+  page: https://www.inaturalist.org/photos/279210807
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279210807/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-cinctus/4.jpg
+  page: https://www.inaturalist.org/photos/332870412
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332870412/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-cinctus/5.jpg
+  page: https://www.inaturalist.org/photos/60369183
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60369183/original.jpeg
 ---
 
 

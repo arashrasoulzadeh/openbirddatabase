@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/patagioenas-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/610842712
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842712/original.jpg
+images:
+- file: images/columbiformes/columbidae/patagioenas-inornata/1.jpg
+  page: https://www.inaturalist.org/photos/610842712
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842712/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-inornata/2.jpg
+  page: https://www.inaturalist.org/photos/590279731
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590279731/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-inornata/3.jpg
+  page: https://www.inaturalist.org/photos/604322764
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604322764/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-inornata/4.jpg
+  page: https://www.inaturalist.org/photos/354491930
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354491930/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-inornata/5.jpg
+  page: https://www.inaturalist.org/photos/289597480
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289597480/original.jpeg
 ---
 
 

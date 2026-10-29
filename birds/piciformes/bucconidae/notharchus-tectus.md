@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/notharchus-tectus/1.jpg
+  page: https://www.inaturalist.org/photos/615312264
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615312264/original.jpg
+images:
+- file: images/piciformes/bucconidae/notharchus-tectus/1.jpg
+  page: https://www.inaturalist.org/photos/615312264
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615312264/original.jpg
+- file: images/piciformes/bucconidae/notharchus-tectus/2.jpg
+  page: https://www.inaturalist.org/photos/618277673
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618277673/original.jpg
+- file: images/piciformes/bucconidae/notharchus-tectus/3.jpg
+  page: https://www.inaturalist.org/photos/630927733
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630927733/original.jpg
+- file: images/piciformes/bucconidae/notharchus-tectus/4.jpg
+  page: https://www.inaturalist.org/photos/646088798
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646088798/original.jpg
+- file: images/piciformes/bucconidae/notharchus-tectus/5.jpg
+  page: https://www.inaturalist.org/photos/686321247
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686321247/original.jpg
 ---
 
 

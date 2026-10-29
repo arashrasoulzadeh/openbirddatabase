@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/chloroceryle-amazona/1.jpg
+  page: https://www.inaturalist.org/photos/604825994
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604825994/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/chloroceryle-amazona/1.jpg
+  page: https://www.inaturalist.org/photos/604825994
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604825994/original.jpg
+- file: images/coraciiformes/alcedinidae/chloroceryle-amazona/2.jpg
+  page: https://www.inaturalist.org/photos/609584139
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609584139/original.jpg
+- file: images/coraciiformes/alcedinidae/chloroceryle-amazona/3.jpg
+  page: https://www.inaturalist.org/photos/606027445
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027445/original.jpg
+- file: images/coraciiformes/alcedinidae/chloroceryle-amazona/4.jpg
+  page: https://www.inaturalist.org/photos/610371036
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610371036/original.jpg
+- file: images/coraciiformes/alcedinidae/chloroceryle-amazona/5.jpg
+  page: https://www.inaturalist.org/photos/610132911
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610132911/original.jpg
 ---
 
 

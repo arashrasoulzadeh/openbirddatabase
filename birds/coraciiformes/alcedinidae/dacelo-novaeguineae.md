@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/coraciiformes/alcedinidae/dacelo-novaeguineae/1.jpg
+  page: https://www.inaturalist.org/photos/604915062
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604915062/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/dacelo-novaeguineae/1.jpg
+  page: https://www.inaturalist.org/photos/604915062
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604915062/original.jpg
+- file: images/coraciiformes/alcedinidae/dacelo-novaeguineae/2.jpg
+  page: https://www.inaturalist.org/photos/604696396
+  author: Kom S
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604696396/original.jpg
+- file: images/coraciiformes/alcedinidae/dacelo-novaeguineae/3.jpg
+  page: https://www.inaturalist.org/photos/604417165
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604417165/original.jpg
+- file: images/coraciiformes/alcedinidae/dacelo-novaeguineae/4.jpg
+  page: https://www.inaturalist.org/photos/605497004
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605497004/original.jpg
+- file: images/coraciiformes/alcedinidae/dacelo-novaeguineae/5.jpg
+  page: https://www.inaturalist.org/photos/605595472
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605595472/original.jpg
 ---
 
 

@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-senegallus/1.jpg
+  page: https://www.inaturalist.org/photos/615516372
+  author: Horatiu Stefanie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615516372/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-senegallus/1.jpg
+  page: https://www.inaturalist.org/photos/615516372
+  author: Horatiu Stefanie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615516372/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-senegallus/2.jpg
+  page: https://www.inaturalist.org/photos/621079881
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621079881/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-senegallus/3.jpg
+  page: https://www.inaturalist.org/photos/624328298
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624328298/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-senegallus/4.jpg
+  page: https://www.inaturalist.org/photos/465604679
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465604679/original.jpeg
+- file: images/pterocliformes/pteroclidae/pterocles-senegallus/5.jpg
+  page: https://www.inaturalist.org/photos/488860339
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488860339/original.jpg
 ---
 
 

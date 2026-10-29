@@ -137,8 +137,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/270925924
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925924/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/270925924
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925924/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/270925958
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925958/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/270925985
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270925985/original.jpg
 ---
 
 

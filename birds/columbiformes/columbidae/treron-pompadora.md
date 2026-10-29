@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-pompadora/1.jpg
+  page: https://www.inaturalist.org/photos/605659111
+  author: Harshjeet Singh Bal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659111/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-pompadora/1.jpg
+  page: https://www.inaturalist.org/photos/605659111
+  author: Harshjeet Singh Bal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659111/original.jpg
+- file: images/columbiformes/columbidae/treron-pompadora/2.jpg
+  page: https://www.inaturalist.org/photos/611665376
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611665376/original.jpg
+- file: images/columbiformes/columbidae/treron-pompadora/3.jpg
+  page: https://www.inaturalist.org/photos/615433975
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615433975/original.jpg
+- file: images/columbiformes/columbidae/treron-pompadora/4.jpg
+  page: https://www.inaturalist.org/photos/689654802
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689654802/original.jpg
+- file: images/columbiformes/columbidae/treron-pompadora/5.jpg
+  page: https://www.inaturalist.org/photos/737079379
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737079379/original.jpg
 ---
 
 

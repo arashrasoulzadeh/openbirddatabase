@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnomanes-ardesiacus/1.jpg
+  page: https://www.inaturalist.org/photos/623550023
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623550023/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnomanes-ardesiacus/1.jpg
+  page: https://www.inaturalist.org/photos/623550023
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623550023/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnomanes-ardesiacus/2.jpg
+  page: https://www.inaturalist.org/photos/610733029
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610733029/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnomanes-ardesiacus/3.jpg
+  page: https://www.inaturalist.org/photos/333210612
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333210612/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnomanes-ardesiacus/4.jpg
+  page: https://www.inaturalist.org/photos/177491339
+  author: Roger Rittmaster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177491339/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnomanes-ardesiacus/5.jpg
+  page: https://www.inaturalist.org/photos/735508140
+  author: David Bird
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735508140/original.jpg
 ---
 
 

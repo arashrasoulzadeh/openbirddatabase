@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/polioptilidae/polioptila-melanura/1.jpg
+  page: https://www.inaturalist.org/photos/607241678
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607241678/original.jpg
+images:
+- file: images/passeriformes/polioptilidae/polioptila-melanura/1.jpg
+  page: https://www.inaturalist.org/photos/607241678
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607241678/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-melanura/2.jpg
+  page: https://www.inaturalist.org/photos/605496933
+  author: Honoria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605496933/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-melanura/3.jpg
+  page: https://www.inaturalist.org/photos/612471561
+  author: Katrina Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612471561/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-melanura/4.jpg
+  page: https://www.inaturalist.org/photos/619653988
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619653988/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-melanura/5.jpg
+  page: https://www.inaturalist.org/photos/619430741
+  author: Wyatt Sibilia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619430741/original.jpg
 ---
 
 

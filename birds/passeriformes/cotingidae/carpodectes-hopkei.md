@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/carpodectes-hopkei/1.jpg
+  page: https://www.inaturalist.org/photos/618277749
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618277749/original.jpg
+images:
+- file: images/passeriformes/cotingidae/carpodectes-hopkei/1.jpg
+  page: https://www.inaturalist.org/photos/618277749
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618277749/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-hopkei/2.jpg
+  page: https://www.inaturalist.org/photos/255458354
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255458354/original.jpeg
+- file: images/passeriformes/cotingidae/carpodectes-hopkei/3.jpg
+  page: https://www.inaturalist.org/photos/241078903
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241078903/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-hopkei/4.jpg
+  page: https://www.inaturalist.org/photos/104826642
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826642/original.jpeg
+- file: images/passeriformes/cotingidae/carpodectes-hopkei/5.jpg
+  page: https://www.inaturalist.org/photos/241078635
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241078635/original.jpg
 ---
 
 

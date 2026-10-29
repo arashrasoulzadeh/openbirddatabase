@@ -132,8 +132,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/myrmecocichla-melaena/1.jpg
+  page: https://www.inaturalist.org/photos/605263344
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605263344/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myrmecocichla-melaena/1.jpg
+  page: https://www.inaturalist.org/photos/605263344
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605263344/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-melaena/2.jpg
+  page: https://www.inaturalist.org/photos/605532909
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605532909/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-melaena/3.jpg
+  page: https://www.inaturalist.org/photos/618858002
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618858002/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-melaena/4.jpg
+  page: https://www.inaturalist.org/photos/618857998
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618857998/original.jpg
+- file: images/passeriformes/muscicapidae/myrmecocichla-melaena/5.jpg
+  page: https://www.inaturalist.org/photos/618857997
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618857997/original.jpg
 ---
 
 

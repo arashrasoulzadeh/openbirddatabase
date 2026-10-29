@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/passeriformes/artamidae/strepera-graculina/1.jpg
+  page: https://www.inaturalist.org/photos/605590279
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605590279/original.jpg
+images:
+- file: images/passeriformes/artamidae/strepera-graculina/1.jpg
+  page: https://www.inaturalist.org/photos/605590279
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605590279/original.jpg
+- file: images/passeriformes/artamidae/strepera-graculina/2.jpg
+  page: https://www.inaturalist.org/photos/607312530
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607312530/original.jpg
+- file: images/passeriformes/artamidae/strepera-graculina/3.jpg
+  page: https://www.inaturalist.org/photos/610510159
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510159/original.jpg
+- file: images/passeriformes/artamidae/strepera-graculina/4.jpg
+  page: https://www.inaturalist.org/photos/607645821
+  author: Rob Gordon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607645821/original.jpg
+- file: images/passeriformes/artamidae/strepera-graculina/5.jpg
+  page: https://www.inaturalist.org/photos/606985648
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606985648/original.jpg
 ---
 
 

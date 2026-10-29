@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/arundinax-aedon/1.jpg
+  page: https://www.inaturalist.org/photos/626214860
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626214860/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/arundinax-aedon/1.jpg
+  page: https://www.inaturalist.org/photos/626214860
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626214860/original.jpg
+- file: images/passeriformes/acrocephalidae/arundinax-aedon/2.jpg
+  page: https://www.inaturalist.org/photos/469653387
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469653387/original.jpg
+- file: images/passeriformes/acrocephalidae/arundinax-aedon/3.jpg
+  page: https://www.inaturalist.org/photos/540621979
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540621979/original.jpg
+- file: images/passeriformes/acrocephalidae/arundinax-aedon/4.jpg
+  page: https://www.inaturalist.org/photos/530558015
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530558015/original.jpg
+- file: images/passeriformes/acrocephalidae/arundinax-aedon/5.jpg
+  page: https://www.inaturalist.org/photos/626214859
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626214859/original.jpg
 ---
 
 

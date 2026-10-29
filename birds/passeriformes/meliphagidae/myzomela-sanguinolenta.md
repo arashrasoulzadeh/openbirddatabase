@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/meliphagidae/myzomela-sanguinolenta/1.jpg
+  page: https://www.inaturalist.org/photos/611175927
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611175927/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-sanguinolenta/1.jpg
+  page: https://www.inaturalist.org/photos/611175927
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611175927/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-sanguinolenta/2.jpg
+  page: https://www.inaturalist.org/photos/627312434
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627312434/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-sanguinolenta/3.jpg
+  page: https://www.inaturalist.org/photos/638473961
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638473961/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-sanguinolenta/4.jpg
+  page: https://www.inaturalist.org/photos/633013897
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633013897/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-sanguinolenta/5.jpg
+  page: https://www.inaturalist.org/photos/637517150
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637517150/original.jpg
 ---
 
 

@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-bruniceps/1.jpg
+  page: https://www.inaturalist.org/photos/639420962
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639420962/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-bruniceps/1.jpg
+  page: https://www.inaturalist.org/photos/639420962
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639420962/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-bruniceps/2.jpg
+  page: https://www.inaturalist.org/photos/670223211
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670223211/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-bruniceps/3.jpg
+  page: https://www.inaturalist.org/photos/731522332
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731522332/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-bruniceps/4.jpg
+  page: https://www.inaturalist.org/photos/673892123
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673892123/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-bruniceps/5.jpg
+  page: https://www.inaturalist.org/photos/731522354
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731522354/original.jpg
 ---
 
 

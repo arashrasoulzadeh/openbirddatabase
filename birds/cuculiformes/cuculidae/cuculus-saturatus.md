@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cuculus-saturatus/1.jpg
+  page: https://www.inaturalist.org/photos/631792684
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631792684/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-saturatus/1.jpg
+  page: https://www.inaturalist.org/photos/631792684
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631792684/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-saturatus/2.jpg
+  page: https://www.inaturalist.org/photos/371586011
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/371586011/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-saturatus/3.jpg
+  page: https://www.inaturalist.org/photos/186671050
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186671050/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-saturatus/4.jpg
+  page: https://www.inaturalist.org/photos/191402073
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191402073/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-saturatus/5.jpg
+  page: https://www.inaturalist.org/photos/199116415
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199116415/original.jpg
 ---
 
 

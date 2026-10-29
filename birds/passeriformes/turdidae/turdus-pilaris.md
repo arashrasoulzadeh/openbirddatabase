@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/turdidae/turdus-pilaris/1.jpg
+  page: https://www.inaturalist.org/photos/605324123
+  author: Валерия Ковалева
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605324123/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-pilaris/1.jpg
+  page: https://www.inaturalist.org/photos/605324123
+  author: Валерия Ковалева
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605324123/original.jpg
+- file: images/passeriformes/turdidae/turdus-pilaris/2.jpg
+  page: https://www.inaturalist.org/photos/605454465
+  author: Maria Kohanovskaya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605454465/original.jpg
+- file: images/passeriformes/turdidae/turdus-pilaris/3.jpg
+  page: https://www.inaturalist.org/photos/604849253
+  author: Petr Harant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604849253/original.jpg
+- file: images/passeriformes/turdidae/turdus-pilaris/4.jpg
+  page: https://www.inaturalist.org/photos/605165662
+  author: Дмитрий Еременко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165662/original.jpg
+- file: images/passeriformes/turdidae/turdus-pilaris/5.jpg
+  page: https://www.inaturalist.org/photos/605395431
+  author: Yehor Yatsiuk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605395431/original.jpg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/colibri-thalassinus/1.jpg
+  page: https://www.inaturalist.org/photos/607808867
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808867/original.jpg
+images:
+- file: images/apodiformes/trochilidae/colibri-thalassinus/1.jpg
+  page: https://www.inaturalist.org/photos/607808867
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808867/original.jpg
+- file: images/apodiformes/trochilidae/colibri-thalassinus/2.jpg
+  page: https://www.inaturalist.org/photos/641106721
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641106721/original.jpg
+- file: images/apodiformes/trochilidae/colibri-thalassinus/3.jpg
+  page: https://www.inaturalist.org/photos/716994559
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716994559/original.jpg
+- file: images/apodiformes/trochilidae/colibri-thalassinus/4.jpg
+  page: https://www.inaturalist.org/photos/739735136
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739735136/original.jpg
+- file: images/apodiformes/trochilidae/colibri-thalassinus/5.jpg
+  page: https://www.inaturalist.org/photos/464396952
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464396952/original.jpg
 ---
 
 

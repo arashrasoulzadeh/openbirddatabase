@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/bradornis-microrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/679676162
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679676162/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/bradornis-microrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/679676162
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679676162/original.jpg
+- file: images/passeriformes/muscicapidae/bradornis-microrhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/666806323
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666806323/original.jpg
+- file: images/passeriformes/muscicapidae/bradornis-microrhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/716627854
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716627854/original.jpg
+- file: images/passeriformes/muscicapidae/bradornis-microrhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/664943555
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664943555/original.jpg
+- file: images/passeriformes/muscicapidae/bradornis-microrhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/716131143
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716131143/original.jpg
 ---
 
 

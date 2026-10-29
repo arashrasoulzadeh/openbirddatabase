@@ -143,8 +143,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-macrodactyla/1.jpg
+  page: https://www.inaturalist.org/photos/455072712
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455072712/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-macrodactyla/1.jpg
+  page: https://www.inaturalist.org/photos/455072712
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455072712/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-macrodactyla/2.jpg
+  page: https://www.inaturalist.org/photos/245941239
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245941239/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-macrodactyla/3.jpg
+  page: https://www.inaturalist.org/photos/245941234
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245941234/original.jpg
 ---
 
 

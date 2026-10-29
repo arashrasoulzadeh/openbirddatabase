@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/panterpe-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/610069884
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610069884/original.jpg
+images:
+- file: images/apodiformes/trochilidae/panterpe-insignis/1.jpg
+  page: https://www.inaturalist.org/photos/610069884
+  author: Hank Raizen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610069884/original.jpg
+- file: images/apodiformes/trochilidae/panterpe-insignis/2.jpg
+  page: https://www.inaturalist.org/photos/611050289
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611050289/original.jpg
+- file: images/apodiformes/trochilidae/panterpe-insignis/3.jpg
+  page: https://www.inaturalist.org/photos/607287615
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607287615/original.jpg
+- file: images/apodiformes/trochilidae/panterpe-insignis/4.jpg
+  page: https://www.inaturalist.org/photos/607242088
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607242088/original.jpg
+- file: images/apodiformes/trochilidae/panterpe-insignis/5.jpg
+  page: https://www.inaturalist.org/photos/621254380
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621254380/original.jpg
 ---
 
 

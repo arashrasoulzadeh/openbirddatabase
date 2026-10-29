@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/mitu-salvini/1.jpg
+  page: https://www.inaturalist.org/photos/531898870
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531898870/original.jpg
+images:
+- file: images/galliformes/cracidae/mitu-salvini/1.jpg
+  page: https://www.inaturalist.org/photos/531898870
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531898870/original.jpg
+- file: images/galliformes/cracidae/mitu-salvini/2.jpg
+  page: https://www.inaturalist.org/photos/315112090
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/315112090/original.jpg
+- file: images/galliformes/cracidae/mitu-salvini/3.jpg
+  page: https://www.inaturalist.org/photos/329180030
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329180030/original.jpeg
+- file: images/galliformes/cracidae/mitu-salvini/4.jpg
+  page: https://www.inaturalist.org/photos/160642212
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/160642212/original.jpeg
+- file: images/galliformes/cracidae/mitu-salvini/5.jpg
+  page: https://www.inaturalist.org/photos/8911108
+  author: Jackie T
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8911108/original.jpeg
 ---
 
 

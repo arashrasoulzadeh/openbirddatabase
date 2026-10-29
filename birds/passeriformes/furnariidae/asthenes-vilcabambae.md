@@ -139,10 +139,37 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/asthenes-vilcabambae/1.jpg
+  page: https://www.inaturalist.org/photos/336675205
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336675205/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-vilcabambae/1.jpg
+  page: https://www.inaturalist.org/photos/336675205
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336675205/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-vilcabambae/2.jpg
+  page: https://www.inaturalist.org/photos/336675203
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336675203/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-vilcabambae/3.jpg
+  page: https://www.inaturalist.org/photos/336675200
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336675200/original.jpg
 ---
 
 

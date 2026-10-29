@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/608090804
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608090804/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/608090804
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608090804/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-orientalis/2.jpg
+  page: https://www.inaturalist.org/photos/614689484
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614689484/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-orientalis/3.jpg
+  page: https://www.inaturalist.org/photos/612872112
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612872112/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-orientalis/4.jpg
+  page: https://www.inaturalist.org/photos/622793483
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622793483/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-orientalis/5.jpg
+  page: https://www.inaturalist.org/photos/626367967
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626367967/original.jpg
 ---
 
 

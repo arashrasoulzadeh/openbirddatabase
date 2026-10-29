@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiodynastes-bairdii/1.jpg
+  page: https://www.inaturalist.org/photos/621308104
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621308104/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiodynastes-bairdii/1.jpg
+  page: https://www.inaturalist.org/photos/621308104
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621308104/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-bairdii/2.jpg
+  page: https://www.inaturalist.org/photos/559547829
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559547829/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-bairdii/3.jpg
+  page: https://www.inaturalist.org/photos/369010456
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369010456/original.jpeg
+- file: images/passeriformes/tyrannidae/myiodynastes-bairdii/4.jpg
+  page: https://www.inaturalist.org/photos/464453849
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464453849/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-bairdii/5.jpg
+  page: https://www.inaturalist.org/photos/654244606
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654244606/original.jpg
 ---
 
 

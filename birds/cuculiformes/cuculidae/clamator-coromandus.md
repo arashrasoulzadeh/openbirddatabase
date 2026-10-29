@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/clamator-coromandus/1.jpg
+  page: https://www.inaturalist.org/photos/618401982
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618401982/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/clamator-coromandus/1.jpg
+  page: https://www.inaturalist.org/photos/618401982
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618401982/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-coromandus/2.jpg
+  page: https://www.inaturalist.org/photos/631792678
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631792678/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-coromandus/3.jpg
+  page: https://www.inaturalist.org/photos/662911245
+  author: Shane Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662911245/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-coromandus/4.jpg
+  page: https://www.inaturalist.org/photos/633063375
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633063375/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-coromandus/5.jpg
+  page: https://www.inaturalist.org/photos/674555899
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674555899/original.jpg
 ---
 
 

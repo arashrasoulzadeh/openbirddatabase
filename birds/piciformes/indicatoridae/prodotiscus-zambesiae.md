@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/indicatoridae/prodotiscus-zambesiae/1.jpg
+  page: https://www.inaturalist.org/photos/490623161
+  author: Pat Farris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490623161/original.jpg
+images:
+- file: images/piciformes/indicatoridae/prodotiscus-zambesiae/1.jpg
+  page: https://www.inaturalist.org/photos/490623161
+  author: Pat Farris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490623161/original.jpg
+- file: images/piciformes/indicatoridae/prodotiscus-zambesiae/2.jpg
+  page: https://www.inaturalist.org/photos/259156746
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259156746/original.jpg
+- file: images/piciformes/indicatoridae/prodotiscus-zambesiae/3.jpg
+  page: https://www.inaturalist.org/photos/476342963
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476342963/original.jpg
+- file: images/piciformes/indicatoridae/prodotiscus-zambesiae/4.jpg
+  page: https://www.inaturalist.org/photos/17626505
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17626505/original.jpg
+- file: images/piciformes/indicatoridae/prodotiscus-zambesiae/5.jpg
+  page: https://www.inaturalist.org/photos/264052832
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264052832/original.jpeg
 ---
 
 

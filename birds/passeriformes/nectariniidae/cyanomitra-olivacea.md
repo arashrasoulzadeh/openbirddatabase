@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cyanomitra-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/609674527
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609674527/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cyanomitra-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/609674527
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609674527/original.jpg
+- file: images/passeriformes/nectariniidae/cyanomitra-olivacea/2.jpg
+  page: https://www.inaturalist.org/photos/734316136
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734316136/original.jpg
+- file: images/passeriformes/nectariniidae/cyanomitra-olivacea/3.jpg
+  page: https://www.inaturalist.org/photos/691937090
+  author: Sunčana Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691937090/original.jpg
+- file: images/passeriformes/nectariniidae/cyanomitra-olivacea/4.jpg
+  page: https://www.inaturalist.org/photos/695356086
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695356086/original.jpg
+- file: images/passeriformes/nectariniidae/cyanomitra-olivacea/5.jpg
+  page: https://www.inaturalist.org/photos/609674534
+  author: frogglet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609674534/original.jpg
 ---
 
 

@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/charadriiformes/charadriidae/charadrius-vociferus/1.jpg
+  page: https://www.inaturalist.org/photos/605544635
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605544635/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/charadrius-vociferus/1.jpg
+  page: https://www.inaturalist.org/photos/605544635
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605544635/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-vociferus/2.jpg
+  page: https://www.inaturalist.org/photos/605091326
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605091326/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-vociferus/3.jpg
+  page: https://www.inaturalist.org/photos/605702639
+  author: Mark Connolly
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605702639/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-vociferus/4.jpg
+  page: https://www.inaturalist.org/photos/605574993
+  author: crowfoolery
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605574993/original.jpg
+- file: images/charadriiformes/charadriidae/charadrius-vociferus/5.jpg
+  page: https://www.inaturalist.org/photos/604861357
+  author: Dave Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604861357/original.jpg
 ---
 
 

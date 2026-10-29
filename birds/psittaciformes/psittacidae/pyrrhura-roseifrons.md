@@ -147,8 +147,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-roseifrons/1.jpg
+  page: https://www.inaturalist.org/photos/617290398
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617290398/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-roseifrons/1.jpg
+  page: https://www.inaturalist.org/photos/617290398
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617290398/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-roseifrons/2.jpg
+  page: https://www.inaturalist.org/photos/661601297
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661601297/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-roseifrons/3.jpg
+  page: https://www.inaturalist.org/photos/733961941
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733961941/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-roseifrons/4.jpg
+  page: https://www.inaturalist.org/photos/467056216
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467056216/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-roseifrons/5.jpg
+  page: https://www.inaturalist.org/photos/617198895
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617198895/original.jpg
 ---
 
 

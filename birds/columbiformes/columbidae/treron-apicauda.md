@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-apicauda/1.jpg
+  page: https://www.inaturalist.org/photos/628090137
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628090137/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-apicauda/1.jpg
+  page: https://www.inaturalist.org/photos/628090137
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628090137/original.jpg
+- file: images/columbiformes/columbidae/treron-apicauda/2.jpg
+  page: https://www.inaturalist.org/photos/630741156
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630741156/original.jpg
+- file: images/columbiformes/columbidae/treron-apicauda/3.jpg
+  page: https://www.inaturalist.org/photos/469667485
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469667485/original.jpeg
+- file: images/columbiformes/columbidae/treron-apicauda/4.jpg
+  page: https://www.inaturalist.org/photos/604186310
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604186310/original.jpg
+- file: images/columbiformes/columbidae/treron-apicauda/5.jpg
+  page: https://www.inaturalist.org/photos/385745089
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385745089/original.jpg
 ---
 
 

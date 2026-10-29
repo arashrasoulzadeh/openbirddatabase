@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/tachybaptus-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/604994309
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604994309/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/tachybaptus-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/604994309
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604994309/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/605756747
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605756747/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/608758651
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608758651/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/606100965
+  author: Jake B
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606100965/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/611398792
+  author: Rosalie Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611398792/original.jpg
 ---
 
 

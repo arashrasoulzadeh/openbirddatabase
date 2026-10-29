@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/charadriiformes/haematopodidae/haematopus-bachmani/1.jpg
+  page: https://www.inaturalist.org/photos/605291791
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605291791/original.jpg
+images:
+- file: images/charadriiformes/haematopodidae/haematopus-bachmani/1.jpg
+  page: https://www.inaturalist.org/photos/605291791
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605291791/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-bachmani/2.jpg
+  page: https://www.inaturalist.org/photos/604889353
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604889353/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-bachmani/3.jpg
+  page: https://www.inaturalist.org/photos/604956408
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604956408/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-bachmani/4.jpg
+  page: https://www.inaturalist.org/photos/609296462
+  author: The Vertebrate Pokédex
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609296462/original.jpg
+- file: images/charadriiformes/haematopodidae/haematopus-bachmani/5.jpg
+  page: https://www.inaturalist.org/photos/610674806
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610674806/original.jpg
 ---
 
 

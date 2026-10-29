@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sicalis-olivascens/1.jpg
+  page: https://www.inaturalist.org/photos/609717508
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609717508/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sicalis-olivascens/1.jpg
+  page: https://www.inaturalist.org/photos/609717508
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609717508/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-olivascens/2.jpg
+  page: https://www.inaturalist.org/photos/611729309
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611729309/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-olivascens/3.jpg
+  page: https://www.inaturalist.org/photos/622449060
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622449060/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-olivascens/4.jpg
+  page: https://www.inaturalist.org/photos/630985635
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630985635/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-olivascens/5.jpg
+  page: https://www.inaturalist.org/photos/649596423
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649596423/original.jpg
 ---
 
 

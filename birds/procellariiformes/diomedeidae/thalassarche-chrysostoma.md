@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 47
+image:
+  file: images/procellariiformes/diomedeidae/thalassarche-chrysostoma/1.jpg
+  page: https://www.inaturalist.org/photos/605474316
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474316/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/thalassarche-chrysostoma/1.jpg
+  page: https://www.inaturalist.org/photos/605474316
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474316/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-chrysostoma/2.jpg
+  page: https://www.inaturalist.org/photos/462520976
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462520976/original.jpeg
+- file: images/procellariiformes/diomedeidae/thalassarche-chrysostoma/3.jpg
+  page: https://www.inaturalist.org/photos/471358672
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471358672/original.jpeg
+- file: images/procellariiformes/diomedeidae/thalassarche-chrysostoma/4.jpg
+  page: https://www.inaturalist.org/photos/478284304
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478284304/original.jpg
+- file: images/procellariiformes/diomedeidae/thalassarche-chrysostoma/5.jpg
+  page: https://www.inaturalist.org/photos/510067896
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510067896/original.jpg
 ---
 
 

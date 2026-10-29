@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-spilorrhoa/1.jpg
+  page: https://www.inaturalist.org/photos/623173032
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623173032/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-spilorrhoa/1.jpg
+  page: https://www.inaturalist.org/photos/623173032
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623173032/original.jpg
+- file: images/columbiformes/columbidae/ducula-spilorrhoa/2.jpg
+  page: https://www.inaturalist.org/photos/697327697
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697327697/original.jpg
+- file: images/columbiformes/columbidae/ducula-spilorrhoa/3.jpg
+  page: https://www.inaturalist.org/photos/722419694
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722419694/original.jpg
+- file: images/columbiformes/columbidae/ducula-spilorrhoa/4.jpg
+  page: https://www.inaturalist.org/photos/625489832
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625489832/original.jpg
+- file: images/columbiformes/columbidae/ducula-spilorrhoa/5.jpg
+  page: https://www.inaturalist.org/photos/657130901
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657130901/original.jpg
 ---
 
 

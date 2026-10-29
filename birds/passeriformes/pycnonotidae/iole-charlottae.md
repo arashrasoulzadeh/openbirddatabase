@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/iole-charlottae/1.jpg
+  page: https://www.inaturalist.org/photos/682483794
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682483794/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/iole-charlottae/1.jpg
+  page: https://www.inaturalist.org/photos/682483794
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682483794/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-charlottae/2.jpg
+  page: https://www.inaturalist.org/photos/686378600
+  author: 陳德範（Chen, De-Fan）
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686378600/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-charlottae/3.jpg
+  page: https://www.inaturalist.org/photos/725138063
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725138063/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-charlottae/4.jpg
+  page: https://www.inaturalist.org/photos/525702254
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525702254/original.jpg
+- file: images/passeriformes/pycnonotidae/iole-charlottae/5.jpg
+  page: https://www.inaturalist.org/photos/571362816
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571362816/original.jpg
 ---
 
 

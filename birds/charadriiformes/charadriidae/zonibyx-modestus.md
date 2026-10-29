@@ -126,8 +126,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/charadriiformes/charadriidae/zonibyx-modestus/1.jpg
+  page: https://www.inaturalist.org/photos/612746399
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612746399/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/zonibyx-modestus/1.jpg
+  page: https://www.inaturalist.org/photos/612746399
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612746399/original.jpg
+- file: images/charadriiformes/charadriidae/zonibyx-modestus/2.jpg
+  page: https://www.inaturalist.org/photos/626229288
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626229288/original.jpg
+- file: images/charadriiformes/charadriidae/zonibyx-modestus/3.jpg
+  page: https://www.inaturalist.org/photos/623056510
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623056510/original.jpg
+- file: images/charadriiformes/charadriidae/zonibyx-modestus/4.jpg
+  page: https://www.inaturalist.org/photos/630938329
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630938329/original.jpg
+- file: images/charadriiformes/charadriidae/zonibyx-modestus/5.jpg
+  page: https://www.inaturalist.org/photos/660910964
+  author: Matias Cabezas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660910964/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paramythiidae/paramythia-montium/1.jpg
+  page: https://www.inaturalist.org/photos/705741938
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705741938/original.jpg
+images:
+- file: images/passeriformes/paramythiidae/paramythia-montium/1.jpg
+  page: https://www.inaturalist.org/photos/705741938
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705741938/original.jpg
+- file: images/passeriformes/paramythiidae/paramythia-montium/2.jpg
+  page: https://www.inaturalist.org/photos/335856992
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335856992/original.jpg
+- file: images/passeriformes/paramythiidae/paramythia-montium/3.jpg
+  page: https://www.inaturalist.org/photos/705741902
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705741902/original.jpg
+- file: images/passeriformes/paramythiidae/paramythia-montium/4.jpg
+  page: https://www.inaturalist.org/photos/336203419
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336203419/original.jpg
+- file: images/passeriformes/paramythiidae/paramythia-montium/5.jpg
+  page: https://www.inaturalist.org/photos/336206569
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336206569/original.jpg
 ---
 
 

@@ -153,7 +153,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 158.1
@@ -163,6 +164,44 @@ morphology:
   body_mass_g: 1303.0
 demography:
   max_longevity_years: 28
+image:
+  file: images/pelecaniformes/threskiornithidae/threskiornis-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/611206863
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611206863/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/threskiornis-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/611206863
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611206863/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-melanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/615432032
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615432032/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-melanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/619860896
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619860896/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-melanocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/622317774
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622317774/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-melanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/620816767
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620816767/original.jpg
 ---
 
 

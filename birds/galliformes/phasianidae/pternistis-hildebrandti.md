@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-hildebrandti/1.jpg
+  page: https://www.inaturalist.org/photos/681340239
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681340239/original.jpg
+images:
+- file: images/galliformes/phasianidae/pternistis-hildebrandti/1.jpg
+  page: https://www.inaturalist.org/photos/681340239
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681340239/original.jpg
+- file: images/galliformes/phasianidae/pternistis-hildebrandti/2.jpg
+  page: https://www.inaturalist.org/photos/502091717
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502091717/original.jpeg
+- file: images/galliformes/phasianidae/pternistis-hildebrandti/3.jpg
+  page: https://www.inaturalist.org/photos/543409928
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543409928/original.jpg
+- file: images/galliformes/phasianidae/pternistis-hildebrandti/4.jpg
+  page: https://www.inaturalist.org/photos/541449455
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541449455/original.jpg
+- file: images/galliformes/phasianidae/pternistis-hildebrandti/5.jpg
+  page: https://www.inaturalist.org/photos/581278449
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581278449/original.jpg
 ---
 
 

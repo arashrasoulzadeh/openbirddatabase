@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-jabejabe/1.jpg
+  page: https://www.inaturalist.org/photos/700046393
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700046393/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-jabejabe/1.jpg
+  page: https://www.inaturalist.org/photos/700046393
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700046393/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-jabejabe/2.jpg
+  page: https://www.inaturalist.org/photos/333452293
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333452293/original.jpeg
+- file: images/procellariiformes/hydrobatidae/hydrobates-jabejabe/3.jpg
+  page: https://www.inaturalist.org/photos/700046410
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700046410/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-jabejabe/4.jpg
+  page: https://www.inaturalist.org/photos/700046427
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700046427/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-jabejabe/5.jpg
+  page: https://www.inaturalist.org/photos/700046448
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700046448/original.jpg
 ---
 
 

@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sylviidae/curruca-conspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/620089586
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620089586/original.jpg
+images:
+- file: images/passeriformes/sylviidae/curruca-conspicillata/1.jpg
+  page: https://www.inaturalist.org/photos/620089586
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620089586/original.jpg
+- file: images/passeriformes/sylviidae/curruca-conspicillata/2.jpg
+  page: https://www.inaturalist.org/photos/625423056
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625423056/original.jpg
+- file: images/passeriformes/sylviidae/curruca-conspicillata/3.jpg
+  page: https://www.inaturalist.org/photos/621525933
+  author: Sean Hartnett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621525933/original.jpg
+- file: images/passeriformes/sylviidae/curruca-conspicillata/4.jpg
+  page: https://www.inaturalist.org/photos/654838509
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654838509/original.jpg
+- file: images/passeriformes/sylviidae/curruca-conspicillata/5.jpg
+  page: https://www.inaturalist.org/photos/620089592
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620089592/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/700128716
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700128716/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/700128716
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700128716/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-lugubris/2.jpg
+  page: https://www.inaturalist.org/photos/721158082
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721158082/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-lugubris/3.jpg
+  page: https://www.inaturalist.org/photos/469497369
+  author: Polina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469497369/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-lugubris/4.jpg
+  page: https://www.inaturalist.org/photos/485908048
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485908048/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-lugubris/5.jpg
+  page: https://www.inaturalist.org/photos/542166670
+  author: Paco Cardenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542166670/original.jpg
 ---
 
 

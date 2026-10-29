@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/pygochelidon-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/617447501
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617447501/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/pygochelidon-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/617447501
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617447501/original.jpg
+- file: images/passeriformes/hirundinidae/pygochelidon-melanoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/467056175
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467056175/original.jpg
+- file: images/passeriformes/hirundinidae/pygochelidon-melanoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/603466863
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603466863/original.jpg
+- file: images/passeriformes/hirundinidae/pygochelidon-melanoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/294548676
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/294548676/original.jpeg
+- file: images/passeriformes/hirundinidae/pygochelidon-melanoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/181236148
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181236148/original.jpeg
 ---
 
 

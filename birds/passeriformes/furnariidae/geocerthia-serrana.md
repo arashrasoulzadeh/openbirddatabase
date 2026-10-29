@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/geocerthia-serrana/1.jpg
+  page: https://www.inaturalist.org/photos/528340919
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528340919/original.jpg
+images:
+- file: images/passeriformes/furnariidae/geocerthia-serrana/1.jpg
+  page: https://www.inaturalist.org/photos/528340919
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528340919/original.jpg
+- file: images/passeriformes/furnariidae/geocerthia-serrana/2.jpg
+  page: https://www.inaturalist.org/photos/258398897
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258398897/original.jpg
+- file: images/passeriformes/furnariidae/geocerthia-serrana/3.jpg
+  page: https://www.inaturalist.org/photos/114456649
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114456649/original.jpeg
+- file: images/passeriformes/furnariidae/geocerthia-serrana/4.jpg
+  page: https://www.inaturalist.org/photos/205524999
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205524999/original.jpg
+- file: images/passeriformes/furnariidae/geocerthia-serrana/5.jpg
+  page: https://www.inaturalist.org/photos/236820023
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236820023/original.jpg
 ---
 
 

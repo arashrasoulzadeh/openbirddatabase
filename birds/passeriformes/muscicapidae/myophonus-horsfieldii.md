@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/myophonus-horsfieldii/1.jpg
+  page: https://www.inaturalist.org/photos/617149450
+  author: citi2024
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617149450/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myophonus-horsfieldii/1.jpg
+  page: https://www.inaturalist.org/photos/617149450
+  author: citi2024
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617149450/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-horsfieldii/2.jpg
+  page: https://www.inaturalist.org/photos/627653549
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627653549/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-horsfieldii/3.jpg
+  page: https://www.inaturalist.org/photos/626281992
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626281992/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-horsfieldii/4.jpg
+  page: https://www.inaturalist.org/photos/637919919
+  author: T R Shankar Raman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637919919/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-horsfieldii/5.jpg
+  page: https://www.inaturalist.org/photos/696533557
+  author: Ashwin Srinivasan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696533557/original.jpg
 ---
 
 

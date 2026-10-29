@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/607345463
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607345463/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/607345463
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607345463/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-cinerascens/2.jpg
+  page: https://www.inaturalist.org/photos/609696674
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609696674/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-cinerascens/3.jpg
+  page: https://www.inaturalist.org/photos/620686849
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620686849/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-cinerascens/4.jpg
+  page: https://www.inaturalist.org/photos/620758350
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620758350/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-cinerascens/5.jpg
+  page: https://www.inaturalist.org/photos/621302842
+  author: Bob Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621302842/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/setophaga-delicata/1.jpg
+  page: https://www.inaturalist.org/photos/610731449
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610731449/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-delicata/1.jpg
+  page: https://www.inaturalist.org/photos/610731449
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610731449/original.jpg
+- file: images/passeriformes/parulidae/setophaga-delicata/2.jpg
+  page: https://www.inaturalist.org/photos/616509235
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616509235/original.jpg
+- file: images/passeriformes/parulidae/setophaga-delicata/3.jpg
+  page: https://www.inaturalist.org/photos/630032851
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630032851/original.jpg
+- file: images/passeriformes/parulidae/setophaga-delicata/4.jpg
+  page: https://www.inaturalist.org/photos/638388871
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638388871/original.jpg
+- file: images/passeriformes/parulidae/setophaga-delicata/5.jpg
+  page: https://www.inaturalist.org/photos/465441456
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465441456/original.jpeg
 ---
 
 

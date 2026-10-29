@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/thryophilus-sinaloa/1.jpg
+  page: https://www.inaturalist.org/photos/606750637
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606750637/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/thryophilus-sinaloa/1.jpg
+  page: https://www.inaturalist.org/photos/606750637
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606750637/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-sinaloa/2.jpg
+  page: https://www.inaturalist.org/photos/649947210
+  author: Chris Ratzlaff
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649947210/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-sinaloa/3.jpg
+  page: https://www.inaturalist.org/photos/653368057
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653368057/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-sinaloa/4.jpg
+  page: https://www.inaturalist.org/photos/638949780
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638949780/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-sinaloa/5.jpg
+  page: https://www.inaturalist.org/photos/653372218
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653372218/original.jpg
 ---
 
 

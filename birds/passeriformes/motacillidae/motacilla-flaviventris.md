@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/motacilla-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/636189214
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636189214/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-flaviventris/1.jpg
+  page: https://www.inaturalist.org/photos/636189214
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636189214/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-flaviventris/2.jpg
+  page: https://www.inaturalist.org/photos/472258441
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472258441/original.jpeg
+- file: images/passeriformes/motacillidae/motacilla-flaviventris/3.jpg
+  page: https://www.inaturalist.org/photos/535967766
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535967766/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-flaviventris/4.jpg
+  page: https://www.inaturalist.org/photos/636190448
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636190448/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-flaviventris/5.jpg
+  page: https://www.inaturalist.org/photos/636189426
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636189426/original.jpg
 ---
 
 

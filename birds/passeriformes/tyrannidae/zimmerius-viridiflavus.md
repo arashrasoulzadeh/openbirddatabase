@@ -135,8 +135,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/zimmerius-viridiflavus/1.jpg
+  page: https://www.inaturalist.org/photos/559586729
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559586729/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/zimmerius-viridiflavus/1.jpg
+  page: https://www.inaturalist.org/photos/559586729
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559586729/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-viridiflavus/2.jpg
+  page: https://www.inaturalist.org/photos/140317070
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/140317070/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-viridiflavus/3.jpg
+  page: https://www.inaturalist.org/photos/114465880
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114465880/original.jpg
 ---
 
 

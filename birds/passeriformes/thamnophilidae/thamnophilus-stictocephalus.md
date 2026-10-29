@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-stictocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/385713784
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385713784/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-stictocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/385713784
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385713784/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-stictocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/456613086
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456613086/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-stictocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/446008229
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446008229/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-stictocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/107378314
+  author: Patrick Godoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107378314/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-stictocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/8537093
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8537093/original.jpeg
 ---
 
 

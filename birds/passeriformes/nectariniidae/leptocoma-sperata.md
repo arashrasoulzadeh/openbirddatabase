@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/leptocoma-sperata/1.jpg
+  page: https://www.inaturalist.org/photos/637888327
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888327/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/leptocoma-sperata/1.jpg
+  page: https://www.inaturalist.org/photos/637888327
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888327/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-sperata/2.jpg
+  page: https://www.inaturalist.org/photos/652495716
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652495716/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-sperata/3.jpg
+  page: https://www.inaturalist.org/photos/683368860
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683368860/original.jpg
+- file: images/passeriformes/nectariniidae/leptocoma-sperata/4.jpg
+  page: https://www.inaturalist.org/photos/501234309
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501234309/original.jpeg
+- file: images/passeriformes/nectariniidae/leptocoma-sperata/5.jpg
+  page: https://www.inaturalist.org/photos/652495744
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652495744/original.jpg
 ---
 
 

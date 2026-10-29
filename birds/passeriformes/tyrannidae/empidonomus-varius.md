@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/empidonomus-varius/1.jpg
+  page: https://www.inaturalist.org/photos/604588687
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588687/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonomus-varius/1.jpg
+  page: https://www.inaturalist.org/photos/604588687
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588687/original.jpg
+- file: images/passeriformes/tyrannidae/empidonomus-varius/2.jpg
+  page: https://www.inaturalist.org/photos/609930731
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930731/original.jpg
+- file: images/passeriformes/tyrannidae/empidonomus-varius/3.jpg
+  page: https://www.inaturalist.org/photos/609002811
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609002811/original.jpg
+- file: images/passeriformes/tyrannidae/empidonomus-varius/4.jpg
+  page: https://www.inaturalist.org/photos/609957893
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609957893/original.jpg
+- file: images/passeriformes/tyrannidae/empidonomus-varius/5.jpg
+  page: https://www.inaturalist.org/photos/607243350
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607243350/original.jpg
 ---
 
 

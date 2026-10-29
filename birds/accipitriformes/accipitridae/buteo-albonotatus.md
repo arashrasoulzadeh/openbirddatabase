@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteo-albonotatus/1.jpg
+  page: https://www.inaturalist.org/photos/606539821
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606539821/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-albonotatus/1.jpg
+  page: https://www.inaturalist.org/photos/606539821
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606539821/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-albonotatus/2.jpg
+  page: https://www.inaturalist.org/photos/609824803
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609824803/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-albonotatus/3.jpg
+  page: https://www.inaturalist.org/photos/606756521
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606756521/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-albonotatus/4.jpg
+  page: https://www.inaturalist.org/photos/609353080
+  author: Trey Philips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609353080/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-albonotatus/5.jpg
+  page: https://www.inaturalist.org/photos/614764190
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614764190/original.jpg
 ---
 
 

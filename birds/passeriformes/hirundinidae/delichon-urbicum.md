@@ -190,10 +190,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/hirundinidae/delichon-urbicum/1.jpg
+  page: https://www.inaturalist.org/photos/614231501
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231501/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/delichon-urbicum/1.jpg
+  page: https://www.inaturalist.org/photos/614231501
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231501/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-urbicum/2.jpg
+  page: https://www.inaturalist.org/photos/618235600
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618235600/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-urbicum/3.jpg
+  page: https://www.inaturalist.org/photos/616988652
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616988652/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-urbicum/4.jpg
+  page: https://www.inaturalist.org/photos/619465053
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619465053/original.jpg
+- file: images/passeriformes/hirundinidae/delichon-urbicum/5.jpg
+  page: https://www.inaturalist.org/photos/622211965
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622211965/original.jpg
 ---
 
 

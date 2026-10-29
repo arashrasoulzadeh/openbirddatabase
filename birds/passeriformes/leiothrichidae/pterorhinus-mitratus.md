@@ -138,8 +138,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-mitratus/1.jpg
+  page: https://www.inaturalist.org/photos/628077354
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077354/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-mitratus/1.jpg
+  page: https://www.inaturalist.org/photos/628077354
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077354/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-mitratus/2.jpg
+  page: https://www.inaturalist.org/photos/731743434
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731743434/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-mitratus/3.jpg
+  page: https://www.inaturalist.org/photos/703288994
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703288994/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-mitratus/4.jpg
+  page: https://www.inaturalist.org/photos/532799753
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532799753/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-mitratus/5.jpg
+  page: https://www.inaturalist.org/photos/628077409
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077409/original.jpg
 ---
 
 

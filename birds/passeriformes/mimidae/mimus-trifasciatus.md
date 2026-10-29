@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-trifasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/528396824
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528396824/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-trifasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/528396824
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528396824/original.jpg
+- file: images/passeriformes/mimidae/mimus-trifasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/339606722
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339606722/original.jpg
+- file: images/passeriformes/mimidae/mimus-trifasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/109961007
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109961007/original.jpeg
+- file: images/passeriformes/mimidae/mimus-trifasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/339076740
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339076740/original.jpg
+- file: images/passeriformes/mimidae/mimus-trifasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/64238305
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64238305/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-malabaricus/1.jpg
+  page: https://www.inaturalist.org/photos/607739292
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607739292/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-malabaricus/1.jpg
+  page: https://www.inaturalist.org/photos/607739292
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607739292/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-malabaricus/2.jpg
+  page: https://www.inaturalist.org/photos/622444735
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622444735/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-malabaricus/3.jpg
+  page: https://www.inaturalist.org/photos/658524849
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658524849/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-malabaricus/4.jpg
+  page: https://www.inaturalist.org/photos/614453316
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614453316/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-malabaricus/5.jpg
+  page: https://www.inaturalist.org/photos/622444862
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622444862/original.jpg
 ---
 
 

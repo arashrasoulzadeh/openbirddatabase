@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/hirundapus-celebensis/1.jpg
+  page: https://www.inaturalist.org/photos/724497232
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724497232/original.jpg
+images:
+- file: images/apodiformes/apodidae/hirundapus-celebensis/1.jpg
+  page: https://www.inaturalist.org/photos/724497232
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724497232/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-celebensis/2.jpg
+  page: https://www.inaturalist.org/photos/302396172
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/302396172/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-celebensis/3.jpg
+  page: https://www.inaturalist.org/photos/302396183
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/302396183/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-celebensis/4.jpg
+  page: https://www.inaturalist.org/photos/181196488
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181196488/original.jpg
+- file: images/apodiformes/apodidae/hirundapus-celebensis/5.jpg
+  page: https://www.inaturalist.org/photos/181196552
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181196552/original.jpg
 ---
 
 

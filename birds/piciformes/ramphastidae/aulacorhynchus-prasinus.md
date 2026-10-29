@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/aulacorhynchus-prasinus/1.jpg
+  page: https://www.inaturalist.org/photos/609214729
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609214729/original.jpg
+images:
+- file: images/piciformes/ramphastidae/aulacorhynchus-prasinus/1.jpg
+  page: https://www.inaturalist.org/photos/609214729
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609214729/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-prasinus/2.jpg
+  page: https://www.inaturalist.org/photos/609756631
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609756631/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-prasinus/3.jpg
+  page: https://www.inaturalist.org/photos/615809578
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615809578/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-prasinus/4.jpg
+  page: https://www.inaturalist.org/photos/614910974
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910974/original.jpg
+- file: images/piciformes/ramphastidae/aulacorhynchus-prasinus/5.jpg
+  page: https://www.inaturalist.org/photos/613477868
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613477868/original.jpg
 ---
 
 

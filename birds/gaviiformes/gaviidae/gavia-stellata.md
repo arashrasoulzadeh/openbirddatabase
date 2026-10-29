@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/gaviiformes/gaviidae/gavia-stellata/1.jpg
+  page: https://www.inaturalist.org/photos/610639665
+  author: Timothy McNitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610639665/original.jpg
+images:
+- file: images/gaviiformes/gaviidae/gavia-stellata/1.jpg
+  page: https://www.inaturalist.org/photos/610639665
+  author: Timothy McNitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610639665/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-stellata/2.jpg
+  page: https://www.inaturalist.org/photos/610382720
+  author: SkippingShoe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610382720/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-stellata/3.jpg
+  page: https://www.inaturalist.org/photos/610769330
+  author: Hydrocycler (Elizabeth Dougherty)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610769330/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-stellata/4.jpg
+  page: https://www.inaturalist.org/photos/607538990
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607538990/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-stellata/5.jpg
+  page: https://www.inaturalist.org/photos/607761374
+  author: Pete Bradshaw
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607761374/original.jpg
 ---
 
 

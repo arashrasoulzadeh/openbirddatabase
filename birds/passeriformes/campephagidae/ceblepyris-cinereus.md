@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/ceblepyris-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/690444258
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690444258/original.jpg
+images:
+- file: images/passeriformes/campephagidae/ceblepyris-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/690444258
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690444258/original.jpg
+- file: images/passeriformes/campephagidae/ceblepyris-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/578521927
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578521927/original.jpg
+- file: images/passeriformes/campephagidae/ceblepyris-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/386856351
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386856351/original.jpeg
+- file: images/passeriformes/campephagidae/ceblepyris-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/452214600
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452214600/original.jpg
+- file: images/passeriformes/campephagidae/ceblepyris-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/455475248
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455475248/original.jpeg
 ---
 
 

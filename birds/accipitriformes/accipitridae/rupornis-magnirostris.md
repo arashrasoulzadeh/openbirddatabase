@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/rupornis-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605582880
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605582880/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/rupornis-magnirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605582880
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605582880/original.jpg
+- file: images/accipitriformes/accipitridae/rupornis-magnirostris/2.jpg
+  page: https://www.inaturalist.org/photos/610951643
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610951643/original.jpg
+- file: images/accipitriformes/accipitridae/rupornis-magnirostris/3.jpg
+  page: https://www.inaturalist.org/photos/608502208
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608502208/original.jpg
+- file: images/accipitriformes/accipitridae/rupornis-magnirostris/4.jpg
+  page: https://www.inaturalist.org/photos/609803068
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609803068/original.jpg
+- file: images/accipitriformes/accipitridae/rupornis-magnirostris/5.jpg
+  page: https://www.inaturalist.org/photos/609690849
+  author: Pedro Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609690849/original.jpg
 ---
 
 

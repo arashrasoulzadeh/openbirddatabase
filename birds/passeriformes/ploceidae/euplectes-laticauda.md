@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-laticauda/1.jpg
+  page: https://www.inaturalist.org/photos/701381067
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701381067/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-laticauda/1.jpg
+  page: https://www.inaturalist.org/photos/701381067
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701381067/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-laticauda/2.jpg
+  page: https://www.inaturalist.org/photos/640599630
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640599630/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-laticauda/3.jpg
+  page: https://www.inaturalist.org/photos/716307839
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716307839/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-laticauda/4.jpg
+  page: https://www.inaturalist.org/photos/721868174
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721868174/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-laticauda/5.jpg
+  page: https://www.inaturalist.org/photos/472341796
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472341796/original.jpg
 ---
 
 

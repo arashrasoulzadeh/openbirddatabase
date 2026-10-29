@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/picathartidae/picathartes-gymnocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/477851547
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477851547/original.jpg
+images:
+- file: images/passeriformes/picathartidae/picathartes-gymnocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/477851547
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477851547/original.jpg
+- file: images/passeriformes/picathartidae/picathartes-gymnocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/353551537
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353551537/original.png
+- file: images/passeriformes/picathartidae/picathartes-gymnocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/365796577
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365796577/original.jpeg
+- file: images/passeriformes/picathartidae/picathartes-gymnocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/452976126
+  author: baccatta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452976126/original.jpeg
+- file: images/passeriformes/picathartidae/picathartes-gymnocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/344816808
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344816808/original.jpeg
 ---
 
 

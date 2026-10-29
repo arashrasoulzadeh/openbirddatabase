@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-rufopictus/1.jpg
+  page: https://www.inaturalist.org/photos/504961631
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504961631/original.jpg
+images:
+- file: images/galliformes/phasianidae/pternistis-rufopictus/1.jpg
+  page: https://www.inaturalist.org/photos/504961631
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504961631/original.jpg
+- file: images/galliformes/phasianidae/pternistis-rufopictus/2.jpg
+  page: https://www.inaturalist.org/photos/474508304
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474508304/original.jpeg
+- file: images/galliformes/phasianidae/pternistis-rufopictus/3.jpg
+  page: https://www.inaturalist.org/photos/440544669
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440544669/original.jpeg
+- file: images/galliformes/phasianidae/pternistis-rufopictus/4.jpg
+  page: https://www.inaturalist.org/photos/255874184
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255874184/original.jpeg
+- file: images/galliformes/phasianidae/pternistis-rufopictus/5.jpg
+  page: https://www.inaturalist.org/photos/180636699
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180636699/original.jpg
 ---
 
 

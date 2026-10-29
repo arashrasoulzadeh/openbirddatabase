@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/graminicola-bengalensis/1.jpg
+  page: https://www.inaturalist.org/photos/337784634
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784634/original.jpeg
+images:
+- file: images/passeriformes/pellorneidae/graminicola-bengalensis/1.jpg
+  page: https://www.inaturalist.org/photos/337784634
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784634/original.jpeg
+- file: images/passeriformes/pellorneidae/graminicola-bengalensis/2.jpg
+  page: https://www.inaturalist.org/photos/120751616
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120751616/original.jpg
+- file: images/passeriformes/pellorneidae/graminicola-bengalensis/3.jpg
+  page: https://www.inaturalist.org/photos/17340088
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17340088/original.jpg
+- file: images/passeriformes/pellorneidae/graminicola-bengalensis/4.jpg
+  page: https://www.inaturalist.org/photos/120751602
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120751602/original.jpg
+- file: images/passeriformes/pellorneidae/graminicola-bengalensis/5.jpg
+  page: https://www.inaturalist.org/photos/97176462
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97176462/original.jpg
 ---
 
 

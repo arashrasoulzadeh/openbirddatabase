@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-auratus/1.jpg
+  page: https://www.inaturalist.org/photos/638786922
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638786922/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-auratus/1.jpg
+  page: https://www.inaturalist.org/photos/638786922
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638786922/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-auratus/2.jpg
+  page: https://www.inaturalist.org/photos/472246160
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472246160/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-auratus/3.jpg
+  page: https://www.inaturalist.org/photos/478917729
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478917729/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-auratus/4.jpg
+  page: https://www.inaturalist.org/photos/584783716
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584783716/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-auratus/5.jpg
+  page: https://www.inaturalist.org/photos/348962290
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348962290/original.jpeg
 ---
 
 

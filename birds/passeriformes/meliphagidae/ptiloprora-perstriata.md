@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/ptiloprora-perstriata/1.jpg
+  page: https://www.inaturalist.org/photos/571228292
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571228292/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/ptiloprora-perstriata/1.jpg
+  page: https://www.inaturalist.org/photos/571228292
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571228292/original.jpg
+- file: images/passeriformes/meliphagidae/ptiloprora-perstriata/2.jpg
+  page: https://www.inaturalist.org/photos/226710586
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226710586/original.jpg
+- file: images/passeriformes/meliphagidae/ptiloprora-perstriata/3.jpg
+  page: https://www.inaturalist.org/photos/336080946
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336080946/original.jpg
+- file: images/passeriformes/meliphagidae/ptiloprora-perstriata/4.jpg
+  page: https://www.inaturalist.org/photos/336068005
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336068005/original.jpg
+- file: images/passeriformes/meliphagidae/ptiloprora-perstriata/5.jpg
+  page: https://www.inaturalist.org/photos/336059713
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336059713/original.jpg
 ---
 
 

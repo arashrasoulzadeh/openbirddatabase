@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 20.6
@@ -145,6 +146,44 @@ morphology:
   body_mass_g: 6.0
 reproduction:
   mating_system: Lek
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-duyvenbodei/1.jpg
+  page: https://www.inaturalist.org/photos/719578388
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719578388/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-duyvenbodei/1.jpg
+  page: https://www.inaturalist.org/photos/719578388
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719578388/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-duyvenbodei/2.jpg
+  page: https://www.inaturalist.org/photos/435260246
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260246/original.jpeg
+- file: images/passeriformes/nectariniidae/aethopyga-duyvenbodei/3.jpg
+  page: https://www.inaturalist.org/photos/719578465
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719578465/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-duyvenbodei/4.jpg
+  page: https://www.inaturalist.org/photos/719578691
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719578691/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-duyvenbodei/5.jpg
+  page: https://www.inaturalist.org/photos/719578738
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719578738/original.jpg
 ---
 
 

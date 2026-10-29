@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/sphenisciformes/spheniscidae/eudyptes-pachyrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/618302905
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618302905/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/eudyptes-pachyrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/618302905
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618302905/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-pachyrhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/622800748
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622800748/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-pachyrhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/626945809
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626945809/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-pachyrhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/470608208
+  author: Elias Freyhof
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470608208/original.jpeg
+- file: images/sphenisciformes/spheniscidae/eudyptes-pachyrhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/470448618
+  author: zachary_d
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470448618/original.jpeg
 ---
 
 

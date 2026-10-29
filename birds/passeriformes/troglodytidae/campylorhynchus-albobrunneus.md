@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-albobrunneus/1.jpg
+  page: https://www.inaturalist.org/photos/617233330
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617233330/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-albobrunneus/1.jpg
+  page: https://www.inaturalist.org/photos/617233330
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617233330/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-albobrunneus/2.jpg
+  page: https://www.inaturalist.org/photos/623793186
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793186/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-albobrunneus/3.jpg
+  page: https://www.inaturalist.org/photos/470879123
+  author: TheMongrelKoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470879123/original.jpeg
+- file: images/passeriformes/troglodytidae/campylorhynchus-albobrunneus/4.jpg
+  page: https://www.inaturalist.org/photos/488713473
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488713473/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-albobrunneus/5.jpg
+  page: https://www.inaturalist.org/photos/532703229
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532703229/original.jpg
 ---
 
 

@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sphenopsis-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/623751229
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623751229/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sphenopsis-frontalis/1.jpg
+  page: https://www.inaturalist.org/photos/623751229
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623751229/original.jpg
+- file: images/passeriformes/thraupidae/sphenopsis-frontalis/2.jpg
+  page: https://www.inaturalist.org/photos/586455202
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586455202/original.jpg
+- file: images/passeriformes/thraupidae/sphenopsis-frontalis/3.jpg
+  page: https://www.inaturalist.org/photos/591316020
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591316020/original.jpg
+- file: images/passeriformes/thraupidae/sphenopsis-frontalis/4.jpg
+  page: https://www.inaturalist.org/photos/454973715
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454973715/original.jpeg
+- file: images/passeriformes/thraupidae/sphenopsis-frontalis/5.jpg
+  page: https://www.inaturalist.org/photos/255784442
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255784442/original.jpeg
 ---
 
 

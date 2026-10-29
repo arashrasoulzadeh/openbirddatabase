@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/604639683
+  author: smathichong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604639683/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/604639683
+  author: smathichong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604639683/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/604658929
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604658929/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/604950887
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604950887/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/605062596
+  author: Carly Sheil
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605062596/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/605598218
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605598218/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardeola-grayii/1.jpg
+  page: https://www.inaturalist.org/photos/605270393
+  author: Abhimanyu.A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605270393/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardeola-grayii/1.jpg
+  page: https://www.inaturalist.org/photos/605270393
+  author: Abhimanyu.A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605270393/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-grayii/2.jpg
+  page: https://www.inaturalist.org/photos/610184506
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610184506/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-grayii/3.jpg
+  page: https://www.inaturalist.org/photos/607826206
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607826206/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-grayii/4.jpg
+  page: https://www.inaturalist.org/photos/609906511
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609906511/original.jpg
+- file: images/pelecaniformes/ardeidae/ardeola-grayii/5.jpg
+  page: https://www.inaturalist.org/photos/609907521
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609907521/original.jpg
 ---
 
 

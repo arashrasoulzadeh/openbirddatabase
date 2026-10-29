@@ -121,8 +121,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-luzoniense/1.jpg
+  page: https://www.inaturalist.org/photos/267294956
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294956/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-luzoniense/1.jpg
+  page: https://www.inaturalist.org/photos/267294956
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267294956/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-luzoniense/2.jpg
+  page: https://www.inaturalist.org/photos/230838295
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230838295/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-luzoniense/3.jpg
+  page: https://www.inaturalist.org/photos/230838320
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230838320/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-luzoniense/4.jpg
+  page: https://www.inaturalist.org/photos/230838308
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230838308/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-luzoniense/5.jpg
+  page: https://www.inaturalist.org/photos/251409211
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251409211/original.jpg
 ---
 
 

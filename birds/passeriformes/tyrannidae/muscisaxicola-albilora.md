@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-albilora/1.jpg
+  page: https://www.inaturalist.org/photos/615388953
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388953/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-albilora/1.jpg
+  page: https://www.inaturalist.org/photos/615388953
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388953/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-albilora/2.jpg
+  page: https://www.inaturalist.org/photos/605914367
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914367/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-albilora/3.jpg
+  page: https://www.inaturalist.org/photos/617028032
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617028032/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-albilora/4.jpg
+  page: https://www.inaturalist.org/photos/630009075
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630009075/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-albilora/5.jpg
+  page: https://www.inaturalist.org/photos/629446556
+  author: Franco Arenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629446556/original.jpg
 ---
 
 

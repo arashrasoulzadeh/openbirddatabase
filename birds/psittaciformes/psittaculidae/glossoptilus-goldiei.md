@@ -123,8 +123,41 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/psittaciformes/psittaculidae/glossoptilus-goldiei/1.jpg
+  page: https://www.inaturalist.org/photos/702586251
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702586251/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/glossoptilus-goldiei/1.jpg
+  page: https://www.inaturalist.org/photos/702586251
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702586251/original.jpg
+- file: images/psittaciformes/psittaculidae/glossoptilus-goldiei/2.jpg
+  page: https://www.inaturalist.org/photos/702586250
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702586250/original.jpg
+- file: images/psittaciformes/psittaculidae/glossoptilus-goldiei/3.jpg
+  page: https://www.inaturalist.org/photos/702586245
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702586245/original.jpg
+- file: images/psittaciformes/psittaculidae/glossoptilus-goldiei/4.jpg
+  page: https://www.inaturalist.org/photos/702586235
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702586235/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/tetraogallus-altaicus/1.jpg
+  page: https://www.inaturalist.org/photos/701874522
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701874522/original.jpg
+images:
+- file: images/galliformes/phasianidae/tetraogallus-altaicus/1.jpg
+  page: https://www.inaturalist.org/photos/701874522
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701874522/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-altaicus/2.jpg
+  page: https://www.inaturalist.org/photos/521095195
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521095195/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-altaicus/3.jpg
+  page: https://www.inaturalist.org/photos/422109155
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422109155/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-altaicus/4.jpg
+  page: https://www.inaturalist.org/photos/284810075
+  author: Нурхайдарова Татьяна
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/284810075/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-altaicus/5.jpg
+  page: https://www.inaturalist.org/photos/332100729
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332100729/original.jpeg
 ---
 
 

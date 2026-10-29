@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/aegithalidae/psaltriparus-minimus/1.jpg
+  page: https://www.inaturalist.org/photos/604641318
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604641318/original.jpg
+images:
+- file: images/passeriformes/aegithalidae/psaltriparus-minimus/1.jpg
+  page: https://www.inaturalist.org/photos/604641318
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604641318/original.jpg
+- file: images/passeriformes/aegithalidae/psaltriparus-minimus/2.jpg
+  page: https://www.inaturalist.org/photos/605548386
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605548386/original.jpg
+- file: images/passeriformes/aegithalidae/psaltriparus-minimus/3.jpg
+  page: https://www.inaturalist.org/photos/604930563
+  author: Nathan Odgers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604930563/original.jpg
+- file: images/passeriformes/aegithalidae/psaltriparus-minimus/4.jpg
+  page: https://www.inaturalist.org/photos/605198749
+  author: Corey Stafford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605198749/original.jpg
+- file: images/passeriformes/aegithalidae/psaltriparus-minimus/5.jpg
+  page: https://www.inaturalist.org/photos/605537172
+  author: Liam Steele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605537172/original.jpg
 ---
 
 

@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/609430274
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609430274/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/609430274
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609430274/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-olivacea/2.jpg
+  page: https://www.inaturalist.org/photos/708865324
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708865324/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-olivacea/3.jpg
+  page: https://www.inaturalist.org/photos/633986385
+  author: Cowirrie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633986385/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-olivacea/4.jpg
+  page: https://www.inaturalist.org/photos/475243955
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475243955/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-olivacea/5.jpg
+  page: https://www.inaturalist.org/photos/476145357
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476145357/original.jpeg
 ---
 
 

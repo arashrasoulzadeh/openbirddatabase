@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-cineracea/1.jpg
+  page: https://www.inaturalist.org/photos/635521144
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635521144/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-cineracea/1.jpg
+  page: https://www.inaturalist.org/photos/635521144
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635521144/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-cineracea/2.jpg
+  page: https://www.inaturalist.org/photos/480474795
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480474795/original.jpeg
+- file: images/passeriformes/emberizidae/emberiza-cineracea/3.jpg
+  page: https://www.inaturalist.org/photos/457201724
+  author: Hopeland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457201724/original.jpeg
+- file: images/passeriformes/emberizidae/emberiza-cineracea/4.jpg
+  page: https://www.inaturalist.org/photos/323264444
+  author: Mohammad Amin Ghaffari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323264444/original.jpeg
+- file: images/passeriformes/emberizidae/emberiza-cineracea/5.jpg
+  page: https://www.inaturalist.org/photos/202738563
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202738563/original.jpeg
 ---
 
 

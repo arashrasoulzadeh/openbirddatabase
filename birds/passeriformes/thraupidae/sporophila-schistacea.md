@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-schistacea/1.jpg
+  page: https://www.inaturalist.org/photos/606160853
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606160853/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-schistacea/1.jpg
+  page: https://www.inaturalist.org/photos/606160853
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606160853/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-schistacea/2.jpg
+  page: https://www.inaturalist.org/photos/606511741
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606511741/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-schistacea/3.jpg
+  page: https://www.inaturalist.org/photos/614515668
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515668/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-schistacea/4.jpg
+  page: https://www.inaturalist.org/photos/603816211
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603816211/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-schistacea/5.jpg
+  page: https://www.inaturalist.org/photos/355389324
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355389324/original.jpg
 ---
 
 

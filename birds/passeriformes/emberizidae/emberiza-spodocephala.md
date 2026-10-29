@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-spodocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605355884
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605355884/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-spodocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605355884
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605355884/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-spodocephala/2.jpg
+  page: https://www.inaturalist.org/photos/607965793
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607965793/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-spodocephala/3.jpg
+  page: https://www.inaturalist.org/photos/606353568
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606353568/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-spodocephala/4.jpg
+  page: https://www.inaturalist.org/photos/613508488
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613508488/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-spodocephala/5.jpg
+  page: https://www.inaturalist.org/photos/618610308
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618610308/original.jpg
 ---
 
 

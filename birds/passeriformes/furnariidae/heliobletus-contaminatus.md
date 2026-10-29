@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/heliobletus-contaminatus/1.jpg
+  page: https://www.inaturalist.org/photos/617456160
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617456160/original.jpg
+images:
+- file: images/passeriformes/furnariidae/heliobletus-contaminatus/1.jpg
+  page: https://www.inaturalist.org/photos/617456160
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617456160/original.jpg
+- file: images/passeriformes/furnariidae/heliobletus-contaminatus/2.jpg
+  page: https://www.inaturalist.org/photos/622665339
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622665339/original.jpg
+- file: images/passeriformes/furnariidae/heliobletus-contaminatus/3.jpg
+  page: https://www.inaturalist.org/photos/646431609
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646431609/original.jpg
+- file: images/passeriformes/furnariidae/heliobletus-contaminatus/4.jpg
+  page: https://www.inaturalist.org/photos/686800624
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686800624/original.jpg
+- file: images/passeriformes/furnariidae/heliobletus-contaminatus/5.jpg
+  page: https://www.inaturalist.org/photos/469391138
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469391138/original.jpeg
 ---
 
 

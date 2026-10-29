@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/turdoides-jardineii/1.jpg
+  page: https://www.inaturalist.org/photos/679678242
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679678242/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/turdoides-jardineii/1.jpg
+  page: https://www.inaturalist.org/photos/679678242
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679678242/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-jardineii/2.jpg
+  page: https://www.inaturalist.org/photos/621687155
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621687155/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-jardineii/3.jpg
+  page: https://www.inaturalist.org/photos/628088930
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628088930/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-jardineii/4.jpg
+  page: https://www.inaturalist.org/photos/628752733
+  author: Caroline Voget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628752733/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-jardineii/5.jpg
+  page: https://www.inaturalist.org/photos/647819998
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647819998/original.jpg
 ---
 
 

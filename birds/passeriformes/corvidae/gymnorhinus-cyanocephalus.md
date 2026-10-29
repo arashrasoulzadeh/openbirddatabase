@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/corvidae/gymnorhinus-cyanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/609217114
+  author: rdclark86
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609217114/original.jpg
+images:
+- file: images/passeriformes/corvidae/gymnorhinus-cyanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/609217114
+  author: rdclark86
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609217114/original.jpg
+- file: images/passeriformes/corvidae/gymnorhinus-cyanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/612796105
+  author: Kevin Hovick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612796105/original.jpg
+- file: images/passeriformes/corvidae/gymnorhinus-cyanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/616985555
+  author: GLENN GARDNER
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616985555/original.jpg
+- file: images/passeriformes/corvidae/gymnorhinus-cyanocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/619895406
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619895406/original.jpg
+- file: images/passeriformes/corvidae/gymnorhinus-cyanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/621025981
+  author: Andrew
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621025981/original.jpg
 ---
 
 

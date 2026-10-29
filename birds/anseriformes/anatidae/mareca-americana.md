@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/mareca-americana/1.jpg
+  page: https://www.inaturalist.org/photos/604639846
+  author: Charles Swift
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604639846/original.jpg
+images:
+- file: images/anseriformes/anatidae/mareca-americana/1.jpg
+  page: https://www.inaturalist.org/photos/604639846
+  author: Charles Swift
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604639846/original.jpg
+- file: images/anseriformes/anatidae/mareca-americana/2.jpg
+  page: https://www.inaturalist.org/photos/604930940
+  author: Jacob Moyer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604930940/original.jpg
+- file: images/anseriformes/anatidae/mareca-americana/3.jpg
+  page: https://www.inaturalist.org/photos/604970030
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604970030/original.jpg
+- file: images/anseriformes/anatidae/mareca-americana/4.jpg
+  page: https://www.inaturalist.org/photos/604679950
+  author: k7hpn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604679950/original.jpg
+- file: images/anseriformes/anatidae/mareca-americana/5.jpg
+  page: https://www.inaturalist.org/photos/604691873
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604691873/original.jpg
 ---
 
 

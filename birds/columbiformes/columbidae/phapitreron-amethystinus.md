@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/phapitreron-amethystinus/1.jpg
+  page: https://www.inaturalist.org/photos/261837357
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837357/original.jpg
+images:
+- file: images/columbiformes/columbidae/phapitreron-amethystinus/1.jpg
+  page: https://www.inaturalist.org/photos/261837357
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837357/original.jpg
+- file: images/columbiformes/columbidae/phapitreron-amethystinus/2.jpg
+  page: https://www.inaturalist.org/photos/261837386
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837386/original.jpg
+- file: images/columbiformes/columbidae/phapitreron-amethystinus/3.jpg
+  page: https://www.inaturalist.org/photos/261837415
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261837415/original.jpg
+- file: images/columbiformes/columbidae/phapitreron-amethystinus/4.jpg
+  page: https://www.inaturalist.org/photos/261838250
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261838250/original.jpg
+- file: images/columbiformes/columbidae/phapitreron-amethystinus/5.jpg
+  page: https://www.inaturalist.org/photos/304818979
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304818979/original.jpg
 ---
 
 

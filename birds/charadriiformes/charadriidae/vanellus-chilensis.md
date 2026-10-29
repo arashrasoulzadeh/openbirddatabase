@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-chilensis/1.jpg
+  page: https://www.inaturalist.org/photos/605737077
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605737077/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-chilensis/1.jpg
+  page: https://www.inaturalist.org/photos/605737077
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605737077/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-chilensis/2.jpg
+  page: https://www.inaturalist.org/photos/605190471
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605190471/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-chilensis/3.jpg
+  page: https://www.inaturalist.org/photos/604540885
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604540885/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-chilensis/4.jpg
+  page: https://www.inaturalist.org/photos/604588693
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588693/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-chilensis/5.jpg
+  page: https://www.inaturalist.org/photos/605694752
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605694752/original.jpg
 ---
 
 

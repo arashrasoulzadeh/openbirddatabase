@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/microrhopias-quixensis/1.jpg
+  page: https://www.inaturalist.org/photos/609080291
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609080291/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/microrhopias-quixensis/1.jpg
+  page: https://www.inaturalist.org/photos/609080291
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609080291/original.jpg
+- file: images/passeriformes/thamnophilidae/microrhopias-quixensis/2.jpg
+  page: https://www.inaturalist.org/photos/611120166
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611120166/original.jpg
+- file: images/passeriformes/thamnophilidae/microrhopias-quixensis/3.jpg
+  page: https://www.inaturalist.org/photos/614777834
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614777834/original.jpg
+- file: images/passeriformes/thamnophilidae/microrhopias-quixensis/4.jpg
+  page: https://www.inaturalist.org/photos/622954142
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622954142/original.jpg
+- file: images/passeriformes/thamnophilidae/microrhopias-quixensis/5.jpg
+  page: https://www.inaturalist.org/photos/626227578
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626227578/original.jpg
 ---
 
 

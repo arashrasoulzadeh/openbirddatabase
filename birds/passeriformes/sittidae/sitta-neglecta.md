@@ -141,7 +141,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 18.1
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 80.0
   tail_length_mm: 43.9
   body_mass_g: 19.6
+image:
+  file: images/passeriformes/sittidae/sitta-neglecta/1.jpg
+  page: https://www.inaturalist.org/photos/547363582
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547363582/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-neglecta/1.jpg
+  page: https://www.inaturalist.org/photos/547363582
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547363582/original.jpg
+- file: images/passeriformes/sittidae/sitta-neglecta/2.jpg
+  page: https://www.inaturalist.org/photos/388470464
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388470464/original.jpg
+- file: images/passeriformes/sittidae/sitta-neglecta/3.jpg
+  page: https://www.inaturalist.org/photos/343929949
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343929949/original.jpeg
+- file: images/passeriformes/sittidae/sitta-neglecta/4.jpg
+  page: https://www.inaturalist.org/photos/187662162
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187662162/original.jpg
+- file: images/passeriformes/sittidae/sitta-neglecta/5.jpg
+  page: https://www.inaturalist.org/photos/105778053
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778053/original.jpeg
 ---
 
 

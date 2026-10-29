@@ -169,10 +169,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/suliformes/anhingidae/anhinga-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/606214169
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606214169/original.jpg
+images:
+- file: images/suliformes/anhingidae/anhinga-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/606214169
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606214169/original.jpg
+- file: images/suliformes/anhingidae/anhinga-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/609666951
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609666951/original.jpg
+- file: images/suliformes/anhingidae/anhinga-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/625610933
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625610933/original.jpg
+- file: images/suliformes/anhingidae/anhinga-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/610994078
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610994078/original.jpg
 ---
 
 

@@ -135,7 +135,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 29.7
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 133.8
   tail_length_mm: 106.7
   body_mass_g: 68.0
+image:
+  file: images/passeriformes/campephagidae/edolisoma-ostentum/1.jpg
+  page: https://www.inaturalist.org/photos/643663380
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643663380/original.jpg
+images:
+- file: images/passeriformes/campephagidae/edolisoma-ostentum/1.jpg
+  page: https://www.inaturalist.org/photos/643663380
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643663380/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-ostentum/2.jpg
+  page: https://www.inaturalist.org/photos/316277243
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316277243/original.jpeg
+- file: images/passeriformes/campephagidae/edolisoma-ostentum/3.jpg
+  page: https://www.inaturalist.org/photos/643659899
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643659899/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-ostentum/4.jpg
+  page: https://www.inaturalist.org/photos/643660005
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643660005/original.jpg
+- file: images/passeriformes/campephagidae/edolisoma-ostentum/5.jpg
+  page: https://www.inaturalist.org/photos/643660107
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643660107/original.jpg
 ---
 
 

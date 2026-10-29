@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-albiceps/1.jpg
+  page: https://www.inaturalist.org/photos/631142375
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631142375/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-albiceps/1.jpg
+  page: https://www.inaturalist.org/photos/631142375
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631142375/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-albiceps/2.jpg
+  page: https://www.inaturalist.org/photos/637956953
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637956953/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-albiceps/3.jpg
+  page: https://www.inaturalist.org/photos/643895811
+  author: Jonathan Hughes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643895811/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-albiceps/4.jpg
+  page: https://www.inaturalist.org/photos/680305830
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680305830/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-albiceps/5.jpg
+  page: https://www.inaturalist.org/photos/637908416
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637908416/original.jpg
 ---
 
 

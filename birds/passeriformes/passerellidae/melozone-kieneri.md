@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/melozone-kieneri/1.jpg
+  page: https://www.inaturalist.org/photos/654539659
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654539659/original.jpg
+images:
+- file: images/passeriformes/passerellidae/melozone-kieneri/1.jpg
+  page: https://www.inaturalist.org/photos/654539659
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654539659/original.jpg
+- file: images/passeriformes/passerellidae/melozone-kieneri/2.jpg
+  page: https://www.inaturalist.org/photos/672577794
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672577794/original.jpg
+- file: images/passeriformes/passerellidae/melozone-kieneri/3.jpg
+  page: https://www.inaturalist.org/photos/684161615
+  author: Carlos Martínez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684161615/original.jpg
+- file: images/passeriformes/passerellidae/melozone-kieneri/4.jpg
+  page: https://www.inaturalist.org/photos/672577816
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672577816/original.jpg
+- file: images/passeriformes/passerellidae/melozone-kieneri/5.jpg
+  page: https://www.inaturalist.org/photos/672577835
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672577835/original.jpg
 ---
 
 

@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/porphyrolaema-porphyrolaema/1.jpg
+  page: https://www.inaturalist.org/photos/437718921
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437718921/original.jpeg
+images:
+- file: images/passeriformes/cotingidae/porphyrolaema-porphyrolaema/1.jpg
+  page: https://www.inaturalist.org/photos/437718921
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437718921/original.jpeg
+- file: images/passeriformes/cotingidae/porphyrolaema-porphyrolaema/2.jpg
+  page: https://www.inaturalist.org/photos/313524444
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313524444/original.jpg
+- file: images/passeriformes/cotingidae/porphyrolaema-porphyrolaema/3.jpg
+  page: https://www.inaturalist.org/photos/108727468
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108727468/original.jpg
+- file: images/passeriformes/cotingidae/porphyrolaema-porphyrolaema/4.jpg
+  page: https://www.inaturalist.org/photos/611063272
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611063272/original.jpg
+- file: images/passeriformes/cotingidae/porphyrolaema-porphyrolaema/5.jpg
+  page: https://www.inaturalist.org/photos/108727454
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108727454/original.jpg
 ---
 
 

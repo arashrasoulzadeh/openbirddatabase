@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coccycua-pumila/1.jpg
+  page: https://www.inaturalist.org/photos/686311555
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686311555/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coccycua-pumila/1.jpg
+  page: https://www.inaturalist.org/photos/686311555
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686311555/original.jpg
+- file: images/cuculiformes/cuculidae/coccycua-pumila/2.jpg
+  page: https://www.inaturalist.org/photos/699890462
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699890462/original.jpg
+- file: images/cuculiformes/cuculidae/coccycua-pumila/3.jpg
+  page: https://www.inaturalist.org/photos/465613987
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465613987/original.jpg
+- file: images/cuculiformes/cuculidae/coccycua-pumila/4.jpg
+  page: https://www.inaturalist.org/photos/458086071
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458086071/original.jpg
+- file: images/cuculiformes/cuculidae/coccycua-pumila/5.jpg
+  page: https://www.inaturalist.org/photos/255547736
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255547736/original.jpeg
 ---
 
 

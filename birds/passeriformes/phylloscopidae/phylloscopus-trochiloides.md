@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-trochiloides/1.jpg
+  page: https://www.inaturalist.org/photos/627272551
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627272551/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochiloides/1.jpg
+  page: https://www.inaturalist.org/photos/627272551
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627272551/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochiloides/2.jpg
+  page: https://www.inaturalist.org/photos/719479250
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719479250/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochiloides/3.jpg
+  page: https://www.inaturalist.org/photos/625288899
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625288899/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochiloides/4.jpg
+  page: https://www.inaturalist.org/photos/658131607
+  author: Евгений Маринкин
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658131607/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-trochiloides/5.jpg
+  page: https://www.inaturalist.org/photos/659796273
+  author: Марат Адиев
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659796273/original.jpg
 ---
 
 

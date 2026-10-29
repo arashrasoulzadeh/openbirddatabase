@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/iduna-natalensis/1.jpg
+  page: https://www.inaturalist.org/photos/734311120
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734311120/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/iduna-natalensis/1.jpg
+  page: https://www.inaturalist.org/photos/734311120
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734311120/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-natalensis/2.jpg
+  page: https://www.inaturalist.org/photos/591213451
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591213451/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-natalensis/3.jpg
+  page: https://www.inaturalist.org/photos/578094399
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578094399/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-natalensis/4.jpg
+  page: https://www.inaturalist.org/photos/394719338
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394719338/original.jpeg
+- file: images/passeriformes/acrocephalidae/iduna-natalensis/5.jpg
+  page: https://www.inaturalist.org/photos/393617899
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393617899/original.jpeg
 ---
 
 

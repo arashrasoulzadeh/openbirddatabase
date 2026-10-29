@@ -182,8 +182,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/ciconiiformes/ciconiidae/ciconia-microscelis/1.jpg
+  page: https://www.inaturalist.org/photos/611009921
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611009921/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/ciconia-microscelis/1.jpg
+  page: https://www.inaturalist.org/photos/611009921
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611009921/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-microscelis/2.jpg
+  page: https://www.inaturalist.org/photos/609866138
+  author: Wynand Uys
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609866138/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-microscelis/3.jpg
+  page: https://www.inaturalist.org/photos/613861888
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613861888/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-microscelis/4.jpg
+  page: https://www.inaturalist.org/photos/617466532
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617466532/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-microscelis/5.jpg
+  page: https://www.inaturalist.org/photos/619851284
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851284/original.jpg
 ---
 
 

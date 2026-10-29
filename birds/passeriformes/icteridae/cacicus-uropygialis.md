@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/cacicus-uropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/610816559
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610816559/original.jpg
+images:
+- file: images/passeriformes/icteridae/cacicus-uropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/610816559
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610816559/original.jpg
+- file: images/passeriformes/icteridae/cacicus-uropygialis/2.jpg
+  page: https://www.inaturalist.org/photos/609211907
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609211907/original.jpg
+- file: images/passeriformes/icteridae/cacicus-uropygialis/3.jpg
+  page: https://www.inaturalist.org/photos/614777952
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614777952/original.jpg
+- file: images/passeriformes/icteridae/cacicus-uropygialis/4.jpg
+  page: https://www.inaturalist.org/photos/625812052
+  author: Eric Klug
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625812052/original.jpg
+- file: images/passeriformes/icteridae/cacicus-uropygialis/5.jpg
+  page: https://www.inaturalist.org/photos/634708857
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634708857/original.jpg
 ---
 
 

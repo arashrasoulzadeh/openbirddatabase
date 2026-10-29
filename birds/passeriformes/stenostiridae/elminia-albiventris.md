@@ -148,8 +148,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/stenostiridae/elminia-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/602405687
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602405687/original.jpg
+images:
+- file: images/passeriformes/stenostiridae/elminia-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/602405687
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602405687/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albiventris/2.jpg
+  page: https://www.inaturalist.org/photos/395159922
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395159922/original.jpg
 ---
 
 

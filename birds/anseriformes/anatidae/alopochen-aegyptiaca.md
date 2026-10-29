@@ -181,10 +181,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/anseriformes/anatidae/alopochen-aegyptiaca/1.jpg
+  page: https://www.inaturalist.org/photos/605113120
+  author: Marco Zaccaria Di Fraia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605113120/original.jpg
+images:
+- file: images/anseriformes/anatidae/alopochen-aegyptiaca/1.jpg
+  page: https://www.inaturalist.org/photos/605113120
+  author: Marco Zaccaria Di Fraia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605113120/original.jpg
+- file: images/anseriformes/anatidae/alopochen-aegyptiaca/2.jpg
+  page: https://www.inaturalist.org/photos/604760002
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604760002/original.jpg
+- file: images/anseriformes/anatidae/alopochen-aegyptiaca/3.jpg
+  page: https://www.inaturalist.org/photos/605428146
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605428146/original.jpg
+- file: images/anseriformes/anatidae/alopochen-aegyptiaca/4.jpg
+  page: https://www.inaturalist.org/photos/604469666
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604469666/original.jpg
+- file: images/anseriformes/anatidae/alopochen-aegyptiaca/5.jpg
+  page: https://www.inaturalist.org/photos/605056983
+  author: orionid
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605056983/original.jpg
 ---
 
 

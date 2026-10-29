@@ -190,10 +190,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-troglodytes/1.jpg
+  page: https://www.inaturalist.org/photos/605050376
+  author: Christophe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605050376/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-troglodytes/1.jpg
+  page: https://www.inaturalist.org/photos/605050376
+  author: Christophe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605050376/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-troglodytes/2.jpg
+  page: https://www.inaturalist.org/photos/604775736
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604775736/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-troglodytes/3.jpg
+  page: https://www.inaturalist.org/photos/604790840
+  author: Melanie Stanton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604790840/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-troglodytes/4.jpg
+  page: https://www.inaturalist.org/photos/605085986
+  author: Andrew Cunnington
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605085986/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-troglodytes/5.jpg
+  page: https://www.inaturalist.org/photos/605649131
+  author: Bernd De Bosscher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605649131/original.jpg
 ---
 
 

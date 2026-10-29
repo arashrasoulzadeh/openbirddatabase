@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/ramphastos-brevis/1.jpg
+  page: https://www.inaturalist.org/photos/620947390
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620947390/original.jpg
+images:
+- file: images/piciformes/ramphastidae/ramphastos-brevis/1.jpg
+  page: https://www.inaturalist.org/photos/620947390
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620947390/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-brevis/2.jpg
+  page: https://www.inaturalist.org/photos/618275451
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618275451/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-brevis/3.jpg
+  page: https://www.inaturalist.org/photos/631057385
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631057385/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-brevis/4.jpg
+  page: https://www.inaturalist.org/photos/652849098
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652849098/original.jpg
+- file: images/piciformes/ramphastidae/ramphastos-brevis/5.jpg
+  page: https://www.inaturalist.org/photos/461645365
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461645365/original.jpeg
 ---
 
 

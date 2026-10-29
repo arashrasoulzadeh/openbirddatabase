@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/malacoptila-striata/1.jpg
+  page: https://www.inaturalist.org/photos/716446883
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716446883/original.jpg
+images:
+- file: images/piciformes/bucconidae/malacoptila-striata/1.jpg
+  page: https://www.inaturalist.org/photos/716446883
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716446883/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-striata/2.jpg
+  page: https://www.inaturalist.org/photos/720333642
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720333642/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-striata/3.jpg
+  page: https://www.inaturalist.org/photos/641987141
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641987141/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-striata/4.jpg
+  page: https://www.inaturalist.org/photos/642905301
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642905301/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-striata/5.jpg
+  page: https://www.inaturalist.org/photos/660390973
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660390973/original.jpg
 ---
 
 

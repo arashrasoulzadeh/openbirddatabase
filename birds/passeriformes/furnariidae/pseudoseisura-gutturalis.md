@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/pseudoseisura-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/615388360
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388360/original.jpg
+images:
+- file: images/passeriformes/furnariidae/pseudoseisura-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/615388360
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615388360/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-gutturalis/2.jpg
+  page: https://www.inaturalist.org/photos/628607065
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628607065/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-gutturalis/3.jpg
+  page: https://www.inaturalist.org/photos/741891741
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741891741/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-gutturalis/4.jpg
+  page: https://www.inaturalist.org/photos/465458543
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465458543/original.jpg
+- file: images/passeriformes/furnariidae/pseudoseisura-gutturalis/5.jpg
+  page: https://www.inaturalist.org/photos/503927490
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503927490/original.jpeg
 ---
 
 

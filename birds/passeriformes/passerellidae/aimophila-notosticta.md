@@ -135,10 +135,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/passerellidae/aimophila-notosticta/1.jpg
+  page: https://www.inaturalist.org/photos/665343413
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343413/original.jpg
+images:
+- file: images/passeriformes/passerellidae/aimophila-notosticta/1.jpg
+  page: https://www.inaturalist.org/photos/665343413
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343413/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-notosticta/2.jpg
+  page: https://www.inaturalist.org/photos/655969381
+  author: Megan Ralph
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655969381/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-notosticta/3.jpg
+  page: https://www.inaturalist.org/photos/657004443
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657004443/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-notosticta/4.jpg
+  page: https://www.inaturalist.org/photos/482029943
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482029943/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-notosticta/5.jpg
+  page: https://www.inaturalist.org/photos/252724024
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252724024/original.jpeg
 ---
 
 

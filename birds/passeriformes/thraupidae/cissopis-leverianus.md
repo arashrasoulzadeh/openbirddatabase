@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/cissopis-leverianus/1.jpg
+  page: https://www.inaturalist.org/photos/609321471
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321471/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cissopis-leverianus/1.jpg
+  page: https://www.inaturalist.org/photos/609321471
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321471/original.jpg
+- file: images/passeriformes/thraupidae/cissopis-leverianus/2.jpg
+  page: https://www.inaturalist.org/photos/729955850
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729955850/original.jpg
+- file: images/passeriformes/thraupidae/cissopis-leverianus/3.jpg
+  page: https://www.inaturalist.org/photos/634743459
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634743459/original.jpg
+- file: images/passeriformes/thraupidae/cissopis-leverianus/4.jpg
+  page: https://www.inaturalist.org/photos/648921999
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648921999/original.jpg
+- file: images/passeriformes/thraupidae/cissopis-leverianus/5.jpg
+  page: https://www.inaturalist.org/photos/686435387
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686435387/original.jpg
 ---
 
 

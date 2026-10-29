@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/galbula-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/604588673
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588673/original.jpg
+images:
+- file: images/piciformes/galbulidae/galbula-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/604588673
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588673/original.jpg
+- file: images/piciformes/galbulidae/galbula-ruficauda/2.jpg
+  page: https://www.inaturalist.org/photos/605651566
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605651566/original.jpg
+- file: images/piciformes/galbulidae/galbula-ruficauda/3.jpg
+  page: https://www.inaturalist.org/photos/606014694
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606014694/original.jpg
+- file: images/piciformes/galbulidae/galbula-ruficauda/4.jpg
+  page: https://www.inaturalist.org/photos/610877718
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610877718/original.jpg
+- file: images/piciformes/galbulidae/galbula-ruficauda/5.jpg
+  page: https://www.inaturalist.org/photos/607947187
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607947187/original.jpg
 ---
 
 

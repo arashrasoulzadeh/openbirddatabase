@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-connivens/1.jpg
+  page: https://www.inaturalist.org/photos/610510358
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510358/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-connivens/1.jpg
+  page: https://www.inaturalist.org/photos/610510358
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510358/original.jpg
+- file: images/strigiformes/strigidae/ninox-connivens/2.jpg
+  page: https://www.inaturalist.org/photos/607590606
+  author: Marilyn Connell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607590606/original.jpg
+- file: images/strigiformes/strigidae/ninox-connivens/3.jpg
+  page: https://www.inaturalist.org/photos/613852745
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613852745/original.jpg
+- file: images/strigiformes/strigidae/ninox-connivens/4.jpg
+  page: https://www.inaturalist.org/photos/612814999
+  author: Matthew Lincoln
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612814999/original.jpg
+- file: images/strigiformes/strigidae/ninox-connivens/5.jpg
+  page: https://www.inaturalist.org/photos/698260871
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698260871/original.jpg
 ---
 
 

@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-haemacephalus/1.jpg
+  page: https://www.inaturalist.org/photos/605249918
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605249918/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-haemacephalus/1.jpg
+  page: https://www.inaturalist.org/photos/605249918
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605249918/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-haemacephalus/2.jpg
+  page: https://www.inaturalist.org/photos/608803726
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608803726/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-haemacephalus/3.jpg
+  page: https://www.inaturalist.org/photos/608191558
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608191558/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-haemacephalus/4.jpg
+  page: https://www.inaturalist.org/photos/608897892
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608897892/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-haemacephalus/5.jpg
+  page: https://www.inaturalist.org/photos/610690334
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610690334/original.jpg
 ---
 
 

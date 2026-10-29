@@ -133,8 +133,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/264807621
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264807621/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/264807621
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264807621/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albiventris/2.jpg
+  page: https://www.inaturalist.org/photos/264807634
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264807634/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albiventris/3.jpg
+  page: https://www.inaturalist.org/photos/209135368
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/209135368/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albiventris/4.jpg
+  page: https://www.inaturalist.org/photos/209135388
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/209135388/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albiventris/5.jpg
+  page: https://www.inaturalist.org/photos/236188592
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236188592/original.jpg
 ---
 
 

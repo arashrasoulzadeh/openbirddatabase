@@ -134,8 +134,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/lalage-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/181197576
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181197576/original.jpg
+images:
+- file: images/passeriformes/campephagidae/lalage-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/181197576
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181197576/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melanoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/220581848
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220581848/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melanoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/220581865
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220581865/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melanoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/220581884
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220581884/original.jpg
 ---
 
 

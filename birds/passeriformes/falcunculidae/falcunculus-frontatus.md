@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/falcunculidae/falcunculus-frontatus/1.jpg
+  page: https://www.inaturalist.org/photos/606117418
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606117418/original.jpg
+images:
+- file: images/passeriformes/falcunculidae/falcunculus-frontatus/1.jpg
+  page: https://www.inaturalist.org/photos/606117418
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606117418/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-frontatus/2.jpg
+  page: https://www.inaturalist.org/photos/617708459
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617708459/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-frontatus/3.jpg
+  page: https://www.inaturalist.org/photos/624918451
+  author: Samuel Frankel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624918451/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-frontatus/4.jpg
+  page: https://www.inaturalist.org/photos/636330143
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636330143/original.jpg
+- file: images/passeriformes/falcunculidae/falcunculus-frontatus/5.jpg
+  page: https://www.inaturalist.org/photos/643131637
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643131637/original.jpg
 ---
 
 

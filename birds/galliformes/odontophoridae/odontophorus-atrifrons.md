@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/odontophorus-atrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/541866420
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541866420/original.jpg
+images:
+- file: images/galliformes/odontophoridae/odontophorus-atrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/541866420
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541866420/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-atrifrons/2.jpg
+  page: https://www.inaturalist.org/photos/264309603
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264309603/original.jpeg
+- file: images/galliformes/odontophoridae/odontophorus-atrifrons/3.jpg
+  page: https://www.inaturalist.org/photos/522973552
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522973552/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-atrifrons/4.jpg
+  page: https://www.inaturalist.org/photos/62337158
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62337158/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-atrifrons/5.jpg
+  page: https://www.inaturalist.org/photos/182696497
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182696497/original.jpg
 ---
 
 

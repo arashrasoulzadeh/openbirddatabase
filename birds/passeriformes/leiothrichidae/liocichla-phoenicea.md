@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/liocichla-phoenicea/1.jpg
+  page: https://www.inaturalist.org/photos/721132368
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721132368/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/liocichla-phoenicea/1.jpg
+  page: https://www.inaturalist.org/photos/721132368
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721132368/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-phoenicea/2.jpg
+  page: https://www.inaturalist.org/photos/364929584
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364929584/original.jpeg
+- file: images/passeriformes/leiothrichidae/liocichla-phoenicea/3.jpg
+  page: https://www.inaturalist.org/photos/721132752
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721132752/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-phoenicea/4.jpg
+  page: https://www.inaturalist.org/photos/721132685
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721132685/original.jpg
+- file: images/passeriformes/leiothrichidae/liocichla-phoenicea/5.jpg
+  page: https://www.inaturalist.org/photos/428912018
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428912018/original.jpg
 ---
 
 

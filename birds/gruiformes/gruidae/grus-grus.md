@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/gruiformes/gruidae/grus-grus/1.jpg
+  page: https://www.inaturalist.org/photos/609683304
+  author: Sylvie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609683304/original.jpg
+images:
+- file: images/gruiformes/gruidae/grus-grus/1.jpg
+  page: https://www.inaturalist.org/photos/609683304
+  author: Sylvie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609683304/original.jpg
+- file: images/gruiformes/gruidae/grus-grus/2.jpg
+  page: https://www.inaturalist.org/photos/607422789
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607422789/original.jpg
+- file: images/gruiformes/gruidae/grus-grus/3.jpg
+  page: https://www.inaturalist.org/photos/609995403
+  author: Marco Lipka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609995403/original.jpg
+- file: images/gruiformes/gruidae/grus-grus/4.jpg
+  page: https://www.inaturalist.org/photos/606257955
+  author: francesco valle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606257955/original.jpg
+- file: images/gruiformes/gruidae/grus-grus/5.jpg
+  page: https://www.inaturalist.org/photos/610486512
+  author: olmagon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610486512/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-doreya/1.jpg
+  page: https://www.inaturalist.org/photos/710683942
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710683942/original.jpg
+images:
+- file: images/columbiformes/columbidae/macropygia-doreya/1.jpg
+  page: https://www.inaturalist.org/photos/710683942
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710683942/original.jpg
+- file: images/columbiformes/columbidae/macropygia-doreya/2.jpg
+  page: https://www.inaturalist.org/photos/466735955
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466735955/original.jpeg
+- file: images/columbiformes/columbidae/macropygia-doreya/3.jpg
+  page: https://www.inaturalist.org/photos/526014987
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014987/original.jpg
+- file: images/columbiformes/columbidae/macropygia-doreya/4.jpg
+  page: https://www.inaturalist.org/photos/482202239
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482202239/original.jpeg
+- file: images/columbiformes/columbidae/macropygia-doreya/5.jpg
+  page: https://www.inaturalist.org/photos/566196715
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566196715/original.jpg
 ---
 
 

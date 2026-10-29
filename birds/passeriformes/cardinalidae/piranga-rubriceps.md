@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/piranga-rubriceps/1.jpg
+  page: https://www.inaturalist.org/photos/246469294
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246469294/original.jpeg
+images:
+- file: images/passeriformes/cardinalidae/piranga-rubriceps/1.jpg
+  page: https://www.inaturalist.org/photos/246469294
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246469294/original.jpeg
+- file: images/passeriformes/cardinalidae/piranga-rubriceps/2.jpg
+  page: https://www.inaturalist.org/photos/103073770
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103073770/original.jpeg
+- file: images/passeriformes/cardinalidae/piranga-rubriceps/3.jpg
+  page: https://www.inaturalist.org/photos/107039744
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107039744/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-rubriceps/4.jpg
+  page: https://www.inaturalist.org/photos/107700900
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107700900/original.jpg
+- file: images/passeriformes/cardinalidae/piranga-rubriceps/5.jpg
+  page: https://www.inaturalist.org/photos/70792676
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70792676/original.jpg
 ---
 
 

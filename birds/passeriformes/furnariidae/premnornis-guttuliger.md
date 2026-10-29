@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/premnornis-guttuliger/1.jpg
+  page: https://www.inaturalist.org/photos/347359615
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347359615/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/premnornis-guttuliger/1.jpg
+  page: https://www.inaturalist.org/photos/347359615
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347359615/original.jpeg
+- file: images/passeriformes/furnariidae/premnornis-guttuliger/2.jpg
+  page: https://www.inaturalist.org/photos/421796839
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/421796839/original.jpeg
+- file: images/passeriformes/furnariidae/premnornis-guttuliger/3.jpg
+  page: https://www.inaturalist.org/photos/255878737
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255878737/original.jpeg
+- file: images/passeriformes/furnariidae/premnornis-guttuliger/4.jpg
+  page: https://www.inaturalist.org/photos/339616943
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339616943/original.jpg
+- file: images/passeriformes/furnariidae/premnornis-guttuliger/5.jpg
+  page: https://www.inaturalist.org/photos/238333263
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238333263/original.jpeg
 ---
 
 

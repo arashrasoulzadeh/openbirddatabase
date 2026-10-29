@@ -137,10 +137,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/tarphonomus-harterti/1.jpg
+  page: https://www.inaturalist.org/photos/584080183
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584080183/original.jpg
+images:
+- file: images/passeriformes/furnariidae/tarphonomus-harterti/1.jpg
+  page: https://www.inaturalist.org/photos/584080183
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584080183/original.jpg
+- file: images/passeriformes/furnariidae/tarphonomus-harterti/2.jpg
+  page: https://www.inaturalist.org/photos/444854892
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444854892/original.jpeg
+- file: images/passeriformes/furnariidae/tarphonomus-harterti/3.jpg
+  page: https://www.inaturalist.org/photos/217570002
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/217570002/original.jpg
+- file: images/passeriformes/furnariidae/tarphonomus-harterti/4.jpg
+  page: https://www.inaturalist.org/photos/197497648
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/197497648/original.jpg
+- file: images/passeriformes/furnariidae/tarphonomus-harterti/5.jpg
+  page: https://www.inaturalist.org/photos/316146496
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316146496/original.jpeg
 ---
 
 

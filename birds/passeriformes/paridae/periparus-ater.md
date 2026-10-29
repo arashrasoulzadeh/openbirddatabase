@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/paridae/periparus-ater/1.jpg
+  page: https://www.inaturalist.org/photos/605048452
+  author: Larissa Schatz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605048452/original.jpg
+images:
+- file: images/passeriformes/paridae/periparus-ater/1.jpg
+  page: https://www.inaturalist.org/photos/605048452
+  author: Larissa Schatz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605048452/original.jpg
+- file: images/passeriformes/paridae/periparus-ater/2.jpg
+  page: https://www.inaturalist.org/photos/605413820
+  author: E. A.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605413820/original.jpg
+- file: images/passeriformes/paridae/periparus-ater/3.jpg
+  page: https://www.inaturalist.org/photos/605070137
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605070137/original.jpg
+- file: images/passeriformes/paridae/periparus-ater/4.jpg
+  page: https://www.inaturalist.org/photos/605327490
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605327490/original.jpg
+- file: images/passeriformes/paridae/periparus-ater/5.jpg
+  page: https://www.inaturalist.org/photos/604465852
+  author: Sean Frederick Tuck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604465852/original.jpg
 ---
 
 

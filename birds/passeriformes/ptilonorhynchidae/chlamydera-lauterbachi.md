@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptilonorhynchidae/chlamydera-lauterbachi/1.jpg
+  page: https://www.inaturalist.org/photos/705858928
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705858928/original.jpg
+images:
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-lauterbachi/1.jpg
+  page: https://www.inaturalist.org/photos/705858928
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705858928/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-lauterbachi/2.jpg
+  page: https://www.inaturalist.org/photos/226706030
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226706030/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-lauterbachi/3.jpg
+  page: https://www.inaturalist.org/photos/336324573
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336324573/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-lauterbachi/4.jpg
+  page: https://www.inaturalist.org/photos/705858951
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705858951/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-lauterbachi/5.jpg
+  page: https://www.inaturalist.org/photos/705858956
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705858956/original.jpg
 ---
 
 

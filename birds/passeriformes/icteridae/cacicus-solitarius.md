@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/cacicus-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/644504271
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644504271/original.jpg
+images:
+- file: images/passeriformes/icteridae/cacicus-solitarius/1.jpg
+  page: https://www.inaturalist.org/photos/644504271
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644504271/original.jpg
+- file: images/passeriformes/icteridae/cacicus-solitarius/2.jpg
+  page: https://www.inaturalist.org/photos/718628662
+  author: Sebastián Fornés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718628662/original.jpg
+- file: images/passeriformes/icteridae/cacicus-solitarius/3.jpg
+  page: https://www.inaturalist.org/photos/674009984
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674009984/original.jpg
+- file: images/passeriformes/icteridae/cacicus-solitarius/4.jpg
+  page: https://www.inaturalist.org/photos/679697262
+  author: Nico Yak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679697262/original.jpg
+- file: images/passeriformes/icteridae/cacicus-solitarius/5.jpg
+  page: https://www.inaturalist.org/photos/683875235
+  author: Lucila Trussi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683875235/original.jpg
 ---
 
 

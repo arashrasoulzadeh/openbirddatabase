@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-nigrorufa/1.jpg
+  page: https://www.inaturalist.org/photos/462652077
+  author: Siya ul haque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462652077/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-nigrorufa/1.jpg
+  page: https://www.inaturalist.org/photos/462652077
+  author: Siya ul haque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462652077/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-nigrorufa/2.jpg
+  page: https://www.inaturalist.org/photos/517044376
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517044376/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-nigrorufa/3.jpg
+  page: https://www.inaturalist.org/photos/263302590
+  author: Daniel Cahen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263302590/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-nigrorufa/4.jpg
+  page: https://www.inaturalist.org/photos/403200682
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/403200682/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-nigrorufa/5.jpg
+  page: https://www.inaturalist.org/photos/334491754
+  author: Renjith Jacob Mathews
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334491754/original.jpeg
 ---
 
 

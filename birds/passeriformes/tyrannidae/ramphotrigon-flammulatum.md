@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 17.2
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 75.5
   tail_length_mm: 77.7
   body_mass_g: 17.2
+image:
+  file: images/passeriformes/tyrannidae/ramphotrigon-flammulatum/1.jpg
+  page: https://www.inaturalist.org/photos/464132306
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464132306/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/ramphotrigon-flammulatum/1.jpg
+  page: https://www.inaturalist.org/photos/464132306
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464132306/original.jpeg
+- file: images/passeriformes/tyrannidae/ramphotrigon-flammulatum/2.jpg
+  page: https://www.inaturalist.org/photos/403863767
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/403863767/original.jpeg
+- file: images/passeriformes/tyrannidae/ramphotrigon-flammulatum/3.jpg
+  page: https://www.inaturalist.org/photos/463677024
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463677024/original.jpg
+- file: images/passeriformes/tyrannidae/ramphotrigon-flammulatum/4.jpg
+  page: https://www.inaturalist.org/photos/264379072
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264379072/original.jpeg
+- file: images/passeriformes/tyrannidae/ramphotrigon-flammulatum/5.jpg
+  page: https://www.inaturalist.org/photos/13063784
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13063784/original.jpg
 ---
 
 

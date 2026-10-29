@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-mevesii/1.jpg
+  page: https://www.inaturalist.org/photos/615181968
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615181968/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-mevesii/1.jpg
+  page: https://www.inaturalist.org/photos/615181968
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615181968/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-mevesii/2.jpg
+  page: https://www.inaturalist.org/photos/643921876
+  author: Jonathan Hughes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643921876/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-mevesii/3.jpg
+  page: https://www.inaturalist.org/photos/719926614
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719926614/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-mevesii/4.jpg
+  page: https://www.inaturalist.org/photos/741021453
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741021453/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-mevesii/5.jpg
+  page: https://www.inaturalist.org/photos/615182012
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615182012/original.jpg
 ---
 
 

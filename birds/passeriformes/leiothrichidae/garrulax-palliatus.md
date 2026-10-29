@@ -128,8 +128,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/garrulax-palliatus/1.jpg
+  page: https://www.inaturalist.org/photos/620846675
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620846675/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/garrulax-palliatus/1.jpg
+  page: https://www.inaturalist.org/photos/620846675
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620846675/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-palliatus/2.jpg
+  page: https://www.inaturalist.org/photos/649898024
+  author: Andreas Manz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649898024/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-palliatus/3.jpg
+  page: https://www.inaturalist.org/photos/685855677
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685855677/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-palliatus/4.jpg
+  page: https://www.inaturalist.org/photos/473364586
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473364586/original.jpeg
+- file: images/passeriformes/leiothrichidae/garrulax-palliatus/5.jpg
+  page: https://www.inaturalist.org/photos/525192876
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525192876/original.jpg
 ---
 
 

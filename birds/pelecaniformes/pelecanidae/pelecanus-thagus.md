@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/pelecaniformes/pelecanidae/pelecanus-thagus/1.jpg
+  page: https://www.inaturalist.org/photos/607498271
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607498271/original.jpg
+images:
+- file: images/pelecaniformes/pelecanidae/pelecanus-thagus/1.jpg
+  page: https://www.inaturalist.org/photos/607498271
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607498271/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-thagus/2.jpg
+  page: https://www.inaturalist.org/photos/605487060
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487060/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-thagus/3.jpg
+  page: https://www.inaturalist.org/photos/609897106
+  author: Álvaro Parra Valdivia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609897106/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-thagus/4.jpg
+  page: https://www.inaturalist.org/photos/614401787
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614401787/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-thagus/5.jpg
+  page: https://www.inaturalist.org/photos/616457127
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616457127/original.jpg
 ---
 
 

@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/andigena-hypoglauca/1.jpg
+  page: https://www.inaturalist.org/photos/612902449
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612902449/original.jpg
+images:
+- file: images/piciformes/ramphastidae/andigena-hypoglauca/1.jpg
+  page: https://www.inaturalist.org/photos/612902449
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612902449/original.jpg
+- file: images/piciformes/ramphastidae/andigena-hypoglauca/2.jpg
+  page: https://www.inaturalist.org/photos/625025355
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625025355/original.jpg
+- file: images/piciformes/ramphastidae/andigena-hypoglauca/3.jpg
+  page: https://www.inaturalist.org/photos/645705355
+  author: Daniel Nicholson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645705355/original.jpg
+- file: images/piciformes/ramphastidae/andigena-hypoglauca/4.jpg
+  page: https://www.inaturalist.org/photos/652810164
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652810164/original.jpg
+- file: images/piciformes/ramphastidae/andigena-hypoglauca/5.jpg
+  page: https://www.inaturalist.org/photos/724740830
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724740830/original.jpg
 ---
 
 

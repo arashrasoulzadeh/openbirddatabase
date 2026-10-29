@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-synoicus/1.jpg
+  page: https://www.inaturalist.org/photos/464092642
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464092642/original.jpeg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-synoicus/1.jpg
+  page: https://www.inaturalist.org/photos/464092642
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464092642/original.jpeg
+- file: images/passeriformes/fringillidae/carpodacus-synoicus/2.jpg
+  page: https://www.inaturalist.org/photos/587968429
+  author: ringmike
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587968429/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-synoicus/3.jpg
+  page: https://www.inaturalist.org/photos/584225987
+  author: Ben Lyle Bedard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584225987/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-synoicus/4.jpg
+  page: https://www.inaturalist.org/photos/357534314
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357534314/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-synoicus/5.jpg
+  page: https://www.inaturalist.org/photos/179828678
+  author: liam1294
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179828678/original.jpeg
 ---
 
 

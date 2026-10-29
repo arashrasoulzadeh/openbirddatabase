@@ -139,7 +139,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 27.3
@@ -154,6 +155,44 @@ reproduction:
   clutch_size_mean: 4.0
   egg_length_mm: 33.2
   egg_width_mm: 23.6
+image:
+  file: images/charadriiformes/scolopacidae/phalaropus-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/613757969
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613757969/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/phalaropus-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/613757969
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613757969/original.jpg
+- file: images/charadriiformes/scolopacidae/phalaropus-tricolor/2.jpg
+  page: https://www.inaturalist.org/photos/613937531
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613937531/original.jpg
+- file: images/charadriiformes/scolopacidae/phalaropus-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/622975130
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622975130/original.jpg
+- file: images/charadriiformes/scolopacidae/phalaropus-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/631631108
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631631108/original.jpg
+- file: images/charadriiformes/scolopacidae/phalaropus-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/636480741
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636480741/original.jpg
 ---
 
 

@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/petroicidae/melanodryas-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/617712884
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712884/original.jpg
+images:
+- file: images/passeriformes/petroicidae/melanodryas-cucullata/1.jpg
+  page: https://www.inaturalist.org/photos/617712884
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712884/original.jpg
+- file: images/passeriformes/petroicidae/melanodryas-cucullata/2.jpg
+  page: https://www.inaturalist.org/photos/622748927
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748927/original.jpg
+- file: images/passeriformes/petroicidae/melanodryas-cucullata/3.jpg
+  page: https://www.inaturalist.org/photos/636355276
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636355276/original.jpg
+- file: images/passeriformes/petroicidae/melanodryas-cucullata/4.jpg
+  page: https://www.inaturalist.org/photos/617712891
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617712891/original.jpg
+- file: images/passeriformes/petroicidae/melanodryas-cucullata/5.jpg
+  page: https://www.inaturalist.org/photos/636355277
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636355277/original.jpg
 ---
 
 

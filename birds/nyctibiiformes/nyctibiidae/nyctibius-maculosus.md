@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/nyctibiiformes/nyctibiidae/nyctibius-maculosus/1.jpg
+  page: https://www.inaturalist.org/photos/473361384
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473361384/original.jpeg
+images:
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-maculosus/1.jpg
+  page: https://www.inaturalist.org/photos/473361384
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473361384/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-maculosus/2.jpg
+  page: https://www.inaturalist.org/photos/352391324
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352391324/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-maculosus/3.jpg
+  page: https://www.inaturalist.org/photos/137243389
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137243389/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-maculosus/4.jpg
+  page: https://www.inaturalist.org/photos/104840360
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104840360/original.jpeg
+- file: images/nyctibiiformes/nyctibiidae/nyctibius-maculosus/5.jpg
+  page: https://www.inaturalist.org/photos/352391331
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352391331/original.jpeg
 ---
 
 

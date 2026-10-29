@@ -158,10 +158,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/remizidae/remiz-consobrinus/1.jpg
+  page: https://www.inaturalist.org/photos/625675481
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625675481/original.jpg
+images:
+- file: images/passeriformes/remizidae/remiz-consobrinus/1.jpg
+  page: https://www.inaturalist.org/photos/625675481
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625675481/original.jpg
+- file: images/passeriformes/remizidae/remiz-consobrinus/2.jpg
+  page: https://www.inaturalist.org/photos/679284001
+  author: Поляков Александр
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679284001/original.jpg
+- file: images/passeriformes/remizidae/remiz-consobrinus/3.jpg
+  page: https://www.inaturalist.org/photos/464119143
+  author: 黄彦豪
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464119143/original.jpg
+- file: images/passeriformes/remizidae/remiz-consobrinus/4.jpg
+  page: https://www.inaturalist.org/photos/568550331
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568550331/original.jpg
 ---
 
 

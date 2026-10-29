@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/poecilotriccus-calopterus/1.jpg
+  page: https://www.inaturalist.org/photos/332491060
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332491060/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/poecilotriccus-calopterus/1.jpg
+  page: https://www.inaturalist.org/photos/332491060
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332491060/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-calopterus/2.jpg
+  page: https://www.inaturalist.org/photos/239620101
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239620101/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-calopterus/3.jpg
+  page: https://www.inaturalist.org/photos/242803266
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242803266/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-calopterus/4.jpg
+  page: https://www.inaturalist.org/photos/242762158
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242762158/original.jpeg
+- file: images/passeriformes/tyrannidae/poecilotriccus-calopterus/5.jpg
+  page: https://www.inaturalist.org/photos/332491061
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332491061/original.jpeg
 ---
 
 

@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/accipiter-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/630074999
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630074999/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/accipiter-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/630074999
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630074999/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-rufiventris/2.jpg
+  page: https://www.inaturalist.org/photos/716650281
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650281/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-rufiventris/3.jpg
+  page: https://www.inaturalist.org/photos/490068443
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490068443/original.jpeg
+- file: images/accipitriformes/accipitridae/accipiter-rufiventris/4.jpg
+  page: https://www.inaturalist.org/photos/554210383
+  author: Lifa Nkosi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554210383/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-rufiventris/5.jpg
+  page: https://www.inaturalist.org/photos/585770311
+  author: Fred Derks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585770311/original.jpg
 ---
 
 

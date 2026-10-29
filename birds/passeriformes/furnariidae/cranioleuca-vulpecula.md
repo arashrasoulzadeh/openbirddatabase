@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cranioleuca-vulpecula/1.jpg
+  page: https://www.inaturalist.org/photos/78018056
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78018056/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/cranioleuca-vulpecula/1.jpg
+  page: https://www.inaturalist.org/photos/78018056
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78018056/original.jpeg
+- file: images/passeriformes/furnariidae/cranioleuca-vulpecula/2.jpg
+  page: https://www.inaturalist.org/photos/428243090
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428243090/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-vulpecula/3.jpg
+  page: https://www.inaturalist.org/photos/610828684
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610828684/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-vulpecula/4.jpg
+  page: https://www.inaturalist.org/photos/78018069
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78018069/original.jpeg
+- file: images/passeriformes/furnariidae/cranioleuca-vulpecula/5.jpg
+  page: https://www.inaturalist.org/photos/78018086
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/78018086/original.jpeg
 ---
 
 

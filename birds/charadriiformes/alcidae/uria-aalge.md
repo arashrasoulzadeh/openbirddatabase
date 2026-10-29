@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/charadriiformes/alcidae/uria-aalge/1.jpg
+  page: https://www.inaturalist.org/photos/609135092
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609135092/original.jpg
+images:
+- file: images/charadriiformes/alcidae/uria-aalge/1.jpg
+  page: https://www.inaturalist.org/photos/609135092
+  author: Steph Brulot-Sawchyn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609135092/original.jpg
+- file: images/charadriiformes/alcidae/uria-aalge/2.jpg
+  page: https://www.inaturalist.org/photos/608665855
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608665855/original.jpg
+- file: images/charadriiformes/alcidae/uria-aalge/3.jpg
+  page: https://www.inaturalist.org/photos/609137284
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609137284/original.jpg
+- file: images/charadriiformes/alcidae/uria-aalge/4.jpg
+  page: https://www.inaturalist.org/photos/609370911
+  author: Aiva Noringseth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609370911/original.jpg
+- file: images/charadriiformes/alcidae/uria-aalge/5.jpg
+  page: https://www.inaturalist.org/photos/606020100
+  author: Mara Christensen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606020100/original.jpg
 ---
 
 

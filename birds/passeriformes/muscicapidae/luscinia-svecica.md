@@ -185,10 +185,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/muscicapidae/luscinia-svecica/1.jpg
+  page: https://www.inaturalist.org/photos/608572252
+  author: Robert Moorhead
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608572252/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/luscinia-svecica/1.jpg
+  page: https://www.inaturalist.org/photos/608572252
+  author: Robert Moorhead
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608572252/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-svecica/2.jpg
+  page: https://www.inaturalist.org/photos/610605237
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610605237/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-svecica/3.jpg
+  page: https://www.inaturalist.org/photos/607891724
+  author: Jordi Casanovas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607891724/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-svecica/4.jpg
+  page: https://www.inaturalist.org/photos/613927674
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613927674/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-svecica/5.jpg
+  page: https://www.inaturalist.org/photos/614231702
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231702/original.jpg
 ---
 
 

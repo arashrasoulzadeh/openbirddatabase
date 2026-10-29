@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-chloronothos/1.jpg
+  page: https://www.inaturalist.org/photos/528865803
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528865803/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-chloronothos/1.jpg
+  page: https://www.inaturalist.org/photos/528865803
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528865803/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-chloronothos/2.jpg
+  page: https://www.inaturalist.org/photos/291614735
+  author: Charly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/291614735/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-chloronothos/3.jpg
+  page: https://www.inaturalist.org/photos/181408670
+  author: Adam Mark Lucas-Krol
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181408670/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-chloronothos/4.jpg
+  page: https://www.inaturalist.org/photos/608805191
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608805191/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-chloronothos/5.jpg
+  page: https://www.inaturalist.org/photos/528865829
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528865829/original.jpg
 ---
 
 

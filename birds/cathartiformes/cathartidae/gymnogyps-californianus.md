@@ -148,10 +148,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 45
+image:
+  file: images/cathartiformes/cathartidae/gymnogyps-californianus/1.jpg
+  page: https://www.inaturalist.org/photos/611366833
+  author: velodrome
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611366833/original.jpg
+images:
+- file: images/cathartiformes/cathartidae/gymnogyps-californianus/1.jpg
+  page: https://www.inaturalist.org/photos/611366833
+  author: velodrome
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611366833/original.jpg
+- file: images/cathartiformes/cathartidae/gymnogyps-californianus/2.jpg
+  page: https://www.inaturalist.org/photos/608958084
+  author: James Fowler
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608958084/original.jpg
+- file: images/cathartiformes/cathartidae/gymnogyps-californianus/3.jpg
+  page: https://www.inaturalist.org/photos/608958105
+  author: James Fowler
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608958105/original.jpg
+- file: images/cathartiformes/cathartidae/gymnogyps-californianus/4.jpg
+  page: https://www.inaturalist.org/photos/608958129
+  author: James Fowler
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608958129/original.jpg
+- file: images/cathartiformes/cathartidae/gymnogyps-californianus/5.jpg
+  page: https://www.inaturalist.org/photos/608958144
+  author: James Fowler
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608958144/original.jpg
 ---
 
 

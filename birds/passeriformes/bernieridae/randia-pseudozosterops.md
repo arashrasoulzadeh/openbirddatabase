@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/bernieridae/randia-pseudozosterops/1.jpg
+  page: https://www.inaturalist.org/photos/690444099
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690444099/original.jpg
+images:
+- file: images/passeriformes/bernieridae/randia-pseudozosterops/1.jpg
+  page: https://www.inaturalist.org/photos/690444099
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690444099/original.jpg
+- file: images/passeriformes/bernieridae/randia-pseudozosterops/2.jpg
+  page: https://www.inaturalist.org/photos/241516411
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241516411/original.jpg
+- file: images/passeriformes/bernieridae/randia-pseudozosterops/3.jpg
+  page: https://www.inaturalist.org/photos/2947574
+  author: Nick Block
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2947574/original.jpg
+- file: images/passeriformes/bernieridae/randia-pseudozosterops/4.jpg
+  page: https://www.inaturalist.org/photos/242127388
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242127388/original.jpg
+- file: images/passeriformes/bernieridae/randia-pseudozosterops/5.jpg
+  page: https://www.inaturalist.org/photos/241709219
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241709219/original.jpg
 ---
 
 

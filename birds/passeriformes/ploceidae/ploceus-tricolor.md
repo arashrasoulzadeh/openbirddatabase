@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/557859409
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557859409/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/557859409
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557859409/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-tricolor/2.jpg
+  page: https://www.inaturalist.org/photos/248469686
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248469686/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/181206749
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181206749/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/106652728
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106652728/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/557859406
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557859406/original.jpg
 ---
 
 

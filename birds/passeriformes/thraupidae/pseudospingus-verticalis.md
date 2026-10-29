@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/pseudospingus-verticalis/1.jpg
+  page: https://www.inaturalist.org/photos/361096804
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361096804/original.jpg
+images:
+- file: images/passeriformes/thraupidae/pseudospingus-verticalis/1.jpg
+  page: https://www.inaturalist.org/photos/361096804
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361096804/original.jpg
+- file: images/passeriformes/thraupidae/pseudospingus-verticalis/2.jpg
+  page: https://www.inaturalist.org/photos/233305020
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233305020/original.jpeg
+- file: images/passeriformes/thraupidae/pseudospingus-verticalis/3.jpg
+  page: https://www.inaturalist.org/photos/181501828
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181501828/original.jpg
+- file: images/passeriformes/thraupidae/pseudospingus-verticalis/4.jpg
+  page: https://www.inaturalist.org/photos/320292948
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320292948/original.jpg
+- file: images/passeriformes/thraupidae/pseudospingus-verticalis/5.jpg
+  page: https://www.inaturalist.org/photos/361096803
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361096803/original.jpg
 ---
 
 

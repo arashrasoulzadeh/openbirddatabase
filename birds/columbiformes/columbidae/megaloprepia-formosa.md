@@ -136,7 +136,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 18.2
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 141.3
   tail_length_mm: 142.2
   body_mass_g: 118.5
+image:
+  file: images/columbiformes/columbidae/megaloprepia-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/526334281
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334281/original.jpg
+images:
+- file: images/columbiformes/columbidae/megaloprepia-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/526334281
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334281/original.jpg
+- file: images/columbiformes/columbidae/megaloprepia-formosa/2.jpg
+  page: https://www.inaturalist.org/photos/458455243
+  author: Fadzrun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458455243/original.jpeg
+- file: images/columbiformes/columbidae/megaloprepia-formosa/3.jpg
+  page: https://www.inaturalist.org/photos/526334299
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334299/original.jpg
+- file: images/columbiformes/columbidae/megaloprepia-formosa/4.jpg
+  page: https://www.inaturalist.org/photos/526334300
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334300/original.jpg
+- file: images/columbiformes/columbidae/megaloprepia-formosa/5.jpg
+  page: https://www.inaturalist.org/photos/458455247
+  author: Fadzrun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458455247/original.jpeg
 ---
 
 

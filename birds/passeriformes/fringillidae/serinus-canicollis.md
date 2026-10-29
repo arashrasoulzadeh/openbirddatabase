@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/serinus-canicollis/1.jpg
+  page: https://www.inaturalist.org/photos/604418716
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604418716/original.jpg
+images:
+- file: images/passeriformes/fringillidae/serinus-canicollis/1.jpg
+  page: https://www.inaturalist.org/photos/604418716
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604418716/original.jpg
+- file: images/passeriformes/fringillidae/serinus-canicollis/2.jpg
+  page: https://www.inaturalist.org/photos/610621781
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610621781/original.jpg
+- file: images/passeriformes/fringillidae/serinus-canicollis/3.jpg
+  page: https://www.inaturalist.org/photos/606409259
+  author: Kisha Langeveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606409259/original.jpg
+- file: images/passeriformes/fringillidae/serinus-canicollis/4.jpg
+  page: https://www.inaturalist.org/photos/616337444
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616337444/original.jpg
+- file: images/passeriformes/fringillidae/serinus-canicollis/5.jpg
+  page: https://www.inaturalist.org/photos/616139986
+  author: Kobus Meyer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616139986/original.jpg
 ---
 
 

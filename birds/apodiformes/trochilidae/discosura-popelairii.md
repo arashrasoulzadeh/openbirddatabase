@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/discosura-popelairii/1.jpg
+  page: https://www.inaturalist.org/photos/608942425
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608942425/original.jpg
+images:
+- file: images/apodiformes/trochilidae/discosura-popelairii/1.jpg
+  page: https://www.inaturalist.org/photos/608942425
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608942425/original.jpg
+- file: images/apodiformes/trochilidae/discosura-popelairii/2.jpg
+  page: https://www.inaturalist.org/photos/625544757
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625544757/original.jpg
+- file: images/apodiformes/trochilidae/discosura-popelairii/3.jpg
+  page: https://www.inaturalist.org/photos/684068190
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684068190/original.jpg
+- file: images/apodiformes/trochilidae/discosura-popelairii/4.jpg
+  page: https://www.inaturalist.org/photos/552063415
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552063415/original.jpg
+- file: images/apodiformes/trochilidae/discosura-popelairii/5.jpg
+  page: https://www.inaturalist.org/photos/558930296
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558930296/original.jpg
 ---
 
 

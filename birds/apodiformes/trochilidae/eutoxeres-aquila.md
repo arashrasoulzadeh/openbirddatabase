@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eutoxeres-aquila/1.jpg
+  page: https://www.inaturalist.org/photos/613478273
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613478273/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eutoxeres-aquila/1.jpg
+  page: https://www.inaturalist.org/photos/613478273
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613478273/original.jpg
+- file: images/apodiformes/trochilidae/eutoxeres-aquila/2.jpg
+  page: https://www.inaturalist.org/photos/622595320
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622595320/original.jpg
+- file: images/apodiformes/trochilidae/eutoxeres-aquila/3.jpg
+  page: https://www.inaturalist.org/photos/624048050
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624048050/original.jpg
+- file: images/apodiformes/trochilidae/eutoxeres-aquila/4.jpg
+  page: https://www.inaturalist.org/photos/725453670
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725453670/original.jpg
+- file: images/apodiformes/trochilidae/eutoxeres-aquila/5.jpg
+  page: https://www.inaturalist.org/photos/715147950
+  author: Benjamin Hidalgo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715147950/original.jpg
 ---
 
 

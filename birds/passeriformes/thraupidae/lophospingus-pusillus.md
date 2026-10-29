@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/lophospingus-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/607784763
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784763/original.jpg
+images:
+- file: images/passeriformes/thraupidae/lophospingus-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/607784763
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784763/original.jpg
+- file: images/passeriformes/thraupidae/lophospingus-pusillus/2.jpg
+  page: https://www.inaturalist.org/photos/630662939
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630662939/original.jpg
+- file: images/passeriformes/thraupidae/lophospingus-pusillus/3.jpg
+  page: https://www.inaturalist.org/photos/685247232
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685247232/original.jpg
+- file: images/passeriformes/thraupidae/lophospingus-pusillus/4.jpg
+  page: https://www.inaturalist.org/photos/710321865
+  author: diego Hernan Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710321865/original.jpg
+- file: images/passeriformes/thraupidae/lophospingus-pusillus/5.jpg
+  page: https://www.inaturalist.org/photos/468866056
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468866056/original.jpg
 ---
 
 

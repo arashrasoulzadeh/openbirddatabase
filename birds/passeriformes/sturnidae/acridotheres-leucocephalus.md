@@ -136,8 +136,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/acridotheres-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/613884135
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613884135/original.jpg
+images:
+- file: images/passeriformes/sturnidae/acridotheres-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/613884135
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613884135/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-leucocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/623758954
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623758954/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-leucocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/635549863
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635549863/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-leucocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/664485513
+  author: Shane Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664485513/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-leucocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/723809034
+  author: danielarah
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723809034/original.jpg
 ---
 
 

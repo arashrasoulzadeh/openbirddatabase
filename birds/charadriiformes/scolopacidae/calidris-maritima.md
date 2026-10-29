@@ -171,10 +171,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/charadriiformes/scolopacidae/calidris-maritima/1.jpg
+  page: https://www.inaturalist.org/photos/605474676
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474676/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-maritima/1.jpg
+  page: https://www.inaturalist.org/photos/605474676
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605474676/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-maritima/2.jpg
+  page: https://www.inaturalist.org/photos/605050744
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605050744/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-maritima/3.jpg
+  page: https://www.inaturalist.org/photos/605245336
+  author: Jakob Horz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605245336/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-maritima/4.jpg
+  page: https://www.inaturalist.org/photos/609524991
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609524991/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-maritima/5.jpg
+  page: https://www.inaturalist.org/photos/606928369
+  author: Ian Ballam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606928369/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-cucullatus/1.jpg
+  page: https://www.inaturalist.org/photos/470704527
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470704527/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-cucullatus/1.jpg
+  page: https://www.inaturalist.org/photos/470704527
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470704527/original.jpg
+- file: images/passeriformes/fringillidae/spinus-cucullatus/2.jpg
+  page: https://www.inaturalist.org/photos/471482245
+  author: Joseph Greco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471482245/original.jpg
+- file: images/passeriformes/fringillidae/spinus-cucullatus/3.jpg
+  page: https://www.inaturalist.org/photos/466148490
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466148490/original.jpeg
+- file: images/passeriformes/fringillidae/spinus-cucullatus/4.jpg
+  page: https://www.inaturalist.org/photos/249664720
+  author: Aerin Jacob
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249664720/original.jpg
+- file: images/passeriformes/fringillidae/spinus-cucullatus/5.jpg
+  page: https://www.inaturalist.org/photos/73857200
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/73857200/original.jpeg
 ---
 
 

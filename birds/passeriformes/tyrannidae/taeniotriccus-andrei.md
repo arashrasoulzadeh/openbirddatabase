@@ -145,8 +145,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/taeniotriccus-andrei/1.jpg
+  page: https://www.inaturalist.org/photos/435564737
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435564737/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/taeniotriccus-andrei/1.jpg
+  page: https://www.inaturalist.org/photos/435564737
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435564737/original.jpg
+- file: images/passeriformes/tyrannidae/taeniotriccus-andrei/2.jpg
+  page: https://www.inaturalist.org/photos/428788508
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428788508/original.jpg
 ---
 
 

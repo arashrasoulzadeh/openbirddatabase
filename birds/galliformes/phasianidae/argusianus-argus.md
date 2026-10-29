@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/argusianus-argus/1.jpg
+  page: https://www.inaturalist.org/photos/499141496
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499141496/original.jpg
+images:
+- file: images/galliformes/phasianidae/argusianus-argus/1.jpg
+  page: https://www.inaturalist.org/photos/499141496
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499141496/original.jpg
+- file: images/galliformes/phasianidae/argusianus-argus/2.jpg
+  page: https://www.inaturalist.org/photos/508122259
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508122259/original.jpg
+- file: images/galliformes/phasianidae/argusianus-argus/3.jpg
+  page: https://www.inaturalist.org/photos/559158106
+  author: alamettyr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559158106/original.jpg
+- file: images/galliformes/phasianidae/argusianus-argus/4.jpg
+  page: https://www.inaturalist.org/photos/608726544
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608726544/original.jpg
+- file: images/galliformes/phasianidae/argusianus-argus/5.jpg
+  page: https://www.inaturalist.org/photos/499141530
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499141530/original.jpg
 ---
 
 

@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/zapornia-flavirostra/1.jpg
+  page: https://www.inaturalist.org/photos/612626206
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626206/original.jpg
+images:
+- file: images/gruiformes/rallidae/zapornia-flavirostra/1.jpg
+  page: https://www.inaturalist.org/photos/612626206
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626206/original.jpg
+- file: images/gruiformes/rallidae/zapornia-flavirostra/2.jpg
+  page: https://www.inaturalist.org/photos/625272939
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625272939/original.jpg
+- file: images/gruiformes/rallidae/zapornia-flavirostra/3.jpg
+  page: https://www.inaturalist.org/photos/619342668
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619342668/original.jpg
+- file: images/gruiformes/rallidae/zapornia-flavirostra/4.jpg
+  page: https://www.inaturalist.org/photos/636873772
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636873772/original.jpg
+- file: images/gruiformes/rallidae/zapornia-flavirostra/5.jpg
+  page: https://www.inaturalist.org/photos/612626231
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626231/original.jpg
 ---
 
 

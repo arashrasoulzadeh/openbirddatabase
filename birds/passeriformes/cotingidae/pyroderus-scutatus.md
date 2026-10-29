@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/pyroderus-scutatus/1.jpg
+  page: https://www.inaturalist.org/photos/630403394
+  author: EstebanMH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630403394/original.jpg
+images:
+- file: images/passeriformes/cotingidae/pyroderus-scutatus/1.jpg
+  page: https://www.inaturalist.org/photos/630403394
+  author: EstebanMH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630403394/original.jpg
+- file: images/passeriformes/cotingidae/pyroderus-scutatus/2.jpg
+  page: https://www.inaturalist.org/photos/636135738
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636135738/original.jpg
+- file: images/passeriformes/cotingidae/pyroderus-scutatus/3.jpg
+  page: https://www.inaturalist.org/photos/670288554
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670288554/original.jpg
+- file: images/passeriformes/cotingidae/pyroderus-scutatus/4.jpg
+  page: https://www.inaturalist.org/photos/687178391
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687178391/original.jpg
+- file: images/passeriformes/cotingidae/pyroderus-scutatus/5.jpg
+  page: https://www.inaturalist.org/photos/738236098
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738236098/original.jpg
 ---
 
 

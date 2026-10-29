@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/accipiter-poliogaster/1.jpg
+  page: https://www.inaturalist.org/photos/515314497
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515314497/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/accipiter-poliogaster/1.jpg
+  page: https://www.inaturalist.org/photos/515314497
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515314497/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-poliogaster/2.jpg
+  page: https://www.inaturalist.org/photos/137082670
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137082670/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-poliogaster/3.jpg
+  page: https://www.inaturalist.org/photos/19994665
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/19994665/original.jpeg
+- file: images/accipitriformes/accipitridae/accipiter-poliogaster/4.jpg
+  page: https://www.inaturalist.org/photos/585075975
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585075975/original.jpg
+- file: images/accipitriformes/accipitridae/accipiter-poliogaster/5.jpg
+  page: https://www.inaturalist.org/photos/58411800
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/58411800/original.jpg
 ---
 
 

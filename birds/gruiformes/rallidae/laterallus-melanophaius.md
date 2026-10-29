@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/laterallus-melanophaius/1.jpg
+  page: https://www.inaturalist.org/photos/619637406
+  author: Museo CN del depto San Cristobal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619637406/original.jpg
+images:
+- file: images/gruiformes/rallidae/laterallus-melanophaius/1.jpg
+  page: https://www.inaturalist.org/photos/619637406
+  author: Museo CN del depto San Cristobal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619637406/original.jpg
+- file: images/gruiformes/rallidae/laterallus-melanophaius/2.jpg
+  page: https://www.inaturalist.org/photos/622421978
+  author: João Vitor Oliveira de Souza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622421978/original.jpg
+- file: images/gruiformes/rallidae/laterallus-melanophaius/3.jpg
+  page: https://www.inaturalist.org/photos/642924198
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642924198/original.jpg
+- file: images/gruiformes/rallidae/laterallus-melanophaius/4.jpg
+  page: https://www.inaturalist.org/photos/720734895
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720734895/original.jpg
+- file: images/gruiformes/rallidae/laterallus-melanophaius/5.jpg
+  page: https://www.inaturalist.org/photos/628871983
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628871983/original.jpg
 ---
 
 

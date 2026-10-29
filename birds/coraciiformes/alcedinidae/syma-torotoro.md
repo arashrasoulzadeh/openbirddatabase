@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/coraciiformes/alcedinidae/syma-torotoro/1.jpg
+  page: https://www.inaturalist.org/photos/698103949
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698103949/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/syma-torotoro/1.jpg
+  page: https://www.inaturalist.org/photos/698103949
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698103949/original.jpg
+- file: images/coraciiformes/alcedinidae/syma-torotoro/2.jpg
+  page: https://www.inaturalist.org/photos/741562255
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741562255/original.jpg
+- file: images/coraciiformes/alcedinidae/syma-torotoro/3.jpg
+  page: https://www.inaturalist.org/photos/566156229
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566156229/original.jpg
+- file: images/coraciiformes/alcedinidae/syma-torotoro/4.jpg
+  page: https://www.inaturalist.org/photos/638031042
+  author: Melissa Doherty
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638031042/original.jpg
+- file: images/coraciiformes/alcedinidae/syma-torotoro/5.jpg
+  page: https://www.inaturalist.org/photos/577444841
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577444841/original.jpg
 ---
 
 

@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/parulidae/helmitheros-vermivorum/1.jpg
+  page: https://www.inaturalist.org/photos/610553125
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610553125/original.jpg
+images:
+- file: images/passeriformes/parulidae/helmitheros-vermivorum/1.jpg
+  page: https://www.inaturalist.org/photos/610553125
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610553125/original.jpg
+- file: images/passeriformes/parulidae/helmitheros-vermivorum/2.jpg
+  page: https://www.inaturalist.org/photos/615128542
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615128542/original.jpg
+- file: images/passeriformes/parulidae/helmitheros-vermivorum/3.jpg
+  page: https://www.inaturalist.org/photos/616960859
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616960859/original.jpg
+- file: images/passeriformes/parulidae/helmitheros-vermivorum/4.jpg
+  page: https://www.inaturalist.org/photos/630698335
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630698335/original.jpg
+- file: images/passeriformes/parulidae/helmitheros-vermivorum/5.jpg
+  page: https://www.inaturalist.org/photos/630642444
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630642444/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/hylopsar-purpureiceps/1.jpg
+  page: https://www.inaturalist.org/photos/591841539
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591841539/original.jpg
+images:
+- file: images/passeriformes/sturnidae/hylopsar-purpureiceps/1.jpg
+  page: https://www.inaturalist.org/photos/591841539
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591841539/original.jpg
+- file: images/passeriformes/sturnidae/hylopsar-purpureiceps/2.jpg
+  page: https://www.inaturalist.org/photos/257430607
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257430607/original.jpeg
+- file: images/passeriformes/sturnidae/hylopsar-purpureiceps/3.jpg
+  page: https://www.inaturalist.org/photos/42639660
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/42639660/original.jpeg
+- file: images/passeriformes/sturnidae/hylopsar-purpureiceps/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/GabonBiodiversity#5820861981233657698
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223973/original.JPG
+- file: images/passeriformes/sturnidae/hylopsar-purpureiceps/5.jpg
+  page: https://www.inaturalist.org/photos/106015191
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106015191/original.jpg
 ---
 
 

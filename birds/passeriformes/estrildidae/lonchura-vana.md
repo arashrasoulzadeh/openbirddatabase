@@ -133,7 +133,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 9.5
@@ -141,6 +142,38 @@ morphology:
   wing_length_mm: 49.0
   tail_length_mm: 36.0
   body_mass_g: 13.3
+image:
+  file: images/passeriformes/estrildidae/lonchura-vana/1.jpg
+  page: https://www.inaturalist.org/photos/659026289
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659026289/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-vana/1.jpg
+  page: https://www.inaturalist.org/photos/659026289
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659026289/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-vana/2.jpg
+  page: https://www.inaturalist.org/photos/659026498
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659026498/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-vana/3.jpg
+  page: https://www.inaturalist.org/photos/659026781
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659026781/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-vana/4.jpg
+  page: https://www.inaturalist.org/photos/659026787
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659026787/original.jpg
 ---
 
 

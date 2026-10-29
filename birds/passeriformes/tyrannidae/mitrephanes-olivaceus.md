@@ -135,8 +135,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mitrephanes-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/350321337
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350321337/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/mitrephanes-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/350321337
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350321337/original.jpg
+- file: images/passeriformes/tyrannidae/mitrephanes-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/247541239
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247541239/original.jpg
+- file: images/passeriformes/tyrannidae/mitrephanes-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/247541254
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247541254/original.jpg
+- file: images/passeriformes/tyrannidae/mitrephanes-olivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/250470787
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250470787/original.jpg
 ---
 
 

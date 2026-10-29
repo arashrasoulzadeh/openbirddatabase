@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/melidora-macrorrhina/1.jpg
+  page: https://www.inaturalist.org/photos/709471251
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709471251/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/melidora-macrorrhina/1.jpg
+  page: https://www.inaturalist.org/photos/709471251
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709471251/original.jpg
+- file: images/coraciiformes/alcedinidae/melidora-macrorrhina/2.jpg
+  page: https://www.inaturalist.org/photos/451790189
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451790189/original.jpeg
+- file: images/coraciiformes/alcedinidae/melidora-macrorrhina/3.jpg
+  page: https://www.inaturalist.org/photos/82238874
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/82238874/original.jpg
+- file: images/coraciiformes/alcedinidae/melidora-macrorrhina/4.jpg
+  page: https://www.inaturalist.org/photos/314862052
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314862052/original.jpg
+- file: images/coraciiformes/alcedinidae/melidora-macrorrhina/5.jpg
+  page: https://www.inaturalist.org/photos/314862061
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314862061/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-pycrofti/1.jpg
+  page: https://www.inaturalist.org/photos/471455919
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471455919/original.jpeg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-pycrofti/1.jpg
+  page: https://www.inaturalist.org/photos/471455919
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471455919/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-pycrofti/2.jpg
+  page: https://www.inaturalist.org/photos/352545636
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352545636/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-pycrofti/3.jpg
+  page: https://www.inaturalist.org/photos/64676201
+  author: Spencer McIntyre
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64676201/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-pycrofti/4.jpg
+  page: https://www.inaturalist.org/photos/352545650
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352545650/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-pycrofti/5.jpg
+  page: https://www.inaturalist.org/photos/178086418
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178086418/original.jpeg
 ---
 
 

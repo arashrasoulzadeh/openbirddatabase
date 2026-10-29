@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/pica-mauritanica/1.jpg
+  page: https://www.inaturalist.org/photos/618094658
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618094658/original.jpg
+images:
+- file: images/passeriformes/corvidae/pica-mauritanica/1.jpg
+  page: https://www.inaturalist.org/photos/618094658
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618094658/original.jpg
+- file: images/passeriformes/corvidae/pica-mauritanica/2.jpg
+  page: https://www.inaturalist.org/photos/619466020
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619466020/original.jpg
+- file: images/passeriformes/corvidae/pica-mauritanica/3.jpg
+  page: https://www.inaturalist.org/photos/622103243
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622103243/original.jpg
+- file: images/passeriformes/corvidae/pica-mauritanica/4.jpg
+  page: https://www.inaturalist.org/photos/682817714
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682817714/original.jpg
+- file: images/passeriformes/corvidae/pica-mauritanica/5.jpg
+  page: https://www.inaturalist.org/photos/689116617
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689116617/original.jpg
 ---
 
 

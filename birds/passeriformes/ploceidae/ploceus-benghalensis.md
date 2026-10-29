@@ -153,8 +153,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-benghalensis/1.jpg
+  page: https://www.inaturalist.org/photos/466708911
+  author: Naksh Sorathiya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466708911/original.jpeg
+images:
+- file: images/passeriformes/ploceidae/ploceus-benghalensis/1.jpg
+  page: https://www.inaturalist.org/photos/466708911
+  author: Naksh Sorathiya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466708911/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-benghalensis/2.jpg
+  page: https://www.inaturalist.org/photos/481168160
+  author: '@dineshphotography7797'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481168160/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-benghalensis/3.jpg
+  page: https://www.inaturalist.org/photos/534306816
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534306816/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-benghalensis/4.jpg
+  page: https://www.inaturalist.org/photos/534306817
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534306817/original.jpg
 ---
 
 

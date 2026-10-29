@@ -173,10 +173,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 41
+image:
+  file: images/anseriformes/anatidae/anser-brachyrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/605124156
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605124156/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-brachyrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/605124156
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605124156/original.jpg
+- file: images/anseriformes/anatidae/anser-brachyrhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/605750689
+  author: Scott Shanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605750689/original.jpg
+- file: images/anseriformes/anatidae/anser-brachyrhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/607986357
+  author: Pete Bradshaw
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607986357/original.jpg
+- file: images/anseriformes/anatidae/anser-brachyrhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/605933405
+  author: Cara Ennis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605933405/original.jpg
+- file: images/anseriformes/anatidae/anser-brachyrhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/608184145
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608184145/original.jpg
 ---
 
 

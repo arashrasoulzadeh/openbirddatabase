@@ -185,8 +185,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/609904225
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609904225/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-pusilla/1.jpg
+  page: https://www.inaturalist.org/photos/609904225
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609904225/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-pusilla/2.jpg
+  page: https://www.inaturalist.org/photos/609951832
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951832/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-pusilla/3.jpg
+  page: https://www.inaturalist.org/photos/611447147
+  author: Jacob She
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611447147/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-pusilla/4.jpg
+  page: https://www.inaturalist.org/photos/617097029
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617097029/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-pusilla/5.jpg
+  page: https://www.inaturalist.org/photos/623089965
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089965/original.jpg
 ---
 
 

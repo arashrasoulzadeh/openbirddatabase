@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/700160363
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700160363/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/700160363
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700160363/original.jpg
+- file: images/passeriformes/motacillidae/anthus-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/648047382
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648047382/original.jpg
+- file: images/passeriformes/motacillidae/anthus-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/650677809
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650677809/original.jpg
+- file: images/passeriformes/motacillidae/anthus-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/678617505
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678617505/original.jpg
+- file: images/passeriformes/motacillidae/anthus-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/691547805
+  author: Burgert Jordaan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691547805/original.jpg
 ---
 
 

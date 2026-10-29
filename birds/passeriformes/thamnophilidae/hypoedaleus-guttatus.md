@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hypoedaleus-guttatus/1.jpg
+  page: https://www.inaturalist.org/photos/610948592
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610948592/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hypoedaleus-guttatus/1.jpg
+  page: https://www.inaturalist.org/photos/610948592
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610948592/original.jpg
+- file: images/passeriformes/thamnophilidae/hypoedaleus-guttatus/2.jpg
+  page: https://www.inaturalist.org/photos/616201766
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201766/original.jpg
+- file: images/passeriformes/thamnophilidae/hypoedaleus-guttatus/3.jpg
+  page: https://www.inaturalist.org/photos/729140514
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729140514/original.jpg
+- file: images/passeriformes/thamnophilidae/hypoedaleus-guttatus/4.jpg
+  page: https://www.inaturalist.org/photos/643159781
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643159781/original.jpg
+- file: images/passeriformes/thamnophilidae/hypoedaleus-guttatus/5.jpg
+  page: https://www.inaturalist.org/photos/686164534
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686164534/original.jpg
 ---
 
 

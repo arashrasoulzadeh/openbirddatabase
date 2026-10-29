@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/malimbus-nitens/1.jpg
+  page: https://www.inaturalist.org/photos/480814311
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480814311/original.jpeg
+images:
+- file: images/passeriformes/ploceidae/malimbus-nitens/1.jpg
+  page: https://www.inaturalist.org/photos/480814311
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480814311/original.jpeg
+- file: images/passeriformes/ploceidae/malimbus-nitens/2.jpg
+  page: https://www.inaturalist.org/photos/353545415
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353545415/original.png
+- file: images/passeriformes/ploceidae/malimbus-nitens/3.jpg
+  page: https://www.inaturalist.org/photos/183903253
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/183903253/original.jpeg
+- file: images/passeriformes/ploceidae/malimbus-nitens/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222263268595108034
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732907/original.JPG
+- file: images/passeriformes/ploceidae/malimbus-nitens/5.jpg
+  page: https://www.inaturalist.org/photos/470067618
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470067618/original.jpg
 ---
 
 

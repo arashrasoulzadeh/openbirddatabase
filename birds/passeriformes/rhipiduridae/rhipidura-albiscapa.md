@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-albiscapa/1.jpg
+  page: https://www.inaturalist.org/photos/605257964
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605257964/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-albiscapa/1.jpg
+  page: https://www.inaturalist.org/photos/605257964
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605257964/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albiscapa/2.jpg
+  page: https://www.inaturalist.org/photos/609418399
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609418399/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albiscapa/3.jpg
+  page: https://www.inaturalist.org/photos/606086753
+  author: SatNavSaysStraightOn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606086753/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albiscapa/4.jpg
+  page: https://www.inaturalist.org/photos/607070391
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607070391/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albiscapa/5.jpg
+  page: https://www.inaturalist.org/photos/605825498
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605825498/original.jpg
 ---
 
 

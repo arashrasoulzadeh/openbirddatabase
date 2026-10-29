@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-schistaceus/1.jpg
+  page: https://www.inaturalist.org/photos/333529275
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333529275/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-schistaceus/1.jpg
+  page: https://www.inaturalist.org/photos/333529275
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333529275/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-schistaceus/2.jpg
+  page: https://www.inaturalist.org/photos/8536861
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8536861/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-schistaceus/3.jpg
+  page: https://www.inaturalist.org/photos/600652972
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600652972/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-schistaceus/4.jpg
+  page: https://www.inaturalist.org/photos/333529742
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333529742/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-schistaceus/5.jpg
+  page: https://www.inaturalist.org/photos/333529809
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333529809/original.jpeg
 ---
 
 

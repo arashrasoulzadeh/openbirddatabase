@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/mimidae/toxostoma-lecontei/1.jpg
+  page: https://www.inaturalist.org/photos/723897614
+  author: MarvalPhotography19
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723897614/original.jpg
+images:
+- file: images/passeriformes/mimidae/toxostoma-lecontei/1.jpg
+  page: https://www.inaturalist.org/photos/723897614
+  author: MarvalPhotography19
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723897614/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-lecontei/2.jpg
+  page: https://www.inaturalist.org/photos/666107457
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666107457/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-lecontei/3.jpg
+  page: https://www.inaturalist.org/photos/485328406
+  author: kclarksdnhmorg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485328406/original.jpeg
+- file: images/passeriformes/mimidae/toxostoma-lecontei/4.jpg
+  page: https://www.inaturalist.org/photos/580038439
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580038439/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-lecontei/5.jpg
+  page: https://www.inaturalist.org/photos/696789774
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696789774/original.jpg
 ---
 
 

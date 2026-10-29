@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/bucanetes-mongolicus/1.jpg
+  page: https://www.inaturalist.org/photos/651518953
+  author: Вячеслав Юсупов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651518953/original.jpg
+images:
+- file: images/passeriformes/fringillidae/bucanetes-mongolicus/1.jpg
+  page: https://www.inaturalist.org/photos/651518953
+  author: Вячеслав Юсупов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651518953/original.jpg
+- file: images/passeriformes/fringillidae/bucanetes-mongolicus/2.jpg
+  page: https://www.inaturalist.org/photos/705026584
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705026584/original.jpg
+- file: images/passeriformes/fringillidae/bucanetes-mongolicus/3.jpg
+  page: https://www.inaturalist.org/photos/695661873
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695661873/original.jpg
+- file: images/passeriformes/fringillidae/bucanetes-mongolicus/4.jpg
+  page: https://www.inaturalist.org/photos/721832091
+  author: Graham Whittaker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721832091/original.jpg
+- file: images/passeriformes/fringillidae/bucanetes-mongolicus/5.jpg
+  page: https://www.inaturalist.org/photos/591650224
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591650224/original.jpg
 ---
 
 

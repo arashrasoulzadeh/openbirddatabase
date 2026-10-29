@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/niltava-sundara/1.jpg
+  page: https://www.inaturalist.org/photos/610120226
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610120226/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/niltava-sundara/1.jpg
+  page: https://www.inaturalist.org/photos/610120226
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610120226/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-sundara/2.jpg
+  page: https://www.inaturalist.org/photos/726258364
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726258364/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-sundara/3.jpg
+  page: https://www.inaturalist.org/photos/615203856
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615203856/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-sundara/4.jpg
+  page: https://www.inaturalist.org/photos/623842447
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623842447/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-sundara/5.jpg
+  page: https://www.inaturalist.org/photos/660816861
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660816861/original.jpg
 ---
 
 

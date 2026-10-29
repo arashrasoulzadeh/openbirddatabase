@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rallus-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/627099793
+  author: johanj56
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627099793/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallus-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/627099793
+  author: johanj56
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627099793/original.jpg
+- file: images/gruiformes/rallidae/rallus-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/639335728
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639335728/original.jpg
+- file: images/gruiformes/rallidae/rallus-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/255841810
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255841810/original.jpeg
+- file: images/gruiformes/rallidae/rallus-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/312322609
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/312322609/original.jpeg
+- file: images/gruiformes/rallidae/rallus-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/192491414
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/192491414/original.jpeg
 ---
 
 

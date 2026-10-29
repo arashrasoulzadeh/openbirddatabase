@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/pygarrhichas-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/609144708
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609144708/original.jpg
+images:
+- file: images/passeriformes/furnariidae/pygarrhichas-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/609144708
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609144708/original.jpg
+- file: images/passeriformes/furnariidae/pygarrhichas-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/613316905
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613316905/original.jpg
+- file: images/passeriformes/furnariidae/pygarrhichas-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/616439238
+  author: Cesar Ormazabal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616439238/original.jpg
+- file: images/passeriformes/furnariidae/pygarrhichas-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/616158123
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616158123/original.jpg
+- file: images/passeriformes/furnariidae/pygarrhichas-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/647149647
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647149647/original.jpg
 ---
 
 

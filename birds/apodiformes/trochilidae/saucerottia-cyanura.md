@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/saucerottia-cyanura/1.jpg
+  page: https://www.inaturalist.org/photos/605152888
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605152888/original.jpg
+images:
+- file: images/apodiformes/trochilidae/saucerottia-cyanura/1.jpg
+  page: https://www.inaturalist.org/photos/605152888
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605152888/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-cyanura/2.jpg
+  page: https://www.inaturalist.org/photos/345841597
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345841597/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-cyanura/3.jpg
+  page: https://www.inaturalist.org/photos/384408386
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/384408386/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-cyanura/4.jpg
+  page: https://www.inaturalist.org/photos/263622825
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263622825/original.png
+- file: images/apodiformes/trochilidae/saucerottia-cyanura/5.jpg
+  page: https://www.inaturalist.org/photos/314914903
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314914903/original.jpg
 ---
 
 

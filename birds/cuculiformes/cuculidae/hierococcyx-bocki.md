@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/hierococcyx-bocki/1.jpg
+  page: https://www.inaturalist.org/photos/723438907
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723438907/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/hierococcyx-bocki/1.jpg
+  page: https://www.inaturalist.org/photos/723438907
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723438907/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-bocki/2.jpg
+  page: https://www.inaturalist.org/photos/526015255
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526015255/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-bocki/3.jpg
+  page: https://www.inaturalist.org/photos/469018080
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469018080/original.jpeg
+- file: images/cuculiformes/cuculidae/hierococcyx-bocki/4.jpg
+  page: https://www.inaturalist.org/photos/470890919
+  author: Utain Pummarin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470890919/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-bocki/5.jpg
+  page: https://www.inaturalist.org/photos/723439040
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723439040/original.jpg
 ---
 
 

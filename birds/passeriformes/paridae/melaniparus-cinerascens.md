@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/melaniparus-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/611846673
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611846673/original.jpg
+images:
+- file: images/passeriformes/paridae/melaniparus-cinerascens/1.jpg
+  page: https://www.inaturalist.org/photos/611846673
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611846673/original.jpg
+- file: images/passeriformes/paridae/melaniparus-cinerascens/2.jpg
+  page: https://www.inaturalist.org/photos/629501950
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629501950/original.jpg
+- file: images/passeriformes/paridae/melaniparus-cinerascens/3.jpg
+  page: https://www.inaturalist.org/photos/553034694
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553034694/original.jpg
+- file: images/passeriformes/paridae/melaniparus-cinerascens/4.jpg
+  page: https://www.inaturalist.org/photos/563974129
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563974129/original.jpg
+- file: images/passeriformes/paridae/melaniparus-cinerascens/5.jpg
+  page: https://www.inaturalist.org/photos/442902572
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442902572/original.jpeg
 ---
 
 

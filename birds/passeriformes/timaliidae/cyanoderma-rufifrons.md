@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/cyanoderma-rufifrons/1.jpg
+  page: https://www.inaturalist.org/photos/616929764
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616929764/original.jpg
+images:
+- file: images/passeriformes/timaliidae/cyanoderma-rufifrons/1.jpg
+  page: https://www.inaturalist.org/photos/616929764
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616929764/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-rufifrons/2.jpg
+  page: https://www.inaturalist.org/photos/628490697
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628490697/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-rufifrons/3.jpg
+  page: https://www.inaturalist.org/photos/165060611
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/165060611/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-rufifrons/4.jpg
+  page: https://www.inaturalist.org/photos/546751878
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546751878/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-rufifrons/5.jpg
+  page: https://www.inaturalist.org/photos/616929794
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616929794/original.jpg
 ---
 
 

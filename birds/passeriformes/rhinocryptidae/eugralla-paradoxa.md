@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/eugralla-paradoxa/1.jpg
+  page: https://www.inaturalist.org/photos/562074747
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562074747/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/eugralla-paradoxa/1.jpg
+  page: https://www.inaturalist.org/photos/562074747
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562074747/original.jpg
+- file: images/passeriformes/rhinocryptidae/eugralla-paradoxa/2.jpg
+  page: https://www.inaturalist.org/photos/366773279
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366773279/original.jpeg
+- file: images/passeriformes/rhinocryptidae/eugralla-paradoxa/3.jpg
+  page: https://www.inaturalist.org/photos/257918303
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257918303/original.jpg
+- file: images/passeriformes/rhinocryptidae/eugralla-paradoxa/4.jpg
+  page: https://www.inaturalist.org/photos/332425490
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332425490/original.jpeg
+- file: images/passeriformes/rhinocryptidae/eugralla-paradoxa/5.jpg
+  page: https://www.inaturalist.org/photos/337127588
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337127588/original.jpg
 ---
 
 

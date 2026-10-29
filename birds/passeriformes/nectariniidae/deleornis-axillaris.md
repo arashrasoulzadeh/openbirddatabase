@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/deleornis-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/601875207
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601875207/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/deleornis-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/601875207
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601875207/original.jpg
+- file: images/passeriformes/nectariniidae/deleornis-axillaris/2.jpg
+  page: https://www.inaturalist.org/photos/254001740
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254001740/original.jpeg
+- file: images/passeriformes/nectariniidae/deleornis-axillaris/3.jpg
+  page: https://www.inaturalist.org/photos/254001742
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254001742/original.jpeg
+- file: images/passeriformes/nectariniidae/deleornis-axillaris/4.jpg
+  page: https://www.inaturalist.org/photos/257851462
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257851462/original.jpeg
+- file: images/passeriformes/nectariniidae/deleornis-axillaris/5.jpg
+  page: https://www.inaturalist.org/photos/257851469
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257851469/original.jpeg
 ---
 
 

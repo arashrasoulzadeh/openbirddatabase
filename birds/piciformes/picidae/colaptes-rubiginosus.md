@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/colaptes-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/606262184
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606262184/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-rubiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/606262184
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606262184/original.jpg
+- file: images/piciformes/picidae/colaptes-rubiginosus/2.jpg
+  page: https://www.inaturalist.org/photos/687358727
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687358727/original.jpg
+- file: images/piciformes/picidae/colaptes-rubiginosus/3.jpg
+  page: https://www.inaturalist.org/photos/613005406
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613005406/original.jpg
+- file: images/piciformes/picidae/colaptes-rubiginosus/4.jpg
+  page: https://www.inaturalist.org/photos/618491313
+  author: Guillaume Hoffmann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618491313/original.jpg
+- file: images/piciformes/picidae/colaptes-rubiginosus/5.jpg
+  page: https://www.inaturalist.org/photos/623002164
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623002164/original.jpg
 ---
 
 

@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/ammomanes-deserti/1.jpg
+  page: https://www.inaturalist.org/photos/620119059
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620119059/original.jpg
+images:
+- file: images/passeriformes/alaudidae/ammomanes-deserti/1.jpg
+  page: https://www.inaturalist.org/photos/620119059
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620119059/original.jpg
+- file: images/passeriformes/alaudidae/ammomanes-deserti/2.jpg
+  page: https://www.inaturalist.org/photos/624132975
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624132975/original.jpg
+- file: images/passeriformes/alaudidae/ammomanes-deserti/3.jpg
+  page: https://www.inaturalist.org/photos/622575495
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622575495/original.jpg
+- file: images/passeriformes/alaudidae/ammomanes-deserti/4.jpg
+  page: https://www.inaturalist.org/photos/628290133
+  author: Johnny C
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628290133/original.jpg
+- file: images/passeriformes/alaudidae/ammomanes-deserti/5.jpg
+  page: https://www.inaturalist.org/photos/722512142
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722512142/original.jpg
 ---
 
 

@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.5
@@ -143,6 +144,26 @@ morphology:
   wing_length_mm: 64.5
   tail_length_mm: 48.0
   body_mass_g: 21.8
+image:
+  file: images/passeriformes/motacillidae/anthus-chacoensis/1.jpg
+  page: https://www.inaturalist.org/photos/222590862
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/222590862/original.png
+images:
+- file: images/passeriformes/motacillidae/anthus-chacoensis/1.jpg
+  page: https://www.inaturalist.org/photos/222590862
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/222590862/original.png
+- file: images/passeriformes/motacillidae/anthus-chacoensis/2.jpg
+  page: https://www.inaturalist.org/photos/171178745
+  author: Patricio Cowper Coles
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/171178745/original.jpeg
 ---
 
 

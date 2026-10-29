@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/rhynchopsitta-terrisi/1.jpg
+  page: https://www.inaturalist.org/photos/671894771
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671894771/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/rhynchopsitta-terrisi/1.jpg
+  page: https://www.inaturalist.org/photos/671894771
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671894771/original.jpg
+- file: images/psittaciformes/psittacidae/rhynchopsitta-terrisi/2.jpg
+  page: https://www.inaturalist.org/photos/538802460
+  author: Adriana Nelly Correa Sandoval
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538802460/original.jpg
+- file: images/psittaciformes/psittacidae/rhynchopsitta-terrisi/3.jpg
+  page: https://www.inaturalist.org/photos/541125547
+  author: Andrea Villarreal Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541125547/original.jpg
+- file: images/psittaciformes/psittacidae/rhynchopsitta-terrisi/4.jpg
+  page: https://www.inaturalist.org/photos/587462242
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587462242/original.jpg
+- file: images/psittaciformes/psittacidae/rhynchopsitta-terrisi/5.jpg
+  page: https://www.inaturalist.org/photos/671895028
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671895028/original.jpg
 ---
 
 

@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/charadriiformes/alcidae/cerorhinca-monocerata/1.jpg
+  page: https://www.inaturalist.org/photos/604960382
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604960382/original.jpg
+images:
+- file: images/charadriiformes/alcidae/cerorhinca-monocerata/1.jpg
+  page: https://www.inaturalist.org/photos/604960382
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604960382/original.jpg
+- file: images/charadriiformes/alcidae/cerorhinca-monocerata/2.jpg
+  page: https://www.inaturalist.org/photos/607772700
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607772700/original.jpg
+- file: images/charadriiformes/alcidae/cerorhinca-monocerata/3.jpg
+  page: https://www.inaturalist.org/photos/608815941
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608815941/original.jpg
+- file: images/charadriiformes/alcidae/cerorhinca-monocerata/4.jpg
+  page: https://www.inaturalist.org/photos/609128745
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609128745/original.jpg
+- file: images/charadriiformes/alcidae/cerorhinca-monocerata/5.jpg
+  page: https://www.inaturalist.org/photos/622213614
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622213614/original.jpg
 ---
 
 

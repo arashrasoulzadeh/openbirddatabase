@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/lopholaimus-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/605303779
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303779/original.jpg
+images:
+- file: images/columbiformes/columbidae/lopholaimus-antarcticus/1.jpg
+  page: https://www.inaturalist.org/photos/605303779
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303779/original.jpg
+- file: images/columbiformes/columbidae/lopholaimus-antarcticus/2.jpg
+  page: https://www.inaturalist.org/photos/615149079
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615149079/original.jpg
+- file: images/columbiformes/columbidae/lopholaimus-antarcticus/3.jpg
+  page: https://www.inaturalist.org/photos/663139109
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663139109/original.jpg
+- file: images/columbiformes/columbidae/lopholaimus-antarcticus/4.jpg
+  page: https://www.inaturalist.org/photos/667530202
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667530202/original.jpg
+- file: images/columbiformes/columbidae/lopholaimus-antarcticus/5.jpg
+  page: https://www.inaturalist.org/photos/707729560
+  author: jaimshae
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707729560/original.jpg
 ---
 
 

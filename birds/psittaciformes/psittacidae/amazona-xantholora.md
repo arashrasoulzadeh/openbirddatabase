@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-xantholora/1.jpg
+  page: https://www.inaturalist.org/photos/672131607
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672131607/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-xantholora/1.jpg
+  page: https://www.inaturalist.org/photos/672131607
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672131607/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-xantholora/2.jpg
+  page: https://www.inaturalist.org/photos/605748932
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605748932/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-xantholora/3.jpg
+  page: https://www.inaturalist.org/photos/604219243
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604219243/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-xantholora/4.jpg
+  page: https://www.inaturalist.org/photos/451590480
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451590480/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-xantholora/5.jpg
+  page: https://www.inaturalist.org/photos/451599729
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451599729/original.jpg
 ---
 
 

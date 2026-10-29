@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaricula-ferrugineipectus/1.jpg
+  page: https://www.inaturalist.org/photos/698727295
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698727295/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaricula-ferrugineipectus/1.jpg
+  page: https://www.inaturalist.org/photos/698727295
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698727295/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-ferrugineipectus/2.jpg
+  page: https://www.inaturalist.org/photos/738249751
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738249751/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-ferrugineipectus/3.jpg
+  page: https://www.inaturalist.org/photos/518010453
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518010453/original.jpg
+- file: images/passeriformes/grallariidae/grallaricula-ferrugineipectus/4.jpg
+  page: https://www.inaturalist.org/photos/255939507
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255939507/original.jpeg
+- file: images/passeriformes/grallariidae/grallaricula-ferrugineipectus/5.jpg
+  page: https://www.inaturalist.org/photos/263014449
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263014449/original.jpeg
 ---
 
 

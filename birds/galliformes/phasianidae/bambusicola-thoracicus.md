@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/bambusicola-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/610392649
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610392649/original.jpg
+images:
+- file: images/galliformes/phasianidae/bambusicola-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/610392649
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610392649/original.jpg
+- file: images/galliformes/phasianidae/bambusicola-thoracicus/2.jpg
+  page: https://www.inaturalist.org/photos/612166462
+  author: Se Lena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612166462/original.jpg
+- file: images/galliformes/phasianidae/bambusicola-thoracicus/3.jpg
+  page: https://www.inaturalist.org/photos/612688749
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612688749/original.jpg
+- file: images/galliformes/phasianidae/bambusicola-thoracicus/4.jpg
+  page: https://www.inaturalist.org/photos/617165634
+  author: angryphyco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617165634/original.jpg
+- file: images/galliformes/phasianidae/bambusicola-thoracicus/5.jpg
+  page: https://www.inaturalist.org/photos/627363697
+  author: IMORI MIHO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627363697/original.jpg
 ---
 
 

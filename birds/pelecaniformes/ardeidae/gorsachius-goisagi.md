@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/gorsachius-goisagi/1.jpg
+  page: https://www.inaturalist.org/photos/726216947
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726216947/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/gorsachius-goisagi/1.jpg
+  page: https://www.inaturalist.org/photos/726216947
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726216947/original.jpg
+- file: images/pelecaniformes/ardeidae/gorsachius-goisagi/2.jpg
+  page: https://www.inaturalist.org/photos/610638440
+  author: 村山史世　（Fumiyo MURAYAMA)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610638440/original.jpg
+- file: images/pelecaniformes/ardeidae/gorsachius-goisagi/3.jpg
+  page: https://www.inaturalist.org/photos/127947109
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/127947109/original.png
+- file: images/pelecaniformes/ardeidae/gorsachius-goisagi/4.jpg
+  page: https://www.inaturalist.org/photos/177246817
+  author: WATANABE Hitoshi 渡辺仁
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177246817/original.jpg
+- file: images/pelecaniformes/ardeidae/gorsachius-goisagi/5.jpg
+  page: https://www.inaturalist.org/photos/610638546
+  author: 村山史世　（Fumiyo MURAYAMA)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610638546/original.jpg
 ---
 
 

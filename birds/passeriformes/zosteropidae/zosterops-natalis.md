@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-natalis/1.jpg
+  page: https://www.inaturalist.org/photos/619550986
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619550986/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-natalis/1.jpg
+  page: https://www.inaturalist.org/photos/619550986
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619550986/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-natalis/2.jpg
+  page: https://www.inaturalist.org/photos/414841936
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414841936/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-natalis/3.jpg
+  page: https://www.inaturalist.org/photos/619551042
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619551042/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-natalis/4.jpg
+  page: https://www.inaturalist.org/photos/619551060
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619551060/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-natalis/5.jpg
+  page: https://www.inaturalist.org/photos/621692500
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621692500/original.jpg
 ---
 
 

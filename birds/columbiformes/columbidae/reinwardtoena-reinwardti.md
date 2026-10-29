@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/reinwardtoena-reinwardti/1.jpg
+  page: https://www.inaturalist.org/photos/526333466
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333466/original.jpg
+images:
+- file: images/columbiformes/columbidae/reinwardtoena-reinwardti/1.jpg
+  page: https://www.inaturalist.org/photos/526333466
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333466/original.jpg
+- file: images/columbiformes/columbidae/reinwardtoena-reinwardti/2.jpg
+  page: https://www.inaturalist.org/photos/611955334
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611955334/original.jpg
+- file: images/columbiformes/columbidae/reinwardtoena-reinwardti/3.jpg
+  page: https://www.inaturalist.org/photos/313043249
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313043249/original.jpg
+- file: images/columbiformes/columbidae/reinwardtoena-reinwardti/4.jpg
+  page: https://www.inaturalist.org/photos/338536896
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338536896/original.jpg
+- file: images/columbiformes/columbidae/reinwardtoena-reinwardti/5.jpg
+  page: https://www.inaturalist.org/photos/226811754
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226811754/original.jpg
 ---
 
 

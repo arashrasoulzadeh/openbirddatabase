@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/setophaga-graciae/1.jpg
+  page: https://www.inaturalist.org/photos/605199685
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605199685/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-graciae/1.jpg
+  page: https://www.inaturalist.org/photos/605199685
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605199685/original.jpg
+- file: images/passeriformes/parulidae/setophaga-graciae/2.jpg
+  page: https://www.inaturalist.org/photos/605790894
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605790894/original.jpg
+- file: images/passeriformes/parulidae/setophaga-graciae/3.jpg
+  page: https://www.inaturalist.org/photos/638119328
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638119328/original.jpg
+- file: images/passeriformes/parulidae/setophaga-graciae/4.jpg
+  page: https://www.inaturalist.org/photos/638754842
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638754842/original.jpg
+- file: images/passeriformes/parulidae/setophaga-graciae/5.jpg
+  page: https://www.inaturalist.org/photos/656189243
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656189243/original.jpg
 ---
 
 

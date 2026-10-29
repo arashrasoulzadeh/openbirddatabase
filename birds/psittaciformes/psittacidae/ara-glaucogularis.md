@@ -145,10 +145,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/psittaciformes/psittacidae/ara-glaucogularis/1.jpg
+  page: https://www.inaturalist.org/photos/511130095
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511130095/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/ara-glaucogularis/1.jpg
+  page: https://www.inaturalist.org/photos/511130095
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511130095/original.jpg
+- file: images/psittaciformes/psittacidae/ara-glaucogularis/2.jpg
+  page: https://www.inaturalist.org/photos/578168979
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578168979/original.jpg
+- file: images/psittaciformes/psittacidae/ara-glaucogularis/3.jpg
+  page: https://www.inaturalist.org/photos/590541395
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590541395/original.jpg
+- file: images/psittaciformes/psittacidae/ara-glaucogularis/4.jpg
+  page: https://www.inaturalist.org/photos/598540356
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598540356/original.jpg
+- file: images/psittaciformes/psittacidae/ara-glaucogularis/5.jpg
+  page: https://www.inaturalist.org/photos/511129017
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511129017/original.jpg
 ---
 
 

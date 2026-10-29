@@ -200,10 +200,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/suliformes/phalacrocoracidae/phalacrocorax-carbo/1.jpg
+  page: https://www.inaturalist.org/photos/605487080
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487080/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-carbo/1.jpg
+  page: https://www.inaturalist.org/photos/605487080
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487080/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-carbo/2.jpg
+  page: https://www.inaturalist.org/photos/604758678
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604758678/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-carbo/3.jpg
+  page: https://www.inaturalist.org/photos/605576643
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605576643/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-carbo/4.jpg
+  page: https://www.inaturalist.org/photos/605356308
+  author: François Dunoyer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356308/original.jpg
+- file: images/suliformes/phalacrocoracidae/phalacrocorax-carbo/5.jpg
+  page: https://www.inaturalist.org/photos/605375308
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605375308/original.jpg
 ---
 
 

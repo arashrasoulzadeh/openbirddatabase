@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/anthocephala-berlepschi/1.jpg
+  page: https://www.inaturalist.org/photos/539831852
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539831852/original.jpg
+images:
+- file: images/apodiformes/trochilidae/anthocephala-berlepschi/1.jpg
+  page: https://www.inaturalist.org/photos/539831852
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539831852/original.jpg
+- file: images/apodiformes/trochilidae/anthocephala-berlepschi/2.jpg
+  page: https://www.inaturalist.org/photos/502966765
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502966765/original.jpg
+- file: images/apodiformes/trochilidae/anthocephala-berlepschi/3.jpg
+  page: https://www.inaturalist.org/photos/611978480
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611978480/original.jpg
+- file: images/apodiformes/trochilidae/anthocephala-berlepschi/4.jpg
+  page: https://www.inaturalist.org/photos/353085544
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353085544/original.jpeg
+- file: images/apodiformes/trochilidae/anthocephala-berlepschi/5.jpg
+  page: https://www.inaturalist.org/photos/196915743
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/196915743/original.jpg
 ---
 
 

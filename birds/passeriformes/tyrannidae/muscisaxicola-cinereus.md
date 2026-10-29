@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscisaxicola-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/609461121
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609461121/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscisaxicola-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/609461121
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609461121/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/616637214
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616637214/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/465031066
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465031066/original.png
+- file: images/passeriformes/tyrannidae/muscisaxicola-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/464593619
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464593619/original.jpg
+- file: images/passeriformes/tyrannidae/muscisaxicola-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/478183744
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478183744/original.jpg
 ---
 
 

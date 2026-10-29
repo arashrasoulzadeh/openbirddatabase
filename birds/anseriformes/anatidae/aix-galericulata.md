@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/anseriformes/anatidae/aix-galericulata/1.jpg
+  page: https://www.inaturalist.org/photos/605652534
+  author: Георгий Виноградов (Georgy Vinogradov)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605652534/original.jpg
+images:
+- file: images/anseriformes/anatidae/aix-galericulata/1.jpg
+  page: https://www.inaturalist.org/photos/605652534
+  author: Георгий Виноградов (Georgy Vinogradov)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605652534/original.jpg
+- file: images/anseriformes/anatidae/aix-galericulata/2.jpg
+  page: https://www.inaturalist.org/photos/605048660
+  author: Tomáš Hruzek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605048660/original.jpg
+- file: images/anseriformes/anatidae/aix-galericulata/3.jpg
+  page: https://www.inaturalist.org/photos/604824821
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604824821/original.jpg
+- file: images/anseriformes/anatidae/aix-galericulata/4.jpg
+  page: https://www.inaturalist.org/photos/605362825
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605362825/original.jpg
+- file: images/anseriformes/anatidae/aix-galericulata/5.jpg
+  page: https://www.inaturalist.org/photos/605705487
+  author: orionid
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605705487/original.jpg
 ---
 
 

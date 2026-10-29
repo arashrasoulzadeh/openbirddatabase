@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pelecanoides-magellani/1.jpg
+  page: https://www.inaturalist.org/photos/641658114
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641658114/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pelecanoides-magellani/1.jpg
+  page: https://www.inaturalist.org/photos/641658114
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641658114/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-magellani/2.jpg
+  page: https://www.inaturalist.org/photos/480879499
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480879499/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-magellani/3.jpg
+  page: https://www.inaturalist.org/photos/596410098
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596410098/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-magellani/4.jpg
+  page: https://www.inaturalist.org/photos/606411830
+  author: patrickc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606411830/original.jpg
+- file: images/procellariiformes/procellariidae/pelecanoides-magellani/5.jpg
+  page: https://www.inaturalist.org/photos/378849287
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378849287/original.jpeg
 ---
 
 

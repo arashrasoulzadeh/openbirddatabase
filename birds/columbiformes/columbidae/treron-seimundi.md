@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-seimundi/1.jpg
+  page: https://www.inaturalist.org/photos/583583878
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583583878/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-seimundi/1.jpg
+  page: https://www.inaturalist.org/photos/583583878
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583583878/original.jpg
+- file: images/columbiformes/columbidae/treron-seimundi/2.jpg
+  page: https://www.inaturalist.org/photos/384985745
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/384985745/original.jpg
+- file: images/columbiformes/columbidae/treron-seimundi/3.jpg
+  page: https://www.inaturalist.org/photos/547345827
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547345827/original.jpg
+- file: images/columbiformes/columbidae/treron-seimundi/4.jpg
+  page: https://www.inaturalist.org/photos/102411157
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102411157/original.jpeg
+- file: images/columbiformes/columbidae/treron-seimundi/5.jpg
+  page: https://www.inaturalist.org/photos/102411178
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/102411178/original.jpeg
 ---
 
 

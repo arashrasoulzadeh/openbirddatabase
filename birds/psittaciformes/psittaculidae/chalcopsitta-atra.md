@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/psittaciformes/psittaculidae/chalcopsitta-atra/1.jpg
+  page: https://www.inaturalist.org/photos/618875520
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618875520/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/chalcopsitta-atra/1.jpg
+  page: https://www.inaturalist.org/photos/618875520
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618875520/original.jpg
+- file: images/psittaciformes/psittaculidae/chalcopsitta-atra/2.jpg
+  page: https://www.inaturalist.org/photos/618875523
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618875523/original.jpg
+- file: images/psittaciformes/psittaculidae/chalcopsitta-atra/3.jpg
+  page: https://www.inaturalist.org/photos/618875502
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618875502/original.jpg
+- file: images/psittaciformes/psittaculidae/chalcopsitta-atra/4.jpg
+  page: https://www.inaturalist.org/photos/618875501
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618875501/original.jpg
+- file: images/psittaciformes/psittaculidae/chalcopsitta-atra/5.jpg
+  page: https://www.inaturalist.org/photos/618875506
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618875506/original.jpg
 ---
 
 

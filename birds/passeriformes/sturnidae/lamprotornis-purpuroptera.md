@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-purpuroptera/1.jpg
+  page: https://www.inaturalist.org/photos/619877860
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619877860/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-purpuroptera/1.jpg
+  page: https://www.inaturalist.org/photos/619877860
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619877860/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-purpuroptera/2.jpg
+  page: https://www.inaturalist.org/photos/684101642
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684101642/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-purpuroptera/3.jpg
+  page: https://www.inaturalist.org/photos/661352610
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661352610/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-purpuroptera/4.jpg
+  page: https://www.inaturalist.org/photos/676545821
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676545821/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-purpuroptera/5.jpg
+  page: https://www.inaturalist.org/photos/619641622
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619641622/original.jpg
 ---
 
 

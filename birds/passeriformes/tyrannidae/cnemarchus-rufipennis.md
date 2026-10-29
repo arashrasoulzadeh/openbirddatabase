@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 25.0
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 127.2
   tail_length_mm: 89.4
   body_mass_g: 34.5
+image:
+  file: images/passeriformes/tyrannidae/cnemarchus-rufipennis/1.jpg
+  page: https://www.inaturalist.org/photos/490624183
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490624183/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/cnemarchus-rufipennis/1.jpg
+  page: https://www.inaturalist.org/photos/490624183
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490624183/original.jpeg
+- file: images/passeriformes/tyrannidae/cnemarchus-rufipennis/2.jpg
+  page: https://www.inaturalist.org/photos/572558661
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572558661/original.jpg
+- file: images/passeriformes/tyrannidae/cnemarchus-rufipennis/3.jpg
+  page: https://www.inaturalist.org/photos/358258964
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358258964/original.jpeg
+- file: images/passeriformes/tyrannidae/cnemarchus-rufipennis/4.jpg
+  page: https://www.inaturalist.org/photos/462833322
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462833322/original.jpeg
+- file: images/passeriformes/tyrannidae/cnemarchus-rufipennis/5.jpg
+  page: https://www.inaturalist.org/photos/339734793
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339734793/original.jpeg
 ---
 
 

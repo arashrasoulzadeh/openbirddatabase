@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/dacnis-cayana/1.jpg
+  page: https://www.inaturalist.org/photos/605144646
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144646/original.jpg
+images:
+- file: images/passeriformes/thraupidae/dacnis-cayana/1.jpg
+  page: https://www.inaturalist.org/photos/605144646
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144646/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-cayana/2.jpg
+  page: https://www.inaturalist.org/photos/605729932
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729932/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-cayana/3.jpg
+  page: https://www.inaturalist.org/photos/604899733
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899733/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-cayana/4.jpg
+  page: https://www.inaturalist.org/photos/609560751
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609560751/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-cayana/5.jpg
+  page: https://www.inaturalist.org/photos/607982410
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607982410/original.jpg
 ---
 
 

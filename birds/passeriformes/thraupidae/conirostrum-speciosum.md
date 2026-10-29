@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/conirostrum-speciosum/1.jpg
+  page: https://www.inaturalist.org/photos/609002689
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609002689/original.jpg
+images:
+- file: images/passeriformes/thraupidae/conirostrum-speciosum/1.jpg
+  page: https://www.inaturalist.org/photos/609002689
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609002689/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-speciosum/2.jpg
+  page: https://www.inaturalist.org/photos/618710888
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618710888/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-speciosum/3.jpg
+  page: https://www.inaturalist.org/photos/627316261
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627316261/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-speciosum/4.jpg
+  page: https://www.inaturalist.org/photos/720334721
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720334721/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-speciosum/5.jpg
+  page: https://www.inaturalist.org/photos/643676082
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643676082/original.jpg
 ---
 
 

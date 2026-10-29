@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-caledonica/1.jpg
+  page: https://www.inaturalist.org/photos/717584060
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717584060/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-caledonica/1.jpg
+  page: https://www.inaturalist.org/photos/717584060
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717584060/original.jpg
+- file: images/passeriformes/campephagidae/coracina-caledonica/2.jpg
+  page: https://www.inaturalist.org/photos/586262750
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586262750/original.jpg
+- file: images/passeriformes/campephagidae/coracina-caledonica/3.jpg
+  page: https://www.inaturalist.org/photos/348562242
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348562242/original.jpg
+- file: images/passeriformes/campephagidae/coracina-caledonica/4.jpg
+  page: https://www.inaturalist.org/photos/316988847
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316988847/original.jpeg
+- file: images/passeriformes/campephagidae/coracina-caledonica/5.jpg
+  page: https://www.inaturalist.org/photos/8738870
+  author: melianie_max_and_asker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8738870/original.jpg
 ---
 
 

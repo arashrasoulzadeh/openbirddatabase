@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-ethologus/1.jpg
+  page: https://www.inaturalist.org/photos/610020574
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610020574/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-ethologus/1.jpg
+  page: https://www.inaturalist.org/photos/610020574
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610020574/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-ethologus/2.jpg
+  page: https://www.inaturalist.org/photos/618049070
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618049070/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-ethologus/3.jpg
+  page: https://www.inaturalist.org/photos/627903815
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627903815/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-ethologus/4.jpg
+  page: https://www.inaturalist.org/photos/721145173
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721145173/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-ethologus/5.jpg
+  page: https://www.inaturalist.org/photos/634396309
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634396309/original.jpg
 ---
 
 

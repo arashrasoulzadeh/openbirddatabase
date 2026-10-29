@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/mirafra-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/702591623
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702591623/original.jpg
+images:
+- file: images/passeriformes/alaudidae/mirafra-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/702591623
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702591623/original.jpg
+- file: images/passeriformes/alaudidae/mirafra-javanica/2.jpg
+  page: https://www.inaturalist.org/photos/737461249
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737461249/original.jpg
+- file: images/passeriformes/alaudidae/mirafra-javanica/3.jpg
+  page: https://www.inaturalist.org/photos/467676511
+  author: Bethlea Bell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467676511/original.jpeg
+- file: images/passeriformes/alaudidae/mirafra-javanica/4.jpg
+  page: https://www.inaturalist.org/photos/524315443
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524315443/original.jpg
+- file: images/passeriformes/alaudidae/mirafra-javanica/5.jpg
+  page: https://www.inaturalist.org/photos/501943415
+  author: Samartha S G
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501943415/original.jpeg
 ---
 
 

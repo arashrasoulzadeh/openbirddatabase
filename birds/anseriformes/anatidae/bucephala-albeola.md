@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/anseriformes/anatidae/bucephala-albeola/1.jpg
+  page: https://www.inaturalist.org/photos/605290481
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605290481/original.jpg
+images:
+- file: images/anseriformes/anatidae/bucephala-albeola/1.jpg
+  page: https://www.inaturalist.org/photos/605290481
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605290481/original.jpg
+- file: images/anseriformes/anatidae/bucephala-albeola/2.jpg
+  page: https://www.inaturalist.org/photos/605694872
+  author: Chase Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605694872/original.jpg
+- file: images/anseriformes/anatidae/bucephala-albeola/3.jpg
+  page: https://www.inaturalist.org/photos/605711356
+  author: Theo Summer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605711356/original.jpg
+- file: images/anseriformes/anatidae/bucephala-albeola/4.jpg
+  page: https://www.inaturalist.org/photos/604833277
+  author: Matt Pelikan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604833277/original.jpg
+- file: images/anseriformes/anatidae/bucephala-albeola/5.jpg
+  page: https://www.inaturalist.org/photos/605254172
+  author: Karen Szafrajda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605254172/original.jpg
 ---
 
 

@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/heleia-goodfellowi/1.jpg
+  page: https://www.inaturalist.org/photos/269725987
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269725987/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/heleia-goodfellowi/1.jpg
+  page: https://www.inaturalist.org/photos/269725987
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269725987/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-goodfellowi/2.jpg
+  page: https://www.inaturalist.org/photos/267295768
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295768/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-goodfellowi/3.jpg
+  page: https://www.inaturalist.org/photos/267295465
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295465/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-goodfellowi/4.jpg
+  page: https://www.inaturalist.org/photos/267295738
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295738/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-goodfellowi/5.jpg
+  page: https://www.inaturalist.org/photos/228536361
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228536361/original.jpg
 ---
 
 

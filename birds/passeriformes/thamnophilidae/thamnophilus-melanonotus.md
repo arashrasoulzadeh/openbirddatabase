@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-melanonotus/1.jpg
+  page: https://www.inaturalist.org/photos/730299584
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730299584/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-melanonotus/1.jpg
+  page: https://www.inaturalist.org/photos/730299584
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730299584/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-melanonotus/2.jpg
+  page: https://www.inaturalist.org/photos/695740486
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695740486/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-melanonotus/3.jpg
+  page: https://www.inaturalist.org/photos/569160816
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569160816/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-melanonotus/4.jpg
+  page: https://www.inaturalist.org/photos/595891751
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595891751/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-melanonotus/5.jpg
+  page: https://www.inaturalist.org/photos/361385891
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361385891/original.jpeg
 ---
 
 

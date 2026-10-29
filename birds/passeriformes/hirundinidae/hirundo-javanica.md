@@ -161,8 +161,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/hirundo-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/609933078
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609933078/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/hirundo-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/609933078
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609933078/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-javanica/2.jpg
+  page: https://www.inaturalist.org/photos/610405778
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610405778/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-javanica/3.jpg
+  page: https://www.inaturalist.org/photos/607893453
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607893453/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-javanica/4.jpg
+  page: https://www.inaturalist.org/photos/607450364
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607450364/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-javanica/5.jpg
+  page: https://www.inaturalist.org/photos/607667666
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607667666/original.jpg
 ---
 
 

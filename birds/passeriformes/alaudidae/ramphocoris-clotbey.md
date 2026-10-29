@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/ramphocoris-clotbey/1.jpg
+  page: https://www.inaturalist.org/photos/661030446
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030446/original.jpg
+images:
+- file: images/passeriformes/alaudidae/ramphocoris-clotbey/1.jpg
+  page: https://www.inaturalist.org/photos/661030446
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030446/original.jpg
+- file: images/passeriformes/alaudidae/ramphocoris-clotbey/2.jpg
+  page: https://www.inaturalist.org/photos/620433455
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620433455/original.jpg
+- file: images/passeriformes/alaudidae/ramphocoris-clotbey/3.jpg
+  page: https://www.inaturalist.org/photos/622844953
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622844953/original.jpg
+- file: images/passeriformes/alaudidae/ramphocoris-clotbey/4.jpg
+  page: https://www.inaturalist.org/photos/623684096
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623684096/original.jpg
+- file: images/passeriformes/alaudidae/ramphocoris-clotbey/5.jpg
+  page: https://www.inaturalist.org/photos/464903169
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464903169/original.jpeg
 ---
 
 

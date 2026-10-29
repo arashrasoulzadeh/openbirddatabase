@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-phalerata/1.jpg
+  page: https://www.inaturalist.org/photos/689886387
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689886387/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-phalerata/1.jpg
+  page: https://www.inaturalist.org/photos/689886387
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689886387/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-phalerata/2.jpg
+  page: https://www.inaturalist.org/photos/696107716
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696107716/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-phalerata/3.jpg
+  page: https://www.inaturalist.org/photos/734376568
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734376568/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-phalerata/4.jpg
+  page: https://www.inaturalist.org/photos/738245078
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738245078/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-phalerata/5.jpg
+  page: https://www.inaturalist.org/photos/468146959
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468146959/original.jpeg
 ---
 
 

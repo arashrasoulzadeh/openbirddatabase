@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-homochroa/1.jpg
+  page: https://www.inaturalist.org/photos/670475788
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670475788/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-homochroa/1.jpg
+  page: https://www.inaturalist.org/photos/670475788
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670475788/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-homochroa/2.jpg
+  page: https://www.inaturalist.org/photos/730224366
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730224366/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-homochroa/3.jpg
+  page: https://www.inaturalist.org/photos/562550525
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562550525/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-homochroa/4.jpg
+  page: https://www.inaturalist.org/photos/562005462
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562005462/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-homochroa/5.jpg
+  page: https://www.inaturalist.org/photos/573902779
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573902779/original.jpg
 ---
 
 

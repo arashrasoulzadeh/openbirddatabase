@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cinclosomatidae/cinclosoma-marginatum/1.jpg
+  page: https://www.inaturalist.org/photos/439333542
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333542/original.jpg
+images:
+- file: images/passeriformes/cinclosomatidae/cinclosoma-marginatum/1.jpg
+  page: https://www.inaturalist.org/photos/439333542
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333542/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-marginatum/2.jpg
+  page: https://www.inaturalist.org/photos/439333544
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333544/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-marginatum/3.jpg
+  page: https://www.inaturalist.org/photos/439333574
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333574/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-marginatum/4.jpg
+  page: https://www.inaturalist.org/photos/439333519
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333519/original.jpg
+- file: images/passeriformes/cinclosomatidae/cinclosoma-marginatum/5.jpg
+  page: https://www.inaturalist.org/photos/449547452
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449547452/original.jpg
 ---
 
 

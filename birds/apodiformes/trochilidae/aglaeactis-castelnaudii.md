@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/aglaeactis-castelnaudii/1.jpg
+  page: https://www.inaturalist.org/photos/551621801
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551621801/original.jpg
+images:
+- file: images/apodiformes/trochilidae/aglaeactis-castelnaudii/1.jpg
+  page: https://www.inaturalist.org/photos/551621801
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551621801/original.jpg
+- file: images/apodiformes/trochilidae/aglaeactis-castelnaudii/2.jpg
+  page: https://www.inaturalist.org/photos/563707259
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563707259/original.jpg
+- file: images/apodiformes/trochilidae/aglaeactis-castelnaudii/3.jpg
+  page: https://www.inaturalist.org/photos/443910089
+  author: Joe crutwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443910089/original.jpeg
+- file: images/apodiformes/trochilidae/aglaeactis-castelnaudii/4.jpg
+  page: https://www.inaturalist.org/photos/344136214
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344136214/original.jpeg
+- file: images/apodiformes/trochilidae/aglaeactis-castelnaudii/5.jpg
+  page: https://www.inaturalist.org/photos/339591351
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339591351/original.jpeg
 ---
 
 

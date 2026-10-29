@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-emiliana/1.jpg
+  page: https://www.inaturalist.org/photos/608367294
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608367294/original.jpg
+images:
+- file: images/columbiformes/columbidae/macropygia-emiliana/1.jpg
+  page: https://www.inaturalist.org/photos/608367294
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608367294/original.jpg
+- file: images/columbiformes/columbidae/macropygia-emiliana/2.jpg
+  page: https://www.inaturalist.org/photos/440973944
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440973944/original.jpeg
+- file: images/columbiformes/columbidae/macropygia-emiliana/3.jpg
+  page: https://www.inaturalist.org/photos/127945632
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/127945632/original.jpeg
+- file: images/columbiformes/columbidae/macropygia-emiliana/4.jpg
+  page: https://www.inaturalist.org/photos/407728299
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407728299/original.jpeg
+- file: images/columbiformes/columbidae/macropygia-emiliana/5.jpg
+  page: https://www.inaturalist.org/photos/608367305
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608367305/original.jpg
 ---
 
 

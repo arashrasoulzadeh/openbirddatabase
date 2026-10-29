@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannulus-elatus/1.jpg
+  page: https://www.inaturalist.org/photos/605931328
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605931328/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannulus-elatus/1.jpg
+  page: https://www.inaturalist.org/photos/605931328
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605931328/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannulus-elatus/2.jpg
+  page: https://www.inaturalist.org/photos/617332616
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617332616/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannulus-elatus/3.jpg
+  page: https://www.inaturalist.org/photos/617054979
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617054979/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannulus-elatus/4.jpg
+  page: https://www.inaturalist.org/photos/723601747
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723601747/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannulus-elatus/5.jpg
+  page: https://www.inaturalist.org/photos/739145226
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739145226/original.jpg
 ---
 
 

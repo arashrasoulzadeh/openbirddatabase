@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/acrocephalidae/hippolais-icterina/1.jpg
+  page: https://www.inaturalist.org/photos/654297825
+  author: Max G.W. Verheij
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654297825/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/hippolais-icterina/1.jpg
+  page: https://www.inaturalist.org/photos/654297825
+  author: Max G.W. Verheij
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654297825/original.jpg
+- file: images/passeriformes/acrocephalidae/hippolais-icterina/2.jpg
+  page: https://www.inaturalist.org/photos/658152557
+  author: Nik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658152557/original.jpg
+- file: images/passeriformes/acrocephalidae/hippolais-icterina/3.jpg
+  page: https://www.inaturalist.org/photos/661440275
+  author: Hanna U.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661440275/original.jpg
+- file: images/passeriformes/acrocephalidae/hippolais-icterina/4.jpg
+  page: https://www.inaturalist.org/photos/658578171
+  author: Дмитрий Кошелев
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658578171/original.jpg
+- file: images/passeriformes/acrocephalidae/hippolais-icterina/5.jpg
+  page: https://www.inaturalist.org/photos/660905885
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660905885/original.jpg
 ---
 
 

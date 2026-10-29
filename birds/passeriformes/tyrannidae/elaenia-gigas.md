@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-gigas/1.jpg
+  page: https://www.inaturalist.org/photos/459479310
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459479310/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-gigas/1.jpg
+  page: https://www.inaturalist.org/photos/459479310
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459479310/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-gigas/2.jpg
+  page: https://www.inaturalist.org/photos/103077957
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103077957/original.jpeg
+- file: images/passeriformes/tyrannidae/elaenia-gigas/3.jpg
+  page: https://www.inaturalist.org/photos/115630645
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/115630645/original.jpeg
+- file: images/passeriformes/tyrannidae/elaenia-gigas/4.jpg
+  page: https://www.inaturalist.org/photos/12074169
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12074169/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-gigas/5.jpg
+  page: https://www.inaturalist.org/photos/351398802
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351398802/original.jpg
 ---
 
 

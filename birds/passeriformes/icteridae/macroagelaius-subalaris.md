@@ -143,8 +143,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/macroagelaius-subalaris/1.jpg
+  page: https://www.inaturalist.org/photos/616077137
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616077137/original.jpg
+images:
+- file: images/passeriformes/icteridae/macroagelaius-subalaris/1.jpg
+  page: https://www.inaturalist.org/photos/616077137
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616077137/original.jpg
+- file: images/passeriformes/icteridae/macroagelaius-subalaris/2.jpg
+  page: https://www.inaturalist.org/photos/616079329
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616079329/original.jpg
+- file: images/passeriformes/icteridae/macroagelaius-subalaris/3.jpg
+  page: https://www.inaturalist.org/photos/616079346
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616079346/original.jpg
+- file: images/passeriformes/icteridae/macroagelaius-subalaris/4.jpg
+  page: https://www.inaturalist.org/photos/616079365
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616079365/original.jpg
 ---
 
 

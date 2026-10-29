@@ -140,8 +140,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campethera-scriptoricauda/1.jpg
+  page: https://www.inaturalist.org/photos/585167290
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585167290/original.jpg
+images:
+- file: images/piciformes/picidae/campethera-scriptoricauda/1.jpg
+  page: https://www.inaturalist.org/photos/585167290
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585167290/original.jpg
+- file: images/piciformes/picidae/campethera-scriptoricauda/2.jpg
+  page: https://www.inaturalist.org/photos/476900686
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476900686/original.jpg
+- file: images/piciformes/picidae/campethera-scriptoricauda/3.jpg
+  page: https://www.inaturalist.org/photos/271136014
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/271136014/original.jpeg
+- file: images/piciformes/picidae/campethera-scriptoricauda/4.jpg
+  page: https://www.inaturalist.org/photos/585167296
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585167296/original.jpg
 ---
 
 

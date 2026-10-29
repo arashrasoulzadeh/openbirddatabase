@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/cyanoloxia-cyanoides/1.jpg
+  page: https://www.inaturalist.org/photos/605915161
+  author: Mark Valen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605915161/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/cyanoloxia-cyanoides/1.jpg
+  page: https://www.inaturalist.org/photos/605915161
+  author: Mark Valen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605915161/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-cyanoides/2.jpg
+  page: https://www.inaturalist.org/photos/614263988
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614263988/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-cyanoides/3.jpg
+  page: https://www.inaturalist.org/photos/636419131
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636419131/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-cyanoides/4.jpg
+  page: https://www.inaturalist.org/photos/728683864
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728683864/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-cyanoides/5.jpg
+  page: https://www.inaturalist.org/photos/738322042
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738322042/original.jpg
 ---
 
 

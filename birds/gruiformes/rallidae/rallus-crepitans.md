@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rallus-crepitans/1.jpg
+  page: https://www.inaturalist.org/photos/604504236
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604504236/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallus-crepitans/1.jpg
+  page: https://www.inaturalist.org/photos/604504236
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604504236/original.jpg
+- file: images/gruiformes/rallidae/rallus-crepitans/2.jpg
+  page: https://www.inaturalist.org/photos/608004932
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608004932/original.jpg
+- file: images/gruiformes/rallidae/rallus-crepitans/3.jpg
+  page: https://www.inaturalist.org/photos/606940027
+  author: Jackie T
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606940027/original.jpg
+- file: images/gruiformes/rallidae/rallus-crepitans/4.jpg
+  page: https://www.inaturalist.org/photos/608943747
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608943747/original.jpg
+- file: images/gruiformes/rallidae/rallus-crepitans/5.jpg
+  page: https://www.inaturalist.org/photos/605791377
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605791377/original.jpg
 ---
 
 

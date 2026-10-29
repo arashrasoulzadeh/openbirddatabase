@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/passerellidae/zonotrichia-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/605360307
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360307/original.jpg
+images:
+- file: images/passeriformes/passerellidae/zonotrichia-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/605360307
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360307/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/605534381
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534381/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/604630592
+  author: Sam Kieschnick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604630592/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/604962334
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604962334/original.jpg
+- file: images/passeriformes/passerellidae/zonotrichia-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/605383415
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383415/original.jpg
 ---
 
 

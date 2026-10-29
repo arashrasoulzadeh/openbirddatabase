@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/procellariiformes/procellariidae/calonectris-edwardsii/1.jpg
+  page: https://www.inaturalist.org/photos/654367066
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367066/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/calonectris-edwardsii/1.jpg
+  page: https://www.inaturalist.org/photos/654367066
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367066/original.jpg
+- file: images/procellariiformes/procellariidae/calonectris-edwardsii/2.jpg
+  page: https://www.inaturalist.org/photos/367133416
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367133416/original.jpeg
+- file: images/procellariiformes/procellariidae/calonectris-edwardsii/3.jpg
+  page: https://www.inaturalist.org/photos/333535727
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333535727/original.jpeg
+- file: images/procellariiformes/procellariidae/calonectris-edwardsii/4.jpg
+  page: https://www.inaturalist.org/photos/9221156
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9221156/original.jpeg
+- file: images/procellariiformes/procellariidae/calonectris-edwardsii/5.jpg
+  page: https://www.inaturalist.org/photos/277753563
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/277753563/original.jpg
 ---
 
 

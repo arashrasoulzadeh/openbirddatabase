@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-swainsonii/1.jpg
+  page: https://www.inaturalist.org/photos/467169027
+  author: Petra Holland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467169027/original.jpeg
+images:
+- file: images/passeriformes/passeridae/passer-swainsonii/1.jpg
+  page: https://www.inaturalist.org/photos/467169027
+  author: Petra Holland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467169027/original.jpeg
+- file: images/passeriformes/passeridae/passer-swainsonii/2.jpg
+  page: https://www.inaturalist.org/photos/606333419
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606333419/original.jpg
+- file: images/passeriformes/passeridae/passer-swainsonii/3.jpg
+  page: https://www.inaturalist.org/photos/358782911
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358782911/original.jpeg
+- file: images/passeriformes/passeridae/passer-swainsonii/4.jpg
+  page: https://www.inaturalist.org/photos/441691586
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441691586/original.jpeg
+- file: images/passeriformes/passeridae/passer-swainsonii/5.jpg
+  page: https://www.inaturalist.org/photos/313200956
+  author: nberhe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313200956/original.jpg
 ---
 
 

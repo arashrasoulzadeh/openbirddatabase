@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/anairetes-nigrocristatus/1.jpg
+  page: https://www.inaturalist.org/photos/410332664
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410332664/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/anairetes-nigrocristatus/1.jpg
+  page: https://www.inaturalist.org/photos/410332664
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410332664/original.jpeg
+- file: images/passeriformes/tyrannidae/anairetes-nigrocristatus/2.jpg
+  page: https://www.inaturalist.org/photos/441733046
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441733046/original.jpeg
+- file: images/passeriformes/tyrannidae/anairetes-nigrocristatus/3.jpg
+  page: https://www.inaturalist.org/photos/352536468
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352536468/original.jpeg
+- file: images/passeriformes/tyrannidae/anairetes-nigrocristatus/4.jpg
+  page: https://www.inaturalist.org/photos/114456469
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114456469/original.jpeg
+- file: images/passeriformes/tyrannidae/anairetes-nigrocristatus/5.jpg
+  page: https://www.inaturalist.org/photos/410332665
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/410332665/original.jpeg
 ---
 
 

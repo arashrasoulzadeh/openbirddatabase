@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/dives-warczewiczi/1.jpg
+  page: https://www.inaturalist.org/photos/608970087
+  author: Antonio W. Salas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608970087/original.jpg
+images:
+- file: images/passeriformes/icteridae/dives-warczewiczi/1.jpg
+  page: https://www.inaturalist.org/photos/608970087
+  author: Antonio W. Salas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608970087/original.jpg
+- file: images/passeriformes/icteridae/dives-warczewiczi/2.jpg
+  page: https://www.inaturalist.org/photos/613477324
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613477324/original.jpg
+- file: images/passeriformes/icteridae/dives-warczewiczi/3.jpg
+  page: https://www.inaturalist.org/photos/616438579
+  author: Elliot Greiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616438579/original.jpg
+- file: images/passeriformes/icteridae/dives-warczewiczi/4.jpg
+  page: https://www.inaturalist.org/photos/619333553
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333553/original.jpg
+- file: images/passeriformes/icteridae/dives-warczewiczi/5.jpg
+  page: https://www.inaturalist.org/photos/621893599
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621893599/original.jpg
 ---
 
 

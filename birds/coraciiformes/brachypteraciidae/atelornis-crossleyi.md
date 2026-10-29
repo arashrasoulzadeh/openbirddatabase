@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/brachypteraciidae/atelornis-crossleyi/1.jpg
+  page: https://www.inaturalist.org/photos/454885565
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454885565/original.jpg
+images:
+- file: images/coraciiformes/brachypteraciidae/atelornis-crossleyi/1.jpg
+  page: https://www.inaturalist.org/photos/454885565
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454885565/original.jpg
+- file: images/coraciiformes/brachypteraciidae/atelornis-crossleyi/2.jpg
+  page: https://www.inaturalist.org/photos/457357424
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457357424/original.jpg
+- file: images/coraciiformes/brachypteraciidae/atelornis-crossleyi/3.jpg
+  page: https://www.inaturalist.org/photos/337961170
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337961170/original.jpeg
+- file: images/coraciiformes/brachypteraciidae/atelornis-crossleyi/4.jpg
+  page: https://www.inaturalist.org/photos/242557837
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242557837/original.jpg
+- file: images/coraciiformes/brachypteraciidae/atelornis-crossleyi/5.jpg
+  page: https://www.inaturalist.org/photos/457357427
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457357427/original.jpg
 ---
 
 

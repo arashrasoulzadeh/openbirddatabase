@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/conioptilon-mcilhennyi/1.jpg
+  page: https://www.inaturalist.org/photos/613464249
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613464249/original.jpg
+images:
+- file: images/passeriformes/cotingidae/conioptilon-mcilhennyi/1.jpg
+  page: https://www.inaturalist.org/photos/613464249
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613464249/original.jpg
+- file: images/passeriformes/cotingidae/conioptilon-mcilhennyi/2.jpg
+  page: https://www.inaturalist.org/photos/520982083
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520982083/original.jpg
+- file: images/passeriformes/cotingidae/conioptilon-mcilhennyi/3.jpg
+  page: https://www.inaturalist.org/photos/523869482
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523869482/original.jpg
+- file: images/passeriformes/cotingidae/conioptilon-mcilhennyi/4.jpg
+  page: https://www.inaturalist.org/photos/437721092
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437721092/original.jpeg
+- file: images/passeriformes/cotingidae/conioptilon-mcilhennyi/5.jpg
+  page: https://www.inaturalist.org/photos/437716105
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437716105/original.jpeg
 ---
 
 

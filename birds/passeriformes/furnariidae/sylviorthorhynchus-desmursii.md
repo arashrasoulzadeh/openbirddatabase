@@ -122,7 +122,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 17.4
@@ -132,6 +133,44 @@ morphology:
   body_mass_g: 10.9
 reproduction:
   clutch_size_mean: 3.5
+image:
+  file: images/passeriformes/furnariidae/sylviorthorhynchus-desmursii/1.jpg
+  page: https://www.inaturalist.org/photos/609268473
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609268473/original.jpg
+images:
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-desmursii/1.jpg
+  page: https://www.inaturalist.org/photos/609268473
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609268473/original.jpg
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-desmursii/2.jpg
+  page: https://www.inaturalist.org/photos/635683427
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635683427/original.jpg
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-desmursii/3.jpg
+  page: https://www.inaturalist.org/photos/476355482
+  author: nitsuga74
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476355482/original.jpg
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-desmursii/4.jpg
+  page: https://www.inaturalist.org/photos/562074940
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562074940/original.jpg
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-desmursii/5.jpg
+  page: https://www.inaturalist.org/photos/352672476
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352672476/original.jpg
 ---
 
 

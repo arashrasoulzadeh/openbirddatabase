@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/dromococcyx-phasianellus/1.jpg
+  page: https://www.inaturalist.org/photos/615321758
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615321758/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/dromococcyx-phasianellus/1.jpg
+  page: https://www.inaturalist.org/photos/615321758
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615321758/original.jpg
+- file: images/cuculiformes/cuculidae/dromococcyx-phasianellus/2.jpg
+  page: https://www.inaturalist.org/photos/625310789
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625310789/original.jpg
+- file: images/cuculiformes/cuculidae/dromococcyx-phasianellus/3.jpg
+  page: https://www.inaturalist.org/photos/638906456
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638906456/original.jpg
+- file: images/cuculiformes/cuculidae/dromococcyx-phasianellus/4.jpg
+  page: https://www.inaturalist.org/photos/728765534
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728765534/original.jpg
+- file: images/cuculiformes/cuculidae/dromococcyx-phasianellus/5.jpg
+  page: https://www.inaturalist.org/photos/734513891
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734513891/original.jpg
 ---
 
 

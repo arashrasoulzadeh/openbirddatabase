@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-validus/1.jpg
+  page: https://www.inaturalist.org/photos/469426937
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469426937/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-validus/1.jpg
+  page: https://www.inaturalist.org/photos/469426937
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469426937/original.jpeg
+- file: images/passeriformes/tyrannidae/myiarchus-validus/2.jpg
+  page: https://www.inaturalist.org/photos/574057586
+  author: Shawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574057586/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-validus/3.jpg
+  page: https://www.inaturalist.org/photos/353713022
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353713022/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-validus/4.jpg
+  page: https://www.inaturalist.org/photos/403477732
+  author: Marilyne Busque-Dubois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/403477732/original.jpeg
+- file: images/passeriformes/tyrannidae/myiarchus-validus/5.jpg
+  page: https://www.inaturalist.org/photos/336757399
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336757399/original.jpeg
 ---
 
 

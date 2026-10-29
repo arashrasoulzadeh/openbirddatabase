@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/coraciidae/coracias-spatulatus/1.jpg
+  page: https://www.inaturalist.org/photos/722957637
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722957637/original.jpg
+images:
+- file: images/coraciiformes/coraciidae/coracias-spatulatus/1.jpg
+  page: https://www.inaturalist.org/photos/722957637
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722957637/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-spatulatus/2.jpg
+  page: https://www.inaturalist.org/photos/528744233
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528744233/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-spatulatus/3.jpg
+  page: https://www.inaturalist.org/photos/553265013
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553265013/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-spatulatus/4.jpg
+  page: https://www.inaturalist.org/photos/580863082
+  author: rosshawkins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580863082/original.jpg
+- file: images/coraciiformes/coraciidae/coracias-spatulatus/5.jpg
+  page: https://www.inaturalist.org/photos/613237093
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613237093/original.jpg
 ---
 
 

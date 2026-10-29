@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/actenoides-concretus/1.jpg
+  page: https://www.inaturalist.org/photos/682502185
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682502185/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/actenoides-concretus/1.jpg
+  page: https://www.inaturalist.org/photos/682502185
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682502185/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-concretus/2.jpg
+  page: https://www.inaturalist.org/photos/564044633
+  author: alamettyr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564044633/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-concretus/3.jpg
+  page: https://www.inaturalist.org/photos/576364788
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576364788/original.jpg
+- file: images/coraciiformes/alcedinidae/actenoides-concretus/4.jpg
+  page: https://www.inaturalist.org/photos/345939459
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345939459/original.jpeg
+- file: images/coraciiformes/alcedinidae/actenoides-concretus/5.jpg
+  page: https://www.inaturalist.org/photos/682511403
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682511403/original.jpg
 ---
 
 

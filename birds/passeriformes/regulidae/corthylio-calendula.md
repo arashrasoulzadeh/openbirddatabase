@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/regulidae/corthylio-calendula/1.jpg
+  page: https://www.inaturalist.org/photos/605383427
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383427/original.jpg
+images:
+- file: images/passeriformes/regulidae/corthylio-calendula/1.jpg
+  page: https://www.inaturalist.org/photos/605383427
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383427/original.jpg
+- file: images/passeriformes/regulidae/corthylio-calendula/2.jpg
+  page: https://www.inaturalist.org/photos/604884537
+  author: Craig Martin
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604884537/original.jpg
+- file: images/passeriformes/regulidae/corthylio-calendula/3.jpg
+  page: https://www.inaturalist.org/photos/605713500
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605713500/original.jpg
+- file: images/passeriformes/regulidae/corthylio-calendula/4.jpg
+  page: https://www.inaturalist.org/photos/605711686
+  author: ncb1221
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605711686/original.jpg
+- file: images/passeriformes/regulidae/corthylio-calendula/5.jpg
+  page: https://www.inaturalist.org/photos/605210315
+  author: David Dyck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210315/original.jpg
 ---
 
 

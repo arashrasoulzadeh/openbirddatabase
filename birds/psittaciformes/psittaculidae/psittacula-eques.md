@@ -126,7 +126,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 28.0
@@ -140,6 +141,44 @@ reproduction:
   fledging_days: 46
 demography:
   max_longevity_years: 34
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-eques/1.jpg
+  page: https://www.inaturalist.org/photos/524328724
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524328724/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-eques/1.jpg
+  page: https://www.inaturalist.org/photos/524328724
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524328724/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-eques/2.jpg
+  page: https://www.inaturalist.org/photos/434799862
+  author: Matthew Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434799862/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-eques/3.jpg
+  page: https://www.inaturalist.org/photos/608805136
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608805136/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-eques/4.jpg
+  page: https://www.inaturalist.org/photos/524328713
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524328713/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-eques/5.jpg
+  page: https://www.inaturalist.org/photos/524330765
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524330765/original.jpg
 ---
 
 

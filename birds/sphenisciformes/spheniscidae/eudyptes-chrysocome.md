@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/sphenisciformes/spheniscidae/eudyptes-chrysocome/1.jpg
+  page: https://www.inaturalist.org/photos/472958740
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472958740/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/eudyptes-chrysocome/1.jpg
+  page: https://www.inaturalist.org/photos/472958740
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472958740/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-chrysocome/2.jpg
+  page: https://www.inaturalist.org/photos/583407773
+  author: Lucas Kaminski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583407773/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-chrysocome/3.jpg
+  page: https://www.inaturalist.org/photos/590851923
+  author: Pablo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590851923/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-chrysocome/4.jpg
+  page: https://www.inaturalist.org/photos/593110668
+  author: patrickc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593110668/original.jpg
+- file: images/sphenisciformes/spheniscidae/eudyptes-chrysocome/5.jpg
+  page: https://www.inaturalist.org/photos/595297979
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595297979/original.jpg
 ---
 
 

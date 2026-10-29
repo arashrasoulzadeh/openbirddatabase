@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/incana-incana/1.jpg
+  page: https://www.inaturalist.org/photos/257024472
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257024472/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/incana-incana/1.jpg
+  page: https://www.inaturalist.org/photos/257024472
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257024472/original.jpg
+- file: images/passeriformes/cisticolidae/incana-incana/2.jpg
+  page: https://www.inaturalist.org/photos/336780399
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336780399/original.jpeg
+- file: images/passeriformes/cisticolidae/incana-incana/3.jpg
+  page: https://www.inaturalist.org/photos/88513509
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/88513509/original.jpeg
+- file: images/passeriformes/cisticolidae/incana-incana/4.jpg
+  page: https://www.inaturalist.org/photos/257024502
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257024502/original.jpg
+- file: images/passeriformes/cisticolidae/incana-incana/5.jpg
+  page: https://www.inaturalist.org/photos/177429103
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177429103/original.jpg
 ---
 
 

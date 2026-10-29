@@ -141,10 +141,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/synallaxis-unirufa/1.jpg
+  page: https://www.inaturalist.org/photos/652833937
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652833937/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-unirufa/1.jpg
+  page: https://www.inaturalist.org/photos/652833937
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652833937/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-unirufa/2.jpg
+  page: https://www.inaturalist.org/photos/559137738
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559137738/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-unirufa/3.jpg
+  page: https://www.inaturalist.org/photos/255638641
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255638641/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-unirufa/4.jpg
+  page: https://www.inaturalist.org/photos/264277838
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264277838/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-unirufa/5.jpg
+  page: https://www.inaturalist.org/photos/336952275
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336952275/original.jpeg
 ---
 
 

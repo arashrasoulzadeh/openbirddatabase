@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-perspicillatus/1.jpg
+  page: https://www.inaturalist.org/photos/609951798
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951798/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-perspicillatus/1.jpg
+  page: https://www.inaturalist.org/photos/609951798
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609951798/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-perspicillatus/2.jpg
+  page: https://www.inaturalist.org/photos/607093657
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607093657/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-perspicillatus/3.jpg
+  page: https://www.inaturalist.org/photos/609428435
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609428435/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-perspicillatus/4.jpg
+  page: https://www.inaturalist.org/photos/608102891
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608102891/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-perspicillatus/5.jpg
+  page: https://www.inaturalist.org/photos/607411509
+  author: 7695_Reikyu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607411509/original.jpg
 ---
 
 

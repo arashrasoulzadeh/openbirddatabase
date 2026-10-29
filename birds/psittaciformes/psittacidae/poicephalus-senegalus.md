@@ -238,10 +238,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/psittaciformes/psittacidae/poicephalus-senegalus/1.jpg
+  page: https://www.inaturalist.org/photos/612480120
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612480120/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/poicephalus-senegalus/1.jpg
+  page: https://www.inaturalist.org/photos/612480120
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612480120/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-senegalus/2.jpg
+  page: https://www.inaturalist.org/photos/638927341
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638927341/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-senegalus/3.jpg
+  page: https://www.inaturalist.org/photos/468419114
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468419114/original.png
+- file: images/psittaciformes/psittacidae/poicephalus-senegalus/4.jpg
+  page: https://www.inaturalist.org/photos/469380993
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469380993/original.jpeg
+- file: images/psittaciformes/psittacidae/poicephalus-senegalus/5.jpg
+  page: https://www.inaturalist.org/photos/471408133
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471408133/original.jpg
 ---
 
 

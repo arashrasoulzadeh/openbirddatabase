@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-dorsostriata/1.jpg
+  page: https://www.inaturalist.org/photos/684112873
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684112873/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-dorsostriata/1.jpg
+  page: https://www.inaturalist.org/photos/684112873
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684112873/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-dorsostriata/2.jpg
+  page: https://www.inaturalist.org/photos/721447308
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721447308/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-dorsostriata/3.jpg
+  page: https://www.inaturalist.org/photos/721684449
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721684449/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-dorsostriata/4.jpg
+  page: https://www.inaturalist.org/photos/486129285
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486129285/original.jpeg
+- file: images/passeriformes/fringillidae/crithagra-dorsostriata/5.jpg
+  page: https://www.inaturalist.org/photos/684113454
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684113454/original.jpg
 ---
 
 

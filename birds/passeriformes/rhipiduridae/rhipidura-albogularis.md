@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/607827191
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607827191/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/607827191
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607827191/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/615986849
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986849/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/628598939
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628598939/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/627462910
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627462910/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/633193241
+  author: Shikha Sreenivas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633193241/original.jpg
 ---
 
 

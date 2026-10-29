@@ -121,10 +121,49 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Lek
+image:
+  file: images/passeriformes/irenidae/irena-tweeddalii/1.jpg
+  page: https://www.inaturalist.org/photos/469442675
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442675/original.jpg
+images:
+- file: images/passeriformes/irenidae/irena-tweeddalii/1.jpg
+  page: https://www.inaturalist.org/photos/469442675
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442675/original.jpg
+- file: images/passeriformes/irenidae/irena-tweeddalii/2.jpg
+  page: https://www.inaturalist.org/photos/276470575
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470575/original.jpg
+- file: images/passeriformes/irenidae/irena-tweeddalii/3.jpg
+  page: https://www.inaturalist.org/photos/276470593
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470593/original.jpg
+- file: images/passeriformes/irenidae/irena-tweeddalii/4.jpg
+  page: https://www.inaturalist.org/photos/246629586
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246629586/original.jpg
+- file: images/passeriformes/irenidae/irena-tweeddalii/5.jpg
+  page: https://www.inaturalist.org/photos/246629607
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246629607/original.jpg
 ---
 
 

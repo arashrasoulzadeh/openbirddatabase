@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/sholicola-major/1.jpg
+  page: https://www.inaturalist.org/photos/685074158
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685074158/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/sholicola-major/1.jpg
+  page: https://www.inaturalist.org/photos/685074158
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685074158/original.jpg
+- file: images/passeriformes/muscicapidae/sholicola-major/2.jpg
+  page: https://www.inaturalist.org/photos/466094847
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466094847/original.jpg
+- file: images/passeriformes/muscicapidae/sholicola-major/3.jpg
+  page: https://www.inaturalist.org/photos/491185194
+  author: Siya ul haque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/491185194/original.jpeg
+- file: images/passeriformes/muscicapidae/sholicola-major/4.jpg
+  page: https://www.inaturalist.org/photos/404562251
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404562251/original.jpg
+- file: images/passeriformes/muscicapidae/sholicola-major/5.jpg
+  page: https://www.inaturalist.org/photos/466094851
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466094851/original.jpg
 ---
 
 

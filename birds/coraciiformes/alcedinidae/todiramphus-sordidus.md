@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-sordidus/1.jpg
+  page: https://www.inaturalist.org/photos/607031062
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607031062/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-sordidus/1.jpg
+  page: https://www.inaturalist.org/photos/607031062
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607031062/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sordidus/2.jpg
+  page: https://www.inaturalist.org/photos/664301344
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664301344/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sordidus/3.jpg
+  page: https://www.inaturalist.org/photos/669270139
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669270139/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sordidus/4.jpg
+  page: https://www.inaturalist.org/photos/667008634
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667008634/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-sordidus/5.jpg
+  page: https://www.inaturalist.org/photos/686254820
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686254820/original.jpg
 ---
 
 

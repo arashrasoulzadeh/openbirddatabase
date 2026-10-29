@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/malacocincla-abbotti/1.jpg
+  page: https://www.inaturalist.org/photos/613142081
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613142081/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/malacocincla-abbotti/1.jpg
+  page: https://www.inaturalist.org/photos/613142081
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613142081/original.jpg
+- file: images/passeriformes/pellorneidae/malacocincla-abbotti/2.jpg
+  page: https://www.inaturalist.org/photos/728831804
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728831804/original.jpg
+- file: images/passeriformes/pellorneidae/malacocincla-abbotti/3.jpg
+  page: https://www.inaturalist.org/photos/739495625
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495625/original.jpg
+- file: images/passeriformes/pellorneidae/malacocincla-abbotti/4.jpg
+  page: https://www.inaturalist.org/photos/628229515
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628229515/original.jpg
+- file: images/passeriformes/pellorneidae/malacocincla-abbotti/5.jpg
+  page: https://www.inaturalist.org/photos/500892000
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500892000/original.jpg
 ---
 
 

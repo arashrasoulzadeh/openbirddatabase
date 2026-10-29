@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/nephelomyias-pulcher/1.jpg
+  page: https://www.inaturalist.org/photos/623757348
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623757348/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/nephelomyias-pulcher/1.jpg
+  page: https://www.inaturalist.org/photos/623757348
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623757348/original.jpg
+- file: images/passeriformes/tyrannidae/nephelomyias-pulcher/2.jpg
+  page: https://www.inaturalist.org/photos/652840960
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652840960/original.jpg
+- file: images/passeriformes/tyrannidae/nephelomyias-pulcher/3.jpg
+  page: https://www.inaturalist.org/photos/259579254
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259579254/original.jpeg
+- file: images/passeriformes/tyrannidae/nephelomyias-pulcher/4.jpg
+  page: https://www.inaturalist.org/photos/610755977
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610755977/original.jpg
+- file: images/passeriformes/tyrannidae/nephelomyias-pulcher/5.jpg
+  page: https://www.inaturalist.org/photos/220898389
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220898389/original.jpeg
 ---
 
 

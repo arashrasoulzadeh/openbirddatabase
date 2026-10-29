@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/orthopsittaca-manilatus/1.jpg
+  page: https://www.inaturalist.org/photos/612751418
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612751418/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/orthopsittaca-manilatus/1.jpg
+  page: https://www.inaturalist.org/photos/612751418
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612751418/original.jpg
+- file: images/psittaciformes/psittacidae/orthopsittaca-manilatus/2.jpg
+  page: https://www.inaturalist.org/photos/631097703
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631097703/original.jpg
+- file: images/psittaciformes/psittacidae/orthopsittaca-manilatus/3.jpg
+  page: https://www.inaturalist.org/photos/714274299
+  author: Vinicius Gerolin Ceballos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714274299/original.jpg
+- file: images/psittaciformes/psittacidae/orthopsittaca-manilatus/4.jpg
+  page: https://www.inaturalist.org/photos/689766040
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689766040/original.jpg
+- file: images/psittaciformes/psittacidae/orthopsittaca-manilatus/5.jpg
+  page: https://www.inaturalist.org/photos/661168265
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661168265/original.jpg
 ---
 
 

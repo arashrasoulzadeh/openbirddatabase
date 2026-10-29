@@ -186,8 +186,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/cypsiurus-parvus/1.jpg
+  page: https://www.inaturalist.org/photos/612775031
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612775031/original.jpg
+images:
+- file: images/apodiformes/apodidae/cypsiurus-parvus/1.jpg
+  page: https://www.inaturalist.org/photos/612775031
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612775031/original.jpg
+- file: images/apodiformes/apodidae/cypsiurus-parvus/2.jpg
+  page: https://www.inaturalist.org/photos/636880611
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636880611/original.jpg
+- file: images/apodiformes/apodidae/cypsiurus-parvus/3.jpg
+  page: https://www.inaturalist.org/photos/612775029
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612775029/original.jpg
+- file: images/apodiformes/apodidae/cypsiurus-parvus/4.jpg
+  page: https://www.inaturalist.org/photos/612775030
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612775030/original.jpg
+- file: images/apodiformes/apodidae/cypsiurus-parvus/5.jpg
+  page: https://www.inaturalist.org/photos/613420022
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613420022/original.jpg
 ---
 
 

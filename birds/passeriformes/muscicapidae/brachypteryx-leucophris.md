@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/brachypteryx-leucophris/1.jpg
+  page: https://www.inaturalist.org/photos/717080423
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717080423/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/brachypteryx-leucophris/1.jpg
+  page: https://www.inaturalist.org/photos/717080423
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717080423/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-leucophris/2.jpg
+  page: https://www.inaturalist.org/photos/626428795
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428795/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-leucophris/3.jpg
+  page: https://www.inaturalist.org/photos/623877610
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623877610/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-leucophris/4.jpg
+  page: https://www.inaturalist.org/photos/465841046
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465841046/original.jpeg
+- file: images/passeriformes/muscicapidae/brachypteryx-leucophris/5.jpg
+  page: https://www.inaturalist.org/photos/532406778
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532406778/original.jpg
 ---
 
 

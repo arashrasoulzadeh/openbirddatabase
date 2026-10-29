@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/psittaciformes/psittaculidae/neophema-chrysostoma/1.jpg
+  page: https://www.inaturalist.org/photos/605502356
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605502356/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/neophema-chrysostoma/1.jpg
+  page: https://www.inaturalist.org/photos/605502356
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605502356/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-chrysostoma/2.jpg
+  page: https://www.inaturalist.org/photos/607660886
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607660886/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-chrysostoma/3.jpg
+  page: https://www.inaturalist.org/photos/639051246
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639051246/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-chrysostoma/4.jpg
+  page: https://www.inaturalist.org/photos/744145036
+  author: fungihunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744145036/original.jpg
+- file: images/psittaciformes/psittaculidae/neophema-chrysostoma/5.jpg
+  page: https://www.inaturalist.org/photos/468748794
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468748794/original.jpg
 ---
 
 

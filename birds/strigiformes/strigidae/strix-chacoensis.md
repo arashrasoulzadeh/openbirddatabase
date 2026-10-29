@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/strix-chacoensis/1.jpg
+  page: https://www.inaturalist.org/photos/609315407
+  author: Jose Luis Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609315407/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-chacoensis/1.jpg
+  page: https://www.inaturalist.org/photos/609315407
+  author: Jose Luis Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609315407/original.jpg
+- file: images/strigiformes/strigidae/strix-chacoensis/2.jpg
+  page: https://www.inaturalist.org/photos/637739328
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637739328/original.jpg
+- file: images/strigiformes/strigidae/strix-chacoensis/3.jpg
+  page: https://www.inaturalist.org/photos/709294094
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709294094/original.jpg
+- file: images/strigiformes/strigidae/strix-chacoensis/4.jpg
+  page: https://www.inaturalist.org/photos/743778987
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743778987/original.jpg
+- file: images/strigiformes/strigidae/strix-chacoensis/5.jpg
+  page: https://www.inaturalist.org/photos/476126964
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476126964/original.jpg
 ---
 
 

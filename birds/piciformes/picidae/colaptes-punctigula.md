@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/colaptes-punctigula/1.jpg
+  page: https://www.inaturalist.org/photos/610014647
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014647/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-punctigula/1.jpg
+  page: https://www.inaturalist.org/photos/610014647
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610014647/original.jpg
+- file: images/piciformes/picidae/colaptes-punctigula/2.jpg
+  page: https://www.inaturalist.org/photos/607339636
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607339636/original.jpg
+- file: images/piciformes/picidae/colaptes-punctigula/3.jpg
+  page: https://www.inaturalist.org/photos/612995532
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612995532/original.jpg
+- file: images/piciformes/picidae/colaptes-punctigula/4.jpg
+  page: https://www.inaturalist.org/photos/614174013
+  author: Catalina Ayala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614174013/original.jpg
+- file: images/piciformes/picidae/colaptes-punctigula/5.jpg
+  page: https://www.inaturalist.org/photos/621433005
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621433005/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardea-sumatrana/1.jpg
+  page: https://www.inaturalist.org/photos/652365128
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652365128/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-sumatrana/1.jpg
+  page: https://www.inaturalist.org/photos/652365128
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652365128/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-sumatrana/2.jpg
+  page: https://www.inaturalist.org/photos/693133987
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693133987/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-sumatrana/3.jpg
+  page: https://www.inaturalist.org/photos/683257832
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683257832/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-sumatrana/4.jpg
+  page: https://www.inaturalist.org/photos/696133441
+  author: Ian Dickie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696133441/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-sumatrana/5.jpg
+  page: https://www.inaturalist.org/photos/720105071
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720105071/original.jpg
 ---
 
 

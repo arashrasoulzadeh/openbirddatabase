@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/odontophorus-leucolaemus/1.jpg
+  page: https://www.inaturalist.org/photos/619446478
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619446478/original.jpg
+images:
+- file: images/galliformes/odontophoridae/odontophorus-leucolaemus/1.jpg
+  page: https://www.inaturalist.org/photos/619446478
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619446478/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-leucolaemus/2.jpg
+  page: https://www.inaturalist.org/photos/554953938
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554953938/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-leucolaemus/3.jpg
+  page: https://www.inaturalist.org/photos/420980807
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420980807/original.jpeg
+- file: images/galliformes/odontophoridae/odontophorus-leucolaemus/4.jpg
+  page: https://www.inaturalist.org/photos/457363927
+  author: Andrew Conboy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457363927/original.jpeg
+- file: images/galliformes/odontophoridae/odontophorus-leucolaemus/5.jpg
+  page: https://www.inaturalist.org/photos/351464468
+  author: cactusauria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351464468/original.jpeg
 ---
 
 

@@ -134,7 +134,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 20.4
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 119.5
   tail_length_mm: 77.2
   body_mass_g: 90.5
+image:
+  file: images/psittaciformes/psittaculidae/trichoglossus-flavoviridis/1.jpg
+  page: https://www.inaturalist.org/photos/583509360
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509360/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/trichoglossus-flavoviridis/1.jpg
+  page: https://www.inaturalist.org/photos/583509360
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583509360/original.jpg
+- file: images/psittaciformes/psittaculidae/trichoglossus-flavoviridis/2.jpg
+  page: https://www.inaturalist.org/photos/435253977
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253977/original.jpeg
+- file: images/psittaciformes/psittaculidae/trichoglossus-flavoviridis/3.jpg
+  page: https://www.inaturalist.org/photos/435253992
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253992/original.jpeg
+- file: images/psittaciformes/psittaculidae/trichoglossus-flavoviridis/4.jpg
+  page: https://www.inaturalist.org/photos/435254036
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435254036/original.jpeg
+- file: images/psittaciformes/psittaculidae/trichoglossus-flavoviridis/5.jpg
+  page: https://www.inaturalist.org/photos/435253974
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253974/original.jpeg
 ---
 
 

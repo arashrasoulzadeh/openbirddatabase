@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-defilippiana/1.jpg
+  page: https://www.inaturalist.org/photos/636642285
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636642285/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-defilippiana/1.jpg
+  page: https://www.inaturalist.org/photos/636642285
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636642285/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-defilippiana/2.jpg
+  page: https://www.inaturalist.org/photos/724625803
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724625803/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-defilippiana/3.jpg
+  page: https://www.inaturalist.org/photos/741592789
+  author: Duban Espinoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741592789/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-defilippiana/4.jpg
+  page: https://www.inaturalist.org/photos/462201080
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462201080/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-defilippiana/5.jpg
+  page: https://www.inaturalist.org/photos/576594140
+  author: Jorge Herreros de Lartundo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576594140/original.jpg
 ---
 
 

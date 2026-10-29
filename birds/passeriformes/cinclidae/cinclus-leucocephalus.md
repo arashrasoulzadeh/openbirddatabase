@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cinclidae/cinclus-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/623420819
+  author: lchaney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623420819/original.jpg
+images:
+- file: images/passeriformes/cinclidae/cinclus-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/623420819
+  author: lchaney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623420819/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-leucocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/623744893
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623744893/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-leucocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/650454444
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650454444/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-leucocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/652810132
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652810132/original.jpg
+- file: images/passeriformes/cinclidae/cinclus-leucocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/727043616
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727043616/original.jpg
 ---
 
 

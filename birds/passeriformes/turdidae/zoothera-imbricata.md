@@ -133,7 +133,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 30.8
@@ -141,6 +142,44 @@ morphology:
   wing_length_mm: 121.8
   tail_length_mm: 74.5
   body_mass_g: 134.1
+image:
+  file: images/passeriformes/turdidae/zoothera-imbricata/1.jpg
+  page: https://www.inaturalist.org/photos/468466264
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468466264/original.jpg
+images:
+- file: images/passeriformes/turdidae/zoothera-imbricata/1.jpg
+  page: https://www.inaturalist.org/photos/468466264
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468466264/original.jpg
+- file: images/passeriformes/turdidae/zoothera-imbricata/2.jpg
+  page: https://www.inaturalist.org/photos/453434757
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453434757/original.jpeg
+- file: images/passeriformes/turdidae/zoothera-imbricata/3.jpg
+  page: https://www.inaturalist.org/photos/63119363
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63119363/original.jpg
+- file: images/passeriformes/turdidae/zoothera-imbricata/4.jpg
+  page: https://www.inaturalist.org/photos/92423649
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92423649/original.jpeg
+- file: images/passeriformes/turdidae/zoothera-imbricata/5.jpg
+  page: https://www.inaturalist.org/photos/468464229
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468464229/original.jpg
 ---
 
 

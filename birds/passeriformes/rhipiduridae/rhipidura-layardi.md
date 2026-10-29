@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-layardi/1.jpg
+  page: https://www.inaturalist.org/photos/728686713
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728686713/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-layardi/1.jpg
+  page: https://www.inaturalist.org/photos/728686713
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728686713/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-layardi/2.jpg
+  page: https://www.inaturalist.org/photos/333192341
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333192341/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-layardi/3.jpg
+  page: https://www.inaturalist.org/photos/341734699
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341734699/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-layardi/4.jpg
+  page: https://www.inaturalist.org/photos/60382528
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60382528/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-layardi/5.jpg
+  page: https://www.inaturalist.org/photos/47536179
+  author: Dag Endresen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/47536179/original.jpg
 ---
 
 

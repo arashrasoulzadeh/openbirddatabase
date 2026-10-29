@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-clarus/1.jpg
+  page: https://www.inaturalist.org/photos/584870223
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584870223/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-clarus/1.jpg
+  page: https://www.inaturalist.org/photos/584870223
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584870223/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-clarus/2.jpg
+  page: https://www.inaturalist.org/photos/465886590
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465886590/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-clarus/3.jpg
+  page: https://www.inaturalist.org/photos/441506544
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441506544/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-clarus/4.jpg
+  page: https://www.inaturalist.org/photos/307391206
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307391206/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-clarus/5.jpg
+  page: https://www.inaturalist.org/photos/9104807
+  author: John Lyakurwa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9104807/original.jpeg
 ---
 
 

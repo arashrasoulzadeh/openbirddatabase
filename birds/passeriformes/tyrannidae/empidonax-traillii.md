@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/tyrannidae/empidonax-traillii/1.jpg
+  page: https://www.inaturalist.org/photos/660230187
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660230187/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonax-traillii/1.jpg
+  page: https://www.inaturalist.org/photos/660230187
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660230187/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-traillii/2.jpg
+  page: https://www.inaturalist.org/photos/664166301
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664166301/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-traillii/3.jpg
+  page: https://www.inaturalist.org/photos/661319411
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661319411/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-traillii/4.jpg
+  page: https://www.inaturalist.org/photos/663647834
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663647834/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-traillii/5.jpg
+  page: https://www.inaturalist.org/photos/664729011
+  author: Bob Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664729011/original.jpg
 ---
 
 

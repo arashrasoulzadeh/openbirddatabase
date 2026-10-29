@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/charadriiformes/alcidae/alle-alle/1.jpg
+  page: https://www.inaturalist.org/photos/609487794
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609487794/original.jpg
+images:
+- file: images/charadriiformes/alcidae/alle-alle/1.jpg
+  page: https://www.inaturalist.org/photos/609487794
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609487794/original.jpg
+- file: images/charadriiformes/alcidae/alle-alle/2.jpg
+  page: https://www.inaturalist.org/photos/607476642
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607476642/original.jpg
+- file: images/charadriiformes/alcidae/alle-alle/3.jpg
+  page: https://www.inaturalist.org/photos/606888103
+  author: Svend Hansen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606888103/original.jpg
+- file: images/charadriiformes/alcidae/alle-alle/4.jpg
+  page: https://www.inaturalist.org/photos/632889233
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632889233/original.jpg
+- file: images/charadriiformes/alcidae/alle-alle/5.jpg
+  page: https://www.inaturalist.org/photos/615880983
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615880983/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/tockus-jacksoni/1.jpg
+  page: https://www.inaturalist.org/photos/719173175
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719173175/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/tockus-jacksoni/1.jpg
+  page: https://www.inaturalist.org/photos/719173175
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719173175/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-jacksoni/2.jpg
+  page: https://www.inaturalist.org/photos/584862639
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584862639/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-jacksoni/3.jpg
+  page: https://www.inaturalist.org/photos/394173925
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394173925/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-jacksoni/4.jpg
+  page: https://www.inaturalist.org/photos/608736005
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608736005/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-jacksoni/5.jpg
+  page: https://www.inaturalist.org/photos/211937793
+  author: Elliot Greiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211937793/original.jpg
 ---
 
 

@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/acanthisittidae/acanthisitta-chloris/1.jpg
+  page: https://www.inaturalist.org/photos/605703445
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605703445/original.jpg
+images:
+- file: images/passeriformes/acanthisittidae/acanthisitta-chloris/1.jpg
+  page: https://www.inaturalist.org/photos/605703445
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605703445/original.jpg
+- file: images/passeriformes/acanthisittidae/acanthisitta-chloris/2.jpg
+  page: https://www.inaturalist.org/photos/604730034
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604730034/original.jpg
+- file: images/passeriformes/acanthisittidae/acanthisitta-chloris/3.jpg
+  page: https://www.inaturalist.org/photos/610557599
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610557599/original.jpg
+- file: images/passeriformes/acanthisittidae/acanthisitta-chloris/4.jpg
+  page: https://www.inaturalist.org/photos/608808124
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608808124/original.jpg
+- file: images/passeriformes/acanthisittidae/acanthisitta-chloris/5.jpg
+  page: https://www.inaturalist.org/photos/610125911
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610125911/original.jpg
 ---
 
 

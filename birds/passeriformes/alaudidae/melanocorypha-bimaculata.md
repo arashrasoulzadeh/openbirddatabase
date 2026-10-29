@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/melanocorypha-bimaculata/1.jpg
+  page: https://www.inaturalist.org/photos/472016740
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472016740/original.jpg
+images:
+- file: images/passeriformes/alaudidae/melanocorypha-bimaculata/1.jpg
+  page: https://www.inaturalist.org/photos/472016740
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472016740/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-bimaculata/2.jpg
+  page: https://www.inaturalist.org/photos/117209398
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/117209398/original.jpeg
+- file: images/passeriformes/alaudidae/melanocorypha-bimaculata/3.jpg
+  page: https://www.inaturalist.org/photos/12998235
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12998235/original.jpeg
+- file: images/passeriformes/alaudidae/melanocorypha-bimaculata/4.jpg
+  page: https://www.inaturalist.org/photos/103893445
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103893445/original.jpg
+- file: images/passeriformes/alaudidae/melanocorypha-bimaculata/5.jpg
+  page: https://www.inaturalist.org/photos/91597875
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/91597875/original.jpeg
 ---
 
 

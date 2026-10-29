@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/cutia-legalleni/1.jpg
+  page: https://www.inaturalist.org/photos/631335449
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631335449/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/cutia-legalleni/1.jpg
+  page: https://www.inaturalist.org/photos/631335449
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631335449/original.jpg
+- file: images/passeriformes/leiothrichidae/cutia-legalleni/2.jpg
+  page: https://www.inaturalist.org/photos/388768923
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388768923/original.jpg
+- file: images/passeriformes/leiothrichidae/cutia-legalleni/3.jpg
+  page: https://www.inaturalist.org/photos/385766753
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766753/original.jpeg
+- file: images/passeriformes/leiothrichidae/cutia-legalleni/4.jpg
+  page: https://www.inaturalist.org/photos/81353834
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/81353834/original.jpeg
+- file: images/passeriformes/leiothrichidae/cutia-legalleni/5.jpg
+  page: https://www.inaturalist.org/photos/388768925
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388768925/original.jpg
 ---
 
 

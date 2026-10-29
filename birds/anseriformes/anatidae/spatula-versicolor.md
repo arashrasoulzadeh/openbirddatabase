@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/spatula-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/608965401
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608965401/original.jpg
+images:
+- file: images/anseriformes/anatidae/spatula-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/608965401
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608965401/original.jpg
+- file: images/anseriformes/anatidae/spatula-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/610715787
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610715787/original.jpg
+- file: images/anseriformes/anatidae/spatula-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/611574582
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611574582/original.jpg
+- file: images/anseriformes/anatidae/spatula-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/616158322
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616158322/original.jpg
+- file: images/anseriformes/anatidae/spatula-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/614616472
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614616472/original.jpg
 ---
 
 

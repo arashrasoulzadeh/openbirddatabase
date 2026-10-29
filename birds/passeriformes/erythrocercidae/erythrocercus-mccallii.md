@@ -159,8 +159,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/erythrocercidae/erythrocercus-mccallii/1.jpg
+  page: http://www.flickr.com/photos/55368994@N06/7141587731
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/111226/original.jpg
+images:
+- file: images/passeriformes/erythrocercidae/erythrocercus-mccallii/1.jpg
+  page: http://www.flickr.com/photos/55368994@N06/7141587731
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/111226/original.jpg
+- file: images/passeriformes/erythrocercidae/erythrocercus-mccallii/2.jpg
+  page: http://www.flickr.com/photos/55368994@N06/7141587595
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/111227/original.jpg
 ---
 
 

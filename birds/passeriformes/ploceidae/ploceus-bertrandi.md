@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-bertrandi/1.jpg
+  page: https://www.inaturalist.org/photos/582738420
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582738420/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-bertrandi/1.jpg
+  page: https://www.inaturalist.org/photos/582738420
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582738420/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bertrandi/2.jpg
+  page: https://www.inaturalist.org/photos/472629977
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472629977/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bertrandi/3.jpg
+  page: https://www.inaturalist.org/photos/582738423
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582738423/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bertrandi/4.jpg
+  page: https://www.inaturalist.org/photos/582738421
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582738421/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-bertrandi/5.jpg
+  page: https://www.inaturalist.org/photos/472861183
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472861183/original.jpg
 ---
 
 

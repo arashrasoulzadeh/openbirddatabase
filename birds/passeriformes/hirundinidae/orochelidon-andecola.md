@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/orochelidon-andecola/1.jpg
+  page: https://www.inaturalist.org/photos/490624270
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490624270/original.jpeg
+images:
+- file: images/passeriformes/hirundinidae/orochelidon-andecola/1.jpg
+  page: https://www.inaturalist.org/photos/490624270
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490624270/original.jpeg
+- file: images/passeriformes/hirundinidae/orochelidon-andecola/2.jpg
+  page: https://www.inaturalist.org/photos/541000615
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541000615/original.jpg
+- file: images/passeriformes/hirundinidae/orochelidon-andecola/3.jpg
+  page: https://www.inaturalist.org/photos/376984886
+  author: Alejandro Bruno Miranda-Calle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376984886/original.jpeg
+- file: images/passeriformes/hirundinidae/orochelidon-andecola/4.jpg
+  page: https://www.inaturalist.org/photos/553572043
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553572043/original.jpg
+- file: images/passeriformes/hirundinidae/orochelidon-andecola/5.jpg
+  page: https://www.inaturalist.org/photos/178641630
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178641630/original.jpeg
 ---
 
 

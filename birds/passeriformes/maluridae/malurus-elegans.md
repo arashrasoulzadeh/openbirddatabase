@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/maluridae/malurus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/617984997
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617984997/original.jpg
+images:
+- file: images/passeriformes/maluridae/malurus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/617984997
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617984997/original.jpg
+- file: images/passeriformes/maluridae/malurus-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/626922284
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626922284/original.jpg
+- file: images/passeriformes/maluridae/malurus-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/650767950
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650767950/original.jpg
+- file: images/passeriformes/maluridae/malurus-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/710813944
+  author: Scott Bazely
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710813944/original.jpg
+- file: images/passeriformes/maluridae/malurus-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/617985009
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617985009/original.jpg
 ---
 
 

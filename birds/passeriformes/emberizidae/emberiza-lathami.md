@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-lathami/1.jpg
+  page: https://www.inaturalist.org/photos/609200903
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609200903/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-lathami/1.jpg
+  page: https://www.inaturalist.org/photos/609200903
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609200903/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-lathami/2.jpg
+  page: https://www.inaturalist.org/photos/615986863
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986863/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-lathami/3.jpg
+  page: https://www.inaturalist.org/photos/641651254
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641651254/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-lathami/4.jpg
+  page: https://www.inaturalist.org/photos/654887068
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654887068/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-lathami/5.jpg
+  page: https://www.inaturalist.org/photos/737489950
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737489950/original.jpg
 ---
 
 

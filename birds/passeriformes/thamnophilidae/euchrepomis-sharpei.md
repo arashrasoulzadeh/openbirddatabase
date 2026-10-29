@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/euchrepomis-sharpei/1.jpg
+  page: https://www.inaturalist.org/photos/333988898
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333988898/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/euchrepomis-sharpei/1.jpg
+  page: https://www.inaturalist.org/photos/333988898
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333988898/original.jpeg
+- file: images/passeriformes/thamnophilidae/euchrepomis-sharpei/2.jpg
+  page: https://www.inaturalist.org/photos/333988901
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333988901/original.jpeg
+- file: images/passeriformes/thamnophilidae/euchrepomis-sharpei/3.jpg
+  page: https://www.inaturalist.org/photos/333988917
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333988917/original.jpeg
+- file: images/passeriformes/thamnophilidae/euchrepomis-sharpei/4.jpg
+  page: https://www.inaturalist.org/photos/333988916
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333988916/original.jpeg
+- file: images/passeriformes/thamnophilidae/euchrepomis-sharpei/5.jpg
+  page: https://www.inaturalist.org/photos/333989468
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333989468/original.jpeg
 ---
 
 

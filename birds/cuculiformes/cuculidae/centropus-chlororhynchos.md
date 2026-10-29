@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 42.4
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 165.2
   tail_length_mm: 241.2
   body_mass_g: 244.4
+image:
+  file: images/cuculiformes/cuculidae/centropus-chlororhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/452163480
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452163480/original.jpeg
+images:
+- file: images/cuculiformes/cuculidae/centropus-chlororhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/452163480
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452163480/original.jpeg
+- file: images/cuculiformes/cuculidae/centropus-chlororhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/257829364
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257829364/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-chlororhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/198234625
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/198234625/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-chlororhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/8760013
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8760013/original.jpeg
+- file: images/cuculiformes/cuculidae/centropus-chlororhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/92428934
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92428934/original.jpeg
 ---
 
 

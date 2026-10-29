@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/sclateria-naevia/1.jpg
+  page: https://www.inaturalist.org/photos/611229768
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611229768/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/sclateria-naevia/1.jpg
+  page: https://www.inaturalist.org/photos/611229768
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611229768/original.jpg
+- file: images/passeriformes/thamnophilidae/sclateria-naevia/2.jpg
+  page: https://www.flickr.com/photos/cricketsblog/53533727978/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351846155/original.jpg
+- file: images/passeriformes/thamnophilidae/sclateria-naevia/3.jpg
+  page: https://www.inaturalist.org/photos/353213186
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353213186/original.jpeg
+- file: images/passeriformes/thamnophilidae/sclateria-naevia/4.jpg
+  page: https://www.inaturalist.org/photos/396348092
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396348092/original.jpg
+- file: images/passeriformes/thamnophilidae/sclateria-naevia/5.jpg
+  page: https://www.inaturalist.org/photos/456611906
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456611906/original.jpeg
 ---
 
 

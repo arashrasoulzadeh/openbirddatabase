@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/stenostiridae/stenostira-scita/1.jpg
+  page: https://www.inaturalist.org/photos/623981304
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623981304/original.jpg
+images:
+- file: images/passeriformes/stenostiridae/stenostira-scita/1.jpg
+  page: https://www.inaturalist.org/photos/623981304
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623981304/original.jpg
+- file: images/passeriformes/stenostiridae/stenostira-scita/2.jpg
+  page: https://www.inaturalist.org/photos/641565944
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641565944/original.jpg
+- file: images/passeriformes/stenostiridae/stenostira-scita/3.jpg
+  page: https://www.inaturalist.org/photos/714417204
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714417204/original.jpg
+- file: images/passeriformes/stenostiridae/stenostira-scita/4.jpg
+  page: https://www.inaturalist.org/photos/742539519
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742539519/original.jpg
+- file: images/passeriformes/stenostiridae/stenostira-scita/5.jpg
+  page: https://www.inaturalist.org/photos/738846682
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738846682/original.jpg
 ---
 
 

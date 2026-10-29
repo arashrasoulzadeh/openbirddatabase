@@ -176,8 +176,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/sarkidiornis-melanotos/1.jpg
+  page: https://www.inaturalist.org/photos/611824491
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611824491/original.jpg
+images:
+- file: images/anseriformes/anatidae/sarkidiornis-melanotos/1.jpg
+  page: https://www.inaturalist.org/photos/611824491
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611824491/original.jpg
+- file: images/anseriformes/anatidae/sarkidiornis-melanotos/2.jpg
+  page: https://www.inaturalist.org/photos/619286159
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619286159/original.jpg
+- file: images/anseriformes/anatidae/sarkidiornis-melanotos/3.jpg
+  page: https://www.inaturalist.org/photos/620545966
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620545966/original.jpg
+- file: images/anseriformes/anatidae/sarkidiornis-melanotos/4.jpg
+  page: https://www.inaturalist.org/photos/620545994
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620545994/original.jpg
 ---
 
 

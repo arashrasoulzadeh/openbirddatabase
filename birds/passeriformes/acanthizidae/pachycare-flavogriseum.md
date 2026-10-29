@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/pachycare-flavogriseum/1.jpg
+  page: https://www.inaturalist.org/photos/625524030
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625524030/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/pachycare-flavogriseum/1.jpg
+  page: https://www.inaturalist.org/photos/625524030
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625524030/original.jpg
+- file: images/passeriformes/acanthizidae/pachycare-flavogriseum/2.jpg
+  page: https://www.inaturalist.org/photos/437143991
+  author: Scott Bowers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437143991/original.jpg
+- file: images/passeriformes/acanthizidae/pachycare-flavogriseum/3.jpg
+  page: https://www.inaturalist.org/photos/625523987
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625523987/original.jpg
+- file: images/passeriformes/acanthizidae/pachycare-flavogriseum/4.jpg
+  page: https://www.inaturalist.org/photos/625523855
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625523855/original.jpg
+- file: images/passeriformes/acanthizidae/pachycare-flavogriseum/5.jpg
+  page: https://www.inaturalist.org/photos/625523848
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625523848/original.jpg
 ---
 
 

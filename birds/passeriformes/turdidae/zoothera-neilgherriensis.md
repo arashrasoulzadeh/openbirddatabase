@@ -130,7 +130,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 30.8
@@ -138,6 +139,44 @@ morphology:
   wing_length_mm: 128.8
   tail_length_mm: 89.5
   body_mass_g: 134.1
+image:
+  file: images/passeriformes/turdidae/zoothera-neilgherriensis/1.jpg
+  page: https://www.inaturalist.org/photos/685089046
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685089046/original.jpg
+images:
+- file: images/passeriformes/turdidae/zoothera-neilgherriensis/1.jpg
+  page: https://www.inaturalist.org/photos/685089046
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685089046/original.jpg
+- file: images/passeriformes/turdidae/zoothera-neilgherriensis/2.jpg
+  page: https://www.inaturalist.org/photos/404558703
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404558703/original.jpg
+- file: images/passeriformes/turdidae/zoothera-neilgherriensis/3.jpg
+  page: https://www.inaturalist.org/photos/240839219
+  author: Renjith Jacob Mathews
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240839219/original.jpeg
+- file: images/passeriformes/turdidae/zoothera-neilgherriensis/4.jpg
+  page: https://www.inaturalist.org/photos/131886221
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/131886221/original.jpeg
+- file: images/passeriformes/turdidae/zoothera-neilgherriensis/5.jpg
+  page: https://www.inaturalist.org/photos/404558716
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404558716/original.jpg
 ---
 
 

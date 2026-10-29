@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cossypha-albicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/612789666
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612789666/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cossypha-albicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/612789666
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612789666/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-albicapillus/2.jpg
+  page: https://www.inaturalist.org/photos/637976402
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637976402/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-albicapillus/3.jpg
+  page: https://www.inaturalist.org/photos/471351619
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351619/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-albicapillus/4.jpg
+  page: https://www.inaturalist.org/photos/354256471
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354256471/original.jpeg
+- file: images/passeriformes/muscicapidae/cossypha-albicapillus/5.jpg
+  page: https://www.inaturalist.org/photos/365451947
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365451947/original.jpg
 ---
 
 

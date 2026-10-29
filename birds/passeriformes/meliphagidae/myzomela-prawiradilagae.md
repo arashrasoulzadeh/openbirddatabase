@@ -126,8 +126,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/myzomela-prawiradilagae/1.jpg
+  page: https://www.inaturalist.org/photos/447237154
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447237154/original.jpeg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-prawiradilagae/1.jpg
+  page: https://www.inaturalist.org/photos/447237154
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447237154/original.jpeg
+- file: images/passeriformes/meliphagidae/myzomela-prawiradilagae/2.jpg
+  page: https://www.inaturalist.org/photos/331307673
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331307673/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-prawiradilagae/3.jpg
+  page: https://www.inaturalist.org/photos/447237335
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447237335/original.jpeg
+- file: images/passeriformes/meliphagidae/myzomela-prawiradilagae/4.jpg
+  page: https://www.inaturalist.org/photos/331308197
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331308197/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-prawiradilagae/5.jpg
+  page: https://www.inaturalist.org/photos/337787898
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787898/original.jpeg
 ---
 
 

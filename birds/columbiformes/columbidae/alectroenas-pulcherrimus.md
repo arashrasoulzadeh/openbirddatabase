@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/alectroenas-pulcherrimus/1.jpg
+  page: https://www.inaturalist.org/photos/621104226
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621104226/original.jpg
+images:
+- file: images/columbiformes/columbidae/alectroenas-pulcherrimus/1.jpg
+  page: https://www.inaturalist.org/photos/621104226
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621104226/original.jpg
+- file: images/columbiformes/columbidae/alectroenas-pulcherrimus/2.jpg
+  page: https://www.inaturalist.org/photos/690999349
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690999349/original.jpg
+- file: images/columbiformes/columbidae/alectroenas-pulcherrimus/3.jpg
+  page: https://www.inaturalist.org/photos/488826932
+  author: vyh3
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488826932/original.jpeg
+- file: images/columbiformes/columbidae/alectroenas-pulcherrimus/4.jpg
+  page: https://www.inaturalist.org/photos/453443836
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453443836/original.jpeg
+- file: images/columbiformes/columbidae/alectroenas-pulcherrimus/5.jpg
+  page: https://www.inaturalist.org/photos/621104228
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621104228/original.jpg
 ---
 
 

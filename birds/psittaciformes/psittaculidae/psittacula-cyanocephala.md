@@ -128,7 +128,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.4
@@ -142,6 +143,44 @@ reproduction:
   fledging_days: 42
 demography:
   max_longevity_years: 19
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-cyanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/651247183
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651247183/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-cyanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/651247183
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651247183/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-cyanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/668735022
+  author: Piyush Marwadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668735022/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-cyanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/732331179
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732331179/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-cyanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/615210558
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615210558/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-cyanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/624397071
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624397071/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/philortyx-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/671107993
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671107993/original.jpg
+images:
+- file: images/galliformes/odontophoridae/philortyx-fasciatus/1.jpg
+  page: https://www.inaturalist.org/photos/671107993
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671107993/original.jpg
+- file: images/galliformes/odontophoridae/philortyx-fasciatus/2.jpg
+  page: https://www.inaturalist.org/photos/692940974
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692940974/original.jpg
+- file: images/galliformes/odontophoridae/philortyx-fasciatus/3.jpg
+  page: https://www.inaturalist.org/photos/477204957
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477204957/original.jpeg
+- file: images/galliformes/odontophoridae/philortyx-fasciatus/4.jpg
+  page: https://www.inaturalist.org/photos/481380444
+  author: nasua
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481380444/original.jpeg
+- file: images/galliformes/odontophoridae/philortyx-fasciatus/5.jpg
+  page: https://www.inaturalist.org/photos/492787956
+  author: Luis F. Ramírez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492787956/original.jpeg
 ---
 
 

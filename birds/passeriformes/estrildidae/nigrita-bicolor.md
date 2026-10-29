@@ -166,8 +166,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/nigrita-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/665525469
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525469/original.jpg
+images:
+- file: images/passeriformes/estrildidae/nigrita-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/665525469
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525469/original.jpg
+- file: images/passeriformes/estrildidae/nigrita-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/344796058
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344796058/original.jpeg
+- file: images/passeriformes/estrildidae/nigrita-bicolor/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/BiliBiodiversity?locked=true#6222262760694994466
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2732906/original.JPG
+- file: images/passeriformes/estrildidae/nigrita-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/665525473
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665525473/original.jpg
 ---
 
 

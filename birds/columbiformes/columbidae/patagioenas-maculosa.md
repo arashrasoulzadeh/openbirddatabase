@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/patagioenas-maculosa/1.jpg
+  page: https://www.inaturalist.org/photos/607787295
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607787295/original.jpg
+images:
+- file: images/columbiformes/columbidae/patagioenas-maculosa/1.jpg
+  page: https://www.inaturalist.org/photos/607787295
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607787295/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-maculosa/2.jpg
+  page: https://www.inaturalist.org/photos/609374561
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609374561/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-maculosa/3.jpg
+  page: https://www.inaturalist.org/photos/611945840
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611945840/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-maculosa/4.jpg
+  page: https://www.inaturalist.org/photos/631241597
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631241597/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-maculosa/5.jpg
+  page: https://www.inaturalist.org/photos/608905868
+  author: Gabriela Bergesio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608905868/original.jpg
 ---
 
 

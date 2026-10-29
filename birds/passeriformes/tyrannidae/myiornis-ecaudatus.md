@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiornis-ecaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/560351442
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560351442/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiornis-ecaudatus/1.jpg
+  page: https://www.inaturalist.org/photos/560351442
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560351442/original.jpg
+- file: images/passeriformes/tyrannidae/myiornis-ecaudatus/2.jpg
+  page: https://www.inaturalist.org/photos/396294255
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396294255/original.jpg
+- file: images/passeriformes/tyrannidae/myiornis-ecaudatus/3.jpg
+  page: https://www.inaturalist.org/photos/424607810
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424607810/original.jpg
+- file: images/passeriformes/tyrannidae/myiornis-ecaudatus/4.jpg
+  page: https://www.inaturalist.org/photos/445087945
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445087945/original.jpeg
+- file: images/passeriformes/tyrannidae/myiornis-ecaudatus/5.jpg
+  page: https://www.inaturalist.org/photos/251606346
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251606346/original.jpeg
 ---
 
 

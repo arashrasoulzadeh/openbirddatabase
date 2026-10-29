@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-similis/1.jpg
+  page: https://www.inaturalist.org/photos/615674387
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674387/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-similis/1.jpg
+  page: https://www.inaturalist.org/photos/615674387
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674387/original.jpg
+- file: images/passeriformes/motacillidae/anthus-similis/2.jpg
+  page: https://www.inaturalist.org/photos/611415714
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611415714/original.jpg
+- file: images/passeriformes/motacillidae/anthus-similis/3.jpg
+  page: https://www.inaturalist.org/photos/633304776
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633304776/original.jpg
+- file: images/passeriformes/motacillidae/anthus-similis/4.jpg
+  page: https://www.inaturalist.org/photos/630999291
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630999291/original.jpg
+- file: images/passeriformes/motacillidae/anthus-similis/5.jpg
+  page: https://www.inaturalist.org/photos/490167373
+  author: stli_
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490167373/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hylophylax-punctulatus/1.jpg
+  page: https://www.inaturalist.org/photos/713856627
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713856627/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hylophylax-punctulatus/1.jpg
+  page: https://www.inaturalist.org/photos/713856627
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713856627/original.jpg
+- file: images/passeriformes/thamnophilidae/hylophylax-punctulatus/2.jpg
+  page: https://www.inaturalist.org/photos/608308324
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608308324/original.jpg
+- file: images/passeriformes/thamnophilidae/hylophylax-punctulatus/3.jpg
+  page: https://www.inaturalist.org/photos/426760568
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426760568/original.jpg
+- file: images/passeriformes/thamnophilidae/hylophylax-punctulatus/4.jpg
+  page: https://www.inaturalist.org/photos/255165175
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255165175/original.jpeg
+- file: images/passeriformes/thamnophilidae/hylophylax-punctulatus/5.jpg
+  page: https://www.inaturalist.org/photos/246379337
+  author: Thiago Bicudo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246379337/original.jpeg
 ---
 
 

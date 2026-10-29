@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/passerellidae/melospiza-melodia/1.jpg
+  page: https://www.inaturalist.org/photos/604836114
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604836114/original.jpg
+images:
+- file: images/passeriformes/passerellidae/melospiza-melodia/1.jpg
+  page: https://www.inaturalist.org/photos/604836114
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604836114/original.jpg
+- file: images/passeriformes/passerellidae/melospiza-melodia/2.jpg
+  page: https://www.inaturalist.org/photos/605433499
+  author: Ryan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433499/original.jpg
+- file: images/passeriformes/passerellidae/melospiza-melodia/3.jpg
+  page: https://www.inaturalist.org/photos/604602686
+  author: Jesse PC
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604602686/original.jpg
+- file: images/passeriformes/passerellidae/melospiza-melodia/4.jpg
+  page: https://www.inaturalist.org/photos/605210070
+  author: David Dyck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210070/original.jpg
+- file: images/passeriformes/passerellidae/melospiza-melodia/5.jpg
+  page: https://www.inaturalist.org/photos/605463981
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463981/original.jpg
 ---
 
 

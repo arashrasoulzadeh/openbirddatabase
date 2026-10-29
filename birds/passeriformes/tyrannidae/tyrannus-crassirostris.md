@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605531804
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605531804/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605531804
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605531804/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/605791243
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605791243/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/608221922
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608221922/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/605424187
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605424187/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/614474618
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614474618/original.jpg
 ---
 
 

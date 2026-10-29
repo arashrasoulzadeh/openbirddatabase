@@ -184,8 +184,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/glareolidae/cursorius-cursor/1.jpg
+  page: https://www.inaturalist.org/photos/611384719
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611384719/original.jpg
+images:
+- file: images/charadriiformes/glareolidae/cursorius-cursor/1.jpg
+  page: https://www.inaturalist.org/photos/611384719
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611384719/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-cursor/2.jpg
+  page: https://www.inaturalist.org/photos/611494858
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611494858/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-cursor/3.jpg
+  page: https://www.inaturalist.org/photos/610643979
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610643979/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-cursor/4.jpg
+  page: https://www.inaturalist.org/photos/661030517
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661030517/original.jpg
+- file: images/charadriiformes/glareolidae/cursorius-cursor/5.jpg
+  page: https://www.inaturalist.org/photos/623871664
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623871664/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/dacnis-venusta/1.jpg
+  page: https://www.inaturalist.org/photos/619119266
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619119266/original.jpg
+images:
+- file: images/passeriformes/thraupidae/dacnis-venusta/1.jpg
+  page: https://www.inaturalist.org/photos/619119266
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619119266/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-venusta/2.jpg
+  page: https://www.inaturalist.org/photos/619400106
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619400106/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-venusta/3.jpg
+  page: https://www.inaturalist.org/photos/630230394
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630230394/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-venusta/4.jpg
+  page: https://www.inaturalist.org/photos/706619859
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706619859/original.jpg
+- file: images/passeriformes/thraupidae/dacnis-venusta/5.jpg
+  page: https://www.inaturalist.org/photos/619400102
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619400102/original.jpg
 ---
 
 

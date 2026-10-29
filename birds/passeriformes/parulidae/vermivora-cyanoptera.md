@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/parulidae/vermivora-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/643011586
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643011586/original.jpg
+images:
+- file: images/passeriformes/parulidae/vermivora-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/643011586
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643011586/original.jpg
+- file: images/passeriformes/parulidae/vermivora-cyanoptera/2.jpg
+  page: https://www.inaturalist.org/photos/640829223
+  author: Brent Cox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640829223/original.jpg
+- file: images/passeriformes/parulidae/vermivora-cyanoptera/3.jpg
+  page: https://www.inaturalist.org/photos/641647450
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641647450/original.jpg
+- file: images/passeriformes/parulidae/vermivora-cyanoptera/4.jpg
+  page: https://www.inaturalist.org/photos/645651044
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645651044/original.jpg
+- file: images/passeriformes/parulidae/vermivora-cyanoptera/5.jpg
+  page: https://www.inaturalist.org/photos/648897197
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648897197/original.jpg
 ---
 
 

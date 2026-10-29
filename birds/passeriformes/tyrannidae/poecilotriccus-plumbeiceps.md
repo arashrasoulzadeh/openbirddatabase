@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/poecilotriccus-plumbeiceps/1.jpg
+  page: https://www.inaturalist.org/photos/612477009
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477009/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/poecilotriccus-plumbeiceps/1.jpg
+  page: https://www.inaturalist.org/photos/612477009
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477009/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-plumbeiceps/2.jpg
+  page: https://www.inaturalist.org/photos/633181490
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633181490/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-plumbeiceps/3.jpg
+  page: https://www.inaturalist.org/photos/642112217
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642112217/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-plumbeiceps/4.jpg
+  page: https://www.inaturalist.org/photos/644990871
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644990871/original.jpg
+- file: images/passeriformes/tyrannidae/poecilotriccus-plumbeiceps/5.jpg
+  page: https://www.inaturalist.org/photos/641661425
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641661425/original.jpg
 ---
 
 

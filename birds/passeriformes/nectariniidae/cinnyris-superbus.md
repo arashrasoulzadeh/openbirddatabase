@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-superbus/1.jpg
+  page: https://www.inaturalist.org/photos/557868663
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557868663/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-superbus/1.jpg
+  page: https://www.inaturalist.org/photos/557868663
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557868663/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-superbus/2.jpg
+  page: https://www.inaturalist.org/photos/294720323
+  author: Jonathan Walz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/294720323/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-superbus/3.jpg
+  page: https://www.inaturalist.org/photos/345059834
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345059834/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-superbus/4.jpg
+  page: https://www.inaturalist.org/photos/248471319
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248471319/original.jpeg
+- file: images/passeriformes/nectariniidae/cinnyris-superbus/5.jpg
+  page: https://www.inaturalist.org/photos/174797704
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174797704/original.jpg
 ---
 
 

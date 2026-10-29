@@ -140,8 +140,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/macrosphenidae/sylvietta-isabellina/1.jpg
+  page: https://www.inaturalist.org/photos/611801497
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611801497/original.jpg
+images:
+- file: images/passeriformes/macrosphenidae/sylvietta-isabellina/1.jpg
+  page: https://www.inaturalist.org/photos/611801497
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611801497/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-isabellina/2.jpg
+  page: https://www.inaturalist.org/photos/28242813
+  author: Mikael Bauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/28242813/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-isabellina/3.jpg
+  page: https://www.inaturalist.org/photos/611801501
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611801501/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-isabellina/4.jpg
+  page: https://www.inaturalist.org/photos/611801505
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611801505/original.jpg
 ---
 
 

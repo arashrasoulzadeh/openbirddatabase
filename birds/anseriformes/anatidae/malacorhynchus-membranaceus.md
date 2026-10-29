@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/malacorhynchus-membranaceus/1.jpg
+  page: https://www.inaturalist.org/photos/608763662
+  author: Coen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763662/original.jpg
+images:
+- file: images/anseriformes/anatidae/malacorhynchus-membranaceus/1.jpg
+  page: https://www.inaturalist.org/photos/608763662
+  author: Coen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763662/original.jpg
+- file: images/anseriformes/anatidae/malacorhynchus-membranaceus/2.jpg
+  page: https://www.inaturalist.org/photos/624842147
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624842147/original.jpg
+- file: images/anseriformes/anatidae/malacorhynchus-membranaceus/3.jpg
+  page: https://www.inaturalist.org/photos/608763706
+  author: Coen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763706/original.jpg
+- file: images/anseriformes/anatidae/malacorhynchus-membranaceus/4.jpg
+  page: https://www.inaturalist.org/photos/608763732
+  author: Coen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763732/original.jpg
+- file: images/anseriformes/anatidae/malacorhynchus-membranaceus/5.jpg
+  page: https://www.inaturalist.org/photos/608763764
+  author: Coen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763764/original.jpg
 ---
 
 

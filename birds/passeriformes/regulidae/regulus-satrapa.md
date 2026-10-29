@@ -148,10 +148,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/regulidae/regulus-satrapa/1.jpg
+  page: https://www.inaturalist.org/photos/604656893
+  author: funnieanimals
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604656893/original.jpg
+images:
+- file: images/passeriformes/regulidae/regulus-satrapa/1.jpg
+  page: https://www.inaturalist.org/photos/604656893
+  author: funnieanimals
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604656893/original.jpg
+- file: images/passeriformes/regulidae/regulus-satrapa/2.jpg
+  page: https://www.inaturalist.org/photos/605450649
+  author: Ethan Schovanek
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605450649/original.jpg
+- file: images/passeriformes/regulidae/regulus-satrapa/3.jpg
+  page: https://www.inaturalist.org/photos/604702800
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702800/original.jpg
+- file: images/passeriformes/regulidae/regulus-satrapa/4.jpg
+  page: https://www.inaturalist.org/photos/605483934
+  author: Vince Hale
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605483934/original.jpg
+- file: images/passeriformes/regulidae/regulus-satrapa/5.jpg
+  page: https://www.inaturalist.org/photos/605674080
+  author: Helen J
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605674080/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/psophodidae/psophodes-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/729575285
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729575285/original.jpg
+images:
+- file: images/passeriformes/psophodidae/psophodes-nigrogularis/1.jpg
+  page: https://www.inaturalist.org/photos/729575285
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729575285/original.jpg
+- file: images/passeriformes/psophodidae/psophodes-nigrogularis/2.jpg
+  page: https://www.inaturalist.org/photos/486280670
+  author: Caleb Catto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486280670/original.jpeg
+- file: images/passeriformes/psophodidae/psophodes-nigrogularis/3.jpg
+  page: https://www.inaturalist.org/photos/495030583
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495030583/original.jpeg
+- file: images/passeriformes/psophodidae/psophodes-nigrogularis/4.jpg
+  page: https://www.inaturalist.org/photos/437823640
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437823640/original.jpg
+- file: images/passeriformes/psophodidae/psophodes-nigrogularis/5.jpg
+  page: https://www.inaturalist.org/photos/247812022
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247812022/original.jpg
 ---
 
 

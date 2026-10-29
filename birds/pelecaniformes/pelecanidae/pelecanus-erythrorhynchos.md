@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 54
+image:
+  file: images/pelecaniformes/pelecanidae/pelecanus-erythrorhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/604969875
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604969875/original.jpg
+images:
+- file: images/pelecaniformes/pelecanidae/pelecanus-erythrorhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/604969875
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604969875/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-erythrorhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/604986509
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604986509/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-erythrorhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/605189829
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605189829/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-erythrorhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/605210006
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605210006/original.jpg
+- file: images/pelecaniformes/pelecanidae/pelecanus-erythrorhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/604939990
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604939990/original.jpg
 ---
 
 

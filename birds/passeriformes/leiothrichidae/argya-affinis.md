@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/argya-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/611652648
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611652648/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/argya-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/611652648
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611652648/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/615432118
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615432118/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/617162898
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617162898/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/631373352
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631373352/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/613793370
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613793370/original.jpg
 ---
 
 

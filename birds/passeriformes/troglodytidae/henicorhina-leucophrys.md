@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/henicorhina-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/626126858
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626126858/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/henicorhina-leucophrys/1.jpg
+  page: https://www.inaturalist.org/photos/626126858
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626126858/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-leucophrys/2.jpg
+  page: https://www.inaturalist.org/photos/665345443
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665345443/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-leucophrys/3.jpg
+  page: https://www.inaturalist.org/photos/682850833
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682850833/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-leucophrys/4.jpg
+  page: https://www.inaturalist.org/photos/696125460
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696125460/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-leucophrys/5.jpg
+  page: https://www.inaturalist.org/photos/472796587
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472796587/original.jpg
 ---
 
 

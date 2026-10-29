@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/catharus-dryas/1.jpg
+  page: https://www.inaturalist.org/photos/613674871
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613674871/original.jpg
+images:
+- file: images/passeriformes/turdidae/catharus-dryas/1.jpg
+  page: https://www.inaturalist.org/photos/613674871
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613674871/original.jpg
+- file: images/passeriformes/turdidae/catharus-dryas/2.jpg
+  page: https://www.inaturalist.org/photos/604353814
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604353814/original.jpg
+- file: images/passeriformes/turdidae/catharus-dryas/3.jpg
+  page: https://www.inaturalist.org/photos/263760147
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263760147/original.jpeg
+- file: images/passeriformes/turdidae/catharus-dryas/4.jpg
+  page: https://www.inaturalist.org/photos/255931700
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255931700/original.jpeg
+- file: images/passeriformes/turdidae/catharus-dryas/5.jpg
+  page: https://www.inaturalist.org/photos/314914378
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314914378/original.jpg
 ---
 
 

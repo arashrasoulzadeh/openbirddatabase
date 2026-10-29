@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/passerellidae/aimophila-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/605178053
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605178053/original.jpg
+images:
+- file: images/passeriformes/passerellidae/aimophila-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/605178053
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605178053/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/607018754
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607018754/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/610751103
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610751103/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/609568933
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609568933/original.jpg
+- file: images/passeriformes/passerellidae/aimophila-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/607206321
+  author: Paul McClellan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607206321/original.jpg
 ---
 
 

@@ -141,10 +141,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/hellmayrea-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/612897383
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612897383/original.jpg
+images:
+- file: images/passeriformes/furnariidae/hellmayrea-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/612897383
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612897383/original.jpg
+- file: images/passeriformes/furnariidae/hellmayrea-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/652822017
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652822017/original.jpg
+- file: images/passeriformes/furnariidae/hellmayrea-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/514819764
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514819764/original.jpg
+- file: images/passeriformes/furnariidae/hellmayrea-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/489336945
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489336945/original.jpg
+- file: images/passeriformes/furnariidae/hellmayrea-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/528182184
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528182184/original.jpg
 ---
 
 

@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-lineatus/1.jpg
+  page: https://www.inaturalist.org/photos/610675155
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675155/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-lineatus/1.jpg
+  page: https://www.inaturalist.org/photos/610675155
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675155/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-lineatus/2.jpg
+  page: https://www.inaturalist.org/photos/608090789
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608090789/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-lineatus/3.jpg
+  page: https://www.inaturalist.org/photos/607383769
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607383769/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-lineatus/4.jpg
+  page: https://www.inaturalist.org/photos/616555153
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616555153/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-lineatus/5.jpg
+  page: https://www.inaturalist.org/photos/623759166
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623759166/original.jpg
 ---
 
 

@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/583464478
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583464478/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/583464478
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583464478/original.jpg
+- file: images/passeriformes/corvidae/corvus-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/77308607
+  author: Alpian Maleso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/77308607/original.jpeg
+- file: images/passeriformes/corvidae/corvus-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/583464495
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583464495/original.jpg
+- file: images/passeriformes/corvidae/corvus-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/583464502
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583464502/original.jpg
+- file: images/passeriformes/corvidae/corvus-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/435261538
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435261538/original.jpeg
 ---
 
 

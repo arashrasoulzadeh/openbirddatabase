@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-curvirostra/1.jpg
+  page: https://www.inaturalist.org/photos/614428573
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614428573/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-curvirostra/1.jpg
+  page: https://www.inaturalist.org/photos/614428573
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614428573/original.jpg
+- file: images/columbiformes/columbidae/treron-curvirostra/2.jpg
+  page: https://www.inaturalist.org/photos/619490533
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619490533/original.jpg
+- file: images/columbiformes/columbidae/treron-curvirostra/3.jpg
+  page: https://www.inaturalist.org/photos/624034904
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624034904/original.jpg
+- file: images/columbiformes/columbidae/treron-curvirostra/4.jpg
+  page: https://www.inaturalist.org/photos/629215892
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629215892/original.jpg
+- file: images/columbiformes/columbidae/treron-curvirostra/5.jpg
+  page: https://www.inaturalist.org/photos/631597213
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631597213/original.jpg
 ---
 
 

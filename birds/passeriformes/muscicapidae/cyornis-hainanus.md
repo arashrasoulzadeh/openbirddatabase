@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cyornis-hainanus/1.jpg
+  page: https://www.inaturalist.org/photos/618149610
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618149610/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-hainanus/1.jpg
+  page: https://www.inaturalist.org/photos/618149610
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618149610/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-hainanus/2.jpg
+  page: https://www.inaturalist.org/photos/623905469
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623905469/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-hainanus/3.jpg
+  page: https://www.inaturalist.org/photos/737650722
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737650722/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-hainanus/4.jpg
+  page: https://www.inaturalist.org/photos/461190251
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461190251/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-hainanus/5.jpg
+  page: https://www.inaturalist.org/photos/464451109
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464451109/original.jpeg
 ---
 
 

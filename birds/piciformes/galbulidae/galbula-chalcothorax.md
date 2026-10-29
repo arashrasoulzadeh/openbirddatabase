@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/galbula-chalcothorax/1.jpg
+  page: https://www.inaturalist.org/photos/426775726
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775726/original.jpg
+images:
+- file: images/piciformes/galbulidae/galbula-chalcothorax/1.jpg
+  page: https://www.inaturalist.org/photos/426775726
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775726/original.jpg
+- file: images/piciformes/galbulidae/galbula-chalcothorax/2.jpg
+  page: https://www.inaturalist.org/photos/500003976
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500003976/original.jpg
+- file: images/piciformes/galbulidae/galbula-chalcothorax/3.jpg
+  page: https://www.inaturalist.org/photos/335223419
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335223419/original.jpeg
+- file: images/piciformes/galbulidae/galbula-chalcothorax/4.jpg
+  page: https://www.inaturalist.org/photos/500003986
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500003986/original.jpg
+- file: images/piciformes/galbulidae/galbula-chalcothorax/5.jpg
+  page: https://www.inaturalist.org/photos/500004001
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500004001/original.jpg
 ---
 
 

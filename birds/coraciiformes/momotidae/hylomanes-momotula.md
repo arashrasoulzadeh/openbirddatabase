@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/momotidae/hylomanes-momotula/1.jpg
+  page: https://www.inaturalist.org/photos/613507711
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613507711/original.jpg
+images:
+- file: images/coraciiformes/momotidae/hylomanes-momotula/1.jpg
+  page: https://www.inaturalist.org/photos/613507711
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613507711/original.jpg
+- file: images/coraciiformes/momotidae/hylomanes-momotula/2.jpg
+  page: https://www.inaturalist.org/photos/640898800
+  author: Jeff Bartlett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640898800/original.jpg
+- file: images/coraciiformes/momotidae/hylomanes-momotula/3.jpg
+  page: https://www.inaturalist.org/photos/732313120
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732313120/original.jpg
+- file: images/coraciiformes/momotidae/hylomanes-momotula/4.jpg
+  page: https://www.inaturalist.org/photos/551593793
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551593793/original.jpg
+- file: images/coraciiformes/momotidae/hylomanes-momotula/5.jpg
+  page: https://www.inaturalist.org/photos/598141273
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598141273/original.jpg
 ---
 
 

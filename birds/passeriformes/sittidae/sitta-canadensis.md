@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/sittidae/sitta-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/605489534
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605489534/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/605489534
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605489534/original.jpg
+- file: images/passeriformes/sittidae/sitta-canadensis/2.jpg
+  page: https://www.inaturalist.org/photos/604664823
+  author: sofi v
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604664823/original.jpg
+- file: images/passeriformes/sittidae/sitta-canadensis/3.jpg
+  page: https://www.inaturalist.org/photos/604498896
+  author: Chris Stahl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604498896/original.jpg
+- file: images/passeriformes/sittidae/sitta-canadensis/4.jpg
+  page: https://www.inaturalist.org/photos/605466637
+  author: Cam Fox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605466637/original.jpg
+- file: images/passeriformes/sittidae/sitta-canadensis/5.jpg
+  page: https://www.inaturalist.org/photos/604840896
+  author: M. Whitson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604840896/original.jpg
 ---
 
 

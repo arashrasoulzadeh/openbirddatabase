@@ -130,8 +130,29 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/eumyias-sanfordi/1.jpg
+  page: https://www.inaturalist.org/photos/107895665
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107895665/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/eumyias-sanfordi/1.jpg
+  page: https://www.inaturalist.org/photos/107895665
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107895665/original.jpeg
+- file: images/passeriformes/muscicapidae/eumyias-sanfordi/2.jpg
+  page: https://www.inaturalist.org/photos/107895696
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107895696/original.jpg
 ---
 
 

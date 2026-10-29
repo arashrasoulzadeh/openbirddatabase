@@ -126,7 +126,8 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 11.8
@@ -140,6 +141,44 @@ reproduction:
   incubation_days: 12
   clutch_size_mean: 4.0
   broods_per_year: 1
+image:
+  file: images/passeriformes/passerellidae/spizelloides-arborea/1.jpg
+  page: https://www.inaturalist.org/photos/605156252
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605156252/original.jpg
+images:
+- file: images/passeriformes/passerellidae/spizelloides-arborea/1.jpg
+  page: https://www.inaturalist.org/photos/605156252
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605156252/original.jpg
+- file: images/passeriformes/passerellidae/spizelloides-arborea/2.jpg
+  page: https://www.inaturalist.org/photos/605710287
+  author: Quinten Wiegersma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605710287/original.jpg
+- file: images/passeriformes/passerellidae/spizelloides-arborea/3.jpg
+  page: https://www.inaturalist.org/photos/605240969
+  author: Bill Keim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605240969/original.jpg
+- file: images/passeriformes/passerellidae/spizelloides-arborea/4.jpg
+  page: https://www.inaturalist.org/photos/605521900
+  author: Wyatt Sibilia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605521900/original.jpg
+- file: images/passeriformes/passerellidae/spizelloides-arborea/5.jpg
+  page: https://www.inaturalist.org/photos/604603002
+  author: Jesse PC
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604603002/original.jpg
 ---
 
 

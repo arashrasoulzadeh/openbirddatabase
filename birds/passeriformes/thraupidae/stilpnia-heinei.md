@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 10.7
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 74.0
   tail_length_mm: 48.3
   body_mass_g: 20.2
+image:
+  file: images/passeriformes/thraupidae/stilpnia-heinei/1.jpg
+  page: https://www.inaturalist.org/photos/612268149
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612268149/original.jpg
+images:
+- file: images/passeriformes/thraupidae/stilpnia-heinei/1.jpg
+  page: https://www.inaturalist.org/photos/612268149
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612268149/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-heinei/2.jpg
+  page: https://www.inaturalist.org/photos/610883618
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610883618/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-heinei/3.jpg
+  page: https://www.inaturalist.org/photos/612966152
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612966152/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-heinei/4.jpg
+  page: https://www.inaturalist.org/photos/609819753
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609819753/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-heinei/5.jpg
+  page: https://www.inaturalist.org/photos/701032125
+  author: Manuel Ortiz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701032125/original.jpg
 ---
 
 

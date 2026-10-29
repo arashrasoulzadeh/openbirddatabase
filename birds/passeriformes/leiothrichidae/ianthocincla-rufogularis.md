@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/ianthocincla-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/615635658
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635658/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/ianthocincla-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/615635658
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615635658/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-rufogularis/2.jpg
+  page: https://www.inaturalist.org/photos/414817787
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414817787/original.jpeg
+- file: images/passeriformes/leiothrichidae/ianthocincla-rufogularis/3.jpg
+  page: https://www.inaturalist.org/photos/263833218
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263833218/original.jpg
+- file: images/passeriformes/leiothrichidae/ianthocincla-rufogularis/4.jpg
+  page: https://www.inaturalist.org/photos/174826244
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174826244/original.jpeg
+- file: images/passeriformes/leiothrichidae/ianthocincla-rufogularis/5.jpg
+  page: https://www.inaturalist.org/photos/112122766
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/112122766/original.jpg
 ---
 
 

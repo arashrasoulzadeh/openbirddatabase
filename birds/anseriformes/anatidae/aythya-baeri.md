@@ -159,8 +159,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/aythya-baeri/1.jpg
+  page: https://www.inaturalist.org/photos/606775162
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606775162/original.jpg
+images:
+- file: images/anseriformes/anatidae/aythya-baeri/1.jpg
+  page: https://www.inaturalist.org/photos/606775162
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606775162/original.jpg
+- file: images/anseriformes/anatidae/aythya-baeri/2.jpg
+  page: https://www.inaturalist.org/photos/618622851
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618622851/original.jpg
+- file: images/anseriformes/anatidae/aythya-baeri/3.jpg
+  page: https://www.inaturalist.org/photos/626049441
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626049441/original.jpg
+- file: images/anseriformes/anatidae/aythya-baeri/4.jpg
+  page: https://www.inaturalist.org/photos/618622870
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618622870/original.jpg
+- file: images/anseriformes/anatidae/aythya-baeri/5.jpg
+  page: https://www.inaturalist.org/photos/618622886
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618622886/original.jpg
 ---
 
 

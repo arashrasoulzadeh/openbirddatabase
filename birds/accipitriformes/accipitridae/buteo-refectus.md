@@ -143,7 +143,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 33.4
@@ -151,6 +152,44 @@ morphology:
   wing_length_mm: 346.0
   tail_length_mm: 173.3
   body_mass_g: 759.1
+image:
+  file: images/accipitriformes/accipitridae/buteo-refectus/1.jpg
+  page: https://www.inaturalist.org/photos/638815343
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638815343/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-refectus/1.jpg
+  page: https://www.inaturalist.org/photos/638815343
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638815343/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-refectus/2.jpg
+  page: https://www.inaturalist.org/photos/521252020
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521252020/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-refectus/3.jpg
+  page: https://www.inaturalist.org/photos/585538818
+  author: V_Nebenfuehr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585538818/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-refectus/4.jpg
+  page: https://www.inaturalist.org/photos/603812184
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603812184/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-refectus/5.jpg
+  page: https://www.inaturalist.org/photos/592232266
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592232266/original.jpg
 ---
 
 

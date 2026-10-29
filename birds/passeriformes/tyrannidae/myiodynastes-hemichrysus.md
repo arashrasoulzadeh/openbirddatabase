@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiodynastes-hemichrysus/1.jpg
+  page: https://www.inaturalist.org/photos/612625918
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612625918/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiodynastes-hemichrysus/1.jpg
+  page: https://www.inaturalist.org/photos/612625918
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612625918/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-hemichrysus/2.jpg
+  page: https://www.inaturalist.org/photos/624744929
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624744929/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-hemichrysus/3.jpg
+  page: https://www.inaturalist.org/photos/652805704
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652805704/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-hemichrysus/4.jpg
+  page: https://www.inaturalist.org/photos/657975078
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657975078/original.jpg
+- file: images/passeriformes/tyrannidae/myiodynastes-hemichrysus/5.jpg
+  page: https://www.inaturalist.org/photos/666193904
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666193904/original.jpg
 ---
 
 

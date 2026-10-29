@@ -126,7 +126,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.0
@@ -134,6 +135,20 @@ morphology:
   wing_length_mm: 94.2
   tail_length_mm: 88.5
   body_mass_g: 39.3
+image:
+  file: images/passeriformes/leiothrichidae/actinodura-souliei/1.jpg
+  page: https://www.inaturalist.org/photos/337839233
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337839233/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/actinodura-souliei/1.jpg
+  page: https://www.inaturalist.org/photos/337839233
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337839233/original.jpeg
 ---
 
 

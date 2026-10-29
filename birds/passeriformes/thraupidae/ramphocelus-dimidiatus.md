@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/ramphocelus-dimidiatus/1.jpg
+  page: https://www.inaturalist.org/photos/608707762
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608707762/original.jpg
+images:
+- file: images/passeriformes/thraupidae/ramphocelus-dimidiatus/1.jpg
+  page: https://www.inaturalist.org/photos/608707762
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608707762/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-dimidiatus/2.jpg
+  page: https://www.inaturalist.org/photos/608703480
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608703480/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-dimidiatus/3.jpg
+  page: https://www.inaturalist.org/photos/612393864
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612393864/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-dimidiatus/4.jpg
+  page: https://www.inaturalist.org/photos/612471562
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612471562/original.jpg
+- file: images/passeriformes/thraupidae/ramphocelus-dimidiatus/5.jpg
+  page: https://www.inaturalist.org/photos/612066864
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612066864/original.jpg
 ---
 
 

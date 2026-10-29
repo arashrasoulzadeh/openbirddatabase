@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/parulidae/oporornis-agilis/1.jpg
+  page: https://www.inaturalist.org/photos/653287982
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653287982/original.jpg
+images:
+- file: images/passeriformes/parulidae/oporornis-agilis/1.jpg
+  page: https://www.inaturalist.org/photos/653287982
+  author: ian bullock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653287982/original.jpg
+- file: images/passeriformes/parulidae/oporornis-agilis/2.jpg
+  page: https://www.inaturalist.org/photos/662091538
+  author: Hunter Hammil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662091538/original.jpg
+- file: images/passeriformes/parulidae/oporornis-agilis/3.jpg
+  page: https://www.inaturalist.org/photos/667948370
+  author: Quinten Wiegersma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667948370/original.jpg
+- file: images/passeriformes/parulidae/oporornis-agilis/4.jpg
+  page: https://www.inaturalist.org/photos/665849656
+  author: Conway Hawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665849656/original.jpg
+- file: images/passeriformes/parulidae/oporornis-agilis/5.jpg
+  page: https://www.inaturalist.org/photos/671373744
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671373744/original.jpg
 ---
 
 

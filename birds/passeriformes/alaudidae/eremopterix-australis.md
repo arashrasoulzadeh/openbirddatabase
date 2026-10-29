@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/eremopterix-australis/1.jpg
+  page: https://www.inaturalist.org/photos/267558236
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267558236/original.jpg
+images:
+- file: images/passeriformes/alaudidae/eremopterix-australis/1.jpg
+  page: https://www.inaturalist.org/photos/267558236
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267558236/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-australis/2.jpg
+  page: https://www.inaturalist.org/photos/285848225
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285848225/original.jpeg
+- file: images/passeriformes/alaudidae/eremopterix-australis/3.jpg
+  page: https://www.inaturalist.org/photos/250157559
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250157559/original.jpeg
+- file: images/passeriformes/alaudidae/eremopterix-australis/4.jpg
+  page: https://www.inaturalist.org/photos/92975373
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92975373/original.jpeg
+- file: images/passeriformes/alaudidae/eremopterix-australis/5.jpg
+  page: https://www.inaturalist.org/photos/267558297
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267558297/original.jpg
 ---
 
 

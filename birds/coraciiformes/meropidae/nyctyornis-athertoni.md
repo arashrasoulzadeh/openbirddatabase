@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/nyctyornis-athertoni/1.jpg
+  page: https://www.inaturalist.org/photos/619854273
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619854273/original.jpg
+images:
+- file: images/coraciiformes/meropidae/nyctyornis-athertoni/1.jpg
+  page: https://www.inaturalist.org/photos/619854273
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619854273/original.jpg
+- file: images/coraciiformes/meropidae/nyctyornis-athertoni/2.jpg
+  page: https://www.inaturalist.org/photos/626679969
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626679969/original.jpg
+- file: images/coraciiformes/meropidae/nyctyornis-athertoni/3.jpg
+  page: https://www.inaturalist.org/photos/637939217
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637939217/original.jpg
+- file: images/coraciiformes/meropidae/nyctyornis-athertoni/4.jpg
+  page: https://www.inaturalist.org/photos/630515343
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630515343/original.jpg
+- file: images/coraciiformes/meropidae/nyctyornis-athertoni/5.jpg
+  page: https://www.inaturalist.org/photos/655477901
+  author: Ahirbudhnyan M
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655477901/original.jpg
 ---
 
 

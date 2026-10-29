@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/anseriformes/anatidae/netta-peposaca/1.jpg
+  page: https://www.inaturalist.org/photos/606234075
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606234075/original.jpg
+images:
+- file: images/anseriformes/anatidae/netta-peposaca/1.jpg
+  page: https://www.inaturalist.org/photos/606234075
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606234075/original.jpg
+- file: images/anseriformes/anatidae/netta-peposaca/2.jpg
+  page: https://www.inaturalist.org/photos/610715742
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610715742/original.jpg
+- file: images/anseriformes/anatidae/netta-peposaca/3.jpg
+  page: https://www.inaturalist.org/photos/609369508
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609369508/original.jpg
+- file: images/anseriformes/anatidae/netta-peposaca/4.jpg
+  page: https://www.inaturalist.org/photos/614592651
+  author: cactusauria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614592651/original.jpg
+- file: images/anseriformes/anatidae/netta-peposaca/5.jpg
+  page: https://www.inaturalist.org/photos/718591731
+  author: Sebastián Fornés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718591731/original.jpg
 ---
 
 

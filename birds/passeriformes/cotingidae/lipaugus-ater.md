@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/lipaugus-ater/1.jpg
+  page: https://www.inaturalist.org/photos/706284235
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706284235/original.jpg
+images:
+- file: images/passeriformes/cotingidae/lipaugus-ater/1.jpg
+  page: https://www.inaturalist.org/photos/706284235
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706284235/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-ater/2.jpg
+  page: https://www.inaturalist.org/photos/689683179
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689683179/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-ater/3.jpg
+  page: https://www.inaturalist.org/photos/545030403
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545030403/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-ater/4.jpg
+  page: https://www.inaturalist.org/photos/587640261
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587640261/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-ater/5.jpg
+  page: https://www.inaturalist.org/photos/450048194
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450048194/original.jpeg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/arachnothera-chrysogenys/1.jpg
+  page: https://www.inaturalist.org/photos/620373854
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620373854/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/arachnothera-chrysogenys/1.jpg
+  page: https://www.inaturalist.org/photos/620373854
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620373854/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-chrysogenys/2.jpg
+  page: https://www.inaturalist.org/photos/618642970
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618642970/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-chrysogenys/3.jpg
+  page: https://www.inaturalist.org/photos/629865610
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629865610/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-chrysogenys/4.jpg
+  page: https://www.inaturalist.org/photos/351345717
+  author: Victor Heng
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351345717/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-chrysogenys/5.jpg
+  page: https://www.inaturalist.org/photos/538534546
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538534546/original.jpg
 ---
 
 

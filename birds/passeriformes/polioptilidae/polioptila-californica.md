@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/polioptilidae/polioptila-californica/1.jpg
+  page: https://www.inaturalist.org/photos/605831098
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605831098/original.jpg
+images:
+- file: images/passeriformes/polioptilidae/polioptila-californica/1.jpg
+  page: https://www.inaturalist.org/photos/605831098
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605831098/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-californica/2.jpg
+  page: https://www.inaturalist.org/photos/622197435
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622197435/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-californica/3.jpg
+  page: https://www.inaturalist.org/photos/646141947
+  author: MarvalPhotography19
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646141947/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-californica/4.jpg
+  page: https://www.inaturalist.org/photos/640248142
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640248142/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-californica/5.jpg
+  page: https://www.inaturalist.org/photos/636869389
+  author: Cristhian Mace
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636869389/original.jpg
 ---
 
 

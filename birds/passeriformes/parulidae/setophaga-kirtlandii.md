@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/parulidae/setophaga-kirtlandii/1.jpg
+  page: https://www.inaturalist.org/photos/661392678
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661392678/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-kirtlandii/1.jpg
+  page: https://www.inaturalist.org/photos/661392678
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661392678/original.jpg
+- file: images/passeriformes/parulidae/setophaga-kirtlandii/2.jpg
+  page: https://www.inaturalist.org/photos/661556318
+  author: Kristy Morley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661556318/original.jpg
+- file: images/passeriformes/parulidae/setophaga-kirtlandii/3.jpg
+  page: https://www.inaturalist.org/photos/660409805
+  author: Andrew Lai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660409805/original.jpg
+- file: images/passeriformes/parulidae/setophaga-kirtlandii/4.jpg
+  page: https://www.inaturalist.org/photos/659913531
+  author: Martyn Drabik-Hamshare
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659913531/original.jpg
+- file: images/passeriformes/parulidae/setophaga-kirtlandii/5.jpg
+  page: https://www.inaturalist.org/photos/662555494
+  author: Toby Ye
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662555494/original.jpg
 ---
 
 

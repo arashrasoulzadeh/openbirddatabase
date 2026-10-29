@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/meliphagidae/melithreptus-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/622799903
+  author: Matthew Lincoln
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622799903/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/melithreptus-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/622799903
+  author: Matthew Lincoln
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622799903/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/669200659
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669200659/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/469840951
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469840951/original.jpeg
+- file: images/passeriformes/meliphagidae/melithreptus-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/523845075
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523845075/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/669200633
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669200633/original.jpg
 ---
 
 

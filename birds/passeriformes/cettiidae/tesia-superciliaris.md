@@ -133,8 +133,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cettiidae/tesia-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/613435178
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435178/original.jpg
+images:
+- file: images/passeriformes/cettiidae/tesia-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/613435178
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435178/original.jpg
+- file: images/passeriformes/cettiidae/tesia-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/600061632
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600061632/original.jpg
+- file: images/passeriformes/cettiidae/tesia-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/433343280
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433343280/original.jpg
+- file: images/passeriformes/cettiidae/tesia-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/450096555
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450096555/original.jpeg
+- file: images/passeriformes/cettiidae/tesia-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/313034366
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313034366/original.jpeg
 ---
 
 

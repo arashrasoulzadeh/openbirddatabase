@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/leptopogon-taczanowskii/1.jpg
+  page: https://www.inaturalist.org/photos/349936644
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349936644/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/leptopogon-taczanowskii/1.jpg
+  page: https://www.inaturalist.org/photos/349936644
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349936644/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-taczanowskii/2.jpg
+  page: https://www.inaturalist.org/photos/326579476
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326579476/original.jpeg
+- file: images/passeriformes/tyrannidae/leptopogon-taczanowskii/3.jpg
+  page: https://www.inaturalist.org/photos/238854001
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238854001/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-taczanowskii/4.jpg
+  page: https://www.inaturalist.org/photos/429732413
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429732413/original.jpeg
+- file: images/passeriformes/tyrannidae/leptopogon-taczanowskii/5.jpg
+  page: https://www.inaturalist.org/photos/326579481
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326579481/original.jpeg
 ---
 
 

@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 46.5
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 113.0
   tail_length_mm: 168.0
   body_mass_g: 55.0
+image:
+  file: images/coraciiformes/meropidae/meropogon-forsteni/1.jpg
+  page: https://www.inaturalist.org/photos/550329240
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550329240/original.jpg
+images:
+- file: images/coraciiformes/meropidae/meropogon-forsteni/1.jpg
+  page: https://www.inaturalist.org/photos/550329240
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550329240/original.jpg
+- file: images/coraciiformes/meropidae/meropogon-forsteni/2.jpg
+  page: https://www.inaturalist.org/photos/416842560
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416842560/original.jpeg
+- file: images/coraciiformes/meropidae/meropogon-forsteni/3.jpg
+  page: https://www.inaturalist.org/photos/107806053
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107806053/original.jpg
+- file: images/coraciiformes/meropidae/meropogon-forsteni/4.jpg
+  page: https://www.inaturalist.org/photos/64408640
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408640/original.jpg
+- file: images/coraciiformes/meropidae/meropogon-forsteni/5.jpg
+  page: https://www.inaturalist.org/photos/550329272
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550329272/original.jpg
 ---
 
 

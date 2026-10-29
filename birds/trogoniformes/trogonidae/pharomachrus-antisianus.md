@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/pharomachrus-antisianus/1.jpg
+  page: https://www.inaturalist.org/photos/583996419
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583996419/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/pharomachrus-antisianus/1.jpg
+  page: https://www.inaturalist.org/photos/583996419
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583996419/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-antisianus/2.jpg
+  page: https://www.inaturalist.org/photos/485023128
+  author: Hugo Bernal Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485023128/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-antisianus/3.jpg
+  page: https://www.inaturalist.org/photos/458477855
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458477855/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-antisianus/4.jpg
+  page: https://www.inaturalist.org/photos/264013272
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264013272/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-antisianus/5.jpg
+  page: https://www.inaturalist.org/photos/412307927
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412307927/original.jpg
 ---
 
 

@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/charadriiformes/laridae/larus-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/605294841
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605294841/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/605294841
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605294841/original.jpg
+- file: images/charadriiformes/laridae/larus-occidentalis/2.jpg
+  page: https://www.inaturalist.org/photos/605261047
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605261047/original.jpg
+- file: images/charadriiformes/laridae/larus-occidentalis/3.jpg
+  page: https://www.inaturalist.org/photos/607282093
+  author: Dominic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607282093/original.jpg
+- file: images/charadriiformes/laridae/larus-occidentalis/4.jpg
+  page: https://www.inaturalist.org/photos/607329181
+  author: Bennett Grappone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607329181/original.jpg
+- file: images/charadriiformes/laridae/larus-occidentalis/5.jpg
+  page: https://www.inaturalist.org/photos/605294608
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605294608/original.jpg
 ---
 
 

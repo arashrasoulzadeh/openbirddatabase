@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/gaviiformes/gaviidae/gavia-adamsii/1.jpg
+  page: https://www.inaturalist.org/photos/615860996
+  author: Geoff Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615860996/original.jpg
+images:
+- file: images/gaviiformes/gaviidae/gavia-adamsii/1.jpg
+  page: https://www.inaturalist.org/photos/615860996
+  author: Geoff Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615860996/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-adamsii/2.jpg
+  page: https://www.inaturalist.org/photos/616249891
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616249891/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-adamsii/3.jpg
+  page: https://www.inaturalist.org/photos/620498139
+  author: Adam Leigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620498139/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-adamsii/4.jpg
+  page: https://www.inaturalist.org/photos/625461168
+  author: Aiva Noringseth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625461168/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-adamsii/5.jpg
+  page: https://www.inaturalist.org/photos/627792444
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627792444/original.jpg
 ---
 
 

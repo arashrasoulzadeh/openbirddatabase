@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-lafresnayii/1.jpg
+  page: https://www.inaturalist.org/photos/606321865
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606321865/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-lafresnayii/1.jpg
+  page: https://www.inaturalist.org/photos/606321865
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606321865/original.jpg
+- file: images/coraciiformes/meropidae/merops-lafresnayii/2.jpg
+  page: https://www.inaturalist.org/photos/361016117
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361016117/original.jpeg
+- file: images/coraciiformes/meropidae/merops-lafresnayii/3.jpg
+  page: https://www.inaturalist.org/photos/441668029
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441668029/original.jpeg
+- file: images/coraciiformes/meropidae/merops-lafresnayii/4.jpg
+  page: https://www.inaturalist.org/photos/62983399
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62983399/original.jpeg
+- file: images/coraciiformes/meropidae/merops-lafresnayii/5.jpg
+  page: https://www.inaturalist.org/photos/608315595
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608315595/original.jpg
 ---
 
 

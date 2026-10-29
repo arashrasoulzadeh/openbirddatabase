@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/tachybaptus-dominicus/1.jpg
+  page: https://www.inaturalist.org/photos/605479023
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605479023/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/tachybaptus-dominicus/1.jpg
+  page: https://www.inaturalist.org/photos/605479023
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605479023/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-dominicus/2.jpg
+  page: https://www.inaturalist.org/photos/607716676
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607716676/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-dominicus/3.jpg
+  page: https://www.inaturalist.org/photos/609587763
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609587763/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-dominicus/4.jpg
+  page: https://www.inaturalist.org/photos/607784808
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784808/original.jpg
+- file: images/podicipediformes/podicipedidae/tachybaptus-dominicus/5.jpg
+  page: https://www.inaturalist.org/photos/608713264
+  author: Terry Woodward
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608713264/original.jpg
 ---
 
 

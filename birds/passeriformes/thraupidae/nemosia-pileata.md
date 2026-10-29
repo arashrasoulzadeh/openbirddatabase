@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/nemosia-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/612751361
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612751361/original.jpg
+images:
+- file: images/passeriformes/thraupidae/nemosia-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/612751361
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612751361/original.jpg
+- file: images/passeriformes/thraupidae/nemosia-pileata/2.jpg
+  page: https://www.inaturalist.org/photos/611953988
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611953988/original.jpg
+- file: images/passeriformes/thraupidae/nemosia-pileata/3.jpg
+  page: https://www.inaturalist.org/photos/642923166
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642923166/original.jpg
+- file: images/passeriformes/thraupidae/nemosia-pileata/4.jpg
+  page: https://www.inaturalist.org/photos/689824031
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689824031/original.jpg
+- file: images/passeriformes/thraupidae/nemosia-pileata/5.jpg
+  page: https://www.inaturalist.org/photos/669465994
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669465994/original.jpg
 ---
 
 

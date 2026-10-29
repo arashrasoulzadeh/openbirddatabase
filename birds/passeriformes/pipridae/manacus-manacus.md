@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/pipridae/manacus-manacus/1.jpg
+  page: https://www.inaturalist.org/photos/610444786
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610444786/original.jpg
+images:
+- file: images/passeriformes/pipridae/manacus-manacus/1.jpg
+  page: https://www.inaturalist.org/photos/610444786
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610444786/original.jpg
+- file: images/passeriformes/pipridae/manacus-manacus/2.jpg
+  page: https://www.inaturalist.org/photos/607012465
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607012465/original.jpg
+- file: images/passeriformes/pipridae/manacus-manacus/3.jpg
+  page: https://www.inaturalist.org/photos/611673537
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611673537/original.jpg
+- file: images/passeriformes/pipridae/manacus-manacus/4.jpg
+  page: https://www.inaturalist.org/photos/615848177
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615848177/original.jpg
+- file: images/passeriformes/pipridae/manacus-manacus/5.jpg
+  page: https://www.inaturalist.org/photos/615561056
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615561056/original.jpg
 ---
 
 

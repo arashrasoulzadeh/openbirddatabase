@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/ptilotula-plumula/1.jpg
+  page: https://www.inaturalist.org/photos/726802862
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726802862/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/ptilotula-plumula/1.jpg
+  page: https://www.inaturalist.org/photos/726802862
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726802862/original.jpg
+- file: images/passeriformes/meliphagidae/ptilotula-plumula/2.jpg
+  page: https://www.inaturalist.org/photos/743079366
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743079366/original.jpg
+- file: images/passeriformes/meliphagidae/ptilotula-plumula/3.jpg
+  page: https://www.inaturalist.org/photos/583946370
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583946370/original.jpg
+- file: images/passeriformes/meliphagidae/ptilotula-plumula/4.jpg
+  page: https://www.inaturalist.org/photos/581544463
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581544463/original.jpg
+- file: images/passeriformes/meliphagidae/ptilotula-plumula/5.jpg
+  page: https://www.inaturalist.org/photos/367148802
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367148802/original.jpeg
 ---
 
 

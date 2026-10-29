@@ -120,8 +120,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-mindorensis/1.jpg
+  page: https://www.inaturalist.org/photos/176655307
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655307/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-mindorensis/1.jpg
+  page: https://www.inaturalist.org/photos/176655307
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655307/original.jpg
+- file: images/passeriformes/campephagidae/coracina-mindorensis/2.jpg
+  page: https://www.inaturalist.org/photos/176655311
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655311/original.jpg
+- file: images/passeriformes/campephagidae/coracina-mindorensis/3.jpg
+  page: https://www.inaturalist.org/photos/176655329
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655329/original.jpg
 ---
 
 

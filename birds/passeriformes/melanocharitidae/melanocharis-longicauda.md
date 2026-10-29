@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/melanocharitidae/melanocharis-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/614910732
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910732/original.jpg
+images:
+- file: images/passeriformes/melanocharitidae/melanocharis-longicauda/1.jpg
+  page: https://www.inaturalist.org/photos/614910732
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910732/original.jpg
+- file: images/passeriformes/melanocharitidae/melanocharis-longicauda/2.jpg
+  page: https://www.inaturalist.org/photos/336015206
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336015206/original.jpg
+- file: images/passeriformes/melanocharitidae/melanocharis-longicauda/3.jpg
+  page: https://www.inaturalist.org/photos/615126850
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615126850/original.jpg
+- file: images/passeriformes/melanocharitidae/melanocharis-longicauda/4.jpg
+  page: https://www.inaturalist.org/photos/615126856
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615126856/original.jpg
+- file: images/passeriformes/melanocharitidae/melanocharis-longicauda/5.jpg
+  page: https://www.inaturalist.org/photos/615127046
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615127046/original.jpg
 ---
 
 

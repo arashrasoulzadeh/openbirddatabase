@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/arenaria-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/604956383
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604956383/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/arenaria-melanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/604956383
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604956383/original.jpg
+- file: images/charadriiformes/scolopacidae/arenaria-melanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/605292072
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605292072/original.jpg
+- file: images/charadriiformes/scolopacidae/arenaria-melanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/610964155
+  author: Spencer Hurt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610964155/original.jpg
+- file: images/charadriiformes/scolopacidae/arenaria-melanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/610468766
+  author: Timothy McNitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610468766/original.jpg
+- file: images/charadriiformes/scolopacidae/arenaria-melanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/607855029
+  author: T. J. Samojedny
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607855029/original.jpg
 ---
 
 

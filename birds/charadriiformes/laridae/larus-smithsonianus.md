@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 49
+image:
+  file: images/charadriiformes/laridae/larus-smithsonianus/1.jpg
+  page: https://www.inaturalist.org/photos/605122208
+  author: Logan Mcquitty
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605122208/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-smithsonianus/1.jpg
+  page: https://www.inaturalist.org/photos/605122208
+  author: Logan Mcquitty
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605122208/original.jpg
+- file: images/charadriiformes/laridae/larus-smithsonianus/2.jpg
+  page: https://www.inaturalist.org/photos/605005747
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605005747/original.jpg
+- file: images/charadriiformes/laridae/larus-smithsonianus/3.jpg
+  page: https://www.inaturalist.org/photos/605360941
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360941/original.jpg
+- file: images/charadriiformes/laridae/larus-smithsonianus/4.jpg
+  page: https://www.inaturalist.org/photos/605187458
+  author: worldbird
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605187458/original.jpg
+- file: images/charadriiformes/laridae/larus-smithsonianus/5.jpg
+  page: https://www.inaturalist.org/photos/605541718
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605541718/original.jpg
 ---
 
 

@@ -154,7 +154,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 30.7
@@ -162,6 +163,44 @@ morphology:
   wing_length_mm: 148.2
   tail_length_mm: 282.3
   body_mass_g: 102.0
+image:
+  file: images/cuculiformes/cuculidae/piaya-mexicana/1.jpg
+  page: https://www.inaturalist.org/photos/604840683
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604840683/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/piaya-mexicana/1.jpg
+  page: https://www.inaturalist.org/photos/604840683
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604840683/original.jpg
+- file: images/cuculiformes/cuculidae/piaya-mexicana/2.jpg
+  page: https://www.inaturalist.org/photos/605579569
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605579569/original.jpg
+- file: images/cuculiformes/cuculidae/piaya-mexicana/3.jpg
+  page: https://www.inaturalist.org/photos/604589424
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604589424/original.jpg
+- file: images/cuculiformes/cuculidae/piaya-mexicana/4.jpg
+  page: https://www.inaturalist.org/photos/607702853
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607702853/original.jpg
+- file: images/cuculiformes/cuculidae/piaya-mexicana/5.jpg
+  page: https://www.inaturalist.org/photos/610512047
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610512047/original.jpg
 ---
 
 

@@ -137,8 +137,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/bleda-ugandae/1.jpg
+  page: https://www.inaturalist.org/photos/562149345
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562149345/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/bleda-ugandae/1.jpg
+  page: https://www.inaturalist.org/photos/562149345
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562149345/original.jpg
+- file: images/passeriformes/pycnonotidae/bleda-ugandae/2.jpg
+  page: https://www.inaturalist.org/photos/562149344
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562149344/original.jpg
 ---
 
 

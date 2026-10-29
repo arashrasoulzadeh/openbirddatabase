@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/galliformes/phasianidae/arborophila-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/611195244
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611195244/original.jpg
+images:
+- file: images/galliformes/phasianidae/arborophila-rufogularis/1.jpg
+  page: https://www.inaturalist.org/photos/611195244
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611195244/original.jpg
+- file: images/galliformes/phasianidae/arborophila-rufogularis/2.jpg
+  page: https://www.inaturalist.org/photos/611834148
+  author: Andrea Goddard
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611834148/original.jpg
+- file: images/galliformes/phasianidae/arborophila-rufogularis/3.jpg
+  page: https://www.inaturalist.org/photos/616346808
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616346808/original.jpg
+- file: images/galliformes/phasianidae/arborophila-rufogularis/4.jpg
+  page: https://www.inaturalist.org/photos/631332464
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631332464/original.jpg
+- file: images/galliformes/phasianidae/arborophila-rufogularis/5.jpg
+  page: https://www.inaturalist.org/photos/358956300
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358956300/original.jpeg
 ---
 
 

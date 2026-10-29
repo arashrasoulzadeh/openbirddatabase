@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/leucopternis-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/467979936
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467979936/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/leucopternis-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/467979936
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467979936/original.jpg
+- file: images/accipitriformes/accipitridae/leucopternis-melanops/2.jpg
+  page: https://www.inaturalist.org/photos/467858213
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467858213/original.jpeg
+- file: images/accipitriformes/accipitridae/leucopternis-melanops/3.jpg
+  page: https://www.inaturalist.org/photos/261946605
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261946605/original.jpeg
+- file: images/accipitriformes/accipitridae/leucopternis-melanops/4.jpg
+  page: https://www.inaturalist.org/photos/338454071
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338454071/original.jpg
+- file: images/accipitriformes/accipitridae/leucopternis-melanops/5.jpg
+  page: https://www.inaturalist.org/photos/107922693
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107922693/original.jpg
 ---
 
 

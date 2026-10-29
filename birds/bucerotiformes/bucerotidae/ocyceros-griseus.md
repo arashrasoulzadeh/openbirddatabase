@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/ocyceros-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/704283052
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704283052/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/ocyceros-griseus/1.jpg
+  page: https://www.inaturalist.org/photos/704283052
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704283052/original.jpg
+- file: images/bucerotiformes/bucerotidae/ocyceros-griseus/2.jpg
+  page: https://www.inaturalist.org/photos/617166163
+  author: citi2024
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617166163/original.jpg
+- file: images/bucerotiformes/bucerotidae/ocyceros-griseus/3.jpg
+  page: https://www.inaturalist.org/photos/617206965
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206965/original.jpg
+- file: images/bucerotiformes/bucerotidae/ocyceros-griseus/4.jpg
+  page: https://www.inaturalist.org/photos/623609527
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623609527/original.jpg
+- file: images/bucerotiformes/bucerotidae/ocyceros-griseus/5.jpg
+  page: https://www.inaturalist.org/photos/627622533
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627622533/original.jpg
 ---
 
 

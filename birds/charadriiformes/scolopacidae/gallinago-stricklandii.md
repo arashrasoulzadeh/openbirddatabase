@@ -148,8 +148,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-stricklandii/1.jpg
+  page: https://www.inaturalist.org/photos/256094193
+  author: Sebastián Saiter V.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256094193/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-stricklandii/1.jpg
+  page: https://www.inaturalist.org/photos/256094193
+  author: Sebastián Saiter V.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256094193/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-stricklandii/2.jpg
+  page: https://www.inaturalist.org/photos/256094887
+  author: Sebastián Saiter V.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256094887/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-stricklandii/3.jpg
+  page: https://www.inaturalist.org/photos/256096366
+  author: Sebastián Saiter V.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256096366/original.jpeg
+- file: images/charadriiformes/scolopacidae/gallinago-stricklandii/4.jpg
+  page: https://www.inaturalist.org/photos/256096370
+  author: Sebastián Saiter V.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256096370/original.jpeg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/macrosphenidae/sphenoeacus-afer/1.jpg
+  page: https://www.inaturalist.org/photos/610997869
+  author: William Keenan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610997869/original.jpg
+images:
+- file: images/passeriformes/macrosphenidae/sphenoeacus-afer/1.jpg
+  page: https://www.inaturalist.org/photos/610997869
+  author: William Keenan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610997869/original.jpg
+- file: images/passeriformes/macrosphenidae/sphenoeacus-afer/2.jpg
+  page: https://www.inaturalist.org/photos/611865327
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611865327/original.jpg
+- file: images/passeriformes/macrosphenidae/sphenoeacus-afer/3.jpg
+  page: https://www.inaturalist.org/photos/654129451
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654129451/original.jpg
+- file: images/passeriformes/macrosphenidae/sphenoeacus-afer/4.jpg
+  page: https://www.inaturalist.org/photos/649612994
+  author: flamelily
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649612994/original.jpg
+- file: images/passeriformes/macrosphenidae/sphenoeacus-afer/5.jpg
+  page: https://www.inaturalist.org/photos/680146100
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680146100/original.jpg
 ---
 
 

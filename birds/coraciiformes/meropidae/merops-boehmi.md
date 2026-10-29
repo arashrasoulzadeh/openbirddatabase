@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-boehmi/1.jpg
+  page: https://www.inaturalist.org/photos/614194713
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614194713/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-boehmi/1.jpg
+  page: https://www.inaturalist.org/photos/614194713
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614194713/original.jpg
+- file: images/coraciiformes/meropidae/merops-boehmi/2.jpg
+  page: https://www.inaturalist.org/photos/586466896
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586466896/original.jpg
+- file: images/coraciiformes/meropidae/merops-boehmi/3.jpg
+  page: https://www.inaturalist.org/photos/442073108
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442073108/original.jpg
+- file: images/coraciiformes/meropidae/merops-boehmi/4.jpg
+  page: https://www.inaturalist.org/photos/350544842
+  author: Liliana Ramírez-Freire
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350544842/original.jpeg
+- file: images/coraciiformes/meropidae/merops-boehmi/5.jpg
+  page: https://www.inaturalist.org/photos/477075757
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477075757/original.jpg
 ---
 
 

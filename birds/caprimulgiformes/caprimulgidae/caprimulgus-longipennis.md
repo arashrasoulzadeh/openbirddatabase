@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-longipennis/1.jpg
+  page: https://www.inaturalist.org/photos/612771722
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771722/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-longipennis/1.jpg
+  page: https://www.inaturalist.org/photos/612771722
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771722/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-longipennis/2.jpg
+  page: https://www.inaturalist.org/photos/607852144
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607852144/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-longipennis/3.jpg
+  page: https://www.inaturalist.org/photos/355591411
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355591411/original.png
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-longipennis/4.jpg
+  page: https://www.inaturalist.org/photos/181214242
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181214242/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-longipennis/5.jpg
+  page: https://www.inaturalist.org/photos/440113459
+  author: abotto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440113459/original.jpeg
 ---
 
 

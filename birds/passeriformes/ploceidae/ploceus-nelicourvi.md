@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-nelicourvi/1.jpg
+  page: https://www.inaturalist.org/photos/636135875
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636135875/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-nelicourvi/1.jpg
+  page: https://www.inaturalist.org/photos/636135875
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636135875/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-nelicourvi/2.jpg
+  page: https://www.inaturalist.org/photos/474706622
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474706622/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-nelicourvi/3.jpg
+  page: https://www.inaturalist.org/photos/387299831
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387299831/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-nelicourvi/4.jpg
+  page: https://www.inaturalist.org/photos/440940026
+  author: Matej Otruba
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440940026/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-nelicourvi/5.jpg
+  page: https://www.inaturalist.org/photos/446024339
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446024339/original.jpeg
 ---
 
 

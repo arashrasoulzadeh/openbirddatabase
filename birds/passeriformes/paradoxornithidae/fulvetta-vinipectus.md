@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/fulvetta-vinipectus/1.jpg
+  page: https://www.inaturalist.org/photos/463931742
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463931742/original.jpeg
+images:
+- file: images/passeriformes/paradoxornithidae/fulvetta-vinipectus/1.jpg
+  page: https://www.inaturalist.org/photos/463931742
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463931742/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-vinipectus/2.jpg
+  page: https://www.inaturalist.org/photos/487054649
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054649/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-vinipectus/3.jpg
+  page: https://www.inaturalist.org/photos/463931773
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463931773/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-vinipectus/4.jpg
+  page: https://www.inaturalist.org/photos/463931740
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463931740/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-vinipectus/5.jpg
+  page: https://www.inaturalist.org/photos/463930974
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463930974/original.jpeg
 ---
 
 

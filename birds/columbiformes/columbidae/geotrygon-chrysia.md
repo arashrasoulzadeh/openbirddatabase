@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geotrygon-chrysia/1.jpg
+  page: https://www.inaturalist.org/photos/629333984
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629333984/original.jpg
+images:
+- file: images/columbiformes/columbidae/geotrygon-chrysia/1.jpg
+  page: https://www.inaturalist.org/photos/629333984
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629333984/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-chrysia/2.jpg
+  page: https://www.inaturalist.org/photos/635169762
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635169762/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-chrysia/3.jpg
+  page: https://www.inaturalist.org/photos/602400564
+  author: Aidan Broome
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602400564/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-chrysia/4.jpg
+  page: https://www.inaturalist.org/photos/603770844
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603770844/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-chrysia/5.jpg
+  page: https://www.inaturalist.org/photos/355146064
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355146064/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ketupa-flavipes/1.jpg
+  page: https://www.inaturalist.org/photos/614195830
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614195830/original.jpg
+images:
+- file: images/strigiformes/strigidae/ketupa-flavipes/1.jpg
+  page: https://www.inaturalist.org/photos/614195830
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614195830/original.jpg
+- file: images/strigiformes/strigidae/ketupa-flavipes/2.jpg
+  page: https://www.inaturalist.org/photos/618771203
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618771203/original.jpg
+- file: images/strigiformes/strigidae/ketupa-flavipes/3.jpg
+  page: https://www.inaturalist.org/photos/642765674
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642765674/original.jpg
+- file: images/strigiformes/strigidae/ketupa-flavipes/4.jpg
+  page: https://www.inaturalist.org/photos/713153560
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713153560/original.jpg
+- file: images/strigiformes/strigidae/ketupa-flavipes/5.jpg
+  page: https://www.inaturalist.org/photos/725670401
+  author: syy55016
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725670401/original.jpg
 ---
 
 

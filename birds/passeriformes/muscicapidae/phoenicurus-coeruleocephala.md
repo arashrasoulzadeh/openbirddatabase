@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/phoenicurus-coeruleocephala/1.jpg
+  page: https://www.inaturalist.org/photos/617494091
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617494091/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/phoenicurus-coeruleocephala/1.jpg
+  page: https://www.inaturalist.org/photos/617494091
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617494091/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-coeruleocephala/2.jpg
+  page: https://www.inaturalist.org/photos/501860725
+  author: kirinzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501860725/original.jpeg
+- file: images/passeriformes/muscicapidae/phoenicurus-coeruleocephala/3.jpg
+  page: https://www.inaturalist.org/photos/516198769
+  author: Dmitry Ivanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516198769/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-coeruleocephala/4.jpg
+  page: https://www.inaturalist.org/photos/591647740
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591647740/original.jpg
+- file: images/passeriformes/muscicapidae/phoenicurus-coeruleocephala/5.jpg
+  page: https://www.inaturalist.org/photos/617494122
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617494122/original.jpg
 ---
 
 

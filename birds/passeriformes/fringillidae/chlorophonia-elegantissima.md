@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 9.8
@@ -137,6 +138,44 @@ morphology:
   wing_length_mm: 66.7
   tail_length_mm: 39.1
   body_mass_g: 15.0
+image:
+  file: images/passeriformes/fringillidae/chlorophonia-elegantissima/1.jpg
+  page: https://www.inaturalist.org/photos/606545883
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606545883/original.jpg
+images:
+- file: images/passeriformes/fringillidae/chlorophonia-elegantissima/1.jpg
+  page: https://www.inaturalist.org/photos/606545883
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606545883/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-elegantissima/2.jpg
+  page: https://www.inaturalist.org/photos/606262374
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606262374/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-elegantissima/3.jpg
+  page: https://www.inaturalist.org/photos/615607873
+  author: Alberto Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615607873/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-elegantissima/4.jpg
+  page: https://www.inaturalist.org/photos/616465931
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616465931/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-elegantissima/5.jpg
+  page: https://www.inaturalist.org/photos/620311443
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620311443/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-albolimbata/1.jpg
+  page: https://www.inaturalist.org/photos/699839242
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839242/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-albolimbata/1.jpg
+  page: https://www.inaturalist.org/photos/699839242
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699839242/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albolimbata/2.jpg
+  page: https://www.inaturalist.org/photos/571140409
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571140409/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albolimbata/3.jpg
+  page: https://www.inaturalist.org/photos/578592258
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578592258/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albolimbata/4.jpg
+  page: https://www.inaturalist.org/photos/623819251
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623819251/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-albolimbata/5.jpg
+  page: https://www.inaturalist.org/photos/226088525
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226088525/original.jpg
 ---
 
 

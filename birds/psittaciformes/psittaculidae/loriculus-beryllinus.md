@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/loriculus-beryllinus/1.jpg
+  page: https://www.inaturalist.org/photos/612459459
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612459459/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/loriculus-beryllinus/1.jpg
+  page: https://www.inaturalist.org/photos/612459459
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612459459/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-beryllinus/2.jpg
+  page: https://www.inaturalist.org/photos/650142336
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650142336/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-beryllinus/3.jpg
+  page: https://www.inaturalist.org/photos/617952720
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952720/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-beryllinus/4.jpg
+  page: https://www.inaturalist.org/photos/701547121
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701547121/original.jpg
+- file: images/psittaciformes/psittaculidae/loriculus-beryllinus/5.jpg
+  page: https://www.inaturalist.org/photos/465712116
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465712116/original.jpeg
 ---
 
 

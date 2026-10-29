@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/ciconiiformes/ciconiidae/anastomus-lamelligerus/1.jpg
+  page: https://www.inaturalist.org/photos/606213989
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606213989/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/anastomus-lamelligerus/1.jpg
+  page: https://www.inaturalist.org/photos/606213989
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606213989/original.jpg
+- file: images/ciconiiformes/ciconiidae/anastomus-lamelligerus/2.jpg
+  page: https://www.inaturalist.org/photos/619026746
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619026746/original.jpg
+- file: images/ciconiiformes/ciconiidae/anastomus-lamelligerus/3.jpg
+  page: https://www.inaturalist.org/photos/685752095
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685752095/original.jpg
+- file: images/ciconiiformes/ciconiidae/anastomus-lamelligerus/4.jpg
+  page: https://www.inaturalist.org/photos/616327028
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616327028/original.jpg
+- file: images/ciconiiformes/ciconiidae/anastomus-lamelligerus/5.jpg
+  page: https://www.inaturalist.org/photos/639300792
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639300792/original.jpg
 ---
 
 

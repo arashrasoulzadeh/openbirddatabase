@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-alopex/1.jpg
+  page: https://www.inaturalist.org/photos/637822894
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637822894/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-alopex/1.jpg
+  page: https://www.inaturalist.org/photos/637822894
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637822894/original.jpg
+- file: images/falconiformes/falconidae/falco-alopex/2.jpg
+  page: https://www.inaturalist.org/photos/353653217
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353653217/original.png
+- file: images/falconiformes/falconidae/falco-alopex/3.jpg
+  page: https://www.inaturalist.org/photos/395160049
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395160049/original.jpg
+- file: images/falconiformes/falconidae/falco-alopex/4.jpg
+  page: https://www.inaturalist.org/photos/181034331
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181034331/original.jpg
+- file: images/falconiformes/falconidae/falco-alopex/5.jpg
+  page: https://www.inaturalist.org/photos/469596754
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469596754/original.jpg
 ---
 
 

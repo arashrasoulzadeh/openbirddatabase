@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrrhura-orcesi/1.jpg
+  page: https://www.inaturalist.org/photos/558085281
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558085281/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrrhura-orcesi/1.jpg
+  page: https://www.inaturalist.org/photos/558085281
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558085281/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-orcesi/2.jpg
+  page: https://www.inaturalist.org/photos/254399284
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254399284/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-orcesi/3.jpg
+  page: https://www.inaturalist.org/photos/152817597
+  author: Frances Oliver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/152817597/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-orcesi/4.jpg
+  page: https://www.inaturalist.org/photos/152746379
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/152746379/original.jpg
+- file: images/psittaciformes/psittacidae/pyrrhura-orcesi/5.jpg
+  page: https://www.inaturalist.org/photos/254399298
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254399298/original.jpg
 ---
 
 

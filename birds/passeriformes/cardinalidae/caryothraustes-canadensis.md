@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/caryothraustes-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/618012467
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618012467/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/caryothraustes-canadensis/1.jpg
+  page: https://www.inaturalist.org/photos/618012467
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618012467/original.jpg
+- file: images/passeriformes/cardinalidae/caryothraustes-canadensis/2.jpg
+  page: https://www.inaturalist.org/photos/622226341
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622226341/original.jpg
+- file: images/passeriformes/cardinalidae/caryothraustes-canadensis/3.jpg
+  page: https://www.inaturalist.org/photos/709813525
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709813525/original.jpg
+- file: images/passeriformes/cardinalidae/caryothraustes-canadensis/4.jpg
+  page: https://www.inaturalist.org/photos/740707131
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740707131/original.jpg
+- file: images/passeriformes/cardinalidae/caryothraustes-canadensis/5.jpg
+  page: https://www.inaturalist.org/photos/464116821
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464116821/original.jpeg
 ---
 
 

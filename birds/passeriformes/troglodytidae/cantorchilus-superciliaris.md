@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/cantorchilus-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/255791969
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255791969/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cantorchilus-superciliaris/1.jpg
+  page: https://www.inaturalist.org/photos/255791969
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255791969/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-superciliaris/2.jpg
+  page: https://www.inaturalist.org/photos/71840827
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/71840827/original.jpeg
+- file: images/passeriformes/troglodytidae/cantorchilus-superciliaris/3.jpg
+  page: https://www.inaturalist.org/photos/12870356
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12870356/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-superciliaris/4.jpg
+  page: https://www.inaturalist.org/photos/12870341
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12870341/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-superciliaris/5.jpg
+  page: https://www.inaturalist.org/photos/12870347
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12870347/original.jpg
 ---
 
 

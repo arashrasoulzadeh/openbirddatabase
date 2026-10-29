@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/fulvetta-manipurensis/1.jpg
+  page: https://www.inaturalist.org/photos/520806850
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520806850/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/fulvetta-manipurensis/1.jpg
+  page: https://www.inaturalist.org/photos/520806850
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520806850/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-manipurensis/2.jpg
+  page: https://www.inaturalist.org/photos/434399374
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434399374/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-manipurensis/3.jpg
+  page: https://www.inaturalist.org/photos/105897170
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105897170/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-manipurensis/4.jpg
+  page: https://www.inaturalist.org/photos/395651158
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651158/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-manipurensis/5.jpg
+  page: https://www.inaturalist.org/photos/520809282
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520809282/original.jpg
 ---
 
 

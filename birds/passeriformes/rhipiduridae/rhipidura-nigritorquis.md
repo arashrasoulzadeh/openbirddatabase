@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-nigritorquis/1.jpg
+  page: https://www.inaturalist.org/photos/613376675
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613376675/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-nigritorquis/1.jpg
+  page: https://www.inaturalist.org/photos/613376675
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613376675/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nigritorquis/2.jpg
+  page: https://www.inaturalist.org/photos/628909659
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628909659/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nigritorquis/3.jpg
+  page: https://www.inaturalist.org/photos/633063521
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633063521/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nigritorquis/4.jpg
+  page: https://www.inaturalist.org/photos/658573872
+  author: Beah Vega
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658573872/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-nigritorquis/5.jpg
+  page: https://www.inaturalist.org/photos/678109079
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678109079/original.jpg
 ---
 
 

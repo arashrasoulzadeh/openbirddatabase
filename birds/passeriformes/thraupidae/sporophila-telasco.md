@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-telasco/1.jpg
+  page: https://www.inaturalist.org/photos/611687912
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611687912/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-telasco/1.jpg
+  page: https://www.inaturalist.org/photos/611687912
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611687912/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-telasco/2.jpg
+  page: https://www.inaturalist.org/photos/614453734
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614453734/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-telasco/3.jpg
+  page: https://www.inaturalist.org/photos/612868400
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612868400/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-telasco/4.jpg
+  page: https://www.inaturalist.org/photos/621923338
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621923338/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-telasco/5.jpg
+  page: https://www.inaturalist.org/photos/463367763
+  author: Ellky Arteta Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463367763/original.jpeg
 ---
 
 

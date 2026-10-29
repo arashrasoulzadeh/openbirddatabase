@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circus-buffoni/1.jpg
+  page: https://www.inaturalist.org/photos/605491974
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491974/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-buffoni/1.jpg
+  page: https://www.inaturalist.org/photos/605491974
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491974/original.jpg
+- file: images/accipitriformes/accipitridae/circus-buffoni/2.jpg
+  page: https://www.inaturalist.org/photos/605908389
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605908389/original.jpg
+- file: images/accipitriformes/accipitridae/circus-buffoni/3.jpg
+  page: https://www.inaturalist.org/photos/609185569
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609185569/original.jpg
+- file: images/accipitriformes/accipitridae/circus-buffoni/4.jpg
+  page: https://www.inaturalist.org/photos/611790856
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611790856/original.jpg
+- file: images/accipitriformes/accipitridae/circus-buffoni/5.jpg
+  page: https://www.inaturalist.org/photos/610012449
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012449/original.jpg
 ---
 
 

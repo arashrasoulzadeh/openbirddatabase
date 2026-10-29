@@ -154,8 +154,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/dessonornis-caffer/1.jpg
+  page: https://www.inaturalist.org/photos/609897731
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609897731/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/dessonornis-caffer/1.jpg
+  page: https://www.inaturalist.org/photos/609897731
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609897731/original.jpg
+- file: images/passeriformes/muscicapidae/dessonornis-caffer/2.jpg
+  page: https://www.inaturalist.org/photos/610361015
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610361015/original.jpg
+- file: images/passeriformes/muscicapidae/dessonornis-caffer/3.jpg
+  page: https://www.inaturalist.org/photos/608227991
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608227991/original.jpg
+- file: images/passeriformes/muscicapidae/dessonornis-caffer/4.jpg
+  page: https://www.inaturalist.org/photos/612186384
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612186384/original.jpg
+- file: images/passeriformes/muscicapidae/dessonornis-caffer/5.jpg
+  page: https://www.inaturalist.org/photos/625932219
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625932219/original.jpg
 ---
 
 

@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/gruiformes/rallidae/rallus-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/607553107
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607553107/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallus-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/607553107
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607553107/original.jpg
+- file: images/gruiformes/rallidae/rallus-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/618958606
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618958606/original.jpg
+- file: images/gruiformes/rallidae/rallus-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/698713476
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698713476/original.jpg
+- file: images/gruiformes/rallidae/rallus-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/597784007
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597784007/original.jpg
+- file: images/gruiformes/rallidae/rallus-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/465704395
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465704395/original.jpeg
 ---
 
 

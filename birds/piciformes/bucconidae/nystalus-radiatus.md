@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/nystalus-radiatus/1.jpg
+  page: https://www.inaturalist.org/photos/617056321
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617056321/original.jpg
+images:
+- file: images/piciformes/bucconidae/nystalus-radiatus/1.jpg
+  page: https://www.inaturalist.org/photos/617056321
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617056321/original.jpg
+- file: images/piciformes/bucconidae/nystalus-radiatus/2.jpg
+  page: https://www.inaturalist.org/photos/623793222
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793222/original.jpg
+- file: images/piciformes/bucconidae/nystalus-radiatus/3.jpg
+  page: https://www.inaturalist.org/photos/697096647
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697096647/original.jpg
+- file: images/piciformes/bucconidae/nystalus-radiatus/4.jpg
+  page: https://www.inaturalist.org/photos/502958255
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502958255/original.jpg
+- file: images/piciformes/bucconidae/nystalus-radiatus/5.jpg
+  page: https://www.inaturalist.org/photos/585409985
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585409985/original.jpg
 ---
 
 

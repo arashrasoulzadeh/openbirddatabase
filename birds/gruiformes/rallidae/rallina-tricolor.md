@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rallina-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/602206428
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602206428/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallina-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/602206428
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602206428/original.jpg
+- file: images/gruiformes/rallidae/rallina-tricolor/2.jpg
+  page: https://www.flickr.com/photos/dhobern/53998628899/
+  author: Donald Hobern
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431417390/original.jpg
+- file: images/gruiformes/rallidae/rallina-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/660936285
+  author: wilmotsenaratne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660936285/original.jpg
+- file: images/gruiformes/rallidae/rallina-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/119287421
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/119287421/original.jpg
+- file: images/gruiformes/rallidae/rallina-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/131898575
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/131898575/original.jpg
 ---
 
 

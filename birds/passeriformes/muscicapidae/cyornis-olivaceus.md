@@ -138,7 +138,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.5
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 70.8
   tail_length_mm: 54.4
   body_mass_g: 15.7
+image:
+  file: images/passeriformes/muscicapidae/cyornis-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/629651792
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629651792/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cyornis-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/629651792
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629651792/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/600231185
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600231185/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/279212790
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279212790/original.jpg
+- file: images/passeriformes/muscicapidae/cyornis-olivaceus/4.jpg
+  page: https://www.inaturalist.org/photos/271802028
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/271802028/original.jpeg
+- file: images/passeriformes/muscicapidae/cyornis-olivaceus/5.jpg
+  page: https://www.inaturalist.org/photos/249347985
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249347985/original.jpg
 ---
 
 

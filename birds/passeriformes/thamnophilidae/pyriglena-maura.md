@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/pyriglena-maura/1.jpg
+  page: https://www.inaturalist.org/photos/650127856
+  author: Nelson Atencio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650127856/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/pyriglena-maura/1.jpg
+  page: https://www.inaturalist.org/photos/650127856
+  author: Nelson Atencio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650127856/original.jpg
+- file: images/passeriformes/thamnophilidae/pyriglena-maura/2.jpg
+  page: https://www.inaturalist.org/photos/674011063
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674011063/original.jpg
+- file: images/passeriformes/thamnophilidae/pyriglena-maura/3.jpg
+  page: https://www.inaturalist.org/photos/352318313
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352318313/original.jpeg
+- file: images/passeriformes/thamnophilidae/pyriglena-maura/4.jpg
+  page: https://www.inaturalist.org/photos/435300452
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435300452/original.jpg
+- file: images/passeriformes/thamnophilidae/pyriglena-maura/5.jpg
+  page: https://www.inaturalist.org/photos/625531850
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625531850/original.jpg
 ---
 
 

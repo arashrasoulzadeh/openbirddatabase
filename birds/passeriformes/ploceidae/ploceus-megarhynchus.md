@@ -146,8 +146,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-megarhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/681499764
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681499764/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-megarhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/681499764
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681499764/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-megarhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/511423648
+  author: rohanmenzies
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511423648/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-megarhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/545913055
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545913055/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-megarhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/337784782
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784782/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-megarhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/120749807
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120749807/original.jpg
 ---
 
 

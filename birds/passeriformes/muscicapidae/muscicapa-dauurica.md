@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/muscicapa-dauurica/1.jpg
+  page: https://www.inaturalist.org/photos/608299784
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608299784/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/muscicapa-dauurica/1.jpg
+  page: https://www.inaturalist.org/photos/608299784
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608299784/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-dauurica/2.jpg
+  page: https://www.inaturalist.org/photos/608397156
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608397156/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-dauurica/3.jpg
+  page: https://www.inaturalist.org/photos/608352383
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608352383/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-dauurica/4.jpg
+  page: https://www.inaturalist.org/photos/607115810
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607115810/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-dauurica/5.jpg
+  page: https://www.inaturalist.org/photos/612104639
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612104639/original.jpg
 ---
 
 

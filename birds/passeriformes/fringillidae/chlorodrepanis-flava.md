@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/chlorodrepanis-flava/1.jpg
+  page: https://www.inaturalist.org/photos/607796509
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607796509/original.jpg
+images:
+- file: images/passeriformes/fringillidae/chlorodrepanis-flava/1.jpg
+  page: https://www.inaturalist.org/photos/607796509
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607796509/original.jpg
+- file: images/passeriformes/fringillidae/chlorodrepanis-flava/2.jpg
+  page: https://www.inaturalist.org/photos/666940577
+  author: Nathan Nguyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666940577/original.jpg
+- file: images/passeriformes/fringillidae/chlorodrepanis-flava/3.jpg
+  page: https://www.inaturalist.org/photos/607794393
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607794393/original.jpg
+- file: images/passeriformes/fringillidae/chlorodrepanis-flava/4.jpg
+  page: https://www.inaturalist.org/photos/607794418
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607794418/original.jpg
+- file: images/passeriformes/fringillidae/chlorodrepanis-flava/5.jpg
+  page: https://www.inaturalist.org/photos/612620893
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612620893/original.jpg
 ---
 
 

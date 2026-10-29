@@ -187,10 +187,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/muscicapidae/saxicola-rubicola/1.jpg
+  page: https://www.inaturalist.org/photos/605163380
+  author: Anna L
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605163380/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/saxicola-rubicola/1.jpg
+  page: https://www.inaturalist.org/photos/605163380
+  author: Anna L
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605163380/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-rubicola/2.jpg
+  page: https://www.inaturalist.org/photos/604745366
+  author: Bastien Le Mort
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604745366/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-rubicola/3.jpg
+  page: https://www.inaturalist.org/photos/604788309
+  author: Kian Hayles-Cotton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604788309/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-rubicola/4.jpg
+  page: https://www.inaturalist.org/photos/605466047
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605466047/original.jpg
+- file: images/passeriformes/muscicapidae/saxicola-rubicola/5.jpg
+  page: https://www.inaturalist.org/photos/605074556
+  author: ANGEL MARCOS LUENGO BELLO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605074556/original.jpg
 ---
 
 

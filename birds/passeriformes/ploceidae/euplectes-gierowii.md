@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-gierowii/1.jpg
+  page: https://www.inaturalist.org/photos/664942892
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664942892/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-gierowii/1.jpg
+  page: https://www.inaturalist.org/photos/664942892
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664942892/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-gierowii/2.jpg
+  page: https://www.inaturalist.org/photos/739095790
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739095790/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-gierowii/3.jpg
+  page: https://www.inaturalist.org/photos/505835593
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505835593/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-gierowii/4.jpg
+  page: https://www.inaturalist.org/photos/490621636
+  author: Pat Farris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490621636/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-gierowii/5.jpg
+  page: https://www.inaturalist.org/photos/550378547
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550378547/original.jpg
 ---
 
 

@@ -141,8 +141,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/conopophagidae/conopophaga-castaneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/592853780
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592853780/original.jpg
+images:
+- file: images/passeriformes/conopophagidae/conopophaga-castaneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/592853780
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592853780/original.jpg
+- file: images/passeriformes/conopophagidae/conopophaga-castaneiceps/2.jpg
+  page: https://www.inaturalist.org/photos/353076643
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353076643/original.jpeg
+- file: images/passeriformes/conopophagidae/conopophaga-castaneiceps/3.jpg
+  page: https://www.inaturalist.org/photos/353076658
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353076658/original.jpeg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/606583133
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606583133/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/606583133
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606583133/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-tricolor/2.jpg
+  page: https://www.inaturalist.org/photos/612710073
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612710073/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/669405559
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669405559/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/675232730
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675232730/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/678657395
+  author: Malcolm Simard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678657395/original.jpg
 ---
 
 

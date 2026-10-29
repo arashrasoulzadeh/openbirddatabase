@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/furnariidae/dendrocincla-turdina/1.jpg
+  page: https://www.inaturalist.org/photos/607496909
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607496909/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendrocincla-turdina/1.jpg
+  page: https://www.inaturalist.org/photos/607496909
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607496909/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-turdina/2.jpg
+  page: https://www.inaturalist.org/photos/610446813
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610446813/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-turdina/3.jpg
+  page: https://www.inaturalist.org/photos/607985416
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607985416/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-turdina/4.jpg
+  page: https://www.inaturalist.org/photos/605534240
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534240/original.jpg
+- file: images/passeriformes/furnariidae/dendrocincla-turdina/5.jpg
+  page: https://www.inaturalist.org/photos/613762834
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762834/original.jpg
 ---
 
 

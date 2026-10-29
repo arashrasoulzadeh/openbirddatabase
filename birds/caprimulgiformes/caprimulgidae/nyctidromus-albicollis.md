@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/nyctidromus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/609332068
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609332068/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/nyctidromus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/609332068
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609332068/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctidromus-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/605259943
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259943/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctidromus-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/606027749
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027749/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctidromus-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/610998325
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610998325/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctidromus-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/608159731
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608159731/original.jpg
 ---
 
 

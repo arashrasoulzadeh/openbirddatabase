@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/streptopelia-decipiens/1.jpg
+  page: https://www.inaturalist.org/photos/612787291
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612787291/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-decipiens/1.jpg
+  page: https://www.inaturalist.org/photos/612787291
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612787291/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-decipiens/2.jpg
+  page: https://www.inaturalist.org/photos/612787294
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612787294/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-decipiens/3.jpg
+  page: https://www.inaturalist.org/photos/612505239
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612505239/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-decipiens/4.jpg
+  page: https://www.inaturalist.org/photos/612505233
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612505233/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-decipiens/5.jpg
+  page: https://www.inaturalist.org/photos/612476008
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612476008/original.jpg
 ---
 
 

@@ -128,8 +128,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/hylorchilus-navai/1.jpg
+  page: https://www.inaturalist.org/photos/598187024
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598187024/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/hylorchilus-navai/1.jpg
+  page: https://www.inaturalist.org/photos/598187024
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598187024/original.jpg
+- file: images/passeriformes/troglodytidae/hylorchilus-navai/2.jpg
+  page: https://www.inaturalist.org/photos/347653942
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347653942/original.jpeg
+- file: images/passeriformes/troglodytidae/hylorchilus-navai/3.jpg
+  page: https://www.inaturalist.org/photos/354864056
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354864056/original.jpg
+- file: images/passeriformes/troglodytidae/hylorchilus-navai/4.jpg
+  page: https://www.inaturalist.org/photos/223934699
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223934699/original.jpeg
+- file: images/passeriformes/troglodytidae/hylorchilus-navai/5.jpg
+  page: https://www.inaturalist.org/photos/459752796
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459752796/original.jpg
 ---
 
 

@@ -181,8 +181,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/halcyon-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/606216631
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216631/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/halcyon-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/606216631
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216631/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-senegalensis/2.jpg
+  page: https://www.inaturalist.org/photos/619875797
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619875797/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-senegalensis/3.jpg
+  page: https://www.inaturalist.org/photos/616329373
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616329373/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-senegalensis/4.jpg
+  page: https://www.inaturalist.org/photos/619602123
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619602123/original.jpg
+- file: images/coraciiformes/alcedinidae/halcyon-senegalensis/5.jpg
+  page: https://www.inaturalist.org/photos/616437253
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616437253/original.jpg
 ---
 
 

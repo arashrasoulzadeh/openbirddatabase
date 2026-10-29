@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/indicatoridae/indicator-minor/1.jpg
+  page: https://www.inaturalist.org/photos/612446596
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612446596/original.jpg
+images:
+- file: images/piciformes/indicatoridae/indicator-minor/1.jpg
+  page: https://www.inaturalist.org/photos/612446596
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612446596/original.jpg
+- file: images/piciformes/indicatoridae/indicator-minor/2.jpg
+  page: https://www.inaturalist.org/photos/623982191
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623982191/original.jpg
+- file: images/piciformes/indicatoridae/indicator-minor/3.jpg
+  page: https://www.inaturalist.org/photos/663319231
+  author: katuchka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663319231/original.jpg
+- file: images/piciformes/indicatoridae/indicator-minor/4.jpg
+  page: https://www.inaturalist.org/photos/473602396
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473602396/original.jpg
+- file: images/piciformes/indicatoridae/indicator-minor/5.jpg
+  page: https://www.inaturalist.org/photos/501386276
+  author: Tony King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501386276/original.jpeg
 ---
 
 

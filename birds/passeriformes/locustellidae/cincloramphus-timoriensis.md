@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/cincloramphus-timoriensis/1.jpg
+  page: https://www.inaturalist.org/photos/608751861
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608751861/original.jpg
+images:
+- file: images/passeriformes/locustellidae/cincloramphus-timoriensis/1.jpg
+  page: https://www.inaturalist.org/photos/608751861
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608751861/original.jpg
+- file: images/passeriformes/locustellidae/cincloramphus-timoriensis/2.jpg
+  page: https://www.inaturalist.org/photos/610146289
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610146289/original.jpg
+- file: images/passeriformes/locustellidae/cincloramphus-timoriensis/3.jpg
+  page: https://www.inaturalist.org/photos/611552944
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611552944/original.jpg
+- file: images/passeriformes/locustellidae/cincloramphus-timoriensis/4.jpg
+  page: https://www.inaturalist.org/photos/743061486
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743061486/original.jpg
+- file: images/passeriformes/locustellidae/cincloramphus-timoriensis/5.jpg
+  page: https://www.inaturalist.org/photos/608756209
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608756209/original.jpg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/enicurus-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/617770224
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617770224/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/enicurus-maculatus/1.jpg
+  page: https://www.inaturalist.org/photos/617770224
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617770224/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-maculatus/2.jpg
+  page: https://www.inaturalist.org/photos/642765476
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642765476/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-maculatus/3.jpg
+  page: https://www.inaturalist.org/photos/617770220
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617770220/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-maculatus/4.jpg
+  page: https://www.inaturalist.org/photos/617770232
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617770232/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-maculatus/5.jpg
+  page: https://www.inaturalist.org/photos/617770219
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617770219/original.jpg
 ---
 
 

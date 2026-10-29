@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/schoenicola-platyurus/1.jpg
+  page: https://www.inaturalist.org/photos/619541883
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619541883/original.jpg
+images:
+- file: images/passeriformes/locustellidae/schoenicola-platyurus/1.jpg
+  page: https://www.inaturalist.org/photos/619541883
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619541883/original.jpg
+- file: images/passeriformes/locustellidae/schoenicola-platyurus/2.jpg
+  page: https://www.inaturalist.org/photos/726284624
+  author: Aryan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726284624/original.jpg
+- file: images/passeriformes/locustellidae/schoenicola-platyurus/3.jpg
+  page: https://www.inaturalist.org/photos/337784639
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784639/original.jpeg
+- file: images/passeriformes/locustellidae/schoenicola-platyurus/4.jpg
+  page: https://www.inaturalist.org/photos/84709575
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/84709575/original.jpeg
+- file: images/passeriformes/locustellidae/schoenicola-platyurus/5.jpg
+  page: https://www.inaturalist.org/photos/348835090
+  author: kalyanvarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348835090/original.jpg
 ---
 
 

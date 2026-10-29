@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/eubucco-bourcierii/1.jpg
+  page: https://www.inaturalist.org/photos/608020878
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608020878/original.jpg
+images:
+- file: images/piciformes/capitonidae/eubucco-bourcierii/1.jpg
+  page: https://www.inaturalist.org/photos/608020878
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608020878/original.jpg
+- file: images/piciformes/capitonidae/eubucco-bourcierii/2.jpg
+  page: https://www.inaturalist.org/photos/612269333
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612269333/original.jpg
+- file: images/piciformes/capitonidae/eubucco-bourcierii/3.jpg
+  page: https://www.inaturalist.org/photos/614276336
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614276336/original.jpg
+- file: images/piciformes/capitonidae/eubucco-bourcierii/4.jpg
+  page: https://www.inaturalist.org/photos/613650175
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613650175/original.jpg
+- file: images/piciformes/capitonidae/eubucco-bourcierii/5.jpg
+  page: https://www.inaturalist.org/photos/616990134
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616990134/original.jpg
 ---
 
 

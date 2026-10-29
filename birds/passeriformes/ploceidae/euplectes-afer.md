@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-afer/1.jpg
+  page: https://www.inaturalist.org/photos/622211518
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622211518/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-afer/1.jpg
+  page: https://www.inaturalist.org/photos/622211518
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622211518/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-afer/2.jpg
+  page: https://www.inaturalist.org/photos/669574758
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669574758/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-afer/3.jpg
+  page: https://www.inaturalist.org/photos/674891434
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674891434/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-afer/4.jpg
+  page: https://www.inaturalist.org/photos/694475878
+  author: dejone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694475878/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-afer/5.jpg
+  page: https://www.inaturalist.org/photos/622211557
+  author: Pedro Eça
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622211557/original.jpg
 ---
 
 

@@ -148,8 +148,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/serpophaga-hypoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/426900926
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426900926/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/serpophaga-hypoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/426900926
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426900926/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-hypoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/8534691
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8534691/original.jpeg
+- file: images/passeriformes/tyrannidae/serpophaga-hypoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/610835721
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610835721/original.jpg
+- file: images/passeriformes/tyrannidae/serpophaga-hypoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/426900902
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426900902/original.jpg
 ---
 
 

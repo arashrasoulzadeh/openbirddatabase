@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/piculus-aurulentus/1.jpg
+  page: https://www.inaturalist.org/photos/609929872
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609929872/original.jpg
+images:
+- file: images/piciformes/picidae/piculus-aurulentus/1.jpg
+  page: https://www.inaturalist.org/photos/609929872
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609929872/original.jpg
+- file: images/piciformes/picidae/piculus-aurulentus/2.jpg
+  page: https://www.inaturalist.org/photos/641660897
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641660897/original.jpg
+- file: images/piciformes/picidae/piculus-aurulentus/3.jpg
+  page: https://www.inaturalist.org/photos/670682400
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670682400/original.jpg
+- file: images/piciformes/picidae/piculus-aurulentus/4.jpg
+  page: https://www.inaturalist.org/photos/670225631
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670225631/original.jpg
+- file: images/piciformes/picidae/piculus-aurulentus/5.jpg
+  page: https://www.inaturalist.org/photos/677182530
+  author: Jessica Souza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677182530/original.jpg
 ---
 
 

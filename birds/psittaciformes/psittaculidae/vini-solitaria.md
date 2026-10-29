@@ -122,8 +122,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/psittaciformes/psittaculidae/vini-solitaria/1.jpg
+  page: https://www.inaturalist.org/photos/479755738
+  author: Jay Brasher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479755738/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/vini-solitaria/1.jpg
+  page: https://www.inaturalist.org/photos/479755738
+  author: Jay Brasher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479755738/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-solitaria/2.jpg
+  page: https://www.inaturalist.org/photos/471969201
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471969201/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-solitaria/3.jpg
+  page: https://www.inaturalist.org/photos/333029526
+  author: J Straka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333029526/original.jpeg
+- file: images/psittaciformes/psittaculidae/vini-solitaria/4.jpg
+  page: https://www.inaturalist.org/photos/333195223
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333195223/original.jpg
+- file: images/psittaciformes/psittaculidae/vini-solitaria/5.jpg
+  page: https://www.inaturalist.org/photos/341735519
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341735519/original.jpeg
 ---
 
 

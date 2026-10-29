@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/larus-armenicus/1.jpg
+  page: https://www.inaturalist.org/photos/615301134
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615301134/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-armenicus/1.jpg
+  page: https://www.inaturalist.org/photos/615301134
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615301134/original.jpg
+- file: images/charadriiformes/laridae/larus-armenicus/2.jpg
+  page: https://www.inaturalist.org/photos/692923014
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692923014/original.jpg
+- file: images/charadriiformes/laridae/larus-armenicus/3.jpg
+  page: https://www.inaturalist.org/photos/615301156
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615301156/original.jpg
+- file: images/charadriiformes/laridae/larus-armenicus/4.jpg
+  page: https://www.inaturalist.org/photos/622826620
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622826620/original.jpg
+- file: images/charadriiformes/laridae/larus-armenicus/5.jpg
+  page: https://www.inaturalist.org/photos/622826681
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622826681/original.jpg
 ---
 
 

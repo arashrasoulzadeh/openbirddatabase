@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/apodiformes/trochilidae/cynanthus-doubledayi/1.jpg
+  page: https://www.inaturalist.org/photos/634555353
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634555353/original.jpg
+images:
+- file: images/apodiformes/trochilidae/cynanthus-doubledayi/1.jpg
+  page: https://www.inaturalist.org/photos/634555353
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634555353/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-doubledayi/2.jpg
+  page: https://www.inaturalist.org/photos/480594275
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480594275/original.jpeg
+- file: images/apodiformes/trochilidae/cynanthus-doubledayi/3.jpg
+  page: https://www.inaturalist.org/photos/486981910
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486981910/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-doubledayi/4.jpg
+  page: https://www.inaturalist.org/photos/534728573
+  author: Xochitl Castaño
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534728573/original.jpg
+- file: images/apodiformes/trochilidae/cynanthus-doubledayi/5.jpg
+  page: https://www.inaturalist.org/photos/568813850
+  author: Juan Rafael Rodríguez Razgado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568813850/original.jpg
 ---
 
 

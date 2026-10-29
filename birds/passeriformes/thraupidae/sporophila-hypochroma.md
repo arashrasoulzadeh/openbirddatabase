@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-hypochroma/1.jpg
+  page: https://www.inaturalist.org/photos/622836498
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622836498/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-hypochroma/1.jpg
+  page: https://www.inaturalist.org/photos/622836498
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622836498/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-hypochroma/2.jpg
+  page: https://www.inaturalist.org/photos/457308244
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457308244/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-hypochroma/3.jpg
+  page: https://www.inaturalist.org/photos/455197082
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455197082/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-hypochroma/4.jpg
+  page: https://www.inaturalist.org/photos/178681404
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178681404/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-hypochroma/5.jpg
+  page: https://www.inaturalist.org/photos/243542032
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243542032/original.jpeg
 ---
 
 

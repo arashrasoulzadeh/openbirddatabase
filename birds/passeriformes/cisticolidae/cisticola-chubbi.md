@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-chubbi/1.jpg
+  page: https://www.inaturalist.org/photos/619038117
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619038117/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-chubbi/1.jpg
+  page: https://www.inaturalist.org/photos/619038117
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619038117/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-chubbi/2.jpg
+  page: https://www.inaturalist.org/photos/640563581
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640563581/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-chubbi/3.jpg
+  page: https://www.inaturalist.org/photos/550607643
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550607643/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-chubbi/4.jpg
+  page: https://www.inaturalist.org/photos/584775965
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584775965/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-chubbi/5.jpg
+  page: https://www.inaturalist.org/photos/588176082
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588176082/original.jpg
 ---
 
 

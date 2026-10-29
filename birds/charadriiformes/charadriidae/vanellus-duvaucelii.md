@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-duvaucelii/1.jpg
+  page: https://www.inaturalist.org/photos/612406954
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612406954/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-duvaucelii/1.jpg
+  page: https://www.inaturalist.org/photos/612406954
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612406954/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-duvaucelii/2.jpg
+  page: https://www.inaturalist.org/photos/623424499
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623424499/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-duvaucelii/3.jpg
+  page: https://www.inaturalist.org/photos/624116808
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624116808/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-duvaucelii/4.jpg
+  page: https://www.inaturalist.org/photos/623423534
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623423534/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-duvaucelii/5.jpg
+  page: https://www.inaturalist.org/photos/623126858
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623126858/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/alipiopsitta-xanthops/1.jpg
+  page: https://www.inaturalist.org/photos/631097793
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631097793/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/alipiopsitta-xanthops/1.jpg
+  page: https://www.inaturalist.org/photos/631097793
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631097793/original.jpg
+- file: images/psittaciformes/psittacidae/alipiopsitta-xanthops/2.jpg
+  page: https://www.inaturalist.org/photos/654359278
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654359278/original.jpg
+- file: images/psittaciformes/psittacidae/alipiopsitta-xanthops/3.jpg
+  page: https://www.inaturalist.org/photos/746147400
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/746147400/original.jpg
+- file: images/psittaciformes/psittacidae/alipiopsitta-xanthops/4.jpg
+  page: https://www.inaturalist.org/photos/663537769
+  author: Celso Henrique Varela Rios
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663537769/original.jpg
+- file: images/psittaciformes/psittacidae/alipiopsitta-xanthops/5.jpg
+  page: https://www.inaturalist.org/photos/743365951
+  author: Jean Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743365951/original.jpg
 ---
 
 

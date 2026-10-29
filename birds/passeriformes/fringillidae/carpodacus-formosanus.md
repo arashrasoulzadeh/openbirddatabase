@@ -134,8 +134,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-formosanus/1.jpg
+  page: https://www.inaturalist.org/photos/659572231
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659572231/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-formosanus/1.jpg
+  page: https://www.inaturalist.org/photos/659572231
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659572231/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-formosanus/2.jpg
+  page: https://www.inaturalist.org/photos/678157017
+  author: Jaw-Jian La
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678157017/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-formosanus/3.jpg
+  page: https://www.inaturalist.org/photos/696221474
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696221474/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-formosanus/4.jpg
+  page: https://www.inaturalist.org/photos/698372327
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698372327/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-formosanus/5.jpg
+  page: https://www.inaturalist.org/photos/725529534
+  author: Yu-Tang, Huang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725529534/original.jpg
 ---
 
 

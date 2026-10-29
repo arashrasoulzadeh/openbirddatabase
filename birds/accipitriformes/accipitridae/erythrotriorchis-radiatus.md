@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/erythrotriorchis-radiatus/1.jpg
+  page: https://www.inaturalist.org/photos/741562627
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741562627/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/erythrotriorchis-radiatus/1.jpg
+  page: https://www.inaturalist.org/photos/741562627
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741562627/original.jpg
+- file: images/accipitriformes/accipitridae/erythrotriorchis-radiatus/2.jpg
+  page: https://www.inaturalist.org/photos/244026550
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244026550/original.jpg
+- file: images/accipitriformes/accipitridae/erythrotriorchis-radiatus/3.jpg
+  page: https://www.inaturalist.org/photos/575732912
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575732912/original.jpg
+- file: images/accipitriformes/accipitridae/erythrotriorchis-radiatus/4.jpg
+  page: https://www.inaturalist.org/photos/244026544
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244026544/original.jpg
+- file: images/accipitriformes/accipitridae/erythrotriorchis-radiatus/5.jpg
+  page: https://www.inaturalist.org/photos/376694357
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376694357/original.jpg
 ---
 
 

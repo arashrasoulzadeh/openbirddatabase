@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/machlolophus-spilonotus/1.jpg
+  page: https://www.inaturalist.org/photos/611189795
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611189795/original.jpg
+images:
+- file: images/passeriformes/paridae/machlolophus-spilonotus/1.jpg
+  page: https://www.inaturalist.org/photos/611189795
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611189795/original.jpg
+- file: images/passeriformes/paridae/machlolophus-spilonotus/2.jpg
+  page: https://www.inaturalist.org/photos/614340762
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614340762/original.jpg
+- file: images/passeriformes/paridae/machlolophus-spilonotus/3.jpg
+  page: https://www.inaturalist.org/photos/626867398
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626867398/original.jpg
+- file: images/passeriformes/paridae/machlolophus-spilonotus/4.jpg
+  page: https://www.inaturalist.org/photos/625360224
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625360224/original.jpg
+- file: images/passeriformes/paridae/machlolophus-spilonotus/5.jpg
+  page: https://www.inaturalist.org/photos/611189928
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611189928/original.jpg
 ---
 
 

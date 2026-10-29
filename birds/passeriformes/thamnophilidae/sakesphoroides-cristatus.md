@@ -122,8 +122,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/passeriformes/thamnophilidae/sakesphoroides-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/642906694
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642906694/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/sakesphoroides-cristatus/1.jpg
+  page: https://www.inaturalist.org/photos/642906694
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642906694/original.jpg
+- file: images/passeriformes/thamnophilidae/sakesphoroides-cristatus/2.jpg
+  page: https://www.inaturalist.org/photos/728683495
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728683495/original.jpg
+- file: images/passeriformes/thamnophilidae/sakesphoroides-cristatus/3.jpg
+  page: https://www.inaturalist.org/photos/362998110
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362998110/original.jpeg
+- file: images/passeriformes/thamnophilidae/sakesphoroides-cristatus/4.jpg
+  page: https://www.inaturalist.org/photos/416897384
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416897384/original.jpeg
+- file: images/passeriformes/thamnophilidae/sakesphoroides-cristatus/5.jpg
+  page: https://www.inaturalist.org/photos/342789584
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342789584/original.jpeg
 ---
 
 

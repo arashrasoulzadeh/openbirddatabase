@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/chrysocolaptes-haematribon/1.jpg
+  page: https://www.inaturalist.org/photos/614702783
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614702783/original.jpg
+images:
+- file: images/piciformes/picidae/chrysocolaptes-haematribon/1.jpg
+  page: https://www.inaturalist.org/photos/614702783
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614702783/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-haematribon/2.jpg
+  page: https://www.inaturalist.org/photos/459848665
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459848665/original.jpeg
+- file: images/piciformes/picidae/chrysocolaptes-haematribon/3.jpg
+  page: https://www.inaturalist.org/photos/567316471
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567316471/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-haematribon/4.jpg
+  page: https://www.inaturalist.org/photos/459848672
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459848672/original.jpeg
+- file: images/piciformes/picidae/chrysocolaptes-haematribon/5.jpg
+  page: https://www.inaturalist.org/photos/261947982
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261947982/original.jpg
 ---
 
 

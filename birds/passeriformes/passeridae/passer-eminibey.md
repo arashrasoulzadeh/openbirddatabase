@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-eminibey/1.jpg
+  page: https://www.inaturalist.org/photos/684009620
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684009620/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-eminibey/1.jpg
+  page: https://www.inaturalist.org/photos/684009620
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684009620/original.jpg
+- file: images/passeriformes/passeridae/passer-eminibey/2.jpg
+  page: https://www.inaturalist.org/photos/721446978
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721446978/original.jpg
+- file: images/passeriformes/passeridae/passer-eminibey/3.jpg
+  page: https://www.inaturalist.org/photos/721684267
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721684267/original.jpg
+- file: images/passeriformes/passeridae/passer-eminibey/4.jpg
+  page: https://www.inaturalist.org/photos/722474984
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722474984/original.jpg
+- file: images/passeriformes/passeridae/passer-eminibey/5.jpg
+  page: https://www.inaturalist.org/photos/469496495
+  author: Polina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469496495/original.jpg
 ---
 
 

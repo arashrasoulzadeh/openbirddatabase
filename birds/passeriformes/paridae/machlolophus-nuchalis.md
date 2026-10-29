@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/machlolophus-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/474395994
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474395994/original.jpg
+images:
+- file: images/passeriformes/paridae/machlolophus-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/474395994
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474395994/original.jpg
+- file: images/passeriformes/paridae/machlolophus-nuchalis/2.jpg
+  page: https://www.inaturalist.org/photos/405877891
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/405877891/original.jpg
+- file: images/passeriformes/paridae/machlolophus-nuchalis/3.jpg
+  page: https://www.inaturalist.org/photos/337784771
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784771/original.jpeg
+- file: images/passeriformes/paridae/machlolophus-nuchalis/4.jpg
+  page: https://www.inaturalist.org/photos/554569791
+  author: Parth Kansara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554569791/original.jpg
+- file: images/passeriformes/paridae/machlolophus-nuchalis/5.jpg
+  page: https://www.inaturalist.org/photos/49680942
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49680942/original.jpg
 ---
 
 

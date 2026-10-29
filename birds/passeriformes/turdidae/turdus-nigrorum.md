@@ -133,8 +133,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-nigrorum/1.jpg
+  page: https://www.inaturalist.org/photos/269725847
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269725847/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-nigrorum/1.jpg
+  page: https://www.inaturalist.org/photos/269725847
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269725847/original.jpg
+- file: images/passeriformes/turdidae/turdus-nigrorum/2.jpg
+  page: https://www.inaturalist.org/photos/267295683
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267295683/original.jpg
+- file: images/passeriformes/turdidae/turdus-nigrorum/3.jpg
+  page: https://www.inaturalist.org/photos/228537219
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228537219/original.jpg
+- file: images/passeriformes/turdidae/turdus-nigrorum/4.jpg
+  page: https://www.inaturalist.org/photos/228537287
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228537287/original.jpg
+- file: images/passeriformes/turdidae/turdus-nigrorum/5.jpg
+  page: https://www.inaturalist.org/photos/228537346
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228537346/original.jpg
 ---
 
 

@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 13.8
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 76.4
   tail_length_mm: 36.0
   body_mass_g: 16.2
+image:
+  file: images/piciformes/picidae/yungipicus-nanus/1.jpg
+  page: https://www.inaturalist.org/photos/720035019
+  author: rajesh rocky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720035019/original.jpg
+images:
+- file: images/piciformes/picidae/yungipicus-nanus/1.jpg
+  page: https://www.inaturalist.org/photos/720035019
+  author: rajesh rocky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720035019/original.jpg
+- file: images/piciformes/picidae/yungipicus-nanus/2.jpg
+  page: https://www.inaturalist.org/photos/729450807
+  author: apoorva sr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729450807/original.jpg
+- file: images/piciformes/picidae/yungipicus-nanus/3.jpg
+  page: https://www.inaturalist.org/photos/727952412
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727952412/original.jpg
+- file: images/piciformes/picidae/yungipicus-nanus/4.jpg
+  page: https://www.inaturalist.org/photos/734298295
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734298295/original.jpg
+- file: images/piciformes/picidae/yungipicus-nanus/5.jpg
+  page: https://www.inaturalist.org/photos/519609076
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519609076/original.jpg
 ---
 
 

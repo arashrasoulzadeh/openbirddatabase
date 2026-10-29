@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/knipolegus-striaticeps/1.jpg
+  page: https://www.inaturalist.org/photos/707903986
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707903986/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/knipolegus-striaticeps/1.jpg
+  page: https://www.inaturalist.org/photos/707903986
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707903986/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-striaticeps/2.jpg
+  page: https://www.inaturalist.org/photos/744105700
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744105700/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-striaticeps/3.jpg
+  page: https://www.inaturalist.org/photos/530905706
+  author: Gabriel Brachetti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530905706/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-striaticeps/4.jpg
+  page: https://www.inaturalist.org/photos/574397369
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574397369/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-striaticeps/5.jpg
+  page: https://www.inaturalist.org/photos/428738104
+  author: demianlescano
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428738104/original.jpeg
 ---
 
 

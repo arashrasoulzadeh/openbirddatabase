@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-granadensis/1.jpg
+  page: https://www.inaturalist.org/photos/652834073
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652834073/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-granadensis/1.jpg
+  page: https://www.inaturalist.org/photos/652834073
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652834073/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-granadensis/2.jpg
+  page: https://www.inaturalist.org/photos/482132057
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482132057/original.jpeg
+- file: images/passeriformes/tyrannidae/hemitriccus-granadensis/3.jpg
+  page: https://www.inaturalist.org/photos/526758328
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526758328/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-granadensis/4.jpg
+  page: https://www.inaturalist.org/photos/562759400
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562759400/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-granadensis/5.jpg
+  page: https://www.inaturalist.org/photos/360441294
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360441294/original.jpeg
 ---
 
 

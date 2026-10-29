@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-lophorinus/1.jpg
+  page: https://www.inaturalist.org/photos/623573643
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623573643/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-lophorinus/1.jpg
+  page: https://www.inaturalist.org/photos/623573643
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623573643/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-lophorinus/2.jpg
+  page: https://www.inaturalist.org/photos/469008839
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469008839/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-lophorinus/3.jpg
+  page: https://www.inaturalist.org/photos/606183593
+  author: Nadezhda Bortnikova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606183593/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-lophorinus/4.jpg
+  page: https://www.inaturalist.org/photos/369712018
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369712018/original.jpeg
+- file: images/passeriformes/dicruridae/dicrurus-lophorinus/5.jpg
+  page: https://www.inaturalist.org/photos/452212515
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452212515/original.jpeg
 ---
 
 

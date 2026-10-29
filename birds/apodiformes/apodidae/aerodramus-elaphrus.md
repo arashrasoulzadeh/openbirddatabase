@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-elaphrus/1.jpg
+  page: https://www.inaturalist.org/photos/707967616
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967616/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-elaphrus/1.jpg
+  page: https://www.inaturalist.org/photos/707967616
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967616/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-elaphrus/2.jpg
+  page: https://www.inaturalist.org/photos/453003004
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453003004/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-elaphrus/3.jpg
+  page: https://www.inaturalist.org/photos/707967627
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707967627/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-elaphrus/4.jpg
+  page: https://www.inaturalist.org/photos/453447391
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453447391/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-elaphrus/5.jpg
+  page: https://www.inaturalist.org/photos/453447327
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453447327/original.jpeg
 ---
 
 

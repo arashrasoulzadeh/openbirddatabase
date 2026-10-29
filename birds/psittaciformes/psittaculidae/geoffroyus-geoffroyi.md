@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/geoffroyus-geoffroyi/1.jpg
+  page: https://www.inaturalist.org/photos/627509797
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627509797/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/geoffroyus-geoffroyi/1.jpg
+  page: https://www.inaturalist.org/photos/627509797
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627509797/original.jpg
+- file: images/psittaciformes/psittaculidae/geoffroyus-geoffroyi/2.jpg
+  page: https://www.inaturalist.org/photos/698103817
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698103817/original.jpg
+- file: images/psittaciformes/psittaculidae/geoffroyus-geoffroyi/3.jpg
+  page: https://www.inaturalist.org/photos/699534465
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699534465/original.jpg
+- file: images/psittaciformes/psittaculidae/geoffroyus-geoffroyi/4.jpg
+  page: https://www.inaturalist.org/photos/708798415
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708798415/original.jpg
+- file: images/psittaciformes/psittaculidae/geoffroyus-geoffroyi/5.jpg
+  page: https://www.inaturalist.org/photos/526333336
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333336/original.jpg
 ---
 
 

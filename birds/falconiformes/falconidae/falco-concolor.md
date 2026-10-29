@@ -180,8 +180,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/529634172
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529634172/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/529634172
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529634172/original.jpg
+- file: images/falconiformes/falconidae/falco-concolor/2.jpg
+  page: https://www.inaturalist.org/photos/615971052
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615971052/original.jpg
+- file: images/falconiformes/falconidae/falco-concolor/3.jpg
+  page: https://www.inaturalist.org/photos/324362799
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/324362799/original.jpeg
+- file: images/falconiformes/falconidae/falco-concolor/4.jpg
+  page: https://www.inaturalist.org/photos/150482367
+  author: Mourad Harzallah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/150482367/original.jpeg
+- file: images/falconiformes/falconidae/falco-concolor/5.jpg
+  page: https://www.inaturalist.org/photos/12964601
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12964601/original.jpeg
 ---
 
 

@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/alcedo-quadribrachys/1.jpg
+  page: https://www.inaturalist.org/photos/592194871
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592194871/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/alcedo-quadribrachys/1.jpg
+  page: https://www.inaturalist.org/photos/592194871
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592194871/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-quadribrachys/2.jpg
+  page: https://www.inaturalist.org/photos/353542306
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353542306/original.png
+- file: images/coraciiformes/alcedinidae/alcedo-quadribrachys/3.jpg
+  page: https://www.inaturalist.org/photos/303456032
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303456032/original.jpeg
+- file: images/coraciiformes/alcedinidae/alcedo-quadribrachys/4.jpg
+  page: https://www.inaturalist.org/photos/592194869
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592194869/original.jpg
+- file: images/coraciiformes/alcedinidae/alcedo-quadribrachys/5.jpg
+  page: https://www.inaturalist.org/photos/592194870
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592194870/original.jpg
 ---
 
 

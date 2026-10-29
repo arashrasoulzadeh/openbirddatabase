@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/calyptomenidae/calyptomena-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/620094455
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620094455/original.jpg
+images:
+- file: images/passeriformes/calyptomenidae/calyptomena-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/620094455
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620094455/original.jpg
+- file: images/passeriformes/calyptomenidae/calyptomena-whiteheadi/2.jpg
+  page: https://www.inaturalist.org/photos/686974101
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686974101/original.jpg
+- file: images/passeriformes/calyptomenidae/calyptomena-whiteheadi/3.jpg
+  page: https://www.inaturalist.org/photos/573126862
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573126862/original.jpg
+- file: images/passeriformes/calyptomenidae/calyptomena-whiteheadi/4.jpg
+  page: https://www.inaturalist.org/photos/452645666
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452645666/original.jpeg
+- file: images/passeriformes/calyptomenidae/calyptomena-whiteheadi/5.jpg
+  page: https://www.inaturalist.org/photos/296279574
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/296279574/original.jpg
 ---
 
 

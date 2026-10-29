@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/chloebia-gouldiae/1.jpg
+  page: https://www.inaturalist.org/photos/605859208
+  author: Graham Cleaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605859208/original.jpg
+images:
+- file: images/passeriformes/estrildidae/chloebia-gouldiae/1.jpg
+  page: https://www.inaturalist.org/photos/605859208
+  author: Graham Cleaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605859208/original.jpg
+- file: images/passeriformes/estrildidae/chloebia-gouldiae/2.jpg
+  page: https://www.inaturalist.org/photos/612667423
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612667423/original.jpg
+- file: images/passeriformes/estrildidae/chloebia-gouldiae/3.jpg
+  page: https://www.inaturalist.org/photos/370906635
+  author: Ben Jobson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370906635/original.jpeg
+- file: images/passeriformes/estrildidae/chloebia-gouldiae/4.jpg
+  page: https://www.inaturalist.org/photos/176219719
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176219719/original.jpeg
+- file: images/passeriformes/estrildidae/chloebia-gouldiae/5.jpg
+  page: https://www.inaturalist.org/photos/176219737
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176219737/original.jpeg
 ---
 
 

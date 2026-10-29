@@ -137,7 +137,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.7
@@ -145,6 +146,44 @@ morphology:
   wing_length_mm: 50.1
   tail_length_mm: 42.6
   body_mass_g: 9.2
+image:
+  file: images/passeriformes/cisticolidae/apalis-bamendae/1.jpg
+  page: https://www.inaturalist.org/photos/639300844
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639300844/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/apalis-bamendae/1.jpg
+  page: https://www.inaturalist.org/photos/639300844
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639300844/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-bamendae/2.jpg
+  page: https://www.inaturalist.org/photos/81145859
+  author: Antoon De Vylder
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/81145859/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-bamendae/3.jpg
+  page: https://www.inaturalist.org/photos/639300857
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639300857/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-bamendae/4.jpg
+  page: https://www.inaturalist.org/photos/639320570
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639320570/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-bamendae/5.jpg
+  page: https://www.inaturalist.org/photos/639320445
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639320445/original.jpg
 ---
 
 

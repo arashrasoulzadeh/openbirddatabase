@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/rynchops-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/660451886
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660451886/original.jpg
+images:
+- file: images/charadriiformes/laridae/rynchops-flavirostris/1.jpg
+  page: https://www.inaturalist.org/photos/660451886
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660451886/original.jpg
+- file: images/charadriiformes/laridae/rynchops-flavirostris/2.jpg
+  page: https://www.inaturalist.org/photos/716628447
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716628447/original.jpg
+- file: images/charadriiformes/laridae/rynchops-flavirostris/3.jpg
+  page: https://www.inaturalist.org/photos/688578541
+  author: Devon Bradley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688578541/original.jpg
+- file: images/charadriiformes/laridae/rynchops-flavirostris/4.jpg
+  page: https://www.inaturalist.org/photos/721576213
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721576213/original.jpg
+- file: images/charadriiformes/laridae/rynchops-flavirostris/5.jpg
+  page: https://www.inaturalist.org/photos/722903186
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722903186/original.jpg
 ---
 
 

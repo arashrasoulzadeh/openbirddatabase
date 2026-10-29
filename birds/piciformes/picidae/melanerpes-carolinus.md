@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/piciformes/picidae/melanerpes-carolinus/1.jpg
+  page: https://www.inaturalist.org/photos/605488417
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605488417/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-carolinus/1.jpg
+  page: https://www.inaturalist.org/photos/605488417
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605488417/original.jpg
+- file: images/piciformes/picidae/melanerpes-carolinus/2.jpg
+  page: https://www.inaturalist.org/photos/605434959
+  author: Bill Keim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434959/original.jpg
+- file: images/piciformes/picidae/melanerpes-carolinus/3.jpg
+  page: https://www.inaturalist.org/photos/605734105
+  author: Marshall Cleveland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605734105/original.jpg
+- file: images/piciformes/picidae/melanerpes-carolinus/4.jpg
+  page: https://www.inaturalist.org/photos/605703766
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605703766/original.jpg
+- file: images/piciformes/picidae/melanerpes-carolinus/5.jpg
+  page: https://www.inaturalist.org/photos/604510558
+  author: Megan Bolcar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604510558/original.jpg
 ---
 
 

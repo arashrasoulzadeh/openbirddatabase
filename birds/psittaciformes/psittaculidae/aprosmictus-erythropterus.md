@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/psittaciformes/psittaculidae/aprosmictus-erythropterus/1.jpg
+  page: https://www.inaturalist.org/photos/606714877
+  author: Bethlea Bell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606714877/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/aprosmictus-erythropterus/1.jpg
+  page: https://www.inaturalist.org/photos/606714877
+  author: Bethlea Bell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606714877/original.jpg
+- file: images/psittaciformes/psittaculidae/aprosmictus-erythropterus/2.jpg
+  page: https://www.inaturalist.org/photos/606761232
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606761232/original.jpg
+- file: images/psittaciformes/psittaculidae/aprosmictus-erythropterus/3.jpg
+  page: https://www.inaturalist.org/photos/640918244
+  author: Jane G.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640918244/original.jpg
+- file: images/psittaciformes/psittaculidae/aprosmictus-erythropterus/4.jpg
+  page: https://www.inaturalist.org/photos/641788703
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641788703/original.jpg
+- file: images/psittaciformes/psittaculidae/aprosmictus-erythropterus/5.jpg
+  page: https://www.inaturalist.org/photos/660471548
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660471548/original.jpg
 ---
 
 

@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/alauda-gulgula/1.jpg
+  page: https://www.inaturalist.org/photos/610617783
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610617783/original.jpg
+images:
+- file: images/passeriformes/alaudidae/alauda-gulgula/1.jpg
+  page: https://www.inaturalist.org/photos/610617783
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610617783/original.jpg
+- file: images/passeriformes/alaudidae/alauda-gulgula/2.jpg
+  page: https://www.inaturalist.org/photos/612417714
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612417714/original.jpg
+- file: images/passeriformes/alaudidae/alauda-gulgula/3.jpg
+  page: https://www.inaturalist.org/photos/621975519
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621975519/original.jpg
+- file: images/passeriformes/alaudidae/alauda-gulgula/4.jpg
+  page: https://www.inaturalist.org/photos/630476443
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630476443/original.jpg
+- file: images/passeriformes/alaudidae/alauda-gulgula/5.jpg
+  page: https://www.inaturalist.org/photos/676345468
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676345468/original.jpg
 ---
 
 

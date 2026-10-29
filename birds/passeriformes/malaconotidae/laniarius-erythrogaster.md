@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/laniarius-erythrogaster/1.jpg
+  page: https://www.inaturalist.org/photos/619047596
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619047596/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/laniarius-erythrogaster/1.jpg
+  page: https://www.inaturalist.org/photos/619047596
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619047596/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-erythrogaster/2.jpg
+  page: https://www.inaturalist.org/photos/637956919
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637956919/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-erythrogaster/3.jpg
+  page: https://www.inaturalist.org/photos/657154832
+  author: Chiara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657154832/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-erythrogaster/4.jpg
+  page: https://www.inaturalist.org/photos/713669932
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713669932/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-erythrogaster/5.jpg
+  page: https://www.inaturalist.org/photos/548872445
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548872445/original.jpg
 ---
 
 

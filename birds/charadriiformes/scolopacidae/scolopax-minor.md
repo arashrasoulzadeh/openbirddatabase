@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/charadriiformes/scolopacidae/scolopax-minor/1.jpg
+  page: https://www.inaturalist.org/photos/604905730
+  author: ashleyrsteel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604905730/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/scolopax-minor/1.jpg
+  page: https://www.inaturalist.org/photos/604905730
+  author: ashleyrsteel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604905730/original.jpg
+- file: images/charadriiformes/scolopacidae/scolopax-minor/2.jpg
+  page: https://www.inaturalist.org/photos/604907825
+  author: Joshua Ebright
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604907825/original.jpg
+- file: images/charadriiformes/scolopacidae/scolopax-minor/3.jpg
+  page: https://www.inaturalist.org/photos/609117913
+  author: Seth G. Breeding
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609117913/original.jpg
+- file: images/charadriiformes/scolopacidae/scolopax-minor/4.jpg
+  page: https://www.inaturalist.org/photos/628265444
+  author: Anne Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628265444/original.jpg
+- file: images/charadriiformes/scolopacidae/scolopax-minor/5.jpg
+  page: https://www.inaturalist.org/photos/613980930
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613980930/original.jpg
 ---
 
 

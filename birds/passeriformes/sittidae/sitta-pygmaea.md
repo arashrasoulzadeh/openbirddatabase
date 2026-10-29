@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/sittidae/sitta-pygmaea/1.jpg
+  page: https://www.inaturalist.org/photos/608666982
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608666982/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-pygmaea/1.jpg
+  page: https://www.inaturalist.org/photos/608666982
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608666982/original.jpg
+- file: images/passeriformes/sittidae/sitta-pygmaea/2.jpg
+  page: https://www.inaturalist.org/photos/613996066
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613996066/original.jpg
+- file: images/passeriformes/sittidae/sitta-pygmaea/3.jpg
+  page: https://www.inaturalist.org/photos/613052136
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613052136/original.jpg
+- file: images/passeriformes/sittidae/sitta-pygmaea/4.jpg
+  page: https://www.inaturalist.org/photos/614226730
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614226730/original.jpg
+- file: images/passeriformes/sittidae/sitta-pygmaea/5.jpg
+  page: https://www.inaturalist.org/photos/613340961
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613340961/original.jpg
 ---
 
 

@@ -131,7 +131,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.4
@@ -139,6 +140,44 @@ morphology:
   wing_length_mm: 79.9
   tail_length_mm: 70.1
   body_mass_g: 19.0
+image:
+  file: images/passeriformes/thraupidae/tachyphonus-surinamus/1.jpg
+  page: https://www.inaturalist.org/photos/620525761
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620525761/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tachyphonus-surinamus/1.jpg
+  page: https://www.inaturalist.org/photos/620525761
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620525761/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-surinamus/2.jpg
+  page: https://www.inaturalist.org/photos/467093736
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467093736/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-surinamus/3.jpg
+  page: https://www.inaturalist.org/photos/464117110
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464117110/original.jpeg
+- file: images/passeriformes/thraupidae/tachyphonus-surinamus/4.jpg
+  page: https://www.inaturalist.org/photos/589313823
+  author: Wouter Koch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589313823/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-surinamus/5.jpg
+  page: https://www.inaturalist.org/photos/367015678
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367015678/original.jpg
 ---
 
 

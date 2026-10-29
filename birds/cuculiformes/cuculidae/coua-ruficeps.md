@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coua-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/654115127
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654115127/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coua-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/654115127
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654115127/original.jpg
+- file: images/cuculiformes/cuculidae/coua-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/578522341
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578522341/original.jpg
+- file: images/cuculiformes/cuculidae/coua-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/444702589
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444702589/original.jpeg
+- file: images/cuculiformes/cuculidae/coua-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/446287010
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446287010/original.jpeg
+- file: images/cuculiformes/cuculidae/coua-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/455479540
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455479540/original.jpeg
 ---
 
 

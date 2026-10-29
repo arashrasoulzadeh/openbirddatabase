@@ -185,10 +185,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/charadriiformes/laridae/thalasseus-bengalensis/1.jpg
+  page: https://www.inaturalist.org/photos/614520933
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520933/original.jpg
+images:
+- file: images/charadriiformes/laridae/thalasseus-bengalensis/1.jpg
+  page: https://www.inaturalist.org/photos/614520933
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520933/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-bengalensis/2.jpg
+  page: https://www.inaturalist.org/photos/632342566
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632342566/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-bengalensis/3.jpg
+  page: https://www.inaturalist.org/photos/618133846
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618133846/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-bengalensis/4.jpg
+  page: https://www.inaturalist.org/photos/616656982
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616656982/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-bengalensis/5.jpg
+  page: https://www.inaturalist.org/photos/637116416
+  author: Josh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637116416/original.jpg
 ---
 
 

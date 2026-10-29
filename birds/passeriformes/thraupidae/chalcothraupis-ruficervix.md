@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 13.8
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 75.0
   tail_length_mm: 47.0
   body_mass_g: 19.0
+image:
+  file: images/passeriformes/thraupidae/chalcothraupis-ruficervix/1.jpg
+  page: https://www.inaturalist.org/photos/608021294
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608021294/original.jpg
+images:
+- file: images/passeriformes/thraupidae/chalcothraupis-ruficervix/1.jpg
+  page: https://www.inaturalist.org/photos/608021294
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608021294/original.jpg
+- file: images/passeriformes/thraupidae/chalcothraupis-ruficervix/2.jpg
+  page: https://www.inaturalist.org/photos/612266978
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612266978/original.jpg
+- file: images/passeriformes/thraupidae/chalcothraupis-ruficervix/3.jpg
+  page: https://www.inaturalist.org/photos/612626940
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626940/original.jpg
+- file: images/passeriformes/thraupidae/chalcothraupis-ruficervix/4.jpg
+  page: https://www.inaturalist.org/photos/609326227
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609326227/original.jpg
+- file: images/passeriformes/thraupidae/chalcothraupis-ruficervix/5.jpg
+  page: https://www.inaturalist.org/photos/625549266
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625549266/original.jpg
 ---
 
 

@@ -135,8 +135,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/piculus-litae/1.jpg
+  page: https://www.inaturalist.org/photos/351654214
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351654214/original.jpg
+images:
+- file: images/piciformes/picidae/piculus-litae/1.jpg
+  page: https://www.inaturalist.org/photos/351654214
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351654214/original.jpg
+- file: images/piciformes/picidae/piculus-litae/2.jpg
+  page: https://www.inaturalist.org/photos/104826710
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826710/original.jpeg
+- file: images/piciformes/picidae/piculus-litae/3.jpg
+  page: https://www.inaturalist.org/photos/104826716
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826716/original.jpeg
+- file: images/piciformes/picidae/piculus-litae/4.jpg
+  page: https://www.inaturalist.org/photos/104826725
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826725/original.jpeg
+- file: images/piciformes/picidae/piculus-litae/5.jpg
+  page: https://www.inaturalist.org/photos/104826731
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826731/original.jpeg
 ---
 
 

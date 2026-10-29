@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-solangiae/1.jpg
+  page: https://www.inaturalist.org/photos/386197534
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386197534/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-solangiae/1.jpg
+  page: https://www.inaturalist.org/photos/386197534
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386197534/original.jpg
+- file: images/passeriformes/sittidae/sitta-solangiae/2.jpg
+  page: https://www.inaturalist.org/photos/513367339
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513367339/original.jpg
+- file: images/passeriformes/sittidae/sitta-solangiae/3.jpg
+  page: https://www.inaturalist.org/photos/385764123
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385764123/original.jpeg
+- file: images/passeriformes/sittidae/sitta-solangiae/4.jpg
+  page: https://www.inaturalist.org/photos/635069599
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635069599/original.jpg
+- file: images/passeriformes/sittidae/sitta-solangiae/5.jpg
+  page: https://www.inaturalist.org/photos/105778545
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778545/original.jpeg
 ---
 
 

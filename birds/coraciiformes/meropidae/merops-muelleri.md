@@ -146,8 +146,23 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-muelleri/1.jpg
+  page: https://picasaweb.google.com/112678111612962172808/Kenya2009#5386325215072532930
+  author: Doug Macaulay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5957692/original.jpeg
+images:
+- file: images/coraciiformes/meropidae/merops-muelleri/1.jpg
+  page: https://picasaweb.google.com/112678111612962172808/Kenya2009#5386325215072532930
+  author: Doug Macaulay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5957692/original.jpeg
 ---
 
 

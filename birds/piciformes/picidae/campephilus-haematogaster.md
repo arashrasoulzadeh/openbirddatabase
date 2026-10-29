@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campephilus-haematogaster/1.jpg
+  page: https://www.inaturalist.org/photos/256034584
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256034584/original.jpeg
+images:
+- file: images/piciformes/picidae/campephilus-haematogaster/1.jpg
+  page: https://www.inaturalist.org/photos/256034584
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256034584/original.jpeg
+- file: images/piciformes/picidae/campephilus-haematogaster/2.jpg
+  page: https://www.inaturalist.org/photos/347525858
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347525858/original.jpeg
+- file: images/piciformes/picidae/campephilus-haematogaster/3.jpg
+  page: https://www.inaturalist.org/photos/251186330
+  author: Roger Rittmaster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251186330/original.jpeg
+- file: images/piciformes/picidae/campephilus-haematogaster/4.jpg
+  page: https://www.inaturalist.org/photos/115631729
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/115631729/original.jpeg
+- file: images/piciformes/picidae/campephilus-haematogaster/5.jpg
+  page: https://www.inaturalist.org/photos/14841183
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/14841183/original.jpg
 ---
 
 

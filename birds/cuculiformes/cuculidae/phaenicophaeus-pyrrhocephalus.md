@@ -130,8 +130,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/phaenicophaeus-pyrrhocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/623580334
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623580334/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/phaenicophaeus-pyrrhocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/623580334
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623580334/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-pyrrhocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/469009099
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469009099/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-pyrrhocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/451794547
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451794547/original.jpeg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-pyrrhocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/385135951
+  author: Akshay
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385135951/original.jpeg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-pyrrhocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/63120122
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63120122/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/cryptolybia-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/582681152
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582681152/original.jpg
+images:
+- file: images/piciformes/lybiidae/cryptolybia-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/582681152
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582681152/original.jpg
+- file: images/piciformes/lybiidae/cryptolybia-olivacea/2.jpg
+  page: https://www.inaturalist.org/photos/469377852
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469377852/original.jpg
+- file: images/piciformes/lybiidae/cryptolybia-olivacea/3.jpg
+  page: https://www.inaturalist.org/photos/262922189
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262922189/original.jpg
+- file: images/piciformes/lybiidae/cryptolybia-olivacea/4.jpg
+  page: https://www.inaturalist.org/photos/474654917
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474654917/original.jpeg
+- file: images/piciformes/lybiidae/cryptolybia-olivacea/5.jpg
+  page: https://www.inaturalist.org/photos/582681167
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582681167/original.jpg
 ---
 
 

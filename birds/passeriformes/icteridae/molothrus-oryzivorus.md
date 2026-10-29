@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/molothrus-oryzivorus/1.jpg
+  page: https://www.inaturalist.org/photos/607550293
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607550293/original.jpg
+images:
+- file: images/passeriformes/icteridae/molothrus-oryzivorus/1.jpg
+  page: https://www.inaturalist.org/photos/607550293
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607550293/original.jpg
+- file: images/passeriformes/icteridae/molothrus-oryzivorus/2.jpg
+  page: https://www.inaturalist.org/photos/613165140
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613165140/original.jpg
+- file: images/passeriformes/icteridae/molothrus-oryzivorus/3.jpg
+  page: https://www.inaturalist.org/photos/622582678
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622582678/original.jpg
+- file: images/passeriformes/icteridae/molothrus-oryzivorus/4.jpg
+  page: https://www.inaturalist.org/photos/631814489
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631814489/original.jpg
+- file: images/passeriformes/icteridae/molothrus-oryzivorus/5.jpg
+  page: https://www.inaturalist.org/photos/634706833
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634706833/original.jpg
 ---
 
 

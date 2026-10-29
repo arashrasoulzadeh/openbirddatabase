@@ -127,8 +127,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-nigrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/542299368
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542299368/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-nigrifrons/1.jpg
+  page: https://www.inaturalist.org/photos/542299368
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542299368/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-nigrifrons/2.jpg
+  page: https://www.inaturalist.org/photos/264317988
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264317988/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-nigrifrons/3.jpg
+  page: https://www.inaturalist.org/photos/316930464
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316930464/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-nigrifrons/4.jpg
+  page: https://www.inaturalist.org/photos/655581185
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655581185/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-nigrifrons/5.jpg
+  page: https://www.inaturalist.org/photos/264221173
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264221173/original.jpeg
 ---
 
 

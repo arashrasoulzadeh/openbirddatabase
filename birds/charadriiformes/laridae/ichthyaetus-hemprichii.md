@@ -138,7 +138,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 55.7
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 340.8
   tail_length_mm: 122.7
   body_mass_g: 451.7
+image:
+  file: images/charadriiformes/laridae/ichthyaetus-hemprichii/1.jpg
+  page: https://www.inaturalist.org/photos/614231269
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231269/original.jpg
+images:
+- file: images/charadriiformes/laridae/ichthyaetus-hemprichii/1.jpg
+  page: https://www.inaturalist.org/photos/614231269
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231269/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-hemprichii/2.jpg
+  page: https://www.inaturalist.org/photos/623182212
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623182212/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-hemprichii/3.jpg
+  page: https://www.inaturalist.org/photos/636198454
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636198454/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-hemprichii/4.jpg
+  page: https://www.inaturalist.org/photos/717743885
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717743885/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-hemprichii/5.jpg
+  page: https://www.inaturalist.org/photos/614521279
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614521279/original.jpg
 ---
 
 

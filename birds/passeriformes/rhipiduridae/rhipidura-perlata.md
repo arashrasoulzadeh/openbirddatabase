@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-perlata/1.jpg
+  page: https://www.inaturalist.org/photos/660573775
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660573775/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-perlata/1.jpg
+  page: https://www.inaturalist.org/photos/660573775
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660573775/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-perlata/2.jpg
+  page: https://www.inaturalist.org/photos/691204652
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691204652/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-perlata/3.jpg
+  page: https://www.inaturalist.org/photos/571362364
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571362364/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-perlata/4.jpg
+  page: https://www.inaturalist.org/photos/456042184
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456042184/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-perlata/5.jpg
+  page: https://www.inaturalist.org/photos/114832781
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114832781/original.jpeg
 ---
 
 

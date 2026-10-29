@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/meliphagidae/phylidonyris-niger/1.jpg
+  page: https://www.inaturalist.org/photos/606118050
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606118050/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/phylidonyris-niger/1.jpg
+  page: https://www.inaturalist.org/photos/606118050
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606118050/original.jpg
+- file: images/passeriformes/meliphagidae/phylidonyris-niger/2.jpg
+  page: https://www.inaturalist.org/photos/607808180
+  author: Belinda Forbes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808180/original.jpg
+- file: images/passeriformes/meliphagidae/phylidonyris-niger/3.jpg
+  page: https://www.inaturalist.org/photos/613765649
+  author: TJ Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613765649/original.jpg
+- file: images/passeriformes/meliphagidae/phylidonyris-niger/4.jpg
+  page: https://www.inaturalist.org/photos/634618888
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634618888/original.jpg
+- file: images/passeriformes/meliphagidae/phylidonyris-niger/5.jpg
+  page: https://www.inaturalist.org/photos/742062304
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742062304/original.jpg
 ---
 
 

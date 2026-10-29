@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-philippensis/1.jpg
+  page: https://www.inaturalist.org/photos/641781745
+  author: Paolo Co
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641781745/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-philippensis/1.jpg
+  page: https://www.inaturalist.org/photos/641781745
+  author: Paolo Co
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641781745/original.jpg
+- file: images/strigiformes/strigidae/ninox-philippensis/2.jpg
+  page: https://www.inaturalist.org/photos/653313921
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653313921/original.jpg
+- file: images/strigiformes/strigidae/ninox-philippensis/3.jpg
+  page: https://www.inaturalist.org/photos/304818828
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304818828/original.jpg
+- file: images/strigiformes/strigidae/ninox-philippensis/4.jpg
+  page: https://www.inaturalist.org/photos/396818747
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396818747/original.jpeg
+- file: images/strigiformes/strigidae/ninox-philippensis/5.jpg
+  page: https://www.inaturalist.org/photos/641782043
+  author: Paolo Co
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641782043/original.jpg
 ---
 
 

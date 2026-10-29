@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/pelecaniformes/threskiornithidae/pseudibis-davisoni/1.jpg
+  page: https://www.inaturalist.org/photos/283745634
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283745634/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/pseudibis-davisoni/1.jpg
+  page: https://www.inaturalist.org/photos/283745634
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283745634/original.jpg
+- file: images/pelecaniformes/threskiornithidae/pseudibis-davisoni/2.jpg
+  page: https://www.inaturalist.org/photos/338161563
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338161563/original.jpg
+- file: images/pelecaniformes/threskiornithidae/pseudibis-davisoni/3.jpg
+  page: https://www.inaturalist.org/photos/283746171
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283746171/original.jpg
+- file: images/pelecaniformes/threskiornithidae/pseudibis-davisoni/4.jpg
+  page: https://www.inaturalist.org/photos/283747054
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283747054/original.jpg
+- file: images/pelecaniformes/threskiornithidae/pseudibis-davisoni/5.jpg
+  page: https://www.inaturalist.org/photos/283747075
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/283747075/original.jpg
 ---
 
 

@@ -146,8 +146,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/rhegmatorhina-melanosticta/1.jpg
+  page: https://www.inaturalist.org/photos/603751079
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603751079/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-melanosticta/1.jpg
+  page: https://www.inaturalist.org/photos/603751079
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603751079/original.jpg
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-melanosticta/2.jpg
+  page: https://www.inaturalist.org/photos/426783469
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426783469/original.jpg
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-melanosticta/3.jpg
+  page: https://www.inaturalist.org/photos/159912782
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/159912782/original.jpeg
 ---
 
 

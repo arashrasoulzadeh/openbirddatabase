@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/meliphagidae/caligavis-chrysops/1.jpg
+  page: https://www.inaturalist.org/photos/605259722
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259722/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/caligavis-chrysops/1.jpg
+  page: https://www.inaturalist.org/photos/605259722
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259722/original.jpg
+- file: images/passeriformes/meliphagidae/caligavis-chrysops/2.jpg
+  page: https://www.inaturalist.org/photos/604703965
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604703965/original.jpg
+- file: images/passeriformes/meliphagidae/caligavis-chrysops/3.jpg
+  page: https://www.inaturalist.org/photos/606117284
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606117284/original.jpg
+- file: images/passeriformes/meliphagidae/caligavis-chrysops/4.jpg
+  page: https://www.inaturalist.org/photos/610140457
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610140457/original.jpg
+- file: images/passeriformes/meliphagidae/caligavis-chrysops/5.jpg
+  page: https://www.inaturalist.org/photos/607398164
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607398164/original.jpg
 ---
 
 

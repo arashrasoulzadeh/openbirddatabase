@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-radiolatus/1.jpg
+  page: https://www.inaturalist.org/photos/469425006
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469425006/original.jpeg
+images:
+- file: images/piciformes/picidae/melanerpes-radiolatus/1.jpg
+  page: https://www.inaturalist.org/photos/469425006
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469425006/original.jpeg
+- file: images/piciformes/picidae/melanerpes-radiolatus/2.jpg
+  page: https://www.inaturalist.org/photos/353692615
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353692615/original.jpg
+- file: images/piciformes/picidae/melanerpes-radiolatus/3.jpg
+  page: https://www.inaturalist.org/photos/392223072
+  author: Marilyne Busque-Dubois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/392223072/original.jpeg
+- file: images/piciformes/picidae/melanerpes-radiolatus/4.jpg
+  page: https://www.inaturalist.org/photos/355186878
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355186878/original.jpg
+- file: images/piciformes/picidae/melanerpes-radiolatus/5.jpg
+  page: https://www.inaturalist.org/photos/393460157
+  author: Marilyne Busque-Dubois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393460157/original.jpeg
 ---
 
 

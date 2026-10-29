@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/brunhilda-charmosyna/1.jpg
+  page: https://www.inaturalist.org/photos/722537343
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722537343/original.jpg
+images:
+- file: images/passeriformes/estrildidae/brunhilda-charmosyna/1.jpg
+  page: https://www.inaturalist.org/photos/722537343
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722537343/original.jpg
+- file: images/passeriformes/estrildidae/brunhilda-charmosyna/2.jpg
+  page: https://www.inaturalist.org/photos/585228430
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585228430/original.jpg
+- file: images/passeriformes/estrildidae/brunhilda-charmosyna/3.jpg
+  page: https://www.inaturalist.org/photos/441694504
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441694504/original.jpeg
+- file: images/passeriformes/estrildidae/brunhilda-charmosyna/4.jpg
+  page: https://www.inaturalist.org/photos/163092951
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163092951/original.jpeg
+- file: images/passeriformes/estrildidae/brunhilda-charmosyna/5.jpg
+  page: https://www.inaturalist.org/photos/585228438
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585228438/original.jpg
 ---
 
 

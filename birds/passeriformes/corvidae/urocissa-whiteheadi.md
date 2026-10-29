@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/urocissa-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/463721938
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463721938/original.jpeg
+images:
+- file: images/passeriformes/corvidae/urocissa-whiteheadi/1.jpg
+  page: https://www.inaturalist.org/photos/463721938
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463721938/original.jpeg
+- file: images/passeriformes/corvidae/urocissa-whiteheadi/2.jpg
+  page: https://www.inaturalist.org/photos/348426737
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348426737/original.jpeg
+- file: images/passeriformes/corvidae/urocissa-whiteheadi/3.jpg
+  page: https://www.inaturalist.org/photos/38120478
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/38120478/original.jpg
+- file: images/passeriformes/corvidae/urocissa-whiteheadi/4.jpg
+  page: https://www.inaturalist.org/photos/463721948
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463721948/original.jpeg
+- file: images/passeriformes/corvidae/urocissa-whiteheadi/5.jpg
+  page: https://www.inaturalist.org/photos/463721957
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463721957/original.jpeg
 ---
 
 

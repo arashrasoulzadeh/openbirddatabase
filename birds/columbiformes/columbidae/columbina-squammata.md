@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columbina-squammata/1.jpg
+  page: https://www.inaturalist.org/photos/605144415
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144415/original.jpg
+images:
+- file: images/columbiformes/columbidae/columbina-squammata/1.jpg
+  page: https://www.inaturalist.org/photos/605144415
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144415/original.jpg
+- file: images/columbiformes/columbidae/columbina-squammata/2.jpg
+  page: https://www.inaturalist.org/photos/609692786
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609692786/original.jpg
+- file: images/columbiformes/columbidae/columbina-squammata/3.jpg
+  page: https://www.inaturalist.org/photos/606027497
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027497/original.jpg
+- file: images/columbiformes/columbidae/columbina-squammata/4.jpg
+  page: https://www.inaturalist.org/photos/607340663
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607340663/original.jpg
+- file: images/columbiformes/columbidae/columbina-squammata/5.jpg
+  page: https://www.inaturalist.org/photos/610216583
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610216583/original.jpg
 ---
 
 

@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/podicipediformes/podicipedidae/podiceps-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/605310361
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605310361/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/podiceps-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/605310361
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605310361/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-nigricollis/2.jpg
+  page: https://www.inaturalist.org/photos/605154419
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605154419/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-nigricollis/3.jpg
+  page: https://www.inaturalist.org/photos/604553033
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604553033/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-nigricollis/4.jpg
+  page: https://www.inaturalist.org/photos/605393344
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605393344/original.jpg
+- file: images/podicipediformes/podicipedidae/podiceps-nigricollis/5.jpg
+  page: https://www.inaturalist.org/photos/605374164
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605374164/original.jpg
 ---
 
 

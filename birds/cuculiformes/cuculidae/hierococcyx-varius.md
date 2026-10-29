@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/hierococcyx-varius/1.jpg
+  page: https://www.inaturalist.org/photos/611217061
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611217061/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/hierococcyx-varius/1.jpg
+  page: https://www.inaturalist.org/photos/611217061
+  author: Suhas Saya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611217061/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-varius/2.jpg
+  page: https://www.inaturalist.org/photos/616974038
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616974038/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-varius/3.jpg
+  page: https://www.inaturalist.org/photos/624943527
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624943527/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-varius/4.jpg
+  page: https://www.inaturalist.org/photos/619549605
+  author: haemanthus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619549605/original.jpg
+- file: images/cuculiformes/cuculidae/hierococcyx-varius/5.jpg
+  page: https://www.inaturalist.org/photos/731528579
+  author: Rahul kumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731528579/original.jpg
 ---
 
 

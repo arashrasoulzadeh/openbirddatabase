@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/eupsittula-cactorum/1.jpg
+  page: https://www.inaturalist.org/photos/607529046
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529046/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/eupsittula-cactorum/1.jpg
+  page: https://www.inaturalist.org/photos/607529046
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529046/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-cactorum/2.jpg
+  page: https://www.inaturalist.org/photos/630259368
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630259368/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-cactorum/3.jpg
+  page: https://www.inaturalist.org/photos/696554424
+  author: Gabriel Fernandes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696554424/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-cactorum/4.jpg
+  page: https://www.inaturalist.org/photos/708324835
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708324835/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-cactorum/5.jpg
+  page: https://www.inaturalist.org/photos/718666191
+  author: Marcello Mastroianni Albuquerque Araújo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718666191/original.jpg
 ---
 
 

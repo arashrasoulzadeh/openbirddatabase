@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/rhodospiza-obsoleta/1.jpg
+  page: https://www.inaturalist.org/photos/694144164
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694144164/original.jpg
+images:
+- file: images/passeriformes/fringillidae/rhodospiza-obsoleta/1.jpg
+  page: https://www.inaturalist.org/photos/694144164
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694144164/original.jpg
+- file: images/passeriformes/fringillidae/rhodospiza-obsoleta/2.jpg
+  page: https://www.inaturalist.org/photos/740375014
+  author: yelena_antipova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740375014/original.jpg
+- file: images/passeriformes/fringillidae/rhodospiza-obsoleta/3.jpg
+  page: https://www.inaturalist.org/photos/476281357
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476281357/original.jpeg
+- file: images/passeriformes/fringillidae/rhodospiza-obsoleta/4.jpg
+  page: https://www.inaturalist.org/photos/483798187
+  author: kirinzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483798187/original.jpeg
+- file: images/passeriformes/fringillidae/rhodospiza-obsoleta/5.jpg
+  page: https://www.inaturalist.org/photos/484160727
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484160727/original.jpeg
 ---
 
 

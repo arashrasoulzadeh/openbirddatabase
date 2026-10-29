@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/nesillas-lantzii/1.jpg
+  page: https://www.inaturalist.org/photos/397302578
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/397302578/original.jpeg
+images:
+- file: images/passeriformes/acrocephalidae/nesillas-lantzii/1.jpg
+  page: https://www.inaturalist.org/photos/397302578
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/397302578/original.jpeg
+- file: images/passeriformes/acrocephalidae/nesillas-lantzii/2.jpg
+  page: https://www.inaturalist.org/photos/453447440
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453447440/original.jpg
+- file: images/passeriformes/acrocephalidae/nesillas-lantzii/3.jpg
+  page: https://www.inaturalist.org/photos/455729049
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455729049/original.jpeg
+- file: images/passeriformes/acrocephalidae/nesillas-lantzii/4.jpg
+  page: https://www.inaturalist.org/photos/242742735
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242742735/original.jpg
+- file: images/passeriformes/acrocephalidae/nesillas-lantzii/5.jpg
+  page: https://www.inaturalist.org/photos/260870450
+  author: Margaret Stevens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260870450/original.jpg
 ---
 
 

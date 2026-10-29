@@ -137,8 +137,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-buruensis/1.jpg
+  page: https://www.inaturalist.org/photos/718304346
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718304346/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-buruensis/1.jpg
+  page: https://www.inaturalist.org/photos/718304346
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718304346/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-buruensis/2.jpg
+  page: https://www.inaturalist.org/photos/247564646
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247564646/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-buruensis/3.jpg
+  page: https://www.inaturalist.org/photos/440527637
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527637/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-buruensis/4.jpg
+  page: https://www.inaturalist.org/photos/440527645
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527645/original.jpeg
 ---
 
 

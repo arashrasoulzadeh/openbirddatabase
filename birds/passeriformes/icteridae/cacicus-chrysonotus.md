@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/cacicus-chrysonotus/1.jpg
+  page: https://www.inaturalist.org/photos/462588747
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462588747/original.jpg
+images:
+- file: images/passeriformes/icteridae/cacicus-chrysonotus/1.jpg
+  page: https://www.inaturalist.org/photos/462588747
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462588747/original.jpg
+- file: images/passeriformes/icteridae/cacicus-chrysonotus/2.jpg
+  page: https://www.inaturalist.org/photos/489388097
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489388097/original.jpg
+- file: images/passeriformes/icteridae/cacicus-chrysonotus/3.jpg
+  page: https://www.inaturalist.org/photos/482706102
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482706102/original.png
+- file: images/passeriformes/icteridae/cacicus-chrysonotus/4.jpg
+  page: https://www.inaturalist.org/photos/530076984
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/530076984/original.jpg
+- file: images/passeriformes/icteridae/cacicus-chrysonotus/5.jpg
+  page: https://www.inaturalist.org/photos/528132606
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528132606/original.jpg
 ---
 
 

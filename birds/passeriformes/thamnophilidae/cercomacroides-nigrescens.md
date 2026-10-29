@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cercomacroides-nigrescens/1.jpg
+  page: https://www.inaturalist.org/photos/474254352
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474254352/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/cercomacroides-nigrescens/1.jpg
+  page: https://www.inaturalist.org/photos/474254352
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474254352/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacroides-nigrescens/2.jpg
+  page: https://www.inaturalist.org/photos/523686496
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686496/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacroides-nigrescens/3.jpg
+  page: https://www.inaturalist.org/photos/321901680
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/321901680/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacroides-nigrescens/4.jpg
+  page: https://www.inaturalist.org/photos/340376817
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340376817/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacroides-nigrescens/5.jpg
+  page: https://www.inaturalist.org/photos/585948400
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585948400/original.jpg
 ---
 
 

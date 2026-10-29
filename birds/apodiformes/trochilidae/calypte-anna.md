@@ -196,10 +196,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/apodiformes/trochilidae/calypte-anna/1.jpg
+  page: https://www.inaturalist.org/photos/605180167
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180167/original.jpg
+images:
+- file: images/apodiformes/trochilidae/calypte-anna/1.jpg
+  page: https://www.inaturalist.org/photos/605180167
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180167/original.jpg
+- file: images/apodiformes/trochilidae/calypte-anna/2.jpg
+  page: https://www.inaturalist.org/photos/605515920
+  author: emma g
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605515920/original.jpg
+- file: images/apodiformes/trochilidae/calypte-anna/3.jpg
+  page: https://www.inaturalist.org/photos/605440633
+  author: Shaun Case
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605440633/original.jpg
+- file: images/apodiformes/trochilidae/calypte-anna/4.jpg
+  page: https://www.inaturalist.org/photos/605187669
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605187669/original.jpg
+- file: images/apodiformes/trochilidae/calypte-anna/5.jpg
+  page: https://www.inaturalist.org/photos/604641361
+  author: Daniel Levitis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604641361/original.jpg
 ---
 
 

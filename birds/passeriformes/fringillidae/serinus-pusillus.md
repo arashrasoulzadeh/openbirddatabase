@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/serinus-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/655335233
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655335233/original.jpg
+images:
+- file: images/passeriformes/fringillidae/serinus-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/655335233
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655335233/original.jpg
+- file: images/passeriformes/fringillidae/serinus-pusillus/2.jpg
+  page: https://www.inaturalist.org/photos/695592644
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695592644/original.jpg
+- file: images/passeriformes/fringillidae/serinus-pusillus/3.jpg
+  page: https://www.inaturalist.org/photos/693404567
+  author: James Heal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693404567/original.jpg
+- file: images/passeriformes/fringillidae/serinus-pusillus/4.jpg
+  page: https://www.inaturalist.org/photos/693142085
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693142085/original.jpg
+- file: images/passeriformes/fringillidae/serinus-pusillus/5.jpg
+  page: https://www.inaturalist.org/photos/696925229
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696925229/original.jpg
 ---
 
 

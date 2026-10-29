@@ -125,8 +125,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/651935054
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651935054/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/651935054
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651935054/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-striatus/2.jpg
+  page: https://www.inaturalist.org/photos/683295138
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683295138/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-striatus/3.jpg
+  page: https://www.inaturalist.org/photos/263837246
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263837246/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-striatus/4.jpg
+  page: https://www.inaturalist.org/photos/653313835
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653313835/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-striatus/5.jpg
+  page: https://www.inaturalist.org/photos/651325638
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651325638/original.jpg
 ---
 
 

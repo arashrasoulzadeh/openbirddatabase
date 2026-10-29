@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/rallus-semiplumbeus/1.jpg
+  page: https://www.inaturalist.org/photos/613433082
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613433082/original.jpg
+images:
+- file: images/gruiformes/rallidae/rallus-semiplumbeus/1.jpg
+  page: https://www.inaturalist.org/photos/613433082
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613433082/original.jpg
+- file: images/gruiformes/rallidae/rallus-semiplumbeus/2.jpg
+  page: https://www.inaturalist.org/photos/458776852
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458776852/original.jpg
+- file: images/gruiformes/rallidae/rallus-semiplumbeus/3.jpg
+  page: https://www.inaturalist.org/photos/236916248
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236916248/original.jpeg
+- file: images/gruiformes/rallidae/rallus-semiplumbeus/4.jpg
+  page: https://www.inaturalist.org/photos/245717119
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245717119/original.jpeg
+- file: images/gruiformes/rallidae/rallus-semiplumbeus/5.jpg
+  page: https://www.inaturalist.org/photos/171815047
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/171815047/original.jpeg
 ---
 
 

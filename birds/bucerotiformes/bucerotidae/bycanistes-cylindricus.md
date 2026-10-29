@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/bycanistes-cylindricus/1.jpg
+  page: https://www.inaturalist.org/photos/344682864
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344682864/original.jpeg
+images:
+- file: images/bucerotiformes/bucerotidae/bycanistes-cylindricus/1.jpg
+  page: https://www.inaturalist.org/photos/344682864
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344682864/original.jpeg
+- file: images/bucerotiformes/bucerotidae/bycanistes-cylindricus/2.jpg
+  page: https://www.inaturalist.org/photos/174921035
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174921035/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-cylindricus/3.jpg
+  page: https://www.inaturalist.org/photos/180777976
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180777976/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-cylindricus/4.jpg
+  page: https://www.inaturalist.org/photos/8470491
+  author: B. Phalan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8470491/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-cylindricus/5.jpg
+  page: https://www.inaturalist.org/photos/344682860
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344682860/original.jpeg
 ---
 
 

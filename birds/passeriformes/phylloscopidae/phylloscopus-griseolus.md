@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-griseolus/1.jpg
+  page: https://www.inaturalist.org/photos/609147114
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609147114/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-griseolus/1.jpg
+  page: https://www.inaturalist.org/photos/609147114
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609147114/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-griseolus/2.jpg
+  page: https://www.inaturalist.org/photos/615986784
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615986784/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-griseolus/3.jpg
+  page: https://www.inaturalist.org/photos/630127040
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630127040/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-griseolus/4.jpg
+  page: https://www.inaturalist.org/photos/641079526
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641079526/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-griseolus/5.jpg
+  page: https://www.inaturalist.org/photos/695108415
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695108415/original.jpg
 ---
 
 

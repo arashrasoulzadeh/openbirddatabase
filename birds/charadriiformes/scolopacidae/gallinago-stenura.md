@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-stenura/1.jpg
+  page: https://www.inaturalist.org/photos/610341496
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610341496/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-stenura/1.jpg
+  page: https://www.inaturalist.org/photos/610341496
+  author: white_cheeked_barbet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610341496/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-stenura/2.jpg
+  page: https://www.inaturalist.org/photos/638495991
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638495991/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-stenura/3.jpg
+  page: https://www.inaturalist.org/photos/473323945
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473323945/original.jpeg
+- file: images/charadriiformes/scolopacidae/gallinago-stenura/4.jpg
+  page: https://www.inaturalist.org/photos/542662100
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542662100/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-stenura/5.jpg
+  page: https://www.inaturalist.org/photos/517025674
+  author: Navaneeth Sini George
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517025674/original.jpg
 ---
 
 

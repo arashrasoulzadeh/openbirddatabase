@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/emarginata-schlegelii/1.jpg
+  page: https://www.inaturalist.org/photos/623980566
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623980566/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/emarginata-schlegelii/1.jpg
+  page: https://www.inaturalist.org/photos/623980566
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623980566/original.jpg
+- file: images/passeriformes/muscicapidae/emarginata-schlegelii/2.jpg
+  page: https://www.inaturalist.org/photos/672024114
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672024114/original.jpg
+- file: images/passeriformes/muscicapidae/emarginata-schlegelii/3.jpg
+  page: https://www.inaturalist.org/photos/714425847
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714425847/original.jpg
+- file: images/passeriformes/muscicapidae/emarginata-schlegelii/4.jpg
+  page: https://www.inaturalist.org/photos/743116552
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743116552/original.jpg
+- file: images/passeriformes/muscicapidae/emarginata-schlegelii/5.jpg
+  page: https://www.inaturalist.org/photos/596021618
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596021618/original.jpg
 ---
 
 

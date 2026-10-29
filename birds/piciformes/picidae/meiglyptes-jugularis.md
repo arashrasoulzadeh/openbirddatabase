@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/meiglyptes-jugularis/1.jpg
+  page: https://www.inaturalist.org/photos/734249172
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734249172/original.jpg
+images:
+- file: images/piciformes/picidae/meiglyptes-jugularis/1.jpg
+  page: https://www.inaturalist.org/photos/734249172
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734249172/original.jpg
+- file: images/piciformes/picidae/meiglyptes-jugularis/2.jpg
+  page: https://www.inaturalist.org/photos/342215023
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342215023/original.jpeg
+- file: images/piciformes/picidae/meiglyptes-jugularis/3.jpg
+  page: https://www.inaturalist.org/photos/339542991
+  author: Sevin Dee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339542991/original.jpeg
+- file: images/piciformes/picidae/meiglyptes-jugularis/4.jpg
+  page: https://www.inaturalist.org/photos/344473432
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344473432/original.jpeg
+- file: images/piciformes/picidae/meiglyptes-jugularis/5.jpg
+  page: https://www.inaturalist.org/photos/466299515
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466299515/original.jpg
 ---
 
 

@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/streptopelia-lugens/1.jpg
+  page: https://www.inaturalist.org/photos/615467444
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615467444/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-lugens/1.jpg
+  page: https://www.inaturalist.org/photos/615467444
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615467444/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-lugens/2.jpg
+  page: https://www.inaturalist.org/photos/707665477
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707665477/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-lugens/3.jpg
+  page: https://www.inaturalist.org/photos/716612702
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716612702/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-lugens/4.jpg
+  page: https://www.inaturalist.org/photos/667695443
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667695443/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-lugens/5.jpg
+  page: https://www.inaturalist.org/photos/723499007
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723499007/original.jpg
 ---
 
 

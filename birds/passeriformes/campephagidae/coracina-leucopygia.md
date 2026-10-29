@@ -133,8 +133,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-leucopygia/1.jpg
+  page: https://www.inaturalist.org/photos/526015079
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526015079/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-leucopygia/1.jpg
+  page: https://www.inaturalist.org/photos/526015079
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526015079/original.jpg
+- file: images/passeriformes/campephagidae/coracina-leucopygia/2.jpg
+  page: https://www.inaturalist.org/photos/416450937
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416450937/original.jpeg
+- file: images/passeriformes/campephagidae/coracina-leucopygia/3.jpg
+  page: https://www.inaturalist.org/photos/231637366
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231637366/original.jpeg
+- file: images/passeriformes/campephagidae/coracina-leucopygia/4.jpg
+  page: https://www.inaturalist.org/photos/241408824
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241408824/original.jpg
+- file: images/passeriformes/campephagidae/coracina-leucopygia/5.jpg
+  page: https://www.inaturalist.org/photos/339643025
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339643025/original.jpg
 ---
 
 

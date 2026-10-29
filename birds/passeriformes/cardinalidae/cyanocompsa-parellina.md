@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/cardinalidae/cyanocompsa-parellina/1.jpg
+  page: https://www.inaturalist.org/photos/606751797
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606751797/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/cyanocompsa-parellina/1.jpg
+  page: https://www.inaturalist.org/photos/606751797
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606751797/original.jpg
+- file: images/passeriformes/cardinalidae/cyanocompsa-parellina/2.jpg
+  page: https://www.inaturalist.org/photos/614482065
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614482065/original.jpg
+- file: images/passeriformes/cardinalidae/cyanocompsa-parellina/3.jpg
+  page: https://www.inaturalist.org/photos/614367340
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614367340/original.jpg
+- file: images/passeriformes/cardinalidae/cyanocompsa-parellina/4.jpg
+  page: https://www.inaturalist.org/photos/616650930
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616650930/original.jpg
+- file: images/passeriformes/cardinalidae/cyanocompsa-parellina/5.jpg
+  page: https://www.inaturalist.org/photos/621346414
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621346414/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dinopium-psarodes/1.jpg
+  page: https://www.inaturalist.org/photos/611671285
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611671285/original.jpg
+images:
+- file: images/piciformes/picidae/dinopium-psarodes/1.jpg
+  page: https://www.inaturalist.org/photos/611671285
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611671285/original.jpg
+- file: images/piciformes/picidae/dinopium-psarodes/2.jpg
+  page: https://www.inaturalist.org/photos/658540032
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658540032/original.jpg
+- file: images/piciformes/picidae/dinopium-psarodes/3.jpg
+  page: https://www.inaturalist.org/photos/617216177
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617216177/original.jpg
+- file: images/piciformes/picidae/dinopium-psarodes/4.jpg
+  page: https://www.inaturalist.org/photos/634127846
+  author: Chris Sampson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634127846/original.jpg
+- file: images/piciformes/picidae/dinopium-psarodes/5.jpg
+  page: https://www.inaturalist.org/photos/701542841
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701542841/original.jpg
 ---
 
 

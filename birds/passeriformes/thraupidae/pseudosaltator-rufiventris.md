@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/pseudosaltator-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/651548672
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651548672/original.jpg
+images:
+- file: images/passeriformes/thraupidae/pseudosaltator-rufiventris/1.jpg
+  page: https://www.inaturalist.org/photos/651548672
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651548672/original.jpg
+- file: images/passeriformes/thraupidae/pseudosaltator-rufiventris/2.jpg
+  page: https://www.inaturalist.org/photos/659625753
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659625753/original.jpg
+- file: images/passeriformes/thraupidae/pseudosaltator-rufiventris/3.jpg
+  page: https://www.inaturalist.org/photos/490624615
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490624615/original.jpeg
+- file: images/passeriformes/thraupidae/pseudosaltator-rufiventris/4.jpg
+  page: https://www.inaturalist.org/photos/570318241
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570318241/original.jpg
+- file: images/passeriformes/thraupidae/pseudosaltator-rufiventris/5.jpg
+  page: https://www.inaturalist.org/photos/586528501
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586528501/original.jpg
 ---
 
 

@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-rustica/1.jpg
+  page: https://www.inaturalist.org/photos/608797929
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608797929/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-rustica/1.jpg
+  page: https://www.inaturalist.org/photos/608797929
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608797929/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-rustica/2.jpg
+  page: https://www.inaturalist.org/photos/611638007
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611638007/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-rustica/3.jpg
+  page: https://www.inaturalist.org/photos/611632316
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611632316/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-rustica/4.jpg
+  page: https://www.inaturalist.org/photos/608797983
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608797983/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-rustica/5.jpg
+  page: https://www.inaturalist.org/photos/608798017
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608798017/original.jpg
 ---
 
 

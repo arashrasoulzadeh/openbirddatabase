@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-insularis/1.jpg
+  page: https://www.inaturalist.org/photos/453454988
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453454988/original.jpeg
+images:
+- file: images/strigiformes/strigidae/otus-insularis/1.jpg
+  page: https://www.inaturalist.org/photos/453454988
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453454988/original.jpeg
+- file: images/strigiformes/strigidae/otus-insularis/2.jpg
+  page: https://www.inaturalist.org/photos/292470284
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/292470284/original.jpg
+- file: images/strigiformes/strigidae/otus-insularis/3.jpg
+  page: https://www.inaturalist.org/photos/453454995
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453454995/original.jpeg
+- file: images/strigiformes/strigidae/otus-insularis/4.jpg
+  page: https://www.inaturalist.org/photos/292470355
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/292470355/original.jpg
+- file: images/strigiformes/strigidae/otus-insularis/5.jpg
+  page: https://www.inaturalist.org/photos/292470443
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/292470443/original.jpg
 ---
 
 

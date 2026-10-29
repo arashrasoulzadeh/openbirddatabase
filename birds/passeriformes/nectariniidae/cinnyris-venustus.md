@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-venustus/1.jpg
+  page: https://www.inaturalist.org/photos/612463503
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612463503/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-venustus/1.jpg
+  page: https://www.inaturalist.org/photos/612463503
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612463503/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-venustus/2.jpg
+  page: https://www.inaturalist.org/photos/620276725
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620276725/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-venustus/3.jpg
+  page: https://www.inaturalist.org/photos/723575444
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723575444/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-venustus/4.jpg
+  page: https://www.inaturalist.org/photos/620846474
+  author: Dimitri Brosens
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620846474/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-venustus/5.jpg
+  page: https://www.inaturalist.org/photos/625663524
+  author: Mike Musgrave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625663524/original.jpg
 ---
 
 

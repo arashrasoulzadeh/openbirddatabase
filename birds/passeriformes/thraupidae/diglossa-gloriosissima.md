@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-gloriosissima/1.jpg
+  page: https://www.inaturalist.org/photos/623804125
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623804125/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-gloriosissima/1.jpg
+  page: https://www.inaturalist.org/photos/623804125
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623804125/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-gloriosissima/2.jpg
+  page: https://www.inaturalist.org/photos/652833672
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652833672/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-gloriosissima/3.jpg
+  page: https://www.inaturalist.org/photos/603937677
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603937677/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-gloriosissima/4.jpg
+  page: https://www.inaturalist.org/photos/255637244
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255637244/original.jpeg
+- file: images/passeriformes/thraupidae/diglossa-gloriosissima/5.jpg
+  page: https://www.inaturalist.org/photos/355740563
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355740563/original.jpeg
 ---
 
 

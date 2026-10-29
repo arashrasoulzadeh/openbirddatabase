@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/gactornis-enarratus/1.jpg
+  page: https://www.inaturalist.org/photos/474706576
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474706576/original.jpeg
+images:
+- file: images/caprimulgiformes/caprimulgidae/gactornis-enarratus/1.jpg
+  page: https://www.inaturalist.org/photos/474706576
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474706576/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/gactornis-enarratus/2.jpg
+  page: https://www.inaturalist.org/photos/446320747
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446320747/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/gactornis-enarratus/3.jpg
+  page: https://www.inaturalist.org/photos/455459036
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455459036/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/gactornis-enarratus/4.jpg
+  page: https://www.inaturalist.org/photos/447291777
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447291777/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/gactornis-enarratus/5.jpg
+  page: https://www.inaturalist.org/photos/337111543
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337111543/original.jpeg
 ---
 
 

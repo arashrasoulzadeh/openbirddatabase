@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-hueti/1.jpg
+  page: https://www.inaturalist.org/photos/614703741
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614703741/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-hueti/1.jpg
+  page: https://www.inaturalist.org/photos/614703741
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614703741/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-hueti/2.jpg
+  page: https://www.inaturalist.org/photos/617375630
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617375630/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-hueti/3.jpg
+  page: https://www.inaturalist.org/photos/623094185
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623094185/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-hueti/4.jpg
+  page: https://www.inaturalist.org/photos/622837049
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622837049/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-hueti/5.jpg
+  page: https://www.inaturalist.org/photos/614703743
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614703743/original.jpg
 ---
 
 

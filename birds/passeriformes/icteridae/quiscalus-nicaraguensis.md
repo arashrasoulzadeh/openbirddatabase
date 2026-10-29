@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/quiscalus-nicaraguensis/1.jpg
+  page: https://www.inaturalist.org/photos/619608348
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619608348/original.jpg
+images:
+- file: images/passeriformes/icteridae/quiscalus-nicaraguensis/1.jpg
+  page: https://www.inaturalist.org/photos/619608348
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619608348/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-nicaraguensis/2.jpg
+  page: https://www.inaturalist.org/photos/619725463
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619725463/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-nicaraguensis/3.jpg
+  page: https://www.inaturalist.org/photos/470632508
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470632508/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-nicaraguensis/4.jpg
+  page: https://www.inaturalist.org/photos/484405192
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484405192/original.jpg
+- file: images/passeriformes/icteridae/quiscalus-nicaraguensis/5.jpg
+  page: https://www.inaturalist.org/photos/599255311
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599255311/original.jpg
 ---
 
 

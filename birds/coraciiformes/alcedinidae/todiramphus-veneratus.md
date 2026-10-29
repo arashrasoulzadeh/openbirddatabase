@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-veneratus/1.jpg
+  page: https://www.inaturalist.org/photos/614264895
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614264895/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-veneratus/1.jpg
+  page: https://www.inaturalist.org/photos/614264895
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614264895/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-veneratus/2.jpg
+  page: https://www.inaturalist.org/photos/635804545
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635804545/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-veneratus/3.jpg
+  page: https://www.inaturalist.org/photos/726233618
+  author: Hugh Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726233618/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-veneratus/4.jpg
+  page: https://www.inaturalist.org/photos/601920977
+  author: Neil Birrell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601920977/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-veneratus/5.jpg
+  page: https://www.inaturalist.org/photos/460575886
+  author: Michael Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460575886/original.jpg
 ---
 
 

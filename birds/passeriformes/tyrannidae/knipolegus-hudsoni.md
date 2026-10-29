@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/knipolegus-hudsoni/1.jpg
+  page: https://www.inaturalist.org/photos/585248834
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585248834/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/knipolegus-hudsoni/1.jpg
+  page: https://www.inaturalist.org/photos/585248834
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585248834/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-hudsoni/2.jpg
+  page: https://www.inaturalist.org/photos/590541508
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590541508/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-hudsoni/3.jpg
+  page: https://www.inaturalist.org/photos/297352668
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/297352668/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-hudsoni/4.jpg
+  page: https://www.inaturalist.org/photos/335046188
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335046188/original.jpg
+- file: images/passeriformes/tyrannidae/knipolegus-hudsoni/5.jpg
+  page: https://www.inaturalist.org/photos/341987041
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341987041/original.jpg
 ---
 
 

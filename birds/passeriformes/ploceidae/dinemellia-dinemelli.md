@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/dinemellia-dinemelli/1.jpg
+  page: https://www.inaturalist.org/photos/668286180
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668286180/original.jpg
+images:
+- file: images/passeriformes/ploceidae/dinemellia-dinemelli/1.jpg
+  page: https://www.inaturalist.org/photos/668286180
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668286180/original.jpg
+- file: images/passeriformes/ploceidae/dinemellia-dinemelli/2.jpg
+  page: https://www.inaturalist.org/photos/631036952
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631036952/original.jpg
+- file: images/passeriformes/ploceidae/dinemellia-dinemelli/3.jpg
+  page: https://www.inaturalist.org/photos/664942640
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664942640/original.jpg
+- file: images/passeriformes/ploceidae/dinemellia-dinemelli/4.jpg
+  page: https://www.inaturalist.org/photos/684632755
+  author: Tommy Sandri
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684632755/original.jpg
+- file: images/passeriformes/ploceidae/dinemellia-dinemelli/5.jpg
+  page: https://www.inaturalist.org/photos/697417772
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697417772/original.jpg
 ---
 
 

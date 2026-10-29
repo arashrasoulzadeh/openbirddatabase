@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/dendrocygna-guttata/1.jpg
+  page: https://www.inaturalist.org/photos/590686201
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590686201/original.jpg
+images:
+- file: images/anseriformes/anatidae/dendrocygna-guttata/1.jpg
+  page: https://www.inaturalist.org/photos/590686201
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590686201/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-guttata/2.jpg
+  page: https://www.inaturalist.org/photos/616594987
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616594987/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-guttata/3.jpg
+  page: https://www.inaturalist.org/photos/671419278
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671419278/original.jpg
+- file: images/anseriformes/anatidae/dendrocygna-guttata/4.jpg
+  page: https://www.inaturalist.org/photos/339496771
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339496771/original.jpeg
+- file: images/anseriformes/anatidae/dendrocygna-guttata/5.jpg
+  page: https://www.inaturalist.org/photos/616595163
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616595163/original.jpg
 ---
 
 

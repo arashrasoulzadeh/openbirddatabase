@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.3
@@ -133,6 +134,32 @@ morphology:
   wing_length_mm: 74.7
   tail_length_mm: 70.0
   body_mass_g: 19.0
+image:
+  file: images/passeriformes/thraupidae/loriotus-rufiventer/1.jpg
+  page: https://www.inaturalist.org/photos/626524247
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626524247/original.jpg
+images:
+- file: images/passeriformes/thraupidae/loriotus-rufiventer/1.jpg
+  page: https://www.inaturalist.org/photos/626524247
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626524247/original.jpg
+- file: images/passeriformes/thraupidae/loriotus-rufiventer/2.jpg
+  page: https://www.inaturalist.org/photos/476623113
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476623113/original.jpg
+- file: images/passeriformes/thraupidae/loriotus-rufiventer/3.jpg
+  page: https://www.inaturalist.org/photos/333799684
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333799684/original.jpeg
 ---
 
 

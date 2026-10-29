@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-bridgesi/1.jpg
+  page: https://www.inaturalist.org/photos/622954193
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622954193/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-bridgesi/1.jpg
+  page: https://www.inaturalist.org/photos/622954193
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622954193/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-bridgesi/2.jpg
+  page: https://www.inaturalist.org/photos/625811442
+  author: Eric Klug
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625811442/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-bridgesi/3.jpg
+  page: https://www.inaturalist.org/photos/732727712
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732727712/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-bridgesi/4.jpg
+  page: https://www.inaturalist.org/photos/659033442
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659033442/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-bridgesi/5.jpg
+  page: https://www.inaturalist.org/photos/663912632
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663912632/original.jpg
 ---
 
 

@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-fuciphagus/1.jpg
+  page: https://www.inaturalist.org/photos/608290314
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608290314/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-fuciphagus/1.jpg
+  page: https://www.inaturalist.org/photos/608290314
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608290314/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-fuciphagus/2.jpg
+  page: https://www.inaturalist.org/photos/613860464
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613860464/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-fuciphagus/3.jpg
+  page: https://www.inaturalist.org/photos/621824759
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621824759/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-fuciphagus/4.jpg
+  page: https://www.inaturalist.org/photos/622793397
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622793397/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-fuciphagus/5.jpg
+  page: https://www.inaturalist.org/photos/621719952
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621719952/original.jpg
 ---
 
 

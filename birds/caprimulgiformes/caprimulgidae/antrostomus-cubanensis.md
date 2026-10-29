@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/antrostomus-cubanensis/1.jpg
+  page: https://www.inaturalist.org/photos/615021118
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615021118/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-cubanensis/1.jpg
+  page: https://www.inaturalist.org/photos/615021118
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615021118/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-cubanensis/2.jpg
+  page: https://www.inaturalist.org/photos/626746838
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626746838/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-cubanensis/3.jpg
+  page: https://www.inaturalist.org/photos/636057911
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636057911/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-cubanensis/4.jpg
+  page: https://www.inaturalist.org/photos/187005264
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187005264/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/antrostomus-cubanensis/5.jpg
+  page: https://www.inaturalist.org/photos/615021167
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615021167/original.jpg
 ---
 
 

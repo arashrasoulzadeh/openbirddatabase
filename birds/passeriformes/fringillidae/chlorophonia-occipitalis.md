@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/chlorophonia-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/481016318
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481016318/original.jpg
+images:
+- file: images/passeriformes/fringillidae/chlorophonia-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/481016318
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481016318/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-occipitalis/2.jpg
+  page: https://www.inaturalist.org/photos/605838939
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605838939/original.jpg
+- file: images/passeriformes/fringillidae/chlorophonia-occipitalis/3.jpg
+  page: https://www.inaturalist.org/photos/346863618
+  author: Sobeida Morales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346863618/original.jpeg
+- file: images/passeriformes/fringillidae/chlorophonia-occipitalis/4.jpg
+  page: https://www.inaturalist.org/photos/321518096
+  author: Eleazar Pérez Trujillo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/321518096/original.jpeg
+- file: images/passeriformes/fringillidae/chlorophonia-occipitalis/5.jpg
+  page: https://www.inaturalist.org/photos/481016328
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481016328/original.jpg
 ---
 
 

@@ -147,10 +147,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 51
+image:
+  file: images/procellariiformes/procellariidae/puffinus-newelli/1.jpg
+  page: https://www.inaturalist.org/photos/736869619
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736869619/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/puffinus-newelli/1.jpg
+  page: https://www.inaturalist.org/photos/736869619
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736869619/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-newelli/2.jpg
+  page: https://www.inaturalist.org/photos/346022740
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346022740/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-newelli/3.jpg
+  page: https://www.inaturalist.org/photos/299239578
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/299239578/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-newelli/4.jpg
+  page: https://www.inaturalist.org/photos/736869645
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736869645/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-newelli/5.jpg
+  page: https://www.inaturalist.org/photos/736869662
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736869662/original.jpg
 ---
 
 

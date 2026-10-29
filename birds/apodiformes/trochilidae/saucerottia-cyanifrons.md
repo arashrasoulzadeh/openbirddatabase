@@ -123,7 +123,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 20.3
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 56.0
   tail_length_mm: 35.2
   body_mass_g: 5.0
+image:
+  file: images/apodiformes/trochilidae/saucerottia-cyanifrons/1.jpg
+  page: https://www.inaturalist.org/photos/614843334
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614843334/original.jpg
+images:
+- file: images/apodiformes/trochilidae/saucerottia-cyanifrons/1.jpg
+  page: https://www.inaturalist.org/photos/614843334
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614843334/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-cyanifrons/2.jpg
+  page: https://www.inaturalist.org/photos/467676762
+  author: Manuel Ortiz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467676762/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-cyanifrons/3.jpg
+  page: https://www.inaturalist.org/photos/503128858
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503128858/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-cyanifrons/4.jpg
+  page: https://www.inaturalist.org/photos/607201803
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607201803/original.jpg
+- file: images/apodiformes/trochilidae/saucerottia-cyanifrons/5.jpg
+  page: https://www.inaturalist.org/photos/465794426
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465794426/original.jpg
 ---
 
 

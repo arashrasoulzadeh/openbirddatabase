@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/666810838
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666810838/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/666810838
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666810838/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-madagascariensis/2.jpg
+  page: https://www.inaturalist.org/photos/666285652
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666285652/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-madagascariensis/3.jpg
+  page: https://www.inaturalist.org/photos/691299602
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691299602/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-madagascariensis/4.jpg
+  page: https://www.inaturalist.org/photos/475500316
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475500316/original.jpeg
+- file: images/passeriformes/pycnonotidae/hypsipetes-madagascariensis/5.jpg
+  page: https://www.inaturalist.org/photos/697515143
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697515143/original.jpg
 ---
 
 

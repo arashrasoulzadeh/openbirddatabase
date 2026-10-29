@@ -144,10 +144,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/acanthizidae/oreoscopus-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/694459586
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694459586/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/oreoscopus-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/694459586
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694459586/original.jpg
+- file: images/passeriformes/acanthizidae/oreoscopus-gutturalis/2.jpg
+  page: https://www.inaturalist.org/photos/247034696
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247034696/original.jpg
+- file: images/passeriformes/acanthizidae/oreoscopus-gutturalis/3.jpg
+  page: https://www.inaturalist.org/photos/694459965
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694459965/original.jpg
+- file: images/passeriformes/acanthizidae/oreoscopus-gutturalis/4.jpg
+  page: https://www.inaturalist.org/photos/694459966
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694459966/original.jpg
+- file: images/passeriformes/acanthizidae/oreoscopus-gutturalis/5.jpg
+  page: https://www.inaturalist.org/photos/694459967
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694459967/original.jpg
 ---
 
 

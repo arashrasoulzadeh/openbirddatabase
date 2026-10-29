@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporathraupis-cyanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/612626022
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626022/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporathraupis-cyanocephala/1.jpg
+  page: https://www.inaturalist.org/photos/612626022
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626022/original.jpg
+- file: images/passeriformes/thraupidae/sporathraupis-cyanocephala/2.jpg
+  page: https://www.inaturalist.org/photos/612912143
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612912143/original.jpg
+- file: images/passeriformes/thraupidae/sporathraupis-cyanocephala/3.jpg
+  page: https://www.inaturalist.org/photos/622971105
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622971105/original.jpg
+- file: images/passeriformes/thraupidae/sporathraupis-cyanocephala/4.jpg
+  page: https://www.inaturalist.org/photos/625154930
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625154930/original.jpg
+- file: images/passeriformes/thraupidae/sporathraupis-cyanocephala/5.jpg
+  page: https://www.inaturalist.org/photos/623014712
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623014712/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/metriopelia-ceciliae/1.jpg
+  page: https://www.inaturalist.org/photos/622147048
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622147048/original.jpg
+images:
+- file: images/columbiformes/columbidae/metriopelia-ceciliae/1.jpg
+  page: https://www.inaturalist.org/photos/622147048
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622147048/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-ceciliae/2.jpg
+  page: https://www.inaturalist.org/photos/625882807
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625882807/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-ceciliae/3.jpg
+  page: https://www.inaturalist.org/photos/621782964
+  author: Elliot Greiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621782964/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-ceciliae/4.jpg
+  page: https://www.inaturalist.org/photos/649593522
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649593522/original.jpg
+- file: images/columbiformes/columbidae/metriopelia-ceciliae/5.jpg
+  page: https://www.inaturalist.org/photos/657783237
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657783237/original.jpg
 ---
 
 

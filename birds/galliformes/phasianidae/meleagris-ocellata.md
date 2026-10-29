@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/meleagris-ocellata/1.jpg
+  page: https://www.inaturalist.org/photos/605493004
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605493004/original.jpg
+images:
+- file: images/galliformes/phasianidae/meleagris-ocellata/1.jpg
+  page: https://www.inaturalist.org/photos/605493004
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605493004/original.jpg
+- file: images/galliformes/phasianidae/meleagris-ocellata/2.jpg
+  page: https://www.inaturalist.org/photos/607198443
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607198443/original.jpg
+- file: images/galliformes/phasianidae/meleagris-ocellata/3.jpg
+  page: https://www.inaturalist.org/photos/606723634
+  author: Lauren Bosch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606723634/original.jpg
+- file: images/galliformes/phasianidae/meleagris-ocellata/4.jpg
+  page: https://www.inaturalist.org/photos/610441373
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610441373/original.jpg
+- file: images/galliformes/phasianidae/meleagris-ocellata/5.jpg
+  page: https://www.inaturalist.org/photos/611100023
+  author: Zygy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611100023/original.jpg
 ---
 
 

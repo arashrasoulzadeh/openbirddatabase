@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/accipitriformes/accipitridae/elanus-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/605001804
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605001804/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/elanus-leucurus/1.jpg
+  page: https://www.inaturalist.org/photos/605001804
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605001804/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-leucurus/2.jpg
+  page: https://www.inaturalist.org/photos/606028585
+  author: Pedro Guevara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606028585/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-leucurus/3.jpg
+  page: https://www.inaturalist.org/photos/609363134
+  author: Jonathan Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363134/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-leucurus/4.jpg
+  page: https://www.inaturalist.org/photos/607012614
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607012614/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-leucurus/5.jpg
+  page: https://www.inaturalist.org/photos/610175760
+  author: Anne Parsons
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610175760/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/malacoptila-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/558196343
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558196343/original.jpg
+images:
+- file: images/piciformes/bucconidae/malacoptila-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/558196343
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558196343/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/477437576
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477437576/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/163124761
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163124761/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/176486072
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176486072/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/165459563
+  author: Guillaume Delaitre
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/165459563/original.jpeg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/anabathmis-newtonii/1.jpg
+  page: https://www.inaturalist.org/photos/468639671
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468639671/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/anabathmis-newtonii/1.jpg
+  page: https://www.inaturalist.org/photos/468639671
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468639671/original.jpg
+- file: images/passeriformes/nectariniidae/anabathmis-newtonii/2.jpg
+  page: https://www.inaturalist.org/photos/555654405
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555654405/original.jpg
+- file: images/passeriformes/nectariniidae/anabathmis-newtonii/3.jpg
+  page: https://www.inaturalist.org/photos/560081332
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560081332/original.jpg
+- file: images/passeriformes/nectariniidae/anabathmis-newtonii/4.jpg
+  page: https://www.inaturalist.org/photos/212296213
+  author: Duarte Frade
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/212296213/original.jpeg
+- file: images/passeriformes/nectariniidae/anabathmis-newtonii/5.jpg
+  page: https://www.inaturalist.org/photos/225876473
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225876473/original.jpg
 ---
 
 

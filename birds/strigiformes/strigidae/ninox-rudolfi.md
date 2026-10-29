@@ -143,10 +143,43 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/strigiformes/strigidae/ninox-rudolfi/1.jpg
+  page: https://www.inaturalist.org/photos/739344345
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739344345/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-rudolfi/1.jpg
+  page: https://www.inaturalist.org/photos/739344345
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739344345/original.jpg
+- file: images/strigiformes/strigidae/ninox-rudolfi/2.jpg
+  page: https://www.inaturalist.org/photos/459607546
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459607546/original.jpg
+- file: images/strigiformes/strigidae/ninox-rudolfi/3.jpg
+  page: https://www.inaturalist.org/photos/459607521
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459607521/original.jpeg
+- file: images/strigiformes/strigidae/ninox-rudolfi/4.jpg
+  page: https://www.inaturalist.org/photos/459607505
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459607505/original.jpeg
 ---
 
 

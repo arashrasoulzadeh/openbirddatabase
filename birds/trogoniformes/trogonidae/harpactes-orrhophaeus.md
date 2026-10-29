@@ -143,8 +143,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/harpactes-orrhophaeus/1.jpg
+  page: https://www.inaturalist.org/photos/226638721
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226638721/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/harpactes-orrhophaeus/1.jpg
+  page: https://www.inaturalist.org/photos/226638721
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226638721/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-orrhophaeus/2.jpg
+  page: https://www.inaturalist.org/photos/546786724
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546786724/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-orrhophaeus/3.jpg
+  page: https://www.inaturalist.org/photos/226754424
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226754424/original.jpg
 ---
 
 

@@ -210,10 +210,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/pelecaniformes/ardeidae/ardea-purpurea/1.jpg
+  page: https://www.inaturalist.org/photos/605354709
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605354709/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-purpurea/1.jpg
+  page: https://www.inaturalist.org/photos/605354709
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605354709/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-purpurea/2.jpg
+  page: https://www.inaturalist.org/photos/609919586
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609919586/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-purpurea/3.jpg
+  page: https://www.inaturalist.org/photos/607136855
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607136855/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-purpurea/4.jpg
+  page: https://www.inaturalist.org/photos/610710608
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610710608/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-purpurea/5.jpg
+  page: https://www.inaturalist.org/photos/609919751
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609919751/original.jpg
 ---
 
 

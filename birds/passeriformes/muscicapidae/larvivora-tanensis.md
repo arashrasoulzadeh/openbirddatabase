@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/larvivora-tanensis/1.jpg
+  page: https://www.inaturalist.org/photos/677424881
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677424881/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/larvivora-tanensis/1.jpg
+  page: https://www.inaturalist.org/photos/677424881
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677424881/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-tanensis/2.jpg
+  page: https://www.inaturalist.org/photos/678880969
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678880969/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-tanensis/3.jpg
+  page: https://www.inaturalist.org/photos/514551804
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514551804/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-tanensis/4.jpg
+  page: https://www.inaturalist.org/photos/518129981
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518129981/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-tanensis/5.jpg
+  page: https://www.inaturalist.org/photos/518129994
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518129994/original.jpg
 ---
 
 

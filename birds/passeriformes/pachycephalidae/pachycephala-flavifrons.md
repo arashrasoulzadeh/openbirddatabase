@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-flavifrons/1.jpg
+  page: https://www.inaturalist.org/photos/700044904
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700044904/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-flavifrons/1.jpg
+  page: https://www.inaturalist.org/photos/700044904
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700044904/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-flavifrons/2.jpg
+  page: https://www.inaturalist.org/photos/728664169
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728664169/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-flavifrons/3.jpg
+  page: https://www.inaturalist.org/photos/467879904
+  author: Shelomi Doyle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467879904/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-flavifrons/4.jpg
+  page: https://www.inaturalist.org/photos/443096158
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443096158/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-flavifrons/5.jpg
+  page: https://www.inaturalist.org/photos/700519158
+  author: M Rutherford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700519158/original.jpg
 ---
 
 

@@ -162,10 +162,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/pelecaniformes/threskiornithidae/platalea-alba/1.jpg
+  page: https://www.inaturalist.org/photos/604536734
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604536734/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/platalea-alba/1.jpg
+  page: https://www.inaturalist.org/photos/604536734
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604536734/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-alba/2.jpg
+  page: https://www.inaturalist.org/photos/608224782
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608224782/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-alba/3.jpg
+  page: https://www.inaturalist.org/photos/611837328
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611837328/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-alba/4.jpg
+  page: https://www.inaturalist.org/photos/625609614
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625609614/original.jpg
+- file: images/pelecaniformes/threskiornithidae/platalea-alba/5.jpg
+  page: https://www.inaturalist.org/photos/626259487
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626259487/original.jpg
 ---
 
 

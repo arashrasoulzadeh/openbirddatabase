@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-gigantea/1.jpg
+  page: https://www.inaturalist.org/photos/591643749
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591643749/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-gigantea/1.jpg
+  page: https://www.inaturalist.org/photos/591643749
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591643749/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-gigantea/2.jpg
+  page: https://www.inaturalist.org/photos/601703437
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601703437/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-gigantea/3.jpg
+  page: https://www.inaturalist.org/photos/351434487
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351434487/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-gigantea/4.jpg
+  page: https://www.inaturalist.org/photos/443889090
+  author: Asher P Higgins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443889090/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-gigantea/5.jpg
+  page: https://www.inaturalist.org/photos/263763199
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263763199/original.jpeg
 ---
 
 

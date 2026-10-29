@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/catharus-frantzii/1.jpg
+  page: https://www.inaturalist.org/photos/614796985
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614796985/original.jpg
+images:
+- file: images/passeriformes/turdidae/catharus-frantzii/1.jpg
+  page: https://www.inaturalist.org/photos/614796985
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614796985/original.jpg
+- file: images/passeriformes/turdidae/catharus-frantzii/2.jpg
+  page: https://www.inaturalist.org/photos/616641563
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616641563/original.jpg
+- file: images/passeriformes/turdidae/catharus-frantzii/3.jpg
+  page: https://www.inaturalist.org/photos/620243487
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620243487/original.jpg
+- file: images/passeriformes/turdidae/catharus-frantzii/4.jpg
+  page: https://www.inaturalist.org/photos/635250363
+  author: Karen Szafrajda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635250363/original.jpg
+- file: images/passeriformes/turdidae/catharus-frantzii/5.jpg
+  page: https://www.inaturalist.org/photos/637439631
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637439631/original.jpg
 ---
 
 

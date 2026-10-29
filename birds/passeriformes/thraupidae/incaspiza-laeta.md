@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/incaspiza-laeta/1.jpg
+  page: https://www.inaturalist.org/photos/730001284
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730001284/original.jpg
+images:
+- file: images/passeriformes/thraupidae/incaspiza-laeta/1.jpg
+  page: https://www.inaturalist.org/photos/730001284
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730001284/original.jpg
+- file: images/passeriformes/thraupidae/incaspiza-laeta/2.jpg
+  page: https://www.inaturalist.org/photos/668675412
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668675412/original.jpg
+- file: images/passeriformes/thraupidae/incaspiza-laeta/3.jpg
+  page: https://www.inaturalist.org/photos/345157273
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345157273/original.jpeg
+- file: images/passeriformes/thraupidae/incaspiza-laeta/4.jpg
+  page: https://www.inaturalist.org/photos/668676480
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668676480/original.jpg
+- file: images/passeriformes/thraupidae/incaspiza-laeta/5.jpg
+  page: https://www.inaturalist.org/photos/356713220
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/356713220/original.jpeg
 ---
 
 

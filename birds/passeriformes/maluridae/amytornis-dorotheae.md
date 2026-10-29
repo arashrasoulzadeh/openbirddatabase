@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/amytornis-dorotheae/1.jpg
+  page: https://www.inaturalist.org/photos/745796082
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745796082/original.jpg
+images:
+- file: images/passeriformes/maluridae/amytornis-dorotheae/1.jpg
+  page: https://www.inaturalist.org/photos/745796082
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745796082/original.jpg
+- file: images/passeriformes/maluridae/amytornis-dorotheae/2.jpg
+  page: https://www.inaturalist.org/photos/175598863
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175598863/original.jpeg
+- file: images/passeriformes/maluridae/amytornis-dorotheae/3.jpg
+  page: https://www.inaturalist.org/photos/335789289
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335789289/original.jpeg
+- file: images/passeriformes/maluridae/amytornis-dorotheae/4.jpg
+  page: https://www.inaturalist.org/photos/77542177
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/77542177/original.jpg
+- file: images/passeriformes/maluridae/amytornis-dorotheae/5.jpg
+  page: https://www.inaturalist.org/photos/745795885
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745795885/original.jpg
 ---
 
 

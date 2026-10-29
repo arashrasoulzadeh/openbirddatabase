@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/cochlearius-cochlearius/1.jpg
+  page: https://www.inaturalist.org/photos/605259912
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259912/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/cochlearius-cochlearius/1.jpg
+  page: https://www.inaturalist.org/photos/605259912
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259912/original.jpg
+- file: images/pelecaniformes/ardeidae/cochlearius-cochlearius/2.jpg
+  page: https://www.inaturalist.org/photos/605482937
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605482937/original.jpg
+- file: images/pelecaniformes/ardeidae/cochlearius-cochlearius/3.jpg
+  page: https://www.inaturalist.org/photos/605478811
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605478811/original.jpg
+- file: images/pelecaniformes/ardeidae/cochlearius-cochlearius/4.jpg
+  page: https://www.inaturalist.org/photos/608715616
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608715616/original.jpg
+- file: images/pelecaniformes/ardeidae/cochlearius-cochlearius/5.jpg
+  page: https://www.inaturalist.org/photos/607753714
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607753714/original.jpg
 ---
 
 

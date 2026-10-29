@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-frantzii/1.jpg
+  page: https://www.inaturalist.org/photos/614796820
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614796820/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-frantzii/1.jpg
+  page: https://www.inaturalist.org/photos/614796820
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614796820/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-frantzii/2.jpg
+  page: https://www.inaturalist.org/photos/631005218
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631005218/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-frantzii/3.jpg
+  page: https://www.inaturalist.org/photos/723935358
+  author: Eduardo A. Bolaños Vargas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723935358/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-frantzii/4.jpg
+  page: https://www.inaturalist.org/photos/489431204
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489431204/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-frantzii/5.jpg
+  page: https://www.inaturalist.org/photos/484583384
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484583384/original.jpg
 ---
 
 

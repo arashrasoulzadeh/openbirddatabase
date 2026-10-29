@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/chaetopidae/chaetops-frenatus/1.jpg
+  page: https://www.inaturalist.org/photos/611857750
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611857750/original.jpg
+images:
+- file: images/passeriformes/chaetopidae/chaetops-frenatus/1.jpg
+  page: https://www.inaturalist.org/photos/611857750
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611857750/original.jpg
+- file: images/passeriformes/chaetopidae/chaetops-frenatus/2.jpg
+  page: https://www.inaturalist.org/photos/649973105
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649973105/original.jpg
+- file: images/passeriformes/chaetopidae/chaetops-frenatus/3.jpg
+  page: https://www.inaturalist.org/photos/710277788
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710277788/original.jpg
+- file: images/passeriformes/chaetopidae/chaetops-frenatus/4.jpg
+  page: https://www.inaturalist.org/photos/731606129
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731606129/original.jpg
+- file: images/passeriformes/chaetopidae/chaetops-frenatus/5.jpg
+  page: https://www.inaturalist.org/photos/742538049
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742538049/original.jpg
 ---
 
 

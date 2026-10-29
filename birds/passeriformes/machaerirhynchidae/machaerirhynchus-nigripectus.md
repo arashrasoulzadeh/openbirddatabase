@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/machaerirhynchidae/machaerirhynchus-nigripectus/1.jpg
+  page: https://www.inaturalist.org/photos/699379274
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379274/original.jpg
+images:
+- file: images/passeriformes/machaerirhynchidae/machaerirhynchus-nigripectus/1.jpg
+  page: https://www.inaturalist.org/photos/699379274
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379274/original.jpg
+- file: images/passeriformes/machaerirhynchidae/machaerirhynchus-nigripectus/2.jpg
+  page: https://www.inaturalist.org/photos/561853792
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561853792/original.jpg
+- file: images/passeriformes/machaerirhynchidae/machaerirhynchus-nigripectus/3.jpg
+  page: https://www.inaturalist.org/photos/578588851
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578588851/original.jpg
+- file: images/passeriformes/machaerirhynchidae/machaerirhynchus-nigripectus/4.jpg
+  page: https://www.inaturalist.org/photos/335187387
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335187387/original.jpg
+- file: images/passeriformes/machaerirhynchidae/machaerirhynchus-nigripectus/5.jpg
+  page: https://www.inaturalist.org/photos/699379287
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379287/original.jpg
 ---
 
 

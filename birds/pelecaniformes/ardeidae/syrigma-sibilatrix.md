@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/syrigma-sibilatrix/1.jpg
+  page: https://www.inaturalist.org/photos/604863861
+  author: Paulo C. O. Cunha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604863861/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/syrigma-sibilatrix/1.jpg
+  page: https://www.inaturalist.org/photos/604863861
+  author: Paulo C. O. Cunha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604863861/original.jpg
+- file: images/pelecaniformes/ardeidae/syrigma-sibilatrix/2.jpg
+  page: https://www.inaturalist.org/photos/609067658
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609067658/original.jpg
+- file: images/pelecaniformes/ardeidae/syrigma-sibilatrix/3.jpg
+  page: https://www.inaturalist.org/photos/608917656
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608917656/original.jpg
+- file: images/pelecaniformes/ardeidae/syrigma-sibilatrix/4.jpg
+  page: https://www.inaturalist.org/photos/608830021
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608830021/original.jpg
+- file: images/pelecaniformes/ardeidae/syrigma-sibilatrix/5.jpg
+  page: https://www.inaturalist.org/photos/606027685
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027685/original.jpg
 ---
 
 

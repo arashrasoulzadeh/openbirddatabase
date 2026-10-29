@@ -130,7 +130,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 10.5
@@ -138,6 +139,44 @@ morphology:
   wing_length_mm: 56.0
   tail_length_mm: 43.0
   body_mass_g: 10.9
+image:
+  file: images/passeriformes/thraupidae/sporophila-ardesiaca/1.jpg
+  page: https://www.inaturalist.org/photos/618381766
+  author: Davidson Moreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618381766/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-ardesiaca/1.jpg
+  page: https://www.inaturalist.org/photos/618381766
+  author: Davidson Moreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618381766/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-ardesiaca/2.jpg
+  page: https://www.inaturalist.org/photos/656738986
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656738986/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-ardesiaca/3.jpg
+  page: https://www.inaturalist.org/photos/501166813
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501166813/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-ardesiaca/4.jpg
+  page: https://www.inaturalist.org/photos/422316632
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422316632/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-ardesiaca/5.jpg
+  page: https://www.inaturalist.org/photos/254130575
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254130575/original.jpg
 ---
 
 

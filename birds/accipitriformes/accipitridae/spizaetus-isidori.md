@@ -140,8 +140,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/spizaetus-isidori/1.jpg
+  page: https://www.inaturalist.org/photos/625024098
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625024098/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/spizaetus-isidori/1.jpg
+  page: https://www.inaturalist.org/photos/625024098
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625024098/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-isidori/2.jpg
+  page: https://www.inaturalist.org/photos/660036039
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660036039/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-isidori/3.jpg
+  page: https://www.inaturalist.org/photos/489431430
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489431430/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-isidori/4.jpg
+  page: https://www.inaturalist.org/photos/489695443
+  author: Reserva Natural Māno Wai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489695443/original.jpg
+- file: images/accipitriformes/accipitridae/spizaetus-isidori/5.jpg
+  page: https://www.inaturalist.org/photos/497097493
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497097493/original.jpeg
 ---
 
 

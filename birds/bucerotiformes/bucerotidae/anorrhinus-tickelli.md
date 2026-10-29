@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/anorrhinus-tickelli/1.jpg
+  page: https://www.inaturalist.org/photos/616640393
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616640393/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/anorrhinus-tickelli/1.jpg
+  page: https://www.inaturalist.org/photos/616640393
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616640393/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-tickelli/2.jpg
+  page: https://www.inaturalist.org/photos/648690188
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648690188/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-tickelli/3.jpg
+  page: https://www.inaturalist.org/photos/627562463
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627562463/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-tickelli/4.jpg
+  page: https://www.inaturalist.org/photos/646437898
+  author: Jannis Ackermann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646437898/original.jpg
+- file: images/bucerotiformes/bucerotidae/anorrhinus-tickelli/5.jpg
+  page: https://www.inaturalist.org/photos/445383210
+  author: 許慶棠Ray
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445383210/original.jpeg
 ---
 
 

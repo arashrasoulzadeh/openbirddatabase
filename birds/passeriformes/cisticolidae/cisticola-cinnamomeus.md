@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/172373024
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172373024/original.jpeg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/172373024
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172373024/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-cinnamomeus/2.jpg
+  page: https://www.inaturalist.org/photos/59428918
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59428918/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-cinnamomeus/3.jpg
+  page: https://www.inaturalist.org/photos/481584331
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481584331/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-cinnamomeus/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6095373048510519090
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1439026/original.JPG
+- file: images/passeriformes/cisticolidae/cisticola-cinnamomeus/5.jpg
+  page: https://www.inaturalist.org/photos/93104322
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/93104322/original.jpeg
 ---
 
 

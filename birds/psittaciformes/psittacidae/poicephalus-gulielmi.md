@@ -161,10 +161,37 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/psittaciformes/psittacidae/poicephalus-gulielmi/1.jpg
+  page: https://www.inaturalist.org/photos/160252540
+  author: Rakesh Shah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/160252540/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/poicephalus-gulielmi/1.jpg
+  page: https://www.inaturalist.org/photos/160252540
+  author: Rakesh Shah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/160252540/original.jpg
+- file: images/psittaciformes/psittacidae/poicephalus-gulielmi/2.jpg
+  page: https://www.inaturalist.org/photos/190307356
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190307356/original.jpeg
+- file: images/psittaciformes/psittacidae/poicephalus-gulielmi/3.jpg
+  page: https://www.inaturalist.org/photos/190307382
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190307382/original.jpeg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/celeus-loricatus/1.jpg
+  page: https://www.inaturalist.org/photos/613763201
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613763201/original.jpg
+images:
+- file: images/piciformes/picidae/celeus-loricatus/1.jpg
+  page: https://www.inaturalist.org/photos/613763201
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613763201/original.jpg
+- file: images/piciformes/picidae/celeus-loricatus/2.jpg
+  page: https://www.inaturalist.org/photos/614776497
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614776497/original.jpg
+- file: images/piciformes/picidae/celeus-loricatus/3.jpg
+  page: https://www.inaturalist.org/photos/634709922
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634709922/original.jpg
+- file: images/piciformes/picidae/celeus-loricatus/4.jpg
+  page: https://www.inaturalist.org/photos/638905876
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638905876/original.jpg
+- file: images/piciformes/picidae/celeus-loricatus/5.jpg
+  page: https://www.inaturalist.org/photos/642177479
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642177479/original.jpg
 ---
 
 

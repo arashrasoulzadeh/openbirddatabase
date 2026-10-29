@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paramythiidae/oreocharis-arfaki/1.jpg
+  page: https://www.inaturalist.org/photos/699765495
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699765495/original.jpg
+images:
+- file: images/passeriformes/paramythiidae/oreocharis-arfaki/1.jpg
+  page: https://www.inaturalist.org/photos/699765495
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699765495/original.jpg
+- file: images/passeriformes/paramythiidae/oreocharis-arfaki/2.jpg
+  page: https://www.inaturalist.org/photos/336442643
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336442643/original.jpg
+- file: images/passeriformes/paramythiidae/oreocharis-arfaki/3.jpg
+  page: https://www.inaturalist.org/photos/699765511
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699765511/original.jpg
+- file: images/passeriformes/paramythiidae/oreocharis-arfaki/4.jpg
+  page: https://www.inaturalist.org/photos/699765512
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699765512/original.jpg
+- file: images/passeriformes/paramythiidae/oreocharis-arfaki/5.jpg
+  page: https://www.inaturalist.org/photos/699379375
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699379375/original.jpg
 ---
 
 

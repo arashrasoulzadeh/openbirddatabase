@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/gymnoris-pyrgita/1.jpg
+  page: https://www.inaturalist.org/photos/701855447
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701855447/original.jpg
+images:
+- file: images/passeriformes/passeridae/gymnoris-pyrgita/1.jpg
+  page: https://www.inaturalist.org/photos/701855447
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701855447/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-pyrgita/2.jpg
+  page: https://www.inaturalist.org/photos/721998550
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721998550/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-pyrgita/3.jpg
+  page: https://www.inaturalist.org/photos/513950004
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/513950004/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-pyrgita/4.jpg
+  page: https://www.inaturalist.org/photos/544339017
+  author: Brendan O'Loughlin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544339017/original.jpg
+- file: images/passeriformes/passeridae/gymnoris-pyrgita/5.jpg
+  page: https://www.inaturalist.org/photos/585227265
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585227265/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-chilensis/1.jpg
+  page: https://www.inaturalist.org/photos/604607470
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604607470/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-chilensis/1.jpg
+  page: https://www.inaturalist.org/photos/604607470
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604607470/original.jpg
+- file: images/passeriformes/thraupidae/tangara-chilensis/2.jpg
+  page: https://www.inaturalist.org/photos/617454765
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617454765/original.jpg
+- file: images/passeriformes/thraupidae/tangara-chilensis/3.jpg
+  page: https://www.inaturalist.org/photos/625547518
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625547518/original.jpg
+- file: images/passeriformes/thraupidae/tangara-chilensis/4.jpg
+  page: https://www.inaturalist.org/photos/676810898
+  author: Marina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676810898/original.jpg
+- file: images/passeriformes/thraupidae/tangara-chilensis/5.jpg
+  page: https://www.inaturalist.org/photos/679968949
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679968949/original.jpg
 ---
 
 

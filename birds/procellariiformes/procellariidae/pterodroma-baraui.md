@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-baraui/1.jpg
+  page: https://www.inaturalist.org/photos/468433274
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468433274/original.jpeg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-baraui/1.jpg
+  page: https://www.inaturalist.org/photos/468433274
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468433274/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-baraui/2.jpg
+  page: https://www.inaturalist.org/photos/471338903
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471338903/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-baraui/3.jpg
+  page: https://www.inaturalist.org/photos/477524818
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477524818/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-baraui/4.jpg
+  page: https://www.inaturalist.org/photos/456846202
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456846202/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-baraui/5.jpg
+  page: https://www.inaturalist.org/photos/371317422
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/371317422/original.jpg
 ---
 
 

@@ -162,8 +162,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/clytospiza-monteiri/1.jpg
+  page: https://www.inaturalist.org/photos/565648799
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565648799/original.jpg
+images:
+- file: images/passeriformes/estrildidae/clytospiza-monteiri/1.jpg
+  page: https://www.inaturalist.org/photos/565648799
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565648799/original.jpg
+- file: images/passeriformes/estrildidae/clytospiza-monteiri/2.jpg
+  page: https://www.inaturalist.org/photos/565648794
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565648794/original.jpg
 ---
 
 

@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/bombycillidae/bombycilla-cedrorum/1.jpg
+  page: https://www.inaturalist.org/photos/605740097
+  author: Jeff Davis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605740097/original.jpg
+images:
+- file: images/passeriformes/bombycillidae/bombycilla-cedrorum/1.jpg
+  page: https://www.inaturalist.org/photos/605740097
+  author: Jeff Davis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605740097/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-cedrorum/2.jpg
+  page: https://www.inaturalist.org/photos/605565546
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605565546/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-cedrorum/3.jpg
+  page: https://www.inaturalist.org/photos/605162563
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162563/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-cedrorum/4.jpg
+  page: https://www.inaturalist.org/photos/605562343
+  author: Joshua Zupan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605562343/original.jpg
+- file: images/passeriformes/bombycillidae/bombycilla-cedrorum/5.jpg
+  page: https://www.inaturalist.org/photos/605190030
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605190030/original.jpg
 ---
 
 

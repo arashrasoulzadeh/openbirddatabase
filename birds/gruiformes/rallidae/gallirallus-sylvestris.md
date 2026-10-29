@@ -127,7 +127,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 53.0
@@ -140,6 +141,44 @@ demography:
 reproduction:
   clutch_size_mean: 2.5
   broods_per_year: 1
+image:
+  file: images/gruiformes/rallidae/gallirallus-sylvestris/1.jpg
+  page: https://www.inaturalist.org/photos/669774628
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669774628/original.jpg
+images:
+- file: images/gruiformes/rallidae/gallirallus-sylvestris/1.jpg
+  page: https://www.inaturalist.org/photos/669774628
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669774628/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-sylvestris/2.jpg
+  page: https://www.inaturalist.org/photos/489608687
+  author: Matthew Lincoln
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489608687/original.jpeg
+- file: images/gruiformes/rallidae/gallirallus-sylvestris/3.jpg
+  page: https://www.inaturalist.org/photos/256474372
+  author: Rosie Steinberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256474372/original.jpeg
+- file: images/gruiformes/rallidae/gallirallus-sylvestris/4.jpg
+  page: https://www.inaturalist.org/photos/320575013
+  author: Leon Perrie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320575013/original.jpeg
+- file: images/gruiformes/rallidae/gallirallus-sylvestris/5.jpg
+  page: https://www.inaturalist.org/photos/320400771
+  author: naturewatchwidow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320400771/original.jpeg
 ---
 
 

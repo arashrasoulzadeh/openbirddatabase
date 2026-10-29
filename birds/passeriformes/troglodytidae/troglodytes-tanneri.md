@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-tanneri/1.jpg
+  page: https://www.inaturalist.org/photos/191484465
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191484465/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-tanneri/1.jpg
+  page: https://www.inaturalist.org/photos/191484465
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191484465/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-tanneri/2.jpg
+  page: https://www.inaturalist.org/photos/195737613
+  author: Jim Riley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/195737613/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-tanneri/3.jpg
+  page: https://www.inaturalist.org/photos/194518243
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/194518243/original.jpeg
+- file: images/passeriformes/troglodytidae/troglodytes-tanneri/4.jpg
+  page: https://www.inaturalist.org/photos/191484477
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/191484477/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-tanneri/5.jpg
+  page: https://www.inaturalist.org/photos/194518268
+  author: Casey H. Richart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/194518268/original.jpeg
 ---
 
 

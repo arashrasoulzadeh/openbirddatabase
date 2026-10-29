@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/conopophagidae/pittasoma-michleri/1.jpg
+  page: https://www.inaturalist.org/photos/477698517
+  author: M. Squire
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477698517/original.jpg
+images:
+- file: images/passeriformes/conopophagidae/pittasoma-michleri/1.jpg
+  page: https://www.inaturalist.org/photos/477698517
+  author: M. Squire
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477698517/original.jpg
+- file: images/passeriformes/conopophagidae/pittasoma-michleri/2.jpg
+  page: https://www.inaturalist.org/photos/445953082
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445953082/original.jpeg
+- file: images/passeriformes/conopophagidae/pittasoma-michleri/3.jpg
+  page: https://www.inaturalist.org/photos/298250451
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298250451/original.jpg
+- file: images/passeriformes/conopophagidae/pittasoma-michleri/4.jpg
+  page: https://www.inaturalist.org/photos/234876461
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/234876461/original.jpg
+- file: images/passeriformes/conopophagidae/pittasoma-michleri/5.jpg
+  page: https://www.inaturalist.org/photos/254470957
+  author: Bio.Mundi18
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254470957/original.jpeg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ceyx-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/672614523
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672614523/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceyx-pusillus/1.jpg
+  page: https://www.inaturalist.org/photos/672614523
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672614523/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-pusillus/2.jpg
+  page: https://www.inaturalist.org/photos/705968108
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705968108/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-pusillus/3.jpg
+  page: https://www.inaturalist.org/photos/690060791
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690060791/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-pusillus/4.jpg
+  page: https://www.inaturalist.org/photos/696131605
+  author: Ian Dickie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696131605/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-pusillus/5.jpg
+  page: https://www.inaturalist.org/photos/720105142
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720105142/original.jpg
 ---
 
 

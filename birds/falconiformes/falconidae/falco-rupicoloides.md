@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/falconiformes/falconidae/falco-rupicoloides/1.jpg
+  page: https://www.inaturalist.org/photos/608453497
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608453497/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-rupicoloides/1.jpg
+  page: https://www.inaturalist.org/photos/608453497
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608453497/original.jpg
+- file: images/falconiformes/falconidae/falco-rupicoloides/2.jpg
+  page: https://www.inaturalist.org/photos/618918588
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618918588/original.jpg
+- file: images/falconiformes/falconidae/falco-rupicoloides/3.jpg
+  page: https://www.inaturalist.org/photos/659532366
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659532366/original.jpg
+- file: images/falconiformes/falconidae/falco-rupicoloides/4.jpg
+  page: https://www.inaturalist.org/photos/742640083
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742640083/original.jpg
+- file: images/falconiformes/falconidae/falco-rupicoloides/5.jpg
+  page: https://www.inaturalist.org/photos/462867625
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462867625/original.jpeg
 ---
 
 

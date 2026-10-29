@@ -157,8 +157,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/muscicapa-epulata/1.jpg
+  page: https://www.inaturalist.org/photos/557877437
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557877437/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/muscicapa-epulata/1.jpg
+  page: https://www.inaturalist.org/photos/557877437
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557877437/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-epulata/2.jpg
+  page: https://www.inaturalist.org/photos/67048152
+  author: Dérozier Violette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/67048152/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-epulata/3.jpg
+  page: https://www.inaturalist.org/photos/557877401
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557877401/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/aplonis-metallica/1.jpg
+  page: https://www.inaturalist.org/photos/616534054
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616534054/original.jpg
+images:
+- file: images/passeriformes/sturnidae/aplonis-metallica/1.jpg
+  page: https://www.inaturalist.org/photos/616534054
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616534054/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-metallica/2.jpg
+  page: https://www.inaturalist.org/photos/635361828
+  author: Lisa Bennett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635361828/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-metallica/3.jpg
+  page: https://www.inaturalist.org/photos/636994824
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636994824/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-metallica/4.jpg
+  page: https://www.inaturalist.org/photos/707662081
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707662081/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-metallica/5.jpg
+  page: https://www.inaturalist.org/photos/699970056
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699970056/original.jpg
 ---
 
 

@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/larus-belcheri/1.jpg
+  page: https://www.inaturalist.org/photos/632310540
+  author: the natural moment
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632310540/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-belcheri/1.jpg
+  page: https://www.inaturalist.org/photos/632310540
+  author: the natural moment
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632310540/original.jpg
+- file: images/charadriiformes/laridae/larus-belcheri/2.jpg
+  page: https://www.inaturalist.org/photos/634228557
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634228557/original.jpg
+- file: images/charadriiformes/laridae/larus-belcheri/3.jpg
+  page: https://www.inaturalist.org/photos/638395948
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638395948/original.jpg
+- file: images/charadriiformes/laridae/larus-belcheri/4.jpg
+  page: https://www.inaturalist.org/photos/642708008
+  author: Erasmo Macaya Horta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642708008/original.jpg
+- file: images/charadriiformes/laridae/larus-belcheri/5.jpg
+  page: https://www.inaturalist.org/photos/636543540
+  author: Ellky Arteta Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636543540/original.jpg
 ---
 
 

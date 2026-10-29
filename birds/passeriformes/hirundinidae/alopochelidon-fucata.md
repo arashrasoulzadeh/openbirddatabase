@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/alopochelidon-fucata/1.jpg
+  page: https://www.inaturalist.org/photos/660484688
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660484688/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/alopochelidon-fucata/1.jpg
+  page: https://www.inaturalist.org/photos/660484688
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660484688/original.jpg
+- file: images/passeriformes/hirundinidae/alopochelidon-fucata/2.jpg
+  page: https://www.inaturalist.org/photos/706924903
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706924903/original.jpg
+- file: images/passeriformes/hirundinidae/alopochelidon-fucata/3.jpg
+  page: https://www.inaturalist.org/photos/736676487
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736676487/original.jpg
+- file: images/passeriformes/hirundinidae/alopochelidon-fucata/4.jpg
+  page: https://www.inaturalist.org/photos/462606015
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462606015/original.jpg
+- file: images/passeriformes/hirundinidae/alopochelidon-fucata/5.jpg
+  page: https://www.inaturalist.org/photos/545509113
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545509113/original.jpg
 ---
 
 

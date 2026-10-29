@@ -153,8 +153,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/macrosphenidae/sylvietta-ruficapilla/1.jpg
+  page: https://www.inaturalist.org/photos/479465084
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479465084/original.jpg
+images:
+- file: images/passeriformes/macrosphenidae/sylvietta-ruficapilla/1.jpg
+  page: https://www.inaturalist.org/photos/479465084
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479465084/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-ruficapilla/2.jpg
+  page: https://www.inaturalist.org/photos/1844034
+  author: National Geographic Okavango Wilderness Project
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1844034/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-ruficapilla/3.jpg
+  page: https://www.inaturalist.org/photos/1844035
+  author: National Geographic Okavango Wilderness Project
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1844035/original.jpg
+- file: images/passeriformes/macrosphenidae/sylvietta-ruficapilla/4.jpg
+  page: https://www.inaturalist.org/photos/1844036
+  author: National Geographic Okavango Wilderness Project
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1844036/original.jpg
 ---
 
 

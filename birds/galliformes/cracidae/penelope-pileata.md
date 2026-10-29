@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/360833795
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360833795/original.jpeg
+images:
+- file: images/galliformes/cracidae/penelope-pileata/1.jpg
+  page: https://www.inaturalist.org/photos/360833795
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360833795/original.jpeg
+- file: images/galliformes/cracidae/penelope-pileata/2.jpg
+  page: https://www.inaturalist.org/photos/402009088
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402009088/original.jpg
+- file: images/galliformes/cracidae/penelope-pileata/3.jpg
+  page: https://www.inaturalist.org/photos/444168943
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444168943/original.jpeg
+- file: images/galliformes/cracidae/penelope-pileata/4.jpg
+  page: https://www.inaturalist.org/photos/362280128
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362280128/original.jpeg
+- file: images/galliformes/cracidae/penelope-pileata/5.jpg
+  page: https://www.inaturalist.org/photos/362280161
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362280161/original.jpeg
 ---
 
 

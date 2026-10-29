@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/eurostopodus-diabolicus/1.jpg
+  page: https://www.inaturalist.org/photos/549730791
+  author: Frances Oliver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549730791/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-diabolicus/1.jpg
+  page: https://www.inaturalist.org/photos/549730791
+  author: Frances Oliver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549730791/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-diabolicus/2.jpg
+  page: https://www.inaturalist.org/photos/550329314
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550329314/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-diabolicus/3.jpg
+  page: https://www.inaturalist.org/photos/307627407
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307627407/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-diabolicus/4.jpg
+  page: https://www.inaturalist.org/photos/60419849
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60419849/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/eurostopodus-diabolicus/5.jpg
+  page: https://www.inaturalist.org/photos/64408855
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64408855/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/embernagra-platensis/1.jpg
+  page: https://www.inaturalist.org/photos/605491955
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491955/original.jpg
+images:
+- file: images/passeriformes/thraupidae/embernagra-platensis/1.jpg
+  page: https://www.inaturalist.org/photos/605491955
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491955/original.jpg
+- file: images/passeriformes/thraupidae/embernagra-platensis/2.jpg
+  page: https://www.inaturalist.org/photos/605736846
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605736846/original.jpg
+- file: images/passeriformes/thraupidae/embernagra-platensis/3.jpg
+  page: https://www.inaturalist.org/photos/609321399
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609321399/original.jpg
+- file: images/passeriformes/thraupidae/embernagra-platensis/4.jpg
+  page: https://www.inaturalist.org/photos/609204188
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609204188/original.jpg
+- file: images/passeriformes/thraupidae/embernagra-platensis/5.jpg
+  page: https://www.inaturalist.org/photos/609197889
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609197889/original.jpg
 ---
 
 

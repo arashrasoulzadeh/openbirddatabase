@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-jocosus/1.jpg
+  page: https://www.inaturalist.org/photos/608493617
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608493617/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-jocosus/1.jpg
+  page: https://www.inaturalist.org/photos/608493617
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608493617/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-jocosus/2.jpg
+  page: https://www.inaturalist.org/photos/655689231
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655689231/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-jocosus/3.jpg
+  page: https://www.inaturalist.org/photos/720343862
+  author: Nathan Cole
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720343862/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-jocosus/4.jpg
+  page: https://www.inaturalist.org/photos/464857580
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464857580/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-jocosus/5.jpg
+  page: https://www.inaturalist.org/photos/467610761
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467610761/original.jpeg
 ---
 
 

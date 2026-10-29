@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/arses-telescopthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/698664233
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698664233/original.jpg
+images:
+- file: images/passeriformes/monarchidae/arses-telescopthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/698664233
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698664233/original.jpg
+- file: images/passeriformes/monarchidae/arses-telescopthalmus/2.jpg
+  page: https://www.inaturalist.org/photos/477473913
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477473913/original.jpeg
+- file: images/passeriformes/monarchidae/arses-telescopthalmus/3.jpg
+  page: https://www.inaturalist.org/photos/549367163
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549367163/original.jpg
+- file: images/passeriformes/monarchidae/arses-telescopthalmus/4.jpg
+  page: https://www.inaturalist.org/photos/572655564
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572655564/original.jpg
+- file: images/passeriformes/monarchidae/arses-telescopthalmus/5.jpg
+  page: https://www.inaturalist.org/photos/573191534
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573191534/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/stizorhina-fraseri/1.jpg
+  page: https://www.inaturalist.org/photos/256474908
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256474908/original.jpeg
+images:
+- file: images/passeriformes/turdidae/stizorhina-fraseri/1.jpg
+  page: https://www.inaturalist.org/photos/256474908
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256474908/original.jpeg
+- file: images/passeriformes/turdidae/stizorhina-fraseri/2.jpg
+  page: https://www.inaturalist.org/photos/48310096
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/48310096/original.jpeg
+- file: images/passeriformes/turdidae/stizorhina-fraseri/3.jpg
+  page: https://www.inaturalist.org/photos/256474921
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256474921/original.jpeg
+- file: images/passeriformes/turdidae/stizorhina-fraseri/4.jpg
+  page: https://www.inaturalist.org/photos/247952107
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247952107/original.jpeg
+- file: images/passeriformes/turdidae/stizorhina-fraseri/5.jpg
+  page: https://www.inaturalist.org/photos/247952086
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247952086/original.jpeg
 ---
 
 

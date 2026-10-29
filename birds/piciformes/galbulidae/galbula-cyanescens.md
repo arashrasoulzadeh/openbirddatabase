@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/galbula-cyanescens/1.jpg
+  page: https://www.inaturalist.org/photos/608795882
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608795882/original.jpg
+images:
+- file: images/piciformes/galbulidae/galbula-cyanescens/1.jpg
+  page: https://www.inaturalist.org/photos/608795882
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608795882/original.jpg
+- file: images/piciformes/galbulidae/galbula-cyanescens/2.jpg
+  page: https://www.inaturalist.org/photos/685018353
+  author: Lucía Groposo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685018353/original.jpg
+- file: images/piciformes/galbulidae/galbula-cyanescens/3.jpg
+  page: https://www.inaturalist.org/photos/709701719
+  author: Zinnia Xu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709701719/original.jpg
+- file: images/piciformes/galbulidae/galbula-cyanescens/4.jpg
+  page: https://www.inaturalist.org/photos/474121482
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474121482/original.jpeg
+- file: images/piciformes/galbulidae/galbula-cyanescens/5.jpg
+  page: https://www.inaturalist.org/photos/539372740
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539372740/original.jpg
 ---
 
 

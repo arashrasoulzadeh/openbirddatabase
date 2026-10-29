@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/terpsiphone-bourbonnensis/1.jpg
+  page: https://www.inaturalist.org/photos/620171817
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620171817/original.jpg
+images:
+- file: images/passeriformes/monarchidae/terpsiphone-bourbonnensis/1.jpg
+  page: https://www.inaturalist.org/photos/620171817
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620171817/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-bourbonnensis/2.jpg
+  page: https://www.inaturalist.org/photos/463578750
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463578750/original.jpeg
+- file: images/passeriformes/monarchidae/terpsiphone-bourbonnensis/3.jpg
+  page: https://www.inaturalist.org/photos/465136267
+  author: Carrie Powers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465136267/original.jpeg
+- file: images/passeriformes/monarchidae/terpsiphone-bourbonnensis/4.jpg
+  page: https://www.inaturalist.org/photos/466295459
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466295459/original.jpeg
+- file: images/passeriformes/monarchidae/terpsiphone-bourbonnensis/5.jpg
+  page: https://www.inaturalist.org/photos/521151622
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521151622/original.jpg
 ---
 
 

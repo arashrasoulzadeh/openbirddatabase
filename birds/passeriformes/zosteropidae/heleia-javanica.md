@@ -129,8 +129,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/heleia-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/605903731
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605903731/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/heleia-javanica/1.jpg
+  page: https://www.inaturalist.org/photos/605903731
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605903731/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-javanica/2.jpg
+  page: https://www.inaturalist.org/photos/613435275
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435275/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-javanica/3.jpg
+  page: https://www.inaturalist.org/photos/464516460
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464516460/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-javanica/4.jpg
+  page: https://www.inaturalist.org/photos/590020272
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590020272/original.jpg
+- file: images/passeriformes/zosteropidae/heleia-javanica/5.jpg
+  page: https://www.inaturalist.org/photos/441064863
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441064863/original.jpeg
 ---
 
 

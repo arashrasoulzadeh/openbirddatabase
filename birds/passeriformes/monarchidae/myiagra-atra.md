@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/myiagra-atra/1.jpg
+  page: https://www.inaturalist.org/photos/671416077
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671416077/original.jpg
+images:
+- file: images/passeriformes/monarchidae/myiagra-atra/1.jpg
+  page: https://www.inaturalist.org/photos/671416077
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671416077/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-atra/2.jpg
+  page: https://www.inaturalist.org/photos/671416031
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671416031/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-atra/3.jpg
+  page: https://www.inaturalist.org/photos/671416016
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671416016/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-atra/4.jpg
+  page: https://www.inaturalist.org/photos/671416093
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671416093/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-atra/5.jpg
+  page: https://www.inaturalist.org/photos/670791249
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670791249/original.jpg
 ---
 
 

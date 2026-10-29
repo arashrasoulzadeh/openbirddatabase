@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/anseriformes/anatidae/anas-diazi/1.jpg
+  page: https://www.inaturalist.org/photos/605432260
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605432260/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-diazi/1.jpg
+  page: https://www.inaturalist.org/photos/605432260
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605432260/original.jpg
+- file: images/anseriformes/anatidae/anas-diazi/2.jpg
+  page: https://www.inaturalist.org/photos/608057614
+  author: Karla M. Benítez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608057614/original.jpg
+- file: images/anseriformes/anatidae/anas-diazi/3.jpg
+  page: https://www.inaturalist.org/photos/606663538
+  author: Matthew Franz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606663538/original.jpg
+- file: images/anseriformes/anatidae/anas-diazi/4.jpg
+  page: https://www.inaturalist.org/photos/608432169
+  author: Carlos Martínez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608432169/original.jpg
+- file: images/anseriformes/anatidae/anas-diazi/5.jpg
+  page: https://www.inaturalist.org/photos/609991586
+  author: Mauricio Calderón
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609991586/original.jpg
 ---
 
 

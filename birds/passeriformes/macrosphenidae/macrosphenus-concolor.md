@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/macrosphenidae/macrosphenus-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/555402271
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555402271/original.jpg
+images:
+- file: images/passeriformes/macrosphenidae/macrosphenus-concolor/1.jpg
+  page: https://www.inaturalist.org/photos/555402271
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555402271/original.jpg
+- file: images/passeriformes/macrosphenidae/macrosphenus-concolor/2.jpg
+  page: https://www.inaturalist.org/photos/565688076
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565688076/original.jpg
+- file: images/passeriformes/macrosphenidae/macrosphenus-concolor/3.jpg
+  page: https://www.inaturalist.org/photos/555402275
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555402275/original.jpg
+- file: images/passeriformes/macrosphenidae/macrosphenus-concolor/4.jpg
+  page: https://www.inaturalist.org/photos/565688082
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565688082/original.jpg
+- file: images/passeriformes/macrosphenidae/macrosphenus-concolor/5.jpg
+  page: https://www.inaturalist.org/photos/565688070
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565688070/original.jpg
 ---
 
 

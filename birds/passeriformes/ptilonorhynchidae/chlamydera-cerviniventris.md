@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptilonorhynchidae/chlamydera-cerviniventris/1.jpg
+  page: https://www.inaturalist.org/photos/697491267
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697491267/original.jpg
+images:
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-cerviniventris/1.jpg
+  page: https://www.inaturalist.org/photos/697491267
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697491267/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-cerviniventris/2.jpg
+  page: https://www.inaturalist.org/photos/547165780
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547165780/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-cerviniventris/3.jpg
+  page: https://www.inaturalist.org/photos/564062724
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564062724/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-cerviniventris/4.jpg
+  page: https://www.inaturalist.org/photos/457364010
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457364010/original.jpeg
+- file: images/passeriformes/ptilonorhynchidae/chlamydera-cerviniventris/5.jpg
+  page: https://www.inaturalist.org/photos/224691740
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224691740/original.jpg
 ---
 
 

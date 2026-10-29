@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-modesta/1.jpg
+  page: https://www.inaturalist.org/photos/705839265
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705839265/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-modesta/1.jpg
+  page: https://www.inaturalist.org/photos/705839265
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705839265/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-modesta/2.jpg
+  page: https://www.inaturalist.org/photos/336048719
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336048719/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-modesta/3.jpg
+  page: https://www.inaturalist.org/photos/705839264
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705839264/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-modesta/4.jpg
+  page: https://www.inaturalist.org/photos/706413416
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706413416/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-modesta/5.jpg
+  page: https://www.inaturalist.org/photos/706413405
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706413405/original.jpg
 ---
 
 

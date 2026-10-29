@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/campylorhynchus-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/611508731
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611508731/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/campylorhynchus-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/611508731
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611508731/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-humilis/2.jpg
+  page: https://www.inaturalist.org/photos/614482250
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614482250/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-humilis/3.jpg
+  page: https://www.inaturalist.org/photos/644597691
+  author: adel-fridus
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644597691/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-humilis/4.jpg
+  page: https://www.inaturalist.org/photos/660394362
+  author: uriel Gomez
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660394362/original.jpg
+- file: images/passeriformes/troglodytidae/campylorhynchus-humilis/5.jpg
+  page: https://www.inaturalist.org/photos/470089373
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470089373/original.jpeg
 ---
 
 

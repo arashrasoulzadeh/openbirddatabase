@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/tragopan-satyra/1.jpg
+  page: https://www.inaturalist.org/photos/487055050
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487055050/original.jpg
+images:
+- file: images/galliformes/phasianidae/tragopan-satyra/1.jpg
+  page: https://www.inaturalist.org/photos/487055050
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487055050/original.jpg
+- file: images/galliformes/phasianidae/tragopan-satyra/2.jpg
+  page: https://www.inaturalist.org/photos/503644760
+  author: libby hepburn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503644760/original.jpeg
+- file: images/galliformes/phasianidae/tragopan-satyra/3.jpg
+  page: https://www.inaturalist.org/photos/386374044
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/386374044/original.jpeg
+- file: images/galliformes/phasianidae/tragopan-satyra/4.jpg
+  page: https://www.inaturalist.org/photos/442641601
+  author: Markus Lampinen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442641601/original.jpeg
+- file: images/galliformes/phasianidae/tragopan-satyra/5.jpg
+  page: https://www.inaturalist.org/photos/209342370
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/209342370/original.jpg
 ---
 
 

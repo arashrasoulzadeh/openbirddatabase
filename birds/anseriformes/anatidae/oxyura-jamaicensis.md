@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/anseriformes/anatidae/oxyura-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/605544883
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605544883/original.jpg
+images:
+- file: images/anseriformes/anatidae/oxyura-jamaicensis/1.jpg
+  page: https://www.inaturalist.org/photos/605544883
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605544883/original.jpg
+- file: images/anseriformes/anatidae/oxyura-jamaicensis/2.jpg
+  page: https://www.inaturalist.org/photos/605431070
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605431070/original.jpg
+- file: images/anseriformes/anatidae/oxyura-jamaicensis/3.jpg
+  page: https://www.inaturalist.org/photos/605634425
+  author: jcollatz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605634425/original.jpg
+- file: images/anseriformes/anatidae/oxyura-jamaicensis/4.jpg
+  page: https://www.inaturalist.org/photos/605489423
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605489423/original.jpg
+- file: images/anseriformes/anatidae/oxyura-jamaicensis/5.jpg
+  page: https://www.inaturalist.org/photos/604998584
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604998584/original.jpg
 ---
 
 

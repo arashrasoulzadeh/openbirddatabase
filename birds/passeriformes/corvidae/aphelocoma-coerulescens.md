@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/passeriformes/corvidae/aphelocoma-coerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/604556432
+  author: Jody Mask
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604556432/original.jpg
+images:
+- file: images/passeriformes/corvidae/aphelocoma-coerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/604556432
+  author: Jody Mask
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604556432/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-coerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/605448967
+  author: Troy Lamb
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605448967/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-coerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/608021616
+  author: sudomir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608021616/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-coerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/608738895
+  author: Jade Fortnash
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608738895/original.jpg
+- file: images/passeriformes/corvidae/aphelocoma-coerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/608744691
+  author: Wes Gapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608744691/original.jpg
 ---
 
 

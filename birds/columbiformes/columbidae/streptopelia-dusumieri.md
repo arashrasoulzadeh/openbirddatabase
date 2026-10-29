@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/streptopelia-dusumieri/1.jpg
+  page: https://www.inaturalist.org/photos/611136397
+  author: Gabriel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136397/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-dusumieri/1.jpg
+  page: https://www.inaturalist.org/photos/611136397
+  author: Gabriel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136397/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-dusumieri/2.jpg
+  page: https://www.inaturalist.org/photos/613567258
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613567258/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-dusumieri/3.jpg
+  page: https://www.inaturalist.org/photos/618851804
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851804/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-dusumieri/4.jpg
+  page: https://www.inaturalist.org/photos/643673063
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643673063/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-dusumieri/5.jpg
+  page: https://www.inaturalist.org/photos/673877253
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673877253/original.jpg
 ---
 
 

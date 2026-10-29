@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/leptopogon-amaurocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/610489266
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610489266/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/leptopogon-amaurocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/610489266
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610489266/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-amaurocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/610838549
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610838549/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-amaurocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/610446832
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610446832/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-amaurocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/613478248
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613478248/original.jpg
+- file: images/passeriformes/tyrannidae/leptopogon-amaurocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/616201438
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201438/original.jpg
 ---
 
 

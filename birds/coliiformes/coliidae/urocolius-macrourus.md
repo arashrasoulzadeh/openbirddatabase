@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coliiformes/coliidae/urocolius-macrourus/1.jpg
+  page: https://www.inaturalist.org/photos/719172963
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719172963/original.jpg
+images:
+- file: images/coliiformes/coliidae/urocolius-macrourus/1.jpg
+  page: https://www.inaturalist.org/photos/719172963
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719172963/original.jpg
+- file: images/coliiformes/coliidae/urocolius-macrourus/2.jpg
+  page: https://www.inaturalist.org/photos/721444997
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721444997/original.jpg
+- file: images/coliiformes/coliidae/urocolius-macrourus/3.jpg
+  page: https://www.inaturalist.org/photos/475885032
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475885032/original.jpeg
+- file: images/coliiformes/coliidae/urocolius-macrourus/4.jpg
+  page: https://www.inaturalist.org/photos/478431147
+  author: Demian Hiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478431147/original.jpg
+- file: images/coliiformes/coliidae/urocolius-macrourus/5.jpg
+  page: https://www.inaturalist.org/photos/479383677
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479383677/original.jpeg
 ---
 
 

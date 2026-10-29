@@ -184,8 +184,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tichodromidae/tichodroma-muraria/1.jpg
+  page: https://www.inaturalist.org/photos/605492842
+  author: João Lima
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492842/original.jpg
+images:
+- file: images/passeriformes/tichodromidae/tichodroma-muraria/1.jpg
+  page: https://www.inaturalist.org/photos/605492842
+  author: João Lima
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492842/original.jpg
+- file: images/passeriformes/tichodromidae/tichodroma-muraria/2.jpg
+  page: https://www.inaturalist.org/photos/609162771
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609162771/original.jpg
+- file: images/passeriformes/tichodromidae/tichodroma-muraria/3.jpg
+  page: https://www.inaturalist.org/photos/610639449
+  author: DDutrey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610639449/original.jpg
+- file: images/passeriformes/tichodromidae/tichodroma-muraria/4.jpg
+  page: https://www.inaturalist.org/photos/616324635
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616324635/original.jpg
+- file: images/passeriformes/tichodromidae/tichodroma-muraria/5.jpg
+  page: https://www.inaturalist.org/photos/605492838
+  author: João Lima
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492838/original.jpg
 ---
 
 

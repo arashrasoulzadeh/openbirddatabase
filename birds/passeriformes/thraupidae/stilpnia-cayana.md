@@ -130,7 +130,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 13.1
@@ -138,6 +139,44 @@ morphology:
   wing_length_mm: 71.6
   tail_length_mm: 50.8
   body_mass_g: 18.0
+image:
+  file: images/passeriformes/thraupidae/stilpnia-cayana/1.jpg
+  page: https://www.inaturalist.org/photos/605144352
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144352/original.jpg
+images:
+- file: images/passeriformes/thraupidae/stilpnia-cayana/1.jpg
+  page: https://www.inaturalist.org/photos/605144352
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144352/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-cayana/2.jpg
+  page: https://www.inaturalist.org/photos/608285445
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608285445/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-cayana/3.jpg
+  page: https://www.inaturalist.org/photos/607831417
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607831417/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-cayana/4.jpg
+  page: https://www.inaturalist.org/photos/610486105
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610486105/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-cayana/5.jpg
+  page: https://www.inaturalist.org/photos/607272294
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272294/original.jpg
 ---
 
 

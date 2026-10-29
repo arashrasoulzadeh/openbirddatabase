@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pardalotidae/pardalotus-rubricatus/1.jpg
+  page: https://www.inaturalist.org/photos/675862295
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675862295/original.jpg
+images:
+- file: images/passeriformes/pardalotidae/pardalotus-rubricatus/1.jpg
+  page: https://www.inaturalist.org/photos/675862295
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675862295/original.jpg
+- file: images/passeriformes/pardalotidae/pardalotus-rubricatus/2.jpg
+  page: https://www.inaturalist.org/photos/586868779
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586868779/original.jpg
+- file: images/passeriformes/pardalotidae/pardalotus-rubricatus/3.jpg
+  page: https://www.inaturalist.org/photos/584153167
+  author: maxark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584153167/original.jpg
+- file: images/passeriformes/pardalotidae/pardalotus-rubricatus/4.jpg
+  page: https://www.inaturalist.org/photos/175680695
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/175680695/original.jpeg
+- file: images/passeriformes/pardalotidae/pardalotus-rubricatus/5.jpg
+  page: https://www.inaturalist.org/photos/675862565
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675862565/original.jpg
 ---
 
 

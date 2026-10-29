@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-macrorhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/604965065
+  author: FUKUDA Kazuhito 福田一人
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604965065/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-macrorhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/604965065
+  author: FUKUDA Kazuhito 福田一人
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604965065/original.jpg
+- file: images/passeriformes/corvidae/corvus-macrorhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/604943626
+  author: renshuchu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604943626/original.jpg
+- file: images/passeriformes/corvidae/corvus-macrorhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/604509707
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604509707/original.jpg
+- file: images/passeriformes/corvidae/corvus-macrorhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/604443569
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604443569/original.jpg
+- file: images/passeriformes/corvidae/corvus-macrorhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/607907250
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907250/original.jpg
 ---
 
 

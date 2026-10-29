@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/ortalis-motmot/1.jpg
+  page: https://www.inaturalist.org/photos/617452019
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452019/original.jpg
+images:
+- file: images/galliformes/cracidae/ortalis-motmot/1.jpg
+  page: https://www.inaturalist.org/photos/617452019
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452019/original.jpg
+- file: images/galliformes/cracidae/ortalis-motmot/2.jpg
+  page: https://www.inaturalist.org/photos/718062099
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718062099/original.jpg
+- file: images/galliformes/cracidae/ortalis-motmot/3.jpg
+  page: https://www.inaturalist.org/photos/709307449
+  author: Rafael Bernhard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709307449/original.jpg
+- file: images/galliformes/cracidae/ortalis-motmot/4.jpg
+  page: https://www.inaturalist.org/photos/465770792
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465770792/original.jpg
+- file: images/galliformes/cracidae/ortalis-motmot/5.jpg
+  page: https://www.inaturalist.org/photos/603581419
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603581419/original.jpg
 ---
 
 

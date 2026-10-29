@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/trochalopteron-erythrocephalum/1.jpg
+  page: https://www.inaturalist.org/photos/724624724
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724624724/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/trochalopteron-erythrocephalum/1.jpg
+  page: https://www.inaturalist.org/photos/724624724
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724624724/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-erythrocephalum/2.jpg
+  page: https://www.inaturalist.org/photos/734270352
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734270352/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-erythrocephalum/3.jpg
+  page: https://www.inaturalist.org/photos/487054980
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054980/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-erythrocephalum/4.jpg
+  page: https://www.inaturalist.org/photos/548764988
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548764988/original.jpg
+- file: images/passeriformes/leiothrichidae/trochalopteron-erythrocephalum/5.jpg
+  page: https://www.inaturalist.org/photos/724624672
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724624672/original.jpg
 ---
 
 

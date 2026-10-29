@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/epinecrophylla-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/445088306
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445088306/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/epinecrophylla-ornata/1.jpg
+  page: https://www.inaturalist.org/photos/445088306
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445088306/original.jpeg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-ornata/2.jpg
+  page: https://www.inaturalist.org/photos/418053287
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418053287/original.jpg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-ornata/3.jpg
+  page: https://www.inaturalist.org/photos/23433319
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/23433319/original.jpeg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-ornata/4.jpg
+  page: https://www.inaturalist.org/photos/445088300
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445088300/original.jpeg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-ornata/5.jpg
+  page: https://www.inaturalist.org/photos/166447969
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/166447969/original.jpeg
 ---
 
 

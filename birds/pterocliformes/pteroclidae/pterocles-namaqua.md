@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-namaqua/1.jpg
+  page: https://www.inaturalist.org/photos/625985604
+  author: Peter Uetz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625985604/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-namaqua/1.jpg
+  page: https://www.inaturalist.org/photos/625985604
+  author: Peter Uetz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625985604/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-namaqua/2.jpg
+  page: https://www.inaturalist.org/photos/646583890
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646583890/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-namaqua/3.jpg
+  page: https://www.inaturalist.org/photos/652007350
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652007350/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-namaqua/4.jpg
+  page: https://www.inaturalist.org/photos/743640987
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743640987/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-namaqua/5.jpg
+  page: https://www.inaturalist.org/photos/462880574
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462880574/original.jpeg
 ---
 
 

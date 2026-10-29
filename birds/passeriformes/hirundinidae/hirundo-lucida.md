@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/hirundo-lucida/1.jpg
+  page: https://www.inaturalist.org/photos/471351580
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351580/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/hirundo-lucida/1.jpg
+  page: https://www.inaturalist.org/photos/471351580
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351580/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-lucida/2.jpg
+  page: https://www.inaturalist.org/photos/504880018
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504880018/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-lucida/3.jpg
+  page: https://www.inaturalist.org/photos/353304278
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353304278/original.jpeg
+- file: images/passeriformes/hirundinidae/hirundo-lucida/4.jpg
+  page: https://www.inaturalist.org/photos/365817841
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365817841/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-lucida/5.jpg
+  page: https://www.inaturalist.org/photos/471351587
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351587/original.jpg
 ---
 
 

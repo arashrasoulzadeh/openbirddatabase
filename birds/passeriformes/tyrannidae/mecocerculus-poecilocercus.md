@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/mecocerculus-poecilocercus/1.jpg
+  page: https://www.inaturalist.org/photos/624794776
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624794776/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/mecocerculus-poecilocercus/1.jpg
+  page: https://www.inaturalist.org/photos/624794776
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624794776/original.jpg
+- file: images/passeriformes/tyrannidae/mecocerculus-poecilocercus/2.jpg
+  page: https://www.inaturalist.org/photos/164188986
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164188986/original.jpeg
+- file: images/passeriformes/tyrannidae/mecocerculus-poecilocercus/3.jpg
+  page: https://www.inaturalist.org/photos/10201855
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/10201855/original.jpg
+- file: images/passeriformes/tyrannidae/mecocerculus-poecilocercus/4.jpg
+  page: https://www.inaturalist.org/photos/107109105
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107109105/original.jpg
+- file: images/passeriformes/tyrannidae/mecocerculus-poecilocercus/5.jpg
+  page: https://www.inaturalist.org/photos/201331654
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/201331654/original.jpeg
 ---
 
 

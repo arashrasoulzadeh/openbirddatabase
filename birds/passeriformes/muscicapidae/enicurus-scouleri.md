@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/enicurus-scouleri/1.jpg
+  page: https://www.inaturalist.org/photos/609651242
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609651242/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/enicurus-scouleri/1.jpg
+  page: https://www.inaturalist.org/photos/609651242
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609651242/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-scouleri/2.jpg
+  page: https://www.inaturalist.org/photos/626646077
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626646077/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-scouleri/3.jpg
+  page: https://www.inaturalist.org/photos/630358586
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630358586/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-scouleri/4.jpg
+  page: https://www.inaturalist.org/photos/609651244
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609651244/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-scouleri/5.jpg
+  page: https://www.inaturalist.org/photos/609651240
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609651240/original.jpg
 ---
 
 

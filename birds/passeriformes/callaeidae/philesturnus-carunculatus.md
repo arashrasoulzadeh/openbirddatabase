@@ -145,10 +145,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/callaeidae/philesturnus-carunculatus/1.jpg
+  page: https://www.inaturalist.org/photos/607070087
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607070087/original.jpg
+images:
+- file: images/passeriformes/callaeidae/philesturnus-carunculatus/1.jpg
+  page: https://www.inaturalist.org/photos/607070087
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607070087/original.jpg
+- file: images/passeriformes/callaeidae/philesturnus-carunculatus/2.jpg
+  page: https://www.inaturalist.org/photos/610555769
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610555769/original.jpg
+- file: images/passeriformes/callaeidae/philesturnus-carunculatus/3.jpg
+  page: https://www.inaturalist.org/photos/606037837
+  author: Squid Wizard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606037837/original.jpg
+- file: images/passeriformes/callaeidae/philesturnus-carunculatus/4.jpg
+  page: https://www.inaturalist.org/photos/612225033
+  author: Pluto Hooper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612225033/original.jpg
+- file: images/passeriformes/callaeidae/philesturnus-carunculatus/5.jpg
+  page: https://www.inaturalist.org/photos/614605492
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614605492/original.jpg
 ---
 
 

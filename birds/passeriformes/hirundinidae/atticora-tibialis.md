@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/atticora-tibialis/1.jpg
+  page: https://www.inaturalist.org/photos/612767128
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612767128/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/atticora-tibialis/1.jpg
+  page: https://www.inaturalist.org/photos/612767128
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612767128/original.jpg
+- file: images/passeriformes/hirundinidae/atticora-tibialis/2.jpg
+  page: https://www.inaturalist.org/photos/740706769
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740706769/original.jpg
+- file: images/passeriformes/hirundinidae/atticora-tibialis/3.jpg
+  page: https://www.inaturalist.org/photos/511399727
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/511399727/original.jpg
+- file: images/passeriformes/hirundinidae/atticora-tibialis/4.jpg
+  page: https://www.inaturalist.org/photos/497153447
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497153447/original.jpg
+- file: images/passeriformes/hirundinidae/atticora-tibialis/5.jpg
+  page: https://www.inaturalist.org/photos/548637285
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548637285/original.jpg
 ---
 
 

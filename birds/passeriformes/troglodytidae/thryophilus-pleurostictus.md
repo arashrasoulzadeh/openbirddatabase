@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/thryophilus-pleurostictus/1.jpg
+  page: https://www.inaturalist.org/photos/631197778
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631197778/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/thryophilus-pleurostictus/1.jpg
+  page: https://www.inaturalist.org/photos/631197778
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631197778/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-pleurostictus/2.jpg
+  page: https://www.inaturalist.org/photos/726019589
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726019589/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-pleurostictus/3.jpg
+  page: https://www.inaturalist.org/photos/463145867
+  author: Gabbie Byers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463145867/original.jpeg
+- file: images/passeriformes/troglodytidae/thryophilus-pleurostictus/4.jpg
+  page: https://www.inaturalist.org/photos/588322750
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588322750/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-pleurostictus/5.jpg
+  page: https://www.inaturalist.org/photos/561269037
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561269037/original.jpg
 ---
 
 

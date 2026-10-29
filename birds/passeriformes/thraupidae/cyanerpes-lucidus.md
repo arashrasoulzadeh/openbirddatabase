@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/cyanerpes-lucidus/1.jpg
+  page: https://www.inaturalist.org/photos/612705149
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612705149/original.jpg
+images:
+- file: images/passeriformes/thraupidae/cyanerpes-lucidus/1.jpg
+  page: https://www.inaturalist.org/photos/612705149
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612705149/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-lucidus/2.jpg
+  page: https://www.inaturalist.org/photos/614515561
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515561/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-lucidus/3.jpg
+  page: https://www.inaturalist.org/photos/630928086
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630928086/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-lucidus/4.jpg
+  page: https://www.inaturalist.org/photos/630909946
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630909946/original.jpg
+- file: images/passeriformes/thraupidae/cyanerpes-lucidus/5.jpg
+  page: https://www.inaturalist.org/photos/656691008
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656691008/original.jpg
 ---
 
 

@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/gruiformes/gruidae/grus-americana/1.jpg
+  page: https://www.inaturalist.org/photos/605254755
+  author: Karen Burns Ball
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605254755/original.jpg
+images:
+- file: images/gruiformes/gruidae/grus-americana/1.jpg
+  page: https://www.inaturalist.org/photos/605254755
+  author: Karen Burns Ball
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605254755/original.jpg
+- file: images/gruiformes/gruidae/grus-americana/2.jpg
+  page: https://www.inaturalist.org/photos/606760096
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606760096/original.jpg
+- file: images/gruiformes/gruidae/grus-americana/3.jpg
+  page: https://www.inaturalist.org/photos/606275069
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606275069/original.jpg
+- file: images/gruiformes/gruidae/grus-americana/4.jpg
+  page: https://www.inaturalist.org/photos/609909169
+  author: charlie olson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609909169/original.jpg
+- file: images/gruiformes/gruidae/grus-americana/5.jpg
+  page: https://www.inaturalist.org/photos/607327849
+  author: mattmsa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607327849/original.jpg
 ---
 
 

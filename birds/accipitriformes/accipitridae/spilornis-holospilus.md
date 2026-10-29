@@ -141,8 +141,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/spilornis-holospilus/1.jpg
+  page: https://www.inaturalist.org/photos/645784299
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645784299/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/spilornis-holospilus/1.jpg
+  page: https://www.inaturalist.org/photos/645784299
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645784299/original.jpg
+- file: images/accipitriformes/accipitridae/spilornis-holospilus/2.jpg
+  page: https://www.inaturalist.org/photos/467123994
+  author: Pierre Pericard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467123994/original.jpeg
+- file: images/accipitriformes/accipitridae/spilornis-holospilus/3.jpg
+  page: https://www.inaturalist.org/photos/373829626
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373829626/original.jpeg
+- file: images/accipitriformes/accipitridae/spilornis-holospilus/4.jpg
+  page: https://www.inaturalist.org/photos/645784402
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645784402/original.jpg
+- file: images/accipitriformes/accipitridae/spilornis-holospilus/5.jpg
+  page: https://www.inaturalist.org/photos/645784503
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645784503/original.jpg
 ---
 
 

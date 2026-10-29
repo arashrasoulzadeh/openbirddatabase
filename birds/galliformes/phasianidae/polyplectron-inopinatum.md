@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/polyplectron-inopinatum/1.jpg
+  page: https://www.inaturalist.org/photos/470490423
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470490423/original.jpeg
+images:
+- file: images/galliformes/phasianidae/polyplectron-inopinatum/1.jpg
+  page: https://www.inaturalist.org/photos/470490423
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470490423/original.jpeg
+- file: images/galliformes/phasianidae/polyplectron-inopinatum/2.jpg
+  page: https://www.inaturalist.org/photos/598923843
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598923843/original.jpg
+- file: images/galliformes/phasianidae/polyplectron-inopinatum/3.jpg
+  page: https://www.inaturalist.org/photos/448871286
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448871286/original.jpeg
+- file: images/galliformes/phasianidae/polyplectron-inopinatum/4.jpg
+  page: https://www.inaturalist.org/photos/226317853
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226317853/original.jpg
+- file: images/galliformes/phasianidae/polyplectron-inopinatum/5.jpg
+  page: https://www.inaturalist.org/photos/443356892
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443356892/original.png
 ---
 
 

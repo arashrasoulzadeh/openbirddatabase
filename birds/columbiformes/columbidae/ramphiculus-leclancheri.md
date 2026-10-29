@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ramphiculus-leclancheri/1.jpg
+  page: https://www.inaturalist.org/photos/469442595
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442595/original.jpg
+images:
+- file: images/columbiformes/columbidae/ramphiculus-leclancheri/1.jpg
+  page: https://www.inaturalist.org/photos/469442595
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469442595/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-leclancheri/2.jpg
+  page: https://www.inaturalist.org/photos/490415304
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490415304/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-leclancheri/3.jpg
+  page: https://www.inaturalist.org/photos/350641119
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350641119/original.png
+- file: images/columbiformes/columbidae/ramphiculus-leclancheri/4.jpg
+  page: https://www.inaturalist.org/photos/364482432
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364482432/original.jpeg
+- file: images/columbiformes/columbidae/ramphiculus-leclancheri/5.jpg
+  page: https://www.inaturalist.org/photos/267291939
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267291939/original.jpg
 ---
 
 

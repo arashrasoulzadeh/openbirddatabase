@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/prionochilus-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/231014632
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231014632/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/prionochilus-thoracicus/1.jpg
+  page: https://www.inaturalist.org/photos/231014632
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231014632/original.jpg
+- file: images/passeriformes/dicaeidae/prionochilus-thoracicus/2.jpg
+  page: https://www.inaturalist.org/photos/547345803
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547345803/original.jpg
+- file: images/passeriformes/dicaeidae/prionochilus-thoracicus/3.jpg
+  page: https://www.inaturalist.org/photos/231015272
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231015272/original.jpg
+- file: images/passeriformes/dicaeidae/prionochilus-thoracicus/4.jpg
+  page: https://www.inaturalist.org/photos/223194785
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223194785/original.jpg
+- file: images/passeriformes/dicaeidae/prionochilus-thoracicus/5.jpg
+  page: https://www.inaturalist.org/photos/223194995
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223194995/original.jpg
 ---
 
 

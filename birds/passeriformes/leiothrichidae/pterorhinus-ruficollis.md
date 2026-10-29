@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/507916460
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507916460/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/507916460
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507916460/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/365231717
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365231717/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/375120466
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375120466/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/514447649
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514447649/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/397189914
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/397189914/original.jpg
 ---
 
 

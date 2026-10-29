@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-nigroviridis/1.jpg
+  page: https://www.inaturalist.org/photos/687358583
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687358583/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-nigroviridis/1.jpg
+  page: https://www.inaturalist.org/photos/687358583
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687358583/original.jpg
+- file: images/passeriformes/thraupidae/tangara-nigroviridis/2.jpg
+  page: https://www.inaturalist.org/photos/623084715
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623084715/original.jpg
+- file: images/passeriformes/thraupidae/tangara-nigroviridis/3.jpg
+  page: https://www.inaturalist.org/photos/626303217
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626303217/original.jpg
+- file: images/passeriformes/thraupidae/tangara-nigroviridis/4.jpg
+  page: https://www.inaturalist.org/photos/653212520
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653212520/original.jpg
+- file: images/passeriformes/thraupidae/tangara-nigroviridis/5.jpg
+  page: https://www.inaturalist.org/photos/652808178
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808178/original.jpg
 ---
 
 

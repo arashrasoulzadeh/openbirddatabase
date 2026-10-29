@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circus-spilothorax/1.jpg
+  page: https://www.inaturalist.org/photos/702611691
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702611691/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-spilothorax/1.jpg
+  page: https://www.inaturalist.org/photos/702611691
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702611691/original.jpg
+- file: images/accipitriformes/accipitridae/circus-spilothorax/2.jpg
+  page: https://www.inaturalist.org/photos/671856545
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671856545/original.jpg
+- file: images/accipitriformes/accipitridae/circus-spilothorax/3.jpg
+  page: https://www.inaturalist.org/photos/335598001
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335598001/original.jpg
+- file: images/accipitriformes/accipitridae/circus-spilothorax/4.jpg
+  page: https://www.inaturalist.org/photos/702611690
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702611690/original.jpg
+- file: images/accipitriformes/accipitridae/circus-spilothorax/5.jpg
+  page: https://www.inaturalist.org/photos/702611689
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702611689/original.jpg
 ---
 
 

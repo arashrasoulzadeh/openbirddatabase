@@ -192,10 +192,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 31
+image:
+  file: images/charadriiformes/laridae/thalasseus-sandvicensis/1.jpg
+  page: https://www.inaturalist.org/photos/604589040
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604589040/original.jpg
+images:
+- file: images/charadriiformes/laridae/thalasseus-sandvicensis/1.jpg
+  page: https://www.inaturalist.org/photos/604589040
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604589040/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-sandvicensis/2.jpg
+  page: https://www.inaturalist.org/photos/605180671
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605180671/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-sandvicensis/3.jpg
+  page: https://www.inaturalist.org/photos/605360582
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605360582/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-sandvicensis/4.jpg
+  page: https://www.inaturalist.org/photos/607533245
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607533245/original.jpg
+- file: images/charadriiformes/laridae/thalasseus-sandvicensis/5.jpg
+  page: https://www.inaturalist.org/photos/605897812
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605897812/original.jpg
 ---
 
 

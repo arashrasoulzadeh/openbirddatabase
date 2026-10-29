@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/casuariiformes/casuariidae/dromaius-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/606761595
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606761595/original.jpg
+images:
+- file: images/casuariiformes/casuariidae/dromaius-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/606761595
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606761595/original.jpg
+- file: images/casuariiformes/casuariidae/dromaius-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/608300741
+  author: Bethlea Bell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608300741/original.jpg
+- file: images/casuariiformes/casuariidae/dromaius-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/605820742
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605820742/original.jpg
+- file: images/casuariiformes/casuariidae/dromaius-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/615331266
+  author: Petra Holland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615331266/original.jpg
+- file: images/casuariiformes/casuariidae/dromaius-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/604754390
+  author: Oscar Beighton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604754390/original.jpg
 ---
 
 

@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 12.8
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 73.0
   tail_length_mm: 57.0
   body_mass_g: 22.2
+image:
+  file: images/passeriformes/thraupidae/stilpnia-peruviana/1.jpg
+  page: https://www.inaturalist.org/photos/637260385
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637260385/original.jpg
+images:
+- file: images/passeriformes/thraupidae/stilpnia-peruviana/1.jpg
+  page: https://www.inaturalist.org/photos/637260385
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637260385/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-peruviana/2.jpg
+  page: https://www.inaturalist.org/photos/683558204
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683558204/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-peruviana/3.jpg
+  page: https://www.inaturalist.org/photos/691737089
+  author: Guilherme Saito
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691737089/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-peruviana/4.jpg
+  page: https://www.inaturalist.org/photos/711151567
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711151567/original.jpg
+- file: images/passeriformes/thraupidae/stilpnia-peruviana/5.jpg
+  page: https://www.inaturalist.org/photos/736145108
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736145108/original.jpg
 ---
 
 

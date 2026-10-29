@@ -173,10 +173,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/gaviiformes/gaviidae/gavia-arctica/1.jpg
+  page: https://www.inaturalist.org/photos/608955548
+  author: Adam Leigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608955548/original.jpg
+images:
+- file: images/gaviiformes/gaviidae/gavia-arctica/1.jpg
+  page: https://www.inaturalist.org/photos/608955548
+  author: Adam Leigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608955548/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-arctica/2.jpg
+  page: https://www.inaturalist.org/photos/605919375
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605919375/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-arctica/3.jpg
+  page: https://www.inaturalist.org/photos/609232894
+  author: Morgan Caygill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609232894/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-arctica/4.jpg
+  page: https://www.inaturalist.org/photos/605110721
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605110721/original.jpg
+- file: images/gaviiformes/gaviidae/gavia-arctica/5.jpg
+  page: https://www.inaturalist.org/photos/609232935
+  author: Morgan Caygill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609232935/original.jpg
 ---
 
 

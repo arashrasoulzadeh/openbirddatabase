@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/muscipipra-vetula/1.jpg
+  page: https://www.inaturalist.org/photos/659283036
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659283036/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/muscipipra-vetula/1.jpg
+  page: https://www.inaturalist.org/photos/659283036
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659283036/original.jpg
+- file: images/passeriformes/tyrannidae/muscipipra-vetula/2.jpg
+  page: https://www.inaturalist.org/photos/725781438
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725781438/original.jpg
+- file: images/passeriformes/tyrannidae/muscipipra-vetula/3.jpg
+  page: https://www.inaturalist.org/photos/470990789
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470990789/original.jpeg
+- file: images/passeriformes/tyrannidae/muscipipra-vetula/4.jpg
+  page: https://www.inaturalist.org/photos/503037234
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503037234/original.jpeg
+- file: images/passeriformes/tyrannidae/muscipipra-vetula/5.jpg
+  page: https://www.inaturalist.org/photos/623736487
+  author: Deonir Geolvane Zimmermann
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623736487/original.jpg
 ---
 
 

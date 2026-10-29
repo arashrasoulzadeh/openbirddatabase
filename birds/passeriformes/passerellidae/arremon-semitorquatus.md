@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-semitorquatus/1.jpg
+  page: https://www.inaturalist.org/photos/650108408
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650108408/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-semitorquatus/1.jpg
+  page: https://www.inaturalist.org/photos/650108408
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650108408/original.jpg
+- file: images/passeriformes/passerellidae/arremon-semitorquatus/2.jpg
+  page: https://www.inaturalist.org/photos/545039470
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545039470/original.jpg
+- file: images/passeriformes/passerellidae/arremon-semitorquatus/3.jpg
+  page: https://www.inaturalist.org/photos/586296407
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586296407/original.jpg
+- file: images/passeriformes/passerellidae/arremon-semitorquatus/4.jpg
+  page: https://www.inaturalist.org/photos/450048704
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450048704/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-semitorquatus/5.jpg
+  page: https://www.inaturalist.org/photos/457966647
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457966647/original.jpeg
 ---
 
 

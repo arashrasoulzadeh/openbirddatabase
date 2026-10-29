@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/larvivora-brunnea/1.jpg
+  page: https://www.inaturalist.org/photos/628379640
+  author: Chinmay Bhoyar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628379640/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/larvivora-brunnea/1.jpg
+  page: https://www.inaturalist.org/photos/628379640
+  author: Chinmay Bhoyar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628379640/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-brunnea/2.jpg
+  page: https://www.inaturalist.org/photos/642760831
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642760831/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-brunnea/3.jpg
+  page: https://www.inaturalist.org/photos/548756887
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548756887/original.jpg
+- file: images/passeriformes/muscicapidae/larvivora-brunnea/4.jpg
+  page: https://www.inaturalist.org/photos/394905865
+  author: Name
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394905865/original.jpeg
+- file: images/passeriformes/muscicapidae/larvivora-brunnea/5.jpg
+  page: https://www.inaturalist.org/photos/452211855
+  author: Siya ul haque
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452211855/original.jpeg
 ---
 
 

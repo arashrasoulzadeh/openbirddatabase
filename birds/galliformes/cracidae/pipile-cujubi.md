@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/pipile-cujubi/1.jpg
+  page: https://www.inaturalist.org/photos/684432820
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684432820/original.jpg
+images:
+- file: images/galliformes/cracidae/pipile-cujubi/1.jpg
+  page: https://www.inaturalist.org/photos/684432820
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684432820/original.jpg
+- file: images/galliformes/cracidae/pipile-cujubi/2.jpg
+  page: https://www.inaturalist.org/photos/734736548
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734736548/original.jpg
+- file: images/galliformes/cracidae/pipile-cujubi/3.jpg
+  page: https://www.inaturalist.org/photos/741711807
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741711807/original.jpg
+- file: images/galliformes/cracidae/pipile-cujubi/4.jpg
+  page: https://www.inaturalist.org/photos/515111525
+  author: liam1294
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515111525/original.jpg
+- file: images/galliformes/cracidae/pipile-cujubi/5.jpg
+  page: https://www.inaturalist.org/photos/568190884
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568190884/original.jpg
 ---
 
 

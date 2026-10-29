@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-taeniopterus/1.jpg
+  page: https://www.inaturalist.org/photos/610339413
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610339413/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-taeniopterus/1.jpg
+  page: https://www.inaturalist.org/photos/610339413
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610339413/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-taeniopterus/2.jpg
+  page: https://www.inaturalist.org/photos/608735996
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608735996/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-taeniopterus/3.jpg
+  page: https://www.inaturalist.org/photos/211985401
+  author: Elliot Greiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/211985401/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-taeniopterus/4.jpg
+  page: https://www.inaturalist.org/photos/4717794
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/4717794/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-taeniopterus/5.jpg
+  page: https://www.inaturalist.org/photos/610339538
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610339538/original.jpg
 ---
 
 

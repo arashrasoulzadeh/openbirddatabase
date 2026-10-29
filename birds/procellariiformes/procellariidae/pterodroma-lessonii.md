@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-lessonii/1.jpg
+  page: https://www.inaturalist.org/photos/605769487
+  author: Arnim Littek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605769487/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-lessonii/1.jpg
+  page: https://www.inaturalist.org/photos/605769487
+  author: Arnim Littek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605769487/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-lessonii/2.jpg
+  page: https://www.inaturalist.org/photos/625188050
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625188050/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-lessonii/3.jpg
+  page: https://www.inaturalist.org/photos/471358615
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471358615/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-lessonii/4.jpg
+  page: https://www.inaturalist.org/photos/508791702
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/508791702/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-lessonii/5.jpg
+  page: https://www.inaturalist.org/photos/358370957
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358370957/original.jpg
 ---
 
 

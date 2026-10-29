@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chrysuronia-goudoti/1.jpg
+  page: https://www.inaturalist.org/photos/618388577
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388577/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chrysuronia-goudoti/1.jpg
+  page: https://www.inaturalist.org/photos/618388577
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388577/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-goudoti/2.jpg
+  page: https://www.inaturalist.org/photos/505515252
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505515252/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-goudoti/3.jpg
+  page: https://www.inaturalist.org/photos/361095408
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361095408/original.jpg
+- file: images/apodiformes/trochilidae/chrysuronia-goudoti/4.jpg
+  page: https://www.inaturalist.org/photos/267550200
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267550200/original.jpeg
+- file: images/apodiformes/trochilidae/chrysuronia-goudoti/5.jpg
+  page: https://www.inaturalist.org/photos/618388580
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618388580/original.jpg
 ---
 
 

@@ -123,8 +123,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/gruiformes/rallidae/gallirallus-okinawae/1.jpg
+  page: https://www.inaturalist.org/photos/672385298
+  author: rjtizard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672385298/original.jpg
+images:
+- file: images/gruiformes/rallidae/gallirallus-okinawae/1.jpg
+  page: https://www.inaturalist.org/photos/672385298
+  author: rjtizard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672385298/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-okinawae/2.jpg
+  page: https://www.inaturalist.org/photos/725741565
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725741565/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-okinawae/3.jpg
+  page: https://www.inaturalist.org/photos/690694113
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690694113/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-okinawae/4.jpg
+  page: https://www.inaturalist.org/photos/526015522
+  author: Jerome Ko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526015522/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-okinawae/5.jpg
+  page: https://www.inaturalist.org/photos/370527886
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370527886/original.jpg
 ---
 
 

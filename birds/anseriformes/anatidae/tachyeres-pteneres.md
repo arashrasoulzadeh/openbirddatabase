@@ -149,10 +149,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/anseriformes/anatidae/tachyeres-pteneres/1.jpg
+  page: https://www.inaturalist.org/photos/608429879
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608429879/original.jpg
+images:
+- file: images/anseriformes/anatidae/tachyeres-pteneres/1.jpg
+  page: https://www.inaturalist.org/photos/608429879
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608429879/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-pteneres/2.jpg
+  page: https://www.inaturalist.org/photos/613198724
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613198724/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-pteneres/3.jpg
+  page: https://www.inaturalist.org/photos/615792554
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792554/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-pteneres/4.jpg
+  page: https://www.inaturalist.org/photos/618541729
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618541729/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-pteneres/5.jpg
+  page: https://www.inaturalist.org/photos/679696608
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679696608/original.jpg
 ---
 
 

@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/paridae/baeolophus-atricristatus/1.jpg
+  page: https://www.inaturalist.org/photos/605215812
+  author: Dennis Vollmar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605215812/original.jpg
+images:
+- file: images/passeriformes/paridae/baeolophus-atricristatus/1.jpg
+  page: https://www.inaturalist.org/photos/605215812
+  author: Dennis Vollmar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605215812/original.jpg
+- file: images/passeriformes/paridae/baeolophus-atricristatus/2.jpg
+  page: https://www.inaturalist.org/photos/605131572
+  author: mattmsa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605131572/original.jpg
+- file: images/passeriformes/paridae/baeolophus-atricristatus/3.jpg
+  page: https://www.inaturalist.org/photos/606660806
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606660806/original.jpg
+- file: images/passeriformes/paridae/baeolophus-atricristatus/4.jpg
+  page: https://www.inaturalist.org/photos/605765585
+  author: Dylan Liu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605765585/original.jpg
+- file: images/passeriformes/paridae/baeolophus-atricristatus/5.jpg
+  page: https://www.inaturalist.org/photos/605131583
+  author: mattmsa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605131583/original.jpg
 ---
 
 

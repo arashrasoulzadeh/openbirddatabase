@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/passerina-rositae/1.jpg
+  page: https://www.inaturalist.org/photos/611216884
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611216884/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/passerina-rositae/1.jpg
+  page: https://www.inaturalist.org/photos/611216884
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611216884/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-rositae/2.jpg
+  page: https://www.inaturalist.org/photos/616778056
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616778056/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-rositae/3.jpg
+  page: https://www.inaturalist.org/photos/469528295
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469528295/original.jpeg
+- file: images/passeriformes/cardinalidae/passerina-rositae/4.jpg
+  page: https://www.inaturalist.org/photos/540959036
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540959036/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-rositae/5.jpg
+  page: https://www.inaturalist.org/photos/563956911
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563956911/original.jpg
 ---
 
 

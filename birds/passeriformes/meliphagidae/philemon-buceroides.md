@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/philemon-buceroides/1.jpg
+  page: https://www.inaturalist.org/photos/613295628
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613295628/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/philemon-buceroides/1.jpg
+  page: https://www.inaturalist.org/photos/613295628
+  author: quirino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613295628/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-buceroides/2.jpg
+  page: https://www.inaturalist.org/photos/606374055
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606374055/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-buceroides/3.jpg
+  page: https://www.inaturalist.org/photos/615424953
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615424953/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-buceroides/4.jpg
+  page: https://www.inaturalist.org/photos/618651104
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618651104/original.jpg
+- file: images/passeriformes/meliphagidae/philemon-buceroides/5.jpg
+  page: https://www.inaturalist.org/photos/625309333
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625309333/original.jpg
 ---
 
 

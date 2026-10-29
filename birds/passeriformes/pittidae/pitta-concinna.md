@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/pitta-concinna/1.jpg
+  page: https://www.inaturalist.org/photos/699534274
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699534274/original.jpg
+images:
+- file: images/passeriformes/pittidae/pitta-concinna/1.jpg
+  page: https://www.inaturalist.org/photos/699534274
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699534274/original.jpg
+- file: images/passeriformes/pittidae/pitta-concinna/2.jpg
+  page: https://www.inaturalist.org/photos/331091446
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331091446/original.jpeg
+- file: images/passeriformes/pittidae/pitta-concinna/3.jpg
+  page: https://www.inaturalist.org/photos/331790194
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331790194/original.jpg
+- file: images/passeriformes/pittidae/pitta-concinna/4.jpg
+  page: https://www.inaturalist.org/photos/226287624
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226287624/original.jpg
+- file: images/passeriformes/pittidae/pitta-concinna/5.jpg
+  page: https://www.inaturalist.org/photos/337787994
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787994/original.jpeg
 ---
 
 

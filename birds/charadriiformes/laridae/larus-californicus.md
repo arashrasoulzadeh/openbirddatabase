@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/charadriiformes/laridae/larus-californicus/1.jpg
+  page: https://www.inaturalist.org/photos/605492335
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492335/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-californicus/1.jpg
+  page: https://www.inaturalist.org/photos/605492335
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492335/original.jpg
+- file: images/charadriiformes/laridae/larus-californicus/2.jpg
+  page: https://www.inaturalist.org/photos/605349604
+  author: Anne Parsons
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605349604/original.jpg
+- file: images/charadriiformes/laridae/larus-californicus/3.jpg
+  page: https://www.inaturalist.org/photos/610318568
+  author: Dorothy Johnson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610318568/original.jpg
+- file: images/charadriiformes/laridae/larus-californicus/4.jpg
+  page: https://www.inaturalist.org/photos/608746337
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608746337/original.jpg
+- file: images/charadriiformes/laridae/larus-californicus/5.jpg
+  page: https://www.inaturalist.org/photos/606051470
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606051470/original.jpg
 ---
 
 

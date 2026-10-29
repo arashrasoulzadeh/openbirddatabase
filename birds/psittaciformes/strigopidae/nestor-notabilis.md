@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 47
+image:
+  file: images/psittaciformes/strigopidae/nestor-notabilis/1.jpg
+  page: https://www.inaturalist.org/photos/604915119
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604915119/original.jpg
+images:
+- file: images/psittaciformes/strigopidae/nestor-notabilis/1.jpg
+  page: https://www.inaturalist.org/photos/604915119
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604915119/original.jpg
+- file: images/psittaciformes/strigopidae/nestor-notabilis/2.jpg
+  page: https://www.inaturalist.org/photos/607620850
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607620850/original.jpg
+- file: images/psittaciformes/strigopidae/nestor-notabilis/3.jpg
+  page: https://www.inaturalist.org/photos/608592231
+  author: Tommy Forrest
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608592231/original.jpg
+- file: images/psittaciformes/strigopidae/nestor-notabilis/4.jpg
+  page: https://www.inaturalist.org/photos/608808123
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608808123/original.jpg
+- file: images/psittaciformes/strigopidae/nestor-notabilis/5.jpg
+  page: https://www.inaturalist.org/photos/605816842
+  author: Connor Sydney (Squid)
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605816842/original.jpg
 ---
 
 

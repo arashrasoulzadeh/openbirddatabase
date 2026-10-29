@@ -145,8 +145,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/swynnertonia-swynnertoni/1.jpg
+  page: https://www.inaturalist.org/photos/473819532
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473819532/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/swynnertonia-swynnertoni/1.jpg
+  page: https://www.inaturalist.org/photos/473819532
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473819532/original.jpg
+- file: images/passeriformes/muscicapidae/swynnertonia-swynnertoni/2.jpg
+  page: https://www.inaturalist.org/photos/268489753
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268489753/original.jpeg
 ---
 
 

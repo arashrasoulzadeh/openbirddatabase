@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-malabaricus/1.jpg
+  page: https://www.inaturalist.org/photos/617207095
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207095/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-malabaricus/1.jpg
+  page: https://www.inaturalist.org/photos/617207095
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207095/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-malabaricus/2.jpg
+  page: https://www.inaturalist.org/photos/655483929
+  author: Ahirbudhnyan M
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655483929/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-malabaricus/3.jpg
+  page: https://www.inaturalist.org/photos/726258694
+  author: rajesh rocky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726258694/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-malabaricus/4.jpg
+  page: https://www.inaturalist.org/photos/510911807
+  author: Navaneeth Sini George
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510911807/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-malabaricus/5.jpg
+  page: https://www.inaturalist.org/photos/562979733
+  author: renjus box
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562979733/original.jpg
 ---
 
 

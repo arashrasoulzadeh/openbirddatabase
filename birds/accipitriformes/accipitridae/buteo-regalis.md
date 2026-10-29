@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/accipitriformes/accipitridae/buteo-regalis/1.jpg
+  page: https://www.inaturalist.org/photos/605238363
+  author: Owen McElroy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605238363/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteo-regalis/1.jpg
+  page: https://www.inaturalist.org/photos/605238363
+  author: Owen McElroy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605238363/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-regalis/2.jpg
+  page: https://www.inaturalist.org/photos/606315265
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606315265/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-regalis/3.jpg
+  page: https://www.inaturalist.org/photos/610031016
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610031016/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-regalis/4.jpg
+  page: https://www.inaturalist.org/photos/610910841
+  author: Hannah Stitt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610910841/original.jpg
+- file: images/accipitriformes/accipitridae/buteo-regalis/5.jpg
+  page: https://www.inaturalist.org/photos/607487853
+  author: Hydrocycler (Elizabeth Dougherty)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607487853/original.jpg
 ---
 
 

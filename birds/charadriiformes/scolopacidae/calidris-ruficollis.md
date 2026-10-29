@@ -177,10 +177,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/charadriiformes/scolopacidae/calidris-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/607889855
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607889855/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/607889855
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607889855/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/605271212
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605271212/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/607889856
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607889856/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/607882859
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607882859/original.jpg
 ---
 
 

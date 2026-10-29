@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/eupsittula-aurea/1.jpg
+  page: https://www.inaturalist.org/photos/606251164
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606251164/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/eupsittula-aurea/1.jpg
+  page: https://www.inaturalist.org/photos/606251164
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606251164/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-aurea/2.jpg
+  page: https://www.inaturalist.org/photos/607257203
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607257203/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-aurea/3.jpg
+  page: https://www.inaturalist.org/photos/606902380
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606902380/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-aurea/4.jpg
+  page: https://www.inaturalist.org/photos/609665860
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609665860/original.jpg
+- file: images/psittaciformes/psittacidae/eupsittula-aurea/5.jpg
+  page: https://www.inaturalist.org/photos/742006922
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742006922/original.jpg
 ---
 
 

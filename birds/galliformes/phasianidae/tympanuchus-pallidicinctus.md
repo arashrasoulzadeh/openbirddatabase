@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/galliformes/phasianidae/tympanuchus-pallidicinctus/1.jpg
+  page: https://www.inaturalist.org/photos/651056932
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651056932/original.jpg
+images:
+- file: images/galliformes/phasianidae/tympanuchus-pallidicinctus/1.jpg
+  page: https://www.inaturalist.org/photos/651056932
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651056932/original.jpg
+- file: images/galliformes/phasianidae/tympanuchus-pallidicinctus/2.jpg
+  page: https://www.inaturalist.org/photos/362777406
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362777406/original.jpg
+- file: images/galliformes/phasianidae/tympanuchus-pallidicinctus/3.jpg
+  page: https://www.inaturalist.org/photos/365831646
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365831646/original.jpeg
+- file: images/galliformes/phasianidae/tympanuchus-pallidicinctus/4.jpg
+  page: https://www.inaturalist.org/photos/268754042
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/268754042/original.jpeg
+- file: images/galliformes/phasianidae/tympanuchus-pallidicinctus/5.jpg
+  page: https://www.inaturalist.org/photos/651056925
+  author: Bob Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651056925/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/linaria-yemenensis/1.jpg
+  page: https://www.inaturalist.org/photos/455261135
+  author: Hopeland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455261135/original.jpeg
+images:
+- file: images/passeriformes/fringillidae/linaria-yemenensis/1.jpg
+  page: https://www.inaturalist.org/photos/455261135
+  author: Hopeland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455261135/original.jpeg
+- file: images/passeriformes/fringillidae/linaria-yemenensis/2.jpg
+  page: https://www.inaturalist.org/photos/261076382
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261076382/original.jpeg
+- file: images/passeriformes/fringillidae/linaria-yemenensis/3.jpg
+  page: https://www.inaturalist.org/photos/222958309
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/222958309/original.jpeg
+- file: images/passeriformes/fringillidae/linaria-yemenensis/4.jpg
+  page: https://www.inaturalist.org/photos/75008069
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/75008069/original.jpeg
+- file: images/passeriformes/fringillidae/linaria-yemenensis/5.jpg
+  page: https://www.inaturalist.org/photos/455261131
+  author: Hopeland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455261131/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/melopyrrha-violacea/1.jpg
+  page: https://www.inaturalist.org/photos/608009082
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608009082/original.jpg
+images:
+- file: images/passeriformes/thraupidae/melopyrrha-violacea/1.jpg
+  page: https://www.inaturalist.org/photos/608009082
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608009082/original.jpg
+- file: images/passeriformes/thraupidae/melopyrrha-violacea/2.jpg
+  page: https://www.inaturalist.org/photos/610842114
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842114/original.jpg
+- file: images/passeriformes/thraupidae/melopyrrha-violacea/3.jpg
+  page: https://www.inaturalist.org/photos/607526174
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607526174/original.jpg
+- file: images/passeriformes/thraupidae/melopyrrha-violacea/4.jpg
+  page: https://www.inaturalist.org/photos/617792015
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617792015/original.jpg
+- file: images/passeriformes/thraupidae/melopyrrha-violacea/5.jpg
+  page: https://www.inaturalist.org/photos/475114927
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475114927/original.jpg
 ---
 
 

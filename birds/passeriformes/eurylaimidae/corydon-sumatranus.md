@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/eurylaimidae/corydon-sumatranus/1.jpg
+  page: https://www.inaturalist.org/photos/629774409
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629774409/original.jpg
+images:
+- file: images/passeriformes/eurylaimidae/corydon-sumatranus/1.jpg
+  page: https://www.inaturalist.org/photos/629774409
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629774409/original.jpg
+- file: images/passeriformes/eurylaimidae/corydon-sumatranus/2.jpg
+  page: https://www.inaturalist.org/photos/622989124
+  author: Jonathan Curley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622989124/original.jpg
+- file: images/passeriformes/eurylaimidae/corydon-sumatranus/3.jpg
+  page: https://www.inaturalist.org/photos/714919600
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714919600/original.jpg
+- file: images/passeriformes/eurylaimidae/corydon-sumatranus/4.jpg
+  page: https://www.inaturalist.org/photos/517536144
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517536144/original.jpg
+- file: images/passeriformes/eurylaimidae/corydon-sumatranus/5.jpg
+  page: https://www.inaturalist.org/photos/598026755
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598026755/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/ptilotula-keartlandi/1.jpg
+  page: https://www.inaturalist.org/photos/653924368
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653924368/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/ptilotula-keartlandi/1.jpg
+  page: https://www.inaturalist.org/photos/653924368
+  author: James H
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653924368/original.jpg
+- file: images/passeriformes/meliphagidae/ptilotula-keartlandi/2.jpg
+  page: https://www.inaturalist.org/photos/702602893
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702602893/original.jpg
+- file: images/passeriformes/meliphagidae/ptilotula-keartlandi/3.jpg
+  page: https://www.inaturalist.org/photos/724548758
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724548758/original.jpg
+- file: images/passeriformes/meliphagidae/ptilotula-keartlandi/4.jpg
+  page: https://www.inaturalist.org/photos/742692593
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742692593/original.jpg
+- file: images/passeriformes/meliphagidae/ptilotula-keartlandi/5.jpg
+  page: https://www.inaturalist.org/photos/489203145
+  author: Caroline Coupland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489203145/original.jpg
 ---
 
 

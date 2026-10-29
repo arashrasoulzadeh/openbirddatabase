@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliodoxa-jacula/1.jpg
+  page: https://www.inaturalist.org/photos/606700691
+  author: kristen_276
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606700691/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliodoxa-jacula/1.jpg
+  page: https://www.inaturalist.org/photos/606700691
+  author: kristen_276
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606700691/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-jacula/2.jpg
+  page: https://www.inaturalist.org/photos/608915339
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608915339/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-jacula/3.jpg
+  page: https://www.inaturalist.org/photos/606264118
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606264118/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-jacula/4.jpg
+  page: https://www.inaturalist.org/photos/609375986
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609375986/original.jpg
+- file: images/apodiformes/trochilidae/heliodoxa-jacula/5.jpg
+  page: https://www.inaturalist.org/photos/613650514
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613650514/original.jpg
 ---
 
 

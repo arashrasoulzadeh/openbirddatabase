@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/doliornis-remseni/1.jpg
+  page: https://www.inaturalist.org/photos/609843659
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609843659/original.jpg
+images:
+- file: images/passeriformes/cotingidae/doliornis-remseni/1.jpg
+  page: https://www.inaturalist.org/photos/609843659
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609843659/original.jpg
+- file: images/passeriformes/cotingidae/doliornis-remseni/2.jpg
+  page: https://www.inaturalist.org/photos/104828968
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104828968/original.jpeg
+- file: images/passeriformes/cotingidae/doliornis-remseni/3.jpg
+  page: https://www.inaturalist.org/photos/262570674
+  author: Rob Felix
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/262570674/original.jpg
+- file: images/passeriformes/cotingidae/doliornis-remseni/4.jpg
+  page: https://www.inaturalist.org/photos/104828978
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104828978/original.jpeg
+- file: images/passeriformes/cotingidae/doliornis-remseni/5.jpg
+  page: https://www.inaturalist.org/photos/104828996
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104828996/original.jpeg
 ---
 
 

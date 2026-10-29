@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/geothlypis-flavovelata/1.jpg
+  page: https://www.inaturalist.org/photos/485209812
+  author: Bruno Frías Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485209812/original.jpeg
+images:
+- file: images/passeriformes/parulidae/geothlypis-flavovelata/1.jpg
+  page: https://www.inaturalist.org/photos/485209812
+  author: Bruno Frías Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485209812/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-flavovelata/2.jpg
+  page: https://www.inaturalist.org/photos/287626174
+  author: José Francisco Colorado-Dapa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/287626174/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-flavovelata/3.jpg
+  page: https://www.inaturalist.org/photos/44388004
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/44388004/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-flavovelata/4.jpg
+  page: https://www.inaturalist.org/photos/485209546
+  author: Bruno Frías Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485209546/original.jpeg
+- file: images/passeriformes/parulidae/geothlypis-flavovelata/5.jpg
+  page: https://www.inaturalist.org/photos/532553200
+  author: Bruno Frías Morales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532553200/original.jpg
 ---
 
 

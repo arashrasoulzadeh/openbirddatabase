@@ -169,10 +169,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/columbiformes/columbidae/patagioenas-leucocephala/1.jpg
+  page: https://www.inaturalist.org/photos/604938139
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604938139/original.jpg
+images:
+- file: images/columbiformes/columbidae/patagioenas-leucocephala/1.jpg
+  page: https://www.inaturalist.org/photos/604938139
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604938139/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-leucocephala/2.jpg
+  page: https://www.inaturalist.org/photos/604897729
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604897729/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-leucocephala/3.jpg
+  page: https://www.inaturalist.org/photos/614975353
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975353/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-leucocephala/4.jpg
+  page: https://www.inaturalist.org/photos/614807767
+  author: Barbara Kay
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614807767/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-leucocephala/5.jpg
+  page: https://www.inaturalist.org/photos/617073686
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617073686/original.jpg
 ---
 
 

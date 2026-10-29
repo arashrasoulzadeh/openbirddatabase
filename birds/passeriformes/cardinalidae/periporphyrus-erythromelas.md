@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.6
@@ -137,6 +138,38 @@ morphology:
   wing_length_mm: 99.2
   tail_length_mm: 88.8
   body_mass_g: 48.0
+image:
+  file: images/passeriformes/cardinalidae/periporphyrus-erythromelas/1.jpg
+  page: https://www.inaturalist.org/photos/468993631
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468993631/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/periporphyrus-erythromelas/1.jpg
+  page: https://www.inaturalist.org/photos/468993631
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468993631/original.jpg
+- file: images/passeriformes/cardinalidae/periporphyrus-erythromelas/2.jpg
+  page: https://www.inaturalist.org/photos/591888521
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591888521/original.jpg
+- file: images/passeriformes/cardinalidae/periporphyrus-erythromelas/3.jpg
+  page: https://www.inaturalist.org/photos/468993630
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468993630/original.jpg
+- file: images/passeriformes/cardinalidae/periporphyrus-erythromelas/4.jpg
+  page: https://www.inaturalist.org/photos/591636808
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636808/original.jpg
 ---
 
 

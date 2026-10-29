@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/upucerthia-dumetaria/1.jpg
+  page: https://www.inaturalist.org/photos/615857512
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615857512/original.jpg
+images:
+- file: images/passeriformes/furnariidae/upucerthia-dumetaria/1.jpg
+  page: https://www.inaturalist.org/photos/615857512
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615857512/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-dumetaria/2.jpg
+  page: https://www.inaturalist.org/photos/655044094
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655044094/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-dumetaria/3.jpg
+  page: https://www.inaturalist.org/photos/739125863
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739125863/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-dumetaria/4.jpg
+  page: https://www.inaturalist.org/photos/464232521
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464232521/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-dumetaria/5.jpg
+  page: https://www.inaturalist.org/photos/469053504
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469053504/original.jpeg
 ---
 
 

@@ -142,7 +142,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 124.0
@@ -150,6 +151,44 @@ morphology:
   wing_length_mm: 318.8
   tail_length_mm: 145.5
   body_mass_g: 583.0
+image:
+  file: images/pelecaniformes/threskiornithidae/lophotibis-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/571860085
+  author: Matthew Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571860085/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/lophotibis-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/571860085
+  author: Matthew Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571860085/original.jpg
+- file: images/pelecaniformes/threskiornithidae/lophotibis-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/602991534
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602991534/original.jpg
+- file: images/pelecaniformes/threskiornithidae/lophotibis-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/454882874
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454882874/original.jpg
+- file: images/pelecaniformes/threskiornithidae/lophotibis-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/70313881
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70313881/original.jpeg
+- file: images/pelecaniformes/threskiornithidae/lophotibis-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/182399952
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/182399952/original.jpg
 ---
 
 

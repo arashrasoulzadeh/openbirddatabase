@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/melaniparus-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/659452989
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659452989/original.jpg
+images:
+- file: images/passeriformes/paridae/melaniparus-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/659452989
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659452989/original.jpg
+- file: images/passeriformes/paridae/melaniparus-albiventris/2.jpg
+  page: https://www.inaturalist.org/photos/716611325
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716611325/original.jpg
+- file: images/passeriformes/paridae/melaniparus-albiventris/3.jpg
+  page: https://www.inaturalist.org/photos/724065069
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724065069/original.jpg
+- file: images/passeriformes/paridae/melaniparus-albiventris/4.jpg
+  page: https://www.inaturalist.org/photos/532008980
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532008980/original.jpg
+- file: images/passeriformes/paridae/melaniparus-albiventris/5.jpg
+  page: https://www.inaturalist.org/photos/581279692
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581279692/original.jpg
 ---
 
 

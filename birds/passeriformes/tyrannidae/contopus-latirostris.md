@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/contopus-latirostris/1.jpg
+  page: https://www.inaturalist.org/photos/609072715
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609072715/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/contopus-latirostris/1.jpg
+  page: https://www.inaturalist.org/photos/609072715
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609072715/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-latirostris/2.jpg
+  page: https://www.inaturalist.org/photos/609006030
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609006030/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-latirostris/3.jpg
+  page: https://www.inaturalist.org/photos/616513732
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616513732/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-latirostris/4.jpg
+  page: https://www.inaturalist.org/photos/616799271
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616799271/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-latirostris/5.jpg
+  page: https://www.inaturalist.org/photos/621615485
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621615485/original.jpg
 ---
 
 

@@ -146,7 +146,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.1
@@ -154,6 +155,44 @@ morphology:
   wing_length_mm: 45.6
   tail_length_mm: 30.2
   body_mass_g: 5.0
+image:
+  file: images/passeriformes/elachuridae/elachura-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/510426486
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510426486/original.jpg
+images:
+- file: images/passeriformes/elachuridae/elachura-formosa/1.jpg
+  page: https://www.inaturalist.org/photos/510426486
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510426486/original.jpg
+- file: images/passeriformes/elachuridae/elachura-formosa/2.jpg
+  page: https://www.inaturalist.org/photos/405774049
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/405774049/original.jpg
+- file: images/passeriformes/elachuridae/elachura-formosa/3.jpg
+  page: https://www.inaturalist.org/photos/212251898
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/212251898/original.jpg
+- file: images/passeriformes/elachuridae/elachura-formosa/4.jpg
+  page: https://www.inaturalist.org/photos/510427976
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510427976/original.jpg
+- file: images/passeriformes/elachuridae/elachura-formosa/5.jpg
+  page: https://www.inaturalist.org/photos/212251936
+  author: Morten Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/212251936/original.jpg
 ---
 
 

@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/cardinalidae/passerina-cyanea/1.jpg
+  page: https://www.inaturalist.org/photos/605494182
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494182/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/passerina-cyanea/1.jpg
+  page: https://www.inaturalist.org/photos/605494182
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494182/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-cyanea/2.jpg
+  page: https://www.inaturalist.org/photos/608464276
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608464276/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-cyanea/3.jpg
+  page: https://www.inaturalist.org/photos/611554686
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611554686/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-cyanea/4.jpg
+  page: https://www.inaturalist.org/photos/613077403
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613077403/original.jpg
+- file: images/passeriformes/cardinalidae/passerina-cyanea/5.jpg
+  page: https://www.inaturalist.org/photos/605494200
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494200/original.jpg
 ---
 
 

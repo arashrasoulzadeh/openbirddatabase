@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/paridae/baeolophus-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/605498447
+  author: Luke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605498447/original.jpg
+images:
+- file: images/passeriformes/paridae/baeolophus-bicolor/1.jpg
+  page: https://www.inaturalist.org/photos/605498447
+  author: Luke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605498447/original.jpg
+- file: images/passeriformes/paridae/baeolophus-bicolor/2.jpg
+  page: https://www.inaturalist.org/photos/604607690
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604607690/original.jpg
+- file: images/passeriformes/paridae/baeolophus-bicolor/3.jpg
+  page: https://www.inaturalist.org/photos/604890488
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604890488/original.jpg
+- file: images/passeriformes/paridae/baeolophus-bicolor/4.jpg
+  page: https://www.inaturalist.org/photos/605488154
+  author: Sandy Wolkenberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605488154/original.jpg
+- file: images/passeriformes/paridae/baeolophus-bicolor/5.jpg
+  page: https://www.inaturalist.org/photos/604887944
+  author: Nick Chirico
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604887944/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiotheretes-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/652834107
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652834107/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiotheretes-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/652834107
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652834107/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-fumigatus/2.jpg
+  page: https://www.inaturalist.org/photos/503127968
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503127968/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-fumigatus/3.jpg
+  page: https://www.inaturalist.org/photos/521547167
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521547167/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-fumigatus/4.jpg
+  page: https://www.inaturalist.org/photos/559782330
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559782330/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-fumigatus/5.jpg
+  page: https://www.inaturalist.org/photos/380995191
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380995191/original.jpeg
 ---
 
 

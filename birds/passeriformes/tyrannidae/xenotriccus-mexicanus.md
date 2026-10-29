@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/xenotriccus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/665343033
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343033/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/xenotriccus-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/665343033
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343033/original.jpg
+- file: images/passeriformes/tyrannidae/xenotriccus-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/482283561
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482283561/original.jpg
+- file: images/passeriformes/tyrannidae/xenotriccus-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/643062932
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643062932/original.jpg
+- file: images/passeriformes/tyrannidae/xenotriccus-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/261948887
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261948887/original.jpeg
+- file: images/passeriformes/tyrannidae/xenotriccus-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/665343040
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665343040/original.jpg
 ---
 
 

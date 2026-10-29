@@ -145,10 +145,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/piciformes/picidae/picoides-dorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/604553464
+  author: Sean Frey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604553464/original.jpg
+images:
+- file: images/piciformes/picidae/picoides-dorsalis/1.jpg
+  page: https://www.inaturalist.org/photos/604553464
+  author: Sean Frey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604553464/original.jpg
+- file: images/piciformes/picidae/picoides-dorsalis/2.jpg
+  page: https://www.inaturalist.org/photos/613444773
+  author: Karen Offereins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613444773/original.jpg
+- file: images/piciformes/picidae/picoides-dorsalis/3.jpg
+  page: https://www.inaturalist.org/photos/612861886
+  author: Patrick Sowers
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612861886/original.jpg
+- file: images/piciformes/picidae/picoides-dorsalis/4.jpg
+  page: https://www.inaturalist.org/photos/616392867
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616392867/original.jpg
+- file: images/piciformes/picidae/picoides-dorsalis/5.jpg
+  page: https://www.inaturalist.org/photos/667789811
+  author: Arthur Whiting
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667789811/original.jpg
 ---
 
 

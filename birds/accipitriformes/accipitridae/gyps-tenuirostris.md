@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/gyps-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/551283516
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551283516/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/gyps-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/551283516
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551283516/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-tenuirostris/2.jpg
+  page: https://www.inaturalist.org/photos/486733861
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486733861/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-tenuirostris/3.jpg
+  page: https://www.inaturalist.org/photos/577156313
+  author: Dr. Alexey Yakovlev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577156313/original.jpg
+- file: images/accipitriformes/accipitridae/gyps-tenuirostris/4.jpg
+  page: https://www.inaturalist.org/photos/361017874
+  author: Harsha Jayaramaiah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361017874/original.jpeg
+- file: images/accipitriformes/accipitridae/gyps-tenuirostris/5.jpg
+  page: https://www.inaturalist.org/photos/364206271
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364206271/original.jpeg
 ---
 
 

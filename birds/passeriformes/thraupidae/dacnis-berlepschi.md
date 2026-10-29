@@ -133,7 +133,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.0
@@ -141,6 +142,20 @@ morphology:
   wing_length_mm: 63.0
   tail_length_mm: 46.8
   body_mass_g: 12.8
+image:
+  file: images/passeriformes/thraupidae/dacnis-berlepschi/1.jpg
+  page: https://www.inaturalist.org/photos/333884445
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333884445/original.jpg
+images:
+- file: images/passeriformes/thraupidae/dacnis-berlepschi/1.jpg
+  page: https://www.inaturalist.org/photos/333884445
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333884445/original.jpg
 ---
 
 

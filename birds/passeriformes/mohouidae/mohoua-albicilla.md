@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mohouidae/mohoua-albicilla/1.jpg
+  page: https://www.inaturalist.org/photos/607070112
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607070112/original.jpg
+images:
+- file: images/passeriformes/mohouidae/mohoua-albicilla/1.jpg
+  page: https://www.inaturalist.org/photos/607070112
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607070112/original.jpg
+- file: images/passeriformes/mohouidae/mohoua-albicilla/2.jpg
+  page: https://www.inaturalist.org/photos/612028265
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612028265/original.jpg
+- file: images/passeriformes/mohouidae/mohoua-albicilla/3.jpg
+  page: https://www.inaturalist.org/photos/614911848
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614911848/original.jpg
+- file: images/passeriformes/mohouidae/mohoua-albicilla/4.jpg
+  page: https://www.inaturalist.org/photos/614609535
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614609535/original.jpg
+- file: images/passeriformes/mohouidae/mohoua-albicilla/5.jpg
+  page: https://www.inaturalist.org/photos/614084259
+  author: Charlotte Sutton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614084259/original.jpg
 ---
 
 

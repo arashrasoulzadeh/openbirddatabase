@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/agriornis-micropterus/1.jpg
+  page: https://www.inaturalist.org/photos/618776066
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618776066/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/agriornis-micropterus/1.jpg
+  page: https://www.inaturalist.org/photos/618776066
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618776066/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-micropterus/2.jpg
+  page: https://www.inaturalist.org/photos/630906093
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630906093/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-micropterus/3.jpg
+  page: https://www.inaturalist.org/photos/628478659
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628478659/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-micropterus/4.jpg
+  page: https://www.inaturalist.org/photos/635515196
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635515196/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-micropterus/5.jpg
+  page: https://www.inaturalist.org/photos/644465470
+  author: veonatura
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644465470/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/thalurania-glaucopis/1.jpg
+  page: https://www.inaturalist.org/photos/605729735
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729735/original.jpg
+images:
+- file: images/apodiformes/trochilidae/thalurania-glaucopis/1.jpg
+  page: https://www.inaturalist.org/photos/605729735
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729735/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-glaucopis/2.jpg
+  page: https://www.inaturalist.org/photos/610487250
+  author: Cristina Sininho Sa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610487250/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-glaucopis/3.jpg
+  page: https://www.inaturalist.org/photos/610877968
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610877968/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-glaucopis/4.jpg
+  page: https://www.inaturalist.org/photos/610842446
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842446/original.jpg
+- file: images/apodiformes/trochilidae/thalurania-glaucopis/5.jpg
+  page: https://www.inaturalist.org/photos/611671295
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611671295/original.jpg
 ---
 
 

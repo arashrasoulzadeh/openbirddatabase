@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/tachyeres-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/617221797
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617221797/original.jpg
+images:
+- file: images/anseriformes/anatidae/tachyeres-leucocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/617221797
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617221797/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-leucocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/615364387
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615364387/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-leucocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/743866709
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743866709/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-leucocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/556761926
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556761926/original.jpg
+- file: images/anseriformes/anatidae/tachyeres-leucocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/575879930
+  author: Tomás Tamagno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575879930/original.jpg
 ---
 
 

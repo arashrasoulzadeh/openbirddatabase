@@ -144,7 +144,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.0
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 66.2
   tail_length_mm: 51.2
   body_mass_g: 22.0
+image:
+  file: images/passeriformes/passeridae/passer-pyrrhonotus/1.jpg
+  page: https://www.inaturalist.org/photos/703874509
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703874509/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-pyrrhonotus/1.jpg
+  page: https://www.inaturalist.org/photos/703874509
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703874509/original.jpg
+- file: images/passeriformes/passeridae/passer-pyrrhonotus/2.jpg
+  page: https://www.inaturalist.org/photos/259167571
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259167571/original.jpg
+- file: images/passeriformes/passeridae/passer-pyrrhonotus/3.jpg
+  page: https://www.inaturalist.org/photos/49676846
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49676846/original.jpg
+- file: images/passeriformes/passeridae/passer-pyrrhonotus/4.jpg
+  page: https://www.inaturalist.org/photos/703874527
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703874527/original.jpg
+- file: images/passeriformes/passeridae/passer-pyrrhonotus/5.jpg
+  page: https://www.inaturalist.org/photos/703874557
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703874557/original.jpg
 ---
 
 

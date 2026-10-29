@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/agricola-infuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/382541819
+  author: Tuoichen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382541819/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/agricola-infuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/382541819
+  author: Tuoichen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382541819/original.jpg
+- file: images/passeriformes/muscicapidae/agricola-infuscatus/2.jpg
+  page: https://www.inaturalist.org/photos/413400814
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413400814/original.jpeg
+- file: images/passeriformes/muscicapidae/agricola-infuscatus/3.jpg
+  page: https://www.inaturalist.org/photos/411455299
+  author: Jonas Kraft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/411455299/original.jpg
+- file: images/passeriformes/muscicapidae/agricola-infuscatus/4.jpg
+  page: https://www.inaturalist.org/photos/459693518
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459693518/original.jpeg
+- file: images/passeriformes/muscicapidae/agricola-infuscatus/5.jpg
+  page: https://www.inaturalist.org/photos/271280525
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/271280525/original.jpeg
 ---
 
 

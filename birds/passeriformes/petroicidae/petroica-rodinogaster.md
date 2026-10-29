@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/petroicidae/petroica-rodinogaster/1.jpg
+  page: https://www.inaturalist.org/photos/628750196
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628750196/original.jpg
+images:
+- file: images/passeriformes/petroicidae/petroica-rodinogaster/1.jpg
+  page: https://www.inaturalist.org/photos/628750196
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628750196/original.jpg
+- file: images/passeriformes/petroicidae/petroica-rodinogaster/2.jpg
+  page: https://www.inaturalist.org/photos/671990807
+  author: graeme lunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671990807/original.jpg
+- file: images/passeriformes/petroicidae/petroica-rodinogaster/3.jpg
+  page: https://www.inaturalist.org/photos/670818269
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670818269/original.jpg
+- file: images/passeriformes/petroicidae/petroica-rodinogaster/4.jpg
+  page: https://www.inaturalist.org/photos/710180774
+  author: Samuel Garrett
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710180774/original.jpg
+- file: images/passeriformes/petroicidae/petroica-rodinogaster/5.jpg
+  page: https://www.inaturalist.org/photos/478038107
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478038107/original.jpeg
 ---
 
 

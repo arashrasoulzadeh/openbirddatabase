@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-chalybeus/1.jpg
+  page: https://www.inaturalist.org/photos/610206866
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610206866/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-chalybeus/1.jpg
+  page: https://www.inaturalist.org/photos/610206866
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610206866/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-chalybeus/2.jpg
+  page: https://www.inaturalist.org/photos/611398342
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611398342/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-chalybeus/3.jpg
+  page: https://www.inaturalist.org/photos/611226420
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611226420/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-chalybeus/4.jpg
+  page: https://www.inaturalist.org/photos/613939592
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613939592/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-chalybeus/5.jpg
+  page: https://www.inaturalist.org/photos/615690598
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615690598/original.jpg
 ---
 
 

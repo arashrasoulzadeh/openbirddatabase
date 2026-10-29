@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/myzomela-eques/1.jpg
+  page: https://www.inaturalist.org/photos/734251171
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251171/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-eques/1.jpg
+  page: https://www.inaturalist.org/photos/734251171
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251171/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-eques/2.jpg
+  page: https://www.inaturalist.org/photos/734251189
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251189/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-eques/3.jpg
+  page: https://www.inaturalist.org/photos/734251241
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251241/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-eques/4.jpg
+  page: https://www.inaturalist.org/photos/734251263
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251263/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-eques/5.jpg
+  page: https://www.inaturalist.org/photos/734251299
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251299/original.jpg
 ---
 
 

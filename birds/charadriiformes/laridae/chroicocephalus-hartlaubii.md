@@ -125,7 +125,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 39.5
@@ -135,6 +136,44 @@ morphology:
   body_mass_g: 292.0
 reproduction:
   clutch_size_mean: 1.8
+image:
+  file: images/charadriiformes/laridae/chroicocephalus-hartlaubii/1.jpg
+  page: https://www.inaturalist.org/photos/608083043
+  author: Adele SL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608083043/original.jpg
+images:
+- file: images/charadriiformes/laridae/chroicocephalus-hartlaubii/1.jpg
+  page: https://www.inaturalist.org/photos/608083043
+  author: Adele SL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608083043/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-hartlaubii/2.jpg
+  page: https://www.inaturalist.org/photos/610396936
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610396936/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-hartlaubii/3.jpg
+  page: https://www.inaturalist.org/photos/612417816
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612417816/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-hartlaubii/4.jpg
+  page: https://www.inaturalist.org/photos/617732117
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617732117/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-hartlaubii/5.jpg
+  page: https://www.inaturalist.org/photos/616338597
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616338597/original.jpg
 ---
 
 

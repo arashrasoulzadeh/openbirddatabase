@@ -151,8 +151,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-erythropleurus/1.jpg
+  page: https://www.inaturalist.org/photos/611389413
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611389413/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-erythropleurus/1.jpg
+  page: https://www.inaturalist.org/photos/611389413
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611389413/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-erythropleurus/2.jpg
+  page: https://www.inaturalist.org/photos/627909155
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627909155/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-erythropleurus/3.jpg
+  page: https://www.inaturalist.org/photos/634993935
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634993935/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-erythropleurus/4.jpg
+  page: https://www.inaturalist.org/photos/679301492
+  author: Поляков Александр
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679301492/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-erythropleurus/5.jpg
+  page: https://www.inaturalist.org/photos/688524968
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688524968/original.jpg
 ---
 
 

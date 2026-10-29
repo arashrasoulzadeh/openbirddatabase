@@ -130,8 +130,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/maluridae/amytornis-rowleyi/1.jpg
+  page: https://www.inaturalist.org/photos/743567055
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743567055/original.jpg
+images:
+- file: images/passeriformes/maluridae/amytornis-rowleyi/1.jpg
+  page: https://www.inaturalist.org/photos/743567055
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743567055/original.jpg
+- file: images/passeriformes/maluridae/amytornis-rowleyi/2.jpg
+  page: https://www.inaturalist.org/photos/340904935
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340904935/original.jpeg
+- file: images/passeriformes/maluridae/amytornis-rowleyi/3.jpg
+  page: https://www.inaturalist.org/photos/67720594
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/67720594/original.jpg
+- file: images/passeriformes/maluridae/amytornis-rowleyi/4.jpg
+  page: https://www.inaturalist.org/photos/743592250
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743592250/original.jpg
+- file: images/passeriformes/maluridae/amytornis-rowleyi/5.jpg
+  page: https://www.inaturalist.org/photos/743592268
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743592268/original.jpg
 ---
 
 

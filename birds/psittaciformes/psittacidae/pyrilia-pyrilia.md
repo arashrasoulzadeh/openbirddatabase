@@ -134,8 +134,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrilia-pyrilia/1.jpg
+  page: https://www.inaturalist.org/photos/532712350
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532712350/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrilia-pyrilia/1.jpg
+  page: https://www.inaturalist.org/photos/532712350
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532712350/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-pyrilia/2.jpg
+  page: https://www.inaturalist.org/photos/363149497
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363149497/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-pyrilia/3.jpg
+  page: https://www.inaturalist.org/photos/72120991
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/72120991/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-pyrilia/4.jpg
+  page: https://www.inaturalist.org/photos/363149541
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363149541/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-pyrilia/5.jpg
+  page: https://www.inaturalist.org/photos/363149572
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363149572/original.jpg
 ---
 
 

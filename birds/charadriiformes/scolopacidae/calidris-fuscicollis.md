@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/charadriiformes/scolopacidae/calidris-fuscicollis/1.jpg
+  page: https://www.inaturalist.org/photos/610534805
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610534805/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/calidris-fuscicollis/1.jpg
+  page: https://www.inaturalist.org/photos/610534805
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610534805/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-fuscicollis/2.jpg
+  page: https://www.inaturalist.org/photos/608935273
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608935273/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-fuscicollis/3.jpg
+  page: https://www.inaturalist.org/photos/612746196
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612746196/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-fuscicollis/4.jpg
+  page: https://www.inaturalist.org/photos/615792224
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792224/original.jpg
+- file: images/charadriiformes/scolopacidae/calidris-fuscicollis/5.jpg
+  page: https://www.inaturalist.org/photos/609365207
+  author: Eliana Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609365207/original.jpg
 ---
 
 

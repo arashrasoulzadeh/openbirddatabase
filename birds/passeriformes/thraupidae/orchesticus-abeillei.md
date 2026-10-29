@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/orchesticus-abeillei/1.jpg
+  page: https://www.inaturalist.org/photos/604541080
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541080/original.jpg
+images:
+- file: images/passeriformes/thraupidae/orchesticus-abeillei/1.jpg
+  page: https://www.inaturalist.org/photos/604541080
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541080/original.jpg
+- file: images/passeriformes/thraupidae/orchesticus-abeillei/2.jpg
+  page: https://www.inaturalist.org/photos/607272289
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607272289/original.jpg
+- file: images/passeriformes/thraupidae/orchesticus-abeillei/3.jpg
+  page: https://www.inaturalist.org/photos/477385390
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477385390/original.jpeg
+- file: images/passeriformes/thraupidae/orchesticus-abeillei/4.jpg
+  page: https://www.inaturalist.org/photos/450857375
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450857375/original.jpeg
+- file: images/passeriformes/thraupidae/orchesticus-abeillei/5.jpg
+  page: https://www.inaturalist.org/photos/244807775
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244807775/original.jpeg
 ---
 
 

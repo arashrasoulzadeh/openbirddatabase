@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/psittaciformes/psittacidae/amazona-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/605583800
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605583800/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/605583800
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605583800/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-albifrons/2.jpg
+  page: https://www.inaturalist.org/photos/610398776
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610398776/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-albifrons/3.jpg
+  page: https://www.inaturalist.org/photos/610498029
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610498029/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-albifrons/4.jpg
+  page: https://www.inaturalist.org/photos/609233441
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609233441/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-albifrons/5.jpg
+  page: https://www.inaturalist.org/photos/606285145
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606285145/original.jpg
 ---
 
 

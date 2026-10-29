@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/cuculiformes/cuculidae/coccyzus-erythropthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/654625378
+  author: dianneconner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654625378/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coccyzus-erythropthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/654625378
+  author: dianneconner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654625378/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-erythropthalmus/2.jpg
+  page: https://www.inaturalist.org/photos/655136859
+  author: Lindsey G.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655136859/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-erythropthalmus/3.jpg
+  page: https://www.inaturalist.org/photos/661061267
+  author: sudomir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661061267/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-erythropthalmus/4.jpg
+  page: https://www.inaturalist.org/photos/659525680
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659525680/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-erythropthalmus/5.jpg
+  page: https://www.inaturalist.org/photos/656668381
+  author: worldbird
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656668381/original.jpg
 ---
 
 

@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/eremopterix-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/612771752
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771752/original.jpg
+images:
+- file: images/passeriformes/alaudidae/eremopterix-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/612771752
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771752/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/720115098
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720115098/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/487847571
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487847571/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/504719574
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504719574/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/544281636
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/544281636/original.jpg
 ---
 
 

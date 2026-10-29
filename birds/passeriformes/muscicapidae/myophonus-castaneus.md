@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 28.1
@@ -143,6 +144,38 @@ morphology:
   wing_length_mm: 137.4
   tail_length_mm: 86.2
   body_mass_g: 89.7
+image:
+  file: images/passeriformes/muscicapidae/myophonus-castaneus/1.jpg
+  page: https://www.inaturalist.org/photos/614933960
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933960/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/myophonus-castaneus/1.jpg
+  page: https://www.inaturalist.org/photos/614933960
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933960/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-castaneus/2.jpg
+  page: https://www.inaturalist.org/photos/618851208
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851208/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-castaneus/3.jpg
+  page: https://www.inaturalist.org/photos/339647674
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339647674/original.jpg
+- file: images/passeriformes/muscicapidae/myophonus-castaneus/4.jpg
+  page: https://www.inaturalist.org/photos/614933959
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933959/original.jpg
 ---
 
 

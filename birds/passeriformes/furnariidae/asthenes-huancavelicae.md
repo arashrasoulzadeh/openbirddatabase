@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/asthenes-huancavelicae/1.jpg
+  page: https://www.inaturalist.org/photos/362378966
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362378966/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-huancavelicae/1.jpg
+  page: https://www.inaturalist.org/photos/362378966
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362378966/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-huancavelicae/2.jpg
+  page: https://www.inaturalist.org/photos/238376936
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238376936/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-huancavelicae/3.jpg
+  page: https://www.inaturalist.org/photos/158921276
+  author: Floro Ortiz Contreras
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158921276/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-huancavelicae/4.jpg
+  page: https://www.inaturalist.org/photos/362378943
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362378943/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-huancavelicae/5.jpg
+  page: https://www.inaturalist.org/photos/205663756
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/205663756/original.jpg
 ---
 
 

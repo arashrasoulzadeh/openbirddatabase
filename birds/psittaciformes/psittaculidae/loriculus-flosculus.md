@@ -128,7 +128,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.5
@@ -136,6 +137,20 @@ morphology:
   wing_length_mm: 76.0
   tail_length_mm: 32.0
   body_mass_g: 34.0
+image:
+  file: images/psittaciformes/psittaculidae/loriculus-flosculus/1.jpg
+  page: https://www.inaturalist.org/photos/107995904
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107995904/original.jpeg
+images:
+- file: images/psittaciformes/psittaculidae/loriculus-flosculus/1.jpg
+  page: https://www.inaturalist.org/photos/107995904
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107995904/original.jpeg
 ---
 
 

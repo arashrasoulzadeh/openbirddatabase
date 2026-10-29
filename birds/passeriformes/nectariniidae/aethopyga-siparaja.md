@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-siparaja/1.jpg
+  page: https://www.inaturalist.org/photos/607115492
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607115492/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-siparaja/1.jpg
+  page: https://www.inaturalist.org/photos/607115492
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607115492/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-siparaja/2.jpg
+  page: https://www.inaturalist.org/photos/610675171
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675171/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-siparaja/3.jpg
+  page: https://www.inaturalist.org/photos/609670207
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609670207/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-siparaja/4.jpg
+  page: https://www.inaturalist.org/photos/614291898
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614291898/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-siparaja/5.jpg
+  page: https://www.inaturalist.org/photos/617114228
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617114228/original.jpg
 ---
 
 

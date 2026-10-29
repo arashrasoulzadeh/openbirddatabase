@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/microcarbo-niger/1.jpg
+  page: https://www.inaturalist.org/photos/605670346
+  author: engagenosey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605670346/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/microcarbo-niger/1.jpg
+  page: https://www.inaturalist.org/photos/605670346
+  author: engagenosey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605670346/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-niger/2.jpg
+  page: https://www.inaturalist.org/photos/610184465
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610184465/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-niger/3.jpg
+  page: https://www.inaturalist.org/photos/606171349
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606171349/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-niger/4.jpg
+  page: https://www.inaturalist.org/photos/610599964
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610599964/original.jpg
+- file: images/suliformes/phalacrocoracidae/microcarbo-niger/5.jpg
+  page: https://www.inaturalist.org/photos/607109879
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607109879/original.jpg
 ---
 
 

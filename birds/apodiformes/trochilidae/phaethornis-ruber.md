@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-ruber/1.jpg
+  page: https://www.inaturalist.org/photos/610444741
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610444741/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-ruber/1.jpg
+  page: https://www.inaturalist.org/photos/610444741
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610444741/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-ruber/2.jpg
+  page: https://www.inaturalist.org/photos/611672998
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611672998/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-ruber/3.jpg
+  page: https://www.inaturalist.org/photos/622442568
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622442568/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-ruber/4.jpg
+  page: https://www.inaturalist.org/photos/607762525
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607762525/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-ruber/5.jpg
+  page: https://www.inaturalist.org/photos/641159368
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641159368/original.jpg
 ---
 
 

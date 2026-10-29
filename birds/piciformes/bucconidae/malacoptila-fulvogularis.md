@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/malacoptila-fulvogularis/1.jpg
+  page: https://www.inaturalist.org/photos/613407215
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613407215/original.jpg
+images:
+- file: images/piciformes/bucconidae/malacoptila-fulvogularis/1.jpg
+  page: https://www.inaturalist.org/photos/613407215
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613407215/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-fulvogularis/2.jpg
+  page: https://www.inaturalist.org/photos/361078643
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361078643/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-fulvogularis/3.jpg
+  page: https://www.inaturalist.org/photos/420083487
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420083487/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-fulvogularis/4.jpg
+  page: https://www.inaturalist.org/photos/625531891
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625531891/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-fulvogularis/5.jpg
+  page: https://www.inaturalist.org/photos/418255010
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418255010/original.jpg
 ---
 
 

@@ -132,7 +132,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.4
@@ -140,6 +141,20 @@ morphology:
   wing_length_mm: 50.7
   tail_length_mm: 26.1
   body_mass_g: 11.3
+image:
+  file: images/piciformes/picidae/picumnus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/210229183
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/210229183/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/210229183
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/210229183/original.jpg
 ---
 
 

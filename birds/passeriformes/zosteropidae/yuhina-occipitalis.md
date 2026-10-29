@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/yuhina-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/487054772
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054772/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/yuhina-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/487054772
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054772/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-occipitalis/2.jpg
+  page: https://www.inaturalist.org/photos/521398429
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521398429/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-occipitalis/3.jpg
+  page: https://www.inaturalist.org/photos/538016985
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538016985/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-occipitalis/4.jpg
+  page: https://www.inaturalist.org/photos/372222012
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/372222012/original.jpeg
+- file: images/passeriformes/zosteropidae/yuhina-occipitalis/5.jpg
+  page: https://www.inaturalist.org/photos/520838531
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520838531/original.jpg
 ---
 
 

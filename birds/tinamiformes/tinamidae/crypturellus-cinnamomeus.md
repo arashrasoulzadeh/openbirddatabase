@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/crypturellus-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/699674409
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699674409/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/crypturellus-cinnamomeus/1.jpg
+  page: https://www.inaturalist.org/photos/699674409
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699674409/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-cinnamomeus/2.jpg
+  page: https://www.inaturalist.org/photos/510337673
+  author: Masked Lynx
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/510337673/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-cinnamomeus/3.jpg
+  page: https://www.inaturalist.org/photos/380789292
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380789292/original.jpeg
+- file: images/tinamiformes/tinamidae/crypturellus-cinnamomeus/4.jpg
+  page: https://www.inaturalist.org/photos/587450023
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587450023/original.jpg
+- file: images/tinamiformes/tinamidae/crypturellus-cinnamomeus/5.jpg
+  page: https://www.inaturalist.org/photos/614380131
+  author: Giovana A. Valencia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614380131/original.jpg
 ---
 
 

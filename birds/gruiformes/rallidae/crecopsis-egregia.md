@@ -153,7 +153,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 25.1
@@ -161,6 +162,44 @@ morphology:
   wing_length_mm: 121.2
   tail_length_mm: 38.4
   body_mass_g: 119.0
+image:
+  file: images/gruiformes/rallidae/crecopsis-egregia/1.jpg
+  page: https://www.inaturalist.org/photos/471201192
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471201192/original.jpeg
+images:
+- file: images/gruiformes/rallidae/crecopsis-egregia/1.jpg
+  page: https://www.inaturalist.org/photos/471201192
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471201192/original.jpeg
+- file: images/gruiformes/rallidae/crecopsis-egregia/2.jpg
+  page: https://www.inaturalist.org/photos/502215927
+  author: Adele SL
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502215927/original.jpeg
+- file: images/gruiformes/rallidae/crecopsis-egregia/3.jpg
+  page: https://www.inaturalist.org/photos/593592690
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593592690/original.jpg
+- file: images/gruiformes/rallidae/crecopsis-egregia/4.jpg
+  page: https://www.inaturalist.org/photos/473624356
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473624356/original.jpeg
+- file: images/gruiformes/rallidae/crecopsis-egregia/5.jpg
+  page: https://www.inaturalist.org/photos/484435322
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484435322/original.jpeg
 ---
 
 

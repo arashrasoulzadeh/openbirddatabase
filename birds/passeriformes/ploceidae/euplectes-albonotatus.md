@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-albonotatus/1.jpg
+  page: https://www.inaturalist.org/photos/616583703
+  author: Albertus Horn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616583703/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-albonotatus/1.jpg
+  page: https://www.inaturalist.org/photos/616583703
+  author: Albertus Horn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616583703/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-albonotatus/2.jpg
+  page: https://www.inaturalist.org/photos/619601583
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619601583/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-albonotatus/3.jpg
+  page: https://www.inaturalist.org/photos/726369954
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726369954/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-albonotatus/4.jpg
+  page: https://www.inaturalist.org/photos/634098656
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634098656/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-albonotatus/5.jpg
+  page: https://www.inaturalist.org/photos/656472932
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656472932/original.jpg
 ---
 
 

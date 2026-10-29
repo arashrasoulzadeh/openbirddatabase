@@ -142,8 +142,35 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/chaetura-egregia/1.jpg
+  page: https://www.inaturalist.org/photos/591636791
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636791/original.jpg
+images:
+- file: images/apodiformes/apodidae/chaetura-egregia/1.jpg
+  page: https://www.inaturalist.org/photos/591636791
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636791/original.jpg
+- file: images/apodiformes/apodidae/chaetura-egregia/2.jpg
+  page: https://www.inaturalist.org/photos/348904109
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348904109/original.jpg
+- file: images/apodiformes/apodidae/chaetura-egregia/3.jpg
+  page: https://www.inaturalist.org/photos/18607963
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/18607963/original.jpg
 ---
 
 

@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/psittaciformes/psittaculidae/neopsephotus-bourkii/1.jpg
+  page: https://www.inaturalist.org/photos/586864052
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586864052/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/neopsephotus-bourkii/1.jpg
+  page: https://www.inaturalist.org/photos/586864052
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586864052/original.jpg
+- file: images/psittaciformes/psittaculidae/neopsephotus-bourkii/2.jpg
+  page: https://www.inaturalist.org/photos/439333703
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333703/original.jpg
+- file: images/psittaciformes/psittaculidae/neopsephotus-bourkii/3.jpg
+  page: https://www.inaturalist.org/photos/586864073
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586864073/original.jpg
+- file: images/psittaciformes/psittaculidae/neopsephotus-bourkii/4.jpg
+  page: https://www.inaturalist.org/photos/586864131
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586864131/original.jpg
+- file: images/psittaciformes/psittaculidae/neopsephotus-bourkii/5.jpg
+  page: https://www.inaturalist.org/photos/586864162
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586864162/original.jpg
 ---
 
 

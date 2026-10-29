@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/charadriiformes/alcidae/aethia-cristatella/1.jpg
+  page: https://www.inaturalist.org/photos/677428120
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677428120/original.jpg
+images:
+- file: images/charadriiformes/alcidae/aethia-cristatella/1.jpg
+  page: https://www.inaturalist.org/photos/677428120
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677428120/original.jpg
+- file: images/charadriiformes/alcidae/aethia-cristatella/2.jpg
+  page: https://www.inaturalist.org/photos/688371584
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688371584/original.jpg
+- file: images/charadriiformes/alcidae/aethia-cristatella/3.jpg
+  page: https://www.inaturalist.org/photos/713607841
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713607841/original.jpg
+- file: images/charadriiformes/alcidae/aethia-cristatella/4.jpg
+  page: https://www.inaturalist.org/photos/721098445
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721098445/original.jpg
+- file: images/charadriiformes/alcidae/aethia-cristatella/5.jpg
+  page: https://www.inaturalist.org/photos/726854891
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726854891/original.jpg
 ---
 
 

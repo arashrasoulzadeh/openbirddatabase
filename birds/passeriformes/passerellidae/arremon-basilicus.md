@@ -135,8 +135,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-basilicus/1.jpg
+  page: https://www.inaturalist.org/photos/691075365
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691075365/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-basilicus/1.jpg
+  page: https://www.inaturalist.org/photos/691075365
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691075365/original.jpg
+- file: images/passeriformes/passerellidae/arremon-basilicus/2.jpg
+  page: https://www.inaturalist.org/photos/695979459
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695979459/original.jpg
+- file: images/passeriformes/passerellidae/arremon-basilicus/3.jpg
+  page: https://www.inaturalist.org/photos/733730598
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733730598/original.jpg
+- file: images/passeriformes/passerellidae/arremon-basilicus/4.jpg
+  page: https://www.inaturalist.org/photos/738257100
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738257100/original.jpg
+- file: images/passeriformes/passerellidae/arremon-basilicus/5.jpg
+  page: https://www.inaturalist.org/photos/477418825
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477418825/original.jpeg
 ---
 
 

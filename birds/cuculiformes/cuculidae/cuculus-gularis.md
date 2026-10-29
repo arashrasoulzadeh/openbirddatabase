@@ -173,10 +173,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/cuculiformes/cuculidae/cuculus-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/625635449
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625635449/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/625635449
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625635449/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/602847448
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602847448/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/660367374
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660367374/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/394168847
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394168847/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/440850966
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440850966/original.jpeg
 ---
 
 

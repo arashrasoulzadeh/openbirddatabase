@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/698646984
+  author: stli_
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698646984/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/698646984
+  author: stli_
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698646984/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/632528978
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632528978/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/632528979
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632528979/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/632528983
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632528983/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/632529003
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632529003/original.jpg
 ---
 
 

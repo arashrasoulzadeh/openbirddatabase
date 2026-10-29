@@ -127,7 +127,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 43.7
@@ -139,6 +140,44 @@ demography:
   max_longevity_years: 9
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/paradisaeidae/ptiloris-victoriae/1.jpg
+  page: https://www.inaturalist.org/photos/631309833
+  author: Ian Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631309833/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/ptiloris-victoriae/1.jpg
+  page: https://www.inaturalist.org/photos/631309833
+  author: Ian Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631309833/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-victoriae/2.jpg
+  page: https://www.inaturalist.org/photos/664856119
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664856119/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-victoriae/3.jpg
+  page: https://www.inaturalist.org/photos/705892335
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705892335/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-victoriae/4.jpg
+  page: https://www.inaturalist.org/photos/718953759
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718953759/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-victoriae/5.jpg
+  page: https://www.inaturalist.org/photos/725062458
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725062458/original.jpg
 ---
 
 

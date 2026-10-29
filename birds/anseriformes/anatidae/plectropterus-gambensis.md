@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/anseriformes/anatidae/plectropterus-gambensis/1.jpg
+  page: https://www.inaturalist.org/photos/610988751
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610988751/original.jpg
+images:
+- file: images/anseriformes/anatidae/plectropterus-gambensis/1.jpg
+  page: https://www.inaturalist.org/photos/610988751
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610988751/original.jpg
+- file: images/anseriformes/anatidae/plectropterus-gambensis/2.jpg
+  page: https://www.inaturalist.org/photos/613372143
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613372143/original.jpg
+- file: images/anseriformes/anatidae/plectropterus-gambensis/3.jpg
+  page: https://www.inaturalist.org/photos/613377549
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613377549/original.jpg
+- file: images/anseriformes/anatidae/plectropterus-gambensis/4.jpg
+  page: https://www.inaturalist.org/photos/624182148
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624182148/original.jpg
+- file: images/anseriformes/anatidae/plectropterus-gambensis/5.jpg
+  page: https://www.inaturalist.org/photos/624182164
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624182164/original.jpg
 ---
 
 

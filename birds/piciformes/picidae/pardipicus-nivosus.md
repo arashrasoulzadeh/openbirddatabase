@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/pardipicus-nivosus/1.jpg
+  page: https://www.inaturalist.org/photos/594613749
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613749/original.jpg
+images:
+- file: images/piciformes/picidae/pardipicus-nivosus/1.jpg
+  page: https://www.inaturalist.org/photos/594613749
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613749/original.jpg
+- file: images/piciformes/picidae/pardipicus-nivosus/2.jpg
+  page: https://www.inaturalist.org/photos/253595800
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/253595800/original.jpeg
+- file: images/piciformes/picidae/pardipicus-nivosus/3.jpg
+  page: https://www.inaturalist.org/photos/344850571
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344850571/original.jpeg
+- file: images/piciformes/picidae/pardipicus-nivosus/4.jpg
+  page: https://www.inaturalist.org/photos/594613750
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613750/original.jpg
+- file: images/piciformes/picidae/pardipicus-nivosus/5.jpg
+  page: https://www.inaturalist.org/photos/594613752
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613752/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-correndera/1.jpg
+  page: https://www.inaturalist.org/photos/612745851
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612745851/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-correndera/1.jpg
+  page: https://www.inaturalist.org/photos/612745851
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612745851/original.jpg
+- file: images/passeriformes/motacillidae/anthus-correndera/2.jpg
+  page: https://www.inaturalist.org/photos/622975100
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622975100/original.jpg
+- file: images/passeriformes/motacillidae/anthus-correndera/3.jpg
+  page: https://www.inaturalist.org/photos/653260850
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653260850/original.jpg
+- file: images/passeriformes/motacillidae/anthus-correndera/4.jpg
+  page: https://www.inaturalist.org/photos/697782266
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697782266/original.jpg
+- file: images/passeriformes/motacillidae/anthus-correndera/5.jpg
+  page: https://www.inaturalist.org/photos/723859528
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723859528/original.jpg
 ---
 
 

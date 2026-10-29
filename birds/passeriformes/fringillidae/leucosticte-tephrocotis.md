@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/fringillidae/leucosticte-tephrocotis/1.jpg
+  page: https://www.inaturalist.org/photos/605179117
+  author: Hunter Hickok
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605179117/original.jpg
+images:
+- file: images/passeriformes/fringillidae/leucosticte-tephrocotis/1.jpg
+  page: https://www.inaturalist.org/photos/605179117
+  author: Hunter Hickok
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605179117/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-tephrocotis/2.jpg
+  page: https://www.inaturalist.org/photos/625236011
+  author: Wes Gapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625236011/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-tephrocotis/3.jpg
+  page: https://www.inaturalist.org/photos/647724476
+  author: Pam Hardy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647724476/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-tephrocotis/4.jpg
+  page: https://www.inaturalist.org/photos/685612371
+  author: Callisto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685612371/original.jpg
+- file: images/passeriformes/fringillidae/leucosticte-tephrocotis/5.jpg
+  page: https://www.inaturalist.org/photos/692138715
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692138715/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hirundinea-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/604807287
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604807287/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/hirundinea-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/604807287
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604807287/original.jpg
+- file: images/passeriformes/tyrannidae/hirundinea-ferruginea/2.jpg
+  page: https://www.inaturalist.org/photos/608237202
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608237202/original.jpg
+- file: images/passeriformes/tyrannidae/hirundinea-ferruginea/3.jpg
+  page: https://www.inaturalist.org/photos/609320662
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320662/original.jpg
+- file: images/passeriformes/tyrannidae/hirundinea-ferruginea/4.jpg
+  page: https://www.inaturalist.org/photos/608507352
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608507352/original.jpg
+- file: images/passeriformes/tyrannidae/hirundinea-ferruginea/5.jpg
+  page: https://www.inaturalist.org/photos/612788034
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612788034/original.jpg
 ---
 
 

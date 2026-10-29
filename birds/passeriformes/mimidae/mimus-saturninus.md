@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/mimus-saturninus/1.jpg
+  page: https://www.inaturalist.org/photos/604769783
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604769783/original.jpg
+images:
+- file: images/passeriformes/mimidae/mimus-saturninus/1.jpg
+  page: https://www.inaturalist.org/photos/604769783
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604769783/original.jpg
+- file: images/passeriformes/mimidae/mimus-saturninus/2.jpg
+  page: https://www.inaturalist.org/photos/605192303
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605192303/original.jpg
+- file: images/passeriformes/mimidae/mimus-saturninus/3.jpg
+  page: https://www.inaturalist.org/photos/605552771
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605552771/original.jpg
+- file: images/passeriformes/mimidae/mimus-saturninus/4.jpg
+  page: https://www.inaturalist.org/photos/605492034
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492034/original.jpg
+- file: images/passeriformes/mimidae/mimus-saturninus/5.jpg
+  page: https://www.inaturalist.org/photos/605108048
+  author: Agustina Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605108048/original.jpg
 ---
 
 

@@ -163,7 +163,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 52.1
@@ -175,6 +176,44 @@ demography:
   max_longevity_years: 32
 reproduction:
   clutch_size_mean: 2.2
+image:
+  file: images/charadriiformes/laridae/chroicocephalus-genei/1.jpg
+  page: https://www.inaturalist.org/photos/605750375
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605750375/original.jpg
+images:
+- file: images/charadriiformes/laridae/chroicocephalus-genei/1.jpg
+  page: https://www.inaturalist.org/photos/605750375
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605750375/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-genei/2.jpg
+  page: https://www.inaturalist.org/photos/609241449
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609241449/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-genei/3.jpg
+  page: https://www.inaturalist.org/photos/614231316
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231316/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-genei/4.jpg
+  page: https://www.inaturalist.org/photos/619033106
+  author: Giorgio Zavattoni
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619033106/original.jpg
+- file: images/charadriiformes/laridae/chroicocephalus-genei/5.jpg
+  page: https://www.inaturalist.org/photos/612739617
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612739617/original.jpg
 ---
 
 

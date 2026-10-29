@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cichladusa-arquata/1.jpg
+  page: https://www.inaturalist.org/photos/616327974
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616327974/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cichladusa-arquata/1.jpg
+  page: https://www.inaturalist.org/photos/616327974
+  author: Andy Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616327974/original.jpg
+- file: images/passeriformes/muscicapidae/cichladusa-arquata/2.jpg
+  page: https://www.inaturalist.org/photos/664943808
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664943808/original.jpg
+- file: images/passeriformes/muscicapidae/cichladusa-arquata/3.jpg
+  page: https://www.inaturalist.org/photos/719890628
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719890628/original.jpg
+- file: images/passeriformes/muscicapidae/cichladusa-arquata/4.jpg
+  page: https://www.inaturalist.org/photos/741021348
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741021348/original.jpg
+- file: images/passeriformes/muscicapidae/cichladusa-arquata/5.jpg
+  page: https://www.inaturalist.org/photos/534251762
+  author: Paco Cardenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534251762/original.jpg
 ---
 
 

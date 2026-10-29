@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-hypoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/613078243
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613078243/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-hypoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/613078243
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613078243/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-hypoxantha/2.jpg
+  page: https://www.inaturalist.org/photos/745086532
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745086532/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-hypoxantha/3.jpg
+  page: https://www.inaturalist.org/photos/477721925
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477721925/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-hypoxantha/4.jpg
+  page: https://www.inaturalist.org/photos/583052413
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583052413/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-hypoxantha/5.jpg
+  page: https://www.inaturalist.org/photos/597711189
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597711189/original.jpg
 ---
 
 

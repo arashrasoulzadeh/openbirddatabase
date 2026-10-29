@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/yuhina-brunneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/607887088
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607887088/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/yuhina-brunneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/607887088
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607887088/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-brunneiceps/2.jpg
+  page: https://www.inaturalist.org/photos/624877802
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624877802/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-brunneiceps/3.jpg
+  page: https://www.inaturalist.org/photos/621931106
+  author: Carman Chew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621931106/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-brunneiceps/4.jpg
+  page: https://www.inaturalist.org/photos/621931125
+  author: Carman Chew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621931125/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-brunneiceps/5.jpg
+  page: https://www.inaturalist.org/photos/621931214
+  author: Carman Chew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621931214/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/argya-squamiceps/1.jpg
+  page: https://www.inaturalist.org/photos/616448804
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616448804/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/argya-squamiceps/1.jpg
+  page: https://www.inaturalist.org/photos/616448804
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616448804/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-squamiceps/2.jpg
+  page: https://www.inaturalist.org/photos/639537654
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639537654/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-squamiceps/3.jpg
+  page: https://www.inaturalist.org/photos/740374531
+  author: yelena_antipova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740374531/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-squamiceps/4.jpg
+  page: https://www.inaturalist.org/photos/616448856
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616448856/original.jpg
+- file: images/passeriformes/leiothrichidae/argya-squamiceps/5.jpg
+  page: https://www.inaturalist.org/photos/687241539
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687241539/original.jpg
 ---
 
 

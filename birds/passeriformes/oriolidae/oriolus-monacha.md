@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-monacha/1.jpg
+  page: https://www.inaturalist.org/photos/604702906
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702906/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-monacha/1.jpg
+  page: https://www.inaturalist.org/photos/604702906
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702906/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-monacha/2.jpg
+  page: https://www.inaturalist.org/photos/29409576
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29409576/original.jpeg
+- file: images/passeriformes/oriolidae/oriolus-monacha/3.jpg
+  page: https://www.inaturalist.org/photos/604702918
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702918/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-monacha/4.jpg
+  page: https://www.inaturalist.org/photos/604702916
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702916/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-monacha/5.jpg
+  page: https://www.inaturalist.org/photos/604695708
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604695708/original.jpg
 ---
 
 

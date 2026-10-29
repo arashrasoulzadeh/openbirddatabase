@@ -128,8 +128,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/622976533
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622976533/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/622976533
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622976533/original.jpg
+- file: images/passeriformes/motacillidae/anthus-brevirostris/2.jpg
+  page: https://www.inaturalist.org/photos/490737411
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490737411/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-brevirostris/3.jpg
+  page: https://www.inaturalist.org/photos/496772204
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496772204/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-brevirostris/4.jpg
+  page: https://www.inaturalist.org/photos/243686104
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243686104/original.jpg
+- file: images/passeriformes/motacillidae/anthus-brevirostris/5.jpg
+  page: https://www.inaturalist.org/photos/622976532
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622976532/original.jpg
 ---
 
 

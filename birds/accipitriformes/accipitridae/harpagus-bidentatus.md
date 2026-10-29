@@ -160,8 +160,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/harpagus-bidentatus/1.jpg
+  page: https://www.inaturalist.org/photos/608235788
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608235788/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/harpagus-bidentatus/1.jpg
+  page: https://www.inaturalist.org/photos/608235788
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608235788/original.jpg
+- file: images/accipitriformes/accipitridae/harpagus-bidentatus/2.jpg
+  page: https://www.inaturalist.org/photos/611465677
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611465677/original.jpg
+- file: images/accipitriformes/accipitridae/harpagus-bidentatus/3.jpg
+  page: https://www.inaturalist.org/photos/617327328
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617327328/original.jpg
+- file: images/accipitriformes/accipitridae/harpagus-bidentatus/4.jpg
+  page: https://www.inaturalist.org/photos/613970803
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613970803/original.jpg
+- file: images/accipitriformes/accipitridae/harpagus-bidentatus/5.jpg
+  page: https://www.inaturalist.org/photos/614777806
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614777806/original.jpg
 ---
 
 

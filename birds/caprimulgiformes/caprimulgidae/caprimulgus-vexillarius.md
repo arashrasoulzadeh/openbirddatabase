@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-vexillarius/1.jpg
+  page: https://www.inaturalist.org/photos/564726283
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564726283/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-vexillarius/1.jpg
+  page: https://www.inaturalist.org/photos/564726283
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564726283/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-vexillarius/2.jpg
+  page: https://www.inaturalist.org/photos/594656254
+  author: johanj56
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594656254/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-vexillarius/3.jpg
+  page: https://www.inaturalist.org/photos/643511746
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643511746/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-vexillarius/4.jpg
+  page: https://www.inaturalist.org/photos/256939827
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256939827/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-vexillarius/5.jpg
+  page: https://www.inaturalist.org/photos/333313876
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/333313876/original.jpg
 ---
 
 

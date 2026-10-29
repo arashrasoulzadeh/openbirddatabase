@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-prunellei/1.jpg
+  page: https://www.inaturalist.org/photos/616739996
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616739996/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-prunellei/1.jpg
+  page: https://www.inaturalist.org/photos/616739996
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616739996/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-prunellei/2.jpg
+  page: https://www.inaturalist.org/photos/489328667
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489328667/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-prunellei/3.jpg
+  page: https://www.inaturalist.org/photos/586455402
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586455402/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-prunellei/4.jpg
+  page: https://www.inaturalist.org/photos/361103419
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361103419/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-prunellei/5.jpg
+  page: https://www.inaturalist.org/photos/291958558
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/291958558/original.jpeg
 ---
 
 

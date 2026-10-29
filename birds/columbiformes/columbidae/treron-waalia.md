@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-waalia/1.jpg
+  page: https://www.inaturalist.org/photos/612504748
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612504748/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-waalia/1.jpg
+  page: https://www.inaturalist.org/photos/612504748
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612504748/original.jpg
+- file: images/columbiformes/columbidae/treron-waalia/2.jpg
+  page: https://www.inaturalist.org/photos/607964987
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607964987/original.jpg
+- file: images/columbiformes/columbidae/treron-waalia/3.jpg
+  page: https://www.inaturalist.org/photos/566386924
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566386924/original.jpg
+- file: images/columbiformes/columbidae/treron-waalia/4.jpg
+  page: https://www.inaturalist.org/photos/605507460
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605507460/original.jpg
+- file: images/columbiformes/columbidae/treron-waalia/5.jpg
+  page: https://www.inaturalist.org/photos/345228597
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345228597/original.jpeg
 ---
 
 

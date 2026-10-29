@@ -141,10 +141,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/acanthizidae/gerygone-tenebrosa/1.jpg
+  page: https://www.inaturalist.org/photos/669398756
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669398756/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/gerygone-tenebrosa/1.jpg
+  page: https://www.inaturalist.org/photos/669398756
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669398756/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-tenebrosa/2.jpg
+  page: https://www.inaturalist.org/photos/434688825
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434688825/original.jpeg
+- file: images/passeriformes/acanthizidae/gerygone-tenebrosa/3.jpg
+  page: https://www.inaturalist.org/photos/341531811
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341531811/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-tenebrosa/4.jpg
+  page: https://www.inaturalist.org/photos/113747809
+  author: Kerri-Lee Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113747809/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-tenebrosa/5.jpg
+  page: https://www.inaturalist.org/photos/434693016
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434693016/original.jpeg
 ---
 
 

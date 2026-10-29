@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-glauca/1.jpg
+  page: https://www.inaturalist.org/photos/626231152
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626231152/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-glauca/1.jpg
+  page: https://www.inaturalist.org/photos/626231152
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626231152/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-glauca/2.jpg
+  page: https://www.inaturalist.org/photos/341975372
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341975372/original.jpeg
+- file: images/passeriformes/thraupidae/diglossa-glauca/3.jpg
+  page: https://www.inaturalist.org/photos/336881915
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336881915/original.jpeg
+- file: images/passeriformes/thraupidae/diglossa-glauca/4.jpg
+  page: https://www.inaturalist.org/photos/242759766
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242759766/original.jpeg
+- file: images/passeriformes/thraupidae/diglossa-glauca/5.jpg
+  page: https://www.inaturalist.org/photos/299015003
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/299015003/original.jpg
 ---
 
 

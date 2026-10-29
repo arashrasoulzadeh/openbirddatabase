@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/anthracoceros-marchei/1.jpg
+  page: https://www.inaturalist.org/photos/607547597
+  author: Andreas Manz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607547597/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/anthracoceros-marchei/1.jpg
+  page: https://www.inaturalist.org/photos/607547597
+  author: Andreas Manz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607547597/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-marchei/2.jpg
+  page: https://www.inaturalist.org/photos/627753070
+  author: J. H.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627753070/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-marchei/3.jpg
+  page: https://www.inaturalist.org/photos/375582799
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375582799/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-marchei/4.jpg
+  page: https://www.inaturalist.org/photos/244617990
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244617990/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-marchei/5.jpg
+  page: https://www.inaturalist.org/photos/339802826
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339802826/original.jpeg
 ---
 
 

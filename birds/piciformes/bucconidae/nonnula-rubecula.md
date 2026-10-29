@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/nonnula-rubecula/1.jpg
+  page: https://www.inaturalist.org/photos/641038994
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641038994/original.jpg
+images:
+- file: images/piciformes/bucconidae/nonnula-rubecula/1.jpg
+  page: https://www.inaturalist.org/photos/641038994
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641038994/original.jpg
+- file: images/piciformes/bucconidae/nonnula-rubecula/2.jpg
+  page: https://www.inaturalist.org/photos/743422116
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743422116/original.jpg
+- file: images/piciformes/bucconidae/nonnula-rubecula/3.jpg
+  page: https://www.inaturalist.org/photos/501823511
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501823511/original.jpeg
+- file: images/piciformes/bucconidae/nonnula-rubecula/4.jpg
+  page: https://www.inaturalist.org/photos/560352211
+  author: Gabriel Brachetti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560352211/original.jpg
+- file: images/piciformes/bucconidae/nonnula-rubecula/5.jpg
+  page: https://www.inaturalist.org/photos/559574573
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559574573/original.jpg
 ---
 
 

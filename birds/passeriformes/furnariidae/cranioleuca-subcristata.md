@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cranioleuca-subcristata/1.jpg
+  page: https://www.inaturalist.org/photos/317321640
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/317321640/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cranioleuca-subcristata/1.jpg
+  page: https://www.inaturalist.org/photos/317321640
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/317321640/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-subcristata/2.jpg
+  page: https://www.inaturalist.org/photos/112829545
+  author: Henrry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/112829545/original.jpeg
+- file: images/passeriformes/furnariidae/cranioleuca-subcristata/3.jpg
+  page: https://www.inaturalist.org/photos/86275516
+  author: Mati Aristeguieta P.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/86275516/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-subcristata/4.jpg
+  page: https://www.inaturalist.org/photos/33531141
+  author: Julio Puentes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/33531141/original.jpeg
+- file: images/passeriformes/furnariidae/cranioleuca-subcristata/5.jpg
+  page: https://www.inaturalist.org/photos/317321687
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/317321687/original.jpg
 ---
 
 

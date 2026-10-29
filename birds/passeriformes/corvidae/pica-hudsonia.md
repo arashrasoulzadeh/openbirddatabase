@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/corvidae/pica-hudsonia/1.jpg
+  page: https://www.inaturalist.org/photos/604841703
+  author: Kenzie Anderson-Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604841703/original.jpg
+images:
+- file: images/passeriformes/corvidae/pica-hudsonia/1.jpg
+  page: https://www.inaturalist.org/photos/604841703
+  author: Kenzie Anderson-Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604841703/original.jpg
+- file: images/passeriformes/corvidae/pica-hudsonia/2.jpg
+  page: https://www.inaturalist.org/photos/605206997
+  author: Daryl Nolan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605206997/original.jpg
+- file: images/passeriformes/corvidae/pica-hudsonia/3.jpg
+  page: https://www.inaturalist.org/photos/605454560
+  author: Kallum McDonald
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605454560/original.jpg
+- file: images/passeriformes/corvidae/pica-hudsonia/4.jpg
+  page: https://www.inaturalist.org/photos/605161085
+  author: Sean Frey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605161085/original.jpg
+- file: images/passeriformes/corvidae/pica-hudsonia/5.jpg
+  page: https://www.inaturalist.org/photos/605699062
+  author: Connor Sites-Bowen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605699062/original.jpg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/brotogeris-jugularis/1.jpg
+  page: https://www.inaturalist.org/photos/606893678
+  author: Louis Imbeau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606893678/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/brotogeris-jugularis/1.jpg
+  page: https://www.inaturalist.org/photos/606893678
+  author: Louis Imbeau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606893678/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-jugularis/2.jpg
+  page: https://www.inaturalist.org/photos/608712689
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608712689/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-jugularis/3.jpg
+  page: https://www.inaturalist.org/photos/608703575
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608703575/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-jugularis/4.jpg
+  page: https://www.inaturalist.org/photos/610503260
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503260/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-jugularis/5.jpg
+  page: https://www.inaturalist.org/photos/608364007
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608364007/original.jpg
 ---
 
 

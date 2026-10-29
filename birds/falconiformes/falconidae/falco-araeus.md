@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-araeus/1.jpg
+  page: https://www.inaturalist.org/photos/453459851
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453459851/original.jpeg
+images:
+- file: images/falconiformes/falconidae/falco-araeus/1.jpg
+  page: https://www.inaturalist.org/photos/453459851
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453459851/original.jpeg
+- file: images/falconiformes/falconidae/falco-araeus/2.jpg
+  page: https://www.inaturalist.org/photos/292475812
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/292475812/original.jpg
+- file: images/falconiformes/falconidae/falco-araeus/3.jpg
+  page: https://www.inaturalist.org/photos/63243947
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/63243947/original.jpg
+- file: images/falconiformes/falconidae/falco-araeus/4.jpg
+  page: https://www.inaturalist.org/photos/17336638
+  author: James Hardcastle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17336638/original.jpg
+- file: images/falconiformes/falconidae/falco-araeus/5.jpg
+  page: https://www.inaturalist.org/photos/453459855
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453459855/original.jpeg
 ---
 
 

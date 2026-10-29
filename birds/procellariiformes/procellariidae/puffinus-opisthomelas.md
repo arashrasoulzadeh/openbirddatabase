@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 51
+image:
+  file: images/procellariiformes/procellariidae/puffinus-opisthomelas/1.jpg
+  page: https://www.inaturalist.org/photos/609136060
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609136060/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/puffinus-opisthomelas/1.jpg
+  page: https://www.inaturalist.org/photos/609136060
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609136060/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-opisthomelas/2.jpg
+  page: https://www.inaturalist.org/photos/622225281
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622225281/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-opisthomelas/3.jpg
+  page: https://www.inaturalist.org/photos/622604785
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622604785/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-opisthomelas/4.jpg
+  page: https://www.inaturalist.org/photos/623051970
+  author: Daniela Gámez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623051970/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-opisthomelas/5.jpg
+  page: https://www.inaturalist.org/photos/609136062
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609136062/original.jpg
 ---
 
 

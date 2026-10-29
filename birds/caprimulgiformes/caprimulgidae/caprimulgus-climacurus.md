@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-climacurus/1.jpg
+  page: https://www.inaturalist.org/photos/470447602
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470447602/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-climacurus/1.jpg
+  page: https://www.inaturalist.org/photos/470447602
+  author: Florin Feneru
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470447602/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-climacurus/2.jpg
+  page: https://www.inaturalist.org/photos/473602403
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473602403/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-climacurus/3.jpg
+  page: https://www.inaturalist.org/photos/475635418
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475635418/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-climacurus/4.jpg
+  page: https://www.inaturalist.org/photos/353558545
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353558545/original.png
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-climacurus/5.jpg
+  page: https://www.inaturalist.org/photos/364016996
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364016996/original.jpg
 ---
 
 

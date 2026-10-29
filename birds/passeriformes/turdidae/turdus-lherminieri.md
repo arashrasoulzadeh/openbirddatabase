@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-lherminieri/1.jpg
+  page: https://www.inaturalist.org/photos/473780073
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473780073/original.jpeg
+images:
+- file: images/passeriformes/turdidae/turdus-lherminieri/1.jpg
+  page: https://www.inaturalist.org/photos/473780073
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473780073/original.jpeg
+- file: images/passeriformes/turdidae/turdus-lherminieri/2.jpg
+  page: https://www.inaturalist.org/photos/345765095
+  author: Louis Imbeau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345765095/original.jpeg
+- file: images/passeriformes/turdidae/turdus-lherminieri/3.jpg
+  page: https://www.inaturalist.org/photos/190733746
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190733746/original.jpeg
+- file: images/passeriformes/turdidae/turdus-lherminieri/4.jpg
+  page: https://www.inaturalist.org/photos/473780090
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473780090/original.jpeg
+- file: images/passeriformes/turdidae/turdus-lherminieri/5.jpg
+  page: https://www.inaturalist.org/photos/473780089
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473780089/original.jpeg
 ---
 
 

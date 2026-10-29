@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-meyeri/1.jpg
+  page: https://www.inaturalist.org/photos/624315931
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624315931/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-meyeri/1.jpg
+  page: https://www.inaturalist.org/photos/624315931
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624315931/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-meyeri/2.jpg
+  page: https://www.inaturalist.org/photos/624315945
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624315945/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-meyeri/3.jpg
+  page: https://www.inaturalist.org/photos/624315966
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624315966/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-meyeri/4.jpg
+  page: https://www.inaturalist.org/photos/624316000
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624316000/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-meyeri/5.jpg
+  page: https://www.inaturalist.org/photos/624315991
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624315991/original.jpg
 ---
 
 

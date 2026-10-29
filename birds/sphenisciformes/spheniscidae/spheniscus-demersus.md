@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/sphenisciformes/spheniscidae/spheniscus-demersus/1.jpg
+  page: https://www.inaturalist.org/photos/611413355
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611413355/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/spheniscus-demersus/1.jpg
+  page: https://www.inaturalist.org/photos/611413355
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611413355/original.jpg
+- file: images/sphenisciformes/spheniscidae/spheniscus-demersus/2.jpg
+  page: https://www.inaturalist.org/photos/612376239
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612376239/original.jpg
+- file: images/sphenisciformes/spheniscidae/spheniscus-demersus/3.jpg
+  page: https://www.inaturalist.org/photos/616026667
+  author: William Keenan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616026667/original.jpg
+- file: images/sphenisciformes/spheniscidae/spheniscus-demersus/4.jpg
+  page: https://www.inaturalist.org/photos/618018046
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618018046/original.jpg
+- file: images/sphenisciformes/spheniscidae/spheniscus-demersus/5.jpg
+  page: https://www.inaturalist.org/photos/624552410
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624552410/original.jpg
 ---
 
 

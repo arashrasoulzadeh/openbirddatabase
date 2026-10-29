@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-francicus/1.jpg
+  page: https://www.inaturalist.org/photos/680956703
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680956703/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-francicus/1.jpg
+  page: https://www.inaturalist.org/photos/680956703
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680956703/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-francicus/2.jpg
+  page: https://www.inaturalist.org/photos/464933252
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464933252/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-francicus/3.jpg
+  page: https://www.inaturalist.org/photos/468572102
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468572102/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-francicus/4.jpg
+  page: https://www.inaturalist.org/photos/531390897
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531390897/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-francicus/5.jpg
+  page: https://www.inaturalist.org/photos/434799312
+  author: Matthew Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434799312/original.jpg
 ---
 
 

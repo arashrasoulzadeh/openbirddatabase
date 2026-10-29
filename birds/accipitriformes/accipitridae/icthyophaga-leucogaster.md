@@ -133,8 +133,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/accipitriformes/accipitridae/icthyophaga-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/605422323
+  author: Sofia Zvolanek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605422323/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/icthyophaga-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/605422323
+  author: Sofia Zvolanek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605422323/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-leucogaster/2.jpg
+  page: https://www.inaturalist.org/photos/604995691
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604995691/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-leucogaster/3.jpg
+  page: https://www.inaturalist.org/photos/608554414
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608554414/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-leucogaster/4.jpg
+  page: https://www.inaturalist.org/photos/609933597
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609933597/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-leucogaster/5.jpg
+  page: https://www.inaturalist.org/photos/608090847
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608090847/original.jpg
 ---
 
 

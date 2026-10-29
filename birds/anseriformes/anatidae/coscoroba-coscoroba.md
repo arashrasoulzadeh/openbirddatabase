@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/coscoroba-coscoroba/1.jpg
+  page: https://www.inaturalist.org/photos/607293910
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607293910/original.jpg
+images:
+- file: images/anseriformes/anatidae/coscoroba-coscoroba/1.jpg
+  page: https://www.inaturalist.org/photos/607293910
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607293910/original.jpg
+- file: images/anseriformes/anatidae/coscoroba-coscoroba/2.jpg
+  page: https://www.inaturalist.org/photos/609468440
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609468440/original.jpg
+- file: images/anseriformes/anatidae/coscoroba-coscoroba/3.jpg
+  page: https://www.inaturalist.org/photos/607976267
+  author: Paula Zermoglio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607976267/original.jpg
+- file: images/anseriformes/anatidae/coscoroba-coscoroba/4.jpg
+  page: https://www.inaturalist.org/photos/607441088
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607441088/original.jpg
+- file: images/anseriformes/anatidae/coscoroba-coscoroba/5.jpg
+  page: https://www.inaturalist.org/photos/611493648
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611493648/original.jpg
 ---
 
 

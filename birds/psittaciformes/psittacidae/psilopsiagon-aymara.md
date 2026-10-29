@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/psittaciformes/psittacidae/psilopsiagon-aymara/1.jpg
+  page: https://www.inaturalist.org/photos/621817193
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621817193/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/psilopsiagon-aymara/1.jpg
+  page: https://www.inaturalist.org/photos/621817193
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621817193/original.jpg
+- file: images/psittaciformes/psittacidae/psilopsiagon-aymara/2.jpg
+  page: https://www.inaturalist.org/photos/630906089
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630906089/original.jpg
+- file: images/psittaciformes/psittacidae/psilopsiagon-aymara/3.jpg
+  page: https://www.inaturalist.org/photos/650750041
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650750041/original.jpg
+- file: images/psittaciformes/psittacidae/psilopsiagon-aymara/4.jpg
+  page: https://www.inaturalist.org/photos/660703604
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660703604/original.jpg
+- file: images/psittaciformes/psittacidae/psilopsiagon-aymara/5.jpg
+  page: https://www.inaturalist.org/photos/727045916
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727045916/original.jpg
 ---
 
 

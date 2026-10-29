@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/vireonidae/vireo-latimeri/1.jpg
+  page: https://www.inaturalist.org/photos/680946635
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680946635/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-latimeri/1.jpg
+  page: https://www.inaturalist.org/photos/680946635
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680946635/original.jpg
+- file: images/passeriformes/vireonidae/vireo-latimeri/2.jpg
+  page: https://www.inaturalist.org/photos/694734317
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694734317/original.jpg
+- file: images/passeriformes/vireonidae/vireo-latimeri/3.jpg
+  page: https://www.inaturalist.org/photos/731243740
+  author: Ricardo siverio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731243740/original.jpg
+- file: images/passeriformes/vireonidae/vireo-latimeri/4.jpg
+  page: https://www.inaturalist.org/photos/366230305
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366230305/original.jpg
+- file: images/passeriformes/vireonidae/vireo-latimeri/5.jpg
+  page: https://www.inaturalist.org/photos/449553213
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/449553213/original.jpg
 ---
 
 

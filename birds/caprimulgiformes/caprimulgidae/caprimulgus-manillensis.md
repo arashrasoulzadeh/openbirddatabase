@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-manillensis/1.jpg
+  page: https://www.inaturalist.org/photos/364932098
+  author: Henry Calilung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364932098/original.jpeg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-manillensis/1.jpg
+  page: https://www.inaturalist.org/photos/364932098
+  author: Henry Calilung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364932098/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-manillensis/2.jpg
+  page: https://www.inaturalist.org/photos/455888853
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455888853/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-manillensis/3.jpg
+  page: https://www.inaturalist.org/photos/302396996
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/302396996/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-manillensis/4.jpg
+  page: https://www.inaturalist.org/photos/62581638
+  author: Paolo Co
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62581638/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-manillensis/5.jpg
+  page: https://www.inaturalist.org/photos/364932122
+  author: Henry Calilung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364932122/original.jpeg
 ---
 
 

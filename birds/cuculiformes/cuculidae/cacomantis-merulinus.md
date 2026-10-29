@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cacomantis-merulinus/1.jpg
+  page: https://www.inaturalist.org/photos/605821269
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605821269/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cacomantis-merulinus/1.jpg
+  page: https://www.inaturalist.org/photos/605821269
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605821269/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-merulinus/2.jpg
+  page: https://www.inaturalist.org/photos/609596368
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609596368/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-merulinus/3.jpg
+  page: https://www.inaturalist.org/photos/608814582
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608814582/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-merulinus/4.jpg
+  page: https://www.inaturalist.org/photos/622440359
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622440359/original.jpg
+- file: images/cuculiformes/cuculidae/cacomantis-merulinus/5.jpg
+  page: https://www.inaturalist.org/photos/628080018
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628080018/original.jpg
 ---
 
 

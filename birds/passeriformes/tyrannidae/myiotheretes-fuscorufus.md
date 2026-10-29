@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiotheretes-fuscorufus/1.jpg
+  page: https://www.inaturalist.org/photos/181874727
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181874727/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiotheretes-fuscorufus/1.jpg
+  page: https://www.inaturalist.org/photos/181874727
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181874727/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-fuscorufus/2.jpg
+  page: https://www.inaturalist.org/photos/224134725
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224134725/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-fuscorufus/3.jpg
+  page: https://www.inaturalist.org/photos/85487162
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/85487162/original.jpeg
+- file: images/passeriformes/tyrannidae/myiotheretes-fuscorufus/4.jpg
+  page: https://www.inaturalist.org/photos/116730546
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116730546/original.jpg
+- file: images/passeriformes/tyrannidae/myiotheretes-fuscorufus/5.jpg
+  page: https://www.inaturalist.org/photos/123799069
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/123799069/original.jpg
 ---
 
 

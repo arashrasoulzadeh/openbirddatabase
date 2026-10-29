@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/calandrella-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/610144070
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610144070/original.jpg
+images:
+- file: images/passeriformes/alaudidae/calandrella-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/610144070
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610144070/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/679439482
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679439482/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/636980080
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636980080/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/716628572
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716628572/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/733122315
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733122315/original.jpg
 ---
 
 

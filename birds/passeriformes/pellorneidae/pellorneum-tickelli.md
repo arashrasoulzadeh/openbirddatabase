@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pellorneidae/pellorneum-tickelli/1.jpg
+  page: https://www.inaturalist.org/photos/614220995
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614220995/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/pellorneum-tickelli/1.jpg
+  page: https://www.inaturalist.org/photos/614220995
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614220995/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-tickelli/2.jpg
+  page: https://www.inaturalist.org/photos/628077199
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077199/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-tickelli/3.jpg
+  page: https://www.inaturalist.org/photos/623518520
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623518520/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-tickelli/4.jpg
+  page: https://www.inaturalist.org/photos/631323282
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631323282/original.jpg
+- file: images/passeriformes/pellorneidae/pellorneum-tickelli/5.jpg
+  page: https://www.inaturalist.org/photos/736190430
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736190430/original.jpg
 ---
 
 

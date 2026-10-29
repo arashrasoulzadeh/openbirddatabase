@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/cyanoloxia-brissonii/1.jpg
+  page: https://www.inaturalist.org/photos/606650925
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606650925/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/cyanoloxia-brissonii/1.jpg
+  page: https://www.inaturalist.org/photos/606650925
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606650925/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-brissonii/2.jpg
+  page: https://www.inaturalist.org/photos/606172062
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606172062/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-brissonii/3.jpg
+  page: https://www.inaturalist.org/photos/612148696
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612148696/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-brissonii/4.jpg
+  page: https://www.inaturalist.org/photos/612838426
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612838426/original.jpg
+- file: images/passeriformes/cardinalidae/cyanoloxia-brissonii/5.jpg
+  page: https://www.inaturalist.org/photos/614205132
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205132/original.jpg
 ---
 
 

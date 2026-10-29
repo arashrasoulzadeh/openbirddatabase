@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/colaptes-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/610269164
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610269164/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/610269164
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610269164/original.jpg
+- file: images/piciformes/picidae/colaptes-campestris/2.jpg
+  page: https://www.inaturalist.org/photos/609049653
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609049653/original.jpg
+- file: images/piciformes/picidae/colaptes-campestris/3.jpg
+  page: https://www.inaturalist.org/photos/606038585
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606038585/original.jpg
+- file: images/piciformes/picidae/colaptes-campestris/4.jpg
+  page: https://www.inaturalist.org/photos/607440713
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607440713/original.jpg
+- file: images/piciformes/picidae/colaptes-campestris/5.jpg
+  page: https://www.inaturalist.org/photos/605985891
+  author: karuquebec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605985891/original.jpg
 ---
 
 

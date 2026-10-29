@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-japonica/1.jpg
+  page: https://www.inaturalist.org/photos/726867490
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726867490/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-japonica/1.jpg
+  page: https://www.inaturalist.org/photos/726867490
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726867490/original.jpg
+- file: images/strigiformes/strigidae/ninox-japonica/2.jpg
+  page: https://www.inaturalist.org/photos/526014922
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014922/original.jpg
+- file: images/strigiformes/strigidae/ninox-japonica/3.jpg
+  page: https://www.inaturalist.org/photos/468600502
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468600502/original.jpeg
+- file: images/strigiformes/strigidae/ninox-japonica/4.jpg
+  page: https://www.inaturalist.org/photos/481442799
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481442799/original.jpg
+- file: images/strigiformes/strigidae/ninox-japonica/5.jpg
+  page: https://www.inaturalist.org/photos/484691458
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484691458/original.jpeg
 ---
 
 

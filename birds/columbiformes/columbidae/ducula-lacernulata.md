@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-lacernulata/1.jpg
+  page: https://www.inaturalist.org/photos/279210487
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279210487/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-lacernulata/1.jpg
+  page: https://www.inaturalist.org/photos/279210487
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279210487/original.jpg
+- file: images/columbiformes/columbidae/ducula-lacernulata/2.jpg
+  page: https://www.inaturalist.org/photos/60368396
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60368396/original.jpeg
+- file: images/columbiformes/columbidae/ducula-lacernulata/3.jpg
+  page: https://www.inaturalist.org/photos/103433938
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103433938/original.jpeg
+- file: images/columbiformes/columbidae/ducula-lacernulata/4.jpg
+  page: https://www.inaturalist.org/photos/60368463
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60368463/original.jpeg
+- file: images/columbiformes/columbidae/ducula-lacernulata/5.jpg
+  page: https://www.inaturalist.org/photos/103433985
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103433985/original.jpeg
 ---
 
 

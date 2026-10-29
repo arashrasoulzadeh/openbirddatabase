@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/pipridae/chiroxiphia-pareola/1.jpg
+  page: https://www.inaturalist.org/photos/617330974
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617330974/original.jpg
+images:
+- file: images/passeriformes/pipridae/chiroxiphia-pareola/1.jpg
+  page: https://www.inaturalist.org/photos/617330974
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617330974/original.jpg
+- file: images/passeriformes/pipridae/chiroxiphia-pareola/2.jpg
+  page: https://www.inaturalist.org/photos/674832966
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674832966/original.jpg
+- file: images/passeriformes/pipridae/chiroxiphia-pareola/3.jpg
+  page: https://www.inaturalist.org/photos/630474771
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630474771/original.jpg
+- file: images/passeriformes/pipridae/chiroxiphia-pareola/4.jpg
+  page: https://www.inaturalist.org/photos/707430519
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707430519/original.jpg
+- file: images/passeriformes/pipridae/chiroxiphia-pareola/5.jpg
+  page: https://www.inaturalist.org/photos/470384252
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470384252/original.jpg
 ---
 
 

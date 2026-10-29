@@ -135,8 +135,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/hypsipetes-guimarasensis/1.jpg
+  page: https://www.inaturalist.org/photos/644192431
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644192431/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/hypsipetes-guimarasensis/1.jpg
+  page: https://www.inaturalist.org/photos/644192431
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644192431/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-guimarasensis/2.jpg
+  page: https://www.inaturalist.org/photos/457244420
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457244420/original.jpeg
+- file: images/passeriformes/pycnonotidae/hypsipetes-guimarasensis/3.jpg
+  page: https://www.inaturalist.org/photos/264807442
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264807442/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-guimarasensis/4.jpg
+  page: https://www.inaturalist.org/photos/644192562
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644192562/original.jpg
+- file: images/passeriformes/pycnonotidae/hypsipetes-guimarasensis/5.jpg
+  page: https://www.inaturalist.org/photos/645779329
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645779329/original.jpg
 ---
 
 

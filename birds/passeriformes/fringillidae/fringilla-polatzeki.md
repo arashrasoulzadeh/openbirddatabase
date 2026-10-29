@@ -134,8 +134,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/fringilla-polatzeki/1.jpg
+  page: https://www.inaturalist.org/photos/534046699
+  author: franciscodocampo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534046699/original.jpg
+images:
+- file: images/passeriformes/fringillidae/fringilla-polatzeki/1.jpg
+  page: https://www.inaturalist.org/photos/534046699
+  author: franciscodocampo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534046699/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-polatzeki/2.jpg
+  page: https://www.inaturalist.org/photos/603877612
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603877612/original.jpg
+- file: images/passeriformes/fringillidae/fringilla-polatzeki/3.jpg
+  page: https://www.inaturalist.org/photos/184460012
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184460012/original.jpeg
+- file: images/passeriformes/fringillidae/fringilla-polatzeki/4.jpg
+  page: https://www.inaturalist.org/photos/121317763
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/121317763/original.jpeg
+- file: images/passeriformes/fringillidae/fringilla-polatzeki/5.jpg
+  page: https://www.inaturalist.org/photos/184460019
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184460019/original.jpeg
 ---
 
 

@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-annectens/1.jpg
+  page: https://www.inaturalist.org/photos/737642540
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737642540/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-annectens/1.jpg
+  page: https://www.inaturalist.org/photos/737642540
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737642540/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-annectens/2.jpg
+  page: https://www.inaturalist.org/photos/483040484
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483040484/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-annectens/3.jpg
+  page: https://www.inaturalist.org/photos/599275091
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599275091/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-annectens/4.jpg
+  page: https://www.inaturalist.org/photos/589631442
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589631442/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-annectens/5.jpg
+  page: https://www.inaturalist.org/photos/592974359
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592974359/original.jpg
 ---
 
 

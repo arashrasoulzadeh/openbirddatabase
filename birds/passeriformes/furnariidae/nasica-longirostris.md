@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/nasica-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/482489353
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482489353/original.png
+images:
+- file: images/passeriformes/furnariidae/nasica-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/482489353
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482489353/original.png
+- file: images/passeriformes/furnariidae/nasica-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/558264621
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558264621/original.jpg
+- file: images/passeriformes/furnariidae/nasica-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/353798479
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353798479/original.jpeg
+- file: images/passeriformes/furnariidae/nasica-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/396893553
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/396893553/original.jpg
+- file: images/passeriformes/furnariidae/nasica-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/456916517
+  author: Renato Moraes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456916517/original.jpeg
 ---
 
 

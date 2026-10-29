@@ -145,8 +145,29 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/progne-modesta/1.jpg
+  page: https://www.inaturalist.org/photos/339602071
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339602071/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/progne-modesta/1.jpg
+  page: https://www.inaturalist.org/photos/339602071
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339602071/original.jpg
+- file: images/passeriformes/hirundinidae/progne-modesta/2.jpg
+  page: https://www.inaturalist.org/photos/109974847
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109974847/original.jpeg
 ---
 
 

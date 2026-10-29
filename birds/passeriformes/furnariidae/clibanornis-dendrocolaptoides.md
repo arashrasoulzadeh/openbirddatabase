@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/clibanornis-dendrocolaptoides/1.jpg
+  page: https://www.inaturalist.org/photos/726067139
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726067139/original.jpg
+images:
+- file: images/passeriformes/furnariidae/clibanornis-dendrocolaptoides/1.jpg
+  page: https://www.inaturalist.org/photos/726067139
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726067139/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-dendrocolaptoides/2.jpg
+  page: https://www.inaturalist.org/photos/506701507
+  author: Fernando Sessegolo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506701507/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-dendrocolaptoides/3.jpg
+  page: https://www.inaturalist.org/photos/428081419
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428081419/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-dendrocolaptoides/4.jpg
+  page: https://www.inaturalist.org/photos/726067144
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726067144/original.jpg
+- file: images/passeriformes/furnariidae/clibanornis-dendrocolaptoides/5.jpg
+  page: https://www.inaturalist.org/photos/726067159
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726067159/original.jpg
 ---
 
 

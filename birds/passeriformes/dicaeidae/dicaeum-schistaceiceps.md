@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 9.6
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 49.2
   tail_length_mm: 25.8
   body_mass_g: 8.9
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-schistaceiceps/1.jpg
+  page: https://www.inaturalist.org/photos/526334427
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334427/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-schistaceiceps/1.jpg
+  page: https://www.inaturalist.org/photos/526334427
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334427/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-schistaceiceps/2.jpg
+  page: https://www.inaturalist.org/photos/314220459
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314220459/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-schistaceiceps/3.jpg
+  page: https://www.inaturalist.org/photos/526334412
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334412/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-schistaceiceps/4.jpg
+  page: https://www.inaturalist.org/photos/526334424
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526334424/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-schistaceiceps/5.jpg
+  page: https://www.inaturalist.org/photos/314220458
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314220458/original.jpg
 ---
 
 

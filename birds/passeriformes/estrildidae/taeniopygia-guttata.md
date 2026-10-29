@@ -205,10 +205,37 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/estrildidae/taeniopygia-guttata/1.jpg
+  page: https://www.inaturalist.org/photos/606388898
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388898/original.jpg
+images:
+- file: images/passeriformes/estrildidae/taeniopygia-guttata/1.jpg
+  page: https://www.inaturalist.org/photos/606388898
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388898/original.jpg
+- file: images/passeriformes/estrildidae/taeniopygia-guttata/2.jpg
+  page: https://www.inaturalist.org/photos/615189836
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615189836/original.jpg
+- file: images/passeriformes/estrildidae/taeniopygia-guttata/3.jpg
+  page: https://www.inaturalist.org/photos/620018728
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620018728/original.jpg
 ---
 
 

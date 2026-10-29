@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/apterygiformes/apterygidae/apteryx-mantelli/1.jpg
+  page: https://www.inaturalist.org/photos/605315707
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605315707/original.jpg
+images:
+- file: images/apterygiformes/apterygidae/apteryx-mantelli/1.jpg
+  page: https://www.inaturalist.org/photos/605315707
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605315707/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-mantelli/2.jpg
+  page: https://www.inaturalist.org/photos/613120002
+  author: Kelvin Perrie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613120002/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-mantelli/3.jpg
+  page: https://www.inaturalist.org/photos/617692561
+  author: catchwords
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617692561/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-mantelli/4.jpg
+  page: https://www.inaturalist.org/photos/744164029
+  author: Jaco Grundling
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744164029/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-mantelli/5.jpg
+  page: https://www.inaturalist.org/photos/464432813
+  author: Carey_Knox_Southern_Scales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464432813/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chlorestes-eliciae/1.jpg
+  page: https://www.inaturalist.org/photos/605175703
+  author: cdn_explore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605175703/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chlorestes-eliciae/1.jpg
+  page: https://www.inaturalist.org/photos/605175703
+  author: cdn_explore
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605175703/original.jpg
+- file: images/apodiformes/trochilidae/chlorestes-eliciae/2.jpg
+  page: https://www.inaturalist.org/photos/605760569
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605760569/original.jpg
+- file: images/apodiformes/trochilidae/chlorestes-eliciae/3.jpg
+  page: https://www.inaturalist.org/photos/618432507
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618432507/original.jpg
+- file: images/apodiformes/trochilidae/chlorestes-eliciae/4.jpg
+  page: https://www.inaturalist.org/photos/616767813
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616767813/original.jpg
+- file: images/apodiformes/trochilidae/chlorestes-eliciae/5.jpg
+  page: https://www.inaturalist.org/photos/621324928
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621324928/original.jpg
 ---
 
 

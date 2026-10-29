@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/saltator-orenocensis/1.jpg
+  page: https://www.inaturalist.org/photos/691568671
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691568671/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-orenocensis/1.jpg
+  page: https://www.inaturalist.org/photos/691568671
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691568671/original.jpg
+- file: images/passeriformes/thraupidae/saltator-orenocensis/2.jpg
+  page: https://www.inaturalist.org/photos/698715849
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698715849/original.jpg
+- file: images/passeriformes/thraupidae/saltator-orenocensis/3.jpg
+  page: https://www.inaturalist.org/photos/469408266
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469408266/original.jpeg
+- file: images/passeriformes/thraupidae/saltator-orenocensis/4.jpg
+  page: https://www.inaturalist.org/photos/589850043
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589850043/original.jpg
+- file: images/passeriformes/thraupidae/saltator-orenocensis/5.jpg
+  page: https://www.inaturalist.org/photos/474224384
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474224384/original.jpg
 ---
 
 

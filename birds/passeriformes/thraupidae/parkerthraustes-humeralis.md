@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/parkerthraustes-humeralis/1.jpg
+  page: https://www.inaturalist.org/photos/548707421
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548707421/original.jpg
+images:
+- file: images/passeriformes/thraupidae/parkerthraustes-humeralis/1.jpg
+  page: https://www.inaturalist.org/photos/548707421
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548707421/original.jpg
+- file: images/passeriformes/thraupidae/parkerthraustes-humeralis/2.jpg
+  page: https://www.inaturalist.org/photos/440567640
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440567640/original.jpeg
+- file: images/passeriformes/thraupidae/parkerthraustes-humeralis/3.jpg
+  page: https://www.inaturalist.org/photos/471424878
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471424878/original.jpeg
+- file: images/passeriformes/thraupidae/parkerthraustes-humeralis/4.jpg
+  page: https://www.inaturalist.org/photos/429867450
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429867450/original.jpg
+- file: images/passeriformes/thraupidae/parkerthraustes-humeralis/5.jpg
+  page: https://www.inaturalist.org/photos/601360774
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601360774/original.jpg
 ---
 
 

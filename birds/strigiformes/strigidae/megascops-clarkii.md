@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-clarkii/1.jpg
+  page: https://www.inaturalist.org/photos/608427671
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608427671/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-clarkii/1.jpg
+  page: https://www.inaturalist.org/photos/608427671
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608427671/original.jpg
+- file: images/strigiformes/strigidae/megascops-clarkii/2.jpg
+  page: https://www.inaturalist.org/photos/654458272
+  author: Julia Pupko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654458272/original.jpg
+- file: images/strigiformes/strigidae/megascops-clarkii/3.jpg
+  page: https://www.inaturalist.org/photos/675773009
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675773009/original.jpg
+- file: images/strigiformes/strigidae/megascops-clarkii/4.jpg
+  page: https://www.inaturalist.org/photos/350273010
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350273010/original.jpg
+- file: images/strigiformes/strigidae/megascops-clarkii/5.jpg
+  page: https://www.inaturalist.org/photos/458904182
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458904182/original.jpg
 ---
 
 

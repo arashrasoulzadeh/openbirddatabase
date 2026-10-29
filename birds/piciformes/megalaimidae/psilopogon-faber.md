@@ -142,7 +142,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 24.3
@@ -150,6 +151,44 @@ morphology:
   wing_length_mm: 103.2
   tail_length_mm: 63.5
   body_mass_g: 87.7
+image:
+  file: images/piciformes/megalaimidae/psilopogon-faber/1.jpg
+  page: https://www.inaturalist.org/photos/614709618
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709618/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-faber/1.jpg
+  page: https://www.inaturalist.org/photos/614709618
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709618/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-faber/2.jpg
+  page: https://www.inaturalist.org/photos/607409074
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607409074/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-faber/3.jpg
+  page: https://www.inaturalist.org/photos/635068926
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635068926/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-faber/4.jpg
+  page: https://www.inaturalist.org/photos/614709619
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614709619/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-faber/5.jpg
+  page: https://www.inaturalist.org/photos/389025225
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/389025225/original.jpg
 ---
 
 

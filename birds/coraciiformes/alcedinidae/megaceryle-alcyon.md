@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/megaceryle-alcyon/1.jpg
+  page: https://www.inaturalist.org/photos/605742589
+  author: Liren Varghese
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605742589/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/megaceryle-alcyon/1.jpg
+  page: https://www.inaturalist.org/photos/605742589
+  author: Liren Varghese
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605742589/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-alcyon/2.jpg
+  page: https://www.inaturalist.org/photos/604533128
+  author: Conway Hawn
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604533128/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-alcyon/3.jpg
+  page: https://www.inaturalist.org/photos/604631741
+  author: saintaardvark
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604631741/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-alcyon/4.jpg
+  page: https://www.inaturalist.org/photos/605708034
+  author: dougbrown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605708034/original.jpg
+- file: images/coraciiformes/alcedinidae/megaceryle-alcyon/5.jpg
+  page: https://www.inaturalist.org/photos/605463959
+  author: James Weaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605463959/original.jpg
 ---
 
 

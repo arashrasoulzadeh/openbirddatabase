@@ -146,8 +146,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/dysithamnus-striaticeps/1.jpg
+  page: https://www.inaturalist.org/photos/608313500
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608313500/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/dysithamnus-striaticeps/1.jpg
+  page: https://www.inaturalist.org/photos/608313500
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608313500/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-striaticeps/2.jpg
+  page: https://www.inaturalist.org/photos/619096660
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619096660/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-striaticeps/3.jpg
+  page: https://www.inaturalist.org/photos/634705766
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634705766/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-striaticeps/4.jpg
+  page: https://www.inaturalist.org/photos/548998140
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548998140/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-striaticeps/5.jpg
+  page: https://www.inaturalist.org/photos/171252753
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/171252753/original.jpg
 ---
 
 

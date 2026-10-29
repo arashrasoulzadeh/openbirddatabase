@@ -132,8 +132,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/apalharpactes-reinwardtii/1.jpg
+  page: https://www.inaturalist.org/photos/605903702
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605903702/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/apalharpactes-reinwardtii/1.jpg
+  page: https://www.inaturalist.org/photos/605903702
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605903702/original.jpg
+- file: images/trogoniformes/trogonidae/apalharpactes-reinwardtii/2.jpg
+  page: https://www.inaturalist.org/photos/464516286
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464516286/original.jpg
+- file: images/trogoniformes/trogonidae/apalharpactes-reinwardtii/3.jpg
+  page: https://www.inaturalist.org/photos/569153293
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569153293/original.jpg
+- file: images/trogoniformes/trogonidae/apalharpactes-reinwardtii/4.jpg
+  page: https://www.inaturalist.org/photos/436438267
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436438267/original.jpg
+- file: images/trogoniformes/trogonidae/apalharpactes-reinwardtii/5.jpg
+  page: https://www.inaturalist.org/photos/450248471
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450248471/original.jpeg
 ---
 
 

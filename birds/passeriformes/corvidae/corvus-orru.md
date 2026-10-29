@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-orru/1.jpg
+  page: https://www.inaturalist.org/photos/607312744
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607312744/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-orru/1.jpg
+  page: https://www.inaturalist.org/photos/607312744
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607312744/original.jpg
+- file: images/passeriformes/corvidae/corvus-orru/2.jpg
+  page: https://www.inaturalist.org/photos/608224424
+  author: Elizabeth Meier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608224424/original.jpg
+- file: images/passeriformes/corvidae/corvus-orru/3.jpg
+  page: https://www.inaturalist.org/photos/607643561
+  author: Natasha Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607643561/original.jpg
+- file: images/passeriformes/corvidae/corvus-orru/4.jpg
+  page: https://www.inaturalist.org/photos/608347601
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608347601/original.jpg
+- file: images/passeriformes/corvidae/corvus-orru/5.jpg
+  page: https://www.inaturalist.org/photos/606322077
+  author: Hector Hind
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606322077/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/chalcophaps-stephani/1.jpg
+  page: https://www.inaturalist.org/photos/713713573
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713713573/original.jpg
+images:
+- file: images/columbiformes/columbidae/chalcophaps-stephani/1.jpg
+  page: https://www.inaturalist.org/photos/713713573
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713713573/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-stephani/2.jpg
+  page: https://www.inaturalist.org/photos/583255080
+  author: Shawn O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583255080/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-stephani/3.jpg
+  page: https://www.inaturalist.org/photos/334652731
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334652731/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-stephani/4.jpg
+  page: https://www.inaturalist.org/photos/107896358
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107896358/original.jpg
+- file: images/columbiformes/columbidae/chalcophaps-stephani/5.jpg
+  page: https://www.inaturalist.org/photos/713713613
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713713613/original.jpg
 ---
 
 

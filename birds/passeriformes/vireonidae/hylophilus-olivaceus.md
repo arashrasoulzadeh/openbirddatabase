@@ -142,8 +142,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/hylophilus-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/506511851
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506511851/original.jpg
+images:
+- file: images/passeriformes/vireonidae/hylophilus-olivaceus/1.jpg
+  page: https://www.inaturalist.org/photos/506511851
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506511851/original.jpg
+- file: images/passeriformes/vireonidae/hylophilus-olivaceus/2.jpg
+  page: https://www.inaturalist.org/photos/456717047
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456717047/original.jpeg
+- file: images/passeriformes/vireonidae/hylophilus-olivaceus/3.jpg
+  page: https://www.inaturalist.org/photos/167268052
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/167268052/original.jpeg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-ruficapillus/1.jpg
+  page: https://www.inaturalist.org/photos/627127123
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627127123/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-ruficapillus/1.jpg
+  page: https://www.inaturalist.org/photos/627127123
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627127123/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-ruficapillus/2.jpg
+  page: https://www.inaturalist.org/photos/660484783
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660484783/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-ruficapillus/3.jpg
+  page: https://www.inaturalist.org/photos/636047315
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636047315/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-ruficapillus/4.jpg
+  page: https://www.inaturalist.org/photos/639563203
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639563203/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-ruficapillus/5.jpg
+  page: https://www.inaturalist.org/photos/670590309
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670590309/original.jpg
 ---
 
 

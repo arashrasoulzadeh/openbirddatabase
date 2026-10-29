@@ -137,7 +137,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 151.5
@@ -147,6 +148,44 @@ morphology:
   body_mass_g: 1493.2
 demography:
   max_longevity_years: 37
+image:
+  file: images/pelecaniformes/threskiornithidae/threskiornis-bernieri/1.jpg
+  page: https://www.inaturalist.org/photos/667741194
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667741194/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/threskiornis-bernieri/1.jpg
+  page: https://www.inaturalist.org/photos/667741194
+  author: Lisa_James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667741194/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-bernieri/2.jpg
+  page: https://www.inaturalist.org/photos/460819737
+  author: Matthew Morgan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/460819737/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-bernieri/3.jpg
+  page: https://www.inaturalist.org/photos/451364233
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451364233/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-bernieri/4.jpg
+  page: https://www.inaturalist.org/photos/463678528
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463678528/original.jpg
+- file: images/pelecaniformes/threskiornithidae/threskiornis-bernieri/5.jpg
+  page: https://www.inaturalist.org/photos/247450463
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247450463/original.jpg
 ---
 
 

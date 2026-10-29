@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tangara-schrankii/1.jpg
+  page: https://www.inaturalist.org/photos/729282905
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729282905/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tangara-schrankii/1.jpg
+  page: https://www.inaturalist.org/photos/729282905
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729282905/original.jpg
+- file: images/passeriformes/thraupidae/tangara-schrankii/2.jpg
+  page: https://www.inaturalist.org/photos/482579540
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482579540/original.png
+- file: images/passeriformes/thraupidae/tangara-schrankii/3.jpg
+  page: https://www.inaturalist.org/photos/528023517
+  author: Michael Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528023517/original.jpg
+- file: images/passeriformes/thraupidae/tangara-schrankii/4.jpg
+  page: https://www.inaturalist.org/photos/552874221
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552874221/original.jpg
+- file: images/passeriformes/thraupidae/tangara-schrankii/5.jpg
+  page: https://www.inaturalist.org/photos/558196659
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558196659/original.jpg
 ---
 
 

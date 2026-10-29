@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/fulvetta-ruficapilla/1.jpg
+  page: https://www.inaturalist.org/photos/683165847
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683165847/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/fulvetta-ruficapilla/1.jpg
+  page: https://www.inaturalist.org/photos/683165847
+  author: Wang (Tom) ZiYi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683165847/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-ruficapilla/2.jpg
+  page: https://www.inaturalist.org/photos/478594810
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478594810/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-ruficapilla/3.jpg
+  page: https://www.inaturalist.org/photos/484426491
+  author: Yi CHEN
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484426491/original.jpeg
+- file: images/passeriformes/paradoxornithidae/fulvetta-ruficapilla/4.jpg
+  page: https://www.inaturalist.org/photos/557929769
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557929769/original.jpg
+- file: images/passeriformes/paradoxornithidae/fulvetta-ruficapilla/5.jpg
+  page: https://www.inaturalist.org/photos/233138395
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233138395/original.jpg
 ---
 
 

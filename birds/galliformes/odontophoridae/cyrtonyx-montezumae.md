@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/cyrtonyx-montezumae/1.jpg
+  page: https://www.inaturalist.org/photos/681509920
+  author: Daniel McNair
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681509920/original.jpg
+images:
+- file: images/galliformes/odontophoridae/cyrtonyx-montezumae/1.jpg
+  page: https://www.inaturalist.org/photos/681509920
+  author: Daniel McNair
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681509920/original.jpg
+- file: images/galliformes/odontophoridae/cyrtonyx-montezumae/2.jpg
+  page: https://www.inaturalist.org/photos/686634473
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686634473/original.jpg
+- file: images/galliformes/odontophoridae/cyrtonyx-montezumae/3.jpg
+  page: https://www.inaturalist.org/photos/480496783
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480496783/original.jpeg
+- file: images/galliformes/odontophoridae/cyrtonyx-montezumae/4.jpg
+  page: https://www.inaturalist.org/photos/681509879
+  author: Daniel McNair
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681509879/original.jpg
+- file: images/galliformes/odontophoridae/cyrtonyx-montezumae/5.jpg
+  page: https://www.inaturalist.org/photos/681509952
+  author: Daniel McNair
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681509952/original.jpg
 ---
 
 

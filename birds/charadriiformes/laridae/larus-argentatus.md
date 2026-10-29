@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 49
+image:
+  file: images/charadriiformes/laridae/larus-argentatus/1.jpg
+  page: https://www.inaturalist.org/photos/605386038
+  author: ikelman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605386038/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-argentatus/1.jpg
+  page: https://www.inaturalist.org/photos/605386038
+  author: ikelman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605386038/original.jpg
+- file: images/charadriiformes/laridae/larus-argentatus/2.jpg
+  page: https://www.inaturalist.org/photos/604540558
+  author: olmagon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604540558/original.jpg
+- file: images/charadriiformes/laridae/larus-argentatus/3.jpg
+  page: https://www.inaturalist.org/photos/605031531
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605031531/original.jpg
+- file: images/charadriiformes/laridae/larus-argentatus/4.jpg
+  page: https://www.inaturalist.org/photos/605165268
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165268/original.jpg
+- file: images/charadriiformes/laridae/larus-argentatus/5.jpg
+  page: https://www.inaturalist.org/photos/605172777
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605172777/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/rhyticeros-plicatus/1.jpg
+  page: https://www.inaturalist.org/photos/615424825
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615424825/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/rhyticeros-plicatus/1.jpg
+  page: https://www.inaturalist.org/photos/615424825
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615424825/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhyticeros-plicatus/2.jpg
+  page: https://www.inaturalist.org/photos/625308958
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625308958/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhyticeros-plicatus/3.jpg
+  page: https://www.inaturalist.org/photos/626976005
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626976005/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhyticeros-plicatus/4.jpg
+  page: https://www.inaturalist.org/photos/708591774
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708591774/original.jpg
+- file: images/bucerotiformes/bucerotidae/rhyticeros-plicatus/5.jpg
+  page: https://www.inaturalist.org/photos/710679646
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710679646/original.jpg
 ---
 
 

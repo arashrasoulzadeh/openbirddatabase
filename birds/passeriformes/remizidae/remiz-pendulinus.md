@@ -193,10 +193,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/remizidae/remiz-pendulinus/1.jpg
+  page: https://www.inaturalist.org/photos/605395399
+  author: Frank Sengpiel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605395399/original.jpg
+images:
+- file: images/passeriformes/remizidae/remiz-pendulinus/1.jpg
+  page: https://www.inaturalist.org/photos/605395399
+  author: Frank Sengpiel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605395399/original.jpg
+- file: images/passeriformes/remizidae/remiz-pendulinus/2.jpg
+  page: https://www.inaturalist.org/photos/604854873
+  author: Ross Nairn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604854873/original.jpg
+- file: images/passeriformes/remizidae/remiz-pendulinus/3.jpg
+  page: https://www.inaturalist.org/photos/604478395
+  author: Вячеслав Юсупов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604478395/original.jpg
+- file: images/passeriformes/remizidae/remiz-pendulinus/4.jpg
+  page: https://www.inaturalist.org/photos/609198918
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609198918/original.jpg
+- file: images/passeriformes/remizidae/remiz-pendulinus/5.jpg
+  page: https://www.inaturalist.org/photos/607394035
+  author: euqirneto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607394035/original.jpg
 ---
 
 

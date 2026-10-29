@@ -128,7 +128,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 50.7
@@ -138,6 +139,44 @@ morphology:
   body_mass_g: 344.0
 reproduction:
   clutch_size_mean: 1.7
+image:
+  file: images/charadriiformes/laridae/leucophaeus-modestus/1.jpg
+  page: https://www.inaturalist.org/photos/609661366
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609661366/original.jpg
+images:
+- file: images/charadriiformes/laridae/leucophaeus-modestus/1.jpg
+  page: https://www.inaturalist.org/photos/609661366
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609661366/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-modestus/2.jpg
+  page: https://www.inaturalist.org/photos/619333403
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619333403/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-modestus/3.jpg
+  page: https://www.inaturalist.org/photos/624827368
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624827368/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-modestus/4.jpg
+  page: https://www.inaturalist.org/photos/654177489
+  author: the natural moment
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654177489/original.jpg
+- file: images/charadriiformes/laridae/leucophaeus-modestus/5.jpg
+  page: https://www.inaturalist.org/photos/646986958
+  author: Ellky Arteta Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646986958/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/elliotomyia-viridicauda/1.jpg
+  page: https://www.inaturalist.org/photos/604081139
+  author: H. Yang
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604081139/original.jpg
+images:
+- file: images/apodiformes/trochilidae/elliotomyia-viridicauda/1.jpg
+  page: https://www.inaturalist.org/photos/604081139
+  author: H. Yang
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604081139/original.jpg
+- file: images/apodiformes/trochilidae/elliotomyia-viridicauda/2.jpg
+  page: https://www.inaturalist.org/photos/359630541
+  author: Henggang Cui
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359630541/original.jpeg
+- file: images/apodiformes/trochilidae/elliotomyia-viridicauda/3.jpg
+  page: https://www.inaturalist.org/photos/341803316
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341803316/original.jpeg
+- file: images/apodiformes/trochilidae/elliotomyia-viridicauda/4.jpg
+  page: https://www.inaturalist.org/photos/113304717
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113304717/original.jpg
+- file: images/apodiformes/trochilidae/elliotomyia-viridicauda/5.jpg
+  page: https://www.inaturalist.org/photos/84865170
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/84865170/original.jpg
 ---
 
 

@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/agriornis-albicauda/1.jpg
+  page: https://www.inaturalist.org/photos/320737053
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320737053/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/agriornis-albicauda/1.jpg
+  page: https://www.inaturalist.org/photos/320737053
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320737053/original.jpeg
+- file: images/passeriformes/tyrannidae/agriornis-albicauda/2.jpg
+  page: https://www.inaturalist.org/photos/202682192
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202682192/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-albicauda/3.jpg
+  page: https://www.inaturalist.org/photos/104908704
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104908704/original.jpeg
+- file: images/passeriformes/tyrannidae/agriornis-albicauda/4.jpg
+  page: https://www.inaturalist.org/photos/202682549
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202682549/original.jpg
+- file: images/passeriformes/tyrannidae/agriornis-albicauda/5.jpg
+  page: https://www.inaturalist.org/photos/202682591
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202682591/original.jpg
 ---
 
 

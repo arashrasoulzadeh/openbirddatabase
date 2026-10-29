@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-helianthea/1.jpg
+  page: https://www.inaturalist.org/photos/654978100
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654978100/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-helianthea/1.jpg
+  page: https://www.inaturalist.org/photos/654978100
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654978100/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-helianthea/2.jpg
+  page: https://www.inaturalist.org/photos/595064665
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595064665/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-helianthea/3.jpg
+  page: https://www.inaturalist.org/photos/582712429
+  author: Tiago Lubiana
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582712429/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-helianthea/4.jpg
+  page: https://www.inaturalist.org/photos/584699239
+  author: Moogoo Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584699239/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-helianthea/5.jpg
+  page: https://www.inaturalist.org/photos/599648849
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599648849/original.jpg
 ---
 
 

@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 17.7
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 60.0
   tail_length_mm: 67.9
   body_mass_g: 11.7
+image:
+  file: images/passeriformes/macrosphenidae/macrosphenus-pulitzeri/1.jpg
+  page: https://www.inaturalist.org/photos/600869994
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600869994/original.jpg
+images:
+- file: images/passeriformes/macrosphenidae/macrosphenus-pulitzeri/1.jpg
+  page: https://www.inaturalist.org/photos/600869994
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600869994/original.jpg
+- file: images/passeriformes/macrosphenidae/macrosphenus-pulitzeri/2.jpg
+  page: https://www.inaturalist.org/photos/600870002
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600870002/original.jpg
+- file: images/passeriformes/macrosphenidae/macrosphenus-pulitzeri/3.jpg
+  page: https://www.inaturalist.org/photos/600870009
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600870009/original.jpg
+- file: images/passeriformes/macrosphenidae/macrosphenus-pulitzeri/4.jpg
+  page: https://www.inaturalist.org/photos/600870019
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600870019/original.jpg
+- file: images/passeriformes/macrosphenidae/macrosphenus-pulitzeri/5.jpg
+  page: https://www.inaturalist.org/photos/600870026
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600870026/original.jpg
 ---
 
 

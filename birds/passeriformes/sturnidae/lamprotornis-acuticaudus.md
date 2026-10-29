@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-acuticaudus/1.jpg
+  page: https://www.inaturalist.org/photos/604903255
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604903255/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-acuticaudus/1.jpg
+  page: https://www.inaturalist.org/photos/604903255
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604903255/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-acuticaudus/2.jpg
+  page: https://www.inaturalist.org/photos/478795280
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478795280/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-acuticaudus/3.jpg
+  page: https://www.inaturalist.org/photos/349152711
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349152711/original.jpeg
+- file: images/passeriformes/sturnidae/lamprotornis-acuticaudus/4.jpg
+  page: https://www.inaturalist.org/photos/604903246
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604903246/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-acuticaudus/5.jpg
+  page: https://www.inaturalist.org/photos/604903225
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604903225/original.jpg
 ---
 
 

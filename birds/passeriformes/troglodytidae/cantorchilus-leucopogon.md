@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/cantorchilus-leucopogon/1.jpg
+  page: https://www.inaturalist.org/photos/630927852
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630927852/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cantorchilus-leucopogon/1.jpg
+  page: https://www.inaturalist.org/photos/630927852
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630927852/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-leucopogon/2.jpg
+  page: https://www.inaturalist.org/photos/367192823
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367192823/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-leucopogon/3.jpg
+  page: https://www.inaturalist.org/photos/630927864
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630927864/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-leucopogon/4.jpg
+  page: https://www.inaturalist.org/photos/363272943
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363272943/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-leucopogon/5.jpg
+  page: https://www.inaturalist.org/photos/363272891
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363272891/original.jpg
 ---
 
 

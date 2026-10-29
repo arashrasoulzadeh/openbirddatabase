@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/gracupica-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/608568817
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608568817/original.jpg
+images:
+- file: images/passeriformes/sturnidae/gracupica-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/608568817
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608568817/original.jpg
+- file: images/passeriformes/sturnidae/gracupica-nigricollis/2.jpg
+  page: https://www.inaturalist.org/photos/610845865
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610845865/original.jpg
+- file: images/passeriformes/sturnidae/gracupica-nigricollis/3.jpg
+  page: https://www.inaturalist.org/photos/606355099
+  author: WaiTsun Yeung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606355099/original.jpg
+- file: images/passeriformes/sturnidae/gracupica-nigricollis/4.jpg
+  page: https://www.inaturalist.org/photos/607092717
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607092717/original.jpg
+- file: images/passeriformes/sturnidae/gracupica-nigricollis/5.jpg
+  page: https://www.inaturalist.org/photos/610845878
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610845878/original.jpg
 ---
 
 

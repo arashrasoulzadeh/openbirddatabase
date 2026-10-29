@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/sericornis-magnirostra/1.jpg
+  page: https://www.inaturalist.org/photos/608086444
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608086444/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/sericornis-magnirostra/1.jpg
+  page: https://www.inaturalist.org/photos/608086444
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608086444/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-magnirostra/2.jpg
+  page: https://www.inaturalist.org/photos/711833607
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711833607/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-magnirostra/3.jpg
+  page: https://www.inaturalist.org/photos/612658679
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612658679/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-magnirostra/4.jpg
+  page: https://www.inaturalist.org/photos/614126289
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614126289/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-magnirostra/5.jpg
+  page: https://www.inaturalist.org/photos/615592854
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615592854/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-alleni/1.jpg
+  page: https://www.inaturalist.org/photos/603643266
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603643266/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-alleni/1.jpg
+  page: https://www.inaturalist.org/photos/603643266
+  author: Elizabeth Axley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603643266/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-alleni/2.jpg
+  page: https://www.inaturalist.org/photos/469191419
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469191419/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-alleni/3.jpg
+  page: https://www.inaturalist.org/photos/199447197
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199447197/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-alleni/4.jpg
+  page: https://www.inaturalist.org/photos/104813218
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104813218/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-alleni/5.jpg
+  page: https://www.inaturalist.org/photos/177697681
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177697681/original.jpg
 ---
 
 

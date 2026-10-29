@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/conirostrum-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/610857645
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610857645/original.jpg
+images:
+- file: images/passeriformes/thraupidae/conirostrum-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/610857645
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610857645/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-albifrons/2.jpg
+  page: https://www.inaturalist.org/photos/469363270
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469363270/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-albifrons/3.jpg
+  page: https://www.inaturalist.org/photos/502995064
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502995064/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-albifrons/4.jpg
+  page: https://www.inaturalist.org/photos/521547319
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521547319/original.jpg
+- file: images/passeriformes/thraupidae/conirostrum-albifrons/5.jpg
+  page: https://www.inaturalist.org/photos/475880865
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475880865/original.jpg
 ---
 
 

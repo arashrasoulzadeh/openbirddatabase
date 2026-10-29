@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/nyctiprogne-leucopyga/1.jpg
+  page: https://www.inaturalist.org/photos/287605712
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/287605712/original.jpeg
+images:
+- file: images/caprimulgiformes/caprimulgidae/nyctiprogne-leucopyga/1.jpg
+  page: https://www.inaturalist.org/photos/287605712
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/287605712/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/nyctiprogne-leucopyga/2.jpg
+  page: https://www.inaturalist.org/photos/52828875
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/52828875/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctiprogne-leucopyga/3.jpg
+  page: https://www.inaturalist.org/photos/140448509
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/140448509/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/nyctiprogne-leucopyga/4.jpg
+  page: https://www.inaturalist.org/photos/118300604
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/118300604/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/nyctiprogne-leucopyga/5.jpg
+  page: https://www.inaturalist.org/photos/287605680
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/287605680/original.jpeg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/formicivora-serrana/1.jpg
+  page: https://www.inaturalist.org/photos/719616381
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719616381/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/formicivora-serrana/1.jpg
+  page: https://www.inaturalist.org/photos/719616381
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719616381/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-serrana/2.jpg
+  page: https://www.inaturalist.org/photos/485587224
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485587224/original.jpeg
+- file: images/passeriformes/thamnophilidae/formicivora-serrana/3.jpg
+  page: https://www.inaturalist.org/photos/593804567
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593804567/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-serrana/4.jpg
+  page: https://www.inaturalist.org/photos/322737754
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322737754/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-serrana/5.jpg
+  page: https://www.inaturalist.org/photos/241351877
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241351877/original.jpg
 ---
 
 

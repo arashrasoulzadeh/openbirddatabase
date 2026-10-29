@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/heliomaster-furcifer/1.jpg
+  page: https://www.inaturalist.org/photos/607590277
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607590277/original.jpg
+images:
+- file: images/apodiformes/trochilidae/heliomaster-furcifer/1.jpg
+  page: https://www.inaturalist.org/photos/607590277
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607590277/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-furcifer/2.jpg
+  page: https://www.inaturalist.org/photos/607784648
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607784648/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-furcifer/3.jpg
+  page: https://www.inaturalist.org/photos/614564662
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614564662/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-furcifer/4.jpg
+  page: https://www.inaturalist.org/photos/630659293
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630659293/original.jpg
+- file: images/apodiformes/trochilidae/heliomaster-furcifer/5.jpg
+  page: https://www.inaturalist.org/photos/635725824
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635725824/original.jpg
 ---
 
 

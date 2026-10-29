@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-leucophaeus/1.jpg
+  page: https://www.inaturalist.org/photos/608629242
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608629242/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-leucophaeus/1.jpg
+  page: https://www.inaturalist.org/photos/608629242
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608629242/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-leucophaeus/2.jpg
+  page: https://www.inaturalist.org/photos/609423655
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609423655/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-leucophaeus/3.jpg
+  page: https://www.inaturalist.org/photos/610413171
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610413171/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-leucophaeus/4.jpg
+  page: https://www.inaturalist.org/photos/609188823
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188823/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-leucophaeus/5.jpg
+  page: https://www.inaturalist.org/photos/612366888
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612366888/original.jpg
 ---
 
 

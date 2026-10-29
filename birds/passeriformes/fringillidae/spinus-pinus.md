@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/fringillidae/spinus-pinus/1.jpg
+  page: https://www.inaturalist.org/photos/606148926
+  author: Andrew Lai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606148926/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-pinus/1.jpg
+  page: https://www.inaturalist.org/photos/606148926
+  author: Andrew Lai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606148926/original.jpg
+- file: images/passeriformes/fringillidae/spinus-pinus/2.jpg
+  page: https://www.inaturalist.org/photos/609154376
+  author: Michael, Antoni and Nihat Hinczewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609154376/original.jpg
+- file: images/passeriformes/fringillidae/spinus-pinus/3.jpg
+  page: https://www.inaturalist.org/photos/606223514
+  author: Spencer Hurt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606223514/original.jpg
+- file: images/passeriformes/fringillidae/spinus-pinus/4.jpg
+  page: https://www.inaturalist.org/photos/607686872
+  author: Daniel J. Layton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607686872/original.jpg
+- file: images/passeriformes/fringillidae/spinus-pinus/5.jpg
+  page: https://www.inaturalist.org/photos/612301191
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612301191/original.jpg
 ---
 
 

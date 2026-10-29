@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/passerellidae/arremonops-rufivirgatus/1.jpg
+  page: https://www.inaturalist.org/photos/604572182
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604572182/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremonops-rufivirgatus/1.jpg
+  page: https://www.inaturalist.org/photos/604572182
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604572182/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-rufivirgatus/2.jpg
+  page: https://www.inaturalist.org/photos/605791315
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605791315/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-rufivirgatus/3.jpg
+  page: https://www.inaturalist.org/photos/610505025
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610505025/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-rufivirgatus/4.jpg
+  page: https://www.inaturalist.org/photos/611808815
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611808815/original.jpg
+- file: images/passeriformes/passerellidae/arremonops-rufivirgatus/5.jpg
+  page: https://www.inaturalist.org/photos/618879098
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618879098/original.jpg
 ---
 
 

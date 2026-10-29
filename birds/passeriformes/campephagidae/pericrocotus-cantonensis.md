@@ -142,7 +142,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.2
@@ -150,6 +151,44 @@ morphology:
   wing_length_mm: 88.4
   tail_length_mm: 90.5
   body_mass_g: 16.3
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-cantonensis/1.jpg
+  page: https://www.inaturalist.org/photos/642642464
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642642464/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-cantonensis/1.jpg
+  page: https://www.inaturalist.org/photos/642642464
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642642464/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-cantonensis/2.jpg
+  page: https://www.inaturalist.org/photos/465693213
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465693213/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-cantonensis/3.jpg
+  page: https://www.inaturalist.org/photos/467600999
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467600999/original.png
+- file: images/passeriformes/campephagidae/pericrocotus-cantonensis/4.jpg
+  page: https://www.inaturalist.org/photos/469281444
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469281444/original.jpeg
+- file: images/passeriformes/campephagidae/pericrocotus-cantonensis/5.jpg
+  page: https://www.inaturalist.org/photos/642642461
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642642461/original.jpg
 ---
 
 

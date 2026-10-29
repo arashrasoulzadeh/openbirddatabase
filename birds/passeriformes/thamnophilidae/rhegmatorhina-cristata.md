@@ -134,8 +134,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/rhegmatorhina-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/249260770
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249260770/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/249260770
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249260770/original.jpeg
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/249260772
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249260772/original.jpeg
 ---
 
 

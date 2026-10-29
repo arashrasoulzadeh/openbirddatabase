@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/asthenes-wyatti/1.jpg
+  page: https://www.inaturalist.org/photos/610772010
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610772010/original.jpg
+images:
+- file: images/passeriformes/furnariidae/asthenes-wyatti/1.jpg
+  page: https://www.inaturalist.org/photos/610772010
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610772010/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-wyatti/2.jpg
+  page: https://www.inaturalist.org/photos/656929897
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656929897/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-wyatti/3.jpg
+  page: https://www.inaturalist.org/photos/490651302
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490651302/original.jpeg
+- file: images/passeriformes/furnariidae/asthenes-wyatti/4.jpg
+  page: https://www.inaturalist.org/photos/526866877
+  author: Adam Sutton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526866877/original.jpg
+- file: images/passeriformes/furnariidae/asthenes-wyatti/5.jpg
+  page: https://www.inaturalist.org/photos/599836028
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599836028/original.jpg
 ---
 
 

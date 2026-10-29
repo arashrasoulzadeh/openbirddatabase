@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 58
+image:
+  file: images/procellariiformes/diomedeidae/diomedea-epomophora/1.jpg
+  page: https://www.inaturalist.org/photos/613450068
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613450068/original.jpg
+images:
+- file: images/procellariiformes/diomedeidae/diomedea-epomophora/1.jpg
+  page: https://www.inaturalist.org/photos/613450068
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613450068/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-epomophora/2.jpg
+  page: https://www.inaturalist.org/photos/615656384
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615656384/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-epomophora/3.jpg
+  page: https://www.inaturalist.org/photos/626153029
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626153029/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-epomophora/4.jpg
+  page: https://www.inaturalist.org/photos/630856961
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630856961/original.jpg
+- file: images/procellariiformes/diomedeidae/diomedea-epomophora/5.jpg
+  page: https://www.inaturalist.org/photos/613450067
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613450067/original.jpg
 ---
 
 

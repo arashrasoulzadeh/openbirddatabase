@@ -204,10 +204,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/passeriformes/corvidae/cyanocitta-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/604771448
+  author: Timothy A. Parsons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604771448/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocitta-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/604771448
+  author: Timothy A. Parsons
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604771448/original.jpg
+- file: images/passeriformes/corvidae/cyanocitta-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/604492327
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604492327/original.jpg
+- file: images/passeriformes/corvidae/cyanocitta-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/605115167
+  author: Bob Rutkowski
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605115167/original.jpg
+- file: images/passeriformes/corvidae/cyanocitta-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/604903698
+  author: joy4birds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604903698/original.jpg
+- file: images/passeriformes/corvidae/cyanocitta-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/605117143
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605117143/original.jpg
 ---
 
 

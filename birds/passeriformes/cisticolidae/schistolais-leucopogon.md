@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/schistolais-leucopogon/1.jpg
+  page: https://www.inaturalist.org/photos/591385234
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591385234/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/schistolais-leucopogon/1.jpg
+  page: https://www.inaturalist.org/photos/591385234
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591385234/original.jpg
+- file: images/passeriformes/cisticolidae/schistolais-leucopogon/2.jpg
+  page: https://www.inaturalist.org/photos/584776105
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584776105/original.jpg
+- file: images/passeriformes/cisticolidae/schistolais-leucopogon/3.jpg
+  page: https://www.inaturalist.org/photos/393649682
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393649682/original.jpg
+- file: images/passeriformes/cisticolidae/schistolais-leucopogon/4.jpg
+  page: https://www.inaturalist.org/photos/259334281
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259334281/original.jpeg
+- file: images/passeriformes/cisticolidae/schistolais-leucopogon/5.jpg
+  page: https://www.inaturalist.org/photos/51090874
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/51090874/original.jpeg
 ---
 
 

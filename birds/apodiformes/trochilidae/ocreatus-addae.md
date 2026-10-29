@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/ocreatus-addae/1.jpg
+  page: https://www.inaturalist.org/photos/625558248
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625558248/original.jpg
+images:
+- file: images/apodiformes/trochilidae/ocreatus-addae/1.jpg
+  page: https://www.inaturalist.org/photos/625558248
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625558248/original.jpg
+- file: images/apodiformes/trochilidae/ocreatus-addae/2.jpg
+  page: https://www.inaturalist.org/photos/563695016
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563695016/original.jpg
+- file: images/apodiformes/trochilidae/ocreatus-addae/3.jpg
+  page: https://www.inaturalist.org/photos/589155723
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589155723/original.jpg
+- file: images/apodiformes/trochilidae/ocreatus-addae/4.jpg
+  page: https://www.inaturalist.org/photos/598759684
+  author: Susan Blayney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598759684/original.jpg
+- file: images/apodiformes/trochilidae/ocreatus-addae/5.jpg
+  page: https://www.inaturalist.org/photos/457137619
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457137619/original.jpg
 ---
 
 

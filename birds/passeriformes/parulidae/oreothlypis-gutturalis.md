@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/oreothlypis-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/614796867
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614796867/original.jpg
+images:
+- file: images/passeriformes/parulidae/oreothlypis-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/614796867
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614796867/original.jpg
+- file: images/passeriformes/parulidae/oreothlypis-gutturalis/2.jpg
+  page: https://www.inaturalist.org/photos/621052973
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621052973/original.jpg
+- file: images/passeriformes/parulidae/oreothlypis-gutturalis/3.jpg
+  page: https://www.inaturalist.org/photos/647417762
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647417762/original.jpg
+- file: images/passeriformes/parulidae/oreothlypis-gutturalis/4.jpg
+  page: https://www.inaturalist.org/photos/657971308
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657971308/original.jpg
+- file: images/passeriformes/parulidae/oreothlypis-gutturalis/5.jpg
+  page: https://www.inaturalist.org/photos/732248712
+  author: Evan Feusi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732248712/original.jpg
 ---
 
 

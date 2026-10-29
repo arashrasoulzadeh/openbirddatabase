@@ -141,8 +141,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/contopus-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/467705462
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467705462/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/contopus-pallidus/1.jpg
+  page: https://www.inaturalist.org/photos/467705462
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467705462/original.jpeg
+- file: images/passeriformes/tyrannidae/contopus-pallidus/2.jpg
+  page: https://www.inaturalist.org/photos/354511470
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354511470/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-pallidus/3.jpg
+  page: https://www.inaturalist.org/photos/176988308
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176988308/original.jpg
+- file: images/passeriformes/tyrannidae/contopus-pallidus/4.jpg
+  page: https://www.inaturalist.org/photos/469426430
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469426430/original.jpeg
+- file: images/passeriformes/tyrannidae/contopus-pallidus/5.jpg
+  page: https://www.inaturalist.org/photos/354141415
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354141415/original.jpg
 ---
 
 

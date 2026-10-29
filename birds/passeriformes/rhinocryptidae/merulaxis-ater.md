@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/merulaxis-ater/1.jpg
+  page: https://www.inaturalist.org/photos/618059921
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059921/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/merulaxis-ater/1.jpg
+  page: https://www.inaturalist.org/photos/618059921
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618059921/original.jpg
+- file: images/passeriformes/rhinocryptidae/merulaxis-ater/2.jpg
+  page: https://www.inaturalist.org/photos/645073099
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645073099/original.jpg
+- file: images/passeriformes/rhinocryptidae/merulaxis-ater/3.jpg
+  page: https://www.inaturalist.org/photos/712317957
+  author: Alex Fernando
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712317957/original.jpg
+- file: images/passeriformes/rhinocryptidae/merulaxis-ater/4.jpg
+  page: https://www.inaturalist.org/photos/545040076
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545040076/original.jpg
+- file: images/passeriformes/rhinocryptidae/merulaxis-ater/5.jpg
+  page: https://www.inaturalist.org/photos/577798579
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577798579/original.jpg
 ---
 
 

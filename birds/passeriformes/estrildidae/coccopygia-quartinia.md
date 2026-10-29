@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/coccopygia-quartinia/1.jpg
+  page: https://www.inaturalist.org/photos/716301043
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716301043/original.jpg
+images:
+- file: images/passeriformes/estrildidae/coccopygia-quartinia/1.jpg
+  page: https://www.inaturalist.org/photos/716301043
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716301043/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-quartinia/2.jpg
+  page: https://www.inaturalist.org/photos/514188731
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514188731/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-quartinia/3.jpg
+  page: https://www.inaturalist.org/photos/582681052
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582681052/original.jpg
+- file: images/passeriformes/estrildidae/coccopygia-quartinia/4.jpg
+  page: https://www.inaturalist.org/photos/349695953
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349695953/original.jpeg
+- file: images/passeriformes/estrildidae/coccopygia-quartinia/5.jpg
+  page: https://www.inaturalist.org/photos/380711691
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380711691/original.jpg
 ---
 
 

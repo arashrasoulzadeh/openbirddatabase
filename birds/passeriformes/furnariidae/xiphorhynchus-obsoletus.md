@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/xiphorhynchus-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/426760592
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426760592/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xiphorhynchus-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/426760592
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426760592/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-obsoletus/2.jpg
+  page: https://www.inaturalist.org/photos/108118882
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108118882/original.jpeg
+- file: images/passeriformes/furnariidae/xiphorhynchus-obsoletus/3.jpg
+  page: https://www.inaturalist.org/photos/180858994
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180858994/original.jpeg
+- file: images/passeriformes/furnariidae/xiphorhynchus-obsoletus/4.jpg
+  page: https://www.inaturalist.org/photos/115627656
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/115627656/original.jpeg
+- file: images/passeriformes/furnariidae/xiphorhynchus-obsoletus/5.jpg
+  page: https://www.inaturalist.org/photos/26457010
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26457010/original.jpeg
 ---
 
 

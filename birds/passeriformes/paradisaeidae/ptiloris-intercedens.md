@@ -125,7 +125,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 51.8
@@ -135,6 +136,44 @@ morphology:
   body_mass_g: 158.0
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/paradisaeidae/ptiloris-intercedens/1.jpg
+  page: https://www.inaturalist.org/photos/575613869
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613869/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/ptiloris-intercedens/1.jpg
+  page: https://www.inaturalist.org/photos/575613869
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613869/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-intercedens/2.jpg
+  page: https://www.inaturalist.org/photos/575613880
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613880/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-intercedens/3.jpg
+  page: https://www.inaturalist.org/photos/575613886
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613886/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-intercedens/4.jpg
+  page: https://www.inaturalist.org/photos/575613943
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613943/original.jpg
+- file: images/passeriformes/paradisaeidae/ptiloris-intercedens/5.jpg
+  page: https://www.inaturalist.org/photos/575614006
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575614006/original.jpg
 ---
 
 

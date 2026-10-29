@@ -218,10 +218,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/charadriiformes/laridae/gelochelidon-nilotica/1.jpg
+  page: https://www.inaturalist.org/photos/604572149
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604572149/original.jpg
+images:
+- file: images/charadriiformes/laridae/gelochelidon-nilotica/1.jpg
+  page: https://www.inaturalist.org/photos/604572149
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604572149/original.jpg
+- file: images/charadriiformes/laridae/gelochelidon-nilotica/2.jpg
+  page: https://www.inaturalist.org/photos/606981119
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606981119/original.jpg
+- file: images/charadriiformes/laridae/gelochelidon-nilotica/3.jpg
+  page: https://www.inaturalist.org/photos/608715937
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608715937/original.jpg
+- file: images/charadriiformes/laridae/gelochelidon-nilotica/4.jpg
+  page: https://www.inaturalist.org/photos/607060947
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607060947/original.jpg
+- file: images/charadriiformes/laridae/gelochelidon-nilotica/5.jpg
+  page: https://www.inaturalist.org/photos/611415846
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611415846/original.jpg
 ---
 
 

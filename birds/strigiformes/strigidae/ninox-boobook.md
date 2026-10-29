@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/strigiformes/strigidae/ninox-boobook/1.jpg
+  page: https://www.inaturalist.org/photos/605194976
+  author: Kathleen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605194976/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-boobook/1.jpg
+  page: https://www.inaturalist.org/photos/605194976
+  author: Kathleen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605194976/original.jpg
+- file: images/strigiformes/strigidae/ninox-boobook/2.jpg
+  page: https://www.inaturalist.org/photos/609405044
+  author: graeme lunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609405044/original.jpg
+- file: images/strigiformes/strigidae/ninox-boobook/3.jpg
+  page: https://www.inaturalist.org/photos/610676536
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610676536/original.jpg
+- file: images/strigiformes/strigidae/ninox-boobook/4.jpg
+  page: https://www.inaturalist.org/photos/609879574
+  author: joseal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609879574/original.jpg
+- file: images/strigiformes/strigidae/ninox-boobook/5.jpg
+  page: https://www.inaturalist.org/photos/608577587
+  author: Ben Fisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608577587/original.jpg
 ---
 
 

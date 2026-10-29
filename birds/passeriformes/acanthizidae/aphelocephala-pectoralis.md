@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/aphelocephala-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/561553070
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561553070/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/aphelocephala-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/561553070
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561553070/original.jpg
+- file: images/passeriformes/acanthizidae/aphelocephala-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/375341344
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375341344/original.jpg
+- file: images/passeriformes/acanthizidae/aphelocephala-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/73877028
+  author: Kym Nicolson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/73877028/original.jpg
+- file: images/passeriformes/acanthizidae/aphelocephala-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/561553853
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561553853/original.jpg
+- file: images/passeriformes/acanthizidae/aphelocephala-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/561553861
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561553861/original.jpg
 ---
 
 

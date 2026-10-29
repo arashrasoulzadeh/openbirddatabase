@@ -186,10 +186,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/gruiformes/rallidae/fulica-atra/1.jpg
+  page: https://www.inaturalist.org/photos/605568604
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605568604/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-atra/1.jpg
+  page: https://www.inaturalist.org/photos/605568604
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605568604/original.jpg
+- file: images/gruiformes/rallidae/fulica-atra/2.jpg
+  page: https://www.inaturalist.org/photos/605056723
+  author: orionid
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605056723/original.jpg
+- file: images/gruiformes/rallidae/fulica-atra/3.jpg
+  page: https://www.inaturalist.org/photos/605488094
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605488094/original.jpg
+- file: images/gruiformes/rallidae/fulica-atra/4.jpg
+  page: https://www.inaturalist.org/photos/604788104
+  author: Stephen James McWilliam
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604788104/original.jpg
+- file: images/gruiformes/rallidae/fulica-atra/5.jpg
+  page: https://www.inaturalist.org/photos/605393347
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605393347/original.jpg
 ---
 
 

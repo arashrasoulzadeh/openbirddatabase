@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/melaenornis-ardesiacus/1.jpg
+  page: https://www.inaturalist.org/photos/622121032
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622121032/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/melaenornis-ardesiacus/1.jpg
+  page: https://www.inaturalist.org/photos/622121032
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622121032/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-ardesiacus/2.jpg
+  page: https://www.inaturalist.org/photos/464885695
+  author: Michał Żyła
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464885695/original.jpeg
+- file: images/passeriformes/muscicapidae/melaenornis-ardesiacus/3.jpg
+  page: https://www.inaturalist.org/photos/602398943
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602398943/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-ardesiacus/4.jpg
+  page: https://www.inaturalist.org/photos/588074054
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588074054/original.jpg
+- file: images/passeriformes/muscicapidae/melaenornis-ardesiacus/5.jpg
+  page: https://www.inaturalist.org/photos/393649114
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393649114/original.jpg
 ---
 
 

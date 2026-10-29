@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-gouldi/1.jpg
+  page: https://www.inaturalist.org/photos/606159871
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606159871/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-gouldi/1.jpg
+  page: https://www.inaturalist.org/photos/606159871
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606159871/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-gouldi/2.jpg
+  page: https://www.inaturalist.org/photos/611557486
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611557486/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-gouldi/3.jpg
+  page: https://www.inaturalist.org/photos/616722451
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616722451/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-gouldi/4.jpg
+  page: https://www.inaturalist.org/photos/692527381
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692527381/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-gouldi/5.jpg
+  page: https://www.inaturalist.org/photos/618288782
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618288782/original.jpg
 ---
 
 

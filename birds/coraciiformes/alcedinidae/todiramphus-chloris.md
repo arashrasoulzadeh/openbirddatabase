@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/coraciiformes/alcedinidae/todiramphus-chloris/1.jpg
+  page: https://www.inaturalist.org/photos/607137146
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137146/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/todiramphus-chloris/1.jpg
+  page: https://www.inaturalist.org/photos/607137146
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137146/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-chloris/2.jpg
+  page: https://www.inaturalist.org/photos/610144865
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610144865/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-chloris/3.jpg
+  page: https://www.inaturalist.org/photos/608090853
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608090853/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-chloris/4.jpg
+  page: https://www.inaturalist.org/photos/607137164
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137164/original.jpg
+- file: images/coraciiformes/alcedinidae/todiramphus-chloris/5.jpg
+  page: https://www.inaturalist.org/photos/610675164
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610675164/original.jpg
 ---
 
 

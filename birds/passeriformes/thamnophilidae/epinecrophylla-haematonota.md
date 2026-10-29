@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/epinecrophylla-haematonota/1.jpg
+  page: https://www.inaturalist.org/photos/613706982
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613706982/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/epinecrophylla-haematonota/1.jpg
+  page: https://www.inaturalist.org/photos/613706982
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613706982/original.jpg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-haematonota/2.jpg
+  page: https://www.inaturalist.org/photos/608170441
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608170441/original.jpg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-haematonota/3.jpg
+  page: https://www.inaturalist.org/photos/338457970
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338457970/original.jpg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-haematonota/4.jpg
+  page: https://www.inaturalist.org/photos/608172132
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608172132/original.jpg
+- file: images/passeriformes/thamnophilidae/epinecrophylla-haematonota/5.jpg
+  page: https://www.inaturalist.org/photos/608172145
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608172145/original.jpg
 ---
 
 

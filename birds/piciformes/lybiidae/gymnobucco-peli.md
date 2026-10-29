@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/gymnobucco-peli/1.jpg
+  page: https://www.inaturalist.org/photos/173378866
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173378866/original.jpg
+images:
+- file: images/piciformes/lybiidae/gymnobucco-peli/1.jpg
+  page: https://www.inaturalist.org/photos/173378866
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173378866/original.jpg
+- file: images/piciformes/lybiidae/gymnobucco-peli/2.jpg
+  page: https://www.inaturalist.org/photos/106652634
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106652634/original.jpg
+- file: images/piciformes/lybiidae/gymnobucco-peli/3.jpg
+  page: https://www.inaturalist.org/photos/173378876
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173378876/original.jpg
+- file: images/piciformes/lybiidae/gymnobucco-peli/4.jpg
+  page: https://www.inaturalist.org/photos/173378872
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173378872/original.jpg
+- file: images/piciformes/lybiidae/gymnobucco-peli/5.jpg
+  page: https://www.inaturalist.org/photos/173705529
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173705529/original.jpg
 ---
 
 

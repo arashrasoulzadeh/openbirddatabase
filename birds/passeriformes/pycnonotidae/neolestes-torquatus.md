@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/neolestes-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/602861452
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602861452/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/neolestes-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/602861452
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602861452/original.jpg
+- file: images/passeriformes/pycnonotidae/neolestes-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/481120091
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481120091/original.jpg
+- file: images/passeriformes/pycnonotidae/neolestes-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/602861476
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602861476/original.jpg
+- file: images/passeriformes/pycnonotidae/neolestes-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/602861492
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602861492/original.jpg
+- file: images/passeriformes/pycnonotidae/neolestes-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/602861462
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602861462/original.jpg
 ---
 
 

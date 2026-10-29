@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/laniarius-atroflavus/1.jpg
+  page: https://www.inaturalist.org/photos/629696902
+  author: abcdefgewing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629696902/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/laniarius-atroflavus/1.jpg
+  page: https://www.inaturalist.org/photos/629696902
+  author: abcdefgewing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629696902/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-atroflavus/2.jpg
+  page: https://www.inaturalist.org/photos/641065560
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641065560/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-atroflavus/3.jpg
+  page: https://www.inaturalist.org/photos/640845149
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845149/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-atroflavus/4.jpg
+  page: https://www.inaturalist.org/photos/640845173
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845173/original.jpg
+- file: images/passeriformes/malaconotidae/laniarius-atroflavus/5.jpg
+  page: https://www.inaturalist.org/photos/640845237
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640845237/original.jpg
 ---
 
 

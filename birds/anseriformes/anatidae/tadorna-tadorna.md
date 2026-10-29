@@ -185,10 +185,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/anseriformes/anatidae/tadorna-tadorna/1.jpg
+  page: https://www.inaturalist.org/photos/605452203
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605452203/original.jpg
+images:
+- file: images/anseriformes/anatidae/tadorna-tadorna/1.jpg
+  page: https://www.inaturalist.org/photos/605452203
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605452203/original.jpg
+- file: images/anseriformes/anatidae/tadorna-tadorna/2.jpg
+  page: https://www.inaturalist.org/photos/605085387
+  author: Paul Lewis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605085387/original.jpg
+- file: images/anseriformes/anatidae/tadorna-tadorna/3.jpg
+  page: https://www.inaturalist.org/photos/605053973
+  author: cwriggy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605053973/original.jpg
+- file: images/anseriformes/anatidae/tadorna-tadorna/4.jpg
+  page: https://www.inaturalist.org/photos/605487312
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487312/original.jpg
+- file: images/anseriformes/anatidae/tadorna-tadorna/5.jpg
+  page: https://www.inaturalist.org/photos/604732804
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604732804/original.jpg
 ---
 
 

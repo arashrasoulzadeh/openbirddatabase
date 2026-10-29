@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/microspingus-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/649316178
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649316178/original.jpg
+images:
+- file: images/passeriformes/thraupidae/microspingus-cabanisi/1.jpg
+  page: https://www.inaturalist.org/photos/649316178
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649316178/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-cabanisi/2.jpg
+  page: https://www.inaturalist.org/photos/686825831
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686825831/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-cabanisi/3.jpg
+  page: https://www.inaturalist.org/photos/745144451
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745144451/original.jpg
+- file: images/passeriformes/thraupidae/microspingus-cabanisi/4.jpg
+  page: https://www.inaturalist.org/photos/475078363
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475078363/original.jpeg
+- file: images/passeriformes/thraupidae/microspingus-cabanisi/5.jpg
+  page: https://www.inaturalist.org/photos/525307044
+  author: Lucila Trussi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525307044/original.jpg
 ---
 
 

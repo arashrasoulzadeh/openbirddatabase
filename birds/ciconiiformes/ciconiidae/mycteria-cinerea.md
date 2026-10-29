@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 228.2
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 476.6
   tail_length_mm: 156.4
   body_mass_g: 2393.0
+image:
+  file: images/ciconiiformes/ciconiidae/mycteria-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/627900300
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627900300/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/mycteria-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/627900300
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627900300/original.jpg
+- file: images/ciconiiformes/ciconiidae/mycteria-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/740973434
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/740973434/original.jpg
+- file: images/ciconiiformes/ciconiidae/mycteria-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/627900302
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627900302/original.jpg
+- file: images/ciconiiformes/ciconiidae/mycteria-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/627900271
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627900271/original.jpg
+- file: images/ciconiiformes/ciconiidae/mycteria-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/627900295
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627900295/original.jpg
 ---
 
 

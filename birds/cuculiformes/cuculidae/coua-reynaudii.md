@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coua-reynaudii/1.jpg
+  page: https://www.inaturalist.org/photos/690759329
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690759329/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coua-reynaudii/1.jpg
+  page: https://www.inaturalist.org/photos/690759329
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690759329/original.jpg
+- file: images/cuculiformes/cuculidae/coua-reynaudii/2.jpg
+  page: https://www.inaturalist.org/photos/446011217
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446011217/original.jpeg
+- file: images/cuculiformes/cuculidae/coua-reynaudii/3.jpg
+  page: https://www.inaturalist.org/photos/455082804
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455082804/original.jpg
+- file: images/cuculiformes/cuculidae/coua-reynaudii/4.jpg
+  page: https://www.inaturalist.org/photos/457353312
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457353312/original.jpg
+- file: images/cuculiformes/cuculidae/coua-reynaudii/5.jpg
+  page: https://www.inaturalist.org/photos/336845276
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336845276/original.jpeg
 ---
 
 

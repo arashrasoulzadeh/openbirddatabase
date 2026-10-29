@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/leuconotopicus-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/612972481
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612972481/original.jpg
+images:
+- file: images/piciformes/picidae/leuconotopicus-fumigatus/1.jpg
+  page: https://www.inaturalist.org/photos/612972481
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612972481/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-fumigatus/2.jpg
+  page: https://www.inaturalist.org/photos/614717383
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717383/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-fumigatus/3.jpg
+  page: https://www.inaturalist.org/photos/625833365
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625833365/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-fumigatus/4.jpg
+  page: https://www.inaturalist.org/photos/648837843
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648837843/original.jpg
+- file: images/piciformes/picidae/leuconotopicus-fumigatus/5.jpg
+  page: https://www.inaturalist.org/photos/709704849
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709704849/original.jpg
 ---
 
 

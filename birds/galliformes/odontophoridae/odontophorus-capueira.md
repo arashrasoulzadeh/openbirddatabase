@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/odontophoridae/odontophorus-capueira/1.jpg
+  page: https://www.inaturalist.org/photos/706028661
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706028661/original.jpg
+images:
+- file: images/galliformes/odontophoridae/odontophorus-capueira/1.jpg
+  page: https://www.inaturalist.org/photos/706028661
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706028661/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-capueira/2.jpg
+  page: https://www.inaturalist.org/photos/641153376
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641153376/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-capueira/3.jpg
+  page: https://www.inaturalist.org/photos/702853047
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/702853047/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-capueira/4.jpg
+  page: https://www.inaturalist.org/photos/720339501
+  author: fmunoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720339501/original.jpg
+- file: images/galliformes/odontophoridae/odontophorus-capueira/5.jpg
+  page: https://www.inaturalist.org/photos/467847313
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467847313/original.jpeg
 ---
 
 

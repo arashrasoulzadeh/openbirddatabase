@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/anseriformes/anatidae/branta-leucopsis/1.jpg
+  page: https://www.inaturalist.org/photos/605450757
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605450757/original.jpg
+images:
+- file: images/anseriformes/anatidae/branta-leucopsis/1.jpg
+  page: https://www.inaturalist.org/photos/605450757
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605450757/original.jpg
+- file: images/anseriformes/anatidae/branta-leucopsis/2.jpg
+  page: https://www.inaturalist.org/photos/605416496
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605416496/original.jpg
+- file: images/anseriformes/anatidae/branta-leucopsis/3.jpg
+  page: https://www.inaturalist.org/photos/608971393
+  author: Cristina Hutchison
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608971393/original.jpg
+- file: images/anseriformes/anatidae/branta-leucopsis/4.jpg
+  page: https://www.inaturalist.org/photos/607546002
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607546002/original.jpg
+- file: images/anseriformes/anatidae/branta-leucopsis/5.jpg
+  page: https://www.inaturalist.org/photos/609236285
+  author: Dmitry Ivanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609236285/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ceyx-azureus/1.jpg
+  page: https://www.inaturalist.org/photos/604950397
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604950397/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceyx-azureus/1.jpg
+  page: https://www.inaturalist.org/photos/604950397
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604950397/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-azureus/2.jpg
+  page: https://www.inaturalist.org/photos/606107870
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606107870/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-azureus/3.jpg
+  page: https://www.inaturalist.org/photos/607303552
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607303552/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-azureus/4.jpg
+  page: https://www.inaturalist.org/photos/611332834
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611332834/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-azureus/5.jpg
+  page: https://www.inaturalist.org/photos/743061440
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743061440/original.jpg
 ---
 
 

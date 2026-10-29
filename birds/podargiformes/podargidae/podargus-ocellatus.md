@@ -146,8 +146,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/podargus-ocellatus/1.jpg
+  page: https://www.inaturalist.org/photos/734252437
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734252437/original.jpg
+images:
+- file: images/podargiformes/podargidae/podargus-ocellatus/1.jpg
+  page: https://www.inaturalist.org/photos/734252437
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734252437/original.jpg
+- file: images/podargiformes/podargidae/podargus-ocellatus/2.jpg
+  page: https://www.inaturalist.org/photos/552529710
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552529710/original.jpg
+- file: images/podargiformes/podargidae/podargus-ocellatus/3.jpg
+  page: https://www.inaturalist.org/photos/445269643
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445269643/original.jpg
+- file: images/podargiformes/podargidae/podargus-ocellatus/4.jpg
+  page: https://www.inaturalist.org/photos/322677314
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322677314/original.jpeg
+- file: images/podargiformes/podargidae/podargus-ocellatus/5.jpg
+  page: https://www.inaturalist.org/photos/734252380
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734252380/original.jpg
 ---
 
 

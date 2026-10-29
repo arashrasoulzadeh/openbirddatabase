@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/passeriformes/mimidae/margarops-fuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/610741615
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610741615/original.jpg
+images:
+- file: images/passeriformes/mimidae/margarops-fuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/610741615
+  author: chrisdt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610741615/original.jpg
+- file: images/passeriformes/mimidae/margarops-fuscatus/2.jpg
+  page: https://www.inaturalist.org/photos/611072163
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611072163/original.jpg
+- file: images/passeriformes/mimidae/margarops-fuscatus/3.jpg
+  page: https://www.inaturalist.org/photos/609199798
+  author: Bee Together
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609199798/original.jpg
+- file: images/passeriformes/mimidae/margarops-fuscatus/4.jpg
+  page: https://www.inaturalist.org/photos/616526032
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616526032/original.jpg
+- file: images/passeriformes/mimidae/margarops-fuscatus/5.jpg
+  page: https://www.inaturalist.org/photos/617859519
+  author: Quentin Groom
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617859519/original.jpg
 ---
 
 

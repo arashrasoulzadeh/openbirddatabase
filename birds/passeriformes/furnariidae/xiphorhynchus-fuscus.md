@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/xiphorhynchus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/605534339
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534339/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xiphorhynchus-fuscus/1.jpg
+  page: https://www.inaturalist.org/photos/605534339
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534339/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-fuscus/2.jpg
+  page: https://www.inaturalist.org/photos/615809951
+  author: Alessandher Piva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615809951/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-fuscus/3.jpg
+  page: https://www.inaturalist.org/photos/639563025
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639563025/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-fuscus/4.jpg
+  page: https://www.inaturalist.org/photos/644314208
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644314208/original.jpg
+- file: images/passeriformes/furnariidae/xiphorhynchus-fuscus/5.jpg
+  page: https://www.inaturalist.org/photos/645889341
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645889341/original.jpg
 ---
 
 

@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/psittaciformes/psittacidae/forpus-passerinus/1.jpg
+  page: https://www.inaturalist.org/photos/617321241
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617321241/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/forpus-passerinus/1.jpg
+  page: https://www.inaturalist.org/photos/617321241
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617321241/original.jpg
+- file: images/psittaciformes/psittacidae/forpus-passerinus/2.jpg
+  page: https://www.inaturalist.org/photos/653152296
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653152296/original.jpg
+- file: images/psittaciformes/psittacidae/forpus-passerinus/3.jpg
+  page: https://www.inaturalist.org/photos/681050055
+  author: Catriona Hall
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681050055/original.jpg
+- file: images/psittaciformes/psittacidae/forpus-passerinus/4.jpg
+  page: https://www.inaturalist.org/photos/693681226
+  author: Laurimar Sepulveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693681226/original.jpg
+- file: images/psittaciformes/psittacidae/forpus-passerinus/5.jpg
+  page: https://www.inaturalist.org/photos/715450798
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715450798/original.jpg
 ---
 
 

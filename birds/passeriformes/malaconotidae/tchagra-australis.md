@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/tchagra-australis/1.jpg
+  page: https://www.inaturalist.org/photos/611841138
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611841138/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/tchagra-australis/1.jpg
+  page: https://www.inaturalist.org/photos/611841138
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611841138/original.jpg
+- file: images/passeriformes/malaconotidae/tchagra-australis/2.jpg
+  page: https://www.inaturalist.org/photos/684008692
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684008692/original.jpg
+- file: images/passeriformes/malaconotidae/tchagra-australis/3.jpg
+  page: https://www.inaturalist.org/photos/627625391
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627625391/original.jpg
+- file: images/passeriformes/malaconotidae/tchagra-australis/4.jpg
+  page: https://www.inaturalist.org/photos/677306633
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677306633/original.jpg
+- file: images/passeriformes/malaconotidae/tchagra-australis/5.jpg
+  page: https://www.inaturalist.org/photos/661456826
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661456826/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/cassiculus-melanicterus/1.jpg
+  page: https://www.inaturalist.org/photos/604954080
+  author: Steven Smethurst
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604954080/original.jpg
+images:
+- file: images/passeriformes/icteridae/cassiculus-melanicterus/1.jpg
+  page: https://www.inaturalist.org/photos/604954080
+  author: Steven Smethurst
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604954080/original.jpg
+- file: images/passeriformes/icteridae/cassiculus-melanicterus/2.jpg
+  page: https://www.inaturalist.org/photos/606754626
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606754626/original.jpg
+- file: images/passeriformes/icteridae/cassiculus-melanicterus/3.jpg
+  page: https://www.inaturalist.org/photos/606234297
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606234297/original.jpg
+- file: images/passeriformes/icteridae/cassiculus-melanicterus/4.jpg
+  page: https://www.inaturalist.org/photos/609851524
+  author: José Javier Barrios Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609851524/original.jpg
+- file: images/passeriformes/icteridae/cassiculus-melanicterus/5.jpg
+  page: https://www.inaturalist.org/photos/610400168
+  author: Bruce Bailey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610400168/original.jpg
 ---
 
 

@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/anseriformes/anatidae/branta-hutchinsii/1.jpg
+  page: https://www.inaturalist.org/photos/605290441
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605290441/original.jpg
+images:
+- file: images/anseriformes/anatidae/branta-hutchinsii/1.jpg
+  page: https://www.inaturalist.org/photos/605290441
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605290441/original.jpg
+- file: images/anseriformes/anatidae/branta-hutchinsii/2.jpg
+  page: https://www.inaturalist.org/photos/605579177
+  author: Rudyard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605579177/original.jpg
+- file: images/anseriformes/anatidae/branta-hutchinsii/3.jpg
+  page: https://www.inaturalist.org/photos/606447714
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606447714/original.jpg
+- file: images/anseriformes/anatidae/branta-hutchinsii/4.jpg
+  page: https://www.inaturalist.org/photos/610796365
+  author: Calinsdad
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610796365/original.jpg
+- file: images/anseriformes/anatidae/branta-hutchinsii/5.jpg
+  page: https://www.inaturalist.org/photos/607585420
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607585420/original.jpg
 ---
 
 

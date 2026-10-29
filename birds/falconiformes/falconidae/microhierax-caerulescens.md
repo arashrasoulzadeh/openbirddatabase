@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/microhierax-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/623520785
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623520785/original.jpg
+images:
+- file: images/falconiformes/falconidae/microhierax-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/623520785
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623520785/original.jpg
+- file: images/falconiformes/falconidae/microhierax-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/626322740
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626322740/original.jpg
+- file: images/falconiformes/falconidae/microhierax-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/668284467
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668284467/original.jpg
+- file: images/falconiformes/falconidae/microhierax-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/736819469
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736819469/original.jpg
+- file: images/falconiformes/falconidae/microhierax-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/468025301
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468025301/original.jpeg
 ---
 
 

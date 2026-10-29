@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/harpactes-duvaucelii/1.jpg
+  page: https://www.inaturalist.org/photos/618067183
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618067183/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/harpactes-duvaucelii/1.jpg
+  page: https://www.inaturalist.org/photos/618067183
+  author: Samuel Lee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618067183/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-duvaucelii/2.jpg
+  page: https://www.inaturalist.org/photos/618389208
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618389208/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-duvaucelii/3.jpg
+  page: https://www.inaturalist.org/photos/690610817
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690610817/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-duvaucelii/4.jpg
+  page: https://www.inaturalist.org/photos/472814983
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472814983/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-duvaucelii/5.jpg
+  page: https://www.inaturalist.org/photos/519690533
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519690533/original.jpg
 ---
 
 

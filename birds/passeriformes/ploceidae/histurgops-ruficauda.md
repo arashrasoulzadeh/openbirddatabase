@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/histurgops-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/684100835
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684100835/original.jpg
+images:
+- file: images/passeriformes/ploceidae/histurgops-ruficauda/1.jpg
+  page: https://www.inaturalist.org/photos/684100835
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684100835/original.jpg
+- file: images/passeriformes/ploceidae/histurgops-ruficauda/2.jpg
+  page: https://www.inaturalist.org/photos/709694684
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709694684/original.jpg
+- file: images/passeriformes/ploceidae/histurgops-ruficauda/3.jpg
+  page: https://www.inaturalist.org/photos/638930672
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638930672/original.jpg
+- file: images/passeriformes/ploceidae/histurgops-ruficauda/4.jpg
+  page: https://www.inaturalist.org/photos/671842058
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671842058/original.jpg
+- file: images/passeriformes/ploceidae/histurgops-ruficauda/5.jpg
+  page: https://www.inaturalist.org/photos/698791970
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698791970/original.jpg
 ---
 
 

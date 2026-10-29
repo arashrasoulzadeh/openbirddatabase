@@ -144,8 +144,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/myiothlypis-cinereicollis/1.jpg
+  page: https://www.inaturalist.org/photos/273465337
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/273465337/original.jpeg
+images:
+- file: images/passeriformes/parulidae/myiothlypis-cinereicollis/1.jpg
+  page: https://www.inaturalist.org/photos/273465337
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/273465337/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-cinereicollis/2.jpg
+  page: https://www.inaturalist.org/photos/273469729
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/273469729/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-cinereicollis/3.jpg
+  page: https://www.inaturalist.org/photos/273471878
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/273471878/original.jpeg
+- file: images/passeriformes/parulidae/myiothlypis-cinereicollis/4.jpg
+  page: https://www.inaturalist.org/photos/273472661
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/273472661/original.jpeg
 ---
 
 

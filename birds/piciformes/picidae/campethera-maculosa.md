@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campethera-maculosa/1.jpg
+  page: https://www.inaturalist.org/photos/601856355
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601856355/original.jpg
+images:
+- file: images/piciformes/picidae/campethera-maculosa/1.jpg
+  page: https://www.inaturalist.org/photos/601856355
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601856355/original.jpg
+- file: images/piciformes/picidae/campethera-maculosa/2.jpg
+  page: https://www.inaturalist.org/photos/445036452
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445036452/original.jpg
+- file: images/piciformes/picidae/campethera-maculosa/3.jpg
+  page: https://www.inaturalist.org/photos/472417066
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472417066/original.jpg
+- file: images/piciformes/picidae/campethera-maculosa/4.jpg
+  page: https://www.inaturalist.org/photos/190291666
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190291666/original.jpeg
+- file: images/piciformes/picidae/campethera-maculosa/5.jpg
+  page: https://www.inaturalist.org/photos/42452569
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/42452569/original.jpg
 ---
 
 

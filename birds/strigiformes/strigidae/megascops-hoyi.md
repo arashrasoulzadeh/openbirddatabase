@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-hoyi/1.jpg
+  page: https://www.inaturalist.org/photos/463203564
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463203564/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-hoyi/1.jpg
+  page: https://www.inaturalist.org/photos/463203564
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463203564/original.jpg
+- file: images/strigiformes/strigidae/megascops-hoyi/2.jpg
+  page: https://www.inaturalist.org/photos/504994257
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504994257/original.jpg
+- file: images/strigiformes/strigidae/megascops-hoyi/3.jpg
+  page: https://www.inaturalist.org/photos/401348849
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401348849/original.jpg
+- file: images/strigiformes/strigidae/megascops-hoyi/4.jpg
+  page: https://www.inaturalist.org/photos/290527664
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/290527664/original.jpg
+- file: images/strigiformes/strigidae/megascops-hoyi/5.jpg
+  page: https://www.inaturalist.org/photos/703656580
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703656580/original.jpg
 ---
 
 

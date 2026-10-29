@@ -213,10 +213,43 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/charadriiformes/recurvirostridae/himantopus-himantopus/1.jpg
+  page: https://www.inaturalist.org/photos/604811199
+  author: Denis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604811199/original.jpg
+images:
+- file: images/charadriiformes/recurvirostridae/himantopus-himantopus/1.jpg
+  page: https://www.inaturalist.org/photos/604811199
+  author: Denis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604811199/original.jpg
+- file: images/charadriiformes/recurvirostridae/himantopus-himantopus/2.jpg
+  page: https://www.inaturalist.org/photos/604510414
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604510414/original.jpg
+- file: images/charadriiformes/recurvirostridae/himantopus-himantopus/3.jpg
+  page: https://www.inaturalist.org/photos/608868000
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608868000/original.jpg
+- file: images/charadriiformes/recurvirostridae/himantopus-himantopus/4.jpg
+  page: https://www.inaturalist.org/photos/609302071
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609302071/original.jpg
 ---
 
 

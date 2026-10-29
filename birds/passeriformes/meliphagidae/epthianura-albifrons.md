@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/epthianura-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/604442437
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604442437/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/epthianura-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/604442437
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604442437/original.jpg
+- file: images/passeriformes/meliphagidae/epthianura-albifrons/2.jpg
+  page: https://www.inaturalist.org/photos/607889908
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607889908/original.jpg
+- file: images/passeriformes/meliphagidae/epthianura-albifrons/3.jpg
+  page: https://www.inaturalist.org/photos/620823248
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620823248/original.jpg
+- file: images/passeriformes/meliphagidae/epthianura-albifrons/4.jpg
+  page: https://www.inaturalist.org/photos/604442446
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604442446/original.jpg
+- file: images/passeriformes/meliphagidae/epthianura-albifrons/5.jpg
+  page: https://www.inaturalist.org/photos/604442445
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604442445/original.jpg
 ---
 
 

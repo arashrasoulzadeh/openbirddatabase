@@ -175,10 +175,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/charadriiformes/laridae/larus-canus/1.jpg
+  page: https://www.inaturalist.org/photos/605375186
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605375186/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-canus/1.jpg
+  page: https://www.inaturalist.org/photos/605375186
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605375186/original.jpg
+- file: images/charadriiformes/laridae/larus-canus/2.jpg
+  page: https://www.inaturalist.org/photos/605626142
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605626142/original.jpg
+- file: images/charadriiformes/laridae/larus-canus/3.jpg
+  page: https://www.inaturalist.org/photos/605630189
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605630189/original.jpg
+- file: images/charadriiformes/laridae/larus-canus/4.jpg
+  page: https://www.inaturalist.org/photos/604503953
+  author: Paolo Zucca
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604503953/original.jpg
+- file: images/charadriiformes/laridae/larus-canus/5.jpg
+  page: https://www.inaturalist.org/photos/605072149
+  author: Radu Teodoreanu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605072149/original.jpg
 ---
 
 

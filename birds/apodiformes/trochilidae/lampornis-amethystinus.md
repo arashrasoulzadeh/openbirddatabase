@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lampornis-amethystinus/1.jpg
+  page: https://www.inaturalist.org/photos/611585566
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585566/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lampornis-amethystinus/1.jpg
+  page: https://www.inaturalist.org/photos/611585566
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611585566/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-amethystinus/2.jpg
+  page: https://www.inaturalist.org/photos/616778764
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616778764/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-amethystinus/3.jpg
+  page: https://www.inaturalist.org/photos/484404435
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484404435/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-amethystinus/4.jpg
+  page: https://www.inaturalist.org/photos/602123559
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602123559/original.jpg
+- file: images/apodiformes/trochilidae/lampornis-amethystinus/5.jpg
+  page: https://www.inaturalist.org/photos/407204141
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407204141/original.jpg
 ---
 
 

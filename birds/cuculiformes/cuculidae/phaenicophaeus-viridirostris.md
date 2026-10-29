@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/phaenicophaeus-viridirostris/1.jpg
+  page: https://www.inaturalist.org/photos/609837648
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609837648/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/phaenicophaeus-viridirostris/1.jpg
+  page: https://www.inaturalist.org/photos/609837648
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609837648/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-viridirostris/2.jpg
+  page: https://www.inaturalist.org/photos/685346098
+  author: Teja Yantrapalli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685346098/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-viridirostris/3.jpg
+  page: https://www.inaturalist.org/photos/684880018
+  author: P Jeganathan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684880018/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-viridirostris/4.jpg
+  page: https://www.inaturalist.org/photos/698646568
+  author: stli_
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698646568/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-viridirostris/5.jpg
+  page: https://www.inaturalist.org/photos/706034657
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706034657/original.jpg
 ---
 
 

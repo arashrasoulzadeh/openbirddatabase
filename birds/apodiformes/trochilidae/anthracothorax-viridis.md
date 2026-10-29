@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/anthracothorax-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/630639236
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630639236/original.jpg
+images:
+- file: images/apodiformes/trochilidae/anthracothorax-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/630639236
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630639236/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/654161900
+  author: DiegoH
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654161900/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/680912216
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680912216/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/694734463
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694734463/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-viridis/5.jpg
+  page: https://www.flickr.com/photos/cricketsblog/54302702591/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467664251/original.jpg
 ---
 
 

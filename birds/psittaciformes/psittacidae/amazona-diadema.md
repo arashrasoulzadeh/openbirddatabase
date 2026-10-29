@@ -143,7 +143,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 38.1
@@ -153,6 +154,44 @@ morphology:
   body_mass_g: 416.0
 demography:
   max_longevity_years: 27
+image:
+  file: images/psittaciformes/psittacidae/amazona-diadema/1.jpg
+  page: https://www.inaturalist.org/photos/605582840
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605582840/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-diadema/1.jpg
+  page: https://www.inaturalist.org/photos/605582840
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605582840/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-diadema/2.jpg
+  page: https://www.inaturalist.org/photos/604700089
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604700089/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-diadema/3.jpg
+  page: https://www.inaturalist.org/photos/610511725
+  author: Oliver Power
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610511725/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-diadema/4.jpg
+  page: https://www.inaturalist.org/photos/605813434
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605813434/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-diadema/5.jpg
+  page: https://www.inaturalist.org/photos/610844303
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610844303/original.jpg
 ---
 
 

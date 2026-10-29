@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-rubricera/1.jpg
+  page: https://www.inaturalist.org/photos/228057086
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228057086/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-rubricera/1.jpg
+  page: https://www.inaturalist.org/photos/228057086
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228057086/original.jpg
+- file: images/columbiformes/columbidae/ducula-rubricera/2.jpg
+  page: https://www.inaturalist.org/photos/334786797
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334786797/original.jpg
+- file: images/columbiformes/columbidae/ducula-rubricera/3.jpg
+  page: https://www.inaturalist.org/photos/228057154
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228057154/original.jpg
+- file: images/columbiformes/columbidae/ducula-rubricera/4.jpg
+  page: https://www.inaturalist.org/photos/228057211
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228057211/original.jpg
+- file: images/columbiformes/columbidae/ducula-rubricera/5.jpg
+  page: https://www.inaturalist.org/photos/334780188
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334780188/original.jpg
 ---
 
 

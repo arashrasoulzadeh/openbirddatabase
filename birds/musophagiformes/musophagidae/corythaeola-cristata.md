@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/musophagiformes/musophagidae/corythaeola-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/622519392
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622519392/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/corythaeola-cristata/1.jpg
+  page: https://www.inaturalist.org/photos/622519392
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622519392/original.jpg
+- file: images/musophagiformes/musophagidae/corythaeola-cristata/2.jpg
+  page: https://www.inaturalist.org/photos/661102100
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661102100/original.jpg
+- file: images/musophagiformes/musophagidae/corythaeola-cristata/3.jpg
+  page: https://www.inaturalist.org/photos/669481251
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669481251/original.jpg
+- file: images/musophagiformes/musophagidae/corythaeola-cristata/4.jpg
+  page: https://www.inaturalist.org/photos/723794647
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723794647/original.jpg
+- file: images/musophagiformes/musophagidae/corythaeola-cristata/5.jpg
+  page: https://www.inaturalist.org/photos/482547215
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482547215/original.jpeg
 ---
 
 

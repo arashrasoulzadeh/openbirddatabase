@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/psittaciformes/psittacidae/brotogeris-tirica/1.jpg
+  page: https://www.inaturalist.org/photos/609780589
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609780589/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/brotogeris-tirica/1.jpg
+  page: https://www.inaturalist.org/photos/609780589
+  author: Douglas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609780589/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-tirica/2.jpg
+  page: https://www.inaturalist.org/photos/608776599
+  author: Andrii Khokhlov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608776599/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-tirica/3.jpg
+  page: https://www.inaturalist.org/photos/609930232
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609930232/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-tirica/4.jpg
+  page: https://www.inaturalist.org/photos/609320621
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320621/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-tirica/5.jpg
+  page: https://www.inaturalist.org/photos/608627881
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608627881/original.jpg
 ---
 
 

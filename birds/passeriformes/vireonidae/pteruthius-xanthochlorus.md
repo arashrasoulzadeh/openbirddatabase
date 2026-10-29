@@ -147,8 +147,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/pteruthius-xanthochlorus/1.jpg
+  page: https://www.inaturalist.org/photos/487054689
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054689/original.jpg
+images:
+- file: images/passeriformes/vireonidae/pteruthius-xanthochlorus/1.jpg
+  page: https://www.inaturalist.org/photos/487054689
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054689/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-xanthochlorus/2.jpg
+  page: https://www.inaturalist.org/photos/372221819
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/372221819/original.jpeg
+- file: images/passeriformes/vireonidae/pteruthius-xanthochlorus/3.jpg
+  page: https://www.inaturalist.org/photos/180946497
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180946497/original.jpg
+- file: images/passeriformes/vireonidae/pteruthius-xanthochlorus/4.jpg
+  page: https://www.inaturalist.org/photos/242965008
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242965008/original.jpeg
+- file: images/passeriformes/vireonidae/pteruthius-xanthochlorus/5.jpg
+  page: https://www.inaturalist.org/photos/305331126
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305331126/original.jpg
 ---
 
 

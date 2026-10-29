@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/artisornis-metopias/1.jpg
+  page: https://www.inaturalist.org/photos/582780899
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582780899/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/artisornis-metopias/1.jpg
+  page: https://www.inaturalist.org/photos/582780899
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582780899/original.jpg
+- file: images/passeriformes/cisticolidae/artisornis-metopias/2.jpg
+  page: https://www.inaturalist.org/photos/443537130
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443537130/original.jpeg
+- file: images/passeriformes/cisticolidae/artisornis-metopias/3.jpg
+  page: https://www.inaturalist.org/photos/477452295
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477452295/original.jpg
+- file: images/passeriformes/cisticolidae/artisornis-metopias/4.jpg
+  page: https://www.inaturalist.org/photos/582780898
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582780898/original.jpg
+- file: images/passeriformes/cisticolidae/artisornis-metopias/5.jpg
+  page: https://www.inaturalist.org/photos/588315353
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588315353/original.jpg
 ---
 
 

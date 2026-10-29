@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/montifringilla-nivalis/1.jpg
+  page: https://www.inaturalist.org/photos/616386820
+  author: Timotej Velkov
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616386820/original.jpg
+images:
+- file: images/passeriformes/passeridae/montifringilla-nivalis/1.jpg
+  page: https://www.inaturalist.org/photos/616386820
+  author: Timotej Velkov
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616386820/original.jpg
+- file: images/passeriformes/passeridae/montifringilla-nivalis/2.jpg
+  page: https://www.inaturalist.org/photos/625021210
+  author: Mirela
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625021210/original.jpg
+- file: images/passeriformes/passeridae/montifringilla-nivalis/3.jpg
+  page: https://www.inaturalist.org/photos/627088386
+  author: Loïc Chalmandrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627088386/original.jpg
+- file: images/passeriformes/passeridae/montifringilla-nivalis/4.jpg
+  page: https://www.inaturalist.org/photos/625934954
+  author: Antoine MARNAT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625934954/original.jpg
+- file: images/passeriformes/passeridae/montifringilla-nivalis/5.jpg
+  page: https://www.inaturalist.org/photos/629206733
+  author: Elias Freyhof
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629206733/original.jpg
 ---
 
 

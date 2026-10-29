@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/amazilia-luciae/1.jpg
+  page: https://www.inaturalist.org/photos/137625676
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137625676/original.jpg
+images:
+- file: images/apodiformes/trochilidae/amazilia-luciae/1.jpg
+  page: https://www.inaturalist.org/photos/137625676
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137625676/original.jpg
+- file: images/apodiformes/trochilidae/amazilia-luciae/2.jpg
+  page: https://www.inaturalist.org/photos/446949709
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446949709/original.jpeg
+- file: images/apodiformes/trochilidae/amazilia-luciae/3.jpg
+  page: https://www.inaturalist.org/photos/137626179
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/137626179/original.jpg
+- file: images/apodiformes/trochilidae/amazilia-luciae/4.jpg
+  page: https://www.inaturalist.org/photos/446949711
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446949711/original.jpeg
+- file: images/apodiformes/trochilidae/amazilia-luciae/5.jpg
+  page: https://www.inaturalist.org/photos/446949713
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446949713/original.jpeg
 ---
 
 

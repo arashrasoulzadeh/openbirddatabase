@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 33.5
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 190.0
   tail_length_mm: 104.5
   body_mass_g: 122.8
+image:
+  file: images/coraciiformes/coraciidae/eurystomus-azureus/1.jpg
+  page: https://www.inaturalist.org/photos/313619308
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313619308/original.jpg
+images:
+- file: images/coraciiformes/coraciidae/eurystomus-azureus/1.jpg
+  page: https://www.inaturalist.org/photos/313619308
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313619308/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-azureus/2.jpg
+  page: https://www.inaturalist.org/photos/107893129
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107893129/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-azureus/3.jpg
+  page: https://www.inaturalist.org/photos/313619309
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313619309/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-azureus/4.jpg
+  page: https://www.inaturalist.org/photos/313619310
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313619310/original.jpg
+- file: images/coraciiformes/coraciidae/eurystomus-azureus/5.jpg
+  page: https://www.inaturalist.org/photos/313619315
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313619315/original.jpg
 ---
 
 

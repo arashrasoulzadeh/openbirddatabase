@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/chloephaga-hybrida/1.jpg
+  page: https://www.inaturalist.org/photos/608042232
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608042232/original.jpg
+images:
+- file: images/anseriformes/anatidae/chloephaga-hybrida/1.jpg
+  page: https://www.inaturalist.org/photos/608042232
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608042232/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-hybrida/2.jpg
+  page: https://www.inaturalist.org/photos/612266568
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612266568/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-hybrida/3.jpg
+  page: https://www.inaturalist.org/photos/615792540
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615792540/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-hybrida/4.jpg
+  page: https://www.inaturalist.org/photos/623374080
+  author: Santiago Martín-Bravo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623374080/original.jpg
+- file: images/anseriformes/anatidae/chloephaga-hybrida/5.jpg
+  page: https://www.inaturalist.org/photos/617083659
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617083659/original.jpg
 ---
 
 

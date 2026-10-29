@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/parulidae/parkesia-noveboracensis/1.jpg
+  page: https://www.inaturalist.org/photos/605130082
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605130082/original.jpg
+images:
+- file: images/passeriformes/parulidae/parkesia-noveboracensis/1.jpg
+  page: https://www.inaturalist.org/photos/605130082
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605130082/original.jpg
+- file: images/passeriformes/parulidae/parkesia-noveboracensis/2.jpg
+  page: https://www.inaturalist.org/photos/607345420
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607345420/original.jpg
+- file: images/passeriformes/parulidae/parkesia-noveboracensis/3.jpg
+  page: https://www.inaturalist.org/photos/607748250
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607748250/original.jpg
+- file: images/passeriformes/parulidae/parkesia-noveboracensis/4.jpg
+  page: https://www.inaturalist.org/photos/605797905
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605797905/original.jpg
+- file: images/passeriformes/parulidae/parkesia-noveboracensis/5.jpg
+  page: https://www.inaturalist.org/photos/610072666
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610072666/original.jpg
 ---
 
 

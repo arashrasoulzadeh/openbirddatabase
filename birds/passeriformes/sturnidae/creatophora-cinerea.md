@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/creatophora-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/610774260
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610774260/original.jpg
+images:
+- file: images/passeriformes/sturnidae/creatophora-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/610774260
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610774260/original.jpg
+- file: images/passeriformes/sturnidae/creatophora-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/625688251
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625688251/original.jpg
+- file: images/passeriformes/sturnidae/creatophora-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/618067253
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618067253/original.jpg
+- file: images/passeriformes/sturnidae/creatophora-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/634126873
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634126873/original.jpg
+- file: images/passeriformes/sturnidae/creatophora-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/657605842
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657605842/original.jpg
 ---
 
 

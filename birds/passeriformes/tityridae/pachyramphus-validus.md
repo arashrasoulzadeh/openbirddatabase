@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-validus/1.jpg
+  page: https://www.inaturalist.org/photos/609611628
+  author: Andrii Khokhlov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609611628/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-validus/1.jpg
+  page: https://www.inaturalist.org/photos/609611628
+  author: Andrii Khokhlov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609611628/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-validus/2.jpg
+  page: https://www.inaturalist.org/photos/610838712
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610838712/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-validus/3.jpg
+  page: https://www.inaturalist.org/photos/611671284
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611671284/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-validus/4.jpg
+  page: https://www.inaturalist.org/photos/641896166
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641896166/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-validus/5.jpg
+  page: https://www.inaturalist.org/photos/605673719
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605673719/original.jpg
 ---
 
 

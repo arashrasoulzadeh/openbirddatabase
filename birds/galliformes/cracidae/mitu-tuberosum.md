@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/galliformes/cracidae/mitu-tuberosum/1.jpg
+  page: https://www.inaturalist.org/photos/599078966
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599078966/original.jpg
+images:
+- file: images/galliformes/cracidae/mitu-tuberosum/1.jpg
+  page: https://www.inaturalist.org/photos/599078966
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599078966/original.jpg
+- file: images/galliformes/cracidae/mitu-tuberosum/2.jpg
+  page: https://www.inaturalist.org/photos/527381077
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527381077/original.jpg
+- file: images/galliformes/cracidae/mitu-tuberosum/3.jpg
+  page: https://www.inaturalist.org/photos/563669070
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563669070/original.jpg
+- file: images/galliformes/cracidae/mitu-tuberosum/4.jpg
+  page: https://www.inaturalist.org/photos/582137384
+  author: Sheelagh Halsey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582137384/original.jpg
+- file: images/galliformes/cracidae/mitu-tuberosum/5.jpg
+  page: https://www.inaturalist.org/photos/553289164
+  author: Isaac Krone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553289164/original.jpg
 ---
 
 

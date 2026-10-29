@@ -194,10 +194,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/phylloscopidae/phylloscopus-collybita/1.jpg
+  page: https://www.inaturalist.org/photos/605073973
+  author: ANGEL MARCOS LUENGO BELLO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605073973/original.jpg
+images:
+- file: images/passeriformes/phylloscopidae/phylloscopus-collybita/1.jpg
+  page: https://www.inaturalist.org/photos/605073973
+  author: ANGEL MARCOS LUENGO BELLO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605073973/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-collybita/2.jpg
+  page: https://www.inaturalist.org/photos/605120992
+  author: Frank Sengpiel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605120992/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-collybita/3.jpg
+  page: https://www.inaturalist.org/photos/604568785
+  author: S. Menéndez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604568785/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-collybita/4.jpg
+  page: https://www.inaturalist.org/photos/605614073
+  author: L Rose
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605614073/original.jpg
+- file: images/passeriformes/phylloscopidae/phylloscopus-collybita/5.jpg
+  page: https://www.inaturalist.org/photos/605083729
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605083729/original.jpg
 ---
 
 

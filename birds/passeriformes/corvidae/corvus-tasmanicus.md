@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/passeriformes/corvidae/corvus-tasmanicus/1.jpg
+  page: https://www.inaturalist.org/photos/623503766
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623503766/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-tasmanicus/1.jpg
+  page: https://www.inaturalist.org/photos/623503766
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623503766/original.jpg
+- file: images/passeriformes/corvidae/corvus-tasmanicus/2.jpg
+  page: https://www.inaturalist.org/photos/634548657
+  author: jstarspots
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634548657/original.jpg
+- file: images/passeriformes/corvidae/corvus-tasmanicus/3.jpg
+  page: https://www.inaturalist.org/photos/655758741
+  author: Bee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655758741/original.jpg
+- file: images/passeriformes/corvidae/corvus-tasmanicus/4.jpg
+  page: https://www.inaturalist.org/photos/721752904
+  author: Cowirrie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721752904/original.jpg
+- file: images/passeriformes/corvidae/corvus-tasmanicus/5.jpg
+  page: https://www.inaturalist.org/photos/623503778
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623503778/original.jpg
 ---
 
 

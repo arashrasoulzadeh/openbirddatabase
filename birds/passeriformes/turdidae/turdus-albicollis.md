@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605434108
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434108/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/605434108
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434108/original.jpg
+- file: images/passeriformes/turdidae/turdus-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/606628921
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606628921/original.jpg
+- file: images/passeriformes/turdidae/turdus-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/637259742
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637259742/original.jpg
+- file: images/passeriformes/turdidae/turdus-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/640729205
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640729205/original.jpg
+- file: images/passeriformes/turdidae/turdus-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/648680696
+  author: Júlio Castellain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648680696/original.jpg
 ---
 
 

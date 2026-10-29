@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/poodytes-punctatus/1.jpg
+  page: https://www.inaturalist.org/photos/612629108
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612629108/original.jpg
+images:
+- file: images/passeriformes/locustellidae/poodytes-punctatus/1.jpg
+  page: https://www.inaturalist.org/photos/612629108
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612629108/original.jpg
+- file: images/passeriformes/locustellidae/poodytes-punctatus/2.jpg
+  page: https://www.inaturalist.org/photos/611419134
+  author: Timo Walcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611419134/original.jpg
+- file: images/passeriformes/locustellidae/poodytes-punctatus/3.jpg
+  page: https://www.inaturalist.org/photos/611317344
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611317344/original.jpg
+- file: images/passeriformes/locustellidae/poodytes-punctatus/4.jpg
+  page: https://www.inaturalist.org/photos/614606634
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614606634/original.jpg
+- file: images/passeriformes/locustellidae/poodytes-punctatus/5.jpg
+  page: https://www.inaturalist.org/photos/625453690
+  author: Juliette Fuehrhop
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625453690/original.jpg
 ---
 
 

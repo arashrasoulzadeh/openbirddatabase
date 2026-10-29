@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/geositta-antarctica/1.jpg
+  page: https://www.inaturalist.org/photos/607251714
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607251714/original.jpg
+images:
+- file: images/passeriformes/furnariidae/geositta-antarctica/1.jpg
+  page: https://www.inaturalist.org/photos/607251714
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607251714/original.jpg
+- file: images/passeriformes/furnariidae/geositta-antarctica/2.jpg
+  page: https://www.inaturalist.org/photos/464535619
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464535619/original.jpg
+- file: images/passeriformes/furnariidae/geositta-antarctica/3.jpg
+  page: https://www.inaturalist.org/photos/469053417
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469053417/original.jpeg
+- file: images/passeriformes/furnariidae/geositta-antarctica/4.jpg
+  page: https://www.inaturalist.org/photos/352292802
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352292802/original.jpg
+- file: images/passeriformes/furnariidae/geositta-antarctica/5.jpg
+  page: https://www.inaturalist.org/photos/394352912
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394352912/original.jpeg
 ---
 
 

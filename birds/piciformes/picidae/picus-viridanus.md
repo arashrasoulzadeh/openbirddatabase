@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picus-viridanus/1.jpg
+  page: https://www.inaturalist.org/photos/634422303
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634422303/original.jpg
+images:
+- file: images/piciformes/picidae/picus-viridanus/1.jpg
+  page: https://www.inaturalist.org/photos/634422303
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634422303/original.jpg
+- file: images/piciformes/picidae/picus-viridanus/2.jpg
+  page: https://www.inaturalist.org/photos/517534961
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517534961/original.jpg
+- file: images/piciformes/picidae/picus-viridanus/3.jpg
+  page: https://www.inaturalist.org/photos/412949749
+  author: Sevin Dee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412949749/original.jpeg
+- file: images/piciformes/picidae/picus-viridanus/4.jpg
+  page: https://www.inaturalist.org/photos/255781254
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255781254/original.jpg
+- file: images/piciformes/picidae/picus-viridanus/5.jpg
+  page: https://www.inaturalist.org/photos/269666361
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269666361/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chalcostigma-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/252643314
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252643314/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/chalcostigma-ruficeps/1.jpg
+  page: https://www.inaturalist.org/photos/252643314
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252643314/original.jpeg
+- file: images/apodiformes/trochilidae/chalcostigma-ruficeps/2.jpg
+  page: https://www.inaturalist.org/photos/266650682
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266650682/original.jpeg
+- file: images/apodiformes/trochilidae/chalcostigma-ruficeps/3.jpg
+  page: https://www.inaturalist.org/photos/326941378
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326941378/original.jpeg
+- file: images/apodiformes/trochilidae/chalcostigma-ruficeps/4.jpg
+  page: https://www.inaturalist.org/photos/250470814
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250470814/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-ruficeps/5.jpg
+  page: https://www.inaturalist.org/photos/177476255
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177476255/original.jpeg
 ---
 
 

@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/tinamiformes/tinamidae/nothura-maculosa/1.jpg
+  page: https://www.inaturalist.org/photos/608357328
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608357328/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/nothura-maculosa/1.jpg
+  page: https://www.inaturalist.org/photos/608357328
+  author: Ernesto Fernandez Polcuch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608357328/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-maculosa/2.jpg
+  page: https://www.inaturalist.org/photos/608798616
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608798616/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-maculosa/3.jpg
+  page: https://www.inaturalist.org/photos/611945355
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611945355/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-maculosa/4.jpg
+  page: https://www.inaturalist.org/photos/617876189
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617876189/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-maculosa/5.jpg
+  page: https://www.inaturalist.org/photos/626232166
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626232166/original.jpg
 ---
 
 

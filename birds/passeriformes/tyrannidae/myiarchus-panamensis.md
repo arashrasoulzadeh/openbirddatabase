@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-panamensis/1.jpg
+  page: https://www.inaturalist.org/photos/605721863
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605721863/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-panamensis/1.jpg
+  page: https://www.inaturalist.org/photos/605721863
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605721863/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-panamensis/2.jpg
+  page: https://www.inaturalist.org/photos/608516202
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608516202/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-panamensis/3.jpg
+  page: https://www.inaturalist.org/photos/608763467
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608763467/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-panamensis/4.jpg
+  page: https://www.inaturalist.org/photos/612477829
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477829/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-panamensis/5.jpg
+  page: https://www.inaturalist.org/photos/654551881
+  author: Maria Janeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654551881/original.jpg
 ---
 
 

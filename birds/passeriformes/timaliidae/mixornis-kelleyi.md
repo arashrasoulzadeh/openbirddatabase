@@ -137,8 +137,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/mixornis-kelleyi/1.jpg
+  page: https://www.inaturalist.org/photos/487762004
+  author: Tim Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487762004/original.jpeg
+images:
+- file: images/passeriformes/timaliidae/mixornis-kelleyi/1.jpg
+  page: https://www.inaturalist.org/photos/487762004
+  author: Tim Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487762004/original.jpeg
+- file: images/passeriformes/timaliidae/mixornis-kelleyi/2.jpg
+  page: https://www.inaturalist.org/photos/393052493
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393052493/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-kelleyi/3.jpg
+  page: https://www.inaturalist.org/photos/581603012
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581603012/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-kelleyi/4.jpg
+  page: https://www.inaturalist.org/photos/581603034
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581603034/original.jpg
+- file: images/passeriformes/timaliidae/mixornis-kelleyi/5.jpg
+  page: https://www.inaturalist.org/photos/393546073
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393546073/original.jpg
 ---
 
 

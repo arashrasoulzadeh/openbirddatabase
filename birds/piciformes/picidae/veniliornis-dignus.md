@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-dignus/1.jpg
+  page: https://www.inaturalist.org/photos/352684242
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352684242/original.jpeg
+images:
+- file: images/piciformes/picidae/veniliornis-dignus/1.jpg
+  page: https://www.inaturalist.org/photos/352684242
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352684242/original.jpeg
+- file: images/piciformes/picidae/veniliornis-dignus/2.jpg
+  page: https://www.inaturalist.org/photos/329530024
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329530024/original.jpeg
+- file: images/piciformes/picidae/veniliornis-dignus/3.jpg
+  page: https://www.inaturalist.org/photos/151984948
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/151984948/original.jpg
+- file: images/piciformes/picidae/veniliornis-dignus/4.jpg
+  page: https://www.inaturalist.org/photos/162662937
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/162662937/original.jpeg
+- file: images/piciformes/picidae/veniliornis-dignus/5.jpg
+  page: https://www.inaturalist.org/photos/13520651
+  author: Daniel van der Post
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/13520651/original.jpeg
 ---
 
 

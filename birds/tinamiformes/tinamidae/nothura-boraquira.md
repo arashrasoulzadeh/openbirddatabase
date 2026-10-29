@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/nothura-boraquira/1.jpg
+  page: https://www.inaturalist.org/photos/630260042
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630260042/original.jpg
+images:
+- file: images/tinamiformes/tinamidae/nothura-boraquira/1.jpg
+  page: https://www.inaturalist.org/photos/630260042
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630260042/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-boraquira/2.jpg
+  page: https://www.inaturalist.org/photos/714778430
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714778430/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-boraquira/3.jpg
+  page: https://www.inaturalist.org/photos/672897272
+  author: Marcello Mastroianni Albuquerque Araújo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672897272/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-boraquira/4.jpg
+  page: https://www.inaturalist.org/photos/349318871
+  author: Renato Bandeira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349318871/original.jpg
+- file: images/tinamiformes/tinamidae/nothura-boraquira/5.jpg
+  page: https://www.inaturalist.org/photos/343397910
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343397910/original.jpeg
 ---
 
 

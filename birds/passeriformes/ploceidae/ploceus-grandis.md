@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/469095892
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469095892/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/469095892
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469095892/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-grandis/2.jpg
+  page: https://www.inaturalist.org/photos/226303865
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226303865/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-grandis/3.jpg
+  page: https://www.inaturalist.org/photos/106433912
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106433912/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-grandis/4.jpg
+  page: https://www.inaturalist.org/photos/469103881
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469103881/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-grandis/5.jpg
+  page: https://www.inaturalist.org/photos/469103872
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469103872/original.jpg
 ---
 
 

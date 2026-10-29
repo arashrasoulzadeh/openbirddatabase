@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/strigiformes/strigidae/glaucidium-passerinum/1.jpg
+  page: https://www.inaturalist.org/photos/606128299
+  author: Reni
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606128299/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-passerinum/1.jpg
+  page: https://www.inaturalist.org/photos/606128299
+  author: Reni
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606128299/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-passerinum/2.jpg
+  page: https://www.inaturalist.org/photos/606368605
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606368605/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-passerinum/3.jpg
+  page: https://www.inaturalist.org/photos/605943672
+  author: Fyodor Pudovikov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605943672/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-passerinum/4.jpg
+  page: https://www.inaturalist.org/photos/606108425
+  author: Vasyl Pokynchereda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606108425/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-passerinum/5.jpg
+  page: https://www.inaturalist.org/photos/607096436
+  author: Andrejus Gaidamavičius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607096436/original.jpg
 ---
 
 

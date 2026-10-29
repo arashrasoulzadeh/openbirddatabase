@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/podargiformes/podargidae/podargus-strigoides/1.jpg
+  page: https://www.inaturalist.org/photos/604974160
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604974160/original.jpg
+images:
+- file: images/podargiformes/podargidae/podargus-strigoides/1.jpg
+  page: https://www.inaturalist.org/photos/604974160
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604974160/original.jpg
+- file: images/podargiformes/podargidae/podargus-strigoides/2.jpg
+  page: https://www.inaturalist.org/photos/604999309
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604999309/original.jpg
+- file: images/podargiformes/podargidae/podargus-strigoides/3.jpg
+  page: https://www.inaturalist.org/photos/604455982
+  author: Aidan Tsoumbakos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604455982/original.jpg
+- file: images/podargiformes/podargidae/podargus-strigoides/4.jpg
+  page: https://www.inaturalist.org/photos/604915104
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604915104/original.jpg
+- file: images/podargiformes/podargidae/podargus-strigoides/5.jpg
+  page: https://www.inaturalist.org/photos/605297104
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605297104/original.jpg
 ---
 
 

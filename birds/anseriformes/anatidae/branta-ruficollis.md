@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/branta-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/606131474
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606131474/original.jpg
+images:
+- file: images/anseriformes/anatidae/branta-ruficollis/1.jpg
+  page: https://www.inaturalist.org/photos/606131474
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606131474/original.jpg
+- file: images/anseriformes/anatidae/branta-ruficollis/2.jpg
+  page: https://www.inaturalist.org/photos/613798488
+  author: Jay Brasher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613798488/original.jpg
+- file: images/anseriformes/anatidae/branta-ruficollis/3.jpg
+  page: https://www.inaturalist.org/photos/619247630
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619247630/original.jpg
+- file: images/anseriformes/anatidae/branta-ruficollis/4.jpg
+  page: https://www.inaturalist.org/photos/623022783
+  author: Lars Willighagen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623022783/original.jpg
+- file: images/anseriformes/anatidae/branta-ruficollis/5.jpg
+  page: https://www.inaturalist.org/photos/738976319
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738976319/original.jpg
 ---
 
 

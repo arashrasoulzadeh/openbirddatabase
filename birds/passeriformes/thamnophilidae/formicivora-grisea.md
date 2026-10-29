@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/formicivora-grisea/1.jpg
+  page: https://www.inaturalist.org/photos/611954005
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611954005/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/formicivora-grisea/1.jpg
+  page: https://www.inaturalist.org/photos/611954005
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611954005/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-grisea/2.jpg
+  page: https://www.inaturalist.org/photos/463639056
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463639056/original.jpeg
+- file: images/passeriformes/thamnophilidae/formicivora-grisea/3.jpg
+  page: https://www.inaturalist.org/photos/509609079
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509609079/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-grisea/4.jpg
+  page: https://www.inaturalist.org/photos/582181539
+  author: Imrick B.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582181539/original.jpg
+- file: images/passeriformes/thamnophilidae/formicivora-grisea/5.jpg
+  page: https://www.inaturalist.org/photos/463639076
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463639076/original.jpeg
 ---
 
 

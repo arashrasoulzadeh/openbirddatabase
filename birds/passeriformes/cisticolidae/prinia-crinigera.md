@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-crinigera/1.jpg
+  page: https://www.inaturalist.org/photos/641648713
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641648713/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-crinigera/1.jpg
+  page: https://www.inaturalist.org/photos/641648713
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641648713/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-crinigera/2.jpg
+  page: https://www.inaturalist.org/photos/660818146
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660818146/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-crinigera/3.jpg
+  page: https://www.inaturalist.org/photos/529631520
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529631520/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-crinigera/4.jpg
+  page: https://www.inaturalist.org/photos/364725825
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364725825/original.jpeg
+- file: images/passeriformes/cisticolidae/prinia-crinigera/5.jpg
+  page: https://www.inaturalist.org/photos/592234107
+  author: Maya Lodhiyal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592234107/original.jpg
 ---
 
 

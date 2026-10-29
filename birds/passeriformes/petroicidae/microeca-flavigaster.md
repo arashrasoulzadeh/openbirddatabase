@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/petroicidae/microeca-flavigaster/1.jpg
+  page: https://www.inaturalist.org/photos/660477509
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660477509/original.jpg
+images:
+- file: images/passeriformes/petroicidae/microeca-flavigaster/1.jpg
+  page: https://www.inaturalist.org/photos/660477509
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660477509/original.jpg
+- file: images/passeriformes/petroicidae/microeca-flavigaster/2.jpg
+  page: https://www.inaturalist.org/photos/678749385
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678749385/original.jpg
+- file: images/passeriformes/petroicidae/microeca-flavigaster/3.jpg
+  page: https://www.inaturalist.org/photos/705892000
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705892000/original.jpg
+- file: images/passeriformes/petroicidae/microeca-flavigaster/4.jpg
+  page: https://www.inaturalist.org/photos/660477506
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660477506/original.jpg
+- file: images/passeriformes/petroicidae/microeca-flavigaster/5.jpg
+  page: https://www.inaturalist.org/photos/660477498
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660477498/original.jpg
 ---
 
 

@@ -138,7 +138,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 23.2
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 226.0
   tail_length_mm: 136.6
   body_mass_g: 308.5
+image:
+  file: images/columbiformes/columbidae/columba-hodgsonii/1.jpg
+  page: https://www.inaturalist.org/photos/474539764
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474539764/original.jpeg
+images:
+- file: images/columbiformes/columbidae/columba-hodgsonii/1.jpg
+  page: https://www.inaturalist.org/photos/474539764
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474539764/original.jpeg
+- file: images/columbiformes/columbidae/columba-hodgsonii/2.jpg
+  page: https://www.inaturalist.org/photos/519130879
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519130879/original.jpg
+- file: images/columbiformes/columbidae/columba-hodgsonii/3.jpg
+  page: https://www.inaturalist.org/photos/546845937
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546845937/original.jpg
+- file: images/columbiformes/columbidae/columba-hodgsonii/4.jpg
+  page: https://www.inaturalist.org/photos/358779373
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358779373/original.jpeg
+- file: images/columbiformes/columbidae/columba-hodgsonii/5.jpg
+  page: https://www.inaturalist.org/photos/369903251
+  author: Sameer Kulkarni
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369903251/original.jpeg
 ---
 
 

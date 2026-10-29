@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/mesitornithiformes/mesitornithidae/mesitornis-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/455064324
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455064324/original.jpg
+images:
+- file: images/mesitornithiformes/mesitornithidae/mesitornis-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/455064324
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455064324/original.jpg
+- file: images/mesitornithiformes/mesitornithidae/mesitornis-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/457359871
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457359871/original.jpg
+- file: images/mesitornithiformes/mesitornithidae/mesitornis-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/245042613
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/245042613/original.jpg
+- file: images/mesitornithiformes/mesitornithidae/mesitornis-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/455064300
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455064300/original.jpg
+- file: images/mesitornithiformes/mesitornithidae/mesitornis-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/457359875
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457359875/original.jpg
 ---
 
 

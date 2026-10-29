@@ -158,8 +158,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/sarothruridae/sarothrura-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/172372975
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172372975/original.jpeg
+images:
+- file: images/gruiformes/sarothruridae/sarothrura-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/172372975
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/172372975/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/29097870
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29097870/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/29097944
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/29097944/original.jpeg
+- file: images/gruiformes/sarothruridae/sarothrura-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/72455611
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/72455611/original.jpeg
 ---
 
 

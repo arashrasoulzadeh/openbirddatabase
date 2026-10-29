@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chalcostigma-heteropogon/1.jpg
+  page: https://www.inaturalist.org/photos/623058079
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623058079/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chalcostigma-heteropogon/1.jpg
+  page: https://www.inaturalist.org/photos/623058079
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623058079/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-heteropogon/2.jpg
+  page: https://www.inaturalist.org/photos/361096800
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361096800/original.jpg
+- file: images/apodiformes/trochilidae/chalcostigma-heteropogon/3.jpg
+  page: https://www.inaturalist.org/photos/266367724
+  author: Ariel Gallego
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266367724/original.jpeg
+- file: images/apodiformes/trochilidae/chalcostigma-heteropogon/4.jpg
+  page: https://www.inaturalist.org/photos/345322758
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345322758/original.jpeg
+- file: images/apodiformes/trochilidae/chalcostigma-heteropogon/5.jpg
+  page: https://www.inaturalist.org/photos/236796005
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/236796005/original.jpeg
 ---
 
 

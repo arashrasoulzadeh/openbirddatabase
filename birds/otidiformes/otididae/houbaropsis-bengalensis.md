@@ -146,8 +146,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/houbaropsis-bengalensis/1.jpg
+  page: https://www.inaturalist.org/photos/632128491
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632128491/original.jpg
+images:
+- file: images/otidiformes/otididae/houbaropsis-bengalensis/1.jpg
+  page: https://www.inaturalist.org/photos/632128491
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632128491/original.jpg
+- file: images/otidiformes/otididae/houbaropsis-bengalensis/2.jpg
+  page: https://www.inaturalist.org/photos/551708645
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551708645/original.jpg
+- file: images/otidiformes/otididae/houbaropsis-bengalensis/3.jpg
+  page: https://www.inaturalist.org/photos/267526589
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267526589/original.jpg
+- file: images/otidiformes/otididae/houbaropsis-bengalensis/4.jpg
+  page: https://www.inaturalist.org/photos/185791257
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/185791257/original.jpg
+- file: images/otidiformes/otididae/houbaropsis-bengalensis/5.jpg
+  page: https://www.inaturalist.org/photos/210232410
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/210232410/original.jpg
 ---
 
 

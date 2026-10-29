@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/mareca-falcata/1.jpg
+  page: https://www.inaturalist.org/photos/605059740
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605059740/original.jpg
+images:
+- file: images/anseriformes/anatidae/mareca-falcata/1.jpg
+  page: https://www.inaturalist.org/photos/605059740
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605059740/original.jpg
+- file: images/anseriformes/anatidae/mareca-falcata/2.jpg
+  page: https://www.inaturalist.org/photos/609473095
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609473095/original.jpg
+- file: images/anseriformes/anatidae/mareca-falcata/3.jpg
+  page: https://www.inaturalist.org/photos/610179305
+  author: Katharine Khamhaengwong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610179305/original.jpg
+- file: images/anseriformes/anatidae/mareca-falcata/4.jpg
+  page: https://www.inaturalist.org/photos/616101465
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616101465/original.jpg
+- file: images/anseriformes/anatidae/mareca-falcata/5.jpg
+  page: https://www.inaturalist.org/photos/609473102
+  author: mami_t_t
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609473102/original.jpg
 ---
 
 

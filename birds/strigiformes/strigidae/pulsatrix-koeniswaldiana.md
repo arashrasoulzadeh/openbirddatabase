@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/pulsatrix-koeniswaldiana/1.jpg
+  page: https://www.inaturalist.org/photos/622235892
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622235892/original.jpg
+images:
+- file: images/strigiformes/strigidae/pulsatrix-koeniswaldiana/1.jpg
+  page: https://www.inaturalist.org/photos/622235892
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622235892/original.jpg
+- file: images/strigiformes/strigidae/pulsatrix-koeniswaldiana/2.jpg
+  page: https://www.inaturalist.org/photos/645021549
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645021549/original.jpg
+- file: images/strigiformes/strigidae/pulsatrix-koeniswaldiana/3.jpg
+  page: https://www.inaturalist.org/photos/656997447
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656997447/original.jpg
+- file: images/strigiformes/strigidae/pulsatrix-koeniswaldiana/4.jpg
+  page: https://www.inaturalist.org/photos/683051726
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683051726/original.jpg
+- file: images/strigiformes/strigidae/pulsatrix-koeniswaldiana/5.jpg
+  page: https://www.inaturalist.org/photos/741802031
+  author: Gabriel lima
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741802031/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-castaneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/592846835
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592846835/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-castaneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/592846835
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592846835/original.jpg
+- file: images/passeriformes/passerellidae/arremon-castaneiceps/2.jpg
+  page: https://www.inaturalist.org/photos/352326889
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352326889/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-castaneiceps/3.jpg
+  page: https://www.inaturalist.org/photos/219047809
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219047809/original.jpg
+- file: images/passeriformes/passerellidae/arremon-castaneiceps/4.jpg
+  page: https://www.inaturalist.org/photos/234378472
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/234378472/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-castaneiceps/5.jpg
+  page: https://www.inaturalist.org/photos/250107172
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250107172/original.jpeg
 ---
 
 

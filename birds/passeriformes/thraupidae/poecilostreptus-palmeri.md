@@ -126,7 +126,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.0
@@ -134,6 +135,44 @@ morphology:
   wing_length_mm: 81.9
   tail_length_mm: 58.5
   body_mass_g: 32.3
+image:
+  file: images/passeriformes/thraupidae/poecilostreptus-palmeri/1.jpg
+  page: https://www.inaturalist.org/photos/609211177
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609211177/original.jpg
+images:
+- file: images/passeriformes/thraupidae/poecilostreptus-palmeri/1.jpg
+  page: https://www.inaturalist.org/photos/609211177
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609211177/original.jpg
+- file: images/passeriformes/thraupidae/poecilostreptus-palmeri/2.jpg
+  page: https://www.inaturalist.org/photos/623793162
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623793162/original.jpg
+- file: images/passeriformes/thraupidae/poecilostreptus-palmeri/3.jpg
+  page: https://www.inaturalist.org/photos/592114023
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592114023/original.jpg
+- file: images/passeriformes/thraupidae/poecilostreptus-palmeri/4.jpg
+  page: https://www.inaturalist.org/photos/601646017
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601646017/original.jpg
+- file: images/passeriformes/thraupidae/poecilostreptus-palmeri/5.jpg
+  page: https://www.inaturalist.org/photos/351657040
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351657040/original.jpg
 ---
 
 

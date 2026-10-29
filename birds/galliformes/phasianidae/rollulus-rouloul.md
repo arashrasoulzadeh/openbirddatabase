@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/rollulus-rouloul/1.jpg
+  page: https://www.inaturalist.org/photos/578054172
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578054172/original.jpg
+images:
+- file: images/galliformes/phasianidae/rollulus-rouloul/1.jpg
+  page: https://www.inaturalist.org/photos/578054172
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578054172/original.jpg
+- file: images/galliformes/phasianidae/rollulus-rouloul/2.jpg
+  page: https://www.inaturalist.org/photos/595533581
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595533581/original.jpg
+- file: images/galliformes/phasianidae/rollulus-rouloul/3.jpg
+  page: https://www.inaturalist.org/photos/586320233
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586320233/original.jpg
+- file: images/galliformes/phasianidae/rollulus-rouloul/4.jpg
+  page: https://www.inaturalist.org/photos/451885280
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451885280/original.jpeg
+- file: images/galliformes/phasianidae/rollulus-rouloul/5.jpg
+  page: https://www.inaturalist.org/photos/258198276
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258198276/original.jpg
 ---
 
 

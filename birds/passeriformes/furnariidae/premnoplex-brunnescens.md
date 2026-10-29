@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/premnoplex-brunnescens/1.jpg
+  page: https://www.inaturalist.org/photos/614717666
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717666/original.jpg
+images:
+- file: images/passeriformes/furnariidae/premnoplex-brunnescens/1.jpg
+  page: https://www.inaturalist.org/photos/614717666
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614717666/original.jpg
+- file: images/passeriformes/furnariidae/premnoplex-brunnescens/2.jpg
+  page: https://www.inaturalist.org/photos/619100921
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619100921/original.jpg
+- file: images/passeriformes/furnariidae/premnoplex-brunnescens/3.jpg
+  page: https://www.inaturalist.org/photos/624048902
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624048902/original.jpg
+- file: images/passeriformes/furnariidae/premnoplex-brunnescens/4.jpg
+  page: https://www.inaturalist.org/photos/630968048
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630968048/original.jpg
+- file: images/passeriformes/furnariidae/premnoplex-brunnescens/5.jpg
+  page: https://www.inaturalist.org/photos/489397499
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489397499/original.jpg
 ---
 
 

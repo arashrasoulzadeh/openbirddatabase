@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-elisae/1.jpg
+  page: https://www.inaturalist.org/photos/683615168
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683615168/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-elisae/1.jpg
+  page: https://www.inaturalist.org/photos/683615168
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683615168/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-elisae/2.jpg
+  page: https://www.inaturalist.org/photos/488665660
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488665660/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-elisae/3.jpg
+  page: https://www.inaturalist.org/photos/488665674
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488665674/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-elisae/4.jpg
+  page: https://www.inaturalist.org/photos/488665814
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488665814/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-elisae/5.jpg
+  page: https://www.inaturalist.org/photos/488665816
+  author: James M. Maley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488665816/original.jpg
 ---
 
 

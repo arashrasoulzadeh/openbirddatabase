@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-roboratus/1.jpg
+  page: https://www.inaturalist.org/photos/558210815
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558210815/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-roboratus/1.jpg
+  page: https://www.inaturalist.org/photos/558210815
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558210815/original.jpg
+- file: images/strigiformes/strigidae/megascops-roboratus/2.jpg
+  page: https://www.inaturalist.org/photos/323096105
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323096105/original.jpg
+- file: images/strigiformes/strigidae/megascops-roboratus/3.jpg
+  page: https://www.inaturalist.org/photos/64949293
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/64949293/original.jpeg
+- file: images/strigiformes/strigidae/megascops-roboratus/4.jpg
+  page: https://www.inaturalist.org/photos/558211428
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558211428/original.jpg
+- file: images/strigiformes/strigidae/megascops-roboratus/5.jpg
+  page: https://www.inaturalist.org/photos/558211491
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558211491/original.jpg
 ---
 
 

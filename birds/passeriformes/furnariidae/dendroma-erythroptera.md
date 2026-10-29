@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/dendroma-erythroptera/1.jpg
+  page: https://www.inaturalist.org/photos/402019961
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402019961/original.jpg
+images:
+- file: images/passeriformes/furnariidae/dendroma-erythroptera/1.jpg
+  page: https://www.inaturalist.org/photos/402019961
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402019961/original.jpg
+- file: images/passeriformes/furnariidae/dendroma-erythroptera/2.jpg
+  page: https://www.inaturalist.org/photos/338243815
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338243815/original.jpg
+- file: images/passeriformes/furnariidae/dendroma-erythroptera/3.jpg
+  page: https://www.inaturalist.org/photos/8836617
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8836617/original.jpeg
+- file: images/passeriformes/furnariidae/dendroma-erythroptera/4.jpg
+  page: https://www.inaturalist.org/photos/158017670
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/158017670/original.jpeg
+- file: images/passeriformes/furnariidae/dendroma-erythroptera/5.jpg
+  page: https://www.inaturalist.org/photos/338243825
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338243825/original.jpg
 ---
 
 

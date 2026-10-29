@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/monticola-cinclorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/617206915
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206915/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/monticola-cinclorhyncha/1.jpg
+  page: https://www.inaturalist.org/photos/617206915
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206915/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-cinclorhyncha/2.jpg
+  page: https://www.inaturalist.org/photos/617173197
+  author: citi2024
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617173197/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-cinclorhyncha/3.jpg
+  page: https://www.inaturalist.org/photos/627942893
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627942893/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-cinclorhyncha/4.jpg
+  page: https://www.inaturalist.org/photos/630999068
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630999068/original.jpg
+- file: images/passeriformes/muscicapidae/monticola-cinclorhyncha/5.jpg
+  page: https://www.inaturalist.org/photos/642756542
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642756542/original.jpg
 ---
 
 

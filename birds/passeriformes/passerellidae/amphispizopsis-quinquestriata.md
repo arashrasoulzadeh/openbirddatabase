@@ -124,7 +124,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.0
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 68.8
   tail_length_mm: 62.2
   body_mass_g: 19.5
+image:
+  file: images/passeriformes/passerellidae/amphispizopsis-quinquestriata/1.jpg
+  page: https://www.inaturalist.org/photos/660987277
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660987277/original.jpg
+images:
+- file: images/passeriformes/passerellidae/amphispizopsis-quinquestriata/1.jpg
+  page: https://www.inaturalist.org/photos/660987277
+  author: Rodrigo Osvaldo Borbon Vázquez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660987277/original.jpg
+- file: images/passeriformes/passerellidae/amphispizopsis-quinquestriata/2.jpg
+  page: https://www.inaturalist.org/photos/738434350
+  author: John Thomlinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738434350/original.jpg
+- file: images/passeriformes/passerellidae/amphispizopsis-quinquestriata/3.jpg
+  page: https://www.inaturalist.org/photos/526927543
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526927543/original.jpg
+- file: images/passeriformes/passerellidae/amphispizopsis-quinquestriata/4.jpg
+  page: https://www.inaturalist.org/photos/532135167
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532135167/original.jpg
+- file: images/passeriformes/passerellidae/amphispizopsis-quinquestriata/5.jpg
+  page: https://www.inaturalist.org/photos/598582885
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598582885/original.jpg
 ---
 
 

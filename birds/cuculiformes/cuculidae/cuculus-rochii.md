@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/cuculus-rochii/1.jpg
+  page: https://www.inaturalist.org/photos/689774588
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689774588/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/cuculus-rochii/1.jpg
+  page: https://www.inaturalist.org/photos/689774588
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689774588/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-rochii/2.jpg
+  page: https://www.inaturalist.org/photos/604224499
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604224499/original.jpg
+- file: images/cuculiformes/cuculidae/cuculus-rochii/3.jpg
+  page: https://www.inaturalist.org/photos/446782560
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/446782560/original.jpeg
+- file: images/cuculiformes/cuculidae/cuculus-rochii/4.jpg
+  page: https://www.inaturalist.org/photos/455467920
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455467920/original.jpeg
+- file: images/cuculiformes/cuculidae/cuculus-rochii/5.jpg
+  page: https://www.inaturalist.org/photos/456492916
+  author: Gary Yong Gee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456492916/original.jpeg
 ---
 
 

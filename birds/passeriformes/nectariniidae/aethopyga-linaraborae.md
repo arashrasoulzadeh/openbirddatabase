@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/aethopyga-linaraborae/1.jpg
+  page: https://www.inaturalist.org/photos/269725974
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269725974/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/aethopyga-linaraborae/1.jpg
+  page: https://www.inaturalist.org/photos/269725974
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269725974/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-linaraborae/2.jpg
+  page: https://www.inaturalist.org/photos/269725866
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269725866/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-linaraborae/3.jpg
+  page: https://www.inaturalist.org/photos/228536263
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228536263/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-linaraborae/4.jpg
+  page: https://www.inaturalist.org/photos/228534037
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228534037/original.jpg
+- file: images/passeriformes/nectariniidae/aethopyga-linaraborae/5.jpg
+  page: https://www.inaturalist.org/photos/228534150
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228534150/original.jpg
 ---
 
 

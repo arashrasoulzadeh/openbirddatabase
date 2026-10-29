@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/pachyramphus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/633221720
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633221720/original.jpg
+images:
+- file: images/passeriformes/tityridae/pachyramphus-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/633221720
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633221720/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/648940955
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/648940955/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/710284371
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710284371/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/732609789
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/732609789/original.jpg
+- file: images/passeriformes/tityridae/pachyramphus-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/737508073
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737508073/original.jpg
 ---
 
 

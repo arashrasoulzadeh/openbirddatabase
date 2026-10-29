@@ -182,10 +182,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/charadriiformes/charadriidae/vanellus-vanellus/1.jpg
+  page: https://www.inaturalist.org/photos/604822107
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604822107/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-vanellus/1.jpg
+  page: https://www.inaturalist.org/photos/604822107
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604822107/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-vanellus/2.jpg
+  page: https://www.inaturalist.org/photos/605417645
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417645/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-vanellus/3.jpg
+  page: https://www.inaturalist.org/photos/604745374
+  author: Bastien Le Mort
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604745374/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-vanellus/4.jpg
+  page: https://www.inaturalist.org/photos/605181916
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605181916/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-vanellus/5.jpg
+  page: https://www.inaturalist.org/photos/605489137
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605489137/original.jpg
 ---
 
 

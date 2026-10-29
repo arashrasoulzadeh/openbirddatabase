@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/nesoctites-micromegas/1.jpg
+  page: https://www.inaturalist.org/photos/614975331
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975331/original.jpg
+images:
+- file: images/piciformes/picidae/nesoctites-micromegas/1.jpg
+  page: https://www.inaturalist.org/photos/614975331
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975331/original.jpg
+- file: images/piciformes/picidae/nesoctites-micromegas/2.jpg
+  page: https://www.inaturalist.org/photos/475291581
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475291581/original.jpg
+- file: images/piciformes/picidae/nesoctites-micromegas/3.jpg
+  page: https://www.inaturalist.org/photos/589871879
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589871879/original.jpg
+- file: images/piciformes/picidae/nesoctites-micromegas/4.jpg
+  page: https://www.inaturalist.org/photos/603648029
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603648029/original.jpg
+- file: images/piciformes/picidae/nesoctites-micromegas/5.jpg
+  page: https://www.inaturalist.org/photos/289771291
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289771291/original.jpeg
 ---
 
 

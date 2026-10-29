@@ -141,10 +141,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   clutch_size_mean: 3.0
+image:
+  file: images/passeriformes/aegithinidae/aegithina-lafresnayei/1.jpg
+  page: https://www.inaturalist.org/photos/614292259
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614292259/original.jpg
+images:
+- file: images/passeriformes/aegithinidae/aegithina-lafresnayei/1.jpg
+  page: https://www.inaturalist.org/photos/614292259
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614292259/original.jpg
+- file: images/passeriformes/aegithinidae/aegithina-lafresnayei/2.jpg
+  page: https://www.inaturalist.org/photos/630740126
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630740126/original.jpg
+- file: images/passeriformes/aegithinidae/aegithina-lafresnayei/3.jpg
+  page: https://www.inaturalist.org/photos/737642100
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737642100/original.jpg
+- file: images/passeriformes/aegithinidae/aegithina-lafresnayei/4.jpg
+  page: https://www.inaturalist.org/photos/464452631
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464452631/original.jpeg
+- file: images/passeriformes/aegithinidae/aegithina-lafresnayei/5.jpg
+  page: https://www.inaturalist.org/photos/487817346
+  author: Tim Parker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487817346/original.jpeg
 ---
 
 

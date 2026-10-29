@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dryocopus-hodgei/1.jpg
+  page: https://www.inaturalist.org/photos/338545904
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338545904/original.jpeg
+images:
+- file: images/piciformes/picidae/dryocopus-hodgei/1.jpg
+  page: https://www.inaturalist.org/photos/338545904
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338545904/original.jpeg
+- file: images/piciformes/picidae/dryocopus-hodgei/2.jpg
+  page: https://www.inaturalist.org/photos/62991528
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62991528/original.jpeg
+- file: images/piciformes/picidae/dryocopus-hodgei/3.jpg
+  page: https://www.inaturalist.org/photos/338545909
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338545909/original.jpeg
+- file: images/piciformes/picidae/dryocopus-hodgei/4.jpg
+  page: https://www.inaturalist.org/photos/338545901
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338545901/original.jpeg
+- file: images/piciformes/picidae/dryocopus-hodgei/5.jpg
+  page: https://www.inaturalist.org/photos/338545916
+  author: Jigu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338545916/original.jpeg
 ---
 
 

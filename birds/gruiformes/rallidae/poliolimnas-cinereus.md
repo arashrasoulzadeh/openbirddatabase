@@ -141,7 +141,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 24.8
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 94.0
   tail_length_mm: 48.8
   body_mass_g: 52.1
+image:
+  file: images/gruiformes/rallidae/poliolimnas-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/617605975
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617605975/original.jpg
+images:
+- file: images/gruiformes/rallidae/poliolimnas-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/617605975
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617605975/original.jpg
+- file: images/gruiformes/rallidae/poliolimnas-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/626049517
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626049517/original.jpg
+- file: images/gruiformes/rallidae/poliolimnas-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/623203891
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623203891/original.jpg
+- file: images/gruiformes/rallidae/poliolimnas-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/632162195
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632162195/original.jpg
+- file: images/gruiformes/rallidae/poliolimnas-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/653420836
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653420836/original.jpg
 ---
 
 

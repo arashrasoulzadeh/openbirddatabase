@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/celeus-obrieni/1.jpg
+  page: https://www.inaturalist.org/photos/595912616
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595912616/original.jpg
+images:
+- file: images/piciformes/picidae/celeus-obrieni/1.jpg
+  page: https://www.inaturalist.org/photos/595912616
+  author: Odebrecht, Clarisse
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595912616/original.jpg
+- file: images/piciformes/picidae/celeus-obrieni/2.jpg
+  page: https://www.inaturalist.org/photos/607277155
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607277155/original.jpg
+- file: images/piciformes/picidae/celeus-obrieni/3.jpg
+  page: https://www.inaturalist.org/photos/437849419
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437849419/original.jpeg
+- file: images/piciformes/picidae/celeus-obrieni/4.jpg
+  page: https://www.inaturalist.org/photos/246155018
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246155018/original.jpg
+- file: images/piciformes/picidae/celeus-obrieni/5.jpg
+  page: https://www.inaturalist.org/photos/437849514
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/437849514/original.jpeg
 ---
 
 

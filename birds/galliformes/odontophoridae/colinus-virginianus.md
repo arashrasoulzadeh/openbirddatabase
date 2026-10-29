@@ -207,10 +207,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/galliformes/odontophoridae/colinus-virginianus/1.jpg
+  page: https://www.inaturalist.org/photos/609403227
+  author: Cody Stricker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609403227/original.jpg
+images:
+- file: images/galliformes/odontophoridae/colinus-virginianus/1.jpg
+  page: https://www.inaturalist.org/photos/609403227
+  author: Cody Stricker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609403227/original.jpg
+- file: images/galliformes/odontophoridae/colinus-virginianus/2.jpg
+  page: https://www.inaturalist.org/photos/612222815
+  author: G Key
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612222815/original.jpg
+- file: images/galliformes/odontophoridae/colinus-virginianus/3.jpg
+  page: https://www.inaturalist.org/photos/619697471
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619697471/original.jpg
+- file: images/galliformes/odontophoridae/colinus-virginianus/4.jpg
+  page: https://www.inaturalist.org/photos/609403281
+  author: Cody Stricker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609403281/original.jpg
+- file: images/galliformes/odontophoridae/colinus-virginianus/5.jpg
+  page: https://www.inaturalist.org/photos/614471160
+  author: Cody Stricker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614471160/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-flavilateralis/1.jpg
+  page: https://www.inaturalist.org/photos/588289886
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588289886/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-flavilateralis/1.jpg
+  page: https://www.inaturalist.org/photos/588289886
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588289886/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-flavilateralis/2.jpg
+  page: https://www.inaturalist.org/photos/433004512
+  author: Nikhil R R
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433004512/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-flavilateralis/3.jpg
+  page: https://www.inaturalist.org/photos/321044837
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/321044837/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-flavilateralis/4.jpg
+  page: https://www.inaturalist.org/photos/247327063
+  author: bukoba_steve
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247327063/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-flavilateralis/5.jpg
+  page: https://www.inaturalist.org/photos/10005779
+  author: John Lyakurwa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/10005779/original.jpeg
 ---
 
 

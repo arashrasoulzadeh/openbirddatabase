@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 49
+image:
+  file: images/psittaciformes/psittacidae/amazona-auropalliata/1.jpg
+  page: https://www.inaturalist.org/photos/620244468
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620244468/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-auropalliata/1.jpg
+  page: https://www.inaturalist.org/photos/620244468
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620244468/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-auropalliata/2.jpg
+  page: https://www.inaturalist.org/photos/617336122
+  author: Lauren Bosch
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617336122/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-auropalliata/3.jpg
+  page: https://www.inaturalist.org/photos/619528490
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619528490/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-auropalliata/4.jpg
+  page: https://www.inaturalist.org/photos/619682402
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619682402/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-auropalliata/5.jpg
+  page: https://www.inaturalist.org/photos/628144940
+  author: Rancho Los Ángeles
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628144940/original.jpg
 ---
 
 

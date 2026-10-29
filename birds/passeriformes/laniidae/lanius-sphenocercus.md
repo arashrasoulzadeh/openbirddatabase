@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/laniidae/lanius-sphenocercus/1.jpg
+  page: https://www.inaturalist.org/photos/744625346
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744625346/original.jpg
+images:
+- file: images/passeriformes/laniidae/lanius-sphenocercus/1.jpg
+  page: https://www.inaturalist.org/photos/744625346
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744625346/original.jpg
+- file: images/passeriformes/laniidae/lanius-sphenocercus/2.jpg
+  page: https://www.inaturalist.org/photos/463520566
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463520566/original.jpeg
+- file: images/passeriformes/laniidae/lanius-sphenocercus/3.jpg
+  page: https://www.inaturalist.org/photos/568550296
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568550296/original.jpg
+- file: images/passeriformes/laniidae/lanius-sphenocercus/4.jpg
+  page: https://www.inaturalist.org/photos/472436899
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472436899/original.jpeg
+- file: images/passeriformes/laniidae/lanius-sphenocercus/5.jpg
+  page: https://www.inaturalist.org/photos/744625320
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744625320/original.jpg
 ---
 
 

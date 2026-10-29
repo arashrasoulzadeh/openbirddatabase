@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/carpodectes-antoniae/1.jpg
+  page: https://www.inaturalist.org/photos/721336730
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721336730/original.jpg
+images:
+- file: images/passeriformes/cotingidae/carpodectes-antoniae/1.jpg
+  page: https://www.inaturalist.org/photos/721336730
+  author: Theo Rickert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721336730/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-antoniae/2.jpg
+  page: https://www.inaturalist.org/photos/517700973
+  author: My-Lan Le
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517700973/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-antoniae/3.jpg
+  page: https://www.inaturalist.org/photos/251639522
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251639522/original.jpeg
+- file: images/passeriformes/cotingidae/carpodectes-antoniae/4.jpg
+  page: https://www.inaturalist.org/photos/731789698
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731789698/original.jpg
+- file: images/passeriformes/cotingidae/carpodectes-antoniae/5.jpg
+  page: https://www.inaturalist.org/photos/152961720
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/152961720/original.jpeg
 ---
 
 

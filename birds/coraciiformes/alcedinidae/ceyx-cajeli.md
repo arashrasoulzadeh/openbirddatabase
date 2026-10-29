@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/alcedinidae/ceyx-cajeli/1.jpg
+  page: https://www.inaturalist.org/photos/718305590
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305590/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/ceyx-cajeli/1.jpg
+  page: https://www.inaturalist.org/photos/718305590
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305590/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-cajeli/2.jpg
+  page: https://www.inaturalist.org/photos/718305650
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305650/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-cajeli/3.jpg
+  page: https://www.inaturalist.org/photos/718305644
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305644/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-cajeli/4.jpg
+  page: https://www.inaturalist.org/photos/416866050
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866050/original.jpg
+- file: images/coraciiformes/alcedinidae/ceyx-cajeli/5.jpg
+  page: https://www.inaturalist.org/photos/416866053
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866053/original.jpg
 ---
 
 

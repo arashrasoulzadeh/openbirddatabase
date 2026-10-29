@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-robustus/1.jpg
+  page: https://www.inaturalist.org/photos/594075006
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594075006/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-robustus/1.jpg
+  page: https://www.inaturalist.org/photos/594075006
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594075006/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-robustus/2.jpg
+  page: https://www.inaturalist.org/photos/584092667
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584092667/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-robustus/3.jpg
+  page: https://www.inaturalist.org/photos/190312348
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190312348/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-robustus/4.jpg
+  page: https://picasaweb.google.com/116916927065934112165/MaraBiodiversity?authkey=Gv1sRgCParu9HN9Ln9XA#6050492326404430818
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1068124/original.JPG
+- file: images/passeriformes/cisticolidae/cisticola-robustus/5.jpg
+  page: https://www.inaturalist.org/photos/173780365
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173780365/original.jpeg
 ---
 
 

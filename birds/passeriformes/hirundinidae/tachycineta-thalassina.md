@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/hirundinidae/tachycineta-thalassina/1.jpg
+  page: https://www.inaturalist.org/photos/619374698
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619374698/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/tachycineta-thalassina/1.jpg
+  page: https://www.inaturalist.org/photos/619374698
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619374698/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-thalassina/2.jpg
+  page: https://www.inaturalist.org/photos/619995888
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619995888/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-thalassina/3.jpg
+  page: https://www.inaturalist.org/photos/621867282
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621867282/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-thalassina/4.jpg
+  page: https://www.inaturalist.org/photos/622678941
+  author: znot
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622678941/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-thalassina/5.jpg
+  page: https://www.inaturalist.org/photos/620912709
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620912709/original.jpg
 ---
 
 

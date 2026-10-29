@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Cooperative
+image:
+  file: images/passeriformes/thraupidae/chrysothlypis-salmoni/1.jpg
+  page: https://www.inaturalist.org/photos/255458219
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255458219/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/chrysothlypis-salmoni/1.jpg
+  page: https://www.inaturalist.org/photos/255458219
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255458219/original.jpeg
+- file: images/passeriformes/thraupidae/chrysothlypis-salmoni/2.jpg
+  page: https://www.inaturalist.org/photos/255701841
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255701841/original.jpeg
+- file: images/passeriformes/thraupidae/chrysothlypis-salmoni/3.jpg
+  page: https://www.inaturalist.org/photos/70208723
+  author: Blair Dudeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/70208723/original.jpg
+- file: images/passeriformes/thraupidae/chrysothlypis-salmoni/4.jpg
+  page: https://www.inaturalist.org/photos/104826841
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826841/original.jpeg
+- file: images/passeriformes/thraupidae/chrysothlypis-salmoni/5.jpg
+  page: https://www.inaturalist.org/photos/255458224
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255458224/original.jpeg
 ---
 
 

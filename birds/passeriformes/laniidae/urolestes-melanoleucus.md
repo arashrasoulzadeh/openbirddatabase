@@ -133,7 +133,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 24.4
@@ -143,6 +144,44 @@ morphology:
   body_mass_g: 82.2
 reproduction:
   clutch_size_mean: 3.9
+image:
+  file: images/passeriformes/laniidae/urolestes-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/642298062
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642298062/original.jpg
+images:
+- file: images/passeriformes/laniidae/urolestes-melanoleucus/1.jpg
+  page: https://www.inaturalist.org/photos/642298062
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642298062/original.jpg
+- file: images/passeriformes/laniidae/urolestes-melanoleucus/2.jpg
+  page: https://www.inaturalist.org/photos/624222337
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624222337/original.jpg
+- file: images/passeriformes/laniidae/urolestes-melanoleucus/3.jpg
+  page: https://www.inaturalist.org/photos/642298058
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642298058/original.jpg
+- file: images/passeriformes/laniidae/urolestes-melanoleucus/4.jpg
+  page: https://www.inaturalist.org/photos/642298051
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642298051/original.jpg
+- file: images/passeriformes/laniidae/urolestes-melanoleucus/5.jpg
+  page: https://www.inaturalist.org/photos/624222349
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624222349/original.jpg
 ---
 
 

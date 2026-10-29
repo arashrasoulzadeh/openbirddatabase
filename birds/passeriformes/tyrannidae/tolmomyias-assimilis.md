@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tolmomyias-assimilis/1.jpg
+  page: https://www.inaturalist.org/photos/606511144
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606511144/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tolmomyias-assimilis/1.jpg
+  page: https://www.inaturalist.org/photos/606511144
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606511144/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-assimilis/2.jpg
+  page: https://www.inaturalist.org/photos/348901877
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348901877/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-assimilis/3.jpg
+  page: https://www.inaturalist.org/photos/350276087
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350276087/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-assimilis/4.jpg
+  page: https://www.inaturalist.org/photos/353058044
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353058044/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-assimilis/5.jpg
+  page: https://www.flickr.com/photos/cricketsblog/52725738469/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/258986400/original.jpg
 ---
 
 

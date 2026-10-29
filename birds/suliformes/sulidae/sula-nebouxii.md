@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/suliformes/sulidae/sula-nebouxii/1.jpg
+  page: https://www.inaturalist.org/photos/607626926
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607626926/original.jpg
+images:
+- file: images/suliformes/sulidae/sula-nebouxii/1.jpg
+  page: https://www.inaturalist.org/photos/607626926
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607626926/original.jpg
+- file: images/suliformes/sulidae/sula-nebouxii/2.jpg
+  page: https://www.inaturalist.org/photos/607322683
+  author: Alison
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607322683/original.jpg
+- file: images/suliformes/sulidae/sula-nebouxii/3.jpg
+  page: https://www.inaturalist.org/photos/614107601
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614107601/original.jpg
+- file: images/suliformes/sulidae/sula-nebouxii/4.jpg
+  page: https://www.inaturalist.org/photos/607626961
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607626961/original.jpg
+- file: images/suliformes/sulidae/sula-nebouxii/5.jpg
+  page: https://www.inaturalist.org/photos/607626984
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607626984/original.jpg
 ---
 
 

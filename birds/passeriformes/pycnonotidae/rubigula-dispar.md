@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/rubigula-dispar/1.jpg
+  page: https://www.inaturalist.org/photos/629644145
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629644145/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/rubigula-dispar/1.jpg
+  page: https://www.inaturalist.org/photos/629644145
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629644145/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-dispar/2.jpg
+  page: https://www.inaturalist.org/photos/628016416
+  author: khalebyordan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628016416/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-dispar/3.jpg
+  page: https://www.inaturalist.org/photos/673876694
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673876694/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-dispar/4.jpg
+  page: https://www.inaturalist.org/photos/581980044
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581980044/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-dispar/5.jpg
+  page: https://www.inaturalist.org/photos/612121957
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612121957/original.jpg
 ---
 
 

@@ -136,10 +136,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/lepidocolaptes-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/609576205
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576205/original.jpg
+images:
+- file: images/passeriformes/furnariidae/lepidocolaptes-leucogaster/1.jpg
+  page: https://www.inaturalist.org/photos/609576205
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576205/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-leucogaster/2.jpg
+  page: https://www.inaturalist.org/photos/479501688
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479501688/original.jpeg
+- file: images/passeriformes/furnariidae/lepidocolaptes-leucogaster/3.jpg
+  page: https://www.inaturalist.org/photos/557851305
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557851305/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-leucogaster/4.jpg
+  page: https://www.inaturalist.org/photos/420613940
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420613940/original.jpeg
+- file: images/passeriformes/furnariidae/lepidocolaptes-leucogaster/5.jpg
+  page: https://www.inaturalist.org/photos/598393272
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598393272/original.jpg
 ---
 
 

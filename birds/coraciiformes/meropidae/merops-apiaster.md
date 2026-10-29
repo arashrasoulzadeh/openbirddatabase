@@ -215,10 +215,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/coraciiformes/meropidae/merops-apiaster/1.jpg
+  page: https://www.inaturalist.org/photos/606190329
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606190329/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-apiaster/1.jpg
+  page: https://www.inaturalist.org/photos/606190329
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606190329/original.jpg
+- file: images/coraciiformes/meropidae/merops-apiaster/2.jpg
+  page: https://www.inaturalist.org/photos/609998205
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609998205/original.jpg
+- file: images/coraciiformes/meropidae/merops-apiaster/3.jpg
+  page: https://www.inaturalist.org/photos/615431449
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615431449/original.jpg
+- file: images/coraciiformes/meropidae/merops-apiaster/4.jpg
+  page: https://www.inaturalist.org/photos/610233910
+  author: Juan Martínez Reina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610233910/original.jpg
+- file: images/coraciiformes/meropidae/merops-apiaster/5.jpg
+  page: https://www.inaturalist.org/photos/615431441
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615431441/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/passer-flaveolus/1.jpg
+  page: https://www.inaturalist.org/photos/618267727
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618267727/original.jpg
+images:
+- file: images/passeriformes/passeridae/passer-flaveolus/1.jpg
+  page: https://www.inaturalist.org/photos/618267727
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618267727/original.jpg
+- file: images/passeriformes/passeridae/passer-flaveolus/2.jpg
+  page: https://www.inaturalist.org/photos/619228277
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619228277/original.jpg
+- file: images/passeriformes/passeridae/passer-flaveolus/3.jpg
+  page: https://www.inaturalist.org/photos/623888787
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623888787/original.jpg
+- file: images/passeriformes/passeridae/passer-flaveolus/4.jpg
+  page: https://www.inaturalist.org/photos/625611332
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625611332/original.jpg
+- file: images/passeriformes/passeridae/passer-flaveolus/5.jpg
+  page: https://www.inaturalist.org/photos/630000135
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630000135/original.jpg
 ---
 
 

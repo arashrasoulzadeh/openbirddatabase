@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-herminieri/1.jpg
+  page: https://www.inaturalist.org/photos/473780011
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473780011/original.jpeg
+images:
+- file: images/piciformes/picidae/melanerpes-herminieri/1.jpg
+  page: https://www.inaturalist.org/photos/473780011
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473780011/original.jpeg
+- file: images/piciformes/picidae/melanerpes-herminieri/2.jpg
+  page: https://www.inaturalist.org/photos/188204076
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/188204076/original.jpeg
+- file: images/piciformes/picidae/melanerpes-herminieri/3.jpg
+  page: https://www.inaturalist.org/photos/9506220
+  author: Leonel Richard
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/9506220/original.jpeg
+- file: images/piciformes/picidae/melanerpes-herminieri/4.jpg
+  page: https://www.inaturalist.org/photos/97510710
+  author: Yves Bas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97510710/original.jpg
+- file: images/piciformes/picidae/melanerpes-herminieri/5.jpg
+  page: https://www.inaturalist.org/photos/473780025
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473780025/original.jpeg
 ---
 
 

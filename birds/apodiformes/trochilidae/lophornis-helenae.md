@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/lophornis-helenae/1.jpg
+  page: https://www.inaturalist.org/photos/608632590
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608632590/original.jpg
+images:
+- file: images/apodiformes/trochilidae/lophornis-helenae/1.jpg
+  page: https://www.inaturalist.org/photos/608632590
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608632590/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-helenae/2.jpg
+  page: https://www.inaturalist.org/photos/610503149
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503149/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-helenae/3.jpg
+  page: https://www.inaturalist.org/photos/617295239
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617295239/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-helenae/4.jpg
+  page: https://www.inaturalist.org/photos/622712676
+  author: Leslie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622712676/original.jpg
+- file: images/apodiformes/trochilidae/lophornis-helenae/5.jpg
+  page: https://www.inaturalist.org/photos/599493952
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599493952/original.jpg
 ---
 
 

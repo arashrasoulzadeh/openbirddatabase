@@ -162,10 +162,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 33
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-brevipes/1.jpg
+  page: https://www.inaturalist.org/photos/409940711
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409940711/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-brevipes/1.jpg
+  page: https://www.inaturalist.org/photos/409940711
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409940711/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-brevipes/2.jpg
+  page: https://www.inaturalist.org/photos/267232172
+  author: Henrik Kibak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267232172/original.jpeg
+- file: images/procellariiformes/procellariidae/pterodroma-brevipes/3.jpg
+  page: https://www.inaturalist.org/photos/409940831
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409940831/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-brevipes/4.jpg
+  page: https://www.inaturalist.org/photos/409943857
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409943857/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-brevipes/5.jpg
+  page: https://www.inaturalist.org/photos/409940835
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409940835/original.jpg
 ---
 
 

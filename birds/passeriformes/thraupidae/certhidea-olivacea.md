@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/certhidea-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/733582715
+  author: Naji Love
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733582715/original.jpg
+images:
+- file: images/passeriformes/thraupidae/certhidea-olivacea/1.jpg
+  page: https://www.inaturalist.org/photos/733582715
+  author: Naji Love
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733582715/original.jpg
+- file: images/passeriformes/thraupidae/certhidea-olivacea/2.jpg
+  page: https://www.inaturalist.org/photos/478094006
+  author: nikonbird007
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478094006/original.jpeg
+- file: images/passeriformes/thraupidae/certhidea-olivacea/3.jpg
+  page: https://www.inaturalist.org/photos/528388073
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528388073/original.jpg
+- file: images/passeriformes/thraupidae/certhidea-olivacea/4.jpg
+  page: https://www.inaturalist.org/photos/535670497
+  author: Mike Brady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535670497/original.jpg
+- file: images/passeriformes/thraupidae/certhidea-olivacea/5.jpg
+  page: https://www.inaturalist.org/photos/350320521
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350320521/original.jpeg
 ---
 
 

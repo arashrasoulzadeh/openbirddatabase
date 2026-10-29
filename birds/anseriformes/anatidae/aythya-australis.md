@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/aythya-australis/1.jpg
+  page: https://www.inaturalist.org/photos/605286290
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286290/original.jpg
+images:
+- file: images/anseriformes/anatidae/aythya-australis/1.jpg
+  page: https://www.inaturalist.org/photos/605286290
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286290/original.jpg
+- file: images/anseriformes/anatidae/aythya-australis/2.jpg
+  page: https://www.inaturalist.org/photos/609851630
+  author: Graham Cleaver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609851630/original.jpg
+- file: images/anseriformes/anatidae/aythya-australis/3.jpg
+  page: https://www.inaturalist.org/photos/605843744
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605843744/original.jpg
+- file: images/anseriformes/anatidae/aythya-australis/4.jpg
+  page: https://www.inaturalist.org/photos/607858767
+  author: Billie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607858767/original.jpg
+- file: images/anseriformes/anatidae/aythya-australis/5.jpg
+  page: https://www.inaturalist.org/photos/605869883
+  author: Austen Armstrong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605869883/original.jpg
 ---
 
 

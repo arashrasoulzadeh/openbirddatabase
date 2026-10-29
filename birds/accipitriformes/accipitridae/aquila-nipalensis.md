@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 41
+image:
+  file: images/accipitriformes/accipitridae/aquila-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/609735450
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735450/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aquila-nipalensis/1.jpg
+  page: https://www.inaturalist.org/photos/609735450
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735450/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-nipalensis/2.jpg
+  page: https://www.inaturalist.org/photos/615674074
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674074/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-nipalensis/3.jpg
+  page: https://www.inaturalist.org/photos/616541498
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616541498/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-nipalensis/4.jpg
+  page: https://www.inaturalist.org/photos/614553667
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553667/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-nipalensis/5.jpg
+  page: https://www.inaturalist.org/photos/615467239
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615467239/original.jpg
 ---
 
 

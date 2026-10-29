@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/treron-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/617207044
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207044/original.jpg
+images:
+- file: images/columbiformes/columbidae/treron-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/617207044
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207044/original.jpg
+- file: images/columbiformes/columbidae/treron-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/642726702
+  author: '@dineshphotography7797'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642726702/original.jpg
+- file: images/columbiformes/columbidae/treron-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/693886204
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693886204/original.jpg
+- file: images/columbiformes/columbidae/treron-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/724078395
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724078395/original.jpg
+- file: images/columbiformes/columbidae/treron-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/466675551
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466675551/original.jpeg
 ---
 
 

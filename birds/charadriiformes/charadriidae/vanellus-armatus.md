@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/charadriiformes/charadriidae/vanellus-armatus/1.jpg
+  page: https://www.inaturalist.org/photos/609457306
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609457306/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-armatus/1.jpg
+  page: https://www.inaturalist.org/photos/609457306
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609457306/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-armatus/2.jpg
+  page: https://www.inaturalist.org/photos/610957616
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610957616/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-armatus/3.jpg
+  page: https://www.inaturalist.org/photos/609921357
+  author: AllyP
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609921357/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-armatus/4.jpg
+  page: https://www.inaturalist.org/photos/608868638
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608868638/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-armatus/5.jpg
+  page: https://www.inaturalist.org/photos/606834944
+  author: Mike Musgrave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606834944/original.jpg
 ---
 
 

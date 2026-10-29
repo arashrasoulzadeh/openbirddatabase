@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-massena/1.jpg
+  page: https://www.inaturalist.org/photos/608703594
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608703594/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-massena/1.jpg
+  page: https://www.inaturalist.org/photos/608703594
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608703594/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-massena/2.jpg
+  page: https://www.inaturalist.org/photos/609085630
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609085630/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-massena/3.jpg
+  page: https://www.inaturalist.org/photos/612471905
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612471905/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-massena/4.jpg
+  page: https://www.inaturalist.org/photos/614254715
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614254715/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-massena/5.jpg
+  page: https://www.inaturalist.org/photos/618073872
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618073872/original.jpg
 ---
 
 

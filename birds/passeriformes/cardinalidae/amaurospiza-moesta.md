@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/amaurospiza-moesta/1.jpg
+  page: https://www.inaturalist.org/photos/620380782
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620380782/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/amaurospiza-moesta/1.jpg
+  page: https://www.inaturalist.org/photos/620380782
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620380782/original.jpg
+- file: images/passeriformes/cardinalidae/amaurospiza-moesta/2.jpg
+  page: https://www.inaturalist.org/photos/728301564
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728301564/original.jpg
+- file: images/passeriformes/cardinalidae/amaurospiza-moesta/3.jpg
+  page: https://www.inaturalist.org/photos/474514163
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474514163/original.jpeg
+- file: images/passeriformes/cardinalidae/amaurospiza-moesta/4.jpg
+  page: https://www.inaturalist.org/photos/509705167
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509705167/original.jpg
+- file: images/passeriformes/cardinalidae/amaurospiza-moesta/5.jpg
+  page: https://www.inaturalist.org/photos/345510205
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345510205/original.jpeg
 ---
 
 

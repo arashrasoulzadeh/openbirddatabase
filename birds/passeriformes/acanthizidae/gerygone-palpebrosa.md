@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/acanthizidae/gerygone-palpebrosa/1.jpg
+  page: https://www.inaturalist.org/photos/631679628
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631679628/original.jpg
+images:
+- file: images/passeriformes/acanthizidae/gerygone-palpebrosa/1.jpg
+  page: https://www.inaturalist.org/photos/631679628
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631679628/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-palpebrosa/2.jpg
+  page: https://www.inaturalist.org/photos/636391491
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636391491/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-palpebrosa/3.jpg
+  page: https://www.inaturalist.org/photos/651964529
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651964529/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-palpebrosa/4.jpg
+  page: https://www.inaturalist.org/photos/734789902
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734789902/original.jpg
+- file: images/passeriformes/acanthizidae/gerygone-palpebrosa/5.jpg
+  page: https://www.inaturalist.org/photos/739728229
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739728229/original.jpg
 ---
 
 

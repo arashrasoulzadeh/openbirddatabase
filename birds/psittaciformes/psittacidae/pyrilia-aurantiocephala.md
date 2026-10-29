@@ -133,8 +133,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/pyrilia-aurantiocephala/1.jpg
+  page: https://www.inaturalist.org/photos/385713811
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385713811/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/pyrilia-aurantiocephala/1.jpg
+  page: https://www.inaturalist.org/photos/385713811
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385713811/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-aurantiocephala/2.jpg
+  page: https://www.inaturalist.org/photos/385747973
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385747973/original.jpg
+- file: images/psittaciformes/psittacidae/pyrilia-aurantiocephala/3.jpg
+  page: https://www.inaturalist.org/photos/385747974
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385747974/original.jpg
 ---
 
 

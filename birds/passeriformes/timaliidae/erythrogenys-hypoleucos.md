@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/erythrogenys-hypoleucos/1.jpg
+  page: https://www.inaturalist.org/photos/714275849
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714275849/original.jpg
+images:
+- file: images/passeriformes/timaliidae/erythrogenys-hypoleucos/1.jpg
+  page: https://www.inaturalist.org/photos/714275849
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714275849/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-hypoleucos/2.jpg
+  page: https://www.inaturalist.org/photos/628755781
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628755781/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-hypoleucos/3.jpg
+  page: https://www.inaturalist.org/photos/705009932
+  author: Thomas Gyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705009932/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-hypoleucos/4.jpg
+  page: https://www.inaturalist.org/photos/522565451
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522565451/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-hypoleucos/5.jpg
+  page: https://www.inaturalist.org/photos/378455162
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378455162/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/alisterus-amboinensis/1.jpg
+  page: https://www.inaturalist.org/photos/579438865
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579438865/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/alisterus-amboinensis/1.jpg
+  page: https://www.inaturalist.org/photos/579438865
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/579438865/original.jpg
+- file: images/psittaciformes/psittaculidae/alisterus-amboinensis/2.jpg
+  page: https://www.inaturalist.org/photos/247572778
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247572778/original.jpg
+- file: images/psittaciformes/psittaculidae/alisterus-amboinensis/3.jpg
+  page: https://www.inaturalist.org/photos/107893541
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107893541/original.jpg
+- file: images/psittaciformes/psittaculidae/alisterus-amboinensis/4.jpg
+  page: https://www.inaturalist.org/photos/440527895
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527895/original.jpeg
+- file: images/psittaciformes/psittaculidae/alisterus-amboinensis/5.jpg
+  page: https://www.inaturalist.org/photos/583299589
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583299589/original.jpg
 ---
 
 

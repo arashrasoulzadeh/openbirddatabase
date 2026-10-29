@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/erythrogonys-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/608336234
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608336234/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/erythrogonys-cinctus/1.jpg
+  page: https://www.inaturalist.org/photos/608336234
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608336234/original.jpg
+- file: images/charadriiformes/charadriidae/erythrogonys-cinctus/2.jpg
+  page: https://www.inaturalist.org/photos/610506339
+  author: neotrigonia
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610506339/original.jpg
+- file: images/charadriiformes/charadriidae/erythrogonys-cinctus/3.jpg
+  page: https://www.inaturalist.org/photos/682412115
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682412115/original.jpg
+- file: images/charadriiformes/charadriidae/erythrogonys-cinctus/4.jpg
+  page: https://www.inaturalist.org/photos/608336253
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608336253/original.jpg
+- file: images/charadriiformes/charadriidae/erythrogonys-cinctus/5.jpg
+  page: https://www.inaturalist.org/photos/606580189
+  author: Jeremy James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606580189/original.jpg
 ---
 
 

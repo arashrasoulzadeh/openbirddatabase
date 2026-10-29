@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/junco-vulcani/1.jpg
+  page: https://www.inaturalist.org/photos/613607949
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613607949/original.jpg
+images:
+- file: images/passeriformes/passerellidae/junco-vulcani/1.jpg
+  page: https://www.inaturalist.org/photos/613607949
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613607949/original.jpg
+- file: images/passeriformes/passerellidae/junco-vulcani/2.jpg
+  page: https://www.inaturalist.org/photos/629605169
+  author: Fabian Orozco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629605169/original.jpg
+- file: images/passeriformes/passerellidae/junco-vulcani/3.jpg
+  page: https://www.inaturalist.org/photos/654936341
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654936341/original.jpg
+- file: images/passeriformes/passerellidae/junco-vulcani/4.jpg
+  page: https://www.inaturalist.org/photos/657962627
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657962627/original.jpg
+- file: images/passeriformes/passerellidae/junco-vulcani/5.jpg
+  page: https://www.inaturalist.org/photos/691690506
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691690506/original.jpg
 ---
 
 

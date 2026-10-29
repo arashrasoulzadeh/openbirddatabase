@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/progne-chalybea/1.jpg
+  page: https://www.inaturalist.org/photos/608257089
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608257089/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/progne-chalybea/1.jpg
+  page: https://www.inaturalist.org/photos/608257089
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608257089/original.jpg
+- file: images/passeriformes/hirundinidae/progne-chalybea/2.jpg
+  page: https://www.inaturalist.org/photos/607981180
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607981180/original.jpg
+- file: images/passeriformes/hirundinidae/progne-chalybea/3.jpg
+  page: https://www.inaturalist.org/photos/610211183
+  author: Laura Nicola
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610211183/original.jpg
+- file: images/passeriformes/hirundinidae/progne-chalybea/4.jpg
+  page: https://www.inaturalist.org/photos/614178129
+  author: Henrique Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614178129/original.jpg
+- file: images/passeriformes/hirundinidae/progne-chalybea/5.jpg
+  page: https://www.inaturalist.org/photos/615093949
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615093949/original.jpg
 ---
 
 

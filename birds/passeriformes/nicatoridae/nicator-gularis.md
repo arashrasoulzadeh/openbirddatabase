@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nicatoridae/nicator-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/469299186
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469299186/original.jpeg
+images:
+- file: images/passeriformes/nicatoridae/nicator-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/469299186
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469299186/original.jpeg
+- file: images/passeriformes/nicatoridae/nicator-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/545950676
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545950676/original.jpg
+- file: images/passeriformes/nicatoridae/nicator-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/551735074
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551735074/original.jpg
+- file: images/passeriformes/nicatoridae/nicator-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/573316325
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/573316325/original.jpg
+- file: images/passeriformes/nicatoridae/nicator-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/596902765
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/596902765/original.jpg
 ---
 
 

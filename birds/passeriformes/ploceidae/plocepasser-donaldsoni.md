@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/plocepasser-donaldsoni/1.jpg
+  page: https://www.inaturalist.org/photos/722024215
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722024215/original.jpg
+images:
+- file: images/passeriformes/ploceidae/plocepasser-donaldsoni/1.jpg
+  page: https://www.inaturalist.org/photos/722024215
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722024215/original.jpg
+- file: images/passeriformes/ploceidae/plocepasser-donaldsoni/2.jpg
+  page: https://www.inaturalist.org/photos/585120018
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585120018/original.jpg
+- file: images/passeriformes/ploceidae/plocepasser-donaldsoni/3.jpg
+  page: https://www.inaturalist.org/photos/610901634
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610901634/original.jpg
+- file: images/passeriformes/ploceidae/plocepasser-donaldsoni/4.jpg
+  page: https://www.inaturalist.org/photos/402192195
+  author: Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402192195/original.jpeg
+- file: images/passeriformes/ploceidae/plocepasser-donaldsoni/5.jpg
+  page: https://www.inaturalist.org/photos/49854016
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49854016/original.jpeg
 ---
 
 

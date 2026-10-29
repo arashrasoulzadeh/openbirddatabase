@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/strigiformes/strigidae/athene-cunicularia/1.jpg
+  page: https://www.inaturalist.org/photos/605736354
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605736354/original.jpg
+images:
+- file: images/strigiformes/strigidae/athene-cunicularia/1.jpg
+  page: https://www.inaturalist.org/photos/605736354
+  author: Joaquín Krasuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605736354/original.jpg
+- file: images/strigiformes/strigidae/athene-cunicularia/2.jpg
+  page: https://www.inaturalist.org/photos/605696437
+  author: nleiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605696437/original.jpg
+- file: images/strigiformes/strigidae/athene-cunicularia/3.jpg
+  page: https://www.inaturalist.org/photos/605419101
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605419101/original.jpg
+- file: images/strigiformes/strigidae/athene-cunicularia/4.jpg
+  page: https://www.inaturalist.org/photos/605458923
+  author: Paulo C. O. Cunha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605458923/original.jpg
+- file: images/strigiformes/strigidae/athene-cunicularia/5.jpg
+  page: https://www.inaturalist.org/photos/605356706
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605356706/original.jpg
 ---
 
 

@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/psophiidae/psophia-crepitans/1.jpg
+  page: https://www.inaturalist.org/photos/621499375
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621499375/original.jpg
+images:
+- file: images/gruiformes/psophiidae/psophia-crepitans/1.jpg
+  page: https://www.inaturalist.org/photos/621499375
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621499375/original.jpg
+- file: images/gruiformes/psophiidae/psophia-crepitans/2.jpg
+  page: https://www.inaturalist.org/photos/737945794
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737945794/original.jpg
+- file: images/gruiformes/psophiidae/psophia-crepitans/3.jpg
+  page: https://www.inaturalist.org/photos/535625553
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/535625553/original.jpg
+- file: images/gruiformes/psophiidae/psophia-crepitans/4.jpg
+  page: https://www.inaturalist.org/photos/361562531
+  author: Bill Levine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361562531/original.jpeg
+- file: images/gruiformes/psophiidae/psophia-crepitans/5.jpg
+  page: https://www.inaturalist.org/photos/467952189
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467952189/original.jpeg
 ---
 
 

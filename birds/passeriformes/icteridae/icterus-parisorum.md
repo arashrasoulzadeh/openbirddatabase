@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/icteridae/icterus-parisorum/1.jpg
+  page: https://www.inaturalist.org/photos/609576305
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576305/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-parisorum/1.jpg
+  page: https://www.inaturalist.org/photos/609576305
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609576305/original.jpg
+- file: images/passeriformes/icteridae/icterus-parisorum/2.jpg
+  page: https://www.inaturalist.org/photos/611747617
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611747617/original.jpg
+- file: images/passeriformes/icteridae/icterus-parisorum/3.jpg
+  page: https://www.inaturalist.org/photos/620912747
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620912747/original.jpg
+- file: images/passeriformes/icteridae/icterus-parisorum/4.jpg
+  page: https://www.inaturalist.org/photos/628573564
+  author: Bob Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628573564/original.jpg
+- file: images/passeriformes/icteridae/icterus-parisorum/5.jpg
+  page: https://www.inaturalist.org/photos/628571765
+  author: Sue Carnahan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628571765/original.jpg
 ---
 
 

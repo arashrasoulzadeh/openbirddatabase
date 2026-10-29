@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/artamidae/cracticus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/605286247
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286247/original.jpg
+images:
+- file: images/passeriformes/artamidae/cracticus-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/605286247
+  author: Maria Duynisveld
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605286247/original.jpg
+- file: images/passeriformes/artamidae/cracticus-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/604707068
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604707068/original.jpg
+- file: images/passeriformes/artamidae/cracticus-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/605839518
+  author: Rosie Steinberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605839518/original.jpg
+- file: images/passeriformes/artamidae/cracticus-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/605839529
+  author: Rosie Steinberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605839529/original.jpg
+- file: images/passeriformes/artamidae/cracticus-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/608509482
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608509482/original.jpg
 ---
 
 

@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/macropygia-nigrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606388181
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388181/original.jpg
+images:
+- file: images/columbiformes/columbidae/macropygia-nigrirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606388181
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388181/original.jpg
+- file: images/columbiformes/columbidae/macropygia-nigrirostris/2.jpg
+  page: https://www.inaturalist.org/photos/698813281
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813281/original.jpg
+- file: images/columbiformes/columbidae/macropygia-nigrirostris/3.jpg
+  page: https://www.inaturalist.org/photos/335783132
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335783132/original.jpg
+- file: images/columbiformes/columbidae/macropygia-nigrirostris/4.jpg
+  page: https://www.inaturalist.org/photos/703190381
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703190381/original.jpg
+- file: images/columbiformes/columbidae/macropygia-nigrirostris/5.jpg
+  page: https://www.inaturalist.org/photos/703190384
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703190384/original.jpg
 ---
 
 

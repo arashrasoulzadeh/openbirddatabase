@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/pelecaniformes/ardeidae/egretta-caerulea/1.jpg
+  page: https://www.inaturalist.org/photos/604906655
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604906655/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/egretta-caerulea/1.jpg
+  page: https://www.inaturalist.org/photos/604906655
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604906655/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-caerulea/2.jpg
+  page: https://www.inaturalist.org/photos/604962876
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604962876/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-caerulea/3.jpg
+  page: https://www.inaturalist.org/photos/604624434
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604624434/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-caerulea/4.jpg
+  page: https://www.inaturalist.org/photos/604902462
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604902462/original.jpg
+- file: images/pelecaniformes/ardeidae/egretta-caerulea/5.jpg
+  page: https://www.inaturalist.org/photos/605660199
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605660199/original.jpg
 ---
 
 

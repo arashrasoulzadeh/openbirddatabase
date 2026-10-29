@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-palmarum/1.jpg
+  page: https://www.inaturalist.org/photos/621136653
+  author: Marina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621136653/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-palmarum/1.jpg
+  page: https://www.inaturalist.org/photos/621136653
+  author: Marina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621136653/original.jpg
+- file: images/passeriformes/corvidae/corvus-palmarum/2.jpg
+  page: https://www.inaturalist.org/photos/635144941
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635144941/original.jpg
+- file: images/passeriformes/corvidae/corvus-palmarum/3.jpg
+  page: https://www.inaturalist.org/photos/474981444
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474981444/original.jpg
+- file: images/passeriformes/corvidae/corvus-palmarum/4.jpg
+  page: https://www.inaturalist.org/photos/477579370
+  author: Odile V
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477579370/original.jpeg
+- file: images/passeriformes/corvidae/corvus-palmarum/5.jpg
+  page: https://www.inaturalist.org/photos/590278793
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590278793/original.jpg
 ---
 
 

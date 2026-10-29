@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/605625469
+  author: Dani Alba
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605625469/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/605625469
+  author: Dani Alba
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605625469/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-indicus/2.jpg
+  page: https://www.inaturalist.org/photos/608554437
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608554437/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-indicus/3.jpg
+  page: https://www.inaturalist.org/photos/607093449
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607093449/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-indicus/4.jpg
+  page: https://www.inaturalist.org/photos/607907312
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907312/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-indicus/5.jpg
+  page: https://www.inaturalist.org/photos/609927421
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609927421/original.jpg
 ---
 
 

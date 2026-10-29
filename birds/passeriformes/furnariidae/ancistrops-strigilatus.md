@@ -138,10 +138,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/ancistrops-strigilatus/1.jpg
+  page: https://www.inaturalist.org/photos/428080383
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428080383/original.jpg
+images:
+- file: images/passeriformes/furnariidae/ancistrops-strigilatus/1.jpg
+  page: https://www.inaturalist.org/photos/428080383
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428080383/original.jpg
+- file: images/passeriformes/furnariidae/ancistrops-strigilatus/2.jpg
+  page: https://www.inaturalist.org/photos/108673976
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108673976/original.jpg
+- file: images/passeriformes/furnariidae/ancistrops-strigilatus/3.jpg
+  page: https://www.inaturalist.org/photos/50787647
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50787647/original.jpg
+- file: images/passeriformes/furnariidae/ancistrops-strigilatus/4.jpg
+  page: https://www.inaturalist.org/photos/108673963
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108673963/original.jpg
+- file: images/passeriformes/furnariidae/ancistrops-strigilatus/5.jpg
+  page: https://www.inaturalist.org/photos/108674000
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/108674000/original.jpg
 ---
 
 

@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 50.9
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 132.5
   tail_length_mm: 110.2
   body_mass_g: 171.8
+image:
+  file: images/coraciiformes/alcedinidae/caridonax-fulgidus/1.jpg
+  page: https://www.inaturalist.org/photos/738313747
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738313747/original.jpg
+images:
+- file: images/coraciiformes/alcedinidae/caridonax-fulgidus/1.jpg
+  page: https://www.inaturalist.org/photos/738313747
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738313747/original.jpg
+- file: images/coraciiformes/alcedinidae/caridonax-fulgidus/2.jpg
+  page: https://www.inaturalist.org/photos/605189765
+  author: rjtizard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605189765/original.jpg
+- file: images/coraciiformes/alcedinidae/caridonax-fulgidus/3.jpg
+  page: https://www.inaturalist.org/photos/271004733
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/271004733/original.jpeg
+- file: images/coraciiformes/alcedinidae/caridonax-fulgidus/4.jpg
+  page: https://www.inaturalist.org/photos/738313659
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738313659/original.jpg
+- file: images/coraciiformes/alcedinidae/caridonax-fulgidus/5.jpg
+  page: https://www.inaturalist.org/photos/463564538
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463564538/original.jpeg
 ---
 
 

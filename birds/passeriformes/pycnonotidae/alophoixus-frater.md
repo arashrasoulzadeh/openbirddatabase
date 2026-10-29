@@ -134,8 +134,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/alophoixus-frater/1.jpg
+  page: https://www.inaturalist.org/photos/657168195
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657168195/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/alophoixus-frater/1.jpg
+  page: https://www.inaturalist.org/photos/657168195
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657168195/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-frater/2.jpg
+  page: https://www.inaturalist.org/photos/564600382
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564600382/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-frater/3.jpg
+  page: https://www.inaturalist.org/photos/244618408
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244618408/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-frater/4.jpg
+  page: https://www.inaturalist.org/photos/339660296
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339660296/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-frater/5.jpg
+  page: https://www.inaturalist.org/photos/657168238
+  author: Pauline Carmel Joy Eje
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657168238/original.jpg
 ---
 
 

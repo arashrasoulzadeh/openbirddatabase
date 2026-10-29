@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/727043827
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727043827/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-torquatus/1.jpg
+  page: https://www.inaturalist.org/photos/727043827
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727043827/original.jpg
+- file: images/passeriformes/passerellidae/arremon-torquatus/2.jpg
+  page: https://www.inaturalist.org/photos/490423867
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490423867/original.jpeg
+- file: images/passeriformes/passerellidae/arremon-torquatus/3.jpg
+  page: https://www.inaturalist.org/photos/583996211
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583996211/original.jpg
+- file: images/passeriformes/passerellidae/arremon-torquatus/4.jpg
+  page: https://www.inaturalist.org/photos/401836234
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/401836234/original.jpg
+- file: images/passeriformes/passerellidae/arremon-torquatus/5.jpg
+  page: https://www.inaturalist.org/photos/422441027
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422441027/original.jpeg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/circus-maurus/1.jpg
+  page: https://www.inaturalist.org/photos/650678839
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650678839/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/circus-maurus/1.jpg
+  page: https://www.inaturalist.org/photos/650678839
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650678839/original.jpg
+- file: images/accipitriformes/accipitridae/circus-maurus/2.jpg
+  page: https://www.inaturalist.org/photos/730308807
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730308807/original.jpg
+- file: images/accipitriformes/accipitridae/circus-maurus/3.jpg
+  page: https://www.inaturalist.org/photos/736907237
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736907237/original.jpg
+- file: images/accipitriformes/accipitridae/circus-maurus/4.jpg
+  page: https://www.inaturalist.org/photos/741129940
+  author: jk6000
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741129940/original.jpg
+- file: images/accipitriformes/accipitridae/circus-maurus/5.jpg
+  page: https://www.inaturalist.org/photos/468058799
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468058799/original.jpeg
 ---
 
 

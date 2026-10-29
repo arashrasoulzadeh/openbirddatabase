@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-jamacaii/1.jpg
+  page: https://www.inaturalist.org/photos/604672467
+  author: Jess Mullins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604672467/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-jamacaii/1.jpg
+  page: https://www.inaturalist.org/photos/604672467
+  author: Jess Mullins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604672467/original.jpg
+- file: images/passeriformes/icteridae/icterus-jamacaii/2.jpg
+  page: https://www.inaturalist.org/photos/607954675
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607954675/original.jpg
+- file: images/passeriformes/icteridae/icterus-jamacaii/3.jpg
+  page: https://www.inaturalist.org/photos/608455385
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608455385/original.jpg
+- file: images/passeriformes/icteridae/icterus-jamacaii/4.jpg
+  page: https://www.inaturalist.org/photos/607529154
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529154/original.jpg
+- file: images/passeriformes/icteridae/icterus-jamacaii/5.jpg
+  page: https://www.inaturalist.org/photos/618725823
+  author: Marina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618725823/original.jpg
 ---
 
 

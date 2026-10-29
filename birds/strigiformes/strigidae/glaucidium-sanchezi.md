@@ -142,8 +142,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-sanchezi/1.jpg
+  page: https://www.inaturalist.org/photos/635749055
+  author: macro_biologist
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635749055/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-sanchezi/1.jpg
+  page: https://www.inaturalist.org/photos/635749055
+  author: macro_biologist
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635749055/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-sanchezi/2.jpg
+  page: https://www.inaturalist.org/photos/58212757
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/58212757/original.jpeg
+- file: images/strigiformes/strigidae/glaucidium-sanchezi/3.jpg
+  page: https://www.inaturalist.org/photos/58212759
+  author: Annika Lindqvist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/58212759/original.jpeg
 ---
 
 

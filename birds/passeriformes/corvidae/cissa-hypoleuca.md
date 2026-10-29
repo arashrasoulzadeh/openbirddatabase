@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cissa-hypoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/574549457
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574549457/original.jpg
+images:
+- file: images/passeriformes/corvidae/cissa-hypoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/574549457
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574549457/original.jpg
+- file: images/passeriformes/corvidae/cissa-hypoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/385766138
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385766138/original.jpeg
+- file: images/passeriformes/corvidae/cissa-hypoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/547352959
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547352959/original.jpg
+- file: images/passeriformes/corvidae/cissa-hypoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/252265542
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252265542/original.jpg
+- file: images/passeriformes/corvidae/cissa-hypoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/265254835
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/265254835/original.jpeg
 ---
 
 

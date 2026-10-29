@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tolmomyias-poliocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/607836509
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607836509/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tolmomyias-poliocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/607836509
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607836509/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-poliocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/465522949
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465522949/original.jpeg
+- file: images/passeriformes/tyrannidae/tolmomyias-poliocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/537757906
+  author: Kathy Richardson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537757906/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-poliocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/426900966
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426900966/original.jpg
+- file: images/passeriformes/tyrannidae/tolmomyias-poliocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/328594289
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328594289/original.jpeg
 ---
 
 

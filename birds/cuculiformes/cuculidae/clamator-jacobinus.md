@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/clamator-jacobinus/1.jpg
+  page: https://www.inaturalist.org/photos/642297546
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297546/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/clamator-jacobinus/1.jpg
+  page: https://www.inaturalist.org/photos/642297546
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297546/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-jacobinus/2.jpg
+  page: https://www.inaturalist.org/photos/715767538
+  author: Ashwin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715767538/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-jacobinus/3.jpg
+  page: https://www.inaturalist.org/photos/617218848
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617218848/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-jacobinus/4.jpg
+  page: https://www.inaturalist.org/photos/662566142
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662566142/original.jpg
+- file: images/cuculiformes/cuculidae/clamator-jacobinus/5.jpg
+  page: https://www.inaturalist.org/photos/642297554
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642297554/original.jpg
 ---
 
 

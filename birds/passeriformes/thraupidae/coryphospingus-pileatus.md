@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/coryphospingus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/616773924
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616773924/original.jpg
+images:
+- file: images/passeriformes/thraupidae/coryphospingus-pileatus/1.jpg
+  page: https://www.inaturalist.org/photos/616773924
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616773924/original.jpg
+- file: images/passeriformes/thraupidae/coryphospingus-pileatus/2.jpg
+  page: https://www.inaturalist.org/photos/616157986
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616157986/original.jpg
+- file: images/passeriformes/thraupidae/coryphospingus-pileatus/3.jpg
+  page: https://www.inaturalist.org/photos/631620891
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631620891/original.jpg
+- file: images/passeriformes/thraupidae/coryphospingus-pileatus/4.jpg
+  page: https://www.inaturalist.org/photos/622102095
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622102095/original.jpg
+- file: images/passeriformes/thraupidae/coryphospingus-pileatus/5.jpg
+  page: https://www.inaturalist.org/photos/633468041
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633468041/original.jpg
 ---
 
 

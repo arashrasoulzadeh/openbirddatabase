@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-portoricensis/1.jpg
+  page: https://www.inaturalist.org/photos/653303055
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653303055/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-portoricensis/1.jpg
+  page: https://www.inaturalist.org/photos/653303055
+  author: Karen Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653303055/original.jpg
+- file: images/passeriformes/icteridae/icterus-portoricensis/2.jpg
+  page: https://www.inaturalist.org/photos/638418426
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638418426/original.jpg
+- file: images/passeriformes/icteridae/icterus-portoricensis/3.jpg
+  page: https://www.inaturalist.org/photos/643304331
+  author: Ricardo siverio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/643304331/original.jpg
+- file: images/passeriformes/icteridae/icterus-portoricensis/4.jpg
+  page: https://www.inaturalist.org/photos/679992793
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679992793/original.jpg
+- file: images/passeriformes/icteridae/icterus-portoricensis/5.jpg
+  page: https://www.inaturalist.org/photos/694732968
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694732968/original.jpg
 ---
 
 

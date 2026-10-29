@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-gracilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/616293948
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616293948/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-gracilirostris/1.jpg
+  page: https://www.inaturalist.org/photos/616293948
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616293948/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-gracilirostris/2.jpg
+  page: https://www.inaturalist.org/photos/615690789
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615690789/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-gracilirostris/3.jpg
+  page: https://www.inaturalist.org/photos/621759576
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621759576/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-gracilirostris/4.jpg
+  page: https://www.inaturalist.org/photos/635099568
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635099568/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-gracilirostris/5.jpg
+  page: https://www.inaturalist.org/photos/716065790
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716065790/original.jpg
 ---
 
 

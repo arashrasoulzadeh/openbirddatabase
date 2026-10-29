@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/megalaimidae/psilopogon-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/612707433
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612707433/original.jpg
+images:
+- file: images/piciformes/megalaimidae/psilopogon-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/612707433
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612707433/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/651252640
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651252640/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/619784709
+  author: Arbor Chetia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619784709/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/621076023
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621076023/original.jpg
+- file: images/piciformes/megalaimidae/psilopogon-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/624897828
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624897828/original.jpg
 ---
 
 

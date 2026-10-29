@@ -167,10 +167,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 68
+image:
+  file: images/strigiformes/strigidae/bubo-ascalaphus/1.jpg
+  page: https://www.inaturalist.org/photos/661010436
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661010436/original.jpg
+images:
+- file: images/strigiformes/strigidae/bubo-ascalaphus/1.jpg
+  page: https://www.inaturalist.org/photos/661010436
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661010436/original.jpg
+- file: images/strigiformes/strigidae/bubo-ascalaphus/2.jpg
+  page: https://www.inaturalist.org/photos/620433504
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620433504/original.jpg
+- file: images/strigiformes/strigidae/bubo-ascalaphus/3.jpg
+  page: https://www.inaturalist.org/photos/623390833
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623390833/original.jpg
+- file: images/strigiformes/strigidae/bubo-ascalaphus/4.jpg
+  page: https://www.inaturalist.org/photos/622501539
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622501539/original.jpg
+- file: images/strigiformes/strigidae/bubo-ascalaphus/5.jpg
+  page: https://www.inaturalist.org/photos/621381020
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621381020/original.jpg
 ---
 
 

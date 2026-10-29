@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/tyranneutes-virescens/1.jpg
+  page: https://www.inaturalist.org/photos/468969880
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468969880/original.jpg
+images:
+- file: images/passeriformes/pipridae/tyranneutes-virescens/1.jpg
+  page: https://www.inaturalist.org/photos/468969880
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468969880/original.jpg
+- file: images/passeriformes/pipridae/tyranneutes-virescens/2.jpg
+  page: https://www.inaturalist.org/photos/584128076
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584128076/original.jpg
+- file: images/passeriformes/pipridae/tyranneutes-virescens/3.jpg
+  page: https://www.inaturalist.org/photos/5697524
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5697524/original.jpeg
+- file: images/passeriformes/pipridae/tyranneutes-virescens/4.jpg
+  page: https://www.inaturalist.org/photos/468969881
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468969881/original.jpg
+- file: images/passeriformes/pipridae/tyranneutes-virescens/5.jpg
+  page: https://www.inaturalist.org/photos/468969883
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468969883/original.jpg
 ---
 
 

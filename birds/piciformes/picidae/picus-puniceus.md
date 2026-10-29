@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picus-puniceus/1.jpg
+  page: https://www.inaturalist.org/photos/675046974
+  author: nmnmnm
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675046974/original.jpg
+images:
+- file: images/piciformes/picidae/picus-puniceus/1.jpg
+  page: https://www.inaturalist.org/photos/675046974
+  author: nmnmnm
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675046974/original.jpg
+- file: images/piciformes/picidae/picus-puniceus/2.jpg
+  page: https://www.inaturalist.org/photos/682443702
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682443702/original.jpg
+- file: images/piciformes/picidae/picus-puniceus/3.jpg
+  page: https://www.inaturalist.org/photos/724470632
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724470632/original.jpg
+- file: images/piciformes/picidae/picus-puniceus/4.jpg
+  page: https://www.inaturalist.org/photos/388464680
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388464680/original.jpeg
+- file: images/piciformes/picidae/picus-puniceus/5.jpg
+  page: https://www.inaturalist.org/photos/395580695
+  author: anukma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395580695/original.jpeg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/chlidonias-albostriatus/1.jpg
+  page: https://www.inaturalist.org/photos/609416842
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609416842/original.jpg
+images:
+- file: images/charadriiformes/laridae/chlidonias-albostriatus/1.jpg
+  page: https://www.inaturalist.org/photos/609416842
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609416842/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-albostriatus/2.jpg
+  page: https://www.inaturalist.org/photos/608777948
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608777948/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-albostriatus/3.jpg
+  page: https://www.inaturalist.org/photos/630192275
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630192275/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-albostriatus/4.jpg
+  page: https://www.inaturalist.org/photos/626473784
+  author: Jon Sullivan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626473784/original.jpg
+- file: images/charadriiformes/laridae/chlidonias-albostriatus/5.jpg
+  page: https://www.inaturalist.org/photos/637450806
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637450806/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/calamonastes-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/722537306
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722537306/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/calamonastes-simplex/1.jpg
+  page: https://www.inaturalist.org/photos/722537306
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722537306/original.jpg
+- file: images/passeriformes/cisticolidae/calamonastes-simplex/2.jpg
+  page: https://www.inaturalist.org/photos/486129330
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486129330/original.jpeg
+- file: images/passeriformes/cisticolidae/calamonastes-simplex/3.jpg
+  page: https://www.inaturalist.org/photos/584914332
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584914332/original.jpg
+- file: images/passeriformes/cisticolidae/calamonastes-simplex/4.jpg
+  page: https://www.inaturalist.org/photos/589172766
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589172766/original.jpg
+- file: images/passeriformes/cisticolidae/calamonastes-simplex/5.jpg
+  page: https://www.inaturalist.org/photos/607769978
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607769978/original.jpg
 ---
 
 

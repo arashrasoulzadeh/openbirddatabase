@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/605473032
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605473032/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/605473032
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605473032/original.jpg
+- file: images/falconiformes/falconidae/falco-novaeseelandiae/2.jpg
+  page: https://www.inaturalist.org/photos/605866937
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605866937/original.jpg
+- file: images/falconiformes/falconidae/falco-novaeseelandiae/3.jpg
+  page: https://www.inaturalist.org/photos/607039455
+  author: Archie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607039455/original.jpg
+- file: images/falconiformes/falconidae/falco-novaeseelandiae/4.jpg
+  page: https://www.inaturalist.org/photos/609646349
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609646349/original.jpg
+- file: images/falconiformes/falconidae/falco-novaeseelandiae/5.jpg
+  page: https://www.inaturalist.org/photos/612380472
+  author: mikoikoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612380472/original.jpg
 ---
 
 

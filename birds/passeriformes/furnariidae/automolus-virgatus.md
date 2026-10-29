@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/automolus-virgatus/1.jpg
+  page: https://www.inaturalist.org/photos/426775710
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775710/original.jpg
+images:
+- file: images/passeriformes/furnariidae/automolus-virgatus/1.jpg
+  page: https://www.inaturalist.org/photos/426775710
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775710/original.jpg
+- file: images/passeriformes/furnariidae/automolus-virgatus/2.jpg
+  page: https://www.inaturalist.org/photos/731778843
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731778843/original.jpg
+- file: images/passeriformes/furnariidae/automolus-virgatus/3.jpg
+  page: https://www.inaturalist.org/photos/251380605
+  author: David A. Rodríguez Arias
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/251380605/original.jpg
+- file: images/passeriformes/furnariidae/automolus-virgatus/4.jpg
+  page: https://www.inaturalist.org/photos/339597538
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339597538/original.jpg
+- file: images/passeriformes/furnariidae/automolus-virgatus/5.jpg
+  page: https://www.inaturalist.org/photos/731778838
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731778838/original.jpg
 ---
 
 

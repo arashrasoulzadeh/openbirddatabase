@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mimidae/oreoscoptes-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/610172347
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610172347/original.jpg
+images:
+- file: images/passeriformes/mimidae/oreoscoptes-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/610172347
+  author: Chris (CP) and Pamela (PP) Pipes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610172347/original.jpg
+- file: images/passeriformes/mimidae/oreoscoptes-montanus/2.jpg
+  page: https://www.inaturalist.org/photos/607782066
+  author: Jo Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607782066/original.jpg
+- file: images/passeriformes/mimidae/oreoscoptes-montanus/3.jpg
+  page: https://www.inaturalist.org/photos/612300625
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612300625/original.jpg
+- file: images/passeriformes/mimidae/oreoscoptes-montanus/4.jpg
+  page: https://www.inaturalist.org/photos/627190837
+  author: Isaac Ethington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627190837/original.jpg
+- file: images/passeriformes/mimidae/oreoscoptes-montanus/5.jpg
+  page: https://www.inaturalist.org/photos/613186495
+  author: TheMongrelKoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613186495/original.jpg
 ---
 
 

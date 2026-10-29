@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/foudia-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/612491680
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612491680/original.jpg
+images:
+- file: images/passeriformes/ploceidae/foudia-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/612491680
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612491680/original.jpg
+- file: images/passeriformes/ploceidae/foudia-madagascariensis/2.jpg
+  page: https://www.inaturalist.org/photos/627703872
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627703872/original.jpg
+- file: images/passeriformes/ploceidae/foudia-madagascariensis/3.jpg
+  page: https://www.inaturalist.org/photos/612491706
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612491706/original.jpg
+- file: images/passeriformes/ploceidae/foudia-madagascariensis/4.jpg
+  page: https://www.inaturalist.org/photos/612491711
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612491711/original.jpg
+- file: images/passeriformes/ploceidae/foudia-madagascariensis/5.jpg
+  page: https://www.inaturalist.org/photos/627703495
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627703495/original.jpg
 ---
 
 

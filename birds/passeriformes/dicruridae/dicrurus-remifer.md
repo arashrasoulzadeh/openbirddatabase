@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-remifer/1.jpg
+  page: https://www.inaturalist.org/photos/609451946
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609451946/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-remifer/1.jpg
+  page: https://www.inaturalist.org/photos/609451946
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609451946/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-remifer/2.jpg
+  page: https://www.inaturalist.org/photos/628077098
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077098/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-remifer/3.jpg
+  page: https://www.inaturalist.org/photos/720529061
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720529061/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-remifer/4.jpg
+  page: https://www.inaturalist.org/photos/703677008
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703677008/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-remifer/5.jpg
+  page: https://www.inaturalist.org/photos/468222462
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468222462/original.jpeg
 ---
 
 

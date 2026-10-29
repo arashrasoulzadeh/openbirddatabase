@@ -176,8 +176,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-senegallus/1.jpg
+  page: https://www.inaturalist.org/photos/607217562
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607217562/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-senegallus/1.jpg
+  page: https://www.inaturalist.org/photos/607217562
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607217562/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-senegallus/2.jpg
+  page: https://www.inaturalist.org/photos/606216605
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216605/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-senegallus/3.jpg
+  page: https://www.inaturalist.org/photos/612794775
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612794775/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-senegallus/4.jpg
+  page: https://www.inaturalist.org/photos/616310531
+  author: Dan Lee
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616310531/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-senegallus/5.jpg
+  page: https://www.inaturalist.org/photos/617141629
+  author: Lin Scott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617141629/original.jpg
 ---
 
 

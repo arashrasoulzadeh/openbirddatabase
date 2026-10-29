@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/pogonotriccus-poecilotis/1.jpg
+  page: https://www.inaturalist.org/photos/591324203
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324203/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/pogonotriccus-poecilotis/1.jpg
+  page: https://www.inaturalist.org/photos/591324203
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591324203/original.jpg
+- file: images/passeriformes/tyrannidae/pogonotriccus-poecilotis/2.jpg
+  page: https://www.inaturalist.org/photos/595801437
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595801437/original.jpg
+- file: images/passeriformes/tyrannidae/pogonotriccus-poecilotis/3.jpg
+  page: https://www.inaturalist.org/photos/361095268
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361095268/original.jpg
+- file: images/passeriformes/tyrannidae/pogonotriccus-poecilotis/4.jpg
+  page: https://www.inaturalist.org/photos/330061785
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330061785/original.jpeg
+- file: images/passeriformes/tyrannidae/pogonotriccus-poecilotis/5.jpg
+  page: https://www.inaturalist.org/photos/190765363
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190765363/original.jpeg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/thryophilus-sernai/1.jpg
+  page: https://www.inaturalist.org/photos/487229087
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487229087/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/thryophilus-sernai/1.jpg
+  page: https://www.inaturalist.org/photos/487229087
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487229087/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-sernai/2.jpg
+  page: https://www.inaturalist.org/photos/489422850
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489422850/original.jpg
+- file: images/passeriformes/troglodytidae/thryophilus-sernai/3.jpg
+  page: https://www.inaturalist.org/photos/500182031
+  author: Esteban Villa Restrepo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500182031/original.jpeg
+- file: images/passeriformes/troglodytidae/thryophilus-sernai/4.jpg
+  page: https://www.inaturalist.org/photos/238691936
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238691936/original.jpeg
+- file: images/passeriformes/troglodytidae/thryophilus-sernai/5.jpg
+  page: https://www.inaturalist.org/photos/201598881
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/201598881/original.jpg
 ---
 
 

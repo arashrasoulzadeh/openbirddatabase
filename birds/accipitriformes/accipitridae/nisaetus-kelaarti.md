@@ -132,7 +132,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 46.0
@@ -140,6 +141,44 @@ morphology:
   wing_length_mm: 405.8
   tail_length_mm: 282.0
   body_mass_g: 3005.0
+image:
+  file: images/accipitriformes/accipitridae/nisaetus-kelaarti/1.jpg
+  page: https://www.inaturalist.org/photos/704411558
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704411558/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/nisaetus-kelaarti/1.jpg
+  page: https://www.inaturalist.org/photos/704411558
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704411558/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-kelaarti/2.jpg
+  page: https://www.inaturalist.org/photos/463285651
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463285651/original.jpeg
+- file: images/accipitriformes/accipitridae/nisaetus-kelaarti/3.jpg
+  page: https://www.inaturalist.org/photos/360843501
+  author: Navaneeth Sini George
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360843501/original.jpeg
+- file: images/accipitriformes/accipitridae/nisaetus-kelaarti/4.jpg
+  page: https://www.inaturalist.org/photos/659463774
+  author: wilmotsenaratne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659463774/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-kelaarti/5.jpg
+  page: https://www.inaturalist.org/photos/264216894
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264216894/original.jpg
 ---
 
 

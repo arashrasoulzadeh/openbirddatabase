@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/ocyceros-birostris/1.jpg
+  page: https://www.inaturalist.org/photos/605540923
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605540923/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/ocyceros-birostris/1.jpg
+  page: https://www.inaturalist.org/photos/605540923
+  author: Raja Sekhar Chimirala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605540923/original.jpg
+- file: images/bucerotiformes/bucerotidae/ocyceros-birostris/2.jpg
+  page: https://www.inaturalist.org/photos/608557100
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608557100/original.jpg
+- file: images/bucerotiformes/bucerotidae/ocyceros-birostris/3.jpg
+  page: https://www.inaturalist.org/photos/616548515
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616548515/original.jpg
+- file: images/bucerotiformes/bucerotidae/ocyceros-birostris/4.jpg
+  page: https://www.inaturalist.org/photos/624452051
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624452051/original.jpg
+- file: images/bucerotiformes/bucerotidae/ocyceros-birostris/5.jpg
+  page: https://www.inaturalist.org/photos/623638708
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623638708/original.jpg
 ---
 
 

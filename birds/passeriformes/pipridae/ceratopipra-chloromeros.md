@@ -135,10 +135,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Lek
+image:
+  file: images/passeriformes/pipridae/ceratopipra-chloromeros/1.jpg
+  page: https://www.inaturalist.org/photos/539374426
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539374426/original.jpg
+images:
+- file: images/passeriformes/pipridae/ceratopipra-chloromeros/1.jpg
+  page: https://www.inaturalist.org/photos/539374426
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539374426/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-chloromeros/2.jpg
+  page: https://www.inaturalist.org/photos/456584920
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456584920/original.jpeg
+- file: images/passeriformes/pipridae/ceratopipra-chloromeros/3.jpg
+  page: https://www.inaturalist.org/photos/334610108
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334610108/original.jpeg
+- file: images/passeriformes/pipridae/ceratopipra-chloromeros/4.jpg
+  page: https://www.inaturalist.org/photos/332491564
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332491564/original.jpeg
+- file: images/passeriformes/pipridae/ceratopipra-chloromeros/5.jpg
+  page: https://www.inaturalist.org/photos/26770353
+  author: Ben Hayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26770353/original.jpeg
 ---
 
 

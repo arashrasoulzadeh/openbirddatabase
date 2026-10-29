@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/coraciiformes/momotidae/momotus-lessonii/1.jpg
+  page: https://www.inaturalist.org/photos/604898300
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604898300/original.jpg
+images:
+- file: images/coraciiformes/momotidae/momotus-lessonii/1.jpg
+  page: https://www.inaturalist.org/photos/604898300
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604898300/original.jpg
+- file: images/coraciiformes/momotidae/momotus-lessonii/2.jpg
+  page: https://www.inaturalist.org/photos/606427999
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606427999/original.jpg
+- file: images/coraciiformes/momotidae/momotus-lessonii/3.jpg
+  page: https://www.inaturalist.org/photos/608280403
+  author: Pat Hall
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608280403/original.jpg
+- file: images/coraciiformes/momotidae/momotus-lessonii/4.jpg
+  page: https://www.inaturalist.org/photos/606264733
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606264733/original.jpg
+- file: images/coraciiformes/momotidae/momotus-lessonii/5.jpg
+  page: https://www.inaturalist.org/photos/609809594
+  author: Tom Lawrence
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609809594/original.jpg
 ---
 
 

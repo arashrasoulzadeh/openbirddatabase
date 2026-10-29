@@ -158,10 +158,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/icteridae/euphagus-carolinus/1.jpg
+  page: https://www.inaturalist.org/photos/604877414
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604877414/original.jpg
+images:
+- file: images/passeriformes/icteridae/euphagus-carolinus/1.jpg
+  page: https://www.inaturalist.org/photos/604877414
+  author: Kevin Anderson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604877414/original.jpg
+- file: images/passeriformes/icteridae/euphagus-carolinus/2.jpg
+  page: https://www.inaturalist.org/photos/606026287
+  author: Andy Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606026287/original.jpg
+- file: images/passeriformes/icteridae/euphagus-carolinus/3.jpg
+  page: https://www.inaturalist.org/photos/611002632
+  author: hr_dragonfly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611002632/original.jpg
+- file: images/passeriformes/icteridae/euphagus-carolinus/4.jpg
+  page: https://www.inaturalist.org/photos/610540827
+  author: shzimmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610540827/original.jpg
+- file: images/passeriformes/icteridae/euphagus-carolinus/5.jpg
+  page: https://www.inaturalist.org/photos/610823224
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610823224/original.jpg
 ---
 
 

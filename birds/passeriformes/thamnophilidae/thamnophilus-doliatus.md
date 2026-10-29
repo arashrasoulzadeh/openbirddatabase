@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-doliatus/1.jpg
+  page: https://www.inaturalist.org/photos/608764488
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608764488/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-doliatus/1.jpg
+  page: https://www.inaturalist.org/photos/608764488
+  author: danielmoreno
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608764488/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-doliatus/2.jpg
+  page: https://www.inaturalist.org/photos/609692696
+  author: Lucas Mantelo Cruz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609692696/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-doliatus/3.jpg
+  page: https://www.inaturalist.org/photos/609002770
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609002770/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-doliatus/4.jpg
+  page: https://www.inaturalist.org/photos/607496948
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607496948/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-doliatus/5.jpg
+  page: https://www.inaturalist.org/photos/607529067
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529067/original.jpg
 ---
 
 

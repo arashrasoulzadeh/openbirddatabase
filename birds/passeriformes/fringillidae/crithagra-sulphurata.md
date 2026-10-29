@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-sulphurata/1.jpg
+  page: https://www.inaturalist.org/photos/618065079
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618065079/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-sulphurata/1.jpg
+  page: https://www.inaturalist.org/photos/618065079
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618065079/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-sulphurata/2.jpg
+  page: https://www.inaturalist.org/photos/624554931
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624554931/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-sulphurata/3.jpg
+  page: https://www.inaturalist.org/photos/679679848
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679679848/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-sulphurata/4.jpg
+  page: https://www.inaturalist.org/photos/713648527
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713648527/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-sulphurata/5.jpg
+  page: https://www.inaturalist.org/photos/646603978
+  author: Burgert Jordaan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646603978/original.jpg
 ---
 
 

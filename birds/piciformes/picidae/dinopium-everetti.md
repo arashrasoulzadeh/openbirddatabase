@@ -144,10 +144,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/piciformes/picidae/dinopium-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/689752912
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689752912/original.jpg
+images:
+- file: images/piciformes/picidae/dinopium-everetti/1.jpg
+  page: https://www.inaturalist.org/photos/689752912
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689752912/original.jpg
+- file: images/piciformes/picidae/dinopium-everetti/2.jpg
+  page: https://www.inaturalist.org/photos/469443101
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469443101/original.jpg
+- file: images/piciformes/picidae/dinopium-everetti/3.jpg
+  page: https://www.inaturalist.org/photos/583479625
+  author: Pierre Pericard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583479625/original.jpg
+- file: images/piciformes/picidae/dinopium-everetti/4.jpg
+  page: https://www.inaturalist.org/photos/388690462
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388690462/original.jpeg
+- file: images/piciformes/picidae/dinopium-everetti/5.jpg
+  page: https://www.inaturalist.org/photos/276220159
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276220159/original.jpg
 ---
 
 

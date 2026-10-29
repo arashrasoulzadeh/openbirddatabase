@@ -137,8 +137,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanolyca-pulchra/1.jpg
+  page: https://www.inaturalist.org/photos/652833462
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652833462/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanolyca-pulchra/1.jpg
+  page: https://www.inaturalist.org/photos/652833462
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652833462/original.jpg
+- file: images/passeriformes/corvidae/cyanolyca-pulchra/2.jpg
+  page: https://www.inaturalist.org/photos/250107215
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/250107215/original.jpeg
+- file: images/passeriformes/corvidae/cyanolyca-pulchra/3.jpg
+  page: https://www.inaturalist.org/photos/466285141
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466285141/original.jpeg
 ---
 
 

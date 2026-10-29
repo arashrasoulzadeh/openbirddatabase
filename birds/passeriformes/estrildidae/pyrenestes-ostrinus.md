@@ -160,7 +160,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 15.1
@@ -168,6 +169,44 @@ morphology:
   wing_length_mm: 65.4
   tail_length_mm: 53.8
   body_mass_g: 22.4
+image:
+  file: images/passeriformes/estrildidae/pyrenestes-ostrinus/1.jpg
+  page: https://www.inaturalist.org/photos/664759670
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664759670/original.jpg
+images:
+- file: images/passeriformes/estrildidae/pyrenestes-ostrinus/1.jpg
+  page: https://www.inaturalist.org/photos/664759670
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664759670/original.jpg
+- file: images/passeriformes/estrildidae/pyrenestes-ostrinus/2.jpg
+  page: https://www.inaturalist.org/photos/278640380
+  author: Tony King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/278640380/original.jpeg
+- file: images/passeriformes/estrildidae/pyrenestes-ostrinus/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/CapEsteriasBiodiversity#5880956004790899346
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350830/original.JPG
+- file: images/passeriformes/estrildidae/pyrenestes-ostrinus/4.jpg
+  page: https://www.inaturalist.org/photos/153705720
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153705720/original.jpeg
+- file: images/passeriformes/estrildidae/pyrenestes-ostrinus/5.jpg
+  page: https://www.inaturalist.org/photos/664759668
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664759668/original.jpg
 ---
 
 

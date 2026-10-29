@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chlorostilbon-russatus/1.jpg
+  page: https://www.inaturalist.org/photos/464406920
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464406920/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chlorostilbon-russatus/1.jpg
+  page: https://www.inaturalist.org/photos/464406920
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464406920/original.jpg
+- file: images/apodiformes/trochilidae/chlorostilbon-russatus/2.jpg
+  page: https://www.inaturalist.org/photos/419946613
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419946613/original.jpeg
+- file: images/apodiformes/trochilidae/chlorostilbon-russatus/3.jpg
+  page: https://www.inaturalist.org/photos/255885370
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255885370/original.jpeg
+- file: images/apodiformes/trochilidae/chlorostilbon-russatus/4.jpg
+  page: https://www.inaturalist.org/photos/275866509
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/275866509/original.jpeg
+- file: images/apodiformes/trochilidae/chlorostilbon-russatus/5.jpg
+  page: https://www.inaturalist.org/photos/316230193
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316230193/original.jpeg
 ---
 
 

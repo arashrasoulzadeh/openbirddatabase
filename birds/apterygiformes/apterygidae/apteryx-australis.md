@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 35
+image:
+  file: images/apterygiformes/apterygidae/apteryx-australis/1.jpg
+  page: https://www.inaturalist.org/photos/618370907
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618370907/original.jpg
+images:
+- file: images/apterygiformes/apterygidae/apteryx-australis/1.jpg
+  page: https://www.inaturalist.org/photos/618370907
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618370907/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-australis/2.jpg
+  page: https://www.inaturalist.org/photos/618085391
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618085391/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-australis/3.jpg
+  page: https://www.inaturalist.org/photos/619148439
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619148439/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-australis/4.jpg
+  page: https://www.inaturalist.org/photos/634662638
+  author: alamettyr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634662638/original.jpg
+- file: images/apterygiformes/apterygidae/apteryx-australis/5.jpg
+  page: https://www.inaturalist.org/photos/652422615
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652422615/original.jpg
 ---
 
 

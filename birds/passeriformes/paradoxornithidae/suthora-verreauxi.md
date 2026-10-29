@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradoxornithidae/suthora-verreauxi/1.jpg
+  page: https://www.inaturalist.org/photos/691104333
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691104333/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/suthora-verreauxi/1.jpg
+  page: https://www.inaturalist.org/photos/691104333
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691104333/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-verreauxi/2.jpg
+  page: https://www.inaturalist.org/photos/378879904
+  author: 卢江离
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/378879904/original.jpeg
+- file: images/passeriformes/paradoxornithidae/suthora-verreauxi/3.jpg
+  page: https://www.inaturalist.org/photos/266774384
+  author: Bella Lin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266774384/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-verreauxi/4.jpg
+  page: https://www.inaturalist.org/photos/387775175
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387775175/original.jpg
+- file: images/passeriformes/paradoxornithidae/suthora-verreauxi/5.jpg
+  page: https://www.inaturalist.org/photos/409017500
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/409017500/original.jpeg
 ---
 
 

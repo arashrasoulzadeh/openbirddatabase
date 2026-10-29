@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/gallus-varius/1.jpg
+  page: https://www.inaturalist.org/photos/652855724
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652855724/original.jpg
+images:
+- file: images/galliformes/phasianidae/gallus-varius/1.jpg
+  page: https://www.inaturalist.org/photos/652855724
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652855724/original.jpg
+- file: images/galliformes/phasianidae/gallus-varius/2.jpg
+  page: https://www.inaturalist.org/photos/724725995
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724725995/original.jpg
+- file: images/galliformes/phasianidae/gallus-varius/3.jpg
+  page: https://www.inaturalist.org/photos/556403226
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556403226/original.jpg
+- file: images/galliformes/phasianidae/gallus-varius/4.jpg
+  page: https://www.inaturalist.org/photos/589427637
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589427637/original.jpg
+- file: images/galliformes/phasianidae/gallus-varius/5.jpg
+  page: https://www.inaturalist.org/photos/604725957
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604725957/original.jpg
 ---
 
 

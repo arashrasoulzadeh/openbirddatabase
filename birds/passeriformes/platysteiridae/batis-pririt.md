@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/batis-pririt/1.jpg
+  page: https://www.inaturalist.org/photos/611846795
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611846795/original.jpg
+images:
+- file: images/passeriformes/platysteiridae/batis-pririt/1.jpg
+  page: https://www.inaturalist.org/photos/611846795
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611846795/original.jpg
+- file: images/passeriformes/platysteiridae/batis-pririt/2.jpg
+  page: https://www.inaturalist.org/photos/714425891
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714425891/original.jpg
+- file: images/passeriformes/platysteiridae/batis-pririt/3.jpg
+  page: https://www.inaturalist.org/photos/717954440
+  author: Stefan Wolmarans
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717954440/original.jpg
+- file: images/passeriformes/platysteiridae/batis-pririt/4.jpg
+  page: https://www.inaturalist.org/photos/462703842
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462703842/original.jpeg
+- file: images/passeriformes/platysteiridae/batis-pririt/5.jpg
+  page: https://www.inaturalist.org/photos/617147762
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617147762/original.jpg
 ---
 
 

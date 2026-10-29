@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ramphiculus-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/625278048
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625278048/original.jpg
+images:
+- file: images/columbiformes/columbidae/ramphiculus-occipitalis/1.jpg
+  page: https://www.inaturalist.org/photos/625278048
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625278048/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-occipitalis/2.jpg
+  page: https://www.inaturalist.org/photos/380961823
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/380961823/original.jpeg
+- file: images/columbiformes/columbidae/ramphiculus-occipitalis/3.jpg
+  page: https://www.inaturalist.org/photos/458609678
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458609678/original.jpeg
+- file: images/columbiformes/columbidae/ramphiculus-occipitalis/4.jpg
+  page: https://www.inaturalist.org/photos/625278052
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625278052/original.jpg
+- file: images/columbiformes/columbidae/ramphiculus-occipitalis/5.jpg
+  page: https://www.inaturalist.org/photos/625278057
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625278057/original.jpg
 ---
 
 

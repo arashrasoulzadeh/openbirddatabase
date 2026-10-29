@@ -145,10 +145,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/psittaciformes/psittacidae/aratinga-auricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/613547776
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613547776/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/aratinga-auricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/613547776
+  author: Josh Baryia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613547776/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-auricapillus/2.jpg
+  page: https://www.inaturalist.org/photos/727670301
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727670301/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-auricapillus/3.jpg
+  page: https://www.inaturalist.org/photos/628454396
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628454396/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-auricapillus/4.jpg
+  page: https://www.inaturalist.org/photos/657485138
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657485138/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-auricapillus/5.jpg
+  page: https://www.inaturalist.org/photos/697868549
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697868549/original.jpg
 ---
 
 

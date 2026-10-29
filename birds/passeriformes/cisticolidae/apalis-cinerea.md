@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/apalis-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/640576407
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640576407/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/apalis-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/640576407
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640576407/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/447744685
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/447744685/original.jpeg
+- file: images/passeriformes/cisticolidae/apalis-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/640576409
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640576409/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/640576404
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640576404/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/659452945
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659452945/original.jpg
 ---
 
 

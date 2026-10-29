@@ -139,8 +139,29 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-cineracea/1.jpg
+  page: https://www.inaturalist.org/photos/337787860
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787860/original.jpeg
+images:
+- file: images/columbiformes/columbidae/ducula-cineracea/1.jpg
+  page: https://www.inaturalist.org/photos/337787860
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787860/original.jpeg
+- file: images/columbiformes/columbidae/ducula-cineracea/2.jpg
+  page: https://www.inaturalist.org/photos/433880755
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433880755/original.jpeg
 ---
 
 

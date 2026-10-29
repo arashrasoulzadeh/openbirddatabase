@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhodinocichlidae/rhodinocichla-rosea/1.jpg
+  page: https://www.inaturalist.org/photos/606750555
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606750555/original.jpg
+images:
+- file: images/passeriformes/rhodinocichlidae/rhodinocichla-rosea/1.jpg
+  page: https://www.inaturalist.org/photos/606750555
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606750555/original.jpg
+- file: images/passeriformes/rhodinocichlidae/rhodinocichla-rosea/2.jpg
+  page: https://www.inaturalist.org/photos/609350576
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609350576/original.jpg
+- file: images/passeriformes/rhodinocichlidae/rhodinocichla-rosea/3.jpg
+  page: https://www.inaturalist.org/photos/636789325
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636789325/original.jpg
+- file: images/passeriformes/rhodinocichlidae/rhodinocichla-rosea/4.jpg
+  page: https://www.inaturalist.org/photos/696111300
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696111300/original.jpg
+- file: images/passeriformes/rhodinocichlidae/rhodinocichla-rosea/5.jpg
+  page: https://www.inaturalist.org/photos/728449771
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728449771/original.jpg
 ---
 
 

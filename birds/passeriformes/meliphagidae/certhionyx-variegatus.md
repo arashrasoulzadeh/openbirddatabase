@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/certhionyx-variegatus/1.jpg
+  page: https://www.inaturalist.org/photos/572155239
+  author: julie burgher
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572155239/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/certhionyx-variegatus/1.jpg
+  page: https://www.inaturalist.org/photos/572155239
+  author: julie burgher
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572155239/original.jpg
+- file: images/passeriformes/meliphagidae/certhionyx-variegatus/2.jpg
+  page: https://www.inaturalist.org/photos/359973630
+  author: Will Cornwell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359973630/original.jpeg
+- file: images/passeriformes/meliphagidae/certhionyx-variegatus/3.jpg
+  page: https://www.inaturalist.org/photos/416186499
+  author: c_knut_lord
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416186499/original.jpeg
+- file: images/passeriformes/meliphagidae/certhionyx-variegatus/4.jpg
+  page: https://www.inaturalist.org/photos/439333327
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439333327/original.jpg
+- file: images/passeriformes/meliphagidae/certhionyx-variegatus/5.jpg
+  page: https://www.inaturalist.org/photos/572156784
+  author: julie burgher
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572156784/original.jpg
 ---
 
 

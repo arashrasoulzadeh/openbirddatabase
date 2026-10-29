@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-monacha/1.jpg
+  page: https://www.inaturalist.org/photos/558386760
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558386760/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-monacha/1.jpg
+  page: https://www.inaturalist.org/photos/558386760
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558386760/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-monacha/2.jpg
+  page: https://www.inaturalist.org/photos/384225673
+  author: yelena_antipova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/384225673/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-monacha/3.jpg
+  page: https://www.inaturalist.org/photos/339759563
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339759563/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-monacha/4.jpg
+  page: https://www.inaturalist.org/photos/154129332
+  author: Dmitry Babin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/154129332/original.jpeg
+- file: images/passeriformes/muscicapidae/oenanthe-monacha/5.jpg
+  page: https://www.inaturalist.org/photos/538127979
+  author: Dietmar K. L. Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/538127979/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/perissocephalus-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/721126622
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721126622/original.jpg
+images:
+- file: images/passeriformes/cotingidae/perissocephalus-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/721126622
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721126622/original.jpg
+- file: images/passeriformes/cotingidae/perissocephalus-tricolor/2.jpg
+  page: https://www.inaturalist.org/photos/465341038
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465341038/original.jpeg
+- file: images/passeriformes/cotingidae/perissocephalus-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/470131767
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470131767/original.jpg
+- file: images/passeriformes/cotingidae/perissocephalus-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/426792846
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426792846/original.jpg
+- file: images/passeriformes/cotingidae/perissocephalus-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/463777126
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463777126/original.jpeg
 ---
 
 

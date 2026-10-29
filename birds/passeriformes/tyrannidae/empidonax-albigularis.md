@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/empidonax-albigularis/1.jpg
+  page: https://www.inaturalist.org/photos/605124281
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605124281/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/empidonax-albigularis/1.jpg
+  page: https://www.inaturalist.org/photos/605124281
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605124281/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-albigularis/2.jpg
+  page: https://www.inaturalist.org/photos/662439409
+  author: Andrea Gantzer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662439409/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-albigularis/3.jpg
+  page: https://www.inaturalist.org/photos/675662082
+  author: Alberto Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675662082/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-albigularis/4.jpg
+  page: https://www.inaturalist.org/photos/723428930
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723428930/original.jpg
+- file: images/passeriformes/tyrannidae/empidonax-albigularis/5.jpg
+  page: https://www.inaturalist.org/photos/489498837
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489498837/original.jpeg
 ---
 
 

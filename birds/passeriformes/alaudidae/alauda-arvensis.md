@@ -189,10 +189,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/alaudidae/alauda-arvensis/1.jpg
+  page: https://www.inaturalist.org/photos/605282157
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605282157/original.jpg
+images:
+- file: images/passeriformes/alaudidae/alauda-arvensis/1.jpg
+  page: https://www.inaturalist.org/photos/605282157
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605282157/original.jpg
+- file: images/passeriformes/alaudidae/alauda-arvensis/2.jpg
+  page: https://www.inaturalist.org/photos/606325057
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606325057/original.jpg
+- file: images/passeriformes/alaudidae/alauda-arvensis/3.jpg
+  page: https://www.inaturalist.org/photos/610414077
+  author: John Ashburner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610414077/original.jpg
+- file: images/passeriformes/alaudidae/alauda-arvensis/4.jpg
+  page: https://www.inaturalist.org/photos/610898326
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610898326/original.jpg
+- file: images/passeriformes/alaudidae/alauda-arvensis/5.jpg
+  page: https://www.inaturalist.org/photos/609550407
+  author: Rhys
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609550407/original.jpg
 ---
 
 

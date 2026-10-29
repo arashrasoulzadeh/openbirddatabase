@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/cypseloides-cryptus/1.jpg
+  page: https://www.inaturalist.org/photos/617457057
+  author: Rob Felix
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617457057/original.jpg
+images:
+- file: images/apodiformes/apodidae/cypseloides-cryptus/1.jpg
+  page: https://www.inaturalist.org/photos/617457057
+  author: Rob Felix
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617457057/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-cryptus/2.jpg
+  page: https://www.inaturalist.org/photos/667389670
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667389670/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-cryptus/3.jpg
+  page: https://www.inaturalist.org/photos/742232676
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742232676/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-cryptus/4.jpg
+  page: https://www.inaturalist.org/photos/516283675
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516283675/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-cryptus/5.jpg
+  page: https://www.inaturalist.org/photos/455399409
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455399409/original.jpg
 ---
 
 

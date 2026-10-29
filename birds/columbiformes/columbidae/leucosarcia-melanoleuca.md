@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/columbiformes/columbidae/leucosarcia-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/604375267
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604375267/original.jpg
+images:
+- file: images/columbiformes/columbidae/leucosarcia-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/604375267
+  author: Alesha Teitzel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604375267/original.jpg
+- file: images/columbiformes/columbidae/leucosarcia-melanoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/606545219
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606545219/original.jpg
+- file: images/columbiformes/columbidae/leucosarcia-melanoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/608085143
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608085143/original.jpg
+- file: images/columbiformes/columbidae/leucosarcia-melanoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/611991570
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611991570/original.jpg
+- file: images/columbiformes/columbidae/leucosarcia-melanoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/615149056
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615149056/original.jpg
 ---
 
 

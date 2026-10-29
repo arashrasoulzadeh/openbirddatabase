@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/polyerata-amabilis/1.jpg
+  page: https://www.inaturalist.org/photos/618278301
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618278301/original.jpg
+images:
+- file: images/apodiformes/trochilidae/polyerata-amabilis/1.jpg
+  page: https://www.inaturalist.org/photos/618278301
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618278301/original.jpg
+- file: images/apodiformes/trochilidae/polyerata-amabilis/2.jpg
+  page: https://www.inaturalist.org/photos/615830752
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615830752/original.jpg
+- file: images/apodiformes/trochilidae/polyerata-amabilis/3.jpg
+  page: https://www.inaturalist.org/photos/622499150
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622499150/original.jpg
+- file: images/apodiformes/trochilidae/polyerata-amabilis/4.jpg
+  page: https://www.inaturalist.org/photos/630928583
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630928583/original.jpg
+- file: images/apodiformes/trochilidae/polyerata-amabilis/5.jpg
+  page: https://www.inaturalist.org/photos/634709349
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634709349/original.jpg
 ---
 
 

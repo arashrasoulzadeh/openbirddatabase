@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-leucoscepus/1.jpg
+  page: https://www.inaturalist.org/photos/716611901
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716611901/original.jpg
+images:
+- file: images/galliformes/phasianidae/pternistis-leucoscepus/1.jpg
+  page: https://www.inaturalist.org/photos/716611901
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716611901/original.jpg
+- file: images/galliformes/phasianidae/pternistis-leucoscepus/2.jpg
+  page: https://www.inaturalist.org/photos/666579514
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666579514/original.jpg
+- file: images/galliformes/phasianidae/pternistis-leucoscepus/3.jpg
+  page: https://www.inaturalist.org/photos/701136282
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701136282/original.jpg
+- file: images/galliformes/phasianidae/pternistis-leucoscepus/4.jpg
+  page: https://www.inaturalist.org/photos/716612771
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716612771/original.jpg
+- file: images/galliformes/phasianidae/pternistis-leucoscepus/5.jpg
+  page: https://www.inaturalist.org/photos/701136244
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701136244/original.jpg
 ---
 
 

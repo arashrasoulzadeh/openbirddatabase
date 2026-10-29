@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/pseudonigrita-arnaudi/1.jpg
+  page: https://www.inaturalist.org/photos/679425623
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679425623/original.jpg
+images:
+- file: images/passeriformes/ploceidae/pseudonigrita-arnaudi/1.jpg
+  page: https://www.inaturalist.org/photos/679425623
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679425623/original.jpg
+- file: images/passeriformes/ploceidae/pseudonigrita-arnaudi/2.jpg
+  page: https://www.inaturalist.org/photos/671849181
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671849181/original.jpg
+- file: images/passeriformes/ploceidae/pseudonigrita-arnaudi/3.jpg
+  page: https://www.inaturalist.org/photos/721520303
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721520303/original.jpg
+- file: images/passeriformes/ploceidae/pseudonigrita-arnaudi/4.jpg
+  page: https://www.inaturalist.org/photos/722035932
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722035932/original.jpg
+- file: images/passeriformes/ploceidae/pseudonigrita-arnaudi/5.jpg
+  page: https://www.inaturalist.org/photos/661238228
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661238228/original.jpg
 ---
 
 

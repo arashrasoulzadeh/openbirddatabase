@@ -157,10 +157,37 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/strigiformes/strigidae/megascops-kennicottii/1.jpg
+  page: https://www.inaturalist.org/photos/618602549
+  author: Henry Mulligan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618602549/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-kennicottii/1.jpg
+  page: https://www.inaturalist.org/photos/618602549
+  author: Henry Mulligan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618602549/original.jpg
+- file: images/strigiformes/strigidae/megascops-kennicottii/2.jpg
+  page: https://www.inaturalist.org/photos/618602548
+  author: Henry Mulligan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618602548/original.jpg
+- file: images/strigiformes/strigidae/megascops-kennicottii/3.jpg
+  page: https://www.inaturalist.org/photos/618602551
+  author: Henry Mulligan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618602551/original.jpg
 ---
 
 

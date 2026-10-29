@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/salpinctes-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/605263299
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605263299/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/salpinctes-obsoletus/1.jpg
+  page: https://www.inaturalist.org/photos/605263299
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605263299/original.jpg
+- file: images/passeriformes/troglodytidae/salpinctes-obsoletus/2.jpg
+  page: https://www.inaturalist.org/photos/608317953
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608317953/original.jpg
+- file: images/passeriformes/troglodytidae/salpinctes-obsoletus/3.jpg
+  page: https://www.inaturalist.org/photos/609144774
+  author: William Walker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609144774/original.jpg
+- file: images/passeriformes/troglodytidae/salpinctes-obsoletus/4.jpg
+  page: https://www.inaturalist.org/photos/606762689
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606762689/original.jpg
+- file: images/passeriformes/troglodytidae/salpinctes-obsoletus/5.jpg
+  page: https://www.inaturalist.org/photos/611706958
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611706958/original.jpg
 ---
 
 

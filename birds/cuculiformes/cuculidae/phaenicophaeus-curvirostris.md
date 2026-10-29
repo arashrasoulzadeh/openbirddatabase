@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/phaenicophaeus-curvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610961206
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610961206/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/phaenicophaeus-curvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/610961206
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610961206/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-curvirostris/2.jpg
+  page: https://www.inaturalist.org/photos/618953274
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618953274/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-curvirostris/3.jpg
+  page: https://www.inaturalist.org/photos/634499634
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634499634/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-curvirostris/4.jpg
+  page: https://www.inaturalist.org/photos/618479029
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618479029/original.jpg
+- file: images/cuculiformes/cuculidae/phaenicophaeus-curvirostris/5.jpg
+  page: https://www.inaturalist.org/photos/633978859
+  author: Richard Dimon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633978859/original.jpg
 ---
 
 

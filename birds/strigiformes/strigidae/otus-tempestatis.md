@@ -128,8 +128,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/otus-tempestatis/1.jpg
+  page: https://www.inaturalist.org/photos/709961143
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709961143/original.jpg
+images:
+- file: images/strigiformes/strigidae/otus-tempestatis/1.jpg
+  page: https://www.inaturalist.org/photos/709961143
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709961143/original.jpg
+- file: images/strigiformes/strigidae/otus-tempestatis/2.jpg
+  page: https://www.inaturalist.org/photos/526333293
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526333293/original.jpg
+- file: images/strigiformes/strigidae/otus-tempestatis/3.jpg
+  page: https://www.inaturalist.org/photos/313905088
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313905088/original.jpg
+- file: images/strigiformes/strigidae/otus-tempestatis/4.jpg
+  page: https://www.inaturalist.org/photos/332920304
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332920304/original.jpeg
+- file: images/strigiformes/strigidae/otus-tempestatis/5.jpg
+  page: https://www.inaturalist.org/photos/337787956
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337787956/original.jpeg
 ---
 
 

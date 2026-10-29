@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pityriasidae/pityriasis-gymnocephala/1.jpg
+  page: https://www.inaturalist.org/photos/599042275
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599042275/original.jpg
+images:
+- file: images/passeriformes/pityriasidae/pityriasis-gymnocephala/1.jpg
+  page: https://www.inaturalist.org/photos/599042275
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599042275/original.jpg
+- file: images/passeriformes/pityriasidae/pityriasis-gymnocephala/2.jpg
+  page: https://www.inaturalist.org/photos/408157501
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/408157501/original.jpeg
+- file: images/passeriformes/pityriasidae/pityriasis-gymnocephala/3.jpg
+  page: https://www.inaturalist.org/photos/459311334
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459311334/original.jpeg
+- file: images/passeriformes/pityriasidae/pityriasis-gymnocephala/4.jpg
+  page: https://www.inaturalist.org/photos/623155042
+  author: Dixon Lau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623155042/original.jpg
+- file: images/passeriformes/pityriasidae/pityriasis-gymnocephala/5.jpg
+  page: https://www.inaturalist.org/photos/408157455
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/408157455/original.jpeg
 ---
 
 

@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/campephagidae/coracina-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/604664240
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604664240/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-novaehollandiae/1.jpg
+  page: https://www.inaturalist.org/photos/604664240
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604664240/original.jpg
+- file: images/passeriformes/campephagidae/coracina-novaehollandiae/2.jpg
+  page: https://www.inaturalist.org/photos/604973283
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604973283/original.jpg
+- file: images/passeriformes/campephagidae/coracina-novaehollandiae/3.jpg
+  page: https://www.inaturalist.org/photos/606340854
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606340854/original.jpg
+- file: images/passeriformes/campephagidae/coracina-novaehollandiae/4.jpg
+  page: https://www.inaturalist.org/photos/604973294
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604973294/original.jpg
+- file: images/passeriformes/campephagidae/coracina-novaehollandiae/5.jpg
+  page: https://www.inaturalist.org/photos/608514186
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608514186/original.jpg
 ---
 
 

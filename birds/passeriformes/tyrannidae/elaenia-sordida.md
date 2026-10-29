@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-sordida/1.jpg
+  page: https://www.inaturalist.org/photos/668552604
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668552604/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-sordida/1.jpg
+  page: https://www.inaturalist.org/photos/668552604
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668552604/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-sordida/2.jpg
+  page: https://www.inaturalist.org/photos/677315528
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677315528/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-sordida/3.jpg
+  page: https://www.inaturalist.org/photos/689682513
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689682513/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-sordida/4.jpg
+  page: https://www.inaturalist.org/photos/721250444
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721250444/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-sordida/5.jpg
+  page: https://www.inaturalist.org/photos/725781155
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725781155/original.jpg
 ---
 
 

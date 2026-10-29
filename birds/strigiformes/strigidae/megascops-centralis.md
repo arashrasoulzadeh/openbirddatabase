@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/megascops-centralis/1.jpg
+  page: https://www.inaturalist.org/photos/498354120
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498354120/original.jpg
+images:
+- file: images/strigiformes/strigidae/megascops-centralis/1.jpg
+  page: https://www.inaturalist.org/photos/498354120
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/498354120/original.jpg
+- file: images/strigiformes/strigidae/megascops-centralis/2.jpg
+  page: https://www.inaturalist.org/photos/474655320
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474655320/original.jpg
+- file: images/strigiformes/strigidae/megascops-centralis/3.jpg
+  page: https://www.inaturalist.org/photos/355925456
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355925456/original.jpg
+- file: images/strigiformes/strigidae/megascops-centralis/4.jpg
+  page: https://www.inaturalist.org/photos/414779501
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414779501/original.jpg
+- file: images/strigiformes/strigidae/megascops-centralis/5.jpg
+  page: https://www.inaturalist.org/photos/359868320
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359868320/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chalcites-lucidus/1.jpg
+  page: https://www.inaturalist.org/photos/605614532
+  author: chrystal1914
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605614532/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chalcites-lucidus/1.jpg
+  page: https://www.inaturalist.org/photos/605614532
+  author: chrystal1914
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605614532/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-lucidus/2.jpg
+  page: https://www.inaturalist.org/photos/606119308
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606119308/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-lucidus/3.jpg
+  page: https://www.inaturalist.org/photos/610084534
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084534/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-lucidus/4.jpg
+  page: https://www.inaturalist.org/photos/610913285
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610913285/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-lucidus/5.jpg
+  page: https://www.inaturalist.org/photos/612030572
+  author: Anna Burrows
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612030572/original.jpg
 ---
 
 

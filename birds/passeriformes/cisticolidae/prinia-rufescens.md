@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/609200745
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609200745/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/609200745
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609200745/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-rufescens/2.jpg
+  page: https://www.inaturalist.org/photos/611875178
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611875178/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-rufescens/3.jpg
+  page: https://www.inaturalist.org/photos/614292160
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614292160/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-rufescens/4.jpg
+  page: https://www.inaturalist.org/photos/629218837
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629218837/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-rufescens/5.jpg
+  page: https://www.inaturalist.org/photos/630740177
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630740177/original.jpg
 ---
 
 

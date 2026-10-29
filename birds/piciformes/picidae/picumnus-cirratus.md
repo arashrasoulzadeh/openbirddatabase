@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-cirratus/1.jpg
+  page: https://www.inaturalist.org/photos/609320458
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320458/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-cirratus/1.jpg
+  page: https://www.inaturalist.org/photos/609320458
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609320458/original.jpg
+- file: images/piciformes/picidae/picumnus-cirratus/2.jpg
+  page: https://www.inaturalist.org/photos/610872663
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610872663/original.jpg
+- file: images/piciformes/picidae/picumnus-cirratus/3.jpg
+  page: https://www.inaturalist.org/photos/609365572
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609365572/original.jpg
+- file: images/piciformes/picidae/picumnus-cirratus/4.jpg
+  page: https://www.inaturalist.org/photos/625432315
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625432315/original.jpg
+- file: images/piciformes/picidae/picumnus-cirratus/5.jpg
+  page: https://www.inaturalist.org/photos/612894192
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612894192/original.jpg
 ---
 
 

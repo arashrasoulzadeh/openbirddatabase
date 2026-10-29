@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/onychorhynchidae/myiobius-atricaudus/1.jpg
+  page: https://www.inaturalist.org/photos/608696702
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608696702/original.jpg
+images:
+- file: images/passeriformes/onychorhynchidae/myiobius-atricaudus/1.jpg
+  page: https://www.inaturalist.org/photos/608696702
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608696702/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-atricaudus/2.jpg
+  page: https://www.inaturalist.org/photos/649435536
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649435536/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-atricaudus/3.jpg
+  page: https://www.inaturalist.org/photos/660395691
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660395691/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-atricaudus/4.jpg
+  page: https://www.inaturalist.org/photos/692285023
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692285023/original.jpg
+- file: images/passeriformes/onychorhynchidae/myiobius-atricaudus/5.jpg
+  page: https://www.inaturalist.org/photos/730582036
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730582036/original.jpg
 ---
 
 

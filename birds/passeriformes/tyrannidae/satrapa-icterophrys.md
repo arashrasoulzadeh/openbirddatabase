@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/satrapa-icterophrys/1.jpg
+  page: https://www.inaturalist.org/photos/605145005
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605145005/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/satrapa-icterophrys/1.jpg
+  page: https://www.inaturalist.org/photos/605145005
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605145005/original.jpg
+- file: images/passeriformes/tyrannidae/satrapa-icterophrys/2.jpg
+  page: https://www.inaturalist.org/photos/607806061
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607806061/original.jpg
+- file: images/passeriformes/tyrannidae/satrapa-icterophrys/3.jpg
+  page: https://www.inaturalist.org/photos/609961389
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609961389/original.jpg
+- file: images/passeriformes/tyrannidae/satrapa-icterophrys/4.jpg
+  page: https://www.inaturalist.org/photos/612854406
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612854406/original.jpg
+- file: images/passeriformes/tyrannidae/satrapa-icterophrys/5.jpg
+  page: https://www.inaturalist.org/photos/615585916
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615585916/original.jpg
 ---
 
 

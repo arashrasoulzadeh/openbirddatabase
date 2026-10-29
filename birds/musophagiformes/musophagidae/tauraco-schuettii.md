@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/musophagiformes/musophagidae/tauraco-schuettii/1.jpg
+  page: https://www.inaturalist.org/photos/622530755
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622530755/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-schuettii/1.jpg
+  page: https://www.inaturalist.org/photos/622530755
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622530755/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-schuettii/2.jpg
+  page: https://www.inaturalist.org/photos/562134584
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562134584/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-schuettii/3.jpg
+  page: https://www.inaturalist.org/photos/588167021
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588167021/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-schuettii/4.jpg
+  page: https://www.inaturalist.org/photos/660336567
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660336567/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-schuettii/5.jpg
+  page: https://www.inaturalist.org/photos/393649188
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393649188/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/attila-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/605534028
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534028/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/attila-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/605534028
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605534028/original.jpg
+- file: images/passeriformes/tyrannidae/attila-rufus/2.jpg
+  page: https://www.inaturalist.org/photos/610443329
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610443329/original.jpg
+- file: images/passeriformes/tyrannidae/attila-rufus/3.jpg
+  page: https://www.inaturalist.org/photos/618272730
+  author: Daniel Duarte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618272730/original.jpg
+- file: images/passeriformes/tyrannidae/attila-rufus/4.jpg
+  page: https://www.inaturalist.org/photos/625366170
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625366170/original.jpg
+- file: images/passeriformes/tyrannidae/attila-rufus/5.jpg
+  page: https://www.inaturalist.org/photos/637021832
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637021832/original.jpg
 ---
 
 

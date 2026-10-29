@@ -199,8 +199,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/spatula-querquedula/1.jpg
+  page: https://www.inaturalist.org/photos/607116864
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116864/original.jpg
+images:
+- file: images/anseriformes/anatidae/spatula-querquedula/1.jpg
+  page: https://www.inaturalist.org/photos/607116864
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607116864/original.jpg
+- file: images/anseriformes/anatidae/spatula-querquedula/2.jpg
+  page: https://www.inaturalist.org/photos/612652230
+  author: Stephen Matthews
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612652230/original.jpg
+- file: images/anseriformes/anatidae/spatula-querquedula/3.jpg
+  page: https://www.inaturalist.org/photos/623089904
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089904/original.jpg
+- file: images/anseriformes/anatidae/spatula-querquedula/4.jpg
+  page: https://www.inaturalist.org/photos/616761274
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616761274/original.jpg
+- file: images/anseriformes/anatidae/spatula-querquedula/5.jpg
+  page: https://www.inaturalist.org/photos/620816901
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620816901/original.jpg
 ---
 
 

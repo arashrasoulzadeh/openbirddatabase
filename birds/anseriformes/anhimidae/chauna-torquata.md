@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anhimidae/chauna-torquata/1.jpg
+  page: https://www.inaturalist.org/photos/604534901
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604534901/original.jpg
+images:
+- file: images/anseriformes/anhimidae/chauna-torquata/1.jpg
+  page: https://www.inaturalist.org/photos/604534901
+  author: Vinicius Cerutti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604534901/original.jpg
+- file: images/anseriformes/anhimidae/chauna-torquata/2.jpg
+  page: https://www.inaturalist.org/photos/604777153
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604777153/original.jpg
+- file: images/anseriformes/anhimidae/chauna-torquata/3.jpg
+  page: https://www.inaturalist.org/photos/609364249
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609364249/original.jpg
+- file: images/anseriformes/anhimidae/chauna-torquata/4.jpg
+  page: https://www.inaturalist.org/photos/606027401
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027401/original.jpg
+- file: images/anseriformes/anhimidae/chauna-torquata/5.jpg
+  page: https://www.inaturalist.org/photos/610702601
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610702601/original.jpg
 ---
 
 

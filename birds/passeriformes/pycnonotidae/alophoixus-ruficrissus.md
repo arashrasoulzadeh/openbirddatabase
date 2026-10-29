@@ -127,8 +127,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/alophoixus-ruficrissus/1.jpg
+  page: https://www.inaturalist.org/photos/605890305
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605890305/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/alophoixus-ruficrissus/1.jpg
+  page: https://www.inaturalist.org/photos/605890305
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605890305/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-ruficrissus/2.jpg
+  page: https://www.inaturalist.org/photos/612384782
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612384782/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-ruficrissus/3.jpg
+  page: https://www.inaturalist.org/photos/650053725
+  author: Jannis Ackermann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650053725/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-ruficrissus/4.jpg
+  page: https://www.inaturalist.org/photos/703304855
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703304855/original.jpg
+- file: images/passeriformes/pycnonotidae/alophoixus-ruficrissus/5.jpg
+  page: https://www.inaturalist.org/photos/463895138
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463895138/original.jpg
 ---
 
 

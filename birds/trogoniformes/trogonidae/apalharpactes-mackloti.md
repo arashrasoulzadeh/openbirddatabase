@@ -132,7 +132,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 18.5
@@ -140,6 +141,44 @@ morphology:
   wing_length_mm: 126.2
   tail_length_mm: 155.9
   body_mass_g: 118.0
+image:
+  file: images/trogoniformes/trogonidae/apalharpactes-mackloti/1.jpg
+  page: https://www.inaturalist.org/photos/614933559
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933559/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/apalharpactes-mackloti/1.jpg
+  page: https://www.inaturalist.org/photos/614933559
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933559/original.jpg
+- file: images/trogoniformes/trogonidae/apalharpactes-mackloti/2.jpg
+  page: https://www.inaturalist.org/photos/618849241
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849241/original.jpg
+- file: images/trogoniformes/trogonidae/apalharpactes-mackloti/3.jpg
+  page: https://www.inaturalist.org/photos/339650766
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339650766/original.jpg
+- file: images/trogoniformes/trogonidae/apalharpactes-mackloti/4.jpg
+  page: https://www.inaturalist.org/photos/614933560
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933560/original.jpg
+- file: images/trogoniformes/trogonidae/apalharpactes-mackloti/5.jpg
+  page: https://www.inaturalist.org/photos/616152653
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152653/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lonchura-molucca/1.jpg
+  page: https://www.inaturalist.org/photos/712963482
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712963482/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-molucca/1.jpg
+  page: https://www.inaturalist.org/photos/712963482
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712963482/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-molucca/2.jpg
+  page: https://www.inaturalist.org/photos/467790179
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467790179/original.jpeg
+- file: images/passeriformes/estrildidae/lonchura-molucca/3.jpg
+  page: https://www.inaturalist.org/photos/505751191
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505751191/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-molucca/4.jpg
+  page: https://www.inaturalist.org/photos/413374841
+  author: Aiken Lau
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413374841/original.jpeg
+- file: images/passeriformes/estrildidae/lonchura-molucca/5.jpg
+  page: https://www.inaturalist.org/photos/466325641
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466325641/original.jpg
 ---
 
 

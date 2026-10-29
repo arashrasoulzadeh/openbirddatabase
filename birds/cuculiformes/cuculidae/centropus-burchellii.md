@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-burchellii/1.jpg
+  page: https://www.inaturalist.org/photos/624173512
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624173512/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-burchellii/1.jpg
+  page: https://www.inaturalist.org/photos/624173512
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624173512/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-burchellii/2.jpg
+  page: https://www.inaturalist.org/photos/619851465
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851465/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-burchellii/3.jpg
+  page: https://www.inaturalist.org/photos/619851487
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851487/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-burchellii/4.jpg
+  page: https://www.inaturalist.org/photos/619851492
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851492/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-burchellii/5.jpg
+  page: https://www.inaturalist.org/photos/619851507
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619851507/original.jpg
 ---
 
 

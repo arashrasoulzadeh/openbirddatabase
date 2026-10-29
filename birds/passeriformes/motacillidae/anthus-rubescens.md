@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/motacillidae/anthus-rubescens/1.jpg
+  page: https://www.inaturalist.org/photos/610050385
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610050385/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-rubescens/1.jpg
+  page: https://www.inaturalist.org/photos/610050385
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610050385/original.jpg
+- file: images/passeriformes/motacillidae/anthus-rubescens/2.jpg
+  page: https://www.inaturalist.org/photos/608227037
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608227037/original.jpg
+- file: images/passeriformes/motacillidae/anthus-rubescens/3.jpg
+  page: https://www.inaturalist.org/photos/609927555
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609927555/original.jpg
+- file: images/passeriformes/motacillidae/anthus-rubescens/4.jpg
+  page: https://www.inaturalist.org/photos/610170713
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610170713/original.jpg
+- file: images/passeriformes/motacillidae/anthus-rubescens/5.jpg
+  page: https://www.inaturalist.org/photos/607257238
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607257238/original.jpg
 ---
 
 

@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tersina-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/604543211
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543211/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tersina-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/604543211
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604543211/original.jpg
+- file: images/passeriformes/thraupidae/tersina-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/609337512
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609337512/original.jpg
+- file: images/passeriformes/thraupidae/tersina-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/610002533
+  author: Darci
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610002533/original.jpg
+- file: images/passeriformes/thraupidae/tersina-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/617863492
+  author: Monkey Safari Tur
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617863492/original.jpg
+- file: images/passeriformes/thraupidae/tersina-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/609337562
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609337562/original.jpg
 ---
 
 

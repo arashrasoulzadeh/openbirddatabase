@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/passeriformes/artamidae/strepera-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/609416413
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609416413/original.jpg
+images:
+- file: images/passeriformes/artamidae/strepera-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/609416413
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609416413/original.jpg
+- file: images/passeriformes/artamidae/strepera-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/605838633
+  author: insiderelic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605838633/original.jpg
+- file: images/passeriformes/artamidae/strepera-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/615461743
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615461743/original.jpg
+- file: images/passeriformes/artamidae/strepera-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/612803926
+  author: Carmen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612803926/original.jpg
+- file: images/passeriformes/artamidae/strepera-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/613170398
+  author: bemma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613170398/original.jpg
 ---
 
 

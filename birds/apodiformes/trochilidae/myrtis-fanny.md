@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/myrtis-fanny/1.jpg
+  page: https://www.inaturalist.org/photos/718284892
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718284892/original.jpg
+images:
+- file: images/apodiformes/trochilidae/myrtis-fanny/1.jpg
+  page: https://www.inaturalist.org/photos/718284892
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718284892/original.jpg
+- file: images/apodiformes/trochilidae/myrtis-fanny/2.jpg
+  page: https://www.inaturalist.org/photos/468965077
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468965077/original.jpeg
+- file: images/apodiformes/trochilidae/myrtis-fanny/3.jpg
+  page: https://www.inaturalist.org/photos/477995659
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477995659/original.jpeg
+- file: images/apodiformes/trochilidae/myrtis-fanny/4.jpg
+  page: https://www.inaturalist.org/photos/506517917
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506517917/original.jpg
+- file: images/apodiformes/trochilidae/myrtis-fanny/5.jpg
+  page: https://www.inaturalist.org/photos/542006729
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542006729/original.jpg
 ---
 
 

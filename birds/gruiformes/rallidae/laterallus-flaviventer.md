@@ -163,8 +163,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/laterallus-flaviventer/1.jpg
+  page: https://www.inaturalist.org/photos/720733390
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720733390/original.jpg
+images:
+- file: images/gruiformes/rallidae/laterallus-flaviventer/1.jpg
+  page: https://www.inaturalist.org/photos/720733390
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720733390/original.jpg
+- file: images/gruiformes/rallidae/laterallus-flaviventer/2.jpg
+  page: https://www.inaturalist.org/photos/701913303
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701913303/original.jpg
+- file: images/gruiformes/rallidae/laterallus-flaviventer/3.jpg
+  page: https://www.inaturalist.org/photos/551399398
+  author: Mariano Cosentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551399398/original.jpg
+- file: images/gruiformes/rallidae/laterallus-flaviventer/4.jpg
+  page: https://www.inaturalist.org/photos/599133735
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599133735/original.jpg
+- file: images/gruiformes/rallidae/laterallus-flaviventer/5.jpg
+  page: https://www.inaturalist.org/photos/366321846
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/366321846/original.jpg
 ---
 
 

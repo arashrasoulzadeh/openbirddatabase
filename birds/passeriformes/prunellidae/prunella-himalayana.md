@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/prunellidae/prunella-himalayana/1.jpg
+  page: https://www.inaturalist.org/photos/474935257
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474935257/original.jpeg
+images:
+- file: images/passeriformes/prunellidae/prunella-himalayana/1.jpg
+  page: https://www.inaturalist.org/photos/474935257
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474935257/original.jpeg
+- file: images/passeriformes/prunellidae/prunella-himalayana/2.jpg
+  page: https://www.inaturalist.org/photos/593989418
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593989418/original.jpg
+- file: images/passeriformes/prunellidae/prunella-himalayana/3.jpg
+  page: https://www.inaturalist.org/photos/521781123
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521781123/original.jpg
+- file: images/passeriformes/prunellidae/prunella-himalayana/4.jpg
+  page: https://www.inaturalist.org/photos/564748908
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564748908/original.jpg
+- file: images/passeriformes/prunellidae/prunella-himalayana/5.jpg
+  page: https://www.inaturalist.org/photos/474935001
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474935001/original.jpeg
 ---
 
 

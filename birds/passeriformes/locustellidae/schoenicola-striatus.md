@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/schoenicola-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/612061831
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612061831/original.jpg
+images:
+- file: images/passeriformes/locustellidae/schoenicola-striatus/1.jpg
+  page: https://www.inaturalist.org/photos/612061831
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612061831/original.jpg
+- file: images/passeriformes/locustellidae/schoenicola-striatus/2.jpg
+  page: https://www.inaturalist.org/photos/337784625
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784625/original.jpeg
+- file: images/passeriformes/locustellidae/schoenicola-striatus/3.jpg
+  page: https://www.inaturalist.org/photos/408046670
+  author: Parth Kansara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/408046670/original.jpg
+- file: images/passeriformes/locustellidae/schoenicola-striatus/4.jpg
+  page: https://www.inaturalist.org/photos/612061845
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612061845/original.jpg
+- file: images/passeriformes/locustellidae/schoenicola-striatus/5.jpg
+  page: https://www.inaturalist.org/photos/612859095
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612859095/original.jpg
 ---
 
 

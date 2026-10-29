@@ -190,10 +190,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/sylviidae/sylvia-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/605030192
+  author: Karyn Murby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605030192/original.jpg
+images:
+- file: images/passeriformes/sylviidae/sylvia-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/605030192
+  author: Karyn Murby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605030192/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-atricapilla/2.jpg
+  page: https://www.inaturalist.org/photos/604457382
+  author: Becky Hamilton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604457382/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-atricapilla/3.jpg
+  page: https://www.inaturalist.org/photos/605417630
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417630/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-atricapilla/4.jpg
+  page: https://www.inaturalist.org/photos/604745340
+  author: Bastien Le Mort
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604745340/original.jpg
+- file: images/passeriformes/sylviidae/sylvia-atricapilla/5.jpg
+  page: https://www.inaturalist.org/photos/605612985
+  author: Sean Frederick Tuck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605612985/original.jpg
 ---
 
 

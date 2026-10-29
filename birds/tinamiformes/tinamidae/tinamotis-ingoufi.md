@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/tinamiformes/tinamidae/tinamotis-ingoufi/1.jpg
+  page: https://www.inaturalist.org/photos/382467564
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382467564/original.jpeg
+images:
+- file: images/tinamiformes/tinamidae/tinamotis-ingoufi/1.jpg
+  page: https://www.inaturalist.org/photos/382467564
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382467564/original.jpeg
+- file: images/tinamiformes/tinamidae/tinamotis-ingoufi/2.jpg
+  page: https://www.inaturalist.org/photos/463342818
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463342818/original.jpg
+- file: images/tinamiformes/tinamidae/tinamotis-ingoufi/3.jpg
+  page: https://www.inaturalist.org/photos/119156605
+  author: Matias Cabezas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/119156605/original.jpeg
+- file: images/tinamiformes/tinamidae/tinamotis-ingoufi/4.jpg
+  page: https://www.inaturalist.org/photos/174023683
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174023683/original.jpeg
+- file: images/tinamiformes/tinamidae/tinamotis-ingoufi/5.jpg
+  page: https://www.inaturalist.org/photos/27164422
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/27164422/original.jpeg
 ---
 
 

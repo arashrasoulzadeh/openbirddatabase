@@ -132,7 +132,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 30.5
@@ -140,6 +141,20 @@ morphology:
   wing_length_mm: 254.0
   tail_length_mm: 150.8
   body_mass_g: 667.0
+image:
+  file: images/columbiformes/columbidae/ducula-neglecta/1.jpg
+  page: https://www.inaturalist.org/photos/700913269
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700913269/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-neglecta/1.jpg
+  page: https://www.inaturalist.org/photos/700913269
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700913269/original.jpg
 ---
 
 

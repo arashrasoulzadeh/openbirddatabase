@@ -133,7 +133,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 25.8
@@ -141,6 +142,44 @@ morphology:
   wing_length_mm: 105.0
   tail_length_mm: 105.4
   body_mass_g: 44.0
+image:
+  file: images/passeriformes/thraupidae/saltator-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/605433921
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433921/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltator-fuliginosus/1.jpg
+  page: https://www.inaturalist.org/photos/605433921
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433921/original.jpg
+- file: images/passeriformes/thraupidae/saltator-fuliginosus/2.jpg
+  page: https://www.inaturalist.org/photos/658070845
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658070845/original.jpg
+- file: images/passeriformes/thraupidae/saltator-fuliginosus/3.jpg
+  page: https://www.inaturalist.org/photos/716801249
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716801249/original.jpg
+- file: images/passeriformes/thraupidae/saltator-fuliginosus/4.jpg
+  page: https://www.inaturalist.org/photos/641150532
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641150532/original.jpg
+- file: images/passeriformes/thraupidae/saltator-fuliginosus/5.jpg
+  page: https://www.inaturalist.org/photos/650113434
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650113434/original.jpg
 ---
 
 

@@ -124,7 +124,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 22.0
@@ -132,6 +133,44 @@ morphology:
   wing_length_mm: 96.0
   tail_length_mm: 117.0
   body_mass_g: 76.7
+image:
+  file: images/passeriformes/leiothrichidae/ianthocincla-konkakinhensis/1.jpg
+  page: https://www.inaturalist.org/photos/105778479
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778479/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/ianthocincla-konkakinhensis/1.jpg
+  page: https://www.inaturalist.org/photos/105778479
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778479/original.jpeg
+- file: images/passeriformes/leiothrichidae/ianthocincla-konkakinhensis/2.jpg
+  page: https://www.inaturalist.org/photos/109396738
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109396738/original.jpeg
+- file: images/passeriformes/leiothrichidae/ianthocincla-konkakinhensis/3.jpg
+  page: https://www.inaturalist.org/photos/105778491
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778491/original.jpeg
+- file: images/passeriformes/leiothrichidae/ianthocincla-konkakinhensis/4.jpg
+  page: https://www.inaturalist.org/photos/105778500
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778500/original.jpeg
+- file: images/passeriformes/leiothrichidae/ianthocincla-konkakinhensis/5.jpg
+  page: https://www.inaturalist.org/photos/105778506
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105778506/original.jpeg
 ---
 
 

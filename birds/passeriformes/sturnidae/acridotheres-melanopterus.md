@@ -144,7 +144,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 25.4
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 124.2
   tail_length_mm: 72.6
   body_mass_g: 89.0
+image:
+  file: images/passeriformes/sturnidae/acridotheres-melanopterus/1.jpg
+  page: https://www.inaturalist.org/photos/636340713
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636340713/original.jpg
+images:
+- file: images/passeriformes/sturnidae/acridotheres-melanopterus/1.jpg
+  page: https://www.inaturalist.org/photos/636340713
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636340713/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-melanopterus/2.jpg
+  page: https://www.inaturalist.org/photos/652833431
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652833431/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-melanopterus/3.jpg
+  page: https://www.inaturalist.org/photos/543146819
+  author: Deborah Spurr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543146819/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-melanopterus/4.jpg
+  page: https://www.inaturalist.org/photos/733303306
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733303306/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-melanopterus/5.jpg
+  page: https://www.inaturalist.org/photos/279212346
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279212346/original.jpg
 ---
 
 

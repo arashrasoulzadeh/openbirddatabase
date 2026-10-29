@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-andamanensis/1.jpg
+  page: https://www.inaturalist.org/photos/487440637
+  author: Laura Liedtke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487440637/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-andamanensis/1.jpg
+  page: https://www.inaturalist.org/photos/487440637
+  author: Laura Liedtke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487440637/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-andamanensis/2.jpg
+  page: https://www.inaturalist.org/photos/612719869
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612719869/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-andamanensis/3.jpg
+  page: https://www.inaturalist.org/photos/58527604
+  author: Firos AK
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/58527604/original.jpeg
+- file: images/cuculiformes/cuculidae/centropus-andamanensis/4.jpg
+  page: https://www.inaturalist.org/photos/168202110
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/168202110/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-andamanensis/5.jpg
+  page: https://www.inaturalist.org/photos/487440708
+  author: Laura Liedtke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487440708/original.jpg
 ---
 
 

@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/locustella-montis/1.jpg
+  page: https://www.inaturalist.org/photos/279210745
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279210745/original.jpg
+images:
+- file: images/passeriformes/locustellidae/locustella-montis/1.jpg
+  page: https://www.inaturalist.org/photos/279210745
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279210745/original.jpg
+- file: images/passeriformes/locustellidae/locustella-montis/2.jpg
+  page: https://www.inaturalist.org/photos/325702407
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/325702407/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-montis/3.jpg
+  page: https://www.inaturalist.org/photos/60304506
+  author: Julia Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60304506/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-montis/4.jpg
+  page: https://www.inaturalist.org/photos/103271127
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103271127/original.jpeg
+- file: images/passeriformes/locustellidae/locustella-montis/5.jpg
+  page: https://www.inaturalist.org/photos/279210763
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279210763/original.jpg
 ---
 
 

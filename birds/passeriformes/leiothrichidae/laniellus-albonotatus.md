@@ -130,7 +130,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 19.0
@@ -138,6 +139,44 @@ morphology:
   wing_length_mm: 86.0
   tail_length_mm: 107.8
   body_mass_g: 45.0
+image:
+  file: images/passeriformes/leiothrichidae/laniellus-albonotatus/1.jpg
+  page: https://www.inaturalist.org/photos/313036167
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036167/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/laniellus-albonotatus/1.jpg
+  page: https://www.inaturalist.org/photos/313036167
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036167/original.jpeg
+- file: images/passeriformes/leiothrichidae/laniellus-albonotatus/2.jpg
+  page: https://www.inaturalist.org/photos/313036161
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036161/original.jpeg
+- file: images/passeriformes/leiothrichidae/laniellus-albonotatus/3.jpg
+  page: https://www.inaturalist.org/photos/313036166
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036166/original.jpeg
+- file: images/passeriformes/leiothrichidae/laniellus-albonotatus/4.jpg
+  page: https://www.inaturalist.org/photos/313036209
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036209/original.jpeg
+- file: images/passeriformes/leiothrichidae/laniellus-albonotatus/5.jpg
+  page: https://www.inaturalist.org/photos/313036214
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313036214/original.jpeg
 ---
 
 

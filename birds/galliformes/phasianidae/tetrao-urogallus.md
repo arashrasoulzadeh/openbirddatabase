@@ -164,10 +164,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/galliformes/phasianidae/tetrao-urogallus/1.jpg
+  page: https://www.inaturalist.org/photos/626739409
+  author: Александр Краснов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626739409/original.jpg
+images:
+- file: images/galliformes/phasianidae/tetrao-urogallus/1.jpg
+  page: https://www.inaturalist.org/photos/626739409
+  author: Александр Краснов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626739409/original.jpg
+- file: images/galliformes/phasianidae/tetrao-urogallus/2.jpg
+  page: https://www.inaturalist.org/photos/628580068
+  author: E. A.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628580068/original.jpg
+- file: images/galliformes/phasianidae/tetrao-urogallus/3.jpg
+  page: https://www.inaturalist.org/photos/629155711
+  author: preinzi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629155711/original.jpg
+- file: images/galliformes/phasianidae/tetrao-urogallus/4.jpg
+  page: https://www.inaturalist.org/photos/631293786
+  author: Шальнов Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631293786/original.jpg
+- file: images/galliformes/phasianidae/tetrao-urogallus/5.jpg
+  page: https://www.inaturalist.org/photos/695788865
+  author: Andrejus Gaidamavičius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695788865/original.jpg
 ---
 
 

@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicruridae/dicrurus-aeneus/1.jpg
+  page: https://www.inaturalist.org/photos/609188855
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188855/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-aeneus/1.jpg
+  page: https://www.inaturalist.org/photos/609188855
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609188855/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-aeneus/2.jpg
+  page: https://www.inaturalist.org/photos/614202787
+  author: 呂一起(Lyu yi-chi)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614202787/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-aeneus/3.jpg
+  page: https://www.inaturalist.org/photos/613812653
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613812653/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-aeneus/4.jpg
+  page: https://www.inaturalist.org/photos/616543058
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616543058/original.jpg
+- file: images/passeriformes/dicruridae/dicrurus-aeneus/5.jpg
+  page: https://www.inaturalist.org/photos/617206492
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206492/original.jpg
 ---
 
 

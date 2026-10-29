@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/poecile-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/617756992
+  author: yelena_antipova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617756992/original.jpg
+images:
+- file: images/passeriformes/paridae/poecile-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/617756992
+  author: yelena_antipova
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617756992/original.jpg
+- file: images/passeriformes/paridae/poecile-lugubris/2.jpg
+  page: https://www.inaturalist.org/photos/466240849
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466240849/original.jpeg
+- file: images/passeriformes/paridae/poecile-lugubris/3.jpg
+  page: https://www.inaturalist.org/photos/468404976
+  author: SteveM4560
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468404976/original.jpeg
+- file: images/passeriformes/paridae/poecile-lugubris/4.jpg
+  page: https://www.inaturalist.org/photos/506307924
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506307924/original.jpg
+- file: images/passeriformes/paridae/poecile-lugubris/5.jpg
+  page: https://www.inaturalist.org/photos/516396631
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516396631/original.jpg
 ---
 
 

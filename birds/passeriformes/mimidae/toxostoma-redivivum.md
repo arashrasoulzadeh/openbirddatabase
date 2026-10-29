@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/mimidae/toxostoma-redivivum/1.jpg
+  page: https://www.inaturalist.org/photos/604720562
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604720562/original.jpg
+images:
+- file: images/passeriformes/mimidae/toxostoma-redivivum/1.jpg
+  page: https://www.inaturalist.org/photos/604720562
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604720562/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-redivivum/2.jpg
+  page: https://www.inaturalist.org/photos/604647362
+  author: Mark Valen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604647362/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-redivivum/3.jpg
+  page: https://www.inaturalist.org/photos/609564067
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609564067/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-redivivum/4.jpg
+  page: https://www.inaturalist.org/photos/610615239
+  author: Matthias Blume
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610615239/original.jpg
+- file: images/passeriformes/mimidae/toxostoma-redivivum/5.jpg
+  page: https://www.inaturalist.org/photos/606365886
+  author: Anne Parsons
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606365886/original.jpg
 ---
 
 

@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/setophaga-pitiayumi/1.jpg
+  page: https://www.inaturalist.org/photos/604579530
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604579530/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-pitiayumi/1.jpg
+  page: https://www.inaturalist.org/photos/604579530
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604579530/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pitiayumi/2.jpg
+  page: https://www.inaturalist.org/photos/604807531
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604807531/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pitiayumi/3.jpg
+  page: https://www.inaturalist.org/photos/608411306
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608411306/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pitiayumi/4.jpg
+  page: https://www.inaturalist.org/photos/613179073
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613179073/original.jpg
+- file: images/passeriformes/parulidae/setophaga-pitiayumi/5.jpg
+  page: https://www.inaturalist.org/photos/617454755
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617454755/original.jpg
 ---
 
 

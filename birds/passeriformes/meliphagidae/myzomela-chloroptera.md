@@ -135,7 +135,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.3
@@ -143,6 +144,44 @@ morphology:
   wing_length_mm: 53.8
   tail_length_mm: 37.2
   body_mass_g: 10.8
+image:
+  file: images/passeriformes/meliphagidae/myzomela-chloroptera/1.jpg
+  page: https://www.inaturalist.org/photos/734778600
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734778600/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-chloroptera/1.jpg
+  page: https://www.inaturalist.org/photos/734778600
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734778600/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-chloroptera/2.jpg
+  page: https://www.inaturalist.org/photos/617745310
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617745310/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-chloroptera/3.jpg
+  page: https://www.inaturalist.org/photos/684031085
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684031085/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-chloroptera/4.jpg
+  page: https://www.inaturalist.org/photos/525998495
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525998495/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-chloroptera/5.jpg
+  page: https://www.inaturalist.org/photos/471298053
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471298053/original.jpeg
 ---
 
 

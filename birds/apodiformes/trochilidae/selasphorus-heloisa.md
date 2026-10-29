@@ -135,8 +135,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/selasphorus-heloisa/1.jpg
+  page: https://www.inaturalist.org/photos/464396969
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464396969/original.jpg
+images:
+- file: images/apodiformes/trochilidae/selasphorus-heloisa/1.jpg
+  page: https://www.inaturalist.org/photos/464396969
+  author: Trevor Van Loon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464396969/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-heloisa/2.jpg
+  page: https://www.inaturalist.org/photos/475941113
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475941113/original.jpeg
+- file: images/apodiformes/trochilidae/selasphorus-heloisa/3.jpg
+  page: https://www.inaturalist.org/photos/541383829
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541383829/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-heloisa/4.jpg
+  page: https://www.inaturalist.org/photos/407505319
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/407505319/original.jpeg
+- file: images/apodiformes/trochilidae/selasphorus-heloisa/5.jpg
+  page: https://www.inaturalist.org/photos/252719754
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252719754/original.jpeg
 ---
 
 

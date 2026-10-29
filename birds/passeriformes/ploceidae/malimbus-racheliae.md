@@ -138,8 +138,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/malimbus-racheliae/1.jpg
+  page: https://www.inaturalist.org/photos/468667118
+  author: Tony King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468667118/original.jpeg
+images:
+- file: images/passeriformes/ploceidae/malimbus-racheliae/1.jpg
+  page: https://www.inaturalist.org/photos/468667118
+  author: Tony King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468667118/original.jpeg
+- file: images/passeriformes/ploceidae/malimbus-racheliae/2.jpg
+  page: https://www.inaturalist.org/photos/468666410
+  author: Tony King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468666410/original.jpeg
 ---
 
 

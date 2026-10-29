@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnomanes-caesius/1.jpg
+  page: https://www.inaturalist.org/photos/618624903
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618624903/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnomanes-caesius/1.jpg
+  page: https://www.inaturalist.org/photos/618624903
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618624903/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnomanes-caesius/2.jpg
+  page: https://www.inaturalist.org/photos/470183762
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470183762/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnomanes-caesius/3.jpg
+  page: https://www.inaturalist.org/photos/402005006
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402005006/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnomanes-caesius/4.jpg
+  page: https://www.inaturalist.org/photos/418736831
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418736831/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnomanes-caesius/5.jpg
+  page: https://www.inaturalist.org/photos/440548212
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440548212/original.jpeg
 ---
 
 

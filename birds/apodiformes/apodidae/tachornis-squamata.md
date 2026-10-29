@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/tachornis-squamata/1.jpg
+  page: https://www.inaturalist.org/photos/609288383
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609288383/original.jpg
+images:
+- file: images/apodiformes/apodidae/tachornis-squamata/1.jpg
+  page: https://www.inaturalist.org/photos/609288383
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609288383/original.jpg
+- file: images/apodiformes/apodidae/tachornis-squamata/2.jpg
+  page: https://www.inaturalist.org/photos/625081376
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625081376/original.jpg
+- file: images/apodiformes/apodidae/tachornis-squamata/3.jpg
+  page: https://www.inaturalist.org/photos/719103828
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719103828/original.jpg
+- file: images/apodiformes/apodidae/tachornis-squamata/4.jpg
+  page: https://www.inaturalist.org/photos/726856494
+  author: Paulo Nogueira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726856494/original.jpg
+- file: images/apodiformes/apodidae/tachornis-squamata/5.jpg
+  page: https://www.inaturalist.org/photos/465786555
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465786555/original.jpg
 ---
 
 

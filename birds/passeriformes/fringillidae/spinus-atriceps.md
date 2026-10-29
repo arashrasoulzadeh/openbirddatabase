@@ -144,8 +144,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/spinus-atriceps/1.jpg
+  page: https://www.inaturalist.org/photos/601650671
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601650671/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-atriceps/1.jpg
+  page: https://www.inaturalist.org/photos/601650671
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601650671/original.jpg
+- file: images/passeriformes/fringillidae/spinus-atriceps/2.jpg
+  page: https://www.inaturalist.org/photos/601650673
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601650673/original.jpg
+- file: images/passeriformes/fringillidae/spinus-atriceps/3.jpg
+  page: https://www.inaturalist.org/photos/601650682
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601650682/original.jpg
 ---
 
 

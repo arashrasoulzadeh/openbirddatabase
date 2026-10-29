@@ -143,8 +143,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passeridae/montifringilla-henrici/1.jpg
+  page: https://www.inaturalist.org/photos/367800776
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800776/original.jpeg
+images:
+- file: images/passeriformes/passeridae/montifringilla-henrici/1.jpg
+  page: https://www.inaturalist.org/photos/367800776
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800776/original.jpeg
+- file: images/passeriformes/passeridae/montifringilla-henrici/2.jpg
+  page: https://www.inaturalist.org/photos/367800778
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800778/original.jpeg
+- file: images/passeriformes/passeridae/montifringilla-henrici/3.jpg
+  page: https://www.inaturalist.org/photos/367800771
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800771/original.jpeg
+- file: images/passeriformes/passeridae/montifringilla-henrici/4.jpg
+  page: https://www.inaturalist.org/photos/367800795
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800795/original.jpeg
 ---
 
 

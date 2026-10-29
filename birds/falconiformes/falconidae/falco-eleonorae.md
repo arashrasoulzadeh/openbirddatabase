@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/falconiformes/falconidae/falco-eleonorae/1.jpg
+  page: https://www.inaturalist.org/photos/638676058
+  author: Σταυρούλα Χρήστος
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638676058/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-eleonorae/1.jpg
+  page: https://www.inaturalist.org/photos/638676058
+  author: Σταυρούλα Χρήστος
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638676058/original.jpg
+- file: images/falconiformes/falconidae/falco-eleonorae/2.jpg
+  page: https://www.inaturalist.org/photos/680749576
+  author: Donsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680749576/original.jpg
+- file: images/falconiformes/falconidae/falco-eleonorae/3.jpg
+  page: https://www.inaturalist.org/photos/714879496
+  author: Luca Fornasari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714879496/original.jpg
+- file: images/falconiformes/falconidae/falco-eleonorae/4.jpg
+  page: https://www.inaturalist.org/photos/724826602
+  author: pavlaki1968
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724826602/original.jpg
+- file: images/falconiformes/falconidae/falco-eleonorae/5.jpg
+  page: https://www.inaturalist.org/photos/734789940
+  author: Giorgio Zavattoni
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734789940/original.jpg
 ---
 
 

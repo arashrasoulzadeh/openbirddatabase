@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/menuridae/menura-alberti/1.jpg
+  page: https://www.inaturalist.org/photos/610912812
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610912812/original.jpg
+images:
+- file: images/passeriformes/menuridae/menura-alberti/1.jpg
+  page: https://www.inaturalist.org/photos/610912812
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610912812/original.jpg
+- file: images/passeriformes/menuridae/menura-alberti/2.jpg
+  page: https://www.inaturalist.org/photos/615148069
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615148069/original.jpg
+- file: images/passeriformes/menuridae/menura-alberti/3.jpg
+  page: https://www.inaturalist.org/photos/705516413
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705516413/original.jpg
+- file: images/passeriformes/menuridae/menura-alberti/4.jpg
+  page: https://www.inaturalist.org/photos/610912819
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610912819/original.jpg
+- file: images/passeriformes/menuridae/menura-alberti/5.jpg
+  page: https://www.inaturalist.org/photos/610912829
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610912829/original.jpg
 ---
 
 

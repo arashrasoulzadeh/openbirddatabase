@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/pteroglossus-castanotis/1.jpg
+  page: https://www.inaturalist.org/photos/606015383
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606015383/original.jpg
+images:
+- file: images/piciformes/ramphastidae/pteroglossus-castanotis/1.jpg
+  page: https://www.inaturalist.org/photos/606015383
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606015383/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-castanotis/2.jpg
+  page: https://www.inaturalist.org/photos/612742359
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612742359/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-castanotis/3.jpg
+  page: https://www.inaturalist.org/photos/614881439
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614881439/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-castanotis/4.jpg
+  page: https://www.inaturalist.org/photos/627832464
+  author: Lucas Bernardinelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627832464/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-castanotis/5.jpg
+  page: https://www.inaturalist.org/photos/612550409
+  author: Cecilia Fer Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612550409/original.jpg
 ---
 
 

@@ -204,10 +204,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/hirundinidae/riparia-riparia/1.jpg
+  page: https://www.inaturalist.org/photos/610699240
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610699240/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/riparia-riparia/1.jpg
+  page: https://www.inaturalist.org/photos/610699240
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610699240/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-riparia/2.jpg
+  page: https://www.inaturalist.org/photos/623390521
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623390521/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-riparia/3.jpg
+  page: https://www.inaturalist.org/photos/622844653
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622844653/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-riparia/4.jpg
+  page: https://www.inaturalist.org/photos/616513673
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616513673/original.jpg
+- file: images/passeriformes/hirundinidae/riparia-riparia/5.jpg
+  page: https://www.inaturalist.org/photos/629743329
+  author: Will Taylor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629743329/original.jpg
 ---
 
 

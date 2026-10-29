@@ -148,8 +148,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-castaneofuscus/1.jpg
+  page: https://www.inaturalist.org/photos/477848429
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848429/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-castaneofuscus/1.jpg
+  page: https://www.inaturalist.org/photos/477848429
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477848429/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-castaneofuscus/2.jpg
+  page: https://www.inaturalist.org/photos/599589550
+  author: Emily Turteltaub Nelson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599589550/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-castaneofuscus/3.jpg
+  page: https://www.inaturalist.org/photos/351246023
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351246023/original.png
+- file: images/passeriformes/ploceidae/ploceus-castaneofuscus/4.jpg
+  page: https://www.inaturalist.org/photos/385672041
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/385672041/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-castaneofuscus/5.jpg
+  page: https://www.inaturalist.org/photos/344502505
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344502505/original.jpeg
 ---
 
 

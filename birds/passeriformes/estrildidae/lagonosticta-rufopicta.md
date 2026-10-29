@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lagonosticta-rufopicta/1.jpg
+  page: https://www.inaturalist.org/photos/606210688
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606210688/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lagonosticta-rufopicta/1.jpg
+  page: https://www.inaturalist.org/photos/606210688
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606210688/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-rufopicta/2.jpg
+  page: https://www.inaturalist.org/photos/565194045
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565194045/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-rufopicta/3.jpg
+  page: https://www.inaturalist.org/photos/353542197
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353542197/original.png
+- file: images/passeriformes/estrildidae/lagonosticta-rufopicta/4.jpg
+  page: https://www.inaturalist.org/photos/367618688
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367618688/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-rufopicta/5.jpg
+  page: https://www.inaturalist.org/photos/344816644
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344816644/original.jpeg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-citreolus/1.jpg
+  page: https://www.inaturalist.org/photos/615339138
+  author: Drew Baxter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615339138/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-citreolus/1.jpg
+  page: https://www.inaturalist.org/photos/615339138
+  author: Drew Baxter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615339138/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-citreolus/2.jpg
+  page: https://www.inaturalist.org/photos/611508147
+  author: Ángel Mata
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611508147/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-citreolus/3.jpg
+  page: https://www.inaturalist.org/photos/614364789
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614364789/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-citreolus/4.jpg
+  page: https://www.inaturalist.org/photos/616097569
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616097569/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-citreolus/5.jpg
+  page: https://www.inaturalist.org/photos/638860746
+  author: Alfonso Xavier Rolon Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638860746/original.jpg
 ---
 
 

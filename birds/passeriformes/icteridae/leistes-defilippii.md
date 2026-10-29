@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/leistes-defilippii/1.jpg
+  page: https://www.inaturalist.org/photos/669739194
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669739194/original.jpg
+images:
+- file: images/passeriformes/icteridae/leistes-defilippii/1.jpg
+  page: https://www.inaturalist.org/photos/669739194
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669739194/original.jpg
+- file: images/passeriformes/icteridae/leistes-defilippii/2.jpg
+  page: https://www.inaturalist.org/photos/696581012
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696581012/original.jpg
+- file: images/passeriformes/icteridae/leistes-defilippii/3.jpg
+  page: https://www.inaturalist.org/photos/337541909
+  author: Santiago Vitali
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337541909/original.jpg
+- file: images/passeriformes/icteridae/leistes-defilippii/4.jpg
+  page: https://www.inaturalist.org/photos/293779751
+  author: Agustina Medina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/293779751/original.jpeg
+- file: images/passeriformes/icteridae/leistes-defilippii/5.jpg
+  page: https://www.inaturalist.org/photos/238483477
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238483477/original.png
 ---
 
 

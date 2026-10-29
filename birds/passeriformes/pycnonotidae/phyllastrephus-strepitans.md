@@ -147,8 +147,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/phyllastrephus-strepitans/1.jpg
+  page: https://www.inaturalist.org/photos/610915345
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610915345/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/phyllastrephus-strepitans/1.jpg
+  page: https://www.inaturalist.org/photos/610915345
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610915345/original.jpg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-strepitans/2.jpg
+  page: https://www.inaturalist.org/photos/190412816
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190412816/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-strepitans/3.jpg
+  page: https://www.inaturalist.org/photos/21713124
+  author: John Lyakurwa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/21713124/original.jpeg
+- file: images/passeriformes/pycnonotidae/phyllastrephus-strepitans/4.jpg
+  page: https://www.inaturalist.org/photos/190388736
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190388736/original.jpeg
 ---
 
 

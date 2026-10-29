@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/erythrogenys-erythrogenys/1.jpg
+  page: https://www.inaturalist.org/photos/615204039
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615204039/original.jpg
+images:
+- file: images/passeriformes/timaliidae/erythrogenys-erythrogenys/1.jpg
+  page: https://www.inaturalist.org/photos/615204039
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615204039/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-erythrogenys/2.jpg
+  page: https://www.inaturalist.org/photos/469882707
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469882707/original.jpeg
+- file: images/passeriformes/timaliidae/erythrogenys-erythrogenys/3.jpg
+  page: https://www.inaturalist.org/photos/577587145
+  author: Omar Haroon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/577587145/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-erythrogenys/4.jpg
+  page: https://www.inaturalist.org/photos/603803209
+  author: Stefan C
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603803209/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-erythrogenys/5.jpg
+  page: https://www.inaturalist.org/photos/348779836
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348779836/original.jpeg
 ---
 
 

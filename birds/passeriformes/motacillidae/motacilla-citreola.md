@@ -204,8 +204,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/motacilla-citreola/1.jpg
+  page: https://www.inaturalist.org/photos/610690206
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610690206/original.jpg
+images:
+- file: images/passeriformes/motacillidae/motacilla-citreola/1.jpg
+  page: https://www.inaturalist.org/photos/610690206
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610690206/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-citreola/2.jpg
+  page: https://www.inaturalist.org/photos/614231771
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231771/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-citreola/3.jpg
+  page: https://www.inaturalist.org/photos/612944002
+  author: Olivier Morel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612944002/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-citreola/4.jpg
+  page: https://www.inaturalist.org/photos/623797745
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623797745/original.jpg
+- file: images/passeriformes/motacillidae/motacilla-citreola/5.jpg
+  page: https://www.inaturalist.org/photos/720595621
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720595621/original.jpg
 ---
 
 

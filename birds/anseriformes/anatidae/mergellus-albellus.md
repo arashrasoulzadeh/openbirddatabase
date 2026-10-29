@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/anseriformes/anatidae/mergellus-albellus/1.jpg
+  page: https://www.inaturalist.org/photos/604702466
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702466/original.jpg
+images:
+- file: images/anseriformes/anatidae/mergellus-albellus/1.jpg
+  page: https://www.inaturalist.org/photos/604702466
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604702466/original.jpg
+- file: images/anseriformes/anatidae/mergellus-albellus/2.jpg
+  page: https://www.inaturalist.org/photos/604746044
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604746044/original.jpg
+- file: images/anseriformes/anatidae/mergellus-albellus/3.jpg
+  page: https://www.inaturalist.org/photos/609370025
+  author: Timur Kalininsky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609370025/original.jpg
+- file: images/anseriformes/anatidae/mergellus-albellus/4.jpg
+  page: https://www.inaturalist.org/photos/608613628
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608613628/original.jpg
+- file: images/anseriformes/anatidae/mergellus-albellus/5.jpg
+  page: https://www.inaturalist.org/photos/606967777
+  author: Дмитрий Еременко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606967777/original.jpg
 ---
 
 

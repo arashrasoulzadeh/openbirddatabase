@@ -150,8 +150,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/pseudopipra-pipra/1.jpg
+  page: https://www.inaturalist.org/photos/617452084
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452084/original.jpg
+images:
+- file: images/passeriformes/pipridae/pseudopipra-pipra/1.jpg
+  page: https://www.inaturalist.org/photos/617452084
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617452084/original.jpg
+- file: images/passeriformes/pipridae/pseudopipra-pipra/2.jpg
+  page: https://www.inaturalist.org/photos/614236963
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614236963/original.jpg
+- file: images/passeriformes/pipridae/pseudopipra-pipra/3.jpg
+  page: https://www.inaturalist.org/photos/672628193
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672628193/original.jpg
+- file: images/passeriformes/pipridae/pseudopipra-pipra/4.jpg
+  page: https://www.inaturalist.org/photos/467529739
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467529739/original.jpg
+- file: images/passeriformes/pipridae/pseudopipra-pipra/5.jpg
+  page: https://www.inaturalist.org/photos/474121893
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474121893/original.jpeg
 ---
 
 

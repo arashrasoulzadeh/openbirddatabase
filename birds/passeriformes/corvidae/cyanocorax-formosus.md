@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-formosus/1.jpg
+  page: https://www.inaturalist.org/photos/606215511
+  author: Arturo Benavides Mendoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606215511/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-formosus/1.jpg
+  page: https://www.inaturalist.org/photos/606215511
+  author: Arturo Benavides Mendoza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606215511/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-formosus/2.jpg
+  page: https://www.inaturalist.org/photos/607086791
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607086791/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-formosus/3.jpg
+  page: https://www.inaturalist.org/photos/606139057
+  author: Zinnia Xu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606139057/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-formosus/4.jpg
+  page: https://www.inaturalist.org/photos/615807875
+  author: Daniel Ghyselinck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615807875/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-formosus/5.jpg
+  page: https://www.inaturalist.org/photos/611964225
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611964225/original.jpg
 ---
 
 

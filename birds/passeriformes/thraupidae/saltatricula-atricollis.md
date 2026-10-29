@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.6
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 91.9
   tail_length_mm: 88.4
   body_mass_g: 53.8
+image:
+  file: images/passeriformes/thraupidae/saltatricula-atricollis/1.jpg
+  page: https://www.inaturalist.org/photos/607310720
+  author: Jean Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607310720/original.jpg
+images:
+- file: images/passeriformes/thraupidae/saltatricula-atricollis/1.jpg
+  page: https://www.inaturalist.org/photos/607310720
+  author: Jean Martins
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607310720/original.jpg
+- file: images/passeriformes/thraupidae/saltatricula-atricollis/2.jpg
+  page: https://www.inaturalist.org/photos/705723266
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705723266/original.jpg
+- file: images/passeriformes/thraupidae/saltatricula-atricollis/3.jpg
+  page: https://www.inaturalist.org/photos/638399107
+  author: Daniel Duarte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638399107/original.jpg
+- file: images/passeriformes/thraupidae/saltatricula-atricollis/4.jpg
+  page: https://www.inaturalist.org/photos/662838193
+  author: Celso Henrique Varela Rios
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662838193/original.jpg
+- file: images/passeriformes/thraupidae/saltatricula-atricollis/5.jpg
+  page: https://www.inaturalist.org/photos/684202910
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684202910/original.jpg
 ---
 
 

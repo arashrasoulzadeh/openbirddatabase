@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/coraciiformes/meropidae/merops-hirundineus/1.jpg
+  page: https://www.inaturalist.org/photos/611722817
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611722817/original.jpg
+images:
+- file: images/coraciiformes/meropidae/merops-hirundineus/1.jpg
+  page: https://www.inaturalist.org/photos/611722817
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611722817/original.jpg
+- file: images/coraciiformes/meropidae/merops-hirundineus/2.jpg
+  page: https://www.inaturalist.org/photos/617148000
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617148000/original.jpg
+- file: images/coraciiformes/meropidae/merops-hirundineus/3.jpg
+  page: https://www.inaturalist.org/photos/730291542
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730291542/original.jpg
+- file: images/coraciiformes/meropidae/merops-hirundineus/4.jpg
+  page: https://www.inaturalist.org/photos/657444451
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657444451/original.jpg
+- file: images/coraciiformes/meropidae/merops-hirundineus/5.jpg
+  page: https://www.inaturalist.org/photos/611722849
+  author: o2k
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611722849/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-grotei/1.jpg
+  page: https://www.inaturalist.org/photos/451262443
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451262443/original.jpeg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-grotei/1.jpg
+  page: https://www.inaturalist.org/photos/451262443
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451262443/original.jpeg
+- file: images/passeriformes/leiothrichidae/alcippe-grotei/2.jpg
+  page: https://www.inaturalist.org/photos/105889579
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/105889579/original.jpeg
+- file: images/passeriformes/leiothrichidae/alcippe-grotei/3.jpg
+  page: https://www.inaturalist.org/photos/154372396
+  author: Rongrong Angkaew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/154372396/original.jpeg
+- file: images/passeriformes/leiothrichidae/alcippe-grotei/4.jpg
+  page: https://www.inaturalist.org/photos/547352913
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547352913/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-grotei/5.jpg
+  page: https://www.inaturalist.org/photos/451262455
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451262455/original.jpeg
 ---
 
 

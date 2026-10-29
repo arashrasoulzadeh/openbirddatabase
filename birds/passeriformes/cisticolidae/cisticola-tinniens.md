@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-tinniens/1.jpg
+  page: https://www.inaturalist.org/photos/610467853
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610467853/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-tinniens/1.jpg
+  page: https://www.inaturalist.org/photos/610467853
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610467853/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-tinniens/2.jpg
+  page: https://www.inaturalist.org/photos/618751831
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618751831/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-tinniens/3.jpg
+  page: https://www.inaturalist.org/photos/613963950
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613963950/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-tinniens/4.jpg
+  page: https://www.inaturalist.org/photos/616334700
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616334700/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-tinniens/5.jpg
+  page: https://www.inaturalist.org/photos/624556955
+  author: Svyatoslav Knyazev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624556955/original.jpg
 ---
 
 

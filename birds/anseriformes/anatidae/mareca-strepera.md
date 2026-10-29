@@ -180,8 +180,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/mareca-strepera/1.jpg
+  page: https://www.inaturalist.org/photos/605290291
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605290291/original.jpg
+images:
+- file: images/anseriformes/anatidae/mareca-strepera/1.jpg
+  page: https://www.inaturalist.org/photos/605290291
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605290291/original.jpg
+- file: images/anseriformes/anatidae/mareca-strepera/2.jpg
+  page: https://www.inaturalist.org/photos/604465260
+  author: miked2000
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604465260/original.jpg
+- file: images/anseriformes/anatidae/mareca-strepera/3.jpg
+  page: https://www.inaturalist.org/photos/605256533
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605256533/original.jpg
+- file: images/anseriformes/anatidae/mareca-strepera/4.jpg
+  page: https://www.inaturalist.org/photos/604805402
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604805402/original.jpg
+- file: images/anseriformes/anatidae/mareca-strepera/5.jpg
+  page: https://www.inaturalist.org/photos/605538975
+  author: Daughter Dad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605538975/original.jpg
 ---
 
 

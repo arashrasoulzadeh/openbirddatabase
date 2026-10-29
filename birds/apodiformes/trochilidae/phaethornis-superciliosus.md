@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/phaethornis-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/614065403
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614065403/original.jpg
+images:
+- file: images/apodiformes/trochilidae/phaethornis-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/614065403
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614065403/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-superciliosus/2.jpg
+  page: https://www.inaturalist.org/photos/724115940
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724115940/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-superciliosus/3.jpg
+  page: https://www.inaturalist.org/photos/435305100
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435305100/original.jpg
+- file: images/apodiformes/trochilidae/phaethornis-superciliosus/4.jpg
+  page: https://www.inaturalist.org/photos/420084498
+  author: Guillaume Delaitre
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420084498/original.jpeg
+- file: images/apodiformes/trochilidae/phaethornis-superciliosus/5.jpg
+  page: https://www.inaturalist.org/photos/584593663
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584593663/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/henicorhina-leucosticta/1.jpg
+  page: https://www.inaturalist.org/photos/609845286
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609845286/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/henicorhina-leucosticta/1.jpg
+  page: https://www.inaturalist.org/photos/609845286
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609845286/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-leucosticta/2.jpg
+  page: https://www.inaturalist.org/photos/613183128
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613183128/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-leucosticta/3.jpg
+  page: https://www.inaturalist.org/photos/613477830
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613477830/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-leucosticta/4.jpg
+  page: https://www.inaturalist.org/photos/675750077
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675750077/original.jpg
+- file: images/passeriformes/troglodytidae/henicorhina-leucosticta/5.jpg
+  page: https://www.inaturalist.org/photos/582545079
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582545079/original.jpg
 ---
 
 

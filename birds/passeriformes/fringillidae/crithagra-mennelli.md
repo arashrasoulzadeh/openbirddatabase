@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/crithagra-mennelli/1.jpg
+  page: https://www.inaturalist.org/photos/585167346
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585167346/original.jpg
+images:
+- file: images/passeriformes/fringillidae/crithagra-mennelli/1.jpg
+  page: https://www.inaturalist.org/photos/585167346
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585167346/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-mennelli/2.jpg
+  page: https://www.inaturalist.org/photos/459640880
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459640880/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-mennelli/3.jpg
+  page: https://www.inaturalist.org/photos/264098909
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264098909/original.jpeg
+- file: images/passeriformes/fringillidae/crithagra-mennelli/4.jpg
+  page: https://www.inaturalist.org/photos/585167345
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585167345/original.jpg
+- file: images/passeriformes/fringillidae/crithagra-mennelli/5.jpg
+  page: https://www.inaturalist.org/photos/585167357
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585167357/original.jpg
 ---
 
 

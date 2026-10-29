@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-personata/1.jpg
+  page: https://www.inaturalist.org/photos/728458589
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458589/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-personata/1.jpg
+  page: https://www.inaturalist.org/photos/728458589
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458589/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-personata/2.jpg
+  page: https://www.inaturalist.org/photos/464047515
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464047515/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-personata/3.jpg
+  page: https://www.inaturalist.org/photos/471969299
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471969299/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-personata/4.jpg
+  page: https://www.inaturalist.org/photos/728458634
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458634/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-personata/5.jpg
+  page: https://www.inaturalist.org/photos/728458632
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728458632/original.jpg
 ---
 
 

@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/malaconotus-blanchoti/1.jpg
+  page: https://www.inaturalist.org/photos/607918162
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607918162/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/malaconotus-blanchoti/1.jpg
+  page: https://www.inaturalist.org/photos/607918162
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607918162/original.jpg
+- file: images/passeriformes/malaconotidae/malaconotus-blanchoti/2.jpg
+  page: https://www.inaturalist.org/photos/638024833
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638024833/original.jpg
+- file: images/passeriformes/malaconotidae/malaconotus-blanchoti/3.jpg
+  page: https://www.inaturalist.org/photos/718423047
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718423047/original.jpg
+- file: images/passeriformes/malaconotidae/malaconotus-blanchoti/4.jpg
+  page: https://www.inaturalist.org/photos/721865000
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721865000/original.jpg
+- file: images/passeriformes/malaconotidae/malaconotus-blanchoti/5.jpg
+  page: https://www.inaturalist.org/photos/739701161
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739701161/original.jpg
 ---
 
 

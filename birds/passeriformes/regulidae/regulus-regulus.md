@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/regulidae/regulus-regulus/1.jpg
+  page: https://www.inaturalist.org/photos/604735651
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604735651/original.jpg
+images:
+- file: images/passeriformes/regulidae/regulus-regulus/1.jpg
+  page: https://www.inaturalist.org/photos/604735651
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604735651/original.jpg
+- file: images/passeriformes/regulidae/regulus-regulus/2.jpg
+  page: https://www.inaturalist.org/photos/604972871
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604972871/original.jpg
+- file: images/passeriformes/regulidae/regulus-regulus/3.jpg
+  page: https://www.inaturalist.org/photos/605417654
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417654/original.jpg
+- file: images/passeriformes/regulidae/regulus-regulus/4.jpg
+  page: https://www.inaturalist.org/photos/604694215
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604694215/original.jpg
+- file: images/passeriformes/regulidae/regulus-regulus/5.jpg
+  page: https://www.inaturalist.org/photos/604776276
+  author: Maryna Burlaka
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604776276/original.jpg
 ---
 
 

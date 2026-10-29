@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/lathamus-discolor/1.jpg
+  page: https://www.inaturalist.org/photos/675247589
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675247589/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/lathamus-discolor/1.jpg
+  page: https://www.inaturalist.org/photos/675247589
+  author: JR Ferrer-Paris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675247589/original.jpg
+- file: images/psittaciformes/psittaculidae/lathamus-discolor/2.jpg
+  page: https://www.inaturalist.org/photos/698216102
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698216102/original.jpg
+- file: images/psittaciformes/psittaculidae/lathamus-discolor/3.jpg
+  page: https://www.inaturalist.org/photos/678812722
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678812722/original.jpg
+- file: images/psittaciformes/psittaculidae/lathamus-discolor/4.jpg
+  page: https://www.inaturalist.org/photos/683300672
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683300672/original.jpg
+- file: images/psittaciformes/psittaculidae/lathamus-discolor/5.jpg
+  page: https://www.inaturalist.org/photos/725043487
+  author: fungihunter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725043487/original.jpg
 ---
 
 

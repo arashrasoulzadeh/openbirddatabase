@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/centrocercus-minimus/1.jpg
+  page: https://www.inaturalist.org/photos/637704329
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637704329/original.jpg
+images:
+- file: images/galliformes/phasianidae/centrocercus-minimus/1.jpg
+  page: https://www.inaturalist.org/photos/637704329
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637704329/original.jpg
+- file: images/galliformes/phasianidae/centrocercus-minimus/2.jpg
+  page: https://www.inaturalist.org/photos/485031658
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485031658/original.jpeg
+- file: images/galliformes/phasianidae/centrocercus-minimus/3.jpg
+  page: https://www.inaturalist.org/photos/486685747
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486685747/original.jpg
+- file: images/galliformes/phasianidae/centrocercus-minimus/4.jpg
+  page: https://www.inaturalist.org/photos/404455017
+  author: Owen Strickland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/404455017/original.jpeg
+- file: images/galliformes/phasianidae/centrocercus-minimus/5.jpg
+  page: https://www.inaturalist.org/photos/466515919
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466515919/original.jpg
 ---
 
 

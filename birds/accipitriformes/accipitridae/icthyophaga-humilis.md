@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/icthyophaga-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/628736655
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628736655/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/icthyophaga-humilis/1.jpg
+  page: https://www.inaturalist.org/photos/628736655
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628736655/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-humilis/2.jpg
+  page: https://www.inaturalist.org/photos/620446633
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620446633/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-humilis/3.jpg
+  page: https://www.inaturalist.org/photos/623006263
+  author: Jonathan Curley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623006263/original.jpg
+- file: images/accipitriformes/accipitridae/icthyophaga-humilis/4.jpg
+  page: https://www.inaturalist.org/photos/490913889
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490913889/original.jpeg
+- file: images/accipitriformes/accipitridae/icthyophaga-humilis/5.jpg
+  page: https://www.inaturalist.org/photos/571363078
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571363078/original.jpg
 ---
 
 

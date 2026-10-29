@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/psittaciformes/psittacidae/brotogeris-sanctithomae/1.jpg
+  page: https://www.inaturalist.org/photos/612191486
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612191486/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/brotogeris-sanctithomae/1.jpg
+  page: https://www.inaturalist.org/photos/612191486
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612191486/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-sanctithomae/2.jpg
+  page: https://www.inaturalist.org/photos/680013096
+  author: Siddarth Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680013096/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-sanctithomae/3.jpg
+  page: https://www.inaturalist.org/photos/713254721
+  author: Pablo Silva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713254721/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-sanctithomae/4.jpg
+  page: https://www.inaturalist.org/photos/712628650
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712628650/original.jpg
+- file: images/psittaciformes/psittacidae/brotogeris-sanctithomae/5.jpg
+  page: https://www.inaturalist.org/photos/499809803
+  author: ailinon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499809803/original.jpeg
 ---
 
 

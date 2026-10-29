@@ -144,7 +144,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 17.1
@@ -152,6 +153,44 @@ morphology:
   wing_length_mm: 67.4
   tail_length_mm: 44.6
   body_mass_g: 21.4
+image:
+  file: images/passeriformes/ploceidae/pachyphantes-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/565648875
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565648875/original.jpg
+images:
+- file: images/passeriformes/ploceidae/pachyphantes-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/565648875
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565648875/original.jpg
+- file: images/passeriformes/ploceidae/pachyphantes-superciliosus/2.jpg
+  page: https://www.inaturalist.org/photos/659566924
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659566924/original.jpg
+- file: images/passeriformes/ploceidae/pachyphantes-superciliosus/3.jpg
+  page: https://www.inaturalist.org/photos/355591296
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355591296/original.png
+- file: images/passeriformes/ploceidae/pachyphantes-superciliosus/4.jpg
+  page: https://www.inaturalist.org/photos/565286374
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565286374/original.jpg
+- file: images/passeriformes/ploceidae/pachyphantes-superciliosus/5.jpg
+  page: https://www.inaturalist.org/photos/565286383
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565286383/original.jpg
 ---
 
 

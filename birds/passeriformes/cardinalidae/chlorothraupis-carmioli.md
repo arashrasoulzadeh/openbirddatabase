@@ -130,7 +130,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 21.8
@@ -140,6 +141,44 @@ morphology:
   body_mass_g: 37.6
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/cardinalidae/chlorothraupis-carmioli/1.jpg
+  page: https://www.inaturalist.org/photos/608285638
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608285638/original.jpg
+images:
+- file: images/passeriformes/cardinalidae/chlorothraupis-carmioli/1.jpg
+  page: https://www.inaturalist.org/photos/608285638
+  author: Rachel Lee Harper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608285638/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-carmioli/2.jpg
+  page: https://www.inaturalist.org/photos/618583466
+  author: Carter Dorscht
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618583466/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-carmioli/3.jpg
+  page: https://www.inaturalist.org/photos/468966251
+  author: Ulrikke Hedegaard
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468966251/original.jpeg
+- file: images/passeriformes/cardinalidae/chlorothraupis-carmioli/4.jpg
+  page: https://www.inaturalist.org/photos/553404088
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553404088/original.jpg
+- file: images/passeriformes/cardinalidae/chlorothraupis-carmioli/5.jpg
+  page: https://www.inaturalist.org/photos/574924232
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/574924232/original.jpg
 ---
 
 

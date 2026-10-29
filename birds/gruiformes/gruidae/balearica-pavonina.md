@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/gruiformes/gruidae/balearica-pavonina/1.jpg
+  page: https://www.inaturalist.org/photos/658112703
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658112703/original.jpg
+images:
+- file: images/gruiformes/gruidae/balearica-pavonina/1.jpg
+  page: https://www.inaturalist.org/photos/658112703
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658112703/original.jpg
+- file: images/gruiformes/gruidae/balearica-pavonina/2.jpg
+  page: https://www.inaturalist.org/photos/608754312
+  author: abotto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608754312/original.jpg
+- file: images/gruiformes/gruidae/balearica-pavonina/3.jpg
+  page: https://www.inaturalist.org/photos/581010304
+  author: Maria Longley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581010304/original.jpg
+- file: images/gruiformes/gruidae/balearica-pavonina/4.jpg
+  page: https://www.inaturalist.org/photos/607032094
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607032094/original.jpg
+- file: images/gruiformes/gruidae/balearica-pavonina/5.jpg
+  page: https://www.inaturalist.org/photos/360992011
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360992011/original.jpeg
 ---
 
 

@@ -128,8 +128,41 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/pachycephala-teysmanni/1.jpg
+  page: https://www.inaturalist.org/photos/580030203
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580030203/original.jpg
+images:
+- file: images/passeriformes/pachycephalidae/pachycephala-teysmanni/1.jpg
+  page: https://www.inaturalist.org/photos/580030203
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580030203/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-teysmanni/2.jpg
+  page: https://www.inaturalist.org/photos/334465413
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334465413/original.jpeg
+- file: images/passeriformes/pachycephalidae/pachycephala-teysmanni/3.jpg
+  page: https://www.inaturalist.org/photos/580030436
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/580030436/original.jpg
+- file: images/passeriformes/pachycephalidae/pachycephala-teysmanni/4.jpg
+  page: https://www.inaturalist.org/photos/334466329
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334466329/original.jpeg
 ---
 
 

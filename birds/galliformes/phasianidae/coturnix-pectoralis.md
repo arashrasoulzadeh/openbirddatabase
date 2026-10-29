@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/galliformes/phasianidae/coturnix-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/605378262
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605378262/original.jpg
+images:
+- file: images/galliformes/phasianidae/coturnix-pectoralis/1.jpg
+  page: https://www.inaturalist.org/photos/605378262
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605378262/original.jpg
+- file: images/galliformes/phasianidae/coturnix-pectoralis/2.jpg
+  page: https://www.inaturalist.org/photos/470440667
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470440667/original.jpeg
+- file: images/galliformes/phasianidae/coturnix-pectoralis/3.jpg
+  page: https://www.inaturalist.org/photos/474942404
+  author: Michael McBain
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474942404/original.jpeg
+- file: images/galliformes/phasianidae/coturnix-pectoralis/4.jpg
+  page: https://www.inaturalist.org/photos/346130475
+  author: Richard Shirky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346130475/original.jpeg
+- file: images/galliformes/phasianidae/coturnix-pectoralis/5.jpg
+  page: https://www.inaturalist.org/photos/360241797
+  author: Joe Atkinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360241797/original.jpeg
 ---
 
 

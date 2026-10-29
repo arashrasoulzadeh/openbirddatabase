@@ -120,7 +120,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 58.8
@@ -128,6 +129,44 @@ morphology:
   wing_length_mm: 215.0
   tail_length_mm: 113.0
   body_mass_g: 684.5
+image:
+  file: images/gruiformes/rallidae/gallirallus-castaneoventris/1.jpg
+  page: https://www.inaturalist.org/photos/686252276
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686252276/original.jpg
+images:
+- file: images/gruiformes/rallidae/gallirallus-castaneoventris/1.jpg
+  page: https://www.inaturalist.org/photos/686252276
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686252276/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-castaneoventris/2.jpg
+  page: https://www.inaturalist.org/photos/540532014
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540532014/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-castaneoventris/3.jpg
+  page: https://www.inaturalist.org/photos/686254277
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686254277/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-castaneoventris/4.jpg
+  page: https://www.inaturalist.org/photos/686254291
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686254291/original.jpg
+- file: images/gruiformes/rallidae/gallirallus-castaneoventris/5.jpg
+  page: https://www.inaturalist.org/photos/686254297
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686254297/original.jpg
 ---
 
 

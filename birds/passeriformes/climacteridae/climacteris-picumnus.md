@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/climacteridae/climacteris-picumnus/1.jpg
+  page: https://www.inaturalist.org/photos/615623071
+  author: Niko Ioannidis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615623071/original.jpg
+images:
+- file: images/passeriformes/climacteridae/climacteris-picumnus/1.jpg
+  page: https://www.inaturalist.org/photos/615623071
+  author: Niko Ioannidis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615623071/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-picumnus/2.jpg
+  page: https://www.inaturalist.org/photos/614951361
+  author: Terra Occ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614951361/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-picumnus/3.jpg
+  page: https://www.inaturalist.org/photos/617707860
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617707860/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-picumnus/4.jpg
+  page: https://www.inaturalist.org/photos/742107225
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742107225/original.jpg
+- file: images/passeriformes/climacteridae/climacteris-picumnus/5.jpg
+  page: https://www.inaturalist.org/photos/636355129
+  author: spacegecko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636355129/original.jpg
 ---
 
 

@@ -195,10 +195,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 18
+image:
+  file: images/passeriformes/corvidae/garrulus-glandarius/1.jpg
+  page: https://www.inaturalist.org/photos/605061272
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605061272/original.jpg
+images:
+- file: images/passeriformes/corvidae/garrulus-glandarius/1.jpg
+  page: https://www.inaturalist.org/photos/605061272
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605061272/original.jpg
+- file: images/passeriformes/corvidae/garrulus-glandarius/2.jpg
+  page: https://www.inaturalist.org/photos/605727275
+  author: Михаил Языков
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605727275/original.jpg
+- file: images/passeriformes/corvidae/garrulus-glandarius/3.jpg
+  page: https://www.inaturalist.org/photos/605034340
+  author: Mathew Robinson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605034340/original.jpg
+- file: images/passeriformes/corvidae/garrulus-glandarius/4.jpg
+  page: https://www.inaturalist.org/photos/605103998
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605103998/original.jpg
+- file: images/passeriformes/corvidae/garrulus-glandarius/5.jpg
+  page: https://www.inaturalist.org/photos/605327992
+  author: Liem Malarney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605327992/original.jpg
 ---
 
 

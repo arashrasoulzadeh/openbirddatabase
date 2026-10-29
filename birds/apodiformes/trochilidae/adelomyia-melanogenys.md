@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/adelomyia-melanogenys/1.jpg
+  page: https://www.inaturalist.org/photos/612727189
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612727189/original.jpg
+images:
+- file: images/apodiformes/trochilidae/adelomyia-melanogenys/1.jpg
+  page: https://www.inaturalist.org/photos/612727189
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612727189/original.jpg
+- file: images/apodiformes/trochilidae/adelomyia-melanogenys/2.jpg
+  page: https://www.inaturalist.org/photos/610573005
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610573005/original.jpg
+- file: images/apodiformes/trochilidae/adelomyia-melanogenys/3.jpg
+  page: https://www.inaturalist.org/photos/608013700
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608013700/original.jpg
+- file: images/apodiformes/trochilidae/adelomyia-melanogenys/4.jpg
+  page: https://www.inaturalist.org/photos/654230420
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654230420/original.jpg
+- file: images/apodiformes/trochilidae/adelomyia-melanogenys/5.jpg
+  page: https://www.inaturalist.org/photos/607822554
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607822554/original.jpg
 ---
 
 

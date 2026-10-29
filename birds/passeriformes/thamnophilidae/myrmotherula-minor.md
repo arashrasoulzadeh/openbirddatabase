@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-minor/1.jpg
+  page: https://www.inaturalist.org/photos/729106587
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729106587/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-minor/1.jpg
+  page: https://www.inaturalist.org/photos/729106587
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729106587/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-minor/2.jpg
+  page: https://www.inaturalist.org/photos/478569879
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478569879/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmotherula-minor/3.jpg
+  page: https://www.inaturalist.org/photos/598111106
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598111106/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-minor/4.jpg
+  page: https://www.inaturalist.org/photos/448721919
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448721919/original.jpeg
+- file: images/passeriformes/thamnophilidae/myrmotherula-minor/5.jpg
+  page: https://www.inaturalist.org/photos/598111102
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598111102/original.jpg
 ---
 
 

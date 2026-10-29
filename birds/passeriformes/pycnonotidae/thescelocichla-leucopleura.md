@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/thescelocichla-leucopleura/1.jpg
+  page: https://www.inaturalist.org/photos/344850514
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344850514/original.jpeg
+images:
+- file: images/passeriformes/pycnonotidae/thescelocichla-leucopleura/1.jpg
+  page: https://www.inaturalist.org/photos/344850514
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344850514/original.jpeg
+- file: images/passeriformes/pycnonotidae/thescelocichla-leucopleura/2.jpg
+  page: https://www.inaturalist.org/photos/219089533
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219089533/original.jpeg
+- file: images/passeriformes/pycnonotidae/thescelocichla-leucopleura/3.jpg
+  page: https://www.inaturalist.org/photos/174839201
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/174839201/original.jpg
+- file: images/passeriformes/pycnonotidae/thescelocichla-leucopleura/4.jpg
+  page: https://www.inaturalist.org/photos/57887023
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57887023/original.jpeg
+- file: images/passeriformes/pycnonotidae/thescelocichla-leucopleura/5.jpg
+  page: https://www.inaturalist.org/photos/180734006
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180734006/original.jpg
 ---
 
 

@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/meliphagidae/xanthotis-flaviventer/1.jpg
+  page: https://www.inaturalist.org/photos/734251591
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251591/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/xanthotis-flaviventer/1.jpg
+  page: https://www.inaturalist.org/photos/734251591
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734251591/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-flaviventer/2.jpg
+  page: https://www.inaturalist.org/photos/709434785
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709434785/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-flaviventer/3.jpg
+  page: https://www.inaturalist.org/photos/555561122
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555561122/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-flaviventer/4.jpg
+  page: https://www.inaturalist.org/photos/575613895
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/575613895/original.jpg
+- file: images/passeriformes/meliphagidae/xanthotis-flaviventer/5.jpg
+  page: https://www.inaturalist.org/photos/611945651
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611945651/original.jpg
 ---
 
 

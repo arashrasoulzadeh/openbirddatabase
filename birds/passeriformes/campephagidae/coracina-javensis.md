@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/coracina-javensis/1.jpg
+  page: https://www.inaturalist.org/photos/719479075
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719479075/original.jpg
+images:
+- file: images/passeriformes/campephagidae/coracina-javensis/1.jpg
+  page: https://www.inaturalist.org/photos/719479075
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719479075/original.jpg
+- file: images/passeriformes/campephagidae/coracina-javensis/2.jpg
+  page: https://www.inaturalist.org/photos/631792712
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631792712/original.jpg
+- file: images/passeriformes/campephagidae/coracina-javensis/3.jpg
+  page: https://www.inaturalist.org/photos/685810373
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685810373/original.jpg
+- file: images/passeriformes/campephagidae/coracina-javensis/4.jpg
+  page: https://www.inaturalist.org/photos/728966851
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728966851/original.jpg
+- file: images/passeriformes/campephagidae/coracina-javensis/5.jpg
+  page: https://www.inaturalist.org/photos/514609621
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514609621/original.jpg
 ---
 
 

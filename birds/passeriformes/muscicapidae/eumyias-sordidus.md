@@ -139,7 +139,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 15.3
@@ -147,6 +148,44 @@ morphology:
   wing_length_mm: 75.7
   tail_length_mm: 61.0
   body_mass_g: 25.1
+image:
+  file: images/passeriformes/muscicapidae/eumyias-sordidus/1.jpg
+  page: https://www.inaturalist.org/photos/618684046
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618684046/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/eumyias-sordidus/1.jpg
+  page: https://www.inaturalist.org/photos/618684046
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618684046/original.jpg
+- file: images/passeriformes/muscicapidae/eumyias-sordidus/2.jpg
+  page: https://www.inaturalist.org/photos/676332390
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676332390/original.jpg
+- file: images/passeriformes/muscicapidae/eumyias-sordidus/3.jpg
+  page: https://www.inaturalist.org/photos/465540102
+  author: Vsevolod Rudyi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465540102/original.jpeg
+- file: images/passeriformes/muscicapidae/eumyias-sordidus/4.jpg
+  page: https://www.inaturalist.org/photos/468091293
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468091293/original.jpg
+- file: images/passeriformes/muscicapidae/eumyias-sordidus/5.jpg
+  page: https://www.inaturalist.org/photos/474270020
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474270020/original.jpeg
 ---
 
 

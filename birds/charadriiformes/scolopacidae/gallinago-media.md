@@ -184,8 +184,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/scolopacidae/gallinago-media/1.jpg
+  page: https://www.inaturalist.org/photos/644681635
+  author: Борис Георги
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644681635/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/gallinago-media/1.jpg
+  page: https://www.inaturalist.org/photos/644681635
+  author: Борис Георги
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644681635/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-media/2.jpg
+  page: https://www.inaturalist.org/photos/651344063
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651344063/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-media/3.jpg
+  page: https://www.inaturalist.org/photos/658859397
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658859397/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-media/4.jpg
+  page: https://www.inaturalist.org/photos/644681592
+  author: Борис Георги
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644681592/original.jpg
+- file: images/charadriiformes/scolopacidae/gallinago-media/5.jpg
+  page: https://www.inaturalist.org/photos/644681622
+  author: Борис Георги
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644681622/original.jpg
 ---
 
 

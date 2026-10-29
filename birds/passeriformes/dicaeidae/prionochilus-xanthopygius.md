@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/prionochilus-xanthopygius/1.jpg
+  page: https://www.inaturalist.org/photos/714919612
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714919612/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/prionochilus-xanthopygius/1.jpg
+  page: https://www.inaturalist.org/photos/714919612
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714919612/original.jpg
+- file: images/passeriformes/dicaeidae/prionochilus-xanthopygius/2.jpg
+  page: https://www.inaturalist.org/photos/479789548
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479789548/original.jpg
+- file: images/passeriformes/dicaeidae/prionochilus-xanthopygius/3.jpg
+  page: https://www.inaturalist.org/photos/529911235
+  author: 林正文
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529911235/original.jpg
+- file: images/passeriformes/dicaeidae/prionochilus-xanthopygius/4.jpg
+  page: https://www.inaturalist.org/photos/571653552
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571653552/original.jpg
+- file: images/passeriformes/dicaeidae/prionochilus-xanthopygius/5.jpg
+  page: https://www.inaturalist.org/photos/594278960
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594278960/original.jpg
 ---
 
 

@@ -158,8 +158,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/emberizidae/emberiza-rutila/1.jpg
+  page: https://www.inaturalist.org/photos/609201036
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609201036/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-rutila/1.jpg
+  page: https://www.inaturalist.org/photos/609201036
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609201036/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-rutila/2.jpg
+  page: https://www.inaturalist.org/photos/721144843
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721144843/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-rutila/3.jpg
+  page: https://www.inaturalist.org/photos/721144878
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721144878/original.jpg
 ---
 
 

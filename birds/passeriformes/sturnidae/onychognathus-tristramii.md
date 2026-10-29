@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/onychognathus-tristramii/1.jpg
+  page: https://www.inaturalist.org/photos/614553779
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553779/original.jpg
+images:
+- file: images/passeriformes/sturnidae/onychognathus-tristramii/1.jpg
+  page: https://www.inaturalist.org/photos/614553779
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614553779/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-tristramii/2.jpg
+  page: https://www.inaturalist.org/photos/615467445
+  author: Jacky Judas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615467445/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-tristramii/3.jpg
+  page: https://www.inaturalist.org/photos/633267646
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633267646/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-tristramii/4.jpg
+  page: https://www.inaturalist.org/photos/626030909
+  author: Conor McKinney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626030909/original.jpg
+- file: images/passeriformes/sturnidae/onychognathus-tristramii/5.jpg
+  page: https://www.inaturalist.org/photos/651991524
+  author: Fyodor Demin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651991524/original.jpg
 ---
 
 

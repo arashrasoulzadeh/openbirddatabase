@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/sphenisciformes/spheniscidae/spheniscus-humboldti/1.jpg
+  page: https://www.inaturalist.org/photos/605487297
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487297/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/spheniscus-humboldti/1.jpg
+  page: https://www.inaturalist.org/photos/605487297
+  author: ignacio_diaz05
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605487297/original.jpg
+- file: images/sphenisciformes/spheniscidae/spheniscus-humboldti/2.jpg
+  page: https://www.inaturalist.org/photos/609127054
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609127054/original.jpg
+- file: images/sphenisciformes/spheniscidae/spheniscus-humboldti/3.jpg
+  page: https://www.inaturalist.org/photos/608043307
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608043307/original.jpg
+- file: images/sphenisciformes/spheniscidae/spheniscus-humboldti/4.jpg
+  page: https://www.inaturalist.org/photos/612810431
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612810431/original.jpg
+- file: images/sphenisciformes/spheniscidae/spheniscus-humboldti/5.jpg
+  page: https://www.inaturalist.org/photos/614095999
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614095999/original.jpg
 ---
 
 

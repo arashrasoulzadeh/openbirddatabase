@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-sandwichensis/1.jpg
+  page: https://www.inaturalist.org/photos/651050680
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651050680/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-sandwichensis/1.jpg
+  page: https://www.inaturalist.org/photos/651050680
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651050680/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-sandwichensis/2.jpg
+  page: https://www.inaturalist.org/photos/670377197
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670377197/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-sandwichensis/3.jpg
+  page: https://www.inaturalist.org/photos/718855095
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718855095/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-sandwichensis/4.jpg
+  page: https://www.inaturalist.org/photos/736869173
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736869173/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-sandwichensis/5.jpg
+  page: https://www.inaturalist.org/photos/320030505
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320030505/original.jpeg
 ---
 
 

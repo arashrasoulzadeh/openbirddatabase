@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/arachnothera-robusta/1.jpg
+  page: https://www.inaturalist.org/photos/599141560
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599141560/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/arachnothera-robusta/1.jpg
+  page: https://www.inaturalist.org/photos/599141560
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599141560/original.jpg
+- file: images/passeriformes/nectariniidae/arachnothera-robusta/2.jpg
+  page: https://www.inaturalist.org/photos/450018364
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450018364/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-robusta/3.jpg
+  page: https://www.inaturalist.org/photos/343833197
+  author: My-Lan Le
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343833197/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-robusta/4.jpg
+  page: https://www.inaturalist.org/photos/114832830
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/114832830/original.jpeg
+- file: images/passeriformes/nectariniidae/arachnothera-robusta/5.jpg
+  page: https://www.inaturalist.org/photos/599148881
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599148881/original.jpg
 ---
 
 

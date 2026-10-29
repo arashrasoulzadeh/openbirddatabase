@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sittidae/sitta-tephronota/1.jpg
+  page: https://www.inaturalist.org/photos/609735381
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735381/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-tephronota/1.jpg
+  page: https://www.inaturalist.org/photos/609735381
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609735381/original.jpg
+- file: images/passeriformes/sittidae/sitta-tephronota/2.jpg
+  page: https://www.inaturalist.org/photos/694275834
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694275834/original.jpg
+- file: images/passeriformes/sittidae/sitta-tephronota/3.jpg
+  page: https://www.inaturalist.org/photos/487793090
+  author: Igor Karyakin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487793090/original.jpeg
+- file: images/passeriformes/sittidae/sitta-tephronota/4.jpg
+  page: https://www.inaturalist.org/photos/492556241
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/492556241/original.jpeg
+- file: images/passeriformes/sittidae/sitta-tephronota/5.jpg
+  page: https://www.inaturalist.org/photos/506308086
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506308086/original.jpg
 ---
 
 

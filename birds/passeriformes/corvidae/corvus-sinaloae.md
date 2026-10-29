@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-sinaloae/1.jpg
+  page: https://www.inaturalist.org/photos/612540983
+  author: memoosborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612540983/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-sinaloae/1.jpg
+  page: https://www.inaturalist.org/photos/612540983
+  author: memoosborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612540983/original.jpg
+- file: images/passeriformes/corvidae/corvus-sinaloae/2.jpg
+  page: https://www.inaturalist.org/photos/629423458
+  author: Drew Baxter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629423458/original.jpg
+- file: images/passeriformes/corvidae/corvus-sinaloae/3.jpg
+  page: https://www.inaturalist.org/photos/690854091
+  author: José Javier Barrios Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690854091/original.jpg
+- file: images/passeriformes/corvidae/corvus-sinaloae/4.jpg
+  page: https://www.inaturalist.org/photos/462618889
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462618889/original.jpeg
+- file: images/passeriformes/corvidae/corvus-sinaloae/5.jpg
+  page: https://www.inaturalist.org/photos/484088481
+  author: srsvivos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484088481/original.jpeg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/leucocarbo-colensoi/1.jpg
+  page: https://www.inaturalist.org/photos/467548340
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467548340/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/leucocarbo-colensoi/1.jpg
+  page: https://www.inaturalist.org/photos/467548340
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467548340/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-colensoi/2.jpg
+  page: https://www.inaturalist.org/photos/500352306
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500352306/original.jpeg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-colensoi/3.jpg
+  page: https://www.inaturalist.org/photos/462486196
+  author: Julia Palmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462486196/original.jpeg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-colensoi/4.jpg
+  page: https://www.inaturalist.org/photos/476053728
+  author: Flavien Saboureau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476053728/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-colensoi/5.jpg
+  page: https://www.inaturalist.org/photos/178303089
+  author: georgiasteel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178303089/original.jpeg
 ---
 
 

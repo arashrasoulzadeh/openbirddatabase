@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 24.9
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 53.4
   tail_length_mm: 33.9
   body_mass_g: 5.0
+image:
+  file: images/apodiformes/trochilidae/uranomitra-franciae/1.jpg
+  page: https://www.inaturalist.org/photos/609440268
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609440268/original.jpg
+images:
+- file: images/apodiformes/trochilidae/uranomitra-franciae/1.jpg
+  page: https://www.inaturalist.org/photos/609440268
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609440268/original.jpg
+- file: images/apodiformes/trochilidae/uranomitra-franciae/2.jpg
+  page: https://www.inaturalist.org/photos/610883406
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610883406/original.jpg
+- file: images/apodiformes/trochilidae/uranomitra-franciae/3.jpg
+  page: https://www.inaturalist.org/photos/614580863
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614580863/original.jpg
+- file: images/apodiformes/trochilidae/uranomitra-franciae/4.jpg
+  page: https://www.inaturalist.org/photos/609330139
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609330139/original.jpg
+- file: images/apodiformes/trochilidae/uranomitra-franciae/5.jpg
+  page: https://www.inaturalist.org/photos/614555411
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614555411/original.jpg
 ---
 
 

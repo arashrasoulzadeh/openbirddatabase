@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/lamprotornis-nitens/1.jpg
+  page: https://www.inaturalist.org/photos/607217636
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607217636/original.jpg
+images:
+- file: images/passeriformes/sturnidae/lamprotornis-nitens/1.jpg
+  page: https://www.inaturalist.org/photos/607217636
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607217636/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-nitens/2.jpg
+  page: https://www.inaturalist.org/photos/611846717
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611846717/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-nitens/3.jpg
+  page: https://www.inaturalist.org/photos/612536714
+  author: Jon Paul Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612536714/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-nitens/4.jpg
+  page: https://www.inaturalist.org/photos/624171660
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624171660/original.jpg
+- file: images/passeriformes/sturnidae/lamprotornis-nitens/5.jpg
+  page: https://www.inaturalist.org/photos/608228874
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608228874/original.jpg
 ---
 
 

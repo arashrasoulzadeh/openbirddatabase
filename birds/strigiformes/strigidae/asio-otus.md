@@ -192,10 +192,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 28
+image:
+  file: images/strigiformes/strigidae/asio-otus/1.jpg
+  page: https://www.inaturalist.org/photos/604744495
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604744495/original.jpg
+images:
+- file: images/strigiformes/strigidae/asio-otus/1.jpg
+  page: https://www.inaturalist.org/photos/604744495
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604744495/original.jpg
+- file: images/strigiformes/strigidae/asio-otus/2.jpg
+  page: https://www.inaturalist.org/photos/605626160
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605626160/original.jpg
+- file: images/strigiformes/strigidae/asio-otus/3.jpg
+  page: https://www.inaturalist.org/photos/604883611
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604883611/original.jpg
+- file: images/strigiformes/strigidae/asio-otus/4.jpg
+  page: https://www.inaturalist.org/photos/610296392
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610296392/original.jpg
+- file: images/strigiformes/strigidae/asio-otus/5.jpg
+  page: https://www.inaturalist.org/photos/607217838
+  author: Марго
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607217838/original.jpg
 ---
 
 

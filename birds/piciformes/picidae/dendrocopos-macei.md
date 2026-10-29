@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/dendrocopos-macei/1.jpg
+  page: https://www.inaturalist.org/photos/615210588
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615210588/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocopos-macei/1.jpg
+  page: https://www.inaturalist.org/photos/615210588
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615210588/original.jpg
+- file: images/piciformes/picidae/dendrocopos-macei/2.jpg
+  page: https://www.inaturalist.org/photos/616546976
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616546976/original.jpg
+- file: images/piciformes/picidae/dendrocopos-macei/3.jpg
+  page: https://www.inaturalist.org/photos/737490275
+  author: Subir B. Shakya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/737490275/original.jpg
+- file: images/piciformes/picidae/dendrocopos-macei/4.jpg
+  page: https://www.inaturalist.org/photos/463504898
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463504898/original.jpeg
+- file: images/piciformes/picidae/dendrocopos-macei/5.jpg
+  page: https://www.inaturalist.org/photos/541126775
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/541126775/original.jpg
 ---
 
 

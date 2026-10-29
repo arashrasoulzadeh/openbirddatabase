@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/sphenisciformes/spheniscidae/megadyptes-antipodes/1.jpg
+  page: https://www.inaturalist.org/photos/616065032
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616065032/original.jpg
+images:
+- file: images/sphenisciformes/spheniscidae/megadyptes-antipodes/1.jpg
+  page: https://www.inaturalist.org/photos/616065032
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616065032/original.jpg
+- file: images/sphenisciformes/spheniscidae/megadyptes-antipodes/2.jpg
+  page: https://www.inaturalist.org/photos/618302781
+  author: Alan Weakley
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618302781/original.jpg
+- file: images/sphenisciformes/spheniscidae/megadyptes-antipodes/3.jpg
+  page: https://www.inaturalist.org/photos/634623285
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634623285/original.jpg
+- file: images/sphenisciformes/spheniscidae/megadyptes-antipodes/4.jpg
+  page: https://www.inaturalist.org/photos/649227795
+  author: Doug Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649227795/original.jpg
+- file: images/sphenisciformes/spheniscidae/megadyptes-antipodes/5.jpg
+  page: https://www.inaturalist.org/photos/690565683
+  author: Jordyn Ashcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690565683/original.jpg
 ---
 
 

@@ -131,7 +131,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 30.0
@@ -139,6 +140,44 @@ morphology:
   wing_length_mm: 201.8
   tail_length_mm: 106.5
   body_mass_g: 72.2
+image:
+  file: images/charadriiformes/laridae/anous-albivitta/1.jpg
+  page: https://www.inaturalist.org/photos/614980737
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614980737/original.jpg
+images:
+- file: images/charadriiformes/laridae/anous-albivitta/1.jpg
+  page: https://www.inaturalist.org/photos/614980737
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614980737/original.jpg
+- file: images/charadriiformes/laridae/anous-albivitta/2.jpg
+  page: https://www.inaturalist.org/photos/469252920
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469252920/original.jpg
+- file: images/charadriiformes/laridae/anous-albivitta/3.jpg
+  page: https://www.inaturalist.org/photos/489430149
+  author: Matthew Lincoln
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489430149/original.jpeg
+- file: images/charadriiformes/laridae/anous-albivitta/4.jpg
+  page: https://www.inaturalist.org/photos/398653207
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/398653207/original.jpg
+- file: images/charadriiformes/laridae/anous-albivitta/5.jpg
+  page: https://www.inaturalist.org/photos/434978827
+  author: Franco Arenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434978827/original.jpeg
 ---
 
 

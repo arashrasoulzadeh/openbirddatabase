@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-intermedius/1.jpg
+  page: https://www.inaturalist.org/photos/605619447
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605619447/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-intermedius/1.jpg
+  page: https://www.inaturalist.org/photos/605619447
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605619447/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-intermedius/2.jpg
+  page: https://www.inaturalist.org/photos/613911468
+  author: timboucher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613911468/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-intermedius/3.jpg
+  page: https://www.inaturalist.org/photos/614485776
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614485776/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-intermedius/4.jpg
+  page: https://www.inaturalist.org/photos/730296792
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730296792/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-intermedius/5.jpg
+  page: https://www.inaturalist.org/photos/649196832
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649196832/original.jpg
 ---
 
 

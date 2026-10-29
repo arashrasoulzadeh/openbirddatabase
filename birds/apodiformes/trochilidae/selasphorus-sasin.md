@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/apodiformes/trochilidae/selasphorus-sasin/1.jpg
+  page: https://www.inaturalist.org/photos/605683944
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605683944/original.jpg
+images:
+- file: images/apodiformes/trochilidae/selasphorus-sasin/1.jpg
+  page: https://www.inaturalist.org/photos/605683944
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605683944/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-sasin/2.jpg
+  page: https://www.inaturalist.org/photos/605190071
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605190071/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-sasin/3.jpg
+  page: https://www.inaturalist.org/photos/604581305
+  author: Christian Haney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604581305/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-sasin/4.jpg
+  page: https://www.inaturalist.org/photos/610506742
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610506742/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-sasin/5.jpg
+  page: https://www.inaturalist.org/photos/607083053
+  author: Lisa Biasillo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607083053/original.jpg
 ---
 
 

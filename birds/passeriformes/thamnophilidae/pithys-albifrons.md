@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/pithys-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/464132009
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464132009/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/pithys-albifrons/1.jpg
+  page: https://www.inaturalist.org/photos/464132009
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464132009/original.jpeg
+- file: images/passeriformes/thamnophilidae/pithys-albifrons/2.jpg
+  page: https://www.inaturalist.org/photos/468390662
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468390662/original.jpg
+- file: images/passeriformes/thamnophilidae/pithys-albifrons/3.jpg
+  page: https://www.inaturalist.org/photos/532101688
+  author: Carlos Henrique Russi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532101688/original.jpg
+- file: images/passeriformes/thamnophilidae/pithys-albifrons/4.jpg
+  page: https://www.inaturalist.org/photos/249260781
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249260781/original.jpeg
+- file: images/passeriformes/thamnophilidae/pithys-albifrons/5.jpg
+  page: https://www.inaturalist.org/photos/468390668
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468390668/original.jpg
 ---
 
 

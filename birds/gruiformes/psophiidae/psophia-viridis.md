@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/psophiidae/psophia-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/226525836
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226525836/original.jpg
+images:
+- file: images/gruiformes/psophiidae/psophia-viridis/1.jpg
+  page: https://www.inaturalist.org/photos/226525836
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226525836/original.jpg
+- file: images/gruiformes/psophiidae/psophia-viridis/2.jpg
+  page: https://www.inaturalist.org/photos/468667150
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468667150/original.jpg
+- file: images/gruiformes/psophiidae/psophia-viridis/3.jpg
+  page: https://www.inaturalist.org/photos/8450782
+  author: Rodrigo Silva Pinto Jorge
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8450782/original.jpeg
+- file: images/gruiformes/psophiidae/psophia-viridis/4.jpg
+  page: https://www.inaturalist.org/photos/226527110
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226527110/original.jpg
+- file: images/gruiformes/psophiidae/psophia-viridis/5.jpg
+  page: https://www.inaturalist.org/photos/468667149
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468667149/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/colaptes-rivolii/1.jpg
+  page: https://www.inaturalist.org/photos/610857652
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610857652/original.jpg
+images:
+- file: images/piciformes/picidae/colaptes-rivolii/1.jpg
+  page: https://www.inaturalist.org/photos/610857652
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610857652/original.jpg
+- file: images/piciformes/picidae/colaptes-rivolii/2.jpg
+  page: https://www.inaturalist.org/photos/622744009
+  author: Mark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622744009/original.jpg
+- file: images/piciformes/picidae/colaptes-rivolii/3.jpg
+  page: https://www.inaturalist.org/photos/652808759
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808759/original.jpg
+- file: images/piciformes/picidae/colaptes-rivolii/4.jpg
+  page: https://www.inaturalist.org/photos/714681266
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714681266/original.jpg
+- file: images/piciformes/picidae/colaptes-rivolii/5.jpg
+  page: https://www.inaturalist.org/photos/725790234
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725790234/original.jpg
 ---
 
 

@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/capitonidae/eubucco-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/623719419
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623719419/original.jpg
+images:
+- file: images/piciformes/capitonidae/eubucco-versicolor/1.jpg
+  page: https://www.inaturalist.org/photos/623719419
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623719419/original.jpg
+- file: images/piciformes/capitonidae/eubucco-versicolor/2.jpg
+  page: https://www.inaturalist.org/photos/653497116
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653497116/original.jpg
+- file: images/piciformes/capitonidae/eubucco-versicolor/3.jpg
+  page: https://www.inaturalist.org/photos/547807389
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547807389/original.jpg
+- file: images/piciformes/capitonidae/eubucco-versicolor/4.jpg
+  page: https://www.inaturalist.org/photos/562800785
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562800785/original.jpg
+- file: images/piciformes/capitonidae/eubucco-versicolor/5.jpg
+  page: https://www.inaturalist.org/photos/600601139
+  author: Susan Blayney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600601139/original.jpg
 ---
 
 

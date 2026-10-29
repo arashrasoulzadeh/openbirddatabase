@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/myiagra-caledonica/1.jpg
+  page: https://www.inaturalist.org/photos/720605040
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720605040/original.jpg
+images:
+- file: images/passeriformes/monarchidae/myiagra-caledonica/1.jpg
+  page: https://www.inaturalist.org/photos/720605040
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720605040/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-caledonica/2.jpg
+  page: https://www.inaturalist.org/photos/534752289
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534752289/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-caledonica/3.jpg
+  page: https://www.inaturalist.org/photos/586256039
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586256039/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-caledonica/4.jpg
+  page: https://www.inaturalist.org/photos/8848149
+  author: melianie_max_and_asker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8848149/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-caledonica/5.jpg
+  page: https://www.inaturalist.org/photos/720204626
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720204626/original.jpg
 ---
 
 

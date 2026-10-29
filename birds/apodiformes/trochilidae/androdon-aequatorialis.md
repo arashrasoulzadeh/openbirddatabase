@@ -139,10 +139,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Lek
+image:
+  file: images/apodiformes/trochilidae/androdon-aequatorialis/1.jpg
+  page: https://www.inaturalist.org/photos/609324859
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609324859/original.jpg
+images:
+- file: images/apodiformes/trochilidae/androdon-aequatorialis/1.jpg
+  page: https://www.inaturalist.org/photos/609324859
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609324859/original.jpg
+- file: images/apodiformes/trochilidae/androdon-aequatorialis/2.jpg
+  page: https://www.inaturalist.org/photos/351653942
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351653942/original.jpg
+- file: images/apodiformes/trochilidae/androdon-aequatorialis/3.jpg
+  page: https://www.inaturalist.org/photos/609325064
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609325064/original.jpg
+- file: images/apodiformes/trochilidae/androdon-aequatorialis/4.jpg
+  page: https://www.inaturalist.org/photos/609325052
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609325052/original.jpg
+- file: images/apodiformes/trochilidae/androdon-aequatorialis/5.jpg
+  page: https://www.inaturalist.org/photos/609325069
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609325069/original.jpg
 ---
 
 

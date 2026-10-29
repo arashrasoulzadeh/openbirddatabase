@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/734392977
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734392977/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/734392977
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734392977/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lugubris/2.jpg
+  page: https://www.inaturalist.org/photos/609632158
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609632158/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lugubris/3.jpg
+  page: https://www.inaturalist.org/photos/206771769
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/206771769/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lugubris/4.jpg
+  page: https://www.inaturalist.org/photos/734393041
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734393041/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lugubris/5.jpg
+  page: https://www.inaturalist.org/photos/734393109
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734393109/original.jpg
 ---
 
 

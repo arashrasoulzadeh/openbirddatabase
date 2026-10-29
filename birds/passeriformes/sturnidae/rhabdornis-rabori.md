@@ -131,7 +131,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 19.4
@@ -139,6 +140,44 @@ morphology:
   wing_length_mm: 91.6
   tail_length_mm: 63.1
   body_mass_g: 39.1
+image:
+  file: images/passeriformes/sturnidae/rhabdornis-rabori/1.jpg
+  page: https://www.inaturalist.org/photos/637888641
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888641/original.jpg
+images:
+- file: images/passeriformes/sturnidae/rhabdornis-rabori/1.jpg
+  page: https://www.inaturalist.org/photos/637888641
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888641/original.jpg
+- file: images/passeriformes/sturnidae/rhabdornis-rabori/2.jpg
+  page: https://www.inaturalist.org/photos/637888645
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637888645/original.jpg
+- file: images/passeriformes/sturnidae/rhabdornis-rabori/3.jpg
+  page: https://www.inaturalist.org/photos/316279338
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316279338/original.jpeg
+- file: images/passeriformes/sturnidae/rhabdornis-rabori/4.jpg
+  page: https://www.inaturalist.org/photos/316279347
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316279347/original.jpeg
+- file: images/passeriformes/sturnidae/rhabdornis-rabori/5.jpg
+  page: https://www.inaturalist.org/photos/316279348
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/316279348/original.jpeg
 ---
 
 

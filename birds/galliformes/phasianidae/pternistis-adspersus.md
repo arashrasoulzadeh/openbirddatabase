@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-adspersus/1.jpg
+  page: https://www.inaturalist.org/photos/617667405
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617667405/original.jpg
+images:
+- file: images/galliformes/phasianidae/pternistis-adspersus/1.jpg
+  page: https://www.inaturalist.org/photos/617667405
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617667405/original.jpg
+- file: images/galliformes/phasianidae/pternistis-adspersus/2.jpg
+  page: https://www.inaturalist.org/photos/618041636
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618041636/original.jpg
+- file: images/galliformes/phasianidae/pternistis-adspersus/3.jpg
+  page: https://www.inaturalist.org/photos/669433684
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669433684/original.jpg
+- file: images/galliformes/phasianidae/pternistis-adspersus/4.jpg
+  page: https://www.inaturalist.org/photos/670443592
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670443592/original.jpg
+- file: images/galliformes/phasianidae/pternistis-adspersus/5.jpg
+  page: https://www.inaturalist.org/photos/667070187
+  author: Tamir Gershberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667070187/original.jpg
 ---
 
 

@@ -141,8 +141,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptilonorhynchidae/sericulus-aureus/1.jpg
+  page: https://www.inaturalist.org/photos/614910638
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910638/original.jpg
+images:
+- file: images/passeriformes/ptilonorhynchidae/sericulus-aureus/1.jpg
+  page: https://www.inaturalist.org/photos/614910638
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910638/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/sericulus-aureus/2.jpg
+  page: https://www.inaturalist.org/photos/341088415
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341088415/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/sericulus-aureus/3.jpg
+  page: https://www.inaturalist.org/photos/615137304
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615137304/original.jpg
+- file: images/passeriformes/ptilonorhynchidae/sericulus-aureus/4.jpg
+  page: https://www.inaturalist.org/photos/341088402
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341088402/original.jpg
 ---
 
 

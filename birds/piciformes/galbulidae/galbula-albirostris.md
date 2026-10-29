@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/galbulidae/galbula-albirostris/1.jpg
+  page: https://www.inaturalist.org/photos/533909435
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533909435/original.jpg
+images:
+- file: images/piciformes/galbulidae/galbula-albirostris/1.jpg
+  page: https://www.inaturalist.org/photos/533909435
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533909435/original.jpg
+- file: images/piciformes/galbulidae/galbula-albirostris/2.jpg
+  page: https://www.inaturalist.org/photos/463401982
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463401982/original.jpeg
+- file: images/piciformes/galbulidae/galbula-albirostris/3.jpg
+  page: https://www.inaturalist.org/photos/500004320
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500004320/original.jpg
+- file: images/piciformes/galbulidae/galbula-albirostris/4.jpg
+  page: https://www.inaturalist.org/photos/143540159
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/143540159/original.jpg
+- file: images/piciformes/galbulidae/galbula-albirostris/5.jpg
+  page: https://www.inaturalist.org/photos/5489618
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/5489618/original.jpg
 ---
 
 

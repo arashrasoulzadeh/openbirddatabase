@@ -139,8 +139,29 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-albinucha/1.jpg
+  page: https://www.inaturalist.org/photos/632570348
+  author: Robin Fjellström
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632570348/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-albinucha/1.jpg
+  page: https://www.inaturalist.org/photos/632570348
+  author: Robin Fjellström
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632570348/original.jpg
+- file: images/columbiformes/columbidae/columba-albinucha/2.jpg
+  page: https://www.inaturalist.org/photos/632570362
+  author: Robin Fjellström
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632570362/original.jpg
 ---
 
 

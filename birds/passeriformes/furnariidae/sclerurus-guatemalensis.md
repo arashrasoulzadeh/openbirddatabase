@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/sclerurus-guatemalensis/1.jpg
+  page: https://www.inaturalist.org/photos/514356596
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514356596/original.jpg
+images:
+- file: images/passeriformes/furnariidae/sclerurus-guatemalensis/1.jpg
+  page: https://www.inaturalist.org/photos/514356596
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514356596/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-guatemalensis/2.jpg
+  page: https://www.inaturalist.org/photos/414487768
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414487768/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-guatemalensis/3.jpg
+  page: https://www.inaturalist.org/photos/367260718
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367260718/original.jpeg
+- file: images/passeriformes/furnariidae/sclerurus-guatemalensis/4.jpg
+  page: https://www.inaturalist.org/photos/458767479
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458767479/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-guatemalensis/5.jpg
+  page: https://www.inaturalist.org/photos/295073092
+  author: TheMongrelKoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/295073092/original.jpeg
 ---
 
 

@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-rufinucha/1.jpg
+  page: https://www.inaturalist.org/photos/727043680
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727043680/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-rufinucha/1.jpg
+  page: https://www.inaturalist.org/photos/727043680
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727043680/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-rufinucha/2.jpg
+  page: https://www.inaturalist.org/photos/583996215
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583996215/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-rufinucha/3.jpg
+  page: https://www.inaturalist.org/photos/376429490
+  author: Emily Ali Mollo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376429490/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-rufinucha/4.jpg
+  page: https://www.inaturalist.org/photos/216398313
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/216398313/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-rufinucha/5.jpg
+  page: https://www.inaturalist.org/photos/227127911
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227127911/original.jpeg
 ---
 
 

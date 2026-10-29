@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/schistes-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/471169545
+  author: Arne Holgersson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471169545/original.jpg
+images:
+- file: images/apodiformes/trochilidae/schistes-albogularis/1.jpg
+  page: https://www.inaturalist.org/photos/471169545
+  author: Arne Holgersson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471169545/original.jpg
+- file: images/apodiformes/trochilidae/schistes-albogularis/2.jpg
+  page: https://www.inaturalist.org/photos/465780797
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465780797/original.jpg
+- file: images/apodiformes/trochilidae/schistes-albogularis/3.jpg
+  page: https://www.inaturalist.org/photos/352794190
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352794190/original.jpeg
+- file: images/apodiformes/trochilidae/schistes-albogularis/4.jpg
+  page: https://www.inaturalist.org/photos/263757814
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/263757814/original.jpg
+- file: images/apodiformes/trochilidae/schistes-albogularis/5.jpg
+  page: https://www.inaturalist.org/photos/346528423
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346528423/original.jpg
 ---
 
 

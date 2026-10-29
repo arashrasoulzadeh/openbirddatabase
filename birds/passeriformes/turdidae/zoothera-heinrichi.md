@@ -122,7 +122,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 28.4
@@ -130,6 +131,20 @@ morphology:
   wing_length_mm: 111.8
   tail_length_mm: 140.1
   body_mass_g: 73.2
+image:
+  file: images/passeriformes/turdidae/zoothera-heinrichi/1.jpg
+  page: https://www.inaturalist.org/photos/107806041
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107806041/original.jpg
+images:
+- file: images/passeriformes/turdidae/zoothera-heinrichi/1.jpg
+  page: https://www.inaturalist.org/photos/107806041
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107806041/original.jpg
 ---
 
 

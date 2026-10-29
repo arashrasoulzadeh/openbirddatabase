@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/brachypteryx-cruralis/1.jpg
+  page: https://www.inaturalist.org/photos/623369944
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623369944/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/brachypteryx-cruralis/1.jpg
+  page: https://www.inaturalist.org/photos/623369944
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623369944/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-cruralis/2.jpg
+  page: https://www.inaturalist.org/photos/479298156
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479298156/original.jpeg
+- file: images/passeriformes/muscicapidae/brachypteryx-cruralis/3.jpg
+  page: https://www.inaturalist.org/photos/402397721
+  author: Nikhil R R
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402397721/original.jpeg
+- file: images/passeriformes/muscicapidae/brachypteryx-cruralis/4.jpg
+  page: https://www.inaturalist.org/photos/481983484
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481983484/original.jpg
+- file: images/passeriformes/muscicapidae/brachypteryx-cruralis/5.jpg
+  page: https://www.inaturalist.org/photos/201482655
+  author: Sevin Dee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/201482655/original.jpg
 ---
 
 

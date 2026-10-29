@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cossypha-dichroa/1.jpg
+  page: https://www.inaturalist.org/photos/613963873
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613963873/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cossypha-dichroa/1.jpg
+  page: https://www.inaturalist.org/photos/613963873
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613963873/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-dichroa/2.jpg
+  page: https://www.inaturalist.org/photos/621119326
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621119326/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-dichroa/3.jpg
+  page: https://www.inaturalist.org/photos/698666319
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698666319/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-dichroa/4.jpg
+  page: https://www.inaturalist.org/photos/665360108
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665360108/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-dichroa/5.jpg
+  page: https://www.inaturalist.org/photos/462499003
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462499003/original.jpeg
 ---
 
 

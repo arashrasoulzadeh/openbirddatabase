@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 11.2
@@ -146,6 +147,20 @@ morphology:
   wing_length_mm: 52.6
   tail_length_mm: 68.6
   body_mass_g: 18.7
+image:
+  file: images/passeriformes/paradoxornithidae/moupinia-poecilotis/1.jpg
+  page: https://www.inaturalist.org/photos/507845381
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507845381/original.jpg
+images:
+- file: images/passeriformes/paradoxornithidae/moupinia-poecilotis/1.jpg
+  page: https://www.inaturalist.org/photos/507845381
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507845381/original.jpg
 ---
 
 

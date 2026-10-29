@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/ardenna-carneipes/1.jpg
+  page: https://www.inaturalist.org/photos/605243123
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243123/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/ardenna-carneipes/1.jpg
+  page: https://www.inaturalist.org/photos/605243123
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243123/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-carneipes/2.jpg
+  page: https://www.inaturalist.org/photos/607569126
+  author: Scott
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607569126/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-carneipes/3.jpg
+  page: https://www.inaturalist.org/photos/614958241
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614958241/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-carneipes/4.jpg
+  page: https://www.inaturalist.org/photos/625323439
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625323439/original.jpg
+- file: images/procellariiformes/procellariidae/ardenna-carneipes/5.jpg
+  page: https://www.inaturalist.org/photos/628790211
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628790211/original.jpg
 ---
 
 

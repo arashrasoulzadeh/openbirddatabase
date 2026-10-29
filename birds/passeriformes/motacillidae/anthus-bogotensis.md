@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-bogotensis/1.jpg
+  page: https://www.inaturalist.org/photos/490651739
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490651739/original.jpeg
+images:
+- file: images/passeriformes/motacillidae/anthus-bogotensis/1.jpg
+  page: https://www.inaturalist.org/photos/490651739
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490651739/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-bogotensis/2.jpg
+  page: https://www.inaturalist.org/photos/534234515
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/534234515/original.jpg
+- file: images/passeriformes/motacillidae/anthus-bogotensis/3.jpg
+  page: https://www.inaturalist.org/photos/563729360
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563729360/original.jpg
+- file: images/passeriformes/motacillidae/anthus-bogotensis/4.jpg
+  page: https://www.inaturalist.org/photos/423561127
+  author: Andrew Campbell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/423561127/original.jpeg
+- file: images/passeriformes/motacillidae/anthus-bogotensis/5.jpg
+  page: https://www.inaturalist.org/photos/264008991
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264008991/original.jpg
 ---
 
 

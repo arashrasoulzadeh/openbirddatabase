@@ -145,10 +145,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/oreoicidae/oreoica-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/617708471
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617708471/original.jpg
+images:
+- file: images/passeriformes/oreoicidae/oreoica-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/617708471
+  author: finch_fanatic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617708471/original.jpg
+- file: images/passeriformes/oreoicidae/oreoica-gutturalis/2.jpg
+  page: https://www.inaturalist.org/photos/622748569
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748569/original.jpg
+- file: images/passeriformes/oreoicidae/oreoica-gutturalis/3.jpg
+  page: https://www.inaturalist.org/photos/698863977
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698863977/original.jpg
+- file: images/passeriformes/oreoicidae/oreoica-gutturalis/4.jpg
+  page: https://www.inaturalist.org/photos/743610348
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743610348/original.jpg
+- file: images/passeriformes/oreoicidae/oreoica-gutturalis/5.jpg
+  page: https://www.inaturalist.org/photos/745934658
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745934658/original.jpg
 ---
 
 

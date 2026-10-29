@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-cyanomelas/1.jpg
+  page: https://www.inaturalist.org/photos/606026919
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606026919/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-cyanomelas/1.jpg
+  page: https://www.inaturalist.org/photos/606026919
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606026919/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cyanomelas/2.jpg
+  page: https://www.inaturalist.org/photos/637749007
+  author: Joaquin Valentinuzzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637749007/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cyanomelas/3.jpg
+  page: https://www.inaturalist.org/photos/646653724
+  author: Silvia Ten
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646653724/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cyanomelas/4.jpg
+  page: https://www.inaturalist.org/photos/652788416
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652788416/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-cyanomelas/5.jpg
+  page: https://www.inaturalist.org/photos/673423893
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673423893/original.jpg
 ---
 
 

@@ -133,7 +133,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.6
@@ -141,6 +142,44 @@ morphology:
   wing_length_mm: 75.8
   tail_length_mm: 68.4
   body_mass_g: 28.6
+image:
+  file: images/passeriformes/thraupidae/poospiza-boliviana/1.jpg
+  page: https://www.inaturalist.org/photos/650751759
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650751759/original.jpg
+images:
+- file: images/passeriformes/thraupidae/poospiza-boliviana/1.jpg
+  page: https://www.inaturalist.org/photos/650751759
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650751759/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-boliviana/2.jpg
+  page: https://www.inaturalist.org/photos/727046657
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727046657/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-boliviana/3.jpg
+  page: https://www.inaturalist.org/photos/586526082
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586526082/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-boliviana/4.jpg
+  page: https://www.inaturalist.org/photos/228108122
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/228108122/original.jpg
+- file: images/passeriformes/thraupidae/poospiza-boliviana/5.jpg
+  page: https://www.inaturalist.org/photos/244532180
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244532180/original.jpeg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paradisaeidae/paradisornis-rudolphi/1.jpg
+  page: https://www.inaturalist.org/photos/700676850
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700676850/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/paradisornis-rudolphi/1.jpg
+  page: https://www.inaturalist.org/photos/700676850
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700676850/original.jpg
+- file: images/passeriformes/paradisaeidae/paradisornis-rudolphi/2.jpg
+  page: https://www.inaturalist.org/photos/713192757
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713192757/original.jpg
+- file: images/passeriformes/paradisaeidae/paradisornis-rudolphi/3.jpg
+  page: https://www.inaturalist.org/photos/571988089
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571988089/original.jpg
+- file: images/passeriformes/paradisaeidae/paradisornis-rudolphi/4.jpg
+  page: https://www.inaturalist.org/photos/227558841
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227558841/original.jpg
+- file: images/passeriformes/paradisaeidae/paradisornis-rudolphi/5.jpg
+  page: https://www.inaturalist.org/photos/51214597
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/51214597/original.jpeg
 ---
 
 

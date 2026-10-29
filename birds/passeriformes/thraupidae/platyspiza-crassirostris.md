@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/platyspiza-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/469795761
+  author: Wes Gapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469795761/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/platyspiza-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/469795761
+  author: Wes Gapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469795761/original.jpeg
+- file: images/passeriformes/thraupidae/platyspiza-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/125007020
+  author: Juan Carlos Caicedo Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/125007020/original.jpeg
+- file: images/passeriformes/thraupidae/platyspiza-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/339600887
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339600887/original.jpg
+- file: images/passeriformes/thraupidae/platyspiza-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/109976246
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109976246/original.jpeg
+- file: images/passeriformes/thraupidae/platyspiza-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/117158225
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/117158225/original.jpeg
 ---
 
 

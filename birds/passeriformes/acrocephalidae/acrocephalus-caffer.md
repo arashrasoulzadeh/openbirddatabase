@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-caffer/1.jpg
+  page: https://www.inaturalist.org/photos/471524891
+  author: Adam Z. Lendvai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471524891/original.jpeg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-caffer/1.jpg
+  page: https://www.inaturalist.org/photos/471524891
+  author: Adam Z. Lendvai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471524891/original.jpeg
+- file: images/passeriformes/acrocephalidae/acrocephalus-caffer/2.jpg
+  page: https://www.inaturalist.org/photos/471524892
+  author: Adam Z. Lendvai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471524892/original.jpeg
+- file: images/passeriformes/acrocephalidae/acrocephalus-caffer/3.jpg
+  page: https://www.inaturalist.org/photos/471524901
+  author: Adam Z. Lendvai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471524901/original.jpeg
+- file: images/passeriformes/acrocephalidae/acrocephalus-caffer/4.jpg
+  page: https://www.inaturalist.org/photos/471524905
+  author: Adam Z. Lendvai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471524905/original.jpeg
+- file: images/passeriformes/acrocephalidae/acrocephalus-caffer/5.jpg
+  page: https://www.inaturalist.org/photos/471524906
+  author: Adam Z. Lendvai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471524906/original.jpeg
 ---
 
 

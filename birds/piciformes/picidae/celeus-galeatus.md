@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/celeus-galeatus/1.jpg
+  page: https://www.inaturalist.org/photos/477357167
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477357167/original.jpeg
+images:
+- file: images/piciformes/picidae/celeus-galeatus/1.jpg
+  page: https://www.inaturalist.org/photos/477357167
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477357167/original.jpeg
+- file: images/piciformes/picidae/celeus-galeatus/2.jpg
+  page: https://www.inaturalist.org/photos/290986653
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/290986653/original.jpg
+- file: images/piciformes/picidae/celeus-galeatus/3.jpg
+  page: https://www.inaturalist.org/photos/244150969
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244150969/original.jpeg
+- file: images/piciformes/picidae/celeus-galeatus/4.jpg
+  page: https://www.inaturalist.org/photos/244059674
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244059674/original.jpeg
+- file: images/piciformes/picidae/celeus-galeatus/5.jpg
+  page: https://www.inaturalist.org/photos/390157663
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390157663/original.jpg
 ---
 
 

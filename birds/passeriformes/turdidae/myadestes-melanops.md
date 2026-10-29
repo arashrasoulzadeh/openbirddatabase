@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/myadestes-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/617288549
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617288549/original.jpg
+images:
+- file: images/passeriformes/turdidae/myadestes-melanops/1.jpg
+  page: https://www.inaturalist.org/photos/617288549
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617288549/original.jpg
+- file: images/passeriformes/turdidae/myadestes-melanops/2.jpg
+  page: https://www.inaturalist.org/photos/619727834
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619727834/original.jpg
+- file: images/passeriformes/turdidae/myadestes-melanops/3.jpg
+  page: https://www.inaturalist.org/photos/630968136
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630968136/original.jpg
+- file: images/passeriformes/turdidae/myadestes-melanops/4.jpg
+  page: https://www.inaturalist.org/photos/657973865
+  author: Chloe Lynn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657973865/original.jpg
+- file: images/passeriformes/turdidae/myadestes-melanops/5.jpg
+  page: https://www.inaturalist.org/photos/727970973
+  author: Catriona Hall
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727970973/original.jpg
 ---
 
 

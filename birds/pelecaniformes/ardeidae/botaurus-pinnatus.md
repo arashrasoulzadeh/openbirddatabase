@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/botaurus-pinnatus/1.jpg
+  page: https://www.inaturalist.org/photos/617325339
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617325339/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/botaurus-pinnatus/1.jpg
+  page: https://www.inaturalist.org/photos/617325339
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617325339/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-pinnatus/2.jpg
+  page: https://www.inaturalist.org/photos/651112643
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651112643/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-pinnatus/3.jpg
+  page: https://www.inaturalist.org/photos/654648886
+  author: Alexis López Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654648886/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-pinnatus/4.jpg
+  page: https://www.inaturalist.org/photos/675624161
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675624161/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-pinnatus/5.jpg
+  page: https://www.inaturalist.org/photos/673971224
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673971224/original.jpg
 ---
 
 

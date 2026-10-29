@@ -139,10 +139,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/ciconiiformes/ciconiidae/ciconia-stormi/1.jpg
+  page: https://www.inaturalist.org/photos/638169890
+  author: vyh3
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638169890/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/ciconia-stormi/1.jpg
+  page: https://www.inaturalist.org/photos/638169890
+  author: vyh3
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638169890/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-stormi/2.jpg
+  page: https://www.inaturalist.org/photos/636831341
+  author: Andreas Manz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636831341/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-stormi/3.jpg
+  page: https://www.inaturalist.org/photos/684569248
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684569248/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-stormi/4.jpg
+  page: https://www.inaturalist.org/photos/707156427
+  author: Manuel R Popp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707156427/original.jpg
+- file: images/ciconiiformes/ciconiidae/ciconia-stormi/5.jpg
+  page: https://www.inaturalist.org/photos/490913449
+  author: Adam Kamal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490913449/original.jpeg
 ---
 
 

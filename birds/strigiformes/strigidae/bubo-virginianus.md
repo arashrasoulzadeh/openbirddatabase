@@ -218,10 +218,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 29
+image:
+  file: images/strigiformes/strigidae/bubo-virginianus/1.jpg
+  page: https://www.inaturalist.org/photos/604588443
+  author: Bob Rutkowski
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588443/original.jpg
+images:
+- file: images/strigiformes/strigidae/bubo-virginianus/1.jpg
+  page: https://www.inaturalist.org/photos/604588443
+  author: Bob Rutkowski
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604588443/original.jpg
+- file: images/strigiformes/strigidae/bubo-virginianus/2.jpg
+  page: https://www.inaturalist.org/photos/605243880
+  author: Brent Cox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605243880/original.jpg
+- file: images/strigiformes/strigidae/bubo-virginianus/3.jpg
+  page: https://www.inaturalist.org/photos/605158421
+  author: ayden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605158421/original.jpg
+- file: images/strigiformes/strigidae/bubo-virginianus/4.jpg
+  page: https://www.inaturalist.org/photos/605482599
+  author: Quinn Shemet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605482599/original.jpg
+- file: images/strigiformes/strigidae/bubo-virginianus/5.jpg
+  page: https://www.inaturalist.org/photos/605138638
+  author: Mark Fletcher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605138638/original.jpg
 ---
 
 

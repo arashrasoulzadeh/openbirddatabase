@@ -134,8 +134,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-hypogramma/1.jpg
+  page: https://www.inaturalist.org/photos/559222925
+  author: Adam Ardian Rahman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559222925/original.jpg
+images:
+- file: images/strigiformes/strigidae/ninox-hypogramma/1.jpg
+  page: https://www.inaturalist.org/photos/559222925
+  author: Adam Ardian Rahman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559222925/original.jpg
+- file: images/strigiformes/strigidae/ninox-hypogramma/2.jpg
+  page: https://www.inaturalist.org/photos/313292289
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313292289/original.jpg
+- file: images/strigiformes/strigidae/ninox-hypogramma/3.jpg
+  page: https://www.inaturalist.org/photos/313292290
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/313292290/original.jpg
 ---
 
 

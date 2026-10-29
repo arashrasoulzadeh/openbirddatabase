@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-morrisonia/1.jpg
+  page: https://www.inaturalist.org/photos/617702702
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617702702/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-morrisonia/1.jpg
+  page: https://www.inaturalist.org/photos/617702702
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617702702/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-morrisonia/2.jpg
+  page: https://www.inaturalist.org/photos/624877303
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624877303/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-morrisonia/3.jpg
+  page: https://www.inaturalist.org/photos/633895666
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633895666/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-morrisonia/4.jpg
+  page: https://www.inaturalist.org/photos/640644736
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640644736/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-morrisonia/5.jpg
+  page: https://www.inaturalist.org/photos/617703091
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617703091/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/eupodotis-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/608454256
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608454256/original.jpg
+images:
+- file: images/otidiformes/otididae/eupodotis-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/608454256
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608454256/original.jpg
+- file: images/otidiformes/otididae/eupodotis-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/413400748
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413400748/original.jpeg
+- file: images/otidiformes/otididae/eupodotis-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/259165170
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259165170/original.jpeg
+- file: images/otidiformes/otididae/eupodotis-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/340704494
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340704494/original.jpeg
+- file: images/otidiformes/otididae/eupodotis-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/197041350
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/197041350/original.jpg
 ---
 
 

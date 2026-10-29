@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/columbiformes/columbidae/streptopelia-turtur/1.jpg
+  page: https://www.inaturalist.org/photos/636121570
+  author: Vasileia Sef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636121570/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-turtur/1.jpg
+  page: https://www.inaturalist.org/photos/636121570
+  author: Vasileia Sef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636121570/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-turtur/2.jpg
+  page: https://www.inaturalist.org/photos/635173707
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635173707/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-turtur/3.jpg
+  page: https://www.inaturalist.org/photos/637225714
+  author: Ben Jobson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637225714/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-turtur/4.jpg
+  page: https://www.inaturalist.org/photos/647035055
+  author: S.R.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647035055/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-turtur/5.jpg
+  page: https://www.inaturalist.org/photos/645588925
+  author: Marcello Manara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645588925/original.jpg
 ---
 
 

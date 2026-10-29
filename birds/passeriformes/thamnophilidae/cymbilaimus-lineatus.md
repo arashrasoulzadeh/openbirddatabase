@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cymbilaimus-lineatus/1.jpg
+  page: https://www.inaturalist.org/photos/606512063
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606512063/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/cymbilaimus-lineatus/1.jpg
+  page: https://www.inaturalist.org/photos/606512063
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606512063/original.jpg
+- file: images/passeriformes/thamnophilidae/cymbilaimus-lineatus/2.jpg
+  page: https://www.inaturalist.org/photos/613762786
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762786/original.jpg
+- file: images/passeriformes/thamnophilidae/cymbilaimus-lineatus/3.jpg
+  page: https://www.inaturalist.org/photos/615006585
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615006585/original.jpg
+- file: images/passeriformes/thamnophilidae/cymbilaimus-lineatus/4.jpg
+  page: https://www.inaturalist.org/photos/634708951
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634708951/original.jpg
+- file: images/passeriformes/thamnophilidae/cymbilaimus-lineatus/5.jpg
+  page: https://www.inaturalist.org/photos/696798777
+  author: Scott Harris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696798777/original.jpg
 ---
 
 

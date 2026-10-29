@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/619876735
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619876735/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-lugubris/1.jpg
+  page: https://www.inaturalist.org/photos/619876735
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619876735/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-lugubris/2.jpg
+  page: https://www.inaturalist.org/photos/684008183
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684008183/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-lugubris/3.jpg
+  page: https://www.inaturalist.org/photos/719657879
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719657879/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-lugubris/4.jpg
+  page: https://www.inaturalist.org/photos/735515633
+  author: Malte Krömer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735515633/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-lugubris/5.jpg
+  page: https://www.inaturalist.org/photos/543814922
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/543814922/original.jpg
 ---
 
 

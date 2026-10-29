@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pternistis-jacksoni/1.jpg
+  page: https://www.inaturalist.org/photos/413749002
+  author: Aaron Iemma
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413749002/original.jpeg
+images:
+- file: images/galliformes/phasianidae/pternistis-jacksoni/1.jpg
+  page: https://www.inaturalist.org/photos/413749002
+  author: Aaron Iemma
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413749002/original.jpeg
+- file: images/galliformes/phasianidae/pternistis-jacksoni/2.jpg
+  page: https://www.inaturalist.org/photos/607531963
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607531963/original.jpg
+- file: images/galliformes/phasianidae/pternistis-jacksoni/3.jpg
+  page: https://www.inaturalist.org/photos/249481050
+  author: Elliot Kulakow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/249481050/original.jpeg
+- file: images/galliformes/phasianidae/pternistis-jacksoni/4.jpg
+  page: https://www.inaturalist.org/photos/190378833
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/190378833/original.jpeg
+- file: images/galliformes/phasianidae/pternistis-jacksoni/5.jpg
+  page: https://www.inaturalist.org/photos/107164828
+  author: Stefan Haag
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/107164828/original.jpeg
 ---
 
 

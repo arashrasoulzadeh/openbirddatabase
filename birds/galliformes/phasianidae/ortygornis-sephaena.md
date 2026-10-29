@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/ortygornis-sephaena/1.jpg
+  page: https://www.inaturalist.org/photos/650458707
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650458707/original.jpg
+images:
+- file: images/galliformes/phasianidae/ortygornis-sephaena/1.jpg
+  page: https://www.inaturalist.org/photos/650458707
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650458707/original.jpg
+- file: images/galliformes/phasianidae/ortygornis-sephaena/2.jpg
+  page: https://www.inaturalist.org/photos/614260687
+  author: Theo Busschau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614260687/original.jpg
+- file: images/galliformes/phasianidae/ortygornis-sephaena/3.jpg
+  page: https://www.inaturalist.org/photos/677742366
+  author: Presha Soogrim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677742366/original.jpg
+- file: images/galliformes/phasianidae/ortygornis-sephaena/4.jpg
+  page: https://www.inaturalist.org/photos/647646641
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647646641/original.jpg
+- file: images/galliformes/phasianidae/ortygornis-sephaena/5.jpg
+  page: https://www.inaturalist.org/photos/614260735
+  author: Theo Busschau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614260735/original.jpg
 ---
 
 

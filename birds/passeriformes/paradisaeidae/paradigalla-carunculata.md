@@ -136,10 +136,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Polygynous
+image:
+  file: images/passeriformes/paradisaeidae/paradigalla-carunculata/1.jpg
+  page: https://www.inaturalist.org/photos/614713898
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614713898/original.jpg
+images:
+- file: images/passeriformes/paradisaeidae/paradigalla-carunculata/1.jpg
+  page: https://www.inaturalist.org/photos/614713898
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614713898/original.jpg
+- file: images/passeriformes/paradisaeidae/paradigalla-carunculata/2.jpg
+  page: https://www.inaturalist.org/photos/623845516
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623845516/original.jpg
+- file: images/passeriformes/paradisaeidae/paradigalla-carunculata/3.jpg
+  page: https://www.inaturalist.org/photos/615149791
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615149791/original.jpg
+- file: images/passeriformes/paradisaeidae/paradigalla-carunculata/4.jpg
+  page: https://www.inaturalist.org/photos/623845372
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623845372/original.jpg
+- file: images/passeriformes/paradisaeidae/paradigalla-carunculata/5.jpg
+  page: https://www.inaturalist.org/photos/658492913
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658492913/original.jpg
 ---
 
 

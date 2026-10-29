@@ -145,8 +145,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/sericornis-beccarii/1.jpg
+  page: https://www.inaturalist.org/photos/438868523
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438868523/original.jpeg
+images:
+- file: images/passeriformes/acanthizidae/sericornis-beccarii/1.jpg
+  page: https://www.inaturalist.org/photos/438868523
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438868523/original.jpeg
+- file: images/passeriformes/acanthizidae/sericornis-beccarii/2.jpg
+  page: https://www.inaturalist.org/photos/244004448
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/244004448/original.jpg
+- file: images/passeriformes/acanthizidae/sericornis-beccarii/3.jpg
+  page: https://www.inaturalist.org/photos/438868983
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438868983/original.jpeg
+- file: images/passeriformes/acanthizidae/sericornis-beccarii/4.jpg
+  page: https://www.inaturalist.org/photos/438868989
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/438868989/original.jpeg
 ---
 
 

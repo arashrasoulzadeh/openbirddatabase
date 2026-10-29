@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/psephotellus-chrysopterygius/1.jpg
+  page: https://www.inaturalist.org/photos/243760495
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243760495/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psephotellus-chrysopterygius/1.jpg
+  page: https://www.inaturalist.org/photos/243760495
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243760495/original.jpg
+- file: images/psittaciformes/psittaculidae/psephotellus-chrysopterygius/2.jpg
+  page: https://www.inaturalist.org/photos/337810551
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337810551/original.jpeg
+- file: images/psittaciformes/psittaculidae/psephotellus-chrysopterygius/3.jpg
+  page: https://www.inaturalist.org/photos/373894445
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/373894445/original.jpg
+- file: images/psittaciformes/psittaculidae/psephotellus-chrysopterygius/4.jpg
+  page: https://www.inaturalist.org/photos/243760485
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243760485/original.jpg
+- file: images/psittaciformes/psittaculidae/psephotellus-chrysopterygius/5.jpg
+  page: https://www.inaturalist.org/photos/337810839
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337810839/original.jpeg
 ---
 
 

@@ -165,10 +165,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/psittaciformes/psittaculidae/psittacula-alexandri/1.jpg
+  page: https://www.inaturalist.org/photos/610569925
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610569925/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psittacula-alexandri/1.jpg
+  page: https://www.inaturalist.org/photos/610569925
+  author: Huey
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610569925/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-alexandri/2.jpg
+  page: https://www.inaturalist.org/photos/609420200
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609420200/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-alexandri/3.jpg
+  page: https://www.inaturalist.org/photos/608304997
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608304997/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-alexandri/4.jpg
+  page: https://www.inaturalist.org/photos/608554397
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608554397/original.jpg
+- file: images/psittaciformes/psittaculidae/psittacula-alexandri/5.jpg
+  page: https://www.inaturalist.org/photos/615203499
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615203499/original.jpg
 ---
 
 

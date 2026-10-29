@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/locustellidae/bradypterus-baboecala/1.jpg
+  page: https://www.inaturalist.org/photos/616086559
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616086559/original.jpg
+images:
+- file: images/passeriformes/locustellidae/bradypterus-baboecala/1.jpg
+  page: https://www.inaturalist.org/photos/616086559
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616086559/original.jpg
+- file: images/passeriformes/locustellidae/bradypterus-baboecala/2.jpg
+  page: https://www.inaturalist.org/photos/629867102
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629867102/original.jpg
+- file: images/passeriformes/locustellidae/bradypterus-baboecala/3.jpg
+  page: https://www.inaturalist.org/photos/650745720
+  author: Jared Zachary Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650745720/original.jpg
+- file: images/passeriformes/locustellidae/bradypterus-baboecala/4.jpg
+  page: https://www.inaturalist.org/photos/462490633
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462490633/original.jpeg
+- file: images/passeriformes/locustellidae/bradypterus-baboecala/5.jpg
+  page: https://www.inaturalist.org/photos/497380507
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497380507/original.jpg
 ---
 
 

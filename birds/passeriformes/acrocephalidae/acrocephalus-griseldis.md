@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-griseldis/1.jpg
+  page: https://www.inaturalist.org/photos/645137790
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645137790/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-griseldis/1.jpg
+  page: https://www.inaturalist.org/photos/645137790
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645137790/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-griseldis/2.jpg
+  page: https://www.inaturalist.org/photos/351030821
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351030821/original.jpeg
+- file: images/passeriformes/acrocephalidae/acrocephalus-griseldis/3.jpg
+  page: https://www.inaturalist.org/photos/103609953
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103609953/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-griseldis/4.jpg
+  page: https://www.inaturalist.org/photos/103893396
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103893396/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-griseldis/5.jpg
+  page: https://www.inaturalist.org/photos/103893393
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103893393/original.jpg
 ---
 
 

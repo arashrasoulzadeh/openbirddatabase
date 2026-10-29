@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/apodiformes/trochilidae/selasphorus-platycercus/1.jpg
+  page: https://www.inaturalist.org/photos/605692871
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605692871/original.jpg
+images:
+- file: images/apodiformes/trochilidae/selasphorus-platycercus/1.jpg
+  page: https://www.inaturalist.org/photos/605692871
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605692871/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-platycercus/2.jpg
+  page: https://www.inaturalist.org/photos/606616510
+  author: Jody Shugart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606616510/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-platycercus/3.jpg
+  page: https://www.inaturalist.org/photos/627789225
+  author: margohj
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627789225/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-platycercus/4.jpg
+  page: https://www.inaturalist.org/photos/632844722
+  author: Hydrocycler (Elizabeth Dougherty)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632844722/original.jpg
+- file: images/apodiformes/trochilidae/selasphorus-platycercus/5.jpg
+  page: https://www.inaturalist.org/photos/636790417
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636790417/original.jpg
 ---
 
 

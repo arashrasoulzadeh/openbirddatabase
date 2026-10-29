@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/gorsachius-melanolophus/1.jpg
+  page: https://www.inaturalist.org/photos/605608796
+  author: chiuluan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605608796/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/gorsachius-melanolophus/1.jpg
+  page: https://www.inaturalist.org/photos/605608796
+  author: chiuluan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605608796/original.jpg
+- file: images/pelecaniformes/ardeidae/gorsachius-melanolophus/2.jpg
+  page: https://www.inaturalist.org/photos/604805941
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604805941/original.jpg
+- file: images/pelecaniformes/ardeidae/gorsachius-melanolophus/3.jpg
+  page: https://www.inaturalist.org/photos/608617960
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608617960/original.jpg
+- file: images/pelecaniformes/ardeidae/gorsachius-melanolophus/4.jpg
+  page: https://www.inaturalist.org/photos/606820562
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606820562/original.jpg
+- file: images/pelecaniformes/ardeidae/gorsachius-melanolophus/5.jpg
+  page: https://www.inaturalist.org/photos/608618005
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608618005/original.jpg
 ---
 
 

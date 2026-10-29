@@ -146,10 +146,43 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 43
+image:
+  file: images/ciconiiformes/ciconiidae/leptoptilos-dubius/1.jpg
+  page: https://www.inaturalist.org/photos/486733185
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486733185/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/leptoptilos-dubius/1.jpg
+  page: https://www.inaturalist.org/photos/486733185
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486733185/original.jpg
+- file: images/ciconiiformes/ciconiidae/leptoptilos-dubius/2.jpg
+  page: https://www.inaturalist.org/photos/604421161
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604421161/original.jpg
+- file: images/ciconiiformes/ciconiidae/leptoptilos-dubius/3.jpg
+  page: https://www.inaturalist.org/photos/604421170
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604421170/original.jpg
+- file: images/ciconiiformes/ciconiidae/leptoptilos-dubius/4.jpg
+  page: https://www.inaturalist.org/photos/604421178
+  author: Scott Edmunds
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604421178/original.jpg
 ---
 
 

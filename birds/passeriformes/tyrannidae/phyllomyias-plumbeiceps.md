@@ -135,8 +135,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/phyllomyias-plumbeiceps/1.jpg
+  page: https://www.inaturalist.org/photos/255878655
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255878655/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/phyllomyias-plumbeiceps/1.jpg
+  page: https://www.inaturalist.org/photos/255878655
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255878655/original.jpeg
+- file: images/passeriformes/tyrannidae/phyllomyias-plumbeiceps/2.jpg
+  page: https://www.inaturalist.org/photos/233718297
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/233718297/original.jpeg
+- file: images/passeriformes/tyrannidae/phyllomyias-plumbeiceps/3.jpg
+  page: https://www.inaturalist.org/photos/255878665
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255878665/original.jpeg
 ---
 
 

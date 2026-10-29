@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/myadestes-genibarbis/1.jpg
+  page: https://www.inaturalist.org/photos/605771950
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605771950/original.jpg
+images:
+- file: images/passeriformes/turdidae/myadestes-genibarbis/1.jpg
+  page: https://www.inaturalist.org/photos/605771950
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605771950/original.jpg
+- file: images/passeriformes/turdidae/myadestes-genibarbis/2.jpg
+  page: https://www.inaturalist.org/photos/607361499
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607361499/original.jpg
+- file: images/passeriformes/turdidae/myadestes-genibarbis/3.jpg
+  page: https://www.inaturalist.org/photos/610842377
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842377/original.jpg
+- file: images/passeriformes/turdidae/myadestes-genibarbis/4.jpg
+  page: https://www.inaturalist.org/photos/616513752
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616513752/original.jpg
+- file: images/passeriformes/turdidae/myadestes-genibarbis/5.jpg
+  page: https://www.inaturalist.org/photos/630037185
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630037185/original.jpg
 ---
 
 

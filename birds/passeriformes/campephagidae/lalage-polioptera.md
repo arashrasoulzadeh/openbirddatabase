@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/lalage-polioptera/1.jpg
+  page: https://www.inaturalist.org/photos/631792689
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631792689/original.jpg
+images:
+- file: images/passeriformes/campephagidae/lalage-polioptera/1.jpg
+  page: https://www.inaturalist.org/photos/631792689
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631792689/original.jpg
+- file: images/passeriformes/campephagidae/lalage-polioptera/2.jpg
+  page: https://www.inaturalist.org/photos/388474743
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388474743/original.jpg
+- file: images/passeriformes/campephagidae/lalage-polioptera/3.jpg
+  page: https://www.inaturalist.org/photos/581603318
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581603318/original.jpg
+- file: images/passeriformes/campephagidae/lalage-polioptera/4.jpg
+  page: https://www.inaturalist.org/photos/187664513
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187664513/original.jpg
+- file: images/passeriformes/campephagidae/lalage-polioptera/5.jpg
+  page: https://www.inaturalist.org/photos/187662505
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/187662505/original.jpg
 ---
 
 

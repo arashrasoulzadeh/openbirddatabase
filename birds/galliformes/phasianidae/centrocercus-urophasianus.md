@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/galliformes/phasianidae/centrocercus-urophasianus/1.jpg
+  page: https://www.inaturalist.org/photos/627609115
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627609115/original.jpg
+images:
+- file: images/galliformes/phasianidae/centrocercus-urophasianus/1.jpg
+  page: https://www.inaturalist.org/photos/627609115
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627609115/original.jpg
+- file: images/galliformes/phasianidae/centrocercus-urophasianus/2.jpg
+  page: https://www.inaturalist.org/photos/628561460
+  author: T. J. Samojedny
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628561460/original.jpg
+- file: images/galliformes/phasianidae/centrocercus-urophasianus/3.jpg
+  page: https://www.inaturalist.org/photos/646526934
+  author: Zach Earl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646526934/original.jpg
+- file: images/galliformes/phasianidae/centrocercus-urophasianus/4.jpg
+  page: https://www.inaturalist.org/photos/629800238
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629800238/original.jpg
+- file: images/galliformes/phasianidae/centrocercus-urophasianus/5.jpg
+  page: https://www.inaturalist.org/photos/629800375
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629800375/original.jpg
 ---
 
 

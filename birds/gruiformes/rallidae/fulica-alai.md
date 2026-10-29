@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/gruiformes/rallidae/fulica-alai/1.jpg
+  page: https://www.inaturalist.org/photos/605285727
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605285727/original.jpg
+images:
+- file: images/gruiformes/rallidae/fulica-alai/1.jpg
+  page: https://www.inaturalist.org/photos/605285727
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605285727/original.jpg
+- file: images/gruiformes/rallidae/fulica-alai/2.jpg
+  page: https://www.inaturalist.org/photos/624107503
+  author: Thompson Hyggen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624107503/original.jpg
+- file: images/gruiformes/rallidae/fulica-alai/3.jpg
+  page: https://www.inaturalist.org/photos/663128906
+  author: happyslug
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/663128906/original.jpg
+- file: images/gruiformes/rallidae/fulica-alai/4.jpg
+  page: https://www.inaturalist.org/photos/612351386
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612351386/original.jpg
+- file: images/gruiformes/rallidae/fulica-alai/5.jpg
+  page: https://www.inaturalist.org/photos/611805144
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611805144/original.jpg
 ---
 
 

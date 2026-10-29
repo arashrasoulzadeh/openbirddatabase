@@ -152,10 +152,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/ciconiiformes/ciconiidae/ephippiorhynchus-asiaticus/1.jpg
+  page: https://www.inaturalist.org/photos/623099792
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623099792/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-asiaticus/1.jpg
+  page: https://www.inaturalist.org/photos/623099792
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623099792/original.jpg
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-asiaticus/2.jpg
+  page: https://www.inaturalist.org/photos/694582279
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694582279/original.jpg
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-asiaticus/3.jpg
+  page: https://www.inaturalist.org/photos/743061458
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743061458/original.jpg
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-asiaticus/4.jpg
+  page: https://www.inaturalist.org/photos/613839944
+  author: dieterhochuli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613839944/original.jpg
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-asiaticus/5.jpg
+  page: https://www.inaturalist.org/photos/616504995
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616504995/original.jpg
 ---
 
 

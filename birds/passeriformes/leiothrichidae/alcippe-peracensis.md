@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-peracensis/1.jpg
+  page: https://www.inaturalist.org/photos/626428804
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428804/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-peracensis/1.jpg
+  page: https://www.inaturalist.org/photos/626428804
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428804/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-peracensis/2.jpg
+  page: https://www.inaturalist.org/photos/731454483
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731454483/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-peracensis/3.jpg
+  page: https://www.inaturalist.org/photos/531785083
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/531785083/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-peracensis/4.jpg
+  page: https://www.inaturalist.org/photos/626428810
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428810/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-peracensis/5.jpg
+  page: https://www.inaturalist.org/photos/731454531
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731454531/original.jpg
 ---
 
 

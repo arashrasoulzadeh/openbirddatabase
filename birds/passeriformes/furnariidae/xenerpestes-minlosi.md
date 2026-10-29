@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/xenerpestes-minlosi/1.jpg
+  page: https://www.inaturalist.org/photos/617348966
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617348966/original.jpg
+images:
+- file: images/passeriformes/furnariidae/xenerpestes-minlosi/1.jpg
+  page: https://www.inaturalist.org/photos/617348966
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617348966/original.jpg
+- file: images/passeriformes/furnariidae/xenerpestes-minlosi/2.jpg
+  page: https://www.inaturalist.org/photos/675728533
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675728533/original.jpg
+- file: images/passeriformes/furnariidae/xenerpestes-minlosi/3.jpg
+  page: https://www.inaturalist.org/photos/499244050
+  author: Diego López
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499244050/original.jpeg
+- file: images/passeriformes/furnariidae/xenerpestes-minlosi/4.jpg
+  page: https://www.inaturalist.org/photos/355978653
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/355978653/original.jpg
+- file: images/passeriformes/furnariidae/xenerpestes-minlosi/5.jpg
+  page: https://www.inaturalist.org/photos/416348933
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416348933/original.jpg
 ---
 
 

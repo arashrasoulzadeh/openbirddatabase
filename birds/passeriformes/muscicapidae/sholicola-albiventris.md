@@ -134,7 +134,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.7
@@ -142,6 +143,44 @@ morphology:
   wing_length_mm: 75.2
   tail_length_mm: 63.7
   body_mass_g: 38.5
+image:
+  file: images/passeriformes/muscicapidae/sholicola-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/382428224
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382428224/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/sholicola-albiventris/1.jpg
+  page: https://www.inaturalist.org/photos/382428224
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/382428224/original.jpeg
+- file: images/passeriformes/muscicapidae/sholicola-albiventris/2.jpg
+  page: https://www.inaturalist.org/photos/517044472
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517044472/original.jpg
+- file: images/passeriformes/muscicapidae/sholicola-albiventris/3.jpg
+  page: https://www.inaturalist.org/photos/403200734
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/403200734/original.jpg
+- file: images/passeriformes/muscicapidae/sholicola-albiventris/4.jpg
+  page: https://www.inaturalist.org/photos/267511817
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/267511817/original.jpg
+- file: images/passeriformes/muscicapidae/sholicola-albiventris/5.jpg
+  page: https://www.inaturalist.org/photos/128784060
+  author: Viral joshi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/128784060/original.jpg
 ---
 
 

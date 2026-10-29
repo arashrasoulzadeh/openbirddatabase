@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/heteronetta-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/606286839
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606286839/original.jpg
+images:
+- file: images/anseriformes/anatidae/heteronetta-atricapilla/1.jpg
+  page: https://www.inaturalist.org/photos/606286839
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606286839/original.jpg
+- file: images/anseriformes/anatidae/heteronetta-atricapilla/2.jpg
+  page: https://www.inaturalist.org/photos/611575890
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611575890/original.jpg
+- file: images/anseriformes/anatidae/heteronetta-atricapilla/3.jpg
+  page: https://www.inaturalist.org/photos/622837715
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622837715/original.jpg
+- file: images/anseriformes/anatidae/heteronetta-atricapilla/4.jpg
+  page: https://www.inaturalist.org/photos/735590934
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735590934/original.jpg
+- file: images/anseriformes/anatidae/heteronetta-atricapilla/5.jpg
+  page: https://www.inaturalist.org/photos/598168352
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598168352/original.jpg
 ---
 
 

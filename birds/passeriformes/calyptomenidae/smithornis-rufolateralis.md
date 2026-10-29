@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/calyptomenidae/smithornis-rufolateralis/1.jpg
+  page: https://www.inaturalist.org/photos/662937535
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662937535/original.jpg
+images:
+- file: images/passeriformes/calyptomenidae/smithornis-rufolateralis/1.jpg
+  page: https://www.inaturalist.org/photos/662937535
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662937535/original.jpg
+- file: images/passeriformes/calyptomenidae/smithornis-rufolateralis/2.jpg
+  page: https://www.inaturalist.org/photos/351057267
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351057267/original.png
+- file: images/passeriformes/calyptomenidae/smithornis-rufolateralis/3.jpg
+  page: https://www.inaturalist.org/photos/394124152
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394124152/original.jpg
+- file: images/passeriformes/calyptomenidae/smithornis-rufolateralis/4.jpg
+  page: https://www.inaturalist.org/photos/344682762
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344682762/original.jpeg
+- file: images/passeriformes/calyptomenidae/smithornis-rufolateralis/5.jpg
+  page: https://www.inaturalist.org/photos/662937538
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662937538/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geotrygon-caniceps/1.jpg
+  page: https://www.inaturalist.org/photos/635169800
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635169800/original.jpg
+images:
+- file: images/columbiformes/columbidae/geotrygon-caniceps/1.jpg
+  page: https://www.inaturalist.org/photos/635169800
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635169800/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-caniceps/2.jpg
+  page: https://www.inaturalist.org/photos/354230765
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354230765/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-caniceps/3.jpg
+  page: https://www.inaturalist.org/photos/419885449
+  author: Francesco Cecere
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419885449/original.jpeg
+- file: images/columbiformes/columbidae/geotrygon-caniceps/4.jpg
+  page: https://www.inaturalist.org/photos/186843791
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/186843791/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-caniceps/5.jpg
+  page: https://www.inaturalist.org/photos/571190297
+  author: InAweofGod'sCreation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571190297/original.jpg
 ---
 
 

@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/sittasomus-griseicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/605433962
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433962/original.jpg
+images:
+- file: images/passeriformes/furnariidae/sittasomus-griseicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/605433962
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605433962/original.jpg
+- file: images/passeriformes/furnariidae/sittasomus-griseicapillus/2.jpg
+  page: https://www.inaturalist.org/photos/605477895
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605477895/original.jpg
+- file: images/passeriformes/furnariidae/sittasomus-griseicapillus/3.jpg
+  page: https://www.inaturalist.org/photos/610253215
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610253215/original.jpg
+- file: images/passeriformes/furnariidae/sittasomus-griseicapillus/4.jpg
+  page: https://www.inaturalist.org/photos/610446982
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610446982/original.jpg
+- file: images/passeriformes/furnariidae/sittasomus-griseicapillus/5.jpg
+  page: https://www.inaturalist.org/photos/609350581
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609350581/original.jpg
 ---
 
 

@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/cnemotriccus-fuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/628571750
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628571750/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/cnemotriccus-fuscatus/1.jpg
+  page: https://www.inaturalist.org/photos/628571750
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628571750/original.jpg
+- file: images/passeriformes/tyrannidae/cnemotriccus-fuscatus/2.jpg
+  page: https://www.inaturalist.org/photos/630415481
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630415481/original.jpg
+- file: images/passeriformes/tyrannidae/cnemotriccus-fuscatus/3.jpg
+  page: https://www.inaturalist.org/photos/724411725
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724411725/original.jpg
+- file: images/passeriformes/tyrannidae/cnemotriccus-fuscatus/4.jpg
+  page: https://www.inaturalist.org/photos/731010263
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731010263/original.jpg
+- file: images/passeriformes/tyrannidae/cnemotriccus-fuscatus/5.jpg
+  page: https://www.inaturalist.org/photos/736134079
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736134079/original.jpg
 ---
 
 

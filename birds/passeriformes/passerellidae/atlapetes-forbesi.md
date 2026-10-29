@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-forbesi/1.jpg
+  page: https://www.inaturalist.org/photos/563738935
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563738935/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-forbesi/1.jpg
+  page: https://www.inaturalist.org/photos/563738935
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563738935/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-forbesi/2.jpg
+  page: https://www.inaturalist.org/photos/428244064
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428244064/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-forbesi/3.jpg
+  page: https://www.inaturalist.org/photos/238172013
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/238172013/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-forbesi/4.jpg
+  page: https://www.inaturalist.org/photos/239243309
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239243309/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-forbesi/5.jpg
+  page: https://www.inaturalist.org/photos/563738959
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/563738959/original.jpg
 ---
 
 

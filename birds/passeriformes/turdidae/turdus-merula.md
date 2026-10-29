@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/passeriformes/turdidae/turdus-merula/1.jpg
+  page: https://www.inaturalist.org/photos/605668791
+  author: Martin Scheidleder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605668791/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-merula/1.jpg
+  page: https://www.inaturalist.org/photos/605668791
+  author: Martin Scheidleder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605668791/original.jpg
+- file: images/passeriformes/turdidae/turdus-merula/2.jpg
+  page: https://www.inaturalist.org/photos/605325773
+  author: Ged Tranter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605325773/original.jpg
+- file: images/passeriformes/turdidae/turdus-merula/3.jpg
+  page: https://www.inaturalist.org/photos/605314265
+  author: E. A.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605314265/original.jpg
+- file: images/passeriformes/turdidae/turdus-merula/4.jpg
+  page: https://www.inaturalist.org/photos/604457617
+  author: Becky Hamilton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604457617/original.jpg
+- file: images/passeriformes/turdidae/turdus-merula/5.jpg
+  page: https://www.inaturalist.org/photos/605312141
+  author: Michel Frisch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605312141/original.jpg
 ---
 
 

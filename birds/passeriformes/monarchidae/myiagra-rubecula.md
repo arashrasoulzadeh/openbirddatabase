@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/monarchidae/myiagra-rubecula/1.jpg
+  page: https://www.inaturalist.org/photos/606117396
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606117396/original.jpg
+images:
+- file: images/passeriformes/monarchidae/myiagra-rubecula/1.jpg
+  page: https://www.inaturalist.org/photos/606117396
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606117396/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-rubecula/2.jpg
+  page: https://www.inaturalist.org/photos/605757387
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605757387/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-rubecula/3.jpg
+  page: https://www.inaturalist.org/photos/610510244
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510244/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-rubecula/4.jpg
+  page: https://www.inaturalist.org/photos/606118403
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606118403/original.jpg
+- file: images/passeriformes/monarchidae/myiagra-rubecula/5.jpg
+  page: https://www.inaturalist.org/photos/605762065
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605762065/original.jpg
 ---
 
 

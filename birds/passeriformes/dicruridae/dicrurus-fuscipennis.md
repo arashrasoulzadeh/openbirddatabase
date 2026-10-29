@@ -135,7 +135,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 31.9
@@ -143,6 +144,20 @@ morphology:
   wing_length_mm: 141.5
   tail_length_mm: 129.4
   body_mass_g: 50.5
+image:
+  file: images/passeriformes/dicruridae/dicrurus-fuscipennis/1.jpg
+  page: https://www.inaturalist.org/photos/62104073
+  author: Mikael Bauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62104073/original.jpg
+images:
+- file: images/passeriformes/dicruridae/dicrurus-fuscipennis/1.jpg
+  page: https://www.inaturalist.org/photos/62104073
+  author: Mikael Bauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62104073/original.jpg
 ---
 
 

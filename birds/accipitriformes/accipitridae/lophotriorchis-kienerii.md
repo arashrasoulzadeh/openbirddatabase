@@ -154,8 +154,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/lophotriorchis-kienerii/1.jpg
+  page: https://www.inaturalist.org/photos/614933863
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933863/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/lophotriorchis-kienerii/1.jpg
+  page: https://www.inaturalist.org/photos/614933863
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933863/original.jpg
+- file: images/accipitriformes/accipitridae/lophotriorchis-kienerii/2.jpg
+  page: https://www.inaturalist.org/photos/618390139
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618390139/original.jpg
+- file: images/accipitriformes/accipitridae/lophotriorchis-kienerii/3.jpg
+  page: https://www.inaturalist.org/photos/619190169
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619190169/original.jpg
+- file: images/accipitriformes/accipitridae/lophotriorchis-kienerii/4.jpg
+  page: https://www.inaturalist.org/photos/668597267
+  author: Andreas Manz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/668597267/original.jpg
+- file: images/accipitriformes/accipitridae/lophotriorchis-kienerii/5.jpg
+  page: https://www.inaturalist.org/photos/728393468
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728393468/original.jpg
 ---
 
 

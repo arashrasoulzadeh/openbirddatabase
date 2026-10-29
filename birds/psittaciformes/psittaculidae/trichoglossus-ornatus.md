@@ -141,7 +141,8 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 23.2
@@ -151,6 +152,26 @@ morphology:
   body_mass_g: 120.0
 demography:
   max_longevity_years: 19
+image:
+  file: images/psittaciformes/psittaculidae/trichoglossus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/526013949
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526013949/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/trichoglossus-ornatus/1.jpg
+  page: https://www.inaturalist.org/photos/526013949
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526013949/original.jpg
+- file: images/psittaciformes/psittaculidae/trichoglossus-ornatus/2.jpg
+  page: https://www.inaturalist.org/photos/339643067
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339643067/original.jpg
 ---
 
 

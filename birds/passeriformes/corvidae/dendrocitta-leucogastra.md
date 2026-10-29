@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/dendrocitta-leucogastra/1.jpg
+  page: https://www.inaturalist.org/photos/684779106
+  author: Nikhil R R
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684779106/original.jpg
+images:
+- file: images/passeriformes/corvidae/dendrocitta-leucogastra/1.jpg
+  page: https://www.inaturalist.org/photos/684779106
+  author: Nikhil R R
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684779106/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-leucogastra/2.jpg
+  page: https://www.inaturalist.org/photos/704314346
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/704314346/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-leucogastra/3.jpg
+  page: https://www.inaturalist.org/photos/713631351
+  author: Seema Merchant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713631351/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-leucogastra/4.jpg
+  page: https://www.inaturalist.org/photos/726261823
+  author: rajesh rocky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726261823/original.jpg
+- file: images/passeriformes/corvidae/dendrocitta-leucogastra/5.jpg
+  page: https://www.inaturalist.org/photos/540406934
+  author: Ashwin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540406934/original.jpg
 ---
 
 

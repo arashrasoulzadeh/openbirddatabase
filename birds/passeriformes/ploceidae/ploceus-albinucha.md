@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-albinucha/1.jpg
+  page: https://www.inaturalist.org/photos/558281479
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558281479/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-albinucha/1.jpg
+  page: https://www.inaturalist.org/photos/558281479
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558281479/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-albinucha/2.jpg
+  page: https://www.inaturalist.org/photos/344643047
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344643047/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-albinucha/3.jpg
+  page: https://www.inaturalist.org/photos/558281454
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558281454/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-albinucha/4.jpg
+  page: https://www.inaturalist.org/photos/558281536
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558281536/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-albinucha/5.jpg
+  page: https://www.inaturalist.org/photos/558281555
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558281555/original.jpg
 ---
 
 

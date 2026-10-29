@@ -185,10 +185,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/charadriiformes/laridae/larus-michahellis/1.jpg
+  page: https://www.inaturalist.org/photos/604470268
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604470268/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-michahellis/1.jpg
+  page: https://www.inaturalist.org/photos/604470268
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604470268/original.jpg
+- file: images/charadriiformes/laridae/larus-michahellis/2.jpg
+  page: https://www.inaturalist.org/photos/605365914
+  author: ANGEL MARCOS LUENGO BELLO
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605365914/original.jpg
+- file: images/charadriiformes/laridae/larus-michahellis/3.jpg
+  page: https://www.inaturalist.org/photos/605181686
+  author: Kostas Zontanos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605181686/original.jpg
+- file: images/charadriiformes/laridae/larus-michahellis/4.jpg
+  page: https://www.inaturalist.org/photos/605627660
+  author: Nico Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605627660/original.jpg
+- file: images/charadriiformes/laridae/larus-michahellis/5.jpg
+  page: https://www.inaturalist.org/photos/605303589
+  author: Giorgio Zavattoni
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605303589/original.jpg
 ---
 
 

@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-mugimaki/1.jpg
+  page: https://www.inaturalist.org/photos/616152321
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152321/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-mugimaki/1.jpg
+  page: https://www.inaturalist.org/photos/616152321
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616152321/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-mugimaki/2.jpg
+  page: https://www.inaturalist.org/photos/618849488
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849488/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-mugimaki/3.jpg
+  page: https://www.inaturalist.org/photos/734814393
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734814393/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-mugimaki/4.jpg
+  page: https://www.inaturalist.org/photos/628077353
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077353/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-mugimaki/5.jpg
+  page: https://www.inaturalist.org/photos/631337117
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631337117/original.jpg
 ---
 
 

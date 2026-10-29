@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/picumnus-spilogaster/1.jpg
+  page: https://www.inaturalist.org/photos/465801920
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465801920/original.jpg
+images:
+- file: images/piciformes/picidae/picumnus-spilogaster/1.jpg
+  page: https://www.inaturalist.org/photos/465801920
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465801920/original.jpg
+- file: images/piciformes/picidae/picumnus-spilogaster/2.jpg
+  page: https://www.inaturalist.org/photos/465705986
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465705986/original.jpeg
+- file: images/piciformes/picidae/picumnus-spilogaster/3.jpg
+  page: https://www.inaturalist.org/photos/177589936
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177589936/original.jpeg
+- file: images/piciformes/picidae/picumnus-spilogaster/4.jpg
+  page: https://www.inaturalist.org/photos/145281376
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/145281376/original.jpg
+- file: images/piciformes/picidae/picumnus-spilogaster/5.jpg
+  page: https://www.inaturalist.org/photos/465801921
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465801921/original.jpg
 ---
 
 

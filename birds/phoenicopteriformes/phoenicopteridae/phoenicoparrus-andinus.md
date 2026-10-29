@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 60
+image:
+  file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-andinus/1.jpg
+  page: https://www.inaturalist.org/photos/609717835
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609717835/original.jpg
+images:
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-andinus/1.jpg
+  page: https://www.inaturalist.org/photos/609717835
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609717835/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-andinus/2.jpg
+  page: https://www.inaturalist.org/photos/613762240
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613762240/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-andinus/3.jpg
+  page: https://www.inaturalist.org/photos/616636575
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616636575/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-andinus/4.jpg
+  page: https://www.inaturalist.org/photos/625184167
+  author: Lucas Carbone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625184167/original.jpg
+- file: images/phoenicopteriformes/phoenicopteridae/phoenicoparrus-andinus/5.jpg
+  page: https://www.inaturalist.org/photos/700221776
+  author: Jorge Herreros de Lartundo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700221776/original.jpg
 ---
 
 

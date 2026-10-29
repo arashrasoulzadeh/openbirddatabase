@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/horizocerus-albocristatus/1.jpg
+  page: https://www.inaturalist.org/photos/620321771
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620321771/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/horizocerus-albocristatus/1.jpg
+  page: https://www.inaturalist.org/photos/620321771
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620321771/original.jpg
+- file: images/bucerotiformes/bucerotidae/horizocerus-albocristatus/2.jpg
+  page: https://www.inaturalist.org/photos/661193752
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661193752/original.jpg
+- file: images/bucerotiformes/bucerotidae/horizocerus-albocristatus/3.jpg
+  page: https://www.inaturalist.org/photos/353553539
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353553539/original.png
+- file: images/bucerotiformes/bucerotidae/horizocerus-albocristatus/4.jpg
+  page: https://www.inaturalist.org/photos/394132071
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394132071/original.jpg
+- file: images/bucerotiformes/bucerotidae/horizocerus-albocristatus/5.jpg
+  page: https://www.inaturalist.org/photos/183902616
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/183902616/original.jpeg
 ---
 
 

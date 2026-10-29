@@ -183,8 +183,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/mareca-penelope/1.jpg
+  page: https://www.inaturalist.org/photos/605104217
+  author: u101125
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605104217/original.jpg
+images:
+- file: images/anseriformes/anatidae/mareca-penelope/1.jpg
+  page: https://www.inaturalist.org/photos/605104217
+  author: u101125
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605104217/original.jpg
+- file: images/anseriformes/anatidae/mareca-penelope/2.jpg
+  page: https://www.inaturalist.org/photos/604703052
+  author: Simone Littledale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604703052/original.jpg
+- file: images/anseriformes/anatidae/mareca-penelope/3.jpg
+  page: https://www.inaturalist.org/photos/605061856
+  author: L. Westerlund
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605061856/original.jpg
+- file: images/anseriformes/anatidae/mareca-penelope/4.jpg
+  page: https://www.inaturalist.org/photos/605169555
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605169555/original.jpg
+- file: images/anseriformes/anatidae/mareca-penelope/5.jpg
+  page: https://www.inaturalist.org/photos/604776530
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604776530/original.jpg
 ---
 
 

@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-natalensis/1.jpg
+  page: https://www.inaturalist.org/photos/483121678
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121678/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-natalensis/1.jpg
+  page: https://www.inaturalist.org/photos/483121678
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121678/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-natalensis/2.jpg
+  page: https://www.inaturalist.org/photos/71937117
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/71937117/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-natalensis/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6096119325214984914
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1441141/original.JPG
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-natalensis/4.jpg
+  page: https://www.inaturalist.org/photos/483121683
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483121683/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-natalensis/5.jpg
+  page: https://picasaweb.google.com/116916927065934112165/TL2Biodiversity#6095394141829800018
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/1436179/original.JPG
 ---
 
 

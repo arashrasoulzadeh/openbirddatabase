@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/turdus-nudigenis/1.jpg
+  page: https://www.inaturalist.org/photos/609062304
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609062304/original.jpg
+images:
+- file: images/passeriformes/turdidae/turdus-nudigenis/1.jpg
+  page: https://www.inaturalist.org/photos/609062304
+  author: Derek Duplessis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609062304/original.jpg
+- file: images/passeriformes/turdidae/turdus-nudigenis/2.jpg
+  page: https://www.inaturalist.org/photos/609795912
+  author: Henrry
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609795912/original.jpg
+- file: images/passeriformes/turdidae/turdus-nudigenis/3.jpg
+  page: https://www.inaturalist.org/photos/616531857
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616531857/original.jpg
+- file: images/passeriformes/turdidae/turdus-nudigenis/4.jpg
+  page: https://www.inaturalist.org/photos/618033303
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618033303/original.jpg
+- file: images/passeriformes/turdidae/turdus-nudigenis/5.jpg
+  page: https://www.inaturalist.org/photos/644840334
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644840334/original.jpg
 ---
 
 

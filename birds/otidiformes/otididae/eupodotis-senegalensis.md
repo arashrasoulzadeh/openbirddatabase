@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/eupodotis-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/684111970
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684111970/original.jpg
+images:
+- file: images/otidiformes/otididae/eupodotis-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/684111970
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684111970/original.jpg
+- file: images/otidiformes/otididae/eupodotis-senegalensis/2.jpg
+  page: https://www.inaturalist.org/photos/688490662
+  author: WaterGoat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688490662/original.jpg
+- file: images/otidiformes/otididae/eupodotis-senegalensis/3.jpg
+  page: https://www.inaturalist.org/photos/705435970
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705435970/original.jpg
+- file: images/otidiformes/otididae/eupodotis-senegalensis/4.jpg
+  page: https://www.inaturalist.org/photos/722043559
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722043559/original.jpg
+- file: images/otidiformes/otididae/eupodotis-senegalensis/5.jpg
+  page: https://www.inaturalist.org/photos/738132353
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738132353/original.jpg
 ---
 
 

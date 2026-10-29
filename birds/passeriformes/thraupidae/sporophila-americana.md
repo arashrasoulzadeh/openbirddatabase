@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-americana/1.jpg
+  page: https://www.inaturalist.org/photos/630399981
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630399981/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-americana/1.jpg
+  page: https://www.inaturalist.org/photos/630399981
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630399981/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-americana/2.jpg
+  page: https://www.inaturalist.org/photos/640986711
+  author: thomas_oswald
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640986711/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-americana/3.jpg
+  page: https://www.inaturalist.org/photos/720301822
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720301822/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-americana/4.jpg
+  page: https://www.inaturalist.org/photos/464131879
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464131879/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-americana/5.jpg
+  page: https://www.inaturalist.org/photos/465770902
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465770902/original.jpg
 ---
 
 

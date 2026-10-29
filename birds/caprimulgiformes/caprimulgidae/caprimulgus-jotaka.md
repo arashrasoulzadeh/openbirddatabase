@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-jotaka/1.jpg
+  page: https://www.inaturalist.org/photos/608606285
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608606285/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-jotaka/1.jpg
+  page: https://www.inaturalist.org/photos/608606285
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608606285/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-jotaka/2.jpg
+  page: https://www.inaturalist.org/photos/614419959
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614419959/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-jotaka/3.jpg
+  page: https://www.inaturalist.org/photos/613549330
+  author: Chen Jia Hong
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613549330/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-jotaka/4.jpg
+  page: https://www.inaturalist.org/photos/628369736
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628369736/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-jotaka/5.jpg
+  page: https://www.inaturalist.org/photos/744184917
+  author: Lihai Song
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744184917/original.jpg
 ---
 
 

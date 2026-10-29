@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/calendulauda-burra/1.jpg
+  page: https://www.inaturalist.org/photos/259473281
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259473281/original.jpeg
+images:
+- file: images/passeriformes/alaudidae/calendulauda-burra/1.jpg
+  page: https://www.inaturalist.org/photos/259473281
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259473281/original.jpeg
+- file: images/passeriformes/alaudidae/calendulauda-burra/2.jpg
+  page: https://www.inaturalist.org/photos/92970403
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92970403/original.jpeg
+- file: images/passeriformes/alaudidae/calendulauda-burra/3.jpg
+  page: https://www.inaturalist.org/photos/259473318
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259473318/original.jpeg
+- file: images/passeriformes/alaudidae/calendulauda-burra/4.jpg
+  page: https://www.inaturalist.org/photos/259473288
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259473288/original.jpeg
+- file: images/passeriformes/alaudidae/calendulauda-burra/5.jpg
+  page: https://www.inaturalist.org/photos/259473292
+  author: Mahomed Desai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259473292/original.jpeg
 ---
 
 

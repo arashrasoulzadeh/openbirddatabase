@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/brunhilda-erythronotos/1.jpg
+  page: https://www.inaturalist.org/photos/611841248
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611841248/original.jpg
+images:
+- file: images/passeriformes/estrildidae/brunhilda-erythronotos/1.jpg
+  page: https://www.inaturalist.org/photos/611841248
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611841248/original.jpg
+- file: images/passeriformes/estrildidae/brunhilda-erythronotos/2.jpg
+  page: https://www.inaturalist.org/photos/721862302
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721862302/original.jpg
+- file: images/passeriformes/estrildidae/brunhilda-erythronotos/3.jpg
+  page: https://www.inaturalist.org/photos/465992512
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465992512/original.jpeg
+- file: images/passeriformes/estrildidae/brunhilda-erythronotos/4.jpg
+  page: https://www.inaturalist.org/photos/617132277
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617132277/original.jpg
+- file: images/passeriformes/estrildidae/brunhilda-erythronotos/5.jpg
+  page: https://www.inaturalist.org/photos/617132302
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617132302/original.jpg
 ---
 
 

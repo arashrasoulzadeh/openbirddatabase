@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/fringillidae/spinus-psaltria/1.jpg
+  page: https://www.inaturalist.org/photos/605132045
+  author: mattmsa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605132045/original.jpg
+images:
+- file: images/passeriformes/fringillidae/spinus-psaltria/1.jpg
+  page: https://www.inaturalist.org/photos/605132045
+  author: mattmsa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605132045/original.jpg
+- file: images/passeriformes/fringillidae/spinus-psaltria/2.jpg
+  page: https://www.inaturalist.org/photos/604853327
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604853327/original.jpg
+- file: images/passeriformes/fringillidae/spinus-psaltria/3.jpg
+  page: https://www.inaturalist.org/photos/605676772
+  author: August T
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605676772/original.jpg
+- file: images/passeriformes/fringillidae/spinus-psaltria/4.jpg
+  page: https://www.inaturalist.org/photos/604776898
+  author: Jim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604776898/original.jpg
+- file: images/passeriformes/fringillidae/spinus-psaltria/5.jpg
+  page: https://www.inaturalist.org/photos/604648818
+  author: lightbed
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604648818/original.jpg
 ---
 
 

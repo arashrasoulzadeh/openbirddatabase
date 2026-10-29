@@ -174,10 +174,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/anseriformes/anatidae/mergus-merganser/1.jpg
+  page: https://www.inaturalist.org/photos/605340365
+  author: Sel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605340365/original.jpg
+images:
+- file: images/anseriformes/anatidae/mergus-merganser/1.jpg
+  page: https://www.inaturalist.org/photos/605340365
+  author: Sel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605340365/original.jpg
+- file: images/anseriformes/anatidae/mergus-merganser/2.jpg
+  page: https://www.inaturalist.org/photos/604756818
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604756818/original.jpg
+- file: images/anseriformes/anatidae/mergus-merganser/3.jpg
+  page: https://www.inaturalist.org/photos/605290100
+  author: Jared Shorma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605290100/original.jpg
+- file: images/anseriformes/anatidae/mergus-merganser/4.jpg
+  page: https://www.inaturalist.org/photos/604488549
+  author: Марат Адиев
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604488549/original.jpg
+- file: images/anseriformes/anatidae/mergus-merganser/5.jpg
+  page: https://www.inaturalist.org/photos/605361848
+  author: Sarah Adamson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605361848/original.jpg
 ---
 
 

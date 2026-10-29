@@ -137,7 +137,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 52.5
@@ -147,6 +148,44 @@ morphology:
   body_mass_g: 328.9
 reproduction:
   clutch_size_mean: 2.5
+image:
+  file: images/charadriiformes/laridae/ichthyaetus-leucophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/614231435
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231435/original.jpg
+images:
+- file: images/charadriiformes/laridae/ichthyaetus-leucophthalmus/1.jpg
+  page: https://www.inaturalist.org/photos/614231435
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231435/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-leucophthalmus/2.jpg
+  page: https://www.inaturalist.org/photos/627474305
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627474305/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-leucophthalmus/3.jpg
+  page: https://www.inaturalist.org/photos/703978544
+  author: relew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703978544/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-leucophthalmus/4.jpg
+  page: https://www.inaturalist.org/photos/693387308
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693387308/original.jpg
+- file: images/charadriiformes/laridae/ichthyaetus-leucophthalmus/5.jpg
+  page: https://www.inaturalist.org/photos/711467236
+  author: Martin Scheidleder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711467236/original.jpg
 ---
 
 

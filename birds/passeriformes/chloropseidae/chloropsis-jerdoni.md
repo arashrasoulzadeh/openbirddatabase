@@ -141,7 +141,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 22.0
@@ -149,6 +150,44 @@ morphology:
   wing_length_mm: 84.6
   tail_length_mm: 72.8
   body_mass_g: 24.5
+image:
+  file: images/passeriformes/chloropseidae/chloropsis-jerdoni/1.jpg
+  page: https://www.inaturalist.org/photos/607907282
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907282/original.jpg
+images:
+- file: images/passeriformes/chloropseidae/chloropsis-jerdoni/1.jpg
+  page: https://www.inaturalist.org/photos/607907282
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607907282/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-jerdoni/2.jpg
+  page: https://www.inaturalist.org/photos/615897576
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615897576/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-jerdoni/3.jpg
+  page: https://www.inaturalist.org/photos/617207687
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207687/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-jerdoni/4.jpg
+  page: https://www.inaturalist.org/photos/667615373
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667615373/original.jpg
+- file: images/passeriformes/chloropseidae/chloropsis-jerdoni/5.jpg
+  page: https://www.inaturalist.org/photos/676003701
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/676003701/original.jpg
 ---
 
 

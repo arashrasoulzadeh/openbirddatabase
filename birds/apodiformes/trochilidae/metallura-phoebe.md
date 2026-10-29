@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/metallura-phoebe/1.jpg
+  page: https://www.inaturalist.org/photos/623014677
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623014677/original.jpg
+images:
+- file: images/apodiformes/trochilidae/metallura-phoebe/1.jpg
+  page: https://www.inaturalist.org/photos/623014677
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623014677/original.jpg
+- file: images/apodiformes/trochilidae/metallura-phoebe/2.jpg
+  page: https://www.inaturalist.org/photos/614489410
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614489410/original.jpg
+- file: images/apodiformes/trochilidae/metallura-phoebe/3.jpg
+  page: https://www.inaturalist.org/photos/252564330
+  author: Jonathan Juan Chancasana Villacorta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/252564330/original.jpeg
+- file: images/apodiformes/trochilidae/metallura-phoebe/4.jpg
+  page: https://www.inaturalist.org/photos/654039006
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654039006/original.jpg
+- file: images/apodiformes/trochilidae/metallura-phoebe/5.jpg
+  page: https://www.inaturalist.org/photos/294246855
+  author: Luis Fer JP
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/294246855/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/aplonis-cantoroides/1.jpg
+  page: https://www.inaturalist.org/photos/697588396
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697588396/original.jpg
+images:
+- file: images/passeriformes/sturnidae/aplonis-cantoroides/1.jpg
+  page: https://www.inaturalist.org/photos/697588396
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697588396/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-cantoroides/2.jpg
+  page: https://www.inaturalist.org/photos/477472449
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477472449/original.jpeg
+- file: images/passeriformes/sturnidae/aplonis-cantoroides/3.jpg
+  page: https://www.inaturalist.org/photos/595370629
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595370629/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-cantoroides/4.jpg
+  page: https://www.inaturalist.org/photos/592766700
+  author: Wairambar Rainforest
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592766700/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-cantoroides/5.jpg
+  page: https://www.inaturalist.org/photos/606391613
+  author: Massimo D Eusebio
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606391613/original.jpg
 ---
 
 

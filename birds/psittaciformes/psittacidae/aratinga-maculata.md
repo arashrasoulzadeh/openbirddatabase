@@ -144,8 +144,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/aratinga-maculata/1.jpg
+  page: https://www.inaturalist.org/photos/637404118
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637404118/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/aratinga-maculata/1.jpg
+  page: https://www.inaturalist.org/photos/637404118
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637404118/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-maculata/2.jpg
+  page: https://www.inaturalist.org/photos/600436966
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600436966/original.jpg
+- file: images/psittaciformes/psittacidae/aratinga-maculata/3.jpg
+  page: https://www.inaturalist.org/photos/600436964
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600436964/original.jpg
 ---
 
 

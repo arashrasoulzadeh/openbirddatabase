@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lonchura-leucogastroides/1.jpg
+  page: https://www.inaturalist.org/photos/613539318
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613539318/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lonchura-leucogastroides/1.jpg
+  page: https://www.inaturalist.org/photos/613539318
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613539318/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-leucogastroides/2.jpg
+  page: https://www.inaturalist.org/photos/616319092
+  author: Steven Bodzin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616319092/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-leucogastroides/3.jpg
+  page: https://www.inaturalist.org/photos/619400751
+  author: buriedanimal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619400751/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-leucogastroides/4.jpg
+  page: https://www.inaturalist.org/photos/619483262
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619483262/original.jpg
+- file: images/passeriformes/estrildidae/lonchura-leucogastroides/5.jpg
+  page: https://www.inaturalist.org/photos/627451596
+  author: pittafisher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627451596/original.jpg
 ---
 
 

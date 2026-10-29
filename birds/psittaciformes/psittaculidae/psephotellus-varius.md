@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/psephotellus-varius/1.jpg
+  page: https://www.inaturalist.org/photos/608882403
+  author: Mike Youdale
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608882403/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/psephotellus-varius/1.jpg
+  page: https://www.inaturalist.org/photos/608882403
+  author: Mike Youdale
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608882403/original.jpg
+- file: images/psittaciformes/psittaculidae/psephotellus-varius/2.jpg
+  page: https://www.inaturalist.org/photos/622748645
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622748645/original.jpg
+- file: images/psittaciformes/psittaculidae/psephotellus-varius/3.jpg
+  page: https://www.inaturalist.org/photos/634621379
+  author: Hugo Innes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634621379/original.jpg
+- file: images/psittaciformes/psittaculidae/psephotellus-varius/4.jpg
+  page: https://www.inaturalist.org/photos/725604893
+  author: maxark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725604893/original.jpg
+- file: images/psittaciformes/psittaculidae/psephotellus-varius/5.jpg
+  page: https://www.inaturalist.org/photos/730200187
+  author: Josh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730200187/original.jpg
 ---
 
 

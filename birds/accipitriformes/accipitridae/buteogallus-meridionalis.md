@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/buteogallus-meridionalis/1.jpg
+  page: https://www.inaturalist.org/photos/606027216
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027216/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/buteogallus-meridionalis/1.jpg
+  page: https://www.inaturalist.org/photos/606027216
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027216/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-meridionalis/2.jpg
+  page: https://www.inaturalist.org/photos/607936430
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607936430/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-meridionalis/3.jpg
+  page: https://www.inaturalist.org/photos/609204892
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609204892/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-meridionalis/4.jpg
+  page: https://www.inaturalist.org/photos/609242704
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609242704/original.jpg
+- file: images/accipitriformes/accipitridae/buteogallus-meridionalis/5.jpg
+  page: https://www.inaturalist.org/photos/611257909
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611257909/original.jpg
 ---
 
 

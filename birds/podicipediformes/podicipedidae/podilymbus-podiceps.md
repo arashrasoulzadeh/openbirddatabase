@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/podilymbus-podiceps/1.jpg
+  page: https://www.inaturalist.org/photos/605047465
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605047465/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/podilymbus-podiceps/1.jpg
+  page: https://www.inaturalist.org/photos/605047465
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605047465/original.jpg
+- file: images/podicipediformes/podicipedidae/podilymbus-podiceps/2.jpg
+  page: https://www.inaturalist.org/photos/604684311
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604684311/original.jpg
+- file: images/podicipediformes/podicipedidae/podilymbus-podiceps/3.jpg
+  page: https://www.inaturalist.org/photos/604874983
+  author: Lythronax246
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604874983/original.jpg
+- file: images/podicipediformes/podicipedidae/podilymbus-podiceps/4.jpg
+  page: https://www.inaturalist.org/photos/605709195
+  author: ncb1221
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605709195/original.jpg
+- file: images/podicipediformes/podicipedidae/podilymbus-podiceps/5.jpg
+  page: https://www.inaturalist.org/photos/605189291
+  author: Millie Basden
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605189291/original.jpg
 ---
 
 

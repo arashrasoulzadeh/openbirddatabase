@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/sarkidiornis-sylvicola/1.jpg
+  page: https://www.inaturalist.org/photos/620746127
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620746127/original.jpg
+images:
+- file: images/anseriformes/anatidae/sarkidiornis-sylvicola/1.jpg
+  page: https://www.inaturalist.org/photos/620746127
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620746127/original.jpg
+- file: images/anseriformes/anatidae/sarkidiornis-sylvicola/2.jpg
+  page: https://www.inaturalist.org/photos/620712472
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620712472/original.jpg
+- file: images/anseriformes/anatidae/sarkidiornis-sylvicola/3.jpg
+  page: https://www.inaturalist.org/photos/628708037
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628708037/original.jpg
+- file: images/anseriformes/anatidae/sarkidiornis-sylvicola/4.jpg
+  page: https://www.inaturalist.org/photos/631142979
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631142979/original.jpg
+- file: images/anseriformes/anatidae/sarkidiornis-sylvicola/5.jpg
+  page: https://www.inaturalist.org/photos/623371417
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623371417/original.jpg
 ---
 
 

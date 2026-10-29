@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/piciformes/picidae/sphyrapicus-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/610693842
+  author: Mauricio Calderón
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610693842/original.jpg
+images:
+- file: images/piciformes/picidae/sphyrapicus-nuchalis/1.jpg
+  page: https://www.inaturalist.org/photos/610693842
+  author: Mauricio Calderón
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610693842/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-nuchalis/2.jpg
+  page: https://www.inaturalist.org/photos/608022319
+  author: emma g
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608022319/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-nuchalis/3.jpg
+  page: https://www.inaturalist.org/photos/612734809
+  author: Andy Kleinhesselink
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612734809/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-nuchalis/4.jpg
+  page: https://www.inaturalist.org/photos/614303324
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614303324/original.jpg
+- file: images/piciformes/picidae/sphyrapicus-nuchalis/5.jpg
+  page: https://www.inaturalist.org/photos/618242857
+  author: Katrina Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618242857/original.jpg
 ---
 
 

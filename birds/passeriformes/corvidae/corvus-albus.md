@@ -187,8 +187,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/corvus-albus/1.jpg
+  page: https://www.inaturalist.org/photos/611009834
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611009834/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-albus/1.jpg
+  page: https://www.inaturalist.org/photos/611009834
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611009834/original.jpg
+- file: images/passeriformes/corvidae/corvus-albus/2.jpg
+  page: https://www.inaturalist.org/photos/612780427
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612780427/original.jpg
+- file: images/passeriformes/corvidae/corvus-albus/3.jpg
+  page: https://www.inaturalist.org/photos/613371374
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613371374/original.jpg
+- file: images/passeriformes/corvidae/corvus-albus/4.jpg
+  page: https://www.inaturalist.org/photos/634783519
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634783519/original.jpg
+- file: images/passeriformes/corvidae/corvus-albus/5.jpg
+  page: https://www.inaturalist.org/photos/612780106
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612780106/original.jpg
 ---
 
 

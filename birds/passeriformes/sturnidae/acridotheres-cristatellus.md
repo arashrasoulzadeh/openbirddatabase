@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/sturnidae/acridotheres-cristatellus/1.jpg
+  page: https://www.inaturalist.org/photos/605636984
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605636984/original.jpg
+images:
+- file: images/passeriformes/sturnidae/acridotheres-cristatellus/1.jpg
+  page: https://www.inaturalist.org/photos/605636984
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605636984/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-cristatellus/2.jpg
+  page: https://www.inaturalist.org/photos/608930439
+  author: 王天明
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608930439/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-cristatellus/3.jpg
+  page: https://www.inaturalist.org/photos/606076631
+  author: Vladislav Isaev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606076631/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-cristatellus/4.jpg
+  page: https://www.inaturalist.org/photos/609903227
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609903227/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-cristatellus/5.jpg
+  page: https://www.inaturalist.org/photos/605843699
+  author: Se Lena
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605843699/original.jpg
 ---
 
 

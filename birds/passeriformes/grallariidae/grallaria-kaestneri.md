@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-kaestneri/1.jpg
+  page: https://www.inaturalist.org/photos/470149584
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470149584/original.jpeg
+images:
+- file: images/passeriformes/grallariidae/grallaria-kaestneri/1.jpg
+  page: https://www.inaturalist.org/photos/470149584
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470149584/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-kaestneri/2.jpg
+  page: https://www.inaturalist.org/photos/594687744
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594687744/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-kaestneri/3.jpg
+  page: https://www.inaturalist.org/photos/347347145
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347347145/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-kaestneri/4.jpg
+  page: https://www.inaturalist.org/photos/361090341
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361090341/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-kaestneri/5.jpg
+  page: https://www.inaturalist.org/photos/266551967
+  author: Ariel Gallego
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/266551967/original.jpeg
 ---
 
 

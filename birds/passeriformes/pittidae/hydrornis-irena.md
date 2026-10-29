@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/hydrornis-irena/1.jpg
+  page: https://www.inaturalist.org/photos/629616693
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629616693/original.jpg
+images:
+- file: images/passeriformes/pittidae/hydrornis-irena/1.jpg
+  page: https://www.inaturalist.org/photos/629616693
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629616693/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-irena/2.jpg
+  page: https://www.inaturalist.org/photos/364214671
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364214671/original.jpeg
+- file: images/passeriformes/pittidae/hydrornis-irena/3.jpg
+  page: https://www.inaturalist.org/photos/361825944
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361825944/original.jpeg
+- file: images/passeriformes/pittidae/hydrornis-irena/4.jpg
+  page: https://www.inaturalist.org/photos/255780187
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255780187/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-irena/5.jpg
+  page: https://www.inaturalist.org/photos/178444818
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178444818/original.jpeg
 ---
 
 

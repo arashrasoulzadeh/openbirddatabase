@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-meyeni/1.jpg
+  page: https://www.inaturalist.org/photos/695276799
+  author: Wang J.P.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695276799/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-meyeni/1.jpg
+  page: https://www.inaturalist.org/photos/695276799
+  author: Wang J.P.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695276799/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-meyeni/2.jpg
+  page: https://www.inaturalist.org/photos/744751213
+  author: 如此甚好
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744751213/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-meyeni/3.jpg
+  page: https://www.inaturalist.org/photos/402375107
+  author: 曾昱承 Yu-Cheng Zeng
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402375107/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-meyeni/4.jpg
+  page: https://www.inaturalist.org/photos/695276804
+  author: Wang J.P.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695276804/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-meyeni/5.jpg
+  page: https://www.inaturalist.org/photos/402375108
+  author: 曾昱承 Yu-Cheng Zeng
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402375108/original.jpeg
 ---
 
 

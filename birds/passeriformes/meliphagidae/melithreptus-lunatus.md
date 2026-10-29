@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/meliphagidae/melithreptus-lunatus/1.jpg
+  page: https://www.inaturalist.org/photos/609772569
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609772569/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/melithreptus-lunatus/1.jpg
+  page: https://www.inaturalist.org/photos/609772569
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609772569/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-lunatus/2.jpg
+  page: https://www.inaturalist.org/photos/606086744
+  author: SatNavSaysStraightOn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606086744/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-lunatus/3.jpg
+  page: https://www.inaturalist.org/photos/620517372
+  author: Sockrosma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620517372/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-lunatus/4.jpg
+  page: https://www.inaturalist.org/photos/620825343
+  author: Liam Sultana
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620825343/original.jpg
+- file: images/passeriformes/meliphagidae/melithreptus-lunatus/5.jpg
+  page: https://www.inaturalist.org/photos/609772602
+  author: Martin Predavec
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609772602/original.jpg
 ---
 
 

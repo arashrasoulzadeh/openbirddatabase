@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/malaconotidae/dryoscopus-cubla/1.jpg
+  page: https://www.inaturalist.org/photos/626260568
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626260568/original.jpg
+images:
+- file: images/passeriformes/malaconotidae/dryoscopus-cubla/1.jpg
+  page: https://www.inaturalist.org/photos/626260568
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626260568/original.jpg
+- file: images/passeriformes/malaconotidae/dryoscopus-cubla/2.jpg
+  page: https://www.inaturalist.org/photos/613963845
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613963845/original.jpg
+- file: images/passeriformes/malaconotidae/dryoscopus-cubla/3.jpg
+  page: https://www.inaturalist.org/photos/647819908
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647819908/original.jpg
+- file: images/passeriformes/malaconotidae/dryoscopus-cubla/4.jpg
+  page: https://www.inaturalist.org/photos/626261788
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626261788/original.jpg
+- file: images/passeriformes/malaconotidae/dryoscopus-cubla/5.jpg
+  page: https://www.inaturalist.org/photos/647819924
+  author: Kelly Abram
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647819924/original.jpg
 ---
 
 

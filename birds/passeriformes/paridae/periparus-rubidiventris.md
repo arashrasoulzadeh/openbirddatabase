@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/paridae/periparus-rubidiventris/1.jpg
+  page: https://www.inaturalist.org/photos/632592357
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592357/original.jpg
+images:
+- file: images/passeriformes/paridae/periparus-rubidiventris/1.jpg
+  page: https://www.inaturalist.org/photos/632592357
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632592357/original.jpg
+- file: images/passeriformes/paridae/periparus-rubidiventris/2.jpg
+  page: https://www.inaturalist.org/photos/660816717
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660816717/original.jpg
+- file: images/passeriformes/paridae/periparus-rubidiventris/3.jpg
+  page: https://www.inaturalist.org/photos/633028009
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633028009/original.jpg
+- file: images/passeriformes/paridae/periparus-rubidiventris/4.jpg
+  page: https://www.inaturalist.org/photos/633028025
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633028025/original.jpg
+- file: images/passeriformes/paridae/periparus-rubidiventris/5.jpg
+  page: https://www.inaturalist.org/photos/633025008
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633025008/original.jpg
 ---
 
 

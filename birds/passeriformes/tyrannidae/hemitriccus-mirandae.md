@@ -133,8 +133,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/hemitriccus-mirandae/1.jpg
+  page: https://www.inaturalist.org/photos/343569819
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343569819/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/hemitriccus-mirandae/1.jpg
+  page: https://www.inaturalist.org/photos/343569819
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343569819/original.jpeg
+- file: images/passeriformes/tyrannidae/hemitriccus-mirandae/2.jpg
+  page: https://www.inaturalist.org/photos/240589379
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240589379/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-mirandae/3.jpg
+  page: https://www.inaturalist.org/photos/171367522
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/171367522/original.jpg
+- file: images/passeriformes/tyrannidae/hemitriccus-mirandae/4.jpg
+  page: https://www.inaturalist.org/photos/591152234
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591152234/original.jpg
 ---
 
 

@@ -192,10 +192,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/piciformes/picidae/picus-canus/1.jpg
+  page: https://www.inaturalist.org/photos/605316598
+  author: Marina Potapova
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605316598/original.jpg
+images:
+- file: images/piciformes/picidae/picus-canus/1.jpg
+  page: https://www.inaturalist.org/photos/605316598
+  author: Marina Potapova
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605316598/original.jpg
+- file: images/piciformes/picidae/picus-canus/2.jpg
+  page: https://www.inaturalist.org/photos/604694114
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604694114/original.jpg
+- file: images/piciformes/picidae/picus-canus/3.jpg
+  page: https://www.inaturalist.org/photos/604556562
+  author: Margarita Dorofeeva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604556562/original.jpg
+- file: images/piciformes/picidae/picus-canus/4.jpg
+  page: https://www.inaturalist.org/photos/604827948
+  author: polina567
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604827948/original.jpg
+- file: images/piciformes/picidae/picus-canus/5.jpg
+  page: https://www.inaturalist.org/photos/605316610
+  author: Marina Potapova
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605316610/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/xenotriccus-callizonus/1.jpg
+  page: https://www.inaturalist.org/photos/485311769
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485311769/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/xenotriccus-callizonus/1.jpg
+  page: https://www.inaturalist.org/photos/485311769
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/485311769/original.jpeg
+- file: images/passeriformes/tyrannidae/xenotriccus-callizonus/2.jpg
+  page: https://www.inaturalist.org/photos/153154363
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153154363/original.jpeg
+- file: images/passeriformes/tyrannidae/xenotriccus-callizonus/3.jpg
+  page: https://www.inaturalist.org/photos/61522477
+  author: Mark Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/61522477/original.jpg
+- file: images/passeriformes/tyrannidae/xenotriccus-callizonus/4.jpg
+  page: https://www.inaturalist.org/photos/93232819
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/93232819/original.jpeg
+- file: images/passeriformes/tyrannidae/xenotriccus-callizonus/5.jpg
+  page: https://www.inaturalist.org/photos/153154468
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153154468/original.jpeg
 ---
 
 

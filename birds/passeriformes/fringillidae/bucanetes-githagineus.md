@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/bucanetes-githagineus/1.jpg
+  page: https://www.inaturalist.org/photos/611384664
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611384664/original.jpg
+images:
+- file: images/passeriformes/fringillidae/bucanetes-githagineus/1.jpg
+  page: https://www.inaturalist.org/photos/611384664
+  author: Michael Bakker Paiva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611384664/original.jpg
+- file: images/passeriformes/fringillidae/bucanetes-githagineus/2.jpg
+  page: https://www.inaturalist.org/photos/614478597
+  author: Christian Berg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614478597/original.jpg
+- file: images/passeriformes/fringillidae/bucanetes-githagineus/3.jpg
+  page: https://www.inaturalist.org/photos/620425164
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620425164/original.jpg
+- file: images/passeriformes/fringillidae/bucanetes-githagineus/4.jpg
+  page: https://www.inaturalist.org/photos/623391407
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623391407/original.jpg
+- file: images/passeriformes/fringillidae/bucanetes-githagineus/5.jpg
+  page: https://www.inaturalist.org/photos/623237230
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623237230/original.jpg
 ---
 
 

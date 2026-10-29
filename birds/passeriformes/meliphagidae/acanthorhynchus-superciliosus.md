@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/passeriformes/meliphagidae/acanthorhynchus-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/610539851
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610539851/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/acanthorhynchus-superciliosus/1.jpg
+  page: https://www.inaturalist.org/photos/610539851
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610539851/original.jpg
+- file: images/passeriformes/meliphagidae/acanthorhynchus-superciliosus/2.jpg
+  page: https://www.inaturalist.org/photos/651292943
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651292943/original.jpg
+- file: images/passeriformes/meliphagidae/acanthorhynchus-superciliosus/3.jpg
+  page: https://www.inaturalist.org/photos/685728380
+  author: Paul Winthrop
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685728380/original.jpg
+- file: images/passeriformes/meliphagidae/acanthorhynchus-superciliosus/4.jpg
+  page: https://www.inaturalist.org/photos/610539864
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610539864/original.jpg
+- file: images/passeriformes/meliphagidae/acanthorhynchus-superciliosus/5.jpg
+  page: https://www.inaturalist.org/photos/610539872
+  author: Tyler Anthony
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610539872/original.jpg
 ---
 
 

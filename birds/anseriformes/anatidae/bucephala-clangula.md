@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/anseriformes/anatidae/bucephala-clangula/1.jpg
+  page: https://www.inaturalist.org/photos/605573819
+  author: Chris Fluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605573819/original.jpg
+images:
+- file: images/anseriformes/anatidae/bucephala-clangula/1.jpg
+  page: https://www.inaturalist.org/photos/605573819
+  author: Chris Fluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605573819/original.jpg
+- file: images/anseriformes/anatidae/bucephala-clangula/2.jpg
+  page: https://www.inaturalist.org/photos/605153285
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605153285/original.jpg
+- file: images/anseriformes/anatidae/bucephala-clangula/3.jpg
+  page: https://www.inaturalist.org/photos/604958936
+  author: Therese Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604958936/original.jpg
+- file: images/anseriformes/anatidae/bucephala-clangula/4.jpg
+  page: https://www.inaturalist.org/photos/605375339
+  author: Thomas Ebner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605375339/original.jpg
+- file: images/anseriformes/anatidae/bucephala-clangula/5.jpg
+  page: https://www.inaturalist.org/photos/604891879
+  author: Dominique Menard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604891879/original.jpg
 ---
 
 

@@ -188,10 +188,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/sturnidae/acridotheres-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/605561701
+  author: Eugene Eric Kim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605561701/original.jpg
+images:
+- file: images/passeriformes/sturnidae/acridotheres-tristis/1.jpg
+  page: https://www.inaturalist.org/photos/605561701
+  author: Eugene Eric Kim
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605561701/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-tristis/2.jpg
+  page: https://www.inaturalist.org/photos/604659927
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604659927/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-tristis/3.jpg
+  page: https://www.inaturalist.org/photos/605636885
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605636885/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-tristis/4.jpg
+  page: https://www.inaturalist.org/photos/604897095
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604897095/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-tristis/5.jpg
+  page: https://www.inaturalist.org/photos/605018171
+  author: Scott
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605018171/original.jpg
 ---
 
 

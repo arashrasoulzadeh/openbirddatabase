@@ -123,7 +123,8 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.8
@@ -135,6 +136,44 @@ demography:
   max_longevity_years: 18
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/petroicidae/eopsaltria-georgiana/1.jpg
+  page: https://www.inaturalist.org/photos/620473591
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473591/original.jpg
+images:
+- file: images/passeriformes/petroicidae/eopsaltria-georgiana/1.jpg
+  page: https://www.inaturalist.org/photos/620473591
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473591/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-georgiana/2.jpg
+  page: https://www.inaturalist.org/photos/624924520
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624924520/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-georgiana/3.jpg
+  page: https://www.inaturalist.org/photos/636396066
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636396066/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-georgiana/4.jpg
+  page: https://www.inaturalist.org/photos/651292969
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651292969/original.jpg
+- file: images/passeriformes/petroicidae/eopsaltria-georgiana/5.jpg
+  page: https://www.inaturalist.org/photos/620473599
+  author: Enrica Longo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620473599/original.jpg
 ---
 
 

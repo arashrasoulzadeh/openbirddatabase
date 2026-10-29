@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/galliformes/phasianidae/tetrastes-bonasia/1.jpg
+  page: https://www.inaturalist.org/photos/605355433
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605355433/original.jpg
+images:
+- file: images/galliformes/phasianidae/tetrastes-bonasia/1.jpg
+  page: https://www.inaturalist.org/photos/605355433
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605355433/original.jpg
+- file: images/galliformes/phasianidae/tetrastes-bonasia/2.jpg
+  page: https://www.inaturalist.org/photos/696768246
+  author: Andrejus Gaidamavičius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696768246/original.jpg
+- file: images/galliformes/phasianidae/tetrastes-bonasia/3.jpg
+  page: https://www.inaturalist.org/photos/624885206
+  author: Настя Бухвалова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624885206/original.jpg
+- file: images/galliformes/phasianidae/tetrastes-bonasia/4.jpg
+  page: https://www.inaturalist.org/photos/624887641
+  author: Axel Gudmundsson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624887641/original.jpg
+- file: images/galliformes/phasianidae/tetrastes-bonasia/5.jpg
+  page: https://www.inaturalist.org/photos/624873117
+  author: Александр Краснов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624873117/original.jpg
 ---
 
 

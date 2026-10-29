@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-erythrorhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/608595648
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608595648/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-erythrorhynchos/1.jpg
+  page: https://www.inaturalist.org/photos/608595648
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608595648/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-erythrorhynchos/2.jpg
+  page: https://www.inaturalist.org/photos/621708448
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621708448/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-erythrorhynchos/3.jpg
+  page: https://www.inaturalist.org/photos/615894292
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615894292/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-erythrorhynchos/4.jpg
+  page: https://www.inaturalist.org/photos/615433353
+  author: Egor Dyukarev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615433353/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-erythrorhynchos/5.jpg
+  page: https://www.inaturalist.org/photos/616589113
+  author: kumarkv
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616589113/original.jpg
 ---
 
 

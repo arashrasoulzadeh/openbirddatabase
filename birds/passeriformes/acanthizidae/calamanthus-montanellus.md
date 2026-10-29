@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthizidae/calamanthus-montanellus/1.jpg
+  page: https://www.inaturalist.org/photos/495032100
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495032100/original.jpeg
+images:
+- file: images/passeriformes/acanthizidae/calamanthus-montanellus/1.jpg
+  page: https://www.inaturalist.org/photos/495032100
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495032100/original.jpeg
+- file: images/passeriformes/acanthizidae/calamanthus-montanellus/2.jpg
+  page: https://www.inaturalist.org/photos/469402654
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469402654/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-montanellus/3.jpg
+  page: https://www.inaturalist.org/photos/92807077
+  author: Cal Wood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/92807077/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-montanellus/4.jpg
+  page: https://www.inaturalist.org/photos/247831350
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/247831350/original.jpg
+- file: images/passeriformes/acanthizidae/calamanthus-montanellus/5.jpg
+  page: https://www.inaturalist.org/photos/495032931
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495032931/original.jpeg
 ---
 
 

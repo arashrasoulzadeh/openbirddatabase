@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 17
+image:
+  file: images/anseriformes/anatidae/anas-gibberifrons/1.jpg
+  page: https://www.inaturalist.org/photos/617745280
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617745280/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-gibberifrons/1.jpg
+  page: https://www.inaturalist.org/photos/617745280
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617745280/original.jpg
+- file: images/anseriformes/anatidae/anas-gibberifrons/2.jpg
+  page: https://www.inaturalist.org/photos/673237137
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/673237137/original.jpg
+- file: images/anseriformes/anatidae/anas-gibberifrons/3.jpg
+  page: https://www.inaturalist.org/photos/723443852
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723443852/original.jpg
+- file: images/anseriformes/anatidae/anas-gibberifrons/4.jpg
+  page: https://www.inaturalist.org/photos/525998167
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525998167/original.jpg
+- file: images/anseriformes/anatidae/anas-gibberifrons/5.jpg
+  page: https://www.inaturalist.org/photos/505310817
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/505310817/original.jpg
 ---
 
 

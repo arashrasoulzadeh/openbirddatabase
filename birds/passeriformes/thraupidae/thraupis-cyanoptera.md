@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 17.9
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 96.1
   tail_length_mm: 66.5
   body_mass_g: 43.3
+image:
+  file: images/passeriformes/thraupidae/thraupis-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605697033
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697033/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thraupis-cyanoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605697033
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697033/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-cyanoptera/2.jpg
+  page: https://www.inaturalist.org/photos/610838675
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610838675/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-cyanoptera/3.jpg
+  page: https://www.inaturalist.org/photos/725261348
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725261348/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-cyanoptera/4.jpg
+  page: https://www.inaturalist.org/photos/642099628
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642099628/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-cyanoptera/5.jpg
+  page: https://www.inaturalist.org/photos/641660702
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641660702/original.jpg
 ---
 
 

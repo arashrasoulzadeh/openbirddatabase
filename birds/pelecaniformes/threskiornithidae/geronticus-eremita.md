@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 33
+image:
+  file: images/pelecaniformes/threskiornithidae/geronticus-eremita/1.jpg
+  page: https://www.inaturalist.org/photos/610950311
+  author: Riccardo Riva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610950311/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/geronticus-eremita/1.jpg
+  page: https://www.inaturalist.org/photos/610950311
+  author: Riccardo Riva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610950311/original.jpg
+- file: images/pelecaniformes/threskiornithidae/geronticus-eremita/2.jpg
+  page: https://www.inaturalist.org/photos/612503252
+  author: franciscodocampo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612503252/original.jpg
+- file: images/pelecaniformes/threskiornithidae/geronticus-eremita/3.jpg
+  page: https://www.inaturalist.org/photos/620089604
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620089604/original.jpg
+- file: images/pelecaniformes/threskiornithidae/geronticus-eremita/4.jpg
+  page: https://www.inaturalist.org/photos/618674310
+  author: Adi Peter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618674310/original.jpg
+- file: images/pelecaniformes/threskiornithidae/geronticus-eremita/5.jpg
+  page: https://www.inaturalist.org/photos/630163456
+  author: Debora Barbato
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630163456/original.jpg
 ---
 
 

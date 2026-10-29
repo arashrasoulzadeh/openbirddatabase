@@ -132,7 +132,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.1
@@ -142,6 +143,44 @@ morphology:
   body_mass_g: 45.0
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/thraupidae/thraupis-abbas/1.jpg
+  page: https://www.inaturalist.org/photos/610856185
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610856185/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thraupis-abbas/1.jpg
+  page: https://www.inaturalist.org/photos/610856185
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610856185/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-abbas/2.jpg
+  page: https://www.inaturalist.org/photos/615387155
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615387155/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-abbas/3.jpg
+  page: https://www.inaturalist.org/photos/605918742
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605918742/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-abbas/4.jpg
+  page: https://www.inaturalist.org/photos/605553373
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605553373/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-abbas/5.jpg
+  page: https://www.inaturalist.org/photos/624035602
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624035602/original.jpg
 ---
 
 

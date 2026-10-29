@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-lateralis/1.jpg
+  page: https://www.inaturalist.org/photos/565648852
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565648852/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-lateralis/1.jpg
+  page: https://www.inaturalist.org/photos/565648852
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565648852/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lateralis/2.jpg
+  page: https://www.inaturalist.org/photos/218738820
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218738820/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-lateralis/3.jpg
+  page: https://www.inaturalist.org/photos/218158558
+  author: Ricardo Lima
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218158558/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-lateralis/4.jpg
+  page: https://www.inaturalist.org/photos/219492433
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/219492433/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-lateralis/5.jpg
+  page: https://www.inaturalist.org/photos/565648854
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/565648854/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/rhynchospiza-strigiceps/1.jpg
+  page: https://www.inaturalist.org/photos/657197102
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657197102/original.jpg
+images:
+- file: images/passeriformes/passerellidae/rhynchospiza-strigiceps/1.jpg
+  page: https://www.inaturalist.org/photos/657197102
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657197102/original.jpg
+- file: images/passeriformes/passerellidae/rhynchospiza-strigiceps/2.jpg
+  page: https://www.inaturalist.org/photos/481684145
+  author: Leonel Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481684145/original.jpeg
+- file: images/passeriformes/passerellidae/rhynchospiza-strigiceps/3.jpg
+  page: https://www.inaturalist.org/photos/593121267
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593121267/original.jpg
+- file: images/passeriformes/passerellidae/rhynchospiza-strigiceps/4.jpg
+  page: https://www.inaturalist.org/photos/600095576
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600095576/original.jpg
+- file: images/passeriformes/passerellidae/rhynchospiza-strigiceps/5.jpg
+  page: https://www.inaturalist.org/photos/379180627
+  author: Eduardo Luis Beltrocco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/379180627/original.jpeg
 ---
 
 

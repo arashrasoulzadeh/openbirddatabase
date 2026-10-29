@@ -136,7 +136,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.9
@@ -144,6 +145,44 @@ morphology:
   wing_length_mm: 77.1
   tail_length_mm: 42.2
   body_mass_g: 16.3
+image:
+  file: images/passeriformes/sittidae/sitta-azurea/1.jpg
+  page: https://www.inaturalist.org/photos/613435274
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435274/original.jpg
+images:
+- file: images/passeriformes/sittidae/sitta-azurea/1.jpg
+  page: https://www.inaturalist.org/photos/613435274
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435274/original.jpg
+- file: images/passeriformes/sittidae/sitta-azurea/2.jpg
+  page: https://www.inaturalist.org/photos/618851654
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851654/original.jpg
+- file: images/passeriformes/sittidae/sitta-azurea/3.jpg
+  page: https://www.inaturalist.org/photos/628077140
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628077140/original.jpg
+- file: images/passeriformes/sittidae/sitta-azurea/4.jpg
+  page: https://www.inaturalist.org/photos/465844267
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465844267/original.jpeg
+- file: images/passeriformes/sittidae/sitta-azurea/5.jpg
+  page: https://www.inaturalist.org/photos/569152872
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569152872/original.jpg
 ---
 
 

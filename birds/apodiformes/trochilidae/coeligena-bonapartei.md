@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-bonapartei/1.jpg
+  page: https://www.inaturalist.org/photos/489328515
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489328515/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-bonapartei/1.jpg
+  page: https://www.inaturalist.org/photos/489328515
+  author: RJ Baltierra
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/489328515/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-bonapartei/2.jpg
+  page: https://www.inaturalist.org/photos/560151546
+  author: Nicolás Baresch Uribe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/560151546/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-bonapartei/3.jpg
+  page: https://www.inaturalist.org/photos/593719956
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/593719956/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-bonapartei/4.jpg
+  page: https://www.inaturalist.org/photos/442081050
+  author: GERMAN LEONEL SARMIENTO CRUZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442081050/original.jpeg
+- file: images/apodiformes/trochilidae/coeligena-bonapartei/5.jpg
+  page: https://www.inaturalist.org/photos/454983864
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454983864/original.jpeg
 ---
 
 

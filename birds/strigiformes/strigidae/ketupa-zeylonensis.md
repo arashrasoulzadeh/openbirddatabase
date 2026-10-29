@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ketupa-zeylonensis/1.jpg
+  page: https://www.inaturalist.org/photos/621718049
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621718049/original.jpg
+images:
+- file: images/strigiformes/strigidae/ketupa-zeylonensis/1.jpg
+  page: https://www.inaturalist.org/photos/621718049
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621718049/original.jpg
+- file: images/strigiformes/strigidae/ketupa-zeylonensis/2.jpg
+  page: https://www.inaturalist.org/photos/688458271
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688458271/original.jpg
+- file: images/strigiformes/strigidae/ketupa-zeylonensis/3.jpg
+  page: https://www.inaturalist.org/photos/617422390
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617422390/original.jpg
+- file: images/strigiformes/strigidae/ketupa-zeylonensis/4.jpg
+  page: https://www.inaturalist.org/photos/624664107
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624664107/original.jpg
+- file: images/strigiformes/strigidae/ketupa-zeylonensis/5.jpg
+  page: https://www.inaturalist.org/photos/638539387
+  author: Шальнов Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638539387/original.jpg
 ---
 
 

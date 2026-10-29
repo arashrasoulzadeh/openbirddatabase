@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/bangsia-rothschildi/1.jpg
+  page: https://www.inaturalist.org/photos/104826661
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826661/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/bangsia-rothschildi/1.jpg
+  page: https://www.inaturalist.org/photos/104826661
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826661/original.jpeg
+- file: images/passeriformes/thraupidae/bangsia-rothschildi/2.jpg
+  page: https://www.inaturalist.org/photos/26783140
+  author: Norma Malinowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/26783140/original.jpeg
+- file: images/passeriformes/thraupidae/bangsia-rothschildi/3.jpg
+  page: https://www.inaturalist.org/photos/104826665
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826665/original.jpeg
+- file: images/passeriformes/thraupidae/bangsia-rothschildi/4.jpg
+  page: https://www.inaturalist.org/photos/104826669
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826669/original.jpeg
+- file: images/passeriformes/thraupidae/bangsia-rothschildi/5.jpg
+  page: https://www.inaturalist.org/photos/104826674
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104826674/original.jpeg
 ---
 
 

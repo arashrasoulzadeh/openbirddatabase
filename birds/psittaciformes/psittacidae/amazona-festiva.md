@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/psittaciformes/psittacidae/amazona-festiva/1.jpg
+  page: https://www.inaturalist.org/photos/612558216
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612558216/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-festiva/1.jpg
+  page: https://www.inaturalist.org/photos/612558216
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612558216/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-festiva/2.jpg
+  page: https://www.inaturalist.org/photos/652471169
+  author: Matheus Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652471169/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-festiva/3.jpg
+  page: https://www.inaturalist.org/photos/744794470
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744794470/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-festiva/4.jpg
+  page: https://www.inaturalist.org/photos/466509599
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466509599/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-festiva/5.jpg
+  page: https://www.inaturalist.org/photos/474995226
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474995226/original.jpg
 ---
 
 

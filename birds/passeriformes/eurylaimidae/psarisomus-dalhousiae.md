@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/eurylaimidae/psarisomus-dalhousiae/1.jpg
+  page: https://www.inaturalist.org/photos/629222381
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629222381/original.jpg
+images:
+- file: images/passeriformes/eurylaimidae/psarisomus-dalhousiae/1.jpg
+  page: https://www.inaturalist.org/photos/629222381
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629222381/original.jpg
+- file: images/passeriformes/eurylaimidae/psarisomus-dalhousiae/2.jpg
+  page: https://www.inaturalist.org/photos/670391560
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670391560/original.jpg
+- file: images/passeriformes/eurylaimidae/psarisomus-dalhousiae/3.jpg
+  page: https://www.inaturalist.org/photos/629774407
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629774407/original.jpg
+- file: images/passeriformes/eurylaimidae/psarisomus-dalhousiae/4.jpg
+  page: https://www.inaturalist.org/photos/642765270
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642765270/original.jpg
+- file: images/passeriformes/eurylaimidae/psarisomus-dalhousiae/5.jpg
+  page: https://www.inaturalist.org/photos/638546138
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638546138/original.jpg
 ---
 
 

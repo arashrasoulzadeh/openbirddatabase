@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/laterallus-spilonota/1.jpg
+  page: https://www.inaturalist.org/photos/610788906
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610788906/original.jpg
+images:
+- file: images/gruiformes/rallidae/laterallus-spilonota/1.jpg
+  page: https://www.inaturalist.org/photos/610788906
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610788906/original.jpg
+- file: images/gruiformes/rallidae/laterallus-spilonota/2.jpg
+  page: https://www.inaturalist.org/photos/474191049
+  author: Wes Gapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474191049/original.jpeg
+- file: images/gruiformes/rallidae/laterallus-spilonota/3.jpg
+  page: https://www.inaturalist.org/photos/339600312
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339600312/original.jpg
+- file: images/gruiformes/rallidae/laterallus-spilonota/4.jpg
+  page: https://www.inaturalist.org/photos/109976438
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/109976438/original.jpeg
+- file: images/gruiformes/rallidae/laterallus-spilonota/5.jpg
+  page: https://www.inaturalist.org/photos/339398863
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339398863/original.jpg
 ---
 
 

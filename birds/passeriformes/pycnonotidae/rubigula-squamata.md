@@ -122,7 +122,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 14.4
@@ -130,6 +131,44 @@ morphology:
   wing_length_mm: 73.8
   tail_length_mm: 60.2
   body_mass_g: 22.0
+image:
+  file: images/passeriformes/pycnonotidae/rubigula-squamata/1.jpg
+  page: https://www.inaturalist.org/photos/629865740
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629865740/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/rubigula-squamata/1.jpg
+  page: https://www.inaturalist.org/photos/629865740
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629865740/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-squamata/2.jpg
+  page: https://www.inaturalist.org/photos/739495695
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495695/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-squamata/3.jpg
+  page: https://www.inaturalist.org/photos/624192632
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624192632/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-squamata/4.jpg
+  page: https://www.inaturalist.org/photos/599186233
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599186233/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-squamata/5.jpg
+  page: https://www.inaturalist.org/photos/456960293
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456960293/original.jpeg
 ---
 
 

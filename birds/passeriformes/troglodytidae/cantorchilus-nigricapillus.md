@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/cantorchilus-nigricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/608657501
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608657501/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/cantorchilus-nigricapillus/1.jpg
+  page: https://www.inaturalist.org/photos/608657501
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608657501/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-nigricapillus/2.jpg
+  page: https://www.inaturalist.org/photos/612919848
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612919848/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-nigricapillus/3.jpg
+  page: https://www.inaturalist.org/photos/618566598
+  author: Andre Knocklein
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618566598/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-nigricapillus/4.jpg
+  page: https://www.inaturalist.org/photos/623006656
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623006656/original.jpg
+- file: images/passeriformes/troglodytidae/cantorchilus-nigricapillus/5.jpg
+  page: https://www.inaturalist.org/photos/623053470
+  author: Eric Klug
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623053470/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-tenuepunctatus/1.jpg
+  page: https://www.inaturalist.org/photos/549146698
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549146698/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-tenuepunctatus/1.jpg
+  page: https://www.inaturalist.org/photos/549146698
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549146698/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-tenuepunctatus/2.jpg
+  page: https://www.inaturalist.org/photos/352319271
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352319271/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-tenuepunctatus/3.jpg
+  page: https://www.inaturalist.org/photos/328012588
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/328012588/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-tenuepunctatus/4.jpg
+  page: https://www.inaturalist.org/photos/168091623
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/168091623/original.jpeg
+- file: images/passeriformes/thamnophilidae/thamnophilus-tenuepunctatus/5.jpg
+  page: https://www.inaturalist.org/photos/153877806
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/153877806/original.jpg
 ---
 
 

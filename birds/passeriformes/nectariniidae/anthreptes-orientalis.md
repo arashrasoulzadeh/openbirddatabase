@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/anthreptes-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/678048250
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678048250/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/anthreptes-orientalis/1.jpg
+  page: https://www.inaturalist.org/photos/678048250
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678048250/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-orientalis/2.jpg
+  page: https://www.inaturalist.org/photos/721998351
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721998351/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-orientalis/3.jpg
+  page: https://www.inaturalist.org/photos/721441956
+  author: Daniel Benák
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721441956/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-orientalis/4.jpg
+  page: https://www.inaturalist.org/photos/585242561
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585242561/original.jpg
+- file: images/passeriformes/nectariniidae/anthreptes-orientalis/5.jpg
+  page: https://www.inaturalist.org/photos/589556435
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589556435/original.jpg
 ---
 
 

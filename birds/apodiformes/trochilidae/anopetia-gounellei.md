@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/anopetia-gounellei/1.jpg
+  page: https://www.inaturalist.org/photos/436515833
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436515833/original.jpeg
+images:
+- file: images/apodiformes/trochilidae/anopetia-gounellei/1.jpg
+  page: https://www.inaturalist.org/photos/436515833
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/436515833/original.jpeg
+- file: images/apodiformes/trochilidae/anopetia-gounellei/2.jpg
+  page: https://www.inaturalist.org/photos/343203613
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343203613/original.jpeg
+- file: images/apodiformes/trochilidae/anopetia-gounellei/3.jpg
+  page: https://www.inaturalist.org/photos/240597750
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240597750/original.jpg
+- file: images/apodiformes/trochilidae/anopetia-gounellei/4.jpg
+  page: https://www.inaturalist.org/photos/349457603
+  author: Renato Bandeira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349457603/original.jpeg
+- file: images/apodiformes/trochilidae/anopetia-gounellei/5.jpg
+  page: https://www.inaturalist.org/photos/607815087
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607815087/original.jpg
 ---
 
 

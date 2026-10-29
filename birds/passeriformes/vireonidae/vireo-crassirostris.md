@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireo-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/608009003
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608009003/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/608009003
+  author: Grete Pasch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608009003/original.jpg
+- file: images/passeriformes/vireonidae/vireo-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/617623347
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617623347/original.jpg
+- file: images/passeriformes/vireonidae/vireo-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/480509168
+  author: Dan Schofield
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480509168/original.jpg
+- file: images/passeriformes/vireonidae/vireo-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/509465515
+  author: Dennis Vollmar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509465515/original.jpg
+- file: images/passeriformes/vireonidae/vireo-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/602401518
+  author: Aidan Broome
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602401518/original.jpg
 ---
 
 

@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/thlypopsis-pyrrhocoma/1.jpg
+  page: https://www.inaturalist.org/photos/682301954
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682301954/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thlypopsis-pyrrhocoma/1.jpg
+  page: https://www.inaturalist.org/photos/682301954
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682301954/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-pyrrhocoma/2.jpg
+  page: https://www.inaturalist.org/photos/729393957
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729393957/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-pyrrhocoma/3.jpg
+  page: https://www.inaturalist.org/photos/743421503
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743421503/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-pyrrhocoma/4.jpg
+  page: https://www.inaturalist.org/photos/509705594
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/509705594/original.jpg
+- file: images/passeriformes/thraupidae/thlypopsis-pyrrhocoma/5.jpg
+  page: https://www.inaturalist.org/photos/545039589
+  author: Bruno Luka de Souza Bambirra Silveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/545039589/original.jpg
 ---
 
 

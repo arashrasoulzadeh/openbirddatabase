@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/gruiformes/rallidae/crex-crex/1.jpg
+  page: https://www.inaturalist.org/photos/658065314
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658065314/original.jpg
+images:
+- file: images/gruiformes/rallidae/crex-crex/1.jpg
+  page: https://www.inaturalist.org/photos/658065314
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658065314/original.jpg
+- file: images/gruiformes/rallidae/crex-crex/2.jpg
+  page: https://www.inaturalist.org/photos/661549455
+  author: Борис Георги
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661549455/original.jpg
+- file: images/gruiformes/rallidae/crex-crex/3.jpg
+  page: https://www.inaturalist.org/photos/660844105
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660844105/original.jpg
+- file: images/gruiformes/rallidae/crex-crex/4.jpg
+  page: https://www.inaturalist.org/photos/659489759
+  author: Рустам Сафаргалиев
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659489759/original.jpg
+- file: images/gruiformes/rallidae/crex-crex/5.jpg
+  page: https://www.inaturalist.org/photos/660945803
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660945803/original.jpg
 ---
 
 

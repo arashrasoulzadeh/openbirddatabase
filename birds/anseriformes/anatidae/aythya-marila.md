@@ -175,10 +175,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/anseriformes/anatidae/aythya-marila/1.jpg
+  page: https://www.inaturalist.org/photos/605733314
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605733314/original.jpg
+images:
+- file: images/anseriformes/anatidae/aythya-marila/1.jpg
+  page: https://www.inaturalist.org/photos/605733314
+  author: Tom Kennedy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605733314/original.jpg
+- file: images/anseriformes/anatidae/aythya-marila/2.jpg
+  page: https://www.inaturalist.org/photos/604495671
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604495671/original.jpg
+- file: images/anseriformes/anatidae/aythya-marila/3.jpg
+  page: https://www.inaturalist.org/photos/605218818
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605218818/original.jpg
+- file: images/anseriformes/anatidae/aythya-marila/4.jpg
+  page: https://www.inaturalist.org/photos/605152672
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605152672/original.jpg
+- file: images/anseriformes/anatidae/aythya-marila/5.jpg
+  page: https://www.inaturalist.org/photos/604886398
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604886398/original.jpg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/petroicidae/petroica-macrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605254334
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605254334/original.jpg
+images:
+- file: images/passeriformes/petroicidae/petroica-macrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605254334
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605254334/original.jpg
+- file: images/passeriformes/petroicidae/petroica-macrocephala/2.jpg
+  page: https://www.inaturalist.org/photos/604398426
+  author: John Barnett
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604398426/original.jpg
+- file: images/passeriformes/petroicidae/petroica-macrocephala/3.jpg
+  page: https://www.inaturalist.org/photos/604274656
+  author: Michael Berardozzi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604274656/original.jpg
+- file: images/passeriformes/petroicidae/petroica-macrocephala/4.jpg
+  page: https://www.inaturalist.org/photos/606713491
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606713491/original.jpg
+- file: images/passeriformes/petroicidae/petroica-macrocephala/5.jpg
+  page: https://www.inaturalist.org/photos/609411417
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609411417/original.jpg
 ---
 
 

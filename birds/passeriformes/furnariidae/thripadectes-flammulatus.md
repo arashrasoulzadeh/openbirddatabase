@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/thripadectes-flammulatus/1.jpg
+  page: https://www.inaturalist.org/photos/465620399
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465620399/original.jpg
+images:
+- file: images/passeriformes/furnariidae/thripadectes-flammulatus/1.jpg
+  page: https://www.inaturalist.org/photos/465620399
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465620399/original.jpg
+- file: images/passeriformes/furnariidae/thripadectes-flammulatus/2.jpg
+  page: https://www.inaturalist.org/photos/164219321
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164219321/original.jpeg
+- file: images/passeriformes/furnariidae/thripadectes-flammulatus/3.jpg
+  page: http://www.flickr.com/photos/55368994@N06/6913070170
+  author: Scott Loarie
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/98029/original.jpg
+- file: images/passeriformes/furnariidae/thripadectes-flammulatus/4.jpg
+  page: https://www.inaturalist.org/photos/164219333
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164219333/original.jpeg
+- file: images/passeriformes/furnariidae/thripadectes-flammulatus/5.jpg
+  page: https://www.inaturalist.org/photos/164219348
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/164219348/original.jpeg
 ---
 
 

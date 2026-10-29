@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/chaetura-brachyura/1.jpg
+  page: https://www.inaturalist.org/photos/611120358
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611120358/original.jpg
+images:
+- file: images/apodiformes/apodidae/chaetura-brachyura/1.jpg
+  page: https://www.inaturalist.org/photos/611120358
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611120358/original.jpg
+- file: images/apodiformes/apodidae/chaetura-brachyura/2.jpg
+  page: https://www.inaturalist.org/photos/731012625
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731012625/original.jpg
+- file: images/apodiformes/apodidae/chaetura-brachyura/3.jpg
+  page: https://www.inaturalist.org/photos/733355266
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/733355266/original.jpg
+- file: images/apodiformes/apodidae/chaetura-brachyura/4.jpg
+  page: https://www.inaturalist.org/photos/482488844
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482488844/original.png
+- file: images/apodiformes/apodidae/chaetura-brachyura/5.jpg
+  page: https://www.inaturalist.org/photos/558194373
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558194373/original.jpg
 ---
 
 

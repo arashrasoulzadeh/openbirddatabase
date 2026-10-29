@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/hemicircus-canente/1.jpg
+  page: https://www.inaturalist.org/photos/611869224
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611869224/original.jpg
+images:
+- file: images/piciformes/picidae/hemicircus-canente/1.jpg
+  page: https://www.inaturalist.org/photos/611869224
+  author: James Hunt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611869224/original.jpg
+- file: images/piciformes/picidae/hemicircus-canente/2.jpg
+  page: https://www.inaturalist.org/photos/615005499
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615005499/original.jpg
+- file: images/piciformes/picidae/hemicircus-canente/3.jpg
+  page: https://www.inaturalist.org/photos/624898163
+  author: Ashok Sengupta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624898163/original.jpg
+- file: images/piciformes/picidae/hemicircus-canente/4.jpg
+  page: https://www.inaturalist.org/photos/627963232
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627963232/original.jpg
+- file: images/piciformes/picidae/hemicircus-canente/5.jpg
+  page: https://www.inaturalist.org/photos/686348779
+  author: Gerard Chartier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686348779/original.jpg
 ---
 
 

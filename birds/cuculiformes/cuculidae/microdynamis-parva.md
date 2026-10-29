@@ -137,8 +137,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/microdynamis-parva/1.jpg
+  page: https://www.inaturalist.org/photos/707072541
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707072541/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/microdynamis-parva/1.jpg
+  page: https://www.inaturalist.org/photos/707072541
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707072541/original.jpg
+- file: images/cuculiformes/cuculidae/microdynamis-parva/2.jpg
+  page: https://www.inaturalist.org/photos/734255109
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734255109/original.jpg
+- file: images/cuculiformes/cuculidae/microdynamis-parva/3.jpg
+  page: https://www.inaturalist.org/photos/451790678
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451790678/original.jpeg
+- file: images/cuculiformes/cuculidae/microdynamis-parva/4.jpg
+  page: https://www.inaturalist.org/photos/611945714
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611945714/original.jpg
+- file: images/cuculiformes/cuculidae/microdynamis-parva/5.jpg
+  page: https://www.inaturalist.org/photos/707072543
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707072543/original.jpg
 ---
 
 

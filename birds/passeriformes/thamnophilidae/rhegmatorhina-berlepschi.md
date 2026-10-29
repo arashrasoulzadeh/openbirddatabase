@@ -127,7 +127,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 17.8
@@ -135,6 +136,20 @@ morphology:
   wing_length_mm: 78.7
   tail_length_mm: 53.3
   body_mass_g: 31.3
+image:
+  file: images/passeriformes/thamnophilidae/rhegmatorhina-berlepschi/1.jpg
+  page: https://www.inaturalist.org/photos/418585829
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418585829/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/rhegmatorhina-berlepschi/1.jpg
+  page: https://www.inaturalist.org/photos/418585829
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418585829/original.jpg
 ---
 
 

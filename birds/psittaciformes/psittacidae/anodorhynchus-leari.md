@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 38
+image:
+  file: images/psittaciformes/psittacidae/anodorhynchus-leari/1.jpg
+  page: https://www.inaturalist.org/photos/664761707
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664761707/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/anodorhynchus-leari/1.jpg
+  page: https://www.inaturalist.org/photos/664761707
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664761707/original.jpg
+- file: images/psittaciformes/psittacidae/anodorhynchus-leari/2.jpg
+  page: https://www.inaturalist.org/photos/415011820
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/415011820/original.jpeg
+- file: images/psittaciformes/psittacidae/anodorhynchus-leari/3.jpg
+  page: https://www.inaturalist.org/photos/419445276
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419445276/original.jpg
+- file: images/psittaciformes/psittacidae/anodorhynchus-leari/4.jpg
+  page: https://www.inaturalist.org/photos/289024038
+  author: Lucas Kaminski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289024038/original.jpeg
+- file: images/psittaciformes/psittacidae/anodorhynchus-leari/5.jpg
+  page: https://www.inaturalist.org/photos/343805139
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343805139/original.jpeg
 ---
 
 

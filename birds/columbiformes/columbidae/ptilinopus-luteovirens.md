@@ -125,7 +125,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 16.1
@@ -135,6 +136,44 @@ morphology:
   body_mass_g: 75.0
 reproduction:
   clutch_size_mean: 1.0
+image:
+  file: images/columbiformes/columbidae/ptilinopus-luteovirens/1.jpg
+  page: https://www.inaturalist.org/photos/713190890
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713190890/original.jpg
+images:
+- file: images/columbiformes/columbidae/ptilinopus-luteovirens/1.jpg
+  page: https://www.inaturalist.org/photos/713190890
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713190890/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-luteovirens/2.jpg
+  page: https://www.inaturalist.org/photos/550330129
+  author: Mark O'Brien
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550330129/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-luteovirens/3.jpg
+  page: https://www.inaturalist.org/photos/330230125
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330230125/original.jpg
+- file: images/columbiformes/columbidae/ptilinopus-luteovirens/4.jpg
+  page: https://www.inaturalist.org/photos/341734766
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341734766/original.jpeg
+- file: images/columbiformes/columbidae/ptilinopus-luteovirens/5.jpg
+  page: https://www.inaturalist.org/photos/713190953
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713190953/original.jpg
 ---
 
 

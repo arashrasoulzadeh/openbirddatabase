@@ -157,10 +157,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 33
+image:
+  file: images/bucerotiformes/bucerotidae/buceros-bicornis/1.jpg
+  page: https://www.inaturalist.org/photos/609865563
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609865563/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/buceros-bicornis/1.jpg
+  page: https://www.inaturalist.org/photos/609865563
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609865563/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-bicornis/2.jpg
+  page: https://www.inaturalist.org/photos/605829848
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605829848/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-bicornis/3.jpg
+  page: https://www.inaturalist.org/photos/617205349
+  author: Chandu Bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617205349/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-bicornis/4.jpg
+  page: https://www.inaturalist.org/photos/619282169
+  author: Rohit Naniwadekar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619282169/original.jpg
+- file: images/bucerotiformes/bucerotidae/buceros-bicornis/5.jpg
+  page: https://www.inaturalist.org/photos/628688770
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628688770/original.jpg
 ---
 
 

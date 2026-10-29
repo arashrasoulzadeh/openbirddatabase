@@ -162,8 +162,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pseudobulweria-rostrata/1.jpg
+  page: https://www.inaturalist.org/photos/636936275
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636936275/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pseudobulweria-rostrata/1.jpg
+  page: https://www.inaturalist.org/photos/636936275
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636936275/original.jpg
+- file: images/procellariiformes/procellariidae/pseudobulweria-rostrata/2.jpg
+  page: https://www.inaturalist.org/photos/700976400
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700976400/original.jpg
+- file: images/procellariiformes/procellariidae/pseudobulweria-rostrata/3.jpg
+  page: https://www.inaturalist.org/photos/452146694
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/452146694/original.jpeg
+- file: images/procellariiformes/procellariidae/pseudobulweria-rostrata/4.jpg
+  page: https://www.inaturalist.org/photos/655036342
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655036342/original.jpg
+- file: images/procellariiformes/procellariidae/pseudobulweria-rostrata/5.jpg
+  page: https://www.inaturalist.org/photos/636936274
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636936274/original.jpg
 ---
 
 

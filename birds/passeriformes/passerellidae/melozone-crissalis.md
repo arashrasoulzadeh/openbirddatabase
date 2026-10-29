@@ -152,10 +152,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/passerellidae/melozone-crissalis/1.jpg
+  page: https://www.inaturalist.org/photos/605228891
+  author: Pfaubulous
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605228891/original.jpg
+images:
+- file: images/passeriformes/passerellidae/melozone-crissalis/1.jpg
+  page: https://www.inaturalist.org/photos/605228891
+  author: Pfaubulous
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605228891/original.jpg
+- file: images/passeriformes/passerellidae/melozone-crissalis/2.jpg
+  page: https://www.inaturalist.org/photos/604853290
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604853290/original.jpg
+- file: images/passeriformes/passerellidae/melozone-crissalis/3.jpg
+  page: https://www.inaturalist.org/photos/605548215
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605548215/original.jpg
+- file: images/passeriformes/passerellidae/melozone-crissalis/4.jpg
+  page: https://www.inaturalist.org/photos/605018764
+  author: Aiver
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605018764/original.jpg
+- file: images/passeriformes/passerellidae/melozone-crissalis/5.jpg
+  page: https://www.inaturalist.org/photos/605492293
+  author: Eric Austin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605492293/original.jpg
 ---
 
 

@@ -139,7 +139,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.4
@@ -147,6 +148,32 @@ morphology:
   wing_length_mm: 57.2
   tail_length_mm: 46.0
   body_mass_g: 11.0
+image:
+  file: images/passeriformes/zosteropidae/zosterops-silvanus/1.jpg
+  page: https://www.inaturalist.org/photos/53983429
+  author: Gino Brignoli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53983429/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-silvanus/1.jpg
+  page: https://www.inaturalist.org/photos/53983429
+  author: Gino Brignoli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53983429/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-silvanus/2.jpg
+  page: https://www.inaturalist.org/photos/48299124
+  author: Martin Jung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/48299124/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-silvanus/3.jpg
+  page: https://www.inaturalist.org/photos/48299320
+  author: Martin Jung
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/48299320/original.jpeg
 ---
 
 

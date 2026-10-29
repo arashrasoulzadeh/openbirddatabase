@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/erythrogenys-mcclellandi/1.jpg
+  page: https://www.inaturalist.org/photos/548757165
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757165/original.jpg
+images:
+- file: images/passeriformes/timaliidae/erythrogenys-mcclellandi/1.jpg
+  page: https://www.inaturalist.org/photos/548757165
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757165/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-mcclellandi/2.jpg
+  page: https://www.inaturalist.org/photos/548757169
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757169/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-mcclellandi/3.jpg
+  page: https://www.inaturalist.org/photos/548757160
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757160/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-mcclellandi/4.jpg
+  page: https://www.inaturalist.org/photos/548757205
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757205/original.jpg
+- file: images/passeriformes/timaliidae/erythrogenys-mcclellandi/5.jpg
+  page: https://www.inaturalist.org/photos/548757190
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548757190/original.jpg
 ---
 
 

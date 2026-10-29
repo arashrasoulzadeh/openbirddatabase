@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/iduna-rama/1.jpg
+  page: https://www.inaturalist.org/photos/607736884
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607736884/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/iduna-rama/1.jpg
+  page: https://www.inaturalist.org/photos/607736884
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607736884/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-rama/2.jpg
+  page: https://www.inaturalist.org/photos/660174017
+  author: Антон Лабачоў
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660174017/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-rama/3.jpg
+  page: https://www.inaturalist.org/photos/743841803
+  author: ikelman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743841803/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-rama/4.jpg
+  page: https://www.inaturalist.org/photos/518604236
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518604236/original.jpg
+- file: images/passeriformes/acrocephalidae/iduna-rama/5.jpg
+  page: https://www.inaturalist.org/photos/556909377
+  author: renjus box
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556909377/original.jpg
 ---
 
 

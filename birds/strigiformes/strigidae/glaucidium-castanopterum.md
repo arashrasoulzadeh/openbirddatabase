@@ -134,8 +134,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/glaucidium-castanopterum/1.jpg
+  page: https://www.inaturalist.org/photos/636342776
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636342776/original.jpg
+images:
+- file: images/strigiformes/strigidae/glaucidium-castanopterum/1.jpg
+  page: https://www.inaturalist.org/photos/636342776
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636342776/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-castanopterum/2.jpg
+  page: https://www.inaturalist.org/photos/279210530
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279210530/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-castanopterum/3.jpg
+  page: https://www.inaturalist.org/photos/103152699
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103152699/original.jpeg
+- file: images/strigiformes/strigidae/glaucidium-castanopterum/4.jpg
+  page: https://www.inaturalist.org/photos/655137029
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655137029/original.jpg
+- file: images/strigiformes/strigidae/glaucidium-castanopterum/5.jpg
+  page: https://www.inaturalist.org/photos/279210558
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/279210558/original.jpg
 ---
 
 

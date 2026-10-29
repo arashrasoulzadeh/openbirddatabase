@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cardinalidae/cyanoloxia-glaucocaerulea/1.jpg
+  page: https://www.inaturalist.org/photos/467426454
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467426454/original.jpeg
+images:
+- file: images/passeriformes/cardinalidae/cyanoloxia-glaucocaerulea/1.jpg
+  page: https://www.inaturalist.org/photos/467426454
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467426454/original.jpeg
+- file: images/passeriformes/cardinalidae/cyanoloxia-glaucocaerulea/2.jpg
+  page: https://www.inaturalist.org/photos/486135037
+  author: Sebastián Fornés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486135037/original.jpeg
+- file: images/passeriformes/cardinalidae/cyanoloxia-glaucocaerulea/3.jpg
+  page: https://www.inaturalist.org/photos/469576006
+  author: Julia Ariadna
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469576006/original.jpeg
+- file: images/passeriformes/cardinalidae/cyanoloxia-glaucocaerulea/4.jpg
+  page: https://www.inaturalist.org/photos/482940762
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482940762/original.jpeg
+- file: images/passeriformes/cardinalidae/cyanoloxia-glaucocaerulea/5.jpg
+  page: https://www.inaturalist.org/photos/503021533
+  author: Gonzalo Romero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503021533/original.jpeg
 ---
 
 

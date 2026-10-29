@@ -212,10 +212,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 45
+image:
+  file: images/charadriiformes/alcidae/fratercula-arctica/1.jpg
+  page: https://www.inaturalist.org/photos/609941396
+  author: Anna Molnár
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609941396/original.jpg
+images:
+- file: images/charadriiformes/alcidae/fratercula-arctica/1.jpg
+  page: https://www.inaturalist.org/photos/609941396
+  author: Anna Molnár
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609941396/original.jpg
+- file: images/charadriiformes/alcidae/fratercula-arctica/2.jpg
+  page: https://www.inaturalist.org/photos/612198227
+  author: melvbavic
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612198227/original.jpg
+- file: images/charadriiformes/alcidae/fratercula-arctica/3.jpg
+  page: https://www.inaturalist.org/photos/634552320
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634552320/original.jpg
+- file: images/charadriiformes/alcidae/fratercula-arctica/4.jpg
+  page: https://www.inaturalist.org/photos/616191564
+  author: Adam Leigh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616191564/original.jpg
+- file: images/charadriiformes/alcidae/fratercula-arctica/5.jpg
+  page: https://www.inaturalist.org/photos/634552306
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634552306/original.jpg
 ---
 
 

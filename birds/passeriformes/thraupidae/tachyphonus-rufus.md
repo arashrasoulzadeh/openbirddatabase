@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/tachyphonus-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/612116222
+  author: Celso Henrique Varela Rios
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612116222/original.jpg
+images:
+- file: images/passeriformes/thraupidae/tachyphonus-rufus/1.jpg
+  page: https://www.inaturalist.org/photos/612116222
+  author: Celso Henrique Varela Rios
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612116222/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-rufus/2.jpg
+  page: https://www.inaturalist.org/photos/618892388
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618892388/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-rufus/3.jpg
+  page: https://www.inaturalist.org/photos/609215330
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609215330/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-rufus/4.jpg
+  page: https://www.inaturalist.org/photos/612771147
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771147/original.jpg
+- file: images/passeriformes/thraupidae/tachyphonus-rufus/5.jpg
+  page: https://www.inaturalist.org/photos/614205115
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614205115/original.jpg
 ---
 
 

@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/scopidae/scopus-umbretta/1.jpg
+  page: https://www.inaturalist.org/photos/607720572
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607720572/original.jpg
+images:
+- file: images/pelecaniformes/scopidae/scopus-umbretta/1.jpg
+  page: https://www.inaturalist.org/photos/607720572
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607720572/original.jpg
+- file: images/pelecaniformes/scopidae/scopus-umbretta/2.jpg
+  page: https://www.inaturalist.org/photos/606216642
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606216642/original.jpg
+- file: images/pelecaniformes/scopidae/scopus-umbretta/3.jpg
+  page: https://www.inaturalist.org/photos/607190514
+  author: Aurelijus Narbutas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607190514/original.jpg
+- file: images/pelecaniformes/scopidae/scopus-umbretta/4.jpg
+  page: https://www.inaturalist.org/photos/610161495
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610161495/original.jpg
+- file: images/pelecaniformes/scopidae/scopus-umbretta/5.jpg
+  page: https://www.inaturalist.org/photos/612626253
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626253/original.jpg
 ---
 
 

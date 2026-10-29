@@ -152,8 +152,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/cyclopsitta-diophthalma/1.jpg
+  page: https://www.inaturalist.org/photos/701226456
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701226456/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/cyclopsitta-diophthalma/1.jpg
+  page: https://www.inaturalist.org/photos/701226456
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701226456/original.jpg
+- file: images/psittaciformes/psittaculidae/cyclopsitta-diophthalma/2.jpg
+  page: https://www.inaturalist.org/photos/714199121
+  author: Jonathan Curley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714199121/original.jpg
+- file: images/psittaciformes/psittaculidae/cyclopsitta-diophthalma/3.jpg
+  page: https://www.inaturalist.org/photos/711971305
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/711971305/original.jpg
+- file: images/psittaciformes/psittaculidae/cyclopsitta-diophthalma/4.jpg
+  page: https://www.inaturalist.org/photos/731334642
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731334642/original.jpg
+- file: images/psittaciformes/psittaculidae/cyclopsitta-diophthalma/5.jpg
+  page: https://www.inaturalist.org/photos/517775875
+  author: Brecht Verstraete
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517775875/original.jpg
 ---
 
 

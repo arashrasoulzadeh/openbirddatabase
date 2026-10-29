@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/geospiza-scandens/1.jpg
+  page: https://www.inaturalist.org/photos/608109193
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608109193/original.jpg
+images:
+- file: images/passeriformes/thraupidae/geospiza-scandens/1.jpg
+  page: https://www.inaturalist.org/photos/608109193
+  author: Kathy Daniel
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608109193/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-scandens/2.jpg
+  page: https://www.inaturalist.org/photos/610794715
+  author: Jacob Saucier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610794715/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-scandens/3.jpg
+  page: https://www.inaturalist.org/photos/463395534
+  author: Wes Gapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463395534/original.jpeg
+- file: images/passeriformes/thraupidae/geospiza-scandens/4.jpg
+  page: https://www.inaturalist.org/photos/478155586
+  author: nikonbird007
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478155586/original.jpg
+- file: images/passeriformes/thraupidae/geospiza-scandens/5.jpg
+  page: https://www.inaturalist.org/photos/624618980
+  author: Kristof Zyskowski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624618980/original.jpg
 ---
 
 

@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/spilornis-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/467795094
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467795094/original.jpeg
+images:
+- file: images/accipitriformes/accipitridae/spilornis-rufipectus/1.jpg
+  page: https://www.inaturalist.org/photos/467795094
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467795094/original.jpeg
+- file: images/accipitriformes/accipitridae/spilornis-rufipectus/2.jpg
+  page: https://www.inaturalist.org/photos/416460165
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416460165/original.jpeg
+- file: images/accipitriformes/accipitridae/spilornis-rufipectus/3.jpg
+  page: https://www.inaturalist.org/photos/307916576
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307916576/original.jpg
+- file: images/accipitriformes/accipitridae/spilornis-rufipectus/4.jpg
+  page: https://www.inaturalist.org/photos/334465383
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334465383/original.jpeg
+- file: images/accipitriformes/accipitridae/spilornis-rufipectus/5.jpg
+  page: https://www.inaturalist.org/photos/241948301
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241948301/original.jpg
 ---
 
 

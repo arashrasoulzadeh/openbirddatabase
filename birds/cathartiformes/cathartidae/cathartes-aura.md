@@ -185,10 +185,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/cathartiformes/cathartidae/cathartes-aura/1.jpg
+  page: https://www.inaturalist.org/photos/604899585
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899585/original.jpg
+images:
+- file: images/cathartiformes/cathartidae/cathartes-aura/1.jpg
+  page: https://www.inaturalist.org/photos/604899585
+  author: Isis I. Castro Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604899585/original.jpg
+- file: images/cathartiformes/cathartidae/cathartes-aura/2.jpg
+  page: https://www.inaturalist.org/photos/605011320
+  author: Irina Mitine
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605011320/original.jpg
+- file: images/cathartiformes/cathartidae/cathartes-aura/3.jpg
+  page: https://www.inaturalist.org/photos/604858447
+  author: Sam Kieschnick
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604858447/original.jpg
+- file: images/cathartiformes/cathartidae/cathartes-aura/4.jpg
+  page: https://www.inaturalist.org/photos/605434906
+  author: Bill Keim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434906/original.jpg
+- file: images/cathartiformes/cathartidae/cathartes-aura/5.jpg
+  page: https://www.inaturalist.org/photos/605660386
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605660386/original.jpg
 ---
 
 

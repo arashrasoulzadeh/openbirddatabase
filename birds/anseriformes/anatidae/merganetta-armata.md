@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/merganetta-armata/1.jpg
+  page: https://www.inaturalist.org/photos/605914328
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914328/original.jpg
+images:
+- file: images/anseriformes/anatidae/merganetta-armata/1.jpg
+  page: https://www.inaturalist.org/photos/605914328
+  author: Víctor Sarabia Sánchez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605914328/original.jpg
+- file: images/anseriformes/anatidae/merganetta-armata/2.jpg
+  page: https://www.inaturalist.org/photos/612971691
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612971691/original.jpg
+- file: images/anseriformes/anatidae/merganetta-armata/3.jpg
+  page: https://www.inaturalist.org/photos/621825821
+  author: Facundo Chieffo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621825821/original.jpg
+- file: images/anseriformes/anatidae/merganetta-armata/4.jpg
+  page: https://www.inaturalist.org/photos/623726995
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623726995/original.jpg
+- file: images/anseriformes/anatidae/merganetta-armata/5.jpg
+  page: https://www.inaturalist.org/photos/624294936
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624294936/original.jpg
 ---
 
 

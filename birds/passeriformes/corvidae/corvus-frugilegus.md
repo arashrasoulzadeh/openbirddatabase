@@ -193,10 +193,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/passeriformes/corvidae/corvus-frugilegus/1.jpg
+  page: https://www.inaturalist.org/photos/605064135
+  author: Andrey Polstianoi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605064135/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-frugilegus/1.jpg
+  page: https://www.inaturalist.org/photos/605064135
+  author: Andrey Polstianoi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605064135/original.jpg
+- file: images/passeriformes/corvidae/corvus-frugilegus/2.jpg
+  page: https://www.inaturalist.org/photos/605423831
+  author: Maria Kohanovskaya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605423831/original.jpg
+- file: images/passeriformes/corvidae/corvus-frugilegus/3.jpg
+  page: https://www.inaturalist.org/photos/604439130
+  author: relew
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604439130/original.jpg
+- file: images/passeriformes/corvidae/corvus-frugilegus/4.jpg
+  page: https://www.inaturalist.org/photos/605072608
+  author: Radu Teodoreanu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605072608/original.jpg
+- file: images/passeriformes/corvidae/corvus-frugilegus/5.jpg
+  page: https://www.inaturalist.org/photos/605165814
+  author: Дмитрий Еременко
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605165814/original.jpg
 ---
 
 

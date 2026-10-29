@@ -198,10 +198,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/apodiformes/apodidae/apus-apus/1.jpg
+  page: https://www.inaturalist.org/photos/626714356
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626714356/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-apus/1.jpg
+  page: https://www.inaturalist.org/photos/626714356
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626714356/original.jpg
+- file: images/apodiformes/apodidae/apus-apus/2.jpg
+  page: https://www.inaturalist.org/photos/637738131
+  author: saydelah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637738131/original.jpg
+- file: images/apodiformes/apodidae/apus-apus/3.jpg
+  page: https://www.inaturalist.org/photos/637775236
+  author: Thomas Barrès
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637775236/original.jpg
+- file: images/apodiformes/apodidae/apus-apus/4.jpg
+  page: https://www.inaturalist.org/photos/637651832
+  author: Roman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637651832/original.jpg
+- file: images/apodiformes/apodidae/apus-apus/5.jpg
+  page: https://www.inaturalist.org/photos/634640253
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634640253/original.jpg
 ---
 
 

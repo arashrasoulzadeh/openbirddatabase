@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-mesoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/617456234
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617456234/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-mesoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/617456234
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617456234/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-mesoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/369632991
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369632991/original.jpeg
+- file: images/passeriformes/tyrannidae/elaenia-mesoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/189034870
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/189034870/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-mesoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/169787144
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/169787144/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-mesoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/170101706
+  author: Matias Cabezas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/170101706/original.jpeg
 ---
 
 

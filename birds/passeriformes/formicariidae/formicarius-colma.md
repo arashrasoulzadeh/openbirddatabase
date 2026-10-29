@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/formicariidae/formicarius-colma/1.jpg
+  page: https://www.inaturalist.org/photos/686812273
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686812273/original.jpg
+images:
+- file: images/passeriformes/formicariidae/formicarius-colma/1.jpg
+  page: https://www.inaturalist.org/photos/686812273
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686812273/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-colma/2.jpg
+  page: https://www.inaturalist.org/photos/680992917
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680992917/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-colma/3.jpg
+  page: https://www.inaturalist.org/photos/716629119
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716629119/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-colma/4.jpg
+  page: https://www.inaturalist.org/photos/719326348
+  author: Alex Fernando
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719326348/original.jpg
+- file: images/passeriformes/formicariidae/formicarius-colma/5.jpg
+  page: https://www.inaturalist.org/photos/477131508
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477131508/original.jpeg
 ---
 
 

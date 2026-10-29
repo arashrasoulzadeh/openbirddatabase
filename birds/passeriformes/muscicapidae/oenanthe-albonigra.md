@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-albonigra/1.jpg
+  page: https://www.inaturalist.org/photos/638729526
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638729526/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-albonigra/1.jpg
+  page: https://www.inaturalist.org/photos/638729526
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638729526/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-albonigra/2.jpg
+  page: https://www.inaturalist.org/photos/582788683
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582788683/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-albonigra/3.jpg
+  page: https://www.inaturalist.org/photos/605403223
+  author: Joey Bom
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605403223/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-albonigra/4.jpg
+  page: https://www.inaturalist.org/photos/345045808
+  author: Arabella Willing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345045808/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-albonigra/5.jpg
+  page: https://www.inaturalist.org/photos/319156110
+  author: Kian Hayles-Cotton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/319156110/original.jpeg
 ---
 
 

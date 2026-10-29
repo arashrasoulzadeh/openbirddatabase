@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/fraseria-ocreata/1.jpg
+  page: https://www.inaturalist.org/photos/354189395
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354189395/original.png
+images:
+- file: images/passeriformes/muscicapidae/fraseria-ocreata/1.jpg
+  page: https://www.inaturalist.org/photos/354189395
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354189395/original.png
+- file: images/passeriformes/muscicapidae/fraseria-ocreata/2.jpg
+  page: https://www.inaturalist.org/photos/394139295
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394139295/original.jpg
+- file: images/passeriformes/muscicapidae/fraseria-ocreata/3.jpg
+  page: https://www.inaturalist.org/photos/239055394
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/239055394/original.jpeg
+- file: images/passeriformes/muscicapidae/fraseria-ocreata/4.jpg
+  page: https://www.inaturalist.org/photos/354775199
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354775199/original.png
+- file: images/passeriformes/muscicapidae/fraseria-ocreata/5.jpg
+  page: https://www.inaturalist.org/photos/394138955
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/394138955/original.jpg
 ---
 
 

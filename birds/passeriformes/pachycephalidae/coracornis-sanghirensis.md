@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pachycephalidae/coracornis-sanghirensis/1.jpg
+  page: https://www.inaturalist.org/photos/435260296
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260296/original.jpeg
+images:
+- file: images/passeriformes/pachycephalidae/coracornis-sanghirensis/1.jpg
+  page: https://www.inaturalist.org/photos/435260296
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260296/original.jpeg
+- file: images/passeriformes/pachycephalidae/coracornis-sanghirensis/2.jpg
+  page: https://www.inaturalist.org/photos/435260323
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260323/original.jpeg
+- file: images/passeriformes/pachycephalidae/coracornis-sanghirensis/3.jpg
+  page: https://www.inaturalist.org/photos/435260351
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260351/original.jpeg
+- file: images/passeriformes/pachycephalidae/coracornis-sanghirensis/4.jpg
+  page: https://www.inaturalist.org/photos/435260382
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260382/original.jpeg
+- file: images/passeriformes/pachycephalidae/coracornis-sanghirensis/5.jpg
+  page: https://www.inaturalist.org/photos/435260374
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435260374/original.jpeg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-saturata/1.jpg
+  page: https://www.inaturalist.org/photos/652831467
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652831467/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-saturata/1.jpg
+  page: https://www.inaturalist.org/photos/652831467
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652831467/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-saturata/2.jpg
+  page: https://www.inaturalist.org/photos/601646035
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601646035/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-saturata/3.jpg
+  page: https://www.inaturalist.org/photos/346448120
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346448120/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-saturata/4.jpg
+  page: https://www.inaturalist.org/photos/173407967
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173407967/original.jpeg
+- file: images/passeriformes/fringillidae/euphonia-saturata/5.jpg
+  page: https://www.inaturalist.org/photos/358056660
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358056660/original.jpeg
 ---
 
 

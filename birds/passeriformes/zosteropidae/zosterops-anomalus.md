@@ -137,7 +137,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 13.3
@@ -145,6 +146,44 @@ morphology:
   wing_length_mm: 54.8
   tail_length_mm: 44.0
   body_mass_g: 12.0
+image:
+  file: images/passeriformes/zosteropidae/zosterops-anomalus/1.jpg
+  page: https://www.inaturalist.org/photos/336015388
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336015388/original.jpeg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-anomalus/1.jpg
+  page: https://www.inaturalist.org/photos/336015388
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336015388/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-anomalus/2.jpg
+  page: https://www.inaturalist.org/photos/242592040
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242592040/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-anomalus/3.jpg
+  page: https://www.inaturalist.org/photos/336015395
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336015395/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-anomalus/4.jpg
+  page: https://www.inaturalist.org/photos/336015426
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336015426/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-anomalus/5.jpg
+  page: https://www.inaturalist.org/photos/336015342
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336015342/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/cleptornis-marchei/1.jpg
+  page: https://www.inaturalist.org/photos/353721354
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353721354/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/cleptornis-marchei/1.jpg
+  page: https://www.inaturalist.org/photos/353721354
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353721354/original.jpg
+- file: images/passeriformes/zosteropidae/cleptornis-marchei/2.jpg
+  page: https://www.inaturalist.org/photos/8031117
+  author: Stosh Morency
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8031117/original.jpg
+- file: images/passeriformes/zosteropidae/cleptornis-marchei/3.jpg
+  page: https://www.inaturalist.org/photos/8031119
+  author: Stosh Morency
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8031119/original.jpg
+- file: images/passeriformes/zosteropidae/cleptornis-marchei/4.jpg
+  page: https://www.inaturalist.org/photos/8031120
+  author: Stosh Morency
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8031120/original.jpg
+- file: images/passeriformes/zosteropidae/cleptornis-marchei/5.jpg
+  page: https://www.inaturalist.org/photos/8030524
+  author: Stosh Morency
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/8030524/original.jpg
 ---
 
 

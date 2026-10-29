@@ -152,8 +152,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/alcidae/cepphus-carbo/1.jpg
+  page: https://www.inaturalist.org/photos/679217710
+  author: Поляков Александр
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679217710/original.jpg
+images:
+- file: images/charadriiformes/alcidae/cepphus-carbo/1.jpg
+  page: https://www.inaturalist.org/photos/679217710
+  author: Поляков Александр
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679217710/original.jpg
+- file: images/charadriiformes/alcidae/cepphus-carbo/2.jpg
+  page: https://www.inaturalist.org/photos/719906219
+  author: Alexander A. Fomichev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719906219/original.jpg
+- file: images/charadriiformes/alcidae/cepphus-carbo/3.jpg
+  page: https://www.inaturalist.org/photos/679643874
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679643874/original.jpg
+- file: images/charadriiformes/alcidae/cepphus-carbo/4.jpg
+  page: https://www.inaturalist.org/photos/674999501
+  author: Anastasia Balaeva
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674999501/original.jpg
+- file: images/charadriiformes/alcidae/cepphus-carbo/5.jpg
+  page: https://www.inaturalist.org/photos/688938607
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/688938607/original.jpg
 ---
 
 

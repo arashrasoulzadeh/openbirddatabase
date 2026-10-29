@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-lafresnayii/1.jpg
+  page: https://www.inaturalist.org/photos/612024319
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612024319/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-lafresnayii/1.jpg
+  page: https://www.inaturalist.org/photos/612024319
+  author: Esteban Poveda
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612024319/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-lafresnayii/2.jpg
+  page: https://www.inaturalist.org/photos/612920574
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612920574/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-lafresnayii/3.jpg
+  page: https://www.inaturalist.org/photos/623057790
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623057790/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-lafresnayii/4.jpg
+  page: https://www.inaturalist.org/photos/708617342
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708617342/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-lafresnayii/5.jpg
+  page: https://www.inaturalist.org/photos/504022676
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504022676/original.jpg
 ---
 
 

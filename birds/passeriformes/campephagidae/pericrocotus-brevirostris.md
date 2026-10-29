@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/469022953
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469022953/original.jpeg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-brevirostris/1.jpg
+  page: https://www.inaturalist.org/photos/469022953
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469022953/original.jpeg
+- file: images/passeriformes/campephagidae/pericrocotus-brevirostris/2.jpg
+  page: https://www.inaturalist.org/photos/369854029
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369854029/original.jpeg
+- file: images/passeriformes/campephagidae/pericrocotus-brevirostris/3.jpg
+  page: https://www.inaturalist.org/photos/429234741
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429234741/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-brevirostris/4.jpg
+  page: https://www.inaturalist.org/photos/264554336
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264554336/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-brevirostris/5.jpg
+  page: https://www.inaturalist.org/photos/208531511
+  author: John Kenrick Gibson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/208531511/original.jpg
 ---
 
 

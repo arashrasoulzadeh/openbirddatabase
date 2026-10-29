@@ -198,10 +198,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/apodiformes/trochilidae/archilochus-colubris/1.jpg
+  page: https://www.inaturalist.org/photos/605659308
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659308/original.jpg
+images:
+- file: images/apodiformes/trochilidae/archilochus-colubris/1.jpg
+  page: https://www.inaturalist.org/photos/605659308
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605659308/original.jpg
+- file: images/apodiformes/trochilidae/archilochus-colubris/2.jpg
+  page: https://www.inaturalist.org/photos/604608027
+  author: Josiah Londerée
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604608027/original.jpg
+- file: images/apodiformes/trochilidae/archilochus-colubris/3.jpg
+  page: https://www.inaturalist.org/photos/604520747
+  author: kcthetc1
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604520747/original.jpg
+- file: images/apodiformes/trochilidae/archilochus-colubris/4.jpg
+  page: https://www.inaturalist.org/photos/607958963
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607958963/original.jpg
+- file: images/apodiformes/trochilidae/archilochus-colubris/5.jpg
+  page: https://www.inaturalist.org/photos/609040934
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609040934/original.jpg
 ---
 
 

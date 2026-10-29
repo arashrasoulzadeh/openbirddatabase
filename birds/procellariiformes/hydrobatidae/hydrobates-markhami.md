@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/hydrobatidae/hydrobates-markhami/1.jpg
+  page: https://www.inaturalist.org/photos/637347041
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637347041/original.jpg
+images:
+- file: images/procellariiformes/hydrobatidae/hydrobates-markhami/1.jpg
+  page: https://www.inaturalist.org/photos/637347041
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637347041/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-markhami/2.jpg
+  page: https://www.inaturalist.org/photos/724636630
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724636630/original.jpg
+- file: images/procellariiformes/hydrobatidae/hydrobates-markhami/3.jpg
+  page: https://www.inaturalist.org/photos/490656099
+  author: the natural moment
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490656099/original.jpeg
+- file: images/procellariiformes/hydrobatidae/hydrobates-markhami/4.jpg
+  page: https://www.inaturalist.org/photos/442447425
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442447425/original.jpeg
+- file: images/procellariiformes/hydrobatidae/hydrobates-markhami/5.jpg
+  page: https://www.inaturalist.org/photos/653886507
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653886507/original.jpg
 ---
 
 

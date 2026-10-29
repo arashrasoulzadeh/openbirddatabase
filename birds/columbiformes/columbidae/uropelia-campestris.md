@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/uropelia-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/655070615
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655070615/original.jpg
+images:
+- file: images/columbiformes/columbidae/uropelia-campestris/1.jpg
+  page: https://www.inaturalist.org/photos/655070615
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655070615/original.jpg
+- file: images/columbiformes/columbidae/uropelia-campestris/2.jpg
+  page: https://www.inaturalist.org/photos/736120616
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736120616/original.jpg
+- file: images/columbiformes/columbidae/uropelia-campestris/3.jpg
+  page: https://www.inaturalist.org/photos/515564254
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515564254/original.jpg
+- file: images/columbiformes/columbidae/uropelia-campestris/4.jpg
+  page: https://www.inaturalist.org/photos/523050266
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523050266/original.jpg
+- file: images/columbiformes/columbidae/uropelia-campestris/5.jpg
+  page: https://www.inaturalist.org/photos/609969228
+  author: Tsssss
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609969228/original.jpg
 ---
 
 

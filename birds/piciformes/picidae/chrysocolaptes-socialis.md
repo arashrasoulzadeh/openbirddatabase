@@ -123,8 +123,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/chrysocolaptes-socialis/1.jpg
+  page: https://www.inaturalist.org/photos/651247237
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651247237/original.jpg
+images:
+- file: images/piciformes/picidae/chrysocolaptes-socialis/1.jpg
+  page: https://www.inaturalist.org/photos/651247237
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651247237/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-socialis/2.jpg
+  page: https://www.inaturalist.org/photos/617206729
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206729/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-socialis/3.jpg
+  page: https://www.inaturalist.org/photos/627962931
+  author: Ashwin A
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627962931/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-socialis/4.jpg
+  page: https://www.inaturalist.org/photos/649064206
+  author: sunnyjosef
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649064206/original.jpg
+- file: images/piciformes/picidae/chrysocolaptes-socialis/5.jpg
+  page: https://www.inaturalist.org/photos/667833264
+  author: Navaneeth Sini George
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667833264/original.jpg
 ---
 
 

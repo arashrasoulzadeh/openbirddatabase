@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/sclerurus-scansor/1.jpg
+  page: https://www.inaturalist.org/photos/641138934
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641138934/original.jpg
+images:
+- file: images/passeriformes/furnariidae/sclerurus-scansor/1.jpg
+  page: https://www.inaturalist.org/photos/641138934
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641138934/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-scansor/2.jpg
+  page: https://www.inaturalist.org/photos/739912398
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739912398/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-scansor/3.jpg
+  page: https://www.inaturalist.org/photos/745770543
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/745770543/original.jpg
+- file: images/passeriformes/furnariidae/sclerurus-scansor/4.jpg
+  page: https://www.inaturalist.org/photos/463402762
+  author: Pedro Henrique Maloso Ramos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463402762/original.jpeg
+- file: images/passeriformes/furnariidae/sclerurus-scansor/5.jpg
+  page: https://www.inaturalist.org/photos/466136040
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466136040/original.jpg
 ---
 
 

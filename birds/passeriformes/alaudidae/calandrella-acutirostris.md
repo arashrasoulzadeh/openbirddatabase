@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/calandrella-acutirostris/1.jpg
+  page: https://www.inaturalist.org/photos/615674217
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674217/original.jpg
+images:
+- file: images/passeriformes/alaudidae/calandrella-acutirostris/1.jpg
+  page: https://www.inaturalist.org/photos/615674217
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615674217/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-acutirostris/2.jpg
+  page: https://www.inaturalist.org/photos/418526575
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418526575/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-acutirostris/3.jpg
+  page: https://www.inaturalist.org/photos/322043822
+  author: TonyT
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/322043822/original.jpeg
+- file: images/passeriformes/alaudidae/calandrella-acutirostris/4.jpg
+  page: https://www.inaturalist.org/photos/367800432
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800432/original.jpg
+- file: images/passeriformes/alaudidae/calandrella-acutirostris/5.jpg
+  page: https://www.inaturalist.org/photos/418526552
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418526552/original.jpg
 ---
 
 

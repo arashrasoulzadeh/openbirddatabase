@@ -153,10 +153,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/musophagiformes/musophagidae/tauraco-corythaix/1.jpg
+  page: https://www.inaturalist.org/photos/604669915
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604669915/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-corythaix/1.jpg
+  page: https://www.inaturalist.org/photos/604669915
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604669915/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-corythaix/2.jpg
+  page: https://www.inaturalist.org/photos/608682853
+  author: Glynn Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608682853/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-corythaix/3.jpg
+  page: https://www.inaturalist.org/photos/612626236
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612626236/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-corythaix/4.jpg
+  page: https://www.inaturalist.org/photos/616085237
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616085237/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-corythaix/5.jpg
+  page: https://www.inaturalist.org/photos/615427702
+  author: Murray Yoko
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615427702/original.jpg
 ---
 
 

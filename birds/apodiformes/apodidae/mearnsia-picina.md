@@ -124,8 +124,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/mearnsia-picina/1.jpg
+  page: https://www.inaturalist.org/photos/270969856
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969856/original.jpg
+images:
+- file: images/apodiformes/apodidae/mearnsia-picina/1.jpg
+  page: https://www.inaturalist.org/photos/270969856
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969856/original.jpg
+- file: images/apodiformes/apodidae/mearnsia-picina/2.jpg
+  page: https://www.inaturalist.org/photos/270969873
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969873/original.jpg
+- file: images/apodiformes/apodidae/mearnsia-picina/3.jpg
+  page: https://www.inaturalist.org/photos/270969888
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969888/original.jpg
+- file: images/apodiformes/apodidae/mearnsia-picina/4.jpg
+  page: https://www.inaturalist.org/photos/270969901
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969901/original.jpg
+- file: images/apodiformes/apodidae/mearnsia-picina/5.jpg
+  page: https://www.inaturalist.org/photos/270969913
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270969913/original.jpg
 ---
 
 

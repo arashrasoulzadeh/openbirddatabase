@@ -168,10 +168,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/anseriformes/anatidae/cygnus-atratus/1.jpg
+  page: https://www.inaturalist.org/photos/604662562
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662562/original.jpg
+images:
+- file: images/anseriformes/anatidae/cygnus-atratus/1.jpg
+  page: https://www.inaturalist.org/photos/604662562
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604662562/original.jpg
+- file: images/anseriformes/anatidae/cygnus-atratus/2.jpg
+  page: https://www.inaturalist.org/photos/604445199
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604445199/original.jpg
+- file: images/anseriformes/anatidae/cygnus-atratus/3.jpg
+  page: https://www.inaturalist.org/photos/605609867
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605609867/original.jpg
+- file: images/anseriformes/anatidae/cygnus-atratus/4.jpg
+  page: https://www.inaturalist.org/photos/605563524
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605563524/original.jpg
+- file: images/anseriformes/anatidae/cygnus-atratus/5.jpg
+  page: https://www.inaturalist.org/photos/607857170
+  author: n_armstrong
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607857170/original.jpg
 ---
 
 

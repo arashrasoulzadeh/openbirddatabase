@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/amadina-erythrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/618275839
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618275839/original.jpg
+images:
+- file: images/passeriformes/estrildidae/amadina-erythrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/618275839
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618275839/original.jpg
+- file: images/passeriformes/estrildidae/amadina-erythrocephala/2.jpg
+  page: https://www.inaturalist.org/photos/617666149
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617666149/original.jpg
+- file: images/passeriformes/estrildidae/amadina-erythrocephala/3.jpg
+  page: https://www.inaturalist.org/photos/660339424
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660339424/original.jpg
+- file: images/passeriformes/estrildidae/amadina-erythrocephala/4.jpg
+  page: https://www.inaturalist.org/photos/462880614
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462880614/original.jpeg
+- file: images/passeriformes/estrildidae/amadina-erythrocephala/5.jpg
+  page: https://www.inaturalist.org/photos/465990419
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465990419/original.jpeg
 ---
 
 

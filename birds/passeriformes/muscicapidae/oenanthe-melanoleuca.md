@@ -180,8 +180,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/oenanthe-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/628402682
+  author: Eleftherios Katsillis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628402682/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/oenanthe-melanoleuca/1.jpg
+  page: https://www.inaturalist.org/photos/628402682
+  author: Eleftherios Katsillis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628402682/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-melanoleuca/2.jpg
+  page: https://www.inaturalist.org/photos/642021700
+  author: nbasargin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642021700/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-melanoleuca/3.jpg
+  page: https://www.inaturalist.org/photos/632299259
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/632299259/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-melanoleuca/4.jpg
+  page: https://www.inaturalist.org/photos/633272431
+  author: Katrin Simon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633272431/original.jpg
+- file: images/passeriformes/muscicapidae/oenanthe-melanoleuca/5.jpg
+  page: https://www.inaturalist.org/photos/634899064
+  author: Loïc Chalmandrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634899064/original.jpg
 ---
 
 

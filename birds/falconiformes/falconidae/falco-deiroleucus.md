@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-deiroleucus/1.jpg
+  page: https://www.inaturalist.org/photos/604949595
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604949595/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-deiroleucus/1.jpg
+  page: https://www.inaturalist.org/photos/604949595
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604949595/original.jpg
+- file: images/falconiformes/falconidae/falco-deiroleucus/2.jpg
+  page: https://www.inaturalist.org/photos/609846731
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609846731/original.jpg
+- file: images/falconiformes/falconidae/falco-deiroleucus/3.jpg
+  page: https://www.inaturalist.org/photos/477813970
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477813970/original.jpeg
+- file: images/falconiformes/falconidae/falco-deiroleucus/4.jpg
+  page: https://www.inaturalist.org/photos/605147015
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605147015/original.jpg
+- file: images/falconiformes/falconidae/falco-deiroleucus/5.jpg
+  page: https://www.inaturalist.org/photos/605147225
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605147225/original.jpg
 ---
 
 

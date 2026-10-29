@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/anthracoceros-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/607452836
+  author: swanand kesari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607452836/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/anthracoceros-coronatus/1.jpg
+  page: https://www.inaturalist.org/photos/607452836
+  author: swanand kesari
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607452836/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-coronatus/2.jpg
+  page: https://www.inaturalist.org/photos/623098187
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623098187/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-coronatus/3.jpg
+  page: https://www.inaturalist.org/photos/654199071
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654199071/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-coronatus/4.jpg
+  page: https://www.inaturalist.org/photos/617207563
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207563/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-coronatus/5.jpg
+  page: https://www.inaturalist.org/photos/617225089
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617225089/original.jpg
 ---
 
 

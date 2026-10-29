@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/garrulax-leucolophus/1.jpg
+  page: https://www.inaturalist.org/photos/607137022
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137022/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/garrulax-leucolophus/1.jpg
+  page: https://www.inaturalist.org/photos/607137022
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607137022/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-leucolophus/2.jpg
+  page: https://www.inaturalist.org/photos/617766231
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617766231/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-leucolophus/3.jpg
+  page: https://www.inaturalist.org/photos/615203575
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615203575/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-leucolophus/4.jpg
+  page: https://www.inaturalist.org/photos/616554959
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616554959/original.jpg
+- file: images/passeriformes/leiothrichidae/garrulax-leucolophus/5.jpg
+  page: https://www.inaturalist.org/photos/619773955
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619773955/original.jpg
 ---
 
 

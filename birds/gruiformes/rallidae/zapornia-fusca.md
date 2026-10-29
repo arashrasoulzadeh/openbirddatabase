@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/gruiformes/rallidae/zapornia-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/605311612
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605311612/original.jpg
+images:
+- file: images/gruiformes/rallidae/zapornia-fusca/1.jpg
+  page: https://www.inaturalist.org/photos/605311612
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605311612/original.jpg
+- file: images/gruiformes/rallidae/zapornia-fusca/2.jpg
+  page: https://www.inaturalist.org/photos/608090811
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608090811/original.jpg
+- file: images/gruiformes/rallidae/zapornia-fusca/3.jpg
+  page: https://www.inaturalist.org/photos/718984886
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718984886/original.jpg
+- file: images/gruiformes/rallidae/zapornia-fusca/4.jpg
+  page: https://www.inaturalist.org/photos/629543647
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629543647/original.jpg
+- file: images/gruiformes/rallidae/zapornia-fusca/5.jpg
+  page: https://www.inaturalist.org/photos/605311796
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605311796/original.jpg
 ---
 
 

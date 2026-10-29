@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pterocliformes/pteroclidae/pterocles-quadricinctus/1.jpg
+  page: https://www.inaturalist.org/photos/631026184
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631026184/original.jpg
+images:
+- file: images/pterocliformes/pteroclidae/pterocles-quadricinctus/1.jpg
+  page: https://www.inaturalist.org/photos/631026184
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631026184/original.jpg
+- file: images/pterocliformes/pteroclidae/pterocles-quadricinctus/2.jpg
+  page: https://www.inaturalist.org/photos/459052437
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459052437/original.jpeg
+- file: images/pterocliformes/pteroclidae/pterocles-quadricinctus/3.jpg
+  page: https://www.inaturalist.org/photos/260136400
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260136400/original.jpeg
+- file: images/pterocliformes/pteroclidae/pterocles-quadricinctus/4.jpg
+  page: https://www.inaturalist.org/photos/261872471
+  author: Lucky Okpanachi Atabo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/261872471/original.jpeg
+- file: images/pterocliformes/pteroclidae/pterocles-quadricinctus/5.jpg
+  page: https://www.inaturalist.org/photos/117596677
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/117596677/original.jpg
 ---
 
 

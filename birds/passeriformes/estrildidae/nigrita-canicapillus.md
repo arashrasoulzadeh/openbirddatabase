@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/nigrita-canicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/641397719
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641397719/original.jpg
+images:
+- file: images/passeriformes/estrildidae/nigrita-canicapillus/1.jpg
+  page: https://www.inaturalist.org/photos/641397719
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641397719/original.jpg
+- file: images/passeriformes/estrildidae/nigrita-canicapillus/2.jpg
+  page: https://www.inaturalist.org/photos/477849723
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477849723/original.jpg
+- file: images/passeriformes/estrildidae/nigrita-canicapillus/3.jpg
+  page: https://www.inaturalist.org/photos/514217224
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514217224/original.jpg
+- file: images/passeriformes/estrildidae/nigrita-canicapillus/4.jpg
+  page: https://www.inaturalist.org/photos/553135148
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/553135148/original.jpg
+- file: images/passeriformes/estrildidae/nigrita-canicapillus/5.jpg
+  page: https://www.inaturalist.org/photos/584776228
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584776228/original.jpg
 ---
 
 

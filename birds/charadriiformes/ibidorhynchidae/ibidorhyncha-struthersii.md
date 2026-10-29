@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/ibidorhynchidae/ibidorhyncha-struthersii/1.jpg
+  page: https://www.inaturalist.org/photos/568550431
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568550431/original.jpg
+images:
+- file: images/charadriiformes/ibidorhynchidae/ibidorhyncha-struthersii/1.jpg
+  page: https://www.inaturalist.org/photos/568550431
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568550431/original.jpg
+- file: images/charadriiformes/ibidorhynchidae/ibidorhyncha-struthersii/2.jpg
+  page: https://www.inaturalist.org/photos/525982727
+  author: Tandin Wangdi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525982727/original.jpg
+- file: images/charadriiformes/ibidorhynchidae/ibidorhyncha-struthersii/3.jpg
+  page: https://www.inaturalist.org/photos/502354968
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502354968/original.jpg
+- file: images/charadriiformes/ibidorhynchidae/ibidorhyncha-struthersii/4.jpg
+  page: https://www.inaturalist.org/photos/568550436
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568550436/original.jpg
+- file: images/charadriiformes/ibidorhynchidae/ibidorhyncha-struthersii/5.jpg
+  page: https://www.inaturalist.org/photos/590448152
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590448152/original.jpg
 ---
 
 

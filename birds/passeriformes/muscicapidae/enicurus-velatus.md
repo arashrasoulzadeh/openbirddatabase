@@ -131,7 +131,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 17.3
@@ -139,6 +140,44 @@ morphology:
   wing_length_mm: 74.5
   tail_length_mm: 68.5
   body_mass_g: 33.0
+image:
+  file: images/passeriformes/muscicapidae/enicurus-velatus/1.jpg
+  page: https://www.inaturalist.org/photos/616528427
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616528427/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/enicurus-velatus/1.jpg
+  page: https://www.inaturalist.org/photos/616528427
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616528427/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-velatus/2.jpg
+  page: https://www.inaturalist.org/photos/618849159
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849159/original.jpg
+- file: images/passeriformes/muscicapidae/enicurus-velatus/3.jpg
+  page: https://www.inaturalist.org/photos/128758758
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/128758758/original.jpeg
+- file: images/passeriformes/muscicapidae/enicurus-velatus/4.jpg
+  page: https://www.inaturalist.org/photos/7572948
+  author: Matt Muir
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/7572948/original.jpeg
+- file: images/passeriformes/muscicapidae/enicurus-velatus/5.jpg
+  page: https://www.inaturalist.org/photos/80934208
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/80934208/original.jpeg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/lepidothrix-velutina/1.jpg
+  page: https://www.inaturalist.org/photos/609064635
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609064635/original.jpg
+images:
+- file: images/passeriformes/pipridae/lepidothrix-velutina/1.jpg
+  page: https://www.inaturalist.org/photos/609064635
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609064635/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-velutina/2.jpg
+  page: https://www.inaturalist.org/photos/612471826
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612471826/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-velutina/3.jpg
+  page: https://www.inaturalist.org/photos/614515450
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614515450/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-velutina/4.jpg
+  page: https://www.inaturalist.org/photos/612730272
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612730272/original.jpg
+- file: images/passeriformes/pipridae/lepidothrix-velutina/5.jpg
+  page: https://www.inaturalist.org/photos/614980758
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614980758/original.jpg
 ---
 
 

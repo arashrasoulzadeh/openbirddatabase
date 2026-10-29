@@ -195,8 +195,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/tadorna-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/605650885
+  author: Георгий Виноградов (Georgy Vinogradov)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605650885/original.jpg
+images:
+- file: images/anseriformes/anatidae/tadorna-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/605650885
+  author: Георгий Виноградов (Georgy Vinogradov)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605650885/original.jpg
+- file: images/anseriformes/anatidae/tadorna-ferruginea/2.jpg
+  page: https://www.inaturalist.org/photos/604472761
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604472761/original.jpg
+- file: images/anseriformes/anatidae/tadorna-ferruginea/3.jpg
+  page: https://www.inaturalist.org/photos/605923697
+  author: Марина Давлетшина
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605923697/original.jpg
+- file: images/anseriformes/anatidae/tadorna-ferruginea/4.jpg
+  page: https://www.inaturalist.org/photos/609867281
+  author: Ken Forbes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609867281/original.jpg
+- file: images/anseriformes/anatidae/tadorna-ferruginea/5.jpg
+  page: https://www.inaturalist.org/photos/607435905
+  author: North Ross
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607435905/original.jpg
 ---
 
 

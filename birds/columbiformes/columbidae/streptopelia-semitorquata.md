@@ -179,8 +179,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/streptopelia-semitorquata/1.jpg
+  page: https://www.inaturalist.org/photos/610212518
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610212518/original.jpg
+images:
+- file: images/columbiformes/columbidae/streptopelia-semitorquata/1.jpg
+  page: https://www.inaturalist.org/photos/610212518
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610212518/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-semitorquata/2.jpg
+  page: https://www.inaturalist.org/photos/610677154
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610677154/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-semitorquata/3.jpg
+  page: https://www.inaturalist.org/photos/606627940
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606627940/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-semitorquata/4.jpg
+  page: https://www.inaturalist.org/photos/610622500
+  author: Glynn Morris
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610622500/original.jpg
+- file: images/columbiformes/columbidae/streptopelia-semitorquata/5.jpg
+  page: https://www.inaturalist.org/photos/612452126
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612452126/original.jpg
 ---
 
 

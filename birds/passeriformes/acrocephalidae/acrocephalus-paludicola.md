@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acrocephalidae/acrocephalus-paludicola/1.jpg
+  page: https://www.inaturalist.org/photos/680491256
+  author: prmtl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680491256/original.jpg
+images:
+- file: images/passeriformes/acrocephalidae/acrocephalus-paludicola/1.jpg
+  page: https://www.inaturalist.org/photos/680491256
+  author: prmtl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680491256/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-paludicola/2.jpg
+  page: https://www.inaturalist.org/photos/714571880
+  author: João Lima
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714571880/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-paludicola/3.jpg
+  page: https://www.inaturalist.org/photos/716091174
+  author: Quentin Benet-Cibois
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716091174/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-paludicola/4.jpg
+  page: https://www.inaturalist.org/photos/618681590
+  author: OlgaPasled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618681590/original.jpg
+- file: images/passeriformes/acrocephalidae/acrocephalus-paludicola/5.jpg
+  page: https://www.inaturalist.org/photos/318831809
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/318831809/original.jpg
 ---
 
 

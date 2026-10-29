@@ -152,8 +152,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-hasitata/1.jpg
+  page: https://www.inaturalist.org/photos/615880961
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615880961/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-hasitata/1.jpg
+  page: https://www.inaturalist.org/photos/615880961
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615880961/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-hasitata/2.jpg
+  page: https://www.inaturalist.org/photos/686273530
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686273530/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-hasitata/3.jpg
+  page: https://www.inaturalist.org/photos/722215960
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722215960/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-hasitata/4.jpg
+  page: https://www.inaturalist.org/photos/615880960
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615880960/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-hasitata/5.jpg
+  page: https://www.inaturalist.org/photos/615880959
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615880959/original.jpg
 ---
 
 

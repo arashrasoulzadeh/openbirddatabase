@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/lanio-aurantius/1.jpg
+  page: https://www.inaturalist.org/photos/647064857
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647064857/original.jpg
+images:
+- file: images/passeriformes/thraupidae/lanio-aurantius/1.jpg
+  page: https://www.inaturalist.org/photos/647064857
+  author: josebarrientos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647064857/original.jpg
+- file: images/passeriformes/thraupidae/lanio-aurantius/2.jpg
+  page: https://www.inaturalist.org/photos/477496565
+  author: Diego Blanco
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477496565/original.jpeg
+- file: images/passeriformes/thraupidae/lanio-aurantius/3.jpg
+  page: https://www.inaturalist.org/photos/351851421
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351851421/original.jpeg
+- file: images/passeriformes/thraupidae/lanio-aurantius/4.jpg
+  page: https://www.inaturalist.org/photos/442479116
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442479116/original.jpg
+- file: images/passeriformes/thraupidae/lanio-aurantius/5.jpg
+  page: https://www.inaturalist.org/photos/254381374
+  author: Shawn O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/254381374/original.jpg
 ---
 
 

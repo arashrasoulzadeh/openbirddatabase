@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-anneae/1.jpg
+  page: https://www.inaturalist.org/photos/607463991
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607463991/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-anneae/1.jpg
+  page: https://www.inaturalist.org/photos/607463991
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607463991/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-anneae/2.jpg
+  page: https://www.inaturalist.org/photos/609756298
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609756298/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-anneae/3.jpg
+  page: https://www.inaturalist.org/photos/612769551
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612769551/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-anneae/4.jpg
+  page: https://www.inaturalist.org/photos/622640577
+  author: Jacek Pietruszewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622640577/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-anneae/5.jpg
+  page: https://www.inaturalist.org/photos/658249448
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658249448/original.jpg
 ---
 
 

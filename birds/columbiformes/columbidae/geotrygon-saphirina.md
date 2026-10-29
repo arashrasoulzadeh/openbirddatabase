@@ -142,8 +142,35 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/geotrygon-saphirina/1.jpg
+  page: https://www.inaturalist.org/photos/184885098
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184885098/original.jpg
+images:
+- file: images/columbiformes/columbidae/geotrygon-saphirina/1.jpg
+  page: https://www.inaturalist.org/photos/184885098
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184885098/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-saphirina/2.jpg
+  page: https://www.inaturalist.org/photos/184885019
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184885019/original.jpg
+- file: images/columbiformes/columbidae/geotrygon-saphirina/3.jpg
+  page: https://www.inaturalist.org/photos/184885053
+  author: Cullen Hanks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184885053/original.jpg
 ---
 
 

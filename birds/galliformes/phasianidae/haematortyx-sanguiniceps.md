@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/haematortyx-sanguiniceps/1.jpg
+  page: https://www.inaturalist.org/photos/685853805
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685853805/original.jpg
+images:
+- file: images/galliformes/phasianidae/haematortyx-sanguiniceps/1.jpg
+  page: https://www.inaturalist.org/photos/685853805
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685853805/original.jpg
+- file: images/galliformes/phasianidae/haematortyx-sanguiniceps/2.jpg
+  page: https://www.inaturalist.org/photos/525172391
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525172391/original.jpg
+- file: images/galliformes/phasianidae/haematortyx-sanguiniceps/3.jpg
+  page: https://www.inaturalist.org/photos/516903682
+  author: 周榮茂
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/516903682/original.jpg
+- file: images/galliformes/phasianidae/haematortyx-sanguiniceps/4.jpg
+  page: https://www.inaturalist.org/photos/521111796
+  author: 黃美滿
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/521111796/original.jpg
+- file: images/galliformes/phasianidae/haematortyx-sanguiniceps/5.jpg
+  page: https://www.inaturalist.org/photos/578053040
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/578053040/original.jpg
 ---
 
 

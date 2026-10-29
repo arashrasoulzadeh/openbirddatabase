@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 27
+image:
+  file: images/gruiformes/gruidae/balearica-regulorum/1.jpg
+  page: https://www.inaturalist.org/photos/610381220
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610381220/original.jpg
+images:
+- file: images/gruiformes/gruidae/balearica-regulorum/1.jpg
+  page: https://www.inaturalist.org/photos/610381220
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610381220/original.jpg
+- file: images/gruiformes/gruidae/balearica-regulorum/2.jpg
+  page: https://www.inaturalist.org/photos/606429766
+  author: Aurelijus Narbutas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606429766/original.jpg
+- file: images/gruiformes/gruidae/balearica-regulorum/3.jpg
+  page: https://www.inaturalist.org/photos/614113379
+  author: Louis Aureglia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614113379/original.jpg
+- file: images/gruiformes/gruidae/balearica-regulorum/4.jpg
+  page: https://www.inaturalist.org/photos/610953290
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610953290/original.jpg
+- file: images/gruiformes/gruidae/balearica-regulorum/5.jpg
+  page: https://www.inaturalist.org/photos/610953313
+  author: Eric Watts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610953313/original.jpg
 ---
 
 

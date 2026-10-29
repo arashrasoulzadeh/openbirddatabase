@@ -145,8 +145,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/icterus-auratus/1.jpg
+  page: https://www.inaturalist.org/photos/620781499
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620781499/original.jpg
+images:
+- file: images/passeriformes/icteridae/icterus-auratus/1.jpg
+  page: https://www.inaturalist.org/photos/620781499
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620781499/original.jpg
+- file: images/passeriformes/icteridae/icterus-auratus/2.jpg
+  page: https://www.inaturalist.org/photos/654546433
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654546433/original.jpg
+- file: images/passeriformes/icteridae/icterus-auratus/3.jpg
+  page: https://www.inaturalist.org/photos/672122955
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672122955/original.jpg
 ---
 
 

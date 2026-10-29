@@ -130,8 +130,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/pseudastur-polionotus/1.jpg
+  page: https://www.inaturalist.org/photos/729326841
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729326841/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/pseudastur-polionotus/1.jpg
+  page: https://www.inaturalist.org/photos/729326841
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729326841/original.jpg
+- file: images/accipitriformes/accipitridae/pseudastur-polionotus/2.jpg
+  page: https://www.inaturalist.org/photos/551460239
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/551460239/original.jpg
+- file: images/accipitriformes/accipitridae/pseudastur-polionotus/3.jpg
+  page: https://www.inaturalist.org/photos/417123305
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/417123305/original.jpg
+- file: images/accipitriformes/accipitridae/pseudastur-polionotus/4.jpg
+  page: https://www.inaturalist.org/photos/456426763
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456426763/original.jpg
+- file: images/accipitriformes/accipitridae/pseudastur-polionotus/5.jpg
+  page: https://www.inaturalist.org/photos/342882604
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342882604/original.jpeg
 ---
 
 

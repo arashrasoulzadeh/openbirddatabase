@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/melanerpes-cactorum/1.jpg
+  page: https://www.inaturalist.org/photos/605494073
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494073/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-cactorum/1.jpg
+  page: https://www.inaturalist.org/photos/605494073
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605494073/original.jpg
+- file: images/piciformes/picidae/melanerpes-cactorum/2.jpg
+  page: https://www.inaturalist.org/photos/607729741
+  author: José Nicolás Amuchastegui
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607729741/original.jpg
+- file: images/piciformes/picidae/melanerpes-cactorum/3.jpg
+  page: https://www.inaturalist.org/photos/607502568
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607502568/original.jpg
+- file: images/piciformes/picidae/melanerpes-cactorum/4.jpg
+  page: https://www.inaturalist.org/photos/617993926
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617993926/original.jpg
+- file: images/piciformes/picidae/melanerpes-cactorum/5.jpg
+  page: https://www.inaturalist.org/photos/627703542
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627703542/original.jpg
 ---
 
 

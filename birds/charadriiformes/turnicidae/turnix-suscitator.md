@@ -169,8 +169,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-suscitator/1.jpg
+  page: https://www.inaturalist.org/photos/623233692
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623233692/original.gif
+images:
+- file: images/charadriiformes/turnicidae/turnix-suscitator/1.jpg
+  page: https://www.inaturalist.org/photos/623233692
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623233692/original.gif
+- file: images/charadriiformes/turnicidae/turnix-suscitator/2.jpg
+  page: https://www.inaturalist.org/photos/642854326
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642854326/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-suscitator/3.jpg
+  page: https://www.inaturalist.org/photos/678464499
+  author: Lin Scott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678464499/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-suscitator/4.jpg
+  page: https://www.inaturalist.org/photos/682027879
+  author: Kesava Garimella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682027879/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-suscitator/5.jpg
+  page: https://www.inaturalist.org/photos/722600412
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722600412/original.jpg
 ---
 
 

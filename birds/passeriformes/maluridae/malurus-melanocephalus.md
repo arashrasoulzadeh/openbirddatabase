@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/passeriformes/maluridae/malurus-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/604417263
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604417263/original.jpg
+images:
+- file: images/passeriformes/maluridae/malurus-melanocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/604417263
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604417263/original.jpg
+- file: images/passeriformes/maluridae/malurus-melanocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/605297253
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605297253/original.jpg
+- file: images/passeriformes/maluridae/malurus-melanocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/607981690
+  author: joseal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607981690/original.jpg
+- file: images/passeriformes/maluridae/malurus-melanocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/608766491
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608766491/original.jpg
+- file: images/passeriformes/maluridae/malurus-melanocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/607145892
+  author: Mark Kriedemann
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607145892/original.jpg
 ---
 
 

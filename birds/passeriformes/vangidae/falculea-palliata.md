@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/falculea-palliata/1.jpg
+  page: https://www.inaturalist.org/photos/451625032
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451625032/original.jpg
+images:
+- file: images/passeriformes/vangidae/falculea-palliata/1.jpg
+  page: https://www.inaturalist.org/photos/451625032
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451625032/original.jpg
+- file: images/passeriformes/vangidae/falculea-palliata/2.jpg
+  page: https://www.inaturalist.org/photos/455736388
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455736388/original.jpeg
+- file: images/passeriformes/vangidae/falculea-palliata/3.jpg
+  page: https://www.inaturalist.org/photos/463678648
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463678648/original.jpg
+- file: images/passeriformes/vangidae/falculea-palliata/4.jpg
+  page: https://www.inaturalist.org/photos/339146637
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339146637/original.jpeg
+- file: images/passeriformes/vangidae/falculea-palliata/5.jpg
+  page: https://www.inaturalist.org/photos/243981562
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243981562/original.jpg
 ---
 
 

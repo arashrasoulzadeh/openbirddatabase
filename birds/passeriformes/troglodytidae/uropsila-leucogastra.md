@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/uropsila-leucogastra/1.jpg
+  page: https://www.inaturalist.org/photos/672131341
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672131341/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/uropsila-leucogastra/1.jpg
+  page: https://www.inaturalist.org/photos/672131341
+  author: Eddie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672131341/original.jpg
+- file: images/passeriformes/troglodytidae/uropsila-leucogastra/2.jpg
+  page: https://www.inaturalist.org/photos/731516313
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731516313/original.jpg
+- file: images/passeriformes/troglodytidae/uropsila-leucogastra/3.jpg
+  page: https://www.inaturalist.org/photos/475652802
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475652802/original.jpeg
+- file: images/passeriformes/troglodytidae/uropsila-leucogastra/4.jpg
+  page: https://www.inaturalist.org/photos/526461240
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526461240/original.jpg
+- file: images/passeriformes/troglodytidae/uropsila-leucogastra/5.jpg
+  page: https://www.inaturalist.org/photos/611828396
+  author: Thompson Hyggen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611828396/original.jpg
 ---
 
 

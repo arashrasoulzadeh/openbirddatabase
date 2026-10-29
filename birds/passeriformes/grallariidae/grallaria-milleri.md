@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-milleri/1.jpg
+  page: https://www.inaturalist.org/photos/612694935
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612694935/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-milleri/1.jpg
+  page: https://www.inaturalist.org/photos/612694935
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612694935/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-milleri/2.jpg
+  page: https://www.inaturalist.org/photos/652809640
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652809640/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-milleri/3.jpg
+  page: https://www.inaturalist.org/photos/528116994
+  author: Amber M. King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/528116994/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-milleri/4.jpg
+  page: https://www.inaturalist.org/photos/539554478
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539554478/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-milleri/5.jpg
+  page: https://www.inaturalist.org/photos/465620397
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465620397/original.jpg
 ---
 
 

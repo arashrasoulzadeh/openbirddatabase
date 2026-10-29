@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/aplonis-panayensis/1.jpg
+  page: https://www.inaturalist.org/photos/605842482
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605842482/original.jpg
+images:
+- file: images/passeriformes/sturnidae/aplonis-panayensis/1.jpg
+  page: https://www.inaturalist.org/photos/605842482
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605842482/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-panayensis/2.jpg
+  page: https://www.inaturalist.org/photos/607136791
+  author: York Niu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607136791/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-panayensis/3.jpg
+  page: https://www.inaturalist.org/photos/609708140
+  author: Thorsten Hackbarth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609708140/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-panayensis/4.jpg
+  page: https://www.inaturalist.org/photos/608578205
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608578205/original.jpg
+- file: images/passeriformes/sturnidae/aplonis-panayensis/5.jpg
+  page: https://www.inaturalist.org/photos/608267546
+  author: 雲一百香果
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608267546/original.jpg
 ---
 
 

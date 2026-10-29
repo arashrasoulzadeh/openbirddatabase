@@ -142,8 +142,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-pinon/1.jpg
+  page: https://www.inaturalist.org/photos/613592141
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613592141/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-pinon/1.jpg
+  page: https://www.inaturalist.org/photos/613592141
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613592141/original.jpg
+- file: images/columbiformes/columbidae/ducula-pinon/2.jpg
+  page: https://www.inaturalist.org/photos/625309506
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625309506/original.jpg
+- file: images/columbiformes/columbidae/ducula-pinon/3.jpg
+  page: https://www.inaturalist.org/photos/708225189
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708225189/original.jpg
+- file: images/columbiformes/columbidae/ducula-pinon/4.jpg
+  page: https://www.inaturalist.org/photos/461990305
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461990305/original.jpg
+- file: images/columbiformes/columbidae/ducula-pinon/5.jpg
+  page: https://www.inaturalist.org/photos/477473964
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477473964/original.jpeg
 ---
 
 

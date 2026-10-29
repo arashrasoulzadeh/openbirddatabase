@@ -132,8 +132,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/musophagiformes/musophagidae/tauraco-rossae/1.jpg
+  page: https://www.inaturalist.org/photos/619918237
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619918237/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/tauraco-rossae/1.jpg
+  page: https://www.inaturalist.org/photos/619918237
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619918237/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-rossae/2.jpg
+  page: https://www.inaturalist.org/photos/639638233
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639638233/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-rossae/3.jpg
+  page: https://www.inaturalist.org/photos/672760418
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/672760418/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-rossae/4.jpg
+  page: https://www.inaturalist.org/photos/725991041
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725991041/original.jpg
+- file: images/musophagiformes/musophagidae/tauraco-rossae/5.jpg
+  page: https://www.inaturalist.org/photos/548086446
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548086446/original.jpg
 ---
 
 

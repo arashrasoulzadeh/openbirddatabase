@@ -133,7 +133,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 16.4
@@ -141,6 +142,32 @@ morphology:
   wing_length_mm: 85.7
   tail_length_mm: 91.3
   body_mass_g: 15.0
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-euryura/1.jpg
+  page: https://www.inaturalist.org/photos/288323847
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288323847/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-euryura/1.jpg
+  page: https://www.inaturalist.org/photos/288323847
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288323847/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-euryura/2.jpg
+  page: https://www.inaturalist.org/photos/307923678
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307923678/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-euryura/3.jpg
+  page: https://www.inaturalist.org/photos/298703931
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298703931/original.jpeg
 ---
 
 

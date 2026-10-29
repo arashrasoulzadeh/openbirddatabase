@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/lagonosticta-nitidula/1.jpg
+  page: https://www.inaturalist.org/photos/503163785
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503163785/original.jpg
+images:
+- file: images/passeriformes/estrildidae/lagonosticta-nitidula/1.jpg
+  page: https://www.inaturalist.org/photos/503163785
+  author: Timothy Whitehead
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/503163785/original.jpg
+- file: images/passeriformes/estrildidae/lagonosticta-nitidula/2.jpg
+  page: https://www.inaturalist.org/photos/420658160
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420658160/original.jpeg
+- file: images/passeriformes/estrildidae/lagonosticta-nitidula/3.jpg
+  page: https://www.inaturalist.org/photos/349696766
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349696766/original.jpeg
+- file: images/passeriformes/estrildidae/lagonosticta-nitidula/4.jpg
+  page: https://www.inaturalist.org/photos/223318902
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223318902/original.jpeg
+- file: images/passeriformes/estrildidae/lagonosticta-nitidula/5.jpg
+  page: https://www.inaturalist.org/photos/116431601
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116431601/original.jpeg
 ---
 
 

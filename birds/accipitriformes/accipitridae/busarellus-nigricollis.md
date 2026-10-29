@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/busarellus-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/609586130
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609586130/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/busarellus-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/609586130
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609586130/original.jpg
+- file: images/accipitriformes/accipitridae/busarellus-nigricollis/2.jpg
+  page: https://www.inaturalist.org/photos/608444487
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608444487/original.jpg
+- file: images/accipitriformes/accipitridae/busarellus-nigricollis/3.jpg
+  page: https://www.inaturalist.org/photos/606020864
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606020864/original.jpg
+- file: images/accipitriformes/accipitridae/busarellus-nigricollis/4.jpg
+  page: https://www.inaturalist.org/photos/611641715
+  author: Thomaz Ricardo Favreto Sinani
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611641715/original.jpg
+- file: images/accipitriformes/accipitridae/busarellus-nigricollis/5.jpg
+  page: https://www.inaturalist.org/photos/612348429
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612348429/original.jpg
 ---
 
 

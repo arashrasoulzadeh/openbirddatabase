@@ -242,10 +242,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 21
+image:
+  file: images/psittaciformes/psittaculidae/melopsittacus-undulatus/1.jpg
+  page: https://www.inaturalist.org/photos/618522029
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618522029/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/melopsittacus-undulatus/1.jpg
+  page: https://www.inaturalist.org/photos/618522029
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618522029/original.jpg
+- file: images/psittaciformes/psittaculidae/melopsittacus-undulatus/2.jpg
+  page: https://www.inaturalist.org/photos/620019613
+  author: Lawrence Hylton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620019613/original.jpg
+- file: images/psittaciformes/psittaculidae/melopsittacus-undulatus/3.jpg
+  page: https://www.inaturalist.org/photos/620692102
+  author: Norman Kuring
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620692102/original.jpg
+- file: images/psittaciformes/psittaculidae/melopsittacus-undulatus/4.jpg
+  page: https://www.inaturalist.org/photos/638979668
+  author: Helen Bovill
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638979668/original.jpg
+- file: images/psittaciformes/psittaculidae/melopsittacus-undulatus/5.jpg
+  page: https://www.inaturalist.org/photos/618522338
+  author: José Belem Hernández Díaz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618522338/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/zimmerius-acer/1.jpg
+  page: https://www.inaturalist.org/photos/462366938
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462366938/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/zimmerius-acer/1.jpg
+  page: https://www.inaturalist.org/photos/462366938
+  author: Inacio Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462366938/original.jpeg
+- file: images/passeriformes/tyrannidae/zimmerius-acer/2.jpg
+  page: https://www.inaturalist.org/photos/555266383
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555266383/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-acer/3.jpg
+  page: https://www.inaturalist.org/photos/426753614
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426753614/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-acer/4.jpg
+  page: https://www.inaturalist.org/photos/442565982
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442565982/original.jpeg
+- file: images/passeriformes/tyrannidae/zimmerius-acer/5.jpg
+  page: https://www.inaturalist.org/photos/50786150
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/50786150/original.jpg
 ---
 
 

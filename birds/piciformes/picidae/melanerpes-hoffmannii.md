@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/piciformes/picidae/melanerpes-hoffmannii/1.jpg
+  page: https://www.inaturalist.org/photos/604699845
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699845/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-hoffmannii/1.jpg
+  page: https://www.inaturalist.org/photos/604699845
+  author: Andrew Hrycyna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604699845/original.jpg
+- file: images/piciformes/picidae/melanerpes-hoffmannii/2.jpg
+  page: https://www.inaturalist.org/photos/610726614
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610726614/original.jpg
+- file: images/piciformes/picidae/melanerpes-hoffmannii/3.jpg
+  page: https://www.inaturalist.org/photos/606262960
+  author: Anthony Mora Aguilar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606262960/original.jpg
+- file: images/piciformes/picidae/melanerpes-hoffmannii/4.jpg
+  page: https://www.inaturalist.org/photos/610503286
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610503286/original.jpg
+- file: images/piciformes/picidae/melanerpes-hoffmannii/5.jpg
+  page: https://www.inaturalist.org/photos/613654109
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613654109/original.jpg
 ---
 
 

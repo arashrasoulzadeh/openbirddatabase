@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-lutetiae/1.jpg
+  page: https://www.inaturalist.org/photos/610574092
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574092/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-lutetiae/1.jpg
+  page: https://www.inaturalist.org/photos/610574092
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574092/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-lutetiae/2.jpg
+  page: https://www.inaturalist.org/photos/652822246
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652822246/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-lutetiae/3.jpg
+  page: https://www.inaturalist.org/photos/708617545
+  author: John G. Phillips
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708617545/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-lutetiae/4.jpg
+  page: https://www.inaturalist.org/photos/610574089
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574089/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-lutetiae/5.jpg
+  page: https://www.inaturalist.org/photos/610574311
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574311/original.jpg
 ---
 
 

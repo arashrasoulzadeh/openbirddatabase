@@ -128,7 +128,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 10.6
@@ -136,6 +137,38 @@ morphology:
   wing_length_mm: 67.5
   tail_length_mm: 64.0
   body_mass_g: 45.6
+image:
+  file: images/columbiformes/columbidae/columbina-cyanopis/1.jpg
+  page: https://www.inaturalist.org/photos/139861573
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/139861573/original.jpg
+images:
+- file: images/columbiformes/columbidae/columbina-cyanopis/1.jpg
+  page: https://www.inaturalist.org/photos/139861573
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/139861573/original.jpg
+- file: images/columbiformes/columbidae/columbina-cyanopis/2.jpg
+  page: https://www.inaturalist.org/photos/139861921
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/139861921/original.jpg
+- file: images/columbiformes/columbidae/columbina-cyanopis/3.jpg
+  page: https://www.inaturalist.org/photos/139861927
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/139861927/original.jpg
+- file: images/columbiformes/columbidae/columbina-cyanopis/4.jpg
+  page: https://www.inaturalist.org/photos/139861935
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/139861935/original.jpg
 ---
 
 

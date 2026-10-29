@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/tachycineta-cyaneoviridis/1.jpg
+  page: https://www.inaturalist.org/photos/618505563
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618505563/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/tachycineta-cyaneoviridis/1.jpg
+  page: https://www.inaturalist.org/photos/618505563
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618505563/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-cyaneoviridis/2.jpg
+  page: https://www.inaturalist.org/photos/354746682
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354746682/original.jpg
+- file: images/passeriformes/hirundinidae/tachycineta-cyaneoviridis/3.jpg
+  page: https://www.inaturalist.org/photos/38759803
+  author: Ben Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/38759803/original.jpeg
+- file: images/passeriformes/hirundinidae/tachycineta-cyaneoviridis/4.jpg
+  page: https://www.inaturalist.org/photos/94157233
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94157233/original.jpeg
+- file: images/passeriformes/hirundinidae/tachycineta-cyaneoviridis/5.jpg
+  page: https://www.inaturalist.org/photos/94157264
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94157264/original.jpeg
 ---
 
 

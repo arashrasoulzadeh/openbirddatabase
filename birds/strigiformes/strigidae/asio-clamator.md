@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/asio-clamator/1.jpg
+  page: https://www.inaturalist.org/photos/607027146
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607027146/original.jpg
+images:
+- file: images/strigiformes/strigidae/asio-clamator/1.jpg
+  page: https://www.inaturalist.org/photos/607027146
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607027146/original.jpg
+- file: images/strigiformes/strigidae/asio-clamator/2.jpg
+  page: https://www.inaturalist.org/photos/607994233
+  author: cactusauria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607994233/original.jpg
+- file: images/strigiformes/strigidae/asio-clamator/3.jpg
+  page: https://www.inaturalist.org/photos/606027755
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027755/original.jpg
+- file: images/strigiformes/strigidae/asio-clamator/4.jpg
+  page: https://www.inaturalist.org/photos/617455444
+  author: Oliver Power
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617455444/original.jpg
+- file: images/strigiformes/strigidae/asio-clamator/5.jpg
+  page: https://www.inaturalist.org/photos/619249913
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619249913/original.jpg
 ---
 
 

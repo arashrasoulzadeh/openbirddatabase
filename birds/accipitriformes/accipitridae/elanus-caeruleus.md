@@ -197,10 +197,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/accipitriformes/accipitridae/elanus-caeruleus/1.jpg
+  page: https://www.inaturalist.org/photos/605049319
+  author: Yi-fan翊凡
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605049319/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/elanus-caeruleus/1.jpg
+  page: https://www.inaturalist.org/photos/605049319
+  author: Yi-fan翊凡
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605049319/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-caeruleus/2.jpg
+  page: https://www.inaturalist.org/photos/605417585
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605417585/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-caeruleus/3.jpg
+  page: https://www.inaturalist.org/photos/605430140
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605430140/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-caeruleus/4.jpg
+  page: https://www.inaturalist.org/photos/605284195
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605284195/original.jpg
+- file: images/accipitriformes/accipitridae/elanus-caeruleus/5.jpg
+  page: https://www.inaturalist.org/photos/610949996
+  author: Jahnavee Palsodkar (she/her)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610949996/original.jpg
 ---
 
 

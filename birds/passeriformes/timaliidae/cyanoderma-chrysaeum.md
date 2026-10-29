@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/cyanoderma-chrysaeum/1.jpg
+  page: https://www.inaturalist.org/photos/642399672
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642399672/original.jpg
+images:
+- file: images/passeriformes/timaliidae/cyanoderma-chrysaeum/1.jpg
+  page: https://www.inaturalist.org/photos/642399672
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642399672/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-chrysaeum/2.jpg
+  page: https://www.inaturalist.org/photos/731939618
+  author: Doreen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731939618/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-chrysaeum/3.jpg
+  page: https://www.inaturalist.org/photos/703295152
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/703295152/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-chrysaeum/4.jpg
+  page: https://www.inaturalist.org/photos/532942943
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/532942943/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-chrysaeum/5.jpg
+  page: https://www.inaturalist.org/photos/588383212
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588383212/original.jpg
 ---
 
 

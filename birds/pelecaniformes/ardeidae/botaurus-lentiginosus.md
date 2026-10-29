@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 8
+image:
+  file: images/pelecaniformes/ardeidae/botaurus-lentiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/604964557
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604964557/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/botaurus-lentiginosus/1.jpg
+  page: https://www.inaturalist.org/photos/604964557
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604964557/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-lentiginosus/2.jpg
+  page: https://www.inaturalist.org/photos/605162617
+  author: Elizabeth Green
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605162617/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-lentiginosus/3.jpg
+  page: https://www.inaturalist.org/photos/605198979
+  author: Josie Graydon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605198979/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-lentiginosus/4.jpg
+  page: https://www.inaturalist.org/photos/608623369
+  author: Lauren McLaurin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608623369/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-lentiginosus/5.jpg
+  page: https://www.inaturalist.org/photos/609332175
+  author: Adam J. Searcy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609332175/original.jpg
 ---
 
 

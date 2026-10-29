@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/myzomela-adolphinae/1.jpg
+  page: https://www.inaturalist.org/photos/700682724
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700682724/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myzomela-adolphinae/1.jpg
+  page: https://www.inaturalist.org/photos/700682724
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700682724/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-adolphinae/2.jpg
+  page: https://www.inaturalist.org/photos/571336809
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571336809/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-adolphinae/3.jpg
+  page: https://www.inaturalist.org/photos/701631890
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701631890/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-adolphinae/4.jpg
+  page: https://www.inaturalist.org/photos/698813309
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813309/original.jpg
+- file: images/passeriformes/meliphagidae/myzomela-adolphinae/5.jpg
+  page: https://www.inaturalist.org/photos/698813310
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698813310/original.jpg
 ---
 
 

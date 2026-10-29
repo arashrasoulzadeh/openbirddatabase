@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podargiformes/podargidae/batrachostomus-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/255780091
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255780091/original.jpg
+images:
+- file: images/podargiformes/podargidae/batrachostomus-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/255780091
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255780091/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/184448290
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/184448290/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/202957438
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/202957438/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/3895920
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/3895920/original.jpg
+- file: images/podargiformes/podargidae/batrachostomus-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/547333500
+  author: Ian Dugdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547333500/original.jpg
 ---
 
 

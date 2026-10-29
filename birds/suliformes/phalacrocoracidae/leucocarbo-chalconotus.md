@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/suliformes/phalacrocoracidae/leucocarbo-chalconotus/1.jpg
+  page: https://www.inaturalist.org/photos/604440034
+  author: Isabelle Soccioi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604440034/original.jpg
+images:
+- file: images/suliformes/phalacrocoracidae/leucocarbo-chalconotus/1.jpg
+  page: https://www.inaturalist.org/photos/604440034
+  author: Isabelle Soccioi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604440034/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-chalconotus/2.jpg
+  page: https://www.inaturalist.org/photos/606567768
+  author: Peter Hancock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606567768/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-chalconotus/3.jpg
+  page: https://www.inaturalist.org/photos/611603298
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611603298/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-chalconotus/4.jpg
+  page: https://www.inaturalist.org/photos/616157551
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616157551/original.jpg
+- file: images/suliformes/phalacrocoracidae/leucocarbo-chalconotus/5.jpg
+  page: https://www.inaturalist.org/photos/613564908
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613564908/original.jpg
 ---
 
 

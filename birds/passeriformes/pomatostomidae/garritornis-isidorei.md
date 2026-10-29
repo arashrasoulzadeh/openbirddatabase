@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pomatostomidae/garritornis-isidorei/1.jpg
+  page: https://www.inaturalist.org/photos/706894091
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706894091/original.jpg
+images:
+- file: images/passeriformes/pomatostomidae/garritornis-isidorei/1.jpg
+  page: https://www.inaturalist.org/photos/706894091
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/706894091/original.jpg
+- file: images/passeriformes/pomatostomidae/garritornis-isidorei/2.jpg
+  page: https://www.inaturalist.org/photos/487753612
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487753612/original.jpg
+- file: images/passeriformes/pomatostomidae/garritornis-isidorei/3.jpg
+  page: https://www.inaturalist.org/photos/583299582
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583299582/original.jpg
+- file: images/passeriformes/pomatostomidae/garritornis-isidorei/4.jpg
+  page: https://www.inaturalist.org/photos/337513585
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337513585/original.jpg
+- file: images/passeriformes/pomatostomidae/garritornis-isidorei/5.jpg
+  page: https://www.inaturalist.org/photos/15025579
+  author: coenobita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/15025579/original.jpeg
 ---
 
 

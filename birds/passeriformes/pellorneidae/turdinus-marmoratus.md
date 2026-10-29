@@ -129,7 +129,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 24.2
@@ -137,6 +138,20 @@ morphology:
   wing_length_mm: 94.8
   tail_length_mm: 87.6
   body_mass_g: 41.0
+image:
+  file: images/passeriformes/pellorneidae/turdinus-marmoratus/1.jpg
+  page: https://www.inaturalist.org/photos/226412568
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226412568/original.jpg
+images:
+- file: images/passeriformes/pellorneidae/turdinus-marmoratus/1.jpg
+  page: https://www.inaturalist.org/photos/226412568
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/226412568/original.jpg
 ---
 
 

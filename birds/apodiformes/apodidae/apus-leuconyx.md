@@ -140,8 +140,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/apus-leuconyx/1.jpg
+  page: https://www.inaturalist.org/photos/517792528
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517792528/original.jpg
+images:
+- file: images/apodiformes/apodidae/apus-leuconyx/1.jpg
+  page: https://www.inaturalist.org/photos/517792528
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517792528/original.jpg
+- file: images/apodiformes/apodidae/apus-leuconyx/2.jpg
+  page: https://www.inaturalist.org/photos/365338288
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/365338288/original.jpeg
+- file: images/apodiformes/apodidae/apus-leuconyx/3.jpg
+  page: https://www.inaturalist.org/photos/94318384
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94318384/original.jpeg
+- file: images/apodiformes/apodidae/apus-leuconyx/4.jpg
+  page: https://www.inaturalist.org/photos/517792608
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517792608/original.jpg
+- file: images/apodiformes/apodidae/apus-leuconyx/5.jpg
+  page: https://www.inaturalist.org/photos/518101117
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/518101117/original.jpg
 ---
 
 

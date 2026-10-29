@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/automolus-ochrolaemus/1.jpg
+  page: https://www.inaturalist.org/photos/634706195
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634706195/original.jpg
+images:
+- file: images/passeriformes/furnariidae/automolus-ochrolaemus/1.jpg
+  page: https://www.inaturalist.org/photos/634706195
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634706195/original.jpg
+- file: images/passeriformes/furnariidae/automolus-ochrolaemus/2.jpg
+  page: https://www.inaturalist.org/photos/620849757
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620849757/original.jpg
+- file: images/passeriformes/furnariidae/automolus-ochrolaemus/3.jpg
+  page: https://www.inaturalist.org/photos/347094785
+  author: Zygy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/347094785/original.jpg
+- file: images/passeriformes/furnariidae/automolus-ochrolaemus/4.jpg
+  page: https://www.inaturalist.org/photos/359662842
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359662842/original.jpeg
+- file: images/passeriformes/furnariidae/automolus-ochrolaemus/5.jpg
+  page: https://www.inaturalist.org/photos/359625419
+  author: Kristy Morley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359625419/original.jpg
 ---
 
 

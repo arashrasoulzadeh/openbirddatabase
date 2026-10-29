@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/icteridae/cacicus-chrysopterus/1.jpg
+  page: https://www.inaturalist.org/photos/606027126
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027126/original.jpg
+images:
+- file: images/passeriformes/icteridae/cacicus-chrysopterus/1.jpg
+  page: https://www.inaturalist.org/photos/606027126
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606027126/original.jpg
+- file: images/passeriformes/icteridae/cacicus-chrysopterus/2.jpg
+  page: https://www.inaturalist.org/photos/612711828
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612711828/original.jpg
+- file: images/passeriformes/icteridae/cacicus-chrysopterus/3.jpg
+  page: https://www.inaturalist.org/photos/622564259
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622564259/original.jpg
+- file: images/passeriformes/icteridae/cacicus-chrysopterus/4.jpg
+  page: https://www.inaturalist.org/photos/634013500
+  author: Gabriel Reinoso Franchino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634013500/original.jpg
+- file: images/passeriformes/icteridae/cacicus-chrysopterus/5.jpg
+  page: https://www.inaturalist.org/photos/645003927
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645003927/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/pericrocotus-igneus/1.jpg
+  page: https://www.inaturalist.org/photos/713737659
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713737659/original.jpg
+images:
+- file: images/passeriformes/campephagidae/pericrocotus-igneus/1.jpg
+  page: https://www.inaturalist.org/photos/713737659
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713737659/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-igneus/2.jpg
+  page: https://www.inaturalist.org/photos/606442567
+  author: CaracalShan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606442567/original.jpg
+- file: images/passeriformes/campephagidae/pericrocotus-igneus/3.jpg
+  page: https://www.inaturalist.org/photos/445275471
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/445275471/original.jpeg
+- file: images/passeriformes/campephagidae/pericrocotus-igneus/4.jpg
+  page: https://www.inaturalist.org/photos/458384313
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458384313/original.jpeg
+- file: images/passeriformes/campephagidae/pericrocotus-igneus/5.jpg
+  page: https://www.inaturalist.org/photos/276470798
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470798/original.jpg
 ---
 
 

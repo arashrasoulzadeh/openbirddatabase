@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/harpactes-erythrocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/611136795
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136795/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/harpactes-erythrocephalus/1.jpg
+  page: https://www.inaturalist.org/photos/611136795
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611136795/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-erythrocephalus/2.jpg
+  page: https://www.inaturalist.org/photos/717078693
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717078693/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-erythrocephalus/3.jpg
+  page: https://www.inaturalist.org/photos/614358091
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614358091/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-erythrocephalus/4.jpg
+  page: https://www.inaturalist.org/photos/626428820
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626428820/original.jpg
+- file: images/trogoniformes/trogonidae/harpactes-erythrocephalus/5.jpg
+  page: https://www.inaturalist.org/photos/625983534
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625983534/original.jpg
 ---
 
 

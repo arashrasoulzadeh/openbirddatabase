@@ -130,7 +130,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 15.5
@@ -140,6 +141,44 @@ morphology:
   body_mass_g: 32.5
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/thraupidae/thraupis-sayaca/1.jpg
+  page: https://www.inaturalist.org/photos/605144439
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144439/original.jpg
+images:
+- file: images/passeriformes/thraupidae/thraupis-sayaca/1.jpg
+  page: https://www.inaturalist.org/photos/605144439
+  author: Lucas Lopes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605144439/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-sayaca/2.jpg
+  page: https://www.inaturalist.org/photos/605190619
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605190619/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-sayaca/3.jpg
+  page: https://www.inaturalist.org/photos/605690561
+  author: Gonzalo Roget
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605690561/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-sayaca/4.jpg
+  page: https://www.inaturalist.org/photos/607279045
+  author: Fabrício Mil Homens Riella
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607279045/original.jpg
+- file: images/passeriformes/thraupidae/thraupis-sayaca/5.jpg
+  page: https://www.inaturalist.org/photos/606730296
+  author: Gabriel Cardoso Fialho
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606730296/original.jpg
 ---
 
 

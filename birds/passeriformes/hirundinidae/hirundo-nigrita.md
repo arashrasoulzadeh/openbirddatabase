@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/hirundo-nigrita/1.jpg
+  page: https://www.inaturalist.org/photos/480816520
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480816520/original.jpeg
+images:
+- file: images/passeriformes/hirundinidae/hirundo-nigrita/1.jpg
+  page: https://www.inaturalist.org/photos/480816520
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480816520/original.jpeg
+- file: images/passeriformes/hirundinidae/hirundo-nigrita/2.jpg
+  page: https://www.inaturalist.org/photos/216465716
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/216465716/original.jpeg
+- file: images/passeriformes/hirundinidae/hirundo-nigrita/3.jpg
+  page: https://www.inaturalist.org/photos/180611352
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180611352/original.jpg
+- file: images/passeriformes/hirundinidae/hirundo-nigrita/4.jpg
+  page: https://www.inaturalist.org/photos/480816470
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480816470/original.jpeg
+- file: images/passeriformes/hirundinidae/hirundo-nigrita/5.jpg
+  page: https://www.inaturalist.org/photos/480816675
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480816675/original.jpeg
 ---
 
 

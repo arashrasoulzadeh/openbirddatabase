@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/clytorhynchus-pachycephaloides/1.jpg
+  page: https://www.inaturalist.org/photos/720203946
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720203946/original.jpg
+images:
+- file: images/passeriformes/monarchidae/clytorhynchus-pachycephaloides/1.jpg
+  page: https://www.inaturalist.org/photos/720203946
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720203946/original.jpg
+- file: images/passeriformes/monarchidae/clytorhynchus-pachycephaloides/2.jpg
+  page: https://www.inaturalist.org/photos/586256097
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586256097/original.jpg
+- file: images/passeriformes/monarchidae/clytorhynchus-pachycephaloides/3.jpg
+  page: https://www.inaturalist.org/photos/720204124
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720204124/original.jpg
+- file: images/passeriformes/monarchidae/clytorhynchus-pachycephaloides/4.jpg
+  page: https://www.inaturalist.org/photos/720204145
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720204145/original.jpg
+- file: images/passeriformes/monarchidae/clytorhynchus-pachycephaloides/5.jpg
+  page: https://www.inaturalist.org/photos/720204176
+  author: Donald Davesne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720204176/original.jpg
 ---
 
 

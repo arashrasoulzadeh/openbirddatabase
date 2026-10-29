@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/nisaetus-cirrhatus/1.jpg
+  page: https://www.inaturalist.org/photos/612359055
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612359055/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/nisaetus-cirrhatus/1.jpg
+  page: https://www.inaturalist.org/photos/612359055
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612359055/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-cirrhatus/2.jpg
+  page: https://www.inaturalist.org/photos/615535069
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615535069/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-cirrhatus/3.jpg
+  page: https://www.inaturalist.org/photos/618849808
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618849808/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-cirrhatus/4.jpg
+  page: https://www.inaturalist.org/photos/657919591
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657919591/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-cirrhatus/5.jpg
+  page: https://www.inaturalist.org/photos/612980544
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612980544/original.jpg
 ---
 
 

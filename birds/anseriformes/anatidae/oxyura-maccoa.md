@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/oxyura-maccoa/1.jpg
+  page: https://www.inaturalist.org/photos/637215782
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637215782/original.jpg
+images:
+- file: images/anseriformes/anatidae/oxyura-maccoa/1.jpg
+  page: https://www.inaturalist.org/photos/637215782
+  author: Dave Brown
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637215782/original.jpg
+- file: images/anseriformes/anatidae/oxyura-maccoa/2.jpg
+  page: https://www.inaturalist.org/photos/654028667
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654028667/original.jpg
+- file: images/anseriformes/anatidae/oxyura-maccoa/3.jpg
+  page: https://www.inaturalist.org/photos/744141630
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744141630/original.jpg
+- file: images/anseriformes/anatidae/oxyura-maccoa/4.jpg
+  page: https://www.inaturalist.org/photos/729138128
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729138128/original.jpg
+- file: images/anseriformes/anatidae/oxyura-maccoa/5.jpg
+  page: https://www.inaturalist.org/photos/743482844
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743482844/original.jpg
 ---
 
 

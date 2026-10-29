@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/parulidae/setophaga-tigrina/1.jpg
+  page: https://www.inaturalist.org/photos/607518020
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518020/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-tigrina/1.jpg
+  page: https://www.inaturalist.org/photos/607518020
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607518020/original.jpg
+- file: images/passeriformes/parulidae/setophaga-tigrina/2.jpg
+  page: https://www.inaturalist.org/photos/610271379
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610271379/original.jpg
+- file: images/passeriformes/parulidae/setophaga-tigrina/3.jpg
+  page: https://www.inaturalist.org/photos/611498515
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611498515/original.jpg
+- file: images/passeriformes/parulidae/setophaga-tigrina/4.jpg
+  page: https://www.inaturalist.org/photos/612343271
+  author: Kat B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612343271/original.jpg
+- file: images/passeriformes/parulidae/setophaga-tigrina/5.jpg
+  page: https://www.inaturalist.org/photos/628914763
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628914763/original.jpg
 ---
 
 

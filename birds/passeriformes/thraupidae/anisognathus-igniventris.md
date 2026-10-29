@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/anisognathus-igniventris/1.jpg
+  page: https://www.inaturalist.org/photos/608009791
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608009791/original.jpg
+images:
+- file: images/passeriformes/thraupidae/anisognathus-igniventris/1.jpg
+  page: https://www.inaturalist.org/photos/608009791
+  author: Anna Hess
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608009791/original.jpg
+- file: images/passeriformes/thraupidae/anisognathus-igniventris/2.jpg
+  page: https://www.inaturalist.org/photos/612919791
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612919791/original.jpg
+- file: images/passeriformes/thraupidae/anisognathus-igniventris/3.jpg
+  page: https://www.inaturalist.org/photos/625014349
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625014349/original.jpg
+- file: images/passeriformes/thraupidae/anisognathus-igniventris/4.jpg
+  page: https://www.inaturalist.org/photos/637417835
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637417835/original.jpg
+- file: images/passeriformes/thraupidae/anisognathus-igniventris/5.jpg
+  page: https://www.inaturalist.org/photos/645660266
+  author: Daniel Nicholson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645660266/original.jpg
 ---
 
 

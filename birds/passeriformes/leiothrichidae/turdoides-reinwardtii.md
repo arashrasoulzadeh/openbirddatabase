@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/turdoides-reinwardtii/1.jpg
+  page: https://www.inaturalist.org/photos/612505795
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612505795/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/turdoides-reinwardtii/1.jpg
+  page: https://www.inaturalist.org/photos/612505795
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612505795/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-reinwardtii/2.jpg
+  page: https://www.inaturalist.org/photos/471597673
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471597673/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-reinwardtii/3.jpg
+  page: https://www.inaturalist.org/photos/506679554
+  author: killerrexy1
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/506679554/original.jpg
+- file: images/passeriformes/leiothrichidae/turdoides-reinwardtii/4.jpg
+  page: https://www.inaturalist.org/photos/351292845
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/351292845/original.jpeg
+- file: images/passeriformes/leiothrichidae/turdoides-reinwardtii/5.jpg
+  page: https://www.inaturalist.org/photos/363460762
+  author: Wolfgang Ahlmer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363460762/original.jpg
 ---
 
 

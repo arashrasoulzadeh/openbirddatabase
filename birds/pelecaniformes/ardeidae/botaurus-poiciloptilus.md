@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/botaurus-poiciloptilus/1.jpg
+  page: https://www.inaturalist.org/photos/709519866
+  author: Pluto Hooper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709519866/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/botaurus-poiciloptilus/1.jpg
+  page: https://www.inaturalist.org/photos/709519866
+  author: Pluto Hooper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709519866/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-poiciloptilus/2.jpg
+  page: https://www.inaturalist.org/photos/741475215
+  author: Emily Roberts
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741475215/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-poiciloptilus/3.jpg
+  page: https://www.inaturalist.org/photos/576839524
+  author: Craig Hensley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576839524/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-poiciloptilus/4.jpg
+  page: https://www.inaturalist.org/photos/709519861
+  author: Pluto Hooper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709519861/original.jpg
+- file: images/pelecaniformes/ardeidae/botaurus-poiciloptilus/5.jpg
+  page: https://www.inaturalist.org/photos/709519789
+  author: Pluto Hooper
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709519789/original.jpg
 ---
 
 

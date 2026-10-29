@@ -141,8 +141,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-luzoniensis/1.jpg
+  page: https://www.inaturalist.org/photos/611141102
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611141102/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-luzoniensis/1.jpg
+  page: https://www.inaturalist.org/photos/611141102
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611141102/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-luzoniensis/2.jpg
+  page: https://www.inaturalist.org/photos/614933975
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933975/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-luzoniensis/3.jpg
+  page: https://www.inaturalist.org/photos/618851161
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851161/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-luzoniensis/4.jpg
+  page: https://www.inaturalist.org/photos/717080588
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717080588/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-luzoniensis/5.jpg
+  page: https://www.inaturalist.org/photos/611198243
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611198243/original.jpg
 ---
 
 

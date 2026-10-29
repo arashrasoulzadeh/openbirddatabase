@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/psittacara-wagleri/1.jpg
+  page: https://www.inaturalist.org/photos/610304503
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610304503/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/psittacara-wagleri/1.jpg
+  page: https://www.inaturalist.org/photos/610304503
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610304503/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-wagleri/2.jpg
+  page: https://www.inaturalist.org/photos/626417667
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626417667/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-wagleri/3.jpg
+  page: https://www.inaturalist.org/photos/646706133
+  author: Ellky Arteta Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646706133/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-wagleri/4.jpg
+  page: https://www.inaturalist.org/photos/651837906
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651837906/original.jpg
+- file: images/psittaciformes/psittacidae/psittacara-wagleri/5.jpg
+  page: https://www.inaturalist.org/photos/687969756
+  author: johnyochum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687969756/original.jpg
 ---
 
 

@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/gymnomyza-samoensis/1.jpg
+  page: https://www.inaturalist.org/photos/728465772
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728465772/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/gymnomyza-samoensis/1.jpg
+  page: https://www.inaturalist.org/photos/728465772
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728465772/original.jpg
+- file: images/passeriformes/meliphagidae/gymnomyza-samoensis/2.jpg
+  page: https://www.inaturalist.org/photos/443497791
+  author: Caroline Quinn
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443497791/original.jpeg
+- file: images/passeriformes/meliphagidae/gymnomyza-samoensis/3.jpg
+  page: https://www.inaturalist.org/photos/728465771
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728465771/original.jpg
+- file: images/passeriformes/meliphagidae/gymnomyza-samoensis/4.jpg
+  page: https://www.inaturalist.org/photos/727943166
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727943166/original.jpg
+- file: images/passeriformes/meliphagidae/gymnomyza-samoensis/5.jpg
+  page: https://www.inaturalist.org/photos/727943165
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727943165/original.jpg
 ---
 
 

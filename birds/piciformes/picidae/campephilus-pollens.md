@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campephilus-pollens/1.jpg
+  page: https://www.inaturalist.org/photos/652808391
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808391/original.jpg
+images:
+- file: images/piciformes/picidae/campephilus-pollens/1.jpg
+  page: https://www.inaturalist.org/photos/652808391
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652808391/original.jpg
+- file: images/piciformes/picidae/campephilus-pollens/2.jpg
+  page: https://www.inaturalist.org/photos/558929263
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/558929263/original.jpg
+- file: images/piciformes/picidae/campephilus-pollens/3.jpg
+  page: https://www.inaturalist.org/photos/567070381
+  author: Rafaella Cevallos Larrea
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567070381/original.jpg
+- file: images/piciformes/picidae/campephilus-pollens/4.jpg
+  page: https://www.inaturalist.org/photos/617222509
+  author: Zihao Wang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617222509/original.jpg
+- file: images/piciformes/picidae/campephilus-pollens/5.jpg
+  page: https://www.inaturalist.org/photos/259588334
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259588334/original.jpeg
 ---
 
 

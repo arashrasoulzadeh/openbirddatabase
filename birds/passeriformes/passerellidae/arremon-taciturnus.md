@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/arremon-taciturnus/1.jpg
+  page: https://www.inaturalist.org/photos/636967906
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636967906/original.jpg
+images:
+- file: images/passeriformes/passerellidae/arremon-taciturnus/1.jpg
+  page: https://www.inaturalist.org/photos/636967906
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636967906/original.jpg
+- file: images/passeriformes/passerellidae/arremon-taciturnus/2.jpg
+  page: https://www.inaturalist.org/photos/473176493
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473176493/original.jpg
+- file: images/passeriformes/passerellidae/arremon-taciturnus/3.jpg
+  page: https://www.inaturalist.org/photos/556187634
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556187634/original.jpg
+- file: images/passeriformes/passerellidae/arremon-taciturnus/4.jpg
+  page: https://www.inaturalist.org/photos/603094857
+  author: jose_balderrama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/603094857/original.jpg
+- file: images/passeriformes/passerellidae/arremon-taciturnus/5.jpg
+  page: https://www.inaturalist.org/photos/345618505
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345618505/original.jpeg
 ---
 
 

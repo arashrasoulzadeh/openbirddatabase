@@ -178,8 +178,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/polyboroides-typus/1.jpg
+  page: https://www.inaturalist.org/photos/605021885
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605021885/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/polyboroides-typus/1.jpg
+  page: https://www.inaturalist.org/photos/605021885
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605021885/original.jpg
+- file: images/accipitriformes/accipitridae/polyboroides-typus/2.jpg
+  page: https://www.inaturalist.org/photos/606845187
+  author: Andrew Gillespie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606845187/original.jpg
+- file: images/accipitriformes/accipitridae/polyboroides-typus/3.jpg
+  page: https://www.inaturalist.org/photos/607719041
+  author: Matthew Fainman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607719041/original.jpg
+- file: images/accipitriformes/accipitridae/polyboroides-typus/4.jpg
+  page: https://www.inaturalist.org/photos/610989931
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610989931/original.jpg
+- file: images/accipitriformes/accipitridae/polyboroides-typus/5.jpg
+  page: https://www.inaturalist.org/photos/612186437
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612186437/original.jpg
 ---
 
 

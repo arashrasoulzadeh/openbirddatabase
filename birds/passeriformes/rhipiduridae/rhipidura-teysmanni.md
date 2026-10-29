@@ -133,8 +133,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhipiduridae/rhipidura-teysmanni/1.jpg
+  page: https://www.inaturalist.org/photos/724569784
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724569784/original.jpg
+images:
+- file: images/passeriformes/rhipiduridae/rhipidura-teysmanni/1.jpg
+  page: https://www.inaturalist.org/photos/724569784
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724569784/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-teysmanni/2.jpg
+  page: https://www.inaturalist.org/photos/309885911
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309885911/original.jpg
+- file: images/passeriformes/rhipiduridae/rhipidura-teysmanni/3.jpg
+  page: https://www.inaturalist.org/photos/336015528
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336015528/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-teysmanni/4.jpg
+  page: https://www.inaturalist.org/photos/232604257
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232604257/original.jpeg
+- file: images/passeriformes/rhipiduridae/rhipidura-teysmanni/5.jpg
+  page: https://www.inaturalist.org/photos/129084252
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129084252/original.jpeg
 ---
 
 

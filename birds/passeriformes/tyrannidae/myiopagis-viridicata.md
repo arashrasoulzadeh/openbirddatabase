@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiopagis-viridicata/1.jpg
+  page: https://www.inaturalist.org/photos/609098011
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609098011/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiopagis-viridicata/1.jpg
+  page: https://www.inaturalist.org/photos/609098011
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609098011/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-viridicata/2.jpg
+  page: https://www.inaturalist.org/photos/607724828
+  author: Sebastián de Jesús Herrera Buenfil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607724828/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-viridicata/3.jpg
+  page: https://www.inaturalist.org/photos/607080385
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607080385/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-viridicata/4.jpg
+  page: https://www.inaturalist.org/photos/620094784
+  author: Abraham A. Gómez Landero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620094784/original.jpg
+- file: images/passeriformes/tyrannidae/myiopagis-viridicata/5.jpg
+  page: https://www.inaturalist.org/photos/615241857
+  author: Alexis Williams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615241857/original.jpg
 ---
 
 

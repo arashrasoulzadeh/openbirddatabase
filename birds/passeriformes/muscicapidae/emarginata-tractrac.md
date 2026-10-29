@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/emarginata-tractrac/1.jpg
+  page: https://www.inaturalist.org/photos/657425802
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657425802/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/emarginata-tractrac/1.jpg
+  page: https://www.inaturalist.org/photos/657425802
+  author: Nathan Sarrazin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657425802/original.jpg
+- file: images/passeriformes/muscicapidae/emarginata-tractrac/2.jpg
+  page: https://www.inaturalist.org/photos/584497681
+  author: Nogga_Eugene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584497681/original.jpg
+- file: images/passeriformes/muscicapidae/emarginata-tractrac/3.jpg
+  page: https://www.inaturalist.org/photos/582891967
+  author: Stefan Curth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582891967/original.jpg
+- file: images/passeriformes/muscicapidae/emarginata-tractrac/4.jpg
+  page: https://www.inaturalist.org/photos/600505753
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600505753/original.jpg
+- file: images/passeriformes/muscicapidae/emarginata-tractrac/5.jpg
+  page: https://www.inaturalist.org/photos/376608690
+  author: Tuoichen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/376608690/original.jpeg
 ---
 
 

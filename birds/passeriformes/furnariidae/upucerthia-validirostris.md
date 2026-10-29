@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/upucerthia-validirostris/1.jpg
+  page: https://www.inaturalist.org/photos/651672126
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651672126/original.jpg
+images:
+- file: images/passeriformes/furnariidae/upucerthia-validirostris/1.jpg
+  page: https://www.inaturalist.org/photos/651672126
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651672126/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-validirostris/2.jpg
+  page: https://www.inaturalist.org/photos/659132099
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659132099/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-validirostris/3.jpg
+  page: https://www.inaturalist.org/photos/730676322
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730676322/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-validirostris/4.jpg
+  page: https://www.inaturalist.org/photos/466859070
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466859070/original.jpg
+- file: images/passeriformes/furnariidae/upucerthia-validirostris/5.jpg
+  page: https://www.inaturalist.org/photos/490651301
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490651301/original.jpeg
 ---
 
 

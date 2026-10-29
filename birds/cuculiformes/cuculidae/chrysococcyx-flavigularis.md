@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chrysococcyx-flavigularis/1.jpg
+  page: https://www.inaturalist.org/photos/662967100
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662967100/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chrysococcyx-flavigularis/1.jpg
+  page: https://www.inaturalist.org/photos/662967100
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662967100/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-flavigularis/2.jpg
+  page: https://www.inaturalist.org/photos/353545251
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353545251/original.png
+- file: images/cuculiformes/cuculidae/chrysococcyx-flavigularis/3.jpg
+  page: https://www.inaturalist.org/photos/181156672
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/181156672/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-flavigularis/4.jpg
+  page: https://www.inaturalist.org/photos/662967102
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662967102/original.jpg
+- file: images/cuculiformes/cuculidae/chrysococcyx-flavigularis/5.jpg
+  page: https://www.inaturalist.org/photos/662967122
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/662967122/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cercomacra-melanaria/1.jpg
+  page: https://www.inaturalist.org/photos/701868218
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701868218/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/cercomacra-melanaria/1.jpg
+  page: https://www.inaturalist.org/photos/701868218
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701868218/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-melanaria/2.jpg
+  page: https://www.inaturalist.org/photos/731007562
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731007562/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-melanaria/3.jpg
+  page: https://www.inaturalist.org/photos/736134171
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736134171/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-melanaria/4.jpg
+  page: https://www.inaturalist.org/photos/587819065
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587819065/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacra-melanaria/5.jpg
+  page: https://www.inaturalist.org/photos/342977094
+  author: Paulo Mascaretti
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342977094/original.jpg
 ---
 
 

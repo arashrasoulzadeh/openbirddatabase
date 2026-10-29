@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/cracidae/penelope-jacucaca/1.jpg
+  page: https://www.inaturalist.org/photos/630013796
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630013796/original.jpg
+images:
+- file: images/galliformes/cracidae/penelope-jacucaca/1.jpg
+  page: https://www.inaturalist.org/photos/630013796
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630013796/original.jpg
+- file: images/galliformes/cracidae/penelope-jacucaca/2.jpg
+  page: https://www.inaturalist.org/photos/730596106
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730596106/original.jpg
+- file: images/galliformes/cracidae/penelope-jacucaca/3.jpg
+  page: https://www.inaturalist.org/photos/416897844
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416897844/original.jpeg
+- file: images/galliformes/cracidae/penelope-jacucaca/4.jpg
+  page: https://www.inaturalist.org/photos/414660145
+  author: Salomão Janderson Ferreira Bispo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414660145/original.jpg
+- file: images/galliformes/cracidae/penelope-jacucaca/5.jpg
+  page: https://www.inaturalist.org/photos/457554028
+  author: Jaderson Martins
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457554028/original.jpg
 ---
 
 

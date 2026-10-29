@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/lalage-melaschistos/1.jpg
+  page: https://www.inaturalist.org/photos/614417308
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614417308/original.jpg
+images:
+- file: images/passeriformes/campephagidae/lalage-melaschistos/1.jpg
+  page: https://www.inaturalist.org/photos/614417308
+  author: Pavel Smirnov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614417308/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melaschistos/2.jpg
+  page: https://www.inaturalist.org/photos/617088221
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617088221/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melaschistos/3.jpg
+  page: https://www.inaturalist.org/photos/623089615
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623089615/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melaschistos/4.jpg
+  page: https://www.inaturalist.org/photos/642642510
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642642510/original.jpg
+- file: images/passeriformes/campephagidae/lalage-melaschistos/5.jpg
+  page: https://www.inaturalist.org/photos/630515370
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630515370/original.jpg
 ---
 
 

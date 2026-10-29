@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/yuhina-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/721134271
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721134271/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/yuhina-gularis/1.jpg
+  page: https://www.inaturalist.org/photos/721134271
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/721134271/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-gularis/2.jpg
+  page: https://www.inaturalist.org/photos/660818429
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660818429/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-gularis/3.jpg
+  page: https://www.inaturalist.org/photos/742122960
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742122960/original.jpg
+- file: images/passeriformes/zosteropidae/yuhina-gularis/4.jpg
+  page: https://www.inaturalist.org/photos/463930945
+  author: Sagnik Dutta Roy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463930945/original.jpeg
+- file: images/passeriformes/zosteropidae/yuhina-gularis/5.jpg
+  page: https://www.inaturalist.org/photos/487054699
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/487054699/original.jpg
 ---
 
 

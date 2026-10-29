@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptiliogonatidae/ptiliogonys-caudatus/1.jpg
+  page: https://www.inaturalist.org/photos/607233588
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607233588/original.jpg
+images:
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-caudatus/1.jpg
+  page: https://www.inaturalist.org/photos/607233588
+  author: Emily Franzen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607233588/original.jpg
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-caudatus/2.jpg
+  page: https://www.inaturalist.org/photos/611289553
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611289553/original.jpg
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-caudatus/3.jpg
+  page: https://www.inaturalist.org/photos/692525796
+  author: Matt Felperin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692525796/original.jpg
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-caudatus/4.jpg
+  page: https://www.inaturalist.org/photos/614796931
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614796931/original.jpg
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-caudatus/5.jpg
+  page: https://www.inaturalist.org/photos/621254332
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621254332/original.jpg
 ---
 
 

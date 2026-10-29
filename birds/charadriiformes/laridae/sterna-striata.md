@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/sterna-striata/1.jpg
+  page: https://www.inaturalist.org/photos/607574385
+  author: Scott
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607574385/original.jpg
+images:
+- file: images/charadriiformes/laridae/sterna-striata/1.jpg
+  page: https://www.inaturalist.org/photos/607574385
+  author: Scott
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607574385/original.jpg
+- file: images/charadriiformes/laridae/sterna-striata/2.jpg
+  page: https://www.inaturalist.org/photos/609638324
+  author: Tommy Forrest
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609638324/original.jpg
+- file: images/charadriiformes/laridae/sterna-striata/3.jpg
+  page: https://www.inaturalist.org/photos/607875267
+  author: jack12347
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607875267/original.jpg
+- file: images/charadriiformes/laridae/sterna-striata/4.jpg
+  page: https://www.inaturalist.org/photos/608819859
+  author: Arnim Littek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608819859/original.jpg
+- file: images/charadriiformes/laridae/sterna-striata/5.jpg
+  page: https://www.inaturalist.org/photos/608341450
+  author: Emma Burns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608341450/original.jpg
 ---
 
 

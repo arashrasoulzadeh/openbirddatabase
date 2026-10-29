@@ -139,8 +139,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/thamnophilus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/724737472
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724737472/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/thamnophilus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/724737472
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724737472/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/474871231
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474871231/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/350321294
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350321294/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/361078869
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/361078869/original.jpg
+- file: images/passeriformes/thamnophilidae/thamnophilus-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/255700582
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255700582/original.jpeg
 ---
 
 

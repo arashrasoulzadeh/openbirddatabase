@@ -163,8 +163,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/prinia-gracilis/1.jpg
+  page: https://www.inaturalist.org/photos/614231650
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231650/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/prinia-gracilis/1.jpg
+  page: https://www.inaturalist.org/photos/614231650
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614231650/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-gracilis/2.jpg
+  page: https://www.inaturalist.org/photos/634869443
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634869443/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-gracilis/3.jpg
+  page: https://www.inaturalist.org/photos/714056212
+  author: Dmitry Babin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714056212/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-gracilis/4.jpg
+  page: https://www.inaturalist.org/photos/614520839
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614520839/original.jpg
+- file: images/passeriformes/cisticolidae/prinia-gracilis/5.jpg
+  page: https://www.inaturalist.org/photos/634869461
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634869461/original.jpg
 ---
 
 

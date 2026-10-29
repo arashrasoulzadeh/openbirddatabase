@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/ficedula-rufigula/1.jpg
+  page: https://www.inaturalist.org/photos/471142444
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471142444/original.jpeg
+images:
+- file: images/passeriformes/muscicapidae/ficedula-rufigula/1.jpg
+  page: https://www.inaturalist.org/photos/471142444
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471142444/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-rufigula/2.jpg
+  page: https://www.inaturalist.org/photos/585253955
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585253955/original.jpg
+- file: images/passeriformes/muscicapidae/ficedula-rufigula/3.jpg
+  page: https://www.inaturalist.org/photos/129078236
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129078236/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-rufigula/4.jpg
+  page: https://www.inaturalist.org/photos/471137849
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471137849/original.jpeg
+- file: images/passeriformes/muscicapidae/ficedula-rufigula/5.jpg
+  page: https://www.inaturalist.org/photos/129078249
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/129078249/original.jpeg
 ---
 
 

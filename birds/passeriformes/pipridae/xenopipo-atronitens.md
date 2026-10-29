@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/xenopipo-atronitens/1.jpg
+  page: https://www.inaturalist.org/photos/715450658
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715450658/original.jpg
+images:
+- file: images/passeriformes/pipridae/xenopipo-atronitens/1.jpg
+  page: https://www.inaturalist.org/photos/715450658
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715450658/original.jpg
+- file: images/passeriformes/pipridae/xenopipo-atronitens/2.jpg
+  page: https://www.inaturalist.org/photos/465150924
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465150924/original.jpeg
+- file: images/passeriformes/pipridae/xenopipo-atronitens/3.jpg
+  page: https://www.inaturalist.org/photos/467514592
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467514592/original.jpg
+- file: images/passeriformes/pipridae/xenopipo-atronitens/4.jpg
+  page: https://www.inaturalist.org/photos/414596344
+  author: wang cai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/414596344/original.jpeg
+- file: images/passeriformes/pipridae/xenopipo-atronitens/5.jpg
+  page: https://www.inaturalist.org/photos/297818288
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/297818288/original.jpg
 ---
 
 

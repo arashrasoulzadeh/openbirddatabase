@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pittidae/hydrornis-oatesi/1.jpg
+  page: https://www.inaturalist.org/photos/631332891
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631332891/original.jpg
+images:
+- file: images/passeriformes/pittidae/hydrornis-oatesi/1.jpg
+  page: https://www.inaturalist.org/photos/631332891
+  author: stevefirth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/631332891/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-oatesi/2.jpg
+  page: https://www.inaturalist.org/photos/536573640
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/536573640/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-oatesi/3.jpg
+  page: https://www.inaturalist.org/photos/358956142
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358956142/original.jpeg
+- file: images/passeriformes/pittidae/hydrornis-oatesi/4.jpg
+  page: https://www.inaturalist.org/photos/391081687
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/391081687/original.jpg
+- file: images/passeriformes/pittidae/hydrornis-oatesi/5.jpg
+  page: https://www.inaturalist.org/photos/339815699
+  author: Seth Wollney
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339815699/original.jpeg
 ---
 
 

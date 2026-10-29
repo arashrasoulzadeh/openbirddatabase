@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/laridae/rynchops-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/623126736
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623126736/original.jpg
+images:
+- file: images/charadriiformes/laridae/rynchops-albicollis/1.jpg
+  page: https://www.inaturalist.org/photos/623126736
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623126736/original.jpg
+- file: images/charadriiformes/laridae/rynchops-albicollis/2.jpg
+  page: https://www.inaturalist.org/photos/520432794
+  author: Rich Agar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/520432794/original.jpg
+- file: images/charadriiformes/laridae/rynchops-albicollis/3.jpg
+  page: https://www.inaturalist.org/photos/260839384
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260839384/original.jpg
+- file: images/charadriiformes/laridae/rynchops-albicollis/4.jpg
+  page: https://www.inaturalist.org/photos/289199474
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/289199474/original.jpg
+- file: images/charadriiformes/laridae/rynchops-albicollis/5.jpg
+  page: https://www.inaturalist.org/photos/623126675
+  author: Daniel Z
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623126675/original.jpg
 ---
 
 

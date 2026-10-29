@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/taraba-major/1.jpg
+  page: https://www.inaturalist.org/photos/607001370
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607001370/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/taraba-major/1.jpg
+  page: https://www.inaturalist.org/photos/607001370
+  author: Marcio Santos Ferreira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607001370/original.jpg
+- file: images/passeriformes/thamnophilidae/taraba-major/2.jpg
+  page: https://www.inaturalist.org/photos/609201407
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609201407/original.jpg
+- file: images/passeriformes/thamnophilidae/taraba-major/3.jpg
+  page: https://www.inaturalist.org/photos/618892738
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618892738/original.jpg
+- file: images/passeriformes/thamnophilidae/taraba-major/4.jpg
+  page: https://www.inaturalist.org/photos/625557861
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625557861/original.jpg
+- file: images/passeriformes/thamnophilidae/taraba-major/5.jpg
+  page: https://www.inaturalist.org/photos/614059598
+  author: Rafael Duarte
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614059598/original.jpg
 ---
 
 

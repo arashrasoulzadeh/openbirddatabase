@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 22.8
@@ -136,6 +137,26 @@ morphology:
   wing_length_mm: 111.0
   tail_length_mm: 72.3
   body_mass_g: 56.3
+image:
+  file: images/passeriformes/turdidae/geokichla-mendeni/1.jpg
+  page: https://www.inaturalist.org/photos/435261852
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435261852/original.jpeg
+images:
+- file: images/passeriformes/turdidae/geokichla-mendeni/1.jpg
+  page: https://www.inaturalist.org/photos/435261852
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435261852/original.jpeg
+- file: images/passeriformes/turdidae/geokichla-mendeni/2.jpg
+  page: https://www.inaturalist.org/photos/416818208
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416818208/original.jpeg
 ---
 
 

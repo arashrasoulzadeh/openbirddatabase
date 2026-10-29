@@ -164,8 +164,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pachyptila-belcheri/1.jpg
+  page: https://www.inaturalist.org/photos/723522912
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723522912/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pachyptila-belcheri/1.jpg
+  page: https://www.inaturalist.org/photos/723522912
+  author: Joe Dillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/723522912/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-belcheri/2.jpg
+  page: https://www.inaturalist.org/photos/731309573
+  author: Ann Bentley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731309573/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-belcheri/3.jpg
+  page: https://www.inaturalist.org/photos/464864446
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464864446/original.jpg
+- file: images/procellariiformes/procellariidae/pachyptila-belcheri/4.jpg
+  page: https://www.inaturalist.org/photos/471351122
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471351122/original.jpeg
+- file: images/procellariiformes/procellariidae/pachyptila-belcheri/5.jpg
+  page: https://www.inaturalist.org/photos/592603392
+  author: patrickc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592603392/original.jpg
 ---
 
 

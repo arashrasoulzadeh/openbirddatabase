@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/notharchus-hyperrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/612477821
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477821/original.jpg
+images:
+- file: images/piciformes/bucconidae/notharchus-hyperrhynchus/1.jpg
+  page: https://www.inaturalist.org/photos/612477821
+  author: Navin Sasikumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612477821/original.jpg
+- file: images/piciformes/bucconidae/notharchus-hyperrhynchus/2.jpg
+  page: https://www.inaturalist.org/photos/613613582
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613613582/original.jpg
+- file: images/piciformes/bucconidae/notharchus-hyperrhynchus/3.jpg
+  page: https://www.inaturalist.org/photos/618251450
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618251450/original.jpg
+- file: images/piciformes/bucconidae/notharchus-hyperrhynchus/4.jpg
+  page: https://www.inaturalist.org/photos/615006732
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615006732/original.jpg
+- file: images/piciformes/bucconidae/notharchus-hyperrhynchus/5.jpg
+  page: https://www.inaturalist.org/photos/616200449
+  author: kclarksdnhmorg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616200449/original.jpg
 ---
 
 

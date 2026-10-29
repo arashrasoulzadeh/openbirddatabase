@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mitrospingidae/orthogonys-chloricterus/1.jpg
+  page: https://www.inaturalist.org/photos/605697139
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697139/original.jpg
+images:
+- file: images/passeriformes/mitrospingidae/orthogonys-chloricterus/1.jpg
+  page: https://www.inaturalist.org/photos/605697139
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605697139/original.jpg
+- file: images/passeriformes/mitrospingidae/orthogonys-chloricterus/2.jpg
+  page: https://www.inaturalist.org/photos/616201839
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616201839/original.jpg
+- file: images/passeriformes/mitrospingidae/orthogonys-chloricterus/3.jpg
+  page: https://www.inaturalist.org/photos/642095403
+  author: Rodrigo Paiva Lázaro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642095403/original.jpg
+- file: images/passeriformes/mitrospingidae/orthogonys-chloricterus/4.jpg
+  page: https://www.inaturalist.org/photos/649420475
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649420475/original.jpg
+- file: images/passeriformes/mitrospingidae/orthogonys-chloricterus/5.jpg
+  page: https://www.inaturalist.org/photos/693580304
+  author: Wout Dutoit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693580304/original.jpg
 ---
 
 

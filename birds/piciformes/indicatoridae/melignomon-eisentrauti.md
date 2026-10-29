@@ -139,8 +139,29 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/indicatoridae/melignomon-eisentrauti/1.jpg
+  page: https://www.inaturalist.org/photos/354990502
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354990502/original.png
+images:
+- file: images/piciformes/indicatoridae/melignomon-eisentrauti/1.jpg
+  page: https://www.inaturalist.org/photos/354990502
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354990502/original.png
+- file: images/piciformes/indicatoridae/melignomon-eisentrauti/2.jpg
+  page: https://www.inaturalist.org/photos/354990496
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/354990496/original.png
 ---
 
 

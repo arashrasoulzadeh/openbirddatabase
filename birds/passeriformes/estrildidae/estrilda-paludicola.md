@@ -166,8 +166,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/estrilda-paludicola/1.jpg
+  page: https://www.inaturalist.org/photos/550815258
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550815258/original.jpg
+images:
+- file: images/passeriformes/estrildidae/estrilda-paludicola/1.jpg
+  page: https://www.inaturalist.org/photos/550815258
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550815258/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-paludicola/2.jpg
+  page: https://www.inaturalist.org/photos/592772878
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592772878/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-paludicola/3.jpg
+  page: https://www.inaturalist.org/photos/588177235
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588177235/original.jpg
+- file: images/passeriformes/estrildidae/estrilda-paludicola/4.jpg
+  page: https://www.inaturalist.org/photos/353140913
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/353140913/original.jpeg
+- file: images/passeriformes/estrildidae/estrilda-paludicola/5.jpg
+  page: https://www.inaturalist.org/photos/424562832
+  author: David Price-Goodfellow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424562832/original.jpeg
 ---
 
 

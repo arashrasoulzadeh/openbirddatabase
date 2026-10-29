@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/micrastur-mirandollei/1.jpg
+  page: https://www.inaturalist.org/photos/582547906
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582547906/original.jpg
+images:
+- file: images/falconiformes/falconidae/micrastur-mirandollei/1.jpg
+  page: https://www.inaturalist.org/photos/582547906
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582547906/original.jpg
+- file: images/falconiformes/falconidae/micrastur-mirandollei/2.jpg
+  page: https://www.inaturalist.org/photos/369370953
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/369370953/original.jpg
+- file: images/falconiformes/falconidae/micrastur-mirandollei/3.jpg
+  page: https://www.inaturalist.org/photos/402023096
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402023096/original.jpg
+- file: images/falconiformes/falconidae/micrastur-mirandollei/4.jpg
+  page: https://www.inaturalist.org/photos/161115606
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/161115606/original.jpeg
+- file: images/falconiformes/falconidae/micrastur-mirandollei/5.jpg
+  page: https://www.inaturalist.org/photos/582547904
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/582547904/original.jpg
 ---
 
 

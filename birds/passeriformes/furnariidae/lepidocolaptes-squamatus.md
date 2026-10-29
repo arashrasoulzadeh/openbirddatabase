@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/lepidocolaptes-squamatus/1.jpg
+  page: https://www.inaturalist.org/photos/641661413
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641661413/original.jpg
+images:
+- file: images/passeriformes/furnariidae/lepidocolaptes-squamatus/1.jpg
+  page: https://www.inaturalist.org/photos/641661413
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641661413/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-squamatus/2.jpg
+  page: https://www.inaturalist.org/photos/645318959
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645318959/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-squamatus/3.jpg
+  page: https://www.inaturalist.org/photos/669625820
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669625820/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-squamatus/4.jpg
+  page: https://www.inaturalist.org/photos/499347202
+  author: Diogo Luiz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499347202/original.jpg
+- file: images/passeriformes/furnariidae/lepidocolaptes-squamatus/5.jpg
+  page: https://www.inaturalist.org/photos/501220082
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/501220082/original.jpeg
 ---
 
 

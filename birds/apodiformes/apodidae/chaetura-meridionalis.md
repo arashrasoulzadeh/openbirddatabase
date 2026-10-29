@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/chaetura-meridionalis/1.jpg
+  page: https://www.inaturalist.org/photos/610172135
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610172135/original.jpg
+images:
+- file: images/apodiformes/apodidae/chaetura-meridionalis/1.jpg
+  page: https://www.inaturalist.org/photos/610172135
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610172135/original.jpg
+- file: images/apodiformes/apodidae/chaetura-meridionalis/2.jpg
+  page: https://www.inaturalist.org/photos/618232833
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618232833/original.jpg
+- file: images/apodiformes/apodidae/chaetura-meridionalis/3.jpg
+  page: https://www.inaturalist.org/photos/736960892
+  author: mila
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736960892/original.jpg
+- file: images/apodiformes/apodidae/chaetura-meridionalis/4.jpg
+  page: https://www.inaturalist.org/photos/742997138
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742997138/original.jpg
+- file: images/apodiformes/apodidae/chaetura-meridionalis/5.jpg
+  page: https://www.inaturalist.org/photos/744404578
+  author: Alan Valentino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744404578/original.jpg
 ---
 
 

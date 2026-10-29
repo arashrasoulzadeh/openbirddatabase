@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/ithaginis-cruentus/1.jpg
+  page: https://www.inaturalist.org/photos/633032430
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633032430/original.jpg
+images:
+- file: images/galliformes/phasianidae/ithaginis-cruentus/1.jpg
+  page: https://www.inaturalist.org/photos/633032430
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633032430/original.jpg
+- file: images/galliformes/phasianidae/ithaginis-cruentus/2.jpg
+  page: https://www.inaturalist.org/photos/566087605
+  author: Gary Yong Gee
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566087605/original.jpg
+- file: images/galliformes/phasianidae/ithaginis-cruentus/3.jpg
+  page: https://www.inaturalist.org/photos/522378369
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/522378369/original.jpg
+- file: images/galliformes/phasianidae/ithaginis-cruentus/4.jpg
+  page: https://www.inaturalist.org/photos/633032446
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633032446/original.jpg
+- file: images/galliformes/phasianidae/ithaginis-cruentus/5.jpg
+  page: https://www.inaturalist.org/photos/633032455
+  author: Chris D Thomas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633032455/original.jpg
 ---
 
 

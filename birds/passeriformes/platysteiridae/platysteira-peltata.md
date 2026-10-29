@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/platysteiridae/platysteira-peltata/1.jpg
+  page: https://www.inaturalist.org/photos/473332804
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473332804/original.jpeg
+images:
+- file: images/passeriformes/platysteiridae/platysteira-peltata/1.jpg
+  page: https://www.inaturalist.org/photos/473332804
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473332804/original.jpeg
+- file: images/passeriformes/platysteiridae/platysteira-peltata/2.jpg
+  page: https://www.inaturalist.org/photos/559000555
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559000555/original.jpg
+- file: images/passeriformes/platysteiridae/platysteira-peltata/3.jpg
+  page: https://www.inaturalist.org/photos/477044554
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477044554/original.jpeg
+- file: images/passeriformes/platysteiridae/platysteira-peltata/4.jpg
+  page: https://www.inaturalist.org/photos/500417565
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500417565/original.jpeg
+- file: images/passeriformes/platysteiridae/platysteira-peltata/5.jpg
+  page: https://www.inaturalist.org/photos/542716090
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542716090/original.jpg
 ---
 
 

@@ -163,10 +163,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/accipitriformes/sagittariidae/sagittarius-serpentarius/1.jpg
+  page: https://www.inaturalist.org/photos/608231393
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608231393/original.jpg
+images:
+- file: images/accipitriformes/sagittariidae/sagittarius-serpentarius/1.jpg
+  page: https://www.inaturalist.org/photos/608231393
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608231393/original.jpg
+- file: images/accipitriformes/sagittariidae/sagittarius-serpentarius/2.jpg
+  page: https://www.inaturalist.org/photos/610945984
+  author: sableplains
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610945984/original.jpg
+- file: images/accipitriformes/sagittariidae/sagittarius-serpentarius/3.jpg
+  page: https://www.inaturalist.org/photos/609229583
+  author: Justin Schoon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609229583/original.jpg
+- file: images/accipitriformes/sagittariidae/sagittarius-serpentarius/4.jpg
+  page: https://www.inaturalist.org/photos/612197142
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612197142/original.jpg
+- file: images/accipitriformes/sagittariidae/sagittarius-serpentarius/5.jpg
+  page: https://www.inaturalist.org/photos/743234101
+  author: John Barrow
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/743234101/original.jpg
 ---
 
 

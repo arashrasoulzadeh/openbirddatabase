@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-poioicephala/1.jpg
+  page: https://www.inaturalist.org/photos/608371386
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608371386/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-poioicephala/1.jpg
+  page: https://www.inaturalist.org/photos/608371386
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608371386/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-poioicephala/2.jpg
+  page: https://www.inaturalist.org/photos/617207472
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617207472/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-poioicephala/3.jpg
+  page: https://www.inaturalist.org/photos/623518530
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623518530/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-poioicephala/4.jpg
+  page: https://www.inaturalist.org/photos/693349779
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693349779/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-poioicephala/5.jpg
+  page: https://www.inaturalist.org/photos/466550582
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466550582/original.jpeg
 ---
 
 

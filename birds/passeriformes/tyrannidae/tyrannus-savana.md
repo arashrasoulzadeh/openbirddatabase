@@ -175,8 +175,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/tyrannus-savana/1.jpg
+  page: https://www.inaturalist.org/photos/605730991
+  author: Ariel Francisco Villaverde Fariña
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730991/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/tyrannus-savana/1.jpg
+  page: https://www.inaturalist.org/photos/605730991
+  author: Ariel Francisco Villaverde Fariña
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605730991/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-savana/2.jpg
+  page: https://www.inaturalist.org/photos/604593009
+  author: Frank Thomas Sautter
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604593009/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-savana/3.jpg
+  page: https://www.inaturalist.org/photos/605589252
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605589252/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-savana/4.jpg
+  page: https://www.inaturalist.org/photos/605526168
+  author: María Zeta
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605526168/original.jpg
+- file: images/passeriformes/tyrannidae/tyrannus-savana/5.jpg
+  page: https://www.inaturalist.org/photos/605729618
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605729618/original.jpg
 ---
 
 

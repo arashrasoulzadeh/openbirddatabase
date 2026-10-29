@@ -177,8 +177,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/eremopterix-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/610386681
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610386681/original.jpg
+images:
+- file: images/passeriformes/alaudidae/eremopterix-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/610386681
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610386681/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-nigriceps/2.jpg
+  page: https://www.inaturalist.org/photos/653875933
+  author: Barry Stewart
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653875933/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-nigriceps/3.jpg
+  page: https://www.inaturalist.org/photos/614547621
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614547621/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-nigriceps/4.jpg
+  page: https://www.inaturalist.org/photos/633267754
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633267754/original.jpg
+- file: images/passeriformes/alaudidae/eremopterix-nigriceps/5.jpg
+  page: https://www.inaturalist.org/photos/693383792
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693383792/original.jpg
 ---
 
 

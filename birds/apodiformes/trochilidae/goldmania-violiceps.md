@@ -136,8 +136,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/goldmania-violiceps/1.jpg
+  page: https://www.inaturalist.org/photos/303496236
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303496236/original.jpg
+images:
+- file: images/apodiformes/trochilidae/goldmania-violiceps/1.jpg
+  page: https://www.inaturalist.org/photos/303496236
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303496236/original.jpg
+- file: images/apodiformes/trochilidae/goldmania-violiceps/2.jpg
+  page: https://www.inaturalist.org/photos/62248236
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62248236/original.jpg
+- file: images/apodiformes/trochilidae/goldmania-violiceps/3.jpg
+  page: https://www.inaturalist.org/photos/303496254
+  author: Roger A. Morales-Flores
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/303496254/original.jpg
+- file: images/apodiformes/trochilidae/goldmania-violiceps/4.jpg
+  page: https://www.inaturalist.org/photos/62248231
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62248231/original.jpg
+- file: images/apodiformes/trochilidae/goldmania-violiceps/5.jpg
+  page: https://www.inaturalist.org/photos/62186536
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62186536/original.jpg
 ---
 
 

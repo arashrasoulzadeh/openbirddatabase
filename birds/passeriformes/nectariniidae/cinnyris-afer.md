@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/cinnyris-afer/1.jpg
+  page: https://www.inaturalist.org/photos/608227867
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608227867/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/cinnyris-afer/1.jpg
+  page: https://www.inaturalist.org/photos/608227867
+  author: Diego Rubolini
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608227867/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-afer/2.jpg
+  page: https://www.inaturalist.org/photos/609508119
+  author: bdhimes
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609508119/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-afer/3.jpg
+  page: https://www.inaturalist.org/photos/610678161
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610678161/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-afer/4.jpg
+  page: https://www.inaturalist.org/photos/608928333
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608928333/original.jpg
+- file: images/passeriformes/nectariniidae/cinnyris-afer/5.jpg
+  page: https://www.inaturalist.org/photos/626260287
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626260287/original.jpg
 ---
 
 

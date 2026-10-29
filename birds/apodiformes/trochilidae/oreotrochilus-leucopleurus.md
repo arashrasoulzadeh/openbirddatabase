@@ -143,8 +143,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/oreotrochilus-leucopleurus/1.jpg
+  page: https://www.inaturalist.org/photos/618441821
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618441821/original.jpg
+images:
+- file: images/apodiformes/trochilidae/oreotrochilus-leucopleurus/1.jpg
+  page: https://www.inaturalist.org/photos/618441821
+  author: Lauu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618441821/original.jpg
+- file: images/apodiformes/trochilidae/oreotrochilus-leucopleurus/2.jpg
+  page: https://www.inaturalist.org/photos/650783321
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650783321/original.jpg
+- file: images/apodiformes/trochilidae/oreotrochilus-leucopleurus/3.jpg
+  page: https://www.inaturalist.org/photos/659627271
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659627271/original.jpg
+- file: images/apodiformes/trochilidae/oreotrochilus-leucopleurus/4.jpg
+  page: https://www.inaturalist.org/photos/467713847
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467713847/original.jpg
+- file: images/apodiformes/trochilidae/oreotrochilus-leucopleurus/5.jpg
+  page: https://www.inaturalist.org/photos/466193412
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466193412/original.jpg
 ---
 
 

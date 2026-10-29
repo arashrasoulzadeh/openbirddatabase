@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/geositta-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/650396429
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650396429/original.jpg
+images:
+- file: images/passeriformes/furnariidae/geositta-tenuirostris/1.jpg
+  page: https://www.inaturalist.org/photos/650396429
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650396429/original.jpg
+- file: images/passeriformes/furnariidae/geositta-tenuirostris/2.jpg
+  page: https://www.inaturalist.org/photos/686482584
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/686482584/original.jpg
+- file: images/passeriformes/furnariidae/geositta-tenuirostris/3.jpg
+  page: https://www.inaturalist.org/photos/490681982
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490681982/original.jpeg
+- file: images/passeriformes/furnariidae/geositta-tenuirostris/4.jpg
+  page: https://www.inaturalist.org/photos/496771095
+  author: Humber Alberto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/496771095/original.jpeg
+- file: images/passeriformes/furnariidae/geositta-tenuirostris/5.jpg
+  page: https://www.inaturalist.org/photos/546023896
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/546023896/original.jpg
 ---
 
 

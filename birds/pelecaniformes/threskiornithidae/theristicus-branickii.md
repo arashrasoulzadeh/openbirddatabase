@@ -145,10 +145,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/pelecaniformes/threskiornithidae/theristicus-branickii/1.jpg
+  page: https://www.inaturalist.org/photos/609076957
+  author: Rocío Esmeralda Pose
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609076957/original.jpg
+images:
+- file: images/pelecaniformes/threskiornithidae/theristicus-branickii/1.jpg
+  page: https://www.inaturalist.org/photos/609076957
+  author: Rocío Esmeralda Pose
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609076957/original.jpg
+- file: images/pelecaniformes/threskiornithidae/theristicus-branickii/2.jpg
+  page: https://www.inaturalist.org/photos/606376288
+  author: Cody Hinchliff
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606376288/original.jpg
+- file: images/pelecaniformes/threskiornithidae/theristicus-branickii/3.jpg
+  page: https://www.inaturalist.org/photos/607790335
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607790335/original.jpg
+- file: images/pelecaniformes/threskiornithidae/theristicus-branickii/4.jpg
+  page: https://www.inaturalist.org/photos/607745302
+  author: Ben Clement
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607745302/original.jpg
+- file: images/pelecaniformes/threskiornithidae/theristicus-branickii/5.jpg
+  page: https://www.inaturalist.org/photos/608757641
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608757641/original.jpg
 ---
 
 

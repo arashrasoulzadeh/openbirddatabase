@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cranioleuca-semicinerea/1.jpg
+  page: https://www.inaturalist.org/photos/730662578
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730662578/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cranioleuca-semicinerea/1.jpg
+  page: https://www.inaturalist.org/photos/730662578
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730662578/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-semicinerea/2.jpg
+  page: https://www.inaturalist.org/photos/363243199
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363243199/original.jpeg
+- file: images/passeriformes/furnariidae/cranioleuca-semicinerea/3.jpg
+  page: https://www.inaturalist.org/photos/428249189
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/428249189/original.jpg
+- file: images/passeriformes/furnariidae/cranioleuca-semicinerea/4.jpg
+  page: https://www.inaturalist.org/photos/30430407
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/30430407/original.jpeg
+- file: images/passeriformes/furnariidae/cranioleuca-semicinerea/5.jpg
+  page: https://www.inaturalist.org/photos/478752571
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478752571/original.jpg
 ---
 
 

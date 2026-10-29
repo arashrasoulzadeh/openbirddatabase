@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/bucconidae/malacoptila-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/402012681
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402012681/original.jpg
+images:
+- file: images/piciformes/bucconidae/malacoptila-rufa/1.jpg
+  page: https://www.inaturalist.org/photos/402012681
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/402012681/original.jpg
+- file: images/piciformes/bucconidae/malacoptila-rufa/2.jpg
+  page: https://www.inaturalist.org/photos/443251326
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443251326/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-rufa/3.jpg
+  page: https://www.inaturalist.org/photos/443251067
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443251067/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-rufa/4.jpg
+  page: https://www.inaturalist.org/photos/443251068
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443251068/original.jpeg
+- file: images/piciformes/bucconidae/malacoptila-rufa/5.jpg
+  page: https://www.inaturalist.org/photos/443251735
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443251735/original.jpeg
 ---
 
 

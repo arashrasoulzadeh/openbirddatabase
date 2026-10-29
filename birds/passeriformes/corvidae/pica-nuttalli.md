@@ -125,7 +125,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 36.3
@@ -137,6 +138,44 @@ reproduction:
   clutch_size_mean: 6.4
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/corvidae/pica-nuttalli/1.jpg
+  page: https://www.inaturalist.org/photos/604608167
+  author: Adam Hightchew
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604608167/original.jpg
+images:
+- file: images/passeriformes/corvidae/pica-nuttalli/1.jpg
+  page: https://www.inaturalist.org/photos/604608167
+  author: Adam Hightchew
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604608167/original.jpg
+- file: images/passeriformes/corvidae/pica-nuttalli/2.jpg
+  page: https://www.inaturalist.org/photos/608317954
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608317954/original.jpg
+- file: images/passeriformes/corvidae/pica-nuttalli/3.jpg
+  page: https://www.inaturalist.org/photos/609363274
+  author: Jonathan Eisen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609363274/original.jpg
+- file: images/passeriformes/corvidae/pica-nuttalli/4.jpg
+  page: https://www.inaturalist.org/photos/609219119
+  author: mel letterman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609219119/original.jpg
+- file: images/passeriformes/corvidae/pica-nuttalli/5.jpg
+  page: https://www.inaturalist.org/photos/606794704
+  author: Chuck Wilson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606794704/original.jpg
 ---
 
 

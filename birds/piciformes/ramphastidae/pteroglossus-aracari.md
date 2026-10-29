@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/pteroglossus-aracari/1.jpg
+  page: https://www.inaturalist.org/photos/610655312
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610655312/original.jpg
+images:
+- file: images/piciformes/ramphastidae/pteroglossus-aracari/1.jpg
+  page: https://www.inaturalist.org/photos/610655312
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610655312/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-aracari/2.jpg
+  page: https://www.inaturalist.org/photos/612995543
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612995543/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-aracari/3.jpg
+  page: https://www.inaturalist.org/photos/619302959
+  author: André Ribeiro Cardoso
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619302959/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-aracari/4.jpg
+  page: https://www.inaturalist.org/photos/644824547
+  author: Samuel GUIRAUDOU
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/644824547/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-aracari/5.jpg
+  page: https://www.inaturalist.org/photos/666546652
+  author: Audrey Whitlock
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/666546652/original.jpg
 ---
 
 

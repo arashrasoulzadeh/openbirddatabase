@@ -125,7 +125,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 22.5
@@ -135,6 +136,44 @@ morphology:
   body_mass_g: 23.7
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/passeriformes/meliphagidae/meliphaga-albilineata/1.jpg
+  page: https://www.inaturalist.org/photos/400095612
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/400095612/original.jpeg
+images:
+- file: images/passeriformes/meliphagidae/meliphaga-albilineata/1.jpg
+  page: https://www.inaturalist.org/photos/400095612
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/400095612/original.jpeg
+- file: images/passeriformes/meliphagidae/meliphaga-albilineata/2.jpg
+  page: https://www.inaturalist.org/photos/345544976
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/345544976/original.jpeg
+- file: images/passeriformes/meliphagidae/meliphaga-albilineata/3.jpg
+  page: https://www.inaturalist.org/photos/248300664
+  author: Fernando Pérez Peralta
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248300664/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-albilineata/4.jpg
+  page: https://www.inaturalist.org/photos/220314392
+  author: Paul Whitington
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/220314392/original.jpg
+- file: images/passeriformes/meliphagidae/meliphaga-albilineata/5.jpg
+  page: https://www.inaturalist.org/photos/400096482
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/400096482/original.jpeg
 ---
 
 

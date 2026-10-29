@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/scleroptila-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/621660294
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621660294/original.jpg
+images:
+- file: images/galliformes/phasianidae/scleroptila-gutturalis/1.jpg
+  page: https://www.inaturalist.org/photos/621660294
+  author: le0p0ld_d
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621660294/original.jpg
+- file: images/galliformes/phasianidae/scleroptila-gutturalis/2.jpg
+  page: https://www.inaturalist.org/photos/413399955
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413399955/original.jpeg
+- file: images/galliformes/phasianidae/scleroptila-gutturalis/3.jpg
+  page: https://www.inaturalist.org/photos/298495536
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/298495536/original.jpeg
+- file: images/galliformes/phasianidae/scleroptila-gutturalis/4.jpg
+  page: https://www.inaturalist.org/photos/173059561
+  author: Clifford Davel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/173059561/original.jpeg
+- file: images/galliformes/phasianidae/scleroptila-gutturalis/5.jpg
+  page: https://www.inaturalist.org/photos/463382814
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463382814/original.jpg
 ---
 
 

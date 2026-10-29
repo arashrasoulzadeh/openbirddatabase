@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 19
+image:
+  file: images/charadriiformes/scolopacidae/numenius-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/607027722
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607027722/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/numenius-madagascariensis/1.jpg
+  page: https://www.inaturalist.org/photos/607027722
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607027722/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-madagascariensis/2.jpg
+  page: https://www.inaturalist.org/photos/606116323
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606116323/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-madagascariensis/3.jpg
+  page: https://www.inaturalist.org/photos/615137396
+  author: Aalbert Rebergen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615137396/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-madagascariensis/4.jpg
+  page: https://www.inaturalist.org/photos/619976670
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619976670/original.jpg
+- file: images/charadriiformes/scolopacidae/numenius-madagascariensis/5.jpg
+  page: https://www.inaturalist.org/photos/614245924
+  author: marsyd
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614245924/original.jpg
 ---
 
 

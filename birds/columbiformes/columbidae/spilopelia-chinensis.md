@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/columbiformes/columbidae/spilopelia-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/604982552
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604982552/original.jpg
+images:
+- file: images/columbiformes/columbidae/spilopelia-chinensis/1.jpg
+  page: https://www.inaturalist.org/photos/604982552
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604982552/original.jpg
+- file: images/columbiformes/columbidae/spilopelia-chinensis/2.jpg
+  page: https://www.inaturalist.org/photos/604705662
+  author: Jaydyn Vo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604705662/original.jpg
+- file: images/columbiformes/columbidae/spilopelia-chinensis/3.jpg
+  page: https://www.inaturalist.org/photos/605637041
+  author: 胡正恆(Jackson Hu)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605637041/original.jpg
+- file: images/columbiformes/columbidae/spilopelia-chinensis/4.jpg
+  page: https://www.inaturalist.org/photos/604745338
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604745338/original.jpg
+- file: images/columbiformes/columbidae/spilopelia-chinensis/5.jpg
+  page: https://www.inaturalist.org/photos/604745349
+  author: Mitul and Vijul Singh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604745349/original.jpg
 ---
 
 

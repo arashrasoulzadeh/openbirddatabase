@@ -147,8 +147,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/symposiachrus-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/340501136
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340501136/original.jpg
+images:
+- file: images/passeriformes/monarchidae/symposiachrus-axillaris/1.jpg
+  page: https://www.inaturalist.org/photos/340501136
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340501136/original.jpg
+- file: images/passeriformes/monarchidae/symposiachrus-axillaris/2.jpg
+  page: https://www.inaturalist.org/photos/340501131
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340501131/original.jpg
+- file: images/passeriformes/monarchidae/symposiachrus-axillaris/3.jpg
+  page: https://www.inaturalist.org/photos/340501148
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340501148/original.jpg
+- file: images/passeriformes/monarchidae/symposiachrus-axillaris/4.jpg
+  page: https://www.inaturalist.org/photos/340501164
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340501164/original.jpg
 ---
 
 

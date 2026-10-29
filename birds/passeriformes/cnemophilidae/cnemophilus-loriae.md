@@ -145,8 +145,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cnemophilidae/cnemophilus-loriae/1.jpg
+  page: https://www.inaturalist.org/photos/335852563
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335852563/original.jpg
+images:
+- file: images/passeriformes/cnemophilidae/cnemophilus-loriae/1.jpg
+  page: https://www.inaturalist.org/photos/335852563
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335852563/original.jpg
+- file: images/passeriformes/cnemophilidae/cnemophilus-loriae/2.jpg
+  page: https://www.inaturalist.org/photos/335247126
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335247126/original.jpg
+- file: images/passeriformes/cnemophilidae/cnemophilus-loriae/3.jpg
+  page: https://www.inaturalist.org/photos/335248647
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335248647/original.jpg
+- file: images/passeriformes/cnemophilidae/cnemophilus-loriae/4.jpg
+  page: https://www.inaturalist.org/photos/335249207
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/335249207/original.jpg
 ---
 
 

@@ -147,8 +147,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/trogon-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/609067719
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609067719/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/trogon-mexicanus/1.jpg
+  page: https://www.inaturalist.org/photos/609067719
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609067719/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-mexicanus/2.jpg
+  page: https://www.inaturalist.org/photos/616533833
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616533833/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-mexicanus/3.jpg
+  page: https://www.inaturalist.org/photos/639748875
+  author: Juan Cruzado Cortés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639748875/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-mexicanus/4.jpg
+  page: https://www.inaturalist.org/photos/665346119
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665346119/original.jpg
+- file: images/trogoniformes/trogonidae/trogon-mexicanus/5.jpg
+  page: https://www.inaturalist.org/photos/635744542
+  author: macro_biologist
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635744542/original.jpg
 ---
 
 

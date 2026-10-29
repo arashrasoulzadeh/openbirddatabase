@@ -174,8 +174,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/macronyx-croceus/1.jpg
+  page: https://www.inaturalist.org/photos/607142448
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607142448/original.jpg
+images:
+- file: images/passeriformes/motacillidae/macronyx-croceus/1.jpg
+  page: https://www.inaturalist.org/photos/607142448
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607142448/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-croceus/2.jpg
+  page: https://www.inaturalist.org/photos/606387058
+  author: B Pulman005
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606387058/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-croceus/3.jpg
+  page: https://www.inaturalist.org/photos/650459898
+  author: Paul Hoekman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650459898/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-croceus/4.jpg
+  page: https://www.inaturalist.org/photos/684115799
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684115799/original.jpg
+- file: images/passeriformes/motacillidae/macronyx-croceus/5.jpg
+  page: https://www.inaturalist.org/photos/624139085
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624139085/original.jpg
 ---
 
 

@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/galerida-deva/1.jpg
+  page: https://www.inaturalist.org/photos/654880768
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654880768/original.jpg
+images:
+- file: images/passeriformes/alaudidae/galerida-deva/1.jpg
+  page: https://www.inaturalist.org/photos/654880768
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654880768/original.jpg
+- file: images/passeriformes/alaudidae/galerida-deva/2.jpg
+  page: https://www.inaturalist.org/photos/705106015
+  author: SUBHASHGHULE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705106015/original.jpg
+- file: images/passeriformes/alaudidae/galerida-deva/3.jpg
+  page: https://www.inaturalist.org/photos/718365485
+  author: Aryan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718365485/original.jpg
+- file: images/passeriformes/alaudidae/galerida-deva/4.jpg
+  page: https://www.inaturalist.org/photos/497926022
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/497926022/original.jpg
+- file: images/passeriformes/alaudidae/galerida-deva/5.jpg
+  page: https://www.inaturalist.org/photos/654880771
+  author: Vijay Barve
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654880771/original.jpg
 ---
 
 

@@ -152,10 +152,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 15
+image:
+  file: images/charadriiformes/alcidae/aethia-pygmaea/1.jpg
+  page: https://www.inaturalist.org/photos/712681782
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712681782/original.jpg
+images:
+- file: images/charadriiformes/alcidae/aethia-pygmaea/1.jpg
+  page: https://www.inaturalist.org/photos/712681782
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712681782/original.jpg
+- file: images/charadriiformes/alcidae/aethia-pygmaea/2.jpg
+  page: https://www.inaturalist.org/photos/722325563
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722325563/original.jpg
+- file: images/charadriiformes/alcidae/aethia-pygmaea/3.jpg
+  page: https://www.inaturalist.org/photos/734015284
+  author: patrickc
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734015284/original.jpg
+- file: images/charadriiformes/alcidae/aethia-pygmaea/4.jpg
+  page: https://www.inaturalist.org/photos/712681778
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712681778/original.jpg
+- file: images/charadriiformes/alcidae/aethia-pygmaea/5.jpg
+  page: https://www.inaturalist.org/photos/712681890
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/712681890/original.jpg
 ---
 
 

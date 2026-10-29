@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/phoeniculidae/phoeniculus-bollei/1.jpg
+  page: https://www.inaturalist.org/photos/622519101
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622519101/original.jpg
+images:
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-bollei/1.jpg
+  page: https://www.inaturalist.org/photos/622519101
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622519101/original.jpg
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-bollei/2.jpg
+  page: https://www.inaturalist.org/photos/594613868
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594613868/original.jpg
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-bollei/3.jpg
+  page: https://www.inaturalist.org/photos/584783494
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/584783494/original.jpg
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-bollei/4.jpg
+  page: https://www.inaturalist.org/photos/588795636
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588795636/original.jpg
+- file: images/bucerotiformes/phoeniculidae/phoeniculus-bollei/5.jpg
+  page: https://www.inaturalist.org/photos/393649218
+  author: Rafael Würtemberger
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393649218/original.jpg
 ---
 
 

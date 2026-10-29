@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/lichmera-deningeri/1.jpg
+  page: https://www.inaturalist.org/photos/718305128
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305128/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/lichmera-deningeri/1.jpg
+  page: https://www.inaturalist.org/photos/718305128
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305128/original.jpg
+- file: images/passeriformes/meliphagidae/lichmera-deningeri/2.jpg
+  page: https://www.inaturalist.org/photos/718305140
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305140/original.jpg
+- file: images/passeriformes/meliphagidae/lichmera-deningeri/3.jpg
+  page: https://www.inaturalist.org/photos/718305028
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718305028/original.jpg
+- file: images/passeriformes/meliphagidae/lichmera-deningeri/4.jpg
+  page: https://www.inaturalist.org/photos/416866033
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866033/original.jpg
+- file: images/passeriformes/meliphagidae/lichmera-deningeri/5.jpg
+  page: https://www.inaturalist.org/photos/440527766
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527766/original.jpeg
 ---
 
 

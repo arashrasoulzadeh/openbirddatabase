@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/vanellus-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606214052
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606214052/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-crassirostris/1.jpg
+  page: https://www.inaturalist.org/photos/606214052
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606214052/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-crassirostris/2.jpg
+  page: https://www.inaturalist.org/photos/679431940
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679431940/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-crassirostris/3.jpg
+  page: https://www.inaturalist.org/photos/709126087
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/709126087/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-crassirostris/4.jpg
+  page: https://www.inaturalist.org/photos/639251978
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639251978/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-crassirostris/5.jpg
+  page: https://www.inaturalist.org/photos/716612079
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716612079/original.jpg
 ---
 
 

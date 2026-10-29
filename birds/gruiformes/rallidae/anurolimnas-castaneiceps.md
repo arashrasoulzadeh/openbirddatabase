@@ -128,7 +128,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 26.5
@@ -136,6 +137,32 @@ morphology:
   wing_length_mm: 110.6
   tail_length_mm: 26.6
   body_mass_g: 126.0
+image:
+  file: images/gruiformes/rallidae/anurolimnas-castaneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/683601559
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683601559/original.jpg
+images:
+- file: images/gruiformes/rallidae/anurolimnas-castaneiceps/1.jpg
+  page: https://www.inaturalist.org/photos/683601559
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683601559/original.jpg
+- file: images/gruiformes/rallidae/anurolimnas-castaneiceps/2.jpg
+  page: https://www.inaturalist.org/photos/591636976
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591636976/original.jpg
+- file: images/gruiformes/rallidae/anurolimnas-castaneiceps/3.jpg
+  page: https://www.inaturalist.org/photos/591909170
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591909170/original.jpg
 ---
 
 

@@ -184,10 +184,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/motacillidae/anthus-pratensis/1.jpg
+  page: https://www.inaturalist.org/photos/605365446
+  author: Hugo Caillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605365446/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-pratensis/1.jpg
+  page: https://www.inaturalist.org/photos/605365446
+  author: Hugo Caillon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605365446/original.jpg
+- file: images/passeriformes/motacillidae/anthus-pratensis/2.jpg
+  page: https://www.inaturalist.org/photos/605485441
+  author: David Pereira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605485441/original.jpg
+- file: images/passeriformes/motacillidae/anthus-pratensis/3.jpg
+  page: https://www.inaturalist.org/photos/604745370
+  author: Bastien Le Mort
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604745370/original.jpg
+- file: images/passeriformes/motacillidae/anthus-pratensis/4.jpg
+  page: https://www.inaturalist.org/photos/605617701
+  author: Gregory Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605617701/original.jpg
+- file: images/passeriformes/motacillidae/anthus-pratensis/5.jpg
+  page: https://www.inaturalist.org/photos/604732755
+  author: eloise kerroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604732755/original.jpg
 ---
 
 

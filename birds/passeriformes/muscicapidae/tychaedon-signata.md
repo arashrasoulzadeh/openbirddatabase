@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/tychaedon-signata/1.jpg
+  page: https://www.inaturalist.org/photos/658413618
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658413618/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/tychaedon-signata/1.jpg
+  page: https://www.inaturalist.org/photos/658413618
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/658413618/original.jpg
+- file: images/passeriformes/muscicapidae/tychaedon-signata/2.jpg
+  page: https://www.inaturalist.org/photos/357182242
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357182242/original.jpeg
+- file: images/passeriformes/muscicapidae/tychaedon-signata/3.jpg
+  page: https://www.inaturalist.org/photos/413077911
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413077911/original.jpeg
+- file: images/passeriformes/muscicapidae/tychaedon-signata/4.jpg
+  page: https://www.inaturalist.org/photos/122153429
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/122153429/original.jpeg
+- file: images/passeriformes/muscicapidae/tychaedon-signata/5.jpg
+  page: https://www.inaturalist.org/photos/62569495
+  author: nmoorhatch
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62569495/original.jpg
 ---
 
 

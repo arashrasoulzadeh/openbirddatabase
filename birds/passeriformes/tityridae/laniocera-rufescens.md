@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tityridae/laniocera-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/514627350
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514627350/original.jpg
+images:
+- file: images/passeriformes/tityridae/laniocera-rufescens/1.jpg
+  page: https://www.inaturalist.org/photos/514627350
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514627350/original.jpg
+- file: images/passeriformes/tityridae/laniocera-rufescens/2.jpg
+  page: https://www.inaturalist.org/photos/290999164
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/290999164/original.jpeg
+- file: images/passeriformes/tityridae/laniocera-rufescens/3.jpg
+  page: https://www.inaturalist.org/photos/225293429
+  author: Aitor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/225293429/original.jpg
+- file: images/passeriformes/tityridae/laniocera-rufescens/4.jpg
+  page: https://www.inaturalist.org/photos/597315021
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/597315021/original.jpg
+- file: images/passeriformes/tityridae/laniocera-rufescens/5.jpg
+  page: https://www.inaturalist.org/photos/290999153
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/290999153/original.jpeg
 ---
 
 

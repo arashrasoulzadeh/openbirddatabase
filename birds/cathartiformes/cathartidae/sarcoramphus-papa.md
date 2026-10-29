@@ -172,10 +172,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/cathartiformes/cathartidae/sarcoramphus-papa/1.jpg
+  page: https://www.inaturalist.org/photos/604806633
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604806633/original.jpg
+images:
+- file: images/cathartiformes/cathartidae/sarcoramphus-papa/1.jpg
+  page: https://www.inaturalist.org/photos/604806633
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604806633/original.jpg
+- file: images/cathartiformes/cathartidae/sarcoramphus-papa/2.jpg
+  page: https://www.inaturalist.org/photos/605147745
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605147745/original.jpg
+- file: images/cathartiformes/cathartidae/sarcoramphus-papa/3.jpg
+  page: https://www.inaturalist.org/photos/610590595
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610590595/original.jpg
+- file: images/cathartiformes/cathartidae/sarcoramphus-papa/4.jpg
+  page: https://www.inaturalist.org/photos/617454732
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617454732/original.jpg
+- file: images/cathartiformes/cathartidae/sarcoramphus-papa/5.jpg
+  page: https://www.inaturalist.org/photos/618469280
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618469280/original.jpg
 ---
 
 

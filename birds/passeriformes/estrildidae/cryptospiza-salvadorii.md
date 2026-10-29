@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/cryptospiza-salvadorii/1.jpg
+  page: https://www.inaturalist.org/photos/476777299
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476777299/original.jpeg
+images:
+- file: images/passeriformes/estrildidae/cryptospiza-salvadorii/1.jpg
+  page: https://www.inaturalist.org/photos/476777299
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476777299/original.jpeg
+- file: images/passeriformes/estrildidae/cryptospiza-salvadorii/2.jpg
+  page: https://www.inaturalist.org/photos/462780933
+  author: Valentin Moser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462780933/original.jpeg
+- file: images/passeriformes/estrildidae/cryptospiza-salvadorii/3.jpg
+  page: https://www.inaturalist.org/photos/476777350
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476777350/original.jpeg
+- file: images/passeriformes/estrildidae/cryptospiza-salvadorii/4.jpg
+  page: https://www.inaturalist.org/photos/476777388
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476777388/original.jpeg
+- file: images/passeriformes/estrildidae/cryptospiza-salvadorii/5.jpg
+  page: https://www.inaturalist.org/photos/476777430
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476777430/original.jpeg
 ---
 
 

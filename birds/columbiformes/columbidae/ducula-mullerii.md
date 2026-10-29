@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/ducula-mullerii/1.jpg
+  page: https://www.inaturalist.org/photos/708580017
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708580017/original.jpg
+images:
+- file: images/columbiformes/columbidae/ducula-mullerii/1.jpg
+  page: https://www.inaturalist.org/photos/708580017
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708580017/original.jpg
+- file: images/columbiformes/columbidae/ducula-mullerii/2.jpg
+  page: https://www.inaturalist.org/photos/462013328
+  author: Piotr Lukasik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462013328/original.jpg
+- file: images/columbiformes/columbidae/ducula-mullerii/3.jpg
+  page: https://www.inaturalist.org/photos/568912742
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/568912742/original.jpg
+- file: images/columbiformes/columbidae/ducula-mullerii/4.jpg
+  page: https://www.inaturalist.org/photos/671928123
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671928123/original.jpg
+- file: images/columbiformes/columbidae/ducula-mullerii/5.jpg
+  page: https://www.inaturalist.org/photos/701851755
+  author: wilmotsenaratne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/701851755/original.jpg
 ---
 
 

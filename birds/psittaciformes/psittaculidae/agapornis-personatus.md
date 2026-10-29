@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/agapornis-personatus/1.jpg
+  page: https://www.inaturalist.org/photos/677525797
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677525797/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/agapornis-personatus/1.jpg
+  page: https://www.inaturalist.org/photos/677525797
+  author: Edmundas Greimas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/677525797/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-personatus/2.jpg
+  page: https://www.inaturalist.org/photos/681919791
+  author: Sri Srikumar
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681919791/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-personatus/3.jpg
+  page: https://www.inaturalist.org/photos/698587157
+  author: Piermario Maculan
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698587157/original.jpg
+- file: images/psittaciformes/psittaculidae/agapornis-personatus/4.jpg
+  page: https://www.inaturalist.org/photos/502091392
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502091392/original.jpeg
+- file: images/psittaciformes/psittaculidae/agapornis-personatus/5.jpg
+  page: https://www.inaturalist.org/photos/504646676
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/504646676/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-sipahi/1.jpg
+  page: https://www.inaturalist.org/photos/468781899
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468781899/original.jpeg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-sipahi/1.jpg
+  page: https://www.inaturalist.org/photos/468781899
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468781899/original.jpeg
+- file: images/passeriformes/fringillidae/carpodacus-sipahi/2.jpg
+  page: https://www.inaturalist.org/photos/364929093
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/364929093/original.jpeg
+- file: images/passeriformes/fringillidae/carpodacus-sipahi/3.jpg
+  page: https://www.inaturalist.org/photos/601307808
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601307808/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-sipahi/4.jpg
+  page: https://www.inaturalist.org/photos/201831629
+  author: Paulmathi Vinod
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/201831629/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-sipahi/5.jpg
+  page: https://www.inaturalist.org/photos/395651099
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651099/original.jpg
 ---
 
 

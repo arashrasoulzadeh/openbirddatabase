@@ -119,7 +119,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 11.9
@@ -127,6 +128,26 @@ morphology:
   wing_length_mm: 48.0
   tail_length_mm: 44.0
   body_mass_g: 13.3
+image:
+  file: images/passeriformes/estrildidae/mayrimunia-leucosticta/1.jpg
+  page: https://www.inaturalist.org/photos/337510082
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337510082/original.jpg
+images:
+- file: images/passeriformes/estrildidae/mayrimunia-leucosticta/1.jpg
+  page: https://www.inaturalist.org/photos/337510082
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337510082/original.jpg
+- file: images/passeriformes/estrildidae/mayrimunia-leucosticta/2.jpg
+  page: https://www.inaturalist.org/photos/337512044
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337512044/original.jpg
 ---
 
 

@@ -144,10 +144,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 20
+image:
+  file: images/coraciiformes/momotidae/momotus-aequatorialis/1.jpg
+  page: https://www.inaturalist.org/photos/612392267
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612392267/original.jpg
+images:
+- file: images/coraciiformes/momotidae/momotus-aequatorialis/1.jpg
+  page: https://www.inaturalist.org/photos/612392267
+  author: Peter Archdale
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612392267/original.jpg
+- file: images/coraciiformes/momotidae/momotus-aequatorialis/2.jpg
+  page: https://www.inaturalist.org/photos/623002349
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623002349/original.jpg
+- file: images/coraciiformes/momotidae/momotus-aequatorialis/3.jpg
+  page: https://www.inaturalist.org/photos/624615018
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624615018/original.jpg
+- file: images/coraciiformes/momotidae/momotus-aequatorialis/4.jpg
+  page: https://www.inaturalist.org/photos/623745883
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623745883/original.jpg
+- file: images/coraciiformes/momotidae/momotus-aequatorialis/5.jpg
+  page: https://www.inaturalist.org/photos/625547963
+  author: Catalina Ayala
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625547963/original.jpg
 ---
 
 

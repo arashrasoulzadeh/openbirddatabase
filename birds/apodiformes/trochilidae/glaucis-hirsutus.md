@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/glaucis-hirsutus/1.jpg
+  page: https://www.inaturalist.org/photos/610012959
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012959/original.jpg
+images:
+- file: images/apodiformes/trochilidae/glaucis-hirsutus/1.jpg
+  page: https://www.inaturalist.org/photos/610012959
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012959/original.jpg
+- file: images/apodiformes/trochilidae/glaucis-hirsutus/2.jpg
+  page: https://www.inaturalist.org/photos/614236505
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614236505/original.jpg
+- file: images/apodiformes/trochilidae/glaucis-hirsutus/3.jpg
+  page: https://www.inaturalist.org/photos/629597278
+  author: Pablo Cauã da Silva Toledo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629597278/original.jpg
+- file: images/apodiformes/trochilidae/glaucis-hirsutus/4.jpg
+  page: https://www.inaturalist.org/photos/612487664
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612487664/original.jpg
+- file: images/apodiformes/trochilidae/glaucis-hirsutus/5.jpg
+  page: https://www.inaturalist.org/photos/635412165
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635412165/original.jpg
 ---
 
 

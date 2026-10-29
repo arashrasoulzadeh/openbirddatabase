@@ -191,10 +191,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/passeriformes/fringillidae/coccothraustes-coccothraustes/1.jpg
+  page: https://www.inaturalist.org/photos/605048007
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605048007/original.jpg
+images:
+- file: images/passeriformes/fringillidae/coccothraustes-coccothraustes/1.jpg
+  page: https://www.inaturalist.org/photos/605048007
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605048007/original.jpg
+- file: images/passeriformes/fringillidae/coccothraustes-coccothraustes/2.jpg
+  page: https://www.inaturalist.org/photos/604815868
+  author: Ирина Хохрякова
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604815868/original.jpg
+- file: images/passeriformes/fringillidae/coccothraustes-coccothraustes/3.jpg
+  page: https://www.inaturalist.org/photos/605608856
+  author: Yehor Yatsiuk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605608856/original.jpg
+- file: images/passeriformes/fringillidae/coccothraustes-coccothraustes/4.jpg
+  page: https://www.inaturalist.org/photos/604729498
+  author: Marina Potapova
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604729498/original.jpg
+- file: images/passeriformes/fringillidae/coccothraustes-coccothraustes/5.jpg
+  page: https://www.inaturalist.org/photos/604484000
+  author: Вячеслав Шуплецов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604484000/original.jpg
 ---
 
 

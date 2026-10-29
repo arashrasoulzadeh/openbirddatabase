@@ -135,8 +135,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/lipaugus-conditus/1.jpg
+  page: https://www.inaturalist.org/photos/689682087
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689682087/original.jpg
+images:
+- file: images/passeriformes/cotingidae/lipaugus-conditus/1.jpg
+  page: https://www.inaturalist.org/photos/689682087
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689682087/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-conditus/2.jpg
+  page: https://www.inaturalist.org/photos/587942209
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587942209/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-conditus/3.jpg
+  page: https://www.inaturalist.org/photos/689681821
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689681821/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-conditus/4.jpg
+  page: https://www.inaturalist.org/photos/689681934
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689681934/original.jpg
+- file: images/passeriformes/cotingidae/lipaugus-conditus/5.jpg
+  page: https://www.inaturalist.org/photos/689681993
+  author: filipeprates
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689681993/original.jpg
 ---
 
 

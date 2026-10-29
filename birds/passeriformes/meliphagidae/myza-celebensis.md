@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/myza-celebensis/1.jpg
+  page: https://www.inaturalist.org/photos/550329095
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550329095/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/myza-celebensis/1.jpg
+  page: https://www.inaturalist.org/photos/550329095
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550329095/original.jpg
+- file: images/passeriformes/meliphagidae/myza-celebensis/2.jpg
+  page: https://www.inaturalist.org/photos/309569067
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/309569067/original.jpg
+- file: images/passeriformes/meliphagidae/myza-celebensis/3.jpg
+  page: https://www.inaturalist.org/photos/336015573
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336015573/original.jpeg
+- file: images/passeriformes/meliphagidae/myza-celebensis/4.jpg
+  page: https://www.inaturalist.org/photos/232597926
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/232597926/original.jpeg
+- file: images/passeriformes/meliphagidae/myza-celebensis/5.jpg
+  page: https://www.inaturalist.org/photos/550329119
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550329119/original.jpg
 ---
 
 

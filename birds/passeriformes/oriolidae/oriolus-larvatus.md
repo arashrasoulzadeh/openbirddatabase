@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/oriolidae/oriolus-larvatus/1.jpg
+  page: https://www.inaturalist.org/photos/608861445
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608861445/original.jpg
+images:
+- file: images/passeriformes/oriolidae/oriolus-larvatus/1.jpg
+  page: https://www.inaturalist.org/photos/608861445
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608861445/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-larvatus/2.jpg
+  page: https://www.inaturalist.org/photos/624175792
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624175792/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-larvatus/3.jpg
+  page: https://www.inaturalist.org/photos/635144551
+  author: Shaun Swanepoel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/635144551/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-larvatus/4.jpg
+  page: https://www.inaturalist.org/photos/608861453
+  author: Karen Eichholz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608861453/original.jpg
+- file: images/passeriformes/oriolidae/oriolus-larvatus/5.jpg
+  page: https://www.inaturalist.org/photos/626718186
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626718186/original.jpg
 ---
 
 

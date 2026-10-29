@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/piciformes/picidae/melanerpes-uropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/607244182
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607244182/original.jpg
+images:
+- file: images/piciformes/picidae/melanerpes-uropygialis/1.jpg
+  page: https://www.inaturalist.org/photos/607244182
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607244182/original.jpg
+- file: images/piciformes/picidae/melanerpes-uropygialis/2.jpg
+  page: https://www.inaturalist.org/photos/606234356
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606234356/original.jpg
+- file: images/piciformes/picidae/melanerpes-uropygialis/3.jpg
+  page: https://www.inaturalist.org/photos/608513753
+  author: Joseph Rojas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608513753/original.jpg
+- file: images/piciformes/picidae/melanerpes-uropygialis/4.jpg
+  page: https://www.inaturalist.org/photos/605808752
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605808752/original.jpg
+- file: images/piciformes/picidae/melanerpes-uropygialis/5.jpg
+  page: https://www.inaturalist.org/photos/610539476
+  author: memoosborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610539476/original.jpg
 ---
 
 

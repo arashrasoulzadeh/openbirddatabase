@@ -140,10 +140,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Lek
+image:
+  file: images/apodiformes/trochilidae/pampa-curvipennis/1.jpg
+  page: https://www.inaturalist.org/photos/610562354
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610562354/original.jpg
+images:
+- file: images/apodiformes/trochilidae/pampa-curvipennis/1.jpg
+  page: https://www.inaturalist.org/photos/610562354
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610562354/original.jpg
+- file: images/apodiformes/trochilidae/pampa-curvipennis/2.jpg
+  page: https://www.inaturalist.org/photos/617666840
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617666840/original.jpg
+- file: images/apodiformes/trochilidae/pampa-curvipennis/3.jpg
+  page: https://www.inaturalist.org/photos/616521278
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616521278/original.jpg
+- file: images/apodiformes/trochilidae/pampa-curvipennis/4.jpg
+  page: https://www.inaturalist.org/photos/641109610
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641109610/original.jpg
+- file: images/apodiformes/trochilidae/pampa-curvipennis/5.jpg
+  page: https://www.inaturalist.org/photos/696443163
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696443163/original.jpg
 ---
 
 

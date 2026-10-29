@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/galloperdix-spadicea/1.jpg
+  page: https://www.inaturalist.org/photos/617206888
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206888/original.jpg
+images:
+- file: images/galliformes/phasianidae/galloperdix-spadicea/1.jpg
+  page: https://www.inaturalist.org/photos/617206888
+  author: Ajay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617206888/original.jpg
+- file: images/galliformes/phasianidae/galloperdix-spadicea/2.jpg
+  page: https://www.inaturalist.org/photos/630999523
+  author: Srivatsan Ramkumar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630999523/original.jpg
+- file: images/galliformes/phasianidae/galloperdix-spadicea/3.jpg
+  page: https://www.inaturalist.org/photos/722067292
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722067292/original.jpg
+- file: images/galliformes/phasianidae/galloperdix-spadicea/4.jpg
+  page: https://www.inaturalist.org/photos/517128184
+  author: Raja bandi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517128184/original.jpg
+- file: images/galliformes/phasianidae/galloperdix-spadicea/5.jpg
+  page: https://www.inaturalist.org/photos/529066391
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/529066391/original.jpg
 ---
 
 

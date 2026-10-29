@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-borbonicus/1.jpg
+  page: https://www.inaturalist.org/photos/683179011
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683179011/original.jpg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-borbonicus/1.jpg
+  page: https://www.inaturalist.org/photos/683179011
+  author: Jenni Ly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683179011/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-borbonicus/2.jpg
+  page: https://www.inaturalist.org/photos/461126402
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/461126402/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-borbonicus/3.jpg
+  page: https://www.inaturalist.org/photos/477286605
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477286605/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-borbonicus/4.jpg
+  page: https://www.inaturalist.org/photos/638124086
+  author: marius
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/638124086/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-borbonicus/5.jpg
+  page: https://www.inaturalist.org/photos/468572521
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468572521/original.jpeg
 ---
 
 

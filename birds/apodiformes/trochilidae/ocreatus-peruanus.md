@@ -138,8 +138,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/ocreatus-peruanus/1.jpg
+  page: https://www.inaturalist.org/photos/608939694
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608939694/original.jpg
+images:
+- file: images/apodiformes/trochilidae/ocreatus-peruanus/1.jpg
+  page: https://www.inaturalist.org/photos/608939694
+  author: andrew2285
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608939694/original.jpg
+- file: images/apodiformes/trochilidae/ocreatus-peruanus/2.jpg
+  page: https://www.inaturalist.org/photos/629204887
+  author: Diego Inclan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629204887/original.jpg
+- file: images/apodiformes/trochilidae/ocreatus-peruanus/3.jpg
+  page: https://www.inaturalist.org/photos/681651840
+  author: Emma Oxford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681651840/original.jpg
+- file: images/apodiformes/trochilidae/ocreatus-peruanus/4.jpg
+  page: https://www.inaturalist.org/photos/728708320
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/728708320/original.jpg
+- file: images/apodiformes/trochilidae/ocreatus-peruanus/5.jpg
+  page: https://www.inaturalist.org/photos/539375982
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539375982/original.jpg
 ---
 
 

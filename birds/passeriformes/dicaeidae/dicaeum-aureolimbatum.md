@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-aureolimbatum/1.jpg
+  page: https://www.inaturalist.org/photos/734778679
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734778679/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-aureolimbatum/1.jpg
+  page: https://www.inaturalist.org/photos/734778679
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734778679/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-aureolimbatum/2.jpg
+  page: https://www.inaturalist.org/photos/619190225
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619190225/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-aureolimbatum/3.jpg
+  page: https://www.inaturalist.org/photos/675854694
+  author: Rui Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/675854694/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-aureolimbatum/4.jpg
+  page: https://www.inaturalist.org/photos/720093105
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/720093105/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-aureolimbatum/5.jpg
+  page: https://www.inaturalist.org/photos/466736935
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466736935/original.jpeg
 ---
 
 

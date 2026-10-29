@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/acanthidops-bairdi/1.jpg
+  page: https://www.inaturalist.org/photos/719303323
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719303323/original.jpg
+images:
+- file: images/passeriformes/thraupidae/acanthidops-bairdi/1.jpg
+  page: https://www.inaturalist.org/photos/719303323
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719303323/original.jpg
+- file: images/passeriformes/thraupidae/acanthidops-bairdi/2.jpg
+  page: https://www.inaturalist.org/photos/524704759
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524704759/original.jpg
+- file: images/passeriformes/thraupidae/acanthidops-bairdi/3.jpg
+  page: https://www.inaturalist.org/photos/451040975
+  author: Daniel S. Katz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451040975/original.jpeg
+- file: images/passeriformes/thraupidae/acanthidops-bairdi/4.jpg
+  page: https://www.inaturalist.org/photos/458777948
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458777948/original.jpg
+- file: images/passeriformes/thraupidae/acanthidops-bairdi/5.jpg
+  page: https://www.inaturalist.org/photos/739055546
+  author: gwynmwilliams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739055546/original.jpg
 ---
 
 

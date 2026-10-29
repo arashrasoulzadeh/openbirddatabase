@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-andicolus/1.jpg
+  page: https://www.inaturalist.org/photos/633125848
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633125848/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-andicolus/1.jpg
+  page: https://www.inaturalist.org/photos/633125848
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633125848/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-andicolus/2.jpg
+  page: https://www.inaturalist.org/photos/730676353
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730676353/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-andicolus/3.jpg
+  page: https://www.inaturalist.org/photos/554366083
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/554366083/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-andicolus/4.jpg
+  page: https://www.inaturalist.org/photos/362426891
+  author: Martin Vallejos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/362426891/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-andicolus/5.jpg
+  page: https://www.inaturalist.org/photos/231048248
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/231048248/original.jpg
 ---
 
 

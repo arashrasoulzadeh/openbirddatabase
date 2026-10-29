@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/perdicula-argoondah/1.jpg
+  page: https://www.inaturalist.org/photos/722052380
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722052380/original.jpg
+images:
+- file: images/galliformes/phasianidae/perdicula-argoondah/1.jpg
+  page: https://www.inaturalist.org/photos/722052380
+  author: harrier
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722052380/original.jpg
+- file: images/galliformes/phasianidae/perdicula-argoondah/2.jpg
+  page: https://www.inaturalist.org/photos/499759326
+  author: Rhino909
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/499759326/original.jpg
+- file: images/galliformes/phasianidae/perdicula-argoondah/3.jpg
+  page: https://www.inaturalist.org/photos/552155198
+  author: Aditya Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/552155198/original.jpg
+- file: images/galliformes/phasianidae/perdicula-argoondah/4.jpg
+  page: https://www.inaturalist.org/photos/406175972
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/406175972/original.jpg
+- file: images/galliformes/phasianidae/perdicula-argoondah/5.jpg
+  page: https://www.inaturalist.org/photos/311815561
+  author: Surabhi Srivastava
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/311815561/original.jpeg
 ---
 
 

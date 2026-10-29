@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/acridotheres-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/605241075
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605241075/original.jpg
+images:
+- file: images/passeriformes/sturnidae/acridotheres-grandis/1.jpg
+  page: https://www.inaturalist.org/photos/605241075
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605241075/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-grandis/2.jpg
+  page: https://www.inaturalist.org/photos/621903803
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621903803/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-grandis/3.jpg
+  page: https://www.inaturalist.org/photos/628232794
+  author: lallen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628232794/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-grandis/4.jpg
+  page: https://www.inaturalist.org/photos/613563776
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613563776/original.jpg
+- file: images/passeriformes/sturnidae/acridotheres-grandis/5.jpg
+  page: https://www.inaturalist.org/photos/617371075
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617371075/original.jpg
 ---
 
 

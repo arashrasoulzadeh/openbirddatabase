@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/anseriformes/anatidae/chenonetta-jubata/1.jpg
+  page: https://www.inaturalist.org/photos/605001560
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605001560/original.jpg
+images:
+- file: images/anseriformes/anatidae/chenonetta-jubata/1.jpg
+  page: https://www.inaturalist.org/photos/605001560
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605001560/original.jpg
+- file: images/anseriformes/anatidae/chenonetta-jubata/2.jpg
+  page: https://www.inaturalist.org/photos/605265619
+  author: Martin Rady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605265619/original.jpg
+- file: images/anseriformes/anatidae/chenonetta-jubata/3.jpg
+  page: https://www.inaturalist.org/photos/605264141
+  author: Terra Occ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605264141/original.jpg
+- file: images/anseriformes/anatidae/chenonetta-jubata/4.jpg
+  page: https://www.inaturalist.org/photos/604950461
+  author: Saira Manns
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604950461/original.jpg
+- file: images/anseriformes/anatidae/chenonetta-jubata/5.jpg
+  page: https://www.inaturalist.org/photos/604671721
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604671721/original.jpg
 ---
 
 

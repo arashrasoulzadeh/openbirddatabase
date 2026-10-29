@@ -160,10 +160,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/cuculiformes/cuculidae/coccyzus-americanus/1.jpg
+  page: https://www.inaturalist.org/photos/605383558
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383558/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coccyzus-americanus/1.jpg
+  page: https://www.inaturalist.org/photos/605383558
+  author: Gabriel Jovêncio Ribeiro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605383558/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-americanus/2.jpg
+  page: https://www.inaturalist.org/photos/630661850
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630661850/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-americanus/3.jpg
+  page: https://www.inaturalist.org/photos/647375527
+  author: Jackie T
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/647375527/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-americanus/4.jpg
+  page: https://www.inaturalist.org/photos/642173669
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/642173669/original.jpg
+- file: images/cuculiformes/cuculidae/coccyzus-americanus/5.jpg
+  page: https://www.inaturalist.org/photos/651034927
+  author: Vicki Miller
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651034927/original.jpg
 ---
 
 

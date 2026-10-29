@@ -143,7 +143,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 33.0
@@ -153,6 +154,44 @@ morphology:
   body_mass_g: 284.0
 reproduction:
   clutch_size_mean: 2.0
+image:
+  file: images/strigiformes/strigidae/strix-virgata/1.jpg
+  page: https://www.inaturalist.org/photos/606792641
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606792641/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-virgata/1.jpg
+  page: https://www.inaturalist.org/photos/606792641
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606792641/original.jpg
+- file: images/strigiformes/strigidae/strix-virgata/2.jpg
+  page: https://www.inaturalist.org/photos/608985416
+  author: ChrisMcV
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608985416/original.jpg
+- file: images/strigiformes/strigidae/strix-virgata/3.jpg
+  page: https://www.inaturalist.org/photos/606691806
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606691806/original.jpg
+- file: images/strigiformes/strigidae/strix-virgata/4.jpg
+  page: https://www.inaturalist.org/photos/611051407
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611051407/original.jpg
+- file: images/strigiformes/strigidae/strix-virgata/5.jpg
+  page: https://www.inaturalist.org/photos/613646787
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613646787/original.jpg
 ---
 
 

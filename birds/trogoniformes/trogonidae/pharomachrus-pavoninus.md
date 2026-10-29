@@ -142,8 +142,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/trogoniformes/trogonidae/pharomachrus-pavoninus/1.jpg
+  page: https://www.inaturalist.org/photos/426765150
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426765150/original.jpg
+images:
+- file: images/trogoniformes/trogonidae/pharomachrus-pavoninus/1.jpg
+  page: https://www.inaturalist.org/photos/426765150
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426765150/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-pavoninus/2.jpg
+  page: https://www.inaturalist.org/photos/248876816
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/248876816/original.jpeg
+- file: images/trogoniformes/trogonidae/pharomachrus-pavoninus/3.jpg
+  page: https://www.inaturalist.org/photos/69667928
+  author: Blair Dudeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/69667928/original.jpg
+- file: images/trogoniformes/trogonidae/pharomachrus-pavoninus/4.jpg
+  page: https://www.inaturalist.org/photos/426775704
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/426775704/original.jpg
 ---
 
 

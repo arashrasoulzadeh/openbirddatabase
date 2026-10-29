@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/cinclodes-olrogi/1.jpg
+  page: https://www.inaturalist.org/photos/610771843
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610771843/original.jpg
+images:
+- file: images/passeriformes/furnariidae/cinclodes-olrogi/1.jpg
+  page: https://www.inaturalist.org/photos/610771843
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610771843/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-olrogi/2.jpg
+  page: https://www.inaturalist.org/photos/656085275
+  author: Celina Emilia Iratchet
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656085275/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-olrogi/3.jpg
+  page: https://www.inaturalist.org/photos/598209123
+  author: Johannes S.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/598209123/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-olrogi/4.jpg
+  page: https://www.inaturalist.org/photos/397964663
+  author: Gonzalo González Mora
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/397964663/original.jpg
+- file: images/passeriformes/furnariidae/cinclodes-olrogi/5.jpg
+  page: https://www.inaturalist.org/photos/434973465
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434973465/original.jpeg
 ---
 
 

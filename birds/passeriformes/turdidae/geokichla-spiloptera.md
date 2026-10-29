@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-spiloptera/1.jpg
+  page: https://www.inaturalist.org/photos/612392241
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612392241/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-spiloptera/1.jpg
+  page: https://www.inaturalist.org/photos/612392241
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612392241/original.jpg
+- file: images/passeriformes/turdidae/geokichla-spiloptera/2.jpg
+  page: https://www.inaturalist.org/photos/467602012
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467602012/original.jpg
+- file: images/passeriformes/turdidae/geokichla-spiloptera/3.jpg
+  page: https://www.inaturalist.org/photos/451794500
+  author: Stuart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451794500/original.jpeg
+- file: images/passeriformes/turdidae/geokichla-spiloptera/4.jpg
+  page: https://www.inaturalist.org/photos/257368021
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257368021/original.jpg
+- file: images/passeriformes/turdidae/geokichla-spiloptera/5.jpg
+  page: https://www.inaturalist.org/photos/330358724
+  author: Griha Hasanov
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/330358724/original.jpg
 ---
 
 

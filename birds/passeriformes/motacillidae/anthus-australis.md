@@ -142,10 +142,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 5
+image:
+  file: images/passeriformes/motacillidae/anthus-australis/1.jpg
+  page: https://www.inaturalist.org/photos/606388645
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388645/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-australis/1.jpg
+  page: https://www.inaturalist.org/photos/606388645
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606388645/original.jpg
+- file: images/passeriformes/motacillidae/anthus-australis/2.jpg
+  page: https://www.inaturalist.org/photos/610153467
+  author: Patrick Connolly
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610153467/original.jpg
+- file: images/passeriformes/motacillidae/anthus-australis/3.jpg
+  page: https://www.inaturalist.org/photos/615470002
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615470002/original.jpg
+- file: images/passeriformes/motacillidae/anthus-australis/4.jpg
+  page: https://www.inaturalist.org/photos/607686955
+  author: Astrid Osborne
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607686955/original.jpg
+- file: images/passeriformes/motacillidae/anthus-australis/5.jpg
+  page: https://www.inaturalist.org/photos/615470190
+  author: bitsandbugs
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615470190/original.jpg
 ---
 
 

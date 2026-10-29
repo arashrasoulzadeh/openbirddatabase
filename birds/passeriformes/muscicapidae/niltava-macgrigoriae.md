@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/niltava-macgrigoriae/1.jpg
+  page: https://www.inaturalist.org/photos/607926989
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607926989/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/niltava-macgrigoriae/1.jpg
+  page: https://www.inaturalist.org/photos/607926989
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607926989/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-macgrigoriae/2.jpg
+  page: https://www.inaturalist.org/photos/717080526
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717080526/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-macgrigoriae/3.jpg
+  page: https://www.inaturalist.org/photos/620561470
+  author: Siddarth Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620561470/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-macgrigoriae/4.jpg
+  page: https://www.inaturalist.org/photos/671976765
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671976765/original.jpg
+- file: images/passeriformes/muscicapidae/niltava-macgrigoriae/5.jpg
+  page: https://www.inaturalist.org/photos/717080542
+  author: Rejoice Gassah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717080542/original.jpg
 ---
 
 

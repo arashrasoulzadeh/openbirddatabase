@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/aphrastura-spinicauda/1.jpg
+  page: https://www.inaturalist.org/photos/609209963
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609209963/original.jpg
+images:
+- file: images/passeriformes/furnariidae/aphrastura-spinicauda/1.jpg
+  page: https://www.inaturalist.org/photos/609209963
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609209963/original.jpg
+- file: images/passeriformes/furnariidae/aphrastura-spinicauda/2.jpg
+  page: https://www.inaturalist.org/photos/610862126
+  author: Lauren L.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610862126/original.jpg
+- file: images/passeriformes/furnariidae/aphrastura-spinicauda/3.jpg
+  page: https://www.inaturalist.org/photos/607192206
+  author: Ezequiel Racker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607192206/original.jpg
+- file: images/passeriformes/furnariidae/aphrastura-spinicauda/4.jpg
+  page: https://www.inaturalist.org/photos/609266601
+  author: Nahuel Di Marco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609266601/original.jpg
+- file: images/passeriformes/furnariidae/aphrastura-spinicauda/5.jpg
+  page: https://www.inaturalist.org/photos/609144703
+  author: Darío De la Fuente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609144703/original.jpg
 ---
 
 

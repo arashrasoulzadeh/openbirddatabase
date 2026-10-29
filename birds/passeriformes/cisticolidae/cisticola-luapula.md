@@ -143,7 +143,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 14.1
@@ -151,6 +152,44 @@ morphology:
   wing_length_mm: 58.2
   tail_length_mm: 51.2
   body_mass_g: 13.1
+image:
+  file: images/passeriformes/cisticolidae/cisticola-luapula/1.jpg
+  page: https://www.inaturalist.org/photos/223429624
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223429624/original.jpeg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-luapula/1.jpg
+  page: https://www.inaturalist.org/photos/223429624
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223429624/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-luapula/2.jpg
+  page: https://www.inaturalist.org/photos/116434016
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/116434016/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-luapula/3.jpg
+  page: https://picasaweb.google.com/116916927065934112165/NgamilandBiodiversity#6188460620648400258
+  author: '116916927065934112165'
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/2321917/original.JPG
+- file: images/passeriformes/cisticolidae/cisticola-luapula/4.jpg
+  page: https://www.inaturalist.org/photos/223429537
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223429537/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-luapula/5.jpg
+  page: https://www.inaturalist.org/photos/223432119
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/223432119/original.jpeg
 ---
 
 

@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/crossoptilon-harmani/1.jpg
+  page: https://www.inaturalist.org/photos/700117609
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700117609/original.jpg
+images:
+- file: images/galliformes/phasianidae/crossoptilon-harmani/1.jpg
+  page: https://www.inaturalist.org/photos/700117609
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700117609/original.jpg
+- file: images/galliformes/phasianidae/crossoptilon-harmani/2.jpg
+  page: https://www.inaturalist.org/photos/367800521
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367800521/original.jpg
+- file: images/galliformes/phasianidae/crossoptilon-harmani/3.jpg
+  page: https://www.inaturalist.org/photos/700117556
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700117556/original.jpg
+- file: images/galliformes/phasianidae/crossoptilon-harmani/4.jpg
+  page: https://www.inaturalist.org/photos/700117694
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700117694/original.jpg
+- file: images/galliformes/phasianidae/crossoptilon-harmani/5.jpg
+  page: https://www.inaturalist.org/photos/700117690
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700117690/original.jpg
 ---
 
 

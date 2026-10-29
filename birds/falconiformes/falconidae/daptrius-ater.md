@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/daptrius-ater/1.jpg
+  page: https://www.inaturalist.org/photos/610012755
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012755/original.jpg
+images:
+- file: images/falconiformes/falconidae/daptrius-ater/1.jpg
+  page: https://www.inaturalist.org/photos/610012755
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012755/original.jpg
+- file: images/falconiformes/falconidae/daptrius-ater/2.jpg
+  page: https://www.inaturalist.org/photos/614066459
+  author: Conrado Pável de Oliveira
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614066459/original.jpg
+- file: images/falconiformes/falconidae/daptrius-ater/3.jpg
+  page: https://www.inaturalist.org/photos/681080661
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/681080661/original.jpg
+- file: images/falconiformes/falconidae/daptrius-ater/4.jpg
+  page: https://www.inaturalist.org/photos/693904434
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/693904434/original.jpg
+- file: images/falconiformes/falconidae/daptrius-ater/5.jpg
+  page: https://www.inaturalist.org/photos/699916017
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699916017/original.jpg
 ---
 
 

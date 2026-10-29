@@ -142,8 +142,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/sypheotides-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/287163314
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/287163314/original.jpeg
+images:
+- file: images/otidiformes/otididae/sypheotides-indicus/1.jpg
+  page: https://www.inaturalist.org/photos/287163314
+  author: Afsar Nayakkan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/287163314/original.jpeg
+- file: images/otidiformes/otididae/sypheotides-indicus/2.jpg
+  page: https://www.inaturalist.org/photos/337784608
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337784608/original.jpeg
+- file: images/otidiformes/otididae/sypheotides-indicus/3.jpg
+  page: https://www.inaturalist.org/photos/327195911
+  author: Parth Kansara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327195911/original.jpg
+- file: images/otidiformes/otididae/sypheotides-indicus/4.jpg
+  page: https://www.inaturalist.org/photos/49694432
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/49694432/original.jpg
+- file: images/otidiformes/otididae/sypheotides-indicus/5.jpg
+  page: https://www.inaturalist.org/photos/57355871
+  author: S.MORE
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/57355871/original.jpg
 ---
 
 

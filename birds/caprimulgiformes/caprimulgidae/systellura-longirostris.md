@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/systellura-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605434111
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434111/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/systellura-longirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605434111
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605434111/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/systellura-longirostris/2.jpg
+  page: https://www.inaturalist.org/photos/611332041
+  author: Gabriela Cartes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611332041/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/systellura-longirostris/3.jpg
+  page: https://www.inaturalist.org/photos/614326334
+  author: Matías Alvarez Figueroa
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614326334/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/systellura-longirostris/4.jpg
+  page: https://www.inaturalist.org/photos/618075356
+  author: Cody Hinchliff
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618075356/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/systellura-longirostris/5.jpg
+  page: https://www.inaturalist.org/photos/618239775
+  author: nitsuga74
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618239775/original.jpg
 ---
 
 

@@ -166,8 +166,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/oceanitidae/fregetta-grallaria/1.jpg
+  page: https://www.inaturalist.org/photos/636650988
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636650988/original.jpg
+images:
+- file: images/procellariiformes/oceanitidae/fregetta-grallaria/1.jpg
+  page: https://www.inaturalist.org/photos/636650988
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636650988/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-grallaria/2.jpg
+  page: https://www.inaturalist.org/photos/363599733
+  author: ian_mcallan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/363599733/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-grallaria/3.jpg
+  page: https://www.inaturalist.org/photos/439956706
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/439956706/original.jpeg
+- file: images/procellariiformes/oceanitidae/fregetta-grallaria/4.jpg
+  page: https://www.inaturalist.org/photos/636650968
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636650968/original.jpg
+- file: images/procellariiformes/oceanitidae/fregetta-grallaria/5.jpg
+  page: https://www.inaturalist.org/photos/636650969
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636650969/original.jpg
 ---
 
 

@@ -147,8 +147,35 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/psophodidae/psophodes-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/218775817
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218775817/original.jpeg
+images:
+- file: images/passeriformes/psophodidae/psophodes-occidentalis/1.jpg
+  page: https://www.inaturalist.org/photos/218775817
+  author: Peter Crowcroft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218775817/original.jpeg
+- file: images/passeriformes/psophodidae/psophodes-occidentalis/2.jpg
+  page: https://www.inaturalist.org/photos/218729177
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218729177/original.jpg
+- file: images/passeriformes/psophodidae/psophodes-occidentalis/3.jpg
+  page: https://www.inaturalist.org/photos/336235360
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336235360/original.jpeg
 ---
 
 

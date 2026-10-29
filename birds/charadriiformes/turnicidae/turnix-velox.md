@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/turnicidae/turnix-velox/1.jpg
+  page: https://www.inaturalist.org/photos/742113406
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742113406/original.jpg
+images:
+- file: images/charadriiformes/turnicidae/turnix-velox/1.jpg
+  page: https://www.inaturalist.org/photos/742113406
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/742113406/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-velox/2.jpg
+  page: https://www.inaturalist.org/photos/727396785
+  author: Em Lamond
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727396785/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-velox/3.jpg
+  page: https://www.inaturalist.org/photos/604133051
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604133051/original.jpg
+- file: images/charadriiformes/turnicidae/turnix-velox/4.jpg
+  page: https://www.inaturalist.org/photos/360244048
+  author: Joe Atkinson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/360244048/original.jpeg
+- file: images/charadriiformes/turnicidae/turnix-velox/5.jpg
+  page: https://www.inaturalist.org/photos/470440947
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470440947/original.jpeg
 ---
 
 

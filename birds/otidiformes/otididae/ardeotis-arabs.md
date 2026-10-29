@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/ardeotis-arabs/1.jpg
+  page: https://www.inaturalist.org/photos/583319152
+  author: Markus Lampinen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583319152/original.jpg
+images:
+- file: images/otidiformes/otididae/ardeotis-arabs/1.jpg
+  page: https://www.inaturalist.org/photos/583319152
+  author: Markus Lampinen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583319152/original.jpg
+- file: images/otidiformes/otididae/ardeotis-arabs/2.jpg
+  page: https://www.inaturalist.org/photos/617585540
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617585540/original.jpg
+- file: images/otidiformes/otididae/ardeotis-arabs/3.jpg
+  page: https://www.inaturalist.org/photos/95197160
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95197160/original.jpeg
+- file: images/otidiformes/otididae/ardeotis-arabs/4.jpg
+  page: https://www.inaturalist.org/photos/88677530
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/88677530/original.jpeg
+- file: images/otidiformes/otididae/ardeotis-arabs/5.jpg
+  page: https://www.inaturalist.org/photos/53890713
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53890713/original.jpg
 ---
 
 

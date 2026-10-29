@@ -146,10 +146,37 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 34
+image:
+  file: images/charadriiformes/laridae/larus-livens/1.jpg
+  page: https://www.inaturalist.org/photos/620459414
+  author: Andrea Villarreal Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620459414/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-livens/1.jpg
+  page: https://www.inaturalist.org/photos/620459414
+  author: Andrea Villarreal Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620459414/original.jpg
+- file: images/charadriiformes/laridae/larus-livens/2.jpg
+  page: https://www.inaturalist.org/photos/620668867
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620668867/original.jpg
+- file: images/charadriiformes/laridae/larus-livens/3.jpg
+  page: https://www.inaturalist.org/photos/619775245
+  author: Sula Vanderplank
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619775245/original.jpg
 ---
 
 

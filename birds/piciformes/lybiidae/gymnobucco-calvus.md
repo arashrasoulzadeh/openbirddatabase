@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/lybiidae/gymnobucco-calvus/1.jpg
+  page: https://www.inaturalist.org/photos/599063033
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599063033/original.jpg
+images:
+- file: images/piciformes/lybiidae/gymnobucco-calvus/1.jpg
+  page: https://www.inaturalist.org/photos/599063033
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599063033/original.jpg
+- file: images/piciformes/lybiidae/gymnobucco-calvus/2.jpg
+  page: https://www.inaturalist.org/photos/344642988
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/344642988/original.jpeg
+- file: images/piciformes/lybiidae/gymnobucco-calvus/3.jpg
+  page: https://www.inaturalist.org/photos/218740343
+  author: Roland Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218740343/original.jpeg
+- file: images/piciformes/lybiidae/gymnobucco-calvus/4.jpg
+  page: https://www.inaturalist.org/photos/180612427
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180612427/original.jpg
+- file: images/piciformes/lybiidae/gymnobucco-calvus/5.jpg
+  page: https://www.inaturalist.org/photos/106652780
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/106652780/original.jpg
 ---
 
 

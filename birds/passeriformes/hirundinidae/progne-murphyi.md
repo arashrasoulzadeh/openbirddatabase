@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/hirundinidae/progne-murphyi/1.jpg
+  page: https://www.inaturalist.org/photos/602069266
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602069266/original.jpg
+images:
+- file: images/passeriformes/hirundinidae/progne-murphyi/1.jpg
+  page: https://www.inaturalist.org/photos/602069266
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602069266/original.jpg
+- file: images/passeriformes/hirundinidae/progne-murphyi/2.jpg
+  page: https://www.inaturalist.org/photos/349091820
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/349091820/original.jpg
+- file: images/passeriformes/hirundinidae/progne-murphyi/3.jpg
+  page: https://www.inaturalist.org/photos/300002198
+  author: capacoscar
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/300002198/original.jpeg
+- file: images/passeriformes/hirundinidae/progne-murphyi/4.jpg
+  page: https://www.inaturalist.org/photos/342137743
+  author: Jorge Herreros de Lartundo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/342137743/original.jpg
+- file: images/passeriformes/hirundinidae/progne-murphyi/5.jpg
+  page: https://www.inaturalist.org/photos/602069269
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/602069269/original.jpg
 ---
 
 

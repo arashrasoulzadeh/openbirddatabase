@@ -216,10 +216,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 37
+image:
+  file: images/suliformes/sulidae/morus-bassanus/1.jpg
+  page: https://www.inaturalist.org/photos/607037782
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607037782/original.jpg
+images:
+- file: images/suliformes/sulidae/morus-bassanus/1.jpg
+  page: https://www.inaturalist.org/photos/607037782
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607037782/original.jpg
+- file: images/suliformes/sulidae/morus-bassanus/2.jpg
+  page: https://www.inaturalist.org/photos/605862738
+  author: saydelah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605862738/original.jpg
+- file: images/suliformes/sulidae/morus-bassanus/3.jpg
+  page: https://www.inaturalist.org/photos/607168874
+  author: Julien Fougeroux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607168874/original.jpg
+- file: images/suliformes/sulidae/morus-bassanus/4.jpg
+  page: https://www.inaturalist.org/photos/610427285
+  author: Andrew Cunnington
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610427285/original.jpg
+- file: images/suliformes/sulidae/morus-bassanus/5.jpg
+  page: https://www.inaturalist.org/photos/605780831
+  author: geosesarma
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605780831/original.jpg
 ---
 
 

@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/grallariidae/grallaria-erythroleuca/1.jpg
+  page: https://www.inaturalist.org/photos/624738439
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624738439/original.jpg
+images:
+- file: images/passeriformes/grallariidae/grallaria-erythroleuca/1.jpg
+  page: https://www.inaturalist.org/photos/624738439
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624738439/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-erythroleuca/2.jpg
+  page: https://www.inaturalist.org/photos/562758982
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562758982/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-erythroleuca/3.jpg
+  page: https://www.inaturalist.org/photos/341933907
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341933907/original.jpeg
+- file: images/passeriformes/grallariidae/grallaria-erythroleuca/4.jpg
+  page: https://www.inaturalist.org/photos/562759041
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/562759041/original.jpg
+- file: images/passeriformes/grallariidae/grallaria-erythroleuca/5.jpg
+  page: https://www.inaturalist.org/photos/341933918
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341933918/original.jpeg
 ---
 
 

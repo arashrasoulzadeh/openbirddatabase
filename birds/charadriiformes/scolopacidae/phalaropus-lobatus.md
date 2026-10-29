@@ -186,10 +186,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 13
+image:
+  file: images/charadriiformes/scolopacidae/phalaropus-lobatus/1.jpg
+  page: https://www.inaturalist.org/photos/610895725
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610895725/original.jpg
+images:
+- file: images/charadriiformes/scolopacidae/phalaropus-lobatus/1.jpg
+  page: https://www.inaturalist.org/photos/610895725
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610895725/original.jpg
+- file: images/charadriiformes/scolopacidae/phalaropus-lobatus/2.jpg
+  page: https://www.inaturalist.org/photos/626861850
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/626861850/original.jpg
+- file: images/charadriiformes/scolopacidae/phalaropus-lobatus/3.jpg
+  page: https://www.inaturalist.org/photos/636197601
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636197601/original.jpg
+- file: images/charadriiformes/scolopacidae/phalaropus-lobatus/4.jpg
+  page: https://www.inaturalist.org/photos/649517501
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649517501/original.jpg
+- file: images/charadriiformes/scolopacidae/phalaropus-lobatus/5.jpg
+  page: https://www.inaturalist.org/photos/655135906
+  author: Olivier Morel
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655135906/original.jpg
 ---
 
 

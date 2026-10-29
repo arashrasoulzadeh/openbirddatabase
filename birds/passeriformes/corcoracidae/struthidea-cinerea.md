@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 25
+image:
+  file: images/passeriformes/corcoracidae/struthidea-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/606583110
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606583110/original.jpg
+images:
+- file: images/passeriformes/corcoracidae/struthidea-cinerea/1.jpg
+  page: https://www.inaturalist.org/photos/606583110
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606583110/original.jpg
+- file: images/passeriformes/corcoracidae/struthidea-cinerea/2.jpg
+  page: https://www.inaturalist.org/photos/615192415
+  author: Max Tibby
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615192415/original.jpg
+- file: images/passeriformes/corcoracidae/struthidea-cinerea/3.jpg
+  page: https://www.inaturalist.org/photos/616298157
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616298157/original.jpg
+- file: images/passeriformes/corcoracidae/struthidea-cinerea/4.jpg
+  page: https://www.inaturalist.org/photos/620360590
+  author: Martin Hannan-Jones
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620360590/original.jpg
+- file: images/passeriformes/corcoracidae/struthidea-cinerea/5.jpg
+  page: https://www.inaturalist.org/photos/616298169
+  author: Matt B
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616298169/original.jpg
 ---
 
 

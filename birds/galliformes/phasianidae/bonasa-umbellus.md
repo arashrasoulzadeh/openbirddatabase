@@ -150,10 +150,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 11
+image:
+  file: images/galliformes/phasianidae/bonasa-umbellus/1.jpg
+  page: https://www.inaturalist.org/photos/605688841
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605688841/original.jpg
+images:
+- file: images/galliformes/phasianidae/bonasa-umbellus/1.jpg
+  page: https://www.inaturalist.org/photos/605688841
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605688841/original.jpg
+- file: images/galliformes/phasianidae/bonasa-umbellus/2.jpg
+  page: https://www.inaturalist.org/photos/604816514
+  author: Galen Seilis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604816514/original.jpg
+- file: images/galliformes/phasianidae/bonasa-umbellus/3.jpg
+  page: https://www.inaturalist.org/photos/608504918
+  author: Moe Meikle
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608504918/original.jpg
+- file: images/galliformes/phasianidae/bonasa-umbellus/4.jpg
+  page: https://www.inaturalist.org/photos/607276846
+  author: Marc-Olivier Beausoleil
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607276846/original.jpg
+- file: images/galliformes/phasianidae/bonasa-umbellus/5.jpg
+  page: https://www.inaturalist.org/photos/607747226
+  author: Jake McCumber
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607747226/original.jpg
 ---
 
 

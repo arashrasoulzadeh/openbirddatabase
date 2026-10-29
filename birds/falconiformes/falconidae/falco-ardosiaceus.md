@@ -168,8 +168,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-ardosiaceus/1.jpg
+  page: https://www.inaturalist.org/photos/653759780
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653759780/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-ardosiaceus/1.jpg
+  page: https://www.inaturalist.org/photos/653759780
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653759780/original.jpg
+- file: images/falconiformes/falconidae/falco-ardosiaceus/2.jpg
+  page: https://www.inaturalist.org/photos/667245588
+  author: Jack Christmas
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667245588/original.jpg
+- file: images/falconiformes/falconidae/falco-ardosiaceus/3.jpg
+  page: https://www.inaturalist.org/photos/716131988
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716131988/original.jpg
+- file: images/falconiformes/falconidae/falco-ardosiaceus/4.jpg
+  page: https://www.inaturalist.org/photos/472246338
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472246338/original.jpg
+- file: images/falconiformes/falconidae/falco-ardosiaceus/5.jpg
+  page: https://www.inaturalist.org/photos/479348616
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479348616/original.jpg
 ---
 
 

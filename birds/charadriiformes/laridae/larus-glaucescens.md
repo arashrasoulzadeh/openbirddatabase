@@ -154,10 +154,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 32
+image:
+  file: images/charadriiformes/laridae/larus-glaucescens/1.jpg
+  page: https://www.inaturalist.org/photos/604991613
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604991613/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-glaucescens/1.jpg
+  page: https://www.inaturalist.org/photos/604991613
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604991613/original.jpg
+- file: images/charadriiformes/laridae/larus-glaucescens/2.jpg
+  page: https://www.inaturalist.org/photos/605540341
+  author: Liam Steele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605540341/original.jpg
+- file: images/charadriiformes/laridae/larus-glaucescens/3.jpg
+  page: https://www.inaturalist.org/photos/606087894
+  author: Tser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606087894/original.jpg
+- file: images/charadriiformes/laridae/larus-glaucescens/4.jpg
+  page: https://www.inaturalist.org/photos/610574725
+  author: Chris Fluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610574725/original.jpg
+- file: images/charadriiformes/laridae/larus-glaucescens/5.jpg
+  page: https://www.inaturalist.org/photos/607757088
+  author: Evelyn Lazzaretti 🏳️‍⚧️
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607757088/original.jpg
 ---
 
 

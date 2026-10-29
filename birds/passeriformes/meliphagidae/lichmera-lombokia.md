@@ -140,8 +140,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/lichmera-lombokia/1.jpg
+  page: https://www.inaturalist.org/photos/331092833
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331092833/original.jpeg
+images:
+- file: images/passeriformes/meliphagidae/lichmera-lombokia/1.jpg
+  page: https://www.inaturalist.org/photos/331092833
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331092833/original.jpeg
+- file: images/passeriformes/meliphagidae/lichmera-lombokia/2.jpg
+  page: https://www.inaturalist.org/photos/332759264
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332759264/original.jpeg
+- file: images/passeriformes/meliphagidae/lichmera-lombokia/3.jpg
+  page: https://www.inaturalist.org/photos/81172015
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/81172015/original.jpeg
+- file: images/passeriformes/meliphagidae/lichmera-lombokia/4.jpg
+  page: https://www.inaturalist.org/photos/331092846
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/331092846/original.jpeg
+- file: images/passeriformes/meliphagidae/lichmera-lombokia/5.jpg
+  page: https://www.inaturalist.org/photos/332759288
+  author: River Ahlquist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/332759288/original.jpeg
 ---
 
 

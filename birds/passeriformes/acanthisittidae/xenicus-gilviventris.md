@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/acanthisittidae/xenicus-gilviventris/1.jpg
+  page: https://www.inaturalist.org/photos/609836692
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609836692/original.jpg
+images:
+- file: images/passeriformes/acanthisittidae/xenicus-gilviventris/1.jpg
+  page: https://www.inaturalist.org/photos/609836692
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609836692/original.jpg
+- file: images/passeriformes/acanthisittidae/xenicus-gilviventris/2.jpg
+  page: https://www.inaturalist.org/photos/615907703
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615907703/original.jpg
+- file: images/passeriformes/acanthisittidae/xenicus-gilviventris/3.jpg
+  page: https://www.inaturalist.org/photos/612276200
+  author: lissybell
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612276200/original.jpg
+- file: images/passeriformes/acanthisittidae/xenicus-gilviventris/4.jpg
+  page: https://www.inaturalist.org/photos/636001424
+  author: Thomas Wilson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636001424/original.jpg
+- file: images/passeriformes/acanthisittidae/xenicus-gilviventris/5.jpg
+  page: https://www.inaturalist.org/photos/463294973
+  author: Leon Billows
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463294973/original.jpeg
 ---
 
 

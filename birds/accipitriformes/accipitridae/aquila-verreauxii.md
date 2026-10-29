@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/accipitriformes/accipitridae/aquila-verreauxii/1.jpg
+  page: https://www.inaturalist.org/photos/630074812
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630074812/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/aquila-verreauxii/1.jpg
+  page: https://www.inaturalist.org/photos/630074812
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630074812/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-verreauxii/2.jpg
+  page: https://www.inaturalist.org/photos/627205650
+  author: Prince Molokomme
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627205650/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-verreauxii/3.jpg
+  page: https://www.inaturalist.org/photos/633744537
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633744537/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-verreauxii/4.jpg
+  page: https://www.inaturalist.org/photos/665217697
+  author: Danie Palm
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/665217697/original.jpg
+- file: images/accipitriformes/accipitridae/aquila-verreauxii/5.jpg
+  page: https://www.inaturalist.org/photos/630101830
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630101830/original.jpg
 ---
 
 

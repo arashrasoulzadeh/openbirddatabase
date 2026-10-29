@@ -141,8 +141,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/willisornis-vidua/1.jpg
+  page: https://www.inaturalist.org/photos/442618581
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442618581/original.jpeg
+images:
+- file: images/passeriformes/thamnophilidae/willisornis-vidua/1.jpg
+  page: https://www.inaturalist.org/photos/442618581
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442618581/original.jpeg
+- file: images/passeriformes/thamnophilidae/willisornis-vidua/2.jpg
+  page: https://www.inaturalist.org/photos/418568038
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418568038/original.jpg
+- file: images/passeriformes/thamnophilidae/willisornis-vidua/3.jpg
+  page: https://www.inaturalist.org/photos/611562414
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611562414/original.jpg
+- file: images/passeriformes/thamnophilidae/willisornis-vidua/4.jpg
+  page: https://www.inaturalist.org/photos/442618586
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442618586/original.jpeg
 ---
 
 

@@ -166,10 +166,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 33
+image:
+  file: images/charadriiformes/laridae/larus-glaucoides/1.jpg
+  page: https://www.inaturalist.org/photos/605215788
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605215788/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-glaucoides/1.jpg
+  page: https://www.inaturalist.org/photos/605215788
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605215788/original.jpg
+- file: images/charadriiformes/laridae/larus-glaucoides/2.jpg
+  page: https://www.inaturalist.org/photos/605409731
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605409731/original.jpg
+- file: images/charadriiformes/laridae/larus-glaucoides/3.jpg
+  page: https://www.inaturalist.org/photos/605237642
+  author: Owen McElroy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605237642/original.jpg
+- file: images/charadriiformes/laridae/larus-glaucoides/4.jpg
+  page: https://www.inaturalist.org/photos/608835420
+  author: Andrew Lai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608835420/original.jpg
+- file: images/charadriiformes/laridae/larus-glaucoides/5.jpg
+  page: https://www.inaturalist.org/photos/610838135
+  author: Blake Ross
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610838135/original.jpg
 ---
 
 

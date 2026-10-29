@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anser-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/605634594
+  author: jcollatz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605634594/original.jpg
+images:
+- file: images/anseriformes/anatidae/anser-caerulescens/1.jpg
+  page: https://www.inaturalist.org/photos/605634594
+  author: jcollatz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605634594/original.jpg
+- file: images/anseriformes/anatidae/anser-caerulescens/2.jpg
+  page: https://www.inaturalist.org/photos/604644581
+  author: inbetweenbays
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604644581/original.jpg
+- file: images/anseriformes/anatidae/anser-caerulescens/3.jpg
+  page: https://www.inaturalist.org/photos/605677863
+  author: SquidTK
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605677863/original.jpg
+- file: images/anseriformes/anatidae/anser-caerulescens/4.jpg
+  page: https://www.inaturalist.org/photos/604539556
+  author: Michael, Antoni and Nihat Hinczewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604539556/original.jpg
+- file: images/anseriformes/anatidae/anser-caerulescens/5.jpg
+  page: https://www.inaturalist.org/photos/605640021
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605640021/original.jpg
 ---
 
 

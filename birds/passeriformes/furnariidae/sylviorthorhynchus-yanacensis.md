@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/furnariidae/sylviorthorhynchus-yanacensis/1.jpg
+  page: https://www.inaturalist.org/photos/483881229
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483881229/original.jpeg
+images:
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-yanacensis/1.jpg
+  page: https://www.inaturalist.org/photos/483881229
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483881229/original.jpeg
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-yanacensis/2.jpg
+  page: https://www.inaturalist.org/photos/490623299
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490623299/original.jpeg
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-yanacensis/3.jpg
+  page: https://www.inaturalist.org/photos/614489457
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614489457/original.jpg
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-yanacensis/4.jpg
+  page: https://www.inaturalist.org/photos/450683829
+  author: Monics Paredes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/450683829/original.jpeg
+- file: images/passeriformes/furnariidae/sylviorthorhynchus-yanacensis/5.jpg
+  page: https://www.inaturalist.org/photos/339732906
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339732906/original.jpeg
 ---
 
 

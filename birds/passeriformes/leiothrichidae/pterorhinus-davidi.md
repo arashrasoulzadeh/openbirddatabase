@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/pterorhinus-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/605310987
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605310987/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/pterorhinus-davidi/1.jpg
+  page: https://www.inaturalist.org/photos/605310987
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605310987/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-davidi/2.jpg
+  page: https://www.inaturalist.org/photos/608550962
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608550962/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-davidi/3.jpg
+  page: https://www.inaturalist.org/photos/471965003
+  author: Marco Mussita
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471965003/original.jpeg
+- file: images/passeriformes/leiothrichidae/pterorhinus-davidi/4.jpg
+  page: https://www.inaturalist.org/photos/605310986
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605310986/original.jpg
+- file: images/passeriformes/leiothrichidae/pterorhinus-davidi/5.jpg
+  page: https://www.inaturalist.org/photos/605310998
+  author: 夏仲归
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605310998/original.jpg
 ---
 
 

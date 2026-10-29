@@ -171,8 +171,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/cossypha-heuglini/1.jpg
+  page: https://www.inaturalist.org/photos/605896254
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605896254/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/cossypha-heuglini/1.jpg
+  page: https://www.inaturalist.org/photos/605896254
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605896254/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-heuglini/2.jpg
+  page: https://www.inaturalist.org/photos/729007280
+  author: petersparks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729007280/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-heuglini/3.jpg
+  page: https://www.inaturalist.org/photos/619047518
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619047518/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-heuglini/4.jpg
+  page: https://www.inaturalist.org/photos/617678974
+  author: Theo Busschau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617678974/original.jpg
+- file: images/passeriformes/muscicapidae/cossypha-heuglini/5.jpg
+  page: https://www.inaturalist.org/photos/650155538
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650155538/original.jpg
 ---
 
 

@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/anthracoceros-malayanus/1.jpg
+  page: https://www.inaturalist.org/photos/613615994
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613615994/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/anthracoceros-malayanus/1.jpg
+  page: https://www.inaturalist.org/photos/613615994
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613615994/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-malayanus/2.jpg
+  page: https://www.inaturalist.org/photos/614663384
+  author: Kai Squires
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614663384/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-malayanus/3.jpg
+  page: https://www.inaturalist.org/photos/619130112
+  author: drtimk
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619130112/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-malayanus/4.jpg
+  page: https://www.inaturalist.org/photos/739495444
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/739495444/original.jpg
+- file: images/bucerotiformes/bucerotidae/anthracoceros-malayanus/5.jpg
+  page: https://www.inaturalist.org/photos/613616006
+  author: John Witton
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613616006/original.jpg
 ---
 
 

@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/podicipediformes/podicipedidae/rollandia-rolland/1.jpg
+  page: https://www.inaturalist.org/photos/608926680
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608926680/original.jpg
+images:
+- file: images/podicipediformes/podicipedidae/rollandia-rolland/1.jpg
+  page: https://www.inaturalist.org/photos/608926680
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608926680/original.jpg
+- file: images/podicipediformes/podicipedidae/rollandia-rolland/2.jpg
+  page: https://www.inaturalist.org/photos/609428842
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609428842/original.jpg
+- file: images/podicipediformes/podicipedidae/rollandia-rolland/3.jpg
+  page: https://www.inaturalist.org/photos/606290888
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606290888/original.jpg
+- file: images/podicipediformes/podicipedidae/rollandia-rolland/4.jpg
+  page: https://www.inaturalist.org/photos/611578489
+  author: ferferrari
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611578489/original.jpg
+- file: images/podicipediformes/podicipedidae/rollandia-rolland/5.jpg
+  page: https://www.inaturalist.org/photos/619539885
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619539885/original.jpg
 ---
 
 

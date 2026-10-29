@@ -154,8 +154,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/muscicapa-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/614933922
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933922/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/muscicapa-ferruginea/1.jpg
+  page: https://www.inaturalist.org/photos/614933922
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614933922/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-ferruginea/2.jpg
+  page: https://www.inaturalist.org/photos/618851301
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618851301/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-ferruginea/3.jpg
+  page: https://www.inaturalist.org/photos/660818620
+  author: Toby Holman
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/660818620/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-ferruginea/4.jpg
+  page: https://www.inaturalist.org/photos/692635910
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/692635910/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-ferruginea/5.jpg
+  page: https://www.inaturalist.org/photos/698377032
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698377032/original.jpg
 ---
 
 

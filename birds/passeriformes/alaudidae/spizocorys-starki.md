@@ -149,8 +149,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/alaudidae/spizocorys-starki/1.jpg
+  page: https://www.inaturalist.org/photos/622393655
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622393655/original.jpg
+images:
+- file: images/passeriformes/alaudidae/spizocorys-starki/1.jpg
+  page: https://www.inaturalist.org/photos/622393655
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622393655/original.jpg
+- file: images/passeriformes/alaudidae/spizocorys-starki/2.jpg
+  page: https://www.inaturalist.org/photos/320748963
+  author: David Thompson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/320748963/original.jpeg
+- file: images/passeriformes/alaudidae/spizocorys-starki/3.jpg
+  page: https://www.inaturalist.org/photos/348842255
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348842255/original.jpeg
+- file: images/passeriformes/alaudidae/spizocorys-starki/4.jpg
+  page: https://www.inaturalist.org/photos/527377856
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527377856/original.jpg
+- file: images/passeriformes/alaudidae/spizocorys-starki/5.jpg
+  page: https://www.inaturalist.org/photos/622393663
+  author: dune_ninja
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622393663/original.jpg
 ---
 
 

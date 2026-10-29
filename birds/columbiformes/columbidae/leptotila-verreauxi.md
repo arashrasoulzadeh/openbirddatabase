@@ -177,10 +177,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/columbiformes/columbidae/leptotila-verreauxi/1.jpg
+  page: https://www.inaturalist.org/photos/605120678
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605120678/original.jpg
+images:
+- file: images/columbiformes/columbidae/leptotila-verreauxi/1.jpg
+  page: https://www.inaturalist.org/photos/605120678
+  author: Vincent Mia Edie Verheyen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605120678/original.jpg
+- file: images/columbiformes/columbidae/leptotila-verreauxi/2.jpg
+  page: https://www.inaturalist.org/photos/604572179
+  author: Mary Beth Stowe
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604572179/original.jpg
+- file: images/columbiformes/columbidae/leptotila-verreauxi/3.jpg
+  page: https://www.inaturalist.org/photos/608258095
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608258095/original.jpg
+- file: images/columbiformes/columbidae/leptotila-verreauxi/4.jpg
+  page: https://www.inaturalist.org/photos/607787820
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607787820/original.jpg
+- file: images/columbiformes/columbidae/leptotila-verreauxi/5.jpg
+  page: https://www.inaturalist.org/photos/607539976
+  author: Ian Adams
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607539976/original.jpg
 ---
 
 

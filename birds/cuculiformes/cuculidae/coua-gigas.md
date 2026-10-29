@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/coua-gigas/1.jpg
+  page: https://www.inaturalist.org/photos/689775152
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689775152/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/coua-gigas/1.jpg
+  page: https://www.inaturalist.org/photos/689775152
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689775152/original.jpg
+- file: images/cuculiformes/cuculidae/coua-gigas/2.jpg
+  page: https://www.inaturalist.org/photos/547812167
+  author: Guilherme Siniciato Terra Garbino
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/547812167/original.jpg
+- file: images/cuculiformes/cuculidae/coua-gigas/3.jpg
+  page: https://www.inaturalist.org/photos/455475253
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455475253/original.jpeg
+- file: images/cuculiformes/cuculidae/coua-gigas/4.jpg
+  page: https://www.inaturalist.org/photos/453765715
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453765715/original.jpg
+- file: images/cuculiformes/cuculidae/coua-gigas/5.jpg
+  page: https://www.inaturalist.org/photos/457385733
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457385733/original.jpg
 ---
 
 

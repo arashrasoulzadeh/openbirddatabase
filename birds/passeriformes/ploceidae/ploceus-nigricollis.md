@@ -167,8 +167,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/ploceus-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/725213556
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725213556/original.jpg
+images:
+- file: images/passeriformes/ploceidae/ploceus-nigricollis/1.jpg
+  page: https://www.inaturalist.org/photos/725213556
+  author: Martin Tlustos
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725213556/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-nigricollis/2.jpg
+  page: https://www.inaturalist.org/photos/722882973
+  author: Jono
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/722882973/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-nigricollis/3.jpg
+  page: https://www.inaturalist.org/photos/486271854
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486271854/original.jpeg
+- file: images/passeriformes/ploceidae/ploceus-nigricollis/4.jpg
+  page: https://www.inaturalist.org/photos/542179104
+  author: Paco Cardenas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/542179104/original.jpg
+- file: images/passeriformes/ploceidae/ploceus-nigricollis/5.jpg
+  page: https://www.inaturalist.org/photos/591503359
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591503359/original.jpg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/tetraogallus-caucasicus/1.jpg
+  page: https://www.inaturalist.org/photos/716090163
+  author: shadow_385
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716090163/original.jpg
+images:
+- file: images/galliformes/phasianidae/tetraogallus-caucasicus/1.jpg
+  page: https://www.inaturalist.org/photos/716090163
+  author: shadow_385
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716090163/original.jpg
+- file: images/galliformes/phasianidae/tetraogallus-caucasicus/2.jpg
+  page: https://www.inaturalist.org/photos/432923919
+  author: Марат Адиев
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/432923919/original.jpeg
+- file: images/galliformes/phasianidae/tetraogallus-caucasicus/3.jpg
+  page: https://www.inaturalist.org/photos/329471711
+  author: Сергей Грабчак
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/329471711/original.jpeg
+- file: images/galliformes/phasianidae/tetraogallus-caucasicus/4.jpg
+  page: https://www.inaturalist.org/photos/104722559
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/104722559/original.jpeg
+- file: images/galliformes/phasianidae/tetraogallus-caucasicus/5.jpg
+  page: https://www.inaturalist.org/photos/117203817
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/117203817/original.jpeg
 ---
 
 

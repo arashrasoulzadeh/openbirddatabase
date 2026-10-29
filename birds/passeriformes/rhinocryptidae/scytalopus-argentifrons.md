@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/rhinocryptidae/scytalopus-argentifrons/1.jpg
+  page: https://www.inaturalist.org/photos/680393516
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680393516/original.jpg
+images:
+- file: images/passeriformes/rhinocryptidae/scytalopus-argentifrons/1.jpg
+  page: https://www.inaturalist.org/photos/680393516
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/680393516/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-argentifrons/2.jpg
+  page: https://www.inaturalist.org/photos/555152933
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555152933/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-argentifrons/3.jpg
+  page: https://www.inaturalist.org/photos/572129725
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/572129725/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-argentifrons/4.jpg
+  page: https://www.inaturalist.org/photos/288985995
+  author: Rajan Rao
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288985995/original.jpg
+- file: images/passeriformes/rhinocryptidae/scytalopus-argentifrons/5.jpg
+  page: https://www.inaturalist.org/photos/549055987
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/549055987/original.jpg
 ---
 
 

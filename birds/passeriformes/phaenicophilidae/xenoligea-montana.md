@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/phaenicophilidae/xenoligea-montana/1.jpg
+  page: https://www.inaturalist.org/photos/610842003
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842003/original.jpg
+images:
+- file: images/passeriformes/phaenicophilidae/xenoligea-montana/1.jpg
+  page: https://www.inaturalist.org/photos/610842003
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842003/original.jpg
+- file: images/passeriformes/phaenicophilidae/xenoligea-montana/2.jpg
+  page: https://www.inaturalist.org/photos/590277263
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590277263/original.jpg
+- file: images/passeriformes/phaenicophilidae/xenoligea-montana/3.jpg
+  page: https://www.inaturalist.org/photos/270662980
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/270662980/original.jpeg
+- file: images/passeriformes/phaenicophilidae/xenoligea-montana/4.jpg
+  page: https://www.inaturalist.org/photos/343549723
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/343549723/original.jpg
+- file: images/passeriformes/phaenicophilidae/xenoligea-montana/5.jpg
+  page: https://www.inaturalist.org/photos/120631138
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120631138/original.jpeg
 ---
 
 

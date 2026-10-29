@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/charadriiformes/charadriidae/hoploxypterus-cayanus/1.jpg
+  page: https://www.inaturalist.org/photos/655043472
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655043472/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/hoploxypterus-cayanus/1.jpg
+  page: https://www.inaturalist.org/photos/655043472
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655043472/original.jpg
+- file: images/charadriiformes/charadriidae/hoploxypterus-cayanus/2.jpg
+  page: https://www.inaturalist.org/photos/645721155
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/645721155/original.jpg
+- file: images/charadriiformes/charadriidae/hoploxypterus-cayanus/3.jpg
+  page: https://www.inaturalist.org/photos/684141636
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684141636/original.jpg
+- file: images/charadriiformes/charadriidae/hoploxypterus-cayanus/4.jpg
+  page: https://www.inaturalist.org/photos/699107372
+  author: Christian Ledergerber
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/699107372/original.jpg
+- file: images/charadriiformes/charadriidae/hoploxypterus-cayanus/5.jpg
+  page: https://www.inaturalist.org/photos/736820873
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/736820873/original.jpg
 ---
 
 

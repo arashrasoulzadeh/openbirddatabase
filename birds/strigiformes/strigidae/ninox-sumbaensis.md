@@ -128,8 +128,35 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/strigiformes/strigidae/ninox-sumbaensis/1.jpg
+  page: https://www.inaturalist.org/photos/459607483
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459607483/original.jpeg
+images:
+- file: images/strigiformes/strigidae/ninox-sumbaensis/1.jpg
+  page: https://www.inaturalist.org/photos/459607483
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459607483/original.jpeg
+- file: images/strigiformes/strigidae/ninox-sumbaensis/2.jpg
+  page: https://www.inaturalist.org/photos/459607482
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459607482/original.jpeg
+- file: images/strigiformes/strigidae/ninox-sumbaensis/3.jpg
+  page: https://www.inaturalist.org/photos/459607499
+  author: porkytama
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459607499/original.jpeg
 ---
 
 

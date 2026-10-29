@@ -146,10 +146,31 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 83
+image:
+  file: images/psittaciformes/cacatuidae/cacatua-leadbeateri/1.jpg
+  page: https://www.inaturalist.org/photos/741460246
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741460246/original.jpg
+images:
+- file: images/psittaciformes/cacatuidae/cacatua-leadbeateri/1.jpg
+  page: https://www.inaturalist.org/photos/741460246
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741460246/original.jpg
+- file: images/psittaciformes/cacatuidae/cacatua-leadbeateri/2.jpg
+  page: https://www.inaturalist.org/photos/744254539
+  author: Paul Prior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/744254539/original.jpg
 ---
 
 

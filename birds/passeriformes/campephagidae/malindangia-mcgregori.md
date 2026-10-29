@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/malindangia-mcgregori/1.jpg
+  page: https://www.inaturalist.org/photos/458611519
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458611519/original.jpeg
+images:
+- file: images/passeriformes/campephagidae/malindangia-mcgregori/1.jpg
+  page: https://www.inaturalist.org/photos/458611519
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458611519/original.jpeg
+- file: images/passeriformes/campephagidae/malindangia-mcgregori/2.jpg
+  page: https://www.inaturalist.org/photos/269726113
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726113/original.jpg
+- file: images/passeriformes/campephagidae/malindangia-mcgregori/3.jpg
+  page: https://www.inaturalist.org/photos/458611532
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458611532/original.jpeg
+- file: images/passeriformes/campephagidae/malindangia-mcgregori/4.jpg
+  page: https://www.inaturalist.org/photos/458596772
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458596772/original.jpeg
+- file: images/passeriformes/campephagidae/malindangia-mcgregori/5.jpg
+  page: https://www.inaturalist.org/photos/458596839
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458596839/original.jpeg
 ---
 
 

@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/pterodroma-feae/1.jpg
+  page: https://www.inaturalist.org/photos/654367109
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367109/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/pterodroma-feae/1.jpg
+  page: https://www.inaturalist.org/photos/654367109
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367109/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-feae/2.jpg
+  page: https://www.inaturalist.org/photos/352172992
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352172992/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-feae/3.jpg
+  page: https://www.inaturalist.org/photos/654367108
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367108/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-feae/4.jpg
+  page: https://www.inaturalist.org/photos/654367089
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/654367089/original.jpg
+- file: images/procellariiformes/procellariidae/pterodroma-feae/5.jpg
+  page: https://www.inaturalist.org/photos/352172985
+  author: William Stephens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/352172985/original.jpg
 ---
 
 

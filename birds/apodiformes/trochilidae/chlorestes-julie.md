@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/chlorestes-julie/1.jpg
+  page: https://www.inaturalist.org/photos/609078129
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609078129/original.jpg
+images:
+- file: images/apodiformes/trochilidae/chlorestes-julie/1.jpg
+  page: https://www.inaturalist.org/photos/609078129
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609078129/original.jpg
+- file: images/apodiformes/trochilidae/chlorestes-julie/2.jpg
+  page: https://www.inaturalist.org/photos/616991377
+  author: Alina Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616991377/original.jpg
+- file: images/apodiformes/trochilidae/chlorestes-julie/3.jpg
+  page: https://www.inaturalist.org/photos/614521364
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614521364/original.jpg
+- file: images/apodiformes/trochilidae/chlorestes-julie/4.jpg
+  page: https://www.inaturalist.org/photos/624279840
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624279840/original.jpg
+- file: images/apodiformes/trochilidae/chlorestes-julie/5.jpg
+  page: https://www.inaturalist.org/photos/639836964
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/639836964/original.jpg
 ---
 
 

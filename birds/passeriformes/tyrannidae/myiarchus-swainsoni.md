@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/myiarchus-swainsoni/1.jpg
+  page: https://www.inaturalist.org/photos/604541005
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541005/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/myiarchus-swainsoni/1.jpg
+  page: https://www.inaturalist.org/photos/604541005
+  author: Marcelo Schmidt Roberti
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604541005/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-swainsoni/2.jpg
+  page: https://www.inaturalist.org/photos/609364325
+  author: Pablo Bombín
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609364325/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-swainsoni/3.jpg
+  page: https://www.inaturalist.org/photos/605876594
+  author: Gustavo Puente
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605876594/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-swainsoni/4.jpg
+  page: https://www.inaturalist.org/photos/604638238
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604638238/original.jpg
+- file: images/passeriformes/tyrannidae/myiarchus-swainsoni/5.jpg
+  page: https://www.inaturalist.org/photos/741922024
+  author: Sebastián Fornés
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/741922024/original.jpg
 ---
 
 

@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/chalcites-osculans/1.jpg
+  page: https://www.inaturalist.org/photos/725635684
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725635684/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/chalcites-osculans/1.jpg
+  page: https://www.inaturalist.org/photos/725635684
+  author: Andrew Allen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/725635684/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-osculans/2.jpg
+  page: https://www.inaturalist.org/photos/608578493
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608578493/original.jpg
+- file: images/cuculiformes/cuculidae/chalcites-osculans/3.jpg
+  page: https://www.inaturalist.org/photos/390443787
+  author: Alan Bell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390443787/original.jpeg
+- file: images/cuculiformes/cuculidae/chalcites-osculans/4.jpg
+  page: https://www.inaturalist.org/photos/431774831
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/431774831/original.jpeg
+- file: images/cuculiformes/cuculidae/chalcites-osculans/5.jpg
+  page: https://www.inaturalist.org/photos/218078344
+  author: Thomas Mesaglio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218078344/original.jpg
 ---
 
 

@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/trochocercus-cyanomelas/1.jpg
+  page: https://www.inaturalist.org/photos/651190295
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651190295/original.jpg
+images:
+- file: images/passeriformes/monarchidae/trochocercus-cyanomelas/1.jpg
+  page: https://www.inaturalist.org/photos/651190295
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651190295/original.jpg
+- file: images/passeriformes/monarchidae/trochocercus-cyanomelas/2.jpg
+  page: https://www.inaturalist.org/photos/738125063
+  author: Henry de Lange
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738125063/original.jpg
+- file: images/passeriformes/monarchidae/trochocercus-cyanomelas/3.jpg
+  page: https://www.inaturalist.org/photos/729720003
+  author: Burgert Jordaan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/729720003/original.jpg
+- file: images/passeriformes/monarchidae/trochocercus-cyanomelas/4.jpg
+  page: https://www.inaturalist.org/photos/467774948
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467774948/original.jpeg
+- file: images/passeriformes/monarchidae/trochocercus-cyanomelas/5.jpg
+  page: https://www.inaturalist.org/photos/469299175
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469299175/original.jpeg
 ---
 
 

@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/caprimulgiformes/caprimulgidae/caprimulgus-aegyptius/1.jpg
+  page: https://www.inaturalist.org/photos/625009406
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625009406/original.jpg
+images:
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-aegyptius/1.jpg
+  page: https://www.inaturalist.org/photos/625009406
+  author: Михаил Голомысов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625009406/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-aegyptius/2.jpg
+  page: https://www.inaturalist.org/photos/465133867
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465133867/original.jpeg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-aegyptius/3.jpg
+  page: https://www.inaturalist.org/photos/488860249
+  author: Juan Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488860249/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-aegyptius/4.jpg
+  page: https://www.inaturalist.org/photos/507743823
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/507743823/original.jpg
+- file: images/caprimulgiformes/caprimulgidae/caprimulgus-aegyptius/5.jpg
+  page: https://www.inaturalist.org/photos/524858087
+  author: Alexander A. Fomichev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/524858087/original.jpg
 ---
 
 

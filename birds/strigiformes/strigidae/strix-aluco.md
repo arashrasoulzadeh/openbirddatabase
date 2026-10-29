@@ -179,10 +179,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 22
+image:
+  file: images/strigiformes/strigidae/strix-aluco/1.jpg
+  page: https://www.inaturalist.org/photos/605137779
+  author: Holly Hodges
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605137779/original.jpg
+images:
+- file: images/strigiformes/strigidae/strix-aluco/1.jpg
+  page: https://www.inaturalist.org/photos/605137779
+  author: Holly Hodges
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605137779/original.jpg
+- file: images/strigiformes/strigidae/strix-aluco/2.jpg
+  page: https://www.inaturalist.org/photos/604805331
+  author: Bobo-X
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604805331/original.jpg
+- file: images/strigiformes/strigidae/strix-aluco/3.jpg
+  page: https://www.inaturalist.org/photos/610305523
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610305523/original.jpg
+- file: images/strigiformes/strigidae/strix-aluco/4.jpg
+  page: https://www.inaturalist.org/photos/605943545
+  author: Roland Gromes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605943545/original.jpg
+- file: images/strigiformes/strigidae/strix-aluco/5.jpg
+  page: https://www.inaturalist.org/photos/608637344
+  author: Daniel K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608637344/original.jpg
 ---
 
 

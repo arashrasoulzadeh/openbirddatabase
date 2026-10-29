@@ -145,8 +145,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-janthina/1.jpg
+  page: https://www.inaturalist.org/photos/627022873
+  author: 岸本年郎
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627022873/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-janthina/1.jpg
+  page: https://www.inaturalist.org/photos/627022873
+  author: 岸本年郎
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627022873/original.jpg
+- file: images/columbiformes/columbidae/columba-janthina/2.jpg
+  page: https://www.inaturalist.org/photos/576692334
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576692334/original.jpg
+- file: images/columbiformes/columbidae/columba-janthina/3.jpg
+  page: https://www.inaturalist.org/photos/368727716
+  author: Stella Fish
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368727716/original.jpeg
+- file: images/columbiformes/columbidae/columba-janthina/4.jpg
+  page: https://www.inaturalist.org/photos/367807027
+  author: Rachael Kaiser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/367807027/original.jpg
+- file: images/columbiformes/columbidae/columba-janthina/5.jpg
+  page: https://www.inaturalist.org/photos/425387900
+  author: Yoshihiro Tokue
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/425387900/original.jpeg
 ---
 
 

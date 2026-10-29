@@ -172,8 +172,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/campephagidae/campephaga-phoenicea/1.jpg
+  page: https://www.inaturalist.org/photos/479347693
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479347693/original.jpg
+images:
+- file: images/passeriformes/campephagidae/campephaga-phoenicea/1.jpg
+  page: https://www.inaturalist.org/photos/479347693
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479347693/original.jpg
+- file: images/passeriformes/campephagidae/campephaga-phoenicea/2.jpg
+  page: https://www.inaturalist.org/photos/609368633
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609368633/original.jpg
+- file: images/passeriformes/campephagidae/campephaga-phoenicea/3.jpg
+  page: https://www.inaturalist.org/photos/242767477
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242767477/original.jpeg
+- file: images/passeriformes/campephagidae/campephaga-phoenicea/4.jpg
+  page: https://www.inaturalist.org/photos/479347707
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479347707/original.jpg
+- file: images/passeriformes/campephagidae/campephaga-phoenicea/5.jpg
+  page: https://www.inaturalist.org/photos/609368637
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609368637/original.jpg
 ---
 
 

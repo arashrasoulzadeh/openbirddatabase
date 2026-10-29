@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/coeligena-iris/1.jpg
+  page: https://www.inaturalist.org/photos/625884350
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625884350/original.jpg
+images:
+- file: images/apodiformes/trochilidae/coeligena-iris/1.jpg
+  page: https://www.inaturalist.org/photos/625884350
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625884350/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-iris/2.jpg
+  page: https://www.inaturalist.org/photos/559604986
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559604986/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-iris/3.jpg
+  page: https://www.inaturalist.org/photos/323100941
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323100941/original.jpg
+- file: images/apodiformes/trochilidae/coeligena-iris/4.jpg
+  page: https://www.inaturalist.org/photos/103073646
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103073646/original.jpeg
+- file: images/apodiformes/trochilidae/coeligena-iris/5.jpg
+  page: https://www.inaturalist.org/photos/486705158
+  author: Francisco Sánchez Karste
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/486705158/original.jpg
 ---
 
 

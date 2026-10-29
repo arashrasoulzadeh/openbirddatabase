@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-luctuosa/1.jpg
+  page: https://www.inaturalist.org/photos/623002466
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623002466/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-luctuosa/1.jpg
+  page: https://www.inaturalist.org/photos/623002466
+  author: russnamitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623002466/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-luctuosa/2.jpg
+  page: https://www.inaturalist.org/photos/622891185
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622891185/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-luctuosa/3.jpg
+  page: https://www.inaturalist.org/photos/502539362
+  author: Eric Schmidt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502539362/original.jpeg
+- file: images/passeriformes/thraupidae/sporophila-luctuosa/4.jpg
+  page: https://www.inaturalist.org/photos/583757589
+  author: Carlos Torrente
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583757589/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-luctuosa/5.jpg
+  page: https://www.inaturalist.org/photos/591050108
+  author: tomas_kay
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/591050108/original.jpg
 ---
 
 

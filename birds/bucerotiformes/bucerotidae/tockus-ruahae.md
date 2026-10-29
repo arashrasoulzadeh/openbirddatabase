@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/tockus-ruahae/1.jpg
+  page: https://www.inaturalist.org/photos/628004161
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628004161/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/tockus-ruahae/1.jpg
+  page: https://www.inaturalist.org/photos/628004161
+  author: Andrew Deacon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/628004161/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-ruahae/2.jpg
+  page: https://www.inaturalist.org/photos/717031340
+  author: Robert Hoehndorf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717031340/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-ruahae/3.jpg
+  page: https://www.inaturalist.org/photos/540969947
+  author: abotto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540969947/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-ruahae/4.jpg
+  page: https://www.inaturalist.org/photos/583138449
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583138449/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-ruahae/5.jpg
+  page: https://www.inaturalist.org/photos/180857966
+  author: Brooke Smith
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/180857966/original.jpeg
 ---
 
 

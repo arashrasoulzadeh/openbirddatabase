@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/559137798
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559137798/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-tricolor/1.jpg
+  page: https://www.inaturalist.org/photos/559137798
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559137798/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-tricolor/2.jpg
+  page: https://www.inaturalist.org/photos/306215126
+  author: Floro Ortiz Contreras
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/306215126/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-tricolor/3.jpg
+  page: https://www.inaturalist.org/photos/243671577
+  author: Sean Vanderluit
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/243671577/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-tricolor/4.jpg
+  page: https://www.inaturalist.org/photos/429737739
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/429737739/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-tricolor/5.jpg
+  page: https://www.inaturalist.org/photos/336984221
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/336984221/original.jpg
 ---
 
 

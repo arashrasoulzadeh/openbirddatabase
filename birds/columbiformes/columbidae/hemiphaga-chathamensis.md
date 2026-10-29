@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/hemiphaga-chathamensis/1.jpg
+  page: https://www.inaturalist.org/photos/606018324
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606018324/original.jpg
+images:
+- file: images/columbiformes/columbidae/hemiphaga-chathamensis/1.jpg
+  page: https://www.inaturalist.org/photos/606018324
+  author: Peter de Lange
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606018324/original.jpg
+- file: images/columbiformes/columbidae/hemiphaga-chathamensis/2.jpg
+  page: https://www.inaturalist.org/photos/463718223
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463718223/original.jpg
+- file: images/columbiformes/columbidae/hemiphaga-chathamensis/3.jpg
+  page: https://www.inaturalist.org/photos/327062553
+  author: John Barkla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/327062553/original.jpeg
+- file: images/columbiformes/columbidae/hemiphaga-chathamensis/4.jpg
+  page: https://www.inaturalist.org/photos/165235951
+  author: On Lee Lau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/165235951/original.jpeg
+- file: images/columbiformes/columbidae/hemiphaga-chathamensis/5.jpg
+  page: https://www.inaturalist.org/photos/84957895
+  author: Tim Park
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/84957895/original.jpg
 ---
 
 

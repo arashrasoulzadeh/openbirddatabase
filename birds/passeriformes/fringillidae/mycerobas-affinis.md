@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/mycerobas-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/519308706
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519308706/original.jpg
+images:
+- file: images/passeriformes/fringillidae/mycerobas-affinis/1.jpg
+  page: https://www.inaturalist.org/photos/519308706
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519308706/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-affinis/2.jpg
+  page: https://www.inaturalist.org/photos/600577547
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600577547/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-affinis/3.jpg
+  page: https://www.inaturalist.org/photos/179963117
+  author: Ramnarayan K
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179963117/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-affinis/4.jpg
+  page: https://www.inaturalist.org/photos/30333863
+  author: Firos AK
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/30333863/original.jpg
+- file: images/passeriformes/fringillidae/mycerobas-affinis/5.jpg
+  page: https://www.inaturalist.org/photos/304849179
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/304849179/original.jpg
 ---
 
 

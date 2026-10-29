@@ -137,10 +137,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 reproduction:
   mating_system: Monogamous
+image:
+  file: images/passeriformes/furnariidae/synallaxis-fuscorufa/1.jpg
+  page: https://www.inaturalist.org/photos/738246341
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738246341/original.jpg
+images:
+- file: images/passeriformes/furnariidae/synallaxis-fuscorufa/1.jpg
+  page: https://www.inaturalist.org/photos/738246341
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738246341/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-fuscorufa/2.jpg
+  page: https://www.inaturalist.org/photos/469803193
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469803193/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-fuscorufa/3.jpg
+  page: https://www.inaturalist.org/photos/600844307
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600844307/original.jpg
+- file: images/passeriformes/furnariidae/synallaxis-fuscorufa/4.jpg
+  page: https://www.inaturalist.org/photos/419483304
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/419483304/original.jpeg
+- file: images/passeriformes/furnariidae/synallaxis-fuscorufa/5.jpg
+  page: https://www.inaturalist.org/photos/285526171
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/285526171/original.jpeg
 ---
 
 

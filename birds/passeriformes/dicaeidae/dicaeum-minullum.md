@@ -158,8 +158,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-minullum/1.jpg
+  page: https://www.inaturalist.org/photos/619226566
+  author: Weiting Liu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619226566/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-minullum/1.jpg
+  page: https://www.inaturalist.org/photos/619226566
+  author: Weiting Liu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619226566/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-minullum/2.jpg
+  page: https://www.inaturalist.org/photos/634519590
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634519590/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-minullum/3.jpg
+  page: https://www.inaturalist.org/photos/670295856
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670295856/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-minullum/4.jpg
+  page: https://www.inaturalist.org/photos/670295951
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670295951/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-minullum/5.jpg
+  page: https://www.inaturalist.org/photos/670296110
+  author: Mitch Van Dyke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670296110/original.jpg
 ---
 
 

@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/tockus-kempi/1.jpg
+  page: https://www.inaturalist.org/photos/612771895
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771895/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/tockus-kempi/1.jpg
+  page: https://www.inaturalist.org/photos/612771895
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771895/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-kempi/2.jpg
+  page: https://www.inaturalist.org/photos/719256770
+  author: Philipp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/719256770/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-kempi/3.jpg
+  page: https://www.inaturalist.org/photos/612771897
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612771897/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-kempi/4.jpg
+  page: https://www.inaturalist.org/photos/612794272
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612794272/original.jpg
+- file: images/bucerotiformes/bucerotidae/tockus-kempi/5.jpg
+  page: https://www.inaturalist.org/photos/612794273
+  author: Attila Oláh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612794273/original.jpg
 ---
 
 

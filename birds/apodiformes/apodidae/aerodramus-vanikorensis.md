@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/aerodramus-vanikorensis/1.jpg
+  page: https://www.inaturalist.org/photos/526014853
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014853/original.jpg
+images:
+- file: images/apodiformes/apodidae/aerodramus-vanikorensis/1.jpg
+  page: https://www.inaturalist.org/photos/526014853
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/526014853/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-vanikorensis/2.jpg
+  page: https://www.inaturalist.org/photos/393062449
+  author: Dominik Maximilián Ramík
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393062449/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-vanikorensis/3.jpg
+  page: https://www.inaturalist.org/photos/314585371
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/314585371/original.jpg
+- file: images/apodiformes/apodidae/aerodramus-vanikorensis/4.jpg
+  page: https://www.inaturalist.org/photos/334454280
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/334454280/original.jpeg
+- file: images/apodiformes/apodidae/aerodramus-vanikorensis/5.jpg
+  page: https://www.inaturalist.org/photos/337230831
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/337230831/original.jpg
 ---
 
 

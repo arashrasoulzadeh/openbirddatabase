@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/sturnidae/sturnia-malabarica/1.jpg
+  page: https://www.inaturalist.org/photos/608785541
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608785541/original.jpg
+images:
+- file: images/passeriformes/sturnidae/sturnia-malabarica/1.jpg
+  page: https://www.inaturalist.org/photos/608785541
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608785541/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-malabarica/2.jpg
+  page: https://www.inaturalist.org/photos/621816050
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621816050/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-malabarica/3.jpg
+  page: https://www.inaturalist.org/photos/651240347
+  author: sam-rajnikant
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/651240347/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-malabarica/4.jpg
+  page: https://www.inaturalist.org/photos/606320594
+  author: Ameet Mandavia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606320594/original.jpg
+- file: images/passeriformes/sturnidae/sturnia-malabarica/5.jpg
+  page: https://www.inaturalist.org/photos/608785540
+  author: sucker69420
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608785540/original.jpg
 ---
 
 

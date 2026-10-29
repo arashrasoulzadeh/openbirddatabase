@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/hemipus-hirundinaceus/1.jpg
+  page: https://www.inaturalist.org/photos/613435016
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435016/original.jpg
+images:
+- file: images/passeriformes/vangidae/hemipus-hirundinaceus/1.jpg
+  page: https://www.inaturalist.org/photos/613435016
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613435016/original.jpg
+- file: images/passeriformes/vangidae/hemipus-hirundinaceus/2.jpg
+  page: https://www.inaturalist.org/photos/618852132
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618852132/original.jpg
+- file: images/passeriformes/vangidae/hemipus-hirundinaceus/3.jpg
+  page: https://www.inaturalist.org/photos/627859991
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/627859991/original.jpg
+- file: images/passeriformes/vangidae/hemipus-hirundinaceus/4.jpg
+  page: https://www.inaturalist.org/photos/682471586
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682471586/original.jpg
+- file: images/passeriformes/vangidae/hemipus-hirundinaceus/5.jpg
+  page: https://www.inaturalist.org/photos/697180758
+  author: Teguh
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/697180758/original.jpg
 ---
 
 

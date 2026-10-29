@@ -130,8 +130,47 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/geokichla-dumasi/1.jpg
+  page: https://www.inaturalist.org/photos/718304162
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718304162/original.jpg
+images:
+- file: images/passeriformes/turdidae/geokichla-dumasi/1.jpg
+  page: https://www.inaturalist.org/photos/718304162
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718304162/original.jpg
+- file: images/passeriformes/turdidae/geokichla-dumasi/2.jpg
+  page: https://www.inaturalist.org/photos/718304173
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718304173/original.jpg
+- file: images/passeriformes/turdidae/geokichla-dumasi/3.jpg
+  page: https://www.inaturalist.org/photos/718304261
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718304261/original.jpg
+- file: images/passeriformes/turdidae/geokichla-dumasi/4.jpg
+  page: https://www.inaturalist.org/photos/416866141
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/416866141/original.jpg
+- file: images/passeriformes/turdidae/geokichla-dumasi/5.jpg
+  page: https://www.inaturalist.org/photos/440527670
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440527670/original.jpeg
 ---
 
 

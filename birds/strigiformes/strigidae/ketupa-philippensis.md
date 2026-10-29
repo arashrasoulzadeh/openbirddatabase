@@ -122,8 +122,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/strigiformes/strigidae/ketupa-philippensis/1.jpg
+  page: https://www.inaturalist.org/photos/594366255
+  author: Paolo Co
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594366255/original.jpg
+images:
+- file: images/strigiformes/strigidae/ketupa-philippensis/1.jpg
+  page: https://www.inaturalist.org/photos/594366255
+  author: Paolo Co
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594366255/original.jpg
+- file: images/strigiformes/strigidae/ketupa-philippensis/2.jpg
+  page: https://www.inaturalist.org/photos/606729875
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606729875/original.jpg
+- file: images/strigiformes/strigidae/ketupa-philippensis/3.jpg
+  page: https://www.inaturalist.org/photos/455888098
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/455888098/original.jpeg
+- file: images/strigiformes/strigidae/ketupa-philippensis/4.jpg
+  page: https://www.inaturalist.org/photos/599663894
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599663894/original.jpg
+- file: images/strigiformes/strigidae/ketupa-philippensis/5.jpg
+  page: https://www.inaturalist.org/photos/594366586
+  author: Paolo Co
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594366586/original.jpg
 ---
 
 

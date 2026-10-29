@@ -170,8 +170,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ploceidae/euplectes-franciscanus/1.jpg
+  page: https://www.inaturalist.org/photos/683334030
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683334030/original.jpg
+images:
+- file: images/passeriformes/ploceidae/euplectes-franciscanus/1.jpg
+  page: https://www.inaturalist.org/photos/683334030
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683334030/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-franciscanus/2.jpg
+  page: https://www.inaturalist.org/photos/714491064
+  author: Sara Navarro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/714491064/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-franciscanus/3.jpg
+  page: https://www.inaturalist.org/photos/472246371
+  author: andygpos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472246371/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-franciscanus/4.jpg
+  page: https://www.inaturalist.org/photos/606326856
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606326856/original.jpg
+- file: images/passeriformes/ploceidae/euplectes-franciscanus/5.jpg
+  page: https://www.inaturalist.org/photos/683334964
+  author: Karim Haddad
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/683334964/original.jpg
 ---
 
 

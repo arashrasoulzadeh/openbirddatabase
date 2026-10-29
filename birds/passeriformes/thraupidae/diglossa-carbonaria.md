@@ -142,8 +142,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/diglossa-carbonaria/1.jpg
+  page: https://www.inaturalist.org/photos/727045343
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727045343/original.jpg
+images:
+- file: images/passeriformes/thraupidae/diglossa-carbonaria/1.jpg
+  page: https://www.inaturalist.org/photos/727045343
+  author: Joao Quental
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/727045343/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-carbonaria/2.jpg
+  page: https://www.inaturalist.org/photos/586528592
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586528592/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-carbonaria/3.jpg
+  page: https://www.inaturalist.org/photos/590873392
+  author: Ruth Gutiérrez Oliveros
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590873392/original.jpg
+- file: images/passeriformes/thraupidae/diglossa-carbonaria/4.jpg
+  page: https://www.inaturalist.org/photos/433520107
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/433520107/original.jpeg
+- file: images/passeriformes/thraupidae/diglossa-carbonaria/5.jpg
+  page: https://www.inaturalist.org/photos/453128457
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/453128457/original.jpeg
 ---
 
 

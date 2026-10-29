@@ -133,7 +133,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 10.5
@@ -141,6 +142,44 @@ morphology:
   wing_length_mm: 46.5
   tail_length_mm: 30.0
   body_mass_g: 6.0
+image:
+  file: images/passeriformes/timaliidae/spelaeornis-badeigularis/1.jpg
+  page: https://www.inaturalist.org/photos/17341140
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17341140/original.jpg
+images:
+- file: images/passeriformes/timaliidae/spelaeornis-badeigularis/1.jpg
+  page: https://www.inaturalist.org/photos/17341140
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/17341140/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-badeigularis/2.jpg
+  page: https://www.inaturalist.org/photos/395651449
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395651449/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-badeigularis/3.jpg
+  page: https://www.inaturalist.org/photos/94295635
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/94295635/original.jpeg
+- file: images/passeriformes/timaliidae/spelaeornis-badeigularis/4.jpg
+  page: https://www.inaturalist.org/photos/97558285
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97558285/original.jpg
+- file: images/passeriformes/timaliidae/spelaeornis-badeigularis/5.jpg
+  page: https://www.inaturalist.org/photos/97558557
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/97558557/original.jpg
 ---
 
 

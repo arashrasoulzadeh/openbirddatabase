@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/geothlypis-speciosa/1.jpg
+  page: https://www.inaturalist.org/photos/121043029
+  author: Leslie Alanís
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/121043029/original.jpg
+images:
+- file: images/passeriformes/parulidae/geothlypis-speciosa/1.jpg
+  page: https://www.inaturalist.org/photos/121043029
+  author: Leslie Alanís
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/121043029/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-speciosa/2.jpg
+  page: https://www.inaturalist.org/photos/121043020
+  author: Leslie Alanís
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/121043020/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-speciosa/3.jpg
+  page: https://www.inaturalist.org/photos/120551369
+  author: Leslie Alanís
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120551369/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-speciosa/4.jpg
+  page: https://www.inaturalist.org/photos/120551387
+  author: Leslie Alanís
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120551387/original.jpg
+- file: images/passeriformes/parulidae/geothlypis-speciosa/5.jpg
+  page: https://www.inaturalist.org/photos/120551399
+  author: Leslie Alanís
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/120551399/original.jpeg
 ---
 
 

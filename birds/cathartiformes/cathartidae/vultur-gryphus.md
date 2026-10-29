@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 79
+image:
+  file: images/cathartiformes/cathartidae/vultur-gryphus/1.jpg
+  page: https://www.inaturalist.org/photos/609672462
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609672462/original.jpg
+images:
+- file: images/cathartiformes/cathartidae/vultur-gryphus/1.jpg
+  page: https://www.inaturalist.org/photos/609672462
+  author: Sergio Garrido Villa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609672462/original.jpg
+- file: images/cathartiformes/cathartidae/vultur-gryphus/2.jpg
+  page: https://www.inaturalist.org/photos/607783366
+  author: Ezequiel Vera
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607783366/original.jpg
+- file: images/cathartiformes/cathartidae/vultur-gryphus/3.jpg
+  page: https://www.inaturalist.org/photos/606156152
+  author: nebrooks
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606156152/original.jpg
+- file: images/cathartiformes/cathartidae/vultur-gryphus/4.jpg
+  page: https://www.inaturalist.org/photos/609207612
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609207612/original.jpg
+- file: images/cathartiformes/cathartidae/vultur-gryphus/5.jpg
+  page: https://www.inaturalist.org/photos/611736182
+  author: Lauren L.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611736182/original.jpg
 ---
 
 

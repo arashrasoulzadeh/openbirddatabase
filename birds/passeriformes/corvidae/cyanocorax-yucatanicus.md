@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/cyanocorax-yucatanicus/1.jpg
+  page: https://www.inaturalist.org/photos/609583348
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609583348/original.jpg
+images:
+- file: images/passeriformes/corvidae/cyanocorax-yucatanicus/1.jpg
+  page: https://www.inaturalist.org/photos/609583348
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609583348/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-yucatanicus/2.jpg
+  page: https://www.inaturalist.org/photos/606224979
+  author: Frédérique
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606224979/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-yucatanicus/3.jpg
+  page: https://www.inaturalist.org/photos/610092495
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610092495/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-yucatanicus/4.jpg
+  page: https://www.inaturalist.org/photos/617611639
+  author: Aiva Noringseth
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617611639/original.jpg
+- file: images/passeriformes/corvidae/cyanocorax-yucatanicus/5.jpg
+  page: https://www.inaturalist.org/photos/610510254
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610510254/original.jpg
 ---
 
 

@@ -148,10 +148,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 24
+image:
+  file: images/charadriiformes/laridae/larus-heermanni/1.jpg
+  page: https://www.inaturalist.org/photos/604976122
+  author: Aaron Kreisberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604976122/original.jpg
+images:
+- file: images/charadriiformes/laridae/larus-heermanni/1.jpg
+  page: https://www.inaturalist.org/photos/604976122
+  author: Aaron Kreisberg
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604976122/original.jpg
+- file: images/charadriiformes/laridae/larus-heermanni/2.jpg
+  page: https://www.inaturalist.org/photos/605010439
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605010439/original.jpg
+- file: images/charadriiformes/laridae/larus-heermanni/3.jpg
+  page: https://www.inaturalist.org/photos/605218180
+  author: Tom and T Herman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605218180/original.jpg
+- file: images/charadriiformes/laridae/larus-heermanni/4.jpg
+  page: https://www.inaturalist.org/photos/605234129
+  author: Don Loarie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605234129/original.jpg
+- file: images/charadriiformes/laridae/larus-heermanni/5.jpg
+  page: https://www.inaturalist.org/photos/605010449
+  author: Cricket Raspet
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605010449/original.jpg
 ---
 
 

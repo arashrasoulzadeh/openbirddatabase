@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vangidae/hypositta-corallirostris/1.jpg
+  page: https://www.inaturalist.org/photos/280008691
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/280008691/original.jpeg
+images:
+- file: images/passeriformes/vangidae/hypositta-corallirostris/1.jpg
+  page: https://www.inaturalist.org/photos/280008691
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/280008691/original.jpeg
+- file: images/passeriformes/vangidae/hypositta-corallirostris/2.jpg
+  page: https://www.inaturalist.org/photos/241910516
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/241910516/original.jpg
+- file: images/passeriformes/vangidae/hypositta-corallirostris/3.jpg
+  page: https://www.inaturalist.org/photos/260889985
+  author: Margaret Stevens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/260889985/original.jpg
+- file: images/passeriformes/vangidae/hypositta-corallirostris/4.jpg
+  page: https://www.inaturalist.org/photos/457221190
+  author: Demian Hiß
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457221190/original.jpg
+- file: images/passeriformes/vangidae/hypositta-corallirostris/5.jpg
+  page: https://www.inaturalist.org/photos/3013194
+  author: Nick Block
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/3013194/original.jpg
 ---
 
 

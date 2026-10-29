@@ -140,8 +140,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cotingidae/xipholena-lamellipennis/1.jpg
+  page: https://www.inaturalist.org/photos/440551528
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440551528/original.jpeg
+images:
+- file: images/passeriformes/cotingidae/xipholena-lamellipennis/1.jpg
+  page: https://www.inaturalist.org/photos/440551528
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440551528/original.jpeg
+- file: images/passeriformes/cotingidae/xipholena-lamellipennis/2.jpg
+  page: https://www.inaturalist.org/photos/440551527
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440551527/original.jpeg
+- file: images/passeriformes/cotingidae/xipholena-lamellipennis/3.jpg
+  page: https://www.inaturalist.org/photos/440551529
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440551529/original.jpeg
+- file: images/passeriformes/cotingidae/xipholena-lamellipennis/4.jpg
+  page: https://www.inaturalist.org/photos/440551507
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440551507/original.jpeg
+- file: images/passeriformes/cotingidae/xipholena-lamellipennis/5.jpg
+  page: https://www.inaturalist.org/photos/440551508
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/440551508/original.jpeg
 ---
 
 

@@ -146,10 +146,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 10
+image:
+  file: images/passeriformes/paridae/poecile-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/738564612
+  author: Wendy McCrady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738564612/original.jpg
+images:
+- file: images/passeriformes/paridae/poecile-sclateri/1.jpg
+  page: https://www.inaturalist.org/photos/738564612
+  author: Wendy McCrady
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738564612/original.jpg
+- file: images/passeriformes/paridae/poecile-sclateri/2.jpg
+  page: https://www.inaturalist.org/photos/471024486
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471024486/original.jpg
+- file: images/passeriformes/paridae/poecile-sclateri/3.jpg
+  page: https://www.inaturalist.org/photos/473784383
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473784383/original.jpeg
+- file: images/passeriformes/paridae/poecile-sclateri/4.jpg
+  page: https://www.inaturalist.org/photos/477352611
+  author: Javier Hernandez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477352611/original.jpeg
+- file: images/passeriformes/paridae/poecile-sclateri/5.jpg
+  page: https://www.inaturalist.org/photos/478643239
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/478643239/original.jpg
 ---
 
 

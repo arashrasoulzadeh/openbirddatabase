@@ -138,8 +138,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/prioniturus-platurus/1.jpg
+  page: https://www.inaturalist.org/photos/715513100
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715513100/original.jpg
+images:
+- file: images/psittaciformes/psittaculidae/prioniturus-platurus/1.jpg
+  page: https://www.inaturalist.org/photos/715513100
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/715513100/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-platurus/2.jpg
+  page: https://www.inaturalist.org/photos/467795217
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467795217/original.jpeg
+- file: images/psittaciformes/psittaculidae/prioniturus-platurus/3.jpg
+  page: https://www.inaturalist.org/photos/557510506
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/557510506/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-platurus/4.jpg
+  page: https://www.inaturalist.org/photos/312019385
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/312019385/original.jpg
+- file: images/psittaciformes/psittaculidae/prioniturus-platurus/5.jpg
+  page: https://www.inaturalist.org/photos/467795226
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/467795226/original.jpeg
 ---
 
 

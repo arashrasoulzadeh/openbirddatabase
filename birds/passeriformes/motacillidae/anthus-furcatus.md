@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/motacillidae/anthus-furcatus/1.jpg
+  page: https://www.inaturalist.org/photos/669211961
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669211961/original.jpg
+images:
+- file: images/passeriformes/motacillidae/anthus-furcatus/1.jpg
+  page: https://www.inaturalist.org/photos/669211961
+  author: Holger Braun
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/669211961/original.jpg
+- file: images/passeriformes/motacillidae/anthus-furcatus/2.jpg
+  page: https://www.inaturalist.org/photos/708158965
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708158965/original.jpg
+- file: images/passeriformes/motacillidae/anthus-furcatus/3.jpg
+  page: https://www.inaturalist.org/photos/517455049
+  author: Valentín Alfano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/517455049/original.jpg
+- file: images/passeriformes/motacillidae/anthus-furcatus/4.jpg
+  page: https://www.inaturalist.org/photos/555817341
+  author: Museo CN del depto San Cristobal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/555817341/original.jpg
+- file: images/passeriformes/motacillidae/anthus-furcatus/5.jpg
+  page: https://www.inaturalist.org/photos/368258040
+  author: vinicius_s_domingues
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/368258040/original.jpeg
 ---
 
 

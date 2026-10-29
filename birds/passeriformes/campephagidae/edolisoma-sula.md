@@ -132,7 +132,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 25.4
@@ -140,6 +141,26 @@ morphology:
   wing_length_mm: 118.0
   tail_length_mm: 106.3
   body_mass_g: 68.0
+image:
+  file: images/passeriformes/campephagidae/edolisoma-sula/1.jpg
+  page: https://www.inaturalist.org/photos/435253756
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253756/original.jpeg
+images:
+- file: images/passeriformes/campephagidae/edolisoma-sula/1.jpg
+  page: https://www.inaturalist.org/photos/435253756
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253756/original.jpeg
+- file: images/passeriformes/campephagidae/edolisoma-sula/2.jpg
+  page: https://www.inaturalist.org/photos/435253758
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/435253758/original.jpeg
 ---
 
 

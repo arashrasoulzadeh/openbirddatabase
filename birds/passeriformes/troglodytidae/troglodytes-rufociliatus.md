@@ -146,8 +146,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/troglodytidae/troglodytes-rufociliatus/1.jpg
+  page: https://www.inaturalist.org/photos/616642131
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616642131/original.jpg
+images:
+- file: images/passeriformes/troglodytidae/troglodytes-rufociliatus/1.jpg
+  page: https://www.inaturalist.org/photos/616642131
+  author: Derek Spencer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616642131/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-rufociliatus/2.jpg
+  page: https://www.inaturalist.org/photos/488108069
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/488108069/original.jpeg
+- file: images/passeriformes/troglodytidae/troglodytes-rufociliatus/3.jpg
+  page: https://www.inaturalist.org/photos/601813477
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601813477/original.jpg
+- file: images/passeriformes/troglodytidae/troglodytes-rufociliatus/4.jpg
+  page: https://www.inaturalist.org/photos/456572082
+  author: Sobeida Morales
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/456572082/original.jpeg
+- file: images/passeriformes/troglodytidae/troglodytes-rufociliatus/5.jpg
+  page: https://www.inaturalist.org/photos/308192069
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/308192069/original.jpeg
 ---
 
 

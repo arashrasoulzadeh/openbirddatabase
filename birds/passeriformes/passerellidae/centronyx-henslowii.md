@@ -125,7 +125,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 13.6
@@ -133,6 +134,44 @@ morphology:
   wing_length_mm: 54.7
   tail_length_mm: 49.9
   body_mass_g: 12.8
+image:
+  file: images/passeriformes/passerellidae/centronyx-henslowii/1.jpg
+  page: https://www.inaturalist.org/photos/636870261
+  author: Jay Brasher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636870261/original.jpg
+images:
+- file: images/passeriformes/passerellidae/centronyx-henslowii/1.jpg
+  page: https://www.inaturalist.org/photos/636870261
+  author: Jay Brasher
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636870261/original.jpg
+- file: images/passeriformes/passerellidae/centronyx-henslowii/2.jpg
+  page: https://www.inaturalist.org/photos/689330466
+  author: Laurel Meredyk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689330466/original.jpg
+- file: images/passeriformes/passerellidae/centronyx-henslowii/3.jpg
+  page: https://www.inaturalist.org/photos/678110849
+  author: sofi v
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/678110849/original.jpg
+- file: images/passeriformes/passerellidae/centronyx-henslowii/4.jpg
+  page: https://www.inaturalist.org/photos/684422490
+  author: Court Harding
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/684422490/original.jpg
+- file: images/passeriformes/passerellidae/centronyx-henslowii/5.jpg
+  page: https://www.inaturalist.org/photos/689279133
+  author: toad-wife
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/689279133/original.jpg
 ---
 
 

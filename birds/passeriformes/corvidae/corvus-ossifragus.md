@@ -159,10 +159,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/passeriformes/corvidae/corvus-ossifragus/1.jpg
+  page: https://www.inaturalist.org/photos/605118210
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605118210/original.jpg
+images:
+- file: images/passeriformes/corvidae/corvus-ossifragus/1.jpg
+  page: https://www.inaturalist.org/photos/605118210
+  author: foxsu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605118210/original.jpg
+- file: images/passeriformes/corvidae/corvus-ossifragus/2.jpg
+  page: https://www.inaturalist.org/photos/605739926
+  author: Jeff Davis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605739926/original.jpg
+- file: images/passeriformes/corvidae/corvus-ossifragus/3.jpg
+  page: https://www.inaturalist.org/photos/604474543
+  author: Anne P
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604474543/original.jpg
+- file: images/passeriformes/corvidae/corvus-ossifragus/4.jpg
+  page: https://www.inaturalist.org/photos/608043899
+  author: Senna Bryce Robeson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608043899/original.jpg
+- file: images/passeriformes/corvidae/corvus-ossifragus/5.jpg
+  page: https://www.inaturalist.org/photos/606487887
+  author: Dan Horowitz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606487887/original.jpg
 ---
 
 

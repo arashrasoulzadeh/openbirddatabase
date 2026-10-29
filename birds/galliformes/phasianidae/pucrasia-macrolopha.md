@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/galliformes/phasianidae/pucrasia-macrolopha/1.jpg
+  page: https://www.inaturalist.org/photos/618049120
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618049120/original.jpg
+images:
+- file: images/galliformes/phasianidae/pucrasia-macrolopha/1.jpg
+  page: https://www.inaturalist.org/photos/618049120
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618049120/original.jpg
+- file: images/galliformes/phasianidae/pucrasia-macrolopha/2.jpg
+  page: https://www.inaturalist.org/photos/600548730
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600548730/original.jpg
+- file: images/galliformes/phasianidae/pucrasia-macrolopha/3.jpg
+  page: https://www.inaturalist.org/photos/443528064
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443528064/original.jpg
+- file: images/galliformes/phasianidae/pucrasia-macrolopha/4.jpg
+  page: https://www.inaturalist.org/photos/442286151
+  author: Nicolás Tamargo
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442286151/original.jpg
+- file: images/galliformes/phasianidae/pucrasia-macrolopha/5.jpg
+  page: https://www.inaturalist.org/photos/264358464
+  author: Pål A. Olsvik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264358464/original.jpg
 ---
 
 

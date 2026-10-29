@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittaculidae/cyanoramphus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/341157610
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341157610/original.jpeg
+images:
+- file: images/psittaciformes/psittaculidae/cyanoramphus-unicolor/1.jpg
+  page: https://www.inaturalist.org/photos/341157610
+  author: Genevieve Early
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341157610/original.jpeg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-unicolor/2.jpg
+  page: https://www.inaturalist.org/photos/178243033
+  author: rempson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178243033/original.jpeg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-unicolor/3.jpg
+  page: https://www.inaturalist.org/photos/387301042
+  author: Mark Fraser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387301042/original.jpeg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-unicolor/4.jpg
+  page: https://www.inaturalist.org/photos/387301047
+  author: Mark Fraser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387301047/original.jpeg
+- file: images/psittaciformes/psittaculidae/cyanoramphus-unicolor/5.jpg
+  page: https://www.inaturalist.org/photos/387715314
+  author: Mark Fraser
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/387715314/original.jpeg
 ---
 
 

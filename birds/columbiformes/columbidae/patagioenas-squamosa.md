@@ -162,8 +162,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/patagioenas-squamosa/1.jpg
+  page: https://www.inaturalist.org/photos/609564610
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609564610/original.jpg
+images:
+- file: images/columbiformes/columbidae/patagioenas-squamosa/1.jpg
+  page: https://www.inaturalist.org/photos/609564610
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609564610/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-squamosa/2.jpg
+  page: https://www.inaturalist.org/photos/617632555
+  author: Jack Forrester
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617632555/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-squamosa/3.jpg
+  page: https://www.inaturalist.org/photos/616513759
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616513759/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-squamosa/4.jpg
+  page: https://www.inaturalist.org/photos/617858824
+  author: Quentin Groom
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617858824/original.jpg
+- file: images/columbiformes/columbidae/patagioenas-squamosa/5.jpg
+  page: https://www.inaturalist.org/photos/622253002
+  author: Bonnie Isaac
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/622253002/original.jpg
 ---
 
 

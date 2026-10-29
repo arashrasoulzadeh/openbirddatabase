@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/artamidae/cracticus-cassicus/1.jpg
+  page: https://www.inaturalist.org/photos/625308679
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625308679/original.jpg
+images:
+- file: images/passeriformes/artamidae/cracticus-cassicus/1.jpg
+  page: https://www.inaturalist.org/photos/625308679
+  author: PampaSorro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625308679/original.jpg
+- file: images/passeriformes/artamidae/cracticus-cassicus/2.jpg
+  page: https://www.inaturalist.org/photos/698751697
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/698751697/original.jpg
+- file: images/passeriformes/artamidae/cracticus-cassicus/3.jpg
+  page: https://www.inaturalist.org/photos/477474060
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/477474060/original.jpeg
+- file: images/passeriformes/artamidae/cracticus-cassicus/4.jpg
+  page: https://www.inaturalist.org/photos/548458733
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/548458733/original.jpg
+- file: images/passeriformes/artamidae/cracticus-cassicus/5.jpg
+  page: https://www.inaturalist.org/photos/566474508
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566474508/original.jpg
 ---
 
 

@@ -180,10 +180,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 40
+image:
+  file: images/accipitriformes/accipitridae/gypaetus-barbatus/1.jpg
+  page: https://www.inaturalist.org/photos/609684563
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684563/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/gypaetus-barbatus/1.jpg
+  page: https://www.inaturalist.org/photos/609684563
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609684563/original.jpg
+- file: images/accipitriformes/accipitridae/gypaetus-barbatus/2.jpg
+  page: https://www.inaturalist.org/photos/607494065
+  author: Cenaida
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607494065/original.jpg
+- file: images/accipitriformes/accipitridae/gypaetus-barbatus/3.jpg
+  page: https://www.inaturalist.org/photos/609228395
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609228395/original.jpg
+- file: images/accipitriformes/accipitridae/gypaetus-barbatus/4.jpg
+  page: https://www.inaturalist.org/photos/609228402
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609228402/original.jpg
+- file: images/accipitriformes/accipitridae/gypaetus-barbatus/5.jpg
+  page: https://www.inaturalist.org/photos/609228392
+  author: Andrew Bazdyrev
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609228392/original.jpg
 ---
 
 

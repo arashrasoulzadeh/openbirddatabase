@@ -184,10 +184,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 12
+image:
+  file: images/passeriformes/emberizidae/emberiza-schoeniclus/1.jpg
+  page: https://www.inaturalist.org/photos/604862837
+  author: Gabriele Vaudano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604862837/original.jpg
+images:
+- file: images/passeriformes/emberizidae/emberiza-schoeniclus/1.jpg
+  page: https://www.inaturalist.org/photos/604862837
+  author: Gabriele Vaudano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604862837/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-schoeniclus/2.jpg
+  page: https://www.inaturalist.org/photos/605706118
+  author: Phil James
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605706118/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-schoeniclus/3.jpg
+  page: https://www.inaturalist.org/photos/605405257
+  author: Dominic Best
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605405257/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-schoeniclus/4.jpg
+  page: https://www.inaturalist.org/photos/605488679
+  author: Dave
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605488679/original.jpg
+- file: images/passeriformes/emberizidae/emberiza-schoeniclus/5.jpg
+  page: https://www.inaturalist.org/photos/605364667
+  author: Jason Thompson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605364667/original.jpg
 ---
 
 

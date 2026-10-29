@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pipridae/ceratopipra-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/605651578
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605651578/original.jpg
+images:
+- file: images/passeriformes/pipridae/ceratopipra-mentalis/1.jpg
+  page: https://www.inaturalist.org/photos/605651578
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605651578/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-mentalis/2.jpg
+  page: https://www.inaturalist.org/photos/605340775
+  author: Stephen Lewis
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605340775/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-mentalis/3.jpg
+  page: https://www.inaturalist.org/photos/609541497
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609541497/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-mentalis/4.jpg
+  page: https://www.inaturalist.org/photos/607496925
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607496925/original.jpg
+- file: images/passeriformes/pipridae/ceratopipra-mentalis/5.jpg
+  page: https://www.inaturalist.org/photos/610843866
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610843866/original.jpg
 ---
 
 

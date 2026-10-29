@@ -152,8 +152,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/anseriformes/anatidae/anas-melleri/1.jpg
+  page: https://www.inaturalist.org/photos/691360860
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691360860/original.jpg
+images:
+- file: images/anseriformes/anatidae/anas-melleri/1.jpg
+  page: https://www.inaturalist.org/photos/691360860
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691360860/original.jpg
+- file: images/anseriformes/anatidae/anas-melleri/2.jpg
+  page: https://www.inaturalist.org/photos/451125272
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/451125272/original.jpg
+- file: images/anseriformes/anatidae/anas-melleri/3.jpg
+  page: https://www.inaturalist.org/photos/444303582
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444303582/original.jpeg
+- file: images/anseriformes/anatidae/anas-melleri/4.jpg
+  page: https://www.inaturalist.org/photos/457738044
+  author: martin ingemansson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/457738044/original.jpg
+- file: images/anseriformes/anatidae/anas-melleri/5.jpg
+  page: https://www.inaturalist.org/photos/240460814
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/240460814/original.jpg
 ---
 
 

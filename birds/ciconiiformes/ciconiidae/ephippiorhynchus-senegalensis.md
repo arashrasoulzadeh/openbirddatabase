@@ -164,10 +164,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/ciconiiformes/ciconiidae/ephippiorhynchus-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/606217309
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606217309/original.jpg
+images:
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-senegalensis/1.jpg
+  page: https://www.inaturalist.org/photos/606217309
+  author: biogeek
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606217309/original.jpg
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-senegalensis/2.jpg
+  page: https://www.inaturalist.org/photos/611056451
+  author: Jon Paul Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611056451/original.jpg
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-senegalensis/3.jpg
+  page: https://www.inaturalist.org/photos/606428063
+  author: Aurelijus Narbutas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606428063/original.jpg
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-senegalensis/4.jpg
+  page: https://www.inaturalist.org/photos/687652068
+  author: linkie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/687652068/original.jpg
+- file: images/ciconiiformes/ciconiidae/ephippiorhynchus-senegalensis/5.jpg
+  page: https://www.inaturalist.org/photos/619010489
+  author: Shedron Mukhumo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619010489/original.jpg
 ---
 
 

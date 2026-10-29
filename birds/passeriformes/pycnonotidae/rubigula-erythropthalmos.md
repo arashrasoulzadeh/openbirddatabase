@@ -123,7 +123,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 13.6
@@ -131,6 +132,44 @@ morphology:
   wing_length_mm: 74.2
   tail_length_mm: 63.8
   body_mass_g: 19.2
+image:
+  file: images/passeriformes/pycnonotidae/rubigula-erythropthalmos/1.jpg
+  page: https://www.inaturalist.org/photos/616738698
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738698/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/rubigula-erythropthalmos/1.jpg
+  page: https://www.inaturalist.org/photos/616738698
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738698/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-erythropthalmos/2.jpg
+  page: https://www.inaturalist.org/photos/618847448
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618847448/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-erythropthalmos/3.jpg
+  page: https://www.inaturalist.org/photos/624173103
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624173103/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-erythropthalmos/4.jpg
+  page: https://www.inaturalist.org/photos/682434388
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/682434388/original.jpg
+- file: images/passeriformes/pycnonotidae/rubigula-erythropthalmos/5.jpg
+  page: https://www.inaturalist.org/photos/724470659
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724470659/original.jpg
 ---
 
 

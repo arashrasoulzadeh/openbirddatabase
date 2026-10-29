@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/estrildidae/erythrura-coloria/1.jpg
+  page: https://www.inaturalist.org/photos/458596700
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458596700/original.jpeg
+images:
+- file: images/passeriformes/estrildidae/erythrura-coloria/1.jpg
+  page: https://www.inaturalist.org/photos/458596700
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458596700/original.jpeg
+- file: images/passeriformes/estrildidae/erythrura-coloria/2.jpg
+  page: https://www.inaturalist.org/photos/269726161
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/269726161/original.jpg
+- file: images/passeriformes/estrildidae/erythrura-coloria/3.jpg
+  page: https://www.inaturalist.org/photos/458596993
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458596993/original.jpeg
+- file: images/passeriformes/estrildidae/erythrura-coloria/4.jpg
+  page: https://www.inaturalist.org/photos/458597025
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458597025/original.jpeg
+- file: images/passeriformes/estrildidae/erythrura-coloria/5.jpg
+  page: https://www.inaturalist.org/photos/458597051
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/458597051/original.jpeg
 ---
 
 

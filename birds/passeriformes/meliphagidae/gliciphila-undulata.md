@@ -141,8 +141,41 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/gliciphila-undulata/1.jpg
+  page: https://www.inaturalist.org/photos/713041846
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713041846/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/gliciphila-undulata/1.jpg
+  page: https://www.inaturalist.org/photos/713041846
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713041846/original.jpg
+- file: images/passeriformes/meliphagidae/gliciphila-undulata/2.jpg
+  page: https://www.inaturalist.org/photos/586256052
+  author: Ben Keen
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/586256052/original.jpg
+- file: images/passeriformes/meliphagidae/gliciphila-undulata/3.jpg
+  page: https://www.inaturalist.org/photos/713041814
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713041814/original.jpg
+- file: images/passeriformes/meliphagidae/gliciphila-undulata/4.jpg
+  page: https://www.inaturalist.org/photos/713041828
+  author: Irisa Hudson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/713041828/original.jpg
 ---
 
 

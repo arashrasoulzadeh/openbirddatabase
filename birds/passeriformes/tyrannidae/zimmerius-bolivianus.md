@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/zimmerius-bolivianus/1.jpg
+  page: https://www.inaturalist.org/photos/326578961
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326578961/original.jpeg
+images:
+- file: images/passeriformes/tyrannidae/zimmerius-bolivianus/1.jpg
+  page: https://www.inaturalist.org/photos/326578961
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326578961/original.jpeg
+- file: images/passeriformes/tyrannidae/zimmerius-bolivianus/2.jpg
+  page: https://www.inaturalist.org/photos/227032070
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/227032070/original.jpg
+- file: images/passeriformes/tyrannidae/zimmerius-bolivianus/3.jpg
+  page: https://www.inaturalist.org/photos/326578971
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326578971/original.jpeg
+- file: images/passeriformes/tyrannidae/zimmerius-bolivianus/4.jpg
+  page: https://www.inaturalist.org/photos/326940781
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326940781/original.jpeg
+- file: images/passeriformes/tyrannidae/zimmerius-bolivianus/5.jpg
+  page: https://www.inaturalist.org/photos/326940823
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/326940823/original.jpeg
 ---
 
 

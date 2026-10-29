@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/muscicapa-muttui/1.jpg
+  page: https://www.inaturalist.org/photos/611670463
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611670463/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/muscicapa-muttui/1.jpg
+  page: https://www.inaturalist.org/photos/611670463
+  author: Mickey Wu
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611670463/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-muttui/2.jpg
+  page: https://www.inaturalist.org/photos/650810770
+  author: Tim
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650810770/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-muttui/3.jpg
+  page: https://www.inaturalist.org/photos/617952928
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617952928/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-muttui/4.jpg
+  page: https://www.inaturalist.org/photos/671951572
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/671951572/original.jpg
+- file: images/passeriformes/muscicapidae/muscicapa-muttui/5.jpg
+  page: https://www.inaturalist.org/photos/463876488
+  author: Aurelijus Narbutas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463876488/original.jpeg
 ---
 
 

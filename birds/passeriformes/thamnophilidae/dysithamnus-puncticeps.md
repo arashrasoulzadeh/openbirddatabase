@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/dysithamnus-puncticeps/1.jpg
+  page: https://www.inaturalist.org/photos/609760565
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609760565/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/dysithamnus-puncticeps/1.jpg
+  page: https://www.inaturalist.org/photos/609760565
+  author: yongestation
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609760565/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-puncticeps/2.jpg
+  page: https://www.inaturalist.org/photos/613477972
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613477972/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-puncticeps/3.jpg
+  page: https://www.inaturalist.org/photos/618413518
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618413518/original.jpg
+- file: images/passeriformes/thamnophilidae/dysithamnus-puncticeps/4.jpg
+  page: https://www.inaturalist.org/photos/470662466
+  author: TheMongrelKoi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/470662466/original.jpeg
+- file: images/passeriformes/thamnophilidae/dysithamnus-puncticeps/5.jpg
+  page: https://www.flickr.com/photos/cricketsblog/52731032641/
+  author: Melissa McMasters
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/259442897/original.jpg
 ---
 
 

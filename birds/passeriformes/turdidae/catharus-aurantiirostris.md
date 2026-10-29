@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/turdidae/catharus-aurantiirostris/1.jpg
+  page: https://www.inaturalist.org/photos/634843498
+  author: SustentabilidadConciencia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634843498/original.jpg
+images:
+- file: images/passeriformes/turdidae/catharus-aurantiirostris/1.jpg
+  page: https://www.inaturalist.org/photos/634843498
+  author: SustentabilidadConciencia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/634843498/original.jpg
+- file: images/passeriformes/turdidae/catharus-aurantiirostris/2.jpg
+  page: https://www.inaturalist.org/photos/649032104
+  author: Лариса Артемьева
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649032104/original.jpg
+- file: images/passeriformes/turdidae/catharus-aurantiirostris/3.jpg
+  page: https://www.inaturalist.org/photos/685397205
+  author: Sandino Guerrero
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685397205/original.jpg
+- file: images/passeriformes/turdidae/catharus-aurantiirostris/4.jpg
+  page: https://www.inaturalist.org/photos/664971990
+  author: Reizo Knapp
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/664971990/original.jpg
+- file: images/passeriformes/turdidae/catharus-aurantiirostris/5.jpg
+  page: https://www.inaturalist.org/photos/679207045
+  author: Emilza Arrue de Chang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/679207045/original.jpg
 ---
 
 

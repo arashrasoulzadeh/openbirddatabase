@@ -170,10 +170,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 16
+image:
+  file: images/apodiformes/apodidae/cypseloides-niger/1.jpg
+  page: https://www.inaturalist.org/photos/670635676
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670635676/original.jpg
+images:
+- file: images/apodiformes/apodidae/cypseloides-niger/1.jpg
+  page: https://www.inaturalist.org/photos/670635676
+  author: Adam Jackson
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/670635676/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-niger/2.jpg
+  page: https://www.inaturalist.org/photos/667389584
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667389584/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-niger/3.jpg
+  page: https://www.inaturalist.org/photos/694397774
+  author: Brooke J.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694397774/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-niger/4.jpg
+  page: https://www.inaturalist.org/photos/718915304
+  author: Erin Springinotic
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718915304/original.jpg
+- file: images/apodiformes/apodidae/cypseloides-niger/5.jpg
+  page: https://www.inaturalist.org/photos/718047327
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718047327/original.jpg
 ---
 
 

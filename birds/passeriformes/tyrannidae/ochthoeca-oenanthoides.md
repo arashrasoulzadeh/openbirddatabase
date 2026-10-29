@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ochthoeca-oenanthoides/1.jpg
+  page: https://www.inaturalist.org/photos/636820548
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636820548/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/ochthoeca-oenanthoides/1.jpg
+  page: https://www.inaturalist.org/photos/636820548
+  author: Charlie O'Brien
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636820548/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-oenanthoides/2.jpg
+  page: https://www.inaturalist.org/photos/659159493
+  author: Ariadna Tripaldi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/659159493/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-oenanthoides/3.jpg
+  page: https://www.inaturalist.org/photos/466859385
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466859385/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-oenanthoides/4.jpg
+  page: https://www.inaturalist.org/photos/490624128
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490624128/original.jpeg
+- file: images/passeriformes/tyrannidae/ochthoeca-oenanthoides/5.jpg
+  page: https://www.inaturalist.org/photos/540505662
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/540505662/original.jpg
 ---
 
 

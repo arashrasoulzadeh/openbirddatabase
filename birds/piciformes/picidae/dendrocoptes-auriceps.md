@@ -126,7 +126,8 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 23.0
@@ -134,6 +135,44 @@ morphology:
   wing_length_mm: 114.0
   tail_length_mm: 73.4
   body_mass_g: 39.9
+image:
+  file: images/piciformes/picidae/dendrocoptes-auriceps/1.jpg
+  page: https://www.inaturalist.org/photos/618049029
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618049029/original.jpg
+images:
+- file: images/piciformes/picidae/dendrocoptes-auriceps/1.jpg
+  page: https://www.inaturalist.org/photos/618049029
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618049029/original.jpg
+- file: images/piciformes/picidae/dendrocoptes-auriceps/2.jpg
+  page: https://www.inaturalist.org/photos/616542890
+  author: Jagdish Singh Negi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616542890/original.jpg
+- file: images/piciformes/picidae/dendrocoptes-auriceps/3.jpg
+  page: https://www.inaturalist.org/photos/618049051
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618049051/original.jpg
+- file: images/piciformes/picidae/dendrocoptes-auriceps/4.jpg
+  page: https://www.inaturalist.org/photos/619283541
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619283541/original.jpg
+- file: images/piciformes/picidae/dendrocoptes-auriceps/5.jpg
+  page: https://www.inaturalist.org/photos/615204385
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/615204385/original.jpg
 ---
 
 

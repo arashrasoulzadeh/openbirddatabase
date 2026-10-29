@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/meliphagidae/prosthemadera-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/605239834
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605239834/original.jpg
+images:
+- file: images/passeriformes/meliphagidae/prosthemadera-novaeseelandiae/1.jpg
+  page: https://www.inaturalist.org/photos/605239834
+  author: Mike Bowie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605239834/original.jpg
+- file: images/passeriformes/meliphagidae/prosthemadera-novaeseelandiae/2.jpg
+  page: https://www.inaturalist.org/photos/605573246
+  author: Isabelle Soccioi
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605573246/original.jpg
+- file: images/passeriformes/meliphagidae/prosthemadera-novaeseelandiae/3.jpg
+  page: https://www.inaturalist.org/photos/604369506
+  author: alamettyr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604369506/original.jpg
+- file: images/passeriformes/meliphagidae/prosthemadera-novaeseelandiae/4.jpg
+  page: https://www.inaturalist.org/photos/610084709
+  author: Richard Littauer
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610084709/original.jpg
+- file: images/passeriformes/meliphagidae/prosthemadera-novaeseelandiae/5.jpg
+  page: https://www.inaturalist.org/photos/608569556
+  author: Tommy Forrest
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608569556/original.jpg
 ---
 
 

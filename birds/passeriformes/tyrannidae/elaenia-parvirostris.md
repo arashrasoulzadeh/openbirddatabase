@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/elaenia-parvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605491941
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491941/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/elaenia-parvirostris/1.jpg
+  page: https://www.inaturalist.org/photos/605491941
+  author: Nicolas Olejnik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605491941/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-parvirostris/2.jpg
+  page: https://www.inaturalist.org/photos/611235205
+  author: Lucas Carbone
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611235205/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-parvirostris/3.jpg
+  page: https://www.inaturalist.org/photos/731640228
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/731640228/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-parvirostris/4.jpg
+  page: https://www.inaturalist.org/photos/462363264
+  author: RAP
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/462363264/original.jpg
+- file: images/passeriformes/tyrannidae/elaenia-parvirostris/5.jpg
+  page: https://www.inaturalist.org/photos/463160760
+  author: Adriana Machado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/463160760/original.jpeg
 ---
 
 

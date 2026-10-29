@@ -149,8 +149,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sicalis-lutea/1.jpg
+  page: https://www.inaturalist.org/photos/490711634
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490711634/original.jpeg
+images:
+- file: images/passeriformes/thraupidae/sicalis-lutea/1.jpg
+  page: https://www.inaturalist.org/photos/490711634
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/490711634/original.jpeg
+- file: images/passeriformes/thraupidae/sicalis-lutea/2.jpg
+  page: https://www.inaturalist.org/photos/567562550
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/567562550/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-lutea/3.jpg
+  page: https://www.inaturalist.org/photos/589148831
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589148831/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-lutea/4.jpg
+  page: https://www.inaturalist.org/photos/592539082
+  author: Hugo Hulsberg
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592539082/original.jpg
+- file: images/passeriformes/thraupidae/sicalis-lutea/5.jpg
+  page: https://www.inaturalist.org/photos/178641667
+  author: Naturalist Tours
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/178641667/original.jpeg
 ---
 
 

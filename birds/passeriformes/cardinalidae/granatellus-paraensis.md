@@ -120,7 +120,8 @@ sources:
 - BIRDBASE 2025
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 12.3
@@ -128,6 +129,38 @@ morphology:
   wing_length_mm: 53.5
   tail_length_mm: 52.0
   body_mass_g: 11.2
+image:
+  file: images/passeriformes/cardinalidae/granatellus-paraensis/1.jpg
+  page: https://www.inaturalist.org/photos/443911551
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443911551/original.jpeg
+images:
+- file: images/passeriformes/cardinalidae/granatellus-paraensis/1.jpg
+  page: https://www.inaturalist.org/photos/443911551
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443911551/original.jpeg
+- file: images/passeriformes/cardinalidae/granatellus-paraensis/2.jpg
+  page: https://www.inaturalist.org/photos/443911555
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443911555/original.jpeg
+- file: images/passeriformes/cardinalidae/granatellus-paraensis/3.jpg
+  page: https://www.inaturalist.org/photos/443911556
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443911556/original.jpeg
+- file: images/passeriformes/cardinalidae/granatellus-paraensis/4.jpg
+  page: https://www.inaturalist.org/photos/443911568
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/443911568/original.jpeg
 ---
 
 

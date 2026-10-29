@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/hemicircus-concretus/1.jpg
+  page: https://www.inaturalist.org/photos/685237924
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685237924/original.jpg
+images:
+- file: images/piciformes/picidae/hemicircus-concretus/1.jpg
+  page: https://www.inaturalist.org/photos/685237924
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685237924/original.jpg
+- file: images/piciformes/picidae/hemicircus-concretus/2.jpg
+  page: https://www.inaturalist.org/photos/571297479
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571297479/original.jpg
+- file: images/piciformes/picidae/hemicircus-concretus/3.jpg
+  page: https://www.inaturalist.org/photos/390614635
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/390614635/original.jpeg
+- file: images/piciformes/picidae/hemicircus-concretus/4.jpg
+  page: https://www.inaturalist.org/photos/448277763
+  author: Chrissy McClarren and Andy Reago
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448277763/original.jpeg
+- file: images/piciformes/picidae/hemicircus-concretus/5.jpg
+  page: https://www.inaturalist.org/photos/256243718
+  author: Tero Linjama
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/256243718/original.jpg
 ---
 
 

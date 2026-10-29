@@ -153,8 +153,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/muscicapidae/luscinia-phaenicuroides/1.jpg
+  page: https://www.inaturalist.org/photos/612663443
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612663443/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/luscinia-phaenicuroides/1.jpg
+  page: https://www.inaturalist.org/photos/612663443
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612663443/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-phaenicuroides/2.jpg
+  page: https://www.inaturalist.org/photos/630735212
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630735212/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-phaenicuroides/3.jpg
+  page: https://www.inaturalist.org/photos/705153642
+  author: rashidchan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705153642/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-phaenicuroides/4.jpg
+  page: https://www.inaturalist.org/photos/592371823
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592371823/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-phaenicuroides/5.jpg
+  page: https://www.inaturalist.org/photos/421950348
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/421950348/original.jpg
 ---
 
 

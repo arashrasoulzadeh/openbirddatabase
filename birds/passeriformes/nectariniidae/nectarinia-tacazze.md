@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/nectariniidae/nectarinia-tacazze/1.jpg
+  page: https://www.inaturalist.org/photos/734393182
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734393182/original.jpg
+images:
+- file: images/passeriformes/nectariniidae/nectarinia-tacazze/1.jpg
+  page: https://www.inaturalist.org/photos/734393182
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734393182/original.jpg
+- file: images/passeriformes/nectariniidae/nectarinia-tacazze/2.jpg
+  page: https://www.inaturalist.org/photos/605263306
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605263306/original.jpg
+- file: images/passeriformes/nectariniidae/nectarinia-tacazze/3.jpg
+  page: https://www.inaturalist.org/photos/346180514
+  author: Arabella Willing
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346180514/original.jpg
+- file: images/passeriformes/nectariniidae/nectarinia-tacazze/4.jpg
+  page: https://www.inaturalist.org/photos/359018513
+  author: Erwin Sieben
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/359018513/original.jpeg
+- file: images/passeriformes/nectariniidae/nectarinia-tacazze/5.jpg
+  page: https://www.inaturalist.org/photos/734393226
+  author: Павлик Лисицын
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/734393226/original.jpg
 ---
 
 

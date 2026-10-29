@@ -171,10 +171,37 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/galliformes/phasianidae/coturnix-japonica/1.jpg
+  page: https://www.inaturalist.org/photos/608087106
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608087106/original.jpg
+images:
+- file: images/galliformes/phasianidae/coturnix-japonica/1.jpg
+  page: https://www.inaturalist.org/photos/608087106
+  author: MIMI
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608087106/original.jpg
+- file: images/galliformes/phasianidae/coturnix-japonica/2.jpg
+  page: https://www.inaturalist.org/photos/585942279
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585942279/original.jpg
+- file: images/galliformes/phasianidae/coturnix-japonica/3.jpg
+  page: https://www.inaturalist.org/photos/585942283
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/585942283/original.jpg
 ---
 
 

@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/carpodacus-davidianus/1.jpg
+  page: https://www.inaturalist.org/photos/695099712
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695099712/original.jpg
+images:
+- file: images/passeriformes/fringillidae/carpodacus-davidianus/1.jpg
+  page: https://www.inaturalist.org/photos/695099712
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695099712/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-davidianus/2.jpg
+  page: https://www.inaturalist.org/photos/514074298
+  author: Wang.QG
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/514074298/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-davidianus/3.jpg
+  page: https://www.inaturalist.org/photos/695099792
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695099792/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-davidianus/4.jpg
+  page: https://www.inaturalist.org/photos/695108327
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695108327/original.jpg
+- file: images/passeriformes/fringillidae/carpodacus-davidianus/5.jpg
+  page: https://www.inaturalist.org/photos/695100432
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/695100432/original.jpg
 ---
 
 

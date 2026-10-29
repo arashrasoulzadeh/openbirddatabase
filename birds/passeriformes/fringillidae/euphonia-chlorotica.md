@@ -160,8 +160,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/euphonia-chlorotica/1.jpg
+  page: https://www.inaturalist.org/photos/605689895
+  author: Paulo C. O. Cunha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605689895/original.jpg
+images:
+- file: images/passeriformes/fringillidae/euphonia-chlorotica/1.jpg
+  page: https://www.inaturalist.org/photos/605689895
+  author: Paulo C. O. Cunha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605689895/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chlorotica/2.jpg
+  page: https://www.inaturalist.org/photos/607529093
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607529093/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chlorotica/3.jpg
+  page: https://www.inaturalist.org/photos/610218722
+  author: Arthur Bruck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610218722/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chlorotica/4.jpg
+  page: https://www.inaturalist.org/photos/617929399
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617929399/original.jpg
+- file: images/passeriformes/fringillidae/euphonia-chlorotica/5.jpg
+  page: https://www.inaturalist.org/photos/621155447
+  author: Miguel A. Paixão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621155447/original.jpg
 ---
 
 

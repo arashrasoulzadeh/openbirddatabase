@@ -161,10 +161,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 6
+image:
+  file: images/passeriformes/parulidae/setophaga-cerulea/1.jpg
+  page: https://www.inaturalist.org/photos/637802058
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637802058/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-cerulea/1.jpg
+  page: https://www.inaturalist.org/photos/637802058
+  author: tcantrell52
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637802058/original.jpg
+- file: images/passeriformes/parulidae/setophaga-cerulea/2.jpg
+  page: https://www.inaturalist.org/photos/637191159
+  author: Brent Cox
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637191159/original.jpg
+- file: images/passeriformes/parulidae/setophaga-cerulea/3.jpg
+  page: https://www.inaturalist.org/photos/641967767
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641967767/original.jpg
+- file: images/passeriformes/parulidae/setophaga-cerulea/4.jpg
+  page: https://www.inaturalist.org/photos/646020791
+  author: Matthew Neswold
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/646020791/original.jpg
+- file: images/passeriformes/parulidae/setophaga-cerulea/5.jpg
+  page: https://www.inaturalist.org/photos/652574811
+  author: Brandon Johnson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652574811/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/vireonidae/vireo-nanus/1.jpg
+  page: https://www.inaturalist.org/photos/610842658
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842658/original.jpg
+images:
+- file: images/passeriformes/vireonidae/vireo-nanus/1.jpg
+  page: https://www.inaturalist.org/photos/610842658
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610842658/original.jpg
+- file: images/passeriformes/vireonidae/vireo-nanus/2.jpg
+  page: https://www.inaturalist.org/photos/614975322
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975322/original.jpg
+- file: images/passeriformes/vireonidae/vireo-nanus/3.jpg
+  page: https://www.inaturalist.org/photos/475324391
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/475324391/original.jpg
+- file: images/passeriformes/vireonidae/vireo-nanus/4.jpg
+  page: https://www.inaturalist.org/photos/589868700
+  author: Dan Riley
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/589868700/original.jpg
+- file: images/passeriformes/vireonidae/vireo-nanus/5.jpg
+  page: https://www.inaturalist.org/photos/291035669
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/291035669/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/bucerotiformes/bucerotidae/bycanistes-albotibialis/1.jpg
+  page: https://www.inaturalist.org/photos/661193855
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661193855/original.jpg
+images:
+- file: images/bucerotiformes/bucerotidae/bycanistes-albotibialis/1.jpg
+  page: https://www.inaturalist.org/photos/661193855
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/661193855/original.jpg
+- file: images/bucerotiformes/bucerotidae/bycanistes-albotibialis/2.jpg
+  page: https://www.inaturalist.org/photos/465496162
+  author: Ryan van Huyssteen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465496162/original.jpeg
+- file: images/bucerotiformes/bucerotidae/bycanistes-albotibialis/3.jpg
+  page: https://www.inaturalist.org/photos/480854653
+  author: agujaceratops
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/480854653/original.jpeg
+- file: images/bucerotiformes/bucerotidae/bycanistes-albotibialis/4.jpg
+  page: https://www.inaturalist.org/photos/257849679
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/257849679/original.jpeg
+- file: images/bucerotiformes/bucerotidae/bycanistes-albotibialis/5.jpg
+  page: https://www.inaturalist.org/photos/218409027
+  author: tlaloc27
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218409027/original.jpg
 ---
 
 

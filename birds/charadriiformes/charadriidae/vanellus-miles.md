@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 14
+image:
+  file: images/charadriiformes/charadriidae/vanellus-miles/1.jpg
+  page: https://www.inaturalist.org/photos/605297395
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605297395/original.jpg
+images:
+- file: images/charadriiformes/charadriidae/vanellus-miles/1.jpg
+  page: https://www.inaturalist.org/photos/605297395
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605297395/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-miles/2.jpg
+  page: https://www.inaturalist.org/photos/605542982
+  author: William Harland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605542982/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-miles/3.jpg
+  page: https://www.inaturalist.org/photos/604994479
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604994479/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-miles/4.jpg
+  page: https://www.inaturalist.org/photos/606083991
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606083991/original.jpg
+- file: images/charadriiformes/charadriidae/vanellus-miles/5.jpg
+  page: https://www.inaturalist.org/photos/608223324
+  author: Pierre Cartier
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608223324/original.jpg
 ---
 
 

@@ -173,8 +173,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-sinensis/1.jpg
+  page: https://www.inaturalist.org/photos/604989114
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604989114/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-sinensis/1.jpg
+  page: https://www.inaturalist.org/photos/604989114
+  author: Paul Bonner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604989114/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-sinensis/2.jpg
+  page: https://www.inaturalist.org/photos/605259404
+  author: haemanthus
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605259404/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-sinensis/3.jpg
+  page: https://www.inaturalist.org/photos/609904596
+  author: Aparna Shyam
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609904596/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-sinensis/4.jpg
+  page: https://www.inaturalist.org/photos/610649199
+  author: bernhard_hiller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610649199/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-sinensis/5.jpg
+  page: https://www.inaturalist.org/photos/607668681
+  author: Oscar Hopgood
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607668681/original.jpg
 ---
 
 

@@ -140,7 +140,8 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 52.7
@@ -155,6 +156,44 @@ reproduction:
   broods_per_year: 1
   incubation_days: 30
   fledging_days: 50
+image:
+  file: images/charadriiformes/stercorariidae/stercorarius-maccormicki/1.jpg
+  page: https://www.inaturalist.org/photos/607902353
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607902353/original.jpg
+images:
+- file: images/charadriiformes/stercorariidae/stercorarius-maccormicki/1.jpg
+  page: https://www.inaturalist.org/photos/607902353
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607902353/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-maccormicki/2.jpg
+  page: https://www.inaturalist.org/photos/614229894
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614229894/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-maccormicki/3.jpg
+  page: https://www.inaturalist.org/photos/609520809
+  author: Alex Wing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609520809/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-maccormicki/4.jpg
+  page: https://www.inaturalist.org/photos/691074110
+  author: William Harmon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691074110/original.jpg
+- file: images/charadriiformes/stercorariidae/stercorarius-maccormicki/5.jpg
+  page: https://www.inaturalist.org/photos/694731898
+  author: er-birds
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694731898/original.jpg
 ---
 
 

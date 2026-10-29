@@ -151,10 +151,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/pardalotidae/pardalotus-punctatus/1.jpg
+  page: https://www.inaturalist.org/photos/609648175
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609648175/original.jpg
+images:
+- file: images/passeriformes/pardalotidae/pardalotus-punctatus/1.jpg
+  page: https://www.inaturalist.org/photos/609648175
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609648175/original.jpg
+- file: images/passeriformes/pardalotidae/pardalotus-punctatus/2.jpg
+  page: https://www.inaturalist.org/photos/607649532
+  author: Sid Miller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607649532/original.jpg
+- file: images/passeriformes/pardalotidae/pardalotus-punctatus/3.jpg
+  page: https://www.inaturalist.org/photos/607023015
+  author: sydheatha
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607023015/original.jpg
+- file: images/passeriformes/pardalotidae/pardalotus-punctatus/4.jpg
+  page: https://www.inaturalist.org/photos/610618692
+  author: Elspeth Swan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610618692/original.jpg
+- file: images/passeriformes/pardalotidae/pardalotus-punctatus/5.jpg
+  page: https://www.inaturalist.org/photos/612068233
+  author: Rob Gordon
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612068233/original.jpg
 ---
 
 

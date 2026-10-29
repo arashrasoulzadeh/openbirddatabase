@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-rufilatus/1.jpg
+  page: https://www.inaturalist.org/photos/633019305
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633019305/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-rufilatus/1.jpg
+  page: https://www.inaturalist.org/photos/633019305
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633019305/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-rufilatus/2.jpg
+  page: https://www.inaturalist.org/photos/473623930
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/473623930/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-rufilatus/3.jpg
+  page: https://www.inaturalist.org/photos/348146241
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/348146241/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-rufilatus/4.jpg
+  page: https://www.inaturalist.org/photos/110913211
+  author: Matthew Fainman
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/110913211/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-rufilatus/5.jpg
+  page: https://www.inaturalist.org/photos/633019307
+  author: i_c_riddell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633019307/original.jpg
 ---
 
 

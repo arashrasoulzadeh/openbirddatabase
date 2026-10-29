@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/loddigesia-mirabilis/1.jpg
+  page: https://www.inaturalist.org/photos/718284547
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718284547/original.jpg
+images:
+- file: images/apodiformes/trochilidae/loddigesia-mirabilis/1.jpg
+  page: https://www.inaturalist.org/photos/718284547
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718284547/original.jpg
+- file: images/apodiformes/trochilidae/loddigesia-mirabilis/2.jpg
+  page: https://www.inaturalist.org/photos/177404184
+  author: Manuel Roncal
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/177404184/original.jpeg
+- file: images/apodiformes/trochilidae/loddigesia-mirabilis/3.jpg
+  page: https://www.inaturalist.org/photos/60741726
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/60741726/original.jpeg
+- file: images/apodiformes/trochilidae/loddigesia-mirabilis/4.jpg
+  page: https://www.inaturalist.org/photos/718291539
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718291539/original.jpg
+- file: images/apodiformes/trochilidae/loddigesia-mirabilis/5.jpg
+  page: https://www.inaturalist.org/photos/718291577
+  author: Viktor
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/718291577/original.jpg
 ---
 
 

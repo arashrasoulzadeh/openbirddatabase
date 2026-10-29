@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/opisthocomiformes/opisthocomidae/opisthocomus-hoazin/1.jpg
+  page: https://www.inaturalist.org/photos/604522786
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604522786/original.jpg
+images:
+- file: images/opisthocomiformes/opisthocomidae/opisthocomus-hoazin/1.jpg
+  page: https://www.inaturalist.org/photos/604522786
+  author: Brett/Tele
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604522786/original.jpg
+- file: images/opisthocomiformes/opisthocomidae/opisthocomus-hoazin/2.jpg
+  page: https://www.inaturalist.org/photos/610012670
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012670/original.jpg
+- file: images/opisthocomiformes/opisthocomidae/opisthocomus-hoazin/3.jpg
+  page: https://www.inaturalist.org/photos/608794082
+  author: Lucas Illanes
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608794082/original.jpg
+- file: images/opisthocomiformes/opisthocomidae/opisthocomus-hoazin/4.jpg
+  page: https://www.inaturalist.org/photos/612558349
+  author: Charlotte Kirchner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612558349/original.jpg
+- file: images/opisthocomiformes/opisthocomidae/opisthocomus-hoazin/5.jpg
+  page: https://www.inaturalist.org/photos/614882286
+  author: Kristiina Hurme
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614882286/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/cercomacroides-serva/1.jpg
+  page: https://www.inaturalist.org/photos/523686380
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686380/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/cercomacroides-serva/1.jpg
+  page: https://www.inaturalist.org/photos/523686380
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/523686380/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacroides-serva/2.jpg
+  page: https://www.inaturalist.org/photos/601817399
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601817399/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacroides-serva/3.jpg
+  page: https://www.inaturalist.org/photos/53257148
+  author: Eamon Corbett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/53257148/original.jpg
+- file: images/passeriformes/thamnophilidae/cercomacroides-serva/4.jpg
+  page: https://www.inaturalist.org/photos/159922456
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/159922456/original.jpeg
+- file: images/passeriformes/thamnophilidae/cercomacroides-serva/5.jpg
+  page: https://www.inaturalist.org/photos/601817400
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/601817400/original.jpg
 ---
 
 

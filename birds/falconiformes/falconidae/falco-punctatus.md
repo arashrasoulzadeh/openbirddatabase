@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-punctatus/1.jpg
+  page: https://www.inaturalist.org/photos/466598403
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466598403/original.jpeg
+images:
+- file: images/falconiformes/falconidae/falco-punctatus/1.jpg
+  page: https://www.inaturalist.org/photos/466598403
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466598403/original.jpeg
+- file: images/falconiformes/falconidae/falco-punctatus/2.jpg
+  page: https://www.inaturalist.org/photos/608805062
+  author: Josh Noseworthy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608805062/original.jpg
+- file: images/falconiformes/falconidae/falco-punctatus/3.jpg
+  page: https://www.inaturalist.org/photos/466598427
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466598427/original.jpeg
+- file: images/falconiformes/falconidae/falco-punctatus/4.jpg
+  page: https://www.inaturalist.org/photos/466598448
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466598448/original.jpeg
+- file: images/falconiformes/falconidae/falco-punctatus/5.jpg
+  page: https://www.inaturalist.org/photos/466598463
+  author: Robert Martin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/466598463/original.jpeg
 ---
 
 

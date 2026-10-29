@@ -200,10 +200,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 26
+image:
+  file: images/suliformes/sulidae/sula-dactylatra/1.jpg
+  page: https://www.inaturalist.org/photos/608840653
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608840653/original.jpg
+images:
+- file: images/suliformes/sulidae/sula-dactylatra/1.jpg
+  page: https://www.inaturalist.org/photos/608840653
+  author: Damien Wallace
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608840653/original.jpg
+- file: images/suliformes/sulidae/sula-dactylatra/2.jpg
+  page: https://www.inaturalist.org/photos/608366823
+  author: Rosario Douglas
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608366823/original.jpg
+- file: images/suliformes/sulidae/sula-dactylatra/3.jpg
+  page: https://www.inaturalist.org/photos/620365368
+  author: Melanie Gaddy
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620365368/original.jpg
+- file: images/suliformes/sulidae/sula-dactylatra/4.jpg
+  page: https://www.inaturalist.org/photos/636199928
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/636199928/original.jpg
+- file: images/suliformes/sulidae/sula-dactylatra/5.jpg
+  page: https://www.inaturalist.org/photos/637346003
+  author: Ingvild Riska
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/637346003/original.jpg
 ---
 
 

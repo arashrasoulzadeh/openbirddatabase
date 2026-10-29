@@ -206,10 +206,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/pelecaniformes/ardeidae/ardea-alba/1.jpg
+  page: https://www.inaturalist.org/photos/604806016
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604806016/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-alba/1.jpg
+  page: https://www.inaturalist.org/photos/604806016
+  author: Clare Edwards
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604806016/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-alba/2.jpg
+  page: https://www.inaturalist.org/photos/604965878
+  author: Laura Gaudette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604965878/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-alba/3.jpg
+  page: https://www.inaturalist.org/photos/605393627
+  author: Androulidaki Paraskevi-Danai
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605393627/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-alba/4.jpg
+  page: https://www.inaturalist.org/photos/604818521
+  author: Jules Reppert
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604818521/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-alba/5.jpg
+  page: https://www.inaturalist.org/photos/605090099
+  author: David Garza
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605090099/original.jpg
 ---
 
 

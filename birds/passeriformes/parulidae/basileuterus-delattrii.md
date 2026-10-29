@@ -148,8 +148,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/parulidae/basileuterus-delattrii/1.jpg
+  page: https://www.inaturalist.org/photos/604829436
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604829436/original.jpg
+images:
+- file: images/passeriformes/parulidae/basileuterus-delattrii/1.jpg
+  page: https://www.inaturalist.org/photos/604829436
+  author: marmottled
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604829436/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-delattrii/2.jpg
+  page: https://www.inaturalist.org/photos/606529942
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606529942/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-delattrii/3.jpg
+  page: https://www.inaturalist.org/photos/611581004
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611581004/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-delattrii/4.jpg
+  page: https://www.inaturalist.org/photos/613650772
+  author: Katherine King
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613650772/original.jpg
+- file: images/passeriformes/parulidae/basileuterus-delattrii/5.jpg
+  page: https://www.inaturalist.org/photos/610325785
+  author: Tenoch Cuauhtémoc Perez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610325785/original.jpg
 ---
 
 

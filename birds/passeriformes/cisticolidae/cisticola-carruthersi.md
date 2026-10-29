@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-carruthersi/1.jpg
+  page: https://www.inaturalist.org/photos/566650719
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566650719/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-carruthersi/1.jpg
+  page: https://www.inaturalist.org/photos/566650719
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566650719/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-carruthersi/2.jpg
+  page: https://www.inaturalist.org/photos/393728124
+  author: Jiro Iguchi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/393728124/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-carruthersi/3.jpg
+  page: https://www.inaturalist.org/photos/469383516
+  author: Thomas Galewski
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469383516/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-carruthersi/4.jpg
+  page: https://www.inaturalist.org/photos/566650724
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566650724/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-carruthersi/5.jpg
+  page: https://www.inaturalist.org/photos/566650729
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/566650729/original.jpg
 ---
 
 

@@ -148,8 +148,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/otidiformes/otididae/lophotis-savilei/1.jpg
+  page: https://www.inaturalist.org/photos/255509693
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255509693/original.jpeg
+images:
+- file: images/otidiformes/otididae/lophotis-savilei/1.jpg
+  page: https://www.inaturalist.org/photos/255509693
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255509693/original.jpeg
+- file: images/otidiformes/otididae/lophotis-savilei/2.jpg
+  page: https://www.inaturalist.org/photos/59902132
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59902132/original.jpg
+- file: images/otidiformes/otididae/lophotis-savilei/3.jpg
+  page: https://www.inaturalist.org/photos/95180004
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/95180004/original.jpeg
+- file: images/otidiformes/otididae/lophotis-savilei/4.jpg
+  page: https://www.inaturalist.org/photos/255510344
+  author: Lucy Keith-Diagne
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/255510344/original.jpeg
+- file: images/otidiformes/otididae/lophotis-savilei/5.jpg
+  page: https://www.inaturalist.org/photos/59902130
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/59902130/original.jpg
 ---
 
 

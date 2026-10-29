@@ -157,10 +157,49 @@ sources:
 - AnAge (Tacutu et al., Human Ageing Genomic Resources)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 7
+image:
+  file: images/passeriformes/parulidae/setophaga-americana/1.jpg
+  page: https://www.inaturalist.org/photos/607526196
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607526196/original.jpg
+images:
+- file: images/passeriformes/parulidae/setophaga-americana/1.jpg
+  page: https://www.inaturalist.org/photos/607526196
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607526196/original.jpg
+- file: images/passeriformes/parulidae/setophaga-americana/2.jpg
+  page: https://www.inaturalist.org/photos/611914438
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611914438/original.jpg
+- file: images/passeriformes/parulidae/setophaga-americana/3.jpg
+  page: https://www.inaturalist.org/photos/611498535
+  author: Rob Foster
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/611498535/original.jpg
+- file: images/passeriformes/parulidae/setophaga-americana/4.jpg
+  page: https://www.inaturalist.org/photos/614975362
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614975362/original.jpg
+- file: images/passeriformes/parulidae/setophaga-americana/5.jpg
+  page: https://www.inaturalist.org/photos/617118012
+  author: Dayron Breto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617118012/original.jpg
 ---
 
 

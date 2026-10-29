@@ -155,10 +155,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 30
+image:
+  file: images/anseriformes/anatidae/aythya-valisineria/1.jpg
+  page: https://www.inaturalist.org/photos/604970319
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604970319/original.jpg
+images:
+- file: images/anseriformes/anatidae/aythya-valisineria/1.jpg
+  page: https://www.inaturalist.org/photos/604970319
+  author: CK2AZ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604970319/original.jpg
+- file: images/anseriformes/anatidae/aythya-valisineria/2.jpg
+  page: https://www.inaturalist.org/photos/605161918
+  author: JD Flores
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605161918/original.jpg
+- file: images/anseriformes/anatidae/aythya-valisineria/3.jpg
+  page: https://www.inaturalist.org/photos/605545020
+  author: Ken Clark
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605545020/original.jpg
+- file: images/anseriformes/anatidae/aythya-valisineria/4.jpg
+  page: https://www.inaturalist.org/photos/605212951
+  author: graham_coop
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605212951/original.jpg
+- file: images/anseriformes/anatidae/aythya-valisineria/5.jpg
+  page: https://www.inaturalist.org/photos/605405598
+  author: Brodie Cass Talbott
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605405598/original.jpg
 ---
 
 

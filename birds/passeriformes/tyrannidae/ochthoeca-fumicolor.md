@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/tyrannidae/ochthoeca-fumicolor/1.jpg
+  page: https://www.inaturalist.org/photos/685656608
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685656608/original.jpg
+images:
+- file: images/passeriformes/tyrannidae/ochthoeca-fumicolor/1.jpg
+  page: https://www.inaturalist.org/photos/685656608
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/685656608/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-fumicolor/2.jpg
+  page: https://www.inaturalist.org/photos/652824474
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652824474/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-fumicolor/3.jpg
+  page: https://www.inaturalist.org/photos/502953476
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/502953476/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-fumicolor/4.jpg
+  page: https://www.inaturalist.org/photos/476149347
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/476149347/original.jpg
+- file: images/passeriformes/tyrannidae/ochthoeca-fumicolor/5.jpg
+  page: https://www.inaturalist.org/photos/483881252
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/483881252/original.jpeg
 ---
 
 

@@ -151,8 +151,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/hemiprocnidae/hemiprocne-longipennis/1.jpg
+  page: https://www.inaturalist.org/photos/616739137
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616739137/original.jpg
+images:
+- file: images/apodiformes/hemiprocnidae/hemiprocne-longipennis/1.jpg
+  page: https://www.inaturalist.org/photos/616739137
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616739137/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-longipennis/2.jpg
+  page: https://www.inaturalist.org/photos/612946816
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612946816/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-longipennis/3.jpg
+  page: https://www.inaturalist.org/photos/735290053
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/735290053/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-longipennis/4.jpg
+  page: https://www.inaturalist.org/photos/619190170
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/619190170/original.jpg
+- file: images/apodiformes/hemiprocnidae/hemiprocne-longipennis/5.jpg
+  page: https://www.inaturalist.org/photos/655339598
+  author: Sandra Keller
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655339598/original.jpg
 ---
 
 

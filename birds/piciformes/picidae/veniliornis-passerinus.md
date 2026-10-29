@@ -159,8 +159,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-passerinus/1.jpg
+  page: https://www.inaturalist.org/photos/610948144
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610948144/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-passerinus/1.jpg
+  page: https://www.inaturalist.org/photos/610948144
+  author: Davi Eduardo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610948144/original.jpg
+- file: images/piciformes/picidae/veniliornis-passerinus/2.jpg
+  page: https://www.inaturalist.org/photos/621907364
+  author: Luan Mazzeo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621907364/original.jpg
+- file: images/piciformes/picidae/veniliornis-passerinus/3.jpg
+  page: https://www.inaturalist.org/photos/653978539
+  author: Alan Estumano
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653978539/original.jpg
+- file: images/piciformes/picidae/veniliornis-passerinus/4.jpg
+  page: https://www.inaturalist.org/photos/617268031
+  author: Ronaldo Pedrão
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617268031/original.jpg
+- file: images/piciformes/picidae/veniliornis-passerinus/5.jpg
+  page: https://www.inaturalist.org/photos/618710879
+  author: Thomaz de Carvalho Callado
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618710879/original.jpg
 ---
 
 

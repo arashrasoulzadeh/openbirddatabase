@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/veniliornis-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/559782301
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559782301/original.jpg
+images:
+- file: images/piciformes/picidae/veniliornis-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/559782301
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559782301/original.jpg
+- file: images/piciformes/picidae/veniliornis-nigriceps/2.jpg
+  page: https://www.inaturalist.org/photos/323104315
+  author: Ryan F. Mandelbaum
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/323104315/original.jpg
+- file: images/piciformes/picidae/veniliornis-nigriceps/3.jpg
+  page: https://www.inaturalist.org/photos/341819404
+  author: Frank Dietze
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/341819404/original.jpg
+- file: images/piciformes/picidae/veniliornis-nigriceps/4.jpg
+  page: https://www.inaturalist.org/photos/179289499
+  author: My-Lan Le
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/179289499/original.jpeg
+- file: images/piciformes/picidae/veniliornis-nigriceps/5.jpg
+  page: https://www.inaturalist.org/photos/163587791
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/163587791/original.jpeg
 ---
 
 

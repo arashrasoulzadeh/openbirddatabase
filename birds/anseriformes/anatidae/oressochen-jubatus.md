@@ -127,7 +127,8 @@ sources:
 - BirdNET Taxonomy v0.3
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
-last_updated: '2026-10-18'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
 morphology:
   bill_length_mm: 36.8
@@ -135,6 +136,44 @@ morphology:
   wing_length_mm: 298.0
   tail_length_mm: 100.0
   body_mass_g: 1250.0
+image:
+  file: images/anseriformes/anatidae/oressochen-jubatus/1.jpg
+  page: https://www.inaturalist.org/photos/610012506
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012506/original.jpg
+images:
+- file: images/anseriformes/anatidae/oressochen-jubatus/1.jpg
+  page: https://www.inaturalist.org/photos/610012506
+  author: Sebastian Serna Muñoz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610012506/original.jpg
+- file: images/anseriformes/anatidae/oressochen-jubatus/2.jpg
+  page: https://www.inaturalist.org/photos/629738214
+  author: Martha Lucia Ortiz-Moreno
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629738214/original.jpg
+- file: images/anseriformes/anatidae/oressochen-jubatus/3.jpg
+  page: https://www.inaturalist.org/photos/674277630
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/674277630/original.jpg
+- file: images/anseriformes/anatidae/oressochen-jubatus/4.jpg
+  page: https://www.inaturalist.org/photos/700922971
+  author: Sebastian Doak
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700922971/original.jpg
+- file: images/anseriformes/anatidae/oressochen-jubatus/5.jpg
+  page: https://www.inaturalist.org/photos/716774695
+  author: Artur Alves
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716774695/original.jpg
 ---
 
 

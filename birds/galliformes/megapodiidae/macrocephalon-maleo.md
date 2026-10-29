@@ -151,10 +151,49 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 23
+image:
+  file: images/galliformes/megapodiidae/macrocephalon-maleo/1.jpg
+  page: https://www.inaturalist.org/photos/738617625
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738617625/original.jpg
+images:
+- file: images/galliformes/megapodiidae/macrocephalon-maleo/1.jpg
+  page: https://www.inaturalist.org/photos/738617625
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/738617625/original.jpg
+- file: images/galliformes/megapodiidae/macrocephalon-maleo/2.jpg
+  page: https://www.inaturalist.org/photos/618386112
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618386112/original.jpg
+- file: images/galliformes/megapodiidae/macrocephalon-maleo/3.jpg
+  page: https://www.inaturalist.org/photos/726818773
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/726818773/original.jpg
+- file: images/galliformes/megapodiidae/macrocephalon-maleo/4.jpg
+  page: https://www.inaturalist.org/photos/525998043
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/525998043/original.jpg
+- file: images/galliformes/megapodiidae/macrocephalon-maleo/5.jpg
+  page: https://www.inaturalist.org/photos/471156384
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471156384/original.jpeg
 ---
 
 

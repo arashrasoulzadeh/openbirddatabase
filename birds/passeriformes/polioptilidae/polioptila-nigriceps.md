@@ -141,8 +141,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/polioptilidae/polioptila-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/474681464
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474681464/original.jpeg
+images:
+- file: images/passeriformes/polioptilidae/polioptila-nigriceps/1.jpg
+  page: https://www.inaturalist.org/photos/474681464
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/474681464/original.jpeg
+- file: images/passeriformes/polioptilidae/polioptila-nigriceps/2.jpg
+  page: https://www.inaturalist.org/photos/264472538
+  author: Tristan A. McKnight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/264472538/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-nigriceps/3.jpg
+  page: https://www.inaturalist.org/photos/276481164
+  author: Alexis López Hernández
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276481164/original.jpeg
+- file: images/passeriformes/polioptilidae/polioptila-nigriceps/4.jpg
+  page: https://www.inaturalist.org/photos/152622168
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/152622168/original.jpg
+- file: images/passeriformes/polioptilidae/polioptila-nigriceps/5.jpg
+  page: https://www.inaturalist.org/photos/539232257
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/539232257/original.jpg
 ---
 
 

@@ -124,8 +124,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/zosteropidae/zosterops-dehaani/1.jpg
+  page: https://www.inaturalist.org/photos/484965171
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965171/original.jpeg
+images:
+- file: images/passeriformes/zosteropidae/zosterops-dehaani/1.jpg
+  page: https://www.inaturalist.org/photos/484965171
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965171/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-dehaani/2.jpg
+  page: https://www.inaturalist.org/photos/246502109
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246502109/original.jpg
+- file: images/passeriformes/zosteropidae/zosterops-dehaani/3.jpg
+  page: https://www.inaturalist.org/photos/484965167
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965167/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-dehaani/4.jpg
+  page: https://www.inaturalist.org/photos/484965244
+  author: James Eaton
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/484965244/original.jpeg
+- file: images/passeriformes/zosteropidae/zosterops-dehaani/5.jpg
+  page: https://www.inaturalist.org/photos/246502377
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/246502377/original.jpg
 ---
 
 

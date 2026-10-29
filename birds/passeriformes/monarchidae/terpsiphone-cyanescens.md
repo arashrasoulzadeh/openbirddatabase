@@ -138,8 +138,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/monarchidae/terpsiphone-cyanescens/1.jpg
+  page: https://www.inaturalist.org/photos/690042783
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690042783/original.jpg
+images:
+- file: images/passeriformes/monarchidae/terpsiphone-cyanescens/1.jpg
+  page: https://www.inaturalist.org/photos/690042783
+  author: Jay Paroline
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/690042783/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-cyanescens/2.jpg
+  page: https://www.inaturalist.org/photos/375582599
+  author: Donna Belder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/375582599/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-cyanescens/3.jpg
+  page: https://www.inaturalist.org/photos/388673971
+  author: Nicola Crockford
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/388673971/original.jpeg
+- file: images/passeriformes/monarchidae/terpsiphone-cyanescens/4.jpg
+  page: https://www.inaturalist.org/photos/469443083
+  author: Кирилл
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469443083/original.jpg
+- file: images/passeriformes/monarchidae/terpsiphone-cyanescens/5.jpg
+  page: https://www.inaturalist.org/photos/276470272
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/276470272/original.jpg
 ---
 
 

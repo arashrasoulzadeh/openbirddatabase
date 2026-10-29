@@ -156,8 +156,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/stenostiridae/elminia-albicauda/1.jpg
+  page: https://www.inaturalist.org/photos/621457092
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621457092/original.jpg
+images:
+- file: images/passeriformes/stenostiridae/elminia-albicauda/1.jpg
+  page: https://www.inaturalist.org/photos/621457092
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621457092/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albicauda/2.jpg
+  page: https://www.inaturalist.org/photos/550732800
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550732800/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albicauda/3.jpg
+  page: https://www.inaturalist.org/photos/599687270
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/599687270/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albicauda/4.jpg
+  page: https://www.inaturalist.org/photos/587848974
+  author: Allan Harris
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/587848974/original.jpg
+- file: images/passeriformes/stenostiridae/elminia-albicauda/5.jpg
+  page: https://www.inaturalist.org/photos/594018527
+  author: ringmike
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/594018527/original.jpg
 ---
 
 

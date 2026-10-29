@@ -143,8 +143,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/hypocnemis-hypoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/395403151
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395403151/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/hypocnemis-hypoxantha/1.jpg
+  page: https://www.inaturalist.org/photos/395403151
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/395403151/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemis-hypoxantha/2.jpg
+  page: https://www.inaturalist.org/photos/418556885
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/418556885/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemis-hypoxantha/3.jpg
+  page: https://www.inaturalist.org/photos/609317995
+  author: Lindolfo Souto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609317995/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemis-hypoxantha/4.jpg
+  page: https://www.inaturalist.org/photos/468417242
+  author: Romilson Silva Lopes Junior
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468417242/original.jpg
+- file: images/passeriformes/thamnophilidae/hypocnemis-hypoxantha/5.jpg
+  page: https://www.inaturalist.org/photos/161115626
+  author: Abby Darrah
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/161115626/original.jpeg
 ---
 
 

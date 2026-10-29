@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/corvidae/pica-bottanensis/1.jpg
+  page: https://www.inaturalist.org/photos/710234433
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710234433/original.jpg
+images:
+- file: images/passeriformes/corvidae/pica-bottanensis/1.jpg
+  page: https://www.inaturalist.org/photos/710234433
+  author: Felix Puff
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710234433/original.jpg
+- file: images/passeriformes/corvidae/pica-bottanensis/2.jpg
+  page: https://www.inaturalist.org/photos/730273393
+  author: observe-syz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/730273393/original.jpg
+- file: images/passeriformes/corvidae/pica-bottanensis/3.jpg
+  page: https://www.inaturalist.org/photos/519759479
+  author: steve b
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/519759479/original.jpg
+- file: images/passeriformes/corvidae/pica-bottanensis/4.jpg
+  page: https://www.inaturalist.org/photos/370520175
+  author: Tristan Jobin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/370520175/original.jpeg
+- file: images/passeriformes/corvidae/pica-bottanensis/5.jpg
+  page: https://www.inaturalist.org/photos/374945901
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/374945901/original.jpg
 ---
 
 

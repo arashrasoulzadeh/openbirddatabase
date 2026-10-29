@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/pycnonotidae/pycnonotus-plumosus/1.jpg
+  page: https://www.inaturalist.org/photos/616738643
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738643/original.jpg
+images:
+- file: images/passeriformes/pycnonotidae/pycnonotus-plumosus/1.jpg
+  page: https://www.inaturalist.org/photos/616738643
+  author: Kalvin Chan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616738643/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-plumosus/2.jpg
+  page: https://www.inaturalist.org/photos/618847975
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/618847975/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-plumosus/3.jpg
+  page: https://www.inaturalist.org/photos/667184965
+  author: MATVEY KALACHEV
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/667184965/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-plumosus/4.jpg
+  page: https://www.inaturalist.org/photos/617175912
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617175912/original.jpg
+- file: images/passeriformes/pycnonotidae/pycnonotus-plumosus/5.jpg
+  page: https://www.inaturalist.org/photos/623114367
+  author: Rainer Breitling
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623114367/original.jpg
 ---
 
 

@@ -144,8 +144,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/timaliidae/pomatorhinus-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/613572064
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613572064/original.jpg
+images:
+- file: images/passeriformes/timaliidae/pomatorhinus-montanus/1.jpg
+  page: https://www.inaturalist.org/photos/613572064
+  author: Legawa, Everest C.
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613572064/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-montanus/2.jpg
+  page: https://www.inaturalist.org/photos/649165712
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649165712/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-montanus/3.jpg
+  page: https://www.inaturalist.org/photos/288196625
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/288196625/original.jpg
+- file: images/passeriformes/timaliidae/pomatorhinus-montanus/4.jpg
+  page: https://www.inaturalist.org/photos/242797105
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/242797105/original.jpeg
+- file: images/passeriformes/timaliidae/pomatorhinus-montanus/5.jpg
+  page: https://www.inaturalist.org/photos/103356706
+  author: Christoph Moning
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/103356706/original.jpeg
 ---
 
 

@@ -156,10 +156,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 4
+image:
+  file: images/passeriformes/fringillidae/loxia-leucoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605682530
+  author: dalebro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605682530/original.jpg
+images:
+- file: images/passeriformes/fringillidae/loxia-leucoptera/1.jpg
+  page: https://www.inaturalist.org/photos/605682530
+  author: dalebro
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605682530/original.jpg
+- file: images/passeriformes/fringillidae/loxia-leucoptera/2.jpg
+  page: https://www.inaturalist.org/photos/606532007
+  author: Willem Span
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606532007/original.jpg
+- file: images/passeriformes/fringillidae/loxia-leucoptera/3.jpg
+  page: https://www.inaturalist.org/photos/608456843
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608456843/original.jpg
+- file: images/passeriformes/fringillidae/loxia-leucoptera/4.jpg
+  page: https://www.inaturalist.org/photos/653451798
+  author: Pam Hardy
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/653451798/original.jpg
+- file: images/passeriformes/fringillidae/loxia-leucoptera/5.jpg
+  page: https://www.inaturalist.org/photos/614226810
+  author: Callisto
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614226810/original.jpg
 ---
 
 

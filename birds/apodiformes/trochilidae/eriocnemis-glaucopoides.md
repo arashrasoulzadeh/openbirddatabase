@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/eriocnemis-glaucopoides/1.jpg
+  page: https://www.inaturalist.org/photos/583996302
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583996302/original.jpg
+images:
+- file: images/apodiformes/trochilidae/eriocnemis-glaucopoides/1.jpg
+  page: https://www.inaturalist.org/photos/583996302
+  author: David F. Belmonte
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/583996302/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-glaucopoides/2.jpg
+  page: https://www.inaturalist.org/photos/422441292
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422441292/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-glaucopoides/3.jpg
+  page: https://www.inaturalist.org/photos/444634482
+  author: Diego Carús
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/444634482/original.jpeg
+- file: images/apodiformes/trochilidae/eriocnemis-glaucopoides/4.jpg
+  page: https://www.inaturalist.org/photos/459299346
+  author: Gonzalo Martinez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/459299346/original.jpg
+- file: images/apodiformes/trochilidae/eriocnemis-glaucopoides/5.jpg
+  page: https://www.inaturalist.org/photos/218941360
+  author: Romi Galeota Lencina
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/218941360/original.jpeg
 ---
 
 

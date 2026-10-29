@@ -150,8 +150,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/apalis-ruddi/1.jpg
+  page: https://www.inaturalist.org/photos/717134153
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717134153/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/apalis-ruddi/1.jpg
+  page: https://www.inaturalist.org/photos/717134153
+  author: Alan Manson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/717134153/original.jpg
+- file: images/passeriformes/cisticolidae/apalis-ruddi/2.jpg
+  page: https://www.inaturalist.org/photos/469299102
+  author: Bruno - Yolande Zanette
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469299102/original.jpeg
+- file: images/passeriformes/cisticolidae/apalis-ruddi/3.jpg
+  page: https://www.inaturalist.org/photos/357182291
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/357182291/original.jpeg
+- file: images/passeriformes/cisticolidae/apalis-ruddi/4.jpg
+  page: https://www.inaturalist.org/photos/305925232
+  author: Sameer Shaik
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/305925232/original.jpeg
+- file: images/passeriformes/cisticolidae/apalis-ruddi/5.jpg
+  page: https://www.inaturalist.org/photos/199890629
+  author: Jay Pruett
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/199890629/original.jpg
 ---
 
 

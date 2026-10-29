@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/apodidae/streptoprocne-semicollaris/1.jpg
+  page: https://www.inaturalist.org/photos/694984485
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694984485/original.jpg
+images:
+- file: images/apodiformes/apodidae/streptoprocne-semicollaris/1.jpg
+  page: https://www.inaturalist.org/photos/694984485
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694984485/original.jpg
+- file: images/apodiformes/apodidae/streptoprocne-semicollaris/2.jpg
+  page: https://www.inaturalist.org/photos/481864014
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/481864014/original.jpeg
+- file: images/apodiformes/apodidae/streptoprocne-semicollaris/3.jpg
+  page: https://www.inaturalist.org/photos/559423111
+  author: Francisco Emilio Roldán Velasco
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/559423111/original.jpg
+- file: images/apodiformes/apodidae/streptoprocne-semicollaris/4.jpg
+  page: https://www.inaturalist.org/photos/12977357
+  author: Francisco Farriols Sarabia
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/12977357/original.jpeg
+- file: images/apodiformes/apodidae/streptoprocne-semicollaris/5.jpg
+  page: https://www.inaturalist.org/photos/694984489
+  author: Dario Taraborelli
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/694984489/original.jpg
 ---
 
 

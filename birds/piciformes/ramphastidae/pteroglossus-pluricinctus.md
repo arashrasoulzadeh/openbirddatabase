@@ -141,8 +141,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/ramphastidae/pteroglossus-pluricinctus/1.jpg
+  page: https://www.inaturalist.org/photos/617291558
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617291558/original.jpg
+images:
+- file: images/piciformes/ramphastidae/pteroglossus-pluricinctus/1.jpg
+  page: https://www.inaturalist.org/photos/617291558
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617291558/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-pluricinctus/2.jpg
+  page: https://www.inaturalist.org/photos/465523009
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/465523009/original.jpeg
+- file: images/piciformes/ramphastidae/pteroglossus-pluricinctus/3.jpg
+  page: https://www.inaturalist.org/photos/464143898
+  author: Zoltán Stekkelpak
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/464143898/original.jpg
+- file: images/piciformes/ramphastidae/pteroglossus-pluricinctus/4.jpg
+  page: https://www.inaturalist.org/photos/482474143
+  author: Edoardo Nardelli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/482474143/original.png
+- file: images/piciformes/ramphastidae/pteroglossus-pluricinctus/5.jpg
+  page: https://www.inaturalist.org/photos/556863975
+  author: Eric Schmidt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/556863975/original.jpg
 ---
 
 

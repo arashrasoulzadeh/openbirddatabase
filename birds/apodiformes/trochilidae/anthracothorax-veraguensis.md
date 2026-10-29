@@ -139,8 +139,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/apodiformes/trochilidae/anthracothorax-veraguensis/1.jpg
+  page: https://www.inaturalist.org/photos/614764714
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614764714/original.jpg
+images:
+- file: images/apodiformes/trochilidae/anthracothorax-veraguensis/1.jpg
+  page: https://www.inaturalist.org/photos/614764714
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614764714/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-veraguensis/2.jpg
+  page: https://www.inaturalist.org/photos/710090441
+  author: Federico Muñoz
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/710090441/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-veraguensis/3.jpg
+  page: https://www.inaturalist.org/photos/533243592
+  author: Slunky
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/533243592/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-veraguensis/4.jpg
+  page: https://www.inaturalist.org/photos/576655764
+  author: Cole Wolf
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/576655764/original.jpg
+- file: images/apodiformes/trochilidae/anthracothorax-veraguensis/5.jpg
+  page: https://www.inaturalist.org/photos/358324130
+  author: Dan MacNeal
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358324130/original.jpeg
 ---
 
 

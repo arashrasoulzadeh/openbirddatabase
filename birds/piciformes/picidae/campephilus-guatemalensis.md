@@ -155,8 +155,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/piciformes/picidae/campephilus-guatemalensis/1.jpg
+  page: https://www.inaturalist.org/photos/605639642
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605639642/original.jpg
+images:
+- file: images/piciformes/picidae/campephilus-guatemalensis/1.jpg
+  page: https://www.inaturalist.org/photos/605639642
+  author: Carlos Domínguez-Rodríguez
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605639642/original.jpg
+- file: images/piciformes/picidae/campephilus-guatemalensis/2.jpg
+  page: https://www.inaturalist.org/photos/605052191
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605052191/original.jpg
+- file: images/piciformes/picidae/campephilus-guatemalensis/3.jpg
+  page: https://www.inaturalist.org/photos/605423924
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605423924/original.jpg
+- file: images/piciformes/picidae/campephilus-guatemalensis/4.jpg
+  page: https://www.inaturalist.org/photos/606138603
+  author: Zinnia Xu
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606138603/original.jpg
+- file: images/piciformes/picidae/campephilus-guatemalensis/5.jpg
+  page: https://www.inaturalist.org/photos/608725853
+  author: Sinaloa Silvestre
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/608725853/original.jpg
 ---
 
 

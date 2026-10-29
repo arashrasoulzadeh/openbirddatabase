@@ -136,8 +136,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-australe/1.jpg
+  page: https://www.inaturalist.org/photos/604406946
+  author: Kevin Carlo Artiaga
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604406946/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-australe/1.jpg
+  page: https://www.inaturalist.org/photos/604406946
+  author: Kevin Carlo Artiaga
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604406946/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-australe/2.jpg
+  page: https://www.inaturalist.org/photos/633525793
+  author: Toby Y
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/633525793/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-australe/3.jpg
+  page: https://www.inaturalist.org/photos/652495470
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652495470/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-australe/4.jpg
+  page: https://www.inaturalist.org/photos/495059324
+  author: Vreni Gem O. Caasi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/495059324/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-australe/5.jpg
+  page: https://www.inaturalist.org/photos/604407065
+  author: Kevin Carlo Artiaga
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604407065/original.jpg
 ---
 
 

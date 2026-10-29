@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/aegotheliformes/aegothelidae/aegotheles-albertisi/1.jpg
+  page: https://www.inaturalist.org/photos/614910684
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910684/original.jpg
+images:
+- file: images/aegotheliformes/aegothelidae/aegotheles-albertisi/1.jpg
+  page: https://www.inaturalist.org/photos/614910684
+  author: Светлана Царахова
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614910684/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-albertisi/2.jpg
+  page: https://www.inaturalist.org/photos/705062596
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/705062596/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-albertisi/3.jpg
+  page: https://www.inaturalist.org/photos/571178118
+  author: themaskedlapwing
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/571178118/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-albertisi/4.jpg
+  page: https://www.inaturalist.org/photos/623816456
+  author: Zara
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/623816456/original.jpg
+- file: images/aegotheliformes/aegothelidae/aegotheles-albertisi/5.jpg
+  page: https://www.inaturalist.org/photos/340507591
+  author: Jean-Paul Boerekamps
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/340507591/original.jpg
 ---
 
 

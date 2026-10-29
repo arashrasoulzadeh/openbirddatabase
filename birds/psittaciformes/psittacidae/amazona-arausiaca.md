@@ -145,8 +145,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/psittaciformes/psittacidae/amazona-arausiaca/1.jpg
+  page: https://www.inaturalist.org/photos/616796895
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616796895/original.jpg
+images:
+- file: images/psittaciformes/psittacidae/amazona-arausiaca/1.jpg
+  page: https://www.inaturalist.org/photos/616796895
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616796895/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-arausiaca/2.jpg
+  page: https://www.inaturalist.org/photos/346005216
+  author: Louis Imbeau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346005216/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-arausiaca/3.jpg
+  page: https://www.inaturalist.org/photos/113074522
+  author: Zac Peterson
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/113074522/original.jpeg
+- file: images/psittaciformes/psittacidae/amazona-arausiaca/4.jpg
+  page: https://www.inaturalist.org/photos/616799457
+  author: novvictan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616799457/original.jpg
+- file: images/psittaciformes/psittacidae/amazona-arausiaca/5.jpg
+  page: https://www.inaturalist.org/photos/346005370
+  author: Louis Imbeau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/346005370/original.jpeg
 ---
 
 

@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/cisticola-pipiens/1.jpg
+  page: https://www.inaturalist.org/photos/595970860
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595970860/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/cisticola-pipiens/1.jpg
+  page: https://www.inaturalist.org/photos/595970860
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595970860/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-pipiens/2.jpg
+  page: https://www.inaturalist.org/photos/230361069
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230361069/original.jpeg
+- file: images/passeriformes/cisticolidae/cisticola-pipiens/3.jpg
+  page: https://www.inaturalist.org/photos/595970871
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595970871/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-pipiens/4.jpg
+  page: https://www.inaturalist.org/photos/595970876
+  author: Irene
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/595970876/original.jpg
+- file: images/passeriformes/cisticolidae/cisticola-pipiens/5.jpg
+  page: https://www.inaturalist.org/photos/230363007
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/230363007/original.jpeg
 ---
 
 

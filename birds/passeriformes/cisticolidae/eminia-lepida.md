@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/cisticolidae/eminia-lepida/1.jpg
+  page: https://www.inaturalist.org/photos/550263678
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550263678/original.jpg
+images:
+- file: images/passeriformes/cisticolidae/eminia-lepida/1.jpg
+  page: https://www.inaturalist.org/photos/550263678
+  author: Lukas Zangl
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/550263678/original.jpg
+- file: images/passeriformes/cisticolidae/eminia-lepida/2.jpg
+  page: https://www.inaturalist.org/photos/561301384
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/561301384/original.jpg
+- file: images/passeriformes/cisticolidae/eminia-lepida/3.jpg
+  page: https://www.inaturalist.org/photos/581279116
+  author: Tom Heijnen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/581279116/original.jpg
+- file: images/passeriformes/cisticolidae/eminia-lepida/4.jpg
+  page: https://www.inaturalist.org/photos/424711344
+  author: Elliot Greiner
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/424711344/original.jpeg
+- file: images/passeriformes/cisticolidae/eminia-lepida/5.jpg
+  page: https://www.inaturalist.org/photos/610001838
+  author: Adrien Jailloux
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610001838/original.jpg
 ---
 
 

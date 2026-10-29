@@ -144,8 +144,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/leiothrichidae/alcippe-fratercula/1.jpg
+  page: https://www.inaturalist.org/photos/609862451
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609862451/original.jpg
+images:
+- file: images/passeriformes/leiothrichidae/alcippe-fratercula/1.jpg
+  page: https://www.inaturalist.org/photos/609862451
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609862451/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-fratercula/2.jpg
+  page: https://www.inaturalist.org/photos/625384376
+  author: Dan Vickers
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/625384376/original.jpg
+- file: images/passeriformes/leiothrichidae/alcippe-fratercula/3.jpg
+  page: https://www.inaturalist.org/photos/468781064
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/468781064/original.jpeg
+- file: images/passeriformes/leiothrichidae/alcippe-fratercula/4.jpg
+  page: https://www.inaturalist.org/photos/479296828
+  author: Mathieu Soetens
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/479296828/original.jpeg
+- file: images/passeriformes/leiothrichidae/alcippe-fratercula/5.jpg
+  page: https://www.inaturalist.org/photos/592371662
+  author: Jiao Sun (孙娇)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/592371662/original.jpg
 ---
 
 

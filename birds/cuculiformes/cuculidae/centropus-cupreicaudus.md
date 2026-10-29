@@ -154,8 +154,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/cuculiformes/cuculidae/centropus-cupreicaudus/1.jpg
+  page: https://www.inaturalist.org/photos/569920147
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569920147/original.jpg
+images:
+- file: images/cuculiformes/cuculidae/centropus-cupreicaudus/1.jpg
+  page: https://www.inaturalist.org/photos/569920147
+  author: Darren Obbard
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/569920147/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-cupreicaudus/2.jpg
+  page: https://www.inaturalist.org/photos/588358340
+  author: mr_t_explorer
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/588358340/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-cupreicaudus/3.jpg
+  page: https://www.inaturalist.org/photos/412293744
+  author: Jonas Kraft
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/412293744/original.jpg
+- file: images/cuculiformes/cuculidae/centropus-cupreicaudus/4.jpg
+  page: https://www.inaturalist.org/photos/425642271
+  author: Jean Jacques Godon
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/425642271/original.jpeg
+- file: images/cuculiformes/cuculidae/centropus-cupreicaudus/5.jpg
+  page: https://www.inaturalist.org/photos/420521311
+  author: Nico
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/420521311/original.jpeg
 ---
 
 

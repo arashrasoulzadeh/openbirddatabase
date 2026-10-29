@@ -132,8 +132,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/accipitriformes/accipitridae/nisaetus-bartelsi/1.jpg
+  page: https://www.inaturalist.org/photos/649166167
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649166167/original.jpg
+images:
+- file: images/accipitriformes/accipitridae/nisaetus-bartelsi/1.jpg
+  page: https://www.inaturalist.org/photos/649166167
+  author: Enoch Cheuk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/649166167/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-bartelsi/2.jpg
+  page: https://www.inaturalist.org/photos/413011992
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/413011992/original.jpeg
+- file: images/accipitriformes/accipitridae/nisaetus-bartelsi/3.jpg
+  page: https://www.inaturalist.org/photos/515330745
+  author: Jan Ebr & Ivana Ebrová
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/515330745/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-bartelsi/4.jpg
+  page: https://www.inaturalist.org/photos/307923269
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/307923269/original.jpg
+- file: images/accipitriformes/accipitridae/nisaetus-bartelsi/5.jpg
+  page: https://www.inaturalist.org/photos/325709300
+  author: desertnaturalist
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/325709300/original.jpeg
 ---
 
 

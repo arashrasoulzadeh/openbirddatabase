@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/mohouidae/mohoua-ochrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605254418
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605254418/original.jpg
+images:
+- file: images/passeriformes/mohouidae/mohoua-ochrocephala/1.jpg
+  page: https://www.inaturalist.org/photos/605254418
+  author: Henry Hart
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605254418/original.jpg
+- file: images/passeriformes/mohouidae/mohoua-ochrocephala/2.jpg
+  page: https://www.inaturalist.org/photos/616180096
+  author: Brandon Wheeler
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616180096/original.jpg
+- file: images/passeriformes/mohouidae/mohoua-ochrocephala/3.jpg
+  page: https://www.inaturalist.org/photos/621686249
+  author: kiwialli
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/621686249/original.jpg
+- file: images/passeriformes/mohouidae/mohoua-ochrocephala/4.jpg
+  page: https://www.inaturalist.org/photos/629837960
+  author: Heidi Meudt
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629837960/original.jpg
+- file: images/passeriformes/mohouidae/mohoua-ochrocephala/5.jpg
+  page: https://www.inaturalist.org/photos/640581802
+  author: alamettyr
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/640581802/original.jpg
 ---
 
 

@@ -137,8 +137,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/passerellidae/atlapetes-fulviceps/1.jpg
+  page: https://www.inaturalist.org/photos/708193396
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708193396/original.jpg
+images:
+- file: images/passeriformes/passerellidae/atlapetes-fulviceps/1.jpg
+  page: https://www.inaturalist.org/photos/708193396
+  author: Tomás Carranza Perales
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/708193396/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-fulviceps/2.jpg
+  page: https://www.inaturalist.org/photos/570318395
+  author: Pablo H Capovilla
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/570318395/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-fulviceps/3.jpg
+  page: https://www.inaturalist.org/photos/600646480
+  author: djcooker
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600646480/original.jpg
+- file: images/passeriformes/passerellidae/atlapetes-fulviceps/4.jpg
+  page: https://www.inaturalist.org/photos/442133101
+  author: cactusauria
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442133101/original.jpeg
+- file: images/passeriformes/passerellidae/atlapetes-fulviceps/5.jpg
+  page: https://www.inaturalist.org/photos/422441244
+  author: Luciano Massa
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/422441244/original.jpeg
 ---
 
 

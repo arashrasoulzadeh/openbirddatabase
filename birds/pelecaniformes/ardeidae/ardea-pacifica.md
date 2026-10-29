@@ -146,8 +146,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/pelecaniformes/ardeidae/ardea-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/604665506
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604665506/original.jpg
+images:
+- file: images/pelecaniformes/ardeidae/ardea-pacifica/1.jpg
+  page: https://www.inaturalist.org/photos/604665506
+  author: Damien O'Donnell
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604665506/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-pacifica/2.jpg
+  page: https://www.inaturalist.org/photos/604853134
+  author: Roger Yandle
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604853134/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-pacifica/3.jpg
+  page: https://www.inaturalist.org/photos/605851717
+  author: Mark Clarke
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/605851717/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-pacifica/4.jpg
+  page: https://www.inaturalist.org/photos/606017537
+  author: Corin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606017537/original.jpg
+- file: images/pelecaniformes/ardeidae/ardea-pacifica/5.jpg
+  page: https://www.inaturalist.org/photos/606354450
+  author: Sophie
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/606354450/original.jpg
 ---
 
 

@@ -145,8 +145,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/ptiliogonatidae/ptiliogonys-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/607808874
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808874/original.jpg
+images:
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-cinereus/1.jpg
+  page: https://www.inaturalist.org/photos/607808874
+  author: datadan
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/607808874/original.jpg
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-cinereus/2.jpg
+  page: https://www.inaturalist.org/photos/609808231
+  author: Peter Quakenbush
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/609808231/original.jpg
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-cinereus/3.jpg
+  page: https://www.inaturalist.org/photos/612721853
+  author: James Adney Zehr
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/612721853/original.jpg
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-cinereus/4.jpg
+  page: https://www.inaturalist.org/photos/616464555
+  author: brendanboyd
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/616464555/original.jpg
+- file: images/passeriformes/ptiliogonatidae/ptiliogonys-cinereus/5.jpg
+  page: https://www.inaturalist.org/photos/620297237
+  author: cello caruso-turiello
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/620297237/original.jpg
 ---
 
 

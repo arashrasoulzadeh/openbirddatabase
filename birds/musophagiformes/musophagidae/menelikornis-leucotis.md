@@ -127,8 +127,47 @@ sources:
 - BirdNET Taxonomy v0.3
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: Low
+image:
+  file: images/musophagiformes/musophagidae/menelikornis-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/469518531
+  author: Petra Holland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469518531/original.jpg
+images:
+- file: images/musophagiformes/musophagidae/menelikornis-leucotis/1.jpg
+  page: https://www.inaturalist.org/photos/469518531
+  author: Petra Holland
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/469518531/original.jpg
+- file: images/musophagiformes/musophagidae/menelikornis-leucotis/2.jpg
+  page: https://www.inaturalist.org/photos/604695657
+  author: avocat
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/604695657/original.jpg
+- file: images/musophagiformes/musophagidae/menelikornis-leucotis/3.jpg
+  page: https://www.inaturalist.org/photos/442123162
+  author: Tommy Andriollo
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/442123162/original.jpeg
+- file: images/musophagiformes/musophagidae/menelikornis-leucotis/4.jpg
+  page: https://www.inaturalist.org/photos/207727926
+  author: Manuel Schwarz
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/207727926/original.jpg
+- file: images/musophagiformes/musophagidae/menelikornis-leucotis/5.jpg
+  page: https://www.inaturalist.org/photos/62983572
+  author: stephen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/62983572/original.jpeg
 ---
 
 

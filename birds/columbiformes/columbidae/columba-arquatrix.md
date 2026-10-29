@@ -157,8 +157,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/columbiformes/columbidae/columba-arquatrix/1.jpg
+  page: https://www.inaturalist.org/photos/613964008
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613964008/original.jpg
+images:
+- file: images/columbiformes/columbidae/columba-arquatrix/1.jpg
+  page: https://www.inaturalist.org/photos/613964008
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613964008/original.jpg
+- file: images/columbiformes/columbidae/columba-arquatrix/2.jpg
+  page: https://www.inaturalist.org/photos/716650300
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/716650300/original.jpg
+- file: images/columbiformes/columbidae/columba-arquatrix/3.jpg
+  page: https://www.inaturalist.org/photos/613966133
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/613966133/original.jpg
+- file: images/columbiformes/columbidae/columba-arquatrix/4.jpg
+  page: https://www.inaturalist.org/photos/629867073
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629867073/original.jpg
+- file: images/columbiformes/columbidae/columba-arquatrix/5.jpg
+  page: https://www.inaturalist.org/photos/629867089
+  author: Christiaan Viljoen
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/629867089/original.jpg
 ---
 
 

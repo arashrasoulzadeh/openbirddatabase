@@ -138,7 +138,8 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 morphology:
   bill_length_mm: 15.4
@@ -146,6 +147,44 @@ morphology:
   wing_length_mm: 54.4
   tail_length_mm: 51.2
   body_mass_g: 16.0
+image:
+  file: images/passeriformes/timaliidae/cyanoderma-melanothorax/1.jpg
+  page: https://www.inaturalist.org/photos/590353392
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590353392/original.jpg
+images:
+- file: images/passeriformes/timaliidae/cyanoderma-melanothorax/1.jpg
+  page: https://www.inaturalist.org/photos/590353392
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/590353392/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-melanothorax/2.jpg
+  page: https://www.inaturalist.org/photos/600061651
+  author: Jason Alexander
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/600061651/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-melanothorax/3.jpg
+  page: https://www.inaturalist.org/photos/427462199
+  author: ꦥꦤ꧀ꦗꦶꦒꦸꦱ꧀ꦠꦶꦄꦏ꧀ꦧꦂ
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/427462199/original.jpg
+- file: images/passeriformes/timaliidae/cyanoderma-melanothorax/4.jpg
+  page: https://www.inaturalist.org/photos/441224218
+  author: Eric Knight
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/441224218/original.jpeg
+- file: images/passeriformes/timaliidae/cyanoderma-melanothorax/5.jpg
+  page: https://www.inaturalist.org/photos/448819202
+  author: Ganjar Cahyadi
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/448819202/original.jpeg
 ---
 
 

@@ -165,8 +165,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thraupidae/sporophila-minuta/1.jpg
+  page: https://www.inaturalist.org/photos/610756782
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610756782/original.jpg
+images:
+- file: images/passeriformes/thraupidae/sporophila-minuta/1.jpg
+  page: https://www.inaturalist.org/photos/610756782
+  author: sprcrkwild
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/610756782/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-minuta/2.jpg
+  page: https://www.inaturalist.org/photos/617325388
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/617325388/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-minuta/3.jpg
+  page: https://www.inaturalist.org/photos/614477536
+  author: Anthony Batista
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614477536/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-minuta/4.jpg
+  page: https://www.inaturalist.org/photos/614581043
+  author: Guy Babineau
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/614581043/original.jpg
+- file: images/passeriformes/thraupidae/sporophila-minuta/5.jpg
+  page: https://www.inaturalist.org/photos/650115394
+  author: Nelson Atencio
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/650115394/original.jpg
 ---
 
 

@@ -149,8 +149,47 @@ sources:
 - Amniote life-history database (Myhrvold et al. 2015)
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/thamnophilidae/myrmotherula-menetriesii/1.jpg
+  page: https://www.inaturalist.org/photos/434115984
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434115984/original.jpg
+images:
+- file: images/passeriformes/thamnophilidae/myrmotherula-menetriesii/1.jpg
+  page: https://www.inaturalist.org/photos/434115984
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434115984/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-menetriesii/2.jpg
+  page: https://www.inaturalist.org/photos/624036910
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/624036910/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-menetriesii/3.jpg
+  page: https://www.inaturalist.org/photos/338244076
+  author: Claude Kolwelter
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338244076/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-menetriesii/4.jpg
+  page: https://www.inaturalist.org/photos/338442682
+  author: NINA WENÓLI
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/338442682/original.jpg
+- file: images/passeriformes/thamnophilidae/myrmotherula-menetriesii/5.jpg
+  page: https://www.inaturalist.org/photos/434115979
+  author: Vincent A. Vos
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/434115979/original.jpg
 ---
 
 

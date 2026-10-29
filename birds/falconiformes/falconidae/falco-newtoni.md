@@ -147,8 +147,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/falconiformes/falconidae/falco-newtoni/1.jpg
+  page: https://www.inaturalist.org/photos/691299571
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691299571/original.jpg
+images:
+- file: images/falconiformes/falconidae/falco-newtoni/1.jpg
+  page: https://www.inaturalist.org/photos/691299571
+  author: Justin Philbois
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/691299571/original.jpg
+- file: images/falconiformes/falconidae/falco-newtoni/2.jpg
+  page: https://www.inaturalist.org/photos/472907591
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472907591/original.jpeg
+- file: images/falconiformes/falconidae/falco-newtoni/3.jpg
+  page: https://www.inaturalist.org/photos/537544112
+  author: David Weisenbeck
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/537544112/original.jpg
+- file: images/falconiformes/falconidae/falco-newtoni/4.jpg
+  page: https://www.inaturalist.org/photos/564655218
+  author: amantedarmanin
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/564655218/original.jpg
+- file: images/falconiformes/falconidae/falco-newtoni/5.jpg
+  page: https://www.inaturalist.org/photos/472907592
+  author: Matteo Bellucci
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/472907592/original.jpeg
 ---
 
 

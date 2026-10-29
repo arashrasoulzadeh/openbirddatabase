@@ -134,8 +134,47 @@ sources:
 - AVONET (Tobias et al. 2022)
 - GBIF occurrence records (countries)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/dicaeidae/dicaeum-retrocinctum/1.jpg
+  page: https://www.inaturalist.org/photos/176655249
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655249/original.jpg
+images:
+- file: images/passeriformes/dicaeidae/dicaeum-retrocinctum/1.jpg
+  page: https://www.inaturalist.org/photos/176655249
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655249/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-retrocinctum/2.jpg
+  page: https://www.inaturalist.org/photos/176655251
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655251/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-retrocinctum/3.jpg
+  page: https://www.inaturalist.org/photos/176655047
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655047/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-retrocinctum/4.jpg
+  page: https://www.inaturalist.org/photos/176655095
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655095/original.jpg
+- file: images/passeriformes/dicaeidae/dicaeum-retrocinctum/5.jpg
+  page: https://www.inaturalist.org/photos/176655103
+  author: Forest Botial-Jarvis
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/176655103/original.jpg
 ---
 
 

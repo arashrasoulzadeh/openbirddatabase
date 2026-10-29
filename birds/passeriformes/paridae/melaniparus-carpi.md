@@ -154,8 +154,41 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/paridae/melaniparus-carpi/1.jpg
+  page: https://www.inaturalist.org/photos/339725983
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339725983/original.jpeg
+images:
+- file: images/passeriformes/paridae/melaniparus-carpi/1.jpg
+  page: https://www.inaturalist.org/photos/339725983
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/339725983/original.jpeg
+- file: images/passeriformes/paridae/melaniparus-carpi/2.jpg
+  page: https://www.inaturalist.org/photos/527815624
+  author: Tom Field
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/527815624/original.jpg
+- file: images/passeriformes/paridae/melaniparus-carpi/3.jpg
+  page: https://www.inaturalist.org/photos/224898438
+  author: keesgroenendijk
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/224898438/original.jpg
+- file: images/passeriformes/paridae/melaniparus-carpi/4.jpg
+  page: https://www.inaturalist.org/photos/350979848
+  author: scaup
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/350979848/original.jpeg
 ---
 
 

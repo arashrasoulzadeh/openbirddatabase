@@ -161,8 +161,47 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/procellariiformes/procellariidae/puffinus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/707486546
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707486546/original.jpg
+images:
+- file: images/procellariiformes/procellariidae/puffinus-elegans/1.jpg
+  page: https://www.inaturalist.org/photos/707486546
+  author: Oscar Dove
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/707486546/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-elegans/2.jpg
+  page: https://www.inaturalist.org/photos/471342341
+  author: Justin Ponder
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/471342341/original.jpeg
+- file: images/procellariiformes/procellariidae/puffinus-elegans/3.jpg
+  page: https://www.inaturalist.org/photos/500380057
+  author: Saryu Mae 前 朝琉
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/500380057/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-elegans/4.jpg
+  page: https://www.inaturalist.org/photos/358377675
+  author: Julien Renoult
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/358377675/original.jpg
+- file: images/procellariiformes/procellariidae/puffinus-elegans/5.jpg
+  page: https://www.inaturalist.org/photos/454631468
+  author: Алексей Логинов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/454631468/original.jpeg
 ---
 
 

@@ -178,10 +178,49 @@ sources:
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
 - BIRDBASE v2025.1 (Sekercioglu et al. 2025)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
 demography:
   max_longevity_years: 9
+image:
+  file: images/passeriformes/muscicapidae/luscinia-luscinia/1.jpg
+  page: https://www.inaturalist.org/photos/641957469
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641957469/original.jpg
+images:
+- file: images/passeriformes/muscicapidae/luscinia-luscinia/1.jpg
+  page: https://www.inaturalist.org/photos/641957469
+  author: SIA
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/641957469/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-luscinia/2.jpg
+  page: https://www.inaturalist.org/photos/652696865
+  author: Константин Селивёрстов
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652696865/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-luscinia/3.jpg
+  page: https://www.inaturalist.org/photos/657661109
+  author: Sofia Voynovskaya
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/657661109/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-luscinia/4.jpg
+  page: https://www.inaturalist.org/photos/655265693
+  author: Рустам Сафаргалиев
+  license: CC0-1.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/655265693/original.jpg
+- file: images/passeriformes/muscicapidae/luscinia-luscinia/5.jpg
+  page: https://www.inaturalist.org/photos/656006712
+  author: Георгий Виноградов (Georgy Vinogradov)
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/656006712/original.jpg
 ---
 
 

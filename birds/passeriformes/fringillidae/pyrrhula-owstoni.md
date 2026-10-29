@@ -135,8 +135,47 @@ sources:
 - BIRDBASE 2025
 - GBIF occurrence records (countries)
 - Xeno-canto recordings (via GBIF)
-last_updated: '2026-10-19'
+- iNaturalist photos via GBIF (CC0 / CC BY)
+last_updated: '2026-10-29'
 data_quality: High
+image:
+  file: images/passeriformes/fringillidae/pyrrhula-owstoni/1.jpg
+  page: https://www.inaturalist.org/photos/630493261
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630493261/original.jpg
+images:
+- file: images/passeriformes/fringillidae/pyrrhula-owstoni/1.jpg
+  page: https://www.inaturalist.org/photos/630493261
+  author: Licheng Shih
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/630493261/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-owstoni/2.jpg
+  page: https://www.inaturalist.org/photos/652071285
+  author: 祐
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/652071285/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-owstoni/3.jpg
+  page: https://www.inaturalist.org/photos/696221497
+  author: Nathan Ruser
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/696221497/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-owstoni/4.jpg
+  page: https://www.inaturalist.org/photos/700117872
+  author: Ben Costamagna
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/700117872/original.jpg
+- file: images/passeriformes/fringillidae/pyrrhula-owstoni/5.jpg
+  page: https://www.inaturalist.org/photos/724408298
+  author: Yu-Tang, Huang
+  license: CC-BY-4.0
+  source: iNaturalist via GBIF
+  source_url: https://inaturalist-open-data.s3.amazonaws.com/photos/724408298/original.jpg
 ---
 
 
